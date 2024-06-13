@@ -1,48 +1,45 @@
-# Cases ("Hâller").
+1. **Nominative Case (Yalın Hâl)**: This is the default case used for the subject of a sentence. It has no affix.
+   - Questions: "Who?" (Kim?), "What?" (Ne?)
+   - Examples:
+     - Çocuk parka gitti. (The child went to the park.)
+     - Kitap masanın üstünde. (The book is on the table.)
 
-## 1. Nominative Case (Yalın Hâl)
-   - This is the basic form of the noun without any suffix.
+2. **Accusative Case (Belirtme Hâli)**: This is used for the direct object of a sentence.
+   - Affix: ‑ı, ‑i, ‑u, ‑ü
+   - Questions: "Whom?" (Kimi?), "What?" (Neyi?)
+   - Examples:
+     - Elmayı yedim. (I ate the apple.)
+     - Kitabı okudum. (I read the book.)
+     - Arabayı sürdü. (He/she drove the car.)
 
-   **Examples:**
-   - Kedi evde. (The cat is at home.)
-   - Kitap masada. (The book is on the table.)
+3. **Dative Case (Yönelme Hâli)**: This is used to indicate direction or the indirect object.
+   - Affix: ‑a, ‑e
+   - Question: "To whom?" (Kime?), "To what?" (Neye?)
+   - Examples:
+     - Okula gidiyorum. (I am going to school.)
+     - Sana mektup yazdım. (I wrote a letter to you.)
+     - Eve geldim. (I came home.)
 
-## 2. Accusative Case (Belirtme Hâli)
-   - Suffixes: -(y)i, -(y)ı, -(y)u, -(y)ü
+4. **Locative Case (Bulunma Hâli)**: This is used to specify location.
+   - Affix: ‑da, ‑de
+   - Question: "Where?" (Nerede?)
+   - Examples:
+     - Odada kitaplar var. (There are books in the room.)
+     - Parkta oynuyorum. (I am playing in the park.)
+     - Denizde yüzdük. (We swam in the sea.)
 
-   **Examples:**
-   - Kediyi gördüm. (I saw the cat.)
-   - Kitabı okuyorum. (I am reading the book.)
-   - Araba aldı. (He/she got the car.) **Note: In informal speech, sometimes the suffix is dropped for common objects, but the correct form should be 'Arabayı aldı.'
+5. **Ablative Case (Çıkma Hâli)**: This is used to indicate movement away from something.
+   - Affix: ‑dan, ‑den
+   - Question: "From where?" (Nereden?)
+   - Examples:
+     - Evden çıktım. (I left the house.)
+     - Arabadan indim. (I got out of the car.)
+     - Okuldan geliyorum. (I am coming from school.)
 
-## 3. Dative Case (Yönelme Hâli)
-   - Suffixes: -e, -a
-
-   ## **Examples:**
-   - Okula gidiyorum. (I am going to school.)
-   - Eve gel. (Come to the house.)
-   - Arkadaşa mektup yazdım. (I wrote a letter to a friend.)
-
-## 4. Locative Case (Bulunma Hâli)
-   - Suffixes: -de, -da
-
-   **Examples:**
-   - Ofiste çalışıyorum. (I am working in the office.)
-   - Parkta yürüdük. (We walked in the park.)
-   - Kitapçıda buluştuk. (We met at the bookstore.)
-
-## 5. Ablative Case (Çıkma Hâli)
-   - Suffixes: -den, -dan
-
-   **Examples:**
-   - Okuldan geldim. (I came from school.)
-   - Sinemadan çıktık. (We came out of the cinema.)
-   - Mağazadan alışveriş yapıyorum. (I am shopping from the store.)
-
-## 6. Genitive Case (İyelik Hâli)
-   - Suffixes: -(n)in, -(n)ın, -(n)un, -(n)ün
-
-   **Examples:**
-   - Kedinin maması. (The cat's food.)
-   - Kitabın yazarı. (The author of the book.)
-   - Arabanın rengi. (The color of the car.)
+6. **Genitive Case (İyelik Hâli)**: This is used to show possession.
+   - Affix: ‑ın, ‑in, ‑un, ‑ün
+   - Question: "Whose?" (Kimin?)
+   - Examples:
+     - Ahmet'in arabası güzel. (Ahmet's car is nice.)
+     - Kadının çantası kaybolmuş. (The woman's bag is lost.)
+     - Çocuğun oyuncağı bozuk. (The child's toy is broken.)
