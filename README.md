@@ -1,8 +1,8 @@
 1. **Nominative Case (Yalın Hâl)**: This is the default case used for the subject of a sentence. It has no affix.
    - Questions: "Who?" (Kim?), "What?" (Ne?)
    - Examples:
-     - Çocuk parka gitti. (The child went to the park.)
-     - Kitap masanın üstünde. (The book is on the table.)
+     - **Çocuk** parka gitti. (The child went to the park.)
+     - **Kitap** masanın üstünde. (The book is on the table.)
 
 2. **Accusative Case (Belirtme Hâli)**: This is used for the direct object of a sentence.
    - Affix: ‑ı, ‑i, ‑u, ‑ü
