@@ -1,4 +1,4 @@
-# Cases
+# Cases ("Hâller").
 
 ## 1. Nominative Case (Yalın Hâl)
    - This is the basic form of the noun without any suffix.
