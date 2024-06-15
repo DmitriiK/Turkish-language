@@ -37,15 +37,20 @@
      - Okuldan geliyorum. (I am coming from school.)
 
 6. **Genitive Case (İyelik Hâli)**: This is used to show possession.
-   - Affix: ‑ın, ‑in, ‑un, ‑ün
+   - Affix: ‑(n)ın, ‑(n)in, ‑(n)un, ‑(n)ün
    - Question: "Whose?" (Kimin?)
    - Examples:
      - Ahmet'in arabası güzel. (Ahmet's car is nice.)
      - Kadının çantası kaybolmuş. (The woman's bag is lost.)
      - Çocuğun oyuncağı bozuk. (The child's toy is broken.)
+     - Evin kapısı
+     ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/713b833d-8840-437f-b7c3-bbdd4361a716)
+     ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/cc5f06a1-488c-461a-989f-57fab62a830b)
+
+
     
    ---
-   *Аффиксы принадлежности
+   # Аффиксы принадлежности
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/7b88c7f7-b911-4a11-9406-7538bdf403e4)
 
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/8ac5480e-0f6d-4811-8616-0aaaf20bb126)
