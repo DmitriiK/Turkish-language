@@ -43,3 +43,7 @@
      - Ahmet'in arabası güzel. (Ahmet's car is nice.)
      - Kadının çantası kaybolmuş. (The woman's bag is lost.)
      - Çocuğun oyuncağı bozuk. (The child's toy is broken.)
+    
+   ---
+![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/7b88c7f7-b911-4a11-9406-7538bdf403e4)
+
