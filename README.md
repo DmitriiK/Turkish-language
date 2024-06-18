@@ -38,12 +38,13 @@
 
 6. **Genitive Case (İyelik Hâli)**: This is used to show possession.
    - Affix: ‑(n)ın, ‑(n)in, ‑(n)un, ‑(n)ün
-   - Question: "Whose?" (Kimin?)
+   - Question: "Whose?" (Kimin?), Neyin
    - Examples:
      - Ahmet'in arabası güzel. (Ahmet's car is nice.)
      - Kadının çantası kaybolmuş. (The woman's bag is lost.)
      - Çocuğun oyuncağı bozuk. (The child's toy is broken.)
      - Evin kapısı
+     - Suyun üzeri (Water surface, (exception case)
      ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/713b833d-8840-437f-b7c3-bbdd4361a716)
      ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/cc5f06a1-488c-461a-989f-57fab62a830b)
 
@@ -56,3 +57,7 @@
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/8ac5480e-0f6d-4811-8616-0aaaf20bb126)
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/71b6d099-e0cc-46c7-8345-564e76c9a153)
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/1273888d-fbe6-4419-a92a-f41fd7e6abed)
+## Изафетные цепочки
+Name of friend of brother of Ailin is.
+![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/c4c69ac0-ed03-4212-ad6b-518e8864d270)
+
