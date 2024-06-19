@@ -101,6 +101,12 @@ Name of friend of brother of Ailin is.
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/1b369c8b-8623-45b9-9531-49d4e03b3db8)
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/a67ffefe-ba08-4078-93c7-9a569aa223fc)
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/b589d120-84a1-4770-bfc8-60ebc54e7fb1)
+Examples:
+- Film seyretmeden önce bilet alıyorum. — Перед тем, как посмотреть фильм, я покупаю билет. 
+-  Duş yaptıktan sonra giyiniyor. — Приняв душ (после того, как он/она принимает душ), он/она одевается. 
+-  Sınava girdikten sonra parti yapıyoruz. — Сдав экзамен (после того, как мы сдаем экзамен), устраиваем вечеринку. 
+-  Sen uyumadan önce kitap okuyor musun? — Ты до того, как уснуть, читаешь книгу?
+- İşim bittikten sonra eve gidiyorum. — После того, как моя работа заканчивается, я иду домой.
 
 
 
