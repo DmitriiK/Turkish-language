@@ -48,9 +48,29 @@
      ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/713b833d-8840-437f-b7c3-bbdd4361a716)
      ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/cc5f06a1-488c-461a-989f-57fab62a830b)
 
+7. **Падеж средства Vasıta Hâli** (~ Творительный)
+- Affix:  ile, (y)la, (y)le
+- Question: - with what? with whom
+- Examples:
+     - Sen kaşık ile yiyorsun = Sen kaşıkla yiyorsun
+     - Ben kalem ile yaziyorum = Ben kalemle yaziyorum
+     - O araba ile geliyour = O arabayla geliyor
+     - Ben seninle evleniyourum
+- Personal pronouns: benimle, senimle, onunla, bizimle, sizinle, onlarla
+- Note: ile = "and", like "annem ile babam bugün okula geliyorlar"
 
-    
-   ---
+8. **Eşitlik  Hâli** Эквативный падеж
+- Affix: ca, ce, ça, çe
+- Questions: Kimce, Nasil, Nece (По чьему мнению, Каким образом, На каком языке)
+- Examples:
+     - Cin ->Cince
+     - Turk -> Turkçe
+     - ailece - with all family
+     - erkek-erkekçe
+     - saatlerce - for many hours
+     - sessizce - silently
+ 
+  
    # Аффиксы принадлежности
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/7b88c7f7-b911-4a11-9406-7538bdf403e4)
 
@@ -60,4 +80,27 @@
 ## Изафетные цепочки
 Name of friend of brother of Ailin is.
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/c4c69ac0-ed03-4212-ad6b-518e8864d270)
+## Одноаффиксный изафет.
+Первое слово - как класс предметов, на русском - прилагательное
+![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/b9e889a5-461d-4d30-b4fa-6a6685ab8afc)
+![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/7949861c-d017-4071-9203-19849e863f37)
+# Безафиксный изафет
+![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/c1ad9435-77c2-4235-829a-5ca485f66105)
+![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/45610d86-5858-44f1-a1e1-01a954cc1a0c)
+# Изафеты с местоимениями принадлежности
+![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/ee1c7285-7b2d-4f99-8162-b19f195d6642)
+# Сочетания с падежными аффиксами
+![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/a54b045b-d002-458a-aa9a-a96e7cbfa356)
+
+ # Послелоги göre, kadar, önce, sonra в турецком языке. Турецкий язык с нуля
+![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/866c129e-72e9-43b1-90e4-3b4da7770e9d)
+
+
+
+
+
+
+
+
+
 
