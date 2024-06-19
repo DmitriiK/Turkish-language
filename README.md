@@ -92,8 +92,20 @@ Name of friend of brother of Ailin is.
 # Сочетания с падежными аффиксами
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/a54b045b-d002-458a-aa9a-a96e7cbfa356)
 
- # Послелоги göre, kadar, önce, sonra в турецком языке. Турецкий язык с нуля
+ # [Послелоги göre, kadar, önce, sonra в турецком языке. Турецкий язык с нуля](https://www.youtube.com/watch?v=8zJYv1ynTS0&list=PLssRXZAfmWU510niYlySaZnOLHwj2jTUP&index=27)
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/866c129e-72e9-43b1-90e4-3b4da7770e9d)
+![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/25f33798-0832-450e-a71d-ec2e325f55b0)
+![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/537fd13f-c034-4af3-b835-0e905aa5ba91)
+
+# [Урок 27. Конструкции -dıktan sonra и -madan önce. Турецкий язык с нуля.](https://www.youtube.com/watch?v=iPzPYCCPBIw&list=PLssRXZAfmWU510niYlySaZnOLHwj2jTUP&index=28)
+![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/1b369c8b-8623-45b9-9531-49d4e03b3db8)
+![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/a67ffefe-ba08-4078-93c7-9a569aa223fc)
+![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/b589d120-84a1-4770-bfc8-60ebc54e7fb1)
+
+
+
+
+
 
 
 
