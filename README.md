@@ -109,6 +109,17 @@ Examples:
 - İşim bittikten sonra eve gidiyorum. — После того, как моя работа заканчивается, я иду домой.
 
 
+[Урок 28. Который час? Saat kaç? Время. Турецкий язык с нуля](https://www.youtube.com/watch?v=2stUqe2W6v4&list=PLssRXZAfmWU510niYlySaZnOLHwj2jTUP&index=29)
+   ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/4fb2ac00-741f-4874-9475-97cee5384140)
+   - 13:30 : Saat bir buçuk
+   - 07:30 : Sabah Saat yedi bucuk
+   -  Ders yarım saat sonra baslıor : Lesson begins in half an - hour
+
+![Uploading image.png…]()
+
+
+
+
 
 
 
