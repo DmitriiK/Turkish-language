@@ -2,7 +2,9 @@
 - [Possessive pronouns (aффиксы принадлежности)](#possessive-pronouns)
 - [Изафеты](#isafetes)
 - [Dıktan sonra and madan önce](#dıktan-sonra-and-madan-önce)
-- 
+- [Time](#time)
+
+
 # Cases
 1. **Nominative Case (Yalın Hâl)**: This is the default case used for the subject of a sentence. It has no affix.
    - Questions: "Who?" (Kim?), "What?" (Ne?)
@@ -73,7 +75,7 @@
      - erkek-erkekçe
      - saatlerce - for many hours
      - sessizce - silently
- 
+ ___
   
    # Possessive pronouns
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/7b88c7f7-b911-4a11-9406-7538bdf403e4)
@@ -81,7 +83,7 @@
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/8ac5480e-0f6d-4811-8616-0aaaf20bb126)
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/71b6d099-e0cc-46c7-8345-564e76c9a153)
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/1273888d-fbe6-4419-a92a-f41fd7e6abed)
-
+---
 # Isafetes
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/713b833d-8840-437f-b7c3-bbdd4361a716)
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/cc5f06a1-488c-461a-989f-57fab62a830b)
@@ -93,19 +95,19 @@ Name of friend of brother of Ailin is.
 Первое слово - как класс предметов, на русском - прилагательное
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/b9e889a5-461d-4d30-b4fa-6a6685ab8afc)
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/7949861c-d017-4071-9203-19849e863f37)
-# Безафиксный изафет
+## Безафиксный изафет
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/c1ad9435-77c2-4235-829a-5ca485f66105)
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/45610d86-5858-44f1-a1e1-01a954cc1a0c)
-# Изафеты с местоимениями принадлежности
+## Изафеты с местоимениями принадлежности
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/ee1c7285-7b2d-4f99-8162-b19f195d6642)
-# Сочетания с падежными аффиксами
+## Сочетания с падежными аффиксами
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/a54b045b-d002-458a-aa9a-a96e7cbfa356)
-
- # [Послелоги göre, kadar, önce, sonra в турецком языке. Турецкий язык с нуля](https://www.youtube.com/watch?v=8zJYv1ynTS0&list=PLssRXZAfmWU510niYlySaZnOLHwj2jTUP&index=27)
+---
+# [Послелоги göre, kadar, önce, sonra в турецком языке. Турецкий язык с нуля](https://www.youtube.com/watch?v=8zJYv1ynTS0&list=PLssRXZAfmWU510niYlySaZnOLHwj2jTUP&index=27)
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/866c129e-72e9-43b1-90e4-3b4da7770e9d)
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/25f33798-0832-450e-a71d-ec2e325f55b0)
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/537fd13f-c034-4af3-b835-0e905aa5ba91)
-
+___
 # dıktan sonra and madan önce 
 [Урок 27. Конструкции -dıktan sonra и -madan önce. Турецкий язык с нуля.](https://www.youtube.com/watch?v=iPzPYCCPBIw&list=PLssRXZAfmWU510niYlySaZnOLHwj2jTUP&index=28)
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/1b369c8b-8623-45b9-9531-49d4e03b3db8)
@@ -117,8 +119,8 @@ Examples:
 -  Sınava girdikten sonra parti yapıyoruz. — Сдав экзамен (после того, как мы сдаем экзамен), устраиваем вечеринку. 
 -  Sen uyumadan önce kitap okuyor musun? — Ты до того, как уснуть, читаешь книгу?
 - İşim bittikten sonra eve gidiyorum. — После того, как моя работа заканчивается, я иду домой.
-
-
+___
+# Time
 [Урок 28. Который час? Saat kaç? Время. Турецкий язык с нуля](https://www.youtube.com/watch?v=2stUqe2W6v4&list=PLssRXZAfmWU510niYlySaZnOLHwj2jTUP&index=29)
    ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/4fb2ac00-741f-4874-9475-97cee5384140)
    - 13:30 : Saat bir buçuk
@@ -127,9 +129,21 @@ Examples:
 
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/3b7adef5-0e47-4753-8744-cd9923598a4b)
 
-- 07:05 saat yedıye beş geçıyour
-- 08:10 saat sekizi on geçıyour
-- 09:10 saat dokuzu çeyrek
+- geçıyour saat [hours]+(Y)A<sup>4</sup> [minutes] geçıyour
+   - 07:05 saat yedıye beş geçıyour
+   - 08:10 saat sekizi on geçıyour
+   - 09:10 saat dokuzu çeyrek geçıyour
+   - 16:25 saat dordu yirmi beş eçıyour
+- var : saat [hours]+(Y)A<sup>2</sup> [minutes] var. Dative Case (Yönelme Hâli)
+     - 10:50 saat on ikiye on var
+     - 15:45 saat dörde ceyrek var
+     - 9:50 saat ona yirmi beş var
+- at what time? Locative Case (Bulunma Hâli)
+  - at 11:30 : on bir buçuk<ins>ta</ins>
+  geçiyour ->geçe; var -> kala
+![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/ac8f0cdf-fa9f-44ac-9f5e-2a24090e038a)
+
+  
 
 
 
