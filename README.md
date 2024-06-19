@@ -3,6 +3,7 @@
 - [Изафеты](#isafetes)
 - [Dıktan sonra and madan önce](#dıktan-sonra-and-madan-önce)
 - [Time](#time)
+- [görülen/belirmi geçmiş zaman ( Past tense)](geçmiş-zaman)
 
 
 # Cases
@@ -142,6 +143,26 @@ ___
   - at 11:30 : on bir buçuk<ins>ta</ins>
   geçiyour ->geçe; var -> kala
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/ac8f0cdf-fa9f-44ac-9f5e-2a24090e038a)
+
+
+# geçmiş zaman
+[Урок 29. Прошедшее время на -dı. Часть 1. Турецкий с нуля](https://www.youtube.com/watch?v=2stUqe2W6v4&list=PLssRXZAfmWU510niYlySaZnOLHwj2jTUP&index=29 )
+Прошедшее категорическое время
+-d<sup>2</sup>ı<sup>4</sup>
+![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/c91275be-bdf0-47ca-a56a-49f9327500be)
+![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/b7a0c6d7-9591-46ac-a95a-30a555cba290)
+- Sen balık tuttun Ты ловил рыбу
+- dun eve gitmeden önce alışveriş yaptık. Вчера перед приходом домой мы шопились
+- kahvaltı yaptıktan sonra işe gitti. after having breakfast, he went to work
+![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/8db2fc0e-900d-472b-97a3-7637b13da72a)
+![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/a4200fb1-9784-4ad5-982b-b907ea1aacde)
+- ben dün okula gitmedim. ben dün okula gitmedim
+- siz geçen yaz tatıl yapmadınız. you didn't take a vacation last summer
+- Onlar geçen sene hiç çalışmadılar. They didn't work at all last year
+![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/2b6fc0c3-1c3e-470d-8821-e99c72d55b9b)
+![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/f4f0b135-ef62-4ff9-873b-30b34e534283)
+- O bizi davet ettim mi? Did he invite us?
+- Siz yoruldunuz mu? Are you tired? Evet. Bız yorulduk. Hayır. Bız yorulmadık.
 
   
 
