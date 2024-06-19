@@ -1,3 +1,7 @@
+- [Cases](#cases)
+- [Аффиксы принадлежности](аффиксы-принадлежности)
+
+# Cases
 1. **Nominative Case (Yalın Hâl)**: This is the default case used for the subject of a sentence. It has no affix.
    - Questions: "Who?" (Kim?), "What?" (Ne?)
    - Examples:
@@ -115,8 +119,11 @@ Examples:
    - 07:30 : Sabah Saat yedi bucuk
    -  Ders yarım saat sonra baslıor : Lesson begins in half an - hour
 
-![Uploading image.png…]()
-- saat edı beş geçıyour
+![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/3b7adef5-0e47-4753-8744-cd9923598a4b)
+
+- 07:05 saat yedıye beş geçıyour
+- 08:10 saat sekizi on geçıyour
+- 09:10 saat dokuzu çeyrek
 
 
 
