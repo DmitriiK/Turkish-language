@@ -116,6 +116,8 @@ Examples:
    -  Ders yarım saat sonra baslıor : Lesson begins in half an - hour
 
 ![Uploading image.png…]()
+- saat edı beş geçıyour
+
 
 
 
