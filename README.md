@@ -163,6 +163,17 @@ ___
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/f4f0b135-ef62-4ff9-873b-30b34e534283)
 - O bizi davet ettim mi? Did he invite us?
 - Siz yoruldunuz mu? Are you tired? Evet. Bız yorulduk. Hayır. Bız yorulmadık.
+![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/fed47e85-1221-446b-a4c0-6165bf0f06a2)
+![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/3568d185-960a-494c-bd09-a957b2614e97)
+![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/1aae2fbd-e004-4057-92ec-cfddf662e42f)
+![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/0d63c9ab-a236-4059-a9ce-61031245fe65)
+![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/5a849515-19b5-4ed1-bfdf-4c55b1ebe7d7)
+- Dün çok yorgundum. I was very tired yesteday.
+- çorbam sıcaktı. My soup was hot
+- Sen hiç mutlu değildım. You was never happy
+- Senin annem doctor muydu? Were your mather a doctor?
+- Siz hafta sony evde miydiniz? Were you at home on weekend?
+- 
 
   
 
