@@ -1,5 +1,5 @@
 - [Cases](#cases)
-- [Аффиксы принадлежности](аффиксы-принадлежности)
+- [Possessive pronouns (aффиксы принадлежности)](#possessive-pronouns)
 
 # Cases
 1. **Nominative Case (Yalın Hâl)**: This is the default case used for the subject of a sentence. It has no affix.
@@ -75,7 +75,7 @@
      - sessizce - silently
  
   
-   # Аффиксы принадлежности
+   # Possessive pronouns
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/7b88c7f7-b911-4a11-9406-7538bdf403e4)
 
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/8ac5480e-0f6d-4811-8616-0aaaf20bb126)
