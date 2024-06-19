@@ -1,6 +1,8 @@
 - [Cases](#cases)
 - [Possessive pronouns (aффиксы принадлежности)](#possessive-pronouns)
-
+- [Изафеты](#isafetes)
+- [Dıktan sonra and madan önce](#dıktan-sonra-and-madan-önce)
+- 
 # Cases
 1. **Nominative Case (Yalın Hâl)**: This is the default case used for the subject of a sentence. It has no affix.
    - Questions: "Who?" (Kim?), "What?" (Ne?)
@@ -49,9 +51,7 @@
      - Çocuğun oyuncağı bozuk. (The child's toy is broken.)
      - Evin kapısı
      - Suyun üzeri (Water surface, (exception case)
-     ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/713b833d-8840-437f-b7c3-bbdd4361a716)
-     ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/cc5f06a1-488c-461a-989f-57fab62a830b)
-
+   
 7. **Падеж средства Vasıta Hâli** (~ Творительный)
 - Affix:  ile, (y)la, (y)le
 - Question: - with what? with whom
@@ -81,6 +81,11 @@
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/8ac5480e-0f6d-4811-8616-0aaaf20bb126)
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/71b6d099-e0cc-46c7-8345-564e76c9a153)
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/1273888d-fbe6-4419-a92a-f41fd7e6abed)
+
+# Isafetes
+![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/713b833d-8840-437f-b7c3-bbdd4361a716)
+![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/cc5f06a1-488c-461a-989f-57fab62a830b)
+
 ## Изафетные цепочки
 Name of friend of brother of Ailin is.
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/c4c69ac0-ed03-4212-ad6b-518e8864d270)
@@ -101,7 +106,8 @@ Name of friend of brother of Ailin is.
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/25f33798-0832-450e-a71d-ec2e325f55b0)
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/537fd13f-c034-4af3-b835-0e905aa5ba91)
 
-# [Урок 27. Конструкции -dıktan sonra и -madan önce. Турецкий язык с нуля.](https://www.youtube.com/watch?v=iPzPYCCPBIw&list=PLssRXZAfmWU510niYlySaZnOLHwj2jTUP&index=28)
+# dıktan sonra and madan önce 
+[Урок 27. Конструкции -dıktan sonra и -madan önce. Турецкий язык с нуля.](https://www.youtube.com/watch?v=iPzPYCCPBIw&list=PLssRXZAfmWU510niYlySaZnOLHwj2jTUP&index=28)
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/1b369c8b-8623-45b9-9531-49d4e03b3db8)
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/a67ffefe-ba08-4078-93c7-9a569aa223fc)
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/b589d120-84a1-4770-bfc8-60ebc54e7fb1)
