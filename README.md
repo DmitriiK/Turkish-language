@@ -1,4 +1,5 @@
 - [Links](#links)
+- [ Şimdiki zaman](Şimdiki-zaman)
 - [Cases](#cases)
 - [Possessive pronouns (aффиксы принадлежности)](#possessive-pronouns)
 - [Изафеты](#isafetes)
@@ -10,6 +11,10 @@
 # Links
 [Турецкий язык с нуля, от Елены Крупновой, "SEVE SEVE TÜRKÇE Турецкий в радость"](https://www.youtube.com/playlist?list=PLssRXZAfmWU510niYlySaZnOLHwj2jTUP)
 ---
+# Şimdiki zaman 
+![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/ec260874-e9b9-4958-8a50-ff7dd29cb958)
+![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/bc68e389-b186-4d59-a320-a71709b12f91)
+
 # Cases
 1. **Nominative Case (Yalın Hâl)**: This is the default case used for the subject of a sentence. It has no affix.
    - Questions: "Who?" (Kim?), "What?" (Ne?)
@@ -36,10 +41,12 @@
 4. **Locative Case (Bulunma Hâli)**: This is used to specify location.
    - Affix: ‑da, ‑de
    - Question: "Where?" (Nerede?)
+   - Notes: In the third person singular and plural, put the conjunctive letter 'n', -kıtabı_n_da 
    - Examples:
      - Odada kitaplar var. (There are books in the room.)
      - Parkta oynuyorum. (I am playing in the park.)
      - Denizde yüzdük. (We swam in the sea.)
+     - Onun kıtabında çok ilginç bilgiler var.
 
 5. **Ablative Case (Çıkma Hâli)**: This is used to indicate movement away from something.
    - Affix: ‑dan, ‑den
