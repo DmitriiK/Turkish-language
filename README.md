@@ -5,7 +5,7 @@
 - [Dıktan sonra and madan önce](#dıktan-sonra-and-madan-önce)
 - [Time](#time)
 - [görülen/belirmi geçmiş zaman ( Past tense)](geçmiş-zaman)
-- [Gelecek zaman (future tense](Gelecek-zaman)
+- [Gelecek zaman (future tense)](Gelecek-zaman)
 ---
 # Links
 [Турецкий язык с нуля, от Елены Крупновой, "SEVE SEVE TÜRKÇE Турецкий в радость"](https://www.youtube.com/playlist?list=PLssRXZAfmWU510niYlySaZnOLHwj2jTUP)
