@@ -1,11 +1,15 @@
+- [Links](#links)
 - [Cases](#cases)
 - [Possessive pronouns (aффиксы принадлежности)](#possessive-pronouns)
 - [Изафеты](#isafetes)
 - [Dıktan sonra and madan önce](#dıktan-sonra-and-madan-önce)
 - [Time](#time)
 - [görülen/belirmi geçmiş zaman ( Past tense)](geçmiş-zaman)
-
-
+- [Gelecek zaman (future tense](Gelecek-zaman)
+---
+# Links
+[Турецкий язык с нуля, от Елены Крупновой, "SEVE SEVE TÜRKÇE Турецкий в радость"](https://www.youtube.com/playlist?list=PLssRXZAfmWU510niYlySaZnOLHwj2jTUP)
+---
 # Cases
 1. **Nominative Case (Yalın Hâl)**: This is the default case used for the subject of a sentence. It has no affix.
    - Questions: "Who?" (Kim?), "What?" (Ne?)
@@ -173,7 +177,25 @@ ___
 - Sen hiç mutlu değildım. You was never happy
 - Senin annem doctor muydu? Were your mather a doctor?
 - Siz hafta sony evde miydiniz? Were you at home on weekend?
-- 
+
+# Gelecek zaman
+[Урок 31 Будущее время турецкого языка. Турецкий с нуля](https://www.youtube.com/watch?v=2stUqe2W6v4&list=PLssRXZAfmWU510niYlySaZnOLHwj2jTUP&index=29 )
+![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/d252f03d-5574-4aec-891e-912988cc5247)
+![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/4927af5f-4567-482b-aecb-014dff680a85)
+![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/0c71e852-687e-4b9c-8bfd-187c83e8fc2e)
+![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/8210b9aa-d088-4263-9834-fce8fcb69a22)
+![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/4460852c-16a6-408a-848b-79ad209cf505)
+- Gelecek yıl yenı araba alacağım. Next year I'll buy a new car.
+- Yarın bıraz  geç kalacaklar. They'll be a little late tomorrow
+- Sız iki yıl sonra üniversiteden mezun olacaksınız. You will graduate from university in two years
+  ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/78452f68-0692-4b88-8af1-be26c88ce188)
+- Ben sizinle tatile çıkmayacağım. I'm not going on vacation with you
+artık konuşmayacağız, yapacağız. we won't talk anymore, we'll do
+- Biz dışarıda beklemeyeceğiz. We will not wait outside
+- ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/f58aa6eb-0d35-4e61-aeb4-f843900f29d0)
+- Sen bana yardim edecek misin? Will you help me? Evet, ben sana yardım edeceğim. Hayır, ben sata yardım etmeyeceğim
+- Siz alışveriş yapacak mısınız? Will you go shoppoing. 
+
 
   
 
