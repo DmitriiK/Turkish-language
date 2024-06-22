@@ -10,6 +10,7 @@
 - [Dan beri; DIr (For. Since; For)](#Dan-Beri-and-DIr)
 - [ki](#ki)
 - [Comparison (Сравнения: daha, az, en)](#Comparison)
+- [Kendi (свой, самому)](#Kendi)
 ---
 # Links
 [Турецкий язык с нуля, от Елены Крупновой, "SEVE SEVE TÜRKÇE Турецкий в радость"](https://www.youtube.com/playlist?list=PLssRXZAfmWU510niYlySaZnOLHwj2jTUP)
@@ -256,16 +257,25 @@ Note: two affix izafet
 - Bu "en" iyi ev. This is the best house.
 - Fransa’nın en güzel şehri Paris’tir.
 -  O sınıfın en çalışkan öğrencisi. 
+# Kendi
+[Урок 35. Cлово kendi в турецком языке. Свой, сам, себя](https://www.youtube.com/watch?v=olL-_q_jKbM&list=PLssRXZAfmWU510niYlySaZnOLHwj2jTUP&index=36)
+- Kendi araban var ama annenle yaşıyorsun. You have your own car, but you live with your mother. (without possessive pronoun affix)
+- Kendi as "self". Ben kendim. Sen kendin. Biz kendimiz. Siz kendiniz.  Onlar kendileri.
+   - Saçlarımı **kendım** boyuyorum. I paint my hairs **myself**.
+   - Kendine iyi bak. Take care of yourself.
+   - Sevgiyı kendimizde bulduk. We found love in ourselves.
+   - Kendinizi nasıl hissediyorsunuz. How do you feel about yourself.
+   - O kendisine kahve yapıyor. He makes coffee for himself.
+   -  Bu videoda kendimizden bahsetmek istiyoruz. We want to talk about ourselves in this video.
+
+
+
+
+
 
 
 
   
-
-
-
-
-
-
 
 
 
