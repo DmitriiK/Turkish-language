@@ -11,7 +11,7 @@
 - [ki](#ki)
 - [Comparison (Сравнения: daha, az, en)](#Comparison)
 - [Kendi (свой, самому)](#Kendi)
-- [Imperatives (повелительное наклонение, Emir kipi)](Imperatives)
+- [Imperatives (повелительное наклонение, Emir kipi)](#Imperatives)
 ---
 # Links
 [Турецкий язык с нуля, от Елены Крупновой, "SEVE SEVE TÜRKÇE Турецкий в радость"](https://www.youtube.com/playlist?list=PLssRXZAfmWU510niYlySaZnOLHwj2jTUP)
