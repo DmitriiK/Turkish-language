@@ -12,7 +12,7 @@
 - [Comparison (Сравнения: daha, az, en)](#Comparison)
 - [Kendi (свой, самому)](#Kendi)
 - [Imperatives (повелительное наклонение, Emir kipi)](#Imperatives)
-- [Comparison (kadar и gibi)] (#comparison-kadar-gibi)
+- [Comparison (kadar и gibi)](#Comparison-kadar-gibi)
 ---
 # Links
 [Турецкий язык с нуля, от Елены Крупновой, "SEVE SEVE TÜRKÇE Турецкий в радость"](https://www.youtube.com/playlist?list=PLssRXZAfmWU510niYlySaZnOLHwj2jTUP)
