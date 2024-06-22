@@ -8,6 +8,7 @@
 - [görülen/belirmi geçmiş zaman ( Past tense)](#geçmiş-zaman)
 - [Gelecek zaman (future tense)](#Gelecek-zaman)
 - [Dan beri; DIr (For. Since; For)](#Dan-Beri-and-DIr)
+- [ki](#ki)
 ---
 # Links
 [Турецкий язык с нуля, от Елены Крупновой, "SEVE SEVE TÜRKÇE Турецкий в радость"](https://www.youtube.com/playlist?list=PLssRXZAfmWU510niYlySaZnOLHwj2jTUP)
@@ -215,12 +216,29 @@ artık konuşmayacağız, yapacağız. we won't talk anymore, we'll do
 - Ne zama*dar beri* uyuyorsunuz? Saat on iki*den beri* uyuyorum. How long since do you sleep? I'v been sleeping since 12.
 - Ne zama*dar beri* hastasınız? Seni son gördüğüm*den berı* hastayim. How long have you been ill. Since last seeing you I have been ill.
   ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/f75c8302-bb87-4632-96e4-99d6ff82263e)
-- Bir hafta*dır*. For a week.
+- Bir hafta*dcr*. For a week.
 - Iki yil*dır*. For 2 years
 - Dört gündur. For four days
 - Uzun bır süredır. For a long time.
 - Senı on yıldır tanışıyorum. I've known you for ten years
 - Iki saattir parkta yürüyoruz. We've been walking in the park for two hours
+---
+# ki
+[Урок 33. Союз ki и аффикс -ki в турецком языке.](https://www.youtube.com/watch?v=MnHKmpjh6UA&list=PLssRXZAfmWU510niYlySaZnOLHwj2jTUP&index=34)
+## Conjunction:
+- Ben biliyorum **ki** sen iyi bir insansın. I know **that** you are a good person.
+- Dedim **ki**, "Sana her zaman güvenebilirım".  I said **that** I can always trust you.
+- O kadar yoruldum ki! (To express emotions). I'm so tired
+- Anladım ki ondan bize fayda yok. I realized that he is of no use to us.
+- Anlatın ki anlayalım. Tell us so that we will understand.
+## Affix (makes adjective):
+- Yarinki toplantı saat 15'te. Tomorrow's meeting is at 15:00
+- Sonraki dersimiz ne zaman? When is the next lesson?
+**Note: after "gün", "dün", "bugün" ki becomes "kü"
+  - Dün**kü** ekmek hâla taze". Yesterdays bread is still fresh.
+- Pencerede**kı**" çiçek çok güzel
+- Benim arabam senin**ki** kadar hızlı değil. My car is not as fast as **yours one**. (to avoid repetition of words in comparison)
+- Ayşe'nin babası yaşlı. Benim**ki** genç.
 
 
   
