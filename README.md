@@ -12,6 +12,7 @@
 - [Comparison (Сравнения: daha, az, en)](#Comparison)
 - [Kendi (свой, самому)](#Kendi)
 - [Imperatives (повелительное наклонение, Emir kipi)](#Imperatives)
+- [Comparison (kadar и gibi)] (#comparison-kadar-gibi)
 ---
 # Links
 [Турецкий язык с нуля, от Елены Крупновой, "SEVE SEVE TÜRKÇE Турецкий в радость"](https://www.youtube.com/playlist?list=PLssRXZAfmWU510niYlySaZnOLHwj2jTUP)
@@ -285,9 +286,19 @@ Note: two affix izafet
 - Onlar bana telefon etmesınlar.  Kütüphanede konuşmak yasak. Don't let them call me.  It is forbidden to talk in the library
 - O saat kaçta seni arasın ? Ne zaman müsaitsin? What time should he call you? When are you free?
 - Siz oraya oturun/oturunuz lütfen. Orası boş. Please sit down there. It's empty there.
- 
+  ---
+ # Comparison-kadar-gibi.
+ [Урок 38. Сравнение при помощи слов kadar и gibi](https://www.youtube.com/watch?v=n-VvCfXj_Tc&list=PLssRXZAfmWU510niYlySaZnOLHwj2jTUP&index=39)
 
+ - Senin araban benim arabam kadar eski. You car is as old as mine
 
+ *Note: личные местоимения становятся притяжательными*
+-  O bizim kadar güzel. She is as beautiful as we are
+-  Ben onun kadar tembel değilim. I'm not as lazy as he is.
+-  
+  *Note: Kadar - comparison by quantity. Gibi - for emotional comparison*
+-  Sen benım gibi şarkı söylüyorsun. You sing like me
+-  Kar gibi beyaz: white as snow. Taş gibi sert: Hard as stone. Buz gibi soğuk: cold as ice.
 
 
 
