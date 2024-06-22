@@ -287,7 +287,7 @@ Note: two affix izafet
 - O saat kaçta seni arasın ? Ne zaman müsaitsin? What time should he call you? When are you free?
 - Siz oraya oturun/oturunuz lütfen. Orası boş. Please sit down there. It's empty there.
   ---
- # Comparison-kadar-gibi.
+ # Comparison kadar gibi
  [Урок 38. Сравнение при помощи слов kadar и gibi](https://www.youtube.com/watch?v=n-VvCfXj_Tc&list=PLssRXZAfmWU510niYlySaZnOLHwj2jTUP&index=39)
 
  - Senin araban benim arabam kadar eski. You car is as old as mine
