@@ -208,9 +208,9 @@ artık konuşmayacağız, yapacağız. we won't talk anymore, we'll do
 [Урок 32. Продолжительность действия. -DAn beri / - DIr. Турецкий с нуля](https://www.youtube.com/watch?v=IGUZzpESdpw&list=PLssRXZAfmWU510niYlySaZnOLHwj2jTUP&index=35)
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/1d41f06b-eadb-4e9f-aa10-d16dc1983d14)
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/3fe37460-3163-4599-94c1-6fdc6f3147ca)
-**Note: "DAn" beri is equal to "DIr" (for..) if the beginning moment is not specified:"
+**Note: "DAn" beri is equal to "DIr" (for..) if the beginning moment is not specified:"**
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/54443b07-ac8d-495e-a728-90b405cfd1ec)
-**Note: üç saat - for 3 hours, saat  üç - since 3 o'clock.
+**Note: üç saat - for 3 hours, saat  üç - since 3 o'clock.**
 - Ne zaman*dar beri* buradasınız? Saat dokuz*dan beri* buradayız.
 - Ne zama*dar beri* uyuyorsunuz? Saat on iki*den beri* uyuyorum. How long since do you sleep? I'v been sleeping since 12.
 - Ne zama*dar beri* hastasınız? Seni son gördüğüm*den berı* hastayim. How long have you been ill. Since last seeing you I have been ill.
