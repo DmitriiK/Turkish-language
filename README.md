@@ -7,7 +7,7 @@
 - [Time](#time)
 - [görülen/belirmi geçmiş zaman ( Past tense)](geçmiş-zaman)
 - [Gelecek zaman (future tense)](Gelecek-zaman)
-- [Dan beri; DIr(For. Since; For)] (Dan-Beri-and-DIr)
+- [Dan beri; DIr (For. Since; For)](Dan-Beri-and-DIr)
 ---
 # Links
 [Турецкий язык с нуля, от Елены Крупновой, "SEVE SEVE TÜRKÇE Турецкий в радость"](https://www.youtube.com/playlist?list=PLssRXZAfmWU510niYlySaZnOLHwj2jTUP)
