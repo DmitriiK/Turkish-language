@@ -9,6 +9,7 @@
 - [Gelecek zaman (future tense)](#Gelecek-zaman)
 - [Dan beri; DIr (For. Since; For)](#Dan-Beri-and-DIr)
 - [ki](#ki)
+- [Comparison (Сравнения: daha, az, en)](#Comparison)
 ---
 # Links
 [Турецкий язык с нуля, от Елены Крупновой, "SEVE SEVE TÜRKÇE Турецкий в радость"](https://www.youtube.com/playlist?list=PLssRXZAfmWU510niYlySaZnOLHwj2jTUP)
@@ -239,6 +240,23 @@ artık konuşmayacağız, yapacağız. we won't talk anymore, we'll do
 - Pencerede**kı**" çiçek çok güzel
 - Benim arabam senin**ki** kadar hızlı değil. My car is not as fast as **yours one**. (to avoid repetition of words in comparison)
 - Ayşe'nin babası yaşlı. Benim**ki** genç.
+
+# Comparison
+[Урок 34. Сравнение в турецком языке](https://www.youtube.com/watch?v=wTXpIVuUGVE&list=PLssRXZAfmWU510niYlySaZnOLHwj2jTUP&index=35)
+## Daha - more.
+Note: we are using Ablative Case, исходный падеж, dan|den|tan|ten
+- Sen ben**den daha** güzelsin. You are more beautiful than me
+- O bend**en az** çalışkandır. He is less hardworking than me
+- O bend**en daha az** çalışkandır. He is even less hardworking than me. (daha - усиление сравнения).
+- Sen bizden daha akıllısın.
+## En - most:
+Note: two affix izafet
+![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/81bd4397-762c-4c58-9295-0b2578bdb3bb)
+
+- Bu "en" iyi ev. This is the best house.
+- Fransa’nın en güzel şehri Paris’tir.
+-  O sınıfın en çalışkan öğrencisi. 
+
 
 
   
