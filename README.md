@@ -280,7 +280,12 @@ Note: two affix izafet
 - Burada sıgara içmeyiniz lütfen
 - Sana da ekmek alsın mı? Should he buy bread for you too?
 - Aşkımız bitmesin. Let's our love never end.
-
+- Arkadaşın yarın gelsin. Ben onunla görüşmek istiyorum. Let's you friend come tomorrow. I want to see him.
+- O başlasın   mı ? Sıra onda. Should he start ? It's his turn.
+- Onlar bana telefon etmesınlar.  Kütüphanede konuşmak yasak. Don't let them call me.  It is forbidden to talk in the library
+- O saat kaçta seni arasın ? Ne zaman müsaitsin? What time should he call you? When are you free?
+- Siz oraya oturun/oturunuz lütfen. Orası boş. Please sit down there. It's empty there.
+ 
 
 
 
