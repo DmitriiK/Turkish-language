@@ -11,6 +11,7 @@
 - [ki](#ki)
 - [Comparison (Сравнения: daha, az, en)](#Comparison)
 - [Kendi (свой, самому)](#Kendi)
+- [Imperatives (повелительное наклонение, Emir kipi)](Imperatives)
 ---
 # Links
 [Турецкий язык с нуля, от Елены Крупновой, "SEVE SEVE TÜRKÇE Турецкий в радость"](https://www.youtube.com/playlist?list=PLssRXZAfmWU510niYlySaZnOLHwj2jTUP)
@@ -257,6 +258,7 @@ Note: two affix izafet
 - Bu "en" iyi ev. This is the best house.
 - Fransa’nın en güzel şehri Paris’tir.
 -  O sınıfın en çalışkan öğrencisi. 
+---
 # Kendi
 [Урок 35. Cлово kendi в турецком языке. Свой, сам, себя](https://www.youtube.com/watch?v=olL-_q_jKbM&list=PLssRXZAfmWU510niYlySaZnOLHwj2jTUP&index=36)
 - Kendi araban var ama annenle yaşıyorsun. You have your own car, but you live with your mother. (without possessive pronoun affix)
@@ -267,6 +269,18 @@ Note: two affix izafet
    - Kendinizi nasıl hissediyorsunuz. How do you feel about yourself.
    - O kendisine kahve yapıyor. He makes coffee for himself.
    -  Bu videoda kendimizden bahsetmek istiyoruz. We want to talk about ourselves in this video.
+---
+# Imperatives.
+[Урок 36. Повелительное наклонение. Приказ и просьба](https://www.youtube.com/watch?v=vudqR87skI8&list=PLssRXZAfmWU510niYlySaZnOLHwj2jTUP&index=37)
+![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/99b2adda-7e52-4b01-a887-0520bd723f7f)
+- Çanta**nız**ı buraya koyun lütfen. Put your bag here, please
+- Sen git o bizde kalsın. You go, and he is staying her.
+- Sen bekleme. O beklemesin. Siz beklemeyin(yiniz). Onlar beklemesin(lar). Ты не жди. Пусть он на ждет. Вы не ждите. Пусть они не ждут.
+- Bir daha bezimle oynama*sın*. Let's they don't play with us.
+- Burada sıgara içmeyiniz lütfen
+- Sana da ekmek alsın mı? Should he buy bread for you too?
+- Aşkımız bitmesin. Let's our love never end.
+
 
 
 
