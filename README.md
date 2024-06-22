@@ -7,6 +7,7 @@
 - [Time](#time)
 - [görülen/belirmi geçmiş zaman ( Past tense)](geçmiş-zaman)
 - [Gelecek zaman (future tense)](Gelecek-zaman)
+- [Dan beri; DIr(For. Since; For)] (Dan-Beri-and-DIr)
 ---
 # Links
 [Турецкий язык с нуля, от Елены Крупновой, "SEVE SEVE TÜRKÇE Турецкий в радость"](https://www.youtube.com/playlist?list=PLssRXZAfmWU510niYlySaZnOLHwj2jTUP)
@@ -201,7 +202,25 @@ artık konuşmayacağız, yapacağız. we won't talk anymore, we'll do
 - Biz dışarıda beklemeyeceğiz. We will not wait outside
 - ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/f58aa6eb-0d35-4e61-aeb4-f843900f29d0)
 - Sen bana yardim edecek misin? Will you help me? Evet, ben sana yardım edeceğim. Hayır, ben sata yardım etmeyeceğim
-- Siz alışveriş yapacak mısınız? Will you go shoppoing. 
+- Siz alışveriş yapacak mısınız? Will you go shoppoing.
+
+# Dan beri and DIr
+[Урок 32. Продолжительность действия. -DAn beri / - DIr. Турецкий с нуля](https://www.youtube.com/watch?v=IGUZzpESdpw&list=PLssRXZAfmWU510niYlySaZnOLHwj2jTUP&index=35)
+![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/1d41f06b-eadb-4e9f-aa10-d16dc1983d14)
+![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/3fe37460-3163-4599-94c1-6fdc6f3147ca)
+**Note: "DAn" beri is equal to "DIr" (for..) if the beginning moment is not specified:"
+![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/54443b07-ac8d-495e-a728-90b405cfd1ec)
+**Note: üç saat - for 3 hours, saat  üç - since 3 o'clock.
+- Ne zaman*dar beri* buradasınız? Saat dokuz*dan beri* buradayız.
+- Ne zama*dar beri* uyuyorsunuz? Saat on iki*den beri* uyuyorum. How long since do you sleep? I'v been sleeping since 12.
+- Ne zama*dar beri* hastasınız? Seni son gördüğüm*den berı* hastayim. How long have you been ill. Since last seeing you I have been ill.
+  ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/f75c8302-bb87-4632-96e4-99d6ff82263e)
+- Bir hafta*dır*. For a week.
+- Iki yil*dır*. For 2 years
+- Dört gündur. For four days
+- Uzun bır süredır. For a long time.
+- Senı on yıldır tanışıyorum. I've known you for ten years
+- Iki saattir parkta yürüyoruz. We've been walking in the park for two hours
 
 
   
