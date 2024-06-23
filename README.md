@@ -1,7 +1,7 @@
 - [Links](#links)
 - [ Şimdiki zaman](#Şimdiki-zaman)
 - [Cases](#cases)
-- [Consonant harmony](Consonant-harmony)
+- [Consonant harmony](#Consonant-harmony)
 - [Bulunma Hâli, Местный падеж, Locative case](#Bulunma-Hâli)
 - [Possessive pronouns (aффиксы принадлежности)](#possessive-pronouns)
 - [Изафеты](#isafetes)
@@ -112,7 +112,13 @@
   **Note: if a suffix beginning with a consonant is added, the word remains in its modified form. e.g. terlikleri (his/her slippers)**
  ___
   # #Bulunma Hâli
+  (da|de)|(ta|te) (fıstıkçı Şahap for t)
 
+  Personal pronouns: bende, sende, onda, bizde, sizde, onlarda
+
+![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/0df85a05-1868-45fe-b083-e8f25e9abcf3)
+  - Senden kalem var mı? Evet, bende kalem var. Onun arabase var mı?
+  - Ben üniversitede  okuyorum
   ___
 # Possessive pronouns
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/7b88c7f7-b911-4a11-9406-7538bdf403e4)
