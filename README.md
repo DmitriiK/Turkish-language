@@ -139,8 +139,8 @@ ___
 - benden, senden, ondan, bizden, sizden, onlardan
 - Examples:
    - Onlardan hiç kimse pikniğe gidiyor. Никто из них не собирается на пикник.
-     - Siz bizden hoşlanıyor musunuz? Мы вам нравимся?
-     - Biz senden bahsediyoruz.Мы беседуем о тебе.
+   - Siz bizden hoşlanıyor musunuz? Мы вам нравимся?
+   - Biz senden bahsediyoruz.Мы беседуем о тебе.
 ---
 # Possessive pronouns
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/7b88c7f7-b911-4a11-9406-7538bdf403e4)
