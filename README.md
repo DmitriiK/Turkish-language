@@ -299,13 +299,14 @@ Note: we are using Ablative Case, исходный падеж, dan|den|tan|ten
 - O bend**en az** çalışkandır. He is less hardworking than me
 - O bend**en daha az** çalışkandır. He is even less hardworking than me. (daha - усиление сравнения).
 - Sen bizden daha akıllısın.
+- Benim evim senin evinden daha küçük.
 ## En - most:
 Note: two affix izafet
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/81bd4397-762c-4c58-9295-0b2578bdb3bb)
 
 - Bu "en" iyi ev. This is the best house.
 - Fransa’nın en güzel şehri Paris’tir.
--  O sınıfın en çalışkan öğrencisi. 
+- O sınıfın en çalışkan öğrencisi. 
 ---
 # Kendi
 [Урок 35. Cлово kendi в турецком языке. Свой, сам, себя](https://www.youtube.com/watch?v=olL-_q_jKbM&list=PLssRXZAfmWU510niYlySaZnOLHwj2jTUP&index=36)
