@@ -3,8 +3,8 @@
 - [Cases](#cases)
 - [Consonant harmony](#Consonant-harmony)
 - [Bulunma Hâli, Местный падеж, Locative case](#Bulunma-Hâli)
-- [Yönelme Hâli. Направительный падеж] (#Yönelme-Hâli)
-- [Ayrılma Hâli. Исходный падеж] (#Ayrılma-Hâli)
+- [Yönelme Hâli. Направительный падеж](#Yönelme-Hâli)
+- [Ayrılma Hâli. Исходный падеж](#Ayrılma-Hâli)
 - [Possessive pronouns (aффиксы принадлежности)](#possessive-pronouns)
 - [Изафеты](#isafetes)
 - [Dıktan sonra and madan önce](#dıktan-sonra-and-madan-önce)
@@ -133,6 +133,14 @@
      - Kızlar çiçeğe bakıyorlar.   Девочки смотрят на цветок.
 ___
 # Ayrılma Hâli
+[Урок 20 Ayrılma Hâli. Исходный падеж. Падежи турецкого языка. Турецкий язык с нуля](https://www.youtube.com/watch?v=_zv8ih6_xvE&list=PLssRXZAfmWU510niYlySaZnOLHwj2jTUP&index=21)
+- * (n?)((dan|den)|(tan\ten))*: Гармония на 2. "t"- после глухих согласных.
+- Похоже на родительский падеж с предлогами "от", "из", "с", "из-за", но не всегда. 
+- benden, senden, ondan, bizden, sizden, onlardan
+- Examples:
+   - Onlardan hiç kimse pikniğe gidiyor. Никто из них не собирается на пикник.
+     - Siz bizden hoşlanıyor musunuz? Мы вам нравимся?
+     - Biz senden bahsediyoruz.Мы беседуем о тебе.
 ---
 # Possessive pronouns
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/7b88c7f7-b911-4a11-9406-7538bdf403e4)
