@@ -1,6 +1,8 @@
 - [Links](#links)
-- [ Şimdiki zaman](Şimdiki-zaman)
+- [ Şimdiki zaman](#Şimdiki-zaman)
 - [Cases](#cases)
+- [Consonant harmony](Consonant-harmony)
+- [Bulunma Hâli, Местный падеж, Locative case](#Bulunma-Hâli)
 - [Possessive pronouns (aффиксы принадлежности)](#possessive-pronouns)
 - [Изафеты](#isafetes)
 - [Dıktan sonra and madan önce](#dıktan-sonra-and-madan-önce)
@@ -93,9 +95,26 @@
      - erkek-erkekçe
      - saatlerce - for many hours
      - sessizce - silently
+ 
+  # Consonant harmony
+- *fıstıkçı Şahap - f   s   t   k   ç   ş   h   p*.  If you add a suffix beginning with a "c" or a "d to a word ending in one of these hard consonants,
+  then the c changes to a ç and the d to a t.
+   - İngiliz (English [as an adjective]) –> İngilizce (English [the language])
+   - Türk (Turkish [as an adjective]) –> Türkçe (Turkish [the language])
+   - Park (park) –> Parkta (at the park)
+
+- *c -> ç, d -> t, b -> p, and ğ -> k* at the end of words. Words should not end with certain letters(c, d, b, and ğ), and so consequently words which would ordinarily end with those letters get modified. However, if you add a vowel onto the end of them, they revert to their original form.
+
+   - ağaç -> ağaca (to the tree) (when a suffix beginning with a vowel is added)
+   - Dert (problem) -> derdimiz (our problem)
+   - terlik (slipper) -> terliği (his/her slipper)
+     
+  **Note: if a suffix beginning with a consonant is added, the word remains in its modified form. e.g. terlikleri (his/her slippers)**
  ___
-  
-   # Possessive pronouns
+  # #Bulunma Hâli
+
+  ___
+# Possessive pronouns
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/7b88c7f7-b911-4a11-9406-7538bdf403e4)
 
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/8ac5480e-0f6d-4811-8616-0aaaf20bb126)
