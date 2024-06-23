@@ -3,6 +3,8 @@
 - [Cases](#cases)
 - [Consonant harmony](#Consonant-harmony)
 - [Bulunma Hâli, Местный падеж, Locative case](#Bulunma-Hâli)
+- [Yönelme Hâli. Направительный падеж] (#Yönelme-Hâli)
+- [Ayrılma Hâli. Исходный падеж] (#Ayrılma-Hâli)
 - [Possessive pronouns (aффиксы принадлежности)](#possessive-pronouns)
 - [Изафеты](#isafetes)
 - [Dıktan sonra and madan önce](#dıktan-sonra-and-madan-önce)
@@ -111,15 +113,27 @@
      
   **Note: if a suffix beginning with a consonant is added, the word remains in its modified form. e.g. terlikleri (his/her slippers)**
  ___
-  # #Bulunma Hâli
-  (da|de)|(ta|te) (fıstıkçı Şahap for t)
+  # Bulunma Hâli
+  *(da|de)|(ta|te)*  **(fıstıkçı Şahap for t)*
 
   Personal pronouns: bende, sende, onda, bizde, sizde, onlarda
 
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/0df85a05-1868-45fe-b083-e8f25e9abcf3)
   - Senden kalem var mı? Evet, bende kalem var. Onun arabase var mı?
   - Ben üniversitede  okuyorum
-  ___
+  ---
+# Yönelme Hâli
+- [Урок 19 Yönelme Hâli. Направительный падеж](https://www.youtube.com/watch?v=RWkQpMVP3ls&list=PLssRXZAfmWU510niYlySaZnOLHwj2jTUP&index=20) 
+- * (y?)(a|e)*: Гармония на 2. Если последняя буква гласная - через "y". Озвоночение согласных ( c -> ç, d -> t, b -> p, and ğ -> k)
+- Похоже на дательный падеж (ben sana inanıyorum), но не всегда (o bana kızıyor - он злится на меня).
+- bana, sana, ona, bize, size, onlara
+- Examples:
+     - Ben arkadaşıma  yardım ediyorum. Я помогаю моему другу.
+     - O şimdi işe gidiyor. Он/она сейчас идет на работу.
+     - Kızlar çiçeğe bakıyorlar.   Девочки смотрят на цветок.
+___
+# Ayrılma Hâli
+---
 # Possessive pronouns
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/7b88c7f7-b911-4a11-9406-7538bdf403e4)
 
