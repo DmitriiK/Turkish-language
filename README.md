@@ -134,7 +134,7 @@
 ___
 # Ayrılma Hâli
 [Урок 20 Ayrılma Hâli. Исходный падеж. Падежи турецкого языка. Турецкий язык с нуля](https://www.youtube.com/watch?v=_zv8ih6_xvE&list=PLssRXZAfmWU510niYlySaZnOLHwj2jTUP&index=21)
-- * (n?)((dan|den)|(tan\ten))*: Гармония на 2. "t"- после глухих согласных.
+- * (dan|den)|(tan\ten)*: Гармония на 2. "t"- после глухих согласных.
 - Похоже на родительский падеж с предлогами "от", "из", "с", "из-за", но не всегда. 
 - benden, senden, ondan, bizden, sizden, onlardan
 - Examples:
