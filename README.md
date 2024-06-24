@@ -155,7 +155,6 @@ ___
    - Biz senden bahsediyoruz.Мы беседуем о тебе.
 ---
 # Possessive pronouns
-
 | Pronoun | Vowels | Consonants |Vowels | Consonants |
 |---------|---------------------|-----------------------|--------------------|------------------------|
 | benim   | -m                  | -im/-ım/-um/-üm       | ev*im* (my house)    | araba*m* (my car)        |
@@ -163,13 +162,7 @@ ___
 | onun    | -si/-sı/-su/-sü     | -i/-ı/-u/-ü           | ev*i* (his/her house)| araba*sı* (his/her car)  |
 | bizim   | -miz/-mız/-muz/-müz | -imiz/-ımız/-umuz/-ümüz| ev*imiz* (our house) | araba*mız* (our car)     |
 | siz     | -niz/-nız/-nuz/-nüz | -iniz/-ınız/-unuz/-ünüz| ev*iniz* (your house)| araba*nız* (your car)    |
-| onlar   | -leri/-ları         | -i/-ı/-u/-ü           | evleri (their house) | araba*ları* (their car) |
-
-![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/7b88c7f7-b911-4a11-9406-7538bdf403e4)
-
-![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/8ac5480e-0f6d-4811-8616-0aaaf20bb126)
-![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/71b6d099-e0cc-46c7-8345-564e76c9a153)
-![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/1273888d-fbe6-4419-a92a-f41fd7e6abed)
+| onlar   | -leri/-ları or -si/-sı/-su/-sü |-leri/-ları or -i/-ı/-u/-ü  | evleri (their house) | araba*ları* (their car) |
 ---
 # Isafetes
 ![image](https://github.com/DmitriiK/Turkish-language/assets/20965831/713b833d-8840-437f-b7c3-bbdd4361a716)
