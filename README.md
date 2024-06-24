@@ -2,6 +2,7 @@
 - [ Şimdiki zaman](#Şimdiki-zaman)
 - [Cases](#cases)
 - [Consonant harmony](#Consonant-harmony)
+- [Belirtme Hâli (Определительный падеж, Accusative Case)](#Belirtme-Hâli)
 - [Bulunma Hâli, Местный падеж, Locative case](#Bulunma-Hâli)
 - [Yönelme Hâli. Направительный падеж](#Yönelme-Hâli)
 - [Ayrılma Hâli. Исходный падеж](#Ayrılma-Hâli)
@@ -33,12 +34,14 @@
      - **Kitap** masanın üstünde. (The book is on the table.)
 
 2. **Accusative Case (Belirtme Hâli)**: This is used for the direct object of a sentence.
-   - Affix: ‑ı, ‑i, ‑u, ‑ü
+   - Affix: (y?) (ı | i | u |‑ü)
    - Questions: "Whom?" (Kimi?), "What?" (Neyi?)
+   - Beni, Seni, Onu, Bezi, Sizi, onlary
    - Examples:
      - Elmayı yedim. (I ate the apple.)
      - Kitabı okudum. (I read the book.)
      - Arabayı sürdü. (He/she drove the car.)
+     - Biz bu soruyu birlikte çözüyoruz. (We solve this question together)
 
 3. **Dative Case (Yönelme Hâli)**: This is used to indicate direction or the indirect object.
    - Affix: ‑a, ‑e
@@ -112,6 +115,15 @@
    - terlik (slipper) -> terliği (his/her slipper)
      
   **Note: if a suffix beginning with a consonant is added, the word remains in its modified form. e.g. terlikleri (his/her slippers)**
+ ---
+ # Belirtme Hâli
+ [Урок 21. Belirtme Hâli. Определительный падеж.](https://www.youtube.com/watch?v=rPHldkFL1Ks&list=PLssRXZAfmWU510niYlySaZnOLHwj2jTUP&index=22)
+ - *(y?) (ı | i | u |‑ü)*
+ - Неоформленный определительный падеж без афикса(kalem alıyorum), аналог неопр. артикля. Оформленный, - когда указывается на конкретный инстанс класса
+      - Bu kalem**i** alıyorum
+      - Bu kalemin**i** alıyorum (С аффиксом принадлежности всегда используется
+      - Kalemler*i* alıyorum. For plural always need to use
+      - Ayşe'**ye** bekliyorum. Для имент собственных тоже  нужен всегда
  ___
   # Bulunma Hâli
   *(da|de)|(ta|te)*  **(fıstıkçı Şahap for t)*
