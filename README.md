@@ -349,6 +349,9 @@ Note: two affix izafet
 - Onlar bana telefon etmesınlar.  Kütüphanede konuşmak yasak. Don't let them call me.  It is forbidden to talk in the library
 - O saat kaçta seni arasın ? Ne zaman müsaitsin? What time should he call you? When are you free?
 - Siz oraya oturun/oturunuz lütfen. Orası boş. Please sit down there. It's empty there.
+- Sen sorun çıkarma.  Don't make troubles (Note: ma|me for negativ)
+- Sen yalan soyleme. Don't lie.
+- Siz  konuşmayın. Don't talk.
   ---
  # Comparison kadar gibi
  [Урок 38. Сравнение при помощи слов kadar и gibi](https://www.youtube.com/watch?v=n-VvCfXj_Tc&list=PLssRXZAfmWU510niYlySaZnOLHwj2jTUP&index=39)
