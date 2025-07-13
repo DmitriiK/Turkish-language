@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>İyelik Ekleri ve İzafet Grubu Alıştırması</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            margin: 0;
+            padding: 20px;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+        }
+
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+            margin-bottom: 30px;
+            font-size: 2.5em;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
+        }
+
+        .exercise-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+
+        .exercise-card {
+            border: 3px solid #3498db;
+            border-radius: 12px;
+            padding: 20px;
+            background: #f8f9fa;
+            transition: all 0.3s ease;
+            position: relative;
+        }
+
+        .exercise-card.correct {
+            border-color: #27ae60;
+            background: linear-gradient(135deg, #d4edda 0%, #c3e6cb 100%);
+            box-shadow: 0 5px 15px rgba(39, 174, 96, 0.3);
+        }
+
+        .noun-set {
+            display: flex;
+            align-items: center;
+            margin-bottom: 15px;
+            font-size: 1.2em;
+            font-weight: bold;
+        }
+
+        .noun-images {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 15px;
+        }
+
+        .noun-item {
+            text-align: center;
+            padding: 10px;
+            background: #ecf0f1;
+            border-radius: 8px;
+            flex: 1;
+        }
+
+        .noun-word {
+            font-size: 1.1em;
+            color: #2c3e50;
+            margin-top: 5px;
+        }
+
+        .input-section {
+            margin-top: 15px;
+        }
+
+        .input-label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: bold;
+            color: #34495e;
+        }
+
+        .answer-input {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #bdc3c7;
+            border-radius: 8px;
+            font-size: 1.1em;
+            transition: border-color 0.3s ease;
+        }
+
+        .answer-input:focus {
+            outline: none;
+            border-color: #3498db;
+        }
+
+        .answer-input.correct {
+            border-color: #27ae60;
+            background: #d4edda;
+        }
+
+        .correct-answer {
+            margin-top: 10px;
+            font-size: 1.2em;
+            font-weight: bold;
+            color: #27ae60;
+        }
+
+        .affix-highlight {
+            background: #fff3cd;
+            border: 2px solid #ffeaa7;
+            border-radius: 4px;
+            padding: 2px 4px;
+            margin: 0 1px;
+        }
+
+        .check-button {
+            background: #3498db;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 1em;
+            margin-top: 10px;
+            transition: background 0.3s ease;
+        }
+
+        .check-button:hover {
+            background: #2980b9;
+        }
+
+        .progress-bar {
+            width: 100%;
+            height: 20px;
+            background: #ecf0f1;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            overflow: hidden;
+        }
+
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #27ae60, #2ecc71);
+            width: 0%;
+            transition: width 0.5s ease;
+        }
+
+        .emoji {
+            font-size: 2em;
+            margin: 0 10px;
+        }
+
+        .instructions {
+            background: #e3f2fd;
+            border-left: 4px solid #2196f3;
+            padding: 15px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>İyelik Ekleri ve İzafet Grubu Alıştırması</h1>
+        
+        <div class="instructions">
+            <strong>Talimat:</strong> Aşağıdaki kelime gruplarından izafet grubu oluşturun. Doğru ekleri ekleyerek cümleyi tamamlayın.
+        </div>
+
+        <div class="progress-bar">
+            <div class="progress-fill" id="progressFill"></div>
+        </div>
+
+        <div class="exercise-grid" id="exerciseGrid">
+            <!-- Exercises will be generated here -->
+        </div>
+    </div>
+
+    <script>
+        const exercises = [
+            {
+                nouns: ['kitap', 'sayfa'],
+                emojis: ['📚', '📄'],
+                answer: 'kitabın sayfası',
+                explanation: 'kitab-ın sayfa-sı (kitabın + ı → ın, sayfa + sı)'
+            },
+            {
+                nouns: ['defter', 'kapak'],
+                emojis: ['📔', '📋'],
+                answer: 'defterin kapağı',
+                explanation: 'defter-in kapağ-ı (defter + in, kapak + ağı → kapağı)'
+            },
+            {
+                nouns: ['gül', 'koku'],
+                emojis: ['🌹', '👃'],
+                answer: 'gülün kokusu',
+                explanation: 'gül-ün koku-su (gül + ün, koku + su)'
+            },
+            {
+                nouns: ['cami', 'avlu'],
+                emojis: ['🕌', '🏛️'],
+                answer: 'caminin avlusu',
+                explanation: 'cami-nin avlu-su (cami + nin, avlu + su)'
+            },
+            {
+                nouns: ['sınıf', 'kapı'],
+                emojis: ['🏫', '🚪'],
+                answer: 'sınıfın kapısı',
+                explanation: 'sınıf-ın kapı-sı (sınıf + ın, kapı + sı)'
+            },
+            {
+                nouns: ['telefon', 'kapak'],
+                emojis: ['📱', '📋'],
+                answer: 'telefonun kapağı',
+                explanation: 'telefon-un kapağ-ı (telefon + un, kapak + ağı → kapağı)'
+            },
+            {
+                nouns: ['maç', 'hakem', 'düdük'],
+                emojis: ['⚽', '👨‍⚖️', '🔔'],
+                answer: 'maçın hakeminin düdüğü',
+                explanation: 'maç-ın hakem-i-nin düdüğ-ü (maç + ın, hakem + i + nin, düdük + ü)'
+            },
+            {
+                nouns: ['müdir', 'kalem', 'renk'],
+                emojis: ['👨‍💼', '✏️', '🎨'],
+                answer: 'müdürün kaleminin rengi',
+                explanation: 'müdür-ün kalem-i-nin reng-i (müdür + ün, kalem + i + nin, renk + i)'
+            },
+            {
+                nouns: ['masa', 'örtü', 'renk'],
+                emojis: ['🪑', '🟥', '🎨'],
+                answer: 'masanın örtüsünün rengi',
+                explanation: 'masa-nın örtü-sü-nün reng-i (masa + nın, örtü + sü + nün, renk + i)'
+            },
+            {
+                nouns: ['salon', 'perde', 'uzun'],
+                emojis: ['🏠', '🪟', '📏'],
+                answer: 'salonun perdesinin uzunluğu',
+                explanation: 'salon-un perde-si-nin uzun-luğ-u (salon + un, perde + si + nin, uzun + luğu)'
+            },
+            {
+                nouns: ['okul', 'bahçe', 'kapı'],
+                emojis: ['🏫', '🌳', '🚪'],
+                answer: 'okulun bahçesinin kapısı',
+                explanation: 'okul-un bahçe-si-nin kapı-sı (okul + un, bahçe + si + nin, kapı + sı)'
+            },
+            {
+                nouns: ['ressam', 'tablo', 'fiyat'],
+                emojis: ['👨‍🎨', '🖼️', '💰'],
+                answer: 'ressamın tablosunun fiyatı',
+                explanation: 'ressam-ın tablo-su-nun fiyat-ı (ressam + ın, tablo + su + nun, fiyat + ı)'
+            }
+        ];
+
+        let completedExercises = 0;
+
+        function normalizeText(text) {
+            return text.toLowerCase()
+                      .replace(/ğ/g, 'g')
+                      .replace(/ı/g, 'i')
+                      .replace(/ş/g, 's')
+                      .replace(/ç/g, 'c')
+                      .replace(/ö/g, 'o')
+                      .replace(/ü/g, 'u')
+                      .trim();
+        }
+
+        function highlightAffixes(text, explanation) {
+            // Extract affixes from explanation and highlight them in the text
+            let highlightedText = text;
+            
+            // Common Turkish possessive and genitive affixes
+            const affixes = ['ın', 'in', 'un', 'ün', 'nın', 'nin', 'nun', 'nün', 'sı', 'si', 'su', 'sü', 'ı', 'i', 'u', 'ü', 'ğı', 'gi', 'gu', 'gü', 'ağı', 'egi', 'ugu', 'ügü', 'luğu', 'liği', 'lugu', 'lügü'];
+            
+            affixes.forEach(affix => {
+                const regex = new RegExp(`(${affix})(?=\\s|$)`, 'gi');
+                highlightedText = highlightedText.replace(regex, '<span class="affix-highlight">$1</span>');
+            });
+            
+            return highlightedText;
+        }
+
+        function createExerciseCard(exercise, index) {
+            const card = document.createElement('div');
+            card.className = 'exercise-card';
+            card.id = `exercise-${index}`;
+
+            const nounsDisplay = exercise.nouns.map((noun, i) => 
+                `<div class="noun-item">
+                    <div class="emoji">${exercise.emojis[i]}</div>
+                    <div class="noun-word">${noun}</div>
+                </div>`
+            ).join('');
+
+            card.innerHTML = `
+                <div class="noun-images">
+                    ${nounsDisplay}
+                </div>
+                <div class="input-section">
+                    <label class="input-label">İzafet grubu oluşturun:</label>
+                    <input type="text" class="answer-input" id="input-${index}" 
+                           placeholder="Doğru ekleri ekleyerek yazın...">
+                    <button class="check-button" onclick="checkAnswer(${index})">Kontrol Et</button>
+                    <div class="correct-answer" id="answer-${index}" style="display: none;"></div>
+                </div>
+            `;
+
+            return card;
+        }
+
+        function checkAnswer(index) {
+            const input = document.getElementById(`input-${index}`);
+            const card = document.getElementById(`exercise-${index}`);
+            const answerDiv = document.getElementById(`answer-${index}`);
+            const exercise = exercises[index];
+
+            const userAnswer = normalizeText(input.value);
+            const correctAnswer = normalizeText(exercise.answer);
+
+            if (userAnswer === correctAnswer) {
+                card.classList.add('correct');
+                input.classList.add('correct');
+                input.disabled = true;
+                
+                const highlightedAnswer = highlightAffixes(exercise.answer, exercise.explanation);
+                answerDiv.innerHTML = `✅ Doğru! ${highlightedAnswer}<br><small>${exercise.explanation}</small>`;
+                answerDiv.style.display = 'block';
+
+                if (!card.dataset.completed) {
+                    completedExercises++;
+                    card.dataset.completed = 'true';
+                    updateProgress();
+                }
+            } else {
+                card.style.borderColor = '#e74c3c';
+                input.style.borderColor = '#e74c3c';
+                setTimeout(() => {
+                    card.style.borderColor = '#3498db';
+                    input.style.borderColor = '#bdc3c7';
+                }, 1000);
+            }
+        }
+
+        function updateProgress() {
+            const progressFill = document.getElementById('progressFill');
+            const percentage = (completedExercises / exercises.length) * 100;
+            progressFill.style.width = percentage + '%';
+            
+            if (completedExercises === exercises.length) {
+                setTimeout(() => {
+                    alert('Tebrikler! Tüm alıştırmaları tamamladınız! 🎉');
+                }, 500);
+            }
+        }
+
+        function initializeExercises() {
+            const grid = document.getElementById('exerciseGrid');
+            exercises.forEach((exercise, index) => {
+                const card = createExerciseCard(exercise, index);
+                grid.appendChild(card);
+            });
+        }
+
+        // Allow Enter key to check answers
+        document.addEventListener('keypress', function(e) {
+            if (e.key === 'Enter' && e.target.classList.contains('answer-input')) {
+                const inputId = e.target.id;
+                const index = inputId.split('-')[1];
+                checkAnswer(parseInt(index));
+            }
+        });
+
+        // Initialize the page
+        document.addEventListener('DOMContentLoaded', initializeExercises);
+    </script>
+</body>
+</html>
