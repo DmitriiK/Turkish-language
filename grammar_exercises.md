@@ -16,6 +16,8 @@ Practice forming Turkish possessive constructions using genitive and possessive 
 
 **Exercise:** [Turkish Possessive Constructions Exercise](./turkish-possessive-constructions-exercise.html)
 
+**Live Demo:** [Practice Online](https://dmitriik.github.io/Turkish-language/turkish-possessive-constructions-exercise.html)
+
 ---
 
 ## How to Use
