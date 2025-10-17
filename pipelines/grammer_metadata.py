@@ -1,30 +1,45 @@
 from enum import StrEnum  # type: ignore
-from typing import Literal
-from pydantic import BaseModel
+from typing import Literal, Optional
+from pydantic import BaseModel, Field
 
 
 class LanguageLevel(StrEnum):
+    """Language proficiency levels for Turkish learners."""
     A1 = "A1"
     A2 = "A2"
     B1 = "B1"
     B2 = "B2"
-    C1 = "C1"
-    C2 = "C2"
 
 
 class VerbTense(StrEnum):
+    """
+    Turkish verb tenses for conjugation patterns.
+    
+    Present tenses:
+    - şimdiki_zaman: Present Continuous (yapıyorum - I am doing)
+    
+    Past tenses:
+    - geçmiş_zaman: Simple Past (yaptım - I did)
+    
+    Future tenses:
+    - gelecek_zaman: Simple Future (yapacağım - I will do)
+    
+    Habitual:
+    - geniş_zaman: Simple Present/Habitual (yaparım - I do/make)
+    """
+    
     # Present tense forms
-    ŞimdikiZaman = "şimdiki_zaman"  # Yapıyorum - I am doing (Present Cont.)
+    ŞimdikiZaman = "şimdiki_zaman"
     
     # Past tense forms
-    GeçmişZaman = "geçmiş_zaman"    # Yaptım - I did (Simple Past)
+    GeçmişZaman = "geçmiş_zaman"
     
     # Future tense forms
-    GelecekZaman = "gelecek_zaman"  # Yapacağım - I will do (Simple Future)
-    Yaracağım = "yaracağım"         # Yapacağım - I will do (Definite Future)
+    GelecekZaman = "gelecek_zaman"
+    Yaracağım = "yaracağım"
     
     # General/habitual tense
-    GenişZaman = "geniş_zaman"      # Yaparım - I do/make (Simple Present)
+    GenişZaman = "geniş_zaman"
     
     # Modal forms
     IstekKipi = "istek_kipi"        # Yapayım - Let me do (Optative/Subj.)
@@ -178,32 +193,135 @@ class PersonalPronoun(StrEnum):
 
 
 class PersonalAffixTypeI(StrEnum):
-    """Type I Personal Affixes (Used with verbs, some adjectives)"""
-    Ben = "ım"      # -ım, -im, -um, -üm (ben yorgunum - I am tired)
-    Sen = "sın"     # -sın, -sin, -sun, -sün (sen yorgunsun - you are tired)
-    O_Third = ""    # no affix (o yorgun - he/she is tired)
-    Biz = "ız"      # -ız, -iz, -uz, -üz (biz yorgunuz - we are tired)
-    Siz = "sınız"   # -sınız, -siniz, -sunuz, -sünüz (siz yorgunsunuz)
-    Onlar = "lar"   # -lar, -ler (onlar yorgunlar - they are tired)
+    """Type I Personal Affixes (Used with verbs, some adjectives)
+    Includes all vowel harmony variants"""
+    
+    # Ben variants: -ım, -im, -um, -üm
+    Ben_im = "ım"
+    Ben_i = "im"
+    Ben_u = "um"
+    Ben_u2 = "üm"
+    
+    # Sen variants: -sın, -sin, -sun, -sün
+    Sen_a = "sın"
+    Sen_i = "sin"
+    Sen_u = "sun"
+    Sen_u2 = "sün"
+    
+    # O (Third person) - no affix
+    O_Third = ""
+    
+    # Biz variants: -ız, -iz, -uz, -üz
+    Biz_a = "ız"
+    Biz_i = "iz"
+    Biz_u = "uz"
+    Biz_u2 = "üz"
+    
+    # Siz variants: -sınız, -siniz, -sunuz, -sünüz
+    Siz_a = "sınız"
+    Siz_i = "siniz"
+    Siz_u = "sunuz"
+    Siz_u2 = "sünüz"
+    
+    # Onlar variants: -lar, -ler
+    Onlar_a = "lar"
+    Onlar_e = "ler"
 
 
 class PersonalAffixTypeII(StrEnum):
-    """Type II Personal Affixes (Possessive affixes)"""
-    Ben = "m"       # -m (evim - my house, after vowels)
-    Sen = "n"       # -n (evin - your house, after vowels)
-    O_Third = "sı"  # -sı, -si, -su, -sü, -ı, -i, -u, -ü (evi - his/her house)
-    Biz = "mız"     # -mız, -miz, -muz, -müz (evimiz - our house)
-    Siz = "nız"     # -nız, -niz, -nuz, -nüz (eviniz - your house)
-    Onlar = "ları"  # -ları, -leri (evleri - their house)
+    """Type II Personal Affixes (Possessive affixes)
+    Includes all vowel harmony variants"""
+    
+    # Ben - always "m" after vowels
+    Ben = "m"
+    
+    # Sen - always "n" after vowels
+    Sen = "n"
+    
+    # O (Third person) variants: -sı, -si, -su, -sü, -ı, -i, -u, -ü
+    O_Third_si = "sı"
+    O_Third_si2 = "si"
+    O_Third_su = "su"
+    O_Third_su2 = "sü"
+    O_Third_i = "ı"
+    O_Third_i2 = "i"
+    O_Third_u = "u"
+    O_Third_u2 = "ü"
+    
+    # Biz variants: -mız, -miz, -muz, -müz
+    Biz_a = "mız"
+    Biz_i = "miz"
+    Biz_u = "muz"
+    Biz_u2 = "müz"
+    
+    # Siz variants: -nız, -niz, -nuz, -nüz
+    Siz_a = "nız"
+    Siz_i = "niz"
+    Siz_u = "nuz"
+    Siz_u2 = "nüz"
+    
+    # Onlar variants: -ları, -leri
+    Onlar_a = "ları"
+    Onlar_e = "leri"
 
 
-class TrainingExample:
-    noun: str  # noun in turkish, initial form
-    verb_tense: VerbTense
-    personal_pronoun: PersonalPronoun
-    english_example_sentence: str
-    russian_example_sentence: str
-    turkish_example_sentence: str
-    turkish_example_sentence_with_blank: str
+class TurkishVerb(BaseModel):
+    verb_full: str = Field(
+        description="Turkish verb with all affixes applied (e.g., 'gittim', 'konuşuyorum', 'okuyorum')"
+    )
+    root: str = Field(
+        description="Verb root without any affixes (e.g., 'git', 'konuş')"
+    )
+    tense_affix: str = Field(description="Tense affix applied to the root (e.g., 'ti' for past tense)")
+    verb_tense: VerbTense = Field(description="The grammatical tense used for conjugation")
 
+    personal_pronoun: Optional[PersonalPronoun] = Field(description="Personal pronoun used with the verb (None for impersonal forms)")
+    personal_affix: Optional[str] = Field(
+        description="Personal affix applied with correct vowel harmony (e.g., 'um', 'sın', 'm', 'lar')"
+    )
+
+
+class TrainingExample(BaseModel):
+    """A training example with nested Turkish verb structure for comprehensive LLM structured output."""
+    
+    # Basic verb information
+    verb_rank: Optional[int] = Field(
+        description="Frequency rank of the verb (lower numbers = more common)"
+    )
+    verb_english: str = Field(
+        description="English infinitive verb without 'to' (e.g., 'go', 'speak')"
+    )
+    verb_russian: str = Field(
+        description="Russian infinitive verb (e.g., 'идти', 'говорить')"
+    )
+    verb_infinitive: str = Field(
+        description="Turkish infinitive verb (e.g., 'olmak', 'gitmek')"
+    )
+    
+    # Nested Turkish verb conjugation structure
+    turkish_verb: TurkishVerb = Field(
+        description="Complete Turkish verb conjugation with all grammatical components"
+    )
+    
+    # Language learning metadata
+    language_level: LanguageLevel = Field(
+        description="Target language learning level for the example"
+    )
+
+    # Example sentences
+    english_example_sentence: str = Field(
+        description="Natural English sentence using the verb (4-8 words) appropriate for the language level"
+    )
+    russian_example_sentence: str = Field(
+        description="Russian equivalent of the English sentence with simple vocabulary"
+    )
+    turkish_example_sentence: str = Field(
+        description="Turkish sentence using the conjugated verb with natural word order (SOV preferred)"
+    )
+    
+    @property
+    def turkish_example_sentence_with_blank(self) -> str:
+        """Generate the Turkish sentence with blank where the conjugated verb should be"""
+        return self.turkish_example_sentence.replace(self.turkish_verb.verb_full, "______")
+ 
 

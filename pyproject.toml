@@ -1,0 +1,51 @@
+[project]
+name = "turkish-language"
+version = "0.1.0"
+description = "Turkish language learning materials and exercises"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain>=0.1.0",
+    "langchain-google-genai>=1.0.0",
+    "python-dotenv>=1.0.0",
+    "toml>=0.10.2",
+    "pydantic>=2.0.0"
+]
+
+[project.optional-dependencies]
+test = [
+    "pytest>=7.0.0",
+    "pytest-mock>=3.10.0",
+    "pytest-asyncio>=0.21.0"
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]
+addopts = "-v --tb=short"
+markers = [
+    "unit: Unit tests",
+    "integration: Integration tests",
+    "slow: Slow tests that make API calls"
+]
+
+[dependency-groups]
+test = [
+    "pytest>=8.4.2",
+    "pytest-asyncio>=1.2.0",
+    "pytest-mock>=3.15.1",
+]
+
+[tool.flake8]
+max-line-length = 140
+extend-ignore = ["E203", "W503"]
+
+[tool.black]
+line-length = 140
+target-version = ['py312']
+
+[tool.isort]
+profile = "black"
+line_length = 140
