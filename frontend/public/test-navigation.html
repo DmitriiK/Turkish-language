@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Navigation Index Test</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .test-section { margin-bottom: 30px; border: 1px solid #ccc; padding: 15px; }
+        .success { color: green; }
+        .error { color: red; }
+        .info { color: blue; }
+        button { margin: 5px; padding: 8px 16px; }
+    </style>
+</head>
+<body>
+    <h1>🔍 Navigation Index Test Page</h1>
+    
+    <div class="test-section">
+        <h2>Test Navigation Index</h2>
+        <button onclick="testNavigationIndex()">Load Navigation Index</button>
+        <div id="navResult"></div>
+    </div>
+    
+    <div class="test-section">
+        <h2>Test Specific Verb</h2>
+        <select id="verbSelect">
+            <option value="">Select a verb...</option>
+        </select>
+        <button onclick="testSpecificVerb()">Test Verb</button>
+        <div id="verbResult"></div>
+    </div>
+    
+    <div class="test-section">
+        <h2>Test Random Example</h2>
+        <button onclick="testRandomExample()">Load Random Example</button>
+        <div id="randomResult"></div>
+    </div>
+
+    <script>
+        let navigationIndex = null;
+
+        async function testNavigationIndex() {
+            const resultDiv = document.getElementById('navResult');
+            resultDiv.innerHTML = '<div class="info">Loading navigation index...</div>';
+            
+            try {
+                const response = await fetch('/data/navigation_index.json');
+                if (!response.ok) {
+                    throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+                }
+                
+                navigationIndex = await response.json();
+                
+                // Populate verb select
+                const verbSelect = document.getElementById('verbSelect');
+                verbSelect.innerHTML = '<option value="">Select a verb...</option>';
+                navigationIndex.verbs.forEach(verb => {
+                    const option = document.createElement('option');
+                    option.value = verb;
+                    option.textContent = verb;
+                    verbSelect.appendChild(option);
+                });
+                
+                resultDiv.innerHTML = `
+                    <div class="success">✅ Navigation index loaded successfully!</div>
+                    <div><strong>Total verbs:</strong> ${navigationIndex.verbs.length}</div>
+                    <div><strong>Sample verbs:</strong> ${navigationIndex.verbs.slice(0, 5).join(', ')}</div>
+                `;
+            } catch (error) {
+                resultDiv.innerHTML = `<div class="error">❌ Error: ${error.message}</div>`;
+            }
+        }
+
+        async function testSpecificVerb() {
+            const resultDiv = document.getElementById('verbResult');
+            const verbSelect = document.getElementById('verbSelect');
+            const selectedVerb = verbSelect.value;
+            
+            if (!selectedVerb) {
+                resultDiv.innerHTML = '<div class="error">Please select a verb first</div>';
+                return;
+            }
+            
+            if (!navigationIndex) {
+                resultDiv.innerHTML = '<div class="error">Please load navigation index first</div>';
+                return;
+            }
+            
+            resultDiv.innerHTML = '<div class="info">Testing verb...</div>';
+            
+            try {
+                const verbData = navigationIndex.verb_data[selectedVerb];
+                if (!verbData) {
+                    throw new Error(`Verb "${selectedVerb}" not found in navigation data`);
+                }
+                
+                const tenses = Object.keys(verbData.tenses);
+                const firstTense = tenses[0];
+                const pronouns = verbData.tenses[firstTense].pronouns;
+                const firstPronoun = pronouns[0];
+                const fileInfo = verbData.tenses[firstTense].files[0];
+                
+                // Try to load a sample file
+                const response = await fetch(`/${fileInfo.file_path}`);
+                if (!response.ok) {
+                    throw new Error(`Failed to load file: ${response.status}`);
+                }
+                
+                const exampleData = await response.json();
+                
+                resultDiv.innerHTML = `
+                    <div class="success">✅ Verb "${selectedVerb}" loaded successfully!</div>
+                    <div><strong>Turkish:</strong> ${verbData.turkish_infinitive}</div>
+                    <div><strong>Folder:</strong> ${verbData.folder_name}</div>
+                    <div><strong>Available tenses:</strong> ${tenses.join(', ')}</div>
+                    <div><strong>Pronouns for ${firstTense}:</strong> ${pronouns.join(', ')}</div>
+                    <div><strong>Sample file:</strong> ${fileInfo.file_path}</div>
+                    <div><strong>Sample sentence:</strong> ${exampleData.turkish_verb.verb_conjugated}</div>
+                `;
+            } catch (error) {
+                resultDiv.innerHTML = `<div class="error">❌ Error: ${error.message}</div>`;
+            }
+        }
+
+        async function testRandomExample() {
+            const resultDiv = document.getElementById('randomResult');
+            
+            if (!navigationIndex) {
+                resultDiv.innerHTML = '<div class="error">Please load navigation index first</div>';
+                return;
+            }
+            
+            resultDiv.innerHTML = '<div class="info">Loading random example...</div>';
+            
+            try {
+                // Pick random verb, tense, and pronoun
+                const verbs = navigationIndex.verbs;
+                const randomVerb = verbs[Math.floor(Math.random() * verbs.length)];
+                
+                const verbData = navigationIndex.verb_data[randomVerb];
+                const tenses = Object.keys(verbData.tenses);
+                const randomTense = tenses[Math.floor(Math.random() * tenses.length)];
+                
+                const pronouns = verbData.tenses[randomTense].pronouns;
+                const randomPronoun = pronouns[Math.floor(Math.random() * pronouns.length)];
+                
+                // Find the file
+                const fileInfo = verbData.tenses[randomTense].files.find(f => f.pronoun === randomPronoun);
+                if (!fileInfo) {
+                    throw new Error(`No file found for ${randomVerb} + ${randomPronoun} + ${randomTense}`);
+                }
+                
+                // Load the example
+                const response = await fetch(`/${fileInfo.file_path}`);
+                if (!response.ok) {
+                    throw new Error(`Failed to load file: ${response.status}`);
+                }
+                
+                const exampleData = await response.json();
+                
+                resultDiv.innerHTML = `
+                    <div class="success">✅ Random example loaded!</div>
+                    <div><strong>Verb:</strong> ${randomVerb} (${verbData.turkish_infinitive})</div>
+                    <div><strong>Tense:</strong> ${randomTense}</div>
+                    <div><strong>Pronoun:</strong> ${randomPronoun}</div>
+                    <div><strong>Turkish:</strong> ${exampleData.turkish_verb.verb_conjugated}</div>
+                    <div><strong>English:</strong> ${exampleData.english_sentence}</div>
+                    <div><strong>File:</strong> ${fileInfo.file_path}</div>
+                `;
+            } catch (error) {
+                resultDiv.innerHTML = `<div class="error">❌ Error: ${error.message}</div>`;
+            }
+        }
+
+        // Auto-load navigation index on page load
+        window.addEventListener('load', testNavigationIndex);
+    </script>
+</body>
+</html>

@@ -24,6 +24,16 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+.venv/
+
+# Node.js / Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
 
 # IDE
 .vscode/
@@ -35,4 +45,12 @@ wheels/
 # OS
 .DS_Store
 Thumbs.db
+
+# Generated training data (optional - you may want to commit some examples)
 data/output/training_examples_for_verbs/*
+!data/output/training_examples_for_verbs/.gitkeep
+
+# Logs
+logs/
+*.log
+.playwright-mcp/*

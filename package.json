@@ -1,0 +1,40 @@
+{
+  "name": "turkish-language-learning-system",
+  "version": "1.0.0",
+  "description": "Complete system for learning Turkish language with AI-generated exercises and interactive frontend",
+  "scripts": {
+    "dev": "cd frontend && npm run dev",
+    "build": "cd frontend && npm run build",
+    "preview": "cd frontend && npm run preview",
+    "install-frontend": "cd frontend && npm install",
+    "install-backend": "pip install -r requirements.txt",
+    "setup": "npm run install-frontend && npm run install-backend",
+    "generate-examples": "python pipelines/create_traing_example.py",
+    "generate-a1": "python pipelines/create_traing_example.py --language-level A1 --top-n-verbs 10",
+    "generate-a2": "python pipelines/create_traing_example.py --language-level A2 --top-n-verbs 20",
+    "test-backend": "python -m pytest tests/ -v",
+    "lint-frontend": "cd frontend && npm run lint",
+    "type-check": "cd frontend && npm run type-check",
+    "clean": "rm -rf frontend/dist frontend/node_modules .venv",
+    "start": "npm run dev"
+  },
+  "keywords": [
+    "turkish",
+    "language-learning",
+    "ai",
+    "react",
+    "typescript",
+    "education",
+    "verbs",
+    "conjugation"
+  ],
+  "author": "Turkish Language Learning Team",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DmitriiK/Turkish-language.git"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "python": ">=3.12.0"
+  }
+}

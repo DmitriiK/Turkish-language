@@ -186,6 +186,9 @@ def generate_training_example(
             
             # Check if structured output returned valid result
             if result is not None and hasattr(result, 'verb_english'):
+                # Override verb_rank and verb_russian with actual values from CSV
+                result.verb_rank = verb.rank
+                result.verb_russian = verb.russian
                 return result
             else:
                 # Log raw response for debugging when structured output fails
@@ -222,8 +225,12 @@ def generate_training_example(
 
 def save_training_example(example: TrainingExample, output_dir: Path):
     """Save training example as JSON file with proper naming convention"""
-    # Create folder structure: verb_english/
-    verb_folder = output_dir / example.verb_english.replace(" ", "_")
+    # Create folder structure: verb_english/ (without "to " prefix at the beginning)
+    verb_name = example.verb_english
+    if verb_name.startswith("to "):
+        verb_name = verb_name[3:]  # Remove "to " from the beginning
+    verb_name = verb_name.replace(" ", "_")
+    verb_folder = output_dir / verb_name
     verb_folder.mkdir(parents=True, exist_ok=True)
     
     # Create filename: pronoun_infinitive_tense.json

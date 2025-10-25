@@ -196,7 +196,7 @@ For verb "yapmak" (to do) at A2 level:
 **With Pronouns (şimdiki_zaman):**
 ```json
 {
-  "verb_english": "to do",
+  "verb_english": "do",
   "verb_infinitive": "yapmak", 
   "conjugated_verb": "yapıyorum",
   "verb_tense": "şimdiki_zaman",
