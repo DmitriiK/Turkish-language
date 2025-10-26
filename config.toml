@@ -1,23 +1,34 @@
+# LLM Provider Configuration
+# Choose which LLM provider to use: "gemini" or "azure"
+[provider]
+default = "gemini"  # Options: "gemini" or "azure"
+
+# Rate limiting configuration (requests per minute)
+[rate_limits]
+gemini = 8   # Gemini free tier: conservative limit to avoid 429 errors (official: 10 req/min)
+azure = 50   # Azure S0 tier: limited by tokens, but ~50 requests/minute safe estimate
+
 # Gemini AI Configuration
 # This file contains settings for Google Generative AI integration
 
 [model]
 # Primary model for Turkish text generation
-name = "gemini-2.5-flash"
+name = "gemini-2.0-flash-exp"  # Experimental, works well for structured output
 
 # Alternative models (uncomment to use)
-# name = "gemini-2.5-pro"        # Higher quality, slower
-# name = "gemini-2.0-flash"      # Fast alternative
+# name = "gemini-1.5-flash-latest"  # Stable, higher free tier limits
+# name = "gemini-1.5-pro-latest"    # Higher quality, requires paid tier
 
 [generation]
 # Text generation parameters
 temperature = 0.7
-max_output_tokens = 1000
+max_output_tokens = 8192
 top_p = 0.8
 top_k = 40
 
 [azure_model]
-AZURE_OPENAI_ENDPOINT="https://ai-proxy.lab.epam.com"
-OPENAI_API_VERSION = "2025-01-01-preview"
+AZURE_OPENAI_ENDPOINT="https://dklmnopenai.services.ai.azure.com"
+# "https://ai-proxy.lab.epam.com"
+OPENAI_API_VERSION = "2024-08-01-preview"
 MODEL_NAME = "gpt-4o"
 

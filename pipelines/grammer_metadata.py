@@ -11,6 +11,12 @@ class LanguageLevel(StrEnum):
     B2 = "B2"
 
 
+class VerbPolarity(StrEnum):
+    """Verb polarity - positive or negative form."""
+    Positive = "positive"
+    Negative = "negative"
+
+
 class VerbTense(StrEnum):
     """
     Turkish verb tenses for conjugation patterns.
@@ -69,116 +75,163 @@ class VerbFormInfo(BaseModel):
     verb_tense: VerbTense
     language_level: LanguageLevel
     type_of_personal_pronoun: Literal[1, 2] | None = None
+    polarity: VerbPolarity = VerbPolarity.Positive  # Default to positive
 
 
 # List of all VerbFormInfo instances
 VERB_FORM_INFOS = [
-    # Present tense forms
+    # Present tense forms - POSITIVE
     VerbFormInfo(
         verb_tense=VerbTense.ŞimdikiZaman,
         language_level=LanguageLevel.A1,
-        type_of_personal_pronoun=1
+        type_of_personal_pronoun=1,
+        polarity=VerbPolarity.Positive
+    ),
+    # Present tense forms - NEGATIVE
+    VerbFormInfo(
+        verb_tense=VerbTense.ŞimdikiZaman,
+        language_level=LanguageLevel.A1,
+        type_of_personal_pronoun=1,
+        polarity=VerbPolarity.Negative
     ),
     
-    # Past tense forms
+    # Past tense forms - POSITIVE
     VerbFormInfo(
         verb_tense=VerbTense.GeçmişZaman,
         language_level=LanguageLevel.A1,
-        type_of_personal_pronoun=1
+        type_of_personal_pronoun=1,
+        polarity=VerbPolarity.Positive
+    ),
+    # Past tense forms - NEGATIVE
+    VerbFormInfo(
+        verb_tense=VerbTense.GeçmişZaman,
+        language_level=LanguageLevel.A1,
+        type_of_personal_pronoun=1,
+        polarity=VerbPolarity.Negative
     ),
     
-    # Future tense forms
+    # Future tense forms - POSITIVE
     VerbFormInfo(
         verb_tense=VerbTense.GelecekZaman,
         language_level=LanguageLevel.A2,
-        type_of_personal_pronoun=1
+        type_of_personal_pronoun=1,
+        polarity=VerbPolarity.Positive
+    ),
+    # Future tense forms - NEGATIVE
+    VerbFormInfo(
+        verb_tense=VerbTense.GelecekZaman,
+        language_level=LanguageLevel.A2,
+        type_of_personal_pronoun=1,
+        polarity=VerbPolarity.Negative
     ),
     VerbFormInfo(
         verb_tense=VerbTense.Yaracağım,
         language_level=LanguageLevel.A2,
-        type_of_personal_pronoun=1
+        type_of_personal_pronoun=1,
+        polarity=VerbPolarity.Positive
     ),
     
-    # General/habitual tense
+    # General/habitual tense - POSITIVE
     VerbFormInfo(
         verb_tense=VerbTense.GenişZaman,
         language_level=LanguageLevel.A1,
-        type_of_personal_pronoun=1
+        type_of_personal_pronoun=1,
+        polarity=VerbPolarity.Positive
+    ),
+    # General/habitual tense - NEGATIVE
+    VerbFormInfo(
+        verb_tense=VerbTense.GenişZaman,
+        language_level=LanguageLevel.A1,
+        type_of_personal_pronoun=1,
+        polarity=VerbPolarity.Negative
     ),
     
-    # Modal forms
+    # Modal forms - keeping only positive for now (can add negative later)
     VerbFormInfo(
         verb_tense=VerbTense.IstekKipi,
         language_level=LanguageLevel.B1,
-        type_of_personal_pronoun=1
+        type_of_personal_pronoun=1,
+        polarity=VerbPolarity.Positive
     ),
     VerbFormInfo(
         verb_tense=VerbTense.EmirKipi,
         language_level=LanguageLevel.A2,
-        type_of_personal_pronoun=None  # Imperatives don't use personal affixes
+        type_of_personal_pronoun=None,  # Imperatives don't use personal affixes
+        polarity=VerbPolarity.Positive
     ),
     VerbFormInfo(
         verb_tense=VerbTense.ŞartKipi,
         language_level=LanguageLevel.B1,
-        type_of_personal_pronoun=1
+        type_of_personal_pronoun=1,
+        polarity=VerbPolarity.Positive
     ),
     
     # Necessity and ability
     VerbFormInfo(
         verb_tense=VerbTense.GereklilikKipi,
         language_level=LanguageLevel.A2,
-        type_of_personal_pronoun=None  # "Yapmam lazım" - no personal affix
+        type_of_personal_pronoun=None,  # "Yapmam lazım" - no personal affix
+        polarity=VerbPolarity.Positive
     ),
     VerbFormInfo(
         verb_tense=VerbTense.İmkanKipi,
         language_level=LanguageLevel.A2,
-        type_of_personal_pronoun=1
+        type_of_personal_pronoun=1,
+        polarity=VerbPolarity.Positive
     ),
     VerbFormInfo(
         verb_tense=VerbTense.ZorunlulukKipi,
         language_level=LanguageLevel.A2,
-        type_of_personal_pronoun=1
+        type_of_personal_pronoun=1,
+        polarity=VerbPolarity.Positive
     ),
     
     # Conditional forms
     VerbFormInfo(
         verb_tense=VerbTense.GeçmişGelecekZaman,
         language_level=LanguageLevel.B2,
-        type_of_personal_pronoun=1
+        type_of_personal_pronoun=1,
+        polarity=VerbPolarity.Positive
     ),
     VerbFormInfo(
         verb_tense=VerbTense.ŞartlıKipi,
         language_level=LanguageLevel.B1,
-        type_of_personal_pronoun=1
+        type_of_personal_pronoun=1,
+        polarity=VerbPolarity.Positive
     ),
     VerbFormInfo(
         verb_tense=VerbTense.FarzîGeçmişZaman,
         language_level=LanguageLevel.B2,
-        type_of_personal_pronoun=1
+        type_of_personal_pronoun=1,
+        polarity=VerbPolarity.Positive
     ),
     
     # Participial forms
     VerbFormInfo(
         verb_tense=VerbTense.SıfatFiil,
         language_level=LanguageLevel.B1,
-        type_of_personal_pronoun=None  # "Yapan" - no personal affix needed
+        type_of_personal_pronoun=None,  # "Yapan" - no personal affix needed
+        polarity=VerbPolarity.Positive
     ),
     VerbFormInfo(
         verb_tense=VerbTense.ZarfFiil,
         language_level=LanguageLevel.B2,
-        type_of_personal_pronoun=None  # "Yararak" - no personal affix
+        type_of_personal_pronoun=None,  # "Yararak" - no personal affix
+        polarity=VerbPolarity.Positive
     ),
     VerbFormInfo(
         verb_tense=VerbTense.UlakFiil,
         language_level=LanguageLevel.B1,
-        type_of_personal_pronoun=None  # "Yapıp" - no personal affix
+        type_of_personal_pronoun=None,  # "Yapıp" - no personal affix
+        polarity=VerbPolarity.Positive
     ),
     
     # Temporal forms
     VerbFormInfo(
         verb_tense=VerbTense.ZamanSıfatı,
         language_level=LanguageLevel.B2,
-        type_of_personal_pronoun=2  # "Yaptığımda" - uses possessive affix
+        type_of_personal_pronoun=2,  # "Yaptığımda" - uses possessive affix
+        polarity=VerbPolarity.Positive
     ),
 ]
 
@@ -278,6 +331,14 @@ class TurkishVerb(BaseModel):
     personal_pronoun: Optional[PersonalPronoun] = Field(description="Personal pronoun used with the verb (None for impersonal forms)")
     personal_affix: Optional[str] = Field(
         description="Personal affix applied with correct vowel harmony (e.g., 'um', 'sın', 'm', 'lar')"
+    )
+    polarity: VerbPolarity = Field(
+        default=VerbPolarity.Positive,
+        description="Verb polarity - positive or negative form"
+    )
+    negative_affix: Optional[str] = Field(
+        default=None,
+        description="Negative affix if the verb is negated (e.g., 'me', 'ma')"
     )
 
 
