@@ -324,6 +324,19 @@ def generate_training_example(
             except Exception as generation_error:
                 # Check if this is a rate limit error (429)
                 error_str = str(generation_error)
+                
+                # Check for daily quota limit - this is fatal and should not retry
+                if 'GenerateRequestsPerDayPerProjectPerModel' in error_str or \
+                   'generate_requests_per_model_per_day' in error_str.lower():
+                    print(f"   ❌ FATAL: Daily quota limit reached!")
+                    print(f"   📊 You've hit the Gemini API daily quota limit.")
+                    print(f"   💡 Wait 24 hours or upgrade to paid tier for higher limits.")
+                    # Re-raise as fatal error to stop the pipeline
+                    raise RuntimeError(
+                        "Daily quota limit reached. Cannot continue. "
+                        "Wait 24 hours or upgrade to paid tier."
+                    ) from generation_error
+                
                 if '429' in error_str or 'RateLimitReached' in error_str or 'rate limit' in error_str.lower():
                     if attempt < max_retries:
                         # Extract retry delay from error message
@@ -351,6 +364,19 @@ def generate_training_example(
         except Exception as outer_error:
             # Catch errors from LLM initialization or other setup
             error_str = str(outer_error)
+            
+            # Check for daily quota limit - this is fatal and should not retry
+            if 'GenerateRequestsPerDayPerProjectPerModel' in error_str or \
+               'generate_requests_per_model_per_day' in error_str.lower():
+                print("   ❌ FATAL: Daily quota limit reached!")
+                print("   📊 You've hit the Gemini API daily quota limit.")
+                print("   💡 Wait 24 hours or upgrade to paid tier for higher limits.")
+                # Re-raise as fatal error to stop the pipeline
+                raise RuntimeError(
+                    "Daily quota limit reached. Cannot continue. "
+                    "Wait 24 hours or upgrade to paid tier."
+                ) from outer_error
+            
             if '429' in error_str or 'RateLimitReached' in error_str or 'rate limit' in error_str.lower():
                 if attempt < max_retries:
                     # Extract retry delay from error message

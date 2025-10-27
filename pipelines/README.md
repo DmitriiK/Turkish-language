@@ -70,6 +70,125 @@ Examples of forms without pronouns:
    GEMINI_API_KEY=your_google_gemini_api_key_here
    ```
 
+## API Rate Limits & Quota Management
+
+The pipeline uses the Google Gemini API and automatically handles rate limits and quota restrictions.
+
+### Free Tier Limits (Gemini 2.0 Flash)
+
+| Limit Type | Free Tier | Tier 1 (Paid) |
+|------------|-----------|---------------|
+| **Requests per minute (RPM)** | 15 | 200 |
+| **Tokens per minute (TPM)** | 1,000,000 | 4,000,000 |
+| **Requests per day (RPD)** | **200** | **10,000** |
+
+**Important Notes:**
+- Daily quota resets at **midnight Pacific Time** (PDT/PST)
+- Rate limits are per project, not per API key
+- The pipeline is configured for **8 RPM** (conservative, below the 15 RPM limit)
+
+### Automatic Rate Limit Handling
+
+The pipeline includes intelligent retry logic:
+
+**1. Per-Minute Rate Limits:**
+- ✅ Automatically spaces requests (~7.5s between calls)
+- ✅ Extracts `retry_delay` from API error responses
+- ✅ Retries up to 3 times with exponential backoff
+- ✅ Displays wait times in real-time
+
+**2. Daily Quota Limits:**
+- ✅ Detects daily quota exhaustion
+- ✅ Stops pipeline immediately with clear error message
+- ✅ Preserves all successfully generated examples
+- ✅ Can resume next day from where it left off
+
+### Example Output During Rate Limiting
+
+```
+Processing 121/360: to say (geçmiş_zaman, ben, positive)
+   ⏳ Rate limit: waiting 2.7s...
+   📝 Prompt size: 5775 chars (~1443 tokens estimated)
+   ⚠️  Rate limit hit (attempt 1/4)
+   ⏸️  Rate limit exceeded, waiting 29s before retry...
+   ⏳ Rate limit: waiting 7.5s...
+   📝 Prompt size: 5775 chars (~1443 tokens estimated)
+   📊 Tokens: 1576 input + 294 output = 1870 total
+   ✅ Saved (1,870 tokens | cumulative: 225,089 tokens)
+```
+
+### Daily Quota Exhausted
+
+```
+   ❌ FATAL: Daily quota limit reached!
+   📊 You've hit the Gemini API daily quota limit.
+   💡 Wait 24 hours or upgrade to paid tier for higher limits.
+RuntimeError: Daily quota limit reached. Cannot continue.
+```
+
+### Token Consumption Estimates
+
+**Per Example:**
+- Input tokens: ~1,577 (prompt template)
+- Output tokens: ~270 (structured response)
+- **Total: ~1,850 tokens per example**
+
+**For Common Scenarios:**
+- **10 verbs × 36 examples** = 360 total examples ≈ **666,000 tokens** ≈ **~180 requests** (hits daily limit)
+- **5 verbs × 36 examples** = 180 total examples ≈ **333,000 tokens** ≈ **~90 requests** ✅ (within daily limit)
+- **3 verbs × 36 examples** = 108 total examples ≈ **200,000 tokens** ≈ **~54 requests** ✅ (within daily limit)
+
+### Recommended Workflow for Free Tier
+
+**Option 1: Process in Batches**
+```bash
+# Day 1: Process verbs 1-5
+python pipelines/create_traing_example.py --language-level A1 --top-n-verbs 5
+
+# Day 2: Process verbs 6-10
+python pipelines/create_traing_example.py --language-level A1 --verbs "to go" "to see" "to know" "to get" "to think"
+
+# Day 3: Process verbs 11-15
+# ... and so on
+```
+
+**Option 2: Filter by Specific Combinations**
+```bash
+# Only present tense, save quota for other verbs
+python pipelines/create_traing_example.py --language-level A1 --top-n-verbs 10 \
+  --tenses şimdiki_zaman geniş_zaman
+
+# Only specific pronouns
+python pipelines/create_traing_example.py --language-level A1 --top-n-verbs 10 \
+  --pronouns ben sen o
+```
+
+**Option 3: Upgrade to Paid Tier**
+- Link Cloud Billing account in [AI Studio](https://aistudio.google.com/api-keys)
+- Get 10,000 requests/day (50x more)
+- Cost: ~$0.06-0.20 for 360 examples
+- Process all verbs in one run
+
+### Configuration
+
+Rate limits are configurable in `config.toml`:
+
+```toml
+[rate_limits]
+gemini = 8    # Requests per minute (conservative for free tier)
+azure = 50    # Requests per minute (for paid tier)
+
+[retry]
+max_retries = 3  # Number of retry attempts for rate limit errors
+```
+
+### Monitoring Your Usage
+
+Track your API usage at:
+- [AI Studio Usage Dashboard](https://aistudio.google.com/usage?timeRange=last-28-days&tab=rate-limit)
+- View active rate limits and quota consumption
+- Monitor requests per day, minute, and tokens used
+
 ## Usage
 
 ### Command Line Interface
