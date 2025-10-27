@@ -86,7 +86,7 @@ Create three natural example sentences:
 - Natural Turkish word order (SOV preferred)
 - Should contain 4-8 words
 - Try to use at least couple of nouns, besides verb and pronoun, when appropriate
-- Try to use one aj
+- Try to use one adjective 
 - Use vocabulary appropriate for {language_level} level Turkish learners
 - Common, basic words that beginners would know
 - Contextually meaningful and realistic
