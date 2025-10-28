@@ -7,9 +7,64 @@ from dotenv import load_dotenv
 from langchain_google_genai import ChatGoogleGenerativeAI
 import toml
 from pathlib import Path
+import requests
 
 # Load environment variables
 load_dotenv()
+
+
+def list_available_models():
+    """List all available Gemini models via AI Studio API"""
+    print("=" * 80)
+    print("LISTING AVAILABLE GEMINI MODELS")
+    print("=" * 80)
+    print()
+    
+    # Get API key
+    api_key = os.getenv('GEMINI_API_KEY')
+    if not api_key:
+        print("❌ GEMINI_API_KEY not found in environment variables!")
+        return
+    
+    print("🔍 Fetching available models from AI Studio API...\n")
+    
+    try:
+        # Make direct HTTP request to list models
+        url = f"https://generativelanguage.googleapis.com/v1beta/models?key={api_key}"
+        response = requests.get(url)
+        response.raise_for_status()
+        
+        data = response.json()
+        models = data.get('models', [])
+        
+        # Filter models that support generateContent
+        generate_content_models = [
+            m for m in models
+            if 'generateContent' in m.get('supportedGenerationMethods', [])
+        ]
+        
+        print("=" * 80)
+        print("MODELS SUPPORTING generateContent:")
+        print("=" * 80)
+        print()
+        
+        for model in generate_content_models:
+            model_name = model['name'].replace('models/', '')
+            print(f"✅ {model_name}")
+            print(f"   Display Name: {model.get('displayName', 'N/A')}")
+            print(f"   Description: {model.get('description', 'N/A')[:100]}...")
+            print(f"   Input Token Limit: {model.get('inputTokenLimit', 'N/A'):,}")
+            print(f"   Output Token Limit: {model.get('outputTokenLimit', 'N/A'):,}")
+            print()
+        
+        print("=" * 80)
+        print(f"📊 Total models available: {len(generate_content_models)}")
+        print("=" * 80)
+        print()
+        
+    except Exception as e:
+        print(f"❌ Error listing models: {str(e)}")
+        print()
 
 
 def test_gemini_connection():
@@ -90,5 +145,9 @@ def test_gemini_connection():
 
 
 if __name__ == "__main__":
+    # First list available models
+    list_available_models()
+    
+    # Then test connection
     success = test_gemini_connection()
     exit(0 if success else 1)

@@ -5,7 +5,7 @@ default = "gemini"  # Options: "gemini" or "azure"
 
 # Rate limiting configuration (requests per minute)
 [rate_limits]
-gemini = 8   # Gemini free tier: conservative limit to avoid 429 errors (official: 10 req/min)
+gemini = 15  # Gemini AI Studio API: increased from 8 to 15 RPM (no 429 errors observed)
 azure = 50   # Azure S0 tier: limited by tokens, but ~50 requests/minute safe estimate
 
 # Gemini AI Configuration
@@ -13,11 +13,13 @@ azure = 50   # Azure S0 tier: limited by tokens, but ~50 requests/minute safe es
 
 [model]
 # Primary model for Turkish text generation
-name = "gemini-2.0-flash-exp"  # Experimental, works well for structured output
+name = "gemini-2.5-flash"  # Stable model with 10K RPD quota (9,594 remaining)
 
 # Alternative models (uncomment to use)
-# name = "gemini-1.5-flash-latest"  # Stable, higher free tier limits
-# name = "gemini-1.5-pro-latest"    # Higher quality, requires paid tier
+# name = "gemini-2.0-flash-exp"  # Hit quota: 504/500 RPD
+# name = "gemini-2.0-flash"      # Stable 2.0 version, 1,500 RPD
+# name = "gemini-flash-latest"   # Always points to latest flash model
+# name = "gemini-1.5-flash"      # NOT AVAILABLE via AI Studio API
 
 [generation]
 # Text generation parameters
@@ -27,8 +29,8 @@ top_p = 0.8
 top_k = 40
 
 [azure_model]
-AZURE_OPENAI_ENDPOINT="https://dklmnopenai.services.ai.azure.com"
-# "https://ai-proxy.lab.epam.com"
+AZURE_OPENAI_ENDPOINT="https://ai-proxy.lab.epam.com"
+# "https://dklmnopenai.services.ai.azure.com"
 OPENAI_API_VERSION = "2024-08-01-preview"
 MODEL_NAME = "gpt-4o"
 

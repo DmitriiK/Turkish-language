@@ -8,28 +8,36 @@ interface NavigationControlsProps {
   currentVerb: string;
   currentTense: string;
   currentPronoun: string | null;
+  currentPolarity: 'positive' | 'negative';
   currentRank: number;
   onNextTense: () => void;
   onNextPronoun: () => void;
+  onNextPolarity: () => void;
   onPrevTense: () => void;
   onPrevPronoun: () => void;
+  onPrevPolarity: () => void;
   onGoToVerb: (verb: string) => void;
   onGoToTense: (tense: string) => void;
   onGoToPronoun: (pronoun: string) => void;
+  onGoToPolarity: (polarity: 'positive' | 'negative') => void;
 }
 
 export const NavigationControls: React.FC<NavigationControlsProps> = ({
   currentVerb,
   currentTense,
   currentPronoun,
+  currentPolarity,
   currentRank,
   onNextTense,
   onNextPronoun,
+  onNextPolarity,
   onPrevTense,
   onPrevPronoun,
+  onPrevPolarity,
   onGoToVerb,
   onGoToTense,
-  onGoToPronoun
+  onGoToPronoun,
+  onGoToPolarity
 }) => {
 
 
@@ -124,11 +132,11 @@ export const NavigationControls: React.FC<NavigationControlsProps> = ({
       {/* Current Position */}
       <div className="mb-4 p-3 bg-gray-50 rounded text-xs">
         <span className="font-medium">Current:</span> {currentVerb} (#{currentRank}) • {currentTense.replace('_', ' ')}
-        {currentPronoun && <> • {currentPronoun}</>}
+        {currentPronoun && <> • {currentPronoun}</>} • {currentPolarity}
       </div>
 
       {/* Unified Navigation Row */}
-      <div className="grid grid-cols-3 gap-2">
+      <div className="grid grid-cols-4 gap-2">
         {/* Verb Navigation Control with Rank */}
         <NavigationTriple
           label={`${currentRank}. ${currentVerb.replace('to ', '')}`}
@@ -174,13 +182,34 @@ export const NavigationControls: React.FC<NavigationControlsProps> = ({
           dropdownItems={[]} // Will be populated by NavigationTriple component
           searchable={false}
           loadDropdownItems={async () => {
-            const pronouns = await dataLoader.getAvailablePronouns(currentVerb, currentTense);
+            const pronouns = await dataLoader.getAvailablePronouns(currentVerb, currentTense, currentPolarity);
             return pronouns.map(pronoun => ({
               label: pronoun,
               value: pronoun,
               onSelect: () => onGoToPronoun(pronoun)
             }));
           }}
+        />
+
+        {/* Polarity Navigation Control */}
+        <NavigationTriple
+          label={currentPolarity === 'positive' ? '✓ positive' : '✗ negative'}
+          onPrev={onPrevPolarity}
+          onNext={onNextPolarity}
+          onCenter={() => {}}
+          dropdownItems={[
+            {
+              label: '✓ positive',
+              value: 'positive',
+              onSelect: () => onGoToPolarity('positive')
+            },
+            {
+              label: '✗ negative',
+              value: 'negative',
+              onSelect: () => onGoToPolarity('negative')
+            }
+          ]}
+          searchable={false}
         />
       </div>
     </div>

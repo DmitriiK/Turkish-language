@@ -12,9 +12,12 @@ interface NavigationIndex {
     turkish_infinitive: string;
     folder_name: string;
     tenses: Record<string, {
+      tense: string;
+      polarity: string;
       pronouns: string[];
       files: Array<{
         pronoun: string;
+        polarity: string;
         file_path: string;
         relative_path: string;
       }>;
@@ -22,6 +25,7 @@ interface NavigationIndex {
     files: Array<{
       pronoun: string;
       tense: string;
+      polarity: string;
       infinitive: string;
       file_path: string;
       relative_path: string;
@@ -64,12 +68,13 @@ class DataLoader {
 
   /**
    * Load a training example using exact file path from navigation index
-   * If requested pronoun/tense isn't available, falls back to first available combination
+   * If requested pronoun/tense/polarity isn't available, falls back to first available combination
    */
   async loadTrainingExample(
     verbEnglish: string, 
     pronoun: string, 
-    tense: string
+    tense: string,
+    polarity: 'positive' | 'negative' = 'positive'
   ): Promise<TrainingExample | null> {
     try {
       // Load navigation index if not already loaded
@@ -91,21 +96,40 @@ class DataLoader {
       let fileInfo = null;
       let actualTense = tense;
       let actualPronoun = pronoun;
+      let actualPolarity = polarity;
+
+      // Create tense+polarity key for lookup
+      const tensePolKey = `${tense}_${polarity}`;
 
       // Try to find exact match first
-      const tenseData = verbData.tenses[tense];
+      const tenseData = verbData.tenses[tensePolKey];
       if (tenseData) {
         fileInfo = tenseData.files.find(f => f.pronoun === pronoun);
         if (fileInfo) {
-          console.log(`✓ Exact match found: ${verbEnglish} - ${tense} (${pronoun})`);
+          console.log(`✓ Exact match found: ${verbEnglish} - ${tense} (${pronoun}, ${polarity})`);
         }
       }
 
-      // If no exact match, try to find same tense but different pronoun
+      // If no exact match, try to find same tense+polarity but different pronoun
       if (!fileInfo && tenseData && tenseData.files.length > 0) {
         fileInfo = tenseData.files[0];
         actualPronoun = fileInfo.pronoun;
         console.log(`⚠ Pronoun "${pronoun}" not available, using first available: "${actualPronoun}"`);
+      }
+
+      // If still no match, try same tense but opposite polarity
+      if (!fileInfo) {
+        const oppositePolarityKey = `${tense}_${polarity === 'positive' ? 'negative' : 'positive'}`;
+        const oppositeTenseData = verbData.tenses[oppositePolarityKey];
+        if (oppositeTenseData && oppositeTenseData.files.length > 0) {
+          const match = oppositeTenseData.files.find(f => f.pronoun === pronoun);
+          if (match) {
+            fileInfo = match;
+            actualPronoun = pronoun;
+            actualPolarity = polarity === 'positive' ? 'negative' : 'positive';
+            console.log(`⚠ Polarity "${polarity}" not available, using opposite: "${actualPolarity}"`);
+          }
+        }
       }
 
       // If still no match, try to find same pronoun but different tense
@@ -114,9 +138,12 @@ class DataLoader {
           const match = tData.files.find(f => f.pronoun === pronoun);
           if (match) {
             fileInfo = match;
-            actualTense = tName;
             actualPronoun = pronoun;
-            console.log(`⚠ Tense "${tense}" not available, using first available: "${actualTense}"`);
+            // Extract tense and polarity from the key (format: "tense_polarity")
+            const parts = tName.split('_');
+            actualPolarity = parts[parts.length - 1] as 'positive' | 'negative';
+            actualTense = parts.slice(0, -1).join('_');
+            console.log(`⚠ Tense+Polarity "${tense}_${polarity}" not available, using: "${actualTense}_${actualPolarity}"`);
             break;
           }
         }
@@ -127,12 +154,14 @@ class DataLoader {
         const firstFile = verbData.files[0];
         actualTense = firstFile.tense;
         actualPronoun = firstFile.pronoun;
+        actualPolarity = (firstFile.polarity as 'positive' | 'negative') || 'positive';
         // Find the fileInfo from tenses structure
-        const firstTenseData = verbData.tenses[actualTense];
+        const firstTenseKey = `${actualTense}_${actualPolarity}`;
+        const firstTenseData = verbData.tenses[firstTenseKey];
         if (firstTenseData) {
           fileInfo = firstTenseData.files.find(f => f.pronoun === actualPronoun);
         }
-        console.log(`⚠ Requested combination not available, using first available: ${actualTense} (${actualPronoun})`);
+        console.log(`⚠ Requested combination not available, using first available: ${actualTense} (${actualPronoun}, ${actualPolarity})`);
       }
 
       if (!fileInfo) {
@@ -141,7 +170,7 @@ class DataLoader {
       }
 
       // Create cache key with actual values
-      const cacheKey = `${verbEnglish}-${actualPronoun}-${actualTense}`;
+      const cacheKey = `${verbEnglish}-${actualPronoun}-${actualTense}-${actualPolarity}`;
       
       if (this.cache.has(cacheKey)) {
         console.log(`Cache hit for: ${cacheKey}`);
@@ -166,7 +195,7 @@ class DataLoader {
           return null;
         }
         
-        console.log(`✅ Successfully loaded: ${data.verb_english} - ${data.turkish_verb.verb_tense} (${actualPronoun})`);
+        console.log(`✅ Successfully loaded: ${data.verb_english} - ${data.turkish_verb.verb_tense} (${actualPronoun}, ${actualPolarity})`);
         
         // Cache the result
         this.cache.set(cacheKey, data);
@@ -244,7 +273,7 @@ class DataLoader {
   /**
    * Get available pronouns for a specific verb and tense
    */
-  async getAvailablePronouns(verbEnglish: string, tense: string): Promise<string[]> {
+  async getAvailablePronouns(verbEnglish: string, tense: string, polarity: 'positive' | 'negative' = 'positive'): Promise<string[]> {
     const navIndex = await this.loadNavigationIndex();
     const verbData = navIndex.verb_data[verbEnglish];
     
@@ -253,13 +282,23 @@ class DataLoader {
       return [];
     }
     
-    const tenseData = verbData.tenses[tense];
+    // Create tense+polarity key
+    const tensePolKey = `${tense}_${polarity}`;
+    const tenseData = verbData.tenses[tensePolKey];
     if (!tenseData) {
-      console.warn(`Tense "${tense}" not found for verb "${verbEnglish}"`);
+      console.warn(`Tense+polarity "${tensePolKey}" not found for verb "${verbEnglish}"`);
+      // Try opposite polarity as fallback
+      const oppPolarity = polarity === 'positive' ? 'negative' : 'positive';
+      const oppTensePolKey = `${tense}_${oppPolarity}`;
+      const oppTenseData = verbData.tenses[oppTensePolKey];
+      if (oppTenseData) {
+        console.log(`Using opposite polarity pronouns for "${verbEnglish}" in "${oppTensePolKey}":`, oppTenseData.pronouns);
+        return oppTenseData.pronouns;
+      }
       return [];
     }
     
-    console.log(`Available pronouns for "${verbEnglish}" in "${tense}":`, tenseData.pronouns);
+    console.log(`Available pronouns for "${verbEnglish}" in "${tensePolKey}":`, tenseData.pronouns);
     return tenseData.pronouns;
   }
 
@@ -356,8 +395,8 @@ class DataLoader {
   /**
    * Get next pronoun for current verb/tense
    */
-  async getNextPronoun(verbEnglish: string, tense: string, currentPronoun: string): Promise<string | null> {
-    const pronouns = await this.getAvailablePronouns(verbEnglish, tense);
+  async getNextPronoun(verbEnglish: string, tense: string, currentPronoun: string, polarity: 'positive' | 'negative' = 'positive'): Promise<string | null> {
+    const pronouns = await this.getAvailablePronouns(verbEnglish, tense, polarity);
     const currentIndex = pronouns.indexOf(currentPronoun);
     
     if (currentIndex === -1) {
@@ -378,8 +417,8 @@ class DataLoader {
   /**
    * Get previous pronoun for current verb/tense
    */
-  async getPrevPronoun(verbEnglish: string, tense: string, currentPronoun: string): Promise<string | null> {
-    const pronouns = await this.getAvailablePronouns(verbEnglish, tense);
+  async getPrevPronoun(verbEnglish: string, tense: string, currentPronoun: string, polarity: 'positive' | 'negative' = 'positive'): Promise<string | null> {
+    const pronouns = await this.getAvailablePronouns(verbEnglish, tense, polarity);
     const currentIndex = pronouns.indexOf(currentPronoun);
     
     if (currentIndex === -1) {

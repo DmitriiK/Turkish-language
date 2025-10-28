@@ -4,11 +4,13 @@ import os
 import re
 import time
 from pathlib import Path
-from typing import List, Tuple, Optional
+from typing import List, Tuple, Optional, Any, Dict
 
 import toml
 from dotenv import load_dotenv
 from langchain_core.prompts import PromptTemplate
+from langchain_core.callbacks import BaseCallbackHandler
+from langchain_core.outputs import LLMResult
 from langchain_openai import AzureChatOpenAI
 from langchain_google_genai import ChatGoogleGenerativeAI
 
@@ -19,6 +21,49 @@ from grammer_metadata import (
 
 # Load environment variables
 load_dotenv()
+
+
+class TokenUsageCallback(BaseCallbackHandler):
+    """Callback to capture token usage from LLM responses"""
+    def __init__(self):
+        self.prompt_tokens = 0
+        self.completion_tokens = 0
+        self.total_tokens = 0
+    
+    def on_llm_end(self, response: LLMResult, **kwargs: Any) -> None:
+        """Capture token usage when LLM call completes"""
+        # Try multiple ways to extract token usage
+        if response.llm_output:
+            # OpenAI format
+            if 'token_usage' in response.llm_output:
+                usage = response.llm_output['token_usage']
+                self.prompt_tokens = usage.get('prompt_tokens', 0)
+                self.completion_tokens = usage.get('completion_tokens', 0)
+                self.total_tokens = usage.get('total_tokens', 0)
+            # Gemini format (usage_metadata)
+            elif 'usage_metadata' in response.llm_output:
+                usage = response.llm_output['usage_metadata']
+                self.prompt_tokens = usage.get('prompt_token_count', 0) or usage.get('input_tokens', 0)
+                self.completion_tokens = usage.get('candidates_token_count', 0) or usage.get('output_tokens', 0)
+                self.total_tokens = usage.get('total_token_count', 0) or (self.prompt_tokens + self.completion_tokens)
+        
+        # Also check in generations metadata
+        if self.prompt_tokens == 0 and response.generations:
+            for gen_list in response.generations:
+                for gen in gen_list:
+                    if hasattr(gen, 'generation_info') and gen.generation_info:
+                        if 'usage_metadata' in gen.generation_info:
+                            usage = gen.generation_info['usage_metadata']
+                            self.prompt_tokens = usage.get('prompt_token_count', 0)
+                            self.completion_tokens = usage.get('candidates_token_count', 0)
+                            self.total_tokens = usage.get('total_token_count', 0)
+                            break
+    
+    def reset(self):
+        """Reset token counters"""
+        self.prompt_tokens = 0
+        self.completion_tokens = 0
+        self.total_tokens = 0
 
 
 class RateLimiter:
@@ -234,8 +279,8 @@ def generate_training_example(
                     temperature=config['generation']['temperature'],
                     max_retries=0,  # Don't retry on rate limits - we handle it
                 )
-            else:  # gemini
-                # Use Google Gemini
+            else:  # gemini (AI Studio API)
+                # Use Google Gemini AI Studio API
                 api_key = os.getenv('GEMINI_API_KEY')
                 if not api_key:
                     raise ValueError("Please set GEMINI_API_KEY in your environment variables")
@@ -281,32 +326,24 @@ def generate_training_example(
                 estimated_tokens = prompt_char_count // 4  # Rough estimate: 1 token ≈ 4 chars
                 print(f"   📝 Prompt size: {prompt_char_count} chars (~{estimated_tokens} tokens estimated)")
                 
-                # Make a single call that gives us both structured output and metadata
-                # Use the base LLM first to get full response with metadata
-                raw_chain = prompt | llm
-                raw_response = raw_chain.invoke(prompt_inputs)
+                # Create callback to capture token usage from the base LLM call
+                token_callback = TokenUsageCallback()
                 
-                # Get token usage from response metadata
-                prompt_tokens = 0
-                completion_tokens = 0
+                # Configure callbacks for BOTH the base LLM and structured wrapper
+                config_with_callbacks = {"callbacks": [token_callback]}
                 
-                # Try different metadata formats (Azure vs Gemini)
-                if hasattr(raw_response, 'usage_metadata') and raw_response.usage_metadata:
-                    # Gemini format
-                    usage = raw_response.usage_metadata
-                    prompt_tokens = usage.get('input_tokens', 0)
-                    completion_tokens = usage.get('output_tokens', 0)
-                    print(f"   📊 Tokens: {prompt_tokens} input + {completion_tokens} output = {prompt_tokens + completion_tokens} total")
-                elif hasattr(raw_response, 'response_metadata'):
-                    # Azure format
-                    token_usage = raw_response.response_metadata.get('token_usage', {})
-                    prompt_tokens = token_usage.get('prompt_tokens', 0)
-                    completion_tokens = token_usage.get('completion_tokens', 0)
-                    print(f"   📊 Tokens: {prompt_tokens} input + {completion_tokens} output = {prompt_tokens + completion_tokens} total")
+                # Use structured chain with callback
+                result = chain.invoke(prompt_inputs, config=config_with_callbacks)
                 
-                # Now get structured output (this uses cached response, shouldn't count tokens again)
-                    # Now get structured output (this uses cached response, shouldn't count tokens again)
-                result = chain.invoke(prompt_inputs)
+                # Get token usage from callback
+                prompt_tokens = token_callback.prompt_tokens
+                completion_tokens = token_callback.completion_tokens
+                
+                # If callback didn't capture tokens, estimate from prompt size
+                # (This happens with structured output wrappers that don't expose token metadata)
+                if prompt_tokens == 0:
+                    prompt_tokens = estimated_tokens  # Use our estimate
+                    completion_tokens = len(str(result)) // 4  # Rough estimate for response
                 
                 # Check if structured output returned valid result
                 if result is not None and hasattr(result, 'verb_english'):
@@ -398,7 +435,12 @@ def generate_training_example(
                     # Fall through to final error handling
             
             # Not a rate limit error or max retries reached
-            # Print error but don't stop the pipeline
+            # Check if this is a daily quota error - if so, re-raise to stop pipeline
+            if isinstance(outer_error, RuntimeError) and 'Daily quota limit' in str(outer_error):
+                print("\n❌ FATAL ERROR: Daily quota limit reached. Stopping pipeline.")
+                raise outer_error
+            
+            # Print error but don't stop the pipeline for other errors
             print(f"\n⚠️  SKIPPING VERB: {verb.english}")
             print(f"Error generating example for {verb.english} "
                   f"({tense.value}, {pronoun})")
@@ -410,8 +452,12 @@ def generate_training_example(
     return None, 0, 0
 
 
-def save_training_example(example: TrainingExample, output_dir: Path, polarity: VerbPolarity):
-    """Save training example as JSON file with proper naming convention"""
+def save_training_example(example: TrainingExample, output_dir: Path, polarity: VerbPolarity) -> Path:
+    """Save training example as JSON file with proper naming convention
+    
+    Returns:
+        Path: The path to the saved file
+    """
     # Create folder structure: verb_english/ (without "to " prefix at the beginning)
     verb_name = example.verb_english
     if verb_name.startswith("to "):
@@ -439,6 +485,28 @@ def save_training_example(example: TrainingExample, output_dir: Path, polarity: 
     with open(file_path, 'w', encoding='utf-8') as file:
         json.dump(json_data, file, ensure_ascii=False, indent=2)
     
+    return file_path
+
+
+def check_example_exists(verb: VerbData, tense: VerbTense, pronoun: Optional[PersonalPronoun],
+                         polarity: VerbPolarity, output_dir: Path) -> bool:
+    """Check if a training example file already exists"""
+    # Create the same path structure as save_training_example
+    verb_name = verb.english
+    if verb_name.startswith("to "):
+        verb_name = verb_name[3:]
+    verb_name = verb_name.replace(" ", "_")
+    verb_folder = output_dir / verb_name
+    
+    # Create filename
+    pronoun_part = pronoun.value if pronoun else "none"
+    infinitive = verb.turkish.replace(" ", "_")
+    polarity_suffix = "_olumsuz" if polarity == VerbPolarity.Negative else ""
+    filename = f"{pronoun_part}_{infinitive}_{tense.value}{polarity_suffix}.json"
+    
+    file_path = verb_folder / filename
+    return file_path.exists()
+    
     print(f"Saved: {file_path}")
 
 
@@ -449,7 +517,8 @@ def main(
     tenses: Optional[List[str]] = None,
     pronouns: Optional[List[str]] = None,
     polarities: Optional[List[str]] = None,
-    provider: Optional[str] = None
+    provider: Optional[str] = None,
+    skip_existing: bool = False
 ):
     """Main pipeline function
     
@@ -461,6 +530,7 @@ def main(
         pronouns: List of specific pronouns to generate (None = all). Values: ben, sen, o, biz, siz, onlar
         polarities: List of specific polarities to generate (None = all). Values: positive, negative
         provider: LLM provider to use ("gemini" or "azure"). If None, uses default from config
+        skip_existing: If True, skip combinations that already have generated files
     """
     # Load configuration
     config = load_config()
@@ -488,6 +558,10 @@ def main(
     requests_per_minute = rate_limits.get(provider, 60)  # default to 60 if not specified
     rate_limiter = RateLimiter(requests_per_minute)
     print(f"⏱️  Rate limit: {requests_per_minute} requests/minute ({60.0/requests_per_minute:.1f}s between requests)")
+    
+    # Display skip-existing setting
+    if skip_existing:
+        print("⏭️  Mode: Skip existing files")
     
     # Convert string to LanguageLevel enum
     level = LanguageLevel(language_level)
@@ -593,6 +667,12 @@ def main(
             print(f"\nProcessing {i+1}/{len(combinations)}: {verb.english} "
                   f"({tense.value}, {pronoun}, {polarity_str})")
             
+            # Check if file already exists and skip if requested
+            if skip_existing and check_example_exists(verb, tense, pronoun, polarity, output_dir):
+                print(f"   ⏭️  Skipping (file already exists)")
+                skipped_count += 1
+                continue
+            
             example, prompt_tokens, completion_tokens = generate_training_example(
                 verb, tense, pronoun, polarity, prompt_template, level, config, provider, rate_limiter
             )
@@ -610,7 +690,12 @@ def main(
             # With fail-fast approach, example should never be None
             # But keeping this check for safety
             if example:
-                save_training_example(example, output_dir, polarity)
+                file_path = save_training_example(example, output_dir, polarity)
+                total_tokens = prompt_tokens + completion_tokens
+                print(f"   ✅ Saved to: {file_path}")
+                print(f"      ({total_tokens:,} tokens | cumulative: {total_prompt_tokens + total_completion_tokens:,} tokens)")
+                generated_count += 1
+                verb_example_count += 1
                 generated_count += 1
                 verb_example_count += 1
                 
@@ -703,7 +788,12 @@ if __name__ == "__main__":
         type=str,
         choices=["gemini", "azure"],
         default=None,
-        help='LLM provider to use: "gemini" or "azure" (default: uses config.toml setting)'
+        help='LLM provider to use: "gemini" (AI Studio) or "azure" (default: uses config.toml setting)'
+    )
+    parser.add_argument(
+        "--skip-existing",
+        action="store_true",
+        help="Skip generating files that already exist"
     )
     
     args = parser.parse_args()
@@ -716,7 +806,8 @@ if __name__ == "__main__":
             tenses=args.tenses,
             pronouns=args.pronouns,
             polarities=args.polarities,
-            provider=args.provider
+            provider=args.provider,
+            skip_existing=args.skip_existing
         )
     else:
         top_n = args.top_n_verbs if args.top_n_verbs else 10
@@ -726,5 +817,6 @@ if __name__ == "__main__":
             tenses=args.tenses,
             pronouns=args.pronouns,
             polarities=args.polarities,
-            provider=args.provider
+            provider=args.provider,
+            skip_existing=args.skip_existing
         )

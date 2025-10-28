@@ -54,14 +54,18 @@ interface LearningCardProps {
   currentVerb: string;
   currentTense: string;
   currentPronoun: string | null;
+  currentPolarity: 'positive' | 'negative';
   currentRank: number;
   onNextTense: () => void;
   onNextPronoun: () => void;
+  onNextPolarity: () => void;
   onPrevTense: () => void;
   onPrevPronoun: () => void;
+  onPrevPolarity: () => void;
   onGoToVerb: (verb: string) => void;
   onGoToTense: (tense: string) => void;
   onGoToPronoun: (pronoun: string) => void;
+  onGoToPolarity: (polarity: 'positive' | 'negative') => void;
 }
 
 export const LearningCard: React.FC<LearningCardProps> = ({
@@ -73,14 +77,18 @@ export const LearningCard: React.FC<LearningCardProps> = ({
   currentVerb,
   currentTense,
   currentPronoun,
+  currentPolarity,
   currentRank,
   onNextTense,
   onNextPronoun,
+  onNextPolarity,
   onPrevTense,
   onPrevPronoun,
+  onPrevPolarity,
   onGoToVerb,
   onGoToTense,
-  onGoToPronoun
+  onGoToPronoun,
+  onGoToPolarity
 }) => {
   const [userInput, setUserInput] = useState('');
   const [progress, setProgress] = useState<ProgressState>({
@@ -484,14 +492,18 @@ export const LearningCard: React.FC<LearningCardProps> = ({
         currentVerb={currentVerb}
         currentTense={currentTense}
         currentPronoun={currentPronoun}
+        currentPolarity={currentPolarity}
         currentRank={currentRank}
         onNextTense={onNextTense}
         onNextPronoun={onNextPronoun}
+        onNextPolarity={onNextPolarity}
         onPrevTense={onPrevTense}
         onPrevPronoun={onPrevPronoun}
+        onPrevPolarity={onPrevPolarity}
         onGoToVerb={onGoToVerb}
         onGoToTense={onGoToTense}
         onGoToPronoun={onGoToPronoun}
+        onGoToPolarity={onGoToPolarity}
       />
     </div>
   );

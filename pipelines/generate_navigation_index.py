@@ -55,10 +55,11 @@ def scan_verb_directory(verb_dir: Path) -> Dict[str, Any]:
         "files": []
     }
     
-    # Pattern to match file names: {pronoun}_{infinitive}_{tense}.json
+    # Pattern to match file names: {pronoun}_{infinitive}_{tense}[_olumsuz].json
     # For compound verbs like "sahip_olmak", we need to match the tense properly
     # Tenses are: geniş_zaman, geçmiş_zaman, şimdiki_zaman
-    file_pattern = re.compile(r'^(.+?)_(.+?)_(geniş_zaman|geçmiş_zaman|şimdiki_zaman)\.json$')
+    # Polarity: optional _olumsuz suffix for negative
+    file_pattern = re.compile(r'^(.+?)_(.+?)_(geniş_zaman|geçmiş_zaman|şimdiki_zaman)(_olumsuz)?\.json$')
     
     for file_path in verb_dir.glob("*.json"):
         if file_path.name.startswith('.'):
@@ -69,7 +70,8 @@ def scan_verb_directory(verb_dir: Path) -> Dict[str, Any]:
             print(f"  Warning: Could not parse file name: {file_path.name}")
             continue
             
-        pronoun, infinitive, tense = match.groups()
+        pronoun, infinitive, tense, polarity_suffix = match.groups()
+        polarity = 'negative' if polarity_suffix == '_olumsuz' else 'positive'
         
         # Load the file to get metadata
         try:
@@ -81,16 +83,22 @@ def scan_verb_directory(verb_dir: Path) -> Dict[str, Any]:
                 verb_info["english_name"] = data.get("verb_english", "")
                 verb_info["turkish_infinitive"] = data.get("verb_infinitive", infinitive)
             
-            # Add tense information
-            if tense not in verb_info["tenses"]:
-                verb_info["tenses"][tense] = {
+            # Create tense+polarity key for organizing files
+            tense_polarity_key = f"{tense}_{polarity}"
+            
+            # Add tense+polarity information
+            if tense_polarity_key not in verb_info["tenses"]:
+                verb_info["tenses"][tense_polarity_key] = {
+                    "tense": tense,
+                    "polarity": polarity,
                     "pronouns": [],
                     "files": []
                 }
             
-            verb_info["tenses"][tense]["pronouns"].append(pronoun)
-            verb_info["tenses"][tense]["files"].append({
+            verb_info["tenses"][tense_polarity_key]["pronouns"].append(pronoun)
+            verb_info["tenses"][tense_polarity_key]["files"].append({
                 "pronoun": pronoun,
+                "polarity": polarity,
                 "file_path": f"data/output/training_examples_for_verbs/{verb_dir.name}/{file_path.name}",
                 "relative_path": f"{verb_dir.name}/{file_path.name}"
             })
@@ -99,13 +107,14 @@ def scan_verb_directory(verb_dir: Path) -> Dict[str, Any]:
             verb_info["files"].append({
                 "pronoun": pronoun,
                 "tense": tense,
+                "polarity": polarity,
                 "infinitive": infinitive,
                 "file_path": f"data/output/training_examples_for_verbs/{verb_dir.name}/{file_path.name}",
                 "relative_path": f"{verb_dir.name}/{file_path.name}",
                 "rank": data.get("verb_rank", 0)
             })
             
-            print(f"  Found: {pronoun} + {infinitive} + {tense}")
+            print(f"  Found: {pronoun} + {infinitive} + {tense} ({polarity})")
             
         except (json.JSONDecodeError, FileNotFoundError) as e:
             print(f"  Error reading {file_path.name}: {e}")
@@ -116,7 +125,7 @@ def scan_verb_directory(verb_dir: Path) -> Dict[str, Any]:
         tense_info["pronouns"] = sorted(list(set(tense_info["pronouns"])))
         tense_info["files"] = sorted(tense_info["files"], key=lambda x: x["pronoun"])
     
-    verb_info["files"] = sorted(verb_info["files"], key=lambda x: (x["tense"], x["pronoun"]))
+    verb_info["files"] = sorted(verb_info["files"], key=lambda x: (x["tense"], x["polarity"], x["pronoun"]))
     
     return verb_info
 

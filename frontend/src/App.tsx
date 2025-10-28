@@ -20,6 +20,7 @@ const App: React.FC = () => {
   const [currentVerb, setCurrentVerb] = useState('to be');
   const [currentTense, setCurrentTense] = useState('şimdiki_zaman');
   const [currentPronoun, setCurrentPronoun] = useState<string | null>('ben');
+  const [currentPolarity, setCurrentPolarity] = useState<'positive' | 'negative'>('positive');
   const [currentRank, setCurrentRank] = useState(1);
   
   // Progress tracking
@@ -43,12 +44,13 @@ const App: React.FC = () => {
     setError(null);
     
     try {
-      console.log(`Loading example: verb="${currentVerb}", pronoun="${currentPronoun}", tense="${currentTense}"`);
+      console.log(`Loading example: verb="${currentVerb}", pronoun="${currentPronoun}", tense="${currentTense}", polarity="${currentPolarity}"`);
       
       const example = await dataLoader.loadTrainingExample(
         currentVerb,
         currentPronoun || 'ben',
-        currentTense
+        currentTense,
+        currentPolarity
       );
 
       if (!example) {
@@ -65,6 +67,7 @@ const App: React.FC = () => {
       // Sync UI state with what was actually loaded
       const actualTense = example.turkish_verb.verb_tense;
       const actualPronoun = example.turkish_verb.personal_pronoun;
+      const actualPolarity = example.turkish_verb.polarity;
       
       if (actualTense !== currentTense) {
         console.log(`Note: Requested tense "${currentTense}" not available, showing "${actualTense}"`);
@@ -74,6 +77,11 @@ const App: React.FC = () => {
       if (actualPronoun !== currentPronoun) {
         console.log(`Note: Requested pronoun "${currentPronoun}" not available, showing "${actualPronoun}"`);
         setCurrentPronoun(actualPronoun);
+      }
+      
+      if (actualPolarity !== currentPolarity) {
+        console.log(`Note: Requested polarity "${currentPolarity}" not available, showing "${actualPolarity}"`);
+        setCurrentPolarity(actualPolarity);
       }
       
     } catch (err) {
@@ -92,7 +100,7 @@ const App: React.FC = () => {
   useEffect(() => {
     console.log('useEffect triggered, loading example...'); // Debug log
     loadCurrentExample();
-  }, [currentVerb, currentTense, currentPronoun]);
+  }, [currentVerb, currentTense, currentPronoun, currentPolarity]);
 
   // Navigation handlers
   const handleNextTense = async () => {
@@ -112,17 +120,25 @@ const App: React.FC = () => {
   };
 
   const handleNextPronoun = async () => {
-    const nextPronoun = await dataLoader.getNextPronoun(currentVerb, currentTense, currentPronoun || '');
+    const nextPronoun = await dataLoader.getNextPronoun(currentVerb, currentTense, currentPronoun || '', currentPolarity);
     if (nextPronoun) {
       setCurrentPronoun(nextPronoun === 'none' ? null : nextPronoun);
     }
   };
 
   const handlePrevPronoun = async () => {
-    const prevPronoun = await dataLoader.getPrevPronoun(currentVerb, currentTense, currentPronoun || '');
+    const prevPronoun = await dataLoader.getPrevPronoun(currentVerb, currentTense, currentPronoun || '', currentPolarity);
     if (prevPronoun) {
       setCurrentPronoun(prevPronoun === 'none' ? null : prevPronoun);
     }
+  };
+
+  const handleNextPolarity = () => {
+    setCurrentPolarity(currentPolarity === 'positive' ? 'negative' : 'positive');
+  };
+
+  const handlePrevPolarity = () => {
+    setCurrentPolarity(currentPolarity === 'positive' ? 'negative' : 'positive');
   };
 
   // Direct navigation handlers for dropdowns
@@ -139,6 +155,10 @@ const App: React.FC = () => {
 
   const handleGoToPronoun = (pronoun: string) => {
     setCurrentPronoun(pronoun);
+  };
+
+  const handleGoToPolarity = (polarity: 'positive' | 'negative') => {
+    setCurrentPolarity(polarity);
   };
 
   const handleLevelChange = async (level: LanguageLevel) => {
@@ -303,14 +323,18 @@ const App: React.FC = () => {
             currentVerb={currentVerb}
             currentTense={currentTense}
             currentPronoun={currentPronoun}
+            currentPolarity={currentPolarity}
             currentRank={currentRank}
             onNextTense={handleNextTense}
             onNextPronoun={handleNextPronoun}
+            onNextPolarity={handleNextPolarity}
             onPrevTense={handlePrevTense}
             onPrevPronoun={handlePrevPronoun}
+            onPrevPolarity={handlePrevPolarity}
             onGoToVerb={handleGoToVerb}
             onGoToTense={handleGoToTense}
             onGoToPronoun={handleGoToPronoun}
+            onGoToPolarity={handleGoToPolarity}
           />
         </motion.div>
 

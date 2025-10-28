@@ -99,9 +99,10 @@ The pipeline includes intelligent retry logic:
 
 **2. Daily Quota Limits:**
 - ✅ Detects daily quota exhaustion
-- ✅ Stops pipeline immediately with clear error message
+- ✅ **Immediately stops pipeline** when daily limit is reached (no wasted attempts)
 - ✅ Preserves all successfully generated examples
-- ✅ Can resume next day from where it left off
+- ✅ Can resume next day using `--skip-existing` flag to continue from where it left off
+- ✅ Displays exact token usage before stopping
 
 ### Example Output During Rate Limiting
 
@@ -140,7 +141,19 @@ RuntimeError: Daily quota limit reached. Cannot continue.
 
 ### Recommended Workflow for Free Tier
 
-**Option 1: Process in Batches**
+**Option 1: Process in Batches with Skip-Existing**
+```bash
+# Day 1: Start processing 10 verbs, may hit daily limit partway through
+python pipelines/create_traing_example.py --language-level B2 --top-n-verbs 10 --provider gemini
+
+# Day 2: Resume from where you left off (skips already generated files)
+python pipelines/create_traing_example.py --language-level B2 --top-n-verbs 10 --provider gemini --skip-existing
+
+# Day 3: Continue until all combinations are complete
+python pipelines/create_traing_example.py --language-level B2 --top-n-verbs 10 --provider gemini --skip-existing
+```
+
+**Option 2: Process in Smaller Chunks**
 ```bash
 # Day 1: Process verbs 1-5
 python pipelines/create_traing_example.py --language-level A1 --top-n-verbs 5
@@ -152,7 +165,7 @@ python pipelines/create_traing_example.py --language-level A1 --verbs "to go" "t
 # ... and so on
 ```
 
-**Option 2: Filter by Specific Combinations**
+**Option 3: Filter by Specific Combinations**
 ```bash
 # Only present tense, save quota for other verbs
 python pipelines/create_traing_example.py --language-level A1 --top-n-verbs 10 \
@@ -163,7 +176,16 @@ python pipelines/create_traing_example.py --language-level A1 --top-n-verbs 10 \
   --pronouns ben sen o
 ```
 
-**Option 3: Upgrade to Paid Tier**
+**Option 4: Switch Providers**
+```bash
+# Use Azure until daily limit, then switch to Gemini
+python pipelines/create_traing_example.py --language-level B2 --top-n-verbs 10 --provider azure
+
+# When Azure hits limit, continue with Gemini (skip existing files)
+python pipelines/create_traing_example.py --language-level B2 --top-n-verbs 10 --provider gemini --skip-existing
+```
+
+**Option 5: Upgrade to Paid Tier**
 - Link Cloud Billing account in [AI Studio](https://aistudio.google.com/api-keys)
 - Get 10,000 requests/day (50x more)
 - Cost: ~$0.06-0.20 for 360 examples
@@ -205,6 +227,34 @@ python pipelines/create_traing_example.py --language-level A1 --top-n-verbs 5
 
 # Process top 20 verbs at B1 level  
 python pipelines/create_traing_example.py --language-level B1 --top-n-verbs 20
+
+# Use Gemini provider
+python pipelines/create_traing_example.py --language-level B2 --top-n-verbs 10 --provider gemini
+
+# Use Azure OpenAI provider
+python pipelines/create_traing_example.py --language-level B2 --top-n-verbs 10 --provider azure
+
+# Skip existing files (useful for resuming after hitting rate limits)
+python pipelines/create_traing_example.py --language-level B2 --top-n-verbs 10 --provider gemini --skip-existing
+```
+
+**Filter by specific combinations:**
+```bash
+# Only specific tenses
+python pipelines/create_traing_example.py --language-level A1 --top-n-verbs 10 \
+  --tenses şimdiki_zaman geniş_zaman
+
+# Only specific pronouns
+python pipelines/create_traing_example.py --language-level A1 --top-n-verbs 10 \
+  --pronouns ben sen o
+
+# Only positive or negative polarity
+python pipelines/create_traing_example.py --language-level B1 --top-n-verbs 5 \
+  --polarities positive
+
+# Specific verbs only
+python pipelines/create_traing_example.py --language-level A2 \
+  --verbs "to be" "to have" "to do"
 ```
 
 **All available options:**
@@ -231,6 +281,31 @@ main(language_level="A2", top_n_verbs=15)
   - Type: Integer
   - Default: `10`
   - Range: 1-300 (based on available verbs in CSV)
+
+- `--verbs`: Specific verbs to process (instead of top-n)
+  - Type: List of strings
+  - Example: `--verbs "to be" "to have" "to do"`
+
+- `--tenses`: Filter to specific tenses only
+  - Options: `şimdiki_zaman`, `geçmiş_zaman`, `geniş_zaman`, etc.
+  - Example: `--tenses şimdiki_zaman geçmiş_zaman`
+
+- `--pronouns`: Filter to specific pronouns only
+  - Options: `ben`, `sen`, `o`, `biz`, `siz`, `onlar`
+  - Example: `--pronouns ben sen o`
+
+- `--polarities`: Filter to specific polarities only
+  - Options: `positive`, `negative`
+  - Example: `--polarities positive`
+
+- `--provider`: Choose LLM provider
+  - Options: `gemini`, `azure`
+  - Default: Uses value from `config.toml`
+
+- `--skip-existing`: Skip generating files that already exist
+  - Type: Boolean flag (no value needed)
+  - Useful for resuming after hitting rate limits or errors
+  - Example: `--skip-existing`
 
 ## Output Structure
 

@@ -81,14 +81,18 @@ Create three natural example sentences:
 - Instead of "They are working" → use "The children are playing", "My parents are working", "The students are studying"
 
 **Turkish sentence**:
+- **⚠️ MINIMUM LENGTH: The sentence MUST have at least 4 words (not counting pronouns like ben/sen/o/biz/siz/onlar)**
+- **⚠️ REQUIRED COMPONENTS: Must include at least 2 nouns AND at least 1 adjective**
 - Include the conjugated verb form
 - Use specific nouns (people, places, things) to create meaningful context
 - Natural Turkish word order (SOV preferred)
-- Should contain 4-8 words
-- Try to use at least couple of nouns, besides verb and pronoun, when appropriate
-- Try to use one adjective 
+- **CRITICAL: Must contain at least 4 words EXCLUDING the pronoun (ben/sen/o/biz/siz/onlar)**
+  - ❌ WRONG (3 words): "Öğrenci başarılı oluyor" 
+  - ✅ CORRECT (4 words): "Öğrenci bu yıl başarılı oluyor"
+  - ✅ CORRECT (5 words): "Küçük çocuk parkta mutlu oluyor"
+- Should contain 4-10 words total (not counting pronouns)
+- If there is well known phrase with specified verb, like pronoun or something from song or poem, use them as example
 - Use vocabulary appropriate for {language_level} level Turkish learners
-- Common, basic words that beginners would know
 - Contextually meaningful and realistic
 - Avoid complex grammar structures beyond the target level
 
@@ -112,9 +116,23 @@ Create three natural example sentences:
 - Make sure the Turkish sentence follows natural word order patterns
 - Context should be familiar and relatable to language learners
 
-**FINAL CHECK before generating:**
-- Is polarity "{polarity}"?
-- If negative: Does verb_full contain the negative affix? Is polarity field set to "negative"? Is negative_affix filled?
-- If positive: Is verb_full without negative affix? Is polarity field set to "positive"? Is negative_affix null?
+## FINAL CHECK - VERIFY BEFORE GENERATING:
 
-Generate the training example now.
+**MANDATORY REQUIREMENTS:**
+1. ✅ Is polarity "{polarity}" correctly applied?
+   - If negative: Does verb_full contain the negative affix? Is polarity field = "negative"? Is negative_affix filled?
+   - If positive: Is verb_full without negative affix? Is polarity field = "positive"? Is negative_affix null?
+
+2. ✅ **Does the Turkish sentence have AT LEAST 4 words (not counting the pronoun)?**
+   - Count: Remove pronoun (ben/sen/o/biz/siz/onlar if present), then count remaining words
+   - Must be ≥ 4 words
+   - Example: "Öğrenci başarılı oluyor" = 3 words ❌ TOO SHORT - NEEDS 1 MORE WORD
+   - Example: "Öğrenci bu yıl başarılı oluyor" = 4 words ✅ CORRECT
+
+3. ✅ **Does the Turkish sentence include at least 2 nouns and 1 adjective?**
+   - Must have 2+ nouns (people, places, things)
+   - Must have 1+ adjective (descriptive word)
+
+**IF ALL CHECKS PASS:** Generate the training example now.
+**IF ANY CHECK FAILS:** Revise the sentence to meet ALL requirements, then generate.
+

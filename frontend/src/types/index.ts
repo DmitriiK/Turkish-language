@@ -7,6 +7,8 @@ export interface TurkishVerb {
   verb_tense: string;
   personal_pronoun: string | null;
   personal_affix: string | null;
+  polarity: 'positive' | 'negative';
+  negative_affix: string | null;
 }
 
 export interface TrainingExample {
