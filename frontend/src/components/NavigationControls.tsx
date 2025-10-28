@@ -5,11 +5,13 @@ import clsx from 'clsx';
 import { dataLoader } from '@/utils/dataLoader';
 
 interface NavigationControlsProps {
-  currentVerb: string;
+  currentVerb: string; // Internal English verb name (e.g., "to be")
+  currentVerbDisplay: string; // Display label (English or Turkish based on direction)
   currentTense: string;
   currentPronoun: string | null;
   currentPolarity: 'positive' | 'negative';
   currentRank: number;
+  languageLevel?: string; // Optional language level filter
   direction: 'english-to-turkish' | 'russian-to-turkish' | 'turkish-to-english' | 'turkish-to-russian';
   onNextTense: () => void;
   onNextPronoun: () => void;
@@ -25,10 +27,12 @@ interface NavigationControlsProps {
 
 export const NavigationControls: React.FC<NavigationControlsProps> = ({
   currentVerb,
+  currentVerbDisplay,
   currentTense,
   currentPronoun,
   currentPolarity,
   currentRank,
+  languageLevel,
   direction,
   onNextTense,
   onNextPronoun,
@@ -72,12 +76,12 @@ export const NavigationControls: React.FC<NavigationControlsProps> = ({
   };
 
   const handlePrevTenseWithWrap = async () => {
-    const prevTense = await dataLoader.getPrevTense(currentVerb, currentTense);
+    const prevTense = await dataLoader.getPrevTense(currentVerb, currentTense, languageLevel);
     if (prevTense) {
       onPrevTense();
     } else {
       // Wrap to last tense
-      const allTenses = await dataLoader.getAvailableTenses(currentVerb);
+      const allTenses = await dataLoader.getAvailableTenses(currentVerb, languageLevel);
       const lastTense = allTenses[allTenses.length - 1];
       if (lastTense && lastTense !== currentTense) {
         onGoToTense(lastTense);
@@ -86,12 +90,12 @@ export const NavigationControls: React.FC<NavigationControlsProps> = ({
   };
 
   const handleNextTenseWithWrap = async () => {
-    const nextTense = await dataLoader.getNextTense(currentVerb, currentTense);
+    const nextTense = await dataLoader.getNextTense(currentVerb, currentTense, languageLevel);
     if (nextTense) {
       onNextTense();
     } else {
       // Wrap to first tense
-      const allTenses = await dataLoader.getAvailableTenses(currentVerb);
+      const allTenses = await dataLoader.getAvailableTenses(currentVerb, languageLevel);
       const firstTense = allTenses[0];
       if (firstTense && firstTense !== currentTense) {
         onGoToTense(firstTense);
@@ -141,11 +145,7 @@ export const NavigationControls: React.FC<NavigationControlsProps> = ({
       <div className="grid grid-cols-4 gap-2">
         {/* Verb Navigation Control with Rank */}
         <NavigationTriple
-          label={
-            direction === 'turkish-to-english' || direction === 'turkish-to-russian'
-              ? `${currentRank}. ${currentVerb}` // Show full label (will be set to Turkish infinitive by parent)
-              : `${currentRank}. ${currentVerb.replace('to ', '')}`
-          }
+          label={`${currentRank}. ${currentVerbDisplay}`}
           onPrev={handlePrevVerbWithWrap}
           onNext={handleNextVerbWithWrap}
           onCenter={() => {}}
@@ -172,7 +172,7 @@ export const NavigationControls: React.FC<NavigationControlsProps> = ({
           dropdownItems={[]} // Will be populated by NavigationTriple component
           searchable={false}
           loadDropdownItems={async () => {
-            const tenses = await dataLoader.getAvailableTenses(currentVerb);
+            const tenses = await dataLoader.getAvailableTenses(currentVerb, languageLevel);
             return tenses.map(tense => ({
               label: tense.replace('_', ' '),
               value: tense,
@@ -260,14 +260,14 @@ const NavigationTriple: React.FC<NavigationTripleProps> = ({
   const [loading, setLoading] = useState(false);
 
   useEffect(() => {
-    if (isOpen && loadDropdownItems && dropdownItems.length === 0) {
+    if (isOpen && loadDropdownItems) {
       setLoading(true);
       loadDropdownItems().then(items => {
         setDropdownItems(items);
         setLoading(false);
       });
     }
-  }, [isOpen, loadDropdownItems, dropdownItems.length]);
+  }, [isOpen, loadDropdownItems]);
 
   const filteredItems = searchable 
     ? dropdownItems.filter(item => 

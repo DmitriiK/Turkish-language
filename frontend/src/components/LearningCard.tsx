@@ -19,6 +19,12 @@ const formatGrammarName = (tense: string): string => {
   return tenseNames[tense] || tense.replace('_', ' ');
 };
 
+// Helper function to format grammar name with level
+const formatGrammarNameWithLevel = (tense: string, level: string | null): string => {
+  const formattedName = formatGrammarName(tense);
+  return level ? `${formattedName} (${level})` : formattedName;
+};
+
 // Helper to check if text is definitely not part of the answer
 const isIncorrectText = (input: string, targetSentence: string): boolean => {
   const inputLower = input.toLowerCase().trim();
@@ -52,10 +58,12 @@ interface LearningCardProps {
   onNext: () => void;
   // Navigation props
   currentVerb: string;
+  currentVerbDisplay: string;
   currentTense: string;
   currentPronoun: string | null;
   currentPolarity: 'positive' | 'negative';
   currentRank: number;
+  languageLevel?: string; // Optional language level filter
   onNextTense: () => void;
   onNextPronoun: () => void;
   onNextPolarity: () => void;
@@ -75,10 +83,12 @@ export const LearningCard: React.FC<LearningCardProps> = ({
   onNext,
   // Navigation props
   currentVerb,
+  currentVerbDisplay,
   currentTense,
   currentPronoun,
   currentPolarity,
   currentRank,
+  languageLevel,
   onNextTense,
   onNextPronoun,
   onNextPolarity,
@@ -104,6 +114,22 @@ export const LearningCard: React.FC<LearningCardProps> = ({
     tenseAffix: false,
     personalAffix: false
   });
+  const [tenseLevel, setTenseLevel] = useState<string | null>(null);
+
+  // Load tense level mapping when component mounts or tense changes
+  useEffect(() => {
+    const loadTenseLevel = async () => {
+      try {
+        const response = await fetch('/data/tense_level_mapping.json');
+        const mapping: Record<string, string> = await response.json();
+        setTenseLevel(mapping[currentTense] || null);
+      } catch (error) {
+        console.error('Failed to load tense level mapping:', error);
+        setTenseLevel(null);
+      }
+    };
+    loadTenseLevel();
+  }, [currentTense]);
 
   // Reset state when example changes
   useEffect(() => {
@@ -331,7 +357,7 @@ export const LearningCard: React.FC<LearningCardProps> = ({
       <div className="mb-6">
         <div className="flex items-center justify-between mb-4">
           <div className="text-sm text-gray-500">
-            #{example.verb_rank} • {formatGrammarName(example.turkish_verb.verb_tense)}
+            #{example.verb_rank} • {formatGrammarNameWithLevel(example.turkish_verb.verb_tense, tenseLevel)}
           </div>
           <div className="text-sm font-medium text-primary-600">
             {source.language} → {targetLanguage}
@@ -490,10 +516,12 @@ export const LearningCard: React.FC<LearningCardProps> = ({
       {/* Navigation Controls */}
       <NavigationControls
         currentVerb={currentVerb}
+        currentVerbDisplay={currentVerbDisplay}
         currentTense={currentTense}
         currentPronoun={currentPronoun}
         currentPolarity={currentPolarity}
         currentRank={currentRank}
+        languageLevel={languageLevel}
         direction={direction}
         onNextTense={onNextTense}
         onNextPronoun={onNextPronoun}

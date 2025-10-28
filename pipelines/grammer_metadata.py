@@ -363,11 +363,6 @@ class TrainingExample(BaseModel):
     turkish_verb: TurkishVerb = Field(
         description="Complete Turkish verb conjugation with all grammatical components"
     )
-    
-    # Language learning metadata
-    language_level: LanguageLevel = Field(
-        description="Target language learning level for the example"
-    )
 
     # Example sentences
     english_example_sentence: str = Field(

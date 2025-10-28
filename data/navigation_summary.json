@@ -6,149 +6,264 @@
       "turkish": "olmak",
       "folder": "be",
       "tenses": [
-        "şimdiki_zaman_positive",
-        "geniş_zaman_negative",
-        "geçmiş_zaman_positive",
-        "geniş_zaman_positive",
-        "geçmiş_zaman_negative",
-        "şimdiki_zaman_negative"
+        "zarf_fiil",
+        "şimdiki_zaman",
+        "gelecek_zaman",
+        "istek_kipi",
+        "şartlı_kipi",
+        "yaracağım",
+        "zorunluluk_kipi",
+        "geçmiş_gelecek_zaman",
+        "ulak_fiil",
+        "geniş_zaman",
+        "imkan_kipi",
+        "gereklilik_kipi",
+        "şart_kipi",
+        "zaman_sıfatı",
+        "emir_kipi",
+        "geçmiş_zaman",
+        "sıfat_fiil"
       ],
-      "total_files": 42
+      "total_files": 107
     },
     {
       "english": "to do",
       "turkish": "yapmak",
       "folder": "do",
       "tenses": [
-        "geçmiş_zaman_negative",
-        "geçmiş_zaman_positive",
-        "geniş_zaman_positive",
-        "şimdiki_zaman_positive",
-        "şimdiki_zaman_negative",
-        "geniş_zaman_negative"
+        "geçmiş_zaman",
+        "geniş_zaman",
+        "şimdiki_zaman",
+        "gereklilik_kipi",
+        "zaman_sıfatı",
+        "şartlı_kipi",
+        "imkan_kipi",
+        "gelecek_zaman",
+        "şart_kipi",
+        "yaracağım",
+        "zarf_fiil",
+        "istek_kipi",
+        "ulak_fiil",
+        "geçmiş_gelecek_zaman",
+        "emir_kipi",
+        "zorunluluk_kipi",
+        "sıfat_fiil"
       ],
-      "total_files": 42
+      "total_files": 112
     },
     {
       "english": "to get",
       "turkish": "almak",
       "folder": "get",
       "tenses": [
-        "geniş_zaman_positive"
+        "geniş_zaman",
+        "şart_kipi",
+        "zaman_sıfatı",
+        "yaracağım",
+        "istek_kipi"
       ],
-      "total_files": 1
+      "total_files": 5
     },
     {
       "english": "to get (receive)",
       "turkish": "almak",
       "folder": "get_(receive)",
       "tenses": [
-        "geçmiş_zaman_positive",
-        "geniş_zaman_negative",
-        "geçmiş_zaman_negative",
-        "geniş_zaman_positive",
-        "şimdiki_zaman_negative",
-        "şimdiki_zaman_positive"
+        "geçmiş_zaman",
+        "geniş_zaman",
+        "şartlı_kipi",
+        "gelecek_zaman",
+        "zaman_sıfatı",
+        "şimdiki_zaman",
+        "sıfat_fiil",
+        "yaracağım",
+        "şart_kipi",
+        "imkan_kipi",
+        "ulak_fiil",
+        "istek_kipi",
+        "zarf_fiil",
+        "geçmiş_gelecek_zaman",
+        "zorunluluk_kipi",
+        "emir_kipi",
+        "gereklilik_kipi"
       ],
-      "total_files": 42
+      "total_files": 105
     },
     {
-      "english": "go",
+      "english": "to go",
       "turkish": "gitmek",
       "folder": "go",
       "tenses": [
-        "geniş_zaman_negative",
-        "geçmiş_zaman_positive",
-        "geniş_zaman_positive",
-        "geçmiş_zaman_negative",
-        "şimdiki_zaman_positive",
-        "şimdiki_zaman_negative"
+        "yaracağım",
+        "şartlı_kipi",
+        "geniş_zaman",
+        "geçmiş_gelecek_zaman",
+        "gelecek_zaman",
+        "gereklilik_kipi",
+        "geçmiş_zaman",
+        "istek_kipi",
+        "şart_kipi",
+        "imkan_kipi",
+        "zaman_sıfatı",
+        "zorunluluk_kipi",
+        "şimdiki_zaman",
+        "ulak_fiil",
+        "zarf_fiil",
+        "sıfat_fiil",
+        "emir_kipi"
       ],
-      "total_files": 42
+      "total_files": 107
     },
     {
       "english": "to have",
       "turkish": "sahip olmak",
       "folder": "have",
       "tenses": [
-        "geniş_zaman_positive",
-        "şimdiki_zaman_negative",
-        "geçmiş_zaman_positive",
-        "geniş_zaman_negative",
-        "geçmiş_zaman_negative",
-        "şimdiki_zaman_positive"
+        "olmak_ulak_fiil",
+        "olmak_şart_kipi",
+        "olmak_gelecek_zaman",
+        "olmak_zarf_fiil",
+        "olmak_imkan_kipi",
+        "olmak_zaman_sıfatı",
+        "olmak_geçmiş_gelecek_zaman",
+        "olmak_geniş_zaman",
+        "olmak_şimdiki_zaman",
+        "olmak_geçmiş_zaman",
+        "olmak_emir_kipi",
+        "olmak_şartlı_kipi",
+        "olmak_yaracağım",
+        "olmak_istek_kipi",
+        "geçmiş_zaman",
+        "olmak_sıfat_fiil",
+        "olmak_zorunluluk_kipi",
+        "olmak_gereklilik_kipi"
       ],
-      "total_files": 42
+      "total_files": 111
     },
     {
       "english": "to know",
       "turkish": "bilmek",
       "folder": "know",
       "tenses": [
-        "geniş_zaman_negative",
-        "geçmiş_zaman_positive",
-        "şimdiki_zaman_positive",
-        "geniş_zaman_positive",
-        "şimdiki_zaman_negative",
-        "geçmiş_zaman_negative"
+        "geniş_zaman",
+        "yaracağım",
+        "şart_kipi",
+        "imkan_kipi",
+        "zaman_sıfatı",
+        "gelecek_zaman",
+        "geçmiş_zaman",
+        "istek_kipi",
+        "şimdiki_zaman",
+        "zorunluluk_kipi",
+        "geçmiş_gelecek_zaman",
+        "şartlı_kipi",
+        "sıfat_fiil",
+        "gereklilik_kipi",
+        "emir_kipi",
+        "zarf_fiil",
+        "ulak_fiil"
       ],
-      "total_files": 42
+      "total_files": 103
     },
     {
       "english": "to make",
       "turkish": "yapmak",
       "folder": "make",
       "tenses": [
-        "geçmiş_zaman_negative",
-        "geçmiş_zaman_positive",
-        "geniş_zaman_positive",
-        "şimdiki_zaman_positive",
-        "şimdiki_zaman_negative",
-        "geniş_zaman_negative"
+        "geçmiş_zaman",
+        "geniş_zaman",
+        "şimdiki_zaman",
+        "zaman_sıfatı",
+        "şartlı_kipi",
+        "imkan_kipi",
+        "gelecek_zaman",
+        "şart_kipi",
+        "yaracağım",
+        "zarf_fiil",
+        "istek_kipi",
+        "ulak_fiil",
+        "geçmiş_gelecek_zaman",
+        "emir_kipi",
+        "zorunluluk_kipi",
+        "sıfat_fiil",
+        "gereklilik_kipi"
       ],
-      "total_files": 42
+      "total_files": 105
     },
     {
       "english": "say",
       "turkish": "söylemek",
       "folder": "say",
       "tenses": [
-        "geniş_zaman_positive",
-        "şimdiki_zaman_negative",
-        "geçmiş_zaman_positive",
-        "geçmiş_zaman_negative",
-        "geniş_zaman_negative",
-        "şimdiki_zaman_positive"
+        "geniş_zaman",
+        "yaracağım",
+        "şimdiki_zaman",
+        "geçmiş_gelecek_zaman",
+        "geçmiş_zaman",
+        "şart_kipi",
+        "zaman_sıfatı",
+        "gelecek_zaman",
+        "imkan_kipi",
+        "zorunluluk_kipi",
+        "ulak_fiil",
+        "istek_kipi",
+        "zarf_fiil",
+        "şartlı_kipi",
+        "emir_kipi",
+        "gereklilik_kipi",
+        "sıfat_fiil"
       ],
-      "total_files": 42
+      "total_files": 112
     },
     {
       "english": "to take",
       "turkish": "almak",
       "folder": "take",
       "tenses": [
-        "geçmiş_zaman_positive",
-        "geniş_zaman_negative",
-        "geçmiş_zaman_negative",
-        "geniş_zaman_positive",
-        "şimdiki_zaman_negative",
-        "şimdiki_zaman_positive"
+        "geçmiş_zaman",
+        "geniş_zaman",
+        "şartlı_kipi",
+        "gelecek_zaman",
+        "zaman_sıfatı",
+        "şimdiki_zaman",
+        "sıfat_fiil",
+        "yaracağım",
+        "şart_kipi",
+        "imkan_kipi",
+        "ulak_fiil",
+        "istek_kipi",
+        "zarf_fiil",
+        "geçmiş_gelecek_zaman",
+        "zorunluluk_kipi",
+        "emir_kipi",
+        "gereklilik_kipi"
       ],
-      "total_files": 42
+      "total_files": 106
     },
     {
       "english": "to think",
       "turkish": "düşünmek",
       "folder": "think",
       "tenses": [
-        "şimdiki_zaman_negative",
-        "geçmiş_zaman_positive",
-        "şimdiki_zaman_positive",
-        "geniş_zaman_positive",
-        "geçmiş_zaman_negative",
-        "geniş_zaman_negative"
+        "istek_kipi",
+        "şimdiki_zaman",
+        "şartlı_kipi",
+        "geçmiş_zaman",
+        "yaracağım",
+        "gelecek_zaman",
+        "geçmiş_gelecek_zaman",
+        "geniş_zaman",
+        "sıfat_fiil",
+        "ulak_fiil",
+        "zaman_sıfatı",
+        "zarf_fiil",
+        "imkan_kipi",
+        "emir_kipi",
+        "şart_kipi",
+        "zorunluluk_kipi",
+        "gereklilik_kipi"
       ],
-      "total_files": 42
+      "total_files": 104
     }
   ]
 }

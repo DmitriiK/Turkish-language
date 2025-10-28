@@ -17,7 +17,6 @@ export interface TrainingExample {
   verb_russian: string;
   verb_infinitive: string;
   turkish_verb: TurkishVerb;
-  language_level: string;
   english_example_sentence: string;
   russian_example_sentence: string;
   turkish_example_sentence: string;

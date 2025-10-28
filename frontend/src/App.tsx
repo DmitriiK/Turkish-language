@@ -171,8 +171,22 @@ const App: React.FC = () => {
 
   const handleLevelChange = async (level: LanguageLevel) => {
     setLanguageLevel(level);
-    // TODO: Implement level filtering when navigation index supports it
     console.log('Language level changed to:', level);
+    
+    // Check if current tense is available at this level
+    const availableTenses = await dataLoader.getAvailableTenses(currentVerb, level);
+    
+    // If current tense is not available at this level, switch to the first available tense
+    if (!availableTenses.includes(currentTense)) {
+      if (availableTenses.length > 0) {
+        const newTense = availableTenses[0];
+        setCurrentTense(newTense);
+        console.log(`Switching to first available tense for level ${level}: ${newTense}`);
+      }
+    } else {
+      // Reload the current example
+      loadCurrentExample();
+    }
   };
 
   const handleProgress = (newProgress: ProgressState) => {
@@ -328,11 +342,13 @@ const App: React.FC = () => {
             direction={direction}
             onProgress={handleProgress}
             onNext={handleNext}
-            currentVerb={currentVerbDisplay}
+            currentVerb={currentVerb}
+            currentVerbDisplay={currentVerbDisplay}
             currentTense={currentTense}
             currentPronoun={currentPronoun}
             currentPolarity={currentPolarity}
             currentRank={currentRank}
+            languageLevel={languageLevel}
             onNextTense={handleNextTense}
             onNextPronoun={handleNextPronoun}
             onNextPolarity={handleNextPolarity}

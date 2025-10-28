@@ -10,6 +10,18 @@ from typing import Dict, Any
 import re
 
 
+def load_tense_level_mapping() -> Dict[str, str]:
+    """Load the tense-to-level mapping from JSON file"""
+    mapping_file = Path(__file__).parent.parent / "data" / "tense_level_mapping.json"
+    
+    if not mapping_file.exists():
+        print(f"⚠️  Tense level mapping not found at {mapping_file}")
+        return {}
+    
+    with open(mapping_file, 'r', encoding='utf-8') as f:
+        return json.load(f)
+
+
 def scan_training_examples() -> Dict[str, Any]:
     """
     Scan all training example files and create navigation index.
@@ -19,6 +31,9 @@ def scan_training_examples() -> Dict[str, Any]:
         "verbs": [],
         "verb_data": {}
     }
+    
+    # Load tense-to-level mapping
+    tense_level_mapping = load_tense_level_mapping()
     
     print(f"Scanning directory: {base_path}")
     
@@ -34,7 +49,7 @@ def scan_training_examples() -> Dict[str, Any]:
         print(f"Processing verb directory: {verb_dir.name}")
         
         # Parse files in this verb directory
-        verb_info = scan_verb_directory(verb_dir)
+        verb_info = scan_verb_directory(verb_dir, tense_level_mapping)
         
         if verb_info and verb_info["files"]:  # Only include verbs with actual files
             navigation_index["verbs"].append(verb_info["english_name"])
@@ -43,7 +58,7 @@ def scan_training_examples() -> Dict[str, Any]:
     return navigation_index
 
 
-def scan_verb_directory(verb_dir: Path) -> Dict[str, Any]:
+def scan_verb_directory(verb_dir: Path, tense_level_mapping: Dict[str, str]) -> Dict[str, Any]:
     """
     Scan a single verb directory and extract all available combinations.
     """
@@ -57,9 +72,9 @@ def scan_verb_directory(verb_dir: Path) -> Dict[str, Any]:
     
     # Pattern to match file names: {pronoun}_{infinitive}_{tense}[_olumsuz].json
     # For compound verbs like "sahip_olmak", we need to match the tense properly
-    # Tenses are: geniş_zaman, geçmiş_zaman, şimdiki_zaman
-    # Polarity: optional _olumsuz suffix for negative
-    file_pattern = re.compile(r'^(.+?)_(.+?)_(geniş_zaman|geçmiş_zaman|şimdiki_zaman)(_olumsuz)?\.json$')
+    # Match any tense name (word characters and underscores) followed by optional _olumsuz
+    # Examples: geniş_zaman, geçmiş_zaman, şimdiki_zaman, gelecek_zaman, farzî_geçmiş_zaman, etc.
+    file_pattern = re.compile(r'^(.+?)_(.+?)_([a-zçğıöşü_]+)(_olumsuz)?\.json$')
     
     for file_path in verb_dir.glob("*.json"):
         if file_path.name.startswith('.'):
@@ -70,8 +85,16 @@ def scan_verb_directory(verb_dir: Path) -> Dict[str, Any]:
             print(f"  Warning: Could not parse file name: {file_path.name}")
             continue
             
-        pronoun, infinitive, tense, polarity_suffix = match.groups()
-        polarity = 'negative' if polarity_suffix == '_olumsuz' else 'positive'
+        pronoun, infinitive, tense_raw, polarity_suffix = match.groups()
+        
+        # Strip _olumsuz from tense name if it's part of the tense itself
+        # (some files have it as suffix, others embed it in tense name)
+        if tense_raw.endswith('_olumsuz'):
+            tense = tense_raw[:-8]  # Remove '_olumsuz' suffix (8 characters)
+            polarity = 'negative'
+        else:
+            tense = tense_raw
+            polarity = 'negative' if polarity_suffix == '_olumsuz' else 'positive'
         
         # Load the file to get metadata
         try:
@@ -83,20 +106,26 @@ def scan_verb_directory(verb_dir: Path) -> Dict[str, Any]:
                 verb_info["english_name"] = data.get("verb_english", "")
                 verb_info["turkish_infinitive"] = data.get("verb_infinitive", infinitive)
             
-            # Create tense+polarity key for organizing files
-            tense_polarity_key = f"{tense}_{polarity}"
+            # Get language level from the tense_level_mapping based on the tense
+            language_level = tense_level_mapping.get(tense, "All")
             
-            # Add tense+polarity information
-            if tense_polarity_key not in verb_info["tenses"]:
-                verb_info["tenses"][tense_polarity_key] = {
+            # Add tense information (polarity is a separate dimension now)
+            if tense not in verb_info["tenses"]:
+                verb_info["tenses"][tense] = {
                     "tense": tense,
-                    "polarity": polarity,
-                    "pronouns": [],
-                    "files": []
+                    "language_levels": set(),  # Track all levels for this tense
+                    "polarities": {
+                        "positive": {"pronouns": [], "files": []},
+                        "negative": {"pronouns": [], "files": []}
+                    }
                 }
             
-            verb_info["tenses"][tense_polarity_key]["pronouns"].append(pronoun)
-            verb_info["tenses"][tense_polarity_key]["files"].append({
+            # Add language level to the tense (use set to avoid duplicates)
+            verb_info["tenses"][tense]["language_levels"].add(language_level)
+            
+            # Add file to the appropriate polarity (removed language_level from file metadata)
+            verb_info["tenses"][tense]["polarities"][polarity]["pronouns"].append(pronoun)
+            verb_info["tenses"][tense]["polarities"][polarity]["files"].append({
                 "pronoun": pronoun,
                 "polarity": polarity,
                 "file_path": f"data/output/training_examples_for_verbs/{verb_dir.name}/{file_path.name}",
@@ -120,10 +149,14 @@ def scan_verb_directory(verb_dir: Path) -> Dict[str, Any]:
             print(f"  Error reading {file_path.name}: {e}")
             continue
     
-    # Sort pronouns for consistent ordering
+    # Sort pronouns for consistent ordering and convert language_levels set to sorted list
     for tense_info in verb_info["tenses"].values():
-        tense_info["pronouns"] = sorted(list(set(tense_info["pronouns"])))
-        tense_info["files"] = sorted(tense_info["files"], key=lambda x: x["pronoun"])
+        # Convert language_levels set to sorted list
+        tense_info["language_levels"] = sorted(list(tense_info["language_levels"]))
+        
+        for polarity_data in tense_info["polarities"].values():
+            polarity_data["pronouns"] = sorted(list(set(polarity_data["pronouns"])))
+            polarity_data["files"] = sorted(polarity_data["files"], key=lambda x: x["pronoun"])
     
     verb_info["files"] = sorted(verb_info["files"], key=lambda x: (x["tense"], x["polarity"], x["pronoun"]))
     
