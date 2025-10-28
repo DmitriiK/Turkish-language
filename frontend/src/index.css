@@ -44,4 +44,11 @@
   .input-error {
     @apply border-red-500 bg-red-50;
   }
+
+  /* Placeholder for contenteditable div */
+  [contenteditable].empty:before {
+    content: attr(data-placeholder);
+    color: #9ca3af;
+    pointer-events: none;
+  }
 }

@@ -39,6 +39,7 @@ export interface LearningSession {
 
 export interface ProgressState {
   verbRoot: boolean;
+  negativeAffix: boolean;
   tenseAffix: boolean;
   personalAffix: boolean;
   fullSentence: boolean;
