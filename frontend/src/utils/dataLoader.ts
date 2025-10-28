@@ -225,9 +225,9 @@ class DataLoader {
    * Get all available verbs with their ranks
    * Extracts actual verb_rank from training example files in navigation index
    */
-  async getVerbsWithRanks(): Promise<Array<{ verb: string; rank: number }>> {
+  async getVerbsWithRanks(): Promise<Array<{ verb: string; rank: number; turkishInfinitive: string }>> {
     const navIndex = await this.loadNavigationIndex();
-    const verbRanks = new Map<string, number>();
+    const verbRanks = new Map<string, { rank: number; turkishInfinitive: string }>();
     
     // Extract verb ranks from navigation index files
     // Use the first valid (non-zero, non-null) rank found for each verb
@@ -239,13 +239,20 @@ class DataLoader {
       if (ranks.length > 0) {
         // Use the minimum rank (most common)
         const minRank = Math.min(...ranks);
-        verbRanks.set(verbEnglish, minRank);
+        verbRanks.set(verbEnglish, { 
+          rank: minRank, 
+          turkishInfinitive: verbData.turkish_infinitive 
+        });
       }
     }
     
     // Convert to array and sort by rank
     const verbsWithRanks = Array.from(verbRanks.entries())
-      .map(([verb, rank]) => ({ verb, rank }))
+      .map(([verb, data]) => ({ 
+        verb, 
+        rank: data.rank, 
+        turkishInfinitive: data.turkishInfinitive 
+      }))
       .sort((a, b) => a.rank - b.rank);
     
     console.log('Verbs with ranks (sorted by rank):', verbsWithRanks.slice(0, 5));
@@ -268,6 +275,21 @@ class DataLoader {
     const tenses = Object.keys(verbData.tenses);
     console.log(`Available tenses for "${verbEnglish}":`, tenses);
     return tenses;
+  }
+
+  /**
+   * Get Turkish infinitive for a verb
+   */
+  async getTurkishInfinitive(verbEnglish: string): Promise<string | null> {
+    const navIndex = await this.loadNavigationIndex();
+    const verbData = navIndex.verb_data[verbEnglish];
+    
+    if (!verbData) {
+      console.warn(`Verb "${verbEnglish}" not found in navigation index`);
+      return null;
+    }
+    
+    return verbData.turkish_infinitive;
   }
 
   /**

@@ -494,6 +494,7 @@ export const LearningCard: React.FC<LearningCardProps> = ({
         currentPronoun={currentPronoun}
         currentPolarity={currentPolarity}
         currentRank={currentRank}
+        direction={direction}
         onNextTense={onNextTense}
         onNextPronoun={onNextPronoun}
         onNextPolarity={onNextPolarity}

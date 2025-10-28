@@ -18,6 +18,7 @@ const App: React.FC = () => {
   
   // Navigation state
   const [currentVerb, setCurrentVerb] = useState('to be');
+  const [currentVerbDisplay, setCurrentVerbDisplay] = useState('be'); // Display label for the verb
   const [currentTense, setCurrentTense] = useState('şimdiki_zaman');
   const [currentPronoun, setCurrentPronoun] = useState<string | null>('ben');
   const [currentPolarity, setCurrentPolarity] = useState<'positive' | 'negative'>('positive');
@@ -63,6 +64,13 @@ const App: React.FC = () => {
       // This handles cases where requested pronoun/tense wasn't available
       setCurrentExample(example);
       setCurrentRank(example.verb_rank);
+      
+      // Update verb display based on direction
+      if (direction === 'turkish-to-english' || direction === 'turkish-to-russian') {
+        setCurrentVerbDisplay(example.verb_infinitive);
+      } else {
+        setCurrentVerbDisplay(example.verb_english.replace('to ', ''));
+      }
       
       // Sync UI state with what was actually loaded
       const actualTense = example.turkish_verb.verb_tense;
@@ -320,7 +328,7 @@ const App: React.FC = () => {
             direction={direction}
             onProgress={handleProgress}
             onNext={handleNext}
-            currentVerb={currentVerb}
+            currentVerb={currentVerbDisplay}
             currentTense={currentTense}
             currentPronoun={currentPronoun}
             currentPolarity={currentPolarity}

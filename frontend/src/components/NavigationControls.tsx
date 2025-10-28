@@ -10,6 +10,7 @@ interface NavigationControlsProps {
   currentPronoun: string | null;
   currentPolarity: 'positive' | 'negative';
   currentRank: number;
+  direction: 'english-to-turkish' | 'russian-to-turkish' | 'turkish-to-english' | 'turkish-to-russian';
   onNextTense: () => void;
   onNextPronoun: () => void;
   onNextPolarity: () => void;
@@ -28,6 +29,7 @@ export const NavigationControls: React.FC<NavigationControlsProps> = ({
   currentPronoun,
   currentPolarity,
   currentRank,
+  direction,
   onNextTense,
   onNextPronoun,
   onNextPolarity,
@@ -139,7 +141,11 @@ export const NavigationControls: React.FC<NavigationControlsProps> = ({
       <div className="grid grid-cols-4 gap-2">
         {/* Verb Navigation Control with Rank */}
         <NavigationTriple
-          label={`${currentRank}. ${currentVerb.replace('to ', '')}`}
+          label={
+            direction === 'turkish-to-english' || direction === 'turkish-to-russian'
+              ? `${currentRank}. ${currentVerb}` // Show full label (will be set to Turkish infinitive by parent)
+              : `${currentRank}. ${currentVerb.replace('to ', '')}`
+          }
           onPrev={handlePrevVerbWithWrap}
           onNext={handleNextVerbWithWrap}
           onCenter={() => {}}
@@ -147,9 +153,11 @@ export const NavigationControls: React.FC<NavigationControlsProps> = ({
           searchable={true}
           loadDropdownItems={async () => {
             const verbsWithRank = await dataLoader.getVerbsWithRanks();
-            return verbsWithRank.map(({ verb, rank }) => ({
-              label: `${rank}. ${verb}`,
-              value: verb,
+            const isTurkishSource = direction === 'turkish-to-english' || direction === 'turkish-to-russian';
+            
+            return verbsWithRank.map(({ verb, rank, turkishInfinitive }) => ({
+              label: isTurkishSource ? `${rank}. ${turkishInfinitive}` : `${rank}. ${verb}`,
+              value: verb, // Always use English as the internal value
               onSelect: () => onGoToVerb(verb)
             }));
           }}
