@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Turkish Vowel Harmony - Grammar Reference</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+        }
+        .harmony-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+        }
+        .vowel-box {
+            padding: 1rem;
+            border-radius: 0.5rem;
+            text-align: center;
+            font-size: 2rem;
+            font-weight: bold;
+        }
+        .back-vowel {
+            background: #fef3c7;
+            border: 2px solid #f59e0b;
+        }
+        .front-vowel {
+            background: #dbeafe;
+            border: 2px solid #3b82f6;
+        }
+    </style>
+</head>
+<body class="bg-gray-100 p-6">
+    <div class="max-w-5xl mx-auto">
+        <header class="bg-gradient-to-r from-purple-600 to-purple-800 text-white rounded-lg shadow-lg p-6 mb-6">
+            <h1 class="text-4xl font-bold mb-2">Turkish Vowel Harmony</h1>
+            <p class="text-lg opacity-90">Understanding the Foundation of Turkish Grammar</p>
+        </header>
+
+        <!-- Introduction -->
+        <div class="bg-white rounded-lg shadow-md p-6 mb-6">
+            <h2 class="text-2xl font-bold text-gray-800 mb-4 border-b-2 border-purple-500 pb-2">What is Vowel Harmony?</h2>
+            <p class="text-gray-700 text-lg leading-relaxed mb-4">
+                Vowel harmony is one of the most important rules in Turkish grammar. It means that suffixes change their vowels 
+                to match the vowels in the word root. This creates a smooth, melodic sound in Turkish.
+            </p>
+            <p class="text-gray-700 text-lg leading-relaxed">
+                Turkish has <strong>8 vowels</strong> divided into two groups based on where they are pronounced in the mouth:
+            </p>
+        </div>
+
+        <!-- Vowel Groups -->
+        <div class="bg-white rounded-lg shadow-md p-6 mb-6">
+            <h2 class="text-2xl font-bold text-gray-800 mb-4 border-b-2 border-purple-500 pb-2">Turkish Vowels</h2>
+            
+            <div class="harmony-grid mb-6">
+                <div class="vowel-box back-vowel">
+                    <div>a</div>
+                    <div class="text-sm font-normal mt-2">back, unrounded</div>
+                </div>
+                <div class="vowel-box back-vowel">
+                    <div>ı</div>
+                    <div class="text-sm font-normal mt-2">back, unrounded</div>
+                </div>
+                <div class="vowel-box back-vowel">
+                    <div>o</div>
+                    <div class="text-sm font-normal mt-2">back, rounded</div>
+                </div>
+                <div class="vowel-box back-vowel">
+                    <div>u</div>
+                    <div class="text-sm font-normal mt-2">back, rounded</div>
+                </div>
+            </div>
+
+            <div class="harmony-grid">
+                <div class="vowel-box front-vowel">
+                    <div>e</div>
+                    <div class="text-sm font-normal mt-2">front, unrounded</div>
+                </div>
+                <div class="vowel-box front-vowel">
+                    <div>i</div>
+                    <div class="text-sm font-normal mt-2">front, unrounded</div>
+                </div>
+                <div class="vowel-box front-vowel">
+                    <div>ö</div>
+                    <div class="text-sm font-normal mt-2">front, rounded</div>
+                </div>
+                <div class="vowel-box front-vowel">
+                    <div>ü</div>
+                    <div class="text-sm font-normal mt-2">front, rounded</div>
+                </div>
+            </div>
+
+            <div class="mt-6 p-4 bg-yellow-50 border-l-4 border-yellow-500 rounded">
+                <p class="text-gray-700">
+                    <strong>📌 Key Point:</strong> <span class="text-yellow-800 font-semibold">Back vowels</span> (a, ı, o, u) 
+                    and <span class="text-blue-800 font-semibold">front vowels</span> (e, i, ö, ü) never mix in the same word!
+                </p>
+            </div>
+        </div>
+
+        <!-- 2-Way Harmony -->
+        <div class="bg-white rounded-lg shadow-md p-6 mb-6">
+            <h2 class="text-2xl font-bold text-gray-800 mb-4 border-b-2 border-purple-500 pb-2">2-Way Vowel Harmony (e/a)</h2>
+            <p class="text-gray-700 mb-4">
+                Used in suffixes with only two forms. The suffix vowel is either <strong>e</strong> or <strong>a</strong>:
+            </p>
+            
+            <div class="overflow-x-auto mb-4">
+                <table class="w-full border-collapse">
+                    <thead>
+                        <tr>
+                            <th class="bg-purple-100 text-left p-3 font-semibold text-gray-700 border border-gray-300">Last vowel in root</th>
+                            <th class="bg-purple-100 text-left p-3 font-semibold text-gray-700 border border-gray-300">Suffix vowel</th>
+                            <th class="bg-purple-100 text-left p-3 font-semibold text-gray-700 border border-gray-300">Example</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="bg-yellow-50">
+                            <td class="p-3 border border-gray-300"><strong>e, i, ö, ü</strong> (front)</td>
+                            <td class="p-3 border border-gray-300"><strong class="text-2xl">e</strong></td>
+                            <td class="p-3 border border-gray-300">ev → ev<strong>de</strong> (in the house)<br>gül → gül<strong>me</strong> (don't laugh)</td>
+                        </tr>
+                        <tr>
+                            <td class="p-3 border border-gray-300"><strong>a, ı, o, u</strong> (back)</td>
+                            <td class="p-3 border border-gray-300"><strong class="text-2xl">a</strong></td>
+                            <td class="p-3 border border-gray-300">okul → okul<strong>da</strong> (in the school)<br>yap → yap<strong>ma</strong> (don't do)</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="p-4 bg-blue-50 border-l-4 border-blue-500 rounded">
+                <h3 class="font-semibold text-blue-800 mb-2">Common suffixes using 2-way harmony:</h3>
+                <ul class="list-disc list-inside text-gray-700 space-y-1">
+                    <li><strong>-de/-da</strong> (locative: in, at, on)</li>
+                    <li><strong>-den/-dan</strong> (ablative: from)</li>
+                    <li><strong>-me/-ma</strong> (negative suffix)</li>
+                    <li><strong>-le/-la</strong> (with, instrumental)</li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- 4-Way Harmony -->
+        <div class="bg-white rounded-lg shadow-md p-6 mb-6">
+            <h2 class="text-2xl font-bold text-gray-800 mb-4 border-b-2 border-purple-500 pb-2">4-Way Vowel Harmony (i/ı/u/ü)</h2>
+            <p class="text-gray-700 mb-4">
+                Used in suffixes that have four forms. The suffix vowel matches the <strong>last vowel</strong> of the root more precisely:
+            </p>
+            
+            <div class="overflow-x-auto mb-4">
+                <table class="w-full border-collapse">
+                    <thead>
+                        <tr>
+                            <th class="bg-purple-100 text-left p-3 font-semibold text-gray-700 border border-gray-300">Last vowel in root</th>
+                            <th class="bg-purple-100 text-left p-3 font-semibold text-gray-700 border border-gray-300">Suffix vowel</th>
+                            <th class="bg-purple-100 text-left p-3 font-semibold text-gray-700 border border-gray-300">Example</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td class="p-3 border border-gray-300"><strong>a, ı</strong></td>
+                            <td class="p-3 border border-gray-300"><strong class="text-2xl">ı</strong></td>
+                            <td class="p-3 border border-gray-300">yap → yap<strong>ıyor</strong> (is doing)<br>kal → kal<strong>ın</strong> (thick)</td>
+                        </tr>
+                        <tr class="bg-gray-50">
+                            <td class="p-3 border border-gray-300"><strong>e, i</strong></td>
+                            <td class="p-3 border border-gray-300"><strong class="text-2xl">i</strong></td>
+                            <td class="p-3 border border-gray-300">gel → gel<strong>iyor</strong> (is coming)<br>ben → ben<strong>im</strong> (my)</td>
+                        </tr>
+                        <tr>
+                            <td class="p-3 border border-gray-300"><strong>o, u</strong></td>
+                            <td class="p-3 border border-gray-300"><strong class="text-2xl">u</strong></td>
+                            <td class="p-3 border border-gray-300">oku → oku<strong>yor</strong> (is reading)<br>yol → yol<strong>um</strong> (my road)</td>
+                        </tr>
+                        <tr class="bg-gray-50">
+                            <td class="p-3 border border-gray-300"><strong>ö, ü</strong></td>
+                            <td class="p-3 border border-gray-300"><strong class="text-2xl">ü</strong></td>
+                            <td class="p-3 border border-gray-300">gör → gör<strong>üyor</strong> (is seeing)<br>göl → göl<strong>üm</strong> (my lake)</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="p-4 bg-blue-50 border-l-4 border-blue-500 rounded">
+                <h3 class="font-semibold text-blue-800 mb-2">Common suffixes using 4-way harmony:</h3>
+                <ul class="list-disc list-inside text-gray-700 space-y-1">
+                    <li><strong>-(ı/i/u/ü)yor</strong> (present continuous tense)</li>
+                    <li><strong>-(ı/i/u/ü)m</strong> (1st person possessive: my)</li>
+                    <li><strong>-d(ı/i/u/ü)</strong> (past tense)</li>
+                    <li><strong>-m(ı/i/u/ü)</strong> (question particle)</li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- Practice Examples -->
+        <div class="bg-white rounded-lg shadow-md p-6 mb-6">
+            <h2 class="text-2xl font-bold text-gray-800 mb-4 border-b-2 border-purple-500 pb-2">Practice Examples</h2>
+            
+            <div class="space-y-4">
+                <div class="p-4 bg-green-50 border-l-4 border-green-500 rounded">
+                    <h3 class="font-semibold text-green-800 mb-2">Example 1: Present Continuous (-iyor)</h3>
+                    <div class="text-gray-700 space-y-1">
+                        <p><strong>yap</strong> (last vowel: a) → yap<strong class="text-orange-600">ı</strong>yor (is doing)</p>
+                        <p><strong>gel</strong> (last vowel: e) → gel<strong class="text-blue-600">i</strong>yor (is coming)</p>
+                        <p><strong>oku</strong> (last vowel: u) → oku<strong class="text-purple-600">u</strong>yor → okuyor (is reading)</p>
+                        <p><strong>gör</strong> (last vowel: ö) → gör<strong class="text-pink-600">ü</strong>yor (is seeing)</p>
+                    </div>
+                </div>
+
+                <div class="p-4 bg-green-50 border-l-4 border-green-500 rounded">
+                    <h3 class="font-semibold text-green-800 mb-2">Example 2: Negative Suffix (-me/-ma)</h3>
+                    <div class="text-gray-700 space-y-1">
+                        <p><strong>yap</strong> (last vowel: a - back) → yap<strong class="text-orange-600">ma</strong> (don't do)</p>
+                        <p><strong>gel</strong> (last vowel: e - front) → gel<strong class="text-blue-600">me</strong> (don't come)</p>
+                        <p><strong>oku</strong> (last vowel: u - back) → oku<strong class="text-orange-600">ma</strong> (don't read)</p>
+                        <p><strong>gör</strong> (last vowel: ö - front) → gör<strong class="text-blue-600">me</strong> (don't see)</p>
+                    </div>
+                </div>
+
+                <div class="p-4 bg-green-50 border-l-4 border-green-500 rounded">
+                    <h3 class="font-semibold text-green-800 mb-2">Example 3: Locative Case (-de/-da)</h3>
+                    <div class="text-gray-700 space-y-1">
+                        <p><strong>ev</strong> (last vowel: e - front) → ev<strong class="text-blue-600">de</strong> (in the house)</p>
+                        <p><strong>okul</strong> (last vowel: u - back) → okul<strong class="text-orange-600">da</strong> (in the school)</p>
+                        <p><strong>İstanbul</strong> (last vowel: u - back) → İstanbul'<strong class="text-orange-600">da</strong> (in Istanbul)</p>
+                        <p><strong>köy</strong> (last vowel: ö - front) → köy<strong class="text-blue-600">de</strong> (in the village)</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Quick Reference -->
+        <div class="bg-gradient-to-r from-purple-600 to-purple-800 text-white rounded-lg shadow-md p-6 mb-6">
+            <h2 class="text-2xl font-bold mb-4">Quick Reference Chart</h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                <div class="bg-white bg-opacity-20 p-4 rounded">
+                    <h3 class="font-bold mb-2">2-Way Harmony</h3>
+                    <p class="text-sm">Front vowels (e,i,ö,ü) → <strong>e</strong></p>
+                    <p class="text-sm">Back vowels (a,ı,o,u) → <strong>a</strong></p>
+                </div>
+                <div class="bg-white bg-opacity-20 p-4 rounded">
+                    <h3 class="font-bold mb-2">4-Way Harmony</h3>
+                    <p class="text-sm">a,ı → <strong>ı</strong> | e,i → <strong>i</strong></p>
+                    <p class="text-sm">o,u → <strong>u</strong> | ö,ü → <strong>ü</strong></p>
+                </div>
+            </div>
+        </div>
+
+        <footer class="text-center text-gray-500 mt-8 pb-4">
+            <p>Turkish Language Learning App • Grammar Reference</p>
+        </footer>
+    </div>
+</body>
+</html>

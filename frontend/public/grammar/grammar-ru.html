@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title id="page-title">Справочник турецкой грамматики</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+        }
+        .grammar-card {
+            background: white;
+            border-radius: 0.5rem;
+            box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+            padding: 1.5rem;
+            margin-bottom: 1.5rem;
+        }
+        .section-title {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: #1f2937;
+            margin-bottom: 1rem;
+            border-bottom: 2px solid #3b82f6;
+            padding-bottom: 0.5rem;
+        }
+        .subsection-title {
+            font-size: 1.25rem;
+            font-weight: 600;
+            color: #374151;
+            margin-bottom: 0.75rem;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 1rem;
+        }
+        th {
+            background: #dbeafe;
+            text-align: left;
+            padding: 0.75rem;
+            font-weight: 600;
+            color: #374151;
+            border: 1px solid #d1d5db;
+        }
+        td {
+            padding: 0.75rem;
+            border: 1px solid #d1d5db;
+        }
+        tr:nth-child(even) {
+            background: #f9fafb;
+        }
+        .example {
+            background: #eff6ff;
+            border-left: 4px solid #3b82f6;
+            padding: 1rem;
+            margin-bottom: 0.75rem;
+            border-radius: 0.25rem;
+        }
+        .turkish-text {
+            font-weight: 600;
+            color: #1f2937;
+        }
+        .translation-text {
+            color: #4b5563;
+            margin-top: 0.25rem;
+        }
+        .affix-badge {
+            display: inline-block;
+            background: #2563eb;
+            color: white;
+            padding: 0.25rem 0.5rem;
+            border-radius: 0.25rem;
+            font-family: monospace;
+            font-size: 0.875rem;
+        }
+        .negative-affix {
+            display: inline-block;
+            background: #9333ea;
+            color: white;
+            padding: 0.25rem 0.5rem;
+            border-radius: 0.25rem;
+            font-family: monospace;
+            font-size: 0.875rem;
+        }
+        ul {
+            list-style-type: disc;
+            list-style-position: inside;
+            margin-bottom: 1rem;
+        }
+        ul li {
+            color: #374151;
+            margin-bottom: 0.5rem;
+        }
+    </style>
+</head>
+<body class="bg-gray-100 p-6">
+    <div class="max-w-5xl mx-auto">
+        <header class="bg-gradient-to-r from-blue-600 to-blue-800 text-white rounded-lg shadow-lg p-6 mb-6">
+            <h1 id="main-title" class="text-4xl font-bold mb-2">Справочник турецкой грамматики</h1>
+            <p id="level-badge" class="text-lg opacity-90"></p>
+        </header>
+
+        <div class="grammar-card">
+            <h2 class="section-title">Описание</h2>
+            <p id="description" class="text-gray-700 text-lg leading-relaxed mb-4"></p>
+            
+            <!-- Vowel Harmony Link -->
+            <div id="vowel-harmony-section" class="mt-4 p-4 bg-purple-50 border-l-4 border-purple-500 rounded" style="display: none;">
+                <p class="text-gray-700">
+                    <strong>📚 Примечание:</strong> В этом времени используются правила сингармонизма гласных. 
+                    <a id="vowel-harmony-link" href="#" target="_blank" class="text-purple-600 hover:text-purple-800 underline font-semibold">
+                        Нажмите здесь, чтобы узнать о сингармонизме гласных
+                    </a>
+                </p>
+            </div>
+        </div>
+
+        <div class="grammar-card">
+            <h2 class="section-title">Использование</h2>
+            <ul id="usage-list" class="text-gray-700"></ul>
+        </div>
+
+        <div class="grammar-card">
+            <h2 class="section-title">Образование</h2>
+            <div id="vowel-harmony-link-container" class="mb-4 p-4 bg-purple-50 border-l-4 border-purple-500 rounded" style="display: none;">
+                <p class="text-gray-700">
+                    <strong>📖 Важно:</strong> В этом времени используются <a id="vowel-harmony-link" href="#" target="_blank" class="text-purple-700 hover:text-purple-900 underline font-semibold">правила сингармонизма гласных</a>. Нажмите, чтобы узнать больше о том, как изменяются гласные в суффиксах.
+                </p>
+            </div>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-4">
+                <div class="bg-green-50 p-4 rounded border border-green-300">
+                    <h3 class="font-semibold text-green-800 mb-2">✅ Утвердительная форма</h3>
+                    <p id="formation-positive" class="text-gray-700 font-mono text-sm"></p>
+                </div>
+                <div class="bg-red-50 p-4 rounded border border-red-300">
+                    <h3 class="font-semibold text-red-800 mb-2">❌ Отрицательная форма</h3>
+                    <p id="formation-negative" class="text-gray-700 font-mono text-sm"></p>
+                </div>
+                <div class="bg-blue-50 p-4 rounded border border-blue-300">
+                    <h3 class="font-semibold text-blue-800 mb-2">❓ Вопросительная форма</h3>
+                    <p id="formation-interrogative" class="text-gray-700 font-mono text-sm"></p>
+                </div>
+            </div>
+            
+            <!-- Vowel Harmony Note -->
+            <div id="vowel-harmony-note-container" class="mt-4 p-4 bg-yellow-50 border-l-4 border-yellow-500 rounded" style="display: none;">
+                <p class="text-gray-700">
+                    <strong>🎵 Сингармонизм гласных:</strong> <span id="vowel-harmony-note"></span>
+                </p>
+            </div>
+        </div>
+
+        <div class="grammar-card">
+            <h2 class="section-title">Показатели времени (аффиксы)</h2>
+            <div class="overflow-x-auto">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Аффикс</th>
+                            <th>Описание</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tense-markers-table"></tbody>
+                </table>
+            </div>
+            <div id="negative-affix-section" class="mt-4 bg-purple-50 p-4 rounded border border-purple-300">
+                <h3 class="font-semibold text-purple-800 mb-2">Отрицательный аффикс</h3>
+                <p id="negative-affix-desc" class="text-gray-700"></p>
+            </div>
+        </div>
+
+        <div class="grammar-card">
+            <h2 class="section-title">Личные окончания</h2>
+            <div class="overflow-x-auto">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Местоимение</th>
+                            <th>Окончание</th>
+                            <th>Пример</th>
+                        </tr>
+                    </thead>
+                    <tbody id="personal-endings-table"></tbody>
+                </table>
+            </div>
+        </div>
+
+        <div class="grammar-card">
+            <h2 class="section-title">Примеры</h2>
+            <div id="examples-container"></div>
+        </div>
+
+        <footer class="text-center text-gray-500 mt-8 pb-4">
+            <p>Приложение для изучения турецкого языка • Грамматический справочник</p>
+        </footer>
+    </div>
+
+    <script>
+        // Get tense key from URL parameter
+        const urlParams = new URLSearchParams(window.location.search);
+        const tenseKey = urlParams.get('tense');
+        const language = 'russian'; // This page is for Russian
+
+        if (!tenseKey) {
+            document.body.innerHTML = '<div class="max-w-5xl mx-auto mt-10"><div class="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded">Ошибка: В URL не указано время глагола</div></div>';
+        } else {
+            // Load grammar data
+            fetch('/grammar/grammar_reference.json')
+                .then(response => response.json())
+                .then(data => {
+                    const tenseData = data[tenseKey];
+                    if (!tenseData) {
+                        throw new Error('Время не найдено: ' + tenseKey);
+                    }
+
+                    const langData = tenseData[language];
+                    
+                    // Set page title
+                    document.getElementById('page-title').textContent = `${langData.name} - Турецкая грамматика`;
+                    document.getElementById('main-title').textContent = langData.name;
+                    document.getElementById('level-badge').textContent = `${tenseData.turkish_name} • Уровень ${tenseData.level}`;
+
+                    // Set description
+                    document.getElementById('description').textContent = langData.description;
+
+                    // Set usage list
+                    const usageList = document.getElementById('usage-list');
+                    langData.usage.forEach(item => {
+                        const li = document.createElement('li');
+                        li.textContent = item;
+                        usageList.appendChild(li);
+                    });
+
+                    // Set vowel harmony link if available
+                    if (tenseData.vowel_harmony_link) {
+                        const linkContainer = document.getElementById('vowel-harmony-link-container');
+                        const link = document.getElementById('vowel-harmony-link');
+                        link.href = 'vowel-harmony-ru.html';
+                        linkContainer.style.display = 'block';
+                    }
+
+                    // Set formation
+                    document.getElementById('formation-positive').textContent = langData.formation.positive;
+                    document.getElementById('formation-negative').textContent = langData.formation.negative;
+                    document.getElementById('formation-interrogative').textContent = langData.formation.interrogative || 'Добавьте вопросительную частицу mı/mi/mu/mü в конце';
+                    
+                    // Set vowel harmony note if available
+                    if (langData.formation.vowel_harmony_note) {
+                        const noteContainer = document.getElementById('vowel-harmony-note-container');
+                        const noteText = document.getElementById('vowel-harmony-note');
+                        noteText.textContent = langData.formation.vowel_harmony_note;
+                        noteContainer.style.display = 'block';
+                    }
+
+                    // Set tense markers table
+                    const tenseMarkersTable = document.getElementById('tense-markers-table');
+                    langData.affixes.tense_markers.forEach(marker => {
+                        const tr = document.createElement('tr');
+                        tr.innerHTML = `
+                            <td><span class="affix-badge">${marker.affix}</span></td>
+                            <td>${marker.description}</td>
+                        `;
+                        tenseMarkersTable.appendChild(tr);
+                    });
+
+                    // Set negative affix
+                    document.getElementById('negative-affix-desc').textContent = langData.affixes.negative_affix;
+
+                    // Set personal endings table
+                    const personalEndingsTable = document.getElementById('personal-endings-table');
+                    langData.affixes.personal_endings.forEach(ending => {
+                        const tr = document.createElement('tr');
+                        tr.innerHTML = `
+                            <td><strong>${ending.pronoun}</strong></td>
+                            <td><span class="affix-badge">${ending.ending}</span></td>
+                            <td><em>${ending.example}</em></td>
+                        `;
+                        personalEndingsTable.appendChild(tr);
+                    });
+
+                    // Set examples
+                    const examplesContainer = document.getElementById('examples-container');
+                    langData.examples.forEach((example, index) => {
+                        const div = document.createElement('div');
+                        div.className = 'example';
+                        div.innerHTML = `
+                            <div class="turkish-text">${index + 1}. ${example.turkish}</div>
+                            <div class="translation-text">${example.translation}</div>
+                        `;
+                        examplesContainer.appendChild(div);
+                    });
+                })
+                .catch(error => {
+                    console.error('Ошибка загрузки грамматических данных:', error);
+                    document.body.innerHTML = `<div class="max-w-5xl mx-auto mt-10"><div class="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded">Ошибка: ${error.message}</div></div>`;
+                });
+        }
+    </script>
+</body>
+</html>

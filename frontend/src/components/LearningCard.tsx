@@ -579,13 +579,36 @@ export const LearningCard: React.FC<LearningCardProps> = ({
   const targetLanguage = getTargetLanguage();
   const isLearningTurkish = direction.endsWith('turkish');
 
+  // Determine grammar page URL based on direction
+  const getGrammarPageUrl = () => {
+    const lang = direction.startsWith('russian') ? 'ru' : 'en';
+    return `/grammar/grammar-${lang}.html?tense=${example.turkish_verb.verb_tense}`;
+  };
+
+  // Get tooltip text based on language
+  const getGrammarTooltip = () => {
+    if (direction.startsWith('russian')) {
+      return 'Открыть справочник по грамматике в новом окне';
+    }
+    return 'Open grammar reference in a new window';
+  };
+
   return (
     <div className="card max-w-6xl mx-auto animate-fade-in">
       <div className="mb-6">
         <div className="flex items-center justify-between mb-4">
           <div className="flex items-center gap-4">
-            <div className="text-sm text-gray-500">
-              #{example.verb_rank} • {formatGrammarNameWithLevel(example.turkish_verb.verb_tense, tenseLevel)}
+            <div className="text-sm text-gray-500 flex items-center gap-2">
+              <span>#{example.verb_rank} •</span>
+              <a
+                href={getGrammarPageUrl()}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:text-blue-800 hover:underline cursor-pointer transition-colors"
+                title={getGrammarTooltip()}
+              >
+                {formatGrammarNameWithLevel(example.turkish_verb.verb_tense, tenseLevel)}
+              </a>
             </div>
             {/* Language Level Selector */}
             <div className="flex items-center gap-2">

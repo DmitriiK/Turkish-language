@@ -1,0 +1,583 @@
+{
+  "şimdiki_zaman": {
+    "turkish_name": "Şimdiki Zaman",
+    "level": "A1",
+    "vowel_harmony_link": true,
+    "english": {
+      "name": "Present Continuous Tense",
+      "description": "The present continuous tense (şimdiki zaman) is used to describe actions that are happening right now or ongoing actions in the present. It emphasizes that the action is in progress at the moment of speaking.",
+      "usage": [
+        "Actions happening at the moment of speaking",
+        "Temporary situations",
+        "Actions in progress during the current period"
+      ],
+      "formation": {
+        "positive": "Verb root + (ı|i|u|ü)yor + personal ending",
+        "negative": "Verb root + m(ı|i|u|ü)yor + personal ending",
+        "interrogative": "Verb root + (ı|i|u|ü)yor + mu/mü + personal ending",
+        "vowel_harmony_note": "The buffer vowel (ı|i|u|ü) follows 4-way vowel harmony based on the last vowel of the verb root. The negative prefix m- and interrogative particle mu/mü also follow vowel harmony."
+      },
+      "affixes": {
+        "tense_markers": [
+          {"affix": "ıyor", "description": "Buffer vowel ı + yor: after verbs with last vowel a or ı (e.g., yap → yapıyor)"},
+          {"affix": "iyor", "description": "Buffer vowel i + yor: after verbs with last vowel e or i (e.g., gel → geliyor)"},
+          {"affix": "uyor", "description": "Buffer vowel u + yor: after verbs with last vowel o or u (e.g., oku → okuyor)"},
+          {"affix": "üyor", "description": "Buffer vowel ü + yor: after verbs with last vowel ö or ü (e.g., gör → görüyor)"}
+        ],
+        "personal_endings": [
+          {"pronoun": "ben", "ending": "um", "example": "yapıyorum (I am doing)"},
+          {"pronoun": "sen", "ending": "sun", "example": "yapıyorsun (you are doing)"},
+          {"pronoun": "o", "ending": "-", "example": "yapıyor (he/she/it is doing)"},
+          {"pronoun": "biz", "ending": "uz", "example": "yapıyoruz (we are doing)"},
+          {"pronoun": "siz", "ending": "sunuz", "example": "yapıyorsunuz (you are doing)"},
+          {"pronoun": "onlar", "ending": "lar", "example": "yapıyorlar (they are doing)"}
+        ],
+        "negative_affix": "m(ı/i/u/ü) - inserted before the tense marker"
+      },
+      "examples": [
+        {"turkish": "Kitap okuyorum.", "translation": "I am reading a book."},
+        {"turkish": "Çocuklar parkta oynuyor.", "translation": "The children are playing in the park."},
+        {"turkish": "Türkçe öğreniyoruz.", "translation": "We are learning Turkish."},
+        {"turkish": "Film izlemiyorum.", "translation": "I am not watching a movie."},
+        {"turkish": "Kahve içmiyorlar.", "translation": "They are not drinking coffee."}
+      ]
+    },
+    "russian": {
+      "name": "Настоящее длительное время",
+      "description": "Настоящее длительное время (şimdiki zaman) используется для описания действий, которые происходят прямо сейчас или продолжающихся действий в настоящем. Оно подчеркивает, что действие находится в процессе в момент речи.",
+      "usage": [
+        "Действия, происходящие в момент речи",
+        "Временные ситуации",
+        "Действия, происходящие в текущий период"
+      ],
+      "formation": {
+        "positive": "Основа глагола + (ı|i|u|ü)yor + личное окончание",
+        "negative": "Основа глагола + m(ı|i|u|ü)yor + личное окончание",
+        "interrogative": "Основа глагола + (ı|i|u|ü)yor + mu/mü + личное окончание",
+        "vowel_harmony_note": "Соединительная гласная (ı|i|u|ü) следует 4-стороннему гармонии гласных на основе последней гласной основы глагола. Отрицательный префикс m- и вопросительная частица mu/mü также следуют гармонии гласных."
+      },
+      "affixes": {
+        "tense_markers": [
+          {"affix": "ıyor", "description": "После глаголов типа a (с задними гласными: a, ı, o, u)"},
+          {"affix": "iyor", "description": "После глаголов типа e (с передними гласными: e, i, ö, ü)"},
+          {"affix": "uyor", "description": "После глаголов типа a, оканчивающихся на o/u"},
+          {"affix": "üyor", "description": "После глаголов типа e, оканчивающихся на ö/ü"}
+        ],
+        "personal_endings": [
+          {"pronoun": "ben", "ending": "um", "example": "yapıyorum (я делаю)"},
+          {"pronoun": "sen", "ending": "sun", "example": "yapıyorsun (ты делаешь)"},
+          {"pronoun": "o", "ending": "-", "example": "yapıyor (он/она делает)"},
+          {"pronoun": "biz", "ending": "uz", "example": "yapıyoruz (мы делаем)"},
+          {"pronoun": "siz", "ending": "sunuz", "example": "yapıyorsunuz (вы делаете)"},
+          {"pronoun": "onlar", "ending": "lar", "example": "yapıyorlar (они делают)"}
+        ],
+        "negative_affix": "m(ı/i/u/ü) - вставляется перед показателем времени"
+      },
+      "examples": [
+        {"turkish": "Kitap okuyorum.", "translation": "Я читаю книгу."},
+        {"turkish": "Çocuklar parkta oynuyor.", "translation": "Дети играют в парке."},
+        {"turkish": "Türkçe öğreniyoruz.", "translation": "Мы учим турецкий."},
+        {"turkish": "Film izlemiyorum.", "translation": "Я не смотрю фильм."},
+        {"turkish": "Kahve içmiyorlar.", "translation": "Они не пьют кофе."}
+      ]
+    }
+  },
+  "geçmiş_zaman": {
+    "turkish_name": "Geçmiş Zaman (Di'li Geçmiş Zaman)",
+    "level": "A1",
+    "vowel_harmony_link": true,
+    "english": {
+      "name": "Past Tense (Simple Past)",
+      "description": "The simple past tense (geçmiş zaman or di'li geçmiş zaman) is used to describe completed actions in the past. It indicates that the speaker witnessed or directly experienced the action. This is the most common past tense in Turkish.",
+      "usage": [
+        "Completed actions in the past",
+        "Actions the speaker witnessed or experienced directly",
+        "Historical facts and events"
+      ],
+      "formation": {
+        "positive": "Verb root + (d|t)(ı|i|u|ü) + personal ending",
+        "negative": "Verb root + m(a|e) + (d|t)(ı|i|u|ü) + personal ending",
+        "interrogative": "Verb root + (d|t)(ı|i|u|ü) + mı/mi/mu/mü + personal ending",
+        "vowel_harmony_note": "The tense marker uses 4-way vowel harmony (ı|i|u|ü) and consonant harmony (d after voiced, t after voiceless consonants). The negative affix follows 2-way harmony (m(a|e)). The interrogative particle follows 4-way harmony."
+      },
+      "affixes": {
+        "tense_markers": [
+          {"affix": "dı", "description": "After voiced consonants with back vowels (a, ı)"},
+          {"affix": "di", "description": "After voiced consonants with front vowels (e, i)"},
+          {"affix": "du", "description": "After voiced consonants with back vowels (o, u)"},
+          {"affix": "dü", "description": "After voiced consonants with front vowels (ö, ü)"},
+          {"affix": "tı", "description": "After voiceless consonants with back vowels (a, ı)"},
+          {"affix": "ti", "description": "After voiceless consonants with front vowels (e, i)"},
+          {"affix": "tu", "description": "After voiceless consonants with back vowels (o, u)"},
+          {"affix": "tü", "description": "After voiceless consonants with front vowels (ö, ü)"}
+        ],
+        "personal_endings": [
+          {"pronoun": "ben", "ending": "m", "example": "yaptım (I did)"},
+          {"pronoun": "sen", "ending": "n", "example": "yaptın (you did)"},
+          {"pronoun": "o", "ending": "-", "example": "yaptı (he/she/it did)"},
+          {"pronoun": "biz", "ending": "k", "example": "yaptık (we did)"},
+          {"pronoun": "siz", "ending": "nız/niz", "example": "yaptınız (you did)"},
+          {"pronoun": "onlar", "ending": "lar", "example": "yaptılar (they did)"}
+        ],
+        "negative_affix": "me/ma - inserted before the tense marker"
+      },
+      "examples": [
+        {"turkish": "Dün kitap okudum.", "translation": "I read a book yesterday."},
+        {"turkish": "Arkadaşım İstanbul'a gitti.", "translation": "My friend went to Istanbul."},
+        {"turkish": "Geçen hafta Türkçe öğrendik.", "translation": "We learned Turkish last week."},
+        {"turkish": "Film izlemedim.", "translation": "I didn't watch the movie."},
+        {"turkish": "Kahve içmediler.", "translation": "They didn't drink coffee."}
+      ]
+    },
+    "russian": {
+      "name": "Прошедшее время (простое прошедшее)",
+      "description": "Простое прошедшее время (geçmiş zaman или di'li geçmiş zaman) используется для описания завершенных действий в прошлом. Оно указывает, что говорящий был свидетелем или непосредственно испытал действие. Это наиболее распространенное прошедшее время в турецком языке.",
+      "usage": [
+        "Завершенные действия в прошлом",
+        "Действия, которые говорящий видел или испытал непосредственно",
+        "Исторические факты и события"
+      ],
+      "formation": {
+        "positive": "Основа глагола + (d|t)(ı|i|u|ü) + личное окончание",
+        "negative": "Основа глагола + m(a|e) + (d|t)(ı|i|u|ü) + личное окончание",
+        "interrogative": "Основа глагола + (d|t)(ı|i|u|ü) + mı/mi/mu/mü + личное окончание",
+        "vowel_harmony_note": "Показатель времени использует 4-стороннюю гармонию гласных (ı|i|u|ü) и гармонию согласных (d после звонких, t после глухих согласных). Отрицательный аффикс следует 2-сторонней гармонии (m(a|e)). Вопросительная частица следует 4-сторонней гармонии."
+      },
+      "affixes": {
+        "tense_markers": [
+          {"affix": "dı", "description": "После звонких согласных с задними гласными (a, ı)"},
+          {"affix": "di", "description": "После звонких согласных с передними гласными (e, i)"},
+          {"affix": "du", "description": "После звонких согласных с задними гласными (o, u)"},
+          {"affix": "dü", "description": "После звонких согласных с передними гласными (ö, ü)"},
+          {"affix": "tı", "description": "После глухих согласных с задними гласными (a, ı)"},
+          {"affix": "ti", "description": "После глухих согласных с передними гласными (e, i)"},
+          {"affix": "tu", "description": "После глухих согласных с задними гласными (o, u)"},
+          {"affix": "tü", "description": "После глухих согласных с передними гласными (ö, ü)"}
+        ],
+        "personal_endings": [
+          {"pronoun": "ben", "ending": "m", "example": "yaptım (я сделал)"},
+          {"pronoun": "sen", "ending": "n", "example": "yaptın (ты сделал)"},
+          {"pronoun": "o", "ending": "-", "example": "yaptı (он/она сделал/а)"},
+          {"pronoun": "biz", "ending": "k", "example": "yaptık (мы сделали)"},
+          {"pronoun": "siz", "ending": "nız/niz", "example": "yaptınız (вы сделали)"},
+          {"pronoun": "onlar", "ending": "lar", "example": "yaptılar (они сделали)"}
+        ],
+        "negative_affix": "me/ma - вставляется перед показателем времени"
+      },
+      "examples": [
+        {"turkish": "Dün kitap okudum.", "translation": "Вчера я читал книгу."},
+        {"turkish": "Arkadaşım İstanbul'a gitti.", "translation": "Мой друг поехал в Стамбул."},
+        {"turkish": "Geçen hafta Türkçe öğrendik.", "translation": "На прошлой неделе мы учили турецкий."},
+        {"turkish": "Film izlemedim.", "translation": "Я не смотрел фильм."},
+        {"turkish": "Kahve içmediler.", "translation": "Они не пили кофе."}
+      ]
+    }
+  },
+  "gelecek_zaman": {
+    "turkish_name": "Gelecek Zaman",
+    "level": "A2",
+    "vowel_harmony_link": true,
+    "english": {
+      "name": "Future Tense",
+      "description": "The future tense (gelecek zaman) is used to describe actions that will happen in the future. It indicates intentions, plans, or predictions about future events.",
+      "usage": [
+        "Actions that will happen in the future",
+        "Intentions and plans",
+        "Predictions and assumptions about the future"
+      ],
+      "formation": {
+        "positive": "Verb root + (y)(a|e)cak + personal ending",
+        "negative": "Verb root + m(a|e) + y(a|e)cak + personal ending",
+        "interrogative": "Verb root + (y)(a|e)cak + mı/mi/mu/mü + personal ending",
+        "vowel_harmony_note": "The future marker (a|e)cak follows 2-way vowel harmony. Add buffer 'y' after vowel-ending roots. The negative affix m(a|e) also follows 2-way harmony. The interrogative particle follows 4-way harmony."
+      },
+      "affixes": {
+        "tense_markers": [
+          {"affix": "acak", "description": "After a-type verbs (with back vowels: a, ı, o, u)"},
+          {"affix": "ecek", "description": "After e-type verbs (with front vowels: e, i, ö, ü)"},
+          {"affix": "yacak", "description": "After vowels in a-type verbs"},
+          {"affix": "yecek", "description": "After vowels in e-type verbs"}
+        ],
+        "personal_endings": [
+          {"pronoun": "ben", "ending": "ım/im", "example": "yapacağım (I will do)"},
+          {"pronoun": "sen", "ending": "sın/sin", "example": "yapacaksın (you will do)"},
+          {"pronoun": "o", "ending": "-", "example": "yapacak (he/she/it will do)"},
+          {"pronoun": "biz", "ending": "ız/iz", "example": "yapacağız (we will do)"},
+          {"pronoun": "siz", "ending": "sınız/siniz", "example": "yapacaksınız (you will do)"},
+          {"pronoun": "onlar", "ending": "lar", "example": "yapacaklar (they will do)"}
+        ],
+        "negative_affix": "ma/me - inserted before the tense marker"
+      },
+      "examples": [
+        {"turkish": "Yarın kitap okuyacağım.", "translation": "I will read a book tomorrow."},
+        {"turkish": "Çocuklar parka gidecek.", "translation": "The children will go to the park."},
+        {"turkish": "Gelecek yıl Türkçe öğreneceğiz.", "translation": "We will learn Turkish next year."},
+        {"turkish": "Film izlemeyeceğim.", "translation": "I will not watch the movie."},
+        {"turkish": "Kahve içmeyecekler.", "translation": "They will not drink coffee."}
+      ]
+    },
+    "russian": {
+      "name": "Будущее время",
+      "description": "Будущее время (gelecek zaman) используется для описания действий, которые произойдут в будущем. Оно указывает на намерения, планы или предсказания о будущих событиях.",
+      "usage": [
+        "Действия, которые произойдут в будущем",
+        "Намерения и планы",
+        "Предсказания и предположения о будущем"
+      ],
+      "formation": {
+        "positive": "Основа глагола + (y)(a|e)cak + личное окончание",
+        "negative": "Основа глагола + m(a|e) + y(a|e)cak + личное окончание",
+        "interrogative": "Основа глагола + (y)(a|e)cak + mı/mi/mu/mü + личное окончание",
+        "vowel_harmony_note": "Показатель будущего времени (a|e)cak следует 2-сторонней гармонии гласных. Добавьте буферную 'y' после основ, оканчивающихся на гласную. Отрицательный аффикс m(a|e) также следует 2-сторонней гармонии. Вопросительная частица следует 4-сторонней гармонии."
+      },
+      "affixes": {
+        "tense_markers": [
+          {"affix": "acak", "description": "После глаголов типа a (с задними гласными: a, ı, o, u)"},
+          {"affix": "ecek", "description": "После глаголов типа e (с передними гласными: e, i, ö, ü)"},
+          {"affix": "yacak", "description": "После гласных в глаголах типа a"},
+          {"affix": "yecek", "description": "После гласных в глаголах типа e"}
+        ],
+        "personal_endings": [
+          {"pronoun": "ben", "ending": "ım/im", "example": "yapacağım (я сделаю)"},
+          {"pronoun": "sen", "ending": "sın/sin", "example": "yapacaksın (ты сделаешь)"},
+          {"pronoun": "o", "ending": "-", "example": "yapacak (он/она сделает)"},
+          {"pronoun": "biz", "ending": "ız/iz", "example": "yapacağız (мы сделаем)"},
+          {"pronoun": "siz", "ending": "sınız/siniz", "example": "yapacaksınız (вы сделаете)"},
+          {"pronoun": "onlar", "ending": "lar", "example": "yapacaklar (они сделают)"}
+        ],
+        "negative_affix": "ma/me - вставляется перед показателем времени"
+      },
+      "examples": [
+        {"turkish": "Yarın kitap okuyacağım.", "translation": "Завтра я буду читать книгу."},
+        {"turkish": "Çocuklar parka gidecek.", "translation": "Дети пойдут в парк."},
+        {"turkish": "Gelecek yıl Türkçe öğreneceğiz.", "translation": "В следующем году мы будем учить турецкий."},
+        {"turkish": "Film izlemeyeceğim.", "translation": "Я не буду смотреть фильм."},
+        {"turkish": "Kahve içmeyecekler.", "translation": "Они не будут пить кофе."}
+      ]
+    }
+  },
+  "geniş_zaman": {
+    "turkish_name": "Geniş Zaman",
+    "level": "A1",
+    "vowel_harmony_link": true,
+    "english": {
+      "name": "Aorist Tense (Simple Present)",
+      "description": "The aorist tense (geniş zaman) is used to express habitual actions, general truths, abilities, and future intentions. It is the most versatile tense in Turkish and can refer to present, future, or habitual actions depending on context.",
+      "usage": [
+        "Habitual or repeated actions",
+        "General truths and facts",
+        "Abilities and skills",
+        "Future intentions (informal)",
+        "Timeless statements"
+      ],
+      "formation": {
+        "positive": "Verb root + (a|e)r [or (ı|i|u|ü)r] + personal ending",
+        "negative": "Verb root + m(a|e) + z + personal ending",
+        "interrogative": "Verb root + (a|e)r + mı/mi/mu/mü + personal ending",
+        "vowel_harmony_note": "Monosyllabic verbs use (a|e)r following 2-way harmony. Polysyllabic verbs use (ı|i|u|ü)r following 4-way harmony. The negative form uses m(a|e) + z. The interrogative particle follows 4-way harmony."
+      },
+      "affixes": {
+        "tense_markers": [
+          {"affix": "ar", "description": "After a-type monosyllabic verbs"},
+          {"affix": "er", "description": "After e-type monosyllabic verbs"},
+          {"affix": "ır", "description": "After a-type polysyllabic verbs (back vowels)"},
+          {"affix": "ir", "description": "After e-type polysyllabic verbs (front vowels)"},
+          {"affix": "ur", "description": "After a-type polysyllabic verbs ending in o/u"},
+          {"affix": "ür", "description": "After e-type polysyllabic verbs ending in ö/ü"}
+        ],
+        "personal_endings": [
+          {"pronoun": "ben", "ending": "ım/im", "example": "yaparım (I do)"},
+          {"pronoun": "sen", "ending": "sın/sin", "example": "yaparsın (you do)"},
+          {"pronoun": "o", "ending": "-", "example": "yapar (he/she/it does)"},
+          {"pronoun": "biz", "ending": "ız/iz", "example": "yaparız (we do)"},
+          {"pronoun": "siz", "ending": "sınız/siniz", "example": "yaparsınız (you do)"},
+          {"pronoun": "onlar", "ending": "lar", "example": "yaparlar (they do)"}
+        ],
+        "negative_affix": "ma/me + z - replaces the tense marker in negative forms"
+      },
+      "examples": [
+        {"turkish": "Her gün kitap okurum.", "translation": "I read a book every day."},
+        {"turkish": "Çocuklar parkta oynar.", "translation": "Children play in the park."},
+        {"turkish": "Türkçe biliriz.", "translation": "We know Turkish."},
+        {"turkish": "Film izlemem.", "translation": "I don't watch movies."},
+        {"turkish": "Kahve içmezler.", "translation": "They don't drink coffee."}
+      ]
+    },
+    "russian": {
+      "name": "Аорист (простое настоящее время)",
+      "description": "Аорист (geniş zaman) используется для выражения привычных действий, общих истин, способностей и намерений на будущее. Это самое универсальное время в турецком языке, которое может относиться к настоящему, будущему или привычным действиям в зависимости от контекста.",
+      "usage": [
+        "Привычные или повторяющиеся действия",
+        "Общие истины и факты",
+        "Способности и умения",
+        "Намерения на будущее (неформально)",
+        "Вневременные утверждения"
+      ],
+      "formation": {
+        "positive": "Основа глагола + (a|e)r [или (ı|i|u|ü)r] + личное окончание",
+        "negative": "Основа глагола + m(a|e) + z + личное окончание",
+        "interrogative": "Основа глагола + (a|e)r + mı/mi/mu/mü + личное окончание",
+        "vowel_harmony_note": "Односложные глаголы используют (a|e)r, следуя 2-сторонней гармонии. Многосложные глаголы используют (ı|i|u|ü)r, следуя 4-сторонней гармонии. Отрицательная форма использует m(a|e) + z. Вопросительная частица следует 4-сторонней гармонии."
+      },
+      "affixes": {
+        "tense_markers": [
+          {"affix": "ar", "description": "После односложных глаголов типа a"},
+          {"affix": "er", "description": "После односложных глаголов типа e"},
+          {"affix": "ır", "description": "После многосложных глаголов типа a (задние гласные)"},
+          {"affix": "ir", "description": "После многосложных глаголов типа e (передние гласные)"},
+          {"affix": "ur", "description": "После многосложных глаголов типа a, оканчивающихся на o/u"},
+          {"affix": "ür", "description": "После многосложных глаголов типа e, оканчивающихся на ö/ü"}
+        ],
+        "personal_endings": [
+          {"pronoun": "ben", "ending": "ım/im", "example": "yaparım (я делаю)"},
+          {"pronoun": "sen", "ending": "sın/sin", "example": "yaparsın (ты делаешь)"},
+          {"pronoun": "o", "ending": "-", "example": "yapar (он/она делает)"},
+          {"pronoun": "biz", "ending": "ız/iz", "example": "yaparız (мы делаем)"},
+          {"pronoun": "siz", "ending": "sınız/siniz", "example": "yaparsınız (вы делаете)"},
+          {"pronoun": "onlar", "ending": "lar", "example": "yaparlar (они делают)"}
+        ],
+        "negative_affix": "ma/me + z - заменяет показатель времени в отрицательных формах"
+      },
+      "examples": [
+        {"turkish": "Her gün kitap okurum.", "translation": "Я читаю книгу каждый день."},
+        {"turkish": "Çocuklar parkta oynar.", "translation": "Дети играют в парке."},
+        {"turkish": "Türkçe biliriz.", "translation": "Мы знаем турецкий."},
+        {"turkish": "Film izlemem.", "translation": "Я не смотрю фильмы."},
+        {"turkish": "Kahve içmezler.", "translation": "Они не пьют кофе."}
+      ]
+    }
+  },
+  "yaracağım": {
+    "turkish_name": "Yaracağım (Gelecek Zaman - 1. Şahıs)",
+    "level": "A2",
+    "vowel_harmony_link": true,
+    "english": {
+      "name": "Future Tense (1st Person Forms)",
+      "description": "This is a specific form of the future tense used with first person (I, we) to express personal intentions, plans, or promises about future actions.",
+      "usage": [
+        "Personal future intentions and plans",
+        "Promises and commitments",
+        "Determined future actions by the speaker"
+      ],
+      "formation": {
+        "positive": "Verb root + (y)(a|e)cağ + ım/ız",
+        "negative": "Verb root + m(a|e) + y(a|e)cağ + ım/ız",
+        "interrogative": "Verb root + (y)(a|e)cak + mı/mı + yım/yız (or using mıyım/miyiz)",
+        "vowel_harmony_note": "The future marker (a|e)cağ follows 2-way vowel harmony. Add buffer 'y' after vowel-ending roots. The negative affix m(a|e) also follows 2-way harmony. Personal endings (ım|im) and (ız|iz) follow 2-way harmony."
+      },
+      "affixes": {
+        "tense_markers": [
+          {"affix": "acağ", "description": "After a-type verbs"},
+          {"affix": "eceğ", "description": "After e-type verbs"}
+        ],
+        "personal_endings": [
+          {"pronoun": "ben", "ending": "ım/im", "example": "yapacağım (I will do)"},
+          {"pronoun": "biz", "ending": "ız/iz", "example": "yapacağız (we will do)"}
+        ],
+        "negative_affix": "ma/me - inserted before the tense marker"
+      },
+      "examples": [
+        {"turkish": "Yarın erken işe gideceğim.", "translation": "I will go to work early tomorrow."},
+        {"turkish": "Gelecek hafta yeni eve taşınacağız.", "translation": "We will move to a new house next week."},
+        {"turkish": "Bu akşam yemek yapacağım.", "translation": "I will cook dinner tonight."},
+        {"turkish": "Bu işi yapmayacağım.", "translation": "I will not do this job."},
+        {"turkish": "Artık geç kalmayacağız.", "translation": "We will not be late anymore."}
+      ]
+    },
+    "russian": {
+      "name": "Будущее время (формы 1-го лица)",
+      "description": "Это специальная форма будущего времени, используемая с первым лицом (я, мы) для выражения личных намерений, планов или обещаний относительно будущих действий.",
+      "usage": [
+        "Личные намерения и планы на будущее",
+        "Обещания и обязательства",
+        "Решительные будущие действия говорящего"
+      ],
+      "formation": {
+        "positive": "Основа глагола + (y)(a|e)cağ + ım/ız",
+        "negative": "Основа глагола + m(a|e) + y(a|e)cağ + ım/ız",
+        "interrogative": "Основа глагола + (y)(a|e)cak + mı/mı + yım/yız (или используя mıyım/miyiz)",
+        "vowel_harmony_note": "Показатель будущего времени (a|e)cağ следует 2-сторонней гармонии гласных. Добавьте буферную 'y' после основ, оканчивающихся на гласную. Отрицательный аффикс m(a|e) также следует 2-сторонней гармонии. Личные окончания (ım|im) и (ız|iz) следуют 2-сторонней гармонии."
+      },
+      "affixes": {
+        "tense_markers": [
+          {"affix": "acağ", "description": "После глаголов типа a"},
+          {"affix": "eceğ", "description": "После глаголов типа e"}
+        ],
+        "personal_endings": [
+          {"pronoun": "ben", "ending": "ım/im", "example": "yapacağım (я сделаю)"},
+          {"pronoun": "biz", "ending": "ız/iz", "example": "yapacağız (мы сделаем)"}
+        ],
+        "negative_affix": "ma/me - вставляется перед показателем времени"
+      },
+      "examples": [
+        {"turkish": "Yarın erken işe gideceğim.", "translation": "Завтра я рано пойду на работу."},
+        {"turkish": "Gelecek hafta yeni eve taşınacağız.", "translation": "На следующей неделе мы переедем в новый дом."},
+        {"turkish": "Bu akşam yemek yapacağım.", "translation": "Сегодня вечером я буду готовить ужин."},
+        {"turkish": "Bu işi yapmayacağım.", "translation": "Я не буду делать эту работу."},
+        {"turkish": "Artık geç kalmayacağız.", "translation": "Мы больше не будем опаздывать."}
+      ]
+    }
+  },
+  "istek_kipi": {
+    "turkish_name": "İstek Kipi",
+    "level": "B1",
+    "vowel_harmony_link": true,
+    "english": {
+      "name": "Optative Mood (Wish/Desire)",
+      "description": "The optative mood expresses wishes, desires, suggestions, or polite requests. It's commonly used for 'let me/us do' or expressing good wishes.",
+      "usage": [
+        "Expressing wishes and desires",
+        "Making suggestions (let's...)",
+        "Polite requests or seeking permission",
+        "Good wishes and blessings"
+      ],
+      "formation": {
+        "positive": "Verb root + (y)(a|e) + personal ending",
+        "negative": "Verb root + m(a|e) + y(a|e) + personal ending",
+        "interrogative": "Verb root + (y)(a|e) + yım/yim + mı/mi",
+        "vowel_harmony_note": "The optative marker (a|e) follows 2-way vowel harmony. Add buffer 'y' after vowel-ending roots. The negative affix m(a|e) also follows 2-way harmony. Personal endings follow their own harmony patterns."
+      },
+      "affixes": {
+        "tense_markers": [
+          {"affix": "a", "description": "After a-type consonant-ending roots"},
+          {"affix": "e", "description": "After e-type consonant-ending roots"},
+          {"affix": "ya", "description": "After a-type vowel-ending roots"},
+          {"affix": "ye", "description": "After e-type vowel-ending roots"}
+        ],
+        "personal_endings": [
+          {"pronoun": "ben", "ending": "yım/yim", "example": "yapayım (let me do)"},
+          {"pronoun": "sen", "ending": "sın/sin", "example": "yapasın (may you do)"},
+          {"pronoun": "o", "ending": "-", "example": "yapa (may he/she do)"},
+          {"pronoun": "biz", "ending": "lım/lim", "example": "yapalım (let's do)"},
+          {"pronoun": "siz", "ending": "sınız/siniz", "example": "yapasınız (may you do)"},
+          {"pronoun": "onlar", "ending": "lar", "example": "yapalar (may they do)"}
+        ],
+        "negative_affix": "ma/me - inserted before the mood marker"
+      },
+      "examples": [
+        {"turkish": "Sinemaya beraber gidelim.", "translation": "Let's go to the cinema together."},
+        {"turkish": "Size yardım edeyim mi?", "translation": "Shall I help you?"},
+        {"turkish": "Herkes mutlu olsun.", "translation": "May everyone be happy."},
+        {"turkish": "Bu konuyu konuşmayalım.", "translation": "Let's not talk about this topic."},
+        {"turkish": "Geç kalmayayım diye erken çıkayım.", "translation": "Let me leave early so I don't be late."}
+      ]
+    },
+    "russian": {
+      "name": "Оптатив (желательное наклонение)",
+      "description": "Оптатив выражает желания, намерения, предложения или вежливые просьбы. Часто используется для выражения 'давай(те)/пусть'.",
+      "usage": [
+        "Выражение желаний и намерений",
+        "Предложения (давай(те)...)",
+        "Вежливые просьбы или просьба о разрешении",
+        "Добрые пожелания и благословения"
+      ],
+      "formation": {
+        "positive": "Основа глагола + (y)(a|e) + личное окончание",
+        "negative": "Основа глагола + m(a|e) + y(a|e) + личное окончание",
+        "interrogative": "Основа глагола + (y)(a|e) + yım/yim + mı/mi",
+        "vowel_harmony_note": "Показатель оптатива (a|e) следует 2-сторонней гармонии гласных. Добавьте буферную 'y' после основ, оканчивающихся на гласную. Отрицательный аффикс m(a|e) также следует 2-сторонней гармонии. Личные окончания следуют своим собственным правилам гармонии."
+      },
+      "affixes": {
+        "tense_markers": [
+          {"affix": "a", "description": "После основ типа a, оканчивающихся на согласную"},
+          {"affix": "e", "description": "После основ типа e, оканчивающихся на согласную"},
+          {"affix": "ya", "description": "После основ типа a, оканчивающихся на гласную"},
+          {"affix": "ye", "description": "После основ типа e, оканчивающихся на гласную"}
+        ],
+        "personal_endings": [
+          {"pronoun": "ben", "ending": "yım/yim", "example": "yapayım (давай я сделаю)"},
+          {"pronoun": "sen", "ending": "sın/sin", "example": "yapasın (пусть ты сделаешь)"},
+          {"pronoun": "o", "ending": "-", "example": "yapa (пусть он/она сделает)"},
+          {"pronoun": "biz", "ending": "lım/lim", "example": "yapalım (давайте сделаем)"},
+          {"pronoun": "siz", "ending": "sınız/siniz", "example": "yapasınız (пусть вы сделаете)"},
+          {"pronoun": "onlar", "ending": "lar", "example": "yapalar (пусть они сделают)"}
+        ],
+        "negative_affix": "ma/me - вставляется перед показателем наклонения"
+      },
+      "examples": [
+        {"turkish": "Sinemaya beraber gidelim.", "translation": "Давайте пойдем в кино вместе."},
+        {"turkish": "Size yardım edeyim mi?", "translation": "Давайте я вам помогу?"},
+        {"turkish": "Herkes mutlu olsun.", "translation": "Пусть все будут счастливы."},
+        {"turkish": "Bu konuyu konuşmayalım.", "translation": "Давайте не будем говорить на эту тему."},
+        {"turkish": "Geç kalmayayım diye erken çıkayım.", "translation": "Давайте я выйду пораньше, чтобы не опоздать."}
+      ]
+    }
+  },
+  "emir_kipi": {
+    "turkish_name": "Emir Kipi",
+    "level": "A2",
+    "vowel_harmony_link": true,
+    "english": {
+      "name": "Imperative Mood (Commands)",
+      "description": "The imperative mood is used to give commands, orders, instructions, or make requests. It has different forms for positive and negative commands.",
+      "usage": [
+        "Giving orders and commands",
+        "Making requests",
+        "Giving instructions and directions",
+        "Prohibitions (negative commands)"
+      ],
+      "formation": {
+        "positive": "Verb root (for sen) / Verb root + (y)(ı|i|u|ü)n (for siz)",
+        "negative": "Verb root + m(a|e) (for sen) / Verb root + m(a|e) + y(ı|i)n (for siz)",
+        "interrogative": "Not typically used (commands are not questions)",
+        "vowel_harmony_note": "The formal imperative ending (ı|i|u|ü)n follows 4-way vowel harmony. The negative affix m(a|e) follows 2-way harmony. Add buffer 'y' after vowel-ending roots in formal form."
+      },
+      "affixes": {
+        "tense_markers": [
+          {"affix": "-", "description": "No affix for 2nd person singular (sen)"},
+          {"affix": "ın/in/un/ün", "description": "For 2nd person plural/formal (siz)"},
+          {"affix": "sın/sin/sun/sün", "description": "For 3rd person (o) - polite command"}
+        ],
+        "personal_endings": [
+          {"pronoun": "sen", "ending": "-", "example": "yap (do!)"},
+          {"pronoun": "siz", "ending": "ın/in", "example": "yapın (do! - plural/formal)"},
+          {"pronoun": "o", "ending": "sın/sin", "example": "yapsın (let him/her do)"}
+        ],
+        "negative_affix": "ma/me - added directly to the verb root"
+      },
+      "examples": [
+        {"turkish": "Kitabı masa üzerine koy!", "translation": "Put the book on the table!"},
+        {"turkish": "Lütfen sessiz olun.", "translation": "Please be quiet."},
+        {"turkish": "Kapıyı açın.", "translation": "Open the door."},
+        {"turkish": "Geç kalma!", "translation": "Don't be late!"},
+        {"turkish": "Bu yolu kullanmayın.", "translation": "Don't use this road."}
+      ]
+    },
+    "russian": {
+      "name": "Повелительное наклонение (команды)",
+      "description": "Повелительное наклонение используется для приказов, команд, инструкций или просьб. Имеет различные формы для утвердительных и отрицательных команд.",
+      "usage": [
+        "Приказы и команды",
+        "Просьбы",
+        "Инструкции и указания",
+        "Запреты (отрицательные команды)"
+      ],
+      "formation": {
+        "positive": "Основа глагола (для sen) / Основа глагола + (y)(ı|i|u|ü)n (для siz)",
+        "negative": "Основа глагола + m(a|e) (для sen) / Основа глагола + m(a|e) + y(ı|i)n (для siz)",
+        "interrogative": "Обычно не используется (команды не являются вопросами)",
+        "vowel_harmony_note": "Вежливое повелительное окончание (ı|i|u|ü)n следует 4-сторонней гармонии гласных. Отрицательный аффикс m(a|e) следует 2-сторонней гармонии. Добавьте буферную 'y' после основ, оканчивающихся на гласную, в вежливой форме."
+      },
+      "affixes": {
+        "tense_markers": [
+          {"affix": "-", "description": "Нет аффикса для 2-го лица ед. числа (sen)"},
+          {"affix": "ın/in/un/ün", "description": "Для 2-го лица мн. числа/вежливой формы (siz)"},
+          {"affix": "sın/sin/sun/sün", "description": "Для 3-го лица (o) - вежливая команда"}
+        ],
+        "personal_endings": [
+          {"pronoun": "sen", "ending": "-", "example": "yap (делай!)"},
+          {"pronoun": "siz", "ending": "ın/in", "example": "yapın (делайте! - мн.ч./вежл.)"},
+          {"pronoun": "o", "ending": "sın/sin", "example": "yapsın (пусть он/она сделает)"}
+        ],
+        "negative_affix": "ma/me - добавляется непосредственно к основе глагола"
+      },
+      "examples": [
+        {"turkish": "Kitabı masa üzerine koy!", "translation": "Положи книгу на стол!"},
+        {"turkish": "Lütfen sessiz olun.", "translation": "Пожалуйста, будьте тихими."},
+        {"turkish": "Kapıyı açın.", "translation": "Откройте дверь."},
+        {"turkish": "Geç kalma!", "translation": "Не опаздывай!"},
+        {"turkish": "Bu yolu kullanmayın.", "translation": "Не используйте эту дорогу."}
+      ]
+    }
+  }
+}
