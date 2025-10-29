@@ -3,7 +3,7 @@ import { LearningCard } from '@/components/LearningCard';
 import { DirectionControls } from '@/components/DirectionControls';
 import { dataLoader } from '@/utils/dataLoader';
 import { TrainingExample, LearnDirection, ProgressState, UserProgress, LanguageLevel } from '@/types';
-import { BookOpen, Target, TrendingUp } from 'lucide-react';
+import { BookOpen } from 'lucide-react';
 import { motion } from 'framer-motion';
 
 const App: React.FC = () => {
@@ -27,6 +27,7 @@ const App: React.FC = () => {
   // Progress tracking
   const [progress, setProgress] = useState<ProgressState>({
     verbRoot: false,
+    negativeAffix: false,
     tenseAffix: false,
     personalAffix: false,
     fullSentence: false
@@ -169,6 +170,18 @@ const App: React.FC = () => {
     setCurrentPolarity(polarity);
   };
 
+  // Determine current source language
+  const sourceLanguage = direction.includes('english') ? 'english' : 'russian';
+  const isToTurkish = direction.includes('to-turkish');
+
+  // Handle source language change
+  const handleSourceLanguageChange = (newSource: 'english' | 'russian') => {
+    const newDirection: LearnDirection = isToTurkish 
+      ? `${newSource}-to-turkish` 
+      : `turkish-to-${newSource}`;
+    setDirection(newDirection);
+  };
+
   const handleLevelChange = async (level: LanguageLevel) => {
     setLanguageLevel(level);
     console.log('Language level changed to:', level);
@@ -189,11 +202,11 @@ const App: React.FC = () => {
     }
   };
 
-  const handleProgress = (newProgress: ProgressState) => {
+  const handleProgress = (newProgress: ProgressState, wasManualInput: boolean = false) => {
     setProgress(newProgress);
     
-    // Update user progress when sentence is completed
-    if (newProgress.fullSentence && !progress.fullSentence) {
+    // Update user progress only when the full sentence is completed manually
+    if (newProgress.fullSentence && !progress.fullSentence && wasManualInput) {
       setUserProgress(prev => ({
         ...prev,
         correctAnswers: prev.correctAnswers + 1,
@@ -208,6 +221,7 @@ const App: React.FC = () => {
     // Reset progress for new example
     setProgress({
       verbRoot: false,
+      negativeAffix: false,
       tenseAffix: false,
       personalAffix: false,
       fullSentence: false
@@ -274,48 +288,20 @@ const App: React.FC = () => {
               Turkish Verb Learning
             </h1>
           </div>
-          <p className="text-gray-600 text-lg">
-            Master Turkish verb conjugations with interactive exercises
-          </p>
+          <div className="flex items-center justify-center gap-3 flex-wrap">
+            <p className="text-gray-600 text-lg">
+              Master Turkish verb conjugations with interactive exercises, native language:
+            </p>
+            <select
+              value={sourceLanguage}
+              onChange={(e) => handleSourceLanguageChange(e.target.value as 'english' | 'russian')}
+              className="px-3 py-2 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-primary-500 focus:border-primary-500"
+            >
+              <option value="english">English</option>
+              <option value="russian">Русский</option>
+            </select>
+          </div>
         </motion.header>
-
-        {/* Progress Stats */}
-        <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ delay: 0.1 }}
-          className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-8"
-        >
-          <div className="bg-white rounded-lg p-4 border border-gray-200">
-            <div className="flex items-center gap-2 mb-2">
-              <Target className="w-5 h-5 text-green-600" />
-              <span className="text-sm font-medium text-gray-700">Correct Answers</span>
-            </div>
-            <div className="text-2xl font-bold text-green-600">
-              {userProgress.correctAnswers}
-            </div>
-          </div>
-          
-          <div className="bg-white rounded-lg p-4 border border-gray-200">
-            <div className="flex items-center gap-2 mb-2">
-              <TrendingUp className="w-5 h-5 text-blue-600" />
-              <span className="text-sm font-medium text-gray-700">Current Streak</span>
-            </div>
-            <div className="text-2xl font-bold text-blue-600">
-              {userProgress.currentStreak}
-            </div>
-          </div>
-          
-          <div className="bg-white rounded-lg p-4 border border-gray-200">
-            <div className="flex items-center gap-2 mb-2">
-              <TrendingUp className="w-5 h-5 text-purple-600" />
-              <span className="text-sm font-medium text-gray-700">Best Streak</span>
-            </div>
-            <div className="text-2xl font-bold text-purple-600">
-              {userProgress.bestStreak}
-            </div>
-          </div>
-        </motion.div>
 
         {/* Controls */}
         <motion.div
@@ -326,8 +312,6 @@ const App: React.FC = () => {
           <DirectionControls
             currentDirection={direction}
             onDirectionChange={setDirection}
-            currentLevel={languageLevel}
-            onLevelChange={handleLevelChange}
           />
         </motion.div>
 
@@ -349,6 +333,8 @@ const App: React.FC = () => {
             currentPolarity={currentPolarity}
             currentRank={currentRank}
             languageLevel={languageLevel}
+            correctAnswers={userProgress.correctAnswers}
+            onLevelChange={handleLevelChange}
             onNextTense={handleNextTense}
             onNextPronoun={handleNextPronoun}
             onNextPolarity={handleNextPolarity}

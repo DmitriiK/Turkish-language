@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { Check } from 'lucide-react';
-import { TrainingExample, LearnDirection, ProgressState } from '@/types';
+import { Check, Target, BookOpen } from 'lucide-react';
+import { TrainingExample, LearnDirection, ProgressState, LANGUAGE_LEVELS, LanguageLevel } from '@/types';
 import { motion, AnimatePresence } from 'framer-motion';
 import clsx from 'clsx';
 import { NavigationControls } from './NavigationControls';
@@ -54,7 +54,7 @@ const isIncorrectText = (input: string, targetSentence: string): boolean => {
 interface LearningCardProps {
   example: TrainingExample;
   direction: LearnDirection;
-  onProgress: (progress: ProgressState) => void;
+  onProgress: (progress: ProgressState, wasManualInput?: boolean) => void;
   onNext: () => void;
   // Navigation props
   currentVerb: string;
@@ -64,6 +64,8 @@ interface LearningCardProps {
   currentPolarity: 'positive' | 'negative';
   currentRank: number;
   languageLevel?: string; // Optional language level filter
+  correctAnswers: number; // Correct answers counter
+  onLevelChange: (level: LanguageLevel) => void; // Language level change handler
   onNextTense: () => void;
   onNextPronoun: () => void;
   onNextPolarity: () => void;
@@ -89,6 +91,8 @@ export const LearningCard: React.FC<LearningCardProps> = ({
   currentPolarity,
   currentRank,
   languageLevel,
+  correctAnswers,
+  onLevelChange,
   onNextTense,
   onNextPronoun,
   onNextPolarity,
@@ -153,11 +157,6 @@ export const LearningCard: React.FC<LearningCardProps> = ({
     setFeedback('');
     setInputState('neutral');
   }, [example]);
-
-  // Update parent with progress
-  useEffect(() => {
-    onProgress(progress);
-  }, [progress, onProgress]);
 
   // Update colored text when progress changes
   useEffect(() => {
@@ -229,13 +228,16 @@ export const LearningCard: React.FC<LearningCardProps> = ({
     
     // Check full sentence for all directions
     const targetSentence = getTargetSentence().toLowerCase();
-    if (!progress.fullSentence && inputLower === targetSentence) {
+    const wasFullSentenceCompleted = !progress.fullSentence && inputLower === targetSentence;
+    if (wasFullSentenceCompleted) {
       newProgress.fullSentence = true;
       hasChanges = true;
     }
 
     if (hasChanges) {
       setProgress(newProgress);
+      // Notify parent - if full sentence was completed, mark as manual input
+      onProgress(newProgress, wasFullSentenceCompleted);
     }
   };
 
@@ -518,8 +520,25 @@ export const LearningCard: React.FC<LearningCardProps> = ({
     <div className="card max-w-6xl mx-auto animate-fade-in">
       <div className="mb-6">
         <div className="flex items-center justify-between mb-4">
-          <div className="text-sm text-gray-500">
-            #{example.verb_rank} • {formatGrammarNameWithLevel(example.turkish_verb.verb_tense, tenseLevel)}
+          <div className="flex items-center gap-4">
+            <div className="text-sm text-gray-500">
+              #{example.verb_rank} • {formatGrammarNameWithLevel(example.turkish_verb.verb_tense, tenseLevel)}
+            </div>
+            {/* Language Level Selector */}
+            <div className="flex items-center gap-2">
+              <BookOpen className="w-4 h-4 text-primary-600" />
+              <select
+                value={languageLevel || 'All'}
+                onChange={(e) => onLevelChange(e.target.value as LanguageLevel)}
+                className="px-2 py-1 border border-gray-300 rounded text-xs focus:ring-2 focus:ring-primary-500 focus:border-primary-500"
+              >
+                {LANGUAGE_LEVELS.map((level) => (
+                  <option key={level} value={level}>
+                    {level}
+                  </option>
+                ))}
+              </select>
+            </div>
           </div>
           <div className="text-sm font-medium text-primary-600">
             {source.language} → {targetLanguage}
@@ -602,9 +621,23 @@ export const LearningCard: React.FC<LearningCardProps> = ({
       {/* Progress Indicators */}
       {isLearningTurkish ? (
         <div className="mt-6">
-          <h3 className="text-sm font-medium text-gray-700 mb-3">
-            Progress Indicators:
-          </h3>
+          <div className="flex items-center justify-between mb-3">
+            <h3 className="text-sm font-medium text-gray-700">
+              Progress Indicators:
+            </h3>
+            {/* Correct Answers Counter */}
+            <div 
+              className="bg-green-50 border-2 border-green-500 rounded-lg px-3 py-1"
+              title="Correct answers entered manually"
+            >
+              <div className="flex items-center gap-2">
+                <Target className="w-4 h-4 text-green-600" />
+                <span className="text-xl font-bold text-green-600">
+                  {correctAnswers}
+                </span>
+              </div>
+            </div>
+          </div>
           <div className="flex flex-wrap gap-4">
             <ProgressCheckbox
               label="Verb Root"
@@ -615,6 +648,7 @@ export const LearningCard: React.FC<LearningCardProps> = ({
                 setProgress(newProgress);
                 // Update main textbox based on new progress
                 setUserInput(buildTextFromProgress(newProgress));
+                // Don't notify parent - this is not manual input
               }}
             />
             {example.turkish_verb.polarity === 'negative' && example.turkish_verb.negative_affix && (
@@ -627,6 +661,7 @@ export const LearningCard: React.FC<LearningCardProps> = ({
                   setProgress(newProgress);
                   // Update main textbox based on new progress
                   setUserInput(buildTextFromProgress(newProgress));
+                  // Don't notify parent - this is not manual input
                 }}
               />
             )}
@@ -639,6 +674,7 @@ export const LearningCard: React.FC<LearningCardProps> = ({
                 setProgress(newProgress);
                 // Update main textbox based on new progress
                 setUserInput(buildTextFromProgress(newProgress));
+                // Don't notify parent - this is not manual input
               }}
             />
             <ProgressCheckbox
@@ -650,6 +686,7 @@ export const LearningCard: React.FC<LearningCardProps> = ({
                 setProgress(newProgress);
                 // Update main textbox based on new progress
                 setUserInput(buildTextFromProgress(newProgress));
+                // Don't notify parent - this is not manual input
               }}
             />
             <ProgressCheckbox
@@ -670,15 +707,30 @@ export const LearningCard: React.FC<LearningCardProps> = ({
                 setProgress(newProgress);
                 // Update main textbox based on new progress
                 setUserInput(buildTextFromProgress(newProgress));
+                // Don't notify parent - this is not manual input
               }}
             />
           </div>
         </div>
       ) : (
         <div className="mt-6">
-          <h3 className="text-sm font-medium text-gray-700 mb-3">
-            Progress:
-          </h3>
+          <div className="flex items-center justify-between mb-3">
+            <h3 className="text-sm font-medium text-gray-700">
+              Progress:
+            </h3>
+            {/* Correct Answers Counter */}
+            <div 
+              className="bg-green-50 border-2 border-green-500 rounded-lg px-3 py-1"
+              title="Correct answers entered manually"
+            >
+              <div className="flex items-center gap-2">
+                <Target className="w-4 h-4 text-green-600" />
+                <span className="text-xl font-bold text-green-600">
+                  {correctAnswers}
+                </span>
+              </div>
+            </div>
+          </div>
           <div className="flex items-center gap-2">
             <ProgressCheckbox
               label="Complete Answer"
@@ -697,6 +749,7 @@ export const LearningCard: React.FC<LearningCardProps> = ({
                 setProgress(newProgress);
                 // Update main textbox based on new progress
                 setUserInput(buildTextFromProgress(newProgress));
+                // Don't notify parent - this is not manual input
               }}
             />
           </div>

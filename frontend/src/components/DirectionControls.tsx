@@ -1,33 +1,26 @@
 import React from 'react';
-import { Globe, BookOpen, ArrowLeftRight } from 'lucide-react';
-import { LearnDirection, LanguageLevel, LANGUAGE_LEVELS } from '@/types';
+import { ArrowLeftRight } from 'lucide-react';
+import { LearnDirection } from '@/types';
 
 interface DirectionControlsProps {
   currentDirection: LearnDirection;
   onDirectionChange: (direction: LearnDirection) => void;
-  currentLevel: LanguageLevel;
-  onLevelChange: (level: LanguageLevel) => void;
 }
+
+// Flag components
+const TurkeyFlag = () => <span className="text-8xl">🇹🇷</span>;
+const UKFlag = () => <span className="text-8xl">🇬🇧</span>;
+const RussiaFlag = () => <span className="text-8xl">🇷🇺</span>;
 
 export const DirectionControls: React.FC<DirectionControlsProps> = ({
   currentDirection,
-  onDirectionChange,
-  currentLevel,
-  onLevelChange
+  onDirectionChange
 }) => {
   // Determine current source language
   const sourceLanguage = currentDirection.includes('english') ? 'english' : 'russian';
   const isToTurkish = currentDirection.includes('to-turkish');
 
-  // Handle source language change
-  const handleSourceLanguageChange = (newSource: 'english' | 'russian') => {
-    const newDirection: LearnDirection = isToTurkish 
-      ? `${newSource}-to-turkish` 
-      : `turkish-to-${newSource}`;
-    onDirectionChange(newDirection);
-  };
-
-  // Handle direction toggle
+  // Handle direction toggle (swap languages)
   const handleDirectionToggle = () => {
     const newDirection: LearnDirection = isToTurkish
       ? `turkish-to-${sourceLanguage}` as LearnDirection
@@ -35,64 +28,43 @@ export const DirectionControls: React.FC<DirectionControlsProps> = ({
     onDirectionChange(newDirection);
   };
 
-  // Get direction button label
-  const getDirectionLabel = () => {
-    if (sourceLanguage === 'english') {
-      return isToTurkish ? 'English → Turkish' : 'Türkçe → İngilizce';
-    } else {
-      return isToTurkish ? 'Русский → Турецкий' : 'Türkçe → Rusça';
+  // Get the flags based on direction
+  const getLeftFlag = () => {
+    if (isToTurkish) {
+      return sourceLanguage === 'english' ? <UKFlag /> : <RussiaFlag />;
     }
+    return <TurkeyFlag />;
+  };
+
+  const getRightFlag = () => {
+    if (isToTurkish) {
+      return <TurkeyFlag />;
+    }
+    return sourceLanguage === 'english' ? <UKFlag /> : <RussiaFlag />;
   };
 
   return (
-    <div className="flex items-center gap-6 mb-4 flex-wrap">
-      {/* Source Language Selector */}
-      <div className="flex items-center gap-3">
-        <div className="flex items-center gap-2">
-          <Globe className="w-4 h-4 text-primary-600" />
-          <label className="text-sm font-medium text-gray-700">Source Language:</label>
+    <div className="space-y-4">
+      {/* Flags with Swap Button */}
+      <div className="flex items-start justify-center gap-6">
+        {/* Left Flag */}
+        <div className="flex flex-col items-center gap-2">
+          {getLeftFlag()}
         </div>
-        <select
-          value={sourceLanguage}
-          onChange={(e) => handleSourceLanguageChange(e.target.value as 'english' | 'russian')}
-          className="px-3 py-2 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-primary-500 focus:border-primary-500"
-        >
-          <option value="english">English</option>
-          <option value="russian">Русский (Russian)</option>
-        </select>
-      </div>
 
-      {/* Direction Toggle Button */}
-      <div className="flex items-center gap-3">
-        <div className="flex items-center gap-2">
-          <ArrowLeftRight className="w-4 h-4 text-primary-600" />
-          <label className="text-sm font-medium text-gray-700">Direction:</label>
-        </div>
+        {/* Swap Button - Square and positioned higher */}
         <button
           onClick={handleDirectionToggle}
-          className="px-4 py-2 border border-gray-300 rounded-lg text-sm font-medium hover:bg-gray-50 focus:ring-2 focus:ring-primary-500 focus:border-primary-500 transition-colors flex items-center gap-2"
+          className="p-3 border-2 border-primary-500 rounded-lg hover:bg-primary-50 focus:ring-2 focus:ring-primary-500 transition-all transform hover:scale-110 mt-4"
+          title="Swap languages"
         >
-          {getDirectionLabel()}
+          <ArrowLeftRight className="w-6 h-6 text-primary-600" />
         </button>
-      </div>
 
-      {/* Language Level Selector */}
-      <div className="flex items-center gap-3">
-        <div className="flex items-center gap-2">
-          <BookOpen className="w-4 h-4 text-primary-600" />
-          <label className="text-sm font-medium text-gray-700">Language Level:</label>
+        {/* Right Flag */}
+        <div className="flex flex-col items-center gap-2">
+          {getRightFlag()}
         </div>
-        <select
-          value={currentLevel}
-          onChange={(e) => onLevelChange(e.target.value as LanguageLevel)}
-          className="px-3 py-2 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-primary-500 focus:border-primary-500"
-        >
-          {LANGUAGE_LEVELS.map((level) => (
-            <option key={level} value={level}>
-              {level}
-            </option>
-          ))}
-        </select>
       </div>
     </div>
   );
