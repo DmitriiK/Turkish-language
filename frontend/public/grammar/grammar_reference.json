@@ -35,11 +35,13 @@
         "negative_affix": "m(ı/i/u/ü) - inserted before the tense marker"
       },
       "examples": [
-        {"turkish": "Kitap okuyorum.", "translation": "I am reading a book."},
-        {"turkish": "Çocuklar parkta oynuyor.", "translation": "The children are playing in the park."},
-        {"turkish": "Türkçe öğreniyoruz.", "translation": "We are learning Turkish."},
-        {"turkish": "Film izlemiyorum.", "translation": "I am not watching a movie."},
-        {"turkish": "Kahve içmiyorlar.", "translation": "They are not drinking coffee."}
+        {"turkish": "Kitap okuyorum.", "translation": "I am reading a book.", "type": "positive"},
+        {"turkish": "Çocuklar parkta oynuyor.", "translation": "The children are playing in the park.", "type": "positive"},
+        {"turkish": "Türkçe öğreniyoruz.", "translation": "We are learning Turkish.", "type": "positive"},
+        {"turkish": "Film izlemiyorum.", "translation": "I am not watching a movie.", "type": "negative"},
+        {"turkish": "Kahve içmiyorlar.", "translation": "They are not drinking coffee.", "type": "negative"},
+        {"turkish": "Kitap okuyor musun?", "translation": "Are you reading a book?", "type": "interrogative"},
+        {"turkish": "Çocuklar parkta oynuyor mu?", "translation": "Are the children playing in the park?", "type": "interrogative"}
       ]
     },
     "russian": {
@@ -74,11 +76,13 @@
         "negative_affix": "m(ı/i/u/ü) - вставляется перед показателем времени"
       },
       "examples": [
-        {"turkish": "Kitap okuyorum.", "translation": "Я читаю книгу."},
-        {"turkish": "Çocuklar parkta oynuyor.", "translation": "Дети играют в парке."},
-        {"turkish": "Türkçe öğreniyoruz.", "translation": "Мы учим турецкий."},
-        {"turkish": "Film izlemiyorum.", "translation": "Я не смотрю фильм."},
-        {"turkish": "Kahve içmiyorlar.", "translation": "Они не пьют кофе."}
+        {"turkish": "Kitap okuyorum.", "translation": "Я читаю книгу.", "type": "positive"},
+        {"turkish": "Çocuklar parkta oynuyor.", "translation": "Дети играют в парке.", "type": "positive"},
+        {"turkish": "Türkçe öğreniyoruz.", "translation": "Мы учим турецкий.", "type": "positive"},
+        {"turkish": "Film izlemiyorum.", "translation": "Я не смотрю фильм.", "type": "negative"},
+        {"turkish": "Kahve içmiyorlar.", "translation": "Они не пьют кофе.", "type": "negative"},
+        {"turkish": "Kitap okuyor musun?", "translation": "Ты читаешь книгу?", "type": "interrogative"},
+        {"turkish": "Çocuklar parkta oynuyor mu?", "translation": "Дети играют в парке?", "type": "interrogative"}
       ]
     }
   },
