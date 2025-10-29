@@ -56,6 +56,7 @@ export interface UserProgress {
   totalAttempts: number;
   currentStreak: number;
   bestStreak: number;
+  completedExamples: Set<string>; // Track unique completed examples
 }
 
 // Available language levels

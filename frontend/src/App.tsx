@@ -37,7 +37,8 @@ const App: React.FC = () => {
     correctAnswers: 0,
     totalAttempts: 0,
     currentStreak: 0,
-    bestStreak: 0
+    bestStreak: 0,
+    completedExamples: new Set<string>()
   });
 
   // Load current example
@@ -206,14 +207,25 @@ const App: React.FC = () => {
     setProgress(newProgress);
     
     // Update user progress only when the full sentence is completed manually
-    if (newProgress.fullSentence && !progress.fullSentence && wasManualInput) {
-      setUserProgress(prev => ({
-        ...prev,
-        correctAnswers: prev.correctAnswers + 1,
-        totalAttempts: prev.totalAttempts + 1,
-        currentStreak: prev.currentStreak + 1,
-        bestStreak: Math.max(prev.bestStreak, prev.currentStreak + 1)
-      }));
+    if (newProgress.fullSentence && !progress.fullSentence && wasManualInput && currentExample) {
+      // Create a unique key for this example
+      const exampleKey = `${currentExample.verb_english}-${currentExample.turkish_verb.personal_pronoun}-${currentExample.turkish_verb.verb_tense}-${currentExample.turkish_verb.polarity}`;
+      
+      setUserProgress(prev => {
+        // Check if this is a NEW completed example
+        const isNewCompletion = !prev.completedExamples.has(exampleKey);
+        const newCompletedExamples = new Set(prev.completedExamples);
+        newCompletedExamples.add(exampleKey);
+        
+        return {
+          ...prev,
+          correctAnswers: isNewCompletion ? prev.correctAnswers + 1 : prev.correctAnswers,
+          totalAttempts: prev.totalAttempts + 1,
+          currentStreak: prev.currentStreak + 1,
+          bestStreak: Math.max(prev.bestStreak, prev.currentStreak + 1),
+          completedExamples: newCompletedExamples
+        };
+      });
     }
   };
 
