@@ -158,79 +158,254 @@ export const LearningCard: React.FC<LearningCardProps> = ({
     setInputState('neutral');
   }, [example]);
 
-  // Update colored text when progress changes
-  useEffect(() => {
-    if (editableRef.current && document.activeElement !== editableRef.current) {
-      const coloredHtml = renderColoredText();
-      if (editableRef.current.innerHTML !== coloredHtml) {
-        const selection = window.getSelection();
-        const cursorPos = selection?.focusOffset || 0;
-        editableRef.current.innerHTML = coloredHtml;
+  // Render colored HTML for the contenteditable div
+  const renderColoredText = () => {
+    // Helper to escape HTML special characters
+    const escapeHtml = (text: string) => {
+      return text.replace(/&/g, '&amp;')
+                 .replace(/</g, '&lt;')
+                 .replace(/>/g, '&gt;')
+                 .replace(/"/g, '&quot;')
+                 .replace(/'/g, '&#039;');
+    };
+    
+    if (!direction.endsWith('turkish')) {
+      // For non-Turkish, just return plain text
+      return userInput || '';
+    }
+
+    if (!userInput) {
+      return '';
+    }
+
+    // Try to find and color the verb within the sentence
+    const verbFull = example.turkish_verb.verb_full;
+    const inputLower = userInput.toLowerCase();
+    const verbIndex = inputLower.indexOf(verbFull.toLowerCase());
+    
+    if (verbIndex !== -1) {
+      // Verb found in sentence - color it
+      let html = '';
+      
+      // Add text before verb
+      html += escapeHtml(userInput.substring(0, verbIndex));
+      
+      // Add colored verb parts
+      let verbOffset = verbIndex;
+      
+      if (example.turkish_verb.root) {
+        html += `<span style="color: #1d4ed8; font-weight: bold;">${escapeHtml(userInput.substring(verbOffset, verbOffset + example.turkish_verb.root.length))}</span>`;
+        verbOffset += example.turkish_verb.root.length;
+      }
+      
+      if (example.turkish_verb.negative_affix) {
+        html += `<span style="color: #7e22ce;">${escapeHtml(userInput.substring(verbOffset, verbOffset + example.turkish_verb.negative_affix.length))}</span>`;
+        verbOffset += example.turkish_verb.negative_affix.length;
+      }
+      
+      if (example.turkish_verb.tense_affix) {
+        html += `<span style="color: #c2410c;">${escapeHtml(userInput.substring(verbOffset, verbOffset + example.turkish_verb.tense_affix.length))}</span>`;
+        verbOffset += example.turkish_verb.tense_affix.length;
+      }
+      
+      if (example.turkish_verb.personal_affix) {
+        html += `<span style="color: #15803d;">${escapeHtml(userInput.substring(verbOffset, verbOffset + example.turkish_verb.personal_affix.length))}</span>`;
+        verbOffset += example.turkish_verb.personal_affix.length;
+      }
+      
+      // Add text after verb
+      html += escapeHtml(userInput.substring(verbIndex + verbFull.length));
+      
+      return html;
+    }
+    
+    // Verb not found as complete word - try to find partial verb anywhere in the sentence
+    // Build the verb parts we're looking for
+    const verbParts = [];
+    if (example.turkish_verb.root) {
+      verbParts.push({ text: example.turkish_verb.root, color: '#1d4ed8', bold: true });
+    }
+    if (example.turkish_verb.negative_affix) {
+      verbParts.push({ text: example.turkish_verb.negative_affix, color: '#7e22ce', bold: false });
+    }
+    if (example.turkish_verb.tense_affix) {
+      verbParts.push({ text: example.turkish_verb.tense_affix, color: '#c2410c', bold: false });
+    }
+    if (example.turkish_verb.personal_affix) {
+      verbParts.push({ text: example.turkish_verb.personal_affix, color: '#15803d', bold: false });
+    }
+    
+    // Try to find where the verb starts by looking for the root
+    if (verbParts.length > 0) {
+      const rootPart = verbParts[0];
+      const rootIndex = inputLower.indexOf(rootPart.text.toLowerCase());
+      
+      if (rootIndex !== -1) {
+        // Found the root - try to match subsequent parts from here
+        let html = '';
+        let currentIndex = rootIndex;
         
-        // Restore cursor position
-        if (selection && coloredHtml) {
-          try {
-            const range = document.createRange();
-            const lastChild = editableRef.current.lastChild;
-            if (lastChild) {
-              range.setStart(lastChild, Math.min(cursorPos, lastChild.textContent?.length || 0));
-              range.collapse(true);
-              selection.removeAllRanges();
-              selection.addRange(range);
-            }
-          } catch (e) {
-            // Ignore cursor restoration errors
+        // Add text before the verb
+        html += escapeHtml(userInput.substring(0, rootIndex));
+        
+        // Try to match each part sequentially
+        for (const part of verbParts) {
+          const partLower = part.text.toLowerCase();
+          const remainingInput = userInput.substring(currentIndex).toLowerCase();
+          
+          if (remainingInput.startsWith(partLower)) {
+            // This part matches - color it
+            const actualText = userInput.substring(currentIndex, currentIndex + part.text.length);
+            const style = part.bold 
+              ? `color: ${part.color}; font-weight: bold;`
+              : `color: ${part.color};`;
+            html += `<span style="${style}">${escapeHtml(actualText)}</span>`;
+            currentIndex += part.text.length;
+          } else {
+            // Part doesn't match - stop trying to match further parts
+            break;
           }
         }
+        
+        // Add any remaining text after the verb
+        if (currentIndex < userInput.length) {
+          html += escapeHtml(userInput.substring(currentIndex));
+        }
+        
+        return html;
       }
     }
-  }, [progress, userInput]);
+    
+    // No match found at all, return plain text
+    return escapeHtml(userInput);
+  };
 
-  // Real-time progress checking (no feedback messages, no auto-advance)
+  // Helper function to update colored text with cursor preservation
+  const updateColoredText = () => {
+    if (!editableRef.current) return;
+    
+    const coloredHtml = renderColoredText();
+    const currentHTML = editableRef.current.innerHTML;
+    
+    // Skip if no change needed
+    if (currentHTML === coloredHtml) return;
+    
+    // Save cursor position
+    const selection = window.getSelection();
+    let cursorOffset = 0;
+    
+    if (selection && selection.rangeCount > 0) {
+      const range = selection.getRangeAt(0);
+      const preCaretRange = range.cloneRange();
+      preCaretRange.selectNodeContents(editableRef.current);
+      preCaretRange.setEnd(range.endContainer, range.endOffset);
+      cursorOffset = preCaretRange.toString().length;
+    }
+    
+    // Update HTML
+    editableRef.current.innerHTML = coloredHtml;
+    
+    // Restore cursor position
+    if (selection && coloredHtml) {
+      try {
+        const range = document.createRange();
+        let charCount = 0;
+        let foundPosition = false;
+        
+        const traverseNodes = (node: Node): boolean => {
+          if (node.nodeType === Node.TEXT_NODE) {
+            const textLength = node.textContent?.length || 0;
+            if (charCount + textLength >= cursorOffset) {
+              range.setStart(node, cursorOffset - charCount);
+              range.collapse(true);
+              foundPosition = true;
+              return true;
+            }
+            charCount += textLength;
+          } else if (node.childNodes) {
+            for (let i = 0; i < node.childNodes.length; i++) {
+              if (traverseNodes(node.childNodes[i])) {
+                return true;
+              }
+            }
+          }
+          return false;
+        };
+        
+        traverseNodes(editableRef.current);
+        
+        if (foundPosition) {
+          selection.removeAllRanges();
+          selection.addRange(range);
+        }
+      } catch (e) {
+        // Ignore cursor restoration errors
+      }
+    }
+  };
+
+  // Update colored text whenever userInput changes
+  useEffect(() => {
+    if (editableRef.current) {
+      // Use requestAnimationFrame to ensure DOM is ready
+      requestAnimationFrame(() => {
+        updateColoredText();
+      });
+    }
+  }, [userInput, direction]);
+
+  // Real-time progress checking (bidirectional sync with checkboxes)
   const checkProgressRealTime = (input: string) => {
-    const inputLower = input.toLowerCase().trim();
+    // Remove trailing dots for comparison
+    const inputTrimmed = input.trim().replace(/\.+$/, '');
+    const inputLower = inputTrimmed.toLowerCase();
     const newProgress = { ...progress };
     let hasChanges = false;
     
     // For Turkish target directions (learning Turkish)
     if (direction.endsWith('turkish')) {
-      // Check verb root
-      if (!progress.verbRoot && inputLower.includes(example.turkish_verb.root.toLowerCase())) {
-        newProgress.verbRoot = true;
+      // Check verb root - both enable and disable
+      const hasVerbRoot = inputLower.includes(example.turkish_verb.root.toLowerCase());
+      if (progress.verbRoot !== hasVerbRoot) {
+        newProgress.verbRoot = hasVerbRoot;
         hasChanges = true;
       }
       
-      // Check negative affix (only for negative polarity)
-      if (example.turkish_verb.polarity === 'negative' && 
-          example.turkish_verb.negative_affix &&
-          !progress.negativeAffix && 
-          inputLower.includes(example.turkish_verb.negative_affix.toLowerCase())) {
-        newProgress.negativeAffix = true;
-        hasChanges = true;
+      // Check negative affix (only for negative polarity) - both enable and disable
+      if (example.turkish_verb.polarity === 'negative' && example.turkish_verb.negative_affix) {
+        const hasNegativeAffix = inputLower.includes(example.turkish_verb.negative_affix.toLowerCase());
+        if (progress.negativeAffix !== hasNegativeAffix) {
+          newProgress.negativeAffix = hasNegativeAffix;
+          hasChanges = true;
+        }
       }
       
-      // Check tense affix
-      if (!progress.tenseAffix && 
-          example.turkish_verb.tense_affix && 
-          inputLower.includes(example.turkish_verb.tense_affix.toLowerCase())) {
-        newProgress.tenseAffix = true;
-        hasChanges = true;
+      // Check tense affix - both enable and disable
+      if (example.turkish_verb.tense_affix) {
+        const hasTenseAffix = inputLower.includes(example.turkish_verb.tense_affix.toLowerCase());
+        if (progress.tenseAffix !== hasTenseAffix) {
+          newProgress.tenseAffix = hasTenseAffix;
+          hasChanges = true;
+        }
       }
       
-      // Check personal affix
-      if (!progress.personalAffix && 
-          example.turkish_verb.personal_affix && 
-          inputLower.includes(example.turkish_verb.personal_affix.toLowerCase())) {
-        newProgress.personalAffix = true;
-        hasChanges = true;
+      // Check personal affix - both enable and disable
+      if (example.turkish_verb.personal_affix) {
+        const hasPersonalAffix = inputLower.includes(example.turkish_verb.personal_affix.toLowerCase());
+        if (progress.personalAffix !== hasPersonalAffix) {
+          newProgress.personalAffix = hasPersonalAffix;
+          hasChanges = true;
+        }
       }
     }
     
-    // Check full sentence for all directions
-    const targetSentence = getTargetSentence().toLowerCase();
-    const wasFullSentenceCompleted = !progress.fullSentence && inputLower === targetSentence;
-    if (wasFullSentenceCompleted) {
-      newProgress.fullSentence = true;
+    // Check full sentence for all directions (ignore trailing dots)
+    const targetSentence = getTargetSentence().toLowerCase().replace(/\.+$/, '');
+    const isFullSentenceMatch = inputLower === targetSentence;
+    const wasFullSentenceCompleted = !progress.fullSentence && isFullSentenceMatch;
+    
+    if (progress.fullSentence !== isFullSentenceMatch) {
+      newProgress.fullSentence = isFullSentenceMatch;
       hasChanges = true;
     }
 
@@ -267,115 +442,9 @@ export const LearningCard: React.FC<LearningCardProps> = ({
     }
   };
 
-  // Render colored HTML for the contenteditable div
-  const renderColoredText = () => {
-    // Helper to escape HTML special characters
-    const escapeHtml = (text: string) => {
-      return text.replace(/&/g, '&amp;')
-                 .replace(/</g, '&lt;')
-                 .replace(/>/g, '&gt;')
-                 .replace(/"/g, '&quot;')
-                 .replace(/'/g, '&#039;');
-    };
-    
-    if (!isLearningTurkish) {
-      // For non-Turkish, just return plain text
-      return userInput || '';
-    }
-
-    // If no checkboxes are checked but user has typed something, just show plain text
-    if (!progress.verbRoot && !progress.negativeAffix && !progress.tenseAffix && !progress.personalAffix && !progress.fullSentence) {
-      return userInput || '';
-    }
-
-    // For full sentence, we need to find and color the verb within the sentence
-    if (progress.fullSentence) {
-      const sentence = userInput;
-      const verbFull = example.turkish_verb.verb_full;
-      const verbIndex = sentence.toLowerCase().indexOf(verbFull.toLowerCase());
-      
-      if (verbIndex === -1) {
-        // Verb not found in sentence, return plain text
-        return escapeHtml(sentence);
-      }
-      
-      // Build HTML with colored verb parts
-      let html = '';
-      
-      // Add text before verb
-      html += escapeHtml(sentence.substring(0, verbIndex));
-      
-      // Add colored verb parts
-      let verbOffset = 0;
-      
-      if (example.turkish_verb.root) {
-        html += `<span style="color: #1d4ed8; font-weight: bold;">${escapeHtml(example.turkish_verb.root)}</span>`;
-        verbOffset += example.turkish_verb.root.length;
-      }
-      
-      if (example.turkish_verb.negative_affix) {
-        html += `<span style="color: #7e22ce;">${escapeHtml(example.turkish_verb.negative_affix)}</span>`;
-        verbOffset += example.turkish_verb.negative_affix.length;
-      }
-      
-      if (example.turkish_verb.tense_affix) {
-        html += `<span style="color: #c2410c;">${escapeHtml(example.turkish_verb.tense_affix)}</span>`;
-        verbOffset += example.turkish_verb.tense_affix.length;
-      }
-      
-      if (example.turkish_verb.personal_affix) {
-        html += `<span style="color: #15803d;">${escapeHtml(example.turkish_verb.personal_affix)}</span>`;
-        verbOffset += example.turkish_verb.personal_affix.length;
-      }
-      
-      // Add text after verb
-      html += escapeHtml(sentence.substring(verbIndex + verbFull.length));
-      
-      return html;
-    }
-
-    // Build colored HTML based on progress checkboxes (for partial verb)
-    let html = '';
-    let currentIndex = 0;
-    
-    if (progress.verbRoot && example.turkish_verb.root) {
-      // Root in bold blue
-      const rootLength = example.turkish_verb.root.length;
-      html += `<span style="color: #1d4ed8; font-weight: bold;">${escapeHtml(example.turkish_verb.root)}</span>`;
-      currentIndex += rootLength;
-    }
-    
-    if (progress.negativeAffix && example.turkish_verb.negative_affix) {
-      // Negative affix in purple
-      const affixLength = example.turkish_verb.negative_affix.length;
-      html += `<span style="color: #7e22ce;">${escapeHtml(example.turkish_verb.negative_affix)}</span>`;
-      currentIndex += affixLength;
-    }
-    
-    if (progress.tenseAffix && example.turkish_verb.tense_affix) {
-      // Tense affix in orange
-      const affixLength = example.turkish_verb.tense_affix.length;
-      html += `<span style="color: #c2410c;">${escapeHtml(example.turkish_verb.tense_affix)}</span>`;
-      currentIndex += affixLength;
-    }
-    
-    if (progress.personalAffix && example.turkish_verb.personal_affix) {
-      // Personal affix in green
-      const affixLength = example.turkish_verb.personal_affix.length;
-      html += `<span style="color: #15803d;">${escapeHtml(example.turkish_verb.personal_affix)}</span>`;
-      currentIndex += affixLength;
-    }
-
-    // Add any remaining text that user typed beyond the verb parts
-    if (userInput.length > currentIndex) {
-      html += escapeHtml(userInput.substring(currentIndex));
-    }
-
-    return html || '';
-  };
-
   const checkAnswer = () => {
-    const input = userInput.toLowerCase().trim();
+    // Remove trailing dots for comparison
+    const input = userInput.trim().replace(/\.+$/, '').toLowerCase();
     const newProgress = { ...progress };
     const newShowComponents = { ...showComponents };
     let feedbackMessage = '';
@@ -418,8 +487,8 @@ export const LearningCard: React.FC<LearningCardProps> = ({
       }
     }
     
-    // Check full sentence for all directions
-    const targetSentence = getTargetSentence().toLowerCase();
+    // Check full sentence for all directions (ignore trailing dots)
+    const targetSentence = getTargetSentence().toLowerCase().replace(/\.+$/, '');
     if (!progress.fullSentence && input === targetSentence) {
       newProgress.fullSentence = true;
       feedbackMessage += '🎉 Perfect!';
@@ -564,7 +633,9 @@ export const LearningCard: React.FC<LearningCardProps> = ({
           <div
             ref={editableRef}
             contentEditable
+            suppressContentEditableWarning
             onInput={(e) => {
+              // Get plain text content (this strips HTML tags)
               const newValue = e.currentTarget.textContent || '';
               setUserInput(newValue);
               checkProgressRealTime(newValue);
@@ -695,18 +766,31 @@ export const LearningCard: React.FC<LearningCardProps> = ({
               color="gray"
               onToggle={() => {
                 const isChecking = !progress.fullSentence;
-                const newProgress = { 
-                  ...progress, 
-                  fullSentence: isChecking,
+                
+                if (isChecking) {
                   // If checking Complete Phrase, check all components too
-                  verbRoot: isChecking ? true : progress.verbRoot,
-                  negativeAffix: (isChecking && example.turkish_verb.polarity === 'negative') ? true : progress.negativeAffix,
-                  tenseAffix: isChecking ? true : progress.tenseAffix,
-                  personalAffix: isChecking ? true : progress.personalAffix
-                };
-                setProgress(newProgress);
-                // Update main textbox based on new progress
-                setUserInput(buildTextFromProgress(newProgress));
+                  const newProgress = { 
+                    ...progress, 
+                    fullSentence: true,
+                    verbRoot: true,
+                    negativeAffix: example.turkish_verb.polarity === 'negative' ? true : progress.negativeAffix,
+                    tenseAffix: true,
+                    personalAffix: true
+                  };
+                  setProgress(newProgress);
+                  setUserInput(buildTextFromProgress(newProgress));
+                } else {
+                  // If unchecking Complete Phrase, uncheck all components and clear textbox
+                  const newProgress = { 
+                    verbRoot: false,
+                    negativeAffix: false,
+                    tenseAffix: false,
+                    personalAffix: false,
+                    fullSentence: false
+                  };
+                  setProgress(newProgress);
+                  setUserInput('');
+                }
                 // Don't notify parent - this is not manual input
               }}
             />
@@ -737,18 +821,31 @@ export const LearningCard: React.FC<LearningCardProps> = ({
               checked={progress.fullSentence}
               onToggle={() => {
                 const isChecking = !progress.fullSentence;
-                const newProgress = { 
-                  ...progress, 
-                  fullSentence: isChecking,
+                
+                if (isChecking) {
                   // If checking Complete Answer, check all components too (for consistency)
-                  verbRoot: isChecking ? true : progress.verbRoot,
-                  negativeAffix: isChecking ? true : progress.negativeAffix,
-                  tenseAffix: isChecking ? true : progress.tenseAffix,
-                  personalAffix: isChecking ? true : progress.personalAffix
-                };
-                setProgress(newProgress);
-                // Update main textbox based on new progress
-                setUserInput(buildTextFromProgress(newProgress));
+                  const newProgress = { 
+                    ...progress, 
+                    fullSentence: true,
+                    verbRoot: true,
+                    negativeAffix: true,
+                    tenseAffix: true,
+                    personalAffix: true
+                  };
+                  setProgress(newProgress);
+                  setUserInput(buildTextFromProgress(newProgress));
+                } else {
+                  // If unchecking Complete Answer, uncheck all components and clear textbox
+                  const newProgress = { 
+                    verbRoot: false,
+                    negativeAffix: false,
+                    tenseAffix: false,
+                    personalAffix: false,
+                    fullSentence: false
+                  };
+                  setProgress(newProgress);
+                  setUserInput('');
+                }
                 // Don't notify parent - this is not manual input
               }}
             />
