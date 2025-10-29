@@ -158,6 +158,20 @@ export const LearningCard: React.FC<LearningCardProps> = ({
     setInputState('neutral');
   }, [example]);
 
+  // Get current cursor position in the contenteditable div
+  const getCursorPosition = (): number => {
+    if (!editableRef.current) return 0;
+    
+    const selection = window.getSelection();
+    if (!selection || selection.rangeCount === 0) return 0;
+    
+    const range = selection.getRangeAt(0);
+    const preCaretRange = range.cloneRange();
+    preCaretRange.selectNodeContents(editableRef.current);
+    preCaretRange.setEnd(range.endContainer, range.endOffset);
+    return preCaretRange.toString().length;
+  };
+
   // Render colored HTML for the contenteditable div
   const renderColoredText = () => {
     // Helper to escape HTML special characters
@@ -178,45 +192,139 @@ export const LearningCard: React.FC<LearningCardProps> = ({
       return '';
     }
 
-    // Try to find and color the verb within the sentence
+    const targetSentence = getTargetSentence().replace(/\.+$/, ''); // Remove trailing dots
     const verbFull = example.turkish_verb.verb_full;
     const inputLower = userInput.toLowerCase();
     const verbIndex = inputLower.indexOf(verbFull.toLowerCase());
+    const cursorPos = getCursorPosition();
     
-    if (verbIndex !== -1) {
-      // Verb found in sentence - color it
+    // Helper to check if a word sequence is incorrect
+    const markIncorrectWords = (text: string, cursorPosition?: number) => {
+      // Split both into words (preserve spaces)
+      const words = text.split(/(\s+)/); // Keeps spaces as separate elements
+      const targetWords = targetSentence.split(/(\s+)/).filter(w => !/^\s+$/.test(w)); // Get only non-space words from target
+      
+      // Find which word index contains the cursor
+      let cursorWordIndex = -1;
+      if (cursorPosition !== undefined) {
+        let charCount = 0;
+        for (let i = 0; i < words.length; i++) {
+          charCount += words[i].length;
+          if (cursorPosition <= charCount) {
+            cursorWordIndex = i;
+            break;
+          }
+        }
+      }
+      
       let html = '';
       
-      // Add text before verb
-      html += escapeHtml(userInput.substring(0, verbIndex));
+      for (let i = 0; i < words.length; i++) {
+        const word = words[i];
+        const isLastWord = i === words.length - 1;
+        const isCursorWord = i === cursorWordIndex;
+        const isSpace = /^\s+$/.test(word);
+        
+        // Check if word is definitely incorrect
+        let isIncorrect = false;
+        
+        if (!isSpace) {
+          // Remove trailing dots for comparison (user can type dots at the end)
+          const wordWithoutDots = word.replace(/\.+$/, '');
+          const wordLower = wordWithoutDots.toLowerCase();
+          
+          // If the word is just dots, don't mark as incorrect
+          if (wordWithoutDots === '') {
+            isIncorrect = false;
+          } else {
+            // Check if this word exists anywhere in the target sentence
+            const existsInTarget = targetWords.some(tw => tw.toLowerCase() === wordLower);
+            
+            if (isLastWord || isCursorWord) {
+              // Last word or word at cursor: check if it's a valid prefix of ANY word in target
+              const isValidPrefix = targetWords.some(tw => tw.toLowerCase().startsWith(wordLower));
+              isIncorrect = !isValidPrefix;
+            } else {
+              // Not last word and not at cursor: must exist exactly in target
+              isIncorrect = !existsInTarget;
+            }
+          }
+        }
+        
+        if (isIncorrect) {
+          html += `<span style="text-decoration: underline; text-decoration-color: red; text-decoration-thickness: 2px;">${escapeHtml(word)}</span>`;
+        } else {
+          html += escapeHtml(word);
+        }
+      }
       
-      // Add colored verb parts
+      return html;
+    };
+    
+    // Helper to render text with incorrect parts marked in red
+    const renderTextWithErrors = (beforeVerb: string, verbHtml: string, afterVerb: string, verbStartPos: number) => {
+      let html = '';
+      
+      // Calculate cursor position relative to before/after sections
+      const verbLength = userInput.length - beforeVerb.length - afterVerb.length;
+      const verbEndPos = verbStartPos + verbLength;
+      
+      // Determine cursor position for each section
+      let beforeCursorPos: number | undefined = undefined;
+      let afterCursorPos: number | undefined = undefined;
+      
+      if (cursorPos <= verbStartPos) {
+        // Cursor is in the "before" section
+        beforeCursorPos = cursorPos;
+      } else if (cursorPos > verbEndPos) {
+        // Cursor is in the "after" section
+        afterCursorPos = cursorPos - verbEndPos;
+      }
+      // If cursor is within the verb itself, we don't pass it to either section
+      
+      // Check text before verb word by word
+      html += markIncorrectWords(beforeVerb, beforeCursorPos);
+      
+      // Add colored verb
+      html += verbHtml;
+      
+      // Check text after verb word by word
+      html += markIncorrectWords(afterVerb, afterCursorPos);
+      
+      return html;
+    };
+    
+    if (verbIndex !== -1) {
+      // Verb found in sentence - color it and check for errors
+      let verbHtml = '';
       let verbOffset = verbIndex;
       
       if (example.turkish_verb.root) {
-        html += `<span style="color: #1d4ed8; font-weight: bold;">${escapeHtml(userInput.substring(verbOffset, verbOffset + example.turkish_verb.root.length))}</span>`;
+        verbHtml += `<span style="color: #1d4ed8; font-weight: bold;">${escapeHtml(userInput.substring(verbOffset, verbOffset + example.turkish_verb.root.length))}</span>`;
         verbOffset += example.turkish_verb.root.length;
       }
       
       if (example.turkish_verb.negative_affix) {
-        html += `<span style="color: #7e22ce;">${escapeHtml(userInput.substring(verbOffset, verbOffset + example.turkish_verb.negative_affix.length))}</span>`;
+        verbHtml += `<span style="color: #7e22ce;">${escapeHtml(userInput.substring(verbOffset, verbOffset + example.turkish_verb.negative_affix.length))}</span>`;
         verbOffset += example.turkish_verb.negative_affix.length;
       }
       
       if (example.turkish_verb.tense_affix) {
-        html += `<span style="color: #c2410c;">${escapeHtml(userInput.substring(verbOffset, verbOffset + example.turkish_verb.tense_affix.length))}</span>`;
+        verbHtml += `<span style="color: #c2410c;">${escapeHtml(userInput.substring(verbOffset, verbOffset + example.turkish_verb.tense_affix.length))}</span>`;
         verbOffset += example.turkish_verb.tense_affix.length;
       }
       
       if (example.turkish_verb.personal_affix) {
-        html += `<span style="color: #15803d;">${escapeHtml(userInput.substring(verbOffset, verbOffset + example.turkish_verb.personal_affix.length))}</span>`;
+        verbHtml += `<span style="color: #15803d;">${escapeHtml(userInput.substring(verbOffset, verbOffset + example.turkish_verb.personal_affix.length))}</span>`;
         verbOffset += example.turkish_verb.personal_affix.length;
       }
       
-      // Add text after verb
-      html += escapeHtml(userInput.substring(verbIndex + verbFull.length));
-      
-      return html;
+      return renderTextWithErrors(
+        userInput.substring(0, verbIndex),
+        verbHtml,
+        userInput.substring(verbIndex + verbFull.length),
+        verbIndex
+      );
     }
     
     // Verb not found as complete word - try to find partial verb anywhere in the sentence
@@ -242,13 +350,11 @@ export const LearningCard: React.FC<LearningCardProps> = ({
       
       if (rootIndex !== -1) {
         // Found the root - try to match subsequent parts from here
-        let html = '';
+        let verbHtml = '';
         let currentIndex = rootIndex;
+        let verbEndIndex = rootIndex;
         
-        // Add text before the verb
-        html += escapeHtml(userInput.substring(0, rootIndex));
-        
-        // Try to match each part sequentially
+        // Try to match each part sequentially and build colored verb HTML
         for (const part of verbParts) {
           const partLower = part.text.toLowerCase();
           const remainingInput = userInput.substring(currentIndex).toLowerCase();
@@ -259,25 +365,27 @@ export const LearningCard: React.FC<LearningCardProps> = ({
             const style = part.bold 
               ? `color: ${part.color}; font-weight: bold;`
               : `color: ${part.color};`;
-            html += `<span style="${style}">${escapeHtml(actualText)}</span>`;
+            verbHtml += `<span style="${style}">${escapeHtml(actualText)}</span>`;
             currentIndex += part.text.length;
+            verbEndIndex = currentIndex;
           } else {
             // Part doesn't match - stop trying to match further parts
             break;
           }
         }
         
-        // Add any remaining text after the verb
-        if (currentIndex < userInput.length) {
-          html += escapeHtml(userInput.substring(currentIndex));
-        }
-        
-        return html;
+        // Calculate verb length for error checking
+        return renderTextWithErrors(
+          userInput.substring(0, rootIndex),
+          verbHtml,
+          userInput.substring(verbEndIndex),
+          rootIndex
+        );
       }
     }
     
-    // No match found at all, return plain text
-    return escapeHtml(userInput);
+    // No verb match found - check entire text for errors word by word
+    return markIncorrectWords(userInput);
   };
 
   // Helper function to update colored text with cursor preservation
