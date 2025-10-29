@@ -1,7 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { Check, Target, BookOpen } from 'lucide-react';
 import { TrainingExample, LearnDirection, ProgressState, LANGUAGE_LEVELS, LanguageLevel } from '@/types';
-import { motion, AnimatePresence } from 'framer-motion';
 import clsx from 'clsx';
 import { NavigationControls } from './NavigationControls';
 
@@ -19,43 +18,19 @@ const formatGrammarName = (tense: string): string => {
   return tenseNames[tense] || tense.replace('_', ' ');
 };
 
+interface LearningCardProps {
+};
+
 // Helper function to format grammar name with level
 const formatGrammarNameWithLevel = (tense: string, level: string | null): string => {
   const formattedName = formatGrammarName(tense);
   return level ? `${formattedName} (${level})` : formattedName;
 };
 
-// Helper to check if text is definitely not part of the answer
-const isIncorrectText = (input: string, targetSentence: string): boolean => {
-  const inputLower = input.toLowerCase().trim();
-  const targetLower = targetSentence.toLowerCase();
-  
-  if (inputLower.length === 0) return false;
-  
-  // If input contains any characters from target, it might be partially correct
-  const inputWords = inputLower.split(/\s+/);
-  const targetWords = targetLower.split(/\s+/);
-  
-  // Check if any input word is completely foreign to target
-  for (const inputWord of inputWords) {
-    if (inputWord.length > 2) { // Only check meaningful words
-      const hasPartialMatch = targetWords.some(targetWord => 
-        targetWord.includes(inputWord) || inputWord.includes(targetWord)
-      );
-      if (!hasPartialMatch) {
-        return true; // Found a word that doesn't belong
-      }
-    }
-  }
-  
-  return false;
-};
-
 interface LearningCardProps {
   example: TrainingExample;
   direction: LearnDirection;
   onProgress: (progress: ProgressState, wasManualInput?: boolean) => void;
-  onNext: () => void;
   // Navigation props
   currentVerb: string;
   currentVerbDisplay: string;
@@ -65,6 +40,7 @@ interface LearningCardProps {
   currentRank: number;
   languageLevel?: string; // Optional language level filter
   correctAnswers: number; // Correct answers counter
+  isAnswered: boolean; // Whether this example has been answered correctly
   onLevelChange: (level: LanguageLevel) => void; // Language level change handler
   onNextTense: () => void;
   onNextPronoun: () => void;
@@ -82,7 +58,6 @@ export const LearningCard: React.FC<LearningCardProps> = ({
   example,
   direction,
   onProgress,
-  onNext,
   // Navigation props
   currentVerb,
   currentVerbDisplay,
@@ -92,6 +67,7 @@ export const LearningCard: React.FC<LearningCardProps> = ({
   currentRank,
   languageLevel,
   correctAnswers,
+  isAnswered,
   onLevelChange,
   onNextTense,
   onNextPronoun,
@@ -112,14 +88,7 @@ export const LearningCard: React.FC<LearningCardProps> = ({
     personalAffix: false,
     fullSentence: false
   });
-  const [feedback, setFeedback] = useState<string>('');
   const [inputState, setInputState] = useState<'neutral' | 'correct' | 'error'>('neutral');
-  const [showComponents, setShowComponents] = useState({
-    verbRoot: false,
-    negativeAffix: false,
-    tenseAffix: false,
-    personalAffix: false
-  });
   const [tenseLevel, setTenseLevel] = useState<string | null>(null);
   const editableRef = useRef<HTMLDivElement>(null);
 
@@ -148,13 +117,6 @@ export const LearningCard: React.FC<LearningCardProps> = ({
       personalAffix: false,
       fullSentence: false
     });
-    setShowComponents({
-      verbRoot: false,
-      negativeAffix: false,
-      tenseAffix: false,
-      personalAffix: false
-    });
-    setFeedback('');
     setInputState('neutral');
   }, [example]);
 
@@ -550,82 +512,6 @@ export const LearningCard: React.FC<LearningCardProps> = ({
     }
   };
 
-  const checkAnswer = () => {
-    // Remove trailing dots for comparison
-    const input = userInput.trim().replace(/\.+$/, '').toLowerCase();
-    const newProgress = { ...progress };
-    const newShowComponents = { ...showComponents };
-    let feedbackMessage = '';
-    
-    // For Turkish target directions (learning Turkish)
-    if (direction.endsWith('turkish')) {
-      // Check verb root
-      if (!progress.verbRoot && input.includes(example.turkish_verb.root.toLowerCase())) {
-        newProgress.verbRoot = true;
-        newShowComponents.verbRoot = true;
-        feedbackMessage += '✅ Verb root correct! ';
-      }
-      
-      // Check negative affix (only for negative polarity)
-      if (example.turkish_verb.polarity === 'negative' && 
-          example.turkish_verb.negative_affix &&
-          !progress.negativeAffix && 
-          input.includes(example.turkish_verb.negative_affix.toLowerCase())) {
-        newProgress.negativeAffix = true;
-        newShowComponents.negativeAffix = true;
-        feedbackMessage += '✅ Negative affix correct! ';
-      }
-      
-      // Check tense affix
-      if (!progress.tenseAffix && 
-          example.turkish_verb.tense_affix && 
-          input.includes(example.turkish_verb.tense_affix.toLowerCase())) {
-        newProgress.tenseAffix = true;
-        newShowComponents.tenseAffix = true;
-        feedbackMessage += '✅ Tense affix correct! ';
-      }
-      
-      // Check personal affix
-      if (!progress.personalAffix && 
-          example.turkish_verb.personal_affix && 
-          input.includes(example.turkish_verb.personal_affix.toLowerCase())) {
-        newProgress.personalAffix = true;
-        newShowComponents.personalAffix = true;
-        feedbackMessage += '✅ Personal affix correct! ';
-      }
-    }
-    
-    // Check full sentence for all directions (ignore trailing dots)
-    const targetSentence = getTargetSentence().toLowerCase().replace(/\.+$/, '');
-    if (!progress.fullSentence && input === targetSentence) {
-      newProgress.fullSentence = true;
-      feedbackMessage += '🎉 Perfect!';
-      setInputState('correct');
-    } else if (feedbackMessage) {
-      setInputState('neutral');
-    } else {
-      // Check if input is definitely wrong (contains words not in target)
-      if (isIncorrectText(input, targetSentence)) {
-        setInputState('error');
-        feedbackMessage = '❌ Some parts are incorrect. Try again...';
-      } else {
-        setInputState('neutral');
-        feedbackMessage = '⚠️ Keep working on it...';
-      }
-    }
-
-    setProgress(newProgress);
-    setShowComponents(newShowComponents);
-    setFeedback(feedbackMessage);
-
-    // Auto advance if everything is complete
-    if (newProgress.fullSentence) {
-      setTimeout(() => {
-        onNext();
-      }, 2000);
-    }
-  };
-
   const getSourceContent = () => {
     switch (direction) {
       case 'english-to-turkish':
@@ -748,12 +634,6 @@ export const LearningCard: React.FC<LearningCardProps> = ({
               setUserInput(newValue);
               checkProgressRealTime(newValue);
             }}
-            onKeyPress={(e) => {
-              if (e.key === 'Enter') {
-                e.preventDefault();
-                checkAnswer();
-              }
-            }}
             className={clsx(
               'input text-lg min-h-[2.5rem] outline-none',
               inputState === 'correct' && 'input-correct border-green-500 bg-green-50',
@@ -767,35 +647,7 @@ export const LearningCard: React.FC<LearningCardProps> = ({
             }}
           />
         </div>
-        
-        <button
-          onClick={checkAnswer}
-          className="btn-primary mt-3 w-full"
-        >
-          Check Answer
-        </button>
       </div>
-
-      {/* Feedback */}
-      <AnimatePresence>
-        {feedback && (
-          <motion.div
-            initial={{ opacity: 0, y: 10 }}
-            animate={{ opacity: 1, y: 0 }}
-            exit={{ opacity: 0, y: -10 }}
-            className={clsx(
-              'p-3 rounded-lg text-sm font-medium mb-4',
-              progress.fullSentence 
-                ? 'bg-green-100 text-green-800'
-                : inputState === 'error'
-                ? 'bg-red-100 text-red-800'
-                : 'bg-blue-100 text-blue-800'
-            )}
-          >
-            {feedback}
-          </motion.div>
-        )}
-      </AnimatePresence>
 
       {/* Progress Indicators */}
       {isLearningTurkish ? (
@@ -804,16 +656,31 @@ export const LearningCard: React.FC<LearningCardProps> = ({
             <h3 className="text-sm font-medium text-gray-700">
               Progress Indicators:
             </h3>
-            {/* Correct Answers Counter */}
-            <div 
-              className="bg-green-50 border-2 border-green-500 rounded-lg px-3 py-1"
-              title="Correct answers entered manually"
-            >
-              <div className="flex items-center gap-2">
-                <Target className="w-4 h-4 text-green-600" />
-                <span className="text-xl font-bold text-green-600">
-                  {correctAnswers}
-                </span>
+            {/* Status and Counter */}
+            <div className="flex items-center gap-3">
+              {/* Answered/Not Answered Label */}
+              <span
+                className={clsx(
+                  'text-sm font-semibold',
+                  isAnswered 
+                    ? 'text-green-600'
+                    : 'text-gray-500'
+                )}
+              >
+                {isAnswered ? 'Answered' : 'Not Answered'}
+              </span>
+              
+              {/* Correct Answers Counter */}
+              <div 
+                className="bg-green-50 border-2 border-green-500 rounded-lg px-3 py-1"
+                title="Unique examples completed"
+              >
+                <div className="flex items-center gap-2">
+                  <Target className="w-4 h-4 text-green-600" />
+                  <span className="text-xl font-bold text-green-600">
+                    {correctAnswers}
+                  </span>
+                </div>
               </div>
             </div>
           </div>

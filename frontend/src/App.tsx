@@ -337,7 +337,6 @@ const App: React.FC = () => {
             example={currentExample}
             direction={direction}
             onProgress={handleProgress}
-            onNext={handleNext}
             currentVerb={currentVerb}
             currentVerbDisplay={currentVerbDisplay}
             currentTense={currentTense}
@@ -346,6 +345,9 @@ const App: React.FC = () => {
             currentRank={currentRank}
             languageLevel={languageLevel}
             correctAnswers={userProgress.correctAnswers}
+            isAnswered={userProgress.completedExamples.has(
+              `${currentExample.verb_english}-${currentExample.turkish_verb.personal_pronoun}-${currentExample.turkish_verb.verb_tense}-${currentExample.turkish_verb.polarity}`
+            )}
             onLevelChange={handleLevelChange}
             onNextTense={handleNextTense}
             onNextPronoun={handleNextPronoun}
