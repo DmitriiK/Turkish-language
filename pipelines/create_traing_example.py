@@ -3,6 +3,10 @@ import json
 import os
 import re
 import time
+import atexit
+import signal
+import sys
+from datetime import datetime
 from pathlib import Path
 from typing import List, Tuple, Optional, Any, Dict
 
@@ -21,6 +25,200 @@ from grammer_metadata import (
 
 # Load environment variables
 load_dotenv()
+
+
+# Global logger state
+class PipelineLogger:
+    """Logger for pipeline execution with automatic cleanup on exit"""
+    def __init__(self):
+        self.log_file = None
+        self.start_time = None
+        self.generated_count = 0
+        self.skipped_count = 0
+        self.total_prompt_tokens = 0
+        self.total_completion_tokens = 0
+        self.processed_verbs = set()
+        self.args = None
+        self.model_name = None
+        self.interrupted = False
+        self.error_message = None
+        self.file_durations = []  # Track duration for each file creation
+        self.error_info = None  # Store error information if pipeline fails
+        
+    def initialize(self, log_dir: Path, args: Dict[str, Any], model_name: str):
+        """Initialize logger with log file"""
+        log_dir.mkdir(parents=True, exist_ok=True)
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        self.log_file = log_dir / f"pipeline_log_{timestamp}.txt"
+        self.start_time = datetime.now()
+        self.args = args
+        self.model_name = model_name
+        
+        # Register cleanup handler
+        atexit.register(self.write_final_log)
+        
+        # Register signal handlers for graceful shutdown
+        signal.signal(signal.SIGINT, self._signal_handler)
+        signal.signal(signal.SIGTERM, self._signal_handler)
+        
+        # Write initial log
+        self._write_start_log()
+    
+    def _signal_handler(self, signum, frame):
+        """Handle interrupt signals"""
+        self.interrupted = True
+        self.error_message = f"Pipeline interrupted by signal {signum}"
+        print("\n⚠️  Pipeline interrupted. Writing final log...")
+        self.write_final_log()
+        sys.exit(1)
+    
+    def _write_start_log(self):
+        """Write pipeline start information"""
+        with open(self.log_file, 'w', encoding='utf-8') as f:
+            f.write("=" * 80 + "\n")
+            f.write("TURKISH LANGUAGE TRAINING PIPELINE LOG\n")
+            f.write("=" * 80 + "\n\n")
+            f.write(f"Start Time: {self.start_time.strftime('%Y-%m-%d %H:%M:%S')}\n")
+            f.write(f"Model: {self.model_name}\n\n")
+            f.write("Input Arguments:\n")
+            for key, value in self.args.items():
+                f.write(f"  {key}: {value}\n")
+            f.write("\n" + "=" * 80 + "\n\n")
+    
+    def update_stats(self, prompt_tokens: int, completion_tokens: int, verb_english: str,
+                     duration: float, generated: bool = True):
+        """Update statistics during processing
+        
+        Args:
+            prompt_tokens: Number of input tokens
+            completion_tokens: Number of output tokens
+            verb_english: English name of the verb
+            duration: Time taken to generate this file in seconds
+            generated: Whether file was generated (True) or skipped (False)
+        """
+        if prompt_tokens == 0 and completion_tokens == 0:
+            raise ValueError(
+                "Token counts are zero - unable to get actual token usage from LLM. "
+                "Pipeline requires accurate token tracking."
+            )
+        
+        self.total_prompt_tokens += prompt_tokens
+        self.total_completion_tokens += completion_tokens
+        self.processed_verbs.add(verb_english)
+        self.file_durations.append(duration)
+        if generated:
+            self.generated_count += 1
+        else:
+            self.skipped_count += 1
+    
+    def increment_skipped(self):
+        """Increment skipped count"""
+        self.skipped_count += 1
+    
+    def mark_interrupted(self):
+        """Mark pipeline as interrupted"""
+        self.interrupted = True
+    
+    def set_error(self, error: Exception):
+        """Store error information"""
+        import traceback
+        self.error_info = {
+            'type': type(error).__name__,
+            'message': str(error),
+            'traceback': traceback.format_exc()
+        }
+    
+    def write_verb_summary(self, verb_english: str, files_created: int,
+                           prompt_tokens: int, completion_tokens: int):
+        """Write intermediate summary for each verb"""
+        if self.log_file is None:
+            return
+        
+        try:
+            with open(self.log_file, 'a', encoding='utf-8') as f:
+                total_tokens = prompt_tokens + completion_tokens
+                f.write(f"Verb: {verb_english}\n")
+                f.write(f"  Files Created: {files_created}\n")
+                f.write(f"  Tokens Used: {total_tokens:,} ({prompt_tokens:,} in + {completion_tokens:,} out)\n")
+                f.write("\n")
+        except Exception as e:
+            print(f"⚠️  Warning: Could not write verb summary: {e}")
+    
+    def write_final_log(self):
+        """Write final statistics (called on exit)"""
+        if self.log_file is None or self.start_time is None:
+            return
+        
+        end_time = datetime.now()
+        duration = end_time - self.start_time
+        
+        try:
+            with open(self.log_file, 'a', encoding='utf-8') as f:
+                f.write("\n" + "=" * 80 + "\n")
+                f.write("PIPELINE EXECUTION SUMMARY\n")
+                f.write("=" * 80 + "\n\n")
+                
+                if self.error_info:
+                    f.write("Status: FAILED\n\n")
+                elif self.interrupted:
+                    f.write("Status: INTERRUPTED BY USER\n\n")
+                else:
+                    f.write("Status: COMPLETED\n\n")
+                
+                f.write(f"End Time: {end_time.strftime('%Y-%m-%d %H:%M:%S')}\n")
+                f.write(f"Duration: {duration}\n\n")
+                
+                f.write("Statistics:\n")
+                f.write(f"  Processed Verbs: {len(self.processed_verbs)}\n")
+                f.write(f"  Created Files: {self.generated_count}\n")
+                f.write(f"  Skipped Files: {self.skipped_count}\n\n")
+                
+                f.write("Token Usage:\n")
+                f.write(f"  Input Tokens (Prompt): {self.total_prompt_tokens:,}\n")
+                f.write(f"  Output Tokens (Completion): {self.total_completion_tokens:,}\n")
+                f.write(f"  Total Tokens: {self.total_prompt_tokens + self.total_completion_tokens:,}\n")
+                
+                if self.generated_count > 0:
+                    avg_tokens = (self.total_prompt_tokens + self.total_completion_tokens) // self.generated_count
+                    f.write(f"  Average Tokens per File: {avg_tokens:,}\n\n")
+                else:
+                    f.write("\n")
+                
+                f.write("Performance:\n")
+                if self.file_durations:
+                    avg_duration = sum(self.file_durations) / len(self.file_durations)
+                    min_duration = min(self.file_durations)
+                    max_duration = max(self.file_durations)
+                    f.write(f"  Average File Generation Time: {avg_duration:.2f}s\n")
+                    f.write(f"  Min File Generation Time: {min_duration:.2f}s\n")
+                    f.write(f"  Max File Generation Time: {max_duration:.2f}s\n")
+                else:
+                    f.write(f"  No files generated\n")
+                
+                f.write("\n" + "=" * 80 + "\n")
+                
+                if self.processed_verbs:
+                    f.write("\nProcessed Verbs:\n")
+                    for verb in sorted(self.processed_verbs):
+                        f.write(f"  - {verb}\n")
+                
+                # Write error information if pipeline failed
+                if self.error_info:
+                    f.write("\n" + "=" * 80 + "\n")
+                    f.write("ERROR INFORMATION\n")
+                    f.write("=" * 80 + "\n\n")
+                    f.write(f"Error Type: {self.error_info['type']}\n")
+                    f.write(f"Error Message: {self.error_info['message']}\n\n")
+                    f.write("Traceback:\n")
+                    f.write(self.error_info['traceback'])
+                
+                f.write("\n" + "=" * 80 + "\n")
+        except Exception as e:
+            # If we can't write the final log, at least try to print it
+            print(f"\n⚠️  Warning: Could not write final log: {e}")
+
+# Global logger instance
+pipeline_logger = PipelineLogger()
 
 
 class TokenUsageCallback(BaseCallbackHandler):
@@ -320,12 +518,6 @@ def generate_training_example(
             
             # Generate structured response
             try:
-                # Log prompt size BEFORE making API call
-                formatted_prompt = prompt.format(**prompt_inputs)
-                prompt_char_count = len(formatted_prompt)
-                estimated_tokens = prompt_char_count // 4  # Rough estimate: 1 token ≈ 4 chars
-                print(f"   📝 Prompt size: {prompt_char_count} chars (~{estimated_tokens} tokens estimated)")
-                
                 # Create callback to capture token usage from the base LLM call
                 token_callback = TokenUsageCallback()
                 
@@ -339,11 +531,13 @@ def generate_training_example(
                 prompt_tokens = token_callback.prompt_tokens
                 completion_tokens = token_callback.completion_tokens
                 
-                # If callback didn't capture tokens, estimate from prompt size
-                # (This happens with structured output wrappers that don't expose token metadata)
-                if prompt_tokens == 0:
-                    prompt_tokens = estimated_tokens  # Use our estimate
-                    completion_tokens = len(str(result)) // 4  # Rough estimate for response
+                # FAIL if we don't have accurate token counts
+                if prompt_tokens == 0 or completion_tokens == 0:
+                    raise ValueError(
+                        f"Failed to capture accurate token usage from LLM response. "
+                        f"Got prompt_tokens={prompt_tokens}, completion_tokens={completion_tokens}. "
+                        f"Pipeline requires accurate token tracking and will not use estimates."
+                    )
                 
                 # Check if structured output returned valid result
                 if result is not None and hasattr(result, 'verb_english'):
@@ -506,8 +700,6 @@ def check_example_exists(verb: VerbData, tense: VerbTense, pronoun: Optional[Per
     
     file_path = verb_folder / filename
     return file_path.exists()
-    
-    print(f"Saved: {file_path}")
 
 
 def main(
@@ -545,11 +737,33 @@ def main(
     # Ensure provider is valid
     assert provider in ['gemini', 'azure'], f"Invalid provider: {provider}. Must be 'gemini' or 'azure'"
     
-    # Display model information
+    # Get model name for logging
     if provider == "azure":
-        print(f"🤖 Using model: Azure OpenAI - {config['azure_model']['MODEL_NAME']}")
+        model_name = f"Azure OpenAI - {config['azure_model']['MODEL_NAME']}"
     else:
-        print(f"🤖 Using model: Google Gemini - {config['model']['name']}")
+        model_name = f"Google Gemini - {config['model']['name']}"
+    
+    # Initialize logger
+    project_root = Path(__file__).parent.parent
+    log_dir = project_root / "logs"
+    
+    logger_args = {
+        "language_level": language_level,
+        "top_n_verbs": top_n_verbs,
+        "specific_verbs": specific_verbs,
+        "tenses": tenses,
+        "pronouns": pronouns,
+        "polarities": polarities,
+        "provider": provider,
+        "skip_existing": skip_existing,
+        "temperature": config['generation']['temperature']
+    }
+    
+    pipeline_logger.initialize(log_dir, logger_args, model_name)
+    print(f"📝 Logging to: {pipeline_logger.log_file}")
+    
+    # Display model information
+    print(f"🤖 Using model: {model_name}")
     print(f"🌡️  Temperature: {config['generation']['temperature']}")
     print("📊 Using nested TrainingExample structure")
     
@@ -657,6 +871,9 @@ def main(
                 verb_total = verb_prompt_tokens + verb_completion_tokens
                 print(f"\n   📊 Verb '{current_verb}' complete: {verb_example_count} examples, "
                       f"{verb_total:,} tokens ({verb_prompt_tokens:,} in + {verb_completion_tokens:,} out)")
+                # Write verb summary to log
+                pipeline_logger.write_verb_summary(current_verb, verb_example_count,
+                                                   verb_prompt_tokens, verb_completion_tokens)
                 # Reset for new verb
                 current_verb = verb.english
                 verb_prompt_tokens = 0
@@ -669,13 +886,19 @@ def main(
             
             # Check if file already exists and skip if requested
             if skip_existing and check_example_exists(verb, tense, pronoun, polarity, output_dir):
-                print(f"   ⏭️  Skipping (file already exists)")
+                print("   ⏭️  Skipping (file already exists)")
                 skipped_count += 1
+                pipeline_logger.increment_skipped()
                 continue
+            
+            # Track time for this file generation
+            file_start_time = time.time()
             
             example, prompt_tokens, completion_tokens = generate_training_example(
                 verb, tense, pronoun, polarity, prompt_template, level, config, provider, rate_limiter
             )
+            
+            file_duration = time.time() - file_start_time
             
             # Track token usage (total and per-verb)
             total_prompt_tokens += prompt_tokens
@@ -686,18 +909,23 @@ def main(
             # Skip if generation failed
             if example is None:
                 skipped_count += 1
+                pipeline_logger.increment_skipped()
                 continue
             # With fail-fast approach, example should never be None
             # But keeping this check for safety
             if example:
                 file_path = save_training_example(example, output_dir, polarity)
                 total_tokens = prompt_tokens + completion_tokens
+                cumulative = total_prompt_tokens + total_completion_tokens
                 print(f"   ✅ Saved to: {file_path}")
-                print(f"      ({total_tokens:,} tokens | cumulative: {total_prompt_tokens + total_completion_tokens:,} tokens)")
+                print(f"      ({total_tokens:,} tokens | {file_duration:.2f}s | "
+                      f"cumulative: {cumulative:,} tokens)")
                 generated_count += 1
                 verb_example_count += 1
-                generated_count += 1
-                verb_example_count += 1
+                
+                # Update logger with token usage, duration, and verb info
+                pipeline_logger.update_stats(prompt_tokens, completion_tokens, verb.english,
+                                             file_duration, generated=True)
                 
                 # Show token count for this example and cumulative total
                 example_total = prompt_tokens + completion_tokens
@@ -712,6 +940,9 @@ def main(
             verb_total = verb_prompt_tokens + verb_completion_tokens
             print(f"\n   📊 Verb '{current_verb}' complete: {verb_example_count} examples, "
                   f"{verb_total:,} tokens ({verb_prompt_tokens:,} in + {verb_completion_tokens:,} out)")
+            # Write verb summary to log
+            pipeline_logger.write_verb_summary(current_verb, verb_example_count,
+                                               verb_prompt_tokens, verb_completion_tokens)
         
         print(f"\n{'='*60}")
         print(f"✅ Successfully generated {generated_count} training examples")
@@ -727,14 +958,26 @@ def main(
         print(f"   Average per example:        {total_tokens // generated_count if generated_count > 0 else 0:,}")
         print(f"{'='*60}")
         
+    except KeyboardInterrupt:
+        print("\n\n⚠️  Pipeline interrupted by user (Ctrl+C)")
+        pipeline_logger.mark_interrupted()
+        print(f"Generated {generated_count} examples before interruption.")
+        total_tokens = total_prompt_tokens + total_completion_tokens
+        print(f"\n📊 Token Usage (until interruption):")
+        print(f"   Input tokens:  {total_prompt_tokens:,}")
+        print(f"   Output tokens: {total_completion_tokens:,}")
+        print(f"   Total tokens:  {total_tokens:,}")
+        print(f"\n📝 Log file: {pipeline_logger.log_file}")
     except Exception as e:
-        print(f"\n❌ PIPELINE STOPPED due to error: {e}")
+        print(f"\n❌ PIPELINE FAILED due to error: {e}")
+        pipeline_logger.set_error(e)
         print(f"Generated {generated_count} examples before failure.")
         total_tokens = total_prompt_tokens + total_completion_tokens
         print(f"\n📊 Token Usage (until failure):")
         print(f"   Input tokens:  {total_prompt_tokens:,}")
         print(f"   Output tokens: {total_completion_tokens:,}")
         print(f"   Total tokens:  {total_tokens:,}")
+        print(f"\n📝 Log file: {pipeline_logger.log_file}")
         raise e
 
 
