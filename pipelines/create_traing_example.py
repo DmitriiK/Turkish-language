@@ -634,13 +634,12 @@ def generate_training_example(
                 print("\n❌ FATAL ERROR: Daily quota limit reached. Stopping pipeline.")
                 raise outer_error
             
-            # Print error but don't stop the pipeline for other errors
-            print(f"\n⚠️  SKIPPING VERB: {verb.english}")
-            print(f"Error generating example for {verb.english} "
+            # For any other error, this is a fatal failure - stop the pipeline
+            print(f"\n❌ FATAL ERROR generating example for {verb.english} "
                   f"({tense.value}, {pronoun})")
             print(f"Error details: {outer_error}")
-            print("Continuing with next combination...\n")
-            return None, 0, 0  # Return None and 0 tokens to indicate failure
+            print("\n🛑 Stopping pipeline due to fatal error.\n")
+            raise outer_error  # Re-raise to stop the pipeline
     
     # Should never reach here
     return None, 0, 0

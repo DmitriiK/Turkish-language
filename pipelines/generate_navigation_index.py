@@ -1,12 +1,15 @@
 #!/usr/bin/env python3
 """
 Generate navigation index for Turkish verb learning app.
-Scans all available training examples and creates a comprehensive navigation file.
+Creates a three-tier index structure:
+1. Main verbs index (list of all verbs) - lightweight for initial page load
+2. Per-verb indexes (all forms for each verb) - loaded on demand
+3. Individual training example files - loaded when user selects specific form
 """
 
 import json
 from pathlib import Path
-from typing import Dict, Any
+from typing import Dict, Any, List
 import re
 
 
@@ -22,15 +25,18 @@ def load_tense_level_mapping() -> Dict[str, str]:
         return json.load(f)
 
 
-def scan_training_examples() -> Dict[str, Any]:
+def scan_training_examples() -> tuple[List[Dict[str, Any]], Dict[str, Dict[str, Any]]]:
     """
-    Scan all training example files and create navigation index.
+    Scan all training example files and create navigation structure.
+    
+    Returns:
+        tuple: (verbs_list, per_verb_indexes)
+            - verbs_list: List of verb metadata for main index
+            - per_verb_indexes: Dict of per-verb detailed indexes
     """
     base_path = Path(__file__).parent.parent / "data" / "output" / "training_examples_for_verbs"
-    navigation_index = {
-        "verbs": [],
-        "verb_data": {}
-    }
+    verbs_list = []
+    per_verb_indexes = {}
     
     # Load tense-to-level mapping
     tense_level_mapping = load_tense_level_mapping()
@@ -39,7 +45,7 @@ def scan_training_examples() -> Dict[str, Any]:
     
     if not base_path.exists():
         print(f"Error: Directory {base_path} does not exist")
-        return navigation_index
+        return verbs_list, per_verb_indexes
     
     # Scan all verb directories
     for verb_dir in sorted(base_path.iterdir()):
@@ -49,31 +55,44 @@ def scan_training_examples() -> Dict[str, Any]:
         print(f"Processing verb directory: {verb_dir.name}")
         
         # Parse files in this verb directory
-        verb_info = scan_verb_directory(verb_dir, tense_level_mapping)
+        verb_basic_info, verb_detailed_index = scan_verb_directory(verb_dir, tense_level_mapping)
         
-        if verb_info and verb_info["files"]:  # Only include verbs with actual files
-            navigation_index["verbs"].append(verb_info["english_name"])
-            navigation_index["verb_data"][verb_info["english_name"]] = verb_info
+        if verb_basic_info and verb_detailed_index["examples"]:  # Only include verbs with actual files
+            verbs_list.append(verb_basic_info)
+            per_verb_indexes[verb_dir.name] = verb_detailed_index
     
-    return navigation_index
+    return verbs_list, per_verb_indexes
 
 
-def scan_verb_directory(verb_dir: Path, tense_level_mapping: Dict[str, str]) -> Dict[str, Any]:
+def scan_verb_directory(verb_dir: Path, tense_level_mapping: Dict[str, str]) -> tuple[Dict[str, Any], Dict[str, Any]]:
     """
     Scan a single verb directory and extract all available combinations.
+    
+    Returns:
+        tuple: (basic_info, detailed_index)
+            - basic_info: Lightweight verb metadata for main verbs list
+            - detailed_index: Detailed per-verb index with all examples
     """
-    verb_info = {
-        "english_name": "",
-        "turkish_infinitive": "",
+    # Basic info for main verbs list
+    basic_info = {
+        "rank": 0,
+        "verb_english": "",
+        "verb_russian": "",
+        "verb_infinitive": "",
+        "folder_name": verb_dir.name
+    }
+    
+    # Detailed index for per-verb file
+    detailed_index = {
+        "verb_english": "",
+        "verb_russian": "",
+        "verb_infinitive": "",
+        "verb_rank": 0,
         "folder_name": verb_dir.name,
-        "tenses": {},
-        "files": []
+        "examples": []
     }
     
     # Pattern to match file names: {pronoun}_{infinitive}_{tense}[_olumsuz].json
-    # For compound verbs like "sahip_olmak", we need to match the tense properly
-    # Match any tense name (word characters and underscores) followed by optional _olumsuz
-    # Examples: geniş_zaman, geçmiş_zaman, şimdiki_zaman, gelecek_zaman, farzî_geçmiş_zaman, etc.
     file_pattern = re.compile(r'^(.+?)_(.+?)_([a-zçğıöşü_]+)(_olumsuz)?\.json$')
     
     for file_path in verb_dir.glob("*.json"):
@@ -88,7 +107,6 @@ def scan_verb_directory(verb_dir: Path, tense_level_mapping: Dict[str, str]) -> 
         pronoun, infinitive, tense_raw, polarity_suffix = match.groups()
         
         # Strip _olumsuz from tense name if it's part of the tense itself
-        # (some files have it as suffix, others embed it in tense name)
         if tense_raw.endswith('_olumsuz'):
             tense = tense_raw[:-8]  # Remove '_olumsuz' suffix (8 characters)
             polarity = 'negative'
@@ -98,49 +116,33 @@ def scan_verb_directory(verb_dir: Path, tense_level_mapping: Dict[str, str]) -> 
         
         # Load the file to get metadata
         try:
-            with open(file_path, 'r', encoding='utf-8') as f:
+            with open(file_path, 'r', encoding='utf-8', errors='replace') as f:
                 data = json.load(f)
                 
-            # Extract verb information from the file
-            if not verb_info["english_name"]:
-                verb_info["english_name"] = data.get("verb_english", "")
-                verb_info["turkish_infinitive"] = data.get("verb_infinitive", infinitive)
+            # Extract verb information from the first file
+            if not basic_info["verb_english"]:
+                basic_info["rank"] = data.get("verb_rank", 0)
+                basic_info["verb_english"] = data.get("verb_english", "")
+                basic_info["verb_russian"] = data.get("verb_russian", "")
+                basic_info["verb_infinitive"] = data.get("verb_infinitive", infinitive)
+                
+                detailed_index["verb_english"] = basic_info["verb_english"]
+                detailed_index["verb_russian"] = basic_info["verb_russian"]
+                detailed_index["verb_infinitive"] = basic_info["verb_infinitive"]
+                detailed_index["verb_rank"] = basic_info["rank"]
             
-            # Get language level from the tense_level_mapping based on the tense
-            language_level = tense_level_mapping.get(tense, "All")
+            # Get the actual tense from the JSON file (more reliable than filename parsing)
+            # Fallback to filename parsing if JSON data is missing
+            actual_tense = data.get("turkish_verb", {}).get("verb_tense") or tense
+            actual_pronoun = data.get("turkish_verb", {}).get("personal_pronoun") or pronoun
+            actual_polarity = data.get("turkish_verb", {}).get("polarity") or polarity
             
-            # Add tense information (polarity is a separate dimension now)
-            if tense not in verb_info["tenses"]:
-                verb_info["tenses"][tense] = {
-                    "tense": tense,
-                    "language_levels": set(),  # Track all levels for this tense
-                    "polarities": {
-                        "positive": {"pronouns": [], "files": []},
-                        "negative": {"pronouns": [], "files": []}
-                    }
-                }
-            
-            # Add language level to the tense (use set to avoid duplicates)
-            verb_info["tenses"][tense]["language_levels"].add(language_level)
-            
-            # Add file to the appropriate polarity (removed language_level from file metadata)
-            verb_info["tenses"][tense]["polarities"][polarity]["pronouns"].append(pronoun)
-            verb_info["tenses"][tense]["polarities"][polarity]["files"].append({
-                "pronoun": pronoun,
-                "polarity": polarity,
-                "file_path": f"data/output/training_examples_for_verbs/{verb_dir.name}/{file_path.name}",
-                "relative_path": f"{verb_dir.name}/{file_path.name}"
-            })
-            
-            # Add to overall files list
-            verb_info["files"].append({
-                "pronoun": pronoun,
-                "tense": tense,
-                "polarity": polarity,
-                "infinitive": infinitive,
-                "file_path": f"data/output/training_examples_for_verbs/{verb_dir.name}/{file_path.name}",
-                "relative_path": f"{verb_dir.name}/{file_path.name}",
-                "rank": data.get("verb_rank", 0)
+            # Add example to detailed index (minimal metadata for navigation only)
+            detailed_index["examples"].append({
+                "tense": actual_tense,
+                "pronoun": actual_pronoun,
+                "polarity": actual_polarity,
+                "file_path": f"data/output/training_examples_for_verbs/{verb_dir.name}/{file_path.name}"
             })
             
             print(f"  Found: {pronoun} + {infinitive} + {tense} ({polarity})")
@@ -149,81 +151,118 @@ def scan_verb_directory(verb_dir: Path, tense_level_mapping: Dict[str, str]) -> 
             print(f"  Error reading {file_path.name}: {e}")
             continue
     
-    # Sort pronouns for consistent ordering and convert language_levels set to sorted list
-    for tense_info in verb_info["tenses"].values():
-        # Convert language_levels set to sorted list
-        tense_info["language_levels"] = sorted(list(tense_info["language_levels"]))
-        
-        for polarity_data in tense_info["polarities"].values():
-            polarity_data["pronouns"] = sorted(list(set(polarity_data["pronouns"])))
-            polarity_data["files"] = sorted(polarity_data["files"], key=lambda x: x["pronoun"])
+    # Sort examples by tense, polarity, pronoun for consistent ordering
+    detailed_index["examples"] = sorted(
+        detailed_index["examples"], 
+        key=lambda x: (x["tense"], x["polarity"], x["pronoun"])
+    )
     
-    verb_info["files"] = sorted(verb_info["files"], key=lambda x: (x["tense"], x["polarity"], x["pronoun"]))
-    
-    return verb_info
+    return basic_info, detailed_index
 
 
-def save_navigation_index(navigation_index: Dict[str, Any]):
+def save_navigation_indexes(verbs_list: List[Dict[str, Any]], per_verb_indexes: Dict[str, Dict[str, Any]]):
     """
-    Save navigation index to JSON files for frontend use.
+    Save navigation indexes to JSON files for frontend use.
+    Creates three-tier structure:
+    1. Main verbs index - lightweight list of all verbs
+    2. Per-verb indexes - detailed index for each verb
+    3. Individual training examples (already exist)
     """
     # Save to frontend public directory
     frontend_public = Path(__file__).parent.parent / "frontend" / "public" / "data"
     frontend_public.mkdir(parents=True, exist_ok=True)
-    
-    output_path = frontend_public / "navigation_index.json"
-    
-    with open(output_path, 'w', encoding='utf-8') as f:
-        json.dump(navigation_index, f, indent=2, ensure_ascii=False)
-    
-    print(f"Navigation index saved to: {output_path}")
-    
-    # Also save a summary for debugging
+
+    # Create verb_indexes directory in data/output/ alongside training examples
+    output_dir = Path(__file__).parent.parent / "data" / "output"
+    verb_indexes_dir = output_dir / "verb_indexes"
+    verb_indexes_dir.mkdir(parents=True, exist_ok=True)
+
+    # 1. Save main verbs index (lightweight)
+    verbs_index_path = frontend_public / "verbs_index.json"
+    verbs_index = {
+        "total_verbs": len(verbs_list),
+        "verbs": sorted(verbs_list, key=lambda x: x["rank"])
+    }
+
+    with open(verbs_index_path, 'w', encoding='utf-8') as f:
+        json.dump(verbs_index, f, indent=2, ensure_ascii=False)
+
+    print(f"\n✅ Main verbs index saved to: {verbs_index_path}")
+    print(f"   Size: {verbs_index_path.stat().st_size / 1024:.1f} KB")
+
+    # 2. Save per-verb indexes
+    print(f"\n📁 Saving per-verb indexes to: {verb_indexes_dir}")
+    for folder_name, verb_index in per_verb_indexes.items():
+        verb_index_path = verb_indexes_dir / f"{folder_name}.json"
+
+        with open(verb_index_path, 'w', encoding='utf-8') as f:
+            json.dump(verb_index, f, indent=2, ensure_ascii=False)
+
+        print(f"   - {verb_index['verb_english']}: {len(verb_index['examples'])} examples "
+              f"({verb_index_path.stat().st_size / 1024:.1f} KB)")
+
+    # 3. Save summary for debugging/stats
     summary_path = frontend_public / "navigation_summary.json"
     summary = {
-        "total_verbs": len(navigation_index["verbs"]),
+        "total_verbs": len(verbs_list),
+        "total_indexes": len(per_verb_indexes),
         "verbs": []
     }
-    
-    for verb in navigation_index["verbs"]:
-        verb_data = navigation_index["verb_data"][verb]
-        summary["verbs"].append({
-            "english": verb,
-            "turkish": verb_data["turkish_infinitive"],
-            "folder": verb_data["folder_name"],
-            "tenses": list(verb_data["tenses"].keys()),
-            "total_files": len(verb_data["files"])
-        })
-    
+
+    for verb_info in sorted(verbs_list, key=lambda x: x["rank"]):
+        folder_name = verb_info["folder_name"]
+        if folder_name in per_verb_indexes:
+            verb_index = per_verb_indexes[folder_name]
+            # Get unique tenses
+            tenses = sorted(list(set(ex["tense"] for ex in verb_index["examples"])))
+            summary["verbs"].append({
+                "rank": verb_info["rank"],
+                "english": verb_info["verb_english"],
+                "russian": verb_info["verb_russian"],
+                "turkish": verb_info["verb_infinitive"],
+                "folder": folder_name,
+                "tenses": tenses,
+                "total_examples": len(verb_index["examples"])
+            })
+
     with open(summary_path, 'w', encoding='utf-8') as f:
         json.dump(summary, f, indent=2, ensure_ascii=False)
-    
-    print(f"Navigation summary saved to: {summary_path}")
-    
-    return output_path
+
+    print(f"\n📊 Summary saved to: {summary_path}")
+
+    return verbs_index_path
 
 
 def main():
     """
-    Main function to generate navigation index.
+    Main function to generate navigation indexes.
+    Creates three-tier index structure for optimal frontend performance.
     """
     print("=== Turkish Verb Navigation Index Generator ===")
-    
+    print("📝 Creating three-tier index structure:")
+    print("   1. Main verbs index (lightweight list)")
+    print("   2. Per-verb indexes (detailed forms)")
+    print("   3. Individual examples (already exist)")
+
     # Scan all training examples
-    navigation_index = scan_training_examples()
-    
-    print(f"\nFound {len(navigation_index['verbs'])} verbs with training data:")
-    for verb in navigation_index["verbs"]:
-        verb_data = navigation_index["verb_data"][verb]
-        tense_count = len(verb_data["tenses"])
-        file_count = len(verb_data["files"])
-        print(f"  - {verb}: {tense_count} tenses, {file_count} files")
-    
-    # Save navigation index
-    if navigation_index["verbs"]:
-        output_path = save_navigation_index(navigation_index)
-        print("\n✅ Navigation index generated successfully!")
-        print(f"📁 Saved to: {output_path}")
+    verbs_list, per_verb_indexes = scan_training_examples()
+
+    print(f"\n📊 Found {len(verbs_list)} verbs with training data:")
+    for verb_info in sorted(verbs_list, key=lambda x: x["rank"])[:10]:  # Show first 10
+        folder_name = verb_info["folder_name"]
+        if folder_name in per_verb_indexes:
+            example_count = len(per_verb_indexes[folder_name]["examples"])
+            print(f"  - {verb_info['verb_english']}: {example_count} examples")
+
+    if len(verbs_list) > 10:
+        print(f"  ... and {len(verbs_list) - 10} more verbs")
+
+    # Save navigation indexes
+    if verbs_list:
+        output_path = save_navigation_indexes(verbs_list, per_verb_indexes)
+        print("\n✅ Navigation indexes generated successfully!")
+        print(f"📁 Main index: {output_path}")
+        print("📁 Per-verb indexes: frontend/public/data/indexes/")
     else:
         print("\n❌ No verbs found with training data")
 
