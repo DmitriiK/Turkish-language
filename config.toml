@@ -32,5 +32,5 @@ top_k = 40
 AZURE_OPENAI_ENDPOINT="https://ai-proxy.lab.epam.com"
 # "https://dklmnopenai.services.ai.azure.com"
 OPENAI_API_VERSION = "2024-08-01-preview"
-MODEL_NAME = "gpt-4o"
+MODEL_NAME = "gpt-4o-mini-2024-07-18"
 
