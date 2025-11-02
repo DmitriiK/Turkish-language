@@ -1,0 +1,20 @@
+{
+  "verb_rank": 1,
+  "verb_english": "to be",
+  "verb_russian": "быть",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olsaydı",
+    "root": "ol",
+    "tense_affix": "saydı",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If the weather were nice, he would be happy.",
+  "russian_example_sentence": "Если бы погода была хорошей, он был бы счастлив.",
+  "turkish_example_sentence": "Hava güzel olsaydı, o mutlu olurdu.",
+  "turkish_example_sentence_with_blank": "Hava güzel ______, o mutlu olurdu."
+}

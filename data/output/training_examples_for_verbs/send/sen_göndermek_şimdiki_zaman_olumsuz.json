@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "to send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "göndermiyorsun",
+    "root": "gönder",
+    "tense_affix": "yor",
+    "verb_tense": "şimdiki_zaman",
+    "personal_pronoun": "sen",
+    "personal_affix": "sun",
+    "polarity": "negative",
+    "negative_affix": "mi"
+  },
+  "english_example_sentence": "You are not sending this important email to me.",
+  "russian_example_sentence": "Ты не отправляешь это важное электронное письмо мне.",
+  "turkish_example_sentence": "Sen bu önemli e-postayı bana göndermiyorsun.",
+  "turkish_example_sentence_with_blank": "Sen bu önemli e-postayı bana ______."
+}

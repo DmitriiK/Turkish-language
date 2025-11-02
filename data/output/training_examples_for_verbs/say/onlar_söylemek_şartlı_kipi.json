@@ -1,0 +1,20 @@
+{
+  "verb_rank": 4,
+  "verb_english": "to say",
+  "verb_russian": "сказать",
+  "verb_infinitive": "söylemek",
+  "turkish_verb": {
+    "verb_full": "söyleseler",
+    "root": "söyle",
+    "tense_affix": "se",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "ler",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If the students said the correct answers, the teacher would be happy.",
+  "russian_example_sentence": "Если бы студенты сказали правильные ответы, учитель был бы счастлив.",
+  "turkish_example_sentence": "Eğer öğrenciler doğru cevapları söyleseler, öğretmen mutlu olurdu.",
+  "turkish_example_sentence_with_blank": "Eğer öğrenciler doğru cevapları ______, öğretmen mutlu olurdu."
+}

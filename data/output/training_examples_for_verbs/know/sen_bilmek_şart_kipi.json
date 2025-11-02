@@ -1,0 +1,20 @@
+{
+  "verb_rank": 8,
+  "verb_english": "to know",
+  "verb_russian": "знать",
+  "verb_infinitive": "bilmek",
+  "turkish_verb": {
+    "verb_full": "bilsen",
+    "root": "bil",
+    "tense_affix": "se",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If you knew this important truth, you would change your decision.",
+  "russian_example_sentence": "Если бы ты знал эту важную правду, ты бы изменил свое решение.",
+  "turkish_example_sentence": "Eğer sen bu önemli gerçeği bilsen, kararını değiştirirdin.",
+  "turkish_example_sentence_with_blank": "Eğer sen bu önemli gerçeği ______, kararını değiştirirdin."
+}

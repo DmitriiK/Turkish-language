@@ -1,0 +1,20 @@
+{
+  "verb_rank": 1,
+  "verb_english": "to be",
+  "verb_russian": "быть",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olmadı",
+    "root": "ol",
+    "tense_affix": "dı",
+    "verb_tense": "geçmiş_zaman",
+    "personal_pronoun": "o",
+    "personal_affix": "dı",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "The house was not clean yesterday.",
+  "russian_example_sentence": "Дом вчера не был чистым.",
+  "turkish_example_sentence": "Ev dün temiz olmadı.",
+  "turkish_example_sentence_with_blank": "Ev dün temiz ______."
+}

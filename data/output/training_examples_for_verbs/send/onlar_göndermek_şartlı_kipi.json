@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "to send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "gönderseler",
+    "root": "gönder",
+    "tense_affix": "se",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "ler",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If they sent an important document on time, the meeting would not be canceled.",
+  "russian_example_sentence": "Если бы они отправили важный документ вовремя, встреча не отменилась бы.",
+  "turkish_example_sentence": "Eğer önemli bir belgeyi zamanında gönderseler, toplantı iptal olmazdı.",
+  "turkish_example_sentence_with_blank": "Eğer önemli bir belgeyi zamanında ______, toplantı iptal olmazdı."
+}

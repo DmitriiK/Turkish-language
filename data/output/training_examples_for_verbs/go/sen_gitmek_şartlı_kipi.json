@@ -1,0 +1,20 @@
+{
+  "verb_rank": 5,
+  "verb_english": "to go",
+  "verb_russian": "идти",
+  "verb_infinitive": "gitmek",
+  "turkish_verb": {
+    "verb_full": "gitsen",
+    "root": "git",
+    "tense_affix": "se",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If you go to this new school, you would be a successful student.",
+  "russian_example_sentence": "Если ты пойдешь в эту новую школу, ты станешь успешным учеником.",
+  "turkish_example_sentence": "Eğer bu yeni okula gitsen, başarılı bir öğrenci olursun.",
+  "turkish_example_sentence_with_blank": "Eğer bu yeni okula ______, başarılı bir öğrenci olursun."
+}

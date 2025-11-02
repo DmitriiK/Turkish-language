@@ -1,0 +1,20 @@
+{
+  "verb_rank": 1,
+  "verb_english": "to be",
+  "verb_russian": "быть",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olmazsın",
+    "root": "ol",
+    "tense_affix": "",
+    "verb_tense": "geniş_zaman",
+    "personal_pronoun": "sen",
+    "personal_affix": "sın",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "You are not the chosen candidate.",
+  "russian_example_sentence": "Ты не являешься выбранным кандидатом.",
+  "turkish_example_sentence": "Seçilen aday sen olmazsın.",
+  "turkish_example_sentence_with_blank": "Seçilen aday sen ______."
+}

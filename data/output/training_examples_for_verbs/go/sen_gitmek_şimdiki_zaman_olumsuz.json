@@ -1,0 +1,20 @@
+{
+  "verb_rank": 5,
+  "verb_english": "to go",
+  "verb_russian": "идти",
+  "verb_infinitive": "gitmek",
+  "turkish_verb": {
+    "verb_full": "gitmiyorsun",
+    "root": "git",
+    "tense_affix": "yor",
+    "verb_tense": "şimdiki_zaman",
+    "personal_pronoun": "sen",
+    "personal_affix": "sun",
+    "polarity": "negative",
+    "negative_affix": "mi"
+  },
+  "english_example_sentence": "You are not going today",
+  "russian_example_sentence": "Ты сегодня не идешь",
+  "turkish_example_sentence": "Sen bugün parka gitmiyorsun",
+  "turkish_example_sentence_with_blank": "Sen bugün parka ______"
+}

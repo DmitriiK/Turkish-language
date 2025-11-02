@@ -47,8 +47,7 @@ yarn-error.log*
 Thumbs.db
 
 # Generated training data (optional - you may want to commit some examples)
-data/output/training_examples_for_verbs/*
-!data/output/training_examples_for_verbs/.gitkeep
+
 
 # Logs
 logs/

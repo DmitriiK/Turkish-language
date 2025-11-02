@@ -1,0 +1,20 @@
+{
+  "verb_rank": 8,
+  "verb_english": "to know",
+  "verb_russian": "знать",
+  "verb_infinitive": "bilmek",
+  "turkish_verb": {
+    "verb_full": "bilsek",
+    "root": "bil",
+    "tense_affix": "se",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If we knew this important issue, we could find a solution.",
+  "russian_example_sentence": "Если бы мы знали этот важный вопрос, мы могли бы найти решение.",
+  "turkish_example_sentence": "Biz bu önemli konuyu bilsek, çözüm bulabilirdik.",
+  "turkish_example_sentence_with_blank": "Biz bu önemli konuyu ______, çözüm bulabilirdik."
+}

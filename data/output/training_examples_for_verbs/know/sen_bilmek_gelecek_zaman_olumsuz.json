@@ -1,0 +1,20 @@
+{
+  "verb_rank": 8,
+  "verb_english": "to know",
+  "verb_russian": "знать",
+  "verb_infinitive": "bilmek",
+  "turkish_verb": {
+    "verb_full": "bilmeyeceksin",
+    "root": "bil",
+    "tense_affix": "yecek",
+    "verb_tense": "gelecek_zaman",
+    "personal_pronoun": "sen",
+    "personal_affix": "sin",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "You will not know the right way in this challenging task.",
+  "russian_example_sentence": "Ты не узнаешь правильный путь в этом сложном задании.",
+  "turkish_example_sentence": "Sen bu zorlu görevde doğru yolu bilmeyeceksin.",
+  "turkish_example_sentence_with_blank": "Sen bu zorlu görevde doğru yolu ______."
+}

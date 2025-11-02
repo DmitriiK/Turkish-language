@@ -1,0 +1,20 @@
+{
+  "verb_rank": 5,
+  "verb_english": "to go",
+  "verb_russian": "идти",
+  "verb_infinitive": "gitmek",
+  "turkish_verb": {
+    "verb_full": "gitseniz",
+    "root": "git",
+    "tense_affix": "se",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "niz",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If you go to the city, you can find a new cafe.",
+  "russian_example_sentence": "Если вы пойдете в город, вы сможете найти новое кафе.",
+  "turkish_example_sentence": "Şehre gitseniz, yeni bir kafe bulabilirsiniz.",
+  "turkish_example_sentence_with_blank": "Şehre ______, yeni bir kafe bulabilirsiniz."
+}

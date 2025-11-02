@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "to send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "göndermeyecekler",
+    "root": "gönder",
+    "tense_affix": "yecek",
+    "verb_tense": "gelecek_zaman",
+    "personal_pronoun": "onlar",
+    "personal_affix": "ler",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "New students will not send the necessary documents to the school.",
+  "russian_example_sentence": "Новые студенты не отправят необходимые документы в школу.",
+  "turkish_example_sentence": "Yeni öğrenciler, gerekli belgeleri okula göndermeyecekler.",
+  "turkish_example_sentence_with_blank": "Yeni öğrenciler, gerekli belgeleri okula ______."
+}

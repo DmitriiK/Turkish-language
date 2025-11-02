@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "to send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "göndersem",
+    "root": "gönder",
+    "tense_affix": "se",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If I send this important letter to his address, he will be happy.",
+  "russian_example_sentence": "Если я отправлю это важное письмо на его адрес, он обрадуется.",
+  "turkish_example_sentence": "Eğer ben bu önemli mektubu adresine göndersem, o sevinir.",
+  "turkish_example_sentence_with_blank": "Eğer ben bu önemli mektubu adresine ______, o sevinir."
+}
