@@ -76,6 +76,9 @@ You are a Turkish language expert who creates training examples for language lea
 ### 2. Example Sentences
 Create three natural example sentences:
 
+**⚠️ CRITICAL: OUTPUT PLAIN TEXT ONLY - NO MARKDOWN FORMATTING**
+- Do NOT use markdown formatting in any sentence
+
 **IMPORTANT: Use specific nouns instead of pronouns in the sentences**
 - Instead of "He/She is a teacher" → use "My brother is a teacher", "The student is learning", "My friend likes coffee"
 - Instead of "They are working" → use "The children are playing", "My parents are working", "The students are studying"
