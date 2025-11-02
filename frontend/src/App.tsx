@@ -17,7 +17,7 @@ const App: React.FC = () => {
   const [error, setError] = useState<string | null>(null);
   
   // Navigation state
-  const [currentVerb, setCurrentVerb] = useState('to be');
+  const [currentVerb, setCurrentVerb] = useState('be');
   const [currentVerbDisplay, setCurrentVerbDisplay] = useState('be'); // Display label for the verb
   const [currentTense, setCurrentTense] = useState('şimdiki_zaman');
   const [currentPronoun, setCurrentPronoun] = useState<string | null>('ben');
@@ -228,24 +228,6 @@ const App: React.FC = () => {
       });
     }
   };
-
-  const handleNext = () => {
-    // Reset progress for new example
-    setProgress({
-      verbRoot: false,
-      negativeAffix: false,
-      tenseAffix: false,
-      personalAffix: false,
-      fullSentence: false
-    });
-
-    // Auto-advance logic: pronoun → tense → verb
-    handleNextPronoun();
-  };
-
-
-
-
 
   if (loading && !currentExample) {
     return (

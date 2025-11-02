@@ -1,6 +1,6 @@
 {
-  "total_verbs": 122,
-  "total_indexes": 122,
+  "total_verbs": 120,
+  "total_indexes": 120,
   "verbs": [
     {
       "rank": 1,
@@ -144,18 +144,15 @@
     },
     {
       "rank": 6,
-      "english": "to get",
+      "english": "get",
       "russian": "получать",
       "turkish": "almak",
       "folder": "get",
       "tenses": [
-        "geniş_zaman",
-        "istek_kipi",
         "yaracağım",
-        "zaman_sıfatı",
         "şart_kipi"
       ],
-      "total_examples": 5
+      "total_examples": 2
     },
     {
       "rank": 6,
@@ -556,10 +553,9 @@
       "turkish": "aramak",
       "folder": "call",
       "tenses": [
-        "emir_kipi",
-        "şimdiki_zaman"
+        "emir_kipi"
       ],
-      "total_examples": 2
+      "total_examples": 1
     },
     {
       "rank": 20,
@@ -2546,21 +2542,6 @@
     },
     {
       "rank": 90,
-      "english": "to raise",
-      "russian": "поднимать",
-      "turkish": "kaldırmak",
-      "folder": "raise",
-      "tenses": [
-        "geniş_zaman",
-        "geçmiş_gelecek_zaman",
-        "yaracağım",
-        "şart_kipi",
-        "şartlı_kipi"
-      ],
-      "total_examples": 5
-    },
-    {
-      "rank": 90,
       "english": "raise (lift)",
       "russian": "поднимать",
       "turkish": "kaldırmak",
@@ -2586,17 +2567,6 @@
         "şimdiki_zaman"
       ],
       "total_examples": 108
-    },
-    {
-      "rank": 90,
-      "english": "to raise (lift), to manage",
-      "russian": "поднимать",
-      "turkish": "kaldırmak",
-      "folder": "raise_(lift),_to_manage",
-      "tenses": [
-        "geçmiş_gelecek_zaman"
-      ],
-      "total_examples": 1
     },
     {
       "rank": 91,

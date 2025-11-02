@@ -5,7 +5,7 @@ import clsx from 'clsx';
 import { dataLoader } from '@/utils/dataLoader';
 
 interface NavigationControlsProps {
-  currentVerb: string; // Internal English verb name (e.g., "to be")
+  currentVerb: string; // Internal English verb name (e.g., "be")
   currentVerbDisplay: string; // Display label (English or Turkish based on direction)
   currentTense: string;
   currentPronoun: string | null;

@@ -1,33 +1,15 @@
 {
-  "verb_english": "to get",
+  "verb_english": "get",
   "verb_russian": "получать",
   "verb_infinitive": "almak",
   "verb_rank": 6,
   "folder_name": "get",
   "examples": [
     {
-      "tense": "geniş_zaman",
-      "pronoun": "sen",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/get/sen_almak_geniş_zaman.json"
-    },
-    {
-      "tense": "istek_kipi",
-      "pronoun": "onlar",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/get/onlar_almak_istek_kipi.json"
-    },
-    {
       "tense": "yaracağım",
       "pronoun": "biz",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/get/biz_almak_yaracağım.json"
-    },
-    {
-      "tense": "zaman_sıfatı",
-      "pronoun": "biz",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/get/biz_almak_zaman_sıfatı.json"
     },
     {
       "tense": "şart_kipi",
