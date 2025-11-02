@@ -4,17 +4,17 @@
   "verb_russian": "возвращаться",
   "verb_infinitive": "dönmek",
   "turkish_verb": {
-    "verb_full": "dönecek",
+    "verb_full": "dönüyor",
     "root": "dön",
-    "tense_affix": "ecek",
+    "tense_affix": "üyor",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "ecek",
+    "personal_affix": "u",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The teacher will return to school.",
-  "russian_example_sentence": "Учитель вернётся в школу.",
-  "turkish_example_sentence": "Öğretmen okula dönecek.",
+  "english_example_sentence": "The teacher is returning to the school.",
+  "russian_example_sentence": "Учитель возвращается в школу.",
+  "turkish_example_sentence": "Öğretmen okula dönüyor.",
   "turkish_example_sentence_with_blank": "Öğretmen okula ______."
 }

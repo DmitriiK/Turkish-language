@@ -5,16 +5,16 @@
   "verb_infinitive": "servis yapmak",
   "turkish_verb": {
     "verb_full": "servis yapacak",
-    "root": "yap",
+    "root": "servis yap",
     "tense_affix": "acak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "acak",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The waiter will serve delicious dishes to the guests.",
-  "russian_example_sentence": "Официант подаст вкусные блюда гостям.",
-  "turkish_example_sentence": "Garson, misafirlere lezzetli yemekler servis yapacak.",
-  "turkish_example_sentence_with_blank": "Garson, misafirlere lezzetli yemekler ______."
+  "english_example_sentence": "He will serve the delicious food.",
+  "russian_example_sentence": "Он подаст вкусную еду.",
+  "turkish_example_sentence": "O lezzetli yemeği servis yapacak.",
+  "turkish_example_sentence_with_blank": "O lezzetli yemeği ______."
 }

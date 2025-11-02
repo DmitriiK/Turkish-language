@@ -237,12 +237,6 @@
       "tense": "geçmiş_zaman",
       "pronoun": "ben",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/return/ben_dönmek_geçmiş_zaman.json"
-    },
-    {
-      "tense": "geçmiş_zaman",
-      "pronoun": "ben",
-      "polarity": "negative",
       "file_path": "data/output/training_examples_for_verbs/return/ben_dönmek_geçmiş_zaman_olumsuz.json"
     },
     {
@@ -274,6 +268,12 @@
       "pronoun": "siz",
       "polarity": "negative",
       "file_path": "data/output/training_examples_for_verbs/return/siz_dönmek_geçmiş_zaman_olumsuz.json"
+    },
+    {
+      "tense": "geçmiş_zaman",
+      "pronoun": "ben",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/return/ben_dönmek_geçmiş_zaman.json"
     },
     {
       "tense": "geçmiş_zaman",
@@ -523,6 +523,12 @@
     },
     {
       "tense": "şartlı_kipi",
+      "pronoun": "sen",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/return/sen_dönmek_şartlı_kipi.json"
+    },
+    {
+      "tense": "şartlı_kipi",
       "pronoun": "siz",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/return/siz_dönmek_şartlı_kipi.json"
@@ -574,6 +580,12 @@
       "pronoun": "biz",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/return/biz_dönmek_şimdiki_zaman.json"
+    },
+    {
+      "tense": "şimdiki_zaman",
+      "pronoun": "none",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/return/none_dönmek_şimdiki_zaman.json"
     },
     {
       "tense": "şimdiki_zaman",

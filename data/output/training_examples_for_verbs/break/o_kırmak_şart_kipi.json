@@ -4,17 +4,17 @@
   "verb_russian": "ломать",
   "verb_infinitive": "kırmak",
   "turkish_verb": {
-    "verb_full": "kırsa",
+    "verb_full": "kırarsa",
     "root": "kır",
     "tense_affix": "sa",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "a",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If the small child breaks the window, his mother will be sad.",
-  "russian_example_sentence": "Если маленький ребенок разобьет окно, его мать расстроится.",
-  "turkish_example_sentence": "Küçük çocuk camı kırsa, annesi üzülür.",
-  "turkish_example_sentence_with_blank": "Küçük çocuk camı ______, annesi üzülür."
+  "english_example_sentence": "If it breaks, we will fix it.",
+  "russian_example_sentence": "Если он сломается, мы починим его.",
+  "turkish_example_sentence": "Eğer masa kırarsa, onu tamir ederiz.",
+  "turkish_example_sentence_with_blank": "Eğer masa ______, onu tamir ederiz."
 }

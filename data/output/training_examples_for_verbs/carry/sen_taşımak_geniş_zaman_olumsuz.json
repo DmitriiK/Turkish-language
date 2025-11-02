@@ -4,17 +4,17 @@
   "verb_russian": "нести",
   "verb_infinitive": "taşımak",
   "turkish_verb": {
-    "verb_full": "taşımazsın",
+    "verb_full": "taşımam",
     "root": "taşı",
-    "tense_affix": "z",
+    "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "sın",
+    "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You don't carry these heavy books and notebooks.",
-  "russian_example_sentence": "Ты не носишь эти тяжелые книги и тетради.",
-  "turkish_example_sentence": "Sen bu ağır kitapları ve defterleri taşımazsın.",
-  "turkish_example_sentence_with_blank": "Sen bu ağır kitapları ve defterleri ______."
+  "english_example_sentence": "You do not carry this box.",
+  "russian_example_sentence": "Ты не носишь эту коробку.",
+  "turkish_example_sentence": "Sen bu kutuyu taşımam.",
+  "turkish_example_sentence_with_blank": "Sen bu kutuyu ______."
 }

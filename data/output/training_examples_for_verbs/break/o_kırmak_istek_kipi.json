@@ -4,17 +4,17 @@
   "verb_russian": "ломать",
   "verb_infinitive": "kırmak",
   "turkish_verb": {
-    "verb_full": "kıra",
+    "verb_full": "kıracak",
     "root": "kır",
-    "tense_affix": "a",
+    "tense_affix": "acak",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "acak",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The young athlete may break the new record.",
-  "russian_example_sentence": "Молодой спортсмен пусть побьет новый рекорд.",
-  "turkish_example_sentence": "Genç sporcu yeni rekoru kıra.",
-  "turkish_example_sentence_with_blank": "Genç sporcu yeni rekoru ______."
+  "english_example_sentence": "She will break the old vase.",
+  "russian_example_sentence": "Она сломает старую вазу.",
+  "turkish_example_sentence": "O eski vazoyu kıracak.",
+  "turkish_example_sentence_with_blank": "O eski vazoyu ______."
 }

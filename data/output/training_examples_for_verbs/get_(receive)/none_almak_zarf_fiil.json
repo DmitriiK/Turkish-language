@@ -4,17 +4,17 @@
   "verb_russian": "получать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "alıp",
+    "verb_full": "alıyorum",
     "root": "al",
-    "tense_affix": "ıp",
+    "tense_affix": "ıyor",
     "verb_tense": "zarf_fiil",
     "personal_pronoun": null,
-    "personal_affix": null,
+    "personal_affix": "um",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The student, after receiving the good news, became very happy.",
-  "russian_example_sentence": "Студент, получив хорошую новость, стал очень счастливым.",
-  "turkish_example_sentence": "Öğrenci, iyi haberi alıp çok mutlu oldu.",
-  "turkish_example_sentence_with_blank": "Öğrenci, iyi haberi ______ çok mutlu oldu."
+  "english_example_sentence": "I am receiving a beautiful gift.",
+  "russian_example_sentence": "Я получаю красивый подарок.",
+  "turkish_example_sentence": "Ben güzel bir hediye alıyorum.",
+  "turkish_example_sentence_with_blank": "Ben güzel bir hediye ______."
 }

@@ -4,17 +4,17 @@
   "verb_russian": "ломать",
   "verb_infinitive": "kırmak",
   "turkish_verb": {
-    "verb_full": "kırabilirim",
+    "verb_full": "kırıyorum",
     "root": "kır",
-    "tense_affix": "abilir",
+    "tense_affix": "yor",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "im",
+    "personal_affix": "um",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I can break this old wall and window.",
-  "russian_example_sentence": "Я могу сломать эту старую стену и окно.",
-  "turkish_example_sentence": "Ben bu eski duvarı ve pencereyi kırabilirim.",
-  "turkish_example_sentence_with_blank": "Ben bu eski duvarı ve pencereyi ______."
+  "english_example_sentence": "I am breaking the old vase.",
+  "russian_example_sentence": "Я ломаю старую вазу.",
+  "turkish_example_sentence": "Ben eski vazoyu kırıyorum.",
+  "turkish_example_sentence_with_blank": "Ben eski vazoyu ______."
 }

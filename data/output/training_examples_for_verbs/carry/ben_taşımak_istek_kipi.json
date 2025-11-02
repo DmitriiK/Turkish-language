@@ -4,17 +4,17 @@
   "verb_russian": "нести",
   "verb_infinitive": "taşımak",
   "turkish_verb": {
-    "verb_full": "taşıyayım",
+    "verb_full": "taşıyorum",
     "root": "taşı",
-    "tense_affix": "a",
+    "tense_affix": "yor",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "yım",
+    "personal_affix": "um",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I wish I could carry this beautiful flower to my mother.",
-  "russian_example_sentence": "Я бы хотел отнести этот красивый цветок моей матери.",
-  "turkish_example_sentence": "Bu güzel çiçeği anneme taşıyayım.",
-  "turkish_example_sentence_with_blank": "Bu güzel çiçeği anneme ______."
+  "english_example_sentence": "I want to carry the heavy box.",
+  "russian_example_sentence": "Я хочу нести тяжелую коробку.",
+  "turkish_example_sentence": "Ben ağır kutuyu taşıyorum.",
+  "turkish_example_sentence_with_blank": "Ben ağır kutuyu ______."
 }

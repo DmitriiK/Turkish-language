@@ -4,17 +4,17 @@
   "verb_russian": "ломать",
   "verb_infinitive": "kırmak",
   "turkish_verb": {
-    "verb_full": "kırmalı",
+    "verb_full": "kıracak",
     "root": "kır",
-    "tense_affix": "malı",
+    "tense_affix": "acak",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "acak",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The student must break this old rule.",
-  "russian_example_sentence": "Ученик должен нарушить это старое правило.",
-  "turkish_example_sentence": "Öğrenci, bu eski kuralı kırmalı.",
-  "turkish_example_sentence_with_blank": "Öğrenci, bu eski kuralı ______."
+  "english_example_sentence": "He must break the window.",
+  "russian_example_sentence": "Он должен сломать окно.",
+  "turkish_example_sentence": "Ali, o zorunda olduğu için pencereyi kıracak.",
+  "turkish_example_sentence_with_blank": "Ali, o zorunda olduğu için pencereyi ______."
 }

@@ -4,17 +4,17 @@
   "verb_russian": "получать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "alsın",
+    "verb_full": "alıyor",
     "root": "al",
-    "tense_affix": "",
+    "tense_affix": "ıyor",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "sın",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Let the diligent student get a high grade.",
-  "russian_example_sentence": "Пусть прилежный студент получит высокую оценку.",
-  "turkish_example_sentence": "Çalışkan öğrenci, yüksek not alsın.",
-  "turkish_example_sentence_with_blank": "Çalışkan öğrenci, yüksek not ______."
+  "english_example_sentence": "He is getting a new phone.",
+  "russian_example_sentence": "Он получает новый телефон.",
+  "turkish_example_sentence": "Ali yeni bir telefon **alıyor**.",
+  "turkish_example_sentence_with_blank": "Ali yeni bir telefon **______**."
 }

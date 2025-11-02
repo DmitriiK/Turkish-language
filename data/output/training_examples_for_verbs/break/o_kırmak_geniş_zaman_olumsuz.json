@@ -4,17 +4,17 @@
   "verb_russian": "ломать",
   "verb_infinitive": "kırmak",
   "turkish_verb": {
-    "verb_full": "kırmaz",
+    "verb_full": "kırmıyor",
     "root": "kır",
     "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "mı"
   },
-  "english_example_sentence": "The small child does not break the fragile vase.",
-  "russian_example_sentence": "Маленький ребенок не разбивает хрупкую вазу.",
-  "turkish_example_sentence": "Küçük çocuk, kırılgan vazoyu kırmaz.",
-  "turkish_example_sentence_with_blank": "Küçük çocuk, kırılgan vazoyu ______."
+  "english_example_sentence": "The table is not breaking.",
+  "russian_example_sentence": "Стол не ломается.",
+  "turkish_example_sentence": "Masa kırmıyor.",
+  "turkish_example_sentence_with_blank": "Masa ______."
 }

@@ -4,17 +4,17 @@
   "verb_russian": "возвращаться",
   "verb_infinitive": "dönmek",
   "turkish_verb": {
-    "verb_full": "döndünüz",
+    "verb_full": "dönmüşsünüz",
     "root": "dön",
-    "tense_affix": "dü",
+    "tense_affix": "müş",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "nüz",
+    "personal_affix": "sünüz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You returned home yesterday.",
-  "russian_example_sentence": "Вы вернулись домой вчера.",
-  "turkish_example_sentence": "Siz dün eve döndünüz.",
-  "turkish_example_sentence_with_blank": "Siz dün eve ______."
+  "english_example_sentence": "You have returned home safely.",
+  "russian_example_sentence": "Вы вернулись домой безопасно.",
+  "turkish_example_sentence": "Siz eve güvenle dönmüşsünüz.",
+  "turkish_example_sentence_with_blank": "Siz eve güvenle ______."
 }

@@ -4,17 +4,17 @@
   "verb_russian": "нести",
   "verb_infinitive": "taşımak",
   "turkish_verb": {
-    "verb_full": "taşıya",
+    "verb_full": "taşıyacak",
     "root": "taşı",
-    "tense_affix": "ya",
+    "tense_affix": "yacak",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "acak",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The new intern should carry all the important files upstairs.",
-  "russian_example_sentence": "Новый стажер должен отнести все важные файлы наверх.",
-  "turkish_example_sentence": "Yeni stajyer, tüm önemli dosyaları üst kata taşıya.",
-  "turkish_example_sentence_with_blank": "Yeni stajyer, tüm önemli dosyaları üst kata ______."
+  "english_example_sentence": "He will carry the heavy box.",
+  "russian_example_sentence": "Он понесет тяжелую коробку.",
+  "turkish_example_sentence": "O ağır kutuyu taşıyacak.",
+  "turkish_example_sentence_with_blank": "O ağır kutuyu ______."
 }

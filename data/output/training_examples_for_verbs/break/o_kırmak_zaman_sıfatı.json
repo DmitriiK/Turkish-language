@@ -4,17 +4,17 @@
   "verb_russian": "ломать",
   "verb_infinitive": "kırmak",
   "turkish_verb": {
-    "verb_full": "kıran",
+    "verb_full": "kırıyor",
     "root": "kır",
-    "tense_affix": "an",
+    "tense_affix": "yor",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "u",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The small child was the person who broke the old vase on the table.",
-  "russian_example_sentence": "Маленький ребенок был тем, кто разбил старую вазу на столе.",
-  "turkish_example_sentence": "Küçük çocuk, masadaki eski vazoyu kıran kişiydi.",
-  "turkish_example_sentence_with_blank": "Küçük çocuk, masadaki eski vazoyu ______ kişiydi."
+  "english_example_sentence": "The child is breaking the toy.",
+  "russian_example_sentence": "Ребёнок ломает игрушку.",
+  "turkish_example_sentence": "Çocuk oyuncağı kırıyor.",
+  "turkish_example_sentence_with_blank": "Çocuk oyuncağı ______."
 }

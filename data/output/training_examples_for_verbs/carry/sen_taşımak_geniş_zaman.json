@@ -4,17 +4,17 @@
   "verb_russian": "нести",
   "verb_infinitive": "taşımak",
   "turkish_verb": {
-    "verb_full": "taşırsın",
+    "verb_full": "taşıyorsun",
     "root": "taşı",
-    "tense_affix": "r",
+    "tense_affix": "yor",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "sın",
+    "personal_affix": "sun",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You always carry heavy bags.",
-  "russian_example_sentence": "Ты всегда носишь тяжелые сумки.",
-  "turkish_example_sentence": "Sen her zaman ağır çantalar taşırsın.",
-  "turkish_example_sentence_with_blank": "Sen her zaman ağır çantalar ______."
+  "english_example_sentence": "You are carrying the heavy box.",
+  "russian_example_sentence": "Ты несёшь тяжёлую коробку.",
+  "turkish_example_sentence": "Sen ağır kutuyu taşıyorsun.",
+  "turkish_example_sentence_with_blank": "Sen ağır kutuyu ______."
 }

@@ -4,17 +4,17 @@
   "verb_russian": "ломать",
   "verb_infinitive": "kırmak",
   "turkish_verb": {
-    "verb_full": "kırmalı",
+    "verb_full": "kırmalısın",
     "root": "kır",
     "tense_affix": "malı",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": null,
-    "personal_affix": "",
+    "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "One must break society's old, bad rules.",
-  "russian_example_sentence": "Нужно нарушать старые, плохие правила общества.",
-  "turkish_example_sentence": "Toplumun eski, kötü kurallarını kırmalı.",
-  "turkish_example_sentence_with_blank": "Toplumun eski, kötü kurallarını ______."
+  "english_example_sentence": "You must break the old habit.",
+  "russian_example_sentence": "Ты должен сломать старую привычку.",
+  "turkish_example_sentence": "Eski alışkanlığı kırmalısın.",
+  "turkish_example_sentence_with_blank": "Eski alışkanlığı ______."
 }

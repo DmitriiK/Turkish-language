@@ -1,5 +1,5 @@
 {
-  "total_verbs": 120,
+  "total_verbs": 109,
   "verbs": [
     {
       "rank": 1,
@@ -35,13 +35,6 @@
       "verb_russian": "идти",
       "verb_infinitive": "gitmek",
       "folder_name": "go"
-    },
-    {
-      "rank": 6,
-      "verb_english": "get",
-      "verb_russian": "получать",
-      "verb_infinitive": "almak",
-      "folder_name": "get"
     },
     {
       "rank": 6,
@@ -143,13 +136,6 @@
     },
     {
       "rank": 20,
-      "verb_english": "call",
-      "verb_russian": "звонить",
-      "verb_infinitive": "aramak",
-      "folder_name": "call"
-    },
-    {
-      "rank": 20,
       "verb_english": "call (phone)",
       "verb_russian": "звонить",
       "verb_infinitive": "aramak",
@@ -217,13 +203,6 @@
       "verb_russian": "держать",
       "verb_infinitive": "tutmak",
       "folder_name": "keep"
-    },
-    {
-      "rank": 30,
-      "verb_english": "let",
-      "verb_russian": "позволять",
-      "verb_infinitive": "izin vermek",
-      "folder_name": "let"
     },
     {
       "rank": 30,
@@ -373,25 +352,11 @@
       "folder_name": "meet"
     },
     {
-      "rank": 51,
-      "verb_english": "include",
-      "verb_russian": "включать",
-      "verb_infinitive": "içermek",
-      "folder_name": "include"
-    },
-    {
       "rank": 52,
       "verb_english": "continue",
       "verb_russian": "продолжать",
       "verb_infinitive": "devam etmek",
       "folder_name": "continue"
-    },
-    {
-      "rank": 53,
-      "verb_english": "set",
-      "verb_russian": "ставить",
-      "verb_infinitive": "koymak",
-      "folder_name": "set"
     },
     {
       "rank": 53,
@@ -499,13 +464,6 @@
       "folder_name": "grow"
     },
     {
-      "rank": 68,
-      "verb_english": "open",
-      "verb_russian": "открывать",
-      "verb_infinitive": "açmak",
-      "folder_name": "open"
-    },
-    {
       "rank": 69,
       "verb_english": "walk",
       "verb_russian": "ходить",
@@ -518,13 +476,6 @@
       "verb_russian": "выигрывать",
       "verb_infinitive": "kazanmak",
       "folder_name": "win"
-    },
-    {
-      "rank": 71,
-      "verb_english": "offer",
-      "verb_russian": "предлагать",
-      "verb_infinitive": "teklif etmek",
-      "folder_name": "offer"
     },
     {
       "rank": 72,
@@ -590,13 +541,6 @@
       "folder_name": "send"
     },
     {
-      "rank": 81,
-      "verb_english": "expect",
-      "verb_russian": "ожидать",
-      "verb_infinitive": "beklemek",
-      "folder_name": "expect"
-    },
-    {
       "rank": 82,
       "verb_english": "build",
       "verb_russian": "строить",
@@ -625,13 +569,6 @@
       "folder_name": "cut"
     },
     {
-      "rank": 86,
-      "verb_english": "reach",
-      "verb_russian": "достигать",
-      "verb_infinitive": "ulaşmak",
-      "folder_name": "reach"
-    },
-    {
       "rank": 87,
       "verb_english": "kill",
       "verb_russian": "убивать",
@@ -646,25 +583,11 @@
       "folder_name": "remain"
     },
     {
-      "rank": 89,
-      "verb_english": "suggest",
-      "verb_russian": "предлагать",
-      "verb_infinitive": "önermek",
-      "folder_name": "suggest"
-    },
-    {
       "rank": 90,
       "verb_english": "raise (lift)",
       "verb_russian": "поднимать",
       "verb_infinitive": "kaldırmak",
       "folder_name": "raise_(lift)"
-    },
-    {
-      "rank": 91,
-      "verb_english": "pass",
-      "verb_russian": "проходить",
-      "verb_infinitive": "geçmek",
-      "folder_name": "pass"
     },
     {
       "rank": 92,
@@ -836,7 +759,7 @@
     },
     {
       "rank": 116,
-      "verb_english": "serve (food)",
+      "verb_english": "serve",
       "verb_russian": "подавать",
       "verb_infinitive": "servis yapmak",
       "folder_name": "serve_(food)"

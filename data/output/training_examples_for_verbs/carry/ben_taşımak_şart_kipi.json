@@ -4,17 +4,17 @@
   "verb_russian": "нести",
   "verb_infinitive": "taşımak",
   "turkish_verb": {
-    "verb_full": "taşırsam",
+    "verb_full": "taşıyacağım",
     "root": "taşı",
-    "tense_affix": "rsa",
+    "tense_affix": "yacak",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I carry this old suitcase, my arms will hurt.",
-  "russian_example_sentence": "Если я понесу этот старый чемодан, у меня будут болеть руки.",
-  "turkish_example_sentence": "Bu eski bavulu taşırsam, kollarım ağrır.",
-  "turkish_example_sentence_with_blank": "Bu eski bavulu ______, kollarım ağrır."
+  "english_example_sentence": "I will carry the heavy box.",
+  "russian_example_sentence": "Я буду нести тяжелую коробку.",
+  "turkish_example_sentence": "Ben ağır kutuyu taşıyacağım.",
+  "turkish_example_sentence_with_blank": "Ben ağır kutuyu ______."
 }

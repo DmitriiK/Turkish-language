@@ -5,16 +5,16 @@
   "verb_infinitive": "servis yapmak",
   "turkish_verb": {
     "verb_full": "servis yapmadın",
-    "root": "yap",
-    "tense_affix": "tı",
+    "root": "servis yap",
+    "tense_affix": "dı",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You didn't serve food to the new guests yesterday.",
-  "russian_example_sentence": "Ты вчера не подавал еду новым гостям.",
-  "turkish_example_sentence": "Sen dün yeni misafirlere yemek servis yapmadın.",
-  "turkish_example_sentence_with_blank": "Sen dün yeni misafirlere yemek ______."
+  "english_example_sentence": "You did not serve the food at the party.",
+  "russian_example_sentence": "Ты не подавал еду на вечеринке.",
+  "turkish_example_sentence": "Partide yemeği **servis yapmadın**.",
+  "turkish_example_sentence_with_blank": "Partide yemeği **______**."
 }

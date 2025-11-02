@@ -1,6 +1,6 @@
 {
   "verb_rank": 116,
-  "verb_english": "serve (food)",
+  "verb_english": "serve",
   "verb_russian": "подавать",
   "verb_infinitive": "servis yapmak",
   "turkish_verb": {
@@ -11,10 +11,10 @@
     "personal_pronoun": "sen",
     "personal_affix": "sun",
     "polarity": "negative",
-    "negative_affix": "mı"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "Waiter, you are not serving the hot soup to our guests this evening.",
-  "russian_example_sentence": "Официант, ты не подаешь горячий суп нашим гостям этим вечером.",
-  "turkish_example_sentence": "Garson, bu akşam misafirlerimize sıcak çorbayı servis yapmıyorsun.",
-  "turkish_example_sentence_with_blank": "Garson, bu akşam misafirlerimize sıcak çorbayı ______."
+  "english_example_sentence": "You are not serving food at the party.",
+  "russian_example_sentence": "Ты не подаёшь еду на вечеринке.",
+  "turkish_example_sentence": "Sen bu partide yemek servis yapmıyorsun.",
+  "turkish_example_sentence_with_blank": "Sen bu partide yemek ______."
 }

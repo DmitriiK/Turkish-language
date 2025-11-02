@@ -5,7 +5,7 @@
   "verb_infinitive": "servis yapmak",
   "turkish_verb": {
     "verb_full": "servis yapmayacaklar",
-    "root": "yap",
+    "root": "servis yap",
     "tense_affix": "yacak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "onlar",
@@ -13,8 +13,8 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "The waiters will not serve hot food.",
-  "russian_example_sentence": "Официанты не будут подавать горячую еду.",
-  "turkish_example_sentence": "Garsonlar sıcak yemek servis yapmayacaklar.",
-  "turkish_example_sentence_with_blank": "Garsonlar sıcak yemek ______."
+  "english_example_sentence": "They will not serve the food at the party.",
+  "russian_example_sentence": "Они не подадут еду на вечеринке.",
+  "turkish_example_sentence": "Arkadaşlar partiye yemek **servis yapmayacaklar**.",
+  "turkish_example_sentence_with_blank": "Arkadaşlar partiye yemek **______**."
 }

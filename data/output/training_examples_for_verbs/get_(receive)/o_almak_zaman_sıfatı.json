@@ -4,17 +4,17 @@
   "verb_russian": "получать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "aldığı",
+    "verb_full": "alıyor",
     "root": "al",
-    "tense_affix": "dık",
+    "tense_affix": "ıyor",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "o",
-    "personal_affix": "ı",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The new student's first grade was quite successful.",
-  "russian_example_sentence": "Первая оценка нового студента была довольно успешной.",
-  "turkish_example_sentence": "Yeni öğrencinin aldığı ilk not oldukça başarılıydı.",
-  "turkish_example_sentence_with_blank": "Yeni öğrencinin ______ ilk not oldukça başarılıydı."
+  "english_example_sentence": "The student is getting a good grade.",
+  "russian_example_sentence": "Студент получает хорошую оценку.",
+  "turkish_example_sentence": "Öğrenci iyi bir not alıyor.",
+  "turkish_example_sentence_with_blank": "Öğrenci iyi bir not ______."
 }

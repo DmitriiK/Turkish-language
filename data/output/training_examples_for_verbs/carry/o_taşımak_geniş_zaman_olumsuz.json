@@ -4,17 +4,17 @@
   "verb_russian": "нести",
   "verb_infinitive": "taşımak",
   "turkish_verb": {
-    "verb_full": "taşımaz",
+    "verb_full": "taşımıyor",
     "root": "taşı",
     "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "z",
+    "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "mı"
   },
-  "english_example_sentence": "This old car does not carry heavy loads.",
-  "russian_example_sentence": "Этот старый автомобиль не перевозит тяжёлые грузы.",
-  "turkish_example_sentence": "Bu eski araba ağır yükleri taşımaz.",
-  "turkish_example_sentence_with_blank": "Bu eski araba ağır yükleri ______."
+  "english_example_sentence": "The student does not carry the heavy bag.",
+  "russian_example_sentence": "Студент не несет тяжелую сумку.",
+  "turkish_example_sentence": "Öğrenci ağır çantayı taşımıyor.",
+  "turkish_example_sentence_with_blank": "Öğrenci ağır çantayı ______."
 }

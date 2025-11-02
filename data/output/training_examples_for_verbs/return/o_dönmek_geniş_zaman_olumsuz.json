@@ -4,17 +4,17 @@
   "verb_russian": "возвращаться",
   "verb_infinitive": "dönmek",
   "turkish_verb": {
-    "verb_full": "dönmez",
+    "verb_full": "dönmüyor",
     "root": "dön",
-    "tense_affix": "z",
+    "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "mı"
   },
-  "english_example_sentence": "The old car does not turn from the narrow street.",
-  "russian_example_sentence": "Старая машина не поворачивает с узкой улицы.",
-  "turkish_example_sentence": "Eski araba dar sokaktan dönmez.",
-  "turkish_example_sentence_with_blank": "Eski araba dar sokaktan ______."
+  "english_example_sentence": "The teacher is not returning the books.",
+  "russian_example_sentence": "Учитель не возвращает книги.",
+  "turkish_example_sentence": "Öğretmen kitapları **dönmüyor**.",
+  "turkish_example_sentence_with_blank": "Öğretmen kitapları **______**."
 }

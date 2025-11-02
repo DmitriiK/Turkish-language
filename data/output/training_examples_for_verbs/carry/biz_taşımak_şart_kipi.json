@@ -4,17 +4,17 @@
   "verb_russian": "нести",
   "verb_infinitive": "taşımak",
   "turkish_verb": {
-    "verb_full": "taşısak",
+    "verb_full": "taşırız",
     "root": "taşı",
-    "tense_affix": "sa",
+    "tense_affix": "r",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we carry this heavy box carefully, we will settle into the new house.",
-  "russian_example_sentence": "Если мы осторожно перенесем эту тяжелую коробку, мы заселимся в новый дом.",
-  "turkish_example_sentence": "Bu ağır kutuyu dikkatlice taşısak, yeni eve yerleşiriz.",
-  "turkish_example_sentence_with_blank": "Bu ağır kutuyu dikkatlice ______, yeni eve yerleşiriz."
+  "english_example_sentence": "We carry the heavy boxes.",
+  "russian_example_sentence": "Мы несем тяжелые коробки.",
+  "turkish_example_sentence": "Biz ağır kutuları taşırız.",
+  "turkish_example_sentence_with_blank": "Biz ağır kutuları ______."
 }

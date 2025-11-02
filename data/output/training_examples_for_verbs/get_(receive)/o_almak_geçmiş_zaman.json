@@ -9,12 +9,12 @@
     "tense_affix": "dı",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "null",
     "polarity": "positive",
-    "negative_affix": null
+    "negative_affix": "null"
   },
-  "english_example_sentence": "My friend received a beautiful gift.",
-  "russian_example_sentence": "Мой друг получил красивый подарок.",
-  "turkish_example_sentence": "Arkadaşım güzel bir hediye aldı.",
-  "turkish_example_sentence_with_blank": "Arkadaşım güzel bir hediye ______."
+  "english_example_sentence": "My sister got a beautiful gift yesterday.",
+  "russian_example_sentence": "Моя сестра вчера получила красивый подарок.",
+  "turkish_example_sentence": "Kız kardeşim dün güzel bir hediye **aldı**.",
+  "turkish_example_sentence_with_blank": "Kız kardeşim dün güzel bir hediye **______**."
 }

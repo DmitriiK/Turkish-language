@@ -4,17 +4,17 @@
   "verb_russian": "ломать",
   "verb_infinitive": "kırmak",
   "turkish_verb": {
-    "verb_full": "kırsan",
+    "verb_full": "kırarsın",
     "root": "kır",
-    "tense_affix": "sa",
+    "tense_affix": "ar",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "sın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you break that old vase, my mother will be very sad.",
-  "russian_example_sentence": "Если ты разобьешь эту старую вазу, моя мама очень расстроится.",
-  "turkish_example_sentence": "Eğer şu eski vazoyu kırsan, annem çok üzülür.",
-  "turkish_example_sentence_with_blank": "Eğer şu eski vazoyu ______, annem çok üzülür."
+  "english_example_sentence": "You will break the beautiful vase.",
+  "russian_example_sentence": "Ты сломишь красивую вазу.",
+  "turkish_example_sentence": "Sen güzel vazoyu kırarsın.",
+  "turkish_example_sentence_with_blank": "Sen güzel vazoyu ______."
 }

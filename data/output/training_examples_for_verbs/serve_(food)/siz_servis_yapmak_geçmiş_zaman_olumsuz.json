@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "servis yapmadınız",
     "root": "servis yap",
-    "tense_affix": "dı",
+    "tense_affix": "di",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "ınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "Waiter, you did not serve this delicious dinner to the guests.",
-  "russian_example_sentence": "Официант, вы не подали этот вкусный ужин гостям.",
-  "turkish_example_sentence": "Garson, bu lezzetli akşam yemeğini misafirlere servis yapmadınız.",
-  "turkish_example_sentence_with_blank": "Garson, bu lezzetli akşam yemeğini misafirlere ______."
+  "english_example_sentence": "You did not serve the food.",
+  "russian_example_sentence": "Вы не подали еду.",
+  "turkish_example_sentence": "Siz güzel yemeği servis yapmadınız.",
+  "turkish_example_sentence_with_blank": "Siz güzel yemeği ______."
 }

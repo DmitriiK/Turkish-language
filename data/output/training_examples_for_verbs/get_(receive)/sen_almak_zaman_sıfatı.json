@@ -4,17 +4,17 @@
   "verb_russian": "получать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almışsın",
+    "verb_full": "alıyorum",
     "root": "al",
-    "tense_affix": "mış",
+    "tense_affix": "ıyor",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "sen",
-    "personal_affix": "sın",
+    "personal_affix": "um",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You received a beautiful gift from your friend.",
-  "russian_example_sentence": "Ты получил красивый подарок от своего друга.",
-  "turkish_example_sentence": "Arkadaşından güzel bir hediye almışsın.",
-  "turkish_example_sentence_with_blank": "Arkadaşından güzel bir hediye ______."
+  "english_example_sentence": "You are getting a nice gift.",
+  "russian_example_sentence": "Ты получаешь хороший подарок.",
+  "turkish_example_sentence": "Sen güzel bir hediye alıyorum.",
+  "turkish_example_sentence_with_blank": "Sen güzel bir hediye ______."
 }

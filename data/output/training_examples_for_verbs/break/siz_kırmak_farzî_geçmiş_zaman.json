@@ -4,17 +4,17 @@
   "verb_russian": "ломать",
   "verb_infinitive": "kırmak",
   "turkish_verb": {
-    "verb_full": "kırmışsınız",
+    "verb_full": "kırdınız",
     "root": "kır",
-    "tense_affix": "mış",
+    "tense_affix": "dı",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "sınız",
+    "personal_affix": "nız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You must have broken that small window pane.",
-  "russian_example_sentence": "Вы, должно быть, разбили то маленькое оконное стекло.",
-  "turkish_example_sentence": "Siz o küçük pencere camını kırmışsınız.",
-  "turkish_example_sentence_with_blank": "Siz o küçük pencere camını ______."
+  "english_example_sentence": "You broke the beautiful vase.",
+  "russian_example_sentence": "Вы сломали красивую вазу.",
+  "turkish_example_sentence": "Siz güzel vazoyu kırdınız.",
+  "turkish_example_sentence_with_blank": "Siz güzel vazoyu ______."
 }

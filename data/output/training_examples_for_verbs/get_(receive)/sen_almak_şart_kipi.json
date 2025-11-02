@@ -4,17 +4,17 @@
   "verb_russian": "получать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "alsan",
+    "verb_full": "alacaksın",
     "root": "al",
-    "tense_affix": "sa",
+    "tense_affix": "acak",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "sın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you take on this difficult task, you would gain a lot of experience.",
-  "russian_example_sentence": "Если бы ты взялся за это сложное задание, ты бы получил много опыта.",
-  "turkish_example_sentence": "Sen bu zor görevi alsan, çok tecrübe kazanırsın.",
-  "turkish_example_sentence_with_blank": "Sen bu zor görevi ______, çok tecrübe kazanırsın."
+  "english_example_sentence": "You will get the book tomorrow.",
+  "russian_example_sentence": "Ты получишь книгу завтра.",
+  "turkish_example_sentence": "Sen yarın kitabı alacaksın.",
+  "turkish_example_sentence_with_blank": "Sen yarın kitabı ______."
 }

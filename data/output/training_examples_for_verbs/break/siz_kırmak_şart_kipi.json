@@ -4,17 +4,17 @@
   "verb_russian": "ломать",
   "verb_infinitive": "kırmak",
   "turkish_verb": {
-    "verb_full": "kırsanız",
+    "verb_full": "kırarsınız",
     "root": "kır",
-    "tense_affix": "sa",
+    "tense_affix": "ar",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "sınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you break this old book, we cannot repair it.",
-  "russian_example_sentence": "Если вы сломаете эту старую книгу, мы не сможем ее починить.",
-  "turkish_example_sentence": "Eğer bu eski kitabı kırsanız, tamir edemeyiz.",
-  "turkish_example_sentence_with_blank": "Eğer bu eski kitabı ______, tamir edemeyiz."
+  "english_example_sentence": "You will break the glass carefully.",
+  "russian_example_sentence": "Вы аккуратно сломаете стекло.",
+  "turkish_example_sentence": "Siz dikkatli bir şekilde camı kırarsınız.",
+  "turkish_example_sentence_with_blank": "Siz dikkatli bir şekilde camı ______."
 }

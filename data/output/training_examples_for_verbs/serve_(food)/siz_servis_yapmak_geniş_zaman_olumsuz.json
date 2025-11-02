@@ -1,20 +1,20 @@
 {
   "verb_rank": 116,
-  "verb_english": "serve (food)",
+  "verb_english": "serve",
   "verb_russian": "подавать",
   "verb_infinitive": "servis yapmak",
   "turkish_verb": {
     "verb_full": "servis yapmazsınız",
     "root": "yap",
-    "tense_affix": "z",
+    "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "sınız",
+    "personal_affix": "zsınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You do not serve cold drinks to our guests.",
-  "russian_example_sentence": "Вы не подаете холодные напитки нашим гостям.",
-  "turkish_example_sentence": "Misafirlerimize soğuk içecekler servis yapmazsınız.",
-  "turkish_example_sentence_with_blank": "Misafirlerimize soğuk içecekler ______."
+  "english_example_sentence": "You usually do not serve food in this restaurant.",
+  "russian_example_sentence": "Вы обычно не подаете еду в этом ресторане.",
+  "turkish_example_sentence": "Siz genellikle bu restoranda yemek servis yapmazsınız.",
+  "turkish_example_sentence_with_blank": "Siz genellikle bu restoranda yemek ______."
 }

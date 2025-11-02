@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "kırmalıyım",
     "root": "kır",
-    "tense_affix": "malı",
+    "tense_affix": "malıy",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "yım",
+    "personal_affix": "ım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "In this difficult situation, I must break an important rule.",
-  "russian_example_sentence": "В этой сложной ситуации я должен нарушить важное правило.",
-  "turkish_example_sentence": "Bu zor durumda önemli bir kuralı kırmalıyım.",
-  "turkish_example_sentence_with_blank": "Bu zor durumda önemli bir kuralı ______."
+  "english_example_sentence": "I must break the old chair.",
+  "russian_example_sentence": "Я должен сломать старый стул.",
+  "turkish_example_sentence": "Ben eski sandalye **kırmalıyım**.",
+  "turkish_example_sentence_with_blank": "Ben eski sandalye **______**."
 }

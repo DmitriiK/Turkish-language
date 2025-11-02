@@ -4,17 +4,17 @@
   "verb_russian": "подавать",
   "verb_infinitive": "servis yapmak",
   "turkish_verb": {
-    "verb_full": "servis yapayım",
-    "root": "yap",
-    "tense_affix": "ay",
+    "verb_full": "servis yapıyorum",
+    "root": "servis yap",
+    "tense_affix": "ıyor",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "ım",
+    "personal_affix": "um",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I will serve fresh fruit juice to the guests.",
-  "russian_example_sentence": "Я подам свежий фруктовый сок гостям.",
-  "turkish_example_sentence": "Ben misafirlere taze meyve suyu servis yapayım.",
-  "turkish_example_sentence_with_blank": "Ben misafirlere taze meyve suyu ______."
+  "english_example_sentence": "I want to serve food at the party.",
+  "russian_example_sentence": "Я хочу подать еду на вечеринке.",
+  "turkish_example_sentence": "Ben partide yemek **servis yapıyorum**.",
+  "turkish_example_sentence_with_blank": "Ben partide yemek **______**."
 }

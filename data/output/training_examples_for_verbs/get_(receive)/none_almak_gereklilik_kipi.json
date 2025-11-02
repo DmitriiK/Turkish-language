@@ -4,17 +4,17 @@
   "verb_russian": "получать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almalı",
+    "verb_full": "almalıyım",
     "root": "al",
     "tense_affix": "malı",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": null,
-    "personal_affix": "",
+    "personal_affix": "ım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Everyone should receive good education.",
-  "russian_example_sentence": "Каждый должен получить хорошее образование.",
-  "turkish_example_sentence": "Herkes iyi bir eğitim almalı.",
-  "turkish_example_sentence_with_blank": "Herkes iyi bir eğitim ______."
+  "english_example_sentence": "I should get the report soon.",
+  "russian_example_sentence": "Мне нужно получить отчет скоро.",
+  "turkish_example_sentence": "Raporu yakında **almalıyım**.",
+  "turkish_example_sentence_with_blank": "Raporu yakında **______**."
 }

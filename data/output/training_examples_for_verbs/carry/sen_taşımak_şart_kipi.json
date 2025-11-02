@@ -4,17 +4,17 @@
   "verb_russian": "нести",
   "verb_infinitive": "taşımak",
   "turkish_verb": {
-    "verb_full": "taşısan",
+    "verb_full": "taşırdın",
     "root": "taşı",
-    "tense_affix": "sa",
+    "tense_affix": "r",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "dın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you carry this heavy box, I will help you.",
-  "russian_example_sentence": "Если ты понесешь эту тяжелую коробку, я помогу тебе.",
-  "turkish_example_sentence": "Eğer bu ağır kutuyu taşısan, sana yardım ederim.",
-  "turkish_example_sentence_with_blank": "Eğer bu ağır kutuyu ______, sana yardım ederim."
+  "english_example_sentence": "You will carry the heavy bag tomorrow.",
+  "russian_example_sentence": "Ты будешь нести тяжёлую сумку завтра.",
+  "turkish_example_sentence": "Sen yarın ağır çantayı taşırdın.",
+  "turkish_example_sentence_with_blank": "Sen yarın ağır çantayı ______."
 }

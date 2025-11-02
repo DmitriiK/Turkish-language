@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "dönüyorum",
     "root": "dön",
-    "tense_affix": "ü",
+    "tense_affix": "üyorum",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "yorum",
+    "personal_affix": "um",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I return to my home every evening.",
-  "russian_example_sentence": "Я возвращаюсь домой каждый вечер.",
-  "turkish_example_sentence": "Ben her akşam evime dönüyorum.",
-  "turkish_example_sentence_with_blank": "Ben her akşam evime ______."
+  "english_example_sentence": "I am returning home after the trip.",
+  "russian_example_sentence": "Я возвращаюсь домой после поездки.",
+  "turkish_example_sentence": "Ben geziden sonra eve dönüyorum.",
+  "turkish_example_sentence_with_blank": "Ben geziden sonra eve ______."
 }

@@ -4,17 +4,17 @@
   "verb_russian": "ломать",
   "verb_infinitive": "kırmak",
   "turkish_verb": {
-    "verb_full": "kıracaktınız",
+    "verb_full": "kıracaksınız",
     "root": "kır",
-    "tense_affix": "acaktı",
+    "tense_affix": "acak",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "ınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You children, you would have carelessly broken the old and valuable vase.",
-  "russian_example_sentence": "Вы, дети, неосторожно разбили бы старую и ценную вазу.",
-  "turkish_example_sentence": "Siz çocuklar, eski ve değerli vazoyu dikkatsizce kıracaktınız.",
-  "turkish_example_sentence_with_blank": "Siz çocuklar, eski ve değerli vazoyu dikkatsizce ______."
+  "english_example_sentence": "You will break the beautiful vase.",
+  "russian_example_sentence": "Вы сломаете красивую вазу.",
+  "turkish_example_sentence": "Siz güzel vazoyu kıracaksınız.",
+  "turkish_example_sentence_with_blank": "Siz güzel vazoyu ______."
 }

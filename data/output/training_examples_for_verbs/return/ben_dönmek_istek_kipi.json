@@ -4,17 +4,17 @@
   "verb_russian": "возвращаться",
   "verb_infinitive": "dönmek",
   "turkish_verb": {
-    "verb_full": "döneceğim",
+    "verb_full": "dönüyorum",
     "root": "dön",
-    "tense_affix": "ecek",
+    "tense_affix": "üyorum",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "im",
+    "personal_affix": "um",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I want to return to my home.",
-  "russian_example_sentence": "Я хочу вернуться домой.",
-  "turkish_example_sentence": "Ben evime dönmek istiyorum.",
-  "turkish_example_sentence_with_blank": "Ben evime dönmek istiyorum."
+  "english_example_sentence": "I want to return home now.",
+  "russian_example_sentence": "Я хочу вернуться домой сейчас.",
+  "turkish_example_sentence": "Ben şimdi eve dönüyorum.",
+  "turkish_example_sentence_with_blank": "Ben şimdi eve ______."
 }

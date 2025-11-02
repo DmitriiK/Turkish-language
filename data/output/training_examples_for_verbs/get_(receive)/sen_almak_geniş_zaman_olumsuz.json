@@ -4,17 +4,17 @@
   "verb_russian": "получать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almazsın",
+    "verb_full": "almıyorsun",
     "root": "al",
     "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "sın",
+    "personal_affix": "sun",
     "polarity": "negative",
-    "negative_affix": "maz"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "You don't always receive a big present.",
-  "russian_example_sentence": "Ты не всегда получаешь большой подарок.",
-  "turkish_example_sentence": "Sen her zaman büyük bir hediye almazsın.",
-  "turkish_example_sentence_with_blank": "Sen her zaman büyük bir hediye ______."
+  "english_example_sentence": "You do not get the book.",
+  "russian_example_sentence": "Ты не получаешь книгу.",
+  "turkish_example_sentence": "Sen bu kitabı almıyorsun.",
+  "turkish_example_sentence_with_blank": "Sen bu kitabı ______."
 }

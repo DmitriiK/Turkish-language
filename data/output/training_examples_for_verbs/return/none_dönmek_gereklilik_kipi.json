@@ -4,17 +4,17 @@
   "verb_russian": "возвращаться",
   "verb_infinitive": "dönmek",
   "turkish_verb": {
-    "verb_full": "dönmem gerekiyor",
+    "verb_full": "dönmeliyim",
     "root": "dön",
-    "tense_affix": "mek",
+    "tense_affix": "meliyim",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": null,
-    "personal_affix": "m",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I need to return home soon.",
-  "russian_example_sentence": "Мне нужно вернуться домой скоро.",
-  "turkish_example_sentence": "Ali'nin eve dönmesi gerekiyor.",
-  "turkish_example_sentence_with_blank": "Ali'nin eve dönmesi gerekiyor."
+  "english_example_sentence": "I must return home soon.",
+  "russian_example_sentence": "Я должен вернуться домой скоро.",
+  "turkish_example_sentence": "Ben eve dönmeliyim.",
+  "turkish_example_sentence_with_blank": "Ben eve ______."
 }

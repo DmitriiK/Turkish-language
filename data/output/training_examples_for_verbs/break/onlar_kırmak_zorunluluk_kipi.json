@@ -4,17 +4,17 @@
   "verb_russian": "ломать",
   "verb_infinitive": "kırmak",
   "turkish_verb": {
-    "verb_full": "kırmalılar",
+    "verb_full": "kırmaları gerekiyor",
     "root": "kır",
-    "tense_affix": "malı",
+    "tense_affix": "maları",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "ı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The students must break the old habits.",
-  "russian_example_sentence": "Студенты должны сломать старые привычки.",
-  "turkish_example_sentence": "Öğrenciler eski alışkanlıkları kırmalılar.",
-  "turkish_example_sentence_with_blank": "Öğrenciler eski alışkanlıkları ______."
+  "english_example_sentence": "They need to break the rules.",
+  "russian_example_sentence": "Им нужно сломать правила.",
+  "turkish_example_sentence": "Öğrencilerin kuralları kırmaları gerekiyor.",
+  "turkish_example_sentence_with_blank": "Öğrencilerin kuralları ______."
 }

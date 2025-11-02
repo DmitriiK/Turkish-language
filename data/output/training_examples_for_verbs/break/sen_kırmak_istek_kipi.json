@@ -4,17 +4,17 @@
   "verb_russian": "ломать",
   "verb_infinitive": "kırmak",
   "turkish_verb": {
-    "verb_full": "kırasın",
+    "verb_full": "kırmak istiyorsun",
     "root": "kır",
-    "tense_affix": "a",
+    "tense_affix": "mak",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "sın",
+    "personal_affix": "sun",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You should break this hard walnut for your friend.",
-  "russian_example_sentence": "Ты должен разбить этот твердый грецкий орех для своего друга.",
-  "turkish_example_sentence": "Arkadaşına bu sert cevizi kırasın.",
-  "turkish_example_sentence_with_blank": "Arkadaşına bu sert cevizi ______."
+  "english_example_sentence": "You want to break the glass.",
+  "russian_example_sentence": "Ты хочешь разбить стекло.",
+  "turkish_example_sentence": "Sen güzel bir camı kırmak istiyorsun.",
+  "turkish_example_sentence_with_blank": "Sen güzel bir camı ______."
 }

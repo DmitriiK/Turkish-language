@@ -4,17 +4,17 @@
   "verb_russian": "нести",
   "verb_infinitive": "taşımak",
   "turkish_verb": {
-    "verb_full": "taşısa",
+    "verb_full": "taşıyacak",
     "root": "taşı",
-    "tense_affix": "sa",
+    "tense_affix": "yacak",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "acak",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If the small child carries a heavy box, we should help him.",
-  "russian_example_sentence": "Если маленький ребенок понесет тяжелую коробку, мы должны ему помочь.",
-  "turkish_example_sentence": "Eğer küçük çocuk ağır bir kutu taşısa, ona yardım etmeliyiz.",
-  "turkish_example_sentence_with_blank": "Eğer küçük çocuk ağır bir kutu ______, ona yardım etmeliyiz."
+  "english_example_sentence": "He will carry the heavy box.",
+  "russian_example_sentence": "Он понесет тяжелую коробку.",
+  "turkish_example_sentence": "O ağır kutuyu taşıyacak.",
+  "turkish_example_sentence_with_blank": "O ağır kutuyu ______."
 }

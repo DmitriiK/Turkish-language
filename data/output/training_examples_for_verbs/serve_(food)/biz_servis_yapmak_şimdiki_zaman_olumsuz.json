@@ -1,6 +1,6 @@
 {
   "verb_rank": 116,
-  "verb_english": "serve (food)",
+  "verb_english": "serve",
   "verb_russian": "подавать",
   "verb_infinitive": "servis yapmak",
   "turkish_verb": {
@@ -9,12 +9,12 @@
     "tense_affix": "yor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "uz",
+    "personal_affix": "ız",
     "polarity": "negative",
-    "negative_affix": "mı"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "We are not serving hot food to the guests today.",
-  "russian_example_sentence": "Мы сегодня не подаем горячую еду гостям.",
-  "turkish_example_sentence": "Biz bugün misafirlere sıcak yemek servis yapmıyoruz.",
-  "turkish_example_sentence_with_blank": "Biz bugün misafirlere sıcak yemek ______."
+  "english_example_sentence": "We are not serving food today.",
+  "russian_example_sentence": "Мы не подаем еду сегодня.",
+  "turkish_example_sentence": "Bugün yemek servis yapmıyoruz.",
+  "turkish_example_sentence_with_blank": "Bugün yemek ______."
 }

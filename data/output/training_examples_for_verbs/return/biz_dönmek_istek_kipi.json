@@ -4,17 +4,17 @@
   "verb_russian": "возвращаться",
   "verb_infinitive": "dönmek",
   "turkish_verb": {
-    "verb_full": "döneceğiz",
+    "verb_full": "dönmekteyiz",
     "root": "dön",
-    "tense_affix": "ecek",
+    "tense_affix": "mekte",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We will return to the city tomorrow.",
-  "russian_example_sentence": "Мы вернёмся в город завтра.",
-  "turkish_example_sentence": "Biz yarın şehre döneceğiz.",
-  "turkish_example_sentence_with_blank": "Biz yarın şehre ______."
+  "english_example_sentence": "We want to return to the city.",
+  "russian_example_sentence": "Мы хотим вернуться в город.",
+  "turkish_example_sentence": "Biz bu yaz şehre **dönmekteyiz**.",
+  "turkish_example_sentence_with_blank": "Biz bu yaz şehre **______**."
 }

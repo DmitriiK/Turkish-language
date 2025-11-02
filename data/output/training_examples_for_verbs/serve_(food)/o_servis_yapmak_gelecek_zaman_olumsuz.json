@@ -5,16 +5,16 @@
   "verb_infinitive": "servis yapmak",
   "turkish_verb": {
     "verb_full": "servis yapmayacak",
-    "root": "yap",
+    "root": "servis yap",
     "tense_affix": "yacak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "acak",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "The tired waiter will not serve delicious food to the guests.",
-  "russian_example_sentence": "Уставший официант не будет подавать вкусную еду гостям.",
-  "turkish_example_sentence": "Yorgun garson misafirlere lezzetli yemek servis yapmayacak.",
-  "turkish_example_sentence_with_blank": "Yorgun garson misafirlere lezzetli yemek ______."
+  "english_example_sentence": "He will not serve food at the party.",
+  "russian_example_sentence": "Он не будет подавать еду на вечеринке.",
+  "turkish_example_sentence": "O, partide yiyecek servis yapmayacak.",
+  "turkish_example_sentence_with_blank": "O, partide yiyecek ______."
 }

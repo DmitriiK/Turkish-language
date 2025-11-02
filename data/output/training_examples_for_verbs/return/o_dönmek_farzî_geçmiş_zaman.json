@@ -4,17 +4,17 @@
   "verb_russian": "возвращаться",
   "verb_infinitive": "dönmek",
   "turkish_verb": {
-    "verb_full": "döndü",
+    "verb_full": "dönmüştü",
     "root": "dön",
-    "tense_affix": "dü",
+    "tense_affix": "müştü",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "ü",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The cat returned home happily.",
-  "russian_example_sentence": "Кот вернулся домой счастливо.",
-  "turkish_example_sentence": "Kedi mutlu bir şekilde eve döndü.",
-  "turkish_example_sentence_with_blank": "Kedi mutlu bir şekilde eve ______."
+  "english_example_sentence": "She had returned home early.",
+  "russian_example_sentence": "Она вернулась домой рано.",
+  "turkish_example_sentence": "O, eve erken dönmüştü.",
+  "turkish_example_sentence_with_blank": "O, eve erken ______."
 }

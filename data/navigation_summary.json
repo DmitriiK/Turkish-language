@@ -1,6 +1,6 @@
 {
-  "total_verbs": 120,
-  "total_indexes": 120,
+  "total_verbs": 109,
+  "total_indexes": 109,
   "verbs": [
     {
       "rank": 1,
@@ -141,18 +141,6 @@
         "şimdiki_zaman"
       ],
       "total_examples": 109
-    },
-    {
-      "rank": 6,
-      "english": "get",
-      "russian": "получать",
-      "turkish": "almak",
-      "folder": "get",
-      "tenses": [
-        "yaracağım",
-        "şart_kipi"
-      ],
-      "total_examples": 2
     },
     {
       "rank": 6,
@@ -548,17 +536,6 @@
     },
     {
       "rank": 20,
-      "english": "call",
-      "russian": "звонить",
-      "turkish": "aramak",
-      "folder": "call",
-      "tenses": [
-        "emir_kipi"
-      ],
-      "total_examples": 1
-    },
-    {
-      "rank": 20,
       "english": "call (phone)",
       "russian": "звонить",
       "turkish": "aramak",
@@ -836,18 +813,6 @@
         "şimdiki_zaman"
       ],
       "total_examples": 108
-    },
-    {
-      "rank": 30,
-      "english": "let",
-      "russian": "позволять",
-      "turkish": "izin vermek",
-      "folder": "let",
-      "tenses": [
-        "emir_kipi",
-        "şartlı_kipi"
-      ],
-      "total_examples": 2
     },
     {
       "rank": 30,
@@ -1438,34 +1403,6 @@
       "total_examples": 107
     },
     {
-      "rank": 51,
-      "english": "include",
-      "russian": "включать",
-      "turkish": "içermek",
-      "folder": "include",
-      "tenses": [
-        "emir_kipi",
-        "farzî_geçmiş_zaman",
-        "gelecek_zaman",
-        "geniş_zaman",
-        "gereklilik_kipi",
-        "geçmiş_gelecek_zaman",
-        "geçmiş_zaman",
-        "imkan_kipi",
-        "istek_kipi",
-        "sıfat_fiil",
-        "ulak_fiil",
-        "yaracağım",
-        "zaman_sıfatı",
-        "zarf_fiil",
-        "zorunluluk_kipi",
-        "şart_kipi",
-        "şartlı_kipi",
-        "şimdiki_zaman"
-      ],
-      "total_examples": 110
-    },
-    {
       "rank": 52,
       "english": "continue",
       "russian": "продолжать",
@@ -1492,17 +1429,6 @@
         "şimdiki_zaman"
       ],
       "total_examples": 106
-    },
-    {
-      "rank": 53,
-      "english": "set",
-      "russian": "ставить",
-      "turkish": "koymak",
-      "folder": "set",
-      "tenses": [
-        "zaman_sıfatı"
-      ],
-      "total_examples": 1
     },
     {
       "rank": 53,
@@ -1925,34 +1851,6 @@
       "total_examples": 106
     },
     {
-      "rank": 68,
-      "english": "open",
-      "russian": "открывать",
-      "turkish": "açmak",
-      "folder": "open",
-      "tenses": [
-        "emir_kipi",
-        "farzî_geçmiş_zaman",
-        "gelecek_zaman",
-        "geniş_zaman",
-        "gereklilik_kipi",
-        "geçmiş_gelecek_zaman",
-        "geçmiş_zaman",
-        "imkan_kipi",
-        "istek_kipi",
-        "sıfat_fiil",
-        "ulak_fiil",
-        "yaracağım",
-        "zaman_sıfatı",
-        "zarf_fiil",
-        "zorunluluk_kipi",
-        "şart_kipi",
-        "şartlı_kipi",
-        "şimdiki_zaman"
-      ],
-      "total_examples": 106
-    },
-    {
       "rank": 69,
       "english": "walk",
       "russian": "ходить",
@@ -1986,34 +1884,6 @@
       "russian": "выигрывать",
       "turkish": "kazanmak",
       "folder": "win",
-      "tenses": [
-        "emir_kipi",
-        "farzî_geçmiş_zaman",
-        "gelecek_zaman",
-        "geniş_zaman",
-        "gereklilik_kipi",
-        "geçmiş_gelecek_zaman",
-        "geçmiş_zaman",
-        "imkan_kipi",
-        "istek_kipi",
-        "sıfat_fiil",
-        "ulak_fiil",
-        "yaracağım",
-        "zaman_sıfatı",
-        "zarf_fiil",
-        "zorunluluk_kipi",
-        "şart_kipi",
-        "şartlı_kipi",
-        "şimdiki_zaman"
-      ],
-      "total_examples": 108
-    },
-    {
-      "rank": 71,
-      "english": "offer",
-      "russian": "предлагать",
-      "turkish": "teklif etmek",
-      "folder": "offer",
       "tenses": [
         "emir_kipi",
         "farzî_geçmiş_zaman",
@@ -2230,7 +2100,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 119
+      "total_examples": 109
     },
     {
       "rank": 79,
@@ -2266,34 +2136,6 @@
       "russian": "отправлять",
       "turkish": "göndermek",
       "folder": "send",
-      "tenses": [
-        "emir_kipi",
-        "farzî_geçmiş_zaman",
-        "gelecek_zaman",
-        "geniş_zaman",
-        "gereklilik_kipi",
-        "geçmiş_gelecek_zaman",
-        "geçmiş_zaman",
-        "imkan_kipi",
-        "istek_kipi",
-        "sıfat_fiil",
-        "ulak_fiil",
-        "yaracağım",
-        "zaman_sıfatı",
-        "zarf_fiil",
-        "zorunluluk_kipi",
-        "şart_kipi",
-        "şartlı_kipi",
-        "şimdiki_zaman"
-      ],
-      "total_examples": 109
-    },
-    {
-      "rank": 81,
-      "english": "expect",
-      "russian": "ожидать",
-      "turkish": "beklemek",
-      "folder": "expect",
       "tenses": [
         "emir_kipi",
         "farzî_geçmiş_zaman",
@@ -2429,34 +2271,6 @@
       "total_examples": 108
     },
     {
-      "rank": 86,
-      "english": "reach",
-      "russian": "достигать",
-      "turkish": "ulaşmak",
-      "folder": "reach",
-      "tenses": [
-        "emir_kipi",
-        "farzî_geçmiş_zaman",
-        "gelecek_zaman",
-        "geniş_zaman",
-        "gereklilik_kipi",
-        "geçmiş_gelecek_zaman",
-        "geçmiş_zaman",
-        "imkan_kipi",
-        "istek_kipi",
-        "sıfat_fiil",
-        "ulak_fiil",
-        "yaracağım",
-        "zaman_sıfatı",
-        "zarf_fiil",
-        "zorunluluk_kipi",
-        "şart_kipi",
-        "şartlı_kipi",
-        "şimdiki_zaman"
-      ],
-      "total_examples": 109
-    },
-    {
       "rank": 87,
       "english": "kill",
       "russian": "убивать",
@@ -2513,34 +2327,6 @@
       "total_examples": 107
     },
     {
-      "rank": 89,
-      "english": "suggest",
-      "russian": "предлагать",
-      "turkish": "önermek",
-      "folder": "suggest",
-      "tenses": [
-        "emir_kipi",
-        "farzî_geçmiş_zaman",
-        "gelecek_zaman",
-        "geniş_zaman",
-        "gereklilik_kipi",
-        "geçmiş_gelecek_zaman",
-        "geçmiş_zaman",
-        "imkan_kipi",
-        "istek_kipi",
-        "sıfat_fiil",
-        "ulak_fiil",
-        "yaracağım",
-        "zaman_sıfatı",
-        "zarf_fiil",
-        "zorunluluk_kipi",
-        "şart_kipi",
-        "şartlı_kipi",
-        "şimdiki_zaman"
-      ],
-      "total_examples": 112
-    },
-    {
       "rank": 90,
       "english": "raise (lift)",
       "russian": "поднимать",
@@ -2567,34 +2353,6 @@
         "şimdiki_zaman"
       ],
       "total_examples": 108
-    },
-    {
-      "rank": 91,
-      "english": "pass",
-      "russian": "проходить",
-      "turkish": "geçmek",
-      "folder": "pass",
-      "tenses": [
-        "emir_kipi",
-        "farzî_geçmiş_zaman",
-        "gelecek_zaman",
-        "geniş_zaman",
-        "gereklilik_kipi",
-        "geçmiş_gelecek_zaman",
-        "geçmiş_zaman",
-        "imkan_kipi",
-        "istek_kipi",
-        "sıfat_fiil",
-        "ulak_fiil",
-        "yaracağım",
-        "zaman_sıfatı",
-        "zarf_fiil",
-        "zorunluluk_kipi",
-        "şart_kipi",
-        "şartlı_kipi",
-        "şimdiki_zaman"
-      ],
-      "total_examples": 106
     },
     {
       "rank": 92,
@@ -2761,7 +2519,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 99
+      "total_examples": 101
     },
     {
       "rank": 98,
@@ -2855,15 +2613,23 @@
       "folder": "carry",
       "tenses": [
         "emir_kipi",
+        "farzî_geçmiş_zaman",
         "gelecek_zaman",
         "geniş_zaman",
+        "gereklilik_kipi",
+        "geçmiş_gelecek_zaman",
         "geçmiş_zaman",
+        "imkan_kipi",
         "istek_kipi",
+        "sıfat_fiil",
         "yaracağım",
+        "zaman_sıfatı",
+        "zarf_fiil",
+        "zorunluluk_kipi",
         "şart_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 64
+      "total_examples": 100
     },
     {
       "rank": 102,
@@ -2874,9 +2640,11 @@
       "tenses": [
         "emir_kipi",
         "farzî_geçmiş_zaman",
+        "gelecek_zaman",
         "geniş_zaman",
         "gereklilik_kipi",
         "geçmiş_gelecek_zaman",
+        "geçmiş_zaman",
         "imkan_kipi",
         "istek_kipi",
         "sıfat_fiil",
@@ -2885,9 +2653,10 @@
         "zarf_fiil",
         "zorunluluk_kipi",
         "şart_kipi",
-        "şartlı_kipi"
+        "şartlı_kipi",
+        "şimdiki_zaman"
       ],
-      "total_examples": 57
+      "total_examples": 100
     },
     {
       "rank": 103,
@@ -3254,19 +3023,29 @@
     },
     {
       "rank": 116,
-      "english": "serve (food)",
+      "english": "serve",
       "russian": "подавать",
       "turkish": "servis yapmak",
       "folder": "serve_(food)",
       "tenses": [
+        "emir_kipi",
+        "farzî_geçmiş_zaman",
         "gelecek_zaman",
         "geniş_zaman",
+        "gereklilik_kipi",
+        "geçmiş_gelecek_zaman",
         "geçmiş_zaman",
+        "imkan_kipi",
         "istek_kipi",
+        "sıfat_fiil",
         "yaracağım",
+        "zaman_sıfatı",
+        "zarf_fiil",
+        "zorunluluk_kipi",
+        "şart_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 55
+      "total_examples": 99
     }
   ]
 }

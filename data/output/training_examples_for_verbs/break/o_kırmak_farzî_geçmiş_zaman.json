@@ -4,17 +4,17 @@
   "verb_russian": "ломать",
   "verb_infinitive": "kırmak",
   "turkish_verb": {
-    "verb_full": "kırmış olsa",
+    "verb_full": "kırmış",
     "root": "kır",
-    "tense_affix": "mış olsa",
+    "tense_affix": "mış",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If the small child had accidentally broken his old toy, he would be very sad.",
-  "russian_example_sentence": "Если бы маленький ребенок случайно сломал свою старую игрушку, он был бы очень грустным.",
-  "turkish_example_sentence": "Küçük çocuk, yanlışlıkla eski oyuncağını kırmış olsa, çok üzülürdü.",
-  "turkish_example_sentence_with_blank": "Küçük çocuk, yanlışlıkla eski oyuncağını ______, çok üzülürdü."
+  "english_example_sentence": "He has broken the beautiful vase.",
+  "russian_example_sentence": "Он сломал красивую вазу.",
+  "turkish_example_sentence": "O güzel vazoyu kırmış.",
+  "turkish_example_sentence_with_blank": "O güzel vazoyu ______."
 }

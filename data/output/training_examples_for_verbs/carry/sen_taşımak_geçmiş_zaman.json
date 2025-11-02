@@ -4,17 +4,17 @@
   "verb_russian": "нести",
   "verb_infinitive": "taşımak",
   "turkish_verb": {
-    "verb_full": "taşıdın",
+    "verb_full": "taşımadın",
     "root": "taşı",
     "tense_affix": "dı",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "n",
-    "polarity": "positive",
-    "negative_affix": null
+    "polarity": "negative",
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "You carried this heavy bag alone.",
-  "russian_example_sentence": "Ты нес эту тяжелую сумку один.",
-  "turkish_example_sentence": "Sen bu ağır çantayı tek başına taşıdın.",
-  "turkish_example_sentence_with_blank": "Sen bu ağır çantayı tek başına ______."
+  "english_example_sentence": "You didn't carry the heavy box yesterday.",
+  "russian_example_sentence": "Ты не носил тяжелую коробку вчера.",
+  "turkish_example_sentence": "Sen dün ağır kutuyu taşımadın.",
+  "turkish_example_sentence_with_blank": "Sen dün ağır kutuyu ______."
 }

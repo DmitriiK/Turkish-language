@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "almıyoruz",
     "root": "al",
-    "tense_affix": "yor",
+    "tense_affix": "ıyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "uz",
     "polarity": "negative",
-    "negative_affix": "mı"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "We are not getting good news from our friends.",
-  "russian_example_sentence": "Мы не получаем хороших новостей от наших друзей.",
-  "turkish_example_sentence": "Arkadaşlardan iyi haber almıyoruz.",
-  "turkish_example_sentence_with_blank": "Arkadaşlardan iyi haber ______."
+  "english_example_sentence": "We are not getting a new car.",
+  "russian_example_sentence": "Мы не получаем новую машину.",
+  "turkish_example_sentence": "Biz yeni bir araba **almıyoruz**.",
+  "turkish_example_sentence_with_blank": "Biz yeni bir araba **______**."
 }

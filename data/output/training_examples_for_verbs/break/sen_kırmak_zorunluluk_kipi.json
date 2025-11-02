@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "kırmalısın",
     "root": "kır",
-    "tense_affix": "malı",
+    "tense_affix": "mal",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "sın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You must break this old record in a competition.",
-  "russian_example_sentence": "Ты должен побить этот старый рекорд на соревновании.",
-  "turkish_example_sentence": "Sen, bu eski rekoru bir yarışmada kırmalısın.",
-  "turkish_example_sentence_with_blank": "Sen, bu eski rekoru bir yarışmada ______."
+  "english_example_sentence": "You must break the old rules.",
+  "russian_example_sentence": "Ты должен сломать старые правила.",
+  "turkish_example_sentence": "Sen eski kuralları **kırmalısın**.",
+  "turkish_example_sentence_with_blank": "Sen eski kuralları **______**."
 }
