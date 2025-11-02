@@ -15,6 +15,11 @@ const App: React.FC = () => {
   const [languageLevel, setLanguageLevel] = useState<LanguageLevel>('All');
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+  const [trackAnsweredCards, setTrackAnsweredCards] = useState<boolean>(() => {
+    // Load from localStorage on init
+    const saved = localStorage.getItem('trackAnsweredCards');
+    return saved !== null ? JSON.parse(saved) : false; // Default to false (unchecked)
+  });
   
   // Navigation state
   const [currentVerb, setCurrentVerb] = useState('be');
@@ -33,13 +38,41 @@ const App: React.FC = () => {
     fullSentence: false
   });
   
-  const [userProgress, setUserProgress] = useState<UserProgress>({
-    correctAnswers: 0,
-    totalAttempts: 0,
-    currentStreak: 0,
-    bestStreak: 0,
-    completedExamples: new Set<string>()
+  const [userProgress, setUserProgress] = useState<UserProgress>(() => {
+    // Load from localStorage on init
+    const saved = localStorage.getItem('userProgress');
+    if (saved) {
+      const parsed = JSON.parse(saved);
+      // Convert array back to Set
+      return {
+        ...parsed,
+        completedExamples: new Set(parsed.completedExamples || [])
+      };
+    }
+    return {
+      correctAnswers: 0,
+      totalAttempts: 0,
+      currentStreak: 0,
+      bestStreak: 0,
+      completedExamples: new Set<string>()
+    };
   });
+
+  // Save userProgress to localStorage whenever it changes
+  useEffect(() => {
+    if (trackAnsweredCards) {
+      const toSave = {
+        ...userProgress,
+        completedExamples: Array.from(userProgress.completedExamples)
+      };
+      localStorage.setItem('userProgress', JSON.stringify(toSave));
+    }
+  }, [userProgress, trackAnsweredCards]);
+
+  // Save trackAnsweredCards preference to localStorage
+  useEffect(() => {
+    localStorage.setItem('trackAnsweredCards', JSON.stringify(trackAnsweredCards));
+  }, [trackAnsweredCards]);
 
   // Load current example
   const loadCurrentExample = async () => {
@@ -206,8 +239,8 @@ const App: React.FC = () => {
   const handleProgress = (newProgress: ProgressState, wasManualInput: boolean = false) => {
     setProgress(newProgress);
     
-    // Update user progress only when the full sentence is completed manually
-    if (newProgress.fullSentence && !progress.fullSentence && wasManualInput && currentExample) {
+    // Update user progress only when the full sentence is completed manually AND tracking is enabled
+    if (newProgress.fullSentence && !progress.fullSentence && wasManualInput && currentExample && trackAnsweredCards) {
       // Create a unique key for this example
       const exampleKey = `${currentExample.verb_english}-${currentExample.turkish_verb.personal_pronoun}-${currentExample.turkish_verb.verb_tense}-${currentExample.turkish_verb.polarity}`;
       
@@ -330,6 +363,8 @@ const App: React.FC = () => {
             isAnswered={userProgress.completedExamples.has(
               `${currentExample.verb_english}-${currentExample.turkish_verb.personal_pronoun}-${currentExample.turkish_verb.verb_tense}-${currentExample.turkish_verb.polarity}`
             )}
+            trackAnsweredCards={trackAnsweredCards}
+            onTrackingChange={setTrackAnsweredCards}
             onLevelChange={handleLevelChange}
             onNextTense={handleNextTense}
             onNextPronoun={handleNextPronoun}

@@ -41,6 +41,8 @@ interface LearningCardProps {
   languageLevel?: string; // Optional language level filter
   correctAnswers: number; // Correct answers counter
   isAnswered: boolean; // Whether this example has been answered correctly
+  trackAnsweredCards: boolean; // Whether to track answered cards
+  onTrackingChange: (enabled: boolean) => void; // Handler for tracking toggle
   onLevelChange: (level: LanguageLevel) => void; // Language level change handler
   onNextTense: () => void;
   onNextPronoun: () => void;
@@ -68,6 +70,8 @@ export const LearningCard: React.FC<LearningCardProps> = ({
   languageLevel,
   correctAnswers,
   isAnswered,
+  trackAnsweredCards,
+  onTrackingChange,
   onLevelChange,
   onNextTense,
   onNextPronoun,
@@ -743,7 +747,10 @@ export const LearningCard: React.FC<LearningCardProps> = ({
           </div>
         </div>
         
-        <div className="text-center mb-6 p-4 bg-gray-50 rounded-lg">
+        <div className={clsx(
+          "text-center mb-6 p-4 rounded-lg transition-colors",
+          isAnswered ? "bg-green-50" : "bg-gray-50"
+        )}>
           <div className="text-lg font-semibold text-gray-700 mb-2">
             {source.verb}
           </div>
@@ -801,6 +808,24 @@ export const LearningCard: React.FC<LearningCardProps> = ({
             {isAnswered ? 'Answered' : 'Not Answered'}
           </span>
           
+          {/* Track Answered Cards Checkbox */}
+          <div className="flex items-center gap-2">
+            <input
+              type="checkbox"
+              id="track-answered"
+              checked={trackAnsweredCards}
+              onChange={(e) => onTrackingChange(e.target.checked)}
+              className="w-4 h-4 text-primary-600 border-gray-300 rounded focus:ring-2 focus:ring-primary-500 cursor-pointer"
+            />
+            <label 
+              htmlFor="track-answered" 
+              className="text-sm text-gray-600 cursor-pointer select-none"
+              title="Track which cards you've answered correctly"
+            >
+              Track Progress on your local machine
+            </label>
+          </div>
+
           {/* Correct Answers Counter */}
           <div 
             className="bg-green-50 border-2 border-green-500 rounded-lg px-3 py-1"
