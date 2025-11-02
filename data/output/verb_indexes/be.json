@@ -625,6 +625,12 @@
     },
     {
       "tense": "şimdiki_zaman",
+      "pronoun": "none",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/be/none_olmak_şimdiki_zaman.json"
+    },
+    {
+      "tense": "şimdiki_zaman",
       "pronoun": "o",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/be/o_olmak_şimdiki_zaman.json"
