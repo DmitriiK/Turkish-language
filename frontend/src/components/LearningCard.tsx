@@ -120,6 +120,19 @@ export const LearningCard: React.FC<LearningCardProps> = ({
     setInputState('neutral');
   }, [example]);
 
+  // Handle direction changes - update input based on Reveal Answer state
+  useEffect(() => {
+    if (progress.fullSentence) {
+      // If Reveal Answer is checked, show the appropriate translation
+      setUserInput(buildTextFromProgress(progress));
+    } else {
+      // If Reveal Answer is not checked, clear the textbox
+      setUserInput('');
+    }
+    // Reset input state to neutral on direction change
+    setInputState('neutral');
+  }, [direction]);
+
   // Get current cursor position in the contenteditable div
   const getCursorPosition = (): number => {
     if (!editableRef.current) return 0;
