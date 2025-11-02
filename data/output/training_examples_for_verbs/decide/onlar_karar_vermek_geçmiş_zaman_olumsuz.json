@@ -1,11 +1,11 @@
 {
   "verb_rank": 95,
-  "verb_english": "to decide",
+  "verb_english": "decide",
   "verb_russian": "решать",
   "verb_infinitive": "karar vermek",
   "turkish_verb": {
     "verb_full": "karar vermediler",
-    "root": "ver",
+    "root": "karar ver",
     "tense_affix": "di",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "onlar",
@@ -13,8 +13,8 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "The students did not decide on an important matter.",
-  "russian_example_sentence": "Студенты не приняли решение по важному вопросу.",
-  "turkish_example_sentence": "Öğrenciler önemli bir konuda karar vermediler.",
-  "turkish_example_sentence_with_blank": "Öğrenciler önemli bir konuda ______."
+  "english_example_sentence": "They did not decide to go.",
+  "russian_example_sentence": "Они не решили идти.",
+  "turkish_example_sentence": "Öğrenciler bu konuda karar vermediler.",
+  "turkish_example_sentence_with_blank": "Öğrenciler bu konuda ______."
 }

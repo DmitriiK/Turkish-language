@@ -1,20 +1,20 @@
 {
   "verb_rank": 95,
-  "verb_english": "to decide",
+  "verb_english": "decide",
   "verb_russian": "решать",
   "verb_infinitive": "karar vermek",
   "turkish_verb": {
-    "verb_full": "karar versen",
+    "verb_full": "karar verirsin",
     "root": "karar ver",
-    "tense_affix": "se",
+    "tense_affix": "ir",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you decide carefully, the result of the work will be better.",
-  "russian_example_sentence": "Если ты примешь решение осторожно, результат работы будет лучше.",
-  "turkish_example_sentence": "Sen dikkatli karar versen, işin sonucu daha iyi olur.",
-  "turkish_example_sentence_with_blank": "Sen dikkatli ______, işin sonucu daha iyi olur."
+  "english_example_sentence": "You will decide this important matter.",
+  "russian_example_sentence": "Ты решишь этот важный вопрос.",
+  "turkish_example_sentence": "Sen bu önemli konuya karar verirsin.",
+  "turkish_example_sentence_with_blank": "Sen bu önemli konuya ______."
 }

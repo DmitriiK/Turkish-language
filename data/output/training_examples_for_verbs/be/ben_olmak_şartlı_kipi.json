@@ -1,20 +1,20 @@
 {
   "verb_rank": 1,
-  "verb_english": "to be",
+  "verb_english": "be",
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olsam",
+    "verb_full": "olursam",
     "root": "ol",
-    "tense_affix": "sa",
+    "tense_affix": "ur",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I were in that situation.",
-  "russian_example_sentence": "Если бы я был в этой ситуации.",
-  "turkish_example_sentence": "Eğer ben o durumda olsam.",
-  "turkish_example_sentence_with_blank": "Eğer ben o durumda ______."
+  "english_example_sentence": "If I am happy, I will smile.",
+  "russian_example_sentence": "Если я счастлив, я буду улыбаться.",
+  "turkish_example_sentence": "Eğer ben mutlu olursam, gülümseyeceğim.",
+  "turkish_example_sentence_with_blank": "Eğer ben mutlu ______, gülümseyeceğim."
 }

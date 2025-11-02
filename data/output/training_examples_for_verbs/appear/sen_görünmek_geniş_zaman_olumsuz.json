@@ -1,20 +1,20 @@
 {
   "verb_rank": 75,
-  "verb_english": "to appear",
+  "verb_english": "appear",
   "verb_russian": "появляться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmezsin",
+    "verb_full": "görünmüyorsun",
     "root": "görün",
     "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "sin",
+    "personal_affix": "sun",
     "polarity": "negative",
-    "negative_affix": "mez"
+    "negative_affix": "mü"
   },
-  "english_example_sentence": "In this dark room, you don't appear like a shadow.",
-  "russian_example_sentence": "В этой тёмной комнате ты не кажешься тенью.",
-  "turkish_example_sentence": "Bu karanlık odada bir gölge gibi görünmezsin.",
-  "turkish_example_sentence_with_blank": "Bu karanlık odada bir gölge gibi ______."
+  "english_example_sentence": "You do not appear to be happy.",
+  "russian_example_sentence": "Ты не выглядишь счастливым.",
+  "turkish_example_sentence": "Ahmet bu sabah mutlu görünmüyorsun.",
+  "turkish_example_sentence_with_blank": "Ahmet bu sabah mutlu ______."
 }

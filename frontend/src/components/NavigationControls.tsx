@@ -45,7 +45,21 @@ export const NavigationControls: React.FC<NavigationControlsProps> = ({
   onGoToPronoun,
   onGoToPolarity
 }) => {
+  const [currentTenseLevel, setCurrentTenseLevel] = React.useState<string>('');
 
+  // Load the language level for the current tense
+  React.useEffect(() => {
+    const loadTenseLevel = async () => {
+      try {
+        const tenseLevelMapping = await dataLoader.loadTenseLevelMapping();
+        const level = tenseLevelMapping[currentTense] || '';
+        setCurrentTenseLevel(level);
+      } catch (error) {
+        console.error('Error loading tense level:', error);
+      }
+    };
+    loadTenseLevel();
+  }, [currentTense]);
 
   // Enhanced navigation handlers with circular wrapping
   // Navigate by rank (1, 2, 3...) instead of array position
@@ -165,7 +179,7 @@ export const NavigationControls: React.FC<NavigationControlsProps> = ({
 
         {/* Tense Navigation Control */}
         <NavigationTriple
-          label={currentTense.replace('_', ' ')}
+          label={currentTenseLevel ? `${currentTenseLevel}: ${currentTense.replace(/_/g, ' ')}` : currentTense.replace(/_/g, ' ')}
           onPrev={handlePrevTenseWithWrap}
           onNext={handleNextTenseWithWrap}
           onCenter={() => {}}
@@ -173,11 +187,30 @@ export const NavigationControls: React.FC<NavigationControlsProps> = ({
           searchable={false}
           loadDropdownItems={async () => {
             const tenses = await dataLoader.getAvailableTenses(currentVerb, languageLevel);
-            return tenses.map(tense => ({
-              label: tense.replace('_', ' '),
-              value: tense,
-              onSelect: () => onGoToTense(tense)
-            }));
+            
+            // Get language level for each tense and create items
+            const tenseLevelMapping = await dataLoader.loadTenseLevelMapping();
+            const tenseItems = tenses.map(tense => {
+              const level = tenseLevelMapping[tense] || '??';
+              return {
+                tense,
+                level,
+                label: `${level}: ${tense.replace(/_/g, ' ')}`,
+                value: tense,
+                onSelect: () => onGoToTense(tense)
+              };
+            });
+            
+            // Sort by language level (A1, A2, B1, B2, C1, C2) then by tense name
+            const levelOrder: { [key: string]: number } = {
+              'A1': 1, 'A2': 2, 'B1': 3, 'B2': 4, 'C1': 5, 'C2': 6
+            };
+            
+            return tenseItems.sort((a, b) => {
+              const levelDiff = (levelOrder[a.level] || 99) - (levelOrder[b.level] || 99);
+              if (levelDiff !== 0) return levelDiff;
+              return a.tense.localeCompare(b.tense);
+            });
           }}
         />
 

@@ -1,20 +1,20 @@
 {
   "verb_rank": 95,
-  "verb_english": "to decide",
+  "verb_english": "decide",
   "verb_russian": "решать",
   "verb_infinitive": "karar vermek",
   "turkish_verb": {
     "verb_full": "karar verdik",
-    "root": "ver",
+    "root": "karar ver",
     "tense_affix": "di",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "dik",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Our family decided on an important matter.",
-  "russian_example_sentence": "Наша семья приняла решение по важному вопросу.",
-  "turkish_example_sentence": "Ailemiz önemli bir konuda karar verdik.",
-  "turkish_example_sentence_with_blank": "Ailemiz önemli bir konuda ______."
+  "english_example_sentence": "We decided to go on a trip this summer.",
+  "russian_example_sentence": "Мы решили поехать в поездку этим летом.",
+  "turkish_example_sentence": "Bu yaz tatile gitmeye **karar verdik**.",
+  "turkish_example_sentence_with_blank": "Bu yaz tatile gitmeye **______**."
 }

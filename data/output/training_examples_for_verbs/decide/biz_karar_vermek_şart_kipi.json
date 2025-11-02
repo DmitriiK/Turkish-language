@@ -1,20 +1,20 @@
 {
   "verb_rank": 95,
-  "verb_english": "to decide",
+  "verb_english": "decide",
   "verb_russian": "решать",
   "verb_infinitive": "karar vermek",
   "turkish_verb": {
-    "verb_full": "karar versek",
+    "verb_full": "karar vereceğiz",
     "root": "karar ver",
-    "tense_affix": "se",
+    "tense_affix": "ecek",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we decide on this important matter, we will achieve great success.",
-  "russian_example_sentence": "Если мы решим этот важный вопрос, мы добьемся большого успеха.",
-  "turkish_example_sentence": "Bu önemli konuda karar versek, büyük başarı elde ederiz.",
-  "turkish_example_sentence_with_blank": "Bu önemli konuda ______, büyük başarı elde ederiz."
+  "english_example_sentence": "We will decide together.",
+  "russian_example_sentence": "Мы решим вместе.",
+  "turkish_example_sentence": "Biz önemli konularda birlikte karar vereceğiz.",
+  "turkish_example_sentence_with_blank": "Biz önemli konularda birlikte ______."
 }

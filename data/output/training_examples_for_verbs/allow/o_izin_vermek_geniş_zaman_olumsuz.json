@@ -1,20 +1,20 @@
 {
   "verb_rank": 64,
-  "verb_english": "to allow",
+  "verb_english": "allow",
   "verb_russian": "разрешать",
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
-    "verb_full": "izin vermez",
-    "root": "ver",
+    "verb_full": "izin vermiyor",
+    "root": "izin ver",
     "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "z",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "The teacher does not allow the naughty student.",
-  "russian_example_sentence": "Учитель не разрешает озорному ученику.",
-  "turkish_example_sentence": "Öğretmen yaramaz öğrenciye izin vermez.",
-  "turkish_example_sentence_with_blank": "Öğretmen yaramaz öğrenciye ______."
+  "english_example_sentence": "The teacher does not allow the students to talk.",
+  "russian_example_sentence": "Учитель не разрешает студентам говорить.",
+  "turkish_example_sentence": "Öğretmen, öğrencilerin konuşmasına izin vermiyor.",
+  "turkish_example_sentence_with_blank": "Öğretmen, öğrencilerin konuşmasına ______."
 }

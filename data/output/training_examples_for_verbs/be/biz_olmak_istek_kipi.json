@@ -1,20 +1,20 @@
 {
   "verb_rank": 1,
-  "verb_english": "to be",
+  "verb_english": "be",
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olalım",
+    "verb_full": "oluyoruz",
     "root": "ol",
-    "tense_affix": "alım",
+    "tense_affix": "uyor",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "ım",
+    "personal_affix": "uz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Let's be happy in this new house.",
-  "russian_example_sentence": "Давайте будем счастливы в этом новом доме.",
-  "turkish_example_sentence": "Yeni evde mutlu olalım.",
-  "turkish_example_sentence_with_blank": "Yeni evde mutlu ______."
+  "english_example_sentence": "We are happy and successful students.",
+  "russian_example_sentence": "Мы счастливые и успешные студенты.",
+  "turkish_example_sentence": "Biz mutlu ve başarılı öğrenciler oluyoruz.",
+  "turkish_example_sentence_with_blank": "Biz mutlu ve başarılı öğrenciler ______."
 }

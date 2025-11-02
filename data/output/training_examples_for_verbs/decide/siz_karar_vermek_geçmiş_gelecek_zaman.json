@@ -1,20 +1,20 @@
 {
   "verb_rank": 95,
-  "verb_english": "to decide",
+  "verb_english": "decide",
   "verb_russian": "решать",
   "verb_infinitive": "karar vermek",
   "turkish_verb": {
-    "verb_full": "karar verecektiniz",
-    "root": "ver",
-    "tense_affix": "ecekti",
+    "verb_full": "karar verdiniz",
+    "root": "karar ver",
+    "tense_affix": "di",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "iniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You were going to make a decision on this important matter at the meeting.",
-  "russian_example_sentence": "Вы должны были принять решение по этому важному вопросу на собрании.",
-  "turkish_example_sentence": "Siz bu önemli konuda toplantıda karar verecektiniz.",
-  "turkish_example_sentence_with_blank": "Siz bu önemli konuda toplantıda ______."
+  "english_example_sentence": "You decided to go on vacation.",
+  "russian_example_sentence": "Вы решили поехать в отпуск.",
+  "turkish_example_sentence": "Siz güzel bir tatil için karar verdiniz.",
+  "turkish_example_sentence_with_blank": "Siz güzel bir tatil için ______."
 }

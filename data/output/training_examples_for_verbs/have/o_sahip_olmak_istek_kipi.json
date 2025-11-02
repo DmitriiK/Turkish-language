@@ -1,20 +1,20 @@
 {
   "verb_rank": 2,
-  "verb_english": "to have",
+  "verb_english": "have",
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olsa",
+    "verb_full": "sahip oluyorum",
     "root": "sahip ol",
-    "tense_affix": "sa",
+    "tense_affix": "uyor",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "um",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The diligent student would have success.",
-  "russian_example_sentence": "Прилежный студент имел бы успех.",
-  "turkish_example_sentence": "Çalışkan öğrenci başarıya sahip olsa.",
-  "turkish_example_sentence_with_blank": "Çalışkan öğrenci başarıya ______."
+  "english_example_sentence": "I have a beautiful car.",
+  "russian_example_sentence": "У меня есть красивая машина.",
+  "turkish_example_sentence": "O güzel bir arabaya sahip oluyorum.",
+  "turkish_example_sentence_with_blank": "O güzel bir arabaya ______."
 }

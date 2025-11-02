@@ -1,20 +1,20 @@
 {
   "verb_rank": 65,
-  "verb_english": "to add",
+  "verb_english": "add",
   "verb_russian": "добавлять",
   "verb_infinitive": "eklemek",
   "turkish_verb": {
     "verb_full": "eklemeyecekler",
     "root": "ekle",
-    "tense_affix": "yecek",
+    "tense_affix": "yacak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "The new students will not add anything to the project.",
-  "russian_example_sentence": "Новые студенты ничего не добавят в проект.",
-  "turkish_example_sentence": "Yeni öğrenciler projeye hiçbir şey eklemeyecekler.",
-  "turkish_example_sentence_with_blank": "Yeni öğrenciler projeye hiçbir şey ______."
+  "english_example_sentence": "They will not add the new books.",
+  "russian_example_sentence": "Они не добавят новые книги.",
+  "turkish_example_sentence": "Öğrenciler yeni kitapları eklemeyecekler.",
+  "turkish_example_sentence_with_blank": "Öğrenciler yeni kitapları ______."
 }

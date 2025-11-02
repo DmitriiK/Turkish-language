@@ -1,20 +1,20 @@
 {
   "verb_rank": 2,
-  "verb_english": "to have",
+  "verb_english": "have",
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahipti",
+    "verb_full": "sahip oldu",
     "root": "sahip",
-    "tense_affix": "ti",
+    "tense_affix": "di",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "u",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The teacher had a new book.",
-  "russian_example_sentence": "Учитель имел новую книгу.",
-  "turkish_example_sentence": "Öğretmen yeni bir kitaba sahipti.",
-  "turkish_example_sentence_with_blank": "Öğretmen yeni bir kitaba ______."
+  "english_example_sentence": "He had a beautiful house.",
+  "russian_example_sentence": "У него был красивый дом.",
+  "turkish_example_sentence": "O güzel bir eve sahip oldu.",
+  "turkish_example_sentence_with_blank": "O güzel bir eve ______."
 }

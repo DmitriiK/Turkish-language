@@ -1,20 +1,20 @@
 {
   "verb_rank": 95,
-  "verb_english": "to decide",
+  "verb_english": "decide",
   "verb_russian": "решать",
   "verb_infinitive": "karar vermek",
   "turkish_verb": {
     "verb_full": "karar verdi",
-    "root": "ver",
+    "root": "karar vermek",
     "tense_affix": "di",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "i",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The young student made an important decision.",
-  "russian_example_sentence": "Молодой студент принял важное решение.",
-  "turkish_example_sentence": "Genç öğrenci, önemli bir karar verdi.",
-  "turkish_example_sentence_with_blank": "Genç öğrenci, önemli bir ______."
+  "english_example_sentence": "He decided to go to the party.",
+  "russian_example_sentence": "Он решил пойти на вечеринку.",
+  "turkish_example_sentence": "Ali, bu akşamki partiye gitmek için karar verdi.",
+  "turkish_example_sentence_with_blank": "Ali, bu akşamki partiye gitmek için ______."
 }

@@ -1,20 +1,20 @@
 {
   "verb_rank": 95,
-  "verb_english": "to decide",
+  "verb_english": "decide",
   "verb_russian": "решать",
   "verb_infinitive": "karar vermek",
   "turkish_verb": {
-    "verb_full": "karar verebiliriz",
-    "root": "ver",
-    "tense_affix": "ebilir",
+    "verb_full": "karar veriyoruz",
+    "root": "karar ver",
+    "tense_affix": "iyor",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iz",
+    "personal_affix": "uz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We can make an important decision today.",
-  "russian_example_sentence": "Мы можем принять важное решение сегодня.",
-  "turkish_example_sentence": "Biz bugün önemli bir karar verebiliriz.",
-  "turkish_example_sentence_with_blank": "Biz bugün önemli bir ______."
+  "english_example_sentence": "We are deciding on the best plan.",
+  "russian_example_sentence": "Мы принимаем решение о лучшем плане.",
+  "turkish_example_sentence": "Biz en iyi plan hakkında karar veriyoruz.",
+  "turkish_example_sentence_with_blank": "Biz en iyi plan hakkında ______."
 }

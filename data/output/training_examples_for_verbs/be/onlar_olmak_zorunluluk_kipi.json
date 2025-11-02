@@ -1,20 +1,20 @@
 {
   "verb_rank": 1,
-  "verb_english": "to be",
+  "verb_english": "be",
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmalıdırlar",
+    "verb_full": "olacaklar",
     "root": "ol",
-    "tense_affix": "malı",
+    "tense_affix": "acak",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "dırlar",
+    "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The students must be diligent.",
-  "russian_example_sentence": "Студенты должны быть прилежными.",
-  "turkish_example_sentence": "Öğrenciler daima dikkatli olmalıdırlar.",
-  "turkish_example_sentence_with_blank": "Öğrenciler daima dikkatli ______."
+  "english_example_sentence": "They will be happy next year.",
+  "russian_example_sentence": "Они будут счастливы в следующем году.",
+  "turkish_example_sentence": "Öğrenciler gelecek yıl mutlu olacaklar.",
+  "turkish_example_sentence_with_blank": "Öğrenciler gelecek yıl mutlu ______."
 }

@@ -1,20 +1,20 @@
 {
   "verb_rank": 65,
-  "verb_english": "to add",
+  "verb_english": "add",
   "verb_russian": "добавлять",
   "verb_infinitive": "eklemek",
   "turkish_verb": {
-    "verb_full": "eklemeliyiz",
+    "verb_full": "ekleyeceğiz",
     "root": "ekle",
-    "tense_affix": "meli",
+    "tense_affix": "yecek",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "yiz",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We must add a few important items to the new list.",
-  "russian_example_sentence": "Мы должны добавить несколько важных пунктов в новый список.",
-  "turkish_example_sentence": "Yeni listeye birkaç önemli madde eklemeliyiz.",
-  "turkish_example_sentence_with_blank": "Yeni listeye birkaç önemli madde ______."
+  "english_example_sentence": "We will add new features to the project.",
+  "russian_example_sentence": "Мы добавим новые функции в проект.",
+  "turkish_example_sentence": "Proje için yeni özellikler ekleyeceğiz.",
+  "turkish_example_sentence_with_blank": "Proje için yeni özellikler ______."
 }

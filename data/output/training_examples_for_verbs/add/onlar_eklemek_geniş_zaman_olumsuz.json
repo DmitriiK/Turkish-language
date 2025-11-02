@@ -1,20 +1,20 @@
 {
   "verb_rank": 65,
-  "verb_english": "to add",
+  "verb_english": "add",
   "verb_russian": "добавлять",
   "verb_infinitive": "eklemek",
   "turkish_verb": {
-    "verb_full": "eklemezler",
+    "verb_full": "eklemiyorlar",
     "root": "ekle",
-    "tense_affix": "z",
+    "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "ler",
+    "personal_affix": "lar",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "mi"
   },
-  "english_example_sentence": "New students do not add extra information to the lesson.",
-  "russian_example_sentence": "Новые студенты не добавляют дополнительную информацию к уроку.",
-  "turkish_example_sentence": "Yeni öğrenciler derse ek bilgi eklemezler.",
-  "turkish_example_sentence_with_blank": "Yeni öğrenciler derse ek bilgi ______."
+  "english_example_sentence": "They do not add the new rules.",
+  "russian_example_sentence": "Они не добавляют новые правила.",
+  "turkish_example_sentence": "Öğretmenler yeni kuralları eklemiyorlar.",
+  "turkish_example_sentence_with_blank": "Öğretmenler yeni kuralları ______."
 }

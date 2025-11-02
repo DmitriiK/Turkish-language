@@ -1,20 +1,20 @@
 {
   "verb_rank": 75,
-  "verb_english": "to appear",
+  "verb_english": "appear",
   "verb_russian": "появляться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünsen",
+    "verb_full": "görüneceksin",
     "root": "görün",
-    "tense_affix": "se",
+    "tense_affix": "ecek",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you appear very happy today, the whole family will rejoice.",
-  "russian_example_sentence": "Если ты сегодня будешь выглядеть очень счастливым, вся семья обрадуется.",
-  "turkish_example_sentence": "Bugün çok mutlu görünsen, tüm aile sevinir.",
-  "turkish_example_sentence_with_blank": "Bugün çok mutlu ______, tüm aile sevinir."
+  "english_example_sentence": "You will appear happy at the event.",
+  "russian_example_sentence": "Ты появишься счастливым на мероприятии.",
+  "turkish_example_sentence": "Etkinlikte mutlu görüneceksin.",
+  "turkish_example_sentence_with_blank": "Etkinlikte mutlu ______."
 }

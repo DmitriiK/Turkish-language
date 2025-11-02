@@ -1,20 +1,20 @@
 {
   "verb_rank": 1,
-  "verb_english": "to be",
+  "verb_english": "be",
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmuşsun",
+    "verb_full": "oldun",
     "root": "ol",
-    "tense_affix": "muş",
+    "tense_affix": "du",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "sun",
+    "personal_affix": "un",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You might have been a teacher.",
-  "russian_example_sentence": "Ты мог бы быть учителем.",
-  "turkish_example_sentence": "Sen iyi bir öğretmen olmuşsun.",
-  "turkish_example_sentence_with_blank": "Sen iyi bir öğretmen ______."
+  "english_example_sentence": "You were happy last year.",
+  "russian_example_sentence": "Ты был счастлив в прошлом году.",
+  "turkish_example_sentence": "Sen geçen yıl mutlu oldun.",
+  "turkish_example_sentence_with_blank": "Sen geçen yıl mutlu ______."
 }

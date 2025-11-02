@@ -1,20 +1,20 @@
 {
   "verb_rank": 1,
-  "verb_english": "to be",
+  "verb_english": "be",
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olsa",
+    "verb_full": "olacak",
     "root": "ol",
-    "tense_affix": "sa",
+    "tense_affix": "acak",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "acak",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The weather would be pleasant tomorrow.",
-  "russian_example_sentence": "Погода была бы приятной завтра.",
-  "turkish_example_sentence": "Hava yarın hoş olsa.",
-  "turkish_example_sentence_with_blank": "Hava yarın hoş ______."
+  "english_example_sentence": "The teacher will be happy next week.",
+  "russian_example_sentence": "Учитель будет счастлив на следующей неделе.",
+  "turkish_example_sentence": "Öğretmen gelecek hafta mutlu olacak.",
+  "turkish_example_sentence_with_blank": "Öğretmen gelecek hafta mutlu ______."
 }

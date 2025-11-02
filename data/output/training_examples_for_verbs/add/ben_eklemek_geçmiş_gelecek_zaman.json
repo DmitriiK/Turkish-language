@@ -1,20 +1,20 @@
 {
   "verb_rank": 65,
-  "verb_english": "to add",
+  "verb_english": "add",
   "verb_russian": "добавлять",
   "verb_infinitive": "eklemek",
   "turkish_verb": {
-    "verb_full": "ekleyecektim",
+    "verb_full": "ekleyeceğim",
     "root": "ekle",
-    "tense_affix": "yecekti",
+    "tense_affix": "yecek",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I was going to add a new feature to the project.",
-  "russian_example_sentence": "Я собирался добавить новую функцию в проект.",
-  "turkish_example_sentence": "Ben projeye yeni bir özellik ekleyecektim.",
-  "turkish_example_sentence_with_blank": "Ben projeye yeni bir özellik ______."
+  "english_example_sentence": "I will add the new book.",
+  "russian_example_sentence": "Я добавлю новую книгу.",
+  "turkish_example_sentence": "Ben yeni kitabı ekleyeceğim.",
+  "turkish_example_sentence_with_blank": "Ben yeni kitabı ______."
 }

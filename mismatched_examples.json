@@ -1,0 +1,1731 @@
+[
+  {
+    "verb_english": "allow",
+    "tense": "zaman_sıfatı",
+    "pronoun": "sen",
+    "polarity": "positive",
+    "file": "sen_izin_vermek_zaman_sıfatı.json"
+  },
+  {
+    "verb_english": "allow",
+    "tense": "şart_kipi",
+    "pronoun": "sen",
+    "polarity": "positive",
+    "file": "sen_izin_vermek_şart_kipi.json"
+  },
+  {
+    "verb_english": "allow",
+    "tense": "geniş_zaman",
+    "pronoun": "siz",
+    "polarity": "negative",
+    "file": "siz_izin_vermek_geniş_zaman_olumsuz.json"
+  },
+  {
+    "verb_english": "allow",
+    "tense": "şimdiki_zaman",
+    "pronoun": "siz",
+    "polarity": "negative",
+    "file": "siz_izin_vermek_şimdiki_zaman_olumsuz.json"
+  },
+  {
+    "verb_english": "appear",
+    "tense": "geniş_zaman",
+    "pronoun": "sen",
+    "polarity": "positive",
+    "file": "sen_görünmek_geniş_zaman.json"
+  },
+  {
+    "verb_english": "appear",
+    "tense": "geçmiş_gelecek_zaman",
+    "pronoun": "sen",
+    "polarity": "positive",
+    "file": "sen_görünmek_geçmiş_gelecek_zaman.json"
+  },
+  {
+    "verb_english": "appear",
+    "tense": "şimdiki_zaman",
+    "pronoun": "sen",
+    "polarity": "positive",
+    "file": "sen_görünmek_şimdiki_zaman.json"
+  },
+  {
+    "verb_english": "appear",
+    "tense": "imkan_kipi",
+    "pronoun": "siz",
+    "polarity": "positive",
+    "file": "siz_görünmek_imkan_kipi.json"
+  },
+  {
+    "verb_english": "be",
+    "tense": "gelecek_zaman",
+    "pronoun": "ben",
+    "polarity": "negative",
+    "file": "ben_olmak_gelecek_zaman_olumsuz.json"
+  },
+  {
+    "verb_english": "be",
+    "tense": "geniş_zaman",
+    "pronoun": "biz",
+    "polarity": "negative",
+    "file": "biz_olmak_geniş_zaman_olumsuz.json"
+  },
+  {
+    "verb_english": "be",
+    "tense": "geçmiş_zaman",
+    "pronoun": "biz",
+    "polarity": "positive",
+    "file": "biz_olmak_geçmiş_zaman.json"
+  },
+  {
+    "verb_english": "be",
+    "tense": "yaracağım",
+    "pronoun": "biz",
+    "polarity": "positive",
+    "file": "biz_olmak_yaracağım.json"
+  },
+  {
+    "verb_english": "be",
+    "tense": "zaman_sıfatı",
+    "pronoun": "biz",
+    "polarity": "positive",
+    "file": "biz_olmak_zaman_sıfatı.json"
+  },
+  {
+    "verb_english": "be",
+    "tense": "geçmiş_zaman",
+    "pronoun": "o",
+    "polarity": "positive",
+    "file": "o_olmak_geçmiş_zaman.json"
+  },
+  {
+    "verb_english": "be",
+    "tense": "zaman_sıfatı",
+    "pronoun": "o",
+    "polarity": "positive",
+    "file": "o_olmak_zaman_sıfatı.json"
+  },
+  {
+    "verb_english": "be",
+    "tense": "şimdiki_zaman",
+    "pronoun": "o",
+    "polarity": "positive",
+    "file": "o_olmak_şimdiki_zaman.json"
+  },
+  {
+    "verb_english": "be",
+    "tense": "istek_kipi",
+    "pronoun": "onlar",
+    "polarity": "positive",
+    "file": "onlar_olmak_istek_kipi.json"
+  },
+  {
+    "verb_english": "be",
+    "tense": "zaman_sıfatı",
+    "pronoun": "onlar",
+    "polarity": "positive",
+    "file": "onlar_olmak_zaman_sıfatı.json"
+  },
+  {
+    "verb_english": "be",
+    "tense": "şimdiki_zaman",
+    "pronoun": "onlar",
+    "polarity": "positive",
+    "file": "onlar_olmak_şimdiki_zaman.json"
+  },
+  {
+    "verb_english": "be",
+    "tense": "şimdiki_zaman",
+    "pronoun": "onlar",
+    "polarity": "negative",
+    "file": "onlar_olmak_şimdiki_zaman_olumsuz.json"
+  },
+  {
+    "verb_english": "be",
+    "tense": "zaman_sıfatı",
+    "pronoun": "sen",
+    "polarity": "positive",
+    "file": "sen_olmak_zaman_sıfatı.json"
+  },
+  {
+    "verb_english": "be",
+    "tense": "imkan_kipi",
+    "pronoun": "siz",
+    "polarity": "positive",
+    "file": "siz_olmak_imkan_kipi.json"
+  },
+  {
+    "verb_english": "be",
+    "tense": "zaman_sıfatı",
+    "pronoun": "siz",
+    "polarity": "positive",
+    "file": "siz_olmak_zaman_sıfatı.json"
+  },
+  {
+    "verb_english": "be",
+    "tense": "şimdiki_zaman",
+    "pronoun": "siz",
+    "polarity": "positive",
+    "file": "siz_olmak_şimdiki_zaman.json"
+  },
+  {
+    "verb_english": "begin",
+    "tense": "farzî_geçmiş_zaman",
+    "pronoun": "onlar",
+    "polarity": "positive",
+    "file": "onlar_başlamak_farzî_geçmiş_zaman.json"
+  },
+  {
+    "verb_english": "begin",
+    "tense": "şart_kipi",
+    "pronoun": "onlar",
+    "polarity": "positive",
+    "file": "onlar_başlamak_şart_kipi.json"
+  },
+  {
+    "verb_english": "believe",
+    "tense": "zaman_sıfatı",
+    "pronoun": "ben",
+    "polarity": "positive",
+    "file": "ben_inanmak_zaman_sıfatı.json"
+  },
+  {
+    "verb_english": "believe",
+    "tense": "emir_kipi",
+    "pronoun": "sen",
+    "polarity": "positive",
+    "file": "sen_inanmak_emir_kipi.json"
+  },
+  {
+    "verb_english": "believe",
+    "tense": "geniş_zaman",
+    "pronoun": "sen",
+    "polarity": "positive",
+    "file": "sen_inanmak_geniş_zaman.json"
+  },
+  {
+    "verb_english": "believe",
+    "tense": "geçmiş_gelecek_zaman",
+    "pronoun": "sen",
+    "polarity": "positive",
+    "file": "sen_inanmak_geçmiş_gelecek_zaman.json"
+  },
+  {
+    "verb_english": "break",
+    "tense": "ulak_fiil",
+    "pronoun": null,
+    "polarity": "positive",
+    "file": "none_kırmak_ulak_fiil.json"
+  },
+  {
+    "verb_english": "build",
+    "tense": "şart_kipi",
+    "pronoun": "o",
+    "polarity": "positive",
+    "file": "o_inşa_etmek_şart_kipi.json"
+  },
+  {
+    "verb_english": "carry",
+    "tense": "geçmiş_zaman",
+    "pronoun": "sen",
+    "polarity": "negative",
+    "file": "sen_taşımak_geçmiş_zaman_olumsuz.json"
+  },
+  {
+    "verb_english": "change",
+    "tense": "şart_kipi",
+    "pronoun": "onlar",
+    "polarity": "positive",
+    "file": "onlar_değiştirmek_şart_kipi.json"
+  },
+  {
+    "verb_english": "change",
+    "tense": "istek_kipi",
+    "pronoun": "sen",
+    "polarity": "positive",
+    "file": "sen_değiştirmek_istek_kipi.json"
+  },
+  {
+    "verb_english": "consider",
+    "tense": "geçmiş_zaman",
+    "pronoun": "biz",
+    "polarity": "positive",
+    "file": "biz_düşünmek_geçmiş_zaman.json"
+  },
+  {
+    "verb_english": "continue",
+    "tense": "imkan_kipi",
+    "pronoun": "biz",
+    "polarity": "positive",
+    "file": "biz_devam_etmek_imkan_kipi.json"
+  },
+  {
+    "verb_english": "continue",
+    "tense": "zaman_sıfatı",
+    "pronoun": "siz",
+    "polarity": "positive",
+    "file": "siz_devam_etmek_zaman_sıfatı.json"
+  },
+  {
+    "verb_english": "create",
+    "tense": "gelecek_zaman",
+    "pronoun": "biz",
+    "polarity": "negative",
+    "file": "biz_yaratmak_gelecek_zaman_olumsuz.json"
+  },
+  {
+    "verb_english": "create",
+    "tense": "zaman_sıfatı",
+    "pronoun": "sen",
+    "polarity": "positive",
+    "file": "sen_yaratmak_zaman_sıfatı.json"
+  },
+  {
+    "verb_english": "cut",
+    "tense": "gelecek_zaman",
+    "pronoun": "biz",
+    "polarity": "positive",
+    "file": "biz_kesmek_gelecek_zaman.json"
+  },
+  {
+    "verb_english": "decide",
+    "tense": "geniş_zaman",
+    "pronoun": "ben",
+    "polarity": "positive",
+    "file": "ben_karar_vermek_geniş_zaman.json"
+  },
+  {
+    "verb_english": "decide",
+    "tense": "imkan_kipi",
+    "pronoun": "ben",
+    "polarity": "positive",
+    "file": "ben_karar_vermek_imkan_kipi.json"
+  },
+  {
+    "verb_english": "decide",
+    "tense": "şart_kipi",
+    "pronoun": "ben",
+    "polarity": "positive",
+    "file": "ben_karar_vermek_şart_kipi.json"
+  },
+  {
+    "verb_english": "decide",
+    "tense": "zaman_sıfatı",
+    "pronoun": "biz",
+    "polarity": "positive",
+    "file": "biz_karar_vermek_zaman_sıfatı.json"
+  },
+  {
+    "verb_english": "decide",
+    "tense": "gereklilik_kipi",
+    "pronoun": null,
+    "polarity": "positive",
+    "file": "none_karar_vermek_gereklilik_kipi.json"
+  },
+  {
+    "verb_english": "decide",
+    "tense": "geniş_zaman",
+    "pronoun": "o",
+    "polarity": "positive",
+    "file": "o_karar_vermek_geniş_zaman.json"
+  },
+  {
+    "verb_english": "decide",
+    "tense": "zaman_sıfatı",
+    "pronoun": "o",
+    "polarity": "positive",
+    "file": "o_karar_vermek_zaman_sıfatı.json"
+  },
+  {
+    "verb_english": "decide",
+    "tense": "imkan_kipi",
+    "pronoun": "onlar",
+    "polarity": "positive",
+    "file": "onlar_karar_vermek_imkan_kipi.json"
+  },
+  {
+    "verb_english": "decide",
+    "tense": "zaman_sıfatı",
+    "pronoun": "onlar",
+    "polarity": "positive",
+    "file": "onlar_karar_vermek_zaman_sıfatı.json"
+  },
+  {
+    "verb_english": "decide",
+    "tense": "farzî_geçmiş_zaman",
+    "pronoun": "sen",
+    "polarity": "positive",
+    "file": "sen_karar_vermek_farzî_geçmiş_zaman.json"
+  },
+  {
+    "verb_english": "decide",
+    "tense": "geniş_zaman",
+    "pronoun": "sen",
+    "polarity": "positive",
+    "file": "sen_karar_vermek_geniş_zaman.json"
+  },
+  {
+    "verb_english": "decide",
+    "tense": "istek_kipi",
+    "pronoun": "sen",
+    "polarity": "positive",
+    "file": "sen_karar_vermek_istek_kipi.json"
+  },
+  {
+    "verb_english": "decide",
+    "tense": "şimdiki_zaman",
+    "pronoun": "sen",
+    "polarity": "positive",
+    "file": "sen_karar_vermek_şimdiki_zaman.json"
+  },
+  {
+    "verb_english": "decide",
+    "tense": "geniş_zaman",
+    "pronoun": "siz",
+    "polarity": "positive",
+    "file": "siz_karar_vermek_geniş_zaman.json"
+  },
+  {
+    "verb_english": "decide",
+    "tense": "zaman_sıfatı",
+    "pronoun": "siz",
+    "polarity": "positive",
+    "file": "siz_karar_vermek_zaman_sıfatı.json"
+  },
+  {
+    "verb_english": "develop",
+    "tense": "şart_kipi",
+    "pronoun": "onlar",
+    "polarity": "positive",
+    "file": "onlar_geliştirmek_şart_kipi.json"
+  },
+  {
+    "verb_english": "die",
+    "tense": "şimdiki_zaman",
+    "pronoun": "sen",
+    "polarity": "positive",
+    "file": "sen_ölmek_şimdiki_zaman.json"
+  },
+  {
+    "verb_english": "do",
+    "tense": "geçmiş_gelecek_zaman",
+    "pronoun": "ben",
+    "polarity": "positive",
+    "file": "ben_yapmak_geçmiş_gelecek_zaman.json"
+  },
+  {
+    "verb_english": "do",
+    "tense": "zaman_sıfatı",
+    "pronoun": "biz",
+    "polarity": "positive",
+    "file": "biz_yapmak_zaman_sıfatı.json"
+  },
+  {
+    "verb_english": "do",
+    "tense": "şart_kipi",
+    "pronoun": "biz",
+    "polarity": "positive",
+    "file": "biz_yapmak_şart_kipi.json"
+  },
+  {
+    "verb_english": "do",
+    "tense": "şimdiki_zaman",
+    "pronoun": "o",
+    "polarity": "negative",
+    "file": "o_yapmak_şimdiki_zaman_olumsuz.json"
+  },
+  {
+    "verb_english": "do",
+    "tense": "farzî_geçmiş_zaman",
+    "pronoun": "onlar",
+    "polarity": "positive",
+    "file": "onlar_yapmak_farzî_geçmiş_zaman.json"
+  },
+  {
+    "verb_english": "do",
+    "tense": "geçmiş_gelecek_zaman",
+    "pronoun": "sen",
+    "polarity": "positive",
+    "file": "sen_yapmak_geçmiş_gelecek_zaman.json"
+  },
+  {
+    "verb_english": "draw",
+    "tense": "zaman_sıfatı",
+    "pronoun": "o",
+    "polarity": "positive",
+    "file": "o_çizmek_zaman_sıfatı.json"
+  },
+  {
+    "verb_english": "expect",
+    "tense": "geniş_zaman",
+    "pronoun": "biz",
+    "polarity": "negative",
+    "file": "biz_beklemek_geniş_zaman_olumsuz.json"
+  },
+  {
+    "verb_english": "explain",
+    "tense": "şimdiki_zaman",
+    "pronoun": "biz",
+    "polarity": "negative",
+    "file": "biz_açıklamak_şimdiki_zaman_olumsuz.json"
+  },
+  {
+    "verb_english": "explain",
+    "tense": "geçmiş_zaman",
+    "pronoun": "onlar",
+    "polarity": "positive",
+    "file": "onlar_açıklamak_geçmiş_zaman.json"
+  },
+  {
+    "verb_english": "give",
+    "tense": "zorunluluk_kipi",
+    "pronoun": "sen",
+    "polarity": "positive",
+    "file": "sen_vermek_zorunluluk_kipi.json"
+  },
+  {
+    "verb_english": "grow",
+    "tense": "geçmiş_gelecek_zaman",
+    "pronoun": "ben",
+    "polarity": "positive",
+    "file": "ben_büyümek_geçmiş_gelecek_zaman.json"
+  },
+  {
+    "verb_english": "grow",
+    "tense": "zaman_sıfatı",
+    "pronoun": "ben",
+    "polarity": "positive",
+    "file": "ben_büyümek_zaman_sıfatı.json"
+  },
+  {
+    "verb_english": "grow",
+    "tense": "şimdiki_zaman",
+    "pronoun": "ben",
+    "polarity": "positive",
+    "file": "ben_büyümek_şimdiki_zaman.json"
+  },
+  {
+    "verb_english": "grow",
+    "tense": "şartlı_kipi",
+    "pronoun": "biz",
+    "polarity": "positive",
+    "file": "biz_büyümek_şartlı_kipi.json"
+  },
+  {
+    "verb_english": "grow",
+    "tense": "şimdiki_zaman",
+    "pronoun": "siz",
+    "polarity": "positive",
+    "file": "siz_büyümek_şimdiki_zaman.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "geniş_zaman",
+    "pronoun": "ben",
+    "polarity": "positive",
+    "file": "ben_sahip_olmak_geniş_zaman.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "geniş_zaman",
+    "pronoun": "ben",
+    "polarity": "negative",
+    "file": "ben_sahip_olmak_geniş_zaman_olumsuz.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "geçmiş_zaman",
+    "pronoun": "ben",
+    "polarity": "positive",
+    "file": "ben_sahip_olmak_geçmiş_zaman.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "imkan_kipi",
+    "pronoun": "ben",
+    "polarity": "positive",
+    "file": "ben_sahip_olmak_imkan_kipi.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "zorunluluk_kipi",
+    "pronoun": "ben",
+    "polarity": "positive",
+    "file": "ben_sahip_olmak_zorunluluk_kipi.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "şart_kipi",
+    "pronoun": "ben",
+    "polarity": "positive",
+    "file": "ben_sahip_olmak_şart_kipi.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "şimdiki_zaman",
+    "pronoun": "ben",
+    "polarity": "negative",
+    "file": "ben_sahip_olmak_şimdiki_zaman_olumsuz.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "farzî_geçmiş_zaman",
+    "pronoun": "biz",
+    "polarity": "positive",
+    "file": "biz_sahip_olmak_farzî_geçmiş_zaman.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "geniş_zaman",
+    "pronoun": "biz",
+    "polarity": "positive",
+    "file": "biz_sahip_olmak_geniş_zaman.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "geniş_zaman",
+    "pronoun": "biz",
+    "polarity": "negative",
+    "file": "biz_sahip_olmak_geniş_zaman_olumsuz.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "geçmiş_zaman",
+    "pronoun": "biz",
+    "polarity": "negative",
+    "file": "biz_sahip_olmak_geçmiş_zaman_olumsuz.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "imkan_kipi",
+    "pronoun": "biz",
+    "polarity": "positive",
+    "file": "biz_sahip_olmak_imkan_kipi.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "istek_kipi",
+    "pronoun": "biz",
+    "polarity": "positive",
+    "file": "biz_sahip_olmak_istek_kipi.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "zorunluluk_kipi",
+    "pronoun": "biz",
+    "polarity": "positive",
+    "file": "biz_sahip_olmak_zorunluluk_kipi.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "şart_kipi",
+    "pronoun": "biz",
+    "polarity": "positive",
+    "file": "biz_sahip_olmak_şart_kipi.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "şimdiki_zaman",
+    "pronoun": "biz",
+    "polarity": "positive",
+    "file": "biz_sahip_olmak_şimdiki_zaman.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "geniş_zaman",
+    "pronoun": "o",
+    "polarity": "positive",
+    "file": "o_sahip_olmak_geniş_zaman.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "geniş_zaman",
+    "pronoun": "o",
+    "polarity": "negative",
+    "file": "o_sahip_olmak_geniş_zaman_olumsuz.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "geçmiş_gelecek_zaman",
+    "pronoun": "o",
+    "polarity": "positive",
+    "file": "o_sahip_olmak_geçmiş_gelecek_zaman.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "geçmiş_zaman",
+    "pronoun": "o",
+    "polarity": "negative",
+    "file": "o_sahip_olmak_geçmiş_zaman_olumsuz.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "zaman_sıfatı",
+    "pronoun": "o",
+    "polarity": "positive",
+    "file": "o_sahip_olmak_zaman_sıfatı.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "zorunluluk_kipi",
+    "pronoun": "o",
+    "polarity": "positive",
+    "file": "o_sahip_olmak_zorunluluk_kipi.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "şart_kipi",
+    "pronoun": "o",
+    "polarity": "positive",
+    "file": "o_sahip_olmak_şart_kipi.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "şartlı_kipi",
+    "pronoun": "o",
+    "polarity": "positive",
+    "file": "o_sahip_olmak_şartlı_kipi.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "gelecek_zaman",
+    "pronoun": "onlar",
+    "polarity": "positive",
+    "file": "onlar_sahip_olmak_gelecek_zaman.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "geniş_zaman",
+    "pronoun": "onlar",
+    "polarity": "positive",
+    "file": "onlar_sahip_olmak_geniş_zaman.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "geniş_zaman",
+    "pronoun": "onlar",
+    "polarity": "negative",
+    "file": "onlar_sahip_olmak_geniş_zaman_olumsuz.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "imkan_kipi",
+    "pronoun": "onlar",
+    "polarity": "positive",
+    "file": "onlar_sahip_olmak_imkan_kipi.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "zaman_sıfatı",
+    "pronoun": "onlar",
+    "polarity": "positive",
+    "file": "onlar_sahip_olmak_zaman_sıfatı.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "şart_kipi",
+    "pronoun": "onlar",
+    "polarity": "positive",
+    "file": "onlar_sahip_olmak_şart_kipi.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "şartlı_kipi",
+    "pronoun": "onlar",
+    "polarity": "positive",
+    "file": "onlar_sahip_olmak_şartlı_kipi.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "gelecek_zaman",
+    "pronoun": "sen",
+    "polarity": "positive",
+    "file": "sen_sahip_olmak_gelecek_zaman.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "geniş_zaman",
+    "pronoun": "sen",
+    "polarity": "negative",
+    "file": "sen_sahip_olmak_geniş_zaman_olumsuz.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "geçmiş_gelecek_zaman",
+    "pronoun": "sen",
+    "polarity": "positive",
+    "file": "sen_sahip_olmak_geçmiş_gelecek_zaman.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "geçmiş_zaman",
+    "pronoun": "sen",
+    "polarity": "positive",
+    "file": "sen_sahip_olmak_geçmiş_zaman.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "geçmiş_zaman",
+    "pronoun": "sen",
+    "polarity": "negative",
+    "file": "sen_sahip_olmak_geçmiş_zaman_olumsuz.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "imkan_kipi",
+    "pronoun": "sen",
+    "polarity": "positive",
+    "file": "sen_sahip_olmak_imkan_kipi.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "istek_kipi",
+    "pronoun": "sen",
+    "polarity": "positive",
+    "file": "sen_sahip_olmak_istek_kipi.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "zorunluluk_kipi",
+    "pronoun": "sen",
+    "polarity": "positive",
+    "file": "sen_sahip_olmak_zorunluluk_kipi.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "şart_kipi",
+    "pronoun": "sen",
+    "polarity": "positive",
+    "file": "sen_sahip_olmak_şart_kipi.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "şartlı_kipi",
+    "pronoun": "sen",
+    "polarity": "positive",
+    "file": "sen_sahip_olmak_şartlı_kipi.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "şimdiki_zaman",
+    "pronoun": "sen",
+    "polarity": "negative",
+    "file": "sen_sahip_olmak_şimdiki_zaman_olumsuz.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "farzî_geçmiş_zaman",
+    "pronoun": "siz",
+    "polarity": "positive",
+    "file": "siz_sahip_olmak_farzî_geçmiş_zaman.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "geniş_zaman",
+    "pronoun": "siz",
+    "polarity": "positive",
+    "file": "siz_sahip_olmak_geniş_zaman.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "geniş_zaman",
+    "pronoun": "siz",
+    "polarity": "negative",
+    "file": "siz_sahip_olmak_geniş_zaman_olumsuz.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "geçmiş_gelecek_zaman",
+    "pronoun": "siz",
+    "polarity": "positive",
+    "file": "siz_sahip_olmak_geçmiş_gelecek_zaman.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "geçmiş_zaman",
+    "pronoun": "siz",
+    "polarity": "positive",
+    "file": "siz_sahip_olmak_geçmiş_zaman.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "geçmiş_zaman",
+    "pronoun": "siz",
+    "polarity": "negative",
+    "file": "siz_sahip_olmak_geçmiş_zaman_olumsuz.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "zaman_sıfatı",
+    "pronoun": "siz",
+    "polarity": "positive",
+    "file": "siz_sahip_olmak_zaman_sıfatı.json"
+  },
+  {
+    "verb_english": "have",
+    "tense": "şart_kipi",
+    "pronoun": "siz",
+    "polarity": "positive",
+    "file": "siz_sahip_olmak_şart_kipi.json"
+  },
+  {
+    "verb_english": "hear",
+    "tense": "zaman_sıfatı",
+    "pronoun": "siz",
+    "polarity": "positive",
+    "file": "siz_duymak_zaman_sıfatı.json"
+  },
+  {
+    "verb_english": "help",
+    "tense": "zaman_sıfatı",
+    "pronoun": "siz",
+    "polarity": "positive",
+    "file": "siz_yardım_etmek_zaman_sıfatı.json"
+  },
+  {
+    "verb_english": "hope",
+    "tense": "şart_kipi",
+    "pronoun": "onlar",
+    "polarity": "positive",
+    "file": "onlar_ummak_şart_kipi.json"
+  },
+  {
+    "verb_english": "hope",
+    "tense": "şartlı_kipi",
+    "pronoun": "onlar",
+    "polarity": "positive",
+    "file": "onlar_ummak_şartlı_kipi.json"
+  },
+  {
+    "verb_english": "hope",
+    "tense": "şart_kipi",
+    "pronoun": "siz",
+    "polarity": "positive",
+    "file": "siz_ummak_şart_kipi.json"
+  },
+  {
+    "verb_english": "hope",
+    "tense": "şartlı_kipi",
+    "pronoun": "siz",
+    "polarity": "positive",
+    "file": "siz_ummak_şartlı_kipi.json"
+  },
+  {
+    "verb_english": "include",
+    "tense": "şimdiki_zaman",
+    "pronoun": "ben",
+    "polarity": "negative",
+    "file": "ben_içermek_şimdiki_zaman_olumsuz.json"
+  },
+  {
+    "verb_english": "include",
+    "tense": "şimdiki_zaman",
+    "pronoun": "biz",
+    "polarity": "negative",
+    "file": "biz_içermek_şimdiki_zaman_olumsuz.json"
+  },
+  {
+    "verb_english": "include",
+    "tense": "yaracağım",
+    "pronoun": "onlar",
+    "polarity": "positive",
+    "file": "onlar_içermek_yaracağım.json"
+  },
+  {
+    "verb_english": "include",
+    "tense": "şartlı_kipi",
+    "pronoun": "siz",
+    "polarity": "positive",
+    "file": "siz_içermek_şartlı_kipi.json"
+  },
+  {
+    "verb_english": "keep",
+    "tense": "zaman_sıfatı",
+    "pronoun": "ben",
+    "polarity": "positive",
+    "file": "ben_tutmak_zaman_sıfatı.json"
+  },
+  {
+    "verb_english": "keep",
+    "tense": "şimdiki_zaman",
+    "pronoun": "ben",
+    "polarity": "negative",
+    "file": "ben_tutmak_şimdiki_zaman_olumsuz.json"
+  },
+  {
+    "verb_english": "keep",
+    "tense": "geçmiş_gelecek_zaman",
+    "pronoun": "biz",
+    "polarity": "positive",
+    "file": "biz_tutmak_geçmiş_gelecek_zaman.json"
+  },
+  {
+    "verb_english": "lead",
+    "tense": "imkan_kipi",
+    "pronoun": "biz",
+    "polarity": "positive",
+    "file": "biz_öncülük_etmek_imkan_kipi.json"
+  },
+  {
+    "verb_english": "let (allow)",
+    "tense": "geçmiş_gelecek_zaman",
+    "pronoun": "onlar",
+    "polarity": "positive",
+    "file": "onlar_izin_vermek_geçmiş_gelecek_zaman.json"
+  },
+  {
+    "verb_english": "let (allow)",
+    "tense": "zaman_sıfatı",
+    "pronoun": "sen",
+    "polarity": "positive",
+    "file": "sen_izin_vermek_zaman_sıfatı.json"
+  },
+  {
+    "verb_english": "like",
+    "tense": "şartlı_kipi",
+    "pronoun": "sen",
+    "polarity": "positive",
+    "file": "sen_sevmek_şartlı_kipi.json"
+  },
+  {
+    "verb_english": "live",
+    "tense": "gelecek_zaman",
+    "pronoun": "biz",
+    "polarity": "positive",
+    "file": "biz_yaşamak_gelecek_zaman.json"
+  },
+  {
+    "verb_english": "live",
+    "tense": "zaman_sıfatı",
+    "pronoun": "siz",
+    "polarity": "positive",
+    "file": "siz_yaşamak_zaman_sıfatı.json"
+  },
+  {
+    "verb_english": "love",
+    "tense": "gelecek_zaman",
+    "pronoun": "o",
+    "polarity": "positive",
+    "file": "o_sevmek_gelecek_zaman.json"
+  },
+  {
+    "verb_english": "love",
+    "tense": "şimdiki_zaman",
+    "pronoun": "o",
+    "polarity": "positive",
+    "file": "o_sevmek_şimdiki_zaman.json"
+  },
+  {
+    "verb_english": "make",
+    "tense": "gereklilik_kipi",
+    "pronoun": null,
+    "polarity": "positive",
+    "file": "none_yapmak_gereklilik_kipi.json"
+  },
+  {
+    "verb_english": "make",
+    "tense": "zaman_sıfatı",
+    "pronoun": "sen",
+    "polarity": "positive",
+    "file": "sen_yapmak_zaman_sıfatı.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "geniş_zaman",
+    "pronoun": "ben",
+    "polarity": "negative",
+    "file": "ben_anlamına_gelmek_geniş_zaman_olumsuz.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "geçmiş_gelecek_zaman",
+    "pronoun": "ben",
+    "polarity": "positive",
+    "file": "ben_anlamına_gelmek_geçmiş_gelecek_zaman.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "imkan_kipi",
+    "pronoun": "ben",
+    "polarity": "positive",
+    "file": "ben_anlamına_gelmek_imkan_kipi.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "istek_kipi",
+    "pronoun": "ben",
+    "polarity": "positive",
+    "file": "ben_anlamına_gelmek_istek_kipi.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "farzî_geçmiş_zaman",
+    "pronoun": "ben",
+    "polarity": "positive",
+    "file": "ben_demek_farzî_geçmiş_zaman.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "şimdiki_zaman",
+    "pronoun": "ben",
+    "polarity": "negative",
+    "file": "ben_demek_şimdiki_zaman_olumsuz.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "gelecek_zaman",
+    "pronoun": "biz",
+    "polarity": "positive",
+    "file": "biz_anlamına_gelmek_gelecek_zaman.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "geniş_zaman",
+    "pronoun": "biz",
+    "polarity": "positive",
+    "file": "biz_anlamına_gelmek_geniş_zaman.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "imkan_kipi",
+    "pronoun": "biz",
+    "polarity": "positive",
+    "file": "biz_anlamına_gelmek_imkan_kipi.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "geniş_zaman",
+    "pronoun": "biz",
+    "polarity": "negative",
+    "file": "biz_demek_geniş_zaman_olumsuz.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "şimdiki_zaman",
+    "pronoun": "biz",
+    "polarity": "negative",
+    "file": "biz_demek_şimdiki_zaman_olumsuz.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "emir_kipi",
+    "pronoun": null,
+    "polarity": "positive",
+    "file": "none_anlamına_gelmek_emir_kipi.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "emir_kipi",
+    "pronoun": "o",
+    "polarity": "positive",
+    "file": "o_anlamına_gelmek_emir_kipi.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "farzî_geçmiş_zaman",
+    "pronoun": "o",
+    "polarity": "positive",
+    "file": "o_anlamına_gelmek_farzî_geçmiş_zaman.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "gelecek_zaman",
+    "pronoun": "o",
+    "polarity": "positive",
+    "file": "o_anlamına_gelmek_gelecek_zaman.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "gelecek_zaman",
+    "pronoun": "o",
+    "polarity": "negative",
+    "file": "o_anlamına_gelmek_gelecek_zaman_olumsuz.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "geniş_zaman",
+    "pronoun": "o",
+    "polarity": "positive",
+    "file": "o_anlamına_gelmek_geniş_zaman.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "geniş_zaman",
+    "pronoun": "o",
+    "polarity": "negative",
+    "file": "o_anlamına_gelmek_geniş_zaman_olumsuz.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "geçmiş_gelecek_zaman",
+    "pronoun": "o",
+    "polarity": "positive",
+    "file": "o_anlamına_gelmek_geçmiş_gelecek_zaman.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "imkan_kipi",
+    "pronoun": "o",
+    "polarity": "positive",
+    "file": "o_anlamına_gelmek_imkan_kipi.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "istek_kipi",
+    "pronoun": "o",
+    "polarity": "positive",
+    "file": "o_anlamına_gelmek_istek_kipi.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "zorunluluk_kipi",
+    "pronoun": "o",
+    "polarity": "positive",
+    "file": "o_anlamına_gelmek_zorunluluk_kipi.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "şart_kipi",
+    "pronoun": "o",
+    "polarity": "positive",
+    "file": "o_anlamına_gelmek_şart_kipi.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "şartlı_kipi",
+    "pronoun": "o",
+    "polarity": "positive",
+    "file": "o_anlamına_gelmek_şartlı_kipi.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "geniş_zaman",
+    "pronoun": "o",
+    "polarity": "negative",
+    "file": "o_demek_geniş_zaman_olumsuz.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "geçmiş_zaman",
+    "pronoun": "o",
+    "polarity": "positive",
+    "file": "o_demek_geçmiş_zaman.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "zaman_sıfatı",
+    "pronoun": "o",
+    "polarity": "positive",
+    "file": "o_demek_zaman_sıfatı.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "farzî_geçmiş_zaman",
+    "pronoun": "onlar",
+    "polarity": "positive",
+    "file": "onlar_anlamına_gelmek_farzî_geçmiş_zaman.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "gelecek_zaman",
+    "pronoun": "onlar",
+    "polarity": "positive",
+    "file": "onlar_anlamına_gelmek_gelecek_zaman.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "geniş_zaman",
+    "pronoun": "onlar",
+    "polarity": "positive",
+    "file": "onlar_anlamına_gelmek_geniş_zaman.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "imkan_kipi",
+    "pronoun": "onlar",
+    "polarity": "positive",
+    "file": "onlar_anlamına_gelmek_imkan_kipi.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "zaman_sıfatı",
+    "pronoun": "onlar",
+    "polarity": "positive",
+    "file": "onlar_anlamına_gelmek_zaman_sıfatı.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "zorunluluk_kipi",
+    "pronoun": "onlar",
+    "polarity": "positive",
+    "file": "onlar_anlamına_gelmek_zorunluluk_kipi.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "şart_kipi",
+    "pronoun": "onlar",
+    "polarity": "positive",
+    "file": "onlar_anlamına_gelmek_şart_kipi.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "şartlı_kipi",
+    "pronoun": "onlar",
+    "polarity": "positive",
+    "file": "onlar_anlamına_gelmek_şartlı_kipi.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "geniş_zaman",
+    "pronoun": "sen",
+    "polarity": "negative",
+    "file": "sen_anlamına_gelmek_geniş_zaman_olumsuz.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "geçmiş_gelecek_zaman",
+    "pronoun": "sen",
+    "polarity": "positive",
+    "file": "sen_anlamına_gelmek_geçmiş_gelecek_zaman.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "geçmiş_zaman",
+    "pronoun": "sen",
+    "polarity": "positive",
+    "file": "sen_anlamına_gelmek_geçmiş_zaman.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "geçmiş_zaman",
+    "pronoun": "sen",
+    "polarity": "negative",
+    "file": "sen_anlamına_gelmek_geçmiş_zaman_olumsuz.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "imkan_kipi",
+    "pronoun": "sen",
+    "polarity": "positive",
+    "file": "sen_anlamına_gelmek_imkan_kipi.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "istek_kipi",
+    "pronoun": "sen",
+    "polarity": "positive",
+    "file": "sen_anlamına_gelmek_istek_kipi.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "şartlı_kipi",
+    "pronoun": "sen",
+    "polarity": "positive",
+    "file": "sen_anlamına_gelmek_şartlı_kipi.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "farzî_geçmiş_zaman",
+    "pronoun": "siz",
+    "polarity": "positive",
+    "file": "siz_anlamına_gelmek_farzî_geçmiş_zaman.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "geniş_zaman",
+    "pronoun": "siz",
+    "polarity": "positive",
+    "file": "siz_anlamına_gelmek_geniş_zaman.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "geniş_zaman",
+    "pronoun": "siz",
+    "polarity": "negative",
+    "file": "siz_anlamına_gelmek_geniş_zaman_olumsuz.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "geçmiş_zaman",
+    "pronoun": "siz",
+    "polarity": "positive",
+    "file": "siz_anlamına_gelmek_geçmiş_zaman.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "imkan_kipi",
+    "pronoun": "siz",
+    "polarity": "positive",
+    "file": "siz_anlamına_gelmek_imkan_kipi.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "istek_kipi",
+    "pronoun": "siz",
+    "polarity": "positive",
+    "file": "siz_anlamına_gelmek_istek_kipi.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "zorunluluk_kipi",
+    "pronoun": "siz",
+    "polarity": "positive",
+    "file": "siz_anlamına_gelmek_zorunluluk_kipi.json"
+  },
+  {
+    "verb_english": "mean",
+    "tense": "şart_kipi",
+    "pronoun": "siz",
+    "polarity": "positive",
+    "file": "siz_anlamına_gelmek_şart_kipi.json"
+  },
+  {
+    "verb_english": "move",
+    "tense": "gelecek_zaman",
+    "pronoun": "o",
+    "polarity": "negative",
+    "file": "o_hareket_etmek_gelecek_zaman_olumsuz.json"
+  },
+  {
+    "verb_english": "move",
+    "tense": "geçmiş_zaman",
+    "pronoun": "sen",
+    "polarity": "negative",
+    "file": "sen_hareket_etmek_geçmiş_zaman_olumsuz.json"
+  },
+  {
+    "verb_english": "need",
+    "tense": "geniş_zaman",
+    "pronoun": "ben",
+    "polarity": "negative",
+    "file": "ben_ihtiyaç_duymak_geniş_zaman_olumsuz.json"
+  },
+  {
+    "verb_english": "need",
+    "tense": "şart_kipi",
+    "pronoun": "o",
+    "polarity": "positive",
+    "file": "o_ihtiyaç_duymak_şart_kipi.json"
+  },
+  {
+    "verb_english": "need",
+    "tense": "zaman_sıfatı",
+    "pronoun": "sen",
+    "polarity": "positive",
+    "file": "sen_ihtiyaç_duymak_zaman_sıfatı.json"
+  },
+  {
+    "verb_english": "need",
+    "tense": "şartlı_kipi",
+    "pronoun": "sen",
+    "polarity": "positive",
+    "file": "sen_ihtiyaç_duymak_şartlı_kipi.json"
+  },
+  {
+    "verb_english": "offer",
+    "tense": "farzî_geçmiş_zaman",
+    "pronoun": "ben",
+    "polarity": "positive",
+    "file": "ben_teklif_etmek_farzî_geçmiş_zaman.json"
+  },
+  {
+    "verb_english": "offer",
+    "tense": "gelecek_zaman",
+    "pronoun": "ben",
+    "polarity": "negative",
+    "file": "ben_teklif_etmek_gelecek_zaman_olumsuz.json"
+  },
+  {
+    "verb_english": "offer",
+    "tense": "geniş_zaman",
+    "pronoun": "biz",
+    "polarity": "positive",
+    "file": "biz_teklif_etmek_geniş_zaman.json"
+  },
+  {
+    "verb_english": "offer",
+    "tense": "gelecek_zaman",
+    "pronoun": "onlar",
+    "polarity": "positive",
+    "file": "onlar_teklif_etmek_gelecek_zaman.json"
+  },
+  {
+    "verb_english": "offer",
+    "tense": "yaracağım",
+    "pronoun": "siz",
+    "polarity": "positive",
+    "file": "siz_teklif_etmek_yaracağım.json"
+  },
+  {
+    "verb_english": "produce",
+    "tense": "gelecek_zaman",
+    "pronoun": "biz",
+    "polarity": "positive",
+    "file": "biz_üretmek_gelecek_zaman.json"
+  },
+  {
+    "verb_english": "provide",
+    "tense": "gelecek_zaman",
+    "pronoun": "ben",
+    "polarity": "negative",
+    "file": "ben_sağlamak_gelecek_zaman_olumsuz.json"
+  },
+  {
+    "verb_english": "provide",
+    "tense": "geçmiş_gelecek_zaman",
+    "pronoun": "biz",
+    "polarity": "positive",
+    "file": "biz_sağlamak_geçmiş_gelecek_zaman.json"
+  },
+  {
+    "verb_english": "pull",
+    "tense": "zaman_sıfatı",
+    "pronoun": "ben",
+    "polarity": "positive",
+    "file": "ben_çekmek_zaman_sıfatı.json"
+  },
+  {
+    "verb_english": "pull",
+    "tense": "sıfat_fiil",
+    "pronoun": null,
+    "polarity": "positive",
+    "file": "none_çekmek_sıfat_fiil.json"
+  },
+  {
+    "verb_english": "pull",
+    "tense": "şimdiki_zaman",
+    "pronoun": null,
+    "polarity": "positive",
+    "file": "none_çekmek_şimdiki_zaman.json"
+  },
+  {
+    "verb_english": "pull",
+    "tense": "farzî_geçmiş_zaman",
+    "pronoun": "sen",
+    "polarity": "positive",
+    "file": "sen_çekmek_farzî_geçmiş_zaman.json"
+  },
+  {
+    "verb_english": "raise (lift)",
+    "tense": "şart_kipi",
+    "pronoun": "o",
+    "polarity": "positive",
+    "file": "o_kaldırmak_şart_kipi.json"
+  },
+  {
+    "verb_english": "reach",
+    "tense": "ulak_fiil",
+    "pronoun": null,
+    "polarity": "positive",
+    "file": "none_ulaşmak_ulak_fiil.json"
+  },
+  {
+    "verb_english": "reach",
+    "tense": "gereklilik_kipi",
+    "pronoun": "o",
+    "polarity": "positive",
+    "file": "o_ulaşmak_gereklilik_kipi.json"
+  },
+  {
+    "verb_english": "read",
+    "tense": "gelecek_zaman",
+    "pronoun": "biz",
+    "polarity": "positive",
+    "file": "biz_okumak_gelecek_zaman.json"
+  },
+  {
+    "verb_english": "remain",
+    "tense": "yaracağım",
+    "pronoun": "sen",
+    "polarity": "positive",
+    "file": "sen_kalmak_yaracağım.json"
+  },
+  {
+    "verb_english": "remember",
+    "tense": "gelecek_zaman",
+    "pronoun": "sen",
+    "polarity": "positive",
+    "file": "sen_hatırlamak_gelecek_zaman.json"
+  },
+  {
+    "verb_english": "return",
+    "tense": "istek_kipi",
+    "pronoun": "ben",
+    "polarity": "positive",
+    "file": "ben_dönmek_istek_kipi.json"
+  },
+  {
+    "verb_english": "return",
+    "tense": "gereklilik_kipi",
+    "pronoun": null,
+    "polarity": "positive",
+    "file": "none_dönmek_gereklilik_kipi.json"
+  },
+  {
+    "verb_english": "return",
+    "tense": "geniş_zaman",
+    "pronoun": "o",
+    "polarity": "positive",
+    "file": "o_dönmek_geniş_zaman.json"
+  },
+  {
+    "verb_english": "return",
+    "tense": "geçmiş_zaman",
+    "pronoun": "onlar",
+    "polarity": "positive",
+    "file": "onlar_dönmek_geçmiş_zaman.json"
+  },
+  {
+    "verb_english": "return",
+    "tense": "istek_kipi",
+    "pronoun": "onlar",
+    "polarity": "positive",
+    "file": "onlar_dönmek_istek_kipi.json"
+  },
+  {
+    "verb_english": "return",
+    "tense": "şart_kipi",
+    "pronoun": "sen",
+    "polarity": "positive",
+    "file": "sen_dönmek_şart_kipi.json"
+  },
+  {
+    "verb_english": "say",
+    "tense": "gereklilik_kipi",
+    "pronoun": null,
+    "polarity": "positive",
+    "file": "none_söylemek_gereklilik_kipi.json"
+  },
+  {
+    "verb_english": "say",
+    "tense": "ulak_fiil",
+    "pronoun": "o",
+    "polarity": "positive",
+    "file": "o_söylemek_ulak_fiil.json"
+  },
+  {
+    "verb_english": "say",
+    "tense": "zaman_sıfatı",
+    "pronoun": "onlar",
+    "polarity": "positive",
+    "file": "onlar_söylemek_zaman_sıfatı.json"
+  },
+  {
+    "verb_english": "say",
+    "tense": "şimdiki_zaman",
+    "pronoun": "onlar",
+    "polarity": "negative",
+    "file": "onlar_söylemek_şimdiki_zaman_olumsuz.json"
+  },
+  {
+    "verb_english": "say",
+    "tense": "zaman_sıfatı",
+    "pronoun": "siz",
+    "polarity": "positive",
+    "file": "siz_söylemek_zaman_sıfatı.json"
+  },
+  {
+    "verb_english": "seem",
+    "tense": "geçmiş_gelecek_zaman",
+    "pronoun": "biz",
+    "polarity": "positive",
+    "file": "biz_görünmek_geçmiş_gelecek_zaman.json"
+  },
+  {
+    "verb_english": "seem",
+    "tense": "imkan_kipi",
+    "pronoun": "biz",
+    "polarity": "positive",
+    "file": "biz_görünmek_imkan_kipi.json"
+  },
+  {
+    "verb_english": "send",
+    "tense": "zaman_sıfatı",
+    "pronoun": "onlar",
+    "polarity": "positive",
+    "file": "onlar_göndermek_zaman_sıfatı.json"
+  },
+  {
+    "verb_english": "serve",
+    "tense": "farzî_geçmiş_zaman",
+    "pronoun": "biz",
+    "polarity": "positive",
+    "file": "biz_hizmet_etmek_farzî_geçmiş_zaman.json"
+  },
+  {
+    "verb_english": "serve",
+    "tense": "geniş_zaman",
+    "pronoun": "sen",
+    "polarity": "negative",
+    "file": "sen_hizmet_etmek_geniş_zaman_olumsuz.json"
+  },
+  {
+    "verb_english": "set (put, place)",
+    "tense": "şart_kipi",
+    "pronoun": "biz",
+    "polarity": "positive",
+    "file": "biz_koymak_şart_kipi.json"
+  },
+  {
+    "verb_english": "set (put, place)",
+    "tense": "şartlı_kipi",
+    "pronoun": "sen",
+    "polarity": "positive",
+    "file": "sen_koymak_şartlı_kipi.json"
+  },
+  {
+    "verb_english": "sit",
+    "tense": "zaman_sıfatı",
+    "pronoun": "onlar",
+    "polarity": "positive",
+    "file": "onlar_oturmak_zaman_sıfatı.json"
+  },
+  {
+    "verb_english": "sit",
+    "tense": "gelecek_zaman",
+    "pronoun": "siz",
+    "polarity": "positive",
+    "file": "siz_oturmak_gelecek_zaman.json"
+  },
+  {
+    "verb_english": "stay",
+    "tense": "şimdiki_zaman",
+    "pronoun": "siz",
+    "polarity": "positive",
+    "file": "siz_kalmak_şimdiki_zaman.json"
+  },
+  {
+    "verb_english": "suggest",
+    "tense": "şartlı_kipi",
+    "pronoun": "siz",
+    "polarity": "positive",
+    "file": "siz_önermek_şartlı_kipi.json"
+  },
+  {
+    "verb_english": "think",
+    "tense": "şart_kipi",
+    "pronoun": "o",
+    "polarity": "positive",
+    "file": "o_düşünmek_şart_kipi.json"
+  },
+  {
+    "verb_english": "wait",
+    "tense": "şart_kipi",
+    "pronoun": "siz",
+    "polarity": "positive",
+    "file": "siz_beklemek_şart_kipi.json"
+  },
+  {
+    "verb_english": "want",
+    "tense": "istek_kipi",
+    "pronoun": "siz",
+    "polarity": "positive",
+    "file": "siz_istemek_istek_kipi.json"
+  },
+  {
+    "verb_english": "win",
+    "tense": "şimdiki_zaman",
+    "pronoun": "biz",
+    "polarity": "negative",
+    "file": "biz_kazanmak_şimdiki_zaman_olumsuz.json"
+  }
+]

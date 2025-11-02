@@ -1,20 +1,20 @@
 {
   "verb_rank": 95,
-  "verb_english": "to decide",
+  "verb_english": "decide",
   "verb_russian": "решать",
   "verb_infinitive": "karar vermek",
   "turkish_verb": {
-    "verb_full": "karar vermeli",
+    "verb_full": "karar veriyor",
     "root": "karar ver",
-    "tense_affix": "meli",
+    "tense_affix": "iyor",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "u",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The company must make a correct decision in this difficult situation.",
-  "russian_example_sentence": "Компания должна принять правильное решение в этой сложной ситуации.",
-  "turkish_example_sentence": "Şirket, bu zorlu durumda doğru bir karar vermeli.",
-  "turkish_example_sentence_with_blank": "Şirket, bu zorlu durumda doğru bir ______."
+  "english_example_sentence": "The teacher decides on important matters.",
+  "russian_example_sentence": "Учитель решает важные вопросы.",
+  "turkish_example_sentence": "Öğretmen önemli konular üzerinde karar veriyor.",
+  "turkish_example_sentence_with_blank": "Öğretmen önemli konular üzerinde ______."
 }

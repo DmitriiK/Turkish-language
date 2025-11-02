@@ -1,20 +1,20 @@
 {
   "verb_rank": 1,
-  "verb_english": "to be",
+  "verb_english": "be",
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmalıydık",
+    "verb_full": "olacağız",
     "root": "ol",
-    "tense_affix": "malı",
+    "tense_affix": "acak",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "dık",
+    "personal_affix": "ız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We should be more considerate of others.",
-  "russian_example_sentence": "Нам следует быть более внимательными к другим.",
-  "turkish_example_sentence": "Başkalarına karşı daha düşünceli olmalıydık.",
-  "turkish_example_sentence_with_blank": "Başkalarına karşı daha düşünceli ______."
+  "english_example_sentence": "We will be happy together.",
+  "russian_example_sentence": "Мы будем счастливы вместе.",
+  "turkish_example_sentence": "Biz birlikte mutlu olacağız.",
+  "turkish_example_sentence_with_blank": "Biz birlikte mutlu ______."
 }

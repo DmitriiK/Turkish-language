@@ -1,20 +1,20 @@
 {
   "verb_rank": 95,
-  "verb_english": "to decide",
+  "verb_english": "decide",
   "verb_russian": "решать",
   "verb_infinitive": "karar vermek",
   "turkish_verb": {
     "verb_full": "karar vermiyorlar",
-    "root": "karar ver",
-    "tense_affix": "yor",
+    "root": "karar verm",
+    "tense_affix": "iyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "mi"
   },
-  "english_example_sentence": "The busy students are not deciding on their project.",
-  "russian_example_sentence": "Занятые студенты не принимают решение по своему проекту.",
-  "turkish_example_sentence": "Yoğun öğrenciler projeleri hakkında karar vermiyorlar.",
-  "turkish_example_sentence_with_blank": "Yoğun öğrenciler projeleri hakkında ______."
+  "english_example_sentence": "They are not deciding yet.",
+  "russian_example_sentence": "Они еще не решают.",
+  "turkish_example_sentence": "Öğrenciler sınav için karar vermiyorlar.",
+  "turkish_example_sentence_with_blank": "Öğrenciler sınav için ______."
 }

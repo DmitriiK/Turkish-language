@@ -1,20 +1,20 @@
 {
   "verb_rank": 75,
-  "verb_english": "to appear",
+  "verb_english": "appear",
   "verb_russian": "появляться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
     "verb_full": "görünmeliyiz",
     "root": "görün",
-    "tense_affix": "meli",
+    "tense_affix": "meliyiz",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "yiz",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We must appear strong as a team in this important event.",
-  "russian_example_sentence": "Мы должны выглядеть сильными как команда на этом важном мероприятии.",
-  "turkish_example_sentence": "Biz, bu önemli etkinlikte bir ekip olarak güçlü görünmeliyiz.",
-  "turkish_example_sentence_with_blank": "Biz, bu önemli etkinlikte bir ekip olarak güçlü ______."
+  "english_example_sentence": "We must appear at the meeting.",
+  "russian_example_sentence": "Мы должны появиться на встрече.",
+  "turkish_example_sentence": "Toplantıda görünmeliyiz.",
+  "turkish_example_sentence_with_blank": "Toplantıda ______."
 }

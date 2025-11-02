@@ -1,6 +1,6 @@
 {
   "verb_rank": 1,
-  "verb_english": "to be",
+  "verb_english": "be",
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
@@ -9,12 +9,12 @@
     "tense_affix": "dı",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "dı",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "The house was not clean yesterday.",
-  "russian_example_sentence": "Дом вчера не был чистым.",
-  "turkish_example_sentence": "Ev dün temiz olmadı.",
-  "turkish_example_sentence_with_blank": "Ev dün temiz ______."
+  "english_example_sentence": "My friend is not happy.",
+  "russian_example_sentence": "Мой друг не счастлив.",
+  "turkish_example_sentence": "O arkadaşım mutlu olmadı.",
+  "turkish_example_sentence_with_blank": "O arkadaşım mutlu ______."
 }

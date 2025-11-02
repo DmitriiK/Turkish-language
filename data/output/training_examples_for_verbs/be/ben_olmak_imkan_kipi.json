@@ -1,20 +1,20 @@
 {
   "verb_rank": 1,
-  "verb_english": "to be",
+  "verb_english": "be",
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olabilirim",
+    "verb_full": "oluyorum",
     "root": "ol",
-    "tense_affix": "abilir",
+    "tense_affix": "uyor",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "im",
+    "personal_affix": "um",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I can be a helpful person.",
-  "russian_example_sentence": "Я могу быть полезным человеком.",
-  "turkish_example_sentence": "Ben faydalı bir insan olabilirim.",
-  "turkish_example_sentence_with_blank": "Ben faydalı bir insan ______."
+  "english_example_sentence": "I am happy today.",
+  "russian_example_sentence": "Я сегодня счастлив.",
+  "turkish_example_sentence": "Ben bu gün mutlu oluyorum.",
+  "turkish_example_sentence_with_blank": "Ben bu gün mutlu ______."
 }

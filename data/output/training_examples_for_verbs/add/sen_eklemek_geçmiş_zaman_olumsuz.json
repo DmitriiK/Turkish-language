@@ -1,6 +1,6 @@
 {
   "verb_rank": 65,
-  "verb_english": "to add",
+  "verb_english": "add",
   "verb_russian": "добавлять",
   "verb_infinitive": "eklemek",
   "turkish_verb": {
@@ -9,12 +9,12 @@
     "tense_affix": "di",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "din",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You didn't add the new ingredient to the food.",
-  "russian_example_sentence": "Ты не добавил новый ингредиент в еду.",
-  "turkish_example_sentence": "Yeni malzemeyi yemeğe eklemedin.",
-  "turkish_example_sentence_with_blank": "Yeni malzemeyi yemeğe ______."
+  "english_example_sentence": "You didn't add the book to the list.",
+  "russian_example_sentence": "Ты не добавил книгу в список.",
+  "turkish_example_sentence": "Sen listeye kitabı eklemedin.",
+  "turkish_example_sentence_with_blank": "Sen listeye kitabı ______."
 }

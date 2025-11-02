@@ -1,20 +1,20 @@
 {
   "verb_rank": 95,
-  "verb_english": "to decide",
+  "verb_english": "decide",
   "verb_russian": "решать",
   "verb_infinitive": "karar vermek",
   "turkish_verb": {
-    "verb_full": "karar veresin",
-    "root": "ver",
-    "tense_affix": "e",
+    "verb_full": "karar veriyorsun",
+    "root": "karar ver",
+    "tense_affix": "iyor",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "sin",
+    "personal_affix": "sun",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "May you make the right decision in this challenging situation.",
-  "russian_example_sentence": "Пусть ты примешь правильное решение в этой сложной ситуации.",
-  "turkish_example_sentence": "Sen bu zorlu durumda doğru kararı veresin.",
-  "turkish_example_sentence_with_blank": "Sen bu zorlu durumda doğru kararı veresin."
+  "english_example_sentence": "You are deciding on the important issue.",
+  "russian_example_sentence": "Ты решаешь важный вопрос.",
+  "turkish_example_sentence": "Sen önemli bir konuda karar veriyorsun.",
+  "turkish_example_sentence_with_blank": "Sen önemli bir konuda ______."
 }

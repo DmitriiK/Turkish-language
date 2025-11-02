@@ -1,5 +1,5 @@
 {
-  "verb_english": "to allow",
+  "verb_english": "allow",
   "verb_russian": "разрешать",
   "verb_infinitive": "izin vermek",
   "verb_rank": 64,
@@ -214,6 +214,12 @@
       "pronoun": "biz",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/allow/biz_izin_vermek_geçmiş_gelecek_zaman.json"
+    },
+    {
+      "tense": "geçmiş_gelecek_zaman",
+      "pronoun": "o",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/allow/o_izin_vermek_geçmiş_gelecek_zaman.json"
     },
     {
       "tense": "geçmiş_gelecek_zaman",
@@ -622,6 +628,12 @@
       "pronoun": "biz",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/allow/biz_izin_vermek_şimdiki_zaman.json"
+    },
+    {
+      "tense": "şimdiki_zaman",
+      "pronoun": "none",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/allow/none_izin_vermek_şimdiki_zaman.json"
     },
     {
       "tense": "şimdiki_zaman",

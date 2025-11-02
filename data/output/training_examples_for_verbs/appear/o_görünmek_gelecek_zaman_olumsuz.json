@@ -1,20 +1,20 @@
 {
   "verb_rank": 75,
-  "verb_english": "to appear",
+  "verb_english": "appear",
   "verb_russian": "появляться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
     "verb_full": "görünmeyecek",
     "root": "görün",
-    "tense_affix": "yecek",
+    "tense_affix": "yacak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "cek",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "This old building will not appear ready until tomorrow's meeting.",
-  "russian_example_sentence": "Это старое здание не будет выглядеть готовым до завтрашнего совещания.",
-  "turkish_example_sentence": "Bu eski bina, yarınki toplantıya kadar hazır görünmeyecek.",
-  "turkish_example_sentence_with_blank": "Bu eski bina, yarınki toplantıya kadar hazır ______."
+  "english_example_sentence": "The tree will not appear in the garden.",
+  "russian_example_sentence": "Дерево не появится в саду.",
+  "turkish_example_sentence": "Ağaç bahçede görünmeyecek.",
+  "turkish_example_sentence_with_blank": "Ağaç bahçede ______."
 }

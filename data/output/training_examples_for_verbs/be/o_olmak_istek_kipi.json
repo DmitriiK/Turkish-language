@@ -1,20 +1,20 @@
 {
   "verb_rank": 1,
-  "verb_english": "to be",
+  "verb_english": "be",
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olsun",
+    "verb_full": "oluyor",
     "root": "ol",
-    "tense_affix": "sun",
+    "tense_affix": "uyor",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Let the day be bright.",
-  "russian_example_sentence": "Пусть день будет светлым.",
-  "turkish_example_sentence": "Gün parlak olsun.",
-  "turkish_example_sentence_with_blank": "Gün parlak ______."
+  "english_example_sentence": "The teacher is happy.",
+  "russian_example_sentence": "Учитель счастлив.",
+  "turkish_example_sentence": "Öğretmen mutlu oluyor.",
+  "turkish_example_sentence_with_blank": "Öğretmen mutlu ______."
 }

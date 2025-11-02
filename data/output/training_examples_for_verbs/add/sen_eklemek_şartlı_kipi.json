@@ -1,20 +1,20 @@
 {
   "verb_rank": 65,
-  "verb_english": "to add",
+  "verb_english": "add",
   "verb_russian": "добавлять",
   "verb_infinitive": "eklemek",
   "turkish_verb": {
-    "verb_full": "eklesen",
+    "verb_full": "ekleyeceksin",
     "root": "ekle",
-    "tense_affix": "se",
+    "tense_affix": "yecek",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you add a little salt to this beautiful salad, its taste will improve.",
-  "russian_example_sentence": "Если ты добавишь немного соли в этот красивый салат, его вкус улучшится.",
-  "turkish_example_sentence": "Bu güzel salataya biraz tuz eklesen, lezzeti artar.",
-  "turkish_example_sentence_with_blank": "Bu güzel salataya biraz tuz ______, lezzeti artar."
+  "english_example_sentence": "You will add the new book.",
+  "russian_example_sentence": "Ты добавишь новую книгу.",
+  "turkish_example_sentence": "Sen yeni kitabı ekleyeceksin.",
+  "turkish_example_sentence_with_blank": "Sen yeni kitabı ______."
 }

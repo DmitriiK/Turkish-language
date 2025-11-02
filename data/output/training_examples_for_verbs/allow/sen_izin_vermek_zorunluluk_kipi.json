@@ -1,20 +1,20 @@
 {
   "verb_rank": 64,
-  "verb_english": "to allow",
+  "verb_english": "allow",
   "verb_russian": "разрешать",
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
-    "verb_full": "izin vermelisin",
+    "verb_full": "izin vermen gerekiyor",
     "root": "izin ver",
-    "tense_affix": "meli",
+    "tense_affix": "men gerekiyor",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "sin",
+    "personal_affix": "in",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You must allow your little sibling to go outside.",
-  "russian_example_sentence": "Ты должен разрешить своему младшему брату/сестре выйти на улицу.",
-  "turkish_example_sentence": "Küçük kardeşine dışarı çıkmasına izin vermelisin.",
-  "turkish_example_sentence_with_blank": "Küçük kardeşine dışarı çıkmasına ______."
+  "english_example_sentence": "You need to allow this decision.",
+  "russian_example_sentence": "Тебе нужно разрешить это решение.",
+  "turkish_example_sentence": "Ali'nin bu karara izin vermen gerekiyor.",
+  "turkish_example_sentence_with_blank": "Ali'nin bu karara ______."
 }

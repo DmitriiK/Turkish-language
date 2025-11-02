@@ -3,7 +3,7 @@
 You are a Turkish language expert who creates training examples for language learners. Your task is to generate realistic and natural training examples based on the provided verb, tense, and pronoun combination.
 
 ## Task Parameters
-- **Verb (English)**: {verb_english}
+- **Verb (English)**: {verb_english} (NOTE: English verb is provided WITHOUT the "to" prefix - e.g., "be", "have", "do", NOT "to be", "to have", "to do")
 - **Verb (Infinitive Turkish)**: {verb_infinitive} 
 - **Verb Tense**: {verb_tense}
 - **Personal Pronoun**: {personal_pronoun}
@@ -81,9 +81,27 @@ Create three natural example sentences:
 - Instead of "They are working" → use "The children are playing", "My parents are working", "The students are studying"
 
 **Turkish sentence**:
+- **⚠️ CRITICAL REQUIREMENT #1: The sentence MUST contain the EXACT "verb_full" form you generated**
+  - Example: If verb_full = "görünseydim", the sentence MUST contain "görünseydim" 
+  - **DO NOT use a different verb conjugation or copula suffix that doesn't match verb_full**
+  - **DO NOT substitute with alternative constructions - use the exact verb form**
+  
+- **⚠️ SPECIAL CASES - Alternative Turkish constructions:**
+  - **"sahip olmak" (to have)**: Turkish commonly uses "var/yok" for possession, BUT you MUST use the actual conjugated form of "sahip olmak" in the sentence
+    - ❌ WRONG: "Benim küçük bir köpeğim **var**" (uses var, not sahip olmak)
+    - ✅ CORRECT: "Ben küçük bir köpeğe **sahip oluyorum**" (uses actual verb form)
+    - ✅ CORRECT: "Kardeşim güzel bir arabaya **sahip**" (copula form of sahip olmak)
+  - **"olmak" (to be)**: Use the actual conjugated verb form, not copula suffixes (-im, -sin, -dir, etc.)
+    - ❌ WRONG: "Öğrenci mutlu**yum**" (copula, not olmak verb)
+    - ✅ CORRECT: "Ben mutlu **oluyorum**" (actual şimdiki_zaman conjugation)
+    - ✅ CORRECT: "Ben geçen yıl öğrenci **oldum**" (actual geçmiş_zaman conjugation)
+  - **Compound verbs** (karar vermek, anlamına gelmek, izin vermek, etc.): Include the complete compound verb
+    - ✅ "Ben her gün önemli kararlar **veririm**" (karar vermek → veririm)
+    - ✅ "Bu kelime derin bir şey **anlamına gelir**" (anlamına gelmek → anlamına gelir)
+ 
 - **⚠️ MINIMUM LENGTH: The sentence MUST have at least 4 words (not counting pronouns like ben/sen/o/biz/siz/onlar)**
 - **⚠️ REQUIRED COMPONENTS: Must include at least 2 nouns AND at least 1 adjective**
-- Include the conjugated verb form
+- Include the conjugated verb form (verb_full) exactly as generated
 - Use specific nouns (people, places, things) to create meaningful context
 - Natural Turkish word order (SOV preferred)
 - **CRITICAL: Must contain at least 4 words EXCLUDING the pronoun (ben/sen/o/biz/siz/onlar)**
@@ -119,17 +137,28 @@ Create three natural example sentences:
 ## FINAL CHECK - VERIFY BEFORE GENERATING:
 
 **MANDATORY REQUIREMENTS:**
-1. ✅ Is polarity "{polarity}" correctly applied?
+1. ✅ **Does the Turkish sentence contain the EXACT verb_full form?**
+   - Search for verb_full in the turkish_example_sentence
+   - The EXACT string of verb_full MUST appear in the sentence
+   - Example: If verb_full = "görünseydim", search for "görünseydim" in sentence
+   - ❌ FAIL if verb_full is not found in sentence
+   - ✅ PASS only if verb_full appears exactly in sentence
+   - **SPECIAL CHECK FOR COMMON MISTAKES:**
+     - If verb is "sahip olmak", DON'T use "var/yok" - use actual conjugation
+     - If verb is "olmak", DON'T use copula suffixes (-im, -sin, -dir) - use actual conjugation
+     - If verb is compound (karar vermek, izin vermek, etc.), include BOTH parts in sentence
+
+2. ✅ Is polarity "{polarity}" correctly applied?
    - If negative: Does verb_full contain the negative affix? Is polarity field = "negative"? Is negative_affix filled?
    - If positive: Is verb_full without negative affix? Is polarity field = "positive"? Is negative_affix null?
 
-2. ✅ **Does the Turkish sentence have AT LEAST 4 words (not counting the pronoun)?**
+3. ✅ **Does the Turkish sentence have AT LEAST 4 words (not counting the pronoun)?**
    - Count: Remove pronoun (ben/sen/o/biz/siz/onlar if present), then count remaining words
    - Must be ≥ 4 words
    - Example: "Öğrenci başarılı oluyor" = 3 words ❌ TOO SHORT - NEEDS 1 MORE WORD
    - Example: "Öğrenci bu yıl başarılı oluyor" = 4 words ✅ CORRECT
 
-3. ✅ **Does the Turkish sentence include at least 2 nouns and 1 adjective?**
+4. ✅ **Does the Turkish sentence include at least 2 nouns and 1 adjective?**
    - Must have 2+ nouns (people, places, things)
    - Must have 1+ adjective (descriptive word)
 

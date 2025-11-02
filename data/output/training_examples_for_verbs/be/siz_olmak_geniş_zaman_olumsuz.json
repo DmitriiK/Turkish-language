@@ -1,20 +1,20 @@
 {
   "verb_rank": 1,
-  "verb_english": "to be",
+  "verb_english": "be",
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmazsınız",
+    "verb_full": "olmam",
     "root": "ol",
     "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "sınız",
+    "personal_affix": "m",
     "polarity": "negative",
-    "negative_affix": "maz"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "The guests are not very satisfied.",
-  "russian_example_sentence": "Гости не очень довольны.",
-  "turkish_example_sentence": "Misafirler oldukça mutlu olmazsınız.",
-  "turkish_example_sentence_with_blank": "Misafirler oldukça mutlu ______."
+  "english_example_sentence": "You are not happy.",
+  "russian_example_sentence": "Вы не счастливы.",
+  "turkish_example_sentence": "Kediler bu evde olmam.",
+  "turkish_example_sentence_with_blank": "Kediler bu evde ______."
 }

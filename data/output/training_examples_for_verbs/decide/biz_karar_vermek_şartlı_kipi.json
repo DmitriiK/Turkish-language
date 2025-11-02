@@ -1,20 +1,20 @@
 {
   "verb_rank": 95,
-  "verb_english": "to decide",
+  "verb_english": "decide",
   "verb_russian": "решать",
   "verb_infinitive": "karar vermek",
   "turkish_verb": {
-    "verb_full": "karar versek",
+    "verb_full": "karar veririz",
     "root": "karar ver",
-    "tense_affix": "se",
+    "tense_affix": "iriz",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we make an important decision, everyone will be happy.",
-  "russian_example_sentence": "Если мы примем важное решение, все будут счастливы.",
-  "turkish_example_sentence": "Eğer önemli bir karar versek, herkes mutlu olur.",
-  "turkish_example_sentence_with_blank": "Eğer önemli bir ______, herkes mutlu olur."
+  "english_example_sentence": "We will decide on the best option together.",
+  "russian_example_sentence": "Мы решим вместе, какой вариант лучше.",
+  "turkish_example_sentence": "Biz en iyi seçeneği birlikte karar veririz.",
+  "turkish_example_sentence_with_blank": "Biz en iyi seçeneği birlikte ______."
 }

@@ -1,20 +1,20 @@
 {
   "verb_rank": 65,
-  "verb_english": "to add",
+  "verb_english": "add",
   "verb_russian": "добавлять",
   "verb_infinitive": "eklemek",
   "turkish_verb": {
     "verb_full": "eklemeliyim",
     "root": "ekle",
-    "tense_affix": "meli",
+    "tense_affix": "meliyim",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "yim",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I must add an item to this new list.",
-  "russian_example_sentence": "Я должен добавить пункт в этот новый список.",
-  "turkish_example_sentence": "Ben bu yeni listeye bir madde eklemeliyim.",
-  "turkish_example_sentence_with_blank": "Ben bu yeni listeye bir madde ______."
+  "english_example_sentence": "I should add the new information.",
+  "russian_example_sentence": "Я должен добавить новую информацию.",
+  "turkish_example_sentence": "Yeni bilgiyi eklemeliyim.",
+  "turkish_example_sentence_with_blank": "Yeni bilgiyi ______."
 }

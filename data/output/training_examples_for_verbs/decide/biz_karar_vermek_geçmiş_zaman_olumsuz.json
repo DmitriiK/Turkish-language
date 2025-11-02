@@ -1,6 +1,6 @@
 {
   "verb_rank": 95,
-  "verb_english": "to decide",
+  "verb_english": "decide",
   "verb_russian": "решать",
   "verb_infinitive": "karar vermek",
   "turkish_verb": {
@@ -9,12 +9,12 @@
     "tense_affix": "di",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "dik",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "We haven't made a decision on this important matter yet.",
-  "russian_example_sentence": "Мы еще не приняли решение по этому важному вопросу.",
-  "turkish_example_sentence": "Biz bu önemli konuda henüz bir karar vermedik.",
-  "turkish_example_sentence_with_blank": "Biz bu önemli konuda henüz bir ______."
+  "english_example_sentence": "We did not make a decision yesterday.",
+  "russian_example_sentence": "Мы не приняли решение вчера.",
+  "turkish_example_sentence": "Biz dün önemli bir karar vermedik.",
+  "turkish_example_sentence_with_blank": "Biz dün önemli bir ______."
 }

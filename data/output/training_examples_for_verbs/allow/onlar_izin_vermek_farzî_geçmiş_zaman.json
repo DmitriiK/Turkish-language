@@ -1,20 +1,20 @@
 {
   "verb_rank": 64,
-  "verb_english": "to allow",
+  "verb_english": "allow",
   "verb_russian": "разрешать",
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
-    "verb_full": "izin vermiş olmalılar",
-    "root": "ver",
-    "tense_affix": "miş",
+    "verb_full": "izin verdiler",
+    "root": "izin ver",
+    "tense_affix": "di",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "olmalılar",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The neighbors must have finally allowed the noisy party.",
-  "russian_example_sentence": "Соседи, должно быть, наконец разрешили шумную вечеринку.",
-  "turkish_example_sentence": "Komşular, gürültülü partiye sonunda izin vermiş olmalılar.",
-  "turkish_example_sentence_with_blank": "Komşular, gürültülü partiye sonunda ______."
+  "english_example_sentence": "The teachers allowed the students to play outside.",
+  "russian_example_sentence": "Учителя разрешили ученикам играть на улице.",
+  "turkish_example_sentence": "Öğretmenler öğrencilerin dışarıda oynamasına izin verdiler.",
+  "turkish_example_sentence_with_blank": "Öğretmenler öğrencilerin dışarıda oynamasına ______."
 }

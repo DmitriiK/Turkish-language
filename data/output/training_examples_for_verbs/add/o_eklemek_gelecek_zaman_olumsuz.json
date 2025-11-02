@@ -1,6 +1,6 @@
 {
   "verb_rank": 65,
-  "verb_english": "to add",
+  "verb_english": "add",
   "verb_russian": "добавлять",
   "verb_infinitive": "eklemek",
   "turkish_verb": {
@@ -9,12 +9,12 @@
     "tense_affix": "yecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "The new teacher will not add his name to this important list.",
-  "russian_example_sentence": "Новый учитель не добавит свое имя в этот важный список.",
-  "turkish_example_sentence": "Yeni öğretmen bu önemli listeye adını eklemeyecek.",
-  "turkish_example_sentence_with_blank": "Yeni öğretmen bu önemli listeye adını ______."
+  "english_example_sentence": "She will not add the new information.",
+  "russian_example_sentence": "Она не добавит новую информацию.",
+  "turkish_example_sentence": "Ahmet, o yeni bilgiyi eklemeyecek.",
+  "turkish_example_sentence_with_blank": "Ahmet, o yeni bilgiyi ______."
 }

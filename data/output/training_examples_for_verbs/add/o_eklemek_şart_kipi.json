@@ -1,20 +1,20 @@
 {
   "verb_rank": 65,
-  "verb_english": "to add",
+  "verb_english": "add",
   "verb_russian": "добавлять",
   "verb_infinitive": "eklemek",
   "turkish_verb": {
-    "verb_full": "eklese",
+    "verb_full": "ekleyecek",
     "root": "ekle",
-    "tense_affix": "se",
+    "tense_affix": "yecek",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "cek",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If he adds a little sugar, the tea will be sweeter.",
-  "russian_example_sentence": "Если он добавит немного сахара, чай станет слаще.",
-  "turkish_example_sentence": "Çaya biraz şeker eklese, çay daha tatlı olur.",
-  "turkish_example_sentence_with_blank": "Çaya biraz şeker ______, çay daha tatlı olur."
+  "english_example_sentence": "He will add the new information.",
+  "russian_example_sentence": "Он добавит новую информацию.",
+  "turkish_example_sentence": "Ahmet, o yeni bilgiyi ekleyecek.",
+  "turkish_example_sentence_with_blank": "Ahmet, o yeni bilgiyi ______."
 }

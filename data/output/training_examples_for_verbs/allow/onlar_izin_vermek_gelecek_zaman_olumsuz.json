@@ -1,20 +1,20 @@
 {
   "verb_rank": 64,
-  "verb_english": "to allow",
+  "verb_english": "allow",
   "verb_russian": "разрешать",
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
     "verb_full": "izin vermeyecekler",
-    "root": "ver",
-    "tense_affix": "yecek",
+    "root": "izin ver",
+    "tense_affix": "ecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "The teachers will not allow new rules in this noisy class.",
-  "russian_example_sentence": "Учителя не разрешат новые правила в этом шумном классе.",
-  "turkish_example_sentence": "Öğretmenler, bu gürültülü sınıfta yeni kurallara izin vermeyecekler.",
-  "turkish_example_sentence_with_blank": "Öğretmenler, bu gürültülü sınıfta yeni kurallara ______."
+  "english_example_sentence": "They will not allow the children to play.",
+  "russian_example_sentence": "Они не позволят детям играть.",
+  "turkish_example_sentence": "Öğretmenler çocukların oynamasına izin vermeyecekler.",
+  "turkish_example_sentence_with_blank": "Öğretmenler çocukların oynamasına ______."
 }

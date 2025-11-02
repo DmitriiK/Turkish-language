@@ -1,20 +1,20 @@
 {
   "verb_rank": 75,
-  "verb_english": "to appear",
+  "verb_english": "appear",
   "verb_russian": "появляться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünsem",
+    "verb_full": "görüneceğim",
     "root": "görün",
-    "tense_affix": "se",
+    "tense_affix": "eceğ",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I appear happy on that stage, the audience will be glad.",
-  "russian_example_sentence": "Если я появлюсь счастливым на той сцене, зрители будут рады.",
-  "turkish_example_sentence": "O sahnede mutlu görünsem, seyirciler sevinir.",
-  "turkish_example_sentence_with_blank": "O sahnede mutlu ______, seyirciler sevinir."
+  "english_example_sentence": "I will appear at the event tomorrow.",
+  "russian_example_sentence": "Я появлюсь на мероприятии завтра.",
+  "turkish_example_sentence": "Ben yarın etkinlikte görüneceğim.",
+  "turkish_example_sentence_with_blank": "Ben yarın etkinlikte ______."
 }

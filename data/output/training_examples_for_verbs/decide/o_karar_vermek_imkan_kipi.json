@@ -1,20 +1,20 @@
 {
   "verb_rank": 95,
-  "verb_english": "to decide",
+  "verb_english": "decide",
   "verb_russian": "решать",
   "verb_infinitive": "karar vermek",
   "turkish_verb": {
-    "verb_full": "karar verebilir",
+    "verb_full": "karar veriyor",
     "root": "karar ver",
-    "tense_affix": "ebilir",
+    "tense_affix": "iyor",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "u",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The manager can make an important decision.",
-  "russian_example_sentence": "Менеджер может принять важное решение.",
-  "turkish_example_sentence": "Müdür önemli bir karar verebilir.",
-  "turkish_example_sentence_with_blank": "Müdür önemli bir ______."
+  "english_example_sentence": "My sister decides something important every day.",
+  "russian_example_sentence": "Моя сестра решает что-то важное каждый день.",
+  "turkish_example_sentence": "Kız kardeşim her gün önemli bir şeyi karar veriyor.",
+  "turkish_example_sentence_with_blank": "Kız kardeşim her gün önemli bir şeyi ______."
 }

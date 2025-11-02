@@ -1,20 +1,20 @@
 {
   "verb_rank": 95,
-  "verb_english": "to decide",
+  "verb_english": "decide",
   "verb_russian": "решать",
   "verb_infinitive": "karar vermek",
   "turkish_verb": {
     "verb_full": "karar vermiyor",
     "root": "karar ver",
-    "tense_affix": "yor",
+    "tense_affix": "iyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "mi"
   },
-  "english_example_sentence": "The young man is not making an important decision yet.",
-  "russian_example_sentence": "Молодой человек пока не принимает важного решения.",
-  "turkish_example_sentence": "Genç adam henüz önemli bir karar vermiyor.",
-  "turkish_example_sentence_with_blank": "Genç adam henüz önemli bir ______."
+  "english_example_sentence": "He is not deciding about the new project.",
+  "russian_example_sentence": "Он не решает по поводу нового проекта.",
+  "turkish_example_sentence": "Ali yeni proje hakkında karar vermiyor.",
+  "turkish_example_sentence_with_blank": "Ali yeni proje hakkında ______."
 }

@@ -1,20 +1,20 @@
 {
   "verb_rank": 65,
-  "verb_english": "to add",
+  "verb_english": "add",
   "verb_russian": "добавлять",
   "verb_infinitive": "eklemek",
   "turkish_verb": {
-    "verb_full": "eklemez",
+    "verb_full": "eklemiyor",
     "root": "ekle",
-    "tense_affix": "z",
+    "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "He/She doesn't add salt to this food.",
-  "russian_example_sentence": "Он/Она не добавляет соль в эту еду.",
-  "turkish_example_sentence": "O, bu yemeğe tuz eklemez.",
-  "turkish_example_sentence_with_blank": "O, bu yemeğe tuz ______."
+  "english_example_sentence": "The teacher does not add new topics.",
+  "russian_example_sentence": "Учитель не добавляет новые темы.",
+  "turkish_example_sentence": "Öğretmen yeni konuları eklemiyor.",
+  "turkish_example_sentence_with_blank": "Öğretmen yeni konuları ______."
 }

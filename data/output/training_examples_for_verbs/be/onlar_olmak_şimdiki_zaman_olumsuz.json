@@ -1,10 +1,10 @@
 {
   "verb_rank": 1,
-  "verb_english": "to be",
+  "verb_english": "be",
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmayorlar",
+    "verb_full": "olmuyorlar",
     "root": "ol",
     "tense_affix": "yor",
     "verb_tense": "şimdiki_zaman",
@@ -13,8 +13,8 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "The children are not being happy.",
-  "russian_example_sentence": "Дети не счастливы.",
-  "turkish_example_sentence": "Çocuklar mutlu olmuyorlar.",
-  "turkish_example_sentence_with_blank": "Çocuklar mutlu olmuyorlar."
+  "english_example_sentence": "They are not happy people.",
+  "russian_example_sentence": "Они не счастливые люди.",
+  "turkish_example_sentence": "Onlar mutlu insanlar olmuyorlar.",
+  "turkish_example_sentence_with_blank": "Onlar mutlu insanlar ______."
 }

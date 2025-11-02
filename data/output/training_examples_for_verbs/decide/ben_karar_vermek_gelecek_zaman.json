@@ -1,11 +1,11 @@
 {
   "verb_rank": 95,
-  "verb_english": "to decide",
+  "verb_english": "decide",
   "verb_russian": "решать",
   "verb_infinitive": "karar vermek",
   "turkish_verb": {
     "verb_full": "karar vereceğim",
-    "root": "ver",
+    "root": "karar ver",
     "tense_affix": "ecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "ben",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I will make a definite decision on this important matter.",
-  "russian_example_sentence": "Я приму окончательное решение по этому важному вопросу.",
-  "turkish_example_sentence": "Bu önemli konuda kesin bir karar vereceğim.",
-  "turkish_example_sentence_with_blank": "Bu önemli konuda kesin bir ______."
+  "english_example_sentence": "I will decide about the important issue.",
+  "russian_example_sentence": "Я решу по важному вопросу.",
+  "turkish_example_sentence": "Ben önemli konu hakkında karar vereceğim.",
+  "turkish_example_sentence_with_blank": "Ben önemli konu hakkında ______."
 }

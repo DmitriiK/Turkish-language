@@ -1,20 +1,20 @@
 {
   "verb_rank": 95,
-  "verb_english": "to decide",
+  "verb_english": "decide",
   "verb_russian": "решать",
   "verb_infinitive": "karar vermek",
   "turkish_verb": {
-    "verb_full": "karar verecek",
-    "root": "ver",
+    "verb_full": "karar verecektir",
+    "root": "karar ver",
     "tense_affix": "ecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "dir",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The little child will decide to buy a new toy.",
-  "russian_example_sentence": "Маленький ребёнок решит купить новую игрушку.",
-  "turkish_example_sentence": "Küçük çocuk, yeni bir oyuncak almaya karar verecek.",
-  "turkish_example_sentence_with_blank": "Küçük çocuk, yeni bir oyuncak almaya ______."
+  "english_example_sentence": "The manager will decide soon.",
+  "russian_example_sentence": "Менеджер скоро решит.",
+  "turkish_example_sentence": "Yönetici bu ay önemli bir kararı **karar verecektir**.",
+  "turkish_example_sentence_with_blank": "Yönetici bu ay önemli bir kararı **______**."
 }

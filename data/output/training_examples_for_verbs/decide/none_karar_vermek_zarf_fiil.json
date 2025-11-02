@@ -1,20 +1,20 @@
 {
   "verb_rank": 95,
-  "verb_english": "to decide",
+  "verb_english": "decide",
   "verb_russian": "решать",
   "verb_infinitive": "karar vermek",
   "turkish_verb": {
-    "verb_full": "karar vererek",
+    "verb_full": "karar veriyorum",
     "root": "karar ver",
-    "tense_affix": "erek",
+    "tense_affix": "iyor",
     "verb_tense": "zarf_fiil",
     "personal_pronoun": null,
-    "personal_affix": null,
+    "personal_affix": "um",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The student won the exam by making a quick decision.",
-  "russian_example_sentence": "Студент выиграл экзамен, приняв быстрое решение.",
-  "turkish_example_sentence": "Öğrenci hızlı karar vererek sınavı kazandı.",
-  "turkish_example_sentence_with_blank": "Öğrenci hızlı ______ sınavı kazandı."
+  "english_example_sentence": "I am deciding on a new project.",
+  "russian_example_sentence": "Я решаю по поводу нового проекта.",
+  "turkish_example_sentence": "Ben yeni bir proje hakkında karar veriyorum.",
+  "turkish_example_sentence_with_blank": "Ben yeni bir proje hakkında ______."
 }

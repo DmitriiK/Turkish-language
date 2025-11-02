@@ -1,11 +1,11 @@
 {
   "verb_rank": 64,
-  "verb_english": "to allow",
+  "verb_english": "allow",
   "verb_russian": "разрешать",
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
     "verb_full": "izin vermedim",
-    "root": "ver",
+    "root": "izin ver",
     "tense_affix": "di",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "ben",
@@ -13,8 +13,8 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "I did not allow my little child to play in the park.",
-  "russian_example_sentence": "Я не разрешил своему маленькому ребенку играть в парке.",
-  "turkish_example_sentence": "Küçük çocuğuma parkta oynamasına izin vermedim.",
-  "turkish_example_sentence_with_blank": "Küçük çocuğuma parkta oynamasına ______."
+  "english_example_sentence": "I didn't allow my friend to play.",
+  "russian_example_sentence": "Я не разрешал своему другу играть.",
+  "turkish_example_sentence": "Arkadaşımın oynamasına izin vermedim.",
+  "turkish_example_sentence_with_blank": "Arkadaşımın oynamasına ______."
 }

@@ -1,11 +1,11 @@
 {
   "verb_rank": 64,
-  "verb_english": "to allow",
+  "verb_english": "allow",
   "verb_russian": "разрешать",
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
     "verb_full": "izin vermem",
-    "root": "ver",
+    "root": "izin ver",
     "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "ben",
@@ -13,8 +13,8 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "I do not allow this small child to play loudly.",
-  "russian_example_sentence": "Я не разрешаю этому маленькому ребенку громко играть.",
-  "turkish_example_sentence": "Ben bu küçük çocuğun yüksek sesle oynamasına izin vermem.",
-  "turkish_example_sentence_with_blank": "Ben bu küçük çocuğun yüksek sesle oynamasına ______."
+  "english_example_sentence": "My teacher does not allow me to go out.",
+  "russian_example_sentence": "Мой учитель не разрешает мне выходить.",
+  "turkish_example_sentence": "Öğretmenim dışarı çıkmama izin vermem.",
+  "turkish_example_sentence_with_blank": "Öğretmenim dışarı çıkmama ______."
 }

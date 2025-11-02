@@ -1,20 +1,20 @@
 {
   "verb_rank": 2,
-  "verb_english": "to have",
+  "verb_english": "have",
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olayım",
+    "verb_full": "sahip oluyorum",
     "root": "sahip ol",
-    "tense_affix": "a",
+    "tense_affix": "uyorum",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "yım",
+    "personal_affix": "um",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I wish I had a car",
-  "russian_example_sentence": "Я хочу, чтобы у меня была машина",
-  "turkish_example_sentence": "Keşke benim de yeni bir arabam olsa, sahip olayım.",
-  "turkish_example_sentence_with_blank": "Keşke benim de yeni bir arabam olsa, ______."
+  "english_example_sentence": "I want to have a small garden.",
+  "russian_example_sentence": "Я хочу иметь маленький сад.",
+  "turkish_example_sentence": "Ben küçük bir bahçeye sahip oluyorum.",
+  "turkish_example_sentence_with_blank": "Ben küçük bir bahçeye ______."
 }

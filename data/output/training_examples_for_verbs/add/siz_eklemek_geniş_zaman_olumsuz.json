@@ -1,20 +1,20 @@
 {
   "verb_rank": 65,
-  "verb_english": "to add",
+  "verb_english": "add",
   "verb_russian": "добавлять",
   "verb_infinitive": "eklemek",
   "turkish_verb": {
-    "verb_full": "eklemezsiniz",
+    "verb_full": "eklemiyorsunuz",
     "root": "ekle",
     "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "siniz",
     "polarity": "negative",
-    "negative_affix": "mez"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "You do not add new information to this important document.",
-  "russian_example_sentence": "Вы не добавляете новую информацию в этот важный документ.",
-  "turkish_example_sentence": "Siz bu önemli belgeye yeni bir bilgi eklemezsiniz.",
-  "turkish_example_sentence_with_blank": "Siz bu önemli belgeye yeni bir bilgi ______."
+  "english_example_sentence": "You do not add sugar to tea.",
+  "russian_example_sentence": "Вы не добавляете сахар в чай.",
+  "turkish_example_sentence": "Siz çaya şeker eklemiyorsunuz.",
+  "turkish_example_sentence_with_blank": "Siz çaya şeker ______."
 }

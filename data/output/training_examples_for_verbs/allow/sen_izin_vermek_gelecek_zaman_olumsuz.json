@@ -1,20 +1,20 @@
 {
   "verb_rank": 64,
-  "verb_english": "to allow",
+  "verb_english": "allow",
   "verb_russian": "разрешать",
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
-    "verb_full": "vermeyeceksin",
-    "root": "ver",
-    "tense_affix": "yecek",
+    "verb_full": "izin vermeyeceksin",
+    "root": "izin ver",
+    "tense_affix": "ecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "sin",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You will not allow him to speak in this important meeting.",
-  "russian_example_sentence": "Ты не разрешишь ему говорить на этом важном собрании.",
-  "turkish_example_sentence": "Sen bu önemli toplantıda konuşmasına izin vermeyeceksin.",
-  "turkish_example_sentence_with_blank": "Sen bu önemli toplantıda konuşmasına izin ______."
+  "english_example_sentence": "You will not allow the children to play.",
+  "russian_example_sentence": "Ты не разрешишь детям играть.",
+  "turkish_example_sentence": "Sen çocukların oynamasına izin vermeyeceksin.",
+  "turkish_example_sentence_with_blank": "Sen çocukların oynamasına ______."
 }

@@ -1,20 +1,20 @@
 {
   "verb_rank": 95,
-  "verb_english": "to decide",
+  "verb_english": "decide",
   "verb_russian": "решать",
   "verb_infinitive": "karar vermek",
   "turkish_verb": {
-    "verb_full": "karar vermez",
+    "verb_full": "karar vermiyor",
     "root": "karar ver",
-    "tense_affix": "z",
+    "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "m"
   },
-  "english_example_sentence": "My boss never decides on an important matter.",
-  "russian_example_sentence": "Мой начальник никогда не принимает решение по важному вопросу.",
-  "turkish_example_sentence": "Patronum önemli bir konuda asla karar vermez.",
-  "turkish_example_sentence_with_blank": "Patronum önemli bir konuda asla ______."
+  "english_example_sentence": "The teacher does not decide the rules.",
+  "russian_example_sentence": "Учитель не решает правила.",
+  "turkish_example_sentence": "Öğretmen kuralları **karar vermiyor**.",
+  "turkish_example_sentence_with_blank": "Öğretmen kuralları **______**."
 }

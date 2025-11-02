@@ -1,11 +1,11 @@
 {
   "verb_rank": 64,
-  "verb_english": "to allow",
+  "verb_english": "allow",
   "verb_russian": "разрешать",
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
     "verb_full": "izin vereceksiniz",
-    "root": "ver",
+    "root": "izin ver",
     "tense_affix": "ecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "siz",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You will allow this new plan for the team.",
-  "russian_example_sentence": "Вы разрешите этот новый план команде.",
-  "turkish_example_sentence": "Siz takıma bu yeni plana izin vereceksiniz.",
-  "turkish_example_sentence_with_blank": "Siz takıma bu yeni plana ______."
+  "english_example_sentence": "You will allow the children to play.",
+  "russian_example_sentence": "Вы разрешите детям играть.",
+  "turkish_example_sentence": "Öğretmenler, çocukların oyun oynamasına izin vereceksiniz.",
+  "turkish_example_sentence_with_blank": "Öğretmenler, çocukların oyun oynamasına ______."
 }

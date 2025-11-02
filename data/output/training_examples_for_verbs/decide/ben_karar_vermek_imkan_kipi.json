@@ -1,20 +1,20 @@
 {
   "verb_rank": 95,
-  "verb_english": "to decide",
+  "verb_english": "decide",
   "verb_russian": "решать",
   "verb_infinitive": "karar vermek",
   "turkish_verb": {
-    "verb_full": "karar verebilirim",
+    "verb_full": "karar veriyorum",
     "root": "karar ver",
-    "tense_affix": "ebilir",
+    "tense_affix": "iyor",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "im",
+    "personal_affix": "um",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I can make this important decision with my family.",
-  "russian_example_sentence": "Я могу принять это важное решение со своей семьей.",
-  "turkish_example_sentence": "Ben bu önemli kararı ailemle birlikte verebilirim.",
-  "turkish_example_sentence_with_blank": "Ben bu önemli kararı ailemle birlikte verebilirim."
+  "english_example_sentence": "I am deciding on the important project.",
+  "russian_example_sentence": "Я решаю по важному проекту.",
+  "turkish_example_sentence": "Ben önemli proje hakkında karar veriyorum.",
+  "turkish_example_sentence_with_blank": "Ben önemli proje hakkında ______."
 }

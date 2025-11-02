@@ -1,20 +1,20 @@
 {
   "verb_rank": 65,
-  "verb_english": "to add",
+  "verb_english": "add",
   "verb_russian": "добавлять",
   "verb_infinitive": "eklemek",
   "turkish_verb": {
     "verb_full": "eklemiyoruz",
     "root": "ekle",
-    "tense_affix": "yor",
+    "tense_affix": "iyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "uz",
+    "personal_affix": "iz",
     "polarity": "negative",
-    "negative_affix": "mi"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "We are not adding spice to this delicious soup.",
-  "russian_example_sentence": "Мы не добавляем специи в этот вкусный суп.",
-  "turkish_example_sentence": "Biz bu lezzetli çorbaya baharat eklemiyoruz.",
-  "turkish_example_sentence_with_blank": "Biz bu lezzetli çorbaya baharat ______."
+  "english_example_sentence": "We are not adding the new features.",
+  "russian_example_sentence": "Мы не добавляем новые функции.",
+  "turkish_example_sentence": "Biz yeni özellikleri eklemiyoruz.",
+  "turkish_example_sentence_with_blank": "Biz yeni özellikleri ______."
 }

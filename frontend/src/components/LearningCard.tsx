@@ -593,6 +593,99 @@ export const LearningCard: React.FC<LearningCardProps> = ({
     return 'Open grammar reference in a new window';
   };
 
+  // Render source sentence with colored Turkish verb when direction is from Turkish
+  const renderSourceSentence = () => {
+    if (!direction.startsWith('turkish')) {
+      // Not learning from Turkish, return plain text
+      return source.sentence;
+    }
+
+    // Learning from Turkish - color the verb parts in the Turkish sentence
+    const sentence = example.turkish_example_sentence;
+    const sentenceLower = sentence.toLowerCase();
+    
+    // Try to find the verb in the sentence
+    // First try: look for verb_full
+    let verbIndex = sentenceLower.indexOf(example.turkish_verb.verb_full.toLowerCase());
+    let verbLength = example.turkish_verb.verb_full.length;
+    
+    // Second try: build verb from components
+    if (verbIndex === -1) {
+      let verbToFind = '';
+      if (example.turkish_verb.root) verbToFind += example.turkish_verb.root;
+      if (example.turkish_verb.negative_affix) verbToFind += example.turkish_verb.negative_affix;
+      if (example.turkish_verb.tense_affix) verbToFind += example.turkish_verb.tense_affix;
+      if (example.turkish_verb.personal_affix) verbToFind += example.turkish_verb.personal_affix;
+      
+      verbIndex = sentenceLower.indexOf(verbToFind.toLowerCase());
+      verbLength = verbToFind.length;
+    }
+
+    if (verbIndex === -1) {
+      // Verb not found at all - this is a data issue, just return plain text
+      return sentence;
+    }
+
+    // Build colored verb JSX
+    const beforeVerb = sentence.substring(0, verbIndex);
+    const afterVerb = sentence.substring(verbIndex + verbLength);
+    
+    let verbOffset = 0;
+    const verbParts: JSX.Element[] = [];
+
+    // Root (blue, bold)
+    if (example.turkish_verb.root) {
+      const rootText = sentence.substring(verbIndex + verbOffset, verbIndex + verbOffset + example.turkish_verb.root.length);
+      verbParts.push(
+        <span key="root" className="text-blue-600 font-bold">
+          {rootText}
+        </span>
+      );
+      verbOffset += example.turkish_verb.root.length;
+    }
+
+    // Negative affix (purple)
+    if (example.turkish_verb.negative_affix) {
+      const negText = sentence.substring(verbIndex + verbOffset, verbIndex + verbOffset + example.turkish_verb.negative_affix.length);
+      verbParts.push(
+        <span key="negative" className="text-purple-600">
+          {negText}
+        </span>
+      );
+      verbOffset += example.turkish_verb.negative_affix.length;
+    }
+
+    // Tense affix (orange)
+    if (example.turkish_verb.tense_affix) {
+      const tenseText = sentence.substring(verbIndex + verbOffset, verbIndex + verbOffset + example.turkish_verb.tense_affix.length);
+      verbParts.push(
+        <span key="tense" className="text-orange-700">
+          {tenseText}
+        </span>
+      );
+      verbOffset += example.turkish_verb.tense_affix.length;
+    }
+
+    // Personal affix (green)
+    if (example.turkish_verb.personal_affix) {
+      const personalText = sentence.substring(verbIndex + verbOffset, verbIndex + verbOffset + example.turkish_verb.personal_affix.length);
+      verbParts.push(
+        <span key="personal" className="text-green-700">
+          {personalText}
+        </span>
+      );
+      verbOffset += example.turkish_verb.personal_affix.length;
+    }
+    
+    return (
+      <>
+        {beforeVerb}
+        {verbParts}
+        {afterVerb}
+      </>
+    );
+  };
+
   return (
     <div className="card max-w-6xl mx-auto animate-fade-in">
       <div className="mb-6">
@@ -636,7 +729,9 @@ export const LearningCard: React.FC<LearningCardProps> = ({
             {source.verb}
           </div>
           <div className="text-xl text-gray-900">
-            "{source.sentence}"
+            <span>"</span>
+            {renderSourceSentence()}
+            <span>"</span>
           </div>
         </div>
       </div>
@@ -672,184 +767,122 @@ export const LearningCard: React.FC<LearningCardProps> = ({
         </div>
       </div>
 
-      {/* Progress Indicators */}
-      {isLearningTurkish ? (
-        <div className="mt-6">
-          <div className="flex items-center justify-between mb-3">
-            <h3 className="text-sm font-medium text-gray-700">
-              Progress Indicators:
-            </h3>
-            {/* Status and Counter */}
-            <div className="flex items-center gap-3">
-              {/* Answered/Not Answered Label */}
-              <span
-                className={clsx(
-                  'text-sm font-semibold',
-                  isAnswered 
-                    ? 'text-green-600'
-                    : 'text-gray-500'
-                )}
-              >
-                {isAnswered ? 'Answered' : 'Not Answered'}
-              </span>
-              
-              {/* Correct Answers Counter */}
-              <div 
-                className="bg-green-50 border-2 border-green-500 rounded-lg px-3 py-1"
-                title="Unique examples completed"
-              >
-                <div className="flex items-center gap-2">
-                  <Target className="w-4 h-4 text-green-600" />
-                  <span className="text-xl font-bold text-green-600">
-                    {correctAnswers}
-                  </span>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div className="flex flex-wrap gap-4">
-            <ProgressCheckbox
-              label="Verb Root"
-              checked={progress.verbRoot}
-              color="blue"
-              onToggle={() => {
-                const newProgress = { ...progress, verbRoot: !progress.verbRoot };
-                setProgress(newProgress);
-                // Update main textbox based on new progress
-                setUserInput(buildTextFromProgress(newProgress));
-                // Don't notify parent - this is not manual input
-              }}
-            />
-            {example.turkish_verb.polarity === 'negative' && example.turkish_verb.negative_affix && (
-              <ProgressCheckbox
-                label="Negative Affix"
-                checked={progress.negativeAffix}
-                color="purple"
-                onToggle={() => {
-                  const newProgress = { ...progress, negativeAffix: !progress.negativeAffix };
-                  setProgress(newProgress);
-                  // Update main textbox based on new progress
-                  setUserInput(buildTextFromProgress(newProgress));
-                  // Don't notify parent - this is not manual input
-                }}
-              />
+      {/* Progress Section */}
+      <div className="mt-6">
+        {/* Status and Counter */}
+        <div className="flex items-center justify-between mb-4">
+          <span
+            className={clsx(
+              'text-sm font-semibold',
+              isAnswered 
+                ? 'text-green-600'
+                : 'text-gray-500'
             )}
-            <ProgressCheckbox
-              label="Tense Affix"
-              checked={progress.tenseAffix}
-              color="orange"
-              onToggle={() => {
-                const newProgress = { ...progress, tenseAffix: !progress.tenseAffix };
-                setProgress(newProgress);
-                // Update main textbox based on new progress
-                setUserInput(buildTextFromProgress(newProgress));
-                // Don't notify parent - this is not manual input
-              }}
-            />
-            <ProgressCheckbox
-              label="Personal Affix"
-              checked={progress.personalAffix}
-              color="green"
-              onToggle={() => {
-                const newProgress = { ...progress, personalAffix: !progress.personalAffix };
-                setProgress(newProgress);
-                // Update main textbox based on new progress
-                setUserInput(buildTextFromProgress(newProgress));
-                // Don't notify parent - this is not manual input
-              }}
-            />
-            <ProgressCheckbox
-              label="Complete Phrase"
-              checked={progress.fullSentence}
-              color="gray"
-              onToggle={() => {
-                const isChecking = !progress.fullSentence;
-                
-                if (isChecking) {
-                  // If checking Complete Phrase, check all components too
-                  const newProgress = { 
-                    ...progress, 
-                    fullSentence: true,
-                    verbRoot: true,
-                    negativeAffix: example.turkish_verb.polarity === 'negative' ? true : progress.negativeAffix,
-                    tenseAffix: true,
-                    personalAffix: true
-                  };
-                  setProgress(newProgress);
-                  setUserInput(buildTextFromProgress(newProgress));
-                } else {
-                  // If unchecking Complete Phrase, uncheck all components and clear textbox
-                  const newProgress = { 
-                    verbRoot: false,
-                    negativeAffix: false,
-                    tenseAffix: false,
-                    personalAffix: false,
-                    fullSentence: false
-                  };
-                  setProgress(newProgress);
-                  setUserInput('');
-                }
-                // Don't notify parent - this is not manual input
-              }}
-            />
-          </div>
-        </div>
-      ) : (
-        <div className="mt-6">
-          <div className="flex items-center justify-between mb-3">
-            <h3 className="text-sm font-medium text-gray-700">
-              Progress:
-            </h3>
-            {/* Correct Answers Counter */}
-            <div 
-              className="bg-green-50 border-2 border-green-500 rounded-lg px-3 py-1"
-              title="Correct answers entered manually"
-            >
-              <div className="flex items-center gap-2">
-                <Target className="w-4 h-4 text-green-600" />
-                <span className="text-xl font-bold text-green-600">
-                  {correctAnswers}
-                </span>
-              </div>
+          >
+            {isAnswered ? 'Answered' : 'Not Answered'}
+          </span>
+          
+          {/* Correct Answers Counter */}
+          <div 
+            className="bg-green-50 border-2 border-green-500 rounded-lg px-3 py-1"
+            title="Unique examples completed"
+          >
+            <div className="flex items-center gap-2">
+              <Target className="w-4 h-4 text-green-600" />
+              <span className="text-xl font-bold text-green-600">
+                {correctAnswers}
+              </span>
             </div>
           </div>
-          <div className="flex items-center gap-2">
+        </div>
+
+        {/* Progress Checkboxes */}
+        <div className="flex flex-wrap gap-4">
+          <ProgressCheckbox
+            label="Verb Root"
+            checked={progress.verbRoot}
+            color="blue"
+            onToggle={() => {
+              const newProgress = { ...progress, verbRoot: !progress.verbRoot };
+              setProgress(newProgress);
+              if (isLearningTurkish) {
+                setUserInput(buildTextFromProgress(newProgress));
+              }
+            }}
+          />
+          {example.turkish_verb.polarity === 'negative' && example.turkish_verb.negative_affix && (
             <ProgressCheckbox
-              label="Complete Answer"
-              checked={progress.fullSentence}
+              label="Negative Affix"
+              checked={progress.negativeAffix}
+              color="purple"
               onToggle={() => {
-                const isChecking = !progress.fullSentence;
-                
-                if (isChecking) {
-                  // If checking Complete Answer, check all components too (for consistency)
-                  const newProgress = { 
-                    ...progress, 
-                    fullSentence: true,
-                    verbRoot: true,
-                    negativeAffix: true,
-                    tenseAffix: true,
-                    personalAffix: true
-                  };
-                  setProgress(newProgress);
+                const newProgress = { ...progress, negativeAffix: !progress.negativeAffix };
+                setProgress(newProgress);
+                if (isLearningTurkish) {
                   setUserInput(buildTextFromProgress(newProgress));
-                } else {
-                  // If unchecking Complete Answer, uncheck all components and clear textbox
-                  const newProgress = { 
-                    verbRoot: false,
-                    negativeAffix: false,
-                    tenseAffix: false,
-                    personalAffix: false,
-                    fullSentence: false
-                  };
-                  setProgress(newProgress);
-                  setUserInput('');
                 }
-                // Don't notify parent - this is not manual input
               }}
             />
-          </div>
+          )}
+          <ProgressCheckbox
+            label="Tense Affix"
+            checked={progress.tenseAffix}
+            color="orange"
+            onToggle={() => {
+              const newProgress = { ...progress, tenseAffix: !progress.tenseAffix };
+              setProgress(newProgress);
+              if (isLearningTurkish) {
+                setUserInput(buildTextFromProgress(newProgress));
+              }
+            }}
+          />
+          <ProgressCheckbox
+            label="Personal Affix"
+            checked={progress.personalAffix}
+            color="green"
+            onToggle={() => {
+              const newProgress = { ...progress, personalAffix: !progress.personalAffix };
+              setProgress(newProgress);
+              if (isLearningTurkish) {
+                setUserInput(buildTextFromProgress(newProgress));
+              }
+            }}
+          />
+          <ProgressCheckbox
+            label="Reveal Answer"
+            checked={progress.fullSentence}
+            color="gray"
+            onToggle={() => {
+              const isChecking = !progress.fullSentence;
+              
+              if (isChecking) {
+                // If checking Reveal Answer, check all components too
+                const newProgress = { 
+                  ...progress, 
+                  fullSentence: true,
+                  verbRoot: true,
+                  negativeAffix: example.turkish_verb.polarity === 'negative' ? true : progress.negativeAffix,
+                  tenseAffix: true,
+                  personalAffix: true
+                };
+                setProgress(newProgress);
+                setUserInput(buildTextFromProgress(newProgress));
+              } else {
+                // If unchecking Reveal Answer, uncheck all components and clear textbox
+                const newProgress = { 
+                  verbRoot: false,
+                  negativeAffix: false,
+                  tenseAffix: false,
+                  personalAffix: false,
+                  fullSentence: false
+                };
+                setProgress(newProgress);
+                setUserInput('');
+              }
+            }}
+          />
         </div>
-      )}
+      </div>
 
       {/* Navigation Controls */}
       <NavigationControls

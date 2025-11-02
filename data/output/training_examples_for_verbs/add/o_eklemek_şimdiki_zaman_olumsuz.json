@@ -1,20 +1,20 @@
 {
   "verb_rank": 65,
-  "verb_english": "to add",
+  "verb_english": "add",
   "verb_russian": "добавлять",
   "verb_infinitive": "eklemek",
   "turkish_verb": {
     "verb_full": "eklemiyor",
     "root": "ekle",
-    "tense_affix": "yor",
+    "tense_affix": "iyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "mi"
   },
-  "english_example_sentence": "The small child is not adding salt to his food.",
-  "russian_example_sentence": "Маленький ребенок не добавляет соль в свою еду.",
-  "turkish_example_sentence": "Küçük çocuk, yemeğine tuz eklemiyor.",
-  "turkish_example_sentence_with_blank": "Küçük çocuk, yemeğine tuz ______."
+  "english_example_sentence": "The teacher is not adding the homework.",
+  "russian_example_sentence": "Учитель не добавляет домашнее задание.",
+  "turkish_example_sentence": "Öğretmen ödevi eklemiyor.",
+  "turkish_example_sentence_with_blank": "Öğretmen ödevi ______."
 }

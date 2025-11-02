@@ -1,6 +1,6 @@
 {
   "verb_rank": 1,
-  "verb_english": "to be",
+  "verb_english": "be",
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
@@ -9,12 +9,12 @@
     "tense_affix": "du",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "duk",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Our group was very successful yesterday.",
-  "russian_example_sentence": "Наша группа была очень успешной вчера.",
-  "turkish_example_sentence": "Bizim grup dün çok başarılı oldu.",
-  "turkish_example_sentence_with_blank": "Bizim grup dün çok başarılı oldu."
+  "english_example_sentence": "We were happy last year.",
+  "russian_example_sentence": "Мы были счастливы в прошлом году.",
+  "turkish_example_sentence": "Geçen yıl biz mutlu olduk.",
+  "turkish_example_sentence_with_blank": "Geçen yıl biz mutlu ______."
 }

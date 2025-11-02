@@ -1,20 +1,20 @@
 {
   "verb_rank": 64,
-  "verb_english": "to allow",
+  "verb_english": "allow",
   "verb_russian": "разрешать",
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
-    "verb_full": "izin versek",
-    "root": "izin ver",
-    "tense_affix": "se",
+    "verb_full": "izin verirsek",
+    "root": "izin vermek",
+    "tense_affix": "irsek",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we allow, the young students will comfortably play in the park.",
-  "russian_example_sentence": "Если мы разрешим, юные студенты будут комфортно играть в парке.",
-  "turkish_example_sentence": "Eğer biz izin versek, küçük öğrenciler parkta rahatça oynar.",
-  "turkish_example_sentence_with_blank": "Eğer biz ______, küçük öğrenciler parkta rahatça oynar."
+  "english_example_sentence": "If we allow the children to play, they will be happy.",
+  "russian_example_sentence": "Если мы разрешим детям играть, они будут счастливы.",
+  "turkish_example_sentence": "Eğer çocukların oynamasına izin verirsek, onlar mutlu olacak.",
+  "turkish_example_sentence_with_blank": "Eğer çocukların oynamasına ______, onlar mutlu olacak."
 }

@@ -1,20 +1,20 @@
 {
   "verb_rank": 65,
-  "verb_english": "to add",
+  "verb_english": "add",
   "verb_russian": "добавлять",
   "verb_infinitive": "eklemek",
   "turkish_verb": {
     "verb_full": "ekleyeceğiz",
     "root": "ekle",
-    "tense_affix": "yecek",
+    "tense_affix": "yacak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "iz",
+    "personal_affix": "ız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We will add new information to this report.",
-  "russian_example_sentence": "Мы добавим новую информацию в этот отчет.",
-  "turkish_example_sentence": "Bu rapora yeni bilgiler ekleyeceğiz.",
-  "turkish_example_sentence_with_blank": "Bu rapora yeni bilgiler ______."
+  "english_example_sentence": "We will add a new feature to the project.",
+  "russian_example_sentence": "Мы добавим новую функцию в проект.",
+  "turkish_example_sentence": "Proje için yeni bir özellik ekleyeceğiz.",
+  "turkish_example_sentence_with_blank": "Proje için yeni bir özellik ______."
 }

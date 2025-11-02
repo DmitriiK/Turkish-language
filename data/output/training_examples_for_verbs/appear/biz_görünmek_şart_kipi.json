@@ -1,20 +1,20 @@
 {
   "verb_rank": 75,
-  "verb_english": "to appear",
+  "verb_english": "appear",
   "verb_russian": "появляться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünsek",
+    "verb_full": "görüneceğiz",
     "root": "görün",
-    "tense_affix": "se",
+    "tense_affix": "ecek",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we appeared a little more careful, the team would manage our project better.",
-  "russian_example_sentence": "Если бы мы выглядели немного осторожнее, команда управляла бы нашим проектом лучше.",
-  "turkish_example_sentence": "Biz biraz daha dikkatli görünsek, ekip projemizi daha iyi yönetirdi.",
-  "turkish_example_sentence_with_blank": "Biz biraz daha dikkatli ______, ekip projemizi daha iyi yönetirdi."
+  "english_example_sentence": "We will appear in the show tomorrow.",
+  "russian_example_sentence": "Мы появимся на шоу завтра.",
+  "turkish_example_sentence": "Yarın gösteride biz görüneceğiz.",
+  "turkish_example_sentence_with_blank": "Yarın gösteride biz ______."
 }

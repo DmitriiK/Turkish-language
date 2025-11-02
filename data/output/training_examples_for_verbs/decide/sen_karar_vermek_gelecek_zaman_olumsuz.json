@@ -1,20 +1,20 @@
 {
   "verb_rank": 95,
-  "verb_english": "to decide",
+  "verb_english": "decide",
   "verb_russian": "решать",
   "verb_infinitive": "karar vermek",
   "turkish_verb": {
     "verb_full": "karar vermeyeceksin",
-    "root": "karar ver",
-    "tense_affix": "yecek",
+    "root": "karar vermek",
+    "tense_affix": "yacak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "sin",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You will not decide about this difficult task.",
-  "russian_example_sentence": "Ты не будешь принимать решение по этому сложному заданию.",
-  "turkish_example_sentence": "Sen bu zorlu görev hakkında karar vermeyeceksin.",
-  "turkish_example_sentence_with_blank": "Sen bu zorlu görev hakkında ______."
+  "english_example_sentence": "You will not decide today.",
+  "russian_example_sentence": "Ты не решишь сегодня.",
+  "turkish_example_sentence": "Bugün önemli bir konuda karar vermeyeceksin.",
+  "turkish_example_sentence_with_blank": "Bugün önemli bir konuda ______."
 }

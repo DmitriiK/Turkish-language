@@ -1,20 +1,20 @@
 {
   "verb_rank": 2,
-  "verb_english": "to have",
+  "verb_english": "have",
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olsunlar",
-    "root": "sahip",
-    "tense_affix": "sun",
+    "verb_full": "sahip oluyorum",
+    "root": "sahip ol",
+    "tense_affix": "uyor",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "um",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I hope they have success",
-  "russian_example_sentence": "Я надеюсь, у них будет успех",
-  "turkish_example_sentence": "Umarım, onlar büyük başarıya sahip olsunlar",
-  "turkish_example_sentence_with_blank": "Umarım, onlar büyük başarıya ______"
+  "english_example_sentence": "They want to have a big house.",
+  "russian_example_sentence": "Они хотят иметь большой дом.",
+  "turkish_example_sentence": "Onlar büyük bir eve sahip oluyorum.",
+  "turkish_example_sentence_with_blank": "Onlar büyük bir eve ______."
 }

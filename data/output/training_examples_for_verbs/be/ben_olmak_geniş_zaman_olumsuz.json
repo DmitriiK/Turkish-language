@@ -1,6 +1,6 @@
 {
   "verb_rank": 1,
-  "verb_english": "to be",
+  "verb_english": "be",
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
@@ -13,8 +13,8 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I am not a doctor.",
-  "russian_example_sentence": "Я не врач.",
-  "turkish_example_sentence": "Ben genç bir doktor olmam.",
-  "turkish_example_sentence_with_blank": "Ben genç bir doktor ______."
+  "english_example_sentence": "I am not a student.",
+  "russian_example_sentence": "Я не студент.",
+  "turkish_example_sentence": "Ben iyi bir öğrenci **olmam**.",
+  "turkish_example_sentence_with_blank": "Ben iyi bir öğrenci **______**."
 }

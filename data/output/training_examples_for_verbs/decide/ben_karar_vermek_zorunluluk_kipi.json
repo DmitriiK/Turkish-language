@@ -1,20 +1,20 @@
 {
   "verb_rank": 95,
-  "verb_english": "to decide",
+  "verb_english": "decide",
   "verb_russian": "решать",
   "verb_infinitive": "karar vermek",
   "turkish_verb": {
     "verb_full": "karar vermeliyim",
-    "root": "ver",
-    "tense_affix": "meli",
+    "root": "karar ver",
+    "tense_affix": "meliyim",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "yim",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I must make an important decision in this difficult situation.",
-  "russian_example_sentence": "Я должен принять важное решение в этой сложной ситуации.",
-  "turkish_example_sentence": "Bu zorlu durumda önemli bir karar vermeliyim.",
-  "turkish_example_sentence_with_blank": "Bu zorlu durumda önemli bir ______."
+  "english_example_sentence": "I must decide about the meeting.",
+  "russian_example_sentence": "Я должен решить по поводу встречи.",
+  "turkish_example_sentence": "Ben toplantı hakkında karar vermeliyim.",
+  "turkish_example_sentence_with_blank": "Ben toplantı hakkında ______."
 }

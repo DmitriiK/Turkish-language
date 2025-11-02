@@ -1,20 +1,20 @@
 {
   "verb_rank": 95,
-  "verb_english": "to decide",
+  "verb_english": "decide",
   "verb_russian": "решать",
   "verb_infinitive": "karar vermek",
   "turkish_verb": {
-    "verb_full": "karar verseydiler",
-    "root": "ver",
-    "tense_affix": "seydi",
+    "verb_full": "karar verdiler",
+    "root": "karar ver",
+    "tense_affix": "di",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they had decided earlier, everything would be different.",
-  "russian_example_sentence": "Если бы они решили раньше, всё было бы по-другому.",
-  "turkish_example_sentence": "Eğer onlar daha erken karar verseydiler, her şey farklı olurdu.",
-  "turkish_example_sentence_with_blank": "Eğer onlar daha erken ______, her şey farklı olurdu."
+  "english_example_sentence": "They decided to go to the party.",
+  "russian_example_sentence": "Они решили пойти на вечеринку.",
+  "turkish_example_sentence": "Arkadaşlar bu yaz tatile gitmeye karar verdiler.",
+  "turkish_example_sentence_with_blank": "Arkadaşlar bu yaz tatile gitmeye ______."
 }

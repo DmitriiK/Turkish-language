@@ -1,20 +1,20 @@
 {
   "verb_rank": 65,
-  "verb_english": "to add",
+  "verb_english": "add",
   "verb_russian": "добавлять",
   "verb_infinitive": "eklemek",
   "turkish_verb": {
-    "verb_full": "eklesem",
+    "verb_full": "ekleyeceğim",
     "root": "ekle",
-    "tense_affix": "se",
+    "tense_affix": "yecek",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I add a little more spice, the food will be more delicious.",
-  "russian_example_sentence": "Если я добавлю немного больше специй, еда будет вкуснее.",
-  "turkish_example_sentence": "Ben biraz daha baharat eklesem, yemek daha lezzetli olur.",
-  "turkish_example_sentence_with_blank": "Ben biraz daha baharat ______, yemek daha lezzetli olur."
+  "english_example_sentence": "I will add the new book and pen.",
+  "russian_example_sentence": "Я добавлю новую книгу и ручку.",
+  "turkish_example_sentence": "Yeni kitabı ve kalemi ekleyeceğim.",
+  "turkish_example_sentence_with_blank": "Yeni kitabı ve kalemi ______."
 }

@@ -1,10 +1,10 @@
 {
   "verb_rank": 1,
-  "verb_english": "to be",
+  "verb_english": "be",
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmazlar",
+    "verb_full": "olmuyorlar",
     "root": "ol",
     "tense_affix": "",
     "verb_tense": "geniş_zaman",
@@ -13,8 +13,8 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "The students are not diligent.",
-  "russian_example_sentence": "Студенты не трудолюбивы.",
-  "turkish_example_sentence": "Öğrenciler genellikle çalışkan olmazlar.",
-  "turkish_example_sentence_with_blank": "Öğrenciler genellikle çalışkan ______."
+  "english_example_sentence": "They are not happy today.",
+  "russian_example_sentence": "Они сегодня не счастливы.",
+  "turkish_example_sentence": "Çocuklar bahçede mutlu olmuyorlar.",
+  "turkish_example_sentence_with_blank": "Çocuklar bahçede mutlu ______."
 }

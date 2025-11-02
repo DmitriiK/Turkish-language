@@ -1,20 +1,20 @@
 {
   "verb_rank": 95,
-  "verb_english": "to decide",
+  "verb_english": "decide",
   "verb_russian": "решать",
   "verb_infinitive": "karar vermek",
   "turkish_verb": {
-    "verb_full": "karar vereyim",
+    "verb_full": "karar veriyorum",
     "root": "karar ver",
-    "tense_affix": "e",
+    "tense_affix": "iyor",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "yim",
+    "personal_affix": "um",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Let me make a quick decision on this important matter.",
-  "russian_example_sentence": "Позвольте мне принять быстрое решение по этому важному вопросу.",
-  "turkish_example_sentence": "Bu önemli konuda hızlı bir karar vereyim.",
-  "turkish_example_sentence_with_blank": "Bu önemli konuda hızlı bir ______."
+  "english_example_sentence": "I am deciding on the important matters.",
+  "russian_example_sentence": "Я решаю важные вопросы.",
+  "turkish_example_sentence": "Ben önemli konular hakkında karar veriyorum.",
+  "turkish_example_sentence_with_blank": "Ben önemli konular hakkında ______."
 }

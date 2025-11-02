@@ -1,20 +1,20 @@
 {
   "verb_rank": 64,
-  "verb_english": "to allow",
+  "verb_english": "allow",
   "verb_russian": "разрешать",
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
     "verb_full": "izin vermeyeceğim",
-    "root": "ver",
-    "tense_affix": "yecek",
+    "root": "izin ver",
+    "tense_affix": "ecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "im",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "I will not allow this bad idea in our project.",
-  "russian_example_sentence": "Я не разрешу эту плохую идею в нашем проекте.",
-  "turkish_example_sentence": "Ben bu kötü fikre projemizde izin vermeyeceğim.",
-  "turkish_example_sentence_with_blank": "Ben bu kötü fikre projemizde ______."
+  "english_example_sentence": "I will not allow my friends to play.",
+  "russian_example_sentence": "Я не позволю своим друзьям играть.",
+  "turkish_example_sentence": "Ben arkadaşlarımın oynamasına izin vermeyeceğim.",
+  "turkish_example_sentence_with_blank": "Ben arkadaşlarımın oynamasına ______."
 }

@@ -1,20 +1,20 @@
 {
   "verb_rank": 75,
-  "verb_english": "to appear",
+  "verb_english": "appear",
   "verb_russian": "появляться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görüneyim",
+    "verb_full": "görünmekteyim",
     "root": "görün",
-    "tense_affix": "e",
+    "tense_affix": "mekte",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "yim",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I wish I could appear more confident in front of a new community.",
-  "russian_example_sentence": "Я бы хотел выглядеть более уверенным перед новым сообществом.",
-  "turkish_example_sentence": "Yeni bir topluluk önünde daha özgüvenli görüneyim.",
-  "turkish_example_sentence_with_blank": "Yeni bir topluluk önünde daha özgüvenli ______."
+  "english_example_sentence": "I want to appear at the event.",
+  "russian_example_sentence": "Я хочу появиться на мероприятии.",
+  "turkish_example_sentence": "Ben bu etkinlikte görünmekteyim.",
+  "turkish_example_sentence_with_blank": "Ben bu etkinlikte ______."
 }

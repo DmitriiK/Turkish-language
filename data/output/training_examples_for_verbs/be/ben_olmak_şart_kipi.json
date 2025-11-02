@@ -1,20 +1,20 @@
 {
   "verb_rank": 1,
-  "verb_english": "to be",
+  "verb_english": "be",
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olsam",
+    "verb_full": "olacağım",
     "root": "ol",
-    "tense_affix": "sa",
+    "tense_affix": "acak",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If only I were a painter.",
-  "russian_example_sentence": "Если бы я был художником.",
-  "turkish_example_sentence": "Keşke ben yetenekli bir ressam olsam.",
-  "turkish_example_sentence_with_blank": "Keşke ben yetenekli bir ressam ______."
+  "english_example_sentence": "I will be happy this year.",
+  "russian_example_sentence": "Я буду счастлив в этом году.",
+  "turkish_example_sentence": "Ben bu yıl mutlu olacağım.",
+  "turkish_example_sentence_with_blank": "Ben bu yıl mutlu ______."
 }

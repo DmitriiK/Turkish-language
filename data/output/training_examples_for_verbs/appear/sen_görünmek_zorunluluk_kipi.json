@@ -1,20 +1,20 @@
 {
   "verb_rank": 75,
-  "verb_english": "to appear",
+  "verb_english": "appear",
   "verb_russian": "появляться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
     "verb_full": "görünmelisin",
     "root": "görün",
-    "tense_affix": "meli",
+    "tense_affix": "mel",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You must appear more careful at this important meeting.",
-  "russian_example_sentence": "Ты должен выглядеть более внимательным на этой важной встрече.",
-  "turkish_example_sentence": "Bu önemli toplantıda daha dikkatli görünmelisin.",
-  "turkish_example_sentence_with_blank": "Bu önemli toplantıda daha dikkatli ______."
+  "english_example_sentence": "You must appear at the meeting.",
+  "russian_example_sentence": "Ты должен появиться на встрече.",
+  "turkish_example_sentence": "Toplantıda görünmelisin.",
+  "turkish_example_sentence_with_blank": "Toplantıda ______."
 }

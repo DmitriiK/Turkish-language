@@ -1,20 +1,20 @@
 {
   "verb_rank": 1,
-  "verb_english": "to be",
+  "verb_english": "be",
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
     "verb_full": "olmayacaklar",
     "root": "ol",
-    "tense_affix": "acak",
+    "tense_affix": "yacak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "The students will not be ready for the exam.",
-  "russian_example_sentence": "Студенты не будут готовы к экзамену.",
-  "turkish_example_sentence": "Öğrenciler sınava hazır olmayacaklar.",
-  "turkish_example_sentence_with_blank": "Öğrenciler sınava hazır ______."
+  "english_example_sentence": "They will not be happy.",
+  "russian_example_sentence": "Они не будут счастливы.",
+  "turkish_example_sentence": "Çocuklar parkta mutlu olmayacaklar.",
+  "turkish_example_sentence_with_blank": "Çocuklar parkta mutlu ______."
 }

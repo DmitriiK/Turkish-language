@@ -1,20 +1,20 @@
 {
   "verb_rank": 2,
-  "verb_english": "to have",
+  "verb_english": "have",
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip değilsiniz",
-    "root": "sahip",
+    "verb_full": "sahip olmuyorsunuz",
+    "root": "sahip ol",
     "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "siniz",
+    "personal_affix": "sunuz",
     "polarity": "negative",
-    "negative_affix": "değil"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "You do not have a car.",
-  "russian_example_sentence": "У вас нет машины.",
-  "turkish_example_sentence": "Sizin arabanız yok.",
-  "turkish_example_sentence_with_blank": "Sizin arabanız yok."
+  "english_example_sentence": "You do not have a big dog.",
+  "russian_example_sentence": "У вас нет большой собаки.",
+  "turkish_example_sentence": "Siz büyük bir köpeğe sahip olmuyorsunuz.",
+  "turkish_example_sentence_with_blank": "Siz büyük bir köpeğe ______."
 }

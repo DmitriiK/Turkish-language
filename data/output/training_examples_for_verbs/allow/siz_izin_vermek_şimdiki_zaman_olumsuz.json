@@ -1,20 +1,20 @@
 {
   "verb_rank": 64,
-  "verb_english": "to allow",
+  "verb_english": "allow",
   "verb_russian": "разрешать",
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
     "verb_full": "izin vermiyorsunuz",
     "root": "izin ver",
-    "tense_affix": "yor",
+    "tense_affix": "iyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "sunuz",
     "polarity": "negative",
-    "negative_affix": "mi"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "You are not allowing the small children to play in the park.",
-  "russian_example_sentence": "Вы не разрешаете маленьким детям играть в парке.",
-  "turkish_example_sentence": "Siz küçük çocuklara parkta oyun oynamalarına izin vermiyorsunuz.",
-  "turkish_example_sentence_with_blank": "Siz küçük çocuklara parkta oyun oynamalarına ______."
+  "english_example_sentence": "You are not allowing us to play.",
+  "russian_example_sentence": "Вы не разрешаете нам играть.",
+  "turkish_example_sentence": "Öğretmenler bu hafta sınav yapmıyorsunuz.",
+  "turkish_example_sentence_with_blank": "Öğretmenler bu hafta sınav yapmıyorsunuz."
 }

@@ -1,20 +1,20 @@
 {
   "verb_rank": 75,
-  "verb_english": "to appear",
+  "verb_english": "appear",
   "verb_russian": "появляться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmüş olsaydı",
+    "verb_full": "görünseydi",
     "root": "görün",
-    "tense_affix": "müş olsaydı",
+    "tense_affix": "seydi",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If a strange flower had appeared in that old garden, it would have been a big surprise.",
-  "russian_example_sentence": "Если бы странный цветок появился в том старом саду, это был бы большой сюрприз.",
-  "turkish_example_sentence": "O eski bahçede garip bir çiçek görünmüş olsaydı, büyük bir sürpriz olurdu.",
-  "turkish_example_sentence_with_blank": "O eski bahçede garip bir çiçek ______, büyük bir sürpriz olurdu."
+  "english_example_sentence": "The teacher appeared happy at the meeting.",
+  "russian_example_sentence": "Учитель появился счастливым на встрече.",
+  "turkish_example_sentence": "Öğretmen toplantıda mutlu görünseydi.",
+  "turkish_example_sentence_with_blank": "Öğretmen toplantıda mutlu ______."
 }

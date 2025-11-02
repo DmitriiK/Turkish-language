@@ -1,20 +1,20 @@
 {
   "verb_rank": 1,
-  "verb_english": "to be",
+  "verb_english": "be",
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olsaydık",
+    "verb_full": "olacağız",
     "root": "ol",
-    "tense_affix": "say",
+    "tense_affix": "acak",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "dık",
+    "personal_affix": "ız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We would be happy in the park.",
-  "russian_example_sentence": "Мы были бы счастливы в парке.",
-  "turkish_example_sentence": "Biz parkta mutlu olsaydık.",
-  "turkish_example_sentence_with_blank": "Biz parkta mutlu ______."
+  "english_example_sentence": "We will be happy together.",
+  "russian_example_sentence": "Мы будем счастливы вместе.",
+  "turkish_example_sentence": "Biz birlikte mutlu olacağız.",
+  "turkish_example_sentence_with_blank": "Biz birlikte mutlu ______."
 }

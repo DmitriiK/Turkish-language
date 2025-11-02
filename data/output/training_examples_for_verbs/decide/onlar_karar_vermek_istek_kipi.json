@@ -1,20 +1,20 @@
 {
   "verb_rank": 95,
-  "verb_english": "to decide",
+  "verb_english": "decide",
   "verb_russian": "решать",
   "verb_infinitive": "karar vermek",
   "turkish_verb": {
-    "verb_full": "karar vereler",
-    "root": "ver",
-    "tense_affix": "e",
+    "verb_full": "karar verecekler",
+    "root": "karar ver",
+    "tense_affix": "ecek",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Successful students should make an important decision about their future.",
-  "russian_example_sentence": "Успешные студенты пусть примут важное решение о своем будущем.",
-  "turkish_example_sentence": "Başarılı öğrenciler gelecekleri hakkında önemli bir karar vereler.",
-  "turkish_example_sentence_with_blank": "Başarılı öğrenciler gelecekleri hakkında önemli bir ______."
+  "english_example_sentence": "They will decide what to do.",
+  "russian_example_sentence": "Они решат, что делать.",
+  "turkish_example_sentence": "Öğrenciler bu proje hakkında karar verecekler.",
+  "turkish_example_sentence_with_blank": "Öğrenciler bu proje hakkında ______."
 }

@@ -1,20 +1,20 @@
 {
   "verb_rank": 1,
-  "verb_english": "to be",
+  "verb_english": "be",
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olan",
+    "verb_full": "olacak",
     "root": "ol",
-    "tense_affix": "an",
+    "tense_affix": "acak",
     "verb_tense": "sıfat_fiil",
     "personal_pronoun": null,
     "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The person being responsible completed the task.",
-  "russian_example_sentence": "Человек, являющийся ответственным, завершил задачу.",
-  "turkish_example_sentence": "Sorumlu olan kişi görevi tamamladı.",
-  "turkish_example_sentence_with_blank": "Sorumlu ______ kişi görevi tamamladı."
+  "english_example_sentence": "The flower will be beautiful.",
+  "russian_example_sentence": "Цветок будет красивым.",
+  "turkish_example_sentence": "Çiçek güzel olacak.",
+  "turkish_example_sentence_with_blank": "Çiçek güzel ______."
 }

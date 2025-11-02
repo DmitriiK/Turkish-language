@@ -1,20 +1,20 @@
 {
   "verb_rank": 95,
-  "verb_english": "to decide",
+  "verb_english": "decide",
   "verb_russian": "решать",
   "verb_infinitive": "karar vermek",
   "turkish_verb": {
-    "verb_full": "karar vermezsin",
+    "verb_full": "karar vermiyorum",
     "root": "karar ver",
     "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "zsin",
+    "personal_affix": "m",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "m"
   },
-  "english_example_sentence": "You don't decide on important matters.",
-  "russian_example_sentence": "Ты не решаешь важные вопросы.",
-  "turkish_example_sentence": "Sen önemli konularda karar vermezsin.",
-  "turkish_example_sentence_with_blank": "Sen önemli konularda ______."
+  "english_example_sentence": "You do not decide quickly.",
+  "russian_example_sentence": "Ты не решаешь быстро.",
+  "turkish_example_sentence": "Sen bu konuda hızlı karar vermiyorum.",
+  "turkish_example_sentence_with_blank": "Sen bu konuda hızlı ______."
 }

@@ -1,20 +1,20 @@
 {
   "verb_rank": 1,
-  "verb_english": "to be",
+  "verb_english": "be",
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmayız",
+    "verb_full": "olmam",
     "root": "ol",
     "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "yız",
+    "personal_affix": "ız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "Our friends are not the leaders.",
-  "russian_example_sentence": "Наши друзья не являются лидерами.",
-  "turkish_example_sentence": "Bizim arkadaşlarımız liderler değil.",
-  "turkish_example_sentence_with_blank": "Bizim arkadaşlarımız liderler değil."
+  "english_example_sentence": "We are not happy with the results.",
+  "russian_example_sentence": "Мы не довольны результатами.",
+  "turkish_example_sentence": "Biz sonuçlardan memnun **olmam**.",
+  "turkish_example_sentence_with_blank": "Biz sonuçlardan memnun **______**."
 }

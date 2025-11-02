@@ -1,6 +1,6 @@
 {
   "verb_rank": 65,
-  "verb_english": "to add",
+  "verb_english": "add",
   "verb_russian": "добавлять",
   "verb_infinitive": "eklemek",
   "turkish_verb": {
@@ -9,12 +9,12 @@
     "tense_affix": "se",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If the chef added a little salt to the food, the food would be more delicious.",
-  "russian_example_sentence": "Если бы повар добавил немного соли в еду, еда стала бы вкуснее.",
-  "turkish_example_sentence": "Aşçı yemeğe biraz tuz eklese, yemek daha lezzetli olurdu.",
-  "turkish_example_sentence_with_blank": "Aşçı yemeğe biraz tuz ______, yemek daha lezzetli olurdu."
+  "english_example_sentence": "He will add the new project.",
+  "russian_example_sentence": "Он добавит новый проект.",
+  "turkish_example_sentence": "Ali, yeni projeyi eklese çok iyi olur.",
+  "turkish_example_sentence_with_blank": "Ali, yeni projeyi ______ çok iyi olur."
 }

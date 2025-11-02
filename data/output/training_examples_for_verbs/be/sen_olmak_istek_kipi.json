@@ -1,20 +1,20 @@
 {
   "verb_rank": 1,
-  "verb_english": "to be",
+  "verb_english": "be",
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmak istiyorsun",
+    "verb_full": "oluyorsun",
     "root": "ol",
-    "tense_affix": "mak istiyor",
+    "tense_affix": "uyor",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "sun",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You wish to be successful in life.",
-  "russian_example_sentence": "Ты хочешь быть успешным в жизни.",
-  "turkish_example_sentence": "Sen hayatta başarılı olmak istiyorsun.",
-  "turkish_example_sentence_with_blank": "Sen hayatta başarılı ______."
+  "english_example_sentence": "You are happy today.",
+  "russian_example_sentence": "Ты сегодня счастлив.",
+  "turkish_example_sentence": "Sen bugün mutlu oluyorsun.",
+  "turkish_example_sentence_with_blank": "Sen bugün mutlu ______."
 }

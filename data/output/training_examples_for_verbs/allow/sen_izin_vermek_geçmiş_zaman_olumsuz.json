@@ -1,20 +1,20 @@
 {
   "verb_rank": 64,
-  "verb_english": "to allow",
+  "verb_english": "allow",
   "verb_russian": "разрешать",
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
     "verb_full": "izin vermedin",
-    "root": "ver",
+    "root": "izin ver",
     "tense_affix": "di",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "din",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You didn't allow my brother to enter this important meeting.",
-  "russian_example_sentence": "Ты не разрешил моему брату войти на это важное собрание.",
-  "turkish_example_sentence": "Sen kardeşime bu önemli toplantıya girmesine izin vermedin.",
-  "turkish_example_sentence_with_blank": "Sen kardeşime bu önemli toplantıya girmesine ______."
+  "english_example_sentence": "You didn't allow the children to play.",
+  "russian_example_sentence": "Ты не разрешил детям играть.",
+  "turkish_example_sentence": "Sen çocukların oynamasına izin vermedin.",
+  "turkish_example_sentence_with_blank": "Sen çocukların oynamasına ______."
 }

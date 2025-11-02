@@ -1,20 +1,20 @@
 {
   "verb_rank": 1,
-  "verb_english": "to be",
+  "verb_english": "be",
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olarak",
+    "verb_full": "oluyorum",
     "root": "ol",
-    "tense_affix": "arak",
+    "tense_affix": "uyor",
     "verb_tense": "zarf_fiil",
     "personal_pronoun": null,
-    "personal_affix": null,
+    "personal_affix": "um",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The book was chosen as a gift.",
-  "russian_example_sentence": "Книга была выбрана в качестве подарка.",
-  "turkish_example_sentence": "Kitap bir hediye olarak seçildi.",
-  "turkish_example_sentence_with_blank": "Kitap bir hediye ______ seçildi."
+  "english_example_sentence": "I am happy today.",
+  "russian_example_sentence": "Я счастлив сегодня.",
+  "turkish_example_sentence": "Ben bugün mutlu oluyorum.",
+  "turkish_example_sentence_with_blank": "Ben bugün mutlu ______."
 }

@@ -1,20 +1,20 @@
 {
   "verb_rank": 75,
-  "verb_english": "to appear",
+  "verb_english": "appear",
   "verb_russian": "появляться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
     "verb_full": "görünmüyorsunuz",
     "root": "görün",
-    "tense_affix": "yor",
+    "tense_affix": "üyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "sunuz",
     "polarity": "negative",
-    "negative_affix": "mü"
+    "negative_affix": "mı"
   },
-  "english_example_sentence": "You don't look like a happy person at all in this meeting.",
-  "russian_example_sentence": "Вы совсем не выглядите счастливым человеком на этой встрече.",
-  "turkish_example_sentence": "Siz bu toplantıda hiç mutlu bir insan gibi görünmüyorsunuz.",
-  "turkish_example_sentence_with_blank": "Siz bu toplantıda hiç mutlu bir insan gibi ______."
+  "english_example_sentence": "You are not appearing in the meeting.",
+  "russian_example_sentence": "Вы не появляетесь на встрече.",
+  "turkish_example_sentence": "Toplantıda görünmüyorsunuz.",
+  "turkish_example_sentence_with_blank": "Toplantıda ______."
 }

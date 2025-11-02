@@ -1,20 +1,20 @@
 {
   "verb_rank": 95,
-  "verb_english": "to decide",
+  "verb_english": "decide",
   "verb_russian": "решать",
   "verb_infinitive": "karar vermek",
   "turkish_verb": {
     "verb_full": "karar vermeyecekler",
-    "root": "ver",
-    "tense_affix": "yecek",
+    "root": "karar verm",
+    "tense_affix": "yacak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "The tired workers will not decide on this difficult task yet.",
-  "russian_example_sentence": "Усталые рабочие пока не примут решение по этому сложному заданию.",
-  "turkish_example_sentence": "Yorgun işçiler bu zorlu göreve henüz karar vermeyecekler.",
-  "turkish_example_sentence_with_blank": "Yorgun işçiler bu zorlu göreve henüz ______."
+  "english_example_sentence": "They will not decide about the project.",
+  "russian_example_sentence": "Они не решат по поводу проекта.",
+  "turkish_example_sentence": "Öğrenciler projeye karar vermeyecekler.",
+  "turkish_example_sentence_with_blank": "Öğrenciler projeye ______."
 }

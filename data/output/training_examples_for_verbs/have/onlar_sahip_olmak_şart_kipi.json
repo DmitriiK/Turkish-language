@@ -1,20 +1,20 @@
 {
   "verb_rank": 2,
-  "verb_english": "to have",
+  "verb_english": "have",
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olsalardı",
+    "verb_full": "sahip olurlar",
     "root": "sahip ol",
-    "tense_affix": "sa",
+    "tense_affix": "rlar",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "lardı",
+    "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they had a garden",
-  "russian_example_sentence": "Если бы у них был сад",
-  "turkish_example_sentence": "Onların büyük bir bahçesi olsalardı ",
-  "turkish_example_sentence_with_blank": "Onların büyük bir bahçesi olsalardı "
+  "english_example_sentence": "They will have a beautiful car.",
+  "russian_example_sentence": "У них будет красивая машина.",
+  "turkish_example_sentence": "Onlar güzel bir arabaya sahip olurlar.",
+  "turkish_example_sentence_with_blank": "Onlar güzel bir arabaya ______."
 }

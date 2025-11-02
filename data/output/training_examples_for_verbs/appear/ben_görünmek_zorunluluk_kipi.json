@@ -1,20 +1,20 @@
 {
   "verb_rank": 75,
-  "verb_english": "to appear",
+  "verb_english": "appear",
   "verb_russian": "появляться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
     "verb_full": "görünmeliyim",
     "root": "görün",
-    "tense_affix": "meli",
+    "tense_affix": "meliyim",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "yim",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I must appear ready for the important meeting with the new report.",
-  "russian_example_sentence": "Я должен выглядеть готовым к важному совещанию с новым отчетом.",
-  "turkish_example_sentence": "Yeni raporla önemli toplantıya hazır görünmeliyim.",
-  "turkish_example_sentence_with_blank": "Yeni raporla önemli toplantıya hazır ______."
+  "english_example_sentence": "I must appear at the meeting tomorrow.",
+  "russian_example_sentence": "Я должен появиться на встрече завтра.",
+  "turkish_example_sentence": "Ben yarın toplantıda görünmeliyim.",
+  "turkish_example_sentence_with_blank": "Ben yarın toplantıda ______."
 }

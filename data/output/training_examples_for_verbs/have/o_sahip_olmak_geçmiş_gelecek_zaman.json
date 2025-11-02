@@ -1,20 +1,20 @@
 {
   "verb_rank": 2,
-  "verb_english": "to have",
+  "verb_english": "have",
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olacaktı",
+    "verb_full": "sahip oluyordu",
     "root": "sahip ol",
-    "tense_affix": "yacak",
+    "tense_affix": "uyordu",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "tı",
+    "personal_affix": "du",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The company was going to have success.",
-  "russian_example_sentence": "У компании должен был быть успех.",
-  "turkish_example_sentence": "Şirket başarılı olacaktı.",
-  "turkish_example_sentence_with_blank": "Şirket başarılı olacaktı."
+  "english_example_sentence": "My sister had a beautiful house.",
+  "russian_example_sentence": "У моей сестры был красивый дом.",
+  "turkish_example_sentence": "Kız kardeşim güzel bir eve sahip oluyordu.",
+  "turkish_example_sentence_with_blank": "Kız kardeşim güzel bir eve ______."
 }

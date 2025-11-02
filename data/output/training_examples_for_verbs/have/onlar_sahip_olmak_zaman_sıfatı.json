@@ -1,20 +1,20 @@
 {
   "verb_rank": 2,
-  "verb_english": "to have",
+  "verb_english": "have",
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip oldukları",
-    "root": "sahip",
-    "tense_affix": "duk",
+    "verb_full": "sahip oluyorlar",
+    "root": "sahip ol",
+    "tense_affix": "uyor",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "onlar",
-    "personal_affix": "ları",
+    "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The students have many books",
-  "russian_example_sentence": "У студентов много книг",
-  "turkish_example_sentence": "Öğrencilerin birçok ilginç kitabı oldukları anlaşılıyor.",
-  "turkish_example_sentence_with_blank": "Öğrencilerin birçok ilginç kitabı oldukları anlaşılıyor."
+  "english_example_sentence": "They have a beautiful house.",
+  "russian_example_sentence": "У них есть красивый дом.",
+  "turkish_example_sentence": "Onlar güzel bir eve sahip oluyorlar.",
+  "turkish_example_sentence_with_blank": "Onlar güzel bir eve ______."
 }

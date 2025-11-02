@@ -1,20 +1,20 @@
 {
   "verb_rank": 65,
-  "verb_english": "to add",
+  "verb_english": "add",
   "verb_russian": "добавлять",
   "verb_infinitive": "eklemek",
   "turkish_verb": {
-    "verb_full": "ekleye",
+    "verb_full": "eklesin",
     "root": "ekle",
-    "tense_affix": "ye",
+    "tense_affix": "sin",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The teacher should add important information to the topic.",
-  "russian_example_sentence": "Учитель должен добавить важную информацию к теме.",
-  "turkish_example_sentence": "Öğretmen, konuya önemli bir bilgi ekleye.",
-  "turkish_example_sentence_with_blank": "Öğretmen, konuya önemli bir bilgi ______."
+  "english_example_sentence": "He should add the new information.",
+  "russian_example_sentence": "Он должен добавить новую информацию.",
+  "turkish_example_sentence": "Ali, yeni bilgiyi eklesin.",
+  "turkish_example_sentence_with_blank": "Ali, yeni bilgiyi ______."
 }

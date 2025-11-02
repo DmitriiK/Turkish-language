@@ -1,20 +1,20 @@
 {
   "verb_rank": 2,
-  "verb_english": "to have",
+  "verb_english": "have",
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahiptim",
-    "root": "sahip",
-    "tense_affix": "ti",
+    "verb_full": "sahip oldum",
+    "root": "sahip ol",
+    "tense_affix": "du",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "um",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I had a red bicycle.",
-  "russian_example_sentence": "У меня был красный велосипед.",
-  "turkish_example_sentence": "Benim kırmızı bir bisikletim vardı.",
-  "turkish_example_sentence_with_blank": "Benim kırmızı bir bisikletim vardı."
+  "english_example_sentence": "I had a small dog last year.",
+  "russian_example_sentence": "У меня была маленькая собака в прошлом году.",
+  "turkish_example_sentence": "Ben geçen yıl küçük bir köpeğe sahip oldum.",
+  "turkish_example_sentence_with_blank": "Ben geçen yıl küçük bir köpeğe ______."
 }

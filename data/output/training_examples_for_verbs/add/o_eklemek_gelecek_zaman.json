@@ -1,6 +1,6 @@
 {
   "verb_rank": 65,
-  "verb_english": "to add",
+  "verb_english": "add",
   "verb_russian": "добавлять",
   "verb_infinitive": "eklemek",
   "turkish_verb": {
@@ -9,12 +9,12 @@
     "tense_affix": "yecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "cek",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The new teacher will add a good lesson.",
-  "russian_example_sentence": "Новый учитель добавит хороший урок.",
-  "turkish_example_sentence": "Yeni öğretmen iyi bir ders ekleyecek.",
-  "turkish_example_sentence_with_blank": "Yeni öğretmen iyi bir ders ______."
+  "english_example_sentence": "The teacher will add a new project.",
+  "russian_example_sentence": "Учитель добавит новый проект.",
+  "turkish_example_sentence": "Öğretmen yeni bir projeyi ekleyecek.",
+  "turkish_example_sentence_with_blank": "Öğretmen yeni bir projeyi ______."
 }

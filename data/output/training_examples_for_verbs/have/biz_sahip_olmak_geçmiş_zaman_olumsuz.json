@@ -1,20 +1,20 @@
 {
   "verb_rank": 2,
-  "verb_english": "to have",
+  "verb_english": "have",
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
     "verb_full": "sahip olmadık",
     "root": "sahip ol",
-    "tense_affix": "dı",
+    "tense_affix": "du",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "duk",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "We did not have enough books.",
-  "russian_example_sentence": "У нас не было достаточно книг.",
-  "turkish_example_sentence": "Bizim kütüphanede yeterli kitap olmadı.",
-  "turkish_example_sentence_with_blank": "Bizim kütüphanede yeterli kitap olmadı."
+  "english_example_sentence": "We did not have a big house.",
+  "russian_example_sentence": "У нас не было большого дома.",
+  "turkish_example_sentence": "Biz büyük bir eve sahip olmadık.",
+  "turkish_example_sentence_with_blank": "Biz büyük bir eve ______."
 }

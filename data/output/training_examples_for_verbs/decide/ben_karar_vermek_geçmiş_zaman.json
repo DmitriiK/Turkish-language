@@ -1,11 +1,11 @@
 {
   "verb_rank": 95,
-  "verb_english": "to decide",
+  "verb_english": "decide",
   "verb_russian": "решать",
   "verb_infinitive": "karar vermek",
   "turkish_verb": {
     "verb_full": "karar verdim",
-    "root": "ver",
+    "root": "karar ver",
     "tense_affix": "di",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "ben",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I decided to start a new project.",
-  "russian_example_sentence": "Я решил начать новый проект.",
-  "turkish_example_sentence": "Yeni bir proje başlatmaya karar verdim.",
-  "turkish_example_sentence_with_blank": "Yeni bir proje başlatmaya ______."
+  "english_example_sentence": "I decided to go to the concert.",
+  "russian_example_sentence": "Я решил пойти на концерт.",
+  "turkish_example_sentence": "Ben dün akşam konser gitmek için karar verdim.",
+  "turkish_example_sentence_with_blank": "Ben dün akşam konser gitmek için ______."
 }

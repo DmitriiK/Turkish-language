@@ -1,6 +1,6 @@
 {
   "verb_rank": 75,
-  "verb_english": "to appear",
+  "verb_english": "appear",
   "verb_russian": "появляться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
@@ -9,12 +9,12 @@
     "tense_affix": "yor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "mü"
+    "negative_affix": "mı"
   },
-  "english_example_sentence": "The old building does not appear distinct due to this fog.",
-  "russian_example_sentence": "Старое здание не выглядит отчетливо из-за этого тумана.",
-  "turkish_example_sentence": "Eski bina, bu sisten dolayı belirgin görünmüyor.",
-  "turkish_example_sentence_with_blank": "Eski bina, bu sisten dolayı belirgin ______."
+  "english_example_sentence": "The sky is not appearing clearly.",
+  "russian_example_sentence": "Небо не появляется ясно.",
+  "turkish_example_sentence": "Gökyüzü o kadar net görünmüyor.",
+  "turkish_example_sentence_with_blank": "Gökyüzü o kadar net ______."
 }

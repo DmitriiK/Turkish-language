@@ -1,20 +1,20 @@
 {
   "verb_rank": 2,
-  "verb_english": "to have",
+  "verb_english": "have",
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olasınız",
+    "verb_full": "sahip oluyorsunuz",
     "root": "sahip ol",
-    "tense_affix": "a",
+    "tense_affix": "uyorsunuz",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "sınız",
+    "personal_affix": "sunuz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I hope you have a good day",
-  "russian_example_sentence": "Я надеюсь, у вас хороший день",
-  "turkish_example_sentence": "Umarım güzel bir gününüz sahip olasınız",
-  "turkish_example_sentence_with_blank": "Umarım güzel bir gününüz ______"
+  "english_example_sentence": "You have a beautiful house.",
+  "russian_example_sentence": "У вас есть красивый дом.",
+  "turkish_example_sentence": "Siz güzel bir eve sahip oluyorsunuz.",
+  "turkish_example_sentence_with_blank": "Siz güzel bir eve ______."
 }

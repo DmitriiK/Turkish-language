@@ -1,20 +1,20 @@
 {
   "verb_rank": 64,
-  "verb_english": "to allow",
+  "verb_english": "allow",
   "verb_russian": "разрешать",
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
-    "verb_full": "vermiyorum",
-    "root": "ver",
+    "verb_full": "izin vermiyorum",
+    "root": "izin ver",
     "tense_affix": "yor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "um",
     "polarity": "negative",
-    "negative_affix": "mi"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "I am not giving permission to this small child.",
-  "russian_example_sentence": "Я не разрешаю этому маленькому ребенку.",
-  "turkish_example_sentence": "Ben bu küçük çocuğa izin vermiyorum.",
-  "turkish_example_sentence_with_blank": "Ben bu küçük çocuğa izin ______."
+  "english_example_sentence": "I am not allowing my friends to play.",
+  "russian_example_sentence": "Я не разрешаю своим друзьям играть.",
+  "turkish_example_sentence": "Ben arkadaşlarıma oyun oynamayı izin vermiyorum.",
+  "turkish_example_sentence_with_blank": "Ben arkadaşlarıma oyun oynamayı ______."
 }

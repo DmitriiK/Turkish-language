@@ -1,20 +1,20 @@
 {
   "verb_rank": 75,
-  "verb_english": "to appear",
+  "verb_english": "appear",
   "verb_russian": "появляться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görüne",
+    "verb_full": "görünsün",
     "root": "görün",
-    "tense_affix": "e",
+    "tense_affix": "sün",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "After a long wait, a bright star may appear in the sky.",
-  "russian_example_sentence": "После долгого ожидания, яркая звезда может появиться в небе.",
-  "turkish_example_sentence": "Uzun bir bekleyişten sonra, gökyüzünde parlak bir yıldız görüne.",
-  "turkish_example_sentence_with_blank": "Uzun bir bekleyişten sonra, gökyüzünde parlak bir yıldız ______."
+  "english_example_sentence": "The flowers appear beautiful in spring.",
+  "russian_example_sentence": "Цветы выглядят красивыми весной.",
+  "turkish_example_sentence": "Çiçekler baharda güzel görünsün.",
+  "turkish_example_sentence_with_blank": "Çiçekler baharda güzel ______."
 }

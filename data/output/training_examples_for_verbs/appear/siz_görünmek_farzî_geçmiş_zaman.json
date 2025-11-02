@@ -1,20 +1,20 @@
 {
   "verb_rank": 75,
-  "verb_english": "to appear",
+  "verb_english": "appear",
   "verb_russian": "появляться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmüşsünüz",
+    "verb_full": "görünseydiniz",
     "root": "görün",
-    "tense_affix": "müş",
+    "tense_affix": "seydin",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "sünüz",
+    "personal_affix": "iniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Teachers, you seemed very energetic in class.",
-  "russian_example_sentence": "Учителя, вы казались очень энергичными на уроке.",
-  "turkish_example_sentence": "Öğretmenler, derste çok enerjik görünmüşsünüz.",
-  "turkish_example_sentence_with_blank": "Öğretmenler, derste çok enerjik ______."
+  "english_example_sentence": "You appeared at the meeting yesterday.",
+  "russian_example_sentence": "Вы появились на встрече вчера.",
+  "turkish_example_sentence": "Dün toplantıda siz görünseydiniz, herkes mutlu olurdu.",
+  "turkish_example_sentence_with_blank": "Dün toplantıda siz ______, herkes mutlu olurdu."
 }

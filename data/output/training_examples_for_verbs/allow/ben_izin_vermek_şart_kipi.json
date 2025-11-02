@@ -1,20 +1,20 @@
 {
   "verb_rank": 64,
-  "verb_english": "to allow",
+  "verb_english": "allow",
   "verb_russian": "разрешать",
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
-    "verb_full": "izin versem",
+    "verb_full": "izin veririm",
     "root": "izin ver",
-    "tense_affix": "se",
+    "tense_affix": "ir",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I allow a small child to play this game, he will be very happy.",
-  "russian_example_sentence": "Если я позволю маленькому ребенку играть в эту игру, он будет очень счастлив.",
-  "turkish_example_sentence": "Küçük bir çocuğa bu oyunu oynamasına izin versem, çok mutlu olur.",
-  "turkish_example_sentence_with_blank": "Küçük bir çocuğa bu oyunu oynamasına ______, çok mutlu olur."
+  "english_example_sentence": "I allow my friend to choose the movie.",
+  "russian_example_sentence": "Я разрешаю своему другу выбрать фильм.",
+  "turkish_example_sentence": "Arkadaşımın filmi seçmesine izin veririm.",
+  "turkish_example_sentence_with_blank": "Arkadaşımın filmi seçmesine ______."
 }

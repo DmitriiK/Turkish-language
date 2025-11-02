@@ -1,6 +1,6 @@
 {
   "verb_rank": 1,
-  "verb_english": "to be",
+  "verb_english": "be",
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
@@ -11,10 +11,10 @@
     "personal_pronoun": "sen",
     "personal_affix": "sun",
     "polarity": "negative",
-    "negative_affix": "mu"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "You are not being helpful now.",
-  "russian_example_sentence": "Сейчас ты не оказываешь помощи.",
-  "turkish_example_sentence": "Sen şimdi yardımcı olmuyorsun.",
-  "turkish_example_sentence_with_blank": "Sen şimdi yardımcı ______."
+  "english_example_sentence": "You are not happy with the results.",
+  "russian_example_sentence": "Ты не доволен результатами.",
+  "turkish_example_sentence": "Sen bu sonuçlarla mutlu olmuyorsun.",
+  "turkish_example_sentence_with_blank": "Sen bu sonuçlarla mutlu ______."
 }

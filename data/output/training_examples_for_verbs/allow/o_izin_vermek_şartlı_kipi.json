@@ -1,20 +1,20 @@
 {
   "verb_rank": 64,
-  "verb_english": "to allow",
+  "verb_english": "allow",
   "verb_russian": "разрешать",
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
-    "verb_full": "izin verse",
+    "verb_full": "izin verecek",
     "root": "izin ver",
-    "tense_affix": "se",
+    "tense_affix": "ecek",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "cek",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The manager allows the team to work.",
-  "russian_example_sentence": "Менеджер разрешает команде работать.",
-  "turkish_example_sentence": "Yönetici takıma çalışmayı izin veriyor.",
-  "turkish_example_sentence_with_blank": "Yönetici takıma çalışmayı izin veriyor."
+  "english_example_sentence": "The teacher will allow the student to go out.",
+  "russian_example_sentence": "Учитель разрешит ученику выйти.",
+  "turkish_example_sentence": "Öğretmen öğrenciye dışarı çıkmasına izin verecek.",
+  "turkish_example_sentence_with_blank": "Öğretmen öğrenciye dışarı çıkmasına ______."
 }

@@ -1,20 +1,20 @@
 {
   "verb_rank": 2,
-  "verb_english": "to have",
+  "verb_english": "have",
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
     "verb_full": "sahip olmalıyız",
     "root": "sahip ol",
-    "tense_affix": "malı",
+    "tense_affix": "malıyız",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "yız",
+    "personal_affix": "ız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We must have a good plan.",
-  "russian_example_sentence": "У нас должен быть хороший план.",
-  "turkish_example_sentence": "Bizim iyi bir planımız olmalı.",
-  "turkish_example_sentence_with_blank": "Bizim iyi bir planımız olmalı."
+  "english_example_sentence": "We must have a nice car.",
+  "russian_example_sentence": "Мы должны иметь красивую машину.",
+  "turkish_example_sentence": "Biz güzel bir arabaya sahip olmalıyız.",
+  "turkish_example_sentence_with_blank": "Biz güzel bir arabaya ______."
 }

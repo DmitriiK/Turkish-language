@@ -1,20 +1,20 @@
 {
   "verb_rank": 65,
-  "verb_english": "to add",
+  "verb_english": "add",
   "verb_russian": "добавлять",
   "verb_infinitive": "eklemek",
   "turkish_verb": {
-    "verb_full": "ekleseler",
+    "verb_full": "ekleyecekler",
     "root": "ekle",
-    "tense_affix": "se",
+    "tense_affix": "yecek",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If the developers add a new feature, the users will be happy.",
-  "russian_example_sentence": "Если разработчики добавят новую функцию, пользователи будут счастливы.",
-  "turkish_example_sentence": "Geliştiriciler yeni bir özellik ekleseler, kullanıcılar mutlu olur.",
-  "turkish_example_sentence_with_blank": "Geliştiriciler yeni bir özellik ______, kullanıcılar mutlu olur."
+  "english_example_sentence": "They will add a new book to the library.",
+  "russian_example_sentence": "Они добавят новую книгу в библиотеку.",
+  "turkish_example_sentence": "Öğrenciler kütüphaneye yeni bir kitap ekleyecekler.",
+  "turkish_example_sentence_with_blank": "Öğrenciler kütüphaneye yeni bir kitap ______."
 }

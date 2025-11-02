@@ -1,20 +1,20 @@
 {
   "verb_rank": 2,
-  "verb_english": "to have",
+  "verb_english": "have",
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip değilsin",
-    "root": "sahip",
+    "verb_full": "sahip olmam",
+    "root": "sahip ol",
     "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "sin",
+    "personal_affix": "m",
     "polarity": "negative",
-    "negative_affix": "değil"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "You do not have a car.",
-  "russian_example_sentence": "У тебя нет машины.",
-  "turkish_example_sentence": "Senin araban yok.",
-  "turkish_example_sentence_with_blank": "Senin araban yok."
+  "english_example_sentence": "You do not have a dog.",
+  "russian_example_sentence": "У тебя нет собаки.",
+  "turkish_example_sentence": "Senin bir köpeğin **sahip olmam**.",
+  "turkish_example_sentence_with_blank": "Senin bir köpeğin **______**."
 }

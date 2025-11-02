@@ -1,20 +1,20 @@
 {
   "verb_rank": 2,
-  "verb_english": "to have",
+  "verb_english": "have",
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olsaydın",
+    "verb_full": "sahip olursun",
     "root": "sahip ol",
-    "tense_affix": "saydı",
+    "tense_affix": "ur",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "sun",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you had a car...",
-  "russian_example_sentence": "Если бы у тебя была машина...",
-  "turkish_example_sentence": "Keşke senin yeni bir araban olsaydın",
-  "turkish_example_sentence_with_blank": "Keşke senin yeni bir araban olsaydın"
+  "english_example_sentence": "You will have a beautiful garden.",
+  "russian_example_sentence": "У тебя будет красивый сад.",
+  "turkish_example_sentence": "Sen güzel bir bahçeye sahip olursun.",
+  "turkish_example_sentence_with_blank": "Sen güzel bir bahçeye ______."
 }

@@ -1,10 +1,10 @@
 {
   "verb_rank": 65,
-  "verb_english": "to add",
+  "verb_english": "add",
   "verb_russian": "добавлять",
   "verb_infinitive": "eklemek",
   "turkish_verb": {
-    "verb_full": "eklemem",
+    "verb_full": "eklemiyorum",
     "root": "ekle",
     "tense_affix": "",
     "verb_tense": "geniş_zaman",
@@ -13,8 +13,8 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "I don't add a new item to this list.",
-  "russian_example_sentence": "Я не добавляю новый пункт в этот список.",
-  "turkish_example_sentence": "Ben bu listeye yeni bir madde eklemem.",
-  "turkish_example_sentence_with_blank": "Ben bu listeye yeni bir madde ______."
+  "english_example_sentence": "I do not add the sugar.",
+  "russian_example_sentence": "Я не добавляю сахар.",
+  "turkish_example_sentence": "Ben kahveye şeker eklemiyorum.",
+  "turkish_example_sentence_with_blank": "Ben kahveye şeker ______."
 }

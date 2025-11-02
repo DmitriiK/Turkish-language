@@ -1,6 +1,6 @@
 {
   "verb_rank": 75,
-  "verb_english": "to appear",
+  "verb_english": "appear",
   "verb_russian": "появляться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
@@ -9,12 +9,12 @@
     "tense_affix": "dü",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "dün",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You appeared quite tense at the meeting yesterday.",
-  "russian_example_sentence": "Ты выглядел довольно напряженным на встрече вчера.",
-  "turkish_example_sentence": "Sen dün toplantıda oldukça gergin göründün.",
-  "turkish_example_sentence_with_blank": "Sen dün toplantıda oldukça gergin ______."
+  "english_example_sentence": "You appeared at the party yesterday.",
+  "russian_example_sentence": "Ты появился на вечеринке вчера.",
+  "turkish_example_sentence": "Sen dün partiye göründün.",
+  "turkish_example_sentence_with_blank": "Sen dün partiye ______."
 }

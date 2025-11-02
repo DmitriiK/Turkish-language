@@ -1,6 +1,6 @@
 {
   "verb_rank": 64,
-  "verb_english": "to allow",
+  "verb_english": "allow",
   "verb_russian": "разрешать",
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
@@ -9,12 +9,12 @@
     "tense_affix": "di",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The kind teacher allowed the student to go outside.",
-  "russian_example_sentence": "Добрый учитель разрешил ученику выйти на улицу.",
-  "turkish_example_sentence": "Nazik öğretmen öğrencinin dışarı çıkmasına izin verdi.",
-  "turkish_example_sentence_with_blank": "Nazik öğretmen öğrencinin dışarı çıkmasına ______."
+  "english_example_sentence": "The teacher allowed the students to play.",
+  "russian_example_sentence": "Учитель разрешил ученикам играть.",
+  "turkish_example_sentence": "Öğretmen öğrencilerin oynamasına izin verdi.",
+  "turkish_example_sentence_with_blank": "Öğretmen öğrencilerin oynamasına ______."
 }

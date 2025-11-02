@@ -1,10 +1,10 @@
 {
   "verb_rank": 64,
-  "verb_english": "to allow",
+  "verb_english": "allow",
   "verb_russian": "разрешать",
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
-    "verb_full": "izn verirler",
+    "verb_full": "izin verirler",
     "root": "izin ver",
     "tense_affix": "ir",
     "verb_tense": "şartlı_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The teachers will allow the students to participate.",
-  "russian_example_sentence": "Учителя разрешат студентам участвовать.",
-  "turkish_example_sentence": "Öğretmenler öğrencilerin katılmasına izin verirler.",
-  "turkish_example_sentence_with_blank": "Öğretmenler öğrencilerin katılmasına izin verirler."
+  "english_example_sentence": "They will allow us to enter the room.",
+  "russian_example_sentence": "Они разрешат нам войти в комнату.",
+  "turkish_example_sentence": "Öğretmenler, bize odaya girmemize izin verirler.",
+  "turkish_example_sentence_with_blank": "Öğretmenler, bize odaya girmemize ______."
 }
