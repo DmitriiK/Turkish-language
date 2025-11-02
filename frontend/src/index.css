@@ -51,4 +51,16 @@
     color: #9ca3af;
     pointer-events: none;
   }
+
+  /* Larger tooltip text - 2x bigger */
+  [title] {
+    position: relative;
+  }
+}
+
+@layer utilities {
+  /* Custom tooltip styling - makes browser tooltip appear larger */
+  [title]:hover::after {
+    font-size: 200% !important;
+  }
 }

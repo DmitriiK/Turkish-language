@@ -706,15 +706,21 @@ export const LearningCard: React.FC<LearningCardProps> = ({
           <div className="flex items-center gap-4">
             <div className="text-sm text-gray-500 flex items-center gap-2">
               <span>#{example.verb_rank} •</span>
-              <a
-                href={getGrammarPageUrl()}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-blue-600 hover:text-blue-800 hover:underline cursor-pointer transition-colors"
-                title={getGrammarTooltip()}
-              >
-                {formatGrammarNameWithLevel(example.turkish_verb.verb_tense, tenseLevel)}
-              </a>
+              <div className="relative group">
+                <a
+                  href={getGrammarPageUrl()}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-blue-600 hover:text-blue-800 hover:underline cursor-pointer transition-colors"
+                >
+                  {formatGrammarNameWithLevel(example.turkish_verb.verb_tense, tenseLevel)}
+                </a>
+                {/* Custom tooltip with 2x bigger text */}
+                <div className="invisible group-hover:visible absolute left-0 top-full mt-2 px-3 py-2 bg-gray-900 text-white text-base rounded-lg shadow-lg z-50 whitespace-nowrap pointer-events-none">
+                  {getGrammarTooltip()}
+                  <div className="absolute -top-1 left-4 w-2 h-2 bg-gray-900 transform rotate-45"></div>
+                </div>
+              </div>
             </div>
             {/* Language Level Selector */}
             <div className="flex items-center gap-2">
