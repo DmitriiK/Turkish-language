@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "göndermiyorsunuz",
+    "root": "gönder",
+    "tense_affix": "yor",
+    "verb_tense": "şimdiki_zaman",
+    "personal_pronoun": "siz",
+    "personal_affix": "sunuz",
+    "polarity": "negative",
+    "negative_affix": "mi"
+  },
+  "english_example_sentence": "You are not sending a new report to the customer.",
+  "russian_example_sentence": "Вы не отправляете новый отчет клиенту.",
+  "turkish_example_sentence": "Siz müşteriye yeni bir rapor göndermiyorsunuz.",
+  "turkish_example_sentence_with_blank": "Siz müşteriye yeni bir rapor ______."
+}

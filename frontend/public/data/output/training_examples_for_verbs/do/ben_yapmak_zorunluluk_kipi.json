@@ -1,0 +1,20 @@
+{
+  "verb_rank": 3,
+  "verb_english": "do",
+  "verb_russian": "делать",
+  "verb_infinitive": "yapmak",
+  "turkish_verb": {
+    "verb_full": "yapmalıyım",
+    "root": "yap",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "yım",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "I must do my homework",
+  "russian_example_sentence": "Я должен сделать домашнее задание",
+  "turkish_example_sentence": "Ben ödevimi hemen yapmalıyım.",
+  "turkish_example_sentence_with_blank": "Ben ödevimi hemen ______."
+}

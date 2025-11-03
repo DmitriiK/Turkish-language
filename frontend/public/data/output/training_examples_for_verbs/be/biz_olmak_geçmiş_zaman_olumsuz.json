@@ -1,0 +1,20 @@
+{
+  "verb_rank": 1,
+  "verb_english": "be",
+  "verb_russian": "быть",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olmadık",
+    "root": "ol",
+    "tense_affix": "dı",
+    "verb_tense": "geçmiş_zaman",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "We were not happy last year.",
+  "russian_example_sentence": "Мы не были счастливы в прошлом году.",
+  "turkish_example_sentence": "Geçen yıl biz mutlu olmadık.",
+  "turkish_example_sentence_with_blank": "Geçen yıl biz mutlu ______."
+}

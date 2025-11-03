@@ -1,0 +1,20 @@
+{
+  "verb_rank": 15,
+  "verb_english": "use",
+  "verb_russian": "использовать",
+  "verb_infinitive": "kullanmak",
+  "turkish_verb": {
+    "verb_full": "kullanmıyorsun",
+    "root": "kullan",
+    "tense_affix": "yor",
+    "verb_tense": "şimdiki_zaman",
+    "personal_pronoun": "sen",
+    "personal_affix": "sun",
+    "polarity": "negative",
+    "negative_affix": "mı"
+  },
+  "english_example_sentence": "You are not using this old computer at work.",
+  "russian_example_sentence": "Ты не используешь этот старый компьютер на работе.",
+  "turkish_example_sentence": "Sen bu eski bilgisayarı işte kullanmıyorsun.",
+  "turkish_example_sentence_with_blank": "Sen bu eski bilgisayarı işte ______."
+}

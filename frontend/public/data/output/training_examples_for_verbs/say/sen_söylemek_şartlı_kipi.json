@@ -1,0 +1,20 @@
+{
+  "verb_rank": 4,
+  "verb_english": "say",
+  "verb_russian": "сказать",
+  "verb_infinitive": "söylemek",
+  "turkish_verb": {
+    "verb_full": "söylesen",
+    "root": "söyle",
+    "tense_affix": "se",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If you tell your friend this important news, he would also be happy.",
+  "russian_example_sentence": "Если ты скажешь своему другу эту важную новость, он тоже обрадуется.",
+  "turkish_example_sentence": "Eğer arkadaşına bu önemli haberi söylesen, o da sevinir.",
+  "turkish_example_sentence_with_blank": "Eğer arkadaşına bu önemli haberi ______, o da sevinir."
+}

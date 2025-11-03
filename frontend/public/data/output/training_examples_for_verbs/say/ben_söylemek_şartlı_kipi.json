@@ -1,0 +1,20 @@
+{
+  "verb_rank": 4,
+  "verb_english": "say",
+  "verb_russian": "сказать",
+  "verb_infinitive": "söylemek",
+  "turkish_verb": {
+    "verb_full": "söylesem",
+    "root": "söyle",
+    "tense_affix": "se",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If I say a beautiful word, my friend will be happy.",
+  "russian_example_sentence": "Если я скажу красивое слово, мой друг будет счастлив.",
+  "turkish_example_sentence": "Ben güzel bir söz söylesem, arkadaşım mutlu olur.",
+  "turkish_example_sentence_with_blank": "Ben güzel bir söz ______, arkadaşım mutlu olur."
+}

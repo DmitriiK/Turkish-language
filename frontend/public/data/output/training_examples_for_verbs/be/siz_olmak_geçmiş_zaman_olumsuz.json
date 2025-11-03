@@ -1,0 +1,20 @@
+{
+  "verb_rank": 1,
+  "verb_english": "be",
+  "verb_russian": "быть",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olmadınız",
+    "root": "ol",
+    "tense_affix": "dı",
+    "verb_tense": "geçmiş_zaman",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "You were not happy yesterday.",
+  "russian_example_sentence": "Вы не были счастливы вчера.",
+  "turkish_example_sentence": "Siz dün mutlu olmadınız.",
+  "turkish_example_sentence_with_blank": "Siz dün mutlu ______."
+}

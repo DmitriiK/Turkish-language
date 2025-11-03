@@ -1,0 +1,20 @@
+{
+  "verb_rank": 8,
+  "verb_english": "know",
+  "verb_russian": "знать",
+  "verb_infinitive": "bilmek",
+  "turkish_verb": {
+    "verb_full": "bilse",
+    "root": "bil",
+    "tense_affix": "se",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": "",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If my friend knew an important thing, he would tell me.",
+  "russian_example_sentence": "Если бы мой друг знал что-то важное, он бы мне сказал.",
+  "turkish_example_sentence": "Arkadaşım önemli bir şeyi bilse, bana söylerdi.",
+  "turkish_example_sentence_with_blank": "Arkadaşım önemli bir şeyi ______, bana söylerdi."
+}

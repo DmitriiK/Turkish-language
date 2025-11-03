@@ -1,0 +1,20 @@
+{
+  "verb_rank": 49,
+  "verb_english": "pay",
+  "verb_russian": "платить",
+  "verb_infinitive": "ödemek",
+  "turkish_verb": {
+    "verb_full": "ödesek",
+    "root": "öde",
+    "tense_affix": "se",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If we pay this big bill, our company will be relieved.",
+  "russian_example_sentence": "Если мы оплатим этот большой счет, наша компания облегчится.",
+  "turkish_example_sentence": "Eğer biz bu büyük faturayı ödesek, şirketimiz rahatlar.",
+  "turkish_example_sentence_with_blank": "Eğer biz bu büyük faturayı ______, şirketimiz rahatlar."
+}

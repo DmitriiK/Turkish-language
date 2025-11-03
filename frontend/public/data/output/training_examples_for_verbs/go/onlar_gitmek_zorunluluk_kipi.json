@@ -1,0 +1,20 @@
+{
+  "verb_rank": 5,
+  "verb_english": "go",
+  "verb_russian": "идти",
+  "verb_infinitive": "gitmek",
+  "turkish_verb": {
+    "verb_full": "gitmeliler",
+    "root": "git",
+    "tense_affix": "meli",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "ler",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "The new employees must go to this important meeting.",
+  "russian_example_sentence": "Новые сотрудники должны пойти на это важное собрание.",
+  "turkish_example_sentence": "Yeni çalışanlar bu önemli toplantıya gitmeliler.",
+  "turkish_example_sentence_with_blank": "Yeni çalışanlar bu önemli toplantıya ______."
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 5,
+  "verb_english": "go",
+  "verb_russian": "идти",
+  "verb_infinitive": "gitmek",
+  "turkish_verb": {
+    "verb_full": "gitmiyorsunuz",
+    "root": "git",
+    "tense_affix": "yor",
+    "verb_tense": "şimdiki_zaman",
+    "personal_pronoun": "siz",
+    "personal_affix": "sunuz",
+    "polarity": "negative",
+    "negative_affix": "mi"
+  },
+  "english_example_sentence": "You are not going to school.",
+  "russian_example_sentence": "Вы не идёте в школу.",
+  "turkish_example_sentence": "Siz bugün okula gitmiyorsunuz.",
+  "turkish_example_sentence_with_blank": "Siz bugün okula ______."
+}

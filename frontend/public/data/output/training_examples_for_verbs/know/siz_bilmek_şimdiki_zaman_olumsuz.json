@@ -1,0 +1,20 @@
+{
+  "verb_rank": 8,
+  "verb_english": "know",
+  "verb_russian": "знать",
+  "verb_infinitive": "bilmek",
+  "turkish_verb": {
+    "verb_full": "bilmiyorsunuz",
+    "root": "bil",
+    "tense_affix": "yor",
+    "verb_tense": "şimdiki_zaman",
+    "personal_pronoun": "siz",
+    "personal_affix": "sunuz",
+    "polarity": "negative",
+    "negative_affix": "mi"
+  },
+  "english_example_sentence": "You don't know this complex topic and its details.",
+  "russian_example_sentence": "Вы не знаете эту сложную тему и ее детали.",
+  "turkish_example_sentence": "Siz bu karmaşık konuyu ve detayları bilmiyorsunuz.",
+  "turkish_example_sentence_with_blank": "Siz bu karmaşık konuyu ve detayları ______."
+}

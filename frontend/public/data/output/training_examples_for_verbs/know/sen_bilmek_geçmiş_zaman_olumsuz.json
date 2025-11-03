@@ -1,0 +1,20 @@
+{
+  "verb_rank": 8,
+  "verb_english": "know",
+  "verb_russian": "знать",
+  "verb_infinitive": "bilmek",
+  "turkish_verb": {
+    "verb_full": "bilmedin",
+    "root": "bil",
+    "tense_affix": "di",
+    "verb_tense": "geçmiş_zaman",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "You didn't know the answer to this difficult question.",
+  "russian_example_sentence": "Ты не знал(а) ответ на этот сложный вопрос.",
+  "turkish_example_sentence": "Bu zor sorunun cevabını bilmedin.",
+  "turkish_example_sentence_with_blank": "Bu zor sorunun cevabını ______."
+}

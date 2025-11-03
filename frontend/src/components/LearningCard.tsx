@@ -672,7 +672,7 @@ export const LearningCard: React.FC<LearningCardProps> = ({
       verbOffset += example.turkish_verb.negative_affix.length;
     }
 
-    // Tense affix (orange)
+    // Tense affix (orange) - may include vowel harmony connector
     if (example.turkish_verb.tense_affix) {
       const tenseText = sentence.substring(verbIndex + verbOffset, verbIndex + verbOffset + example.turkish_verb.tense_affix.length);
       verbParts.push(
@@ -683,15 +683,22 @@ export const LearningCard: React.FC<LearningCardProps> = ({
       verbOffset += example.turkish_verb.tense_affix.length;
     }
 
-    // Personal affix (green)
+    // Check if there's a vowel harmony connector before personal affix
+    // This handles cases where verb parts don't add up to verb_full length
+    const remainingLength = verbLength - verbOffset;
+    const personalAffixLength = example.turkish_verb.personal_affix?.length || 0;
+    
+    // Personal affix (green) - includes any vowel harmony connector
     if (example.turkish_verb.personal_affix) {
-      const personalText = sentence.substring(verbIndex + verbOffset, verbIndex + verbOffset + example.turkish_verb.personal_affix.length);
+      // If there's extra characters (vowel harmony), include them with personal affix
+      const actualPersonalLength = Math.max(personalAffixLength, remainingLength);
+      const personalText = sentence.substring(verbIndex + verbOffset, verbIndex + verbOffset + actualPersonalLength);
       verbParts.push(
         <span key="personal" className="text-green-700">
           {personalText}
         </span>
       );
-      verbOffset += example.turkish_verb.personal_affix.length;
+      verbOffset += actualPersonalLength;
     }
     
     return (

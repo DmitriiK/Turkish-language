@@ -1,0 +1,20 @@
+{
+  "verb_rank": 10,
+  "verb_english": "take",
+  "verb_russian": "брать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almıyoruz",
+    "root": "al",
+    "tense_affix": "yor",
+    "verb_tense": "şimdiki_zaman",
+    "personal_pronoun": "biz",
+    "personal_affix": "uz",
+    "polarity": "negative",
+    "negative_affix": "mı"
+  },
+  "english_example_sentence": "We are not taking these old notebooks from the library.",
+  "russian_example_sentence": "Мы не берем эти старые тетради из библиотеки.",
+  "turkish_example_sentence": "Biz bu eski defterleri kütüphaneden almıyoruz.",
+  "turkish_example_sentence_with_blank": "Biz bu eski defterleri kütüphaneden ______."
+}

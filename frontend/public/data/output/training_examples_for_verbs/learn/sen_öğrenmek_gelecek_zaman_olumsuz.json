@@ -1,0 +1,20 @@
+{
+  "verb_rank": 54,
+  "verb_english": "learn",
+  "verb_russian": "учить(ся)",
+  "verb_infinitive": "öğrenmek",
+  "turkish_verb": {
+    "verb_full": "öğrenmeyeceksin",
+    "root": "öğren",
+    "tense_affix": "yecek",
+    "verb_tense": "gelecek_zaman",
+    "personal_pronoun": "sen",
+    "personal_affix": "sin",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "You will never learn this difficult math lesson.",
+  "russian_example_sentence": "Ты никогда не выучишь этот сложный урок математики.",
+  "turkish_example_sentence": "Sen bu zor matematik dersini asla öğrenmeyeceksin.",
+  "turkish_example_sentence_with_blank": "Sen bu zor matematik dersini asla ______."
+}

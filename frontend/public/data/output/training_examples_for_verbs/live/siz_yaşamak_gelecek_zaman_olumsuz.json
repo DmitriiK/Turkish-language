@@ -1,0 +1,20 @@
+{
+  "verb_rank": 40,
+  "verb_english": "live",
+  "verb_russian": "жить",
+  "verb_infinitive": "yaşamak",
+  "turkish_verb": {
+    "verb_full": "yaşamayacaksınız",
+    "root": "yaşa",
+    "tense_affix": "yacak",
+    "verb_tense": "gelecek_zaman",
+    "personal_pronoun": "siz",
+    "personal_affix": "sınız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "You will not live in this old city for a long time.",
+  "russian_example_sentence": "Вы не будете жить в этом старом городе долго.",
+  "turkish_example_sentence": "Siz bu eski şehirde uzun süre yaşamayacaksınız.",
+  "turkish_example_sentence_with_blank": "Siz bu eski şehirde uzun süre ______."
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 5,
+  "verb_english": "go",
+  "verb_russian": "идти",
+  "verb_infinitive": "gitmek",
+  "turkish_verb": {
+    "verb_full": "gitmiyorum",
+    "root": "git",
+    "tense_affix": "yor",
+    "verb_tense": "şimdiki_zaman",
+    "personal_pronoun": "ben",
+    "personal_affix": "um",
+    "polarity": "negative",
+    "negative_affix": "mi"
+  },
+  "english_example_sentence": "I am not going to the big park.",
+  "russian_example_sentence": "Я не иду в большой парк.",
+  "turkish_example_sentence": "Ben büyük parka gitmiyorum.",
+  "turkish_example_sentence_with_blank": "Ben büyük parka ______."
+}

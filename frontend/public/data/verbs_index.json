@@ -1,0 +1,768 @@
+{
+  "total_verbs": 109,
+  "verbs": [
+    {
+      "rank": 1,
+      "verb_english": "be",
+      "verb_russian": "быть",
+      "verb_infinitive": "olmak",
+      "folder_name": "be"
+    },
+    {
+      "rank": 2,
+      "verb_english": "have",
+      "verb_russian": "иметь",
+      "verb_infinitive": "sahip olmak",
+      "folder_name": "have"
+    },
+    {
+      "rank": 3,
+      "verb_english": "do",
+      "verb_russian": "делать",
+      "verb_infinitive": "yapmak",
+      "folder_name": "do"
+    },
+    {
+      "rank": 4,
+      "verb_english": "say",
+      "verb_russian": "сказать",
+      "verb_infinitive": "söylemek",
+      "folder_name": "say"
+    },
+    {
+      "rank": 5,
+      "verb_english": "go",
+      "verb_russian": "идти",
+      "verb_infinitive": "gitmek",
+      "folder_name": "go"
+    },
+    {
+      "rank": 6,
+      "verb_english": "get (receive)",
+      "verb_russian": "получать",
+      "verb_infinitive": "almak",
+      "folder_name": "get_(receive)"
+    },
+    {
+      "rank": 7,
+      "verb_english": "make",
+      "verb_russian": "делать (создавать)",
+      "verb_infinitive": "yapmak",
+      "folder_name": "make"
+    },
+    {
+      "rank": 8,
+      "verb_english": "know",
+      "verb_russian": "знать",
+      "verb_infinitive": "bilmek",
+      "folder_name": "know"
+    },
+    {
+      "rank": 9,
+      "verb_english": "think",
+      "verb_russian": "думать",
+      "verb_infinitive": "düşünmek",
+      "folder_name": "think"
+    },
+    {
+      "rank": 10,
+      "verb_english": "take",
+      "verb_russian": "брать",
+      "verb_infinitive": "almak",
+      "folder_name": "take"
+    },
+    {
+      "rank": 11,
+      "verb_english": "see",
+      "verb_russian": "видеть",
+      "verb_infinitive": "görmek",
+      "folder_name": "see"
+    },
+    {
+      "rank": 12,
+      "verb_english": "come",
+      "verb_russian": "приходить",
+      "verb_infinitive": "gelmek",
+      "folder_name": "come"
+    },
+    {
+      "rank": 13,
+      "verb_english": "want",
+      "verb_russian": "хотеть",
+      "verb_infinitive": "istemek",
+      "folder_name": "want"
+    },
+    {
+      "rank": 14,
+      "verb_english": "look",
+      "verb_russian": "смотреть",
+      "verb_infinitive": "bakmak",
+      "folder_name": "look"
+    },
+    {
+      "rank": 15,
+      "verb_english": "use",
+      "verb_russian": "использовать",
+      "verb_infinitive": "kullanmak",
+      "folder_name": "use"
+    },
+    {
+      "rank": 16,
+      "verb_english": "find",
+      "verb_russian": "находить",
+      "verb_infinitive": "bulmak",
+      "folder_name": "find"
+    },
+    {
+      "rank": 17,
+      "verb_english": "give",
+      "verb_russian": "давать",
+      "verb_infinitive": "vermek",
+      "folder_name": "give"
+    },
+    {
+      "rank": 18,
+      "verb_english": "tell",
+      "verb_russian": "рассказывать",
+      "verb_infinitive": "anlatmak",
+      "folder_name": "tell"
+    },
+    {
+      "rank": 19,
+      "verb_english": "work",
+      "verb_russian": "работать",
+      "verb_infinitive": "çalışmak",
+      "folder_name": "work"
+    },
+    {
+      "rank": 20,
+      "verb_english": "call (phone)",
+      "verb_russian": "звонить",
+      "verb_infinitive": "aramak",
+      "folder_name": "call_(phone)"
+    },
+    {
+      "rank": 21,
+      "verb_english": "try",
+      "verb_russian": "пытаться",
+      "verb_infinitive": "denemek",
+      "folder_name": "try"
+    },
+    {
+      "rank": 22,
+      "verb_english": "ask",
+      "verb_russian": "спрашивать",
+      "verb_infinitive": "sormak",
+      "folder_name": "ask"
+    },
+    {
+      "rank": 23,
+      "verb_english": "need",
+      "verb_russian": "нуждаться",
+      "verb_infinitive": "ihtiyaç duymak",
+      "folder_name": "need"
+    },
+    {
+      "rank": 24,
+      "verb_english": "feel",
+      "verb_russian": "чувствовать",
+      "verb_infinitive": "hissetmek",
+      "folder_name": "feel"
+    },
+    {
+      "rank": 25,
+      "verb_english": "become",
+      "verb_russian": "становиться",
+      "verb_infinitive": "olmak",
+      "folder_name": "become"
+    },
+    {
+      "rank": 26,
+      "verb_english": "leave",
+      "verb_russian": "покидать",
+      "verb_infinitive": "ayrılmak",
+      "folder_name": "leave"
+    },
+    {
+      "rank": 27,
+      "verb_english": "put",
+      "verb_russian": "класть",
+      "verb_infinitive": "koymak",
+      "folder_name": "put"
+    },
+    {
+      "rank": 28,
+      "verb_english": "mean",
+      "verb_russian": "значить",
+      "verb_infinitive": "demek",
+      "folder_name": "mean"
+    },
+    {
+      "rank": 29,
+      "verb_english": "keep",
+      "verb_russian": "держать",
+      "verb_infinitive": "tutmak",
+      "folder_name": "keep"
+    },
+    {
+      "rank": 30,
+      "verb_english": "let (allow)",
+      "verb_russian": "позволять",
+      "verb_infinitive": "izin vermek",
+      "folder_name": "let_(allow)"
+    },
+    {
+      "rank": 31,
+      "verb_english": "begin",
+      "verb_russian": "начинать",
+      "verb_infinitive": "başlamak",
+      "folder_name": "begin"
+    },
+    {
+      "rank": 32,
+      "verb_english": "seem",
+      "verb_russian": "казаться",
+      "verb_infinitive": "görünmek",
+      "folder_name": "seem"
+    },
+    {
+      "rank": 33,
+      "verb_english": "help",
+      "verb_russian": "помогать",
+      "verb_infinitive": "yardım etmek",
+      "folder_name": "help"
+    },
+    {
+      "rank": 34,
+      "verb_english": "show",
+      "verb_russian": "показывать",
+      "verb_infinitive": "göstermek",
+      "folder_name": "show"
+    },
+    {
+      "rank": 35,
+      "verb_english": "hear",
+      "verb_russian": "слышать",
+      "verb_infinitive": "duymak",
+      "folder_name": "hear"
+    },
+    {
+      "rank": 36,
+      "verb_english": "play",
+      "verb_russian": "играть",
+      "verb_infinitive": "oynamak",
+      "folder_name": "play"
+    },
+    {
+      "rank": 37,
+      "verb_english": "run",
+      "verb_russian": "бегать",
+      "verb_infinitive": "koşmak",
+      "folder_name": "run"
+    },
+    {
+      "rank": 38,
+      "verb_english": "move",
+      "verb_russian": "двигаться",
+      "verb_infinitive": "hareket etmek",
+      "folder_name": "move"
+    },
+    {
+      "rank": 39,
+      "verb_english": "like",
+      "verb_russian": "нравиться",
+      "verb_infinitive": "sevmek",
+      "folder_name": "like"
+    },
+    {
+      "rank": 40,
+      "verb_english": "live",
+      "verb_russian": "жить",
+      "verb_infinitive": "yaşamak",
+      "folder_name": "live"
+    },
+    {
+      "rank": 41,
+      "verb_english": "believe",
+      "verb_russian": "верить",
+      "verb_infinitive": "inanmak",
+      "folder_name": "believe"
+    },
+    {
+      "rank": 42,
+      "verb_english": "hold",
+      "verb_russian": "держать",
+      "verb_infinitive": "tutmak",
+      "folder_name": "hold"
+    },
+    {
+      "rank": 43,
+      "verb_english": "bring",
+      "verb_russian": "приносить",
+      "verb_infinitive": "getirmek",
+      "folder_name": "bring"
+    },
+    {
+      "rank": 44,
+      "verb_english": "write",
+      "verb_russian": "писать",
+      "verb_infinitive": "yazmak",
+      "folder_name": "write"
+    },
+    {
+      "rank": 45,
+      "verb_english": "provide",
+      "verb_russian": "предоставлять",
+      "verb_infinitive": "sağlamak",
+      "folder_name": "provide"
+    },
+    {
+      "rank": 46,
+      "verb_english": "sit",
+      "verb_russian": "сидеть",
+      "verb_infinitive": "oturmak",
+      "folder_name": "sit"
+    },
+    {
+      "rank": 47,
+      "verb_english": "stand",
+      "verb_russian": "стоять",
+      "verb_infinitive": "ayakta durmak",
+      "folder_name": "stand"
+    },
+    {
+      "rank": 48,
+      "verb_english": "lose",
+      "verb_russian": "терять",
+      "verb_infinitive": "kaybetmek",
+      "folder_name": "lose"
+    },
+    {
+      "rank": 49,
+      "verb_english": "pay",
+      "verb_russian": "платить",
+      "verb_infinitive": "ödemek",
+      "folder_name": "pay"
+    },
+    {
+      "rank": 50,
+      "verb_english": "meet",
+      "verb_russian": "встречать",
+      "verb_infinitive": "buluşmak",
+      "folder_name": "meet"
+    },
+    {
+      "rank": 52,
+      "verb_english": "continue",
+      "verb_russian": "продолжать",
+      "verb_infinitive": "devam etmek",
+      "folder_name": "continue"
+    },
+    {
+      "rank": 53,
+      "verb_english": "set (put, place)",
+      "verb_russian": "ставить",
+      "verb_infinitive": "koymak",
+      "folder_name": "set_(put,_place)"
+    },
+    {
+      "rank": 54,
+      "verb_english": "learn",
+      "verb_russian": "учить(ся)",
+      "verb_infinitive": "öğrenmek",
+      "folder_name": "learn"
+    },
+    {
+      "rank": 55,
+      "verb_english": "change",
+      "verb_russian": "менять",
+      "verb_infinitive": "değiştirmek",
+      "folder_name": "change"
+    },
+    {
+      "rank": 56,
+      "verb_english": "lead",
+      "verb_russian": "вести",
+      "verb_infinitive": "öncülük etmek",
+      "folder_name": "lead"
+    },
+    {
+      "rank": 57,
+      "verb_english": "understand",
+      "verb_russian": "понимать",
+      "verb_infinitive": "anlamak",
+      "folder_name": "understand"
+    },
+    {
+      "rank": 58,
+      "verb_english": "watch",
+      "verb_russian": "смотреть",
+      "verb_infinitive": "izlemek",
+      "folder_name": "watch"
+    },
+    {
+      "rank": 59,
+      "verb_english": "follow",
+      "verb_russian": "следовать",
+      "verb_infinitive": "takip etmek",
+      "folder_name": "follow"
+    },
+    {
+      "rank": 60,
+      "verb_english": "stop",
+      "verb_russian": "останавливать",
+      "verb_infinitive": "durmak",
+      "folder_name": "stop"
+    },
+    {
+      "rank": 61,
+      "verb_english": "create",
+      "verb_russian": "создавать",
+      "verb_infinitive": "yaratmak",
+      "folder_name": "create"
+    },
+    {
+      "rank": 62,
+      "verb_english": "speak",
+      "verb_russian": "говорить",
+      "verb_infinitive": "konuşmak",
+      "folder_name": "speak"
+    },
+    {
+      "rank": 63,
+      "verb_english": "read",
+      "verb_russian": "читать",
+      "verb_infinitive": "okumak",
+      "folder_name": "read"
+    },
+    {
+      "rank": 64,
+      "verb_english": "allow",
+      "verb_russian": "разрешать",
+      "verb_infinitive": "izin vermek",
+      "folder_name": "allow"
+    },
+    {
+      "rank": 65,
+      "verb_english": "add",
+      "verb_russian": "добавлять",
+      "verb_infinitive": "eklemek",
+      "folder_name": "add"
+    },
+    {
+      "rank": 66,
+      "verb_english": "spend",
+      "verb_russian": "тратить",
+      "verb_infinitive": "harcamak",
+      "folder_name": "spend"
+    },
+    {
+      "rank": 67,
+      "verb_english": "grow",
+      "verb_russian": "расти",
+      "verb_infinitive": "büyümek",
+      "folder_name": "grow"
+    },
+    {
+      "rank": 69,
+      "verb_english": "walk",
+      "verb_russian": "ходить",
+      "verb_infinitive": "yürümek",
+      "folder_name": "walk"
+    },
+    {
+      "rank": 70,
+      "verb_english": "win",
+      "verb_russian": "выигрывать",
+      "verb_infinitive": "kazanmak",
+      "folder_name": "win"
+    },
+    {
+      "rank": 72,
+      "verb_english": "remember",
+      "verb_russian": "помнить",
+      "verb_infinitive": "hatırlamak",
+      "folder_name": "remember"
+    },
+    {
+      "rank": 73,
+      "verb_english": "love",
+      "verb_russian": "любить",
+      "verb_infinitive": "sevmek",
+      "folder_name": "love"
+    },
+    {
+      "rank": 74,
+      "verb_english": "consider",
+      "verb_russian": "рассматривать",
+      "verb_infinitive": "düşünmek",
+      "folder_name": "consider"
+    },
+    {
+      "rank": 75,
+      "verb_english": "appear",
+      "verb_russian": "появляться",
+      "verb_infinitive": "görünmek",
+      "folder_name": "appear"
+    },
+    {
+      "rank": 76,
+      "verb_english": "buy",
+      "verb_russian": "покупать",
+      "verb_infinitive": "satın almak",
+      "folder_name": "buy"
+    },
+    {
+      "rank": 77,
+      "verb_english": "wait",
+      "verb_russian": "ждать",
+      "verb_infinitive": "beklemek",
+      "folder_name": "wait"
+    },
+    {
+      "rank": 78,
+      "verb_english": "serve",
+      "verb_russian": "обслуживать",
+      "verb_infinitive": "hizmet etmek",
+      "folder_name": "serve"
+    },
+    {
+      "rank": 79,
+      "verb_english": "die",
+      "verb_russian": "умирать",
+      "verb_infinitive": "ölmek",
+      "folder_name": "die"
+    },
+    {
+      "rank": 80,
+      "verb_english": "send",
+      "verb_russian": "отправлять",
+      "verb_infinitive": "göndermek",
+      "folder_name": "send"
+    },
+    {
+      "rank": 82,
+      "verb_english": "build",
+      "verb_russian": "строить",
+      "verb_infinitive": "inşa etmek",
+      "folder_name": "build"
+    },
+    {
+      "rank": 83,
+      "verb_english": "stay",
+      "verb_russian": "оставаться",
+      "verb_infinitive": "kalmak",
+      "folder_name": "stay"
+    },
+    {
+      "rank": 84,
+      "verb_english": "fall",
+      "verb_russian": "падать",
+      "verb_infinitive": "düşmek",
+      "folder_name": "fall"
+    },
+    {
+      "rank": 85,
+      "verb_english": "cut",
+      "verb_russian": "резать",
+      "verb_infinitive": "kesmek",
+      "folder_name": "cut"
+    },
+    {
+      "rank": 87,
+      "verb_english": "kill",
+      "verb_russian": "убивать",
+      "verb_infinitive": "öldürmek",
+      "folder_name": "kill"
+    },
+    {
+      "rank": 88,
+      "verb_english": "remain",
+      "verb_russian": "оставаться",
+      "verb_infinitive": "kalmak",
+      "folder_name": "remain"
+    },
+    {
+      "rank": 90,
+      "verb_english": "raise (lift)",
+      "verb_russian": "поднимать",
+      "verb_infinitive": "kaldırmak",
+      "folder_name": "raise_(lift)"
+    },
+    {
+      "rank": 92,
+      "verb_english": "sell",
+      "verb_russian": "продавать",
+      "verb_infinitive": "satmak",
+      "folder_name": "sell"
+    },
+    {
+      "rank": 93,
+      "verb_english": "require",
+      "verb_russian": "требовать",
+      "verb_infinitive": "gerektirmek",
+      "folder_name": "require"
+    },
+    {
+      "rank": 94,
+      "verb_english": "report",
+      "verb_russian": "сообщать",
+      "verb_infinitive": "bildirmek",
+      "folder_name": "report"
+    },
+    {
+      "rank": 95,
+      "verb_english": "decide",
+      "verb_russian": "решать",
+      "verb_infinitive": "karar vermek",
+      "folder_name": "decide"
+    },
+    {
+      "rank": 96,
+      "verb_english": "pull",
+      "verb_russian": "тянуть",
+      "verb_infinitive": "çekmek",
+      "folder_name": "pull"
+    },
+    {
+      "rank": 97,
+      "verb_english": "return",
+      "verb_russian": "возвращаться",
+      "verb_infinitive": "dönmek",
+      "folder_name": "return"
+    },
+    {
+      "rank": 98,
+      "verb_english": "explain",
+      "verb_russian": "объяснять",
+      "verb_infinitive": "açıklamak",
+      "folder_name": "explain"
+    },
+    {
+      "rank": 99,
+      "verb_english": "hope",
+      "verb_russian": "надеяться",
+      "verb_infinitive": "ummak",
+      "folder_name": "hope"
+    },
+    {
+      "rank": 100,
+      "verb_english": "develop",
+      "verb_russian": "развивать",
+      "verb_infinitive": "geliştirmek",
+      "folder_name": "develop"
+    },
+    {
+      "rank": 101,
+      "verb_english": "carry",
+      "verb_russian": "нести",
+      "verb_infinitive": "taşımak",
+      "folder_name": "carry"
+    },
+    {
+      "rank": 102,
+      "verb_english": "break",
+      "verb_russian": "ломать",
+      "verb_infinitive": "kırmak",
+      "folder_name": "break"
+    },
+    {
+      "rank": 103,
+      "verb_english": "receive",
+      "verb_russian": "получать",
+      "verb_infinitive": "almak",
+      "folder_name": "receive"
+    },
+    {
+      "rank": 104,
+      "verb_english": "agree",
+      "verb_russian": "соглашаться",
+      "verb_infinitive": "anlaşmak",
+      "folder_name": "agree"
+    },
+    {
+      "rank": 105,
+      "verb_english": "support",
+      "verb_russian": "поддерживать",
+      "verb_infinitive": "desteklemek",
+      "folder_name": "support"
+    },
+    {
+      "rank": 106,
+      "verb_english": "hit",
+      "verb_russian": "ударять",
+      "verb_infinitive": "vurmak",
+      "folder_name": "hit"
+    },
+    {
+      "rank": 107,
+      "verb_english": "produce",
+      "verb_russian": "производить",
+      "verb_infinitive": "üretmek",
+      "folder_name": "produce"
+    },
+    {
+      "rank": 108,
+      "verb_english": "eat",
+      "verb_russian": "есть",
+      "verb_infinitive": "yemek",
+      "folder_name": "eat"
+    },
+    {
+      "rank": 109,
+      "verb_english": "cover",
+      "verb_russian": "покрывать",
+      "verb_infinitive": "örtmek",
+      "folder_name": "cover"
+    },
+    {
+      "rank": 110,
+      "verb_english": "catch",
+      "verb_russian": "ловить",
+      "verb_infinitive": "yakalamak",
+      "folder_name": "catch"
+    },
+    {
+      "rank": 111,
+      "verb_english": "draw",
+      "verb_russian": "рисовать",
+      "verb_infinitive": "çizmek",
+      "folder_name": "draw"
+    },
+    {
+      "rank": 112,
+      "verb_english": "choose",
+      "verb_russian": "выбирать",
+      "verb_infinitive": "seçmek",
+      "folder_name": "choose"
+    },
+    {
+      "rank": 113,
+      "verb_english": "touch",
+      "verb_russian": "трогать",
+      "verb_infinitive": "dokunmak",
+      "folder_name": "touch"
+    },
+    {
+      "rank": 114,
+      "verb_english": "teach",
+      "verb_russian": "учить (кого-то)",
+      "verb_infinitive": "öğretmek",
+      "folder_name": "teach"
+    },
+    {
+      "rank": 115,
+      "verb_english": "reach (arrive)",
+      "verb_russian": "добираться",
+      "verb_infinitive": "ulaşmak",
+      "folder_name": "reach_(arrive)"
+    },
+    {
+      "rank": 116,
+      "verb_english": "serve",
+      "verb_russian": "подавать",
+      "verb_infinitive": "servis yapmak",
+      "folder_name": "serve_(food)"
+    }
+  ]
+}

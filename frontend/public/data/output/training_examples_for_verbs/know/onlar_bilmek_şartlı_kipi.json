@@ -1,0 +1,20 @@
+{
+  "verb_rank": 8,
+  "verb_english": "know",
+  "verb_russian": "знать",
+  "verb_infinitive": "bilmek",
+  "turkish_verb": {
+    "verb_full": "bilseler",
+    "root": "bil",
+    "tense_affix": "se",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "ler",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If the diligent students knew all the answers, their teacher would be happy.",
+  "russian_example_sentence": "Если бы прилежные ученики знали все ответы, их учитель был бы счастлив.",
+  "turkish_example_sentence": "Eğer çalışkan öğrenciler tüm cevapları bilseler, öğretmenleri mutlu olur.",
+  "turkish_example_sentence_with_blank": "Eğer çalışkan öğrenciler tüm cevapları ______, öğretmenleri mutlu olur."
+}

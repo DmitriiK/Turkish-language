@@ -1,0 +1,651 @@
+{
+  "verb_english": "work",
+  "verb_russian": "работать",
+  "verb_infinitive": "çalışmak",
+  "verb_rank": 19,
+  "folder_name": "work",
+  "examples": [
+    {
+      "tense": "emir_kipi",
+      "pronoun": "none",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/none_çalışmak_emir_kipi.json"
+    },
+    {
+      "tense": "farzî_geçmiş_zaman",
+      "pronoun": "ben",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/ben_çalışmak_farzî_geçmiş_zaman.json"
+    },
+    {
+      "tense": "farzî_geçmiş_zaman",
+      "pronoun": "biz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/biz_çalışmak_farzî_geçmiş_zaman.json"
+    },
+    {
+      "tense": "farzî_geçmiş_zaman",
+      "pronoun": "o",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/o_çalışmak_farzî_geçmiş_zaman.json"
+    },
+    {
+      "tense": "farzî_geçmiş_zaman",
+      "pronoun": "onlar",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/onlar_çalışmak_farzî_geçmiş_zaman.json"
+    },
+    {
+      "tense": "farzî_geçmiş_zaman",
+      "pronoun": "sen",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/sen_çalışmak_farzî_geçmiş_zaman.json"
+    },
+    {
+      "tense": "farzî_geçmiş_zaman",
+      "pronoun": "siz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/siz_çalışmak_farzî_geçmiş_zaman.json"
+    },
+    {
+      "tense": "gelecek_zaman",
+      "pronoun": "ben",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/work/ben_çalışmak_gelecek_zaman_olumsuz.json"
+    },
+    {
+      "tense": "gelecek_zaman",
+      "pronoun": "biz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/work/biz_çalışmak_gelecek_zaman_olumsuz.json"
+    },
+    {
+      "tense": "gelecek_zaman",
+      "pronoun": "o",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/work/o_çalışmak_gelecek_zaman_olumsuz.json"
+    },
+    {
+      "tense": "gelecek_zaman",
+      "pronoun": "onlar",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/work/onlar_çalışmak_gelecek_zaman_olumsuz.json"
+    },
+    {
+      "tense": "gelecek_zaman",
+      "pronoun": "sen",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/work/sen_çalışmak_gelecek_zaman_olumsuz.json"
+    },
+    {
+      "tense": "gelecek_zaman",
+      "pronoun": "siz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/work/siz_çalışmak_gelecek_zaman_olumsuz.json"
+    },
+    {
+      "tense": "gelecek_zaman",
+      "pronoun": "ben",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/ben_çalışmak_gelecek_zaman.json"
+    },
+    {
+      "tense": "gelecek_zaman",
+      "pronoun": "biz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/biz_çalışmak_gelecek_zaman.json"
+    },
+    {
+      "tense": "gelecek_zaman",
+      "pronoun": "o",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/o_çalışmak_gelecek_zaman.json"
+    },
+    {
+      "tense": "gelecek_zaman",
+      "pronoun": "onlar",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/onlar_çalışmak_gelecek_zaman.json"
+    },
+    {
+      "tense": "gelecek_zaman",
+      "pronoun": "sen",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/sen_çalışmak_gelecek_zaman.json"
+    },
+    {
+      "tense": "gelecek_zaman",
+      "pronoun": "siz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/siz_çalışmak_gelecek_zaman.json"
+    },
+    {
+      "tense": "geniş_zaman",
+      "pronoun": "ben",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/work/ben_çalışmak_geniş_zaman_olumsuz.json"
+    },
+    {
+      "tense": "geniş_zaman",
+      "pronoun": "biz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/work/biz_çalışmak_geniş_zaman_olumsuz.json"
+    },
+    {
+      "tense": "geniş_zaman",
+      "pronoun": "o",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/work/o_çalışmak_geniş_zaman_olumsuz.json"
+    },
+    {
+      "tense": "geniş_zaman",
+      "pronoun": "onlar",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/work/onlar_çalışmak_geniş_zaman_olumsuz.json"
+    },
+    {
+      "tense": "geniş_zaman",
+      "pronoun": "sen",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/work/sen_çalışmak_geniş_zaman_olumsuz.json"
+    },
+    {
+      "tense": "geniş_zaman",
+      "pronoun": "siz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/work/siz_çalışmak_geniş_zaman_olumsuz.json"
+    },
+    {
+      "tense": "geniş_zaman",
+      "pronoun": "ben",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/ben_çalışmak_geniş_zaman.json"
+    },
+    {
+      "tense": "geniş_zaman",
+      "pronoun": "biz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/biz_çalışmak_geniş_zaman.json"
+    },
+    {
+      "tense": "geniş_zaman",
+      "pronoun": "o",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/o_çalışmak_geniş_zaman.json"
+    },
+    {
+      "tense": "geniş_zaman",
+      "pronoun": "onlar",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/onlar_çalışmak_geniş_zaman.json"
+    },
+    {
+      "tense": "geniş_zaman",
+      "pronoun": "sen",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/sen_çalışmak_geniş_zaman.json"
+    },
+    {
+      "tense": "geniş_zaman",
+      "pronoun": "siz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/siz_çalışmak_geniş_zaman.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "none",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/none_çalışmak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "geçmiş_gelecek_zaman",
+      "pronoun": "ben",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/ben_çalışmak_geçmiş_gelecek_zaman.json"
+    },
+    {
+      "tense": "geçmiş_gelecek_zaman",
+      "pronoun": "biz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/biz_çalışmak_geçmiş_gelecek_zaman.json"
+    },
+    {
+      "tense": "geçmiş_gelecek_zaman",
+      "pronoun": "o",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/o_çalışmak_geçmiş_gelecek_zaman.json"
+    },
+    {
+      "tense": "geçmiş_gelecek_zaman",
+      "pronoun": "onlar",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/onlar_çalışmak_geçmiş_gelecek_zaman.json"
+    },
+    {
+      "tense": "geçmiş_gelecek_zaman",
+      "pronoun": "sen",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/sen_çalışmak_geçmiş_gelecek_zaman.json"
+    },
+    {
+      "tense": "geçmiş_gelecek_zaman",
+      "pronoun": "siz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/siz_çalışmak_geçmiş_gelecek_zaman.json"
+    },
+    {
+      "tense": "geçmiş_zaman",
+      "pronoun": "ben",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/work/ben_çalışmak_geçmiş_zaman_olumsuz.json"
+    },
+    {
+      "tense": "geçmiş_zaman",
+      "pronoun": "biz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/work/biz_çalışmak_geçmiş_zaman_olumsuz.json"
+    },
+    {
+      "tense": "geçmiş_zaman",
+      "pronoun": "o",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/work/o_çalışmak_geçmiş_zaman_olumsuz.json"
+    },
+    {
+      "tense": "geçmiş_zaman",
+      "pronoun": "onlar",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/work/onlar_çalışmak_geçmiş_zaman_olumsuz.json"
+    },
+    {
+      "tense": "geçmiş_zaman",
+      "pronoun": "sen",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/work/sen_çalışmak_geçmiş_zaman_olumsuz.json"
+    },
+    {
+      "tense": "geçmiş_zaman",
+      "pronoun": "siz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/work/siz_çalışmak_geçmiş_zaman_olumsuz.json"
+    },
+    {
+      "tense": "geçmiş_zaman",
+      "pronoun": "ben",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/ben_çalışmak_geçmiş_zaman.json"
+    },
+    {
+      "tense": "geçmiş_zaman",
+      "pronoun": "biz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/biz_çalışmak_geçmiş_zaman.json"
+    },
+    {
+      "tense": "geçmiş_zaman",
+      "pronoun": "o",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/o_çalışmak_geçmiş_zaman.json"
+    },
+    {
+      "tense": "geçmiş_zaman",
+      "pronoun": "onlar",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/onlar_çalışmak_geçmiş_zaman.json"
+    },
+    {
+      "tense": "geçmiş_zaman",
+      "pronoun": "sen",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/sen_çalışmak_geçmiş_zaman.json"
+    },
+    {
+      "tense": "geçmiş_zaman",
+      "pronoun": "siz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/siz_çalışmak_geçmiş_zaman.json"
+    },
+    {
+      "tense": "imkan_kipi",
+      "pronoun": "ben",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/ben_çalışmak_imkan_kipi.json"
+    },
+    {
+      "tense": "imkan_kipi",
+      "pronoun": "biz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/biz_çalışmak_imkan_kipi.json"
+    },
+    {
+      "tense": "imkan_kipi",
+      "pronoun": "o",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/o_çalışmak_imkan_kipi.json"
+    },
+    {
+      "tense": "imkan_kipi",
+      "pronoun": "onlar",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/onlar_çalışmak_imkan_kipi.json"
+    },
+    {
+      "tense": "imkan_kipi",
+      "pronoun": "sen",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/sen_çalışmak_imkan_kipi.json"
+    },
+    {
+      "tense": "imkan_kipi",
+      "pronoun": "siz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/siz_çalışmak_imkan_kipi.json"
+    },
+    {
+      "tense": "istek_kipi",
+      "pronoun": "ben",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/ben_çalışmak_istek_kipi.json"
+    },
+    {
+      "tense": "istek_kipi",
+      "pronoun": "biz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/biz_çalışmak_istek_kipi.json"
+    },
+    {
+      "tense": "istek_kipi",
+      "pronoun": "o",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/o_çalışmak_istek_kipi.json"
+    },
+    {
+      "tense": "istek_kipi",
+      "pronoun": "onlar",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/onlar_çalışmak_istek_kipi.json"
+    },
+    {
+      "tense": "istek_kipi",
+      "pronoun": "sen",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/sen_çalışmak_istek_kipi.json"
+    },
+    {
+      "tense": "istek_kipi",
+      "pronoun": "siz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/siz_çalışmak_istek_kipi.json"
+    },
+    {
+      "tense": "sıfat_fiil",
+      "pronoun": "none",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/none_çalışmak_sıfat_fiil.json"
+    },
+    {
+      "tense": "ulak_fiil",
+      "pronoun": "none",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/none_çalışmak_ulak_fiil.json"
+    },
+    {
+      "tense": "yaracağım",
+      "pronoun": "ben",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/ben_çalışmak_yaracağım.json"
+    },
+    {
+      "tense": "yaracağım",
+      "pronoun": "biz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/biz_çalışmak_yaracağım.json"
+    },
+    {
+      "tense": "yaracağım",
+      "pronoun": "o",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/o_çalışmak_yaracağım.json"
+    },
+    {
+      "tense": "yaracağım",
+      "pronoun": "onlar",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/onlar_çalışmak_yaracağım.json"
+    },
+    {
+      "tense": "yaracağım",
+      "pronoun": "sen",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/sen_çalışmak_yaracağım.json"
+    },
+    {
+      "tense": "yaracağım",
+      "pronoun": "siz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/siz_çalışmak_yaracağım.json"
+    },
+    {
+      "tense": "zaman_sıfatı",
+      "pronoun": "ben",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/ben_çalışmak_zaman_sıfatı.json"
+    },
+    {
+      "tense": "zaman_sıfatı",
+      "pronoun": "biz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/biz_çalışmak_zaman_sıfatı.json"
+    },
+    {
+      "tense": "zaman_sıfatı",
+      "pronoun": "o",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/o_çalışmak_zaman_sıfatı.json"
+    },
+    {
+      "tense": "zaman_sıfatı",
+      "pronoun": "onlar",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/onlar_çalışmak_zaman_sıfatı.json"
+    },
+    {
+      "tense": "zaman_sıfatı",
+      "pronoun": "sen",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/sen_çalışmak_zaman_sıfatı.json"
+    },
+    {
+      "tense": "zaman_sıfatı",
+      "pronoun": "siz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/siz_çalışmak_zaman_sıfatı.json"
+    },
+    {
+      "tense": "zarf_fiil",
+      "pronoun": "none",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/none_çalışmak_zarf_fiil.json"
+    },
+    {
+      "tense": "zorunluluk_kipi",
+      "pronoun": "ben",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/ben_çalışmak_zorunluluk_kipi.json"
+    },
+    {
+      "tense": "zorunluluk_kipi",
+      "pronoun": "biz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/biz_çalışmak_zorunluluk_kipi.json"
+    },
+    {
+      "tense": "zorunluluk_kipi",
+      "pronoun": "o",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/o_çalışmak_zorunluluk_kipi.json"
+    },
+    {
+      "tense": "zorunluluk_kipi",
+      "pronoun": "onlar",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/onlar_çalışmak_zorunluluk_kipi.json"
+    },
+    {
+      "tense": "zorunluluk_kipi",
+      "pronoun": "sen",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/sen_çalışmak_zorunluluk_kipi.json"
+    },
+    {
+      "tense": "zorunluluk_kipi",
+      "pronoun": "siz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/siz_çalışmak_zorunluluk_kipi.json"
+    },
+    {
+      "tense": "şart_kipi",
+      "pronoun": "ben",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/ben_çalışmak_şart_kipi.json"
+    },
+    {
+      "tense": "şart_kipi",
+      "pronoun": "biz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/biz_çalışmak_şart_kipi.json"
+    },
+    {
+      "tense": "şart_kipi",
+      "pronoun": "o",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/o_çalışmak_şart_kipi.json"
+    },
+    {
+      "tense": "şart_kipi",
+      "pronoun": "onlar",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/onlar_çalışmak_şart_kipi.json"
+    },
+    {
+      "tense": "şart_kipi",
+      "pronoun": "sen",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/sen_çalışmak_şart_kipi.json"
+    },
+    {
+      "tense": "şart_kipi",
+      "pronoun": "siz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/siz_çalışmak_şart_kipi.json"
+    },
+    {
+      "tense": "şartlı_kipi",
+      "pronoun": "ben",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/ben_çalışmak_şartlı_kipi.json"
+    },
+    {
+      "tense": "şartlı_kipi",
+      "pronoun": "biz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/biz_çalışmak_şartlı_kipi.json"
+    },
+    {
+      "tense": "şartlı_kipi",
+      "pronoun": "o",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/o_çalışmak_şartlı_kipi.json"
+    },
+    {
+      "tense": "şartlı_kipi",
+      "pronoun": "onlar",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/onlar_çalışmak_şartlı_kipi.json"
+    },
+    {
+      "tense": "şartlı_kipi",
+      "pronoun": "sen",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/sen_çalışmak_şartlı_kipi.json"
+    },
+    {
+      "tense": "şartlı_kipi",
+      "pronoun": "siz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/siz_çalışmak_şartlı_kipi.json"
+    },
+    {
+      "tense": "şimdiki_zaman",
+      "pronoun": "ben",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/work/ben_çalışmak_şimdiki_zaman_olumsuz.json"
+    },
+    {
+      "tense": "şimdiki_zaman",
+      "pronoun": "biz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/work/biz_çalışmak_şimdiki_zaman_olumsuz.json"
+    },
+    {
+      "tense": "şimdiki_zaman",
+      "pronoun": "o",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/work/o_çalışmak_şimdiki_zaman_olumsuz.json"
+    },
+    {
+      "tense": "şimdiki_zaman",
+      "pronoun": "onlar",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/work/onlar_çalışmak_şimdiki_zaman_olumsuz.json"
+    },
+    {
+      "tense": "şimdiki_zaman",
+      "pronoun": "sen",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/work/sen_çalışmak_şimdiki_zaman_olumsuz.json"
+    },
+    {
+      "tense": "şimdiki_zaman",
+      "pronoun": "siz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/work/siz_çalışmak_şimdiki_zaman_olumsuz.json"
+    },
+    {
+      "tense": "şimdiki_zaman",
+      "pronoun": "ben",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/ben_çalışmak_şimdiki_zaman.json"
+    },
+    {
+      "tense": "şimdiki_zaman",
+      "pronoun": "biz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/biz_çalışmak_şimdiki_zaman.json"
+    },
+    {
+      "tense": "şimdiki_zaman",
+      "pronoun": "o",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/o_çalışmak_şimdiki_zaman.json"
+    },
+    {
+      "tense": "şimdiki_zaman",
+      "pronoun": "onlar",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/onlar_çalışmak_şimdiki_zaman.json"
+    },
+    {
+      "tense": "şimdiki_zaman",
+      "pronoun": "sen",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/sen_çalışmak_şimdiki_zaman.json"
+    },
+    {
+      "tense": "şimdiki_zaman",
+      "pronoun": "siz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/siz_çalışmak_şimdiki_zaman.json"
+    }
+  ]
+}

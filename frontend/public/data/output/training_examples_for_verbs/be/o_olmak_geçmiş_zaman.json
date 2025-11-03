@@ -1,0 +1,20 @@
+{
+  "verb_rank": 1,
+  "verb_english": "be",
+  "verb_russian": "быть",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "oldu",
+    "root": "ol",
+    "tense_affix": "du",
+    "verb_tense": "geçmiş_zaman",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "The weather was nice yesterday.",
+  "russian_example_sentence": "Погода была хорошей вчера.",
+  "turkish_example_sentence": "Hava dün güzel oldu.",
+  "turkish_example_sentence_with_blank": "Hava dün güzel ______."
+}

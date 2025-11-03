@@ -1,0 +1,20 @@
+{
+  "verb_rank": 13,
+  "verb_english": "want",
+  "verb_russian": "хотеть",
+  "verb_infinitive": "istemek",
+  "turkish_verb": {
+    "verb_full": "istesen",
+    "root": "iste",
+    "tense_affix": "se",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If you want a new book, we can get it from the library.",
+  "russian_example_sentence": "Если ты захочешь новую книгу, мы можем взять ее из библиотеки.",
+  "turkish_example_sentence": "Eğer sen yeni bir kitap istesen, kütüphaneden alabiliriz.",
+  "turkish_example_sentence_with_blank": "Eğer sen yeni bir kitap ______, kütüphaneden alabiliriz."
+}

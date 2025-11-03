@@ -1,0 +1,20 @@
+{
+  "verb_rank": 6,
+  "verb_english": "get (receive)",
+  "verb_russian": "получать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almayacağız",
+    "root": "al",
+    "tense_affix": "yacak",
+    "verb_tense": "gelecek_zaman",
+    "personal_pronoun": "biz",
+    "personal_affix": "ız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "We will not get the package tomorrow.",
+  "russian_example_sentence": "Мы не получим посылку завтра.",
+  "turkish_example_sentence": "Biz yarın paketi almayacağız.",
+  "turkish_example_sentence_with_blank": "Biz yarın paketi **______**."
+}

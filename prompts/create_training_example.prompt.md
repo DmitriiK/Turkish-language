@@ -73,6 +73,31 @@ You are a Turkish language expert who creates training examples for language lea
 - Follow Turkish vowel harmony rules
 - Consider consonant changes and phonetic adaptations
 
+**⚠️ CRITICAL: VOWEL HARMONY CONNECTORS MUST BE INCLUDED IN AFFIXES**
+When a vowel harmony connector (buffer vowel like -i-, -ı-, -u-, -ü-, -a-, -e-) appears between affixes, it MUST be included in one of the affix fields:
+
+- **Include buffer vowels in tense_affix**: If there's a buffer vowel between root and tense marker
+  - Example: git + **i** + yor + um = gidiyorum
+    - tense_affix should be "**i**yor" (NOT just "yor")
+  - Example: gel + **i** + yor + um = geliyorum
+    - tense_affix should be "**i**yor" (NOT just "yor")
+  - Example: anla + yor + um = anlıyorum (no buffer needed, consonant)
+    - tense_affix should be "yor"
+
+- **Include buffer vowels in personal_affix**: If there's a buffer vowel before personal ending
+  - Example: git + iyor + **u** + m = gidiyorum
+    - personal_affix should be "**u**m" (NOT just "m")
+  - Example: gel + iyor + **u** + m = geliyorum
+    - personal_affix should be "**u**m" (NOT just "m")
+  - Example: yap + ıyor + **u** + m = yapıyorum
+    - personal_affix should be "**u**m" (NOT just "m")
+
+**VERIFICATION RULE**: 
+- verb_full.length MUST EQUAL (root.length + negative_affix.length + tense_affix.length + personal_affix.length)
+- If lengths don't match, you forgot to include buffer vowels in the affixes
+- Example check: "gidiyorum" (9 chars) = "git"(3) + ""(0) + "iyor"(4) + "um"(2) = 9 ✅
+- Example WRONG: "gidiyorum" (9 chars) ≠ "git"(3) + ""(0) + "yor"(3) + "um"(2) = 8 ❌ (missing buffer vowel)
+
 ### 2. Example Sentences
 Create three natural example sentences:
 

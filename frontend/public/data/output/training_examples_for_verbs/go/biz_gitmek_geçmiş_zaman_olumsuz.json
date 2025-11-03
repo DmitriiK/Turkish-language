@@ -1,0 +1,20 @@
+{
+  "verb_rank": 5,
+  "verb_english": "go",
+  "verb_russian": "идти",
+  "verb_infinitive": "gitmek",
+  "turkish_verb": {
+    "verb_full": "gitmedik",
+    "root": "git",
+    "tense_affix": "di",
+    "verb_tense": "geçmiş_zaman",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "We did not go to this new museum last week.",
+  "russian_example_sentence": "Мы не ходили в этот новый музей на прошлой неделе.",
+  "turkish_example_sentence": "Biz geçen hafta bu yeni müzeye gitmedik.",
+  "turkish_example_sentence_with_blank": "Biz geçen hafta bu yeni müzeye ______."
+}

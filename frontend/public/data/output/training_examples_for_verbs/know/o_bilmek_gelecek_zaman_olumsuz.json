@@ -1,0 +1,20 @@
+{
+  "verb_rank": 8,
+  "verb_english": "know",
+  "verb_russian": "знать",
+  "verb_infinitive": "bilmek",
+  "turkish_verb": {
+    "verb_full": "bilmeyecek",
+    "root": "bil",
+    "tense_affix": "yecek",
+    "verb_tense": "gelecek_zaman",
+    "personal_pronoun": "o",
+    "personal_affix": "",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "The new student will not know this important information.",
+  "russian_example_sentence": "Новый студент не будет знать эту важную информацию.",
+  "turkish_example_sentence": "Yeni öğrenci bu önemli bilgiyi bilmeyecek.",
+  "turkish_example_sentence_with_blank": "Yeni öğrenci bu önemli bilgiyi ______."
+}

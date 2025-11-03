@@ -1,0 +1,20 @@
+{
+  "verb_rank": 8,
+  "verb_english": "know",
+  "verb_russian": "знать",
+  "verb_infinitive": "bilmek",
+  "turkish_verb": {
+    "verb_full": "bilseler",
+    "root": "bil",
+    "tense_affix": "se",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "ler",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If the students know the difficult topic, they explain it well.",
+  "russian_example_sentence": "Если студенты знают сложную тему, они хорошо ее объясняют.",
+  "turkish_example_sentence": "Eğer öğrenciler zor konuyu bilseler, iyi açıklarlar.",
+  "turkish_example_sentence_with_blank": "Eğer öğrenciler zor konuyu ______, iyi açıklarlar."
+}

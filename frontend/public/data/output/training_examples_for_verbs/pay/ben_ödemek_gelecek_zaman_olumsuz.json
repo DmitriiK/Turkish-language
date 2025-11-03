@@ -1,0 +1,20 @@
+{
+  "verb_rank": 49,
+  "verb_english": "pay",
+  "verb_russian": "платить",
+  "verb_infinitive": "ödemek",
+  "turkish_verb": {
+    "verb_full": "ödemeyeceğim",
+    "root": "öde",
+    "tense_affix": "yecek",
+    "verb_tense": "gelecek_zaman",
+    "personal_pronoun": "ben",
+    "personal_affix": "im",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "I will not pay this small bill to the bank tomorrow.",
+  "russian_example_sentence": "Я не заплачу этот маленький счет банку завтра.",
+  "turkish_example_sentence": "Ben bu küçük faturayı bankaya yarın ödemeyeceğim.",
+  "turkish_example_sentence_with_blank": "Ben bu küçük faturayı bankaya yarın ______."
+}

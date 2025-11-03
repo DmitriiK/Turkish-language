@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "göndereceksin",
+    "root": "gönder",
+    "tense_affix": "ecek",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "sin",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "You will send the message quickly.",
+  "russian_example_sentence": "Ты быстро отправишь сообщение.",
+  "turkish_example_sentence": "Sen hızlı bir şekilde mesajı göndereceksin.",
+  "turkish_example_sentence_with_blank": "Sen hızlı bir şekilde mesajı ______."
+}

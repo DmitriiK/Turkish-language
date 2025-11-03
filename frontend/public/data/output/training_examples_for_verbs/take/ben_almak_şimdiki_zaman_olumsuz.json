@@ -1,0 +1,20 @@
+{
+  "verb_rank": 10,
+  "verb_english": "take",
+  "verb_russian": "брать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almıyorum",
+    "root": "al",
+    "tense_affix": "yor",
+    "verb_tense": "şimdiki_zaman",
+    "personal_pronoun": "ben",
+    "personal_affix": "um",
+    "polarity": "negative",
+    "negative_affix": "mı"
+  },
+  "english_example_sentence": "I am not taking this old book from the library.",
+  "russian_example_sentence": "Я не беру эту старую книгу из библиотеки.",
+  "turkish_example_sentence": "Ben bu eski kitabı kütüphaneden almıyorum.",
+  "turkish_example_sentence_with_blank": "Ben bu eski kitabı kütüphaneden ______."
+}

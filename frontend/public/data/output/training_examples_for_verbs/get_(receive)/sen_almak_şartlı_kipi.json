@@ -1,0 +1,20 @@
+{
+  "verb_rank": 6,
+  "verb_english": "get (receive)",
+  "verb_russian": "получать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "alsan",
+    "root": "al",
+    "tense_affix": "sa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If you buy this beautiful book, you will get a high grade in the exam.",
+  "russian_example_sentence": "Если ты купишь эту красивую книгу, ты получишь высокую оценку на экзамене.",
+  "turkish_example_sentence": "Eğer bu güzel kitabı alsan, sınavda yüksek not alırsın.",
+  "turkish_example_sentence_with_blank": "Eğer bu güzel kitabı ______, sınavda yüksek not alırsın."
+}

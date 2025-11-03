@@ -1,0 +1,20 @@
+{
+  "verb_rank": 1,
+  "verb_english": "be",
+  "verb_russian": "быть",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olmuşum",
+    "root": "ol",
+    "tense_affix": "muş",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "ben",
+    "personal_affix": "um",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "I have been a student since last year.",
+  "russian_example_sentence": "Я был студентом с прошлого года.",
+  "turkish_example_sentence": "Ben geçen yıl bir öğrenci olmuşum.",
+  "turkish_example_sentence_with_blank": "Ben geçen yıl bir öğrenci ______."
+}
