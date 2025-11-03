@@ -708,7 +708,7 @@ export const LearningCard: React.FC<LearningCardProps> = ({
       <div className="mb-6">
         <div className="flex items-center justify-between mb-4">
           <div className="flex items-center gap-4">
-            <div className="text-sm text-gray-500 flex items-center gap-2">
+            <div className="text-lg text-gray-600 flex items-center gap-2 font-medium">
               <span>#{example.verb_rank} •</span>
               <div className="relative group">
                 <a
@@ -728,11 +728,11 @@ export const LearningCard: React.FC<LearningCardProps> = ({
             </div>
             {/* Language Level Selector */}
             <div className="flex items-center gap-2">
-              <BookOpen className="w-4 h-4 text-primary-600" />
+              <BookOpen className="w-5 h-5 text-primary-600" />
               <select
                 value={languageLevel || 'All'}
                 onChange={(e) => onLevelChange(e.target.value as LanguageLevel)}
-                className="px-2 py-1 border border-gray-300 rounded text-xs focus:ring-2 focus:ring-primary-500 focus:border-primary-500"
+                className="px-3 py-1 border border-gray-300 rounded text-base focus:ring-2 focus:ring-primary-500 focus:border-primary-500"
               >
                 {LANGUAGE_LEVELS.map((level) => (
                   <option key={level} value={level}>
@@ -742,7 +742,7 @@ export const LearningCard: React.FC<LearningCardProps> = ({
               </select>
             </div>
           </div>
-          <div className="text-sm font-medium text-primary-600">
+          <div className="text-lg font-semibold text-primary-600">
             {source.language} → {targetLanguage}
           </div>
         </div>
