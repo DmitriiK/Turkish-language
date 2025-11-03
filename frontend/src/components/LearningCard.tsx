@@ -748,13 +748,13 @@ export const LearningCard: React.FC<LearningCardProps> = ({
         </div>
         
         <div className={clsx(
-          "text-center mb-8 p-6 rounded-lg transition-colors",
+          "text-center mb-10 p-10 rounded-lg transition-colors min-h-[200px] flex flex-col justify-center",
           isAnswered ? "bg-green-50" : "bg-gray-50"
         )}>
-          <div className="text-2xl font-semibold text-gray-700 mb-3">
+          <div className="text-3xl font-semibold text-gray-700 mb-6">
             {source.verb}
           </div>
-          <div className="text-3xl text-gray-900">
+          <div className="text-4xl text-gray-900 leading-relaxed">
             <span>"</span>
             {renderSourceSentence()}
             <span>"</span>
@@ -763,8 +763,8 @@ export const LearningCard: React.FC<LearningCardProps> = ({
       </div>
 
       {/* Main Input Section */}
-      <div className="mb-8">
-        <label className="block text-lg font-medium text-gray-700 mb-4">
+      <div className="mb-10">
+        <label className="block text-2xl font-semibold text-gray-700 mb-6">
           Translate to {targetLanguage}:
         </label>
         <div className="relative">
@@ -779,7 +779,7 @@ export const LearningCard: React.FC<LearningCardProps> = ({
               checkProgressRealTime(newValue);
             }}
             className={clsx(
-              'input text-2xl min-h-[4rem] outline-none py-4',
+              'input text-3xl min-h-[6rem] outline-none py-6',
               inputState === 'correct' && 'input-correct border-green-500 bg-green-50',
               inputState === 'error' && 'input-error border-red-500 bg-red-50',
               !userInput && 'empty'
@@ -794,12 +794,12 @@ export const LearningCard: React.FC<LearningCardProps> = ({
       </div>
 
       {/* Progress Section */}
-      <div className="mt-6">
+      <div className="mt-8">
         {/* Status and Counter */}
-        <div className="flex items-center justify-between mb-4">
+        <div className="flex items-center justify-between mb-6">
           <span
             className={clsx(
-              'text-sm font-semibold',
+              'text-lg font-bold',
               isAnswered 
                 ? 'text-green-600'
                 : 'text-gray-500'
@@ -809,17 +809,17 @@ export const LearningCard: React.FC<LearningCardProps> = ({
           </span>
           
           {/* Track Answered Cards Checkbox */}
-          <div className="flex items-center gap-2">
+          <div className="flex items-center gap-3">
             <input
               type="checkbox"
               id="track-answered"
               checked={trackAnsweredCards}
               onChange={(e) => onTrackingChange(e.target.checked)}
-              className="w-4 h-4 text-primary-600 border-gray-300 rounded focus:ring-2 focus:ring-primary-500 cursor-pointer"
+              className="w-5 h-5 text-primary-600 border-gray-300 rounded focus:ring-2 focus:ring-primary-500 cursor-pointer"
             />
             <label 
               htmlFor="track-answered" 
-              className="text-sm text-gray-600 cursor-pointer select-none"
+              className="text-base text-gray-700 cursor-pointer select-none font-medium"
               title="Track which cards you've answered correctly"
             >
               Track Progress on your local machine
@@ -828,12 +828,12 @@ export const LearningCard: React.FC<LearningCardProps> = ({
 
           {/* Correct Answers Counter */}
           <div 
-            className="bg-green-50 border-2 border-green-500 rounded-lg px-3 py-1"
+            className="bg-green-50 border-2 border-green-500 rounded-lg px-4 py-2"
             title="Unique examples completed"
           >
             <div className="flex items-center gap-2">
-              <Target className="w-4 h-4 text-green-600" />
-              <span className="text-xl font-bold text-green-600">
+              <Target className="w-6 h-6 text-green-600" />
+              <span className="text-2xl font-bold text-green-600">
                 {correctAnswers}
               </span>
             </div>
@@ -1006,10 +1006,10 @@ const ProgressCheckbox: React.FC<ProgressCheckboxProps> = ({
   const colors = getColorClasses();
 
   return (
-    <div className="flex items-center gap-2">
+    <div className="flex items-center gap-3">
       <div 
         className={clsx(
-          'w-5 h-5 border-2 rounded flex items-center justify-center transition-colors cursor-pointer',
+          'w-6 h-6 border-2 rounded flex items-center justify-center transition-colors cursor-pointer',
           checked 
             ? `${colors.bg} ${colors.border}`
             : `border-gray-300 ${colors.hover}`
@@ -1017,12 +1017,12 @@ const ProgressCheckbox: React.FC<ProgressCheckboxProps> = ({
         onClick={onToggle}
       >
         {checked && (
-          <Check className="w-3 h-3 text-white" />
+          <Check className="w-4 h-4 text-white" />
         )}
       </div>
       <span 
         className={clsx(
-          'text-sm font-medium cursor-pointer transition-colors',
+          'text-base font-medium cursor-pointer transition-colors',
           checked ? colors.text : 'text-gray-700',
           'hover:opacity-80'
         )}
