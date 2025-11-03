@@ -302,7 +302,7 @@ const App: React.FC = () => {
 
   return (
     <div className="min-h-screen flex flex-col py-8 px-4">
-      <div className="max-w-4xl mx-auto flex-1 w-full">
+      <div className="max-w-7xl mx-auto flex-1 w-full">
         {/* Header */}
         <motion.header 
           initial={{ opacity: 0, y: -20 }}

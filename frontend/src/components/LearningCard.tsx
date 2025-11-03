@@ -704,7 +704,7 @@ export const LearningCard: React.FC<LearningCardProps> = ({
   };
 
   return (
-    <div className="card max-w-6xl mx-auto animate-fade-in">
+    <div className="card max-w-full mx-auto animate-fade-in">
       <div className="mb-6">
         <div className="flex items-center justify-between mb-4">
           <div className="flex items-center gap-4">
@@ -748,13 +748,13 @@ export const LearningCard: React.FC<LearningCardProps> = ({
         </div>
         
         <div className={clsx(
-          "text-center mb-6 p-4 rounded-lg transition-colors",
+          "text-center mb-8 p-6 rounded-lg transition-colors",
           isAnswered ? "bg-green-50" : "bg-gray-50"
         )}>
-          <div className="text-lg font-semibold text-gray-700 mb-2">
+          <div className="text-2xl font-semibold text-gray-700 mb-3">
             {source.verb}
           </div>
-          <div className="text-xl text-gray-900">
+          <div className="text-3xl text-gray-900">
             <span>"</span>
             {renderSourceSentence()}
             <span>"</span>
@@ -763,8 +763,8 @@ export const LearningCard: React.FC<LearningCardProps> = ({
       </div>
 
       {/* Main Input Section */}
-      <div className="mb-6">
-        <label className="block text-sm font-medium text-gray-700 mb-3">
+      <div className="mb-8">
+        <label className="block text-lg font-medium text-gray-700 mb-4">
           Translate to {targetLanguage}:
         </label>
         <div className="relative">
@@ -779,7 +779,7 @@ export const LearningCard: React.FC<LearningCardProps> = ({
               checkProgressRealTime(newValue);
             }}
             className={clsx(
-              'input text-lg min-h-[2.5rem] outline-none',
+              'input text-2xl min-h-[4rem] outline-none py-4',
               inputState === 'correct' && 'input-correct border-green-500 bg-green-50',
               inputState === 'error' && 'input-error border-red-500 bg-red-50',
               !userInput && 'empty'
