@@ -100,7 +100,8 @@ export const LearningCard: React.FC<LearningCardProps> = ({
   useEffect(() => {
     const loadTenseLevel = async () => {
       try {
-        const response = await fetch('/data/tense_level_mapping.json');
+        const base = (import.meta as any).env?.BASE_URL || '/';
+        const response = await fetch(`${base}data/tense_level_mapping.json`);
         const mapping: Record<string, string> = await response.json();
         setTenseLevel(mapping[currentTense] || null);
       } catch (error) {
