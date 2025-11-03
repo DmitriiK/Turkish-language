@@ -301,8 +301,8 @@ const App: React.FC = () => {
   }
 
   return (
-    <div className="min-h-screen flex flex-col py-6 px-6">
-      <div className="max-w-[1400px] mx-auto flex-1 w-full">
+    <div className="min-h-screen flex flex-col py-4 px-8">
+      <div className="max-w-[95%] mx-auto flex-1 w-full" style={{ minWidth: '1200px' }}>
         {/* Header */}
         <motion.header 
           initial={{ opacity: 0, y: -20 }}
