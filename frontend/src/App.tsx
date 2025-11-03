@@ -301,22 +301,22 @@ const App: React.FC = () => {
   }
 
   return (
-    <div className="min-h-screen flex flex-col py-8 px-4">
-      <div className="max-w-7xl mx-auto flex-1 w-full">
+    <div className="min-h-screen flex flex-col py-6 px-6">
+      <div className="max-w-[1400px] mx-auto flex-1 w-full">
         {/* Header */}
         <motion.header 
           initial={{ opacity: 0, y: -20 }}
           animate={{ opacity: 1, y: 0 }}
-          className="text-center mb-8"
+          className="text-center mb-6"
         >
           <div className="flex items-center justify-center gap-3 mb-4">
-            <BookOpen className="w-8 h-8 text-primary-600" />
-            <h1 className="text-3xl font-bold text-gray-900">
+            <BookOpen className="w-10 h-10 text-primary-600" />
+            <h1 className="text-4xl font-bold text-gray-900">
               Turkish Verb Learning
             </h1>
           </div>
           <div className="flex items-center justify-center gap-3 flex-wrap">
-            <p className="text-gray-600 text-lg">
+            <p className="text-gray-600 text-xl">
               Master Turkish verb conjugations with interactive exercises, native language:
             </p>
             <select
