@@ -322,7 +322,7 @@ const App: React.FC = () => {
             <select
               value={sourceLanguage}
               onChange={(e) => handleSourceLanguageChange(e.target.value as 'english' | 'russian')}
-              className="px-3 py-2 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-primary-500 focus:border-primary-500"
+              className="px-4 py-2.5 border border-gray-300 rounded-lg text-base font-medium focus:ring-2 focus:ring-primary-500 focus:border-primary-500"
             >
               <option value="english">English</option>
               <option value="russian">Русский</option>
