@@ -36,6 +36,13 @@ class DataLoader {
   private verbsIndex: VerbsIndex | null = null;
   private verbIndexCache = new Map<string, VerbIndex>();
   private tenseLevelMapping: TenseLevelMapping | null = null;
+  
+  // Get the base URL for fetching data (works with Vite's base path)
+  private getBasePath(): string {
+    // In production, Vite sets the base path in import.meta.env
+    const base = (import.meta as any).env?.BASE_URL;
+    return base || '/';
+  }
 
   async loadVerbsIndex(): Promise<VerbsIndex> {
     if (this.verbsIndex) {
@@ -44,7 +51,7 @@ class DataLoader {
 
     try {
       console.log('Loading main verbs index...');
-      const response = await fetch('/data/verbs_index.json');
+      const response = await fetch(`${this.getBasePath()}data/verbs_index.json`);
       if (!response.ok) {
         throw new Error('Failed to load verbs index');
       }
@@ -65,7 +72,7 @@ class DataLoader {
     }
 
     try {
-      const response = await fetch(`/data/output/verb_indexes/${folderName}.json`);
+      const response = await fetch(`${this.getBasePath()}data/output/verb_indexes/${folderName}.json`);
       if (!response.ok) {
         throw new Error(`Failed to load verb index for ${folderName}`);
       }
@@ -86,7 +93,7 @@ class DataLoader {
     }
 
     try {
-      const response = await fetch('/data/tense_level_mapping.json');
+      const response = await fetch(`${this.getBasePath()}data/tense_level_mapping.json`);
       if (!response.ok) {
         throw new Error('Failed to load tense level mapping');
       }
@@ -170,7 +177,7 @@ class DataLoader {
         return this.trainingExampleCache.get(cacheKey)!;
       }
 
-      const filePath = `/${example.file_path}`;
+      const filePath = `${this.getBasePath()}${example.file_path}`;
       const response = await fetch(filePath);
       if (!response.ok) {
         return null;
