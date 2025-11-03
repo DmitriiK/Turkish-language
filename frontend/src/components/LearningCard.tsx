@@ -636,12 +636,13 @@ export const LearningCard: React.FC<LearningCardProps> = ({
     const beforeVerb = sentence.substring(0, verbIndex);
     const afterVerb = sentence.substring(verbIndex + verbLength);
     
+    const verbText = sentence.substring(verbIndex, verbIndex + verbLength);
     let verbOffset = 0;
     const verbParts: JSX.Element[] = [];
 
-    // Root (blue, bold)
+    // Root (blue, bold) - always starts at the beginning
     if (example.turkish_verb.root) {
-      const rootText = sentence.substring(verbIndex + verbOffset, verbIndex + verbOffset + example.turkish_verb.root.length);
+      const rootText = verbText.substring(verbOffset, verbOffset + example.turkish_verb.root.length);
       verbParts.push(
         <span key="root" className="text-blue-600 font-bold">
           {rootText}
@@ -650,9 +651,22 @@ export const LearningCard: React.FC<LearningCardProps> = ({
       verbOffset += example.turkish_verb.root.length;
     }
 
-    // Negative affix (purple)
+    // Negative affix (purple) - search for it after root
     if (example.turkish_verb.negative_affix) {
-      const negText = sentence.substring(verbIndex + verbOffset, verbIndex + verbOffset + example.turkish_verb.negative_affix.length);
+      const remaining = verbText.substring(verbOffset);
+      const negAffixIndex = remaining.toLowerCase().indexOf(example.turkish_verb.negative_affix.toLowerCase());
+      
+      if (negAffixIndex > 0) {
+        // There's a buffer before the negative affix - include it
+        verbParts.push(
+          <span key="neg-buffer" className="text-purple-600">
+            {remaining.substring(0, negAffixIndex)}
+          </span>
+        );
+        verbOffset += negAffixIndex;
+      }
+      
+      const negText = verbText.substring(verbOffset, verbOffset + example.turkish_verb.negative_affix.length);
       verbParts.push(
         <span key="negative" className="text-purple-600">
           {negText}
@@ -661,9 +675,22 @@ export const LearningCard: React.FC<LearningCardProps> = ({
       verbOffset += example.turkish_verb.negative_affix.length;
     }
 
-    // Tense affix (orange) - may include vowel harmony connector
+    // Tense affix (orange) - search for it after root/negative
     if (example.turkish_verb.tense_affix) {
-      const tenseText = sentence.substring(verbIndex + verbOffset, verbIndex + verbOffset + example.turkish_verb.tense_affix.length);
+      const remaining = verbText.substring(verbOffset);
+      const tenseAffixIndex = remaining.toLowerCase().indexOf(example.turkish_verb.tense_affix.toLowerCase());
+      
+      if (tenseAffixIndex > 0) {
+        // There's a buffer before the tense affix - include it with orange
+        verbParts.push(
+          <span key="tense-buffer" className="text-orange-700">
+            {remaining.substring(0, tenseAffixIndex)}
+          </span>
+        );
+        verbOffset += tenseAffixIndex;
+      }
+      
+      const tenseText = verbText.substring(verbOffset, verbOffset + example.turkish_verb.tense_affix.length);
       verbParts.push(
         <span key="tense" className="text-orange-700">
           {tenseText}
@@ -672,22 +699,14 @@ export const LearningCard: React.FC<LearningCardProps> = ({
       verbOffset += example.turkish_verb.tense_affix.length;
     }
 
-    // Check if there's a vowel harmony connector before personal affix
-    // This handles cases where verb parts don't add up to verb_full length
-    const remainingLength = verbLength - verbOffset;
-    const personalAffixLength = example.turkish_verb.personal_affix?.length || 0;
-    
-    // Personal affix (green) - includes any vowel harmony connector
+    // Personal affix (green) - everything remaining
     if (example.turkish_verb.personal_affix) {
-      // If there's extra characters (vowel harmony), include them with personal affix
-      const actualPersonalLength = Math.max(personalAffixLength, remainingLength);
-      const personalText = sentence.substring(verbIndex + verbOffset, verbIndex + verbOffset + actualPersonalLength);
+      const personalText = verbText.substring(verbOffset);
       verbParts.push(
         <span key="personal" className="text-green-700">
           {personalText}
         </span>
       );
-      verbOffset += actualPersonalLength;
     }
     
     return (
