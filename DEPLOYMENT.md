@@ -6,27 +6,39 @@ The site is configured to automatically deploy to GitHub Pages when you push to 
 
 ### Setup Steps:
 
-1. **Enable GitHub Pages in your repository settings:**
-   - Go to your repository on GitHub
-   - Click on **Settings** → **Pages**
-   - Under "Build and deployment":
-     - Source: Select **GitHub Actions**
-   - Save the settings
-
-2. **Push your code:**
+1. **First, commit and push the workflow file:**
    ```bash
-   git add .
-   git commit -m "Setup GitHub Pages deployment"
+   git add .github/workflows/deploy.yml
+   git add frontend/public/.nojekyll
+   git commit -m "Add GitHub Pages deployment workflow"
    git push origin main
    ```
 
-3. **Wait for deployment:**
+2. **Enable GitHub Pages in your repository settings:**
+   - Go to: https://github.com/DmitriiK/Turkish-language/settings/pages
+   - Under "Build and deployment":
+     - **Source**: Select **GitHub Actions** (NOT "Deploy from a branch")
+   - Save the settings
+
+3. **Trigger the deployment:**
+   - The workflow will run automatically on the next push, OR
+   - Go to: https://github.com/DmitriiK/Turkish-language/actions
+   - Click on "Deploy to GitHub Pages" workflow
+   - Click "Run workflow" button to manually trigger it
+
+4. **Wait for deployment:**
    - Go to the **Actions** tab in your GitHub repository
    - You'll see the workflow running
-   - Once complete, your site will be live at: `https://dmitriik.github.io/Turkish-language/`
+   - Once complete (should take 2-3 minutes), your site will be live
 
-4. **Access your site:**
+5. **Access your site:**
    - After deployment completes, visit: **https://dmitriik.github.io/Turkish-language/**
+
+## Important Notes
+
+- The site has ~11,850 files (all the training data), so deployment may take a few minutes
+- Make sure the "Source" in GitHub Pages settings is set to **GitHub Actions**, not "gh-pages branch"
+- If you see only the README, the Pages source is likely set incorrectly
 
 ## Manual Deployment (Alternative)
 
