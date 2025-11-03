@@ -276,27 +276,54 @@ export const LearningCard: React.FC<LearningCardProps> = ({
     
     if (verbIndex !== -1) {
       // Verb found in sentence - color it and check for errors
+      // Extract the actual verb text from the input (using verb_full length to get all chars including vowel harmony)
+      const actualVerbText = userInput.substring(verbIndex, verbIndex + verbFull.length);
+      
       let verbHtml = '';
-      let verbOffset = verbIndex;
+      let searchOffset = 0; // Offset within the actual verb text
       
+      // Root (blue, bold) - always starts at the beginning, use root length
       if (example.turkish_verb.root) {
-        verbHtml += `<span style="color: #1d4ed8; font-weight: bold;">${escapeHtml(userInput.substring(verbOffset, verbOffset + example.turkish_verb.root.length))}</span>`;
-        verbOffset += example.turkish_verb.root.length;
+        const rootLength = example.turkish_verb.root.length;
+        const rootText = actualVerbText.substring(0, rootLength);
+        verbHtml += `<span style="color: #1d4ed8; font-weight: bold;">${escapeHtml(rootText)}</span>`;
+        searchOffset = rootLength;
       }
       
+      // Negative affix (purple) - search for it after root
       if (example.turkish_verb.negative_affix) {
-        verbHtml += `<span style="color: #7e22ce;">${escapeHtml(userInput.substring(verbOffset, verbOffset + example.turkish_verb.negative_affix.length))}</span>`;
-        verbOffset += example.turkish_verb.negative_affix.length;
+        const remainingVerb = actualVerbText.substring(searchOffset);
+        const negAffixIndex = remainingVerb.toLowerCase().indexOf(example.turkish_verb.negative_affix.toLowerCase());
+        if (negAffixIndex !== -1) {
+          // Include any vowel harmony before the negative affix with purple color
+          if (negAffixIndex > 0) {
+            verbHtml += `<span style="color: #7e22ce;">${escapeHtml(remainingVerb.substring(0, negAffixIndex))}</span>`;
+          }
+          const negText = remainingVerb.substring(negAffixIndex, negAffixIndex + example.turkish_verb.negative_affix.length);
+          verbHtml += `<span style="color: #7e22ce;">${escapeHtml(negText)}</span>`;
+          searchOffset += negAffixIndex + example.turkish_verb.negative_affix.length;
+        }
       }
       
+      // Tense affix (orange) - search for it after root/negative
       if (example.turkish_verb.tense_affix) {
-        verbHtml += `<span style="color: #c2410c;">${escapeHtml(userInput.substring(verbOffset, verbOffset + example.turkish_verb.tense_affix.length))}</span>`;
-        verbOffset += example.turkish_verb.tense_affix.length;
+        const remainingVerb = actualVerbText.substring(searchOffset);
+        const tenseAffixIndex = remainingVerb.toLowerCase().indexOf(example.turkish_verb.tense_affix.toLowerCase());
+        if (tenseAffixIndex !== -1) {
+          // Include any vowel harmony before the tense affix with orange color
+          if (tenseAffixIndex > 0) {
+            verbHtml += `<span style="color: #c2410c;">${escapeHtml(remainingVerb.substring(0, tenseAffixIndex))}</span>`;
+          }
+          const tenseText = remainingVerb.substring(tenseAffixIndex, tenseAffixIndex + example.turkish_verb.tense_affix.length);
+          verbHtml += `<span style="color: #c2410c;">${escapeHtml(tenseText)}</span>`;
+          searchOffset += tenseAffixIndex + example.turkish_verb.tense_affix.length;
+        }
       }
       
+      // Personal affix (green) - everything remaining
       if (example.turkish_verb.personal_affix) {
-        verbHtml += `<span style="color: #15803d;">${escapeHtml(userInput.substring(verbOffset, verbOffset + example.turkish_verb.personal_affix.length))}</span>`;
-        verbOffset += example.turkish_verb.personal_affix.length;
+        const remainingVerb = actualVerbText.substring(searchOffset);
+        verbHtml += `<span style="color: #15803d;">${escapeHtml(remainingVerb)}</span>`;
       }
       
       return renderTextWithErrors(
