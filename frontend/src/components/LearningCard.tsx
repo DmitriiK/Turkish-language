@@ -622,22 +622,10 @@ export const LearningCard: React.FC<LearningCardProps> = ({
     const sentence = example.turkish_example_sentence;
     const sentenceLower = sentence.toLowerCase();
     
-    // Try to find the verb in the sentence
-    // First try: look for verb_full
+    // ALWAYS use verb_full for finding and measuring the verb
+    // This ensures we capture all vowel harmony connectors
     let verbIndex = sentenceLower.indexOf(example.turkish_verb.verb_full.toLowerCase());
     let verbLength = example.turkish_verb.verb_full.length;
-    
-    // Second try: build verb from components
-    if (verbIndex === -1) {
-      let verbToFind = '';
-      if (example.turkish_verb.root) verbToFind += example.turkish_verb.root;
-      if (example.turkish_verb.negative_affix) verbToFind += example.turkish_verb.negative_affix;
-      if (example.turkish_verb.tense_affix) verbToFind += example.turkish_verb.tense_affix;
-      if (example.turkish_verb.personal_affix) verbToFind += example.turkish_verb.personal_affix;
-      
-      verbIndex = sentenceLower.indexOf(verbToFind.toLowerCase());
-      verbLength = verbToFind.length;
-    }
 
     if (verbIndex === -1) {
       // Verb not found at all - this is a data issue, just return plain text
