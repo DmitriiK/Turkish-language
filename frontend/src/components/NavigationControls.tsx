@@ -158,100 +158,120 @@ export const NavigationControls: React.FC<NavigationControlsProps> = ({
       {/* Unified Navigation Row */}
       <div className="grid grid-cols-4 gap-2">
         {/* Verb Navigation Control with Rank */}
-        <NavigationTriple
-          label={`${currentRank}. ${currentVerbDisplay}`}
-          onPrev={handlePrevVerbWithWrap}
-          onNext={handleNextVerbWithWrap}
-          onCenter={() => {}}
-          dropdownItems={[]} // Will be populated by NavigationTriple component
-          searchable={true}
-          loadDropdownItems={async () => {
-            const verbsWithRank = await dataLoader.getVerbsWithRanks();
-            const isTurkishSource = direction === 'turkish-to-english' || direction === 'turkish-to-russian';
-            
-            return verbsWithRank.map(({ verb, rank, turkishInfinitive }) => ({
-              label: isTurkishSource ? `${rank}. ${turkishInfinitive}` : `${rank}. ${verb}`,
-              value: verb, // Always use English as the internal value
-              onSelect: () => onGoToVerb(verb)
-            }));
-          }}
-        />
+        <div>
+          <div className="text-base font-semibold text-gray-600 mb-1 px-1">
+            {direction === 'turkish-to-english' || direction === 'turkish-to-russian' ? 'Fiil Seç' : direction === 'russian-to-turkish' ? 'Выбрать глагол' : 'Choose Verb'}
+          </div>
+          <NavigationTriple
+            label={`${currentRank}. ${currentVerbDisplay}`}
+            onPrev={handlePrevVerbWithWrap}
+            onNext={handleNextVerbWithWrap}
+            onCenter={() => {}}
+            dropdownItems={[]} // Will be populated by NavigationTriple component
+            searchable={true}
+            loadDropdownItems={async () => {
+              const verbsWithRank = await dataLoader.getVerbsWithRanks();
+              const isTurkishSource = direction === 'turkish-to-english' || direction === 'turkish-to-russian';
+              
+              return verbsWithRank.map(({ verb, rank, turkishInfinitive }) => ({
+                label: isTurkishSource ? `${rank}. ${turkishInfinitive}` : `${rank}. ${verb}`,
+                value: verb, // Always use English as the internal value
+                onSelect: () => onGoToVerb(verb)
+              }));
+            }}
+          />
+        </div>
 
         {/* Tense Navigation Control */}
-        <NavigationTriple
-          label={currentTenseLevel ? `${currentTenseLevel}: ${currentTense.replace(/_/g, ' ')}` : currentTense.replace(/_/g, ' ')}
-          onPrev={handlePrevTenseWithWrap}
-          onNext={handleNextTenseWithWrap}
-          onCenter={() => {}}
-          dropdownItems={[]} // Will be populated by NavigationTriple component
-          searchable={false}
-          loadDropdownItems={async () => {
-            const tenses = await dataLoader.getAvailableTenses(currentVerb, languageLevel);
-            
-            // Get language level for each tense and create items
-            const tenseLevelMapping = await dataLoader.loadTenseLevelMapping();
-            const tenseItems = tenses.map(tense => {
-              const level = tenseLevelMapping[tense] || '??';
-              return {
-                tense,
-                level,
-                label: `${level}: ${tense.replace(/_/g, ' ')}`,
-                value: tense,
-                onSelect: () => onGoToTense(tense)
+        <div>
+          <div className="text-base font-semibold text-gray-600 mb-1 px-1">
+            {direction === 'turkish-to-english' || direction === 'turkish-to-russian' ? 'Gramer Formu' : direction === 'russian-to-turkish' ? 'Грамматическая форма' : 'Grammar Form'}
+          </div>
+          <NavigationTriple
+            label={currentTenseLevel ? `${currentTenseLevel}: ${currentTense.replace(/_/g, ' ')}` : currentTense.replace(/_/g, ' ')}
+            onPrev={handlePrevTenseWithWrap}
+            onNext={handleNextTenseWithWrap}
+            onCenter={() => {}}
+            dropdownItems={[]} // Will be populated by NavigationTriple component
+            searchable={false}
+            loadDropdownItems={async () => {
+              const tenses = await dataLoader.getAvailableTenses(currentVerb, languageLevel);
+              
+              // Get language level for each tense and create items
+              const tenseLevelMapping = await dataLoader.loadTenseLevelMapping();
+              const tenseItems = tenses.map(tense => {
+                const level = tenseLevelMapping[tense] || '??';
+                return {
+                  tense,
+                  level,
+                  label: `${level}: ${tense.replace(/_/g, ' ')}`,
+                  value: tense,
+                  onSelect: () => onGoToTense(tense)
+                };
+              });
+              
+              // Sort by language level (A1, A2, B1, B2, C1, C2) then by tense name
+              const levelOrder: { [key: string]: number } = {
+                'A1': 1, 'A2': 2, 'B1': 3, 'B2': 4, 'C1': 5, 'C2': 6
               };
-            });
-            
-            // Sort by language level (A1, A2, B1, B2, C1, C2) then by tense name
-            const levelOrder: { [key: string]: number } = {
-              'A1': 1, 'A2': 2, 'B1': 3, 'B2': 4, 'C1': 5, 'C2': 6
-            };
-            
-            return tenseItems.sort((a, b) => {
-              const levelDiff = (levelOrder[a.level] || 99) - (levelOrder[b.level] || 99);
-              if (levelDiff !== 0) return levelDiff;
-              return a.tense.localeCompare(b.tense);
-            });
-          }}
-        />
+              
+              return tenseItems.sort((a, b) => {
+                const levelDiff = (levelOrder[a.level] || 99) - (levelOrder[b.level] || 99);
+                if (levelDiff !== 0) return levelDiff;
+                return a.tense.localeCompare(b.tense);
+              });
+            }}
+          />
+        </div>
 
         {/* Pronoun Navigation Control */}
-        <NavigationTriple
-          label={currentPronoun || 'none'}
-          onPrev={handlePrevPronounWithWrap}
-          onNext={handleNextPronounWithWrap}
-          onCenter={() => {}}
-          dropdownItems={[]} // Will be populated by NavigationTriple component
-          searchable={false}
-          loadDropdownItems={async () => {
-            const pronouns = await dataLoader.getAvailablePronouns(currentVerb, currentTense, currentPolarity);
-            return pronouns.map(pronoun => ({
-              label: pronoun,
-              value: pronoun,
-              onSelect: () => onGoToPronoun(pronoun)
-            }));
-          }}
-        />
+        <div>
+          <div className="text-base font-semibold text-gray-600 mb-1 px-1">
+            {direction === 'turkish-to-english' || direction === 'turkish-to-russian' ? 'Zamir' : direction === 'russian-to-turkish' ? 'Местоимение' : 'Pronoun'}
+          </div>
+          <NavigationTriple
+            label={currentPronoun || 'none'}
+            onPrev={handlePrevPronounWithWrap}
+            onNext={handleNextPronounWithWrap}
+            onCenter={() => {}}
+            dropdownItems={[]} // Will be populated by NavigationTriple component
+            searchable={false}
+            loadDropdownItems={async () => {
+              const pronouns = await dataLoader.getAvailablePronouns(currentVerb, currentTense, currentPolarity);
+              return pronouns.map(pronoun => ({
+                label: pronoun,
+                value: pronoun,
+                onSelect: () => onGoToPronoun(pronoun)
+              }));
+            }}
+          />
+        </div>
 
         {/* Polarity Navigation Control */}
-        <NavigationTriple
-          label={currentPolarity === 'positive' ? '✓ positive' : '✗ negative'}
-          onPrev={onPrevPolarity}
-          onNext={onNextPolarity}
-          onCenter={() => {}}
-          dropdownItems={[
-            {
-              label: '✓ positive',
-              value: 'positive',
-              onSelect: () => onGoToPolarity('positive')
-            },
-            {
-              label: '✗ negative',
-              value: 'negative',
-              onSelect: () => onGoToPolarity('negative')
-            }
-          ]}
-          searchable={false}
-        />
+        <div>
+          <div className="text-base font-semibold text-gray-600 mb-1 px-1">
+            {direction === 'turkish-to-english' || direction === 'turkish-to-russian' ? 'Olumlu/Olumsuz' : direction === 'russian-to-turkish' ? 'Положительное/Отрицательное' : 'Positive/Negative'}
+          </div>
+          <NavigationTriple
+            label={currentPolarity === 'positive' ? '✓ positive' : '✗ negative'}
+            onPrev={onPrevPolarity}
+            onNext={onNextPolarity}
+            onCenter={() => {}}
+            dropdownItems={[
+              {
+                label: '✓ positive',
+                value: 'positive',
+                onSelect: () => onGoToPolarity('positive')
+              },
+              {
+                label: '✗ negative',
+                value: 'negative',
+                onSelect: () => onGoToPolarity('negative')
+              }
+            ]}
+            searchable={false}
+          />
+        </div>
       </div>
     </div>
   );
