@@ -7,15 +7,27 @@
   "examples": [
     {
       "tense": "emir_kipi",
-      "pronoun": "ben",
+      "pronoun": "o",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/have/ben_sahip_olmak_emir_kipi.json"
+      "file_path": "data/output/training_examples_for_verbs/have/o_sahip_olmak_emir_kipi.json"
     },
     {
       "tense": "emir_kipi",
-      "pronoun": "none",
+      "pronoun": "onlar",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/have/none_sahip_olmak_emir_kipi.json"
+      "file_path": "data/output/training_examples_for_verbs/have/onlar_sahip_olmak_emir_kipi.json"
+    },
+    {
+      "tense": "emir_kipi",
+      "pronoun": "sen",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/have/sen_sahip_olmak_emir_kipi.json"
+    },
+    {
+      "tense": "emir_kipi",
+      "pronoun": "siz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/have/siz_sahip_olmak_emir_kipi.json"
     },
     {
       "tense": "farzî_geçmiş_zaman",

@@ -4,17 +4,17 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapsın",
+    "verb_full": "yap",
     "root": "yap",
-    "tense_affix": "sın",
+    "tense_affix": "",
     "verb_tense": "emir_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "sın",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Let the diligent student do his homework carefully.",
-  "russian_example_sentence": "Пусть прилежный студент аккуратно сделает домашнее задание.",
-  "turkish_example_sentence": "Çalışkan öğrenci ödevini dikkatlice yapsın.",
-  "turkish_example_sentence_with_blank": "Çalışkan öğrenci ödevini dikkatlice ______."
+  "english_example_sentence": "He does the homework.",
+  "russian_example_sentence": "Он делает домашнее задание.",
+  "turkish_example_sentence": "O ödev yap.",
+  "turkish_example_sentence_with_blank": "O ödev ______."
 }

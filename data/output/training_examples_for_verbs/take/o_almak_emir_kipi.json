@@ -4,17 +4,17 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "alsın",
+    "verb_full": "al",
     "root": "al",
     "tense_affix": "",
     "verb_tense": "emir_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "sın",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Let the little child take the book.",
-  "russian_example_sentence": "Пусть маленький ребенок возьмет книгу.",
-  "turkish_example_sentence": "Küçük çocuk kitabı alsın.",
-  "turkish_example_sentence_with_blank": "Küçük çocuk kitabı ______."
+  "english_example_sentence": "Take this book and enjoy it.",
+  "russian_example_sentence": "Возьми эту книгу и наслаждайся ею.",
+  "turkish_example_sentence": "O kitabı **al**.",
+  "turkish_example_sentence_with_blank": "O kitabı **______**."
 }

@@ -345,10 +345,20 @@ def generate_combinations(
         for verb_form in valid_verb_forms:
             # Handle pronouns based on verb form requirements
             if verb_form.type_of_personal_pronoun is None:
-                # No personal pronouns (e.g., imperatives, participles)
+                # No personal pronouns (e.g., participles, infinitives)
                 combinations.append((verb, verb_form.verb_tense, None, verb_form.polarity))
+            elif verb_form.type_of_personal_pronoun == 3:
+                # Type 3: Imperatives - only sen, siz, o, onlar (not ben, biz)
+                pronouns = [
+                    PersonalPronoun.Sen,
+                    PersonalPronoun.O_Third,
+                    PersonalPronoun.Siz,
+                    PersonalPronoun.Onlar
+                ]
+                for pronoun in pronouns:
+                    combinations.append((verb, verb_form.verb_tense, pronoun, verb_form.polarity))
             else:
-                # Add all personal pronouns
+                # Type 1 or 2: Add all personal pronouns
                 pronouns = [
                     PersonalPronoun.Ben, PersonalPronoun.Sen,
                     PersonalPronoun.O_Third, PersonalPronoun.Biz,
@@ -1008,8 +1018,8 @@ if __name__ == "__main__":
         "--tenses",
         type=str,
         nargs="+",
-        choices=["şimdiki_zaman", "geçmiş_zaman", "geniş_zaman"],
-        help='Specific tenses to generate (e.g., --tenses şimdiki_zaman geçmiş_zaman)'
+        choices=[t.value for t in VerbTense],
+        help='Specific tenses to generate (e.g., --tenses şimdiki_zaman geçmiş_zaman emir_kipi)'
     )
     parser.add_argument(
         "--pronouns",

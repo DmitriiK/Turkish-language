@@ -1,0 +1,20 @@
+{
+  "verb_rank": 4,
+  "verb_english": "say",
+  "verb_russian": "сказать",
+  "verb_infinitive": "söylemek",
+  "turkish_verb": {
+    "verb_full": "söyleyin",
+    "root": "söyle",
+    "tense_affix": "yin",
+    "verb_tense": "emir_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "in",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "They say hello to everyone.",
+  "russian_example_sentence": "Они говорят привет всем.",
+  "turkish_example_sentence": "Çocuklar herkesle selamlaşmayı söyleyin.",
+  "turkish_example_sentence_with_blank": "Çocuklar herkesle selamlaşmayı ______."
+}

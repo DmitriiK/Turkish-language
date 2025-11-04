@@ -7,15 +7,27 @@
   "examples": [
     {
       "tense": "emir_kipi",
-      "pronoun": "none",
+      "pronoun": "o",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/go/none_gitmek_emir_kipi.json"
+      "file_path": "data/output/training_examples_for_verbs/go/o_gitmek_emir_kipi.json"
+    },
+    {
+      "tense": "emir_kipi",
+      "pronoun": "onlar",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/go/onlar_gitmek_emir_kipi.json"
     },
     {
       "tense": "emir_kipi",
       "pronoun": "sen",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/go/sen_gitmek_emir_kipi.json"
+    },
+    {
+      "tense": "emir_kipi",
+      "pronoun": "siz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/go/siz_gitmek_emir_kipi.json"
     },
     {
       "tense": "farzî_geçmiş_zaman",

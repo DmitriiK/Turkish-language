@@ -6,16 +6,16 @@
   "folder_name": "get",
   "examples": [
     {
-      "tense": "yaracağım",
-      "pronoun": "biz",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/get/biz_almak_yaracağım.json"
-    },
-    {
-      "tense": "şart_kipi",
+      "tense": "emir_kipi",
       "pronoun": "o",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/get/o_almak_şart_kipi.json"
+      "file_path": "data/output/training_examples_for_verbs/get/o_almak_emir_kipi.json"
+    },
+    {
+      "tense": "emir_kipi",
+      "pronoun": "siz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/get/siz_almak_emir_kipi.json"
     }
   ]
 }

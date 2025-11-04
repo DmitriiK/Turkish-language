@@ -72,9 +72,17 @@ class VerbTense(StrEnum):
 
 
 class VerbFormInfo(BaseModel):
+    """Information about verb forms and their pronoun usage.
+    
+    type_of_personal_pronoun:
+        - None: No pronouns (participles, infinitives)
+        - 1: All pronouns (ben, sen, o, biz, siz, onlar) - regular verb forms
+        - 2: All pronouns with possessive affixes (ben, sen, o, biz, siz, onlar)
+        - 3: Imperative pronouns only (sen, siz, o, onlar) - excludes ben, biz
+    """
     verb_tense: VerbTense
     language_level: LanguageLevel
-    type_of_personal_pronoun: Literal[1, 2] | None = None
+    type_of_personal_pronoun: Literal[1, 2, 3] | None = None
     polarity: VerbPolarity = VerbPolarity.Positive  # Default to positive
 
 
@@ -156,7 +164,7 @@ VERB_FORM_INFOS = [
     VerbFormInfo(
         verb_tense=VerbTense.EmirKipi,
         language_level=LanguageLevel.A2,
-        type_of_personal_pronoun=None,  # Imperatives don't use personal affixes
+        type_of_personal_pronoun=3,  # Imperatives use sen, siz, o, onlar (not ben, biz)
         polarity=VerbPolarity.Positive
     ),
     VerbFormInfo(
