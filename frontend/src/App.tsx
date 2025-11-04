@@ -147,7 +147,7 @@ const App: React.FC = () => {
 
   // Navigation handlers
   const handleNextTense = async () => {
-    const nextTense = await dataLoader.getNextTense(currentVerb, currentTense);
+    const nextTense = await dataLoader.getNextTense(currentVerb, currentTense, languageLevel);
     if (nextTense) {
       setCurrentTense(nextTense);
       setCurrentPronoun('ben'); // Reset pronoun for new tense
@@ -155,7 +155,7 @@ const App: React.FC = () => {
   };
 
   const handlePrevTense = async () => {
-    const prevTense = await dataLoader.getPrevTense(currentVerb, currentTense);
+    const prevTense = await dataLoader.getPrevTense(currentVerb, currentTense, languageLevel);
     if (prevTense) {
       setCurrentTense(prevTense);
       setCurrentPronoun('ben');
