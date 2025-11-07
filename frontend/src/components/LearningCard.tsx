@@ -627,7 +627,8 @@ export const LearningCard: React.FC<LearningCardProps> = ({
   // Determine grammar page URL based on direction
   const getGrammarPageUrl = () => {
     const lang = direction.startsWith('russian') ? 'ru' : 'en';
-    return `/grammar/grammar-${lang}.html?tense=${example.turkish_verb.verb_tense}`;
+    const baseUrl = import.meta.env.BASE_URL;
+    return `${baseUrl}grammar/grammar-${lang}.html?tense=${example.turkish_verb.verb_tense}`;
   };
 
   // Get tooltip text based on language
