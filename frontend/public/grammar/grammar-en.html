@@ -156,6 +156,19 @@
     </div>
 
     <script>
+        // Determine the base path for the app (handles both local and GitHub Pages)
+        function getBasePath() {
+            const path = window.location.pathname;
+            // If we're in a subdirectory like /Turkish-language/, extract it
+            const match = path.match(/^(\/[^\/]+\/)/);
+            if (match && !match[1].endsWith('/grammar/')) {
+                return match[1];
+            }
+            return '/';
+        }
+        
+        const BASE_PATH = getBasePath();
+        
         // Get tense key from URL parameter
         const urlParams = new URLSearchParams(window.location.search);
         let tenseKey = urlParams.get('tense');
@@ -191,7 +204,7 @@
 
         if (!tenseKey) {
             // If no tense specified, redirect to first available tense
-            fetch('/grammar/grammar_reference.json')
+            fetch(`${BASE_PATH}grammar/grammar_reference.json`)
                 .then(response => response.json())
                 .then(data => {
                     const firstTense = Object.keys(data)[0];
@@ -199,7 +212,7 @@
                 });
         } else {
             // Load grammar data
-            fetch('/grammar/grammar_reference.json')
+            fetch(`${BASE_PATH}grammar/grammar_reference.json`)
                 .then(response => response.json())
                 .then(data => {
                     // Populate tense selector
