@@ -583,5 +583,92 @@
         {"turkish": "Bu yolu kullanmayın.", "translation": "Не используйте эту дорогу."}
       ]
     }
+  },
+  "imkan_kipi": {
+    "turkish_name": "İmkan Kipi (Yeterlilik Kipı)",
+    "level": "A2",
+    "vowel_harmony_link": true,
+    "english": {
+      "name": "Ability Mood (Possibility Mood)",
+      "description": "The ability mood (imkan kipi or yeterlilik kipi) is used to express ability, capability, or possibility. It indicates whether someone can or is able to do something.",
+      "usage": [
+        "Expressing ability or capability (I can do, I am able to do)",
+        "Indicating possibility (It can happen, It is possible)",
+        "Asking about capability (Can you do it?)"
+      ],
+      "formation": {
+        "positive": "Verb root + (y)abil/(y)ebil + personal ending",
+        "negative": "Verb root + (y)ama/(y)eme + personal ending",
+        "interrogative": "Verb root + (y)abil/(y)ebil + personal ending + mı/mi",
+        "vowel_harmony_note": "The suffix follows 2-way vowel harmony: -abil after back vowels (a, ı, o, u), -ebil after front vowels (e, i, ö, ü). If the verb ends in a vowel, the buffer consonant 'y' is added. The negative form uses -ama/-eme instead of -abil/-ebil."
+      },
+      "affixes": {
+        "tense_markers": [
+          {"affix": "abil", "description": "After verb roots with back vowels (a, ı, o, u) - e.g., yapabilir (can do)"},
+          {"affix": "ebil", "description": "After verb roots with front vowels (e, i, ö, ü) - e.g., görebilir (can see)"},
+          {"affix": "yabil", "description": "After vowel-ending verb roots with back vowels - e.g., okuyabilir (can read)"},
+          {"affix": "yebil", "description": "After vowel-ending verb roots with front vowels - e.g., söyleyebilir (can say)"}
+        ],
+        "personal_endings": [
+          {"pronoun": "ben", "ending": "irim/ırım", "example": "yapabilirim (I can do)"},
+          {"pronoun": "sen", "ending": "irsin/ırsın", "example": "yapabilirsin (you can do)"},
+          {"pronoun": "o", "ending": "ir/ır", "example": "yapabilir (he/she/it can do)"},
+          {"pronoun": "biz", "ending": "iriz/ırız", "example": "yapabiliriz (we can do)"},
+          {"pronoun": "siz", "ending": "irsiniz/ırsınız", "example": "yapabilirsiniz (you can do)"},
+          {"pronoun": "onlar", "ending": "irler/ırlar", "example": "yapabilirler (they can do)"}
+        ],
+        "negative_affix": "ama/eme - replaces abil/ebil for negative forms (e.g., yapamam - I cannot do)"
+      },
+      "examples": [
+        {"turkish": "Türkçe konuşabilirim.", "translation": "I can speak Turkish.", "type": "positive"},
+        {"turkish": "Bu kitabı okuyabilir misin?", "translation": "Can you read this book?", "type": "interrogative"},
+        {"turkish": "Yarın gelebiliriz.", "translation": "We can come tomorrow.", "type": "positive"},
+        {"turkish": "Burada park edebilir miyiz?", "translation": "Can we park here?", "type": "interrogative"},
+        {"turkish": "Çok hızlı koşamam.", "translation": "I cannot run very fast.", "type": "negative"},
+        {"turkish": "Seni anlayamıyorum.", "translation": "I cannot understand you.", "type": "negative"},
+        {"turkish": "Bu problemi çözebilirler.", "translation": "They can solve this problem.", "type": "positive"}
+      ]
+    },
+    "russian": {
+      "name": "Наклонение возможности (способности)",
+      "description": "Наклонение возможности (imkan kipi или yeterlilik kipi) используется для выражения способности, возможности или умения. Оно указывает, может ли кто-то что-то сделать или способен ли на это.",
+      "usage": [
+        "Выражение способности или умения (я могу, я способен)",
+        "Указание возможности (это может произойти, это возможно)",
+        "Вопрос о возможности (ты можешь это сделать?)"
+      ],
+      "formation": {
+        "positive": "Основа глагола + (y)abil/(y)ebil + личное окончание",
+        "negative": "Основа глагола + (y)ama/(y)eme + личное окончание",
+        "interrogative": "Основа глагола + (y)abil/(y)ebil + личное окончание + mı/mi",
+        "vowel_harmony_note": "Суффикс следует 2-сторонней гармонии гласных: -abil после задних гласных (a, ı, o, u), -ebil после передних гласных (e, i, ö, ü). Если глагол заканчивается на гласную, добавляется соединительный согласный 'y'. В отрицательной форме используется -ama/-eme вместо -abil/-ebil."
+      },
+      "affixes": {
+        "tense_markers": [
+          {"affix": "abil", "description": "После основ с задними гласными (a, ı, o, u) - напр., yapabilir (может делать)"},
+          {"affix": "ebil", "description": "После основ с передними гласными (e, i, ö, ü) - напр., görebilir (может видеть)"},
+          {"affix": "yabil", "description": "После основ, оканчивающихся на задние гласные - напр., okuyabilir (может читать)"},
+          {"affix": "yebil", "description": "После основ, оканчивающихся на передние гласные - напр., söyleyebilir (может сказать)"}
+        ],
+        "personal_endings": [
+          {"pronoun": "ben", "ending": "irim/ırım", "example": "yapabilirim (я могу делать)"},
+          {"pronoun": "sen", "ending": "irsin/ırsın", "example": "yapabilirsin (ты можешь делать)"},
+          {"pronoun": "o", "ending": "ir/ır", "example": "yapabilir (он/она может делать)"},
+          {"pronoun": "biz", "ending": "iriz/ırız", "example": "yapabiliriz (мы можем делать)"},
+          {"pronoun": "siz", "ending": "irsiniz/ırsınız", "example": "yapabilirsiniz (вы можете делать)"},
+          {"pronoun": "onlar", "ending": "irler/ırlar", "example": "yapabilirler (они могут делать)"}
+        ],
+        "negative_affix": "ama/eme - заменяет abil/ebil в отрицательных формах (напр., yapamam - я не могу делать)"
+      },
+      "examples": [
+        {"turkish": "Türkçe konuşabilirim.", "translation": "Я могу говорить по-турецки.", "type": "positive"},
+        {"turkish": "Bu kitabı okuyabilir misin?", "translation": "Ты можешь прочитать эту книгу?", "type": "interrogative"},
+        {"turkish": "Yarın gelebiliriz.", "translation": "Мы можем прийти завтра.", "type": "positive"},
+        {"turkish": "Burada park edebilir miyiz?", "translation": "Мы можем здесь припарковаться?", "type": "interrogative"},
+        {"turkish": "Çok hızlı koşamam.", "translation": "Я не могу бегать очень быстро.", "type": "negative"},
+        {"turkish": "Seni anlayamıyorum.", "translation": "Я не могу тебя понять.", "type": "negative"},
+        {"turkish": "Bu problemi çözebilirler.", "translation": "Они могут решить эту проблему.", "type": "positive"}
+      ]
+    }
   }
 }
