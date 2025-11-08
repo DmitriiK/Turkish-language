@@ -4,17 +4,17 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görür",
+    "verb_full": "görüyor",
     "root": "gör",
-    "tense_affix": "ür",
+    "tense_affix": "üyor",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "u",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The small child sees the cat every morning.",
-  "russian_example_sentence": "Маленький ребёнок видит кошку каждое утро.",
-  "turkish_example_sentence": "Küçük çocuk her sabah kediyi görür.",
-  "turkish_example_sentence_with_blank": "Küçük çocuk her sabah kediyi ______."
+  "english_example_sentence": "The teacher sees the happy student.",
+  "russian_example_sentence": "Учитель видит счастливого студента.",
+  "turkish_example_sentence": "Öğretmen mutlu öğrenciyi görüyor.",
+  "turkish_example_sentence_with_blank": "Öğretmen mutlu öğrenciyi ______."
 }

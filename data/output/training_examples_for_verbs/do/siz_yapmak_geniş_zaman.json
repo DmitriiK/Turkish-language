@@ -4,17 +4,17 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yaparsınız",
+    "verb_full": "yapıyorsunuz",
     "root": "yap",
-    "tense_affix": "ar",
+    "tense_affix": "ıyor",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "sınız",
+    "personal_affix": "unuz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You do your homework.",
+  "english_example_sentence": "You are doing your homework.",
   "russian_example_sentence": "Вы делаете домашнее задание.",
-  "turkish_example_sentence": "Siz ev ödevinizi yaparsınız.",
-  "turkish_example_sentence_with_blank": "Siz ev ödevinizi ______."
+  "turkish_example_sentence": "Siz ödevinizi yapıyorsunuz.",
+  "turkish_example_sentence_with_blank": "Siz ödevinizi ______."
 }

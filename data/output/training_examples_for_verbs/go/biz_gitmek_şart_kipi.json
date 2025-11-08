@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitsek",
+    "verb_full": "gideriz",
     "root": "git",
-    "tense_affix": "se",
+    "tense_affix": "eriz",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we go to this beautiful forest, we have fun with our friends.",
-  "russian_example_sentence": "Если мы пойдем в этот красивый лес, мы повеселимся с нашими друзьями.",
-  "turkish_example_sentence": "Biz bu güzel ormana gitsek, arkadaşlarımızla eğleniriz.",
-  "turkish_example_sentence_with_blank": "Biz bu güzel ormana ______, arkadaşlarımızla eğleniriz."
+  "english_example_sentence": "We will go to the beautiful park.",
+  "russian_example_sentence": "Мы пойдем в красивый парк.",
+  "turkish_example_sentence": "Güzel parka gideriz.",
+  "turkish_example_sentence_with_blank": "Güzel parka ______."
 }

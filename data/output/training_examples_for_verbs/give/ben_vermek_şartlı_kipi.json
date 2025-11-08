@@ -4,17 +4,17 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "versem",
+    "verb_full": "veririm",
     "root": "ver",
-    "tense_affix": "se",
+    "tense_affix": "ir",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I gave you this beautiful flower, would you put it in a vase?",
-  "russian_example_sentence": "Если бы я дал тебе этот красивый цветок, ты бы поставил его в вазу?",
-  "turkish_example_sentence": "Ben sana bu güzel çiçeği versem, vazoya koyar mısın?",
-  "turkish_example_sentence_with_blank": "Ben sana bu güzel çiçeği ______, vazoya koyar mısın?"
+  "english_example_sentence": "I will give my friend a gift.",
+  "russian_example_sentence": "Я дам своему другу подарок.",
+  "turkish_example_sentence": "Ben arkadaşıma bir hediye veririm.",
+  "turkish_example_sentence_with_blank": "Ben arkadaşıma bir hediye ______."
 }

@@ -4,17 +4,17 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapacaktım",
+    "verb_full": "yapmışım",
     "root": "yap",
-    "tense_affix": "yacaktı",
+    "tense_affix": "mış",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I would have made a delicious cake for the party.",
-  "russian_example_sentence": "Я бы приготовил вкусный торт для вечеринки.",
-  "turkish_example_sentence": "Parti için lezzetli bir pasta yapacaktım.",
-  "turkish_example_sentence_with_blank": "Parti için lezzetli bir pasta ______."
+  "english_example_sentence": "I have made a delicious cake.",
+  "russian_example_sentence": "Я сделал вкусный торт.",
+  "turkish_example_sentence": "Ben lezzetli bir pasta yapmışım.",
+  "turkish_example_sentence_with_blank": "Ben lezzetli bir pasta ______."
 }

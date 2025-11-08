@@ -4,17 +4,17 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapsam",
+    "verb_full": "yapabilirim",
     "root": "yap",
-    "tense_affix": "sa",
+    "tense_affix": "abilir",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I do this difficult job, my family will be very happy.",
-  "russian_example_sentence": "Если я сделаю эту сложную работу, моя семья будет очень счастлива.",
-  "turkish_example_sentence": "Eğer bu zor işi yapsam, ailem çok sevinir.",
-  "turkish_example_sentence_with_blank": "Eğer bu zor işi ______, ailem çok sevinir."
+  "english_example_sentence": "I can do it.",
+  "russian_example_sentence": "Я могу это сделать.",
+  "turkish_example_sentence": "Ben bu projeyi yapabilirim.",
+  "turkish_example_sentence_with_blank": "Ben bu projeyi ______."
 }

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gitmeyeceksiniz",
     "root": "git",
-    "tense_affix": "yecek",
+    "tense_affix": "meyecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "siniz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You will not go to this important business meeting.",
-  "russian_example_sentence": "Вы не пойдете на эту важную деловую встречу.",
-  "turkish_example_sentence": "Siz bu önemli iş toplantısına gitmeyeceksiniz.",
-  "turkish_example_sentence_with_blank": "Siz bu önemli iş toplantısına ______."
+  "english_example_sentence": "You will not go to the park tomorrow.",
+  "russian_example_sentence": "Вы не пойдете в парк завтра.",
+  "turkish_example_sentence": "Yarın parka gitmeyeceksiniz.",
+  "turkish_example_sentence_with_blank": "Yarın parka ______."
 }

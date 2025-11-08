@@ -4,17 +4,17 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "verecekti",
+    "verb_full": "vermişti",
     "root": "ver",
-    "tense_affix": "ecekti",
+    "tense_affix": "miş",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "ti",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "My friend was going to give you his old book.",
-  "russian_example_sentence": "Мой друг собирался дать тебе свою старую книгу.",
-  "turkish_example_sentence": "Arkadaşım sana eski kitabını verecekti.",
-  "turkish_example_sentence_with_blank": "Arkadaşım sana eski kitabını ______."
+  "english_example_sentence": "He gave the important book to his friend.",
+  "russian_example_sentence": "Он дал важную книгу своему другу.",
+  "turkish_example_sentence": "O, önemli kitabı arkadaşına vermişti.",
+  "turkish_example_sentence_with_blank": "O, önemli kitabı arkadaşına ______."
 }

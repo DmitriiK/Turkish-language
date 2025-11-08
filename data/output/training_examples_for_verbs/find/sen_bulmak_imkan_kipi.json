@@ -4,17 +4,17 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulabilsin",
+    "verb_full": "buluyorsun",
     "root": "bul",
-    "tense_affix": "abil",
+    "tense_affix": "uyor",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "sin",
+    "personal_affix": "sun",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can find this beautiful book in the library.",
-  "russian_example_sentence": "Ты можешь найти эту красивую книгу в библиотеке.",
-  "turkish_example_sentence": "Sen bu güzel kitabı kütüphanede bulabilsin.",
-  "turkish_example_sentence_with_blank": "Sen bu güzel kitabı kütüphanede ______."
+  "english_example_sentence": "You are finding the new book.",
+  "russian_example_sentence": "Ты находишь новую книгу.",
+  "turkish_example_sentence": "Sen yeni kitabı buluyorsun.",
+  "turkish_example_sentence_with_blank": "Sen yeni kitabı ______."
 }

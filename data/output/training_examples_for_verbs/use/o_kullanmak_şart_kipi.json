@@ -4,17 +4,17 @@
   "verb_russian": "использовать",
   "verb_infinitive": "kullanmak",
   "turkish_verb": {
-    "verb_full": "kullansa",
+    "verb_full": "kullanıyorsa",
     "root": "kullan",
-    "tense_affix": "sa",
+    "tense_affix": "ıyor",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If he uses this new application, his work will be easier.",
-  "russian_example_sentence": "Если он использует это новое приложение, его работа станет легче.",
-  "turkish_example_sentence": "O, bu yeni uygulamayı kullansa, işi daha kolay olur.",
-  "turkish_example_sentence_with_blank": "O, bu yeni uygulamayı ______, işi daha kolay olur."
+  "english_example_sentence": "My sister uses the computer often.",
+  "russian_example_sentence": "Моя сестра часто использует компьютер.",
+  "turkish_example_sentence": "Kız kardeşim bilgisayarı sık sık kullanıyorsa.",
+  "turkish_example_sentence_with_blank": "Kız kardeşim bilgisayarı sık sık ______."
 }

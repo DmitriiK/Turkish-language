@@ -4,17 +4,17 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilsek",
+    "verb_full": "biliriz",
     "root": "bil",
-    "tense_affix": "se",
+    "tense_affix": "ir",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we knew the correct answer, we would easily solve this complex problem.",
-  "russian_example_sentence": "Если бы мы знали правильный ответ, мы бы легко решили эту сложную проблему.",
-  "turkish_example_sentence": "Eğer doğru cevabı bilsek, bu karmaşık sorunu kolayca çözeriz.",
-  "turkish_example_sentence_with_blank": "Eğer doğru cevabı ______, bu karmaşık sorunu kolayca çözeriz."
+  "english_example_sentence": "We know the answer to the question.",
+  "russian_example_sentence": "Мы знаем ответ на вопрос.",
+  "turkish_example_sentence": "Biz sorunun cevabını biliriz.",
+  "turkish_example_sentence_with_blank": "Biz sorunun cevabını ______."
 }

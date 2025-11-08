@@ -4,17 +4,17 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "isterseniz",
+    "verb_full": "istiyorsunuz",
     "root": "iste",
-    "tense_affix": "rse",
+    "tense_affix": "yor",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "sunuz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you want, we can plant these beautiful flowers in the garden.",
-  "russian_example_sentence": "Если вы хотите, мы можем посадить эти красивые цветы в саду.",
-  "turkish_example_sentence": "Siz isterseniz, bu güzel çiçekleri bahçeye ekebiliriz.",
-  "turkish_example_sentence_with_blank": "Siz ______, bu güzel çiçekleri bahçeye ekebiliriz."
+  "english_example_sentence": "You want to go to the concert.",
+  "russian_example_sentence": "Вы хотите пойти на концерт.",
+  "turkish_example_sentence": "Siz bu yıl konseri istiyorsunuz.",
+  "turkish_example_sentence_with_blank": "Siz bu yıl konseri ______."
 }

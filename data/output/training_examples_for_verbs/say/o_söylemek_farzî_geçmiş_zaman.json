@@ -4,17 +4,17 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylemiş",
+    "verb_full": "söyledi",
     "root": "söyle",
-    "tense_affix": "miş",
+    "tense_affix": "di",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "di",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "My neighbor said that already.",
-  "russian_example_sentence": "Мой сосед это уже сказал.",
-  "turkish_example_sentence": "Komşum bunu çoktan söylemiş.",
-  "turkish_example_sentence_with_blank": "Komşum bunu çoktan ______."
+  "english_example_sentence": "He said an interesting story.",
+  "russian_example_sentence": "Он рассказал интересную историю.",
+  "turkish_example_sentence": "O ilginç bir hikaye söyledi.",
+  "turkish_example_sentence_with_blank": "O ilginç bir hikaye ______."
 }

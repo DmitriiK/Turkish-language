@@ -4,17 +4,17 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilseniz",
+    "verb_full": "biliyorsunuz",
     "root": "bil",
-    "tense_affix": "se",
+    "tense_affix": "iyor",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "sunuz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you know the correct answer to this difficult question, tell us.",
-  "russian_example_sentence": "Если вы знаете правильный ответ на этот сложный вопрос, скажите нам.",
-  "turkish_example_sentence": "Eğer bu zor sorunun doğru cevabını bilseniz, bize söyleyin.",
-  "turkish_example_sentence_with_blank": "Eğer bu zor sorunun doğru cevabını ______, bize söyleyin."
+  "english_example_sentence": "You know this important information.",
+  "russian_example_sentence": "Вы знаете эту важную информацию.",
+  "turkish_example_sentence": "Siz bu önemli bilgiyi biliyorsunuz.",
+  "turkish_example_sentence_with_blank": "Siz bu önemli bilgiyi ______."
 }

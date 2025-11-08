@@ -4,17 +4,17 @@
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "oldu",
+    "verb_full": "olacak",
     "root": "ol",
-    "tense_affix": "du",
+    "tense_affix": "acak",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "acak",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "She was a great friend.",
-  "russian_example_sentence": "Она была отличной подругой.",
-  "turkish_example_sentence": "O, harika bir arkadaştır.",
-  "turkish_example_sentence_with_blank": "O, harika bir arkadaştır."
+  "english_example_sentence": "The weather will be nice tomorrow.",
+  "russian_example_sentence": "Завтра погода будет хорошей.",
+  "turkish_example_sentence": "Hava yarın güzel olacak.",
+  "turkish_example_sentence_with_blank": "Hava yarın güzel ______."
 }

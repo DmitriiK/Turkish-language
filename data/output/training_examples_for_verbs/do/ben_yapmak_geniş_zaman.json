@@ -4,17 +4,17 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yaparım",
+    "verb_full": "yapıyorum",
     "root": "yap",
-    "tense_affix": "ar",
+    "tense_affix": "ıyor",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "ım",
+    "personal_affix": "um",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I do homework every day.",
+  "english_example_sentence": "I am doing my homework every day.",
   "russian_example_sentence": "Я делаю домашнее задание каждый день.",
-  "turkish_example_sentence": "Ben her gün ödev yaparım.",
-  "turkish_example_sentence_with_blank": "Ben her gün ödev ______."
+  "turkish_example_sentence": "Ben her gün ödevimi yapıyorum.",
+  "turkish_example_sentence_with_blank": "Ben her gün ödevimi ______."
 }

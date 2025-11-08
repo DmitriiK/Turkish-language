@@ -4,17 +4,17 @@
   "verb_russian": "смотреть",
   "verb_infinitive": "bakmak",
   "turkish_verb": {
-    "verb_full": "baksan",
+    "verb_full": "bakıyorsun",
     "root": "bak",
-    "tense_affix": "sa",
+    "tense_affix": "ıyor",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "sun",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you look carefully at this beautiful view, you will find an inner peace.",
-  "russian_example_sentence": "Если ты внимательно посмотришь на этот красивый вид, ты найдешь внутренний покой.",
-  "turkish_example_sentence": "Bu güzel manzaraya dikkatli baksan, içsel bir huzur bulursun.",
-  "turkish_example_sentence_with_blank": "Bu güzel manzaraya dikkatli ______, içsel bir huzur bulursun."
+  "english_example_sentence": "You look happy today.",
+  "russian_example_sentence": "Ты сегодня выглядишь счастливым.",
+  "turkish_example_sentence": "Bugün sen çok mutlu bakıyorsun.",
+  "turkish_example_sentence_with_blank": "Bugün sen çok mutlu ______."
 }

@@ -4,17 +4,17 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "isterseniz",
-    "root": "iste",
-    "tense_affix": "rse",
+    "verb_full": "istemektesiniz",
+    "root": "istemek",
+    "tense_affix": "te",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "siniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you want, you can come to an important meeting this evening.",
-  "russian_example_sentence": "Если вы захотите, вы можете прийти на важную встречу этим вечером.",
-  "turkish_example_sentence": "Eğer isterseniz, bu akşam önemli bir toplantıya gelebilirsiniz.",
-  "turkish_example_sentence_with_blank": "Eğer ______, bu akşam önemli bir toplantıya gelebilirsiniz."
+  "english_example_sentence": "You want to go to the cinema.",
+  "russian_example_sentence": "Вы хотите пойти в кино.",
+  "turkish_example_sentence": "Siz sinemaya gitmekte olduğunuzu istiyorsunuz.",
+  "turkish_example_sentence_with_blank": "Siz sinemaya gitmekte olduğunuzu istiyorsunuz."
 }

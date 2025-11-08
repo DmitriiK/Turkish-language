@@ -4,17 +4,17 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapsalar",
+    "verb_full": "yapacaklar",
     "root": "yap",
-    "tense_affix": "sa",
+    "tense_affix": "acak",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They would do their homework.",
-  "russian_example_sentence": "Они бы сделали домашнюю работу.",
-  "turkish_example_sentence": "Öğrenciler ödevlerini dikkatlice yapsalar.",
-  "turkish_example_sentence_with_blank": "Öğrenciler ödevlerini dikkatlice ______."
+  "english_example_sentence": "They will do the homework together.",
+  "russian_example_sentence": "Они сделают домашнее задание вместе.",
+  "turkish_example_sentence": "Öğrenciler birlikte ödevi yapacaklar.",
+  "turkish_example_sentence_with_blank": "Öğrenciler birlikte ödevi ______."
 }

@@ -4,17 +4,17 @@
   "verb_russian": "получать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almalı",
+    "verb_full": "almalıdır",
     "root": "al",
     "tense_affix": "malı",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "dır",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The student must get this book.",
-  "russian_example_sentence": "Студент должен получить эту книгу.",
-  "turkish_example_sentence": "Öğrenci bu kitabı almalı.",
-  "turkish_example_sentence_with_blank": "Öğrenci bu kitabı ______."
+  "english_example_sentence": "He must get the documents.",
+  "russian_example_sentence": "Он должен получить документы.",
+  "turkish_example_sentence": "O belgeleri almalıdır.",
+  "turkish_example_sentence_with_blank": "O belgeleri ______."
 }

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "görmeyeceğiz",
     "root": "gör",
-    "tense_affix": "yecek",
+    "tense_affix": "meye",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "iz",
+    "personal_affix": "ceğiz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "Friends, we will not see this beautiful city again.",
-  "russian_example_sentence": "Друзья, мы не увидим этот красивый город снова.",
-  "turkish_example_sentence": "Arkadaşlar, bu güzel şehri bir daha görmeyeceğiz.",
-  "turkish_example_sentence_with_blank": "Arkadaşlar, bu güzel şehri bir daha ______."
+  "english_example_sentence": "We will not see the movie.",
+  "russian_example_sentence": "Мы не увидим фильм.",
+  "turkish_example_sentence": "Biz bu filmi **görmeyeceğiz**.",
+  "turkish_example_sentence_with_blank": "Biz bu filmi **______**."
 }

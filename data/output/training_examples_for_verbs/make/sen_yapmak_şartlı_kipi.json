@@ -4,17 +4,17 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapsan",
+    "verb_full": "yaparsan",
     "root": "yap",
-    "tense_affix": "sa",
+    "tense_affix": "ar",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "san",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you make this good plan, our work will become easier.",
-  "russian_example_sentence": "Если ты сделаешь этот хороший план, наша работа станет легче.",
-  "turkish_example_sentence": "Sen bu güzel planı yapsan, işimiz kolaylaşır.",
-  "turkish_example_sentence_with_blank": "Sen bu güzel planı ______, işimiz kolaylaşır."
+  "english_example_sentence": "If you make a cake, it will be delicious.",
+  "russian_example_sentence": "Если ты сделаешь торт, он будет вкусным.",
+  "turkish_example_sentence": "Sen bir pasta yaparsan, o lezzetli olacak.",
+  "turkish_example_sentence_with_blank": "Sen bir pasta ______, o lezzetli olacak."
 }

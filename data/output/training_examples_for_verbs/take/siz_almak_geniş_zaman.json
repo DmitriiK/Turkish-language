@@ -4,17 +4,17 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "alırsınız",
+    "verb_full": "alıyorsunuz",
     "root": "al",
-    "tense_affix": "ır",
+    "tense_affix": "ıyor",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "sınız",
+    "personal_affix": "sunuz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You always make correct decisions.",
-  "russian_example_sentence": "Вы всегда принимаете правильные решения.",
-  "turkish_example_sentence": "Siz her zaman doğru kararlar alırsınız.",
-  "turkish_example_sentence_with_blank": "Siz her zaman doğru kararlar ______."
+  "english_example_sentence": "You are taking the book.",
+  "russian_example_sentence": "Вы берете книгу.",
+  "turkish_example_sentence": "Siz kitabı alıyorsunuz.",
+  "turkish_example_sentence_with_blank": "Siz kitabı ______."
 }

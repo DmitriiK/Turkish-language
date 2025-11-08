@@ -4,17 +4,17 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilsem",
+    "verb_full": "bilmeliyim",
     "root": "bil",
-    "tense_affix": "se",
+    "tense_affix": "meliyim",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If only I knew the important exam questions beforehand.",
-  "russian_example_sentence": "Если бы я знал важные экзаменационные вопросы заранее.",
-  "turkish_example_sentence": "Keşke önemli sınav sorularını önceden bilsem.",
-  "turkish_example_sentence_with_blank": "Keşke önemli sınav sorularını önceden ______."
+  "english_example_sentence": "I should know the answer.",
+  "russian_example_sentence": "Я должен знать ответ.",
+  "turkish_example_sentence": "Ben sorunun cevabını bilmeliyim.",
+  "turkish_example_sentence_with_blank": "Ben sorunun cevabını ______."
 }

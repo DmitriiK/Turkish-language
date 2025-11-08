@@ -4,17 +4,17 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapasın",
+    "verb_full": "yapıyorsun",
     "root": "yap",
-    "tense_affix": "a",
+    "tense_affix": "ıyor",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "sın",
+    "personal_affix": "sun",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I hope you will do it.",
-  "russian_example_sentence": "Я надеюсь, ты это сделаешь.",
-  "turkish_example_sentence": "Umarım sen de yapasın.",
-  "turkish_example_sentence_with_blank": "Umarım sen de ______."
+  "english_example_sentence": "You are doing the homework.",
+  "russian_example_sentence": "Ты делаешь домашнее задание.",
+  "turkish_example_sentence": "Sen ödevleri yapıyorsun.",
+  "turkish_example_sentence_with_blank": "Sen ödevleri ______."
 }

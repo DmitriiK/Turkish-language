@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitse",
+    "verb_full": "gidecek",
     "root": "git",
-    "tense_affix": "se",
+    "tense_affix": "ecek",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "(null)",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I wish my little sibling would go to the park with us.",
-  "russian_example_sentence": "Хотел бы я, чтобы мой младший брат/сестра пошел(ла) с нами в парк.",
-  "turkish_example_sentence": "Keşke küçük kardeşim de bizimle parka gitse.",
-  "turkish_example_sentence_with_blank": "Keşke küçük kardeşim de bizimle parka ______."
+  "english_example_sentence": "He will go to the park tomorrow.",
+  "russian_example_sentence": "Он пойдет в парк завтра.",
+  "turkish_example_sentence": "O yarın parka gidecek.",
+  "turkish_example_sentence_with_blank": "O yarın parka ______."
 }

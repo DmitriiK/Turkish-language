@@ -4,17 +4,17 @@
   "verb_russian": "использовать",
   "verb_infinitive": "kullanmak",
   "turkish_verb": {
-    "verb_full": "kullansan",
+    "verb_full": "kullanırsan",
     "root": "kullan",
-    "tense_affix": "sa",
+    "tense_affix": "ır",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "san",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you use this correct method, you will save time.",
-  "russian_example_sentence": "Если ты используешь этот правильный метод, ты сэкономишь время.",
-  "turkish_example_sentence": "Eğer bu doğru yöntemi kullansan, zaman kazanırsın.",
-  "turkish_example_sentence_with_blank": "Eğer bu doğru yöntemi ______, zaman kazanırsın."
+  "english_example_sentence": "If you use this tool, it will help you.",
+  "russian_example_sentence": "Если ты используешь этот инструмент, он поможет тебе.",
+  "turkish_example_sentence": "Bu aracı kullanırsan, sana yardımcı olur.",
+  "turkish_example_sentence_with_blank": "Bu aracı ______, sana yardımcı olur."
 }

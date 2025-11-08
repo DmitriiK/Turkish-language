@@ -4,17 +4,17 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulsanız",
+    "verb_full": "bulursanız",
     "root": "bul",
-    "tense_affix": "sa",
+    "tense_affix": "ur",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "sanız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you find a good solution, everyone will be happy.",
-  "russian_example_sentence": "Если вы найдете хорошее решение, все будут счастливы.",
-  "turkish_example_sentence": "Eğer siz iyi bir çözüm bulsanız, herkes mutlu olur.",
-  "turkish_example_sentence_with_blank": "Eğer siz iyi bir çözüm ______, herkes mutlu olur."
+  "english_example_sentence": "If you find the answer, you will be happy.",
+  "russian_example_sentence": "Если вы найдёте ответ, вы будете счастливы.",
+  "turkish_example_sentence": "Eğer doğru yanıtı bulursanız, mutlu olacaksınız.",
+  "turkish_example_sentence_with_blank": "Eğer doğru yanıtı ______, mutlu olacaksınız."
 }

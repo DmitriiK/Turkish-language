@@ -4,17 +4,17 @@
   "verb_russian": "получать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "alasınız",
+    "verb_full": "alıyorsunuz",
     "root": "al",
-    "tense_affix": "a",
+    "tense_affix": "ıyor",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "sınız",
+    "personal_affix": "sunuz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You should receive this important news today.",
-  "russian_example_sentence": "Вы должны получить эту важную новость сегодня.",
-  "turkish_example_sentence": "Bu önemli haberi bugün alasınız.",
-  "turkish_example_sentence_with_blank": "Bu önemli haberi bugün ______."
+  "english_example_sentence": "You are getting the book.",
+  "russian_example_sentence": "Вы получаете книгу.",
+  "turkish_example_sentence": "Siz bu kitabı alıyorsunuz.",
+  "turkish_example_sentence_with_blank": "Siz bu kitabı ______."
 }

@@ -4,17 +4,17 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapsaydınız",
+    "verb_full": "yapıyorsunuz",
     "root": "yap",
-    "tense_affix": "saydı",
+    "tense_affix": "ıyor",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "sunuz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You should have done it.",
-  "russian_example_sentence": "Вам следовало бы это сделать.",
-  "turkish_example_sentence": "Keşke bu görevi zamanında yapsaydınız.",
-  "turkish_example_sentence_with_blank": "Keşke bu görevi zamanında ______."
+  "english_example_sentence": "You are doing the important work",
+  "russian_example_sentence": "Вы делаете важную работу",
+  "turkish_example_sentence": "Siz önemli bir işi yapıyorsunuz.",
+  "turkish_example_sentence_with_blank": "Siz önemli bir işi ______."
 }

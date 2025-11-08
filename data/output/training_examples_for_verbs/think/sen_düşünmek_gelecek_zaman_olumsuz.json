@@ -4,17 +4,17 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmeyeceksin",
+    "verb_full": "düşünmeyecek",
     "root": "düşün",
-    "tense_affix": "yecek",
+    "tense_affix": "ecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "sin",
+    "personal_affix": "ceksin",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You will not think of another solution for this challenging task.",
-  "russian_example_sentence": "Ты не будешь думать о другом решении для этой сложной задачи.",
-  "turkish_example_sentence": "Sen bu zorlu görev için başka bir çözüm düşünmeyeceksin.",
-  "turkish_example_sentence_with_blank": "Sen bu zorlu görev için başka bir çözüm ______."
+  "english_example_sentence": "You will not think about the problem.",
+  "russian_example_sentence": "Ты не будешь думать о проблеме.",
+  "turkish_example_sentence": "Sen bu sorun hakkında düşünmeyecek.",
+  "turkish_example_sentence_with_blank": "Sen bu sorun hakkında ______."
 }

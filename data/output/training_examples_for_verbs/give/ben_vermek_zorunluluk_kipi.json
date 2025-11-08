@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "vermeliyim",
     "root": "ver",
-    "tense_affix": "meli",
+    "tense_affix": "meliyim",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "yim",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I must give this important letter to the post office.",
-  "russian_example_sentence": "Я должен отдать это важное письмо на почту.",
-  "turkish_example_sentence": "Bu önemli mektubu postaya vermeliyim.",
-  "turkish_example_sentence_with_blank": "Bu önemli mektubu postaya ______."
+  "english_example_sentence": "I must give my report tomorrow.",
+  "russian_example_sentence": "Я должен дать свой отчет завтра.",
+  "turkish_example_sentence": "Ben yarın raporumu vermeliyim.",
+  "turkish_example_sentence_with_blank": "Ben yarın raporumu ______."
 }

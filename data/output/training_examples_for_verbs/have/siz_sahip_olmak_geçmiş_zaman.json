@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "sahip oldunuz",
     "root": "sahip ol",
-    "tense_affix": "dı",
+    "tense_affix": "du",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "dınız",
+    "personal_affix": "dunuz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You had a beautiful garden.",
-  "russian_example_sentence": "У вас был красивый сад.",
-  "turkish_example_sentence": "Siz güzel bir bahçeye sahip oldunuz.",
-  "turkish_example_sentence_with_blank": "Siz güzel bir bahçeye ______."
+  "english_example_sentence": "You had a beautiful house",
+  "russian_example_sentence": "У вас был красивый дом",
+  "turkish_example_sentence": "Siz güzel bir eve sahip oldunuz",
+  "turkish_example_sentence_with_blank": "Siz güzel bir eve ______"
 }

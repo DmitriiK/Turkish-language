@@ -4,17 +4,17 @@
   "verb_russian": "использовать",
   "verb_infinitive": "kullanmak",
   "turkish_verb": {
-    "verb_full": "kullanmıyor",
+    "verb_full": "kullanamıyor",
     "root": "kullan",
-    "tense_affix": "yor",
+    "tense_affix": "ıyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "mı"
+    "negative_affix": "a"
   },
-  "english_example_sentence": "Ali is not using his old and slow computer.",
-  "russian_example_sentence": "Али не использует свой старый и медленный компьютер.",
-  "turkish_example_sentence": "Ali, eski ve yavaş bilgisayarını kullanmıyor.",
-  "turkish_example_sentence_with_blank": "Ali, eski ve yavaş bilgisayarını ______."
+  "english_example_sentence": "He is not using the computer.",
+  "russian_example_sentence": "Он не использует компьютер.",
+  "turkish_example_sentence": "Ahmet bilgisayarı **kullanamıyor**.",
+  "turkish_example_sentence_with_blank": "Ahmet bilgisayarı **______**."
 }

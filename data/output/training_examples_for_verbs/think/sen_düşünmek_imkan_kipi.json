@@ -4,17 +4,17 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünebilirsin",
+    "verb_full": "düşünüyorum",
     "root": "düşün",
-    "tense_affix": "ebilir",
+    "tense_affix": "üyor",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "sin",
+    "personal_affix": "u",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can think about this important topic from different perspectives.",
-  "russian_example_sentence": "Ты можешь подумать об этой важной теме с разных точек зрения.",
-  "turkish_example_sentence": "Sen bu önemli konuyu farklı açılardan düşünebilirsin.",
-  "turkish_example_sentence_with_blank": "Sen bu önemli konuyu farklı açılardan ______."
+  "english_example_sentence": "You are thinking about the project.",
+  "russian_example_sentence": "Ты думаешь о проекте.",
+  "turkish_example_sentence": "Sen projeyi düşünüyorum.",
+  "turkish_example_sentence_with_blank": "Sen projeyi ______."
 }

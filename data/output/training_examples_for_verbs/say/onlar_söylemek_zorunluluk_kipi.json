@@ -4,17 +4,17 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylemeliler",
+    "verb_full": "söylemeleri",
     "root": "söyle",
-    "tense_affix": "meli",
+    "tense_affix": "me",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "ler",
+    "personal_affix": "leri",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They must say the truth.",
-  "russian_example_sentence": "Они должны сказать правду.",
-  "turkish_example_sentence": "Öğrenciler gerçeği söylemeliler.",
-  "turkish_example_sentence_with_blank": "Öğrenciler gerçeği ______."
+  "english_example_sentence": "They must say it clearly.",
+  "russian_example_sentence": "Они должны сказать это ясно.",
+  "turkish_example_sentence": "Öğrenciler sınavda doğru cevapları söylemeleri gerekiyor.",
+  "turkish_example_sentence_with_blank": "Öğrenciler sınavda doğru cevapları ______ gerekiyor."
 }

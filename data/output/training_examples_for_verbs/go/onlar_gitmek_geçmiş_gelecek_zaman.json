@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gideceklerdi",
+    "verb_full": "gittiler",
     "root": "git",
-    "tense_affix": "ecek",
+    "tense_affix": "ti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lerdi",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Diligent students would have gone to the big library if they had time.",
-  "russian_example_sentence": "Трудолюбивые студенты пошли бы в большую библиотеку, если бы у них было время.",
-  "turkish_example_sentence": "Çalışkan öğrenciler zamanları olsaydı büyük kütüphaneye gideceklerdi.",
-  "turkish_example_sentence_with_blank": "Çalışkan öğrenciler zamanları olsaydı büyük kütüphaneye ______."
+  "english_example_sentence": "They went to the museum yesterday.",
+  "russian_example_sentence": "Они вчера пошли в музей.",
+  "turkish_example_sentence": "Onlar dün müzeye gittiler.",
+  "turkish_example_sentence_with_blank": "Onlar dün müzeye ______."
 }

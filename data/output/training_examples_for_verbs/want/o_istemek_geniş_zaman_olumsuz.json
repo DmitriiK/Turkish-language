@@ -4,17 +4,17 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemez",
+    "verb_full": "istemiyor",
     "root": "iste",
     "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "mez"
+    "negative_affix": "mi"
   },
-  "english_example_sentence": "My friend doesn't want an old car.",
-  "russian_example_sentence": "Мой друг не хочет старую машину.",
-  "turkish_example_sentence": "Arkadaşım eski bir araba istemez.",
-  "turkish_example_sentence_with_blank": "Arkadaşım eski bir araba ______."
+  "english_example_sentence": "He does not want to go to the event.",
+  "russian_example_sentence": "Он не хочет идти на мероприятие.",
+  "turkish_example_sentence": "O etkinliğe gitmiyor.",
+  "turkish_example_sentence_with_blank": "O etkinliğe gitmiyor."
 }

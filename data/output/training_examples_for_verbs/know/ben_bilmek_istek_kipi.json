@@ -4,17 +4,17 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bileyim",
+    "verb_full": "biliyorum",
     "root": "bil",
-    "tense_affix": "e",
+    "tense_affix": "iyor",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "yim",
+    "personal_affix": "um",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I should know this important book and its author.",
-  "russian_example_sentence": "Я должен знать эту важную книгу и ее автора.",
-  "turkish_example_sentence": "Ben bu önemli kitabı ve yazarı bileyim.",
-  "turkish_example_sentence_with_blank": "Ben bu önemli kitabı ve yazarı ______."
+  "english_example_sentence": "I want to know the answer.",
+  "russian_example_sentence": "Я хочу знать ответ.",
+  "turkish_example_sentence": "Ben doğru cevabı biliyorum.",
+  "turkish_example_sentence_with_blank": "Ben doğru cevabı ______."
 }

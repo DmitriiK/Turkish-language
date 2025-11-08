@@ -4,17 +4,17 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görmez",
+    "verb_full": "görmüyor",
     "root": "gör",
     "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "z",
+    "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "mı"
   },
-  "english_example_sentence": "This old man doesn't see colors well.",
-  "russian_example_sentence": "Этот старый мужчина плохо видит цвета.",
-  "turkish_example_sentence": "Bu yaşlı adam renkleri iyi görmez.",
-  "turkish_example_sentence_with_blank": "Bu yaşlı adam renkleri iyi ______."
+  "english_example_sentence": "The student does not see the teacher.",
+  "russian_example_sentence": "Студент не видит учителя.",
+  "turkish_example_sentence": "Öğrenci öğretmeni görmüyor.",
+  "turkish_example_sentence_with_blank": "Öğrenci öğretmeni ______."
 }

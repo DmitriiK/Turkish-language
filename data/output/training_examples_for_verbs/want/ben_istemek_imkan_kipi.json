@@ -4,17 +4,17 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "isteyebilirim",
+    "verb_full": "istiyorum",
     "root": "iste",
-    "tense_affix": "yebilir",
+    "tense_affix": "iyor",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "im",
+    "personal_affix": "um",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I might want to watch this interesting movie.",
-  "russian_example_sentence": "Я могу захотеть посмотреть этот интересный фильм.",
-  "turkish_example_sentence": "Bu ilginç filmi izlemek isteyebilirim.",
-  "turkish_example_sentence_with_blank": "Bu ilginç filmi izlemek ______."
+  "english_example_sentence": "I want to go to the bookstore.",
+  "russian_example_sentence": "Я хочу пойти в книжный магазин.",
+  "turkish_example_sentence": "Ben yeni kitabı almak istiyorum.",
+  "turkish_example_sentence_with_blank": "Ben yeni kitabı almak ______."
 }

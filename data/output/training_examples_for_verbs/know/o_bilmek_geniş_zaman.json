@@ -4,17 +4,17 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilir",
+    "verb_full": "biliyor",
     "root": "bil",
-    "tense_affix": "ir",
+    "tense_affix": "iyor",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "u",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The diligent student knows the answer to difficult questions.",
-  "russian_example_sentence": "Трудолюбивый студент знает ответ на сложные вопросы.",
-  "turkish_example_sentence": "Çalışkan öğrenci, zor soruların cevabını bilir.",
-  "turkish_example_sentence_with_blank": "Çalışkan öğrenci, zor soruların cevabını ______."
+  "english_example_sentence": "She knows the answer to the question.",
+  "russian_example_sentence": "Она знает ответ на вопрос.",
+  "turkish_example_sentence": "Öğrenci sorunun cevabını biliyor.",
+  "turkish_example_sentence_with_blank": "Öğrenci sorunun cevabını ______."
 }

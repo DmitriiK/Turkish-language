@@ -4,17 +4,17 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemezler",
+    "verb_full": "istemiyorlar",
     "root": "iste",
-    "tense_affix": "z",
+    "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "ler",
+    "personal_affix": "lar",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "mi"
   },
-  "english_example_sentence": "Small children do not want these toys.",
-  "russian_example_sentence": "Маленькие дети не хотят эти игрушки.",
-  "turkish_example_sentence": "Küçük çocuklar bu oyuncakları istemezler.",
-  "turkish_example_sentence_with_blank": "Küçük çocuklar bu oyuncakları ______."
+  "english_example_sentence": "They do not want to go.",
+  "russian_example_sentence": "Они не хотят идти.",
+  "turkish_example_sentence": "Çocuklar oyun oynamak istemiyorlar.",
+  "turkish_example_sentence_with_blank": "Çocuklar oyun oynamak ______."
 }

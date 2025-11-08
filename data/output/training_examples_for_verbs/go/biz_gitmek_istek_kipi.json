@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gidelim",
+    "verb_full": "gitmek istiyoruz",
     "root": "git",
-    "tense_affix": "e",
+    "tense_affix": "mek",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "lim",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Let's go to the beautiful park with our friend.",
-  "russian_example_sentence": "Пойдем в красивый парк с нашим другом.",
-  "turkish_example_sentence": "Güzel parka arkadaşımızla gidelim.",
-  "turkish_example_sentence_with_blank": "Güzel parka arkadaşımızla ______."
+  "english_example_sentence": "We want to go to the cinema.",
+  "russian_example_sentence": "Мы хотим пойти в кино.",
+  "turkish_example_sentence": "Biz sinemaya gitmek istiyoruz.",
+  "turkish_example_sentence_with_blank": "Biz sinemaya ______."
 }

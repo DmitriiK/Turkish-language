@@ -4,17 +4,17 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapsanız",
+    "verb_full": "yapıyorsunuz",
     "root": "yap",
-    "tense_affix": "sa",
+    "tense_affix": "ıyor",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "sunuz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you do this important work, people will thank you.",
-  "russian_example_sentence": "Если вы сделаете эту важную работу, люди поблагодарят вас.",
-  "turkish_example_sentence": "Bu önemli işi yapsanız, insanlar size teşekkür eder.",
-  "turkish_example_sentence_with_blank": "Bu önemli işi ______, insanlar size teşekkür eder."
+  "english_example_sentence": "You are doing your homework.",
+  "russian_example_sentence": "Вы делаете свою домашнюю работу.",
+  "turkish_example_sentence": "Öğrenciler bu akşam ödevlerinizi yapıyorsunuz.",
+  "turkish_example_sentence_with_blank": "Öğrenciler bu akşam ödevlerinizi ______."
 }

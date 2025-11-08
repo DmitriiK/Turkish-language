@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "sahip olmadım",
     "root": "sahip ol",
-    "tense_affix": "dı",
+    "tense_affix": "du",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "ol"
   },
-  "english_example_sentence": "I did not have a small dog.",
-  "russian_example_sentence": "У меня не было маленькой собаки.",
-  "turkish_example_sentence": "Ben küçük bir köpeğe sahip olmadım.",
-  "turkish_example_sentence_with_blank": "Ben küçük bir köpeğe ______."
+  "english_example_sentence": "I didn't have a dog last year.",
+  "russian_example_sentence": "У меня не было собаки в прошлом году.",
+  "turkish_example_sentence": "Ben geçen yıl bir köpeğe sahip olmadım.",
+  "turkish_example_sentence_with_blank": "Ben geçen yıl bir köpeğe ______."
 }

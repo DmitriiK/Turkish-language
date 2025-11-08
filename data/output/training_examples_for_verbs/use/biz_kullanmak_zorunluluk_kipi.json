@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "kullanmalıyız",
     "root": "kullan",
-    "tense_affix": "malı",
+    "tense_affix": "malıy",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "yız",
+    "personal_affix": "ız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We must use this new computer for work.",
-  "russian_example_sentence": "Мы должны использовать этот новый компьютер для работы.",
-  "turkish_example_sentence": "Biz bu yeni bilgisayarı iş için kullanmalıyız.",
-  "turkish_example_sentence_with_blank": "Biz bu yeni bilgisayarı iş için ______."
+  "english_example_sentence": "We must use these tools carefully.",
+  "russian_example_sentence": "Мы должны использовать эти инструменты осторожно.",
+  "turkish_example_sentence": "Bu aletleri dikkatli **kullanmalıyız**.",
+  "turkish_example_sentence_with_blank": "Bu aletleri dikkatli **______**."
 }

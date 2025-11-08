@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gidesiniz",
+    "verb_full": "gidiyorsunuz",
     "root": "git",
-    "tense_affix": "e",
+    "tense_affix": "iyor",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "siniz",
+    "personal_affix": "sunuz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "May you go to a new city peacefully.",
-  "russian_example_sentence": "Да отправитесь вы в новый город спокойно.",
-  "turkish_example_sentence": "Siz yeni bir şehre huzurla gidesiniz.",
-  "turkish_example_sentence_with_blank": "Siz yeni bir şehre huzurla ______."
+  "english_example_sentence": "You are going to the concert tomorrow.",
+  "russian_example_sentence": "Вы идете на концерт завтра.",
+  "turkish_example_sentence": "Siz yarın konser için gidiyorsunuz.",
+  "turkish_example_sentence_with_blank": "Siz yarın konser için ______."
 }

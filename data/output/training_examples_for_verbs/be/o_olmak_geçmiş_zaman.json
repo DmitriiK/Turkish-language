@@ -4,17 +4,17 @@
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "oldu",
+    "verb_full": "oldum",
     "root": "ol",
     "tense_affix": "du",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The weather was nice yesterday.",
-  "russian_example_sentence": "Погода была хорошей вчера.",
-  "turkish_example_sentence": "Hava dün güzel oldu.",
-  "turkish_example_sentence_with_blank": "Hava dün güzel ______."
+  "english_example_sentence": "My friend was happy last year.",
+  "russian_example_sentence": "Мой друг был счастлив в прошлом году.",
+  "turkish_example_sentence": "Geçen yıl arkadaşım mutlu oldum.",
+  "turkish_example_sentence_with_blank": "Geçen yıl arkadaşım mutlu ______."
 }

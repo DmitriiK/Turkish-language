@@ -4,17 +4,17 @@
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "arasam",
+    "verb_full": "aramayıp",
     "root": "ara",
-    "tense_affix": "sa",
+    "tense_affix": "ma",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "yım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If there is an important matter, I would call my friend.",
-  "russian_example_sentence": "Если будет важный вопрос, я позвонил бы своему другу.",
-  "turkish_example_sentence": "Eğer önemli bir konu olursa, arkadaşımı arasam.",
-  "turkish_example_sentence_with_blank": "Eğer önemli bir konu olursa, arkadaşımı ______."
+  "english_example_sentence": "I will not call my friend tomorrow.",
+  "russian_example_sentence": "Я не позвоню своему другу завтра.",
+  "turkish_example_sentence": "Ben yarın arkadaşıma **aramayıp**.",
+  "turkish_example_sentence_with_blank": "Ben yarın arkadaşıma **______**."
 }

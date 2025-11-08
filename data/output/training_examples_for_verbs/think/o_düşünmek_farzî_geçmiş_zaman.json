@@ -4,17 +4,17 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünseydi",
+    "verb_full": "düşünmüştü",
     "root": "düşün",
-    "tense_affix": "seydi",
+    "tense_affix": "müş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "dü",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If that smart child had thought a little more, he wouldn't have experienced such a problem.",
-  "russian_example_sentence": "Если бы тот умный ребенок подумал немного больше, он бы не столкнулся с такой проблемой.",
-  "turkish_example_sentence": "O akıllı çocuk biraz daha düşünseydi, böyle bir sorun yaşamazdı.",
-  "turkish_example_sentence_with_blank": "O akıllı çocuk biraz daha ______, böyle bir sorun yaşamazdı."
+  "english_example_sentence": "She thought about the problem yesterday.",
+  "russian_example_sentence": "Она думала о проблеме вчера.",
+  "turkish_example_sentence": "O, dün problemi düşünmüştü.",
+  "turkish_example_sentence_with_blank": "O, dün problemi ______."
 }

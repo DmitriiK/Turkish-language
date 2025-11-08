@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "çalışmıyoruz",
     "root": "çalış",
-    "tense_affix": "yor",
+    "tense_affix": "ıyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "uz",
     "polarity": "negative",
-    "negative_affix": "mı"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "Our diligent friends are not working in the library today.",
-  "russian_example_sentence": "Наши прилежные друзья сегодня не работают в библиотеке.",
-  "turkish_example_sentence": "Bizim çalışkan arkadaşlarımız bugün kütüphanede çalışmıyoruz.",
-  "turkish_example_sentence_with_blank": "Bizim çalışkan arkadaşlarımız bugün kütüphanede ______."
+  "english_example_sentence": "We are not working today.",
+  "russian_example_sentence": "Мы сегодня не работаем.",
+  "turkish_example_sentence": "Biz bugün çalışmıyoruz.",
+  "turkish_example_sentence_with_blank": "Biz bugün ______."
 }

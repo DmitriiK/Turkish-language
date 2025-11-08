@@ -4,17 +4,17 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatsanız",
+    "verb_full": "anlatırsınız",
     "root": "anlat",
-    "tense_affix": "sa",
+    "tense_affix": "ır",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "sınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you tell us this interesting story, we would be very happy.",
-  "russian_example_sentence": "Если вы расскажете нам эту интересную историю, мы будем очень рады.",
-  "turkish_example_sentence": "Siz bu ilginç hikâyeyi bize anlatsanız, çok seviniriz.",
-  "turkish_example_sentence_with_blank": "Siz bu ilginç hikâyeyi bize ______, çok seviniriz."
+  "english_example_sentence": "You will tell an interesting story.",
+  "russian_example_sentence": "Вы расскажете интересную историю.",
+  "turkish_example_sentence": "Siz ilginç bir hikaye anlatırsınız.",
+  "turkish_example_sentence_with_blank": "Siz ilginç bir hikaye ______."
 }

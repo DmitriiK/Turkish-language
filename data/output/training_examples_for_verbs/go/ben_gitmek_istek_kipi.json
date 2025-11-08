@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gideyim",
+    "verb_full": "gideceğim",
     "root": "git",
-    "tense_affix": "e",
+    "tense_affix": "eceğim",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "yim",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Let me go to the cinema with my beautiful friend.",
-  "russian_example_sentence": "Позволь мне пойти в кино с моим прекрасным другом.",
-  "turkish_example_sentence": "Benim güzel arkadaşımla sinemaya gideyim.",
-  "turkish_example_sentence_with_blank": "Benim güzel arkadaşımla sinemaya ______."
+  "english_example_sentence": "I want to go to the cinema.",
+  "russian_example_sentence": "Я хочу пойти в кино.",
+  "turkish_example_sentence": "Ben sinemaya gideceğim.",
+  "turkish_example_sentence_with_blank": "Ben sinemaya ______."
 }

@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gider",
+    "verb_full": "gidiyor",
     "root": "git",
-    "tense_affix": "er",
+    "tense_affix": "iyor",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "u",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The new student goes to school by walking every morning.",
-  "russian_example_sentence": "Новый ученик каждое утро ходит в школу пешком.",
-  "turkish_example_sentence": "Yeni öğrenci her sabah okula yürüyerek gider.",
-  "turkish_example_sentence_with_blank": "Yeni öğrenci her sabah okula yürüyerek ______."
+  "english_example_sentence": "The teacher goes to the school every day.",
+  "russian_example_sentence": "Учитель идет в школу каждый день.",
+  "turkish_example_sentence": "Öğretmen her gün okula gidiyor.",
+  "turkish_example_sentence_with_blank": "Öğretmen her gün okula ______."
 }

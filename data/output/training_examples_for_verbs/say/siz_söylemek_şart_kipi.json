@@ -4,17 +4,17 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söyleseniz",
+    "verb_full": "söyleyeceksiniz",
     "root": "söyle",
-    "tense_affix": "se",
+    "tense_affix": "yecek",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "siniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you would say it.",
-  "russian_example_sentence": "Если бы вы сказали это.",
-  "turkish_example_sentence": "Eğer bunu söyleseniz, iyi olur.",
-  "turkish_example_sentence_with_blank": "Eğer bunu ______, iyi olur."
+  "english_example_sentence": "You will say the truth to your friends.",
+  "russian_example_sentence": "Вы скажете правду своим друзьям.",
+  "turkish_example_sentence": "Arkadaşlarınıza doğruyu söyleyeceksiniz.",
+  "turkish_example_sentence_with_blank": "Arkadaşlarınıza doğruyu ______."
 }

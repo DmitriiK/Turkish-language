@@ -4,17 +4,17 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söyleseydik",
+    "verb_full": "söylesek",
     "root": "söyle",
-    "tense_affix": "se",
+    "tense_affix": "sek",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "ydik",
+    "personal_affix": "sek",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We would have said something nice.",
-  "russian_example_sentence": "Мы бы сказали что-нибудь хорошее.",
-  "turkish_example_sentence": "Keşke biz güzel bir şey söyleseydik.",
-  "turkish_example_sentence_with_blank": "Keşke biz güzel bir şey ______."
+  "english_example_sentence": "We might say something nice.",
+  "russian_example_sentence": "Мы могли бы сказать что-то хорошее.",
+  "turkish_example_sentence": "Biz güzel bir şey söylesek.",
+  "turkish_example_sentence_with_blank": "Biz güzel bir şey ______."
 }

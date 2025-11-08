@@ -4,17 +4,17 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almayız",
+    "verb_full": "almıyoruz",
     "root": "al",
     "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "yız",
+    "personal_affix": "ız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "We usually don't buy fresh vegetables from the market.",
-  "russian_example_sentence": "Мы обычно не покупаем свежие овощи на рынке.",
-  "turkish_example_sentence": "Biz genellikle marketten taze sebzeleri almayız.",
-  "turkish_example_sentence_with_blank": "Biz genellikle marketten taze sebzeleri ______."
+  "english_example_sentence": "We do not take the bus to school.",
+  "russian_example_sentence": "Мы не берём автобус в школу.",
+  "turkish_example_sentence": "Biz okula otobüsü **almıyoruz**.",
+  "turkish_example_sentence_with_blank": "Biz okula otobüsü **______**."
 }

@@ -4,17 +4,17 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilseniz",
+    "verb_full": "bilirseniz",
     "root": "bil",
-    "tense_affix": "se",
+    "tense_affix": "ir",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "seniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you knew this important truth, your decision would change.",
-  "russian_example_sentence": "Если бы вы знали эту важную правду, ваше решение изменилось бы.",
-  "turkish_example_sentence": "Eğer siz bu önemli gerçeği bilseniz, kararınız değişirdi.",
-  "turkish_example_sentence_with_blank": "Eğer siz bu önemli gerçeği ______, kararınız değişirdi."
+  "english_example_sentence": "If you know the answer, tell me.",
+  "russian_example_sentence": "Если вы знаете ответ, скажите мне.",
+  "turkish_example_sentence": "Eğer doğru cevabı bilirseniz, bana söyleyin.",
+  "turkish_example_sentence_with_blank": "Eğer doğru cevabı ______, bana söyleyin."
 }

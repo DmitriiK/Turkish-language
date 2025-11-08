@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmiş olmalı",
+    "verb_full": "gitmiş",
     "root": "git",
     "tense_affix": "miş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The manager must have gone to the important evening meeting.",
-  "russian_example_sentence": "Менеджер, должно быть, пошел на важное вечернее собрание.",
-  "turkish_example_sentence": "Akşamki önemli toplantıya müdür gitmiş olmalı.",
-  "turkish_example_sentence_with_blank": "Akşamki önemli toplantıya müdür ______."
+  "english_example_sentence": "He went to the market yesterday.",
+  "russian_example_sentence": "Он пошёл на рынок вчера.",
+  "turkish_example_sentence": "O dün pazara gitmiş.",
+  "turkish_example_sentence_with_blank": "O dün pazara ______."
 }

@@ -4,17 +4,17 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmayız",
+    "verb_full": "yapmam",
     "root": "yap",
     "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "yız",
+    "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "We do not do homework.",
-  "russian_example_sentence": "Мы не делаем домашнее задание.",
-  "turkish_example_sentence": "Biz ödev yapmayız.",
-  "turkish_example_sentence_with_blank": "Biz ödev ______."
+  "english_example_sentence": "We do not have a plan.",
+  "russian_example_sentence": "У нас нет плана.",
+  "turkish_example_sentence": "Bizim bir planımız yok.",
+  "turkish_example_sentence_with_blank": "Bizim bir planımız yok."
 }

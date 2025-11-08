@@ -4,17 +4,17 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmüşümdür",
+    "verb_full": "düşündüm",
     "root": "düşün",
-    "tense_affix": "müş",
+    "tense_affix": "dü",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "ümdür",
+    "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I must have thought about this important decision for a long time.",
-  "russian_example_sentence": "Я, должно быть, долго думал об этом важном решении.",
-  "turkish_example_sentence": "Bu önemli karar hakkında uzun süre düşünmüşümdür.",
-  "turkish_example_sentence_with_blank": "Bu önemli karar hakkında uzun süre ______."
+  "english_example_sentence": "I thought about the difficult exam.",
+  "russian_example_sentence": "Я думал о сложном экзамене.",
+  "turkish_example_sentence": "Ben zor bir sınav hakkında düşündüm.",
+  "turkish_example_sentence_with_blank": "Ben zor bir sınav hakkında ______."
 }

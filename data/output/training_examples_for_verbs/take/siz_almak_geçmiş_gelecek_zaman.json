@@ -4,17 +4,17 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "alacaktınız",
+    "verb_full": "alacaksınız",
     "root": "al",
-    "tense_affix": "acaktı",
+    "tense_affix": "acak",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "ınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You (formal/plural) were going to take the important documents from the office yesterday.",
-  "russian_example_sentence": "Вы собирались взять важные документы из офиса вчера.",
-  "turkish_example_sentence": "Dün önemli evrakları ofisten alacaktınız.",
-  "turkish_example_sentence_with_blank": "Dün önemli evrakları ofisten ______."
+  "english_example_sentence": "You will take the important book.",
+  "russian_example_sentence": "Вы возьмете важную книгу.",
+  "turkish_example_sentence": "Siz önemli kitabı alacaksınız.",
+  "turkish_example_sentence_with_blank": "Siz önemli kitabı ______."
 }

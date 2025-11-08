@@ -4,7 +4,7 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olamayacağız",
+    "verb_full": "sahip olmayacağız",
     "root": "sahip ol",
     "tense_affix": "yacak",
     "verb_tense": "gelecek_zaman",
@@ -13,8 +13,8 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "We will not have a car.",
-  "russian_example_sentence": "У нас не будет машины.",
-  "turkish_example_sentence": "Biz güzel bir arabaya sahip olamayacağız.",
-  "turkish_example_sentence_with_blank": "Biz güzel bir arabaya ______."
+  "english_example_sentence": "We will not have a car this year.",
+  "russian_example_sentence": "У нас не будет машины в этом году.",
+  "turkish_example_sentence": "Biz bu yıl araba **sahip olmayacağız**.",
+  "turkish_example_sentence_with_blank": "Biz bu yıl araba **______**."
 }

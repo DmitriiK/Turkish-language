@@ -4,17 +4,17 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatabilirim",
+    "verb_full": "anlatıyorum",
     "root": "anlat",
-    "tense_affix": "abilir",
+    "tense_affix": "ıyor",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "im",
+    "personal_affix": "um",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I can tell this interesting story.",
-  "russian_example_sentence": "Я могу рассказать эту интересную историю.",
-  "turkish_example_sentence": "Ben bu ilginç hikayeyi anlatabilirim.",
-  "turkish_example_sentence_with_blank": "Ben bu ilginç hikayeyi ______."
+  "english_example_sentence": "I am telling a story to my friend.",
+  "russian_example_sentence": "Я рассказываю историю своему другу.",
+  "turkish_example_sentence": "Ben arkadaşım için bir hikaye **anlatıyorum**.",
+  "turkish_example_sentence_with_blank": "Ben arkadaşım için bir hikaye **______**."
 }

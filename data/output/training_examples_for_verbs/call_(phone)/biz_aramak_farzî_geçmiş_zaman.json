@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "aramıştık",
     "root": "ara",
-    "tense_affix": "mıştı",
+    "tense_affix": "mış",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We had called the old neighbor last night.",
-  "russian_example_sentence": "Мы вчера вечером звонили старому соседу.",
-  "turkish_example_sentence": "Dün akşam yaşlı komşuyu aramıştık.",
-  "turkish_example_sentence_with_blank": "Dün akşam yaşlı komşuyu ______."
+  "english_example_sentence": "We called yesterday.",
+  "russian_example_sentence": "Мы звонили вчера.",
+  "turkish_example_sentence": "Biz dün aramıştık.",
+  "turkish_example_sentence_with_blank": "Biz dün ______."
 }

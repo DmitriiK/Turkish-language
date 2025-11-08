@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "düşünmeyecek",
     "root": "düşün",
-    "tense_affix": "yecek",
+    "tense_affix": "meyecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "cek",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "The student will not think about this difficult question again.",
-  "russian_example_sentence": "Студент не будет думать об этом сложном вопросе снова.",
-  "turkish_example_sentence": "Öğrenci bu zor soruyu bir daha düşünmeyecek.",
-  "turkish_example_sentence_with_blank": "Öğrenci bu zor soruyu bir daha ______."
+  "english_example_sentence": "He will not think about the future.",
+  "russian_example_sentence": "Он не будет думать о будущем.",
+  "turkish_example_sentence": "O gelecek hakkında düşünmeyecek.",
+  "turkish_example_sentence_with_blank": "O gelecek hakkında ______."
 }

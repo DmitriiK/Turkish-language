@@ -4,17 +4,17 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatsın",
+    "verb_full": "anlatıyor",
     "root": "anlat",
-    "tense_affix": "",
+    "tense_affix": "ıyor",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "sın",
+    "personal_affix": "u",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Our friend should tell an interesting story.",
-  "russian_example_sentence": "Наш друг пусть расскажет интересную историю.",
-  "turkish_example_sentence": "Arkadaşımız ilginç bir hikaye anlatsın.",
-  "turkish_example_sentence_with_blank": "Arkadaşımız ilginç bir hikaye ______."
+  "english_example_sentence": "The teacher is telling a story.",
+  "russian_example_sentence": "Учитель рассказывает историю.",
+  "turkish_example_sentence": "Öğretmen bir hikaye anlatıyor.",
+  "turkish_example_sentence_with_blank": "Öğretmen bir hikaye ______."
 }

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "söylemiyor",
     "root": "söyle",
-    "tense_affix": "yor",
+    "tense_affix": "iyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "mi"
   },
-  "english_example_sentence": "My brother is not saying.",
-  "russian_example_sentence": "Мой брат не говорит.",
-  "turkish_example_sentence": "Benim kardeşim söylemiyor.",
-  "turkish_example_sentence_with_blank": "Benim kardeşim ______."
+  "english_example_sentence": "He is not saying anything.",
+  "russian_example_sentence": "Он ничего не говорит.",
+  "turkish_example_sentence": "Ali şimdi ona hiçbir şey söylemiyor.",
+  "turkish_example_sentence_with_blank": "Ali şimdi ona hiçbir şey ______."
 }

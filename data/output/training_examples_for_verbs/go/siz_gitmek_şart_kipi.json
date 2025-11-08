@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitseniz",
+    "verb_full": "gidersiniz",
     "root": "git",
-    "tense_affix": "se",
+    "tense_affix": "er",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "siniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you go to this important meeting, you will learn new and valuable information.",
-  "russian_example_sentence": "Если вы пойдете на эту важную встречу, вы узнаете новую и ценную информацию.",
-  "turkish_example_sentence": "Eğer bu önemli toplantıya gitseniz, yeni ve değerli bilgiler öğrenirsiniz.",
-  "turkish_example_sentence_with_blank": "Eğer bu önemli toplantıya ______, yeni ve değerli bilgiler öğrenirsiniz."
+  "english_example_sentence": "You will go to the concert tomorrow.",
+  "russian_example_sentence": "Вы пойдете на концерт завтра.",
+  "turkish_example_sentence": "Yarın konserde gidersiniz.",
+  "turkish_example_sentence_with_blank": "Yarın konserde ______."
 }

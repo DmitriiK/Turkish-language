@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "yapmıyorsun",
     "root": "yap",
-    "tense_affix": "yor",
+    "tense_affix": "ıyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "sun",
     "polarity": "negative",
-    "negative_affix": "mı"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "You are not making this delicious meal for the guests.",
-  "russian_example_sentence": "Ты не готовишь это вкусное блюдо для гостей.",
-  "turkish_example_sentence": "Sen bu lezzetli yemeği misafirler için yapmıyorsun.",
-  "turkish_example_sentence_with_blank": "Sen bu lezzetli yemeği misafirler için ______."
+  "english_example_sentence": "You are not making a cake.",
+  "russian_example_sentence": "Ты не делаешь торт.",
+  "turkish_example_sentence": "Sen güzel bir pasta **yapmıyorsun**.",
+  "turkish_example_sentence_with_blank": "Sen güzel bir pasta **______**."
 }

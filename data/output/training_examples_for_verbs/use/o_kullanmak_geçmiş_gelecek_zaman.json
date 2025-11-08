@@ -4,17 +4,17 @@
   "verb_russian": "использовать",
   "verb_infinitive": "kullanmak",
   "turkish_verb": {
-    "verb_full": "kullanacaktı",
+    "verb_full": "kullandı",
     "root": "kullan",
-    "tense_affix": "acak",
+    "tense_affix": "dı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "tı",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The engineer would use his old computer for the new program.",
-  "russian_example_sentence": "Инженер использовал бы свой старый компьютер для новой программы.",
-  "turkish_example_sentence": "Mühendis, eski bilgisayarını yeni program için kullanacaktı.",
-  "turkish_example_sentence_with_blank": "Mühendis, eski bilgisayarını yeni program için ______."
+  "english_example_sentence": "My sister used the computer yesterday.",
+  "russian_example_sentence": "Моя сестра использовала компьютер вчера.",
+  "turkish_example_sentence": "Kız kardeş bilgisayarı dün kullandı.",
+  "turkish_example_sentence_with_blank": "Kız kardeş bilgisayarı dün ______."
 }

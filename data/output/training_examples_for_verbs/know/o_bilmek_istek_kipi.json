@@ -4,17 +4,17 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bile",
+    "verb_full": "biliyor",
     "root": "bil",
-    "tense_affix": "e",
+    "tense_affix": "iyor",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "u",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The young student should know this complex topic.",
-  "russian_example_sentence": "Молодой студент должен знать эту сложную тему.",
-  "turkish_example_sentence": "Genç öğrenci bu karmaşık konuyu bile.",
-  "turkish_example_sentence_with_blank": "Genç öğrenci bu karmaşık konuyu ______."
+  "english_example_sentence": "The teacher knows the answer very well.",
+  "russian_example_sentence": "Учитель хорошо знает ответ.",
+  "turkish_example_sentence": "Öğretmen soruyu çok iyi biliyor.",
+  "turkish_example_sentence_with_blank": "Öğretmen soruyu çok iyi ______."
 }

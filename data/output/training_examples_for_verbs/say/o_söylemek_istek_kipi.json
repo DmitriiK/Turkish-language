@@ -4,17 +4,17 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylese",
+    "verb_full": "söylesin",
     "root": "söyle",
-    "tense_affix": "se",
+    "tense_affix": "sin",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The wise teacher would say.",
-  "russian_example_sentence": "Мудрый учитель сказал бы.",
-  "turkish_example_sentence": "Bilge öğretmen böyle söylese.",
-  "turkish_example_sentence_with_blank": "Bilge öğretmen böyle ______."
+  "english_example_sentence": "He says to his friend.",
+  "russian_example_sentence": "Он говорит своему другу.",
+  "turkish_example_sentence": "O, arkadaşıyla söylesin.",
+  "turkish_example_sentence_with_blank": "O, arkadaşıyla ______."
 }

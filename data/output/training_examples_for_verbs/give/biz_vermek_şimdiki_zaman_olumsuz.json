@@ -4,17 +4,17 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "vermiyoruz",
+    "verb_full": "vermem",
     "root": "ver",
-    "tense_affix": "yor",
+    "tense_affix": "e",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "uz",
+    "personal_affix": "m",
     "polarity": "negative",
-    "negative_affix": "mi"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "We are not giving the children too much money.",
-  "russian_example_sentence": "Мы не даем детям слишком много денег.",
-  "turkish_example_sentence": "Biz çocuklara fazla para vermiyoruz.",
-  "turkish_example_sentence_with_blank": "Biz çocuklara fazla para ______."
+  "english_example_sentence": "We are not giving the book to the students.",
+  "russian_example_sentence": "Мы не даем книгу студентам.",
+  "turkish_example_sentence": "Biz öğrencilere kitabı vermem.",
+  "turkish_example_sentence_with_blank": "Biz öğrencilere kitabı ______."
 }

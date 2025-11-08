@@ -4,17 +4,17 @@
   "verb_russian": "получать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almaz",
+    "verb_full": "almıyor",
     "root": "al",
     "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "z",
+    "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "mı"
   },
-  "english_example_sentence": "This old man does not receive help from anyone.",
-  "russian_example_sentence": "Этот старый мужчина ни от кого не получает помощи.",
-  "turkish_example_sentence": "Bu yaşlı adam kimseden yardım almaz.",
-  "turkish_example_sentence_with_blank": "Bu yaşlı adam kimseden yardım ______."
+  "english_example_sentence": "He is not getting the package.",
+  "russian_example_sentence": "Он не получает посылку.",
+  "turkish_example_sentence": "Ali kargoyu almıyor.",
+  "turkish_example_sentence_with_blank": "Ali kargoyu ______."
 }

@@ -4,17 +4,17 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "göresin",
+    "verb_full": "görmek istiyorsun",
     "root": "gör",
-    "tense_affix": "es",
+    "tense_affix": "mek",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "in",
+    "personal_affix": "sun",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "My friend, may you see this beautiful city.",
-  "russian_example_sentence": "Мой друг, пусть ты увидишь этот красивый город.",
-  "turkish_example_sentence": "Arkadaşım, bu güzel şehri göresin.",
-  "turkish_example_sentence_with_blank": "Arkadaşım, bu güzel şehri ______."
+  "english_example_sentence": "You want to see the beautiful city.",
+  "russian_example_sentence": "Ты хочешь увидеть красивый город.",
+  "turkish_example_sentence": "Sen güzel şehri görmek istiyorsun.",
+  "turkish_example_sentence_with_blank": "Sen güzel şehri ______."
 }

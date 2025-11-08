@@ -4,17 +4,17 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylemişim",
+    "verb_full": "söyledim",
     "root": "söyle",
-    "tense_affix": "miş",
+    "tense_affix": "di",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "im",
+    "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I must have said an important word to my friend.",
-  "russian_example_sentence": "Я, должно быть, сказал важное слово своему другу.",
-  "turkish_example_sentence": "Ben arkadaşıma önemli bir söz söylemişim.",
-  "turkish_example_sentence_with_blank": "Ben arkadaşıma önemli bir söz ______."
+  "english_example_sentence": "I said hello to my friend.",
+  "russian_example_sentence": "Я сказал привет своему другу.",
+  "turkish_example_sentence": "Ben arkadaşımın yanına gittiğimde selamı söyledim.",
+  "turkish_example_sentence_with_blank": "Ben arkadaşımın yanına gittiğimde selamı ______."
 }

@@ -4,17 +4,17 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "alırım",
+    "verb_full": "alıyorum",
     "root": "al",
-    "tense_affix": "ır",
+    "tense_affix": "ıyor",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "ım",
+    "personal_affix": "um",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I buy fresh fruit every Sunday.",
-  "russian_example_sentence": "Я покупаю свежие фрукты каждое воскресенье.",
-  "turkish_example_sentence": "Ben her pazar taze meyve alırım.",
-  "turkish_example_sentence_with_blank": "Ben her pazar taze meyve ______."
+  "english_example_sentence": "I take my dog for a walk.",
+  "russian_example_sentence": "Я беру свою собаку на прогулку.",
+  "turkish_example_sentence": "Ben her sabah köpeğimi parka **alıyorum**.",
+  "turkish_example_sentence_with_blank": "Ben her sabah köpeğimi parka **______**."
 }

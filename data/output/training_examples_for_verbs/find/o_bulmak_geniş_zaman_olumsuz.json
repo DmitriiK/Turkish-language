@@ -4,17 +4,17 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulmaz",
+    "verb_full": "bulmuyor",
     "root": "bul",
     "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "z",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "The little child doesn't easily find his toys in the old house.",
-  "russian_example_sentence": "Маленький ребенок нелегко находит свои игрушки в старом доме.",
-  "turkish_example_sentence": "Küçük çocuk, eski evde oyuncaklarını kolayca bulmaz.",
-  "turkish_example_sentence_with_blank": "Küçük çocuk, eski evde oyuncaklarını kolayca ______."
+  "english_example_sentence": "He is not finding the book.",
+  "russian_example_sentence": "Он не находит книгу.",
+  "turkish_example_sentence": "Ali, kitabı bulmuyor.",
+  "turkish_example_sentence_with_blank": "Ali, kitabı ______."
 }

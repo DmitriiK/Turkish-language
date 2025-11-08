@@ -4,17 +4,17 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "alabilirsin",
+    "verb_full": "alıyorum",
     "root": "al",
-    "tense_affix": "abilir",
+    "tense_affix": "ıyor",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "sin",
+    "personal_affix": "u",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can take this beautiful book from the library.",
-  "russian_example_sentence": "Ты можешь взять эту красивую книгу из библиотеки.",
-  "turkish_example_sentence": "Sen bu güzel kitabı kütüphaneden alabilirsin.",
-  "turkish_example_sentence_with_blank": "Sen bu güzel kitabı kütüphaneden ______."
+  "english_example_sentence": "You are taking the important book",
+  "russian_example_sentence": "Ты берешь важную книгу",
+  "turkish_example_sentence": "Sen önemli kitabı alıyorum",
+  "turkish_example_sentence_with_blank": "Sen önemli kitabı ______"
 }

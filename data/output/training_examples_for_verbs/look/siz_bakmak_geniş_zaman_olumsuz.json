@@ -4,17 +4,17 @@
   "verb_russian": "смотреть",
   "verb_infinitive": "bakmak",
   "turkish_verb": {
-    "verb_full": "bakmazsınız",
+    "verb_full": "bakmıyorsunuz",
     "root": "bak",
-    "tense_affix": "z",
+    "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "sınız",
+    "personal_affix": "sunuz",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You do not look at this beautiful view and flower.",
-  "russian_example_sentence": "Вы не смотрите на этот красивый вид и цветок.",
-  "turkish_example_sentence": "Siz, bu güzel manzaraya ve çiçeğe bakmazsınız.",
-  "turkish_example_sentence_with_blank": "Siz, bu güzel manzaraya ve çiçeğe ______."
+  "english_example_sentence": "You do not look happy in this photo.",
+  "russian_example_sentence": "Вы не выглядите счастливыми на этом фото.",
+  "turkish_example_sentence": "Bu fotoğrafta mutlu bakmıyorsunuz.",
+  "turkish_example_sentence_with_blank": "Bu fotoğrafta mutlu ______."
 }

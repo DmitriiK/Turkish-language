@@ -4,17 +4,17 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "veren",
+    "verb_full": "veriyorum",
     "root": "ver",
-    "tense_affix": "en",
+    "tense_affix": "iyor",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "sen",
-    "personal_affix": "",
+    "personal_affix": "u",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You are a friend who gives good news.",
-  "russian_example_sentence": "Ты друг, который даёт хорошие новости.",
-  "turkish_example_sentence": "Sen iyi haber veren bir arkadaşsın.",
-  "turkish_example_sentence_with_blank": "Sen iyi haber ______ bir arkadaşsın."
+  "english_example_sentence": "You are giving a beautiful gift.",
+  "russian_example_sentence": "Ты даёшь красивый подарок.",
+  "turkish_example_sentence": "Sen güzel bir hediye veriyorum.",
+  "turkish_example_sentence_with_blank": "Sen güzel bir hediye ______."
 }

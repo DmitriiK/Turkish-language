@@ -4,17 +4,17 @@
   "verb_russian": "использовать",
   "verb_infinitive": "kullanmak",
   "turkish_verb": {
-    "verb_full": "kullanabilirsin",
+    "verb_full": "kullanıyorsun",
     "root": "kullan",
-    "tense_affix": "abil",
+    "tense_affix": "ıyor",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "irsin",
+    "personal_affix": "sun",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can use this old computer for your work.",
-  "russian_example_sentence": "Ты можешь использовать этот старый компьютер для своей работы.",
-  "turkish_example_sentence": "Sen bu eski bilgisayarı işin için kullanabilirsin.",
-  "turkish_example_sentence_with_blank": "Sen bu eski bilgisayarı işin için ______."
+  "english_example_sentence": "You are using the computer.",
+  "russian_example_sentence": "Ты используешь компьютер.",
+  "turkish_example_sentence": "Sen bu bilgisayarı kullanıyorsun.",
+  "turkish_example_sentence_with_blank": "Sen bu bilgisayarı ______."
 }

@@ -4,17 +4,17 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulsa",
+    "verb_full": "bulacaktır",
     "root": "bul",
-    "tense_affix": "sa",
+    "tense_affix": "acak",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "acaktır",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If Ali finds the old book, he will be very happy.",
-  "russian_example_sentence": "Если Али найдет старую книгу, он будет очень счастлив.",
-  "turkish_example_sentence": "Ali eski kitabı bulsa, çok mutlu olur.",
-  "turkish_example_sentence_with_blank": "Ali eski kitabı ______, çok mutlu olur."
+  "english_example_sentence": "She will find the best book.",
+  "russian_example_sentence": "Она найдет лучшую книгу.",
+  "turkish_example_sentence": "O en iyi kitabı bulacaktır.",
+  "turkish_example_sentence_with_blank": "O en iyi kitabı ______."
 }

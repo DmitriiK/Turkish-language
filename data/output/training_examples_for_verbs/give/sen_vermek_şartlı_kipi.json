@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "verirsen",
     "root": "ver",
-    "tense_affix": "ir",
+    "tense_affix": "irsen",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "sen",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you give the book, I will be happy.",
-  "russian_example_sentence": "Если ты дашь книгу, я буду счастлив.",
-  "turkish_example_sentence": "Eğer sen kitabı verirsen, ben mutlu olurum.",
-  "turkish_example_sentence_with_blank": "Eğer sen kitabı ______, ben mutlu olurum."
+  "english_example_sentence": "If you give me your book, I will be happy.",
+  "russian_example_sentence": "Если ты дашь мне свою книгу, я буду счастлив.",
+  "turkish_example_sentence": "Eğer bana kitabını verirsen, mutlu olacağım.",
+  "turkish_example_sentence_with_blank": "Eğer bana kitabını ______, mutlu olacağım."
 }

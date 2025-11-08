@@ -4,17 +4,17 @@
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "arayacaktım",
+    "verb_full": "aramadım",
     "root": "ara",
-    "tense_affix": "yacaktı",
+    "tense_affix": "ma",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "dım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I was going to call my old friend last night.",
-  "russian_example_sentence": "Я собирался позвонить моему старому другу прошлой ночью.",
-  "turkish_example_sentence": "Ben, eski arkadaşımı dün gece arayacaktım.",
-  "turkish_example_sentence_with_blank": "Ben, eski arkadaşımı dün gece ______."
+  "english_example_sentence": "I called my friend yesterday.",
+  "russian_example_sentence": "Я позвонил своему другу вчера.",
+  "turkish_example_sentence": "Dün arkadaşımı aramadım.",
+  "turkish_example_sentence_with_blank": "Dün arkadaşımı ______."
 }

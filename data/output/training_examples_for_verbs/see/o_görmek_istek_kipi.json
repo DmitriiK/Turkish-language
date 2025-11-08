@@ -4,17 +4,17 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görsün",
+    "verb_full": "görmek istiyor",
     "root": "gör",
-    "tense_affix": "s",
+    "tense_affix": "mek",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "ün",
+    "personal_affix": "u",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Let the student see the new book.",
-  "russian_example_sentence": "Пусть студент увидит новую книгу.",
-  "turkish_example_sentence": "Öğrenci yeni kitabı görsün.",
-  "turkish_example_sentence_with_blank": "Öğrenci yeni kitabı ______."
+  "english_example_sentence": "He wants to see the movie.",
+  "russian_example_sentence": "Он хочет увидеть фильм.",
+  "turkish_example_sentence": "O, filmi görmek istiyor.",
+  "turkish_example_sentence_with_blank": "O, filmi ______."
 }

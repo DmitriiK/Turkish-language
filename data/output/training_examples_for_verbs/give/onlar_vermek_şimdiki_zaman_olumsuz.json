@@ -4,17 +4,17 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "vermiyorlar",
+    "verb_full": "vermemekteler",
     "root": "ver",
-    "tense_affix": "yor",
+    "tense_affix": "me",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "te",
     "polarity": "negative",
-    "negative_affix": "mi"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "The small children are not giving new books to the school.",
-  "russian_example_sentence": "Маленькие дети не дают новые книги в школу.",
-  "turkish_example_sentence": "Küçük çocuklar okula yeni kitaplar vermiyorlar.",
-  "turkish_example_sentence_with_blank": "Küçük çocuklar okula yeni kitaplar ______."
+  "english_example_sentence": "The children are not giving their homework.",
+  "russian_example_sentence": "Дети не дают свои домашние задания.",
+  "turkish_example_sentence": "Çocuklar ödevlerini vermemekteler.",
+  "turkish_example_sentence_with_blank": "Çocuklar ödevlerini ______."
 }

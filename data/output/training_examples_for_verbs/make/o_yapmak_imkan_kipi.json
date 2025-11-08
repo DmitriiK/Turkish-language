@@ -4,17 +4,17 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapabilir",
+    "verb_full": "yapıyor",
     "root": "yap",
-    "tense_affix": "abilir",
+    "tense_affix": "ıyor",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The new employee can easily do this complex project.",
-  "russian_example_sentence": "Новый сотрудник может легко выполнить этот сложный проект.",
-  "turkish_example_sentence": "Yeni çalışan bu karmaşık projeyi kolayca yapabilir.",
-  "turkish_example_sentence_with_blank": "Yeni çalışan bu karmaşık projeyi kolayca ______."
+  "english_example_sentence": "The teacher is making a difficult exam.",
+  "russian_example_sentence": "Учитель делает сложный экзамен.",
+  "turkish_example_sentence": "Öğretmen zor bir sınav yapıyor.",
+  "turkish_example_sentence_with_blank": "Öğretmen zor bir sınav ______."
 }

@@ -4,17 +4,17 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmalılar",
+    "verb_full": "yapmaları",
     "root": "yap",
-    "tense_affix": "malı",
+    "tense_affix": "ma",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "ları",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The team members must make an important decision quickly.",
-  "russian_example_sentence": "Члены команды должны быстро принять важное решение.",
-  "turkish_example_sentence": "Takım üyeleri önemli bir kararı hızlıca yapmalılar.",
-  "turkish_example_sentence_with_blank": "Takım üyeleri önemli bir kararı hızlıca ______."
+  "english_example_sentence": "They need to make a decision.",
+  "russian_example_sentence": "Им нужно принять решение.",
+  "turkish_example_sentence": "Öğrencilerin bu konuda bir karar **yapmaları** gerekiyor.",
+  "turkish_example_sentence_with_blank": "Öğrencilerin bu konuda bir karar **______** gerekiyor."
 }

@@ -4,17 +4,17 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istedik",
+    "verb_full": "istediğimiz",
     "root": "iste",
     "tense_affix": "di",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ğimiz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We wanted a new dress from our mother.",
-  "russian_example_sentence": "Мы хотели новое платье от нашей мамы.",
-  "turkish_example_sentence": "Biz annemizden yeni bir elbise istedik.",
-  "turkish_example_sentence_with_blank": "Biz annemizden yeni bir elbise ______."
+  "english_example_sentence": "We wanted to attend the concert.",
+  "russian_example_sentence": "Мы хотели посетить концерт.",
+  "turkish_example_sentence": "Biz geçen yıl konsere **istediğimiz**.",
+  "turkish_example_sentence_with_blank": "Biz geçen yıl konsere **______**."
 }

@@ -4,17 +4,17 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulsa",
+    "verb_full": "bulacak",
     "root": "bul",
-    "tense_affix": "sa",
+    "tense_affix": "acak",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "acak",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If the diligent student finds the difficult book, he will be happy.",
-  "russian_example_sentence": "Если прилежный студент найдет сложную книгу, он будет счастлив.",
-  "turkish_example_sentence": "Çalışkan öğrenci zor kitabı bulsa, mutlu olur.",
-  "turkish_example_sentence_with_blank": "Çalışkan öğrenci zor kitabı ______, mutlu olur."
+  "english_example_sentence": "He will find his lost keys.",
+  "russian_example_sentence": "Он найдет свои потерянные ключи.",
+  "turkish_example_sentence": "O kaybolan anahtarlarını bulacak.",
+  "turkish_example_sentence_with_blank": "O kaybolan anahtarlarını ______."
 }

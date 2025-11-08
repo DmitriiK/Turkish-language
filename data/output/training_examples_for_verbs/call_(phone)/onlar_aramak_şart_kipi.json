@@ -4,17 +4,17 @@
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "arasalar",
+    "verb_full": "aramazlarsa",
     "root": "ara",
-    "tense_affix": "sa",
+    "tense_affix": "maz",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If my old friends call me about this important matter, I would be very happy.",
-  "russian_example_sentence": "Если мои старые друзья позвонят мне по этому важному делу, я буду очень рад.",
-  "turkish_example_sentence": "Eski arkadaşlarım bu önemli konuda arasalar, çok sevinirim.",
-  "turkish_example_sentence_with_blank": "Eski arkadaşlarım bu önemli konuda ______, çok sevinirim."
+  "english_example_sentence": "If they call, I will be happy.",
+  "russian_example_sentence": "Если они позвонят, я буду счастлив.",
+  "turkish_example_sentence": "Onlar beni aramazlarsa, mutlu olacağım.",
+  "turkish_example_sentence_with_blank": "Onlar beni ______, mutlu olacağım."
 }

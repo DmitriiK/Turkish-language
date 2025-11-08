@@ -4,17 +4,17 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatsam",
+    "verb_full": "anlatırım",
     "root": "anlat",
-    "tense_affix": "sa",
+    "tense_affix": "ır",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I told this interesting story to my friend, he would also listen.",
-  "russian_example_sentence": "Если бы я рассказал эту интересную историю своему другу, он бы тоже послушал.",
-  "turkish_example_sentence": "Eğer bu ilginç hikayeyi arkadaşıma anlatsam, o da dinlerdi.",
-  "turkish_example_sentence_with_blank": "Eğer bu ilginç hikayeyi arkadaşıma ______, o da dinlerdi."
+  "english_example_sentence": "I will tell my story tomorrow.",
+  "russian_example_sentence": "Я расскажу свою историю завтра.",
+  "turkish_example_sentence": "Ben yarın hikayemi anlatırım.",
+  "turkish_example_sentence_with_blank": "Ben yarın hikayemi ______."
 }

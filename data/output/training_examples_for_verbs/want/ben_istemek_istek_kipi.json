@@ -4,17 +4,17 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "isteyeyim",
+    "verb_full": "istiyorum",
     "root": "iste",
-    "tense_affix": "ye",
+    "tense_affix": "yor",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "yim",
+    "personal_affix": "um",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Let me want to read this beautiful book.",
-  "russian_example_sentence": "Пусть я захочу прочитать эту красивую книгу.",
-  "turkish_example_sentence": "Bu güzel kitabı okumak isteyeyim.",
-  "turkish_example_sentence_with_blank": "Bu güzel kitabı okumak ______."
+  "english_example_sentence": "I want to learn Turkish.",
+  "russian_example_sentence": "Я хочу учить турецкий.",
+  "turkish_example_sentence": "Ben Türkçe öğrenmek istiyorum.",
+  "turkish_example_sentence_with_blank": "Ben Türkçe öğrenmek ______."
 }

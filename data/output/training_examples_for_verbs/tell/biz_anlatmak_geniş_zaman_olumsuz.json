@@ -4,17 +4,17 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatmayız",
+    "verb_full": "anlatmam",
     "root": "anlat",
     "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "yız",
+    "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "We don't tell important secrets to anyone.",
-  "russian_example_sentence": "Мы не рассказываем важные секреты никому.",
-  "turkish_example_sentence": "Biz önemli sırları kimseye anlatmayız.",
-  "turkish_example_sentence_with_blank": "Biz önemli sırları kimseye ______."
+  "english_example_sentence": "We do not tell the story.",
+  "russian_example_sentence": "Мы не рассказываем историю.",
+  "turkish_example_sentence": "Biz bu hikayeyi **anlatmam**.",
+  "turkish_example_sentence_with_blank": "Biz bu hikayeyi **______**."
 }

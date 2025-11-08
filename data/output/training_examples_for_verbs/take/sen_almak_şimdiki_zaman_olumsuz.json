@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "almıyorsun",
     "root": "al",
-    "tense_affix": "yor",
+    "tense_affix": "ıyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "sun",
     "polarity": "negative",
     "negative_affix": "mı"
   },
-  "english_example_sentence": "You are not taking this important package from the post office.",
-  "russian_example_sentence": "Ты не забираешь эту важную посылку с почты.",
-  "turkish_example_sentence": "Sen bu önemli paketi postaneden almıyorsun.",
-  "turkish_example_sentence_with_blank": "Sen bu önemli paketi postaneden ______."
+  "english_example_sentence": "You are not taking the book.",
+  "russian_example_sentence": "Ты не берёшь книгу.",
+  "turkish_example_sentence": "Sen bu kitabı almıyorsun.",
+  "turkish_example_sentence_with_blank": "Sen bu kitabı ______."
 }

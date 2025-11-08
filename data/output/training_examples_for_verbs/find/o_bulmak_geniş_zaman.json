@@ -4,17 +4,17 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulur",
+    "verb_full": "buluyor",
     "root": "bul",
-    "tense_affix": "ur",
+    "tense_affix": "uyor",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "u",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The small child always finds a beautiful toy.",
-  "russian_example_sentence": "Маленький ребенок всегда находит красивую игрушку.",
-  "turkish_example_sentence": "Küçük çocuk her zaman güzel bir oyuncak bulur.",
-  "turkish_example_sentence_with_blank": "Küçük çocuk her zaman güzel bir oyuncak ______."
+  "english_example_sentence": "She finds the lost keys.",
+  "russian_example_sentence": "Она находит потерянные ключи.",
+  "turkish_example_sentence": "Ayşe kaybolan anahtarları **buluyor**.",
+  "turkish_example_sentence_with_blank": "Ayşe kaybolan anahtarları **______**."
 }

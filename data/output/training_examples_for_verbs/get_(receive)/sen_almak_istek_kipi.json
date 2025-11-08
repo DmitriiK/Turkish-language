@@ -4,17 +4,17 @@
   "verb_russian": "получать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "alasın",
+    "verb_full": "alıyorsun",
     "root": "al",
-    "tense_affix": "a",
+    "tense_affix": "ıyor",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "sın",
+    "personal_affix": "sun",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "My friend, I hope you receive this beautiful news.",
-  "russian_example_sentence": "Мой друг, надеюсь, ты получишь эту прекрасную новость.",
-  "turkish_example_sentence": "Arkadaşım, umarım bu güzel haberi alasın.",
-  "turkish_example_sentence_with_blank": "Arkadaşım, umarım bu güzel haberi ______."
+  "english_example_sentence": "You are getting a new book.",
+  "russian_example_sentence": "Ты получаешь новую книгу.",
+  "turkish_example_sentence": "Sen yeni bir kitabı alıyorsun.",
+  "turkish_example_sentence_with_blank": "Sen yeni bir kitabı ______."
 }

@@ -4,17 +4,17 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yaptığı",
+    "verb_full": "yapıyor",
     "root": "yap",
-    "tense_affix": "tık",
+    "tense_affix": "ıyor",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "o",
-    "personal_affix": "ı",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The boy liked the delicious cake he made very much.",
-  "russian_example_sentence": "Мальчик очень полюбил вкусный торт, который он сделал.",
-  "turkish_example_sentence": "Çocuk, yaptığı lezzetli pastayı çok beğendi.",
-  "turkish_example_sentence_with_blank": "Çocuk, ______ lezzetli pastayı çok beğendi."
+  "english_example_sentence": "The teacher makes a good lesson plan.",
+  "russian_example_sentence": "Учитель делает хороший план урока.",
+  "turkish_example_sentence": "Öğretmen iyi bir ders planı yapıyor.",
+  "turkish_example_sentence_with_blank": "Öğretmen iyi bir ders planı ______."
 }

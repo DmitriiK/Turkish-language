@@ -4,17 +4,17 @@
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "aramalısınız",
+    "verb_full": "aramak zorundasınız",
     "root": "ara",
-    "tense_affix": "malı",
+    "tense_affix": "mak zorunda",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "sınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You must call the manager for this important job.",
-  "russian_example_sentence": "Вы должны позвонить менеджеру по этому важному делу.",
-  "turkish_example_sentence": "Siz, bu önemli iş için müdürü aramalısınız.",
-  "turkish_example_sentence_with_blank": "Siz, bu önemli iş için müdürü ______."
+  "english_example_sentence": "You have to call your friend.",
+  "russian_example_sentence": "Вам нужно позвонить вашему другу.",
+  "turkish_example_sentence": "Arkadaşınıza **aramak zorundasınız**.",
+  "turkish_example_sentence_with_blank": "Arkadaşınıza **______**."
 }

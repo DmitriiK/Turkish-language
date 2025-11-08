@@ -4,17 +4,17 @@
   "verb_russian": "приходить",
   "verb_infinitive": "gelmek",
   "turkish_verb": {
-    "verb_full": "gelmelisiniz",
+    "verb_full": "geliyorsunuz",
     "root": "gel",
-    "tense_affix": "meli",
+    "tense_affix": "iyor",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "siniz",
+    "personal_affix": "sunuz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Valuable guests, you must come to the meeting early.",
-  "russian_example_sentence": "Дорогие гости, вы должны прийти на собрание рано.",
-  "turkish_example_sentence": "Değerli misafirler, toplantıya erken gelmelisiniz.",
-  "turkish_example_sentence_with_blank": "Değerli misafirler, toplantıya erken ______."
+  "english_example_sentence": "You have to come to the meeting.",
+  "russian_example_sentence": "Вы должны прийти на встречу.",
+  "turkish_example_sentence": "Toplantıya geliyorsunuz.",
+  "turkish_example_sentence_with_blank": "Toplantıya ______."
 }

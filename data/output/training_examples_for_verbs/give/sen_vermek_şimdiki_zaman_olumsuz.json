@@ -4,17 +4,17 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "vermiyorsun",
+    "verb_full": "vermemek",
     "root": "ver",
-    "tense_affix": "yor",
+    "tense_affix": "me",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "sun",
+    "personal_affix": "m",
     "polarity": "negative",
-    "negative_affix": "mi"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "You are not giving me old books as a gift.",
-  "russian_example_sentence": "Ты не даришь мне старые книги.",
-  "turkish_example_sentence": "Sen bana eski kitapları hediye vermiyorsun.",
-  "turkish_example_sentence_with_blank": "Sen bana eski kitapları hediye ______."
+  "english_example_sentence": "You are not giving a gift.",
+  "russian_example_sentence": "Ты не даёшь подарок.",
+  "turkish_example_sentence": "Sen bu yıl hediye vermemekle meşgulsün.",
+  "turkish_example_sentence_with_blank": "Sen bu yıl hediye ______le meşgulsün."
 }

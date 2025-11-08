@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "düşünmeliyim",
     "root": "düşün",
-    "tense_affix": "meli",
+    "tense_affix": "meliyim",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "yim",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I must think about this important project for one more week.",
-  "russian_example_sentence": "Я должен подумать об этом важном проекте еще одну неделю.",
-  "turkish_example_sentence": "Bu önemli projeyi bir hafta daha düşünmeliyim.",
-  "turkish_example_sentence_with_blank": "Bu önemli projeyi bir hafta daha ______."
+  "english_example_sentence": "I need to think about the future.",
+  "russian_example_sentence": "Мне нужно подумать о будущем.",
+  "turkish_example_sentence": "Gelecek hakkında düşünmeliyim.",
+  "turkish_example_sentence_with_blank": "Gelecek hakkında ______."
 }

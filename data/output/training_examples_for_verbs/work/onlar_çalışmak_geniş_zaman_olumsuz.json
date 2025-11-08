@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "çalışmazlar",
     "root": "çalış",
-    "tense_affix": "z",
+    "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "maz"
   },
-  "english_example_sentence": "These lazy students usually don't work in class.",
-  "russian_example_sentence": "Эти ленивые студенты обычно не работают на уроке.",
-  "turkish_example_sentence": "Bu tembel öğrenciler genellikle derste çalışmazlar.",
-  "turkish_example_sentence_with_blank": "Bu tembel öğrenciler genellikle derste ______."
+  "english_example_sentence": "The children do not work on weekends",
+  "russian_example_sentence": "Дети не работают по выходным",
+  "turkish_example_sentence": "Çocuklar hafta sonları çalışmazlar",
+  "turkish_example_sentence_with_blank": "Çocuklar hafta sonları ______"
 }

@@ -6,7 +6,7 @@
   "turkish_verb": {
     "verb_full": "yapmalısın",
     "root": "yap",
-    "tense_affix": "malı",
+    "tense_affix": "mal",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "sın",
@@ -15,6 +15,6 @@
   },
   "english_example_sentence": "You must do your homework.",
   "russian_example_sentence": "Ты должен сделать домашнее задание.",
-  "turkish_example_sentence": "Sen ödevini dikkatlice yapmalısın.",
-  "turkish_example_sentence_with_blank": "Sen ödevini dikkatlice ______."
+  "turkish_example_sentence": "Sen ödevini yapmalısın.",
+  "turkish_example_sentence_with_blank": "Sen ödevini ______."
 }

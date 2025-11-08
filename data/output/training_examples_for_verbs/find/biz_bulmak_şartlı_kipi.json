@@ -4,17 +4,17 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulsak",
+    "verb_full": "bulabileceğiz",
     "root": "bul",
-    "tense_affix": "sa",
+    "tense_affix": "abileceğiz",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "eceğiz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we find that old lost key, we help our friend.",
-  "russian_example_sentence": "Если мы найдем тот старый потерянный ключ, мы поможем нашему другу.",
-  "turkish_example_sentence": "Biz o eski kayıp anahtarı bulsak, arkadaşımıza yardım ederiz.",
-  "turkish_example_sentence_with_blank": "Biz o eski kayıp anahtarı ______, arkadaşımıza yardım ederiz."
+  "english_example_sentence": "We will find the best solution.",
+  "russian_example_sentence": "Мы найдем лучшее решение.",
+  "turkish_example_sentence": "Biz en iyi çözümü bulabileceğiz.",
+  "turkish_example_sentence_with_blank": "Biz en iyi çözümü ______."
 }

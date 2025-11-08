@@ -4,17 +4,17 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatsan",
+    "verb_full": "anlatırsan",
     "root": "anlat",
-    "tense_affix": "sa",
+    "tense_affix": "ır",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "san",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you explain this interesting topic, your friends will listen to you carefully.",
-  "russian_example_sentence": "Если ты объяснишь эту интересную тему, твои друзья внимательно послушают тебя.",
-  "turkish_example_sentence": "Eğer sen bu ilginç konuyu anlatsan, arkadaşların seni dikkatle dinler.",
-  "turkish_example_sentence_with_blank": "Eğer sen bu ilginç konuyu ______, arkadaşların seni dikkatle dinler."
+  "english_example_sentence": "If you tell the story, I will listen.",
+  "russian_example_sentence": "Если ты расскажешь историю, я буду слушать.",
+  "turkish_example_sentence": "Eğer hikayeyi anlatırsan, ben dinleyeceğim.",
+  "turkish_example_sentence_with_blank": "Eğer hikayeyi ______, ben dinleyeceğim."
 }

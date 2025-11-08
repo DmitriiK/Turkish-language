@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "aramıyorum",
     "root": "ara",
-    "tense_affix": "yor",
+    "tense_affix": "ıyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "um",
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "m"
   },
-  "english_example_sentence": "I am not calling my old friend by phone now.",
-  "russian_example_sentence": "Я сейчас не звоню своему старому другу по телефону.",
-  "turkish_example_sentence": "Ben şimdi eski dostumu telefonla aramıyorum.",
-  "turkish_example_sentence_with_blank": "Ben şimdi eski dostumu telefonla ______."
+  "english_example_sentence": "I am not calling my friend.",
+  "russian_example_sentence": "Я не звоню своему другу.",
+  "turkish_example_sentence": "Ben arkadaşımı aramıyorum.",
+  "turkish_example_sentence_with_blank": "Ben arkadaşımı ______."
 }

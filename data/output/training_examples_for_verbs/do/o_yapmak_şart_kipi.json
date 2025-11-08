@@ -4,17 +4,17 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapsaydı",
+    "verb_full": "yapacak",
     "root": "yap",
-    "tense_affix": "sa",
+    "tense_affix": "acak",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "acak",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "My friend would do it.",
-  "russian_example_sentence": "Мой друг сделал бы это.",
-  "turkish_example_sentence": "Arkadaşım bunu kesinlikle yapsaydı.",
-  "turkish_example_sentence_with_blank": "Arkadaşım bunu kesinlikle ______."
+  "english_example_sentence": "He will do the homework tomorrow.",
+  "russian_example_sentence": "Он сделает домашнее задание завтра.",
+  "turkish_example_sentence": "O yarın ödevleri yapacak.",
+  "turkish_example_sentence_with_blank": "O yarın ödevleri ______."
 }

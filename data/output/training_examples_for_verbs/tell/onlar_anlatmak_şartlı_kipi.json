@@ -4,17 +4,17 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatsalar",
+    "verb_full": "anlatacaklar",
     "root": "anlat",
-    "tense_affix": "sa",
+    "tense_affix": "acak",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If the children tell us an old tale, we would listen.",
-  "russian_example_sentence": "Если дети расскажут нам старую сказку, мы послушаем.",
-  "turkish_example_sentence": "Çocuklar bize eski bir masal anlatsalar, biz dinleriz.",
-  "turkish_example_sentence_with_blank": "Çocuklar bize eski bir masal ______, biz dinleriz."
+  "english_example_sentence": "They will tell a great story.",
+  "russian_example_sentence": "Они расскажут отличную историю.",
+  "turkish_example_sentence": "Onlar harika bir hikaye anlatacaklar.",
+  "turkish_example_sentence_with_blank": "Onlar harika bir hikaye ______."
 }

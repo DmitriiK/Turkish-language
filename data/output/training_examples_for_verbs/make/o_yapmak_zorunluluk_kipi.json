@@ -4,17 +4,17 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmalı",
+    "verb_full": "yapması",
     "root": "yap",
-    "tense_affix": "malı",
+    "tense_affix": "ması",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "sı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The small child must do his homework carefully.",
-  "russian_example_sentence": "Маленький ребёнок должен внимательно делать домашнее задание.",
-  "turkish_example_sentence": "Küçük çocuk ödevini dikkatli yapmalı.",
-  "turkish_example_sentence_with_blank": "Küçük çocuk ödevini dikkatli ______."
+  "english_example_sentence": "He must make a decision soon.",
+  "russian_example_sentence": "Он должен скоро принять решение.",
+  "turkish_example_sentence": "O, yakında bir karar yapması gerekiyor.",
+  "turkish_example_sentence_with_blank": "O, yakında bir karar ______ gerekiyor."
 }

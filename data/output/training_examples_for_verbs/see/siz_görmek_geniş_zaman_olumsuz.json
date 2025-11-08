@@ -4,17 +4,17 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görmezsiniz",
+    "verb_full": "görmüyorsunuz",
     "root": "gör",
     "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "siniz",
+    "personal_affix": "sunuz",
     "polarity": "negative",
-    "negative_affix": "mez"
+    "negative_affix": "mü"
   },
-  "english_example_sentence": "You do not see the window in this small room.",
-  "russian_example_sentence": "Вы не видите окно в этой маленькой комнате.",
-  "turkish_example_sentence": "Siz bu küçük odada pencereyi görmezsiniz.",
-  "turkish_example_sentence_with_blank": "Siz bu küçük odada pencereyi ______."
+  "english_example_sentence": "You do not see the beautiful flowers",
+  "russian_example_sentence": "Вы не видите красивые цветы",
+  "turkish_example_sentence": "Siz güzel çiçekleri görmüyorsunuz",
+  "turkish_example_sentence_with_blank": "Siz güzel çiçekleri ______"
 }

@@ -4,17 +4,17 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "isteyecek",
+    "verb_full": "isteyecektir",
     "root": "iste",
     "tense_affix": "yecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "tir",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The little child will want a new toy.",
-  "russian_example_sentence": "Маленький ребенок захочет новую игрушку.",
-  "turkish_example_sentence": "Küçük çocuk yeni bir oyuncak isteyecek.",
-  "turkish_example_sentence_with_blank": "Küçük çocuk yeni bir oyuncak ______."
+  "english_example_sentence": "My friend will want a new book.",
+  "russian_example_sentence": "Мой друг захочет новую книгу.",
+  "turkish_example_sentence": "Arkadaşım yeni bir kitabı isteyecektir.",
+  "turkish_example_sentence_with_blank": "Arkadaşım yeni bir kitabı ______."
 }

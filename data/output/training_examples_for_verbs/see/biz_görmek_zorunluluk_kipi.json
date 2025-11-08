@@ -4,17 +4,17 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görmeliyiz",
+    "verb_full": "görmemiz gerekir",
     "root": "gör",
-    "tense_affix": "meli",
+    "tense_affix": "me",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "yiz",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We must see a new movie this evening.",
-  "russian_example_sentence": "Мы должны посмотреть новый фильм сегодня вечером.",
-  "turkish_example_sentence": "Biz bu akşam yeni bir film görmeliyiz.",
-  "turkish_example_sentence_with_blank": "Biz bu akşam yeni bir film ______."
+  "english_example_sentence": "We need to see the results.",
+  "russian_example_sentence": "Нам нужно увидеть результаты.",
+  "turkish_example_sentence": "Sonuçları görmemiz gerekir.",
+  "turkish_example_sentence_with_blank": "Sonuçları ______."
 }

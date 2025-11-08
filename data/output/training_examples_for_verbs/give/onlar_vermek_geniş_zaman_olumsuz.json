@@ -4,17 +4,17 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "vermezler",
+    "verb_full": "vermem",
     "root": "ver",
-    "tense_affix": "z",
+    "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "ler",
+    "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "Little children do not give their old toys to anyone.",
-  "russian_example_sentence": "Маленькие дети никому не дают свои старые игрушки.",
-  "turkish_example_sentence": "Küçük çocuklar eski oyuncakları kimseye vermezler.",
-  "turkish_example_sentence_with_blank": "Küçük çocuklar eski oyuncakları kimseye ______."
+  "english_example_sentence": "They do not give the children candy.",
+  "russian_example_sentence": "Они не дают детям конфеты.",
+  "turkish_example_sentence": "Çocuklara şeker **vermem**.",
+  "turkish_example_sentence_with_blank": "Çocuklara şeker **______**."
 }

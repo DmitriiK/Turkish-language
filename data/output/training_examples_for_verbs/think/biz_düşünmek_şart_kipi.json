@@ -4,17 +4,17 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünsek",
+    "verb_full": "düşünürsek",
     "root": "düşün",
-    "tense_affix": "se",
+    "tense_affix": "ür",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "sek",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we think about this important decision, we will find a good solution.",
-  "russian_example_sentence": "Если мы подумаем об этом важном решении, мы найдем хорошее решение.",
-  "turkish_example_sentence": "Bu önemli kararı düşünsek, iyi bir çözüm buluruz.",
-  "turkish_example_sentence_with_blank": "Bu önemli kararı ______, iyi bir çözüm buluruz."
+  "english_example_sentence": "If we think positively, we can succeed.",
+  "russian_example_sentence": "Если мы будем думать позитивно, мы сможем добиться успеха.",
+  "turkish_example_sentence": "Olumlu düşünürsek, başarılı olabiliriz.",
+  "turkish_example_sentence_with_blank": "Olumlu ______, başarılı olabiliriz."
 }

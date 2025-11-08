@@ -4,17 +4,17 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulmazsınız",
+    "verb_full": "bulmam",
     "root": "bul",
     "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "sınız",
+    "personal_affix": "m",
     "polarity": "negative",
-    "negative_affix": "maz"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "You do not find old books in this library.",
-  "russian_example_sentence": "Вы не находите старые книги в этой библиотеке.",
-  "turkish_example_sentence": "Siz, bu kütüphanede eski kitapları bulmazsınız.",
-  "turkish_example_sentence_with_blank": "Siz, bu kütüphanede eski kitapları ______."
+  "english_example_sentence": "You do not find the book.",
+  "russian_example_sentence": "Вы не находите книгу.",
+  "turkish_example_sentence": "Siz bu kitabı bulmam.",
+  "turkish_example_sentence_with_blank": "Siz bu kitabı ______."
 }

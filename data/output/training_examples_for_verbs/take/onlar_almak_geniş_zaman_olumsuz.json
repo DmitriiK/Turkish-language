@@ -4,17 +4,17 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almazlar",
+    "verb_full": "almıyorlar",
     "root": "al",
-    "tense_affix": "z",
+    "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "mı"
   },
-  "english_example_sentence": "Experienced employees don't take unnecessary risks.",
-  "russian_example_sentence": "Опытные сотрудники не рискуют без необходимости.",
-  "turkish_example_sentence": "Tecrübeli çalışanlar gereksiz riskler almazlar.",
-  "turkish_example_sentence_with_blank": "Tecrübeli çalışanlar gereksiz riskler ______."
+  "english_example_sentence": "The students are not taking the exam.",
+  "russian_example_sentence": "Студенты не сдают экзамен.",
+  "turkish_example_sentence": "Öğrenciler sınavı **almıyorlar**.",
+  "turkish_example_sentence_with_blank": "Öğrenciler sınavı **______**."
 }

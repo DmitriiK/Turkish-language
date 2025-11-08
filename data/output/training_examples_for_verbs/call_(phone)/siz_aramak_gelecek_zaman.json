@@ -4,17 +4,17 @@
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "arayacaksınız",
+    "verb_full": "aracağım",
     "root": "ara",
-    "tense_affix": "yacak",
+    "tense_affix": "ca",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "sınız",
+    "personal_affix": "ız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You will call your important friend tomorrow.",
-  "russian_example_sentence": "Вы позвоните своему важному другу завтра.",
-  "turkish_example_sentence": "Siz yarın önemli bir arkadaşınızı arayacaksınız.",
-  "turkish_example_sentence_with_blank": "Siz yarın önemli bir arkadaşınızı ______."
+  "english_example_sentence": "You will call me tomorrow.",
+  "russian_example_sentence": "Ты позвонишь мне завтра.",
+  "turkish_example_sentence": "Siz yarın benimle **aracaksınız**.",
+  "turkish_example_sentence_with_blank": "Siz yarın benimle **aracaksınız**."
 }

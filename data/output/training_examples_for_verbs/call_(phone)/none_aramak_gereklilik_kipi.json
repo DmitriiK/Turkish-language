@@ -4,17 +4,17 @@
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "aramalı",
+    "verb_full": "aramalıyım",
     "root": "ara",
     "tense_affix": "malı",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": null,
-    "personal_affix": "",
+    "personal_affix": "yım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The student should call about an important topic.",
-  "russian_example_sentence": "Студент должен позвонить по важному вопросу.",
-  "turkish_example_sentence": "Öğrenci önemli bir konuyu aramalı.",
-  "turkish_example_sentence_with_blank": "Öğrenci önemli bir konuyu ______."
+  "english_example_sentence": "I should call my friend tomorrow.",
+  "russian_example_sentence": "Я должен позвонить своему другу завтра.",
+  "turkish_example_sentence": "Yarın arkadaşıma **aramalıyım**.",
+  "turkish_example_sentence_with_blank": "Yarın arkadaşıma **______**."
 }

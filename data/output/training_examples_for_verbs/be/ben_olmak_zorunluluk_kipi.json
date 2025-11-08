@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "olmalıyım",
     "root": "ol",
-    "tense_affix": "malıy",
+    "tense_affix": "malı",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "ım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I must be happy today.",
-  "russian_example_sentence": "Я должен быть счастлив сегодня.",
-  "turkish_example_sentence": "Ben bugün mutlu olmalıyım.",
-  "turkish_example_sentence_with_blank": "Ben bugün mutlu ______."
+  "english_example_sentence": "I must be happy.",
+  "russian_example_sentence": "Я должен быть счастливым.",
+  "turkish_example_sentence": "Ben bu durumda mutlu olmalıyım.",
+  "turkish_example_sentence_with_blank": "Ben bu durumda mutlu ______."
 }

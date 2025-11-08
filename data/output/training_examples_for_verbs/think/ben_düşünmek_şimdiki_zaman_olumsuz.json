@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "düşünmüyorum",
     "root": "düşün",
-    "tense_affix": "yor",
+    "tense_affix": "üyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "um",
     "polarity": "negative",
     "negative_affix": "mü"
   },
-  "english_example_sentence": "I am not thinking about this challenging problem and its solution right now.",
-  "russian_example_sentence": "Я сейчас не думаю об этой сложной проблеме и её решении.",
-  "turkish_example_sentence": "Ben bu zorlu problemi ve çözümünü şimdi düşünmüyorum.",
-  "turkish_example_sentence_with_blank": "Ben bu zorlu problemi ve çözümünü şimdi ______."
+  "english_example_sentence": "I am not thinking about the future.",
+  "russian_example_sentence": "Я не думаю о будущем.",
+  "turkish_example_sentence": "Ben geleceği düşünmüyorum.",
+  "turkish_example_sentence_with_blank": "Ben geleceği ______."
 }

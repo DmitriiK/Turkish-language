@@ -4,17 +4,17 @@
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmam",
+    "verb_full": "olmuyor",
     "root": "ol",
     "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "m",
+    "personal_affix": "u",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "The student is not happy today.",
-  "russian_example_sentence": "Студент сегодня не счастлив.",
-  "turkish_example_sentence": "Öğrenci bugün mutlu olmam.",
-  "turkish_example_sentence_with_blank": "Öğrenci bugün mutlu **______**."
+  "english_example_sentence": "The cat is not a good pet.",
+  "russian_example_sentence": "Кошка не хороший питомец.",
+  "turkish_example_sentence": "Kedi iyi bir evcil hayvan **olmuyor**.",
+  "turkish_example_sentence_with_blank": "Kedi iyi bir evcil hayvan **______**."
 }

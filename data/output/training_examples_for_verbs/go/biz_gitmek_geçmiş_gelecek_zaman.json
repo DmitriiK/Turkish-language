@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gidecektik",
+    "verb_full": "gitmişiz",
     "root": "git",
-    "tense_affix": "ecekti",
+    "tense_affix": "miş",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We were going to go to that beautiful forested area yesterday.",
-  "russian_example_sentence": "Мы вчера собирались пойти в ту красивую лесную зону.",
-  "turkish_example_sentence": "Biz dün o güzel ormanlık alana gidecektik.",
-  "turkish_example_sentence_with_blank": "Biz dün o güzel ormanlık alana ______."
+  "english_example_sentence": "We have gone to the market today.",
+  "russian_example_sentence": "Мы пошли на рынок сегодня.",
+  "turkish_example_sentence": "Biz bugün pazara gitmişiz.",
+  "turkish_example_sentence_with_blank": "Biz bugün pazara ______."
 }

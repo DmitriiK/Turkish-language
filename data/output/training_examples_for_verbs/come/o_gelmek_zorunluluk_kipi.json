@@ -4,17 +4,17 @@
   "verb_russian": "приходить",
   "verb_infinitive": "gelmek",
   "turkish_verb": {
-    "verb_full": "gelmeli",
+    "verb_full": "gelmelidir",
     "root": "gel",
-    "tense_affix": "meli",
+    "tense_affix": "melidir",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "dir",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The diligent student must come to school early.",
-  "russian_example_sentence": "Трудолюбивый ученик должен прийти в школу рано.",
-  "turkish_example_sentence": "Çalışkan öğrenci okula erken gelmeli.",
-  "turkish_example_sentence_with_blank": "Çalışkan öğrenci okula erken ______."
+  "english_example_sentence": "He must come to the meeting.",
+  "russian_example_sentence": "Он должен прийти на встречу.",
+  "turkish_example_sentence": "İş adamı toplantıya gelmelidir.",
+  "turkish_example_sentence_with_blank": "İş adamı toplantıya ______."
 }

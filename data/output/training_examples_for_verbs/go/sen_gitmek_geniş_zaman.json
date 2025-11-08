@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gidersin",
+    "verb_full": "gidiyorsun",
     "root": "git",
-    "tense_affix": "er",
+    "tense_affix": "iyor",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "sin",
+    "personal_affix": "sun",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You go to a new city every week.",
-  "russian_example_sentence": "Ты каждую неделю ездишь в новый город.",
-  "turkish_example_sentence": "Sen her hafta yeni bir şehre gidersin.",
-  "turkish_example_sentence_with_blank": "Sen her hafta yeni bir şehre ______."
+  "english_example_sentence": "You go to the market every week.",
+  "russian_example_sentence": "Ты идёшь на рынок каждую неделю.",
+  "turkish_example_sentence": "Sen her hafta markete gidiyorsun.",
+  "turkish_example_sentence_with_blank": "Sen her hafta markete ______."
 }

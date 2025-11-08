@@ -4,17 +4,17 @@
   "verb_russian": "использовать",
   "verb_infinitive": "kullanmak",
   "turkish_verb": {
-    "verb_full": "kullanasınız",
+    "verb_full": "kullanıyorsunuz",
     "root": "kullan",
-    "tense_affix": "a",
+    "tense_affix": "ıyor",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "sınız",
+    "personal_affix": "sunuz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I hope you use this new software efficiently in your work.",
-  "russian_example_sentence": "Надеюсь, вы эффективно используете это новое программное обеспечение в своей работе.",
-  "turkish_example_sentence": "Umarım bu yeni yazılımı işinizde verimli kullanasınız.",
-  "turkish_example_sentence_with_blank": "Umarım bu yeni yazılımı işinizde verimli ______."
+  "english_example_sentence": "You are using this application.",
+  "russian_example_sentence": "Вы используете это приложение.",
+  "turkish_example_sentence": "Bu uygulamayı **kullanıyorsunuz**.",
+  "turkish_example_sentence_with_blank": "Bu uygulamayı **______**."
 }

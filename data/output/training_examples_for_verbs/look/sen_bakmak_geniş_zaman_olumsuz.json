@@ -4,17 +4,17 @@
   "verb_russian": "смотреть",
   "verb_infinitive": "bakmak",
   "turkish_verb": {
-    "verb_full": "bakmazsın",
+    "verb_full": "bakmam",
     "root": "bak",
-    "tense_affix": "z",
+    "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "sın",
+    "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You don't look at the old man's face.",
-  "russian_example_sentence": "Ты не смотришь на лицо старого мужчины.",
-  "turkish_example_sentence": "Yaşlı adamın yüzüne bakmazsın.",
-  "turkish_example_sentence_with_blank": "Yaşlı adamın yüzüne ______."
+  "english_example_sentence": "You do not look happy today.",
+  "russian_example_sentence": "Ты не выглядишь сегодня счастливым.",
+  "turkish_example_sentence": "Sen bugün mutlu **bakmam**.",
+  "turkish_example_sentence_with_blank": "Sen bugün mutlu **______**."
 }

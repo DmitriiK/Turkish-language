@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmezler",
+    "verb_full": "gitmiyorlar",
     "root": "git",
     "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "ler",
+    "personal_affix": "lar",
     "polarity": "negative",
-    "negative_affix": "mez"
+    "negative_affix": "mi"
   },
-  "english_example_sentence": "The old students don't go to that school.",
-  "russian_example_sentence": "Пожилые студенты не ходят в ту школу.",
-  "turkish_example_sentence": "Yaşlı öğrenciler o okula gitmezler.",
-  "turkish_example_sentence_with_blank": "Yaşlı öğrenciler o okula ______."
+  "english_example_sentence": "They do not go to school.",
+  "russian_example_sentence": "Они не идут в школу.",
+  "turkish_example_sentence": "Öğrenciler okula gitmiyorlar.",
+  "turkish_example_sentence_with_blank": "Öğrenciler okula ______."
 }

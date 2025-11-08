@@ -4,17 +4,17 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilin",
+    "verb_full": "biliyorlar",
     "root": "bil",
-    "tense_affix": "in",
+    "tense_affix": "iyor",
     "verb_tense": "emir_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They know the answer well.",
-  "russian_example_sentence": "Они хорошо знают ответ.",
-  "turkish_example_sentence": "Öğrenciler doğru cevabı iyi bilirler.",
-  "turkish_example_sentence_with_blank": "Öğrenciler doğru cevabı iyi bilirler."
+  "english_example_sentence": "They know the answer to the question.",
+  "russian_example_sentence": "Они знают ответ на вопрос.",
+  "turkish_example_sentence": "Öğrenciler sorunun cevabını biliyorlar.",
+  "turkish_example_sentence_with_blank": "Öğrenciler sorunun cevabını ______."
 }

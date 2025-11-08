@@ -1,0 +1,20 @@
+{
+  "verb_rank": 9,
+  "verb_english": "think",
+  "verb_russian": "думать",
+  "verb_infinitive": "düşünmek",
+  "turkish_verb": {
+    "verb_full": "düşünürse",
+    "root": "düşün",
+    "tense_affix": "ürse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": "e",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "He thinks about the important problem.",
+  "russian_example_sentence": "Он думает об важной проблеме.",
+  "turkish_example_sentence": "Ali önemli bir sorunu düşünürse.",
+  "turkish_example_sentence_with_blank": "Ali önemli bir sorunu ______."
+}

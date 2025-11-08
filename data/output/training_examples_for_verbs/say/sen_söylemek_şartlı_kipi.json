@@ -4,17 +4,17 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylesen",
+    "verb_full": "söyleyeceksin",
     "root": "söyle",
-    "tense_affix": "se",
+    "tense_affix": "yecek",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you tell your friend this important news, he would also be happy.",
-  "russian_example_sentence": "Если ты скажешь своему другу эту важную новость, он тоже обрадуется.",
-  "turkish_example_sentence": "Eğer arkadaşına bu önemli haberi söylesen, o da sevinir.",
-  "turkish_example_sentence_with_blank": "Eğer arkadaşına bu önemli haberi ______, o da sevinir."
+  "english_example_sentence": "You will say the truth.",
+  "russian_example_sentence": "Ты скажешь правду.",
+  "turkish_example_sentence": "Sen doğruyu söyleyeceksin.",
+  "turkish_example_sentence_with_blank": "Sen doğruyu ______."
 }

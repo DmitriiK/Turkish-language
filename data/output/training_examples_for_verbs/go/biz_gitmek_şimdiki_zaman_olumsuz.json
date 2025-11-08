@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gitmiyoruz",
     "root": "git",
-    "tense_affix": "yor",
+    "tense_affix": "iyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "uz",
     "polarity": "negative",
-    "negative_affix": "mi"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "We are not going to the party tonight.",
-  "russian_example_sentence": "Мы не идем на вечеринку сегодня вечером.",
-  "turkish_example_sentence": "Biz bu akşam partiye gitmiyoruz.",
-  "turkish_example_sentence_with_blank": "Biz bu akşam partiye ______."
+  "english_example_sentence": "We are not going to the park.",
+  "russian_example_sentence": "Мы не идем в парк.",
+  "turkish_example_sentence": "Biz parka gitmiyoruz.",
+  "turkish_example_sentence_with_blank": "Biz parka ______."
 }

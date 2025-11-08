@@ -4,17 +4,17 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "alsanız",
+    "verb_full": "alacaksınız",
     "root": "al",
-    "tense_affix": "sa",
+    "tense_affix": "acak",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "ınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you take this interesting book, you will learn new information.",
-  "russian_example_sentence": "Если вы возьмёте эту интересную книгу, вы узнаете новую информацию.",
-  "turkish_example_sentence": "Eğer bu ilginç kitabı alsanız, yeni bilgiler öğrenirsiniz.",
-  "turkish_example_sentence_with_blank": "Eğer bu ilginç kitabı ______, yeni bilgiler öğrenirsiniz."
+  "english_example_sentence": "You will take the important book tomorrow.",
+  "russian_example_sentence": "Вы возьмете важную книгу завтра.",
+  "turkish_example_sentence": "Siz yarın önemli kitabı alacaksınız.",
+  "turkish_example_sentence_with_blank": "Siz yarın önemli kitabı ______."
 }

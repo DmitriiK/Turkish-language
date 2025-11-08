@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "vermelisin",
     "root": "ver",
-    "tense_affix": "meli",
+    "tense_affix": "mel",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You must give the important homework to the teacher regularly.",
-  "russian_example_sentence": "Ты должен регулярно сдавать важное домашнее задание учителю.",
-  "turkish_example_sentence": "Önemli ödevi öğretmene düzenli vermeli̇sin.",
-  "turkish_example_sentence_with_blank": "Önemli ödevi öğretmene düzenli vermeli̇sin."
+  "english_example_sentence": "You must give the book to the teacher.",
+  "russian_example_sentence": "Ты должен дать книгу учителю.",
+  "turkish_example_sentence": "Sen öğretmene kitabı vermelisin.",
+  "turkish_example_sentence_with_blank": "Sen öğretmene kitabı ______."
 }

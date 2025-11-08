@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitsin",
+    "verb_full": "gitmekte",
     "root": "git",
-    "tense_affix": "",
+    "tense_affix": "mekte",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "sin",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The little child should go to the park.",
-  "russian_example_sentence": "Маленький ребенок должен пойти в парк.",
-  "turkish_example_sentence": "Küçük çocuk parka gitsin.",
-  "turkish_example_sentence_with_blank": "Küçük çocuk parka ______."
+  "english_example_sentence": "He wants to go to the cinema.",
+  "russian_example_sentence": "Он хочет пойти в кино.",
+  "turkish_example_sentence": "O sinemaya gitmekte.",
+  "turkish_example_sentence_with_blank": "O sinemaya ______."
 }

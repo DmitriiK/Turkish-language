@@ -4,17 +4,17 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatmalılar",
+    "verb_full": "anlatmaları",
     "root": "anlat",
-    "tense_affix": "malı",
+    "tense_affix": "ma",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "ları",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They must tell the new story beautifully to the children.",
-  "russian_example_sentence": "Они должны красиво рассказать новую историю детям.",
-  "turkish_example_sentence": "Yeni hikayeyi çocuklara güzel anlatmalılar.",
-  "turkish_example_sentence_with_blank": "Yeni hikayeyi çocuklara güzel ______."
+  "english_example_sentence": "They must tell the story clearly.",
+  "russian_example_sentence": "Они должны рассказать историю ясно.",
+  "turkish_example_sentence": "Çocuklar hikayeyi net bir şekilde anlatmaları gerekir.",
+  "turkish_example_sentence_with_blank": "Çocuklar hikayeyi net bir şekilde ______ gerekir."
 }

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gitti",
     "root": "git",
-    "tense_affix": "ti",
+    "tense_affix": "di",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The little child went to the park.",
-  "russian_example_sentence": "Маленький ребенок пошел в парк.",
-  "turkish_example_sentence": "Küçük çocuk parka gitti.",
-  "turkish_example_sentence_with_blank": "Küçük çocuk parka ______."
+  "english_example_sentence": "The teacher went to the classroom.",
+  "russian_example_sentence": "Учитель пошел в класс.",
+  "turkish_example_sentence": "Öğretmen sınıfa gitti.",
+  "turkish_example_sentence_with_blank": "Öğretmen sınıfa ______."
 }

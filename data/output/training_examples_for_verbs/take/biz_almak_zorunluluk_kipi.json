@@ -4,17 +4,17 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almalıyız",
+    "verb_full": "alacağız",
     "root": "al",
-    "tense_affix": "malı",
+    "tense_affix": "aç",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "yız",
+    "personal_affix": "ız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We must adopt a new strategy for the company.",
-  "russian_example_sentence": "Мы должны принять новую стратегию для компании.",
-  "turkish_example_sentence": "Biz, şirket için yeni bir strateji almalıyız.",
-  "turkish_example_sentence_with_blank": "Biz, şirket için yeni bir strateji ______."
+  "english_example_sentence": "We will take the documents tomorrow.",
+  "russian_example_sentence": "Мы возьмем документы завтра.",
+  "turkish_example_sentence": "Biz yarın belgeleri **alacağız**.",
+  "turkish_example_sentence_with_blank": "Biz yarın belgeleri **______**."
 }

@@ -4,17 +4,17 @@
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "ararsınız",
+    "verb_full": "aramazsanız",
     "root": "ara",
-    "tense_affix": "sınız",
+    "tense_affix": "maz",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "sınız",
+    "personal_affix": "nız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You will call the teacher tomorrow.",
-  "russian_example_sentence": "Вы позвоните учителю завтра.",
-  "turkish_example_sentence": "Öğrenciler yarın öğretmene ararsınız.",
-  "turkish_example_sentence_with_blank": "Öğrenciler yarın öğretmene ______."
+  "english_example_sentence": "If you don't call me, I will be sad.",
+  "russian_example_sentence": "Если вы не позвоните мне, я буду грустить.",
+  "turkish_example_sentence": "Eğer bana **aramazsanız**, üzgün olacağım.",
+  "turkish_example_sentence_with_blank": "Eğer bana **______**, üzgün olacağım."
 }

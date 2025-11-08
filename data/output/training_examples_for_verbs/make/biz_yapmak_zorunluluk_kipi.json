@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "yapmalıyız",
     "root": "yap",
-    "tense_affix": "malı",
+    "tense_affix": "malıyız",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "yız",
+    "personal_affix": "ız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "As a team, we must do this big project on time.",
-  "russian_example_sentence": "Как команда, мы должны выполнить этот большой проект вовремя.",
-  "turkish_example_sentence": "Takım olarak bu büyük projeyi zamanında yapmalıyız.",
-  "turkish_example_sentence_with_blank": "Takım olarak bu büyük projeyi zamanında ______."
+  "english_example_sentence": "We must make the project successful.",
+  "russian_example_sentence": "Мы должны сделать проект успешным.",
+  "turkish_example_sentence": "Projeyi başarılı bir şekilde yapmalıyız.",
+  "turkish_example_sentence_with_blank": "Projeyi başarılı bir şekilde ______."
 }

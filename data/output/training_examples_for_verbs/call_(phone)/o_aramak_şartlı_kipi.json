@@ -4,17 +4,17 @@
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "arasa",
+    "verb_full": "aradı",
     "root": "ara",
-    "tense_affix": "sa",
+    "tense_affix": "dı",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "dır",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If he/she receives important news, he/she should call his/her friend immediately.",
-  "russian_example_sentence": "Если он/она получит важные новости, он/она должен/должна немедленно позвонить своему другу.",
-  "turkish_example_sentence": "Eğer önemli bir haber alsa, arkadaşını hemen arasa.",
-  "turkish_example_sentence_with_blank": "Eğer önemli bir haber alsa, arkadaşını hemen ______."
+  "english_example_sentence": "He calls his friend every day.",
+  "russian_example_sentence": "Он звонит своему другу каждый день.",
+  "turkish_example_sentence": "O, her gün arkadaşına aradı.",
+  "turkish_example_sentence_with_blank": "O, her gün arkadaşına ______."
 }

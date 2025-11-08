@@ -4,17 +4,17 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "alalım",
+    "verb_full": "alıyoruz",
     "root": "al",
-    "tense_affix": "a",
+    "tense_affix": "ıyor",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "lım",
+    "personal_affix": "uz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Let's buy beautiful curtains for a new house.",
-  "russian_example_sentence": "Давайте купим красивые шторы для нового дома.",
-  "turkish_example_sentence": "Biz yeni bir eve güzel perdeler alalım.",
-  "turkish_example_sentence_with_blank": "Biz yeni bir eve güzel perdeler ______."
+  "english_example_sentence": "We are taking a beautiful picture.",
+  "russian_example_sentence": "Мы делаем красивую фотографию.",
+  "turkish_example_sentence": "Biz güzel bir resim **alıyoruz**.",
+  "turkish_example_sentence_with_blank": "Biz güzel bir resim **______**."
 }

@@ -4,17 +4,17 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "ala",
+    "verb_full": "alıyor",
     "root": "al",
-    "tense_affix": "a",
+    "tense_affix": "ıyor",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "u",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "May the little child take a new toy from his mother.",
-  "russian_example_sentence": "Пусть маленький ребенок возьмет новую игрушку у своей матери.",
-  "turkish_example_sentence": "Küçük çocuk, annesinden yeni bir oyuncak ala.",
-  "turkish_example_sentence_with_blank": "Küçük çocuk, annesinden yeni bir oyuncak ______."
+  "english_example_sentence": "The teacher is taking notes in class.",
+  "russian_example_sentence": "Учитель делает заметки в классе.",
+  "turkish_example_sentence": "Öğretmen sınıfta notlar alıyor.",
+  "turkish_example_sentence_with_blank": "Öğretmen sınıfta notlar ______."
 }

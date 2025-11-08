@@ -4,17 +4,17 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulsam",
+    "verb_full": "bulursam",
     "root": "bul",
-    "tense_affix": "sa",
+    "tense_affix": "ur",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "sam",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I find my old book, my mother would be happy.",
-  "russian_example_sentence": "Если бы я нашел свою старую книгу, моя мама обрадовалась бы.",
-  "turkish_example_sentence": "Eğer eski kitabımı bulsam, annem sevinir.",
-  "turkish_example_sentence_with_blank": "Eğer eski kitabımı ______, annem sevinir."
+  "english_example_sentence": "I will find the lost book tomorrow.",
+  "russian_example_sentence": "Я найду потерянную книгу завтра.",
+  "turkish_example_sentence": "Yarın kaybolan kitabı bulursam.",
+  "turkish_example_sentence_with_blank": "Yarın kaybolan kitabı ______."
 }

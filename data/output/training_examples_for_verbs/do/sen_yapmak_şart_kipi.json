@@ -4,17 +4,17 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapsaydın",
+    "verb_full": "yapıyorsun",
     "root": "yap",
-    "tense_affix": "saydı",
+    "tense_affix": "ıyor",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "sun",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You should have done it.",
-  "russian_example_sentence": "Тебе следовало бы это сделать.",
-  "turkish_example_sentence": "O ödevi dikkatlice yapsaydın keşke.",
-  "turkish_example_sentence_with_blank": "O ödevi dikkatlice ______ keşke."
+  "english_example_sentence": "You are doing a great job",
+  "russian_example_sentence": "Ты делаешь отличную работу",
+  "turkish_example_sentence": "Sen harika bir iş yapıyorsun",
+  "turkish_example_sentence_with_blank": "Sen harika bir iş ______"
 }

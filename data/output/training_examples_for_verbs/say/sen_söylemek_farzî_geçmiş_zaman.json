@@ -4,17 +4,17 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylemişsin",
+    "verb_full": "söyledin",
     "root": "söyle",
-    "tense_affix": "miş",
+    "tense_affix": "di",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "sin",
+    "personal_affix": "din",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You must have told this beautiful story to your friend.",
-  "russian_example_sentence": "Ты, должно быть, рассказал эту красивую историю своему другу.",
-  "turkish_example_sentence": "Sen bu güzel hikayeyi arkadaşına söylemişsin.",
-  "turkish_example_sentence_with_blank": "Sen bu güzel hikayeyi arkadaşına ______."
+  "english_example_sentence": "You said a good thing.",
+  "russian_example_sentence": "Ты сказал хорошую вещь.",
+  "turkish_example_sentence": "Sen güzel bir şey söyledin.",
+  "turkish_example_sentence_with_blank": "Sen güzel bir şey ______."
 }

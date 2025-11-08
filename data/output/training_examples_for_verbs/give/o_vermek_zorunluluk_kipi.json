@@ -4,17 +4,17 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "vermeli",
+    "verb_full": "veriyor",
     "root": "ver",
-    "tense_affix": "meli",
+    "tense_affix": "iyor",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "u",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He/She must give the old book to the student.",
-  "russian_example_sentence": "Он/Она должен/должна отдать старую книгу студенту.",
-  "turkish_example_sentence": "Öğrenciye eski kitabı vermeli.",
-  "turkish_example_sentence_with_blank": "Öğrenciye eski kitabı ______."
+  "english_example_sentence": "He gives an important presentation to the team.",
+  "russian_example_sentence": "Он дает важную презентацию команде.",
+  "turkish_example_sentence": "O, takıma önemli bir sunum veriyor.",
+  "turkish_example_sentence_with_blank": "O, takıma önemli bir sunum ______."
 }

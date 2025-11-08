@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gidecekti",
+    "verb_full": "gittiği",
     "root": "git",
-    "tense_affix": "ecekti",
+    "tense_affix": "ti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "ği",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The little child was going to go to the park tomorrow.",
-  "russian_example_sentence": "Маленький ребенок собирался пойти в парк завтра.",
-  "turkish_example_sentence": "Küçük çocuk, yarın parka gidecekti.",
-  "turkish_example_sentence_with_blank": "Küçük çocuk, yarın parka ______."
+  "english_example_sentence": "He went to the park yesterday.",
+  "russian_example_sentence": "Он пошел в парк вчера.",
+  "turkish_example_sentence": "O dün parka gittiği.",
+  "turkish_example_sentence_with_blank": "O dün parka ______."
 }

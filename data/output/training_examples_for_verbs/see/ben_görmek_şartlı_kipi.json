@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "görsem",
     "root": "gör",
-    "tense_affix": "se",
+    "tense_affix": "sem",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I see this beautiful view, I would immediately take a photo.",
-  "russian_example_sentence": "Если бы я увидел этот красивый вид, я бы сразу сфотографировал.",
-  "turkish_example_sentence": "Ben bu güzel manzarayı görsem, hemen fotoğraf çekerim.",
-  "turkish_example_sentence_with_blank": "Ben bu güzel manzarayı ______, hemen fotoğraf çekerim."
+  "english_example_sentence": "If I see the beautiful flowers, I will be happy.",
+  "russian_example_sentence": "Если я увижу красивые цветы, я буду счастлив.",
+  "turkish_example_sentence": "Güzel çiçekleri **görsem**, mutlu olurum.",
+  "turkish_example_sentence_with_blank": "Güzel çiçekleri **______**, mutlu olurum."
 }

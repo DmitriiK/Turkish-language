@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "düşünmeyeceksiniz",
     "root": "düşün",
-    "tense_affix": "yecek",
+    "tense_affix": "yacak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "siniz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "Dear teachers, you will not think about this important topic one more time.",
-  "russian_example_sentence": "Дорогие учителя, вы не будете думать об этой важной теме еще раз.",
-  "turkish_example_sentence": "Değerli öğretmenler, bu önemli konuyu bir kez daha düşünmeyeceksiniz.",
-  "turkish_example_sentence_with_blank": "Değerli öğretmenler, bu önemli konuyu bir kez daha ______."
+  "english_example_sentence": "You will not think about the project.",
+  "russian_example_sentence": "Вы не будете думать о проекте.",
+  "turkish_example_sentence": "Siz projeyi düşünmeyeceksiniz.",
+  "turkish_example_sentence_with_blank": "Siz projeyi ______."
 }

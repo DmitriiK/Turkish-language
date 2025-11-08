@@ -4,17 +4,17 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulursan",
+    "verb_full": "buluyorsun",
     "root": "bul",
-    "tense_affix": "ur",
+    "tense_affix": "uyor",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "sın",
+    "personal_affix": "sun",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you find my book, let me know.",
-  "russian_example_sentence": "Если ты найдёшь мою книгу, сообщи мне.",
-  "turkish_example_sentence": "Sen benim kitabımı bulursan, bana haber ver.",
-  "turkish_example_sentence_with_blank": "Sen benim kitabımı ______, bana haber ver."
+  "english_example_sentence": "You are finding the lost keys.",
+  "russian_example_sentence": "Ты находишь потерянные ключи.",
+  "turkish_example_sentence": "Sen kaybolan anahtarları buluyorsun.",
+  "turkish_example_sentence_with_blank": "Sen kaybolan anahtarları ______."
 }

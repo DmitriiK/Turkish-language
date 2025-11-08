@@ -5,16 +5,16 @@
   "verb_infinitive": "istemek",
   "turkish_verb": {
     "verb_full": "istemeyeceksiniz",
-    "root": "iste",
-    "tense_affix": "yecek",
+    "root": "istemek",
+    "tense_affix": "ecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "siniz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You will not want this old computer in the office.",
-  "russian_example_sentence": "Вы не захотите этот старый компьютер в офисе.",
-  "turkish_example_sentence": "Siz bu eski bilgisayarı ofiste istemeyeceksiniz.",
-  "turkish_example_sentence_with_blank": "Siz bu eski bilgisayarı ofiste ______."
+  "english_example_sentence": "You will not want that book.",
+  "russian_example_sentence": "Вы не хотите эту книгу.",
+  "turkish_example_sentence": "Siz o kitabı istemeyeceksiniz.",
+  "turkish_example_sentence_with_blank": "Siz o kitabı ______."
 }

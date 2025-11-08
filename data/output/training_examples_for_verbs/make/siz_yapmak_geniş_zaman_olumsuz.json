@@ -4,17 +4,17 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmazsınız",
+    "verb_full": "yapmam",
     "root": "yap",
     "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "sınız",
+    "personal_affix": "m",
     "polarity": "negative",
-    "negative_affix": "maz"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "You do not make this important report on time.",
-  "russian_example_sentence": "Вы не делаете этот важный отчёт вовремя.",
-  "turkish_example_sentence": "Siz bu önemli raporu zamanında yapmazsınız.",
-  "turkish_example_sentence_with_blank": "Siz bu önemli raporu zamanında ______."
+  "english_example_sentence": "You do not make mistakes.",
+  "russian_example_sentence": "Вы не совершаете ошибок.",
+  "turkish_example_sentence": "Siz bu yıl hatalar yapmam.",
+  "turkish_example_sentence_with_blank": "Siz bu yıl hatalar ______."
 }

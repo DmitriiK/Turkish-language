@@ -4,17 +4,17 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olabilirim",
+    "verb_full": "sahip olursa",
     "root": "sahip ol",
-    "tense_affix": "abilirim",
+    "tense_affix": "ursa",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "ir",
+    "personal_affix": "(none)",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "She can have a nice car.",
-  "russian_example_sentence": "Она может иметь хорошую машину.",
-  "turkish_example_sentence": "O güzel bir arabaya sahip olabilirim.",
-  "turkish_example_sentence_with_blank": "O güzel bir arabaya ______."
+  "english_example_sentence": "He will have a new car.",
+  "russian_example_sentence": "У него будет новая машина.",
+  "turkish_example_sentence": "O yeni bir arabaya sahip olursa.",
+  "turkish_example_sentence_with_blank": "O yeni bir arabaya ______."
 }

@@ -4,17 +4,17 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulayım",
+    "verb_full": "buluyorum",
     "root": "bul",
-    "tense_affix": "a",
+    "tense_affix": "uyor",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "yım",
+    "personal_affix": "um",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Let me find my old book in the library.",
-  "russian_example_sentence": "Дай мне найти мою старую книгу в библиотеке.",
-  "turkish_example_sentence": "Ben bu eski kitabımı kütüphanede bulayım.",
-  "turkish_example_sentence_with_blank": "Ben bu eski kitabımı kütüphanede ______."
+  "english_example_sentence": "I am finding my keys at home.",
+  "russian_example_sentence": "Я нахожу свои ключи дома.",
+  "turkish_example_sentence": "Ben evde anahtarlarımı buluyorum.",
+  "turkish_example_sentence_with_blank": "Ben evde anahtarlarımı ______."
 }

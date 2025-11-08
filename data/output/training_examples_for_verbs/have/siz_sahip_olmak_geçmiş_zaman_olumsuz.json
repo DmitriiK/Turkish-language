@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "sahip olmadınız",
     "root": "sahip ol",
-    "tense_affix": "madı",
+    "tense_affix": "du",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You did not have a car.",
-  "russian_example_sentence": "У вас не было машины.",
-  "turkish_example_sentence": "Sizde güzel bir araba sahip olmadınız.",
-  "turkish_example_sentence_with_blank": "Sizde güzel bir araba **______**."
+  "english_example_sentence": "You did not have the necessary tools.",
+  "russian_example_sentence": "У вас не было необходимых инструментов.",
+  "turkish_example_sentence": "Siz gerekli aletlere sahip olmadınız.",
+  "turkish_example_sentence_with_blank": "Siz gerekli aletlere ______."
 }

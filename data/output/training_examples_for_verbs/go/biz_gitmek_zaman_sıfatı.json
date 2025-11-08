@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gittiğimiz",
+    "verb_full": "gidiyoruz",
     "root": "git",
-    "tense_affix": "tiğ",
+    "tense_affix": "iyor",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "biz",
-    "personal_affix": "imiz",
+    "personal_affix": "uz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The restaurant we went to last night was very beautiful.",
-  "russian_example_sentence": "Ресторан, в который мы ходили вчера вечером, был очень красивым.",
-  "turkish_example_sentence": "Dün akşam gittiğimiz restoran çok güzeldi.",
-  "turkish_example_sentence_with_blank": "Dün akşam ______ restoran çok güzeldi."
+  "english_example_sentence": "We are going to the park today",
+  "russian_example_sentence": "Мы идем в парк сегодня",
+  "turkish_example_sentence": "Bugün parka gidiyoruz",
+  "turkish_example_sentence_with_blank": "Bugün parka ______"
 }

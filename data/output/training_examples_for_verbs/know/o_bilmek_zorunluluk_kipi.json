@@ -4,17 +4,17 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilmeli",
+    "verb_full": "bilmelidir",
     "root": "bil",
-    "tense_affix": "meli",
+    "tense_affix": "melidir",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "dir",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The responsible person must know this important detail.",
-  "russian_example_sentence": "Ответственный человек должен знать эту важную деталь.",
-  "turkish_example_sentence": "Sorumlu kişi bu önemli detayı bilmeli.",
-  "turkish_example_sentence_with_blank": "Sorumlu kişi bu önemli detayı ______."
+  "english_example_sentence": "He must know the answer.",
+  "russian_example_sentence": "Он должен знать ответ.",
+  "turkish_example_sentence": "Ali, o cevabı bilmelidir.",
+  "turkish_example_sentence_with_blank": "Ali, o cevabı ______."
 }

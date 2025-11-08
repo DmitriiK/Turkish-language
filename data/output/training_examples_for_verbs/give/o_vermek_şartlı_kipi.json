@@ -4,17 +4,17 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "verse",
+    "verb_full": "verirse",
     "root": "ver",
-    "tense_affix": "se",
+    "tense_affix": "ir",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If the little boy gave him/her help, his/her work would become easier.",
-  "russian_example_sentence": "Если бы маленький мальчик оказал ему/ей помощь, его/её работа стала бы легче.",
-  "turkish_example_sentence": "Küçük oğlan ona yardım verse, işi kolaylaşır.",
-  "turkish_example_sentence_with_blank": "Küçük oğlan ona yardım ______, işi kolaylaşır."
+  "english_example_sentence": "If he gives the book, I will be happy.",
+  "russian_example_sentence": "Если он даст книгу, я буду счастлив.",
+  "turkish_example_sentence": "Eğer o kitap verirse, ben mutlu olacağım.",
+  "turkish_example_sentence_with_blank": "Eğer o kitap ______, ben mutlu olacağım."
 }

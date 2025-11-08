@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "görmüyorsun",
     "root": "gör",
-    "tense_affix": "yor",
+    "tense_affix": "iyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "sun",
     "polarity": "negative",
-    "negative_affix": "mü"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "You are not seeing the small cat in the garden.",
-  "russian_example_sentence": "Ты не видишь маленькую кошку в саду.",
-  "turkish_example_sentence": "Sen küçük kediyi bahçede görmüyorsun.",
-  "turkish_example_sentence_with_blank": "Sen küçük kediyi bahçede ______."
+  "english_example_sentence": "You are not seeing the beautiful flowers.",
+  "russian_example_sentence": "Ты не видишь красивые цветы.",
+  "turkish_example_sentence": "Sen güzel çiçekleri görmüyorsun.",
+  "turkish_example_sentence_with_blank": "Sen güzel çiçekleri ______."
 }

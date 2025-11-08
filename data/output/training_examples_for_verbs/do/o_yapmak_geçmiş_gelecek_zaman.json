@@ -4,17 +4,17 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapacaktı",
+    "verb_full": "yapacak",
     "root": "yap",
-    "tense_affix": "yacak",
+    "tense_affix": "acak",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "tı",
+    "personal_affix": "acak",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The student was going to do homework.",
-  "russian_example_sentence": "Студент собирался делать домашнее задание.",
-  "turkish_example_sentence": "Öğrenci ödevi kesinlikle yapacaktı.",
-  "turkish_example_sentence_with_blank": "Öğrenci ödevi kesinlikle ______."
+  "english_example_sentence": "He will do the project.",
+  "russian_example_sentence": "Он сделает проект.",
+  "turkish_example_sentence": "Ali proje için harika bir plan yapacak.",
+  "turkish_example_sentence_with_blank": "Ali proje için harika bir plan ______."
 }

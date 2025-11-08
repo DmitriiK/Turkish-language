@@ -4,17 +4,17 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almışım",
+    "verb_full": "aldım",
     "root": "al",
-    "tense_affix": "mış",
+    "tense_affix": "dı",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "ım",
+    "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I must have taken that beautiful book from the library yesterday.",
-  "russian_example_sentence": "Я, должно быть, взял ту красивую книгу из библиотеки вчера.",
-  "turkish_example_sentence": "Ben o güzel kitabı dün kütüphaneden almışım.",
-  "turkish_example_sentence_with_blank": "Ben o güzel kitabı dün kütüphaneden ______."
+  "english_example_sentence": "I took my book yesterday.",
+  "russian_example_sentence": "Вчера я взял свою книгу.",
+  "turkish_example_sentence": "Ben dün kitabımı aldım.",
+  "turkish_example_sentence_with_blank": "Ben dün kitabımı ______."
 }

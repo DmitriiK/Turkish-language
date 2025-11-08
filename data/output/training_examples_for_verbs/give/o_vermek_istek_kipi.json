@@ -4,17 +4,17 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "versin",
+    "verb_full": "veriyor",
     "root": "ver",
-    "tense_affix": "sin",
+    "tense_affix": "iyor",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "u",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Let the kind student give the book.",
-  "russian_example_sentence": "Пусть добрый студент даст книгу.",
-  "turkish_example_sentence": "Nazik öğrenci kitabı versin.",
-  "turkish_example_sentence_with_blank": "Nazik öğrenci kitabı ______."
+  "english_example_sentence": "She is giving a beautiful gift.",
+  "russian_example_sentence": "Она дарит красивый подарок.",
+  "turkish_example_sentence": "O güzel bir hediye veriyor.",
+  "turkish_example_sentence_with_blank": "O güzel bir hediye ______."
 }

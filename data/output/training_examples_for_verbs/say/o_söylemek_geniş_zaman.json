@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "söyler",
     "root": "söyle",
-    "tense_affix": "er",
+    "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "r",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "My father always tells the truth.",
-  "russian_example_sentence": "Мой отец всегда говорит правду.",
-  "turkish_example_sentence": "Babam her zaman doğruyu söyler.",
-  "turkish_example_sentence_with_blank": "Babam her zaman doğruyu ______."
+  "english_example_sentence": "He says something interesting.",
+  "russian_example_sentence": "Он говорит что-то интересное.",
+  "turkish_example_sentence": "O her zaman ilginç şeyler söyler.",
+  "turkish_example_sentence_with_blank": "O her zaman ilginç şeyler ______."
 }

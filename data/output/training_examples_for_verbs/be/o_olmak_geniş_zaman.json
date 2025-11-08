@@ -4,17 +4,17 @@
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "o olmaktadır",
+    "verb_full": "oluyor",
     "root": "ol",
-    "tense_affix": "mak",
+    "tense_affix": "uyor",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "u",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "She is happy today.",
-  "russian_example_sentence": "Она счастлива сегодня.",
-  "turkish_example_sentence": "Kız bugün mutlu olmaktadır.",
-  "turkish_example_sentence_with_blank": "Kız bugün mutlu olmaktadır."
+  "english_example_sentence": "My friend is happy.",
+  "russian_example_sentence": "Мой друг счастлив.",
+  "turkish_example_sentence": "Arkadaşım mutlu oluyor.",
+  "turkish_example_sentence_with_blank": "Arkadaşım mutlu ______."
 }

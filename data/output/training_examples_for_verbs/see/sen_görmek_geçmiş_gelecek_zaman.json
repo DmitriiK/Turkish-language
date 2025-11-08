@@ -4,17 +4,17 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görecektin",
+    "verb_full": "görmüşsün",
     "root": "gör",
-    "tense_affix": "ecekti",
+    "tense_affix": "müş",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "sün",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You would have seen more beautiful places back then.",
-  "russian_example_sentence": "Ты увидел бы более красивые места тогда.",
-  "turkish_example_sentence": "Sen o zamanlar daha güzel yerler görecektin.",
-  "turkish_example_sentence_with_blank": "Sen o zamanlar daha güzel yerler ______."
+  "english_example_sentence": "You have seen the beautiful city.",
+  "russian_example_sentence": "Ты увидел красивый город.",
+  "turkish_example_sentence": "Sen güzel şehri görmüşsün.",
+  "turkish_example_sentence_with_blank": "Sen güzel şehri ______."
 }

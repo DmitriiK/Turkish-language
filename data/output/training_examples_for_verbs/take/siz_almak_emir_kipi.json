@@ -4,17 +4,17 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "alın",
+    "verb_full": "alıyorsunuz",
     "root": "al",
-    "tense_affix": "ın",
+    "tense_affix": "ıyor",
     "verb_tense": "emir_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "ın",
+    "personal_affix": "sun",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Please take this book and read it.",
-  "russian_example_sentence": "Пожалуйста, возьмите эту книгу и прочитайте её.",
-  "turkish_example_sentence": "Lütfen bu kitabı alın ve okuyun.",
-  "turkish_example_sentence_with_blank": "Lütfen bu kitabı ______ ve okuyun."
+  "english_example_sentence": "You are taking the important documents.",
+  "russian_example_sentence": "Вы берете важные документы.",
+  "turkish_example_sentence": "Önemli belgeleri alıyorsunuz.",
+  "turkish_example_sentence_with_blank": "Önemli belgeleri ______."
 }

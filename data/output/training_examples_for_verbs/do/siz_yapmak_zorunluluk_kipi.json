@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "yapmalısınız",
     "root": "yap",
-    "tense_affix": "malı",
+    "tense_affix": "mal",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "sınız",
+    "personal_affix": "ınız",
     "polarity": "positive",
     "negative_affix": null
   },
   "english_example_sentence": "You must do your homework.",
-  "russian_example_sentence": "Вы должны сделать домашнее задание.",
-  "turkish_example_sentence": "Siz ödevinizi kesinlikle yapmalısınız.",
-  "turkish_example_sentence_with_blank": "Siz ödevinizi kesinlikle ______."
+  "russian_example_sentence": "Вы должны сделать свою домашнюю работу.",
+  "turkish_example_sentence": "Siz ödevlerinizi yapmalısınız.",
+  "turkish_example_sentence_with_blank": "Siz ödevlerinizi ______."
 }

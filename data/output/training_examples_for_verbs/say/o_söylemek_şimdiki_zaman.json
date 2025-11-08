@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "söylüyor",
     "root": "söyle",
-    "tense_affix": "yor",
+    "tense_affix": "iyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The child is saying something.",
-  "russian_example_sentence": "Ребенок что-то говорит.",
-  "turkish_example_sentence": "Çocuk bir şey söylüyor.",
-  "turkish_example_sentence_with_blank": "Çocuk bir şey ______."
+  "english_example_sentence": "The teacher is saying the correct answer.",
+  "russian_example_sentence": "Учитель говорит правильный ответ.",
+  "turkish_example_sentence": "Öğretmen doğru cevabı söylüyor.",
+  "turkish_example_sentence_with_blank": "Öğretmen doğru cevabı ______."
 }

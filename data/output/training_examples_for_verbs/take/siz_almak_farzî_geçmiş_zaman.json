@@ -4,17 +4,17 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almışsınız",
+    "verb_full": "aldınız",
     "root": "al",
-    "tense_affix": "mış",
+    "tense_affix": "dı",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "sınız",
+    "personal_affix": "nız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You supposedly took that beautiful book from the library.",
-  "russian_example_sentence": "Вы, по-видимому, взяли ту красивую книгу из библиотеки.",
-  "turkish_example_sentence": "Siz, o güzel kitabı kütüphaneden almışsınız.",
-  "turkish_example_sentence_with_blank": "Siz, o güzel kitabı kütüphaneden ______."
+  "english_example_sentence": "You took the beautiful book.",
+  "russian_example_sentence": "Вы взяли красивую книгу.",
+  "turkish_example_sentence": "Siz güzel kitabı aldınız.",
+  "turkish_example_sentence_with_blank": "Siz güzel kitabı ______."
 }

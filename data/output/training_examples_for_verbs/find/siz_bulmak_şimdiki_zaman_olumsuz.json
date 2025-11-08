@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "bulmuyorsunuz",
     "root": "bul",
-    "tense_affix": "yor",
+    "tense_affix": "uyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "sunuz",
     "polarity": "negative",
-    "negative_affix": "mu"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "You are not finding the old key in the big bag.",
-  "russian_example_sentence": "Вы не находите старый ключ в большой сумке.",
-  "turkish_example_sentence": "Siz büyük çantada eski anahtarı bulmuyorsunuz.",
-  "turkish_example_sentence_with_blank": "Siz büyük çantada eski anahtarı ______."
+  "english_example_sentence": "You are not finding the keys.",
+  "russian_example_sentence": "Вы не находите ключи.",
+  "turkish_example_sentence": "Ali ve Fatma anahtarı bulmuyorsunuz.",
+  "turkish_example_sentence_with_blank": "Ali ve Fatma anahtarı ______."
 }

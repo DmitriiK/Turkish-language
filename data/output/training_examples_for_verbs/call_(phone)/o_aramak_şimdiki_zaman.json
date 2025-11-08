@@ -4,17 +4,17 @@
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "arıyor",
+    "verb_full": "aramaktadır",
     "root": "ara",
-    "tense_affix": "yor",
+    "tense_affix": "makta",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "dır",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The small child is calling his mother.",
-  "russian_example_sentence": "Маленький ребёнок звонит своей маме.",
-  "turkish_example_sentence": "Küçük çocuk annesini arıyor.",
-  "turkish_example_sentence_with_blank": "Küçük çocuk annesini ______."
+  "english_example_sentence": "She is calling her friend.",
+  "russian_example_sentence": "Она звонит своей подруге.",
+  "turkish_example_sentence": "O, en yakın arkadaşıyla aramaktadır.",
+  "turkish_example_sentence_with_blank": "O, en yakın arkadaşıyla ______."
 }

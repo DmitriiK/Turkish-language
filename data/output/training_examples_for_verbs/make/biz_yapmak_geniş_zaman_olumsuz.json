@@ -4,17 +4,17 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmayız",
+    "verb_full": "yapmam",
     "root": "yap",
     "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "yız",
+    "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "We don't make new plans with old methods.",
-  "russian_example_sentence": "Мы не делаем новые планы старыми методами.",
-  "turkish_example_sentence": "Biz yeni planları eski yöntemlerle yapmayız.",
-  "turkish_example_sentence_with_blank": "Biz yeni planları eski yöntemlerle ______."
+  "english_example_sentence": "We do not make plans for the weekend.",
+  "russian_example_sentence": "Мы не составляем планы на выходные.",
+  "turkish_example_sentence": "Biz hafta sonu plan yapmam.",
+  "turkish_example_sentence_with_blank": "Biz hafta sonu plan ______."
 }

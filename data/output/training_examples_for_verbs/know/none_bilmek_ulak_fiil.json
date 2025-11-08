@@ -4,17 +4,17 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilerek",
+    "verb_full": "biliniyor",
     "root": "bil",
-    "tense_affix": "erek",
+    "tense_affix": "iniyor",
     "verb_tense": "ulak_fiil",
     "personal_pronoun": null,
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The experienced teacher explained the subject to the students knowingly.",
-  "russian_example_sentence": "Опытный учитель объяснил тему ученикам, знающе.",
-  "turkish_example_sentence": "Deneyimli öğretmen, konuyu bilerek öğrencilere anlattı.",
-  "turkish_example_sentence_with_blank": "Deneyimli öğretmen, konuyu ______ öğrencilere anlattı."
+  "english_example_sentence": "The answer is known by everyone.",
+  "russian_example_sentence": "Ответ известен всем.",
+  "turkish_example_sentence": "Cevap herkes tarafından biliniyor.",
+  "turkish_example_sentence_with_blank": "Cevap herkes tarafından ______."
 }

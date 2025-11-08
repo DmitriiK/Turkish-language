@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "bakmıyorum",
     "root": "bak",
-    "tense_affix": "yor",
+    "tense_affix": "ıyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "um",
     "polarity": "negative",
-    "negative_affix": "mı"
+    "negative_affix": "m"
   },
-  "english_example_sentence": "I am not looking at this old book and pictures now.",
-  "russian_example_sentence": "Я сейчас не смотрю на эту старую книгу и фотографии.",
-  "turkish_example_sentence": "Şimdi bu eski kitaba ve resimlere bakmıyorum.",
-  "turkish_example_sentence_with_blank": "Şimdi bu eski kitaba ve resimlere ______."
+  "english_example_sentence": "I am not looking at the beautiful painting.",
+  "russian_example_sentence": "Я не смотрю на красивую картину.",
+  "turkish_example_sentence": "Ben güzel tabloya bakmıyorum.",
+  "turkish_example_sentence_with_blank": "Ben güzel tabloya ______."
 }

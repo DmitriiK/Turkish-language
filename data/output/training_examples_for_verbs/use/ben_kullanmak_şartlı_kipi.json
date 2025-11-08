@@ -4,17 +4,17 @@
   "verb_russian": "использовать",
   "verb_infinitive": "kullanmak",
   "turkish_verb": {
-    "verb_full": "kullanabilirim",
+    "verb_full": "kullanırsam",
     "root": "kullan",
-    "tense_affix": "abilirim",
+    "tense_affix": "ır",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "im",
+    "personal_affix": "ım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I can use this tool.",
-  "russian_example_sentence": "Я могу использовать этот инструмент.",
-  "turkish_example_sentence": "Ben bu aracı kullanabilirim.",
-  "turkish_example_sentence_with_blank": "Ben bu aracı ______."
+  "english_example_sentence": "If I use my phone, I can call you.",
+  "russian_example_sentence": "Если я использую свой телефон, я могу позвонить тебе.",
+  "turkish_example_sentence": "Eğer telefonumu kullanırsam, sana ulaşabilirim.",
+  "turkish_example_sentence_with_blank": "Eğer telefonumu ______, sana ulaşabilirim."
 }

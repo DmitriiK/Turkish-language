@@ -4,17 +4,17 @@
   "verb_russian": "использовать",
   "verb_infinitive": "kullanmak",
   "turkish_verb": {
-    "verb_full": "kullansa",
+    "verb_full": "kullanacak",
     "root": "kullan",
-    "tense_affix": "sa",
+    "tense_affix": "acak",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "caksın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If my mother used a new phone, her life would be easier.",
-  "russian_example_sentence": "Если бы моя мама использовала новый телефон, её жизнь была бы легче.",
-  "turkish_example_sentence": "Annem yeni bir telefon kullansa, hayatı daha kolay olur.",
-  "turkish_example_sentence_with_blank": "Annem yeni bir telefon ______, hayatı daha kolay olur."
+  "english_example_sentence": "He will use my new computer.",
+  "russian_example_sentence": "Он будет использовать мой новый компьютер.",
+  "turkish_example_sentence": "O, benim yeni bilgisayarımı kullanacak.",
+  "turkish_example_sentence_with_blank": "O, benim yeni bilgisayarımı ______."
 }

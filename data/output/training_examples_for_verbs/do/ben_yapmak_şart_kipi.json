@@ -4,17 +4,17 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapsaydım",
+    "verb_full": "yapacağım",
     "root": "yap",
-    "tense_affix": "saydı",
+    "tense_affix": "acak",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I wish I had done it.",
-  "russian_example_sentence": "Я бы хотел, чтобы я это сделал.",
-  "turkish_example_sentence": "Keşke o ödevi zamanında yapsaydım.",
-  "turkish_example_sentence_with_blank": "Keşke o ödevi zamanında ______."
+  "english_example_sentence": "I will do my homework tonight.",
+  "russian_example_sentence": "Я сделаю домашнее задание сегодня вечером.",
+  "turkish_example_sentence": "Ben bu gece ödevimi yapacağım.",
+  "turkish_example_sentence_with_blank": "Ben bu gece ödevimi ______."
 }

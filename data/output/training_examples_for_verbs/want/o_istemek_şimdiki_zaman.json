@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "istiyor",
     "root": "iste",
-    "tense_affix": "iyor",
+    "tense_affix": "yor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The little child wants a new toy.",
-  "russian_example_sentence": "Маленький ребенок хочет новую игрушку.",
-  "turkish_example_sentence": "Küçük çocuk yeni bir oyuncak istiyor.",
-  "turkish_example_sentence_with_blank": "Küçük çocuk yeni bir oyuncak ______."
+  "english_example_sentence": "The student wants to learn Turkish.",
+  "russian_example_sentence": "Студент хочет учить турецкий.",
+  "turkish_example_sentence": "Öğrenci Türkçe öğrenmek istiyor.",
+  "turkish_example_sentence_with_blank": "Öğrenci Türkçe öğrenmek ______."
 }

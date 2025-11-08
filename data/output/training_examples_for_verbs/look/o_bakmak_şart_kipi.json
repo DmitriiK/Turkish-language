@@ -4,17 +4,17 @@
   "verb_russian": "смотреть",
   "verb_infinitive": "bakmak",
   "turkish_verb": {
-    "verb_full": "baksa",
+    "verb_full": "bakıyor",
     "root": "bak",
-    "tense_affix": "sa",
+    "tense_affix": "ıyor",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "u",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If the small child looks at the colorful toys, he will be very happy.",
-  "russian_example_sentence": "Если маленький ребенок посмотрит на красочные игрушки, он будет очень счастлив.",
-  "turkish_example_sentence": "Küçük çocuk renkli oyuncaklara baksa, çok mutlu olur.",
-  "turkish_example_sentence_with_blank": "Küçük çocuk renkli oyuncaklara ______, çok mutlu olur."
+  "english_example_sentence": "The child looks at the beautiful flowers.",
+  "russian_example_sentence": "Ребёнок смотрит на красивые цветы.",
+  "turkish_example_sentence": "Çocuk güzel çiçeklere bakıyor.",
+  "turkish_example_sentence_with_blank": "Çocuk güzel çiçeklere ______."
 }

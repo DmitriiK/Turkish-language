@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "vermeyeceğim",
     "root": "ver",
-    "tense_affix": "yecek",
+    "tense_affix": "meye",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "im",
+    "personal_affix": "ceğim",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "I will not give this old book to the student.",
-  "russian_example_sentence": "Я не отдам эту старую книгу студенту.",
-  "turkish_example_sentence": "Ben bu eski kitabı öğrenciye vermeyeceğim.",
-  "turkish_example_sentence_with_blank": "Ben bu eski kitabı öğrenciye ______."
+  "english_example_sentence": "I will not give the book to my friend.",
+  "russian_example_sentence": "Я не дам книгу своему другу.",
+  "turkish_example_sentence": "Ben arkadaşımın kitabını vermeyeceğim.",
+  "turkish_example_sentence_with_blank": "Ben arkadaşımın kitabını ______."
 }

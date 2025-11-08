@@ -4,17 +4,17 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olmam",
+    "verb_full": "sahip olmuyorsun",
     "root": "sahip ol",
     "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "m",
+    "personal_affix": "sun",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You do not have a dog.",
-  "russian_example_sentence": "У тебя нет собаки.",
-  "turkish_example_sentence": "Senin bir köpeğin sahip olmam.",
-  "turkish_example_sentence_with_blank": "Senin bir köpeğin **______**."
+  "english_example_sentence": "You do not have a pet.",
+  "russian_example_sentence": "У тебя нет домашнего животного.",
+  "turkish_example_sentence": "Sen bir evcil hayvana sahip olmuyorsun.",
+  "turkish_example_sentence_with_blank": "Sen bir evcil hayvana ______."
 }

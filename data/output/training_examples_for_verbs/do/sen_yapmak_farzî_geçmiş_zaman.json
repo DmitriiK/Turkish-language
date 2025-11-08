@@ -4,17 +4,17 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmışsın",
+    "verb_full": "yaptığınızı",
     "root": "yap",
-    "tense_affix": "mış",
+    "tense_affix": "tığını",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "sın",
+    "personal_affix": "ız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You must have made a nice meal for your friend.",
-  "russian_example_sentence": "Ты, должно быть, приготовил хороший обед для своего друга.",
-  "turkish_example_sentence": "Arkadaşın için güzel bir yemek yapmışsın.",
-  "turkish_example_sentence_with_blank": "Arkadaşın için güzel bir yemek ______."
+  "english_example_sentence": "You did your homework yesterday.",
+  "russian_example_sentence": "Ты сделал свою домашнюю работу вчера.",
+  "turkish_example_sentence": "Sen ödevini dün yaptığınızı.",
+  "turkish_example_sentence_with_blank": "Sen ödevini dün ______."
 }

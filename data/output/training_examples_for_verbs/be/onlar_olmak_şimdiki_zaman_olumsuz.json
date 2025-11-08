@@ -4,17 +4,17 @@
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmuyorlar",
+    "verb_full": "onlar olmuyor",
     "root": "ol",
-    "tense_affix": "yor",
+    "tense_affix": "uyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "They are not happy people.",
-  "russian_example_sentence": "Они не счастливые люди.",
-  "turkish_example_sentence": "Onlar mutlu insanlar olmuyorlar.",
-  "turkish_example_sentence_with_blank": "Onlar mutlu insanlar ______."
+  "english_example_sentence": "They are not here.",
+  "russian_example_sentence": "Они не здесь.",
+  "turkish_example_sentence": "Öğrenciler burada olmuyor.",
+  "turkish_example_sentence_with_blank": "Öğrenciler burada olmuyor."
 }

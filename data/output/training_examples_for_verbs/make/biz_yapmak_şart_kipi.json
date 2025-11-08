@@ -4,17 +4,17 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapsak",
+    "verb_full": "yapabileceğiz",
     "root": "yap",
-    "tense_affix": "sa",
+    "tense_affix": "abileceğiz",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "eğiz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we make a good plan, we can accomplish this work.",
-  "russian_example_sentence": "Если мы составим хороший план, мы сможем выполнить эту работу.",
-  "turkish_example_sentence": "İyi bir plan yapsak, bu işi başarabiliriz.",
-  "turkish_example_sentence_with_blank": "İyi bir plan ______, bu işi başarabiliriz."
+  "english_example_sentence": "We will be able to make a plan.",
+  "russian_example_sentence": "Мы сможем сделать план.",
+  "turkish_example_sentence": "Biz güzel bir plan yapabileceğiz.",
+  "turkish_example_sentence_with_blank": "Biz güzel bir plan ______."
 }

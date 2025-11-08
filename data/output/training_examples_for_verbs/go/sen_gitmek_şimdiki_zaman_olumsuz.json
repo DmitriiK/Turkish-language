@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gitmiyorsun",
     "root": "git",
-    "tense_affix": "yor",
+    "tense_affix": "iyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "sun",
     "polarity": "negative",
-    "negative_affix": "mi"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "You are not going today",
-  "russian_example_sentence": "Ты сегодня не идешь",
-  "turkish_example_sentence": "Sen bugün parka gitmiyorsun",
-  "turkish_example_sentence_with_blank": "Sen bugün parka ______"
+  "english_example_sentence": "You are not going to the market.",
+  "russian_example_sentence": "Ты не идёшь на рынок.",
+  "turkish_example_sentence": "Sen pazara gitmiyorsun.",
+  "turkish_example_sentence_with_blank": "Sen pazara ______."
 }

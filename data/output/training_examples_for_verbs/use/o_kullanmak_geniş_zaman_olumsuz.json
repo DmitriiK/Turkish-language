@@ -4,17 +4,17 @@
   "verb_russian": "использовать",
   "verb_infinitive": "kullanmak",
   "turkish_verb": {
-    "verb_full": "kullanmaz",
+    "verb_full": "kullanma",
     "root": "kullan",
     "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "z",
+    "personal_affix": "ma",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "My friend does not use this old phone.",
-  "russian_example_sentence": "Мой друг не использует этот старый телефон.",
-  "turkish_example_sentence": "Arkadaşım bu eski telefonu kullanmaz.",
-  "turkish_example_sentence_with_blank": "Arkadaşım bu eski telefonu ______."
+  "english_example_sentence": "The teacher does not use the old book.",
+  "russian_example_sentence": "Учитель не использует старую книгу.",
+  "turkish_example_sentence": "Öğretmen eski kitabı **kullanma**.",
+  "turkish_example_sentence_with_blank": "Öğretmen eski kitabı **______**."
 }

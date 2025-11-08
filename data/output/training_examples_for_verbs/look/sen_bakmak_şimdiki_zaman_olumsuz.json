@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "bakmıyorsun",
     "root": "bak",
-    "tense_affix": "yor",
+    "tense_affix": "ıyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "sun",
     "polarity": "negative",
-    "negative_affix": "mı"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "You are not looking at the pictures in this old book.",
-  "russian_example_sentence": "Ты не смотришь на картинки в этой старой книге.",
-  "turkish_example_sentence": "Sen bu eski kitaptaki resimlere bakmıyorsun.",
-  "turkish_example_sentence_with_blank": "Sen bu eski kitaptaki resimlere ______."
+  "english_example_sentence": "You are not looking at the beautiful view.",
+  "russian_example_sentence": "Ты не смотришь на красивый вид.",
+  "turkish_example_sentence": "Sen güzel manzaraya bakmıyorsun.",
+  "turkish_example_sentence_with_blank": "Sen güzel manzaraya ______."
 }

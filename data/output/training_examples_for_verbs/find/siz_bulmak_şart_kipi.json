@@ -4,17 +4,17 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulsanız",
+    "verb_full": "bulacaksınız",
     "root": "bul",
-    "tense_affix": "sa",
+    "tense_affix": "acak",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "ınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you find the lost old book, the library would be very happy.",
-  "russian_example_sentence": "Если вы найдете потерянную старую книгу, библиотека будет очень рада.",
-  "turkish_example_sentence": "Eğer siz kayıp eski kitabı bulsanız, kütüphane çok sevinir.",
-  "turkish_example_sentence_with_blank": "Eğer siz kayıp eski kitabı ______, kütüphane çok sevinir."
+  "english_example_sentence": "You will find the book tomorrow.",
+  "russian_example_sentence": "Вы найдете книгу завтра.",
+  "turkish_example_sentence": "Yarın kitabı bulacaksınız.",
+  "turkish_example_sentence_with_blank": "Yarın kitabı ______."
 }

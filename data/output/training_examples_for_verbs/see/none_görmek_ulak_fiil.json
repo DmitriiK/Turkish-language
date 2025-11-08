@@ -4,17 +4,17 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görünce",
+    "verb_full": "görüyorsun",
     "root": "gör",
-    "tense_affix": "ünce",
+    "tense_affix": "üyor",
     "verb_tense": "ulak_fiil",
     "personal_pronoun": null,
-    "personal_affix": "",
+    "personal_affix": "sun",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When the student saw the new book, he immediately started reading.",
-  "russian_example_sentence": "Когда студент увидел новую книгу, он сразу же начал читать.",
-  "turkish_example_sentence": "Yeni kitabı görünce öğrenci hemen okumaya başladı.",
-  "turkish_example_sentence_with_blank": "Yeni kitabı ______ öğrenci hemen okumaya başladı."
+  "english_example_sentence": "The student sees the beautiful painting.",
+  "russian_example_sentence": "Студент видит красивую картину.",
+  "turkish_example_sentence": "Öğrenci güzel resmi görüyor.",
+  "turkish_example_sentence_with_blank": "Öğrenci güzel resmi görüyor."
 }

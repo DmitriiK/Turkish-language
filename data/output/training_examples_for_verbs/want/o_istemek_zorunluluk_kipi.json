@@ -4,17 +4,17 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemeli",
+    "verb_full": "istemektedir",
     "root": "iste",
-    "tense_affix": "meli",
+    "tense_affix": "mekte",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "dir",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The diligent student must want the lesson.",
-  "russian_example_sentence": "Трудолюбивый ученик должен хотеть урок.",
-  "turkish_example_sentence": "Çalışkan öğrenci dersi istemeli.",
-  "turkish_example_sentence_with_blank": "Çalışkan öğrenci dersi ______."
+  "english_example_sentence": "He wants to go to the cinema.",
+  "russian_example_sentence": "Он хочет пойти в кино.",
+  "turkish_example_sentence": "Ali sinemaya gitmek istemektedir.",
+  "turkish_example_sentence_with_blank": "Ali sinemaya gitmek ______."
 }

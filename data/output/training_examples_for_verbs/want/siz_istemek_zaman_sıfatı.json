@@ -4,17 +4,17 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istediğiniz",
+    "verb_full": "istemek",
     "root": "iste",
-    "tense_affix": "diğ",
+    "tense_affix": "",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "siz",
-    "personal_affix": "iniz",
+    "personal_affix": "siniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "That beautiful painting you wanted is finally hanging on the wall.",
-  "russian_example_sentence": "Та красивая картина, которую вы хотели, наконец-то висит на стене.",
-  "turkish_example_sentence": "Sizin istediğiniz o güzel tablo nihayet duvarda asılı.",
-  "turkish_example_sentence_with_blank": "Sizin ______ o güzel tablo nihayet duvarda asılı."
+  "english_example_sentence": "You want to go to the park.",
+  "russian_example_sentence": "Вы хотите пойти в парк.",
+  "turkish_example_sentence": "Siz parka gitmek istemek.",
+  "turkish_example_sentence_with_blank": "Siz parka gitmek ______."
 }

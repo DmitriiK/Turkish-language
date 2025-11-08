@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "çalışsanız",
     "root": "çalış",
-    "tense_affix": "sa",
+    "tense_affix": "san",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "ız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you work more diligently, this important task will finish on time.",
-  "russian_example_sentence": "Если вы будете работать усерднее, эта важная задача будет выполнена вовремя.",
-  "turkish_example_sentence": "Siz daha gayretli çalışsanız, bu önemli görev zamanında biter.",
-  "turkish_example_sentence_with_blank": "Siz daha gayretli ______, bu önemli görev zamanında biter."
+  "english_example_sentence": "You would work hard.",
+  "russian_example_sentence": "Вы бы усердно работали.",
+  "turkish_example_sentence": "Siz her zaman çok çalışsanız.",
+  "turkish_example_sentence_with_blank": "Siz her zaman çok ______."
 }

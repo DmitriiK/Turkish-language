@@ -4,17 +4,17 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almazsınız",
+    "verb_full": "almıyorsunuz",
     "root": "al",
-    "tense_affix": "z",
+    "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "sınız",
+    "personal_affix": "unuz",
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "mı"
   },
-  "english_example_sentence": "Dear guests, you don't take this sensitive issue lightly.",
-  "russian_example_sentence": "Уважаемые гости, вы не относитесь к этому деликатному вопросу легкомысленно.",
-  "turkish_example_sentence": "Sayın misafirler, bu hassas konuyu hafife almazsınız.",
-  "turkish_example_sentence_with_blank": "Sayın misafirler, bu hassas konuyu hafife ______."
+  "english_example_sentence": "You do not take the bus",
+  "russian_example_sentence": "Вы не берёте автобус",
+  "turkish_example_sentence": "Siz bu otobüsü almıyorsunuz.",
+  "turkish_example_sentence_with_blank": "Siz bu otobüsü ______."
 }

@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitsen",
+    "verb_full": "gidersen",
     "root": "git",
-    "tense_affix": "se",
+    "tense_affix": "erse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "sen",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you go to this new school, you would be a successful student.",
-  "russian_example_sentence": "Если ты пойдешь в эту новую школу, ты станешь успешным учеником.",
-  "turkish_example_sentence": "Eğer bu yeni okula gitsen, başarılı bir öğrenci olursun.",
-  "turkish_example_sentence_with_blank": "Eğer bu yeni okula ______, başarılı bir öğrenci olursun."
+  "english_example_sentence": "If you go to the park, it will be fun.",
+  "russian_example_sentence": "Если ты пойдёшь в парк, будет весело.",
+  "turkish_example_sentence": "Sen parka gidersen, eğlenceli olur.",
+  "turkish_example_sentence_with_blank": "Sen parka ______, eğlenceli olur."
 }

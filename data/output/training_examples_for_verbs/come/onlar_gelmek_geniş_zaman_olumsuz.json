@@ -4,17 +4,17 @@
   "verb_russian": "приходить",
   "verb_infinitive": "gelmek",
   "turkish_verb": {
-    "verb_full": "gelmezler",
+    "verb_full": "gelmiyorlar",
     "root": "gel",
     "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "ler",
+    "personal_affix": "lar",
     "polarity": "negative",
-    "negative_affix": "mez"
+    "negative_affix": "mi"
   },
-  "english_example_sentence": "Lazy students do not come to school early.",
-  "russian_example_sentence": "Ленивые ученики не приходят в школу рано.",
-  "turkish_example_sentence": "Tembel öğrenciler okula erken gelmezler.",
-  "turkish_example_sentence_with_blank": "Tembel öğrenciler okula erken ______."
+  "english_example_sentence": "The children are not coming to the party.",
+  "russian_example_sentence": "Дети не приходят на вечеринку.",
+  "turkish_example_sentence": "Çocuklar partiye **gelmiyorlar**.",
+  "turkish_example_sentence_with_blank": "Çocuklar partiye **______**."
 }

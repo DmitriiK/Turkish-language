@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gidesin",
+    "verb_full": "gitmek istiyorsun",
     "root": "git",
-    "tense_affix": "e",
+    "tense_affix": "mek istiyorsun",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "sin",
+    "personal_affix": "sun",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You should definitely go to this important business meeting.",
-  "russian_example_sentence": "Тебе обязательно следует пойти на это важное деловое совещание.",
-  "turkish_example_sentence": "Sen bu önemli iş toplantısına mutlaka gidesin.",
-  "turkish_example_sentence_with_blank": "Sen bu önemli iş toplantısına mutlaka ______."
+  "english_example_sentence": "You want to go to the park.",
+  "russian_example_sentence": "Ты хочешь пойти в парк.",
+  "turkish_example_sentence": "Sen parka gitmek istiyorsun.",
+  "turkish_example_sentence_with_blank": "Sen parka ______."
 }

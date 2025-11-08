@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "görsen",
     "root": "gör",
-    "tense_affix": "se",
+    "tense_affix": "sen",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "sen",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you see a new book, would you inform your friend?",
-  "russian_example_sentence": "Если ты увидишь новую книгу, сообщишь ли ты своему другу?",
-  "turkish_example_sentence": "Eğer yeni bir kitap görsen, arkadaşına haber verir misin?",
-  "turkish_example_sentence_with_blank": "Eğer yeni bir kitap ______, arkadaşına haber verir misin?"
+  "english_example_sentence": "If you see the beautiful garden today.",
+  "russian_example_sentence": "Если ты увидишь красивый сад сегодня.",
+  "turkish_example_sentence": "Sen bu güzel bahçeyi görsen.",
+  "turkish_example_sentence_with_blank": "Sen bu güzel bahçeyi ______."
 }

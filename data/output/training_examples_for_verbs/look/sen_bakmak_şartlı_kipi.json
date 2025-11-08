@@ -4,17 +4,17 @@
   "verb_russian": "смотреть",
   "verb_infinitive": "bakmak",
   "turkish_verb": {
-    "verb_full": "baksan",
+    "verb_full": "bakarsan",
     "root": "bak",
-    "tense_affix": "sa",
+    "tense_affix": "ar",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "san",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "My friend, if you look at this beautiful picture, you would be very surprised.",
-  "russian_example_sentence": "Мой друг, если бы ты посмотрел на эту красивую картину, ты бы очень удивился.",
-  "turkish_example_sentence": "Arkadaşım, bu güzel resme baksan, çok şaşırırsın.",
-  "turkish_example_sentence_with_blank": "Arkadaşım, bu güzel resme ______, çok şaşırırsın."
+  "english_example_sentence": "If you look at the sky, you will see the stars.",
+  "russian_example_sentence": "Если ты посмотришь на небо, ты увидишь звезды.",
+  "turkish_example_sentence": "Sen gökyüzüne bakarsan, yıldızları görürsün.",
+  "turkish_example_sentence_with_blank": "Sen gökyüzüne ______, yıldızları görürsün."
 }

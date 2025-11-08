@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmeli",
+    "verb_full": "gitmeliyim",
     "root": "git",
-    "tense_affix": "meli",
+    "tense_affix": "meliyim",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": null,
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Everyone must go to this important meeting.",
-  "russian_example_sentence": "Каждый должен пойти на это важное собрание.",
-  "turkish_example_sentence": "Herkes bu önemli toplantıya gitmeli.",
-  "turkish_example_sentence_with_blank": "Herkes bu önemli toplantıya ______."
+  "english_example_sentence": "I must go to the meeting.",
+  "russian_example_sentence": "Я должен пойти на встречу.",
+  "turkish_example_sentence": "Toplantıya gitmeliyim.",
+  "turkish_example_sentence_with_blank": "Toplantıya ______."
 }

@@ -4,17 +4,17 @@
   "verb_russian": "приходить",
   "verb_infinitive": "gelmek",
   "turkish_verb": {
-    "verb_full": "gelmişiz",
+    "verb_full": "geldiğimiz",
     "root": "gel",
-    "tense_affix": "miş",
+    "tense_affix": "di",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "iz",
+    "personal_affix": "ğimiz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We supposedly came early to the new house this morning.",
-  "russian_example_sentence": "Мы якобы пришли рано в новый дом сегодня утром.",
-  "turkish_example_sentence": "Yeni eve biz bu sabah erken gelmişiz.",
-  "turkish_example_sentence_with_blank": "Yeni eve biz bu sabah erken ______."
+  "english_example_sentence": "We came to the meeting yesterday.",
+  "russian_example_sentence": "Мы пришли на встречу вчера.",
+  "turkish_example_sentence": "Dün toplantıya **geldiğimiz** için çok mutluyuz.",
+  "turkish_example_sentence_with_blank": "Dün toplantıya **______** için çok mutluyuz."
 }

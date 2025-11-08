@@ -4,17 +4,17 @@
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "oluyorsunuz",
+    "verb_full": "olacaksınız",
     "root": "ol",
-    "tense_affix": "uyor",
+    "tense_affix": "acak",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "sunuz",
+    "personal_affix": "ınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You are happy today.",
-  "russian_example_sentence": "Вы сегодня счастливы.",
-  "turkish_example_sentence": "Siz bugün mutlu oluyorsunuz.",
-  "turkish_example_sentence_with_blank": "Siz bugün mutlu ______."
+  "english_example_sentence": "You will be happy.",
+  "russian_example_sentence": "Вы будете счастливы.",
+  "turkish_example_sentence": "Siz bu yaz mutlu olacaksınız.",
+  "turkish_example_sentence_with_blank": "Siz bu yaz mutlu ______."
 }

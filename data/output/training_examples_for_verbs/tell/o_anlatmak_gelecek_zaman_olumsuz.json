@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "anlatmayacak",
     "root": "anlat",
-    "tense_affix": "yacak",
+    "tense_affix": "acak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "The diligent student will not tell the important secret.",
-  "russian_example_sentence": "Прилежный студент не расскажет важный секрет.",
-  "turkish_example_sentence": "Çalışkan öğrenci önemli sırrı anlatmayacak.",
-  "turkish_example_sentence_with_blank": "Çalışkan öğrenci önemli sırrı ______."
+  "english_example_sentence": "He will not tell the story",
+  "russian_example_sentence": "Он не расскажет историю",
+  "turkish_example_sentence": "Ali o gün Ahmet'e hikaye **anlatmayacak**.",
+  "turkish_example_sentence_with_blank": "Ali o gün Ahmet'e hikaye **______**."
 }

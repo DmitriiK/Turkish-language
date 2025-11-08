@@ -4,17 +4,17 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söyleseydim",
+    "verb_full": "söylersem",
     "root": "söyle",
-    "tense_affix": "se",
+    "tense_affix": "ler",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "ydim",
+    "personal_affix": "sem",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I wish I had said it.",
-  "russian_example_sentence": "Жаль, что я это сказал.",
-  "turkish_example_sentence": "Keşke ona gerçeği söyleseydim.",
-  "turkish_example_sentence_with_blank": "Keşke ona gerçeği ______."
+  "english_example_sentence": "If I say something important, people listen.",
+  "russian_example_sentence": "Если я скажу что-то важное, люди слушают.",
+  "turkish_example_sentence": "Ben önemli bir şey söylersem, insanlar dinler.",
+  "turkish_example_sentence_with_blank": "Ben önemli bir şey ______, insanlar dinler."
 }

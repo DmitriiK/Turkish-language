@@ -4,17 +4,17 @@
   "verb_russian": "смотреть",
   "verb_infinitive": "bakmak",
   "turkish_verb": {
-    "verb_full": "baksak",
+    "verb_full": "bakacağız",
     "root": "bak",
-    "tense_affix": "sa",
+    "tense_affix": "acak",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we look carefully at the old map, we will find the treasure.",
-  "russian_example_sentence": "Если мы внимательно посмотрим на старую карту, мы найдем сокровище.",
-  "turkish_example_sentence": "Eski haritaya dikkatli baksak, hazineyi buluruz.",
-  "turkish_example_sentence_with_blank": "Eski haritaya dikkatli ______, hazineyi buluruz."
+  "english_example_sentence": "We will look at the beautiful painting.",
+  "russian_example_sentence": "Мы посмотрим на прекрасную картину.",
+  "turkish_example_sentence": "Biz güzel tabloya bakacağız.",
+  "turkish_example_sentence_with_blank": "Biz güzel tabloya ______."
 }

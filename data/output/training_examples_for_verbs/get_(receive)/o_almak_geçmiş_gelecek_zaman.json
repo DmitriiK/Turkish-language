@@ -4,17 +4,17 @@
   "verb_russian": "получать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "aldı",
+    "verb_full": "alacak",
     "root": "al",
-    "tense_affix": "dı",
+    "tense_affix": "acak",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "acak",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He got the new book yesterday.",
-  "russian_example_sentence": "Он получил новую книгу вчера.",
-  "turkish_example_sentence": "Ali yeni kitabı dün aldı.",
-  "turkish_example_sentence_with_blank": "Ali yeni kitabı dün **______**."
+  "english_example_sentence": "He will get the gift tomorrow.",
+  "russian_example_sentence": "Он получит подарок завтра.",
+  "turkish_example_sentence": "O yarın hediyeyi alacak.",
+  "turkish_example_sentence_with_blank": "O yarın hediyeyi ______."
 }

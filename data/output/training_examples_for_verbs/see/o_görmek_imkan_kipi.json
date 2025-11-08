@@ -4,17 +4,17 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görebilir",
+    "verb_full": "görüyor",
     "root": "gör",
-    "tense_affix": "ebilir",
+    "tense_affix": "üyor",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "u",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The small child can see the ship in the distance.",
-  "russian_example_sentence": "Маленький ребенок может увидеть корабль вдалеке.",
-  "turkish_example_sentence": "Küçük çocuk uzaktaki gemiyi görebilir.",
-  "turkish_example_sentence_with_blank": "Küçük çocuk uzaktaki gemiyi ______."
+  "english_example_sentence": "The teacher sees the students.",
+  "russian_example_sentence": "Учитель видит студентов.",
+  "turkish_example_sentence": "Öğretmen öğrencileri görüyor.",
+  "turkish_example_sentence_with_blank": "Öğretmen öğrencileri ______."
 }

@@ -4,17 +4,17 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilecektik",
+    "verb_full": "bileceğiz",
     "root": "bil",
-    "tense_affix": "ecekti",
+    "tense_affix": "ecek",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If the teacher had told us yesterday, we would have known this difficult topic.",
-  "russian_example_sentence": "Если бы учитель сказал нам вчера, мы бы знали эту сложную тему.",
-  "turkish_example_sentence": "Eğer öğretmen bize dün söyleseydi, bu zor konuyu bilecektik.",
-  "turkish_example_sentence_with_blank": "Eğer öğretmen bize dün söyleseydi, bu zor konuyu ______."
+  "english_example_sentence": "We will know the answer soon.",
+  "russian_example_sentence": "Мы скоро узнаем ответ.",
+  "turkish_example_sentence": "Biz cevabı kısa sürede bileceğiz.",
+  "turkish_example_sentence_with_blank": "Biz cevabı kısa sürede ______."
 }

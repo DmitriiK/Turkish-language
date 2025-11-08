@@ -4,17 +4,17 @@
   "verb_russian": "получать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almalısın",
+    "verb_full": "alman",
     "root": "al",
-    "tense_affix": "malı",
+    "tense_affix": "ma",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "sın",
+    "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You must get this important document from the desk.",
-  "russian_example_sentence": "Ты должен взять этот важный документ со стола.",
-  "turkish_example_sentence": "Sen bu önemli belgeyi masadan almalısın.",
-  "turkish_example_sentence_with_blank": "Sen bu önemli belgeyi masadan ______."
+  "english_example_sentence": "You need to get the book.",
+  "russian_example_sentence": "Тебе нужно получить книгу.",
+  "turkish_example_sentence": "Sen kitabı almalısın.",
+  "turkish_example_sentence_with_blank": "Sen kitabı almalısın."
 }

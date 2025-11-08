@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gelmiyor",
     "root": "gel",
-    "tense_affix": "yor",
+    "tense_affix": "iyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "mi"
   },
-  "english_example_sentence": "The little child is not coming to school today.",
-  "russian_example_sentence": "Маленький ребенок сегодня не приходит в школу.",
-  "turkish_example_sentence": "Küçük çocuk bugün okula gelmiyor.",
-  "turkish_example_sentence_with_blank": "Küçük çocuk bugün okula ______."
+  "english_example_sentence": "The train is not coming.",
+  "russian_example_sentence": "Поезд не приходит.",
+  "turkish_example_sentence": "Tren gelmiyor.",
+  "turkish_example_sentence_with_blank": "Tren ______."
 }

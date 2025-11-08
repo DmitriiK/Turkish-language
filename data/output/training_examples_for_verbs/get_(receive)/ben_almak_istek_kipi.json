@@ -4,17 +4,17 @@
   "verb_russian": "получать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "alayım",
+    "verb_full": "alıyorum",
     "root": "al",
-    "tense_affix": "a",
+    "tense_affix": "ıyor",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "yım",
+    "personal_affix": "um",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Let me get this beautiful flower for my mother.",
-  "russian_example_sentence": "Позвольте мне взять этот красивый цветок для моей мамы.",
-  "turkish_example_sentence": "Bu güzel çiçeği anneme alayım.",
-  "turkish_example_sentence_with_blank": "Bu güzel çiçeği anneme ______."
+  "english_example_sentence": "I am getting a book.",
+  "russian_example_sentence": "Я получаю книгу.",
+  "turkish_example_sentence": "Ben yeni bir kitabı alıyorum.",
+  "turkish_example_sentence_with_blank": "Ben yeni bir kitabı ______."
 }

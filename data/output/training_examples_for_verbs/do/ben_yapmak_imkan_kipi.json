@@ -4,17 +4,17 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapabilirim",
+    "verb_full": "yapabiliyorum",
     "root": "yap",
-    "tense_affix": "ebilir",
+    "tense_affix": "abiliyor",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "im",
+    "personal_affix": "um",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I can do this project.",
-  "russian_example_sentence": "Я могу сделать этот проект.",
-  "turkish_example_sentence": "Bu projeyi ben yapabilirim.",
-  "turkish_example_sentence_with_blank": "Bu projeyi ben ______."
+  "english_example_sentence": "I can do my homework.",
+  "russian_example_sentence": "Я могу делать свою домашнюю работу.",
+  "turkish_example_sentence": "Ben ödevimi yapabiliyorum.",
+  "turkish_example_sentence_with_blank": "Ben ödevimi ______."
 }

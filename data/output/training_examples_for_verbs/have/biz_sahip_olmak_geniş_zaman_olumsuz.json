@@ -4,17 +4,17 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olmuyoruz",
+    "verb_full": "sahip olmam",
     "root": "sahip ol",
     "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "uz",
+    "personal_affix": "m",
     "polarity": "negative",
-    "negative_affix": "mı"
+    "negative_affix": "ma"
   },
   "english_example_sentence": "We do not have a big house.",
   "russian_example_sentence": "У нас нет большого дома.",
-  "turkish_example_sentence": "Biz büyük bir eve sahip olmuyoruz.",
-  "turkish_example_sentence_with_blank": "Biz büyük bir eve ______."
+  "turkish_example_sentence": "Biz büyük bir evim **sahip olmam**.",
+  "turkish_example_sentence_with_blank": "Biz büyük bir evim **______**."
 }

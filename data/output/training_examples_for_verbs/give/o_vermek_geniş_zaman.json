@@ -4,17 +4,17 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "verir",
+    "verb_full": "veriyor",
     "root": "ver",
-    "tense_affix": "ir",
+    "tense_affix": "iyor",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "u",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The teacher gives beautiful information to the students.",
-  "russian_example_sentence": "Учитель дает студентам красивую информацию.",
-  "turkish_example_sentence": "Öğretmen öğrencilere güzel bilgiler verir.",
-  "turkish_example_sentence_with_blank": "Öğretmen öğrencilere güzel bilgiler ______."
+  "english_example_sentence": "The teacher is giving an interesting lesson.",
+  "russian_example_sentence": "Учитель дает интересный урок.",
+  "turkish_example_sentence": "Öğretmen ilginç bir dersi veriyor.",
+  "turkish_example_sentence_with_blank": "Öğretmen ilginç bir dersi ______."
 }

@@ -4,17 +4,17 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "vermeyiz",
+    "verb_full": "vermem",
     "root": "ver",
     "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "yiz",
+    "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "We don't give bad gifts to these small children.",
-  "russian_example_sentence": "Мы не дарим плохих подарков этим маленьким детям.",
-  "turkish_example_sentence": "Biz bu küçük çocuklara kötü hediye vermeyiz.",
-  "turkish_example_sentence_with_blank": "Biz bu küçük çocuklara kötü hediye ______."
+  "english_example_sentence": "We do not give gifts to friends.",
+  "russian_example_sentence": "Мы не даём подарки друзьям.",
+  "turkish_example_sentence": "Biz arkadaşlara hediye **vermem**.",
+  "turkish_example_sentence_with_blank": "Biz arkadaşlara hediye **______**."
 }

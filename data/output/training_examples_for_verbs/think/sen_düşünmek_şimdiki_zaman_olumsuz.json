@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "düşünmüyorsun",
     "root": "düşün",
-    "tense_affix": "yor",
+    "tense_affix": "iyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "sun",
     "polarity": "negative",
-    "negative_affix": "mü"
+    "negative_affix": "mı"
   },
-  "english_example_sentence": "You are not thinking about this important topic regarding your future at all.",
-  "russian_example_sentence": "Ты совсем не думаешь об этой важной теме, касающейся твоего будущего.",
-  "turkish_example_sentence": "Sen, geleceğin hakkında bu önemli konuyu hiç düşünmüyorsun.",
-  "turkish_example_sentence_with_blank": "Sen, geleceğin hakkında bu önemli konuyu hiç ______."
+  "english_example_sentence": "You are not thinking about the project.",
+  "russian_example_sentence": "Ты не думаешь о проекте.",
+  "turkish_example_sentence": "Sen projeyi düşünmüyorsun.",
+  "turkish_example_sentence_with_blank": "Sen projeyi ______."
 }

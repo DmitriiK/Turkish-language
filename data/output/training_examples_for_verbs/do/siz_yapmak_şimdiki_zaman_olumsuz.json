@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "yapmıyorsunuz",
     "root": "yap",
-    "tense_affix": "yor",
+    "tense_affix": "ıyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "sunuz",
     "polarity": "negative",
     "negative_affix": "mı"
   },
-  "english_example_sentence": "You are not doing homework.",
-  "russian_example_sentence": "Вы не делаете домашнее задание.",
-  "turkish_example_sentence": "Siz ev ödevi yapmıyorsunuz.",
-  "turkish_example_sentence_with_blank": "Siz ev ödevi ______."
+  "english_example_sentence": "You are not doing your homework",
+  "russian_example_sentence": "Вы не делаете домашнюю работу",
+  "turkish_example_sentence": "Siz ödevinizi yapmıyorsunuz",
+  "turkish_example_sentence_with_blank": "Siz ödevinizi ______"
 }

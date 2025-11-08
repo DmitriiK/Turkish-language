@@ -4,17 +4,17 @@
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "oldukça",
+    "verb_full": "oluyorum",
     "root": "ol",
-    "tense_affix": "dukça",
+    "tense_affix": "uyor",
     "verb_tense": "ulak_fiil",
     "personal_pronoun": null,
-    "personal_affix": null,
+    "personal_affix": "um",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The weather was quite unpredictable.",
-  "russian_example_sentence": "Погода была довольно непредсказуемой.",
-  "turkish_example_sentence": "Hava oldukça değişkendi.",
-  "turkish_example_sentence_with_blank": "Hava ______ değişkendi."
+  "english_example_sentence": "I am happy with my new job.",
+  "russian_example_sentence": "Я счастлив с моей новой работой.",
+  "turkish_example_sentence": "Ben yeni işimle mutlu oluyorum.",
+  "turkish_example_sentence_with_blank": "Ben yeni işimle mutlu ______."
 }

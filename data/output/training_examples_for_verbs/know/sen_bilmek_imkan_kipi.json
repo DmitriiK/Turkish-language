@@ -4,17 +4,17 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilebilirsin",
+    "verb_full": "biliyorsun",
     "root": "bil",
-    "tense_affix": "ebilir",
+    "tense_affix": "iyor",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "sin",
+    "personal_affix": "sun",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can know all the answers to this difficult exam.",
-  "russian_example_sentence": "Ты можешь знать все ответы на этот сложный экзамен.",
-  "turkish_example_sentence": "Bu zorlu sınavın tüm cevaplarını bilebilirsin.",
-  "turkish_example_sentence_with_blank": "Bu zorlu sınavın tüm cevaplarını ______."
+  "english_example_sentence": "You know the answer to the question.",
+  "russian_example_sentence": "Ты знаешь ответ на вопрос.",
+  "turkish_example_sentence": "Ahmet, bu sorunun cevabını biliyorsun.",
+  "turkish_example_sentence_with_blank": "Ahmet, bu sorunun cevabını ______."
 }

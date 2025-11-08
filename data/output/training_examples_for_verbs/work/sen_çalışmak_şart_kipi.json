@@ -4,17 +4,17 @@
   "verb_russian": "работать",
   "verb_infinitive": "çalışmak",
   "turkish_verb": {
-    "verb_full": "çalışsan",
+    "verb_full": "çalışıyorsun",
     "root": "çalış",
-    "tense_affix": "sa",
+    "tense_affix": "ıyor",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "sun",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you work harder, you will finish this task on time.",
-  "russian_example_sentence": "Если ты будешь работать усерднее, ты закончишь это задание вовремя.",
-  "turkish_example_sentence": "Eğer sen daha sıkı çalışsan, bu görevi zamanında bitirirsin.",
-  "turkish_example_sentence_with_blank": "Eğer sen daha sıkı ______, bu görevi zamanında bitirirsin."
+  "english_example_sentence": "You are working today.",
+  "russian_example_sentence": "Ты работаешь сегодня.",
+  "turkish_example_sentence": "Sen bugün çalışıyorsun.",
+  "turkish_example_sentence_with_blank": "Sen bugün ______."
 }

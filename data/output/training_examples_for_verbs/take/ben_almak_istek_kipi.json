@@ -4,17 +4,17 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "alayım",
+    "verb_full": "alıyorum",
     "root": "al",
-    "tense_affix": "a",
+    "tense_affix": "ıyor",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "yım",
+    "personal_affix": "um",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Let me take this beautiful storybook.",
-  "russian_example_sentence": "Позвольте мне взять эту красивую книгу рассказов.",
-  "turkish_example_sentence": "Ben bu güzel hikaye kitabını alayım.",
-  "turkish_example_sentence_with_blank": "Ben bu güzel hikaye kitabını ______."
+  "english_example_sentence": "I am taking a beautiful photo",
+  "russian_example_sentence": "Я делаю красивое фото",
+  "turkish_example_sentence": "Ben güzel bir fotoğraf **alıyorum**",
+  "turkish_example_sentence_with_blank": "Ben güzel bir fotoğraf **______**"
 }

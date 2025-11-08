@@ -4,17 +4,17 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "verse",
+    "verb_full": "veriyor",
     "root": "ver",
-    "tense_affix": "se",
+    "tense_affix": "iyor",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "u",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If my friend gives me correct information, my job will become easier.",
-  "russian_example_sentence": "Если мой друг даст мне правильную информацию, моя работа станет легче.",
-  "turkish_example_sentence": "Arkadaşım bana doğru bilgileri verse, işim kolaylaşır.",
-  "turkish_example_sentence_with_blank": "Arkadaşım bana doğru bilgileri ______, işim kolaylaşır."
+  "english_example_sentence": "The teacher gives an important lesson.",
+  "russian_example_sentence": "Учитель дает важный урок.",
+  "turkish_example_sentence": "Öğretmen önemli bir dersi veriyor.",
+  "turkish_example_sentence_with_blank": "Öğretmen önemli bir dersi ______."
 }

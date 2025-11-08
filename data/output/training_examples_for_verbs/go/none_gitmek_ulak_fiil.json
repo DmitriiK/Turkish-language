@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "giderek",
+    "verb_full": "gidiyorum",
     "root": "git",
-    "tense_affix": "erek",
+    "tense_affix": "iyor",
     "verb_tense": "ulak_fiil",
     "personal_pronoun": null,
-    "personal_affix": "",
+    "personal_affix": "um",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The diligent student learned new information by going to the library.",
-  "russian_example_sentence": "Усердный студент узнал новую информацию, идя в библиотеку.",
-  "turkish_example_sentence": "Çalışkan öğrenci kütüphaneye giderek yeni bilgiler öğrendi.",
-  "turkish_example_sentence_with_blank": "Çalışkan öğrenci kütüphaneye ______ yeni bilgiler öğrendi."
+  "english_example_sentence": "I am going to the store.",
+  "russian_example_sentence": "Я иду в магазин.",
+  "turkish_example_sentence": "Ben markete gidiyorum.",
+  "turkish_example_sentence_with_blank": "Ben markete ______."
 }

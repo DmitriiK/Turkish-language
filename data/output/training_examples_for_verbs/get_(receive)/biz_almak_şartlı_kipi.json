@@ -4,17 +4,17 @@
   "verb_russian": "получать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "alsak",
+    "verb_full": "alacağız",
     "root": "al",
-    "tense_affix": "sa",
+    "tense_affix": "acak",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we buy a new house, our family would be very comfortable.",
-  "russian_example_sentence": "Если бы мы купили новый дом, нашей семье было бы очень комфортно.",
-  "turkish_example_sentence": "Yeni bir ev alsak, ailemiz çok rahat ederiz.",
-  "turkish_example_sentence_with_blank": "Yeni bir ev ______, ailemiz çok rahat ederiz."
+  "english_example_sentence": "We will get a new car soon.",
+  "russian_example_sentence": "Мы скоро получим новую машину.",
+  "turkish_example_sentence": "Biz yakında yeni bir araba alacağız.",
+  "turkish_example_sentence_with_blank": "Biz yakında yeni bir araba ______."
 }

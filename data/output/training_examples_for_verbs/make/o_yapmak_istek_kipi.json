@@ -4,17 +4,17 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapa",
+    "verb_full": "yapıyor",
     "root": "yap",
-    "tense_affix": "a",
+    "tense_affix": "ıyor",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "u",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The young engineer should build this new bridge.",
-  "russian_example_sentence": "Молодой инженер должен построить этот новый мост.",
-  "turkish_example_sentence": "Genç mühendis bu yeni köprüyü yapa.",
-  "turkish_example_sentence_with_blank": "Genç mühendis bu yeni köprüyü ______."
+  "english_example_sentence": "He is making a beautiful painting",
+  "russian_example_sentence": "Он делает красивую картину",
+  "turkish_example_sentence": "O güzel bir tablo yapıyor.",
+  "turkish_example_sentence_with_blank": "O güzel bir tablo ______."
 }

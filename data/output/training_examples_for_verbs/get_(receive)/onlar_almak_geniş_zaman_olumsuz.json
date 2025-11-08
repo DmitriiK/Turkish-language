@@ -4,17 +4,17 @@
   "verb_russian": "получать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almazlar",
+    "verb_full": "almıyorlar",
     "root": "al",
-    "tense_affix": "z",
+    "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "mı"
   },
-  "english_example_sentence": "Lazy students do not get good grades.",
-  "russian_example_sentence": "Ленивые студенты не получают хорошие оценки.",
-  "turkish_example_sentence": "Tembel öğrenciler iyi notlar almazlar.",
-  "turkish_example_sentence_with_blank": "Tembel öğrenciler iyi notlar ______."
+  "english_example_sentence": "They do not get the information.",
+  "russian_example_sentence": "Они не получают информацию.",
+  "turkish_example_sentence": "Öğrenciler sınavda bilgiyi almıyorlar.",
+  "turkish_example_sentence_with_blank": "Öğrenciler sınavda bilgiyi ______."
 }

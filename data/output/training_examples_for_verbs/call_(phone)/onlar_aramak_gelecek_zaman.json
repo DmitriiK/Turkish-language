@@ -4,7 +4,7 @@
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "arayacaklar",
+    "verb_full": "aramayacaklar",
     "root": "ara",
     "tense_affix": "yacak",
     "verb_tense": "gelecek_zaman",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The neighbors will call their old friends tomorrow.",
-  "russian_example_sentence": "Соседи позвонят своим старым друзьям завтра.",
-  "turkish_example_sentence": "Komşular yarın eski arkadaşlarını arayacaklar.",
-  "turkish_example_sentence_with_blank": "Komşular yarın eski arkadaşlarını ______."
+  "english_example_sentence": "They will call their friends tomorrow.",
+  "russian_example_sentence": "Они позвонят своим друзьям завтра.",
+  "turkish_example_sentence": "Onlar yarın arkadaşlarına **aramayacaklar**.",
+  "turkish_example_sentence_with_blank": "Onlar yarın arkadaşlarına **______**."
 }

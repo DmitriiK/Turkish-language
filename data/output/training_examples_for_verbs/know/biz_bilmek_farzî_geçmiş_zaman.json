@@ -4,17 +4,17 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilseydik",
+    "verb_full": "bildiğimiz",
     "root": "bil",
-    "tense_affix": "seydi",
+    "tense_affix": "di",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ğimiz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we had known this important situation earlier, we would have found a solution.",
-  "russian_example_sentence": "Если бы мы знали эту важную ситуацию раньше, мы бы нашли решение.",
-  "turkish_example_sentence": "Biz bu önemli durumu daha önce bilseydik, bir çözüm bulurduk.",
-  "turkish_example_sentence_with_blank": "Biz bu önemli durumu daha önce ______, bir çözüm bulurduk."
+  "english_example_sentence": "We knew the answer to the question.",
+  "russian_example_sentence": "Мы знали ответ на вопрос.",
+  "turkish_example_sentence": "Biz sorunun cevabını bildiğimiz.",
+  "turkish_example_sentence_with_blank": "Biz sorunun cevabını ______."
 }

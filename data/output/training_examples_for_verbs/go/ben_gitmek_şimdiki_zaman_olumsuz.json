@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gitmiyorum",
     "root": "git",
-    "tense_affix": "yor",
+    "tense_affix": "iyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "um",
     "polarity": "negative",
-    "negative_affix": "mi"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "I am not going to the big park.",
-  "russian_example_sentence": "Я не иду в большой парк.",
-  "turkish_example_sentence": "Ben büyük parka gitmiyorum.",
-  "turkish_example_sentence_with_blank": "Ben büyük parka ______."
+  "english_example_sentence": "I am not going to the market.",
+  "russian_example_sentence": "Я не иду на рынок.",
+  "turkish_example_sentence": "Ben pazara gitmiyorum.",
+  "turkish_example_sentence_with_blank": "Ben pazara ______."
 }

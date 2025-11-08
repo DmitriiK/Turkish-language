@@ -4,17 +4,17 @@
   "verb_russian": "получать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "alabilirsin",
+    "verb_full": "alıyorsun",
     "root": "al",
-    "tense_affix": "ebilir",
+    "tense_affix": "ıyor",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "sin",
+    "personal_affix": "sun",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can get this old book from the library.",
-  "russian_example_sentence": "Ты можешь взять эту старую книгу из библиотеки.",
-  "turkish_example_sentence": "Sen bu eski kitabı kütüphaneden alabilirsin.",
-  "turkish_example_sentence_with_blank": "Sen bu eski kitabı kütüphaneden ______."
+  "english_example_sentence": "You are getting the new book.",
+  "russian_example_sentence": "Ты получаешь новую книгу.",
+  "turkish_example_sentence": "Sen yeni kitabı alıyorsun.",
+  "turkish_example_sentence_with_blank": "Sen yeni kitabı ______."
 }

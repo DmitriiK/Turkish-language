@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "bulmalıyım",
     "root": "bul",
-    "tense_affix": "malı",
+    "tense_affix": "malıy",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "yım",
+    "personal_affix": "ım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I must find a beautiful house in this city.",
-  "russian_example_sentence": "Я должен найти красивый дом в этом городе.",
-  "turkish_example_sentence": "Ben bu şehirde güzel bir ev bulmalıyım.",
-  "turkish_example_sentence_with_blank": "Ben bu şehirde güzel bir ev ______."
+  "english_example_sentence": "I must find my keys.",
+  "russian_example_sentence": "Мне нужно найти свои ключи.",
+  "turkish_example_sentence": "Ben anahtarlarımı bulmalıyım.",
+  "turkish_example_sentence_with_blank": "Ben anahtarlarımı ______."
 }

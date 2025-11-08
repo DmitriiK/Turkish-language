@@ -4,17 +4,17 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "isteyecekti",
+    "verb_full": "istedi",
     "root": "iste",
-    "tense_affix": "yecekti",
+    "tense_affix": "di",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "i",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The small child would want a new toy.",
-  "russian_example_sentence": "Маленький ребенок захотел бы новую игрушку.",
-  "turkish_example_sentence": "Küçük çocuk, yeni bir oyuncak isteyecekti.",
-  "turkish_example_sentence_with_blank": "Küçük çocuk, yeni bir oyuncak ______."
+  "english_example_sentence": "He wants to go to the park.",
+  "russian_example_sentence": "Он хочет пойти в парк.",
+  "turkish_example_sentence": "O parka gitmeyi istedi.",
+  "turkish_example_sentence_with_blank": "O parka gitmeyi ______."
 }

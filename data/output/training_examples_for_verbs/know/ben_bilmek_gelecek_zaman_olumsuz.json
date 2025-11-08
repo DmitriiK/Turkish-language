@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "bilmeyeceğim",
     "root": "bil",
-    "tense_affix": "yecek",
+    "tense_affix": "yacak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "im",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "I will not know the answer to this difficult question.",
-  "russian_example_sentence": "Я не буду знать ответ на этот сложный вопрос.",
-  "turkish_example_sentence": "Ben bu zor sorunun cevabını bilmeyeceğim.",
-  "turkish_example_sentence_with_blank": "Ben bu zor sorunun cevabını ______."
+  "english_example_sentence": "I will not know the answer.",
+  "russian_example_sentence": "Я не буду знать ответ.",
+  "turkish_example_sentence": "Ben bu sorunun cevabını **bilmeyeceğim**.",
+  "turkish_example_sentence_with_blank": "Ben bu sorunun cevabını **______**."
 }

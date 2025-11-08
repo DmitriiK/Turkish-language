@@ -4,17 +4,17 @@
   "verb_russian": "приходить",
   "verb_infinitive": "gelmek",
   "turkish_verb": {
-    "verb_full": "gelebilirler",
+    "verb_full": "gelecekler",
     "root": "gel",
-    "tense_affix": "ebilir",
+    "tense_affix": "ecek",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "New guests can come here tomorrow evening.",
-  "russian_example_sentence": "Новые гости могут прийти сюда завтра вечером.",
-  "turkish_example_sentence": "Yeni misafirler yarın akşam buraya gelebilirler.",
-  "turkish_example_sentence_with_blank": "Yeni misafirler yarın akşam buraya ______."
+  "english_example_sentence": "The friends will come to the party.",
+  "russian_example_sentence": "Друзья придут на вечеринку.",
+  "turkish_example_sentence": "Arkadaşlar partiye **gelecekler**.",
+  "turkish_example_sentence_with_blank": "Arkadaşlar partiye **______**."
 }

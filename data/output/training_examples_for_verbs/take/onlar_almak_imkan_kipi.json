@@ -4,17 +4,17 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "alabilirler",
+    "verb_full": "alacaklar",
     "root": "al",
-    "tense_affix": "ir",
+    "tense_affix": "acak",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "ler",
+    "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They can take this interesting book from the library.",
-  "russian_example_sentence": "Они могут взять эту интересную книгу из библиотеки.",
-  "turkish_example_sentence": "Onlar bu ilginç kitabı kütüphaneden alabilirler.",
-  "turkish_example_sentence_with_blank": "Onlar bu ilginç kitabı kütüphaneden ______."
+  "english_example_sentence": "They will take the big book from the table.",
+  "russian_example_sentence": "Они возьмут большую книгу со стола.",
+  "turkish_example_sentence": "Onlar masadan büyük kitabı alacaklar.",
+  "turkish_example_sentence_with_blank": "Onlar masadan büyük kitabı ______."
 }

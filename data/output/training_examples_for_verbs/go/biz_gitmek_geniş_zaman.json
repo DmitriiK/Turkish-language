@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gideriz",
+    "verb_full": "gidiyoruz",
     "root": "git",
-    "tense_affix": "er",
+    "tense_affix": "iyor",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "iz",
+    "personal_affix": "uz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We always go to that beautiful park on Sundays.",
-  "russian_example_sentence": "Мы всегда ходим в тот красивый парк по воскресеньям.",
-  "turkish_example_sentence": "Biz her zaman o güzel parka pazar günleri gideriz.",
-  "turkish_example_sentence_with_blank": "Biz her zaman o güzel parka pazar günleri ______."
+  "english_example_sentence": "We are going to the park.",
+  "russian_example_sentence": "Мы идем в парк.",
+  "turkish_example_sentence": "Biz parka gidiyoruz.",
+  "turkish_example_sentence_with_blank": "Biz parka ______."
 }

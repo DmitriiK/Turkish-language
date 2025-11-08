@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "almıyor",
     "root": "al",
-    "tense_affix": "yor",
+    "tense_affix": "ıyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "mı"
   },
-  "english_example_sentence": "The student is not taking a new book.",
-  "russian_example_sentence": "Студент не берёт новую книгу.",
-  "turkish_example_sentence": "Öğrenci yeni bir kitap almıyor.",
-  "turkish_example_sentence_with_blank": "Öğrenci yeni bir kitap ______."
+  "english_example_sentence": "The student is not taking the exam.",
+  "russian_example_sentence": "Студент не сдает экзамен.",
+  "turkish_example_sentence": "Öğrenci sınavı **almıyor**.",
+  "turkish_example_sentence_with_blank": "Öğrenci sınavı **______**."
 }

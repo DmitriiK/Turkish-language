@@ -4,17 +4,17 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmüş olsaydın",
+    "verb_full": "düşündüğünü",
     "root": "düşün",
-    "tense_affix": "müş olsaydı",
+    "tense_affix": "düğünü",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "ün",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you had thought about this important decision more carefully, the result would be different.",
-  "russian_example_sentence": "Если бы ты более внимательно обдумал это важное решение, результат был бы другим.",
-  "turkish_example_sentence": "Bu önemli kararı daha dikkatli düşünmüş olsaydın, sonuç farklı olurdu.",
-  "turkish_example_sentence_with_blank": "Bu önemli kararı daha dikkatli ______, sonuç farklı olurdu."
+  "english_example_sentence": "You thought about the project yesterday.",
+  "russian_example_sentence": "Ты думал о проекте вчера.",
+  "turkish_example_sentence": "Sen projeyi dün düşündüğünü.",
+  "turkish_example_sentence_with_blank": "Sen projeyi dün ______."
 }

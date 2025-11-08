@@ -4,17 +4,17 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söyleyecektiniz",
+    "verb_full": "söylediniz",
     "root": "söyle",
-    "tense_affix": "yecek",
+    "tense_affix": "di",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "tiniz",
+    "personal_affix": "niz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You were about to say something.",
-  "russian_example_sentence": "Вы собирались что-то сказать.",
-  "turkish_example_sentence": "Siz önemli bir şey söyleyecektiniz",
-  "turkish_example_sentence_with_blank": "Siz önemli bir şey ______"
+  "english_example_sentence": "You said the truth yesterday.",
+  "russian_example_sentence": "Вы сказали правду вчера.",
+  "turkish_example_sentence": "Siz dün gerçeği söylediniz.",
+  "turkish_example_sentence_with_blank": "Siz dün gerçeği ______."
 }

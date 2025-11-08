@@ -4,17 +4,17 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemiyorsun",
+    "verb_full": "istemiyorum",
     "root": "iste",
     "tense_affix": "yor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "sun",
+    "personal_affix": "um",
     "polarity": "negative",
-    "negative_affix": "mi"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "You don't want food for this small dog.",
-  "russian_example_sentence": "Ты не хочешь еду для этой маленькой собаки.",
-  "turkish_example_sentence": "Sen, bu küçük köpek için mama istemiyorsun.",
-  "turkish_example_sentence_with_blank": "Sen, bu küçük köpek için mama ______."
+  "english_example_sentence": "You do not want to eat this food.",
+  "russian_example_sentence": "Ты не хочешь есть эту еду.",
+  "turkish_example_sentence": "Sen bu yemeği istemiyorum.",
+  "turkish_example_sentence_with_blank": "Sen bu yemeği ______."
 }

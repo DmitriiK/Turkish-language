@@ -4,17 +4,17 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmez",
+    "verb_full": "düşünmüyor",
     "root": "düşün",
     "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "z",
+    "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "mı"
   },
-  "english_example_sentence": "The small child doesn't think about dangers while playing.",
-  "russian_example_sentence": "Маленький ребёнок не думает об опасностях во время игры.",
-  "turkish_example_sentence": "Küçük çocuk oyun oynarken tehlikeleri düşünmez.",
-  "turkish_example_sentence_with_blank": "Küçük çocuk oyun oynarken tehlikeleri ______."
+  "english_example_sentence": "He is not thinking about the problem.",
+  "russian_example_sentence": "Он не думает о проблеме.",
+  "turkish_example_sentence": "Arkadaşım bu sorun hakkında düşünmüyor.",
+  "turkish_example_sentence_with_blank": "Arkadaşım bu sorun hakkında ______."
 }

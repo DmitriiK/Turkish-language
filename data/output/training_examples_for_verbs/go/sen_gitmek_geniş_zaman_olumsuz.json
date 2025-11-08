@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmezsin",
+    "verb_full": "gitmiyorsun",
     "root": "git",
     "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "sin",
+    "personal_affix": "sun",
     "polarity": "negative",
-    "negative_affix": "mez"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "You don't go to the cinema with your old friend.",
-  "russian_example_sentence": "Ты не ходишь в кино со своим старым другом.",
-  "turkish_example_sentence": "Sen eski arkadaşınla sinemaya gitmezsin.",
-  "turkish_example_sentence_with_blank": "Sen eski arkadaşınla sinemaya ______."
+  "english_example_sentence": "You don't go to school.",
+  "russian_example_sentence": "Ты не идёшь в школу.",
+  "turkish_example_sentence": "Sen okula gitmiyorsun.",
+  "turkish_example_sentence_with_blank": "Sen okula ______."
 }

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "bilmiyoruz",
     "root": "bil",
-    "tense_affix": "yor",
+    "tense_affix": "iyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "uz",
     "polarity": "negative",
     "negative_affix": "mi"
   },
-  "english_example_sentence": "We don't know the exact answer to this difficult question.",
-  "russian_example_sentence": "Мы не знаем точного ответа на этот сложный вопрос.",
-  "turkish_example_sentence": "Bu zor soruya tam cevabı bilmiyoruz.",
-  "turkish_example_sentence_with_blank": "Bu zor soruya tam cevabı ______."
+  "english_example_sentence": "We do not know the answer.",
+  "russian_example_sentence": "Мы не знаем ответ.",
+  "turkish_example_sentence": "Biz bu sorunun cevabını **bilmiyoruz**.",
+  "turkish_example_sentence_with_blank": "Biz bu sorunun cevabını **______**."
 }

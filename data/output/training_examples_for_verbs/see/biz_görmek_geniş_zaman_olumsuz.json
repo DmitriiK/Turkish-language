@@ -4,17 +4,17 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görmeyiz",
+    "verb_full": "görmüyoruz",
     "root": "gör",
     "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "yiz",
+    "personal_affix": "uz",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "mü"
   },
-  "english_example_sentence": "We usually don't see small details with friends.",
-  "russian_example_sentence": "Мы обычно не видим мелких деталей с друзьями.",
-  "turkish_example_sentence": "Biz arkadaşlarla küçük detayları genellikle görmeyiz.",
-  "turkish_example_sentence_with_blank": "Biz arkadaşlarla küçük detayları genellikle ______."
+  "english_example_sentence": "We do not see the beautiful city.",
+  "russian_example_sentence": "Мы не видим красивый город.",
+  "turkish_example_sentence": "Biz güzel şehri görmüyoruz.",
+  "turkish_example_sentence_with_blank": "Biz güzel şehri ______."
 }

@@ -4,17 +4,17 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapalar",
+    "verb_full": "yapacaklar",
     "root": "yap",
-    "tense_affix": "a",
+    "tense_affix": "acak",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They should do the new project carefully.",
-  "russian_example_sentence": "Им следует тщательно выполнить новый проект.",
-  "turkish_example_sentence": "Yeni projeyi dikkatli bir şekilde yapalar.",
-  "turkish_example_sentence_with_blank": "Yeni projeyi dikkatli bir şekilde ______."
+  "english_example_sentence": "They will make a big decision.",
+  "russian_example_sentence": "Они примут большое решение.",
+  "turkish_example_sentence": "Öğrenciler önemli bir karar **yapacaklar**.",
+  "turkish_example_sentence_with_blank": "Öğrenciler önemli bir karar **______**."
 }

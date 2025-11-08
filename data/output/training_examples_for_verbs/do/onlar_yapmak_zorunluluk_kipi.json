@@ -4,17 +4,17 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmalılar",
+    "verb_full": "yapmaları",
     "root": "yap",
-    "tense_affix": "malı",
+    "tense_affix": "maları",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "ları",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They must do homework",
-  "russian_example_sentence": "Они должны делать домашнее задание",
-  "turkish_example_sentence": "Öğrenciler bu ödevi yapmalılar",
-  "turkish_example_sentence_with_blank": "Öğrenciler bu ödevi ______"
+  "english_example_sentence": "They must do their homework.",
+  "russian_example_sentence": "Они должны делать свои домашние задания.",
+  "turkish_example_sentence": "Öğrenciler, ödevlerini yapmaları gerekiyor.",
+  "turkish_example_sentence_with_blank": "Öğrenciler, ödevlerini ______ gerekiyor."
 }

@@ -4,17 +4,17 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilsen",
+    "verb_full": "bilirsen",
     "root": "bil",
-    "tense_affix": "se",
+    "tense_affix": "ir",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "sen",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you knew this important truth, you would act better.",
-  "russian_example_sentence": "Если бы ты знал эту важную истину, ты бы действовал лучше.",
-  "turkish_example_sentence": "Sen bu önemli gerçeği bilsen, daha iyi hareket edersin.",
-  "turkish_example_sentence_with_blank": "Sen bu önemli gerçeği ______, daha iyi hareket edersin."
+  "english_example_sentence": "If you know the answer, please tell me.",
+  "russian_example_sentence": "Если ты знаешь ответ, пожалуйста, скажи мне.",
+  "turkish_example_sentence": "Cevabı bilirsen, lütfen bana söyle.",
+  "turkish_example_sentence_with_blank": "Cevabı ______, lütfen bana söyle."
 }

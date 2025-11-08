@@ -4,17 +4,17 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "alacaktım",
+    "verb_full": "aldım",
     "root": "al",
-    "tense_affix": "acaktı",
+    "tense_affix": "dı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I was going to take the big book and pen.",
-  "russian_example_sentence": "Я собирался взять большую книгу и ручку.",
-  "turkish_example_sentence": "Ben büyük kitabı ve kalemi alacaktım.",
-  "turkish_example_sentence_with_blank": "Ben büyük kitabı ve kalemi ______."
+  "english_example_sentence": "I took the book yesterday.",
+  "russian_example_sentence": "Я взял книгу вчера.",
+  "turkish_example_sentence": "Ben dün kitabı aldım.",
+  "turkish_example_sentence_with_blank": "Ben dün kitabı ______."
 }

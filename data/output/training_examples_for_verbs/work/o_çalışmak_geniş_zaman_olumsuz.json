@@ -4,17 +4,17 @@
   "verb_russian": "работать",
   "verb_infinitive": "çalışmak",
   "turkish_verb": {
-    "verb_full": "çalışmaz",
+    "verb_full": "çalışmıyor",
     "root": "çalış",
     "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "z",
+    "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "mı"
   },
-  "english_example_sentence": "This lazy student does not study his lessons.",
-  "russian_example_sentence": "Этот ленивый студент не занимается своими уроками.",
-  "turkish_example_sentence": "Bu tembel öğrenci derslerine çalışmaz.",
-  "turkish_example_sentence_with_blank": "Bu tembel öğrenci derslerine ______."
+  "english_example_sentence": "She does not work in the office.",
+  "russian_example_sentence": "Она не работает в офисе.",
+  "turkish_example_sentence": "Ayşe ofiste çalışmıyor.",
+  "turkish_example_sentence_with_blank": "Ayşe ofiste ______."
 }

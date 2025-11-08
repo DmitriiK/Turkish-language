@@ -4,17 +4,17 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almalı",
+    "verb_full": "alıyor",
     "root": "al",
-    "tense_affix": "malı",
+    "tense_affix": "ıyor",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "u",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "This diligent student must take the new book.",
-  "russian_example_sentence": "Этот прилежный студент должен взять новую книгу.",
-  "turkish_example_sentence": "Bu çalışkan öğrenci, yeni kitabı almalı.",
-  "turkish_example_sentence_with_blank": "Bu çalışkan öğrenci, yeni kitabı ______."
+  "english_example_sentence": "The student must take the book.",
+  "russian_example_sentence": "Студент должен взять книгу.",
+  "turkish_example_sentence": "Öğrenci kitabı alıyor.",
+  "turkish_example_sentence_with_blank": "Öğrenci kitabı ______."
 }

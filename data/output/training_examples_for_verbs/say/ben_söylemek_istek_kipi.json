@@ -4,17 +4,17 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söyleyeyim",
+    "verb_full": "söyleyeceğim",
     "root": "söyle",
-    "tense_affix": "ye",
+    "tense_affix": "yeceğim",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "yim",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I should say something nice.",
-  "russian_example_sentence": "Мне следует сказать что-нибудь приятное.",
-  "turkish_example_sentence": "Ben sana güzel bir şey söyleyeyim.",
-  "turkish_example_sentence_with_blank": "Ben sana güzel bir şey ______."
+  "english_example_sentence": "I will say the truth tomorrow.",
+  "russian_example_sentence": "Я скажу правду завтра.",
+  "turkish_example_sentence": "Ben yarın gerçeği söyleyeceğim.",
+  "turkish_example_sentence_with_blank": "Ben yarın gerçeği ______."
 }

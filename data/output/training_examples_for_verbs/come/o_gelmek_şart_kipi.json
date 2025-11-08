@@ -4,17 +4,17 @@
   "verb_russian": "приходить",
   "verb_infinitive": "gelmek",
   "turkish_verb": {
-    "verb_full": "gelse",
+    "verb_full": "gelecek",
     "root": "gel",
-    "tense_affix": "se",
+    "tense_affix": "ecek",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If the little child comes to me, I will read him a nice story.",
-  "russian_example_sentence": "Если маленький ребенок подойдет ко мне, я прочитаю ему хорошую историю.",
-  "turkish_example_sentence": "Küçük çocuk yanıma gelse, ona güzel bir hikaye okurum.",
-  "turkish_example_sentence_with_blank": "Küçük çocuk yanıma ______, ona güzel bir hikaye okurum."
+  "english_example_sentence": "He will come to the party tomorrow.",
+  "russian_example_sentence": "Он придет на вечеринку завтра.",
+  "turkish_example_sentence": "O yarın partiye gelecek.",
+  "turkish_example_sentence_with_blank": "O yarın partiye ______."
 }

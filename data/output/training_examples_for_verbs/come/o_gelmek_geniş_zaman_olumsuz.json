@@ -4,17 +4,17 @@
   "verb_russian": "приходить",
   "verb_infinitive": "gelmek",
   "turkish_verb": {
-    "verb_full": "gelmez",
+    "verb_full": "gelmiyor",
     "root": "gel",
     "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "mez"
+    "negative_affix": "mi"
   },
-  "english_example_sentence": "The small child does not come to school early.",
-  "russian_example_sentence": "Маленький ребенок не приходит в школу рано.",
-  "turkish_example_sentence": "Küçük çocuk okula erken gelmez.",
-  "turkish_example_sentence_with_blank": "Küçük çocuk okula erken ______."
+  "english_example_sentence": "The teacher is not coming to the meeting.",
+  "russian_example_sentence": "Учитель не приходит на встречу.",
+  "turkish_example_sentence": "Öğretmen toplantıya **gelmiyor**.",
+  "turkish_example_sentence_with_blank": "Öğretmen toplantıya **______**."
 }

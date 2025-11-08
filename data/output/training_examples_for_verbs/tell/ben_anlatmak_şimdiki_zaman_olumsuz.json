@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "anlatmıyorum",
     "root": "anlat",
-    "tense_affix": "yor",
+    "tense_affix": "ıyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "um",
     "polarity": "negative",
-    "negative_affix": "mı"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "I am not telling the small child the bad news.",
-  "russian_example_sentence": "Я не рассказываю маленькому ребенку плохую новость.",
-  "turkish_example_sentence": "Ben küçük çocuğa kötü haberi anlatmıyorum.",
-  "turkish_example_sentence_with_blank": "Ben küçük çocuğa kötü haberi ______."
+  "english_example_sentence": "I am not telling the story.",
+  "russian_example_sentence": "Я не рассказываю историю.",
+  "turkish_example_sentence": "Ben bu hikayeyi anlatmıyorum.",
+  "turkish_example_sentence_with_blank": "Ben bu hikayeyi ______."
 }

@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmezsiniz",
+    "verb_full": "gitmiyorsunuz",
     "root": "git",
     "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "zsiniz",
+    "personal_affix": "sunuz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You do not go on this long road every day.",
-  "russian_example_sentence": "Вы не ходите по этой длинной дороге каждый день.",
-  "turkish_example_sentence": "Siz bu uzun yola her gün gitmezsiniz.",
-  "turkish_example_sentence_with_blank": "Siz bu uzun yola her gün ______."
+  "english_example_sentence": "You do not go to school.",
+  "russian_example_sentence": "Вы не идёте в школу.",
+  "turkish_example_sentence": "Siz okula gitmiyorsunuz.",
+  "turkish_example_sentence_with_blank": "Siz okula ______."
 }

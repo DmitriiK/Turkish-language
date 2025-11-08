@@ -4,17 +4,17 @@
   "verb_russian": "смотреть",
   "verb_infinitive": "bakmak",
   "turkish_verb": {
-    "verb_full": "bakacaktır",
+    "verb_full": "bakacak",
     "root": "bak",
-    "tense_affix": "acaktır",
+    "tense_affix": "acak",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "dır",
+    "personal_affix": "acak",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The child will look at the beautiful bird.",
-  "russian_example_sentence": "Ребёнок будет смотреть на красивую птицу.",
-  "turkish_example_sentence": "Çocuk güzel kuşu bakacaktır.",
-  "turkish_example_sentence_with_blank": "Çocuk güzel kuşu ______."
+  "english_example_sentence": "He will look at the beautiful garden.",
+  "russian_example_sentence": "Он будет смотреть на красивый сад.",
+  "turkish_example_sentence": "O güzel bahçeye bakacak.",
+  "turkish_example_sentence_with_blank": "O güzel bahçeye ______."
 }

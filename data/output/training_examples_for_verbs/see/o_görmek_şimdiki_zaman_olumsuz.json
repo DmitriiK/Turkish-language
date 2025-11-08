@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "görmüyor",
     "root": "gör",
-    "tense_affix": "yor",
+    "tense_affix": "iyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "mü"
+    "negative_affix": "mi"
   },
-  "english_example_sentence": "The small child is not seeing the big cat.",
-  "russian_example_sentence": "Маленький ребенок не видит большую кошку.",
-  "turkish_example_sentence": "Küçük çocuk büyük kediyi görmüyor.",
-  "turkish_example_sentence_with_blank": "Küçük çocuk büyük kediyi ______."
+  "english_example_sentence": "He/She does not see the beautiful flowers.",
+  "russian_example_sentence": "Он/Она не видит красивые цветы.",
+  "turkish_example_sentence": "Bahçedeki güzel çiçekleri **görmüyor**.",
+  "turkish_example_sentence_with_blank": "Bahçedeki güzel çiçekleri **______**."
 }

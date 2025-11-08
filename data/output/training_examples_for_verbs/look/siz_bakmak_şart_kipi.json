@@ -4,17 +4,17 @@
   "verb_russian": "смотреть",
   "verb_infinitive": "bakmak",
   "turkish_verb": {
-    "verb_full": "baksanız",
+    "verb_full": "bakıyorsunuz",
     "root": "bak",
-    "tense_affix": "sa",
+    "tense_affix": "ıyor",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "sunuz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you look out the window, you can see the beautiful garden.",
-  "russian_example_sentence": "Если вы посмотрите в окно, вы увидите красивый сад.",
-  "turkish_example_sentence": "Eğer pencereden dışarı baksanız, güzel bahçeyi görebilirsiniz.",
-  "turkish_example_sentence_with_blank": "Eğer pencereden dışarı ______, güzel bahçeyi görebilirsiniz."
+  "english_example_sentence": "You are looking at the beautiful painting.",
+  "russian_example_sentence": "Вы смотрите на красивую картину.",
+  "turkish_example_sentence": "Siz güzel tabloya bakıyorsunuz.",
+  "turkish_example_sentence_with_blank": "Siz güzel tabloya ______."
 }

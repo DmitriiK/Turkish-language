@@ -4,17 +4,17 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulurum",
+    "verb_full": "buluyorum",
     "root": "bul",
-    "tense_affix": "ur",
+    "tense_affix": "uyor",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "um",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I find an interesting book in the library.",
-  "russian_example_sentence": "Я нахожу интересную книгу в библиотеке.",
-  "turkish_example_sentence": "Ben kütüphanede ilginç bir kitap bulurum.",
-  "turkish_example_sentence_with_blank": "Ben kütüphanede ilginç bir kitap ______."
+  "english_example_sentence": "I find the interesting book.",
+  "russian_example_sentence": "Я нахожу интересную книгу.",
+  "turkish_example_sentence": "Ben ilginç kitabı buluyorum.",
+  "turkish_example_sentence_with_blank": "Ben ilginç kitabı ______."
 }

@@ -4,17 +4,17 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "vermeliler",
+    "verb_full": "veriyorlar",
     "root": "ver",
-    "tense_affix": "meli",
+    "tense_affix": "iyor",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "ler",
+    "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The students must give the new homeworks to the teacher.",
-  "russian_example_sentence": "Студенты должны сдать новые домашние задания учителю.",
-  "turkish_example_sentence": "Öğrenciler yeni ödevleri öğretmene vermeliler.",
-  "turkish_example_sentence_with_blank": "Öğrenciler yeni ödevleri öğretmene ______."
+  "english_example_sentence": "The teachers are giving homework to the students.",
+  "russian_example_sentence": "Учителя дают домашнее задание студентам.",
+  "turkish_example_sentence": "Öğretmenler öğrencilere ödev veriyorlar.",
+  "turkish_example_sentence_with_blank": "Öğretmenler öğrencilere ödev ______."
 }

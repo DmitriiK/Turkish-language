@@ -4,17 +4,17 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "alsanız",
+    "verb_full": "alacaksınız",
     "root": "al",
-    "tense_affix": "sa",
+    "tense_affix": "acak",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "ınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you take this new book, you will get a big discount.",
-  "russian_example_sentence": "Если вы возьмете эту новую книгу, вы получите большую скидку.",
-  "turkish_example_sentence": "Bu yeni kitabı alsanız, büyük bir indirim alırsınız.",
-  "turkish_example_sentence_with_blank": "Bu yeni kitabı ______, büyük bir indirim alırsınız."
+  "english_example_sentence": "You will take the beautiful book.",
+  "russian_example_sentence": "Вы возьмете красивую книгу.",
+  "turkish_example_sentence": "Siz güzel kitabı alacaksınız.",
+  "turkish_example_sentence_with_blank": "Siz güzel kitabı ______."
 }

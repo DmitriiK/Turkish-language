@@ -4,17 +4,17 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmüşüz",
+    "verb_full": "düşünmüştük",
     "root": "düşün",
     "tense_affix": "müş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "üz",
+    "personal_affix": "tük",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We supposedly thought about this complex problem for a long time.",
-  "russian_example_sentence": "Мы, предположительно, долго думали над этой сложной проблемой.",
-  "turkish_example_sentence": "Biz bu karmaşık problemi uzun süre düşünmüşüz.",
-  "turkish_example_sentence_with_blank": "Biz bu karmaşık problemi uzun süre ______."
+  "english_example_sentence": "We thought about the project.",
+  "russian_example_sentence": "Мы думали о проекте.",
+  "turkish_example_sentence": "Projeyi düşünmüştük.",
+  "turkish_example_sentence_with_blank": "Projeyi ______."
 }

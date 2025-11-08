@@ -4,17 +4,17 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylerken",
+    "verb_full": "söyleyiyorlar",
     "root": "söyle",
-    "tense_affix": "erken",
+    "tense_affix": "iyor",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "onlar",
-    "personal_affix": "",
+    "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The students talk while studying.",
-  "russian_example_sentence": "Студенты разговаривают во время учебы.",
-  "turkish_example_sentence": "Öğrenciler ders çalışırken konuşuyorlar.",
-  "turkish_example_sentence_with_blank": "Öğrenciler ders çalışırken konuşuyorlar."
+  "english_example_sentence": "They are saying something interesting.",
+  "russian_example_sentence": "Они говорят что-то интересное.",
+  "turkish_example_sentence": "Öğrenciler bu ders hakkında ilginç şeyler **söyleyiyorlar**.",
+  "turkish_example_sentence_with_blank": "Öğrenciler bu ders hakkında ilginç şeyler **______**."
 }

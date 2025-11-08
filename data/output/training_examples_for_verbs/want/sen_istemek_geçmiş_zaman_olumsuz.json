@@ -4,17 +4,17 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemedin",
-    "root": "iste",
+    "verb_full": "istemediğin",
+    "root": "istem",
     "tense_affix": "di",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "in",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You didn't want this important meeting yesterday.",
-  "russian_example_sentence": "Ты не хотел этой важной встречи вчера.",
-  "turkish_example_sentence": "Sen dün bu önemli toplantıyı istemedin.",
-  "turkish_example_sentence_with_blank": "Sen dün bu önemli toplantıyı ______."
+  "english_example_sentence": "You didn't want to go to the party.",
+  "russian_example_sentence": "Ты не хотел идти на вечеринку.",
+  "turkish_example_sentence": "Sen bu partiye istemediğin.",
+  "turkish_example_sentence_with_blank": "Sen bu partiye ______."
 }

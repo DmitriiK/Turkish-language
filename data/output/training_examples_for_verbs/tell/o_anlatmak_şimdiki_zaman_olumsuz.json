@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "anlatmıyor",
     "root": "anlat",
-    "tense_affix": "yor",
+    "tense_affix": "ıyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "The child is not telling us the old story.",
-  "russian_example_sentence": "Ребенок не рассказывает нам старую историю.",
-  "turkish_example_sentence": "Çocuk, eski hikayeyi bize anlatmıyor.",
-  "turkish_example_sentence_with_blank": "Çocuk, eski hikayeyi bize ______."
+  "english_example_sentence": "He is not telling the story to the children.",
+  "russian_example_sentence": "Он не рассказывает историю детям.",
+  "turkish_example_sentence": "O çocuklara hikaye **anlatmıyor**.",
+  "turkish_example_sentence_with_blank": "O çocuklara hikaye **______**."
 }

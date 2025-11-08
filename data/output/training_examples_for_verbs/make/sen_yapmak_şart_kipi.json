@@ -4,17 +4,17 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapsan",
+    "verb_full": "yapıyorsun",
     "root": "yap",
-    "tense_affix": "sa",
+    "tense_affix": "ıyor",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "sun",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you do this important job, you will achieve great success.",
-  "russian_example_sentence": "Если ты сделаешь эту важную работу, ты добьешься большого успеха.",
-  "turkish_example_sentence": "Sen bu önemli işi yapsan, büyük bir başarı elde edersin.",
-  "turkish_example_sentence_with_blank": "Sen bu önemli işi ______, büyük bir başarı elde edersin."
+  "english_example_sentence": "You are making a beautiful painting",
+  "russian_example_sentence": "Ты делаешь красивую картину",
+  "turkish_example_sentence": "Sen güzel bir tablo yapıyorsun",
+  "turkish_example_sentence_with_blank": "Sen güzel bir tablo ______"
 }

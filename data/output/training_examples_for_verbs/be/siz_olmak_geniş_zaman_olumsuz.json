@@ -4,17 +4,17 @@
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmam",
+    "verb_full": "olmuyorsunuz",
     "root": "ol",
     "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "m",
+    "personal_affix": "sunuz",
     "polarity": "negative",
     "negative_affix": "ma"
   },
   "english_example_sentence": "You are not happy.",
   "russian_example_sentence": "Вы не счастливы.",
-  "turkish_example_sentence": "Kediler bu evde olmam.",
-  "turkish_example_sentence_with_blank": "Kediler bu evde ______."
+  "turkish_example_sentence": "Siz bu durumda mutlu olmuyorsunuz.",
+  "turkish_example_sentence_with_blank": "Siz bu durumda mutlu ______."
 }

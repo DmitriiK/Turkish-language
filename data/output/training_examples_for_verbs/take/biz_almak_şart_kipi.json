@@ -4,17 +4,17 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "alsak",
+    "verb_full": "alacağız",
     "root": "al",
-    "tense_affix": "sa",
+    "tense_affix": "acak",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we take this old table, we should also get new chairs.",
-  "russian_example_sentence": "Если мы возьмем этот старый стол, нам также следует купить новые стулья.",
-  "turkish_example_sentence": "Eğer biz bu eski masayı alsak, yeni sandalyeler de almalıyız.",
-  "turkish_example_sentence_with_blank": "Eğer biz bu eski masayı ______, yeni sandalyeler de almalıyız."
+  "english_example_sentence": "We will take a new approach.",
+  "russian_example_sentence": "Мы примем новый подход.",
+  "turkish_example_sentence": "Biz yeni bir yaklaşım **alacağız**.",
+  "turkish_example_sentence_with_blank": "Biz yeni bir yaklaşım **______**."
 }

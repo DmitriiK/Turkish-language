@@ -4,17 +4,17 @@
   "verb_russian": "смотреть",
   "verb_infinitive": "bakmak",
   "turkish_verb": {
-    "verb_full": "bakan",
+    "verb_full": "bakıyor",
     "root": "bak",
-    "tense_affix": "an",
+    "tense_affix": "ıyor",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "u",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The young girl looking out the window smiled silently.",
-  "russian_example_sentence": "Молодая девушка, смотрящая в окно, тихо улыбнулась.",
-  "turkish_example_sentence": "Pencereden bakan genç kız sessizce gülümsedi.",
-  "turkish_example_sentence_with_blank": "Pencereden ______ genç kız sessizce gülümsedi."
+  "english_example_sentence": "She is looking at the beautiful painting.",
+  "russian_example_sentence": "Она смотрит на красивую картину.",
+  "turkish_example_sentence": "O güzel tabloya bakıyor.",
+  "turkish_example_sentence_with_blank": "O güzel tabloya ______."
 }

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "almalıyım",
     "root": "al",
-    "tense_affix": "malı",
+    "tense_affix": "malıy",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": null,
-    "personal_affix": "yım",
+    "personal_affix": "ım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I should get the report soon.",
-  "russian_example_sentence": "Мне нужно получить отчет скоро.",
-  "turkish_example_sentence": "Raporu yakında almalıyım.",
-  "turkish_example_sentence_with_blank": "Raporu yakında **______**."
+  "english_example_sentence": "I must get the book.",
+  "russian_example_sentence": "Я должен получить книгу.",
+  "turkish_example_sentence": "Ben kitabı almalıyım.",
+  "turkish_example_sentence_with_blank": "Ben kitabı ______."
 }

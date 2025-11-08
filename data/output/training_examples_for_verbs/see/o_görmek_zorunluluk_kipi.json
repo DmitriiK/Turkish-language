@@ -4,17 +4,17 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görmeli",
+    "verb_full": "görmesi gerekir",
     "root": "gör",
-    "tense_affix": "meli",
+    "tense_affix": "mesi gerekir",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "i",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The small child must see the beautiful movie.",
-  "russian_example_sentence": "Маленький ребенок должен посмотреть красивый фильм.",
-  "turkish_example_sentence": "Küçük çocuk güzel filmi görmeli.",
-  "turkish_example_sentence_with_blank": "Küçük çocuk güzel filmi ______."
+  "english_example_sentence": "He needs to see the doctor.",
+  "russian_example_sentence": "Ему нужно увидеть врача.",
+  "turkish_example_sentence": "O doktoru görmesi gerekir.",
+  "turkish_example_sentence_with_blank": "O doktoru ______."
 }

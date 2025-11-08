@@ -4,17 +4,17 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilsem",
+    "verb_full": "bilirsem",
     "root": "bil",
-    "tense_affix": "se",
+    "tense_affix": "ir",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "sem",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I knew the answer to this complex problem, I would tell you.",
-  "russian_example_sentence": "Если бы я знал ответ на эту сложную проблему, я бы рассказал тебе.",
-  "turkish_example_sentence": "Eğer bu karmaşık sorunun cevabını bilsem, sana anlatırdım.",
-  "turkish_example_sentence_with_blank": "Eğer bu karmaşık sorunun cevabını ______, sana anlatırdım."
+  "english_example_sentence": "If I know the answer, I will help you.",
+  "russian_example_sentence": "Если я знаю ответ, я помогу тебе.",
+  "turkish_example_sentence": "Cevabı bilirsem, sana yardım edeceğim.",
+  "turkish_example_sentence_with_blank": "Cevabı ______, sana yardım edeceğim."
 }

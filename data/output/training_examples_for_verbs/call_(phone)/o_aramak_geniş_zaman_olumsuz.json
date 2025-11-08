@@ -4,17 +4,17 @@
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "aramaz",
+    "verb_full": "aramıyor",
     "root": "ara",
     "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "z",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "My elder brother never calls his old friend.",
-  "russian_example_sentence": "Мой старший брат никогда не звонит своему старому другу.",
-  "turkish_example_sentence": "Benim abim eski arkadaşını hiç aramaz.",
-  "turkish_example_sentence_with_blank": "Benim abim eski arkadaşını hiç ______."
+  "english_example_sentence": "She is not calling her friend.",
+  "russian_example_sentence": "Она не звонит своей подруге.",
+  "turkish_example_sentence": "O, arkadaşına **aramıyor**.",
+  "turkish_example_sentence_with_blank": "O, arkadaşına **______**."
 }

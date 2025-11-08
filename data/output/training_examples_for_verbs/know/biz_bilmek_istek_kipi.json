@@ -4,17 +4,17 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilelim",
+    "verb_full": "bilmemiz",
     "root": "bil",
-    "tense_affix": "e",
+    "tense_affix": "me",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "lim",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Let's know this important topic better with our friends.",
-  "russian_example_sentence": "Давайте лучше узнаем эту важную тему с нашими друзьями.",
-  "turkish_example_sentence": "Biz bu önemli konuyu arkadaşlarımızla daha iyi bilelim.",
-  "turkish_example_sentence_with_blank": "Biz bu önemli konuyu arkadaşlarımızla daha iyi ______."
+  "english_example_sentence": "We want to know the answer.",
+  "russian_example_sentence": "Мы хотим знать ответ.",
+  "turkish_example_sentence": "Biz cevabı **bilmemiz** istiyor.",
+  "turkish_example_sentence_with_blank": "Biz cevabı **______** istiyor."
 }

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gitmeliyiz",
     "root": "git",
-    "tense_affix": "meli",
+    "tense_affix": "meliyiz",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "yiz",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We must go to the new library in the city.",
-  "russian_example_sentence": "Мы должны пойти в новую библиотеку в городе.",
-  "turkish_example_sentence": "Şehirdeki yeni kütüphaneye gitmeliyiz.",
-  "turkish_example_sentence_with_blank": "Şehirdeki yeni kütüphaneye ______."
+  "english_example_sentence": "We must go to the market today.",
+  "russian_example_sentence": "Мы должны идти на рынок сегодня.",
+  "turkish_example_sentence": "Biz bugün pazara gitmeliyiz.",
+  "turkish_example_sentence_with_blank": "Biz bugün pazara ______."
 }

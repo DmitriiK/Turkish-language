@@ -4,17 +4,17 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilebilir",
+    "verb_full": "biliyor",
     "root": "bil",
-    "tense_affix": "ebilir",
+    "tense_affix": "iyor",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "A successful student can easily know this difficult topic.",
-  "russian_example_sentence": "Успешный студент может легко знать эту сложную тему.",
-  "turkish_example_sentence": "Başarılı bir öğrenci bu zor konuyu kolayca bilebilir.",
-  "turkish_example_sentence_with_blank": "Başarılı bir öğrenci bu zor konuyu kolayca ______."
+  "english_example_sentence": "She knows the answer to the question.",
+  "russian_example_sentence": "Она знает ответ на вопрос.",
+  "turkish_example_sentence": "Öğretmen sorunun cevabını biliyor.",
+  "turkish_example_sentence_with_blank": "Öğretmen sorunun cevabını ______."
 }

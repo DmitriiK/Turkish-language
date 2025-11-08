@@ -4,17 +4,17 @@
   "verb_russian": "смотреть",
   "verb_infinitive": "bakmak",
   "turkish_verb": {
-    "verb_full": "bakacaktım",
+    "verb_full": "bakmadım",
     "root": "bak",
-    "tense_affix": "acaktı",
+    "tense_affix": "madı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Last night, I would have looked at that beautiful view.",
-  "russian_example_sentence": "Прошлой ночью я бы посмотрел на тот красивый вид.",
-  "turkish_example_sentence": "Dün gece o güzel manzaraya bakacaktım.",
-  "turkish_example_sentence_with_blank": "Dün gece o güzel manzaraya ______."
+  "english_example_sentence": "I looked at the beautiful painting.",
+  "russian_example_sentence": "Я посмотрел на красивую картину.",
+  "turkish_example_sentence": "Ben güzel tabloya bakmadım.",
+  "turkish_example_sentence_with_blank": "Ben güzel tabloya ______."
 }

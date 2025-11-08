@@ -4,17 +4,17 @@
   "verb_russian": "смотреть",
   "verb_infinitive": "bakmak",
   "turkish_verb": {
-    "verb_full": "bakayım",
+    "verb_full": "bakıyorum",
     "root": "bak",
-    "tense_affix": "a",
+    "tense_affix": "ıyor",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "yım",
+    "personal_affix": "um",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Let me look at the new neighbor's beautiful garden.",
-  "russian_example_sentence": "Дай мне посмотреть на красивый сад новой соседки.",
-  "turkish_example_sentence": "Yeni komşunun güzel bahçesine bakayım.",
-  "turkish_example_sentence_with_blank": "Yeni komşunun güzel bahçesine ______."
+  "english_example_sentence": "I look at the beautiful painting.",
+  "russian_example_sentence": "Я смотрю на красивую картину.",
+  "turkish_example_sentence": "Ben güzel tabloya bakıyorum.",
+  "turkish_example_sentence_with_blank": "Ben güzel tabloya ______."
 }

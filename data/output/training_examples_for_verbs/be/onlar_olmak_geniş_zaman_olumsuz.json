@@ -4,17 +4,17 @@
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmuyorlar",
+    "verb_full": "olmam",
     "root": "ol",
     "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ma"
   },
   "english_example_sentence": "They are not happy today.",
   "russian_example_sentence": "Они сегодня не счастливы.",
-  "turkish_example_sentence": "Çocuklar bahçede mutlu olmuyorlar.",
-  "turkish_example_sentence_with_blank": "Çocuklar bahçede mutlu ______."
+  "turkish_example_sentence": "Çocuklar bugün mutlu **olmam**.",
+  "turkish_example_sentence_with_blank": "Çocuklar bugün mutlu **______**."
 }

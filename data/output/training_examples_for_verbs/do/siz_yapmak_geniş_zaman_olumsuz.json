@@ -4,17 +4,17 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmazsınız",
+    "verb_full": "yapmam",
     "root": "yap",
     "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "zsınız",
+    "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You do not do homework.",
-  "russian_example_sentence": "Вы не делаете домашнюю работу.",
-  "turkish_example_sentence": "Siz ödev yapmazsınız.",
-  "turkish_example_sentence_with_blank": "Siz ödev ______."
+  "english_example_sentence": "You do not work on Sundays.",
+  "russian_example_sentence": "Вы не работаете по воскресеньям.",
+  "turkish_example_sentence": "Siz pazar günleri yapmam.",
+  "turkish_example_sentence_with_blank": "Siz pazar günleri ______."
 }

@@ -4,17 +4,17 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmışsınız",
+    "verb_full": "yaptınız",
     "root": "yap",
-    "tense_affix": "mış",
+    "tense_affix": "tı",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "sınız",
+    "personal_affix": "nız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You supposedly completed this difficult project wonderfully.",
-  "russian_example_sentence": "Вы, предположительно, прекрасно выполнили этот сложный проект.",
-  "turkish_example_sentence": "Bu zor projeyi siz harika bir şekilde yapmışsınız.",
-  "turkish_example_sentence_with_blank": "Bu zor projeyi siz harika bir şekilde ______."
+  "english_example_sentence": "You did the important task yesterday.",
+  "russian_example_sentence": "Вы сделали важное задание вчера.",
+  "turkish_example_sentence": "Siz önemli görevi dün yaptınız.",
+  "turkish_example_sentence_with_blank": "Siz önemli görevi dün ______."
 }

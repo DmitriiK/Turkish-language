@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "bilmiyor",
     "root": "bil",
-    "tense_affix": "yor",
+    "tense_affix": "iyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "mi"
   },
-  "english_example_sentence": "My friend doesn't know the important news.",
-  "russian_example_sentence": "Мой друг не знает важную новость.",
-  "turkish_example_sentence": "Arkadaşım önemli haberi bilmiyor.",
-  "turkish_example_sentence_with_blank": "Arkadaşım önemli haberi ______."
+  "english_example_sentence": "He does not know the answer.",
+  "russian_example_sentence": "Он не знает ответа.",
+  "turkish_example_sentence": "Ali bu soruyu **bilmiyor**.",
+  "turkish_example_sentence_with_blank": "Ali bu soruyu **______**."
 }

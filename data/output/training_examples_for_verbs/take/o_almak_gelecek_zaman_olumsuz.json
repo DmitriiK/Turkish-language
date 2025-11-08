@@ -9,12 +9,12 @@
     "tense_affix": "yacak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "The little child will not take the old book.",
-  "russian_example_sentence": "Маленький ребенок не возьмет старую книгу.",
-  "turkish_example_sentence": "Küçük çocuk eski kitabı almayacak.",
-  "turkish_example_sentence_with_blank": "Küçük çocuk eski kitabı ______."
+  "english_example_sentence": "He will not take his book tomorrow.",
+  "russian_example_sentence": "Он не возьмет свою книгу завтра.",
+  "turkish_example_sentence": "O, yarın kitabını **almayacak**.",
+  "turkish_example_sentence_with_blank": "O, yarın kitabını **______**."
 }

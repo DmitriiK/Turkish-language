@@ -4,17 +4,17 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünsem",
+    "verb_full": "düşünürsem",
     "root": "düşün",
-    "tense_affix": "se",
+    "tense_affix": "ür",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "sem",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I think about this important issue, I will find the right way.",
-  "russian_example_sentence": "Если я подумаю об этом важном вопросе, я найду правильный путь.",
-  "turkish_example_sentence": "Bu önemli konuyu düşünsem, doğru yolu bulurum.",
-  "turkish_example_sentence_with_blank": "Bu önemli konuyu ______, doğru yolu bulurum."
+  "english_example_sentence": "I think about important things.",
+  "russian_example_sentence": "Я думаю о важных вещах.",
+  "turkish_example_sentence": "Ben önemli şeyler hakkında düşünürsem.",
+  "turkish_example_sentence_with_blank": "Ben önemli şeyler hakkında ______."
 }

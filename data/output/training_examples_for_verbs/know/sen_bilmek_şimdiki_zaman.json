@@ -4,17 +4,17 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "biliyorsun",
+    "verb_full": "biliyorum",
     "root": "bil",
     "tense_affix": "iyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "sun",
+    "personal_affix": "u",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You know the correct answer to this difficult question.",
-  "russian_example_sentence": "Ты знаешь правильный ответ на этот сложный вопрос.",
-  "turkish_example_sentence": "Bu zor sorunun doğru cevabını biliyorsun.",
-  "turkish_example_sentence_with_blank": "Bu zor sorunun doğru cevabını ______."
+  "english_example_sentence": "You are knowing the answer.",
+  "russian_example_sentence": "Ты знаешь ответ.",
+  "turkish_example_sentence": "Sen doğru cevabı biliyorum.",
+  "turkish_example_sentence_with_blank": "Sen doğru cevabı ______."
 }

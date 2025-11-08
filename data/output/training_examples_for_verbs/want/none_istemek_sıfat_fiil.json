@@ -4,17 +4,17 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "isteyen",
-    "root": "iste",
-    "tense_affix": "yen",
+    "verb_full": "istekli",
+    "root": "istemek",
+    "tense_affix": "",
     "verb_tense": "sıfat_fiil",
     "personal_pronoun": null,
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The little child who wanted help was crying.",
-  "russian_example_sentence": "Маленький ребенок, который хотел помощи, плакал.",
-  "turkish_example_sentence": "Yardım isteyen küçük çocuk ağlıyordu.",
-  "turkish_example_sentence_with_blank": "Yardım ______ küçük çocuk ağlıyordu."
+  "english_example_sentence": "The child is eager to learn.",
+  "russian_example_sentence": "Ребёнок хочет учиться.",
+  "turkish_example_sentence": "Çocuk öğrenmeye istekli.",
+  "turkish_example_sentence_with_blank": "Çocuk öğrenmeye ______."
 }

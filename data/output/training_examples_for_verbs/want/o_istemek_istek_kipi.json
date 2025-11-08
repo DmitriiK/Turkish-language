@@ -4,17 +4,17 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istesin",
+    "verb_full": "istiyor",
     "root": "iste",
-    "tense_affix": "",
+    "tense_affix": "yor",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "sin",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The child should want a new toy.",
-  "russian_example_sentence": "Ребенок должен захотеть новую игрушку.",
-  "turkish_example_sentence": "Çocuk yeni bir oyuncak istesin.",
+  "english_example_sentence": "The child wants a new toy.",
+  "russian_example_sentence": "Ребёнок хочет новую игрушку.",
+  "turkish_example_sentence": "Çocuk yeni bir oyuncak istiyor.",
   "turkish_example_sentence_with_blank": "Çocuk yeni bir oyuncak ______."
 }

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "anlatmıyoruz",
     "root": "anlat",
-    "tense_affix": "yor",
+    "tense_affix": "ıyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "uz",
     "polarity": "negative",
-    "negative_affix": "mı"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "We are not telling the interesting story to our new friends.",
-  "russian_example_sentence": "Мы не рассказываем интересную историю нашим новым друзьям.",
-  "turkish_example_sentence": "Yeni arkadaşlarımıza ilginç hikayeyi anlatmıyoruz.",
-  "turkish_example_sentence_with_blank": "Yeni arkadaşlarımıza ilginç hikayeyi ______."
+  "english_example_sentence": "We are not telling the story to the children.",
+  "russian_example_sentence": "Мы не рассказываем историю детям.",
+  "turkish_example_sentence": "Biz çocuklara hikaye **anlatmıyoruz**.",
+  "turkish_example_sentence_with_blank": "Biz çocuklara hikaye **______**."
 }

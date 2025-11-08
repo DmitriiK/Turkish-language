@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "giderek",
+    "verb_full": "gidiyorum",
     "root": "git",
-    "tense_affix": "erek",
+    "tense_affix": "iyor",
     "verb_tense": "zarf_fiil",
     "personal_pronoun": null,
-    "personal_affix": "",
+    "personal_affix": "um",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The small child learns new information by going to school every day.",
-  "russian_example_sentence": "Маленький ребенок узнает новую информацию, ежедневно посещая школу.",
-  "turkish_example_sentence": "Küçük çocuk her gün okula giderek yeni bilgiler öğrenir.",
-  "turkish_example_sentence_with_blank": "Küçük çocuk her gün okula ______ yeni bilgiler öğrenir."
+  "english_example_sentence": "The child is going to the park.",
+  "russian_example_sentence": "Ребёнок идёт в парк.",
+  "turkish_example_sentence": "Çocuk parka gidiyorum.",
+  "turkish_example_sentence_with_blank": "Çocuk parka ______."
 }

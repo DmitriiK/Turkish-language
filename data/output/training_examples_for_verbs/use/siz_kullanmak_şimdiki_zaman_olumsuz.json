@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "kullanmıyorsunuz",
     "root": "kullan",
-    "tense_affix": "yor",
+    "tense_affix": "ıyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "sunuz",
     "polarity": "negative",
-    "negative_affix": "mı"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "You are not using this old computer at home.",
-  "russian_example_sentence": "Вы не используете этот старый компьютер дома.",
-  "turkish_example_sentence": "Siz bu eski bilgisayarı evde kullanmıyorsunuz.",
-  "turkish_example_sentence_with_blank": "Siz bu eski bilgisayarı evde ______."
+  "english_example_sentence": "You are not using the correct method.",
+  "russian_example_sentence": "Вы не используете правильный метод.",
+  "turkish_example_sentence": "Siz doğru metodu **kullanmıyorsunuz**.",
+  "turkish_example_sentence_with_blank": "Siz doğru metodu **______**."
 }

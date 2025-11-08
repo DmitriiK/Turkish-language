@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "bileceğiz",
     "root": "bil",
-    "tense_affix": "ecek",
+    "tense_affix": "eceğiz",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "iz",
+    "personal_affix": "ğiz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We will know the results of this difficult exam soon.",
-  "russian_example_sentence": "Мы скоро узнаем результаты этого сложного экзамена.",
-  "turkish_example_sentence": "Biz bu zorlu sınavın sonuçlarını yakında bileceğiz.",
-  "turkish_example_sentence_with_blank": "Biz bu zorlu sınavın sonuçlarını yakında ______."
+  "english_example_sentence": "We will know the answer tomorrow.",
+  "russian_example_sentence": "Мы узнаем ответ завтра.",
+  "turkish_example_sentence": "Yarın cevapları biz bileceğiz.",
+  "turkish_example_sentence_with_blank": "Yarın cevapları biz ______."
 }

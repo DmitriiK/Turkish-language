@@ -4,17 +4,17 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "buldun",
+    "verb_full": "bulduğun",
     "root": "bul",
     "tense_affix": "du",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "un",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You found an old book in the library.",
-  "russian_example_sentence": "Ты нашел старую книгу в библиотеке.",
-  "turkish_example_sentence": "Sen kütüphanede eski bir kitap buldun.",
-  "turkish_example_sentence_with_blank": "Sen kütüphanede eski bir kitap ______."
+  "english_example_sentence": "You found the lost book.",
+  "russian_example_sentence": "Ты нашёл потерянную книгу.",
+  "turkish_example_sentence": "Sen kaybolan kitabı bulduğun.",
+  "turkish_example_sentence_with_blank": "Sen kaybolan kitabı ______."
 }

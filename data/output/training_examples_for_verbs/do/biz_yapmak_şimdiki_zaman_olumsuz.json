@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "yapmıyoruz",
     "root": "yap",
-    "tense_affix": "yor",
+    "tense_affix": "ıyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "uz",
     "polarity": "negative",
     "negative_affix": "mı"
   },
-  "english_example_sentence": "We are not doing homework.",
-  "russian_example_sentence": "Мы не делаем домашнее задание.",
-  "turkish_example_sentence": "Biz ödev yapmıyoruz.",
-  "turkish_example_sentence_with_blank": "Biz ödev ______."
+  "english_example_sentence": "We are not doing our homework",
+  "russian_example_sentence": "Мы не делаем домашнее задание",
+  "turkish_example_sentence": "Biz ödevimizi yapmıyoruz",
+  "turkish_example_sentence_with_blank": "Biz ödevimizi ______"
 }

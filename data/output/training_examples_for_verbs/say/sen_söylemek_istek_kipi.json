@@ -4,17 +4,17 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylesen",
+    "verb_full": "söyleyeceksin",
     "root": "söyle",
-    "tense_affix": "se",
+    "tense_affix": "yecek",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I wish you would say",
-  "russian_example_sentence": "Я хочу, чтобы ты сказал",
-  "turkish_example_sentence": "Keşke sen doğruyu söylesen.",
-  "turkish_example_sentence_with_blank": "Keşke sen doğruyu ______."
+  "english_example_sentence": "You will say the truth.",
+  "russian_example_sentence": "Ты скажешь правду.",
+  "turkish_example_sentence": "Sen doğruyu söyleyeceksin.",
+  "turkish_example_sentence_with_blank": "Sen doğruyu ______."
 }

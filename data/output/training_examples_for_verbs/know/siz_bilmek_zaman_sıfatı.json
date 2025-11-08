@@ -4,17 +4,17 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilensiniz",
+    "verb_full": "biliyorsunuz",
     "root": "bil",
-    "tense_affix": "en",
+    "tense_affix": "iyor",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "siz",
-    "personal_affix": "siniz",
+    "personal_affix": "sunuz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "As the smartest student of the school, you are the one who knows everything.",
-  "russian_example_sentence": "Как самый умный ученик школы, вы тот, кто всё знает.",
-  "turkish_example_sentence": "Siz, okulun en zeki öğrencisi olarak her şeyi bilensiniz.",
-  "turkish_example_sentence_with_blank": "Siz, okulun en zeki öğrencisi olarak her şeyi ______."
+  "english_example_sentence": "You know this information well.",
+  "russian_example_sentence": "Вы хорошо знаете эту информацию.",
+  "turkish_example_sentence": "Siz bu bilgiyi iyi biliyorsunuz.",
+  "turkish_example_sentence_with_blank": "Siz bu bilgiyi iyi ______."
 }

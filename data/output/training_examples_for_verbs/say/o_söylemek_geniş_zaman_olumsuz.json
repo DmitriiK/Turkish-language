@@ -4,17 +4,17 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylemez",
+    "verb_full": "söylemiyor",
     "root": "söyle",
     "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "mi"
   },
-  "english_example_sentence": "My father does not say.",
-  "russian_example_sentence": "Мой отец не говорит.",
-  "turkish_example_sentence": "Babam söylemez.",
-  "turkish_example_sentence_with_blank": "Babam ______."
+  "english_example_sentence": "He is not saying anything.",
+  "russian_example_sentence": "Он ничего не говорит.",
+  "turkish_example_sentence": "Ali, Ahmet'e hiçbir şey söylemiyor.",
+  "turkish_example_sentence_with_blank": "Ali, Ahmet'e hiçbir şey ______."
 }

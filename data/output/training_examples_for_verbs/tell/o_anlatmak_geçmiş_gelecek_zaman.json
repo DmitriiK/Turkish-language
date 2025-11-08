@@ -4,17 +4,17 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatacaktı",
+    "verb_full": "anlatacak",
     "root": "anlat",
-    "tense_affix": "acaktı",
+    "tense_affix": "acak",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "acak",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The little child would have told an interesting story to his mother.",
-  "russian_example_sentence": "Маленький ребенок рассказал бы интересную историю своей матери.",
-  "turkish_example_sentence": "Küçük çocuk, annesine ilginç bir hikaye anlatacaktı.",
-  "turkish_example_sentence_with_blank": "Küçük çocuk, annesine ilginç bir hikaye ______."
+  "english_example_sentence": "He will tell a story about the cat.",
+  "russian_example_sentence": "Он расскажет историю о кошке.",
+  "turkish_example_sentence": "O, kediden bir hikaye anlatacak.",
+  "turkish_example_sentence_with_blank": "O, kediden bir hikaye ______."
 }

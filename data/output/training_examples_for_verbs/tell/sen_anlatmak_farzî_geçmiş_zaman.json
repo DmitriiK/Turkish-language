@@ -4,17 +4,17 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatırmışsın",
+    "verb_full": "anlattın",
     "root": "anlat",
-    "tense_affix": "ırmış",
+    "tense_affix": "tı",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "sın",
+    "personal_affix": "ın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You reportedly told this interesting story to your friend.",
-  "russian_example_sentence": "Ты, говорят, рассказал эту интересную историю своему другу.",
-  "turkish_example_sentence": "Sen bu ilginç hikayeyi arkadaşına anlatırmışsın.",
-  "turkish_example_sentence_with_blank": "Sen bu ilginç hikayeyi arkadaşına ______."
+  "english_example_sentence": "You told an interesting story.",
+  "russian_example_sentence": "Ты рассказал интересную историю.",
+  "turkish_example_sentence": "Sen ilginç bir hikaye anlattın.",
+  "turkish_example_sentence_with_blank": "Sen ilginç bir hikaye ______."
 }

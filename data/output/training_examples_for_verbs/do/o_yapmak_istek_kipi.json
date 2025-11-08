@@ -4,17 +4,17 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapsa",
+    "verb_full": "yapıyor",
     "root": "yap",
-    "tense_affix": "sa",
+    "tense_affix": "ıyor",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "u",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The student should do homework.",
-  "russian_example_sentence": "Студент должен делать домашнее задание.",
-  "turkish_example_sentence": "Öğrenci ödevi dikkatle yapsa.",
-  "turkish_example_sentence_with_blank": "Öğrenci ödevi dikkatle ______."
+  "english_example_sentence": "She is doing her homework.",
+  "russian_example_sentence": "Она делает домашнее задание.",
+  "turkish_example_sentence": "O, ödevini yapıyor.",
+  "turkish_example_sentence_with_blank": "O, ödevini ______."
 }

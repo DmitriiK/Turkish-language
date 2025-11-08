@@ -4,17 +4,17 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapacaktınız",
+    "verb_full": "yapacaksınız",
     "root": "yap",
-    "tense_affix": "yacak",
+    "tense_affix": "acak",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "sınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You were going to do it.",
-  "russian_example_sentence": "Вы собирались это сделать.",
-  "turkish_example_sentence": "Siz ödevi zamanında yapacaktınız.",
-  "turkish_example_sentence_with_blank": "Siz ödevi zamanında ______."
+  "english_example_sentence": "You will do the project tomorrow.",
+  "russian_example_sentence": "Вы сделаете проект завтра.",
+  "turkish_example_sentence": "Siz yarın projeyi yapacaksınız.",
+  "turkish_example_sentence_with_blank": "Siz yarın projeyi ______."
 }

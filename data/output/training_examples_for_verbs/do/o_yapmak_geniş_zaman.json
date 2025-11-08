@@ -4,17 +4,17 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapar",
+    "verb_full": "yapıyor",
     "root": "yap",
-    "tense_affix": "ar",
+    "tense_affix": "ıyor",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "u",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "My sister does her homework.",
-  "russian_example_sentence": "Моя сестра делает свою домашнюю работу.",
-  "turkish_example_sentence": "Benim kız kardeşim ödevini yapar.",
-  "turkish_example_sentence_with_blank": "Benim kız kardeşim ödevini ______."
+  "english_example_sentence": "My friend does his homework every day.",
+  "russian_example_sentence": "Мой друг делает домашнее задание каждый день.",
+  "turkish_example_sentence": "Arkadaşım her gün ödevini yapıyor.",
+  "turkish_example_sentence_with_blank": "Arkadaşım her gün ödevini ______."
 }

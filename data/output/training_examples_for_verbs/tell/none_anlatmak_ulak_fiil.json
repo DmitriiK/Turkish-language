@@ -4,17 +4,17 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatarak",
+    "verb_full": "anlatıyorum",
     "root": "anlat",
-    "tense_affix": "arak",
+    "tense_affix": "ıyor",
     "verb_tense": "ulak_fiil",
     "personal_pronoun": null,
-    "personal_affix": "",
+    "personal_affix": "um",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The teacher impressed the students by explaining the complex topic in a simple language.",
-  "russian_example_sentence": "Учитель впечатлил студентов, объясняя сложную тему простым языком.",
-  "turkish_example_sentence": "Öğretmen, karmaşık konuyu basit bir dille anlatarak öğrencileri etkiledi.",
-  "turkish_example_sentence_with_blank": "Öğretmen, karmaşık konuyu basit bir dille ______ öğrencileri etkiledi."
+  "english_example_sentence": "My friend is telling a story.",
+  "russian_example_sentence": "Мой друг рассказывает историю.",
+  "turkish_example_sentence": "Arkadaşım bir hikaye anlatıyorum.",
+  "turkish_example_sentence_with_blank": "Arkadaşım bir hikaye ______."
 }

@@ -4,17 +4,17 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemedik",
-    "root": "iste",
+    "verb_full": "istemediğimiz",
+    "root": "istem",
     "tense_affix": "di",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ğimiz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "We didn't want that challenging project with friends yesterday.",
-  "russian_example_sentence": "Мы не хотели тот сложный проект с друзьями вчера.",
-  "turkish_example_sentence": "Biz dün arkadaşlarla o zorlu projeyi istemedik.",
-  "turkish_example_sentence_with_blank": "Biz dün arkadaşlarla o zorlu projeyi ______."
+  "english_example_sentence": "We did not want to go.",
+  "russian_example_sentence": "Мы не хотели идти.",
+  "turkish_example_sentence": "Biz gidecek bir yere istemediğimiz.",
+  "turkish_example_sentence_with_blank": "Biz gidecek bir yere ______."
 }

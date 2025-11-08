@@ -4,17 +4,17 @@
   "verb_russian": "смотреть",
   "verb_infinitive": "bakmak",
   "turkish_verb": {
-    "verb_full": "baksanız",
+    "verb_full": "baktığınızda",
     "root": "bak",
-    "tense_affix": "sa",
+    "tense_affix": "tığınızda",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "ınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you look carefully at that beautiful garden, you will find peace.",
-  "russian_example_sentence": "Если вы внимательно посмотрите на этот красивый сад, вы найдете покой.",
-  "turkish_example_sentence": "Şu güzel bahçeye dikkatlice baksanız, huzur bulursunuz.",
-  "turkish_example_sentence_with_blank": "Şu güzel bahçeye dikkatlice ______, huzur bulursunuz."
+  "english_example_sentence": "You will look at the beautiful painting.",
+  "russian_example_sentence": "Ты посмотришь на красивую картину.",
+  "turkish_example_sentence": "Siz güzel tabloya baktığınızda.",
+  "turkish_example_sentence_with_blank": "Siz güzel tabloya ______."
 }

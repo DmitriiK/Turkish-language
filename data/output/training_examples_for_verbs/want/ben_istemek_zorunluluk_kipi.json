@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "istemeliyim",
     "root": "iste",
-    "tense_affix": "meli",
+    "tense_affix": "meliyim",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "yim",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I must want this new book for my mother.",
-  "russian_example_sentence": "Я должен хотеть эту новую книгу для моей мамы.",
-  "turkish_example_sentence": "Bu yeni kitabı annem için istemeliyim.",
-  "turkish_example_sentence_with_blank": "Bu yeni kitabı annem için ______."
+  "english_example_sentence": "I want to go to the park.",
+  "russian_example_sentence": "Я хочу пойти в парк.",
+  "turkish_example_sentence": "Ben parka gitmeliyim.",
+  "turkish_example_sentence_with_blank": "Ben parka gitmeliyim."
 }

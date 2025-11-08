@@ -4,17 +4,17 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "vermez",
+    "verb_full": "vermiyor",
     "root": "ver",
     "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "mez"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "My mother never gives me bad advice.",
-  "russian_example_sentence": "Моя мама никогда не даёт мне плохих советов.",
-  "turkish_example_sentence": "Annem bana asla kötü bir tavsiye vermez.",
-  "turkish_example_sentence_with_blank": "Annem bana asla kötü bir tavsiye ______."
+  "english_example_sentence": "She does not give me a gift.",
+  "russian_example_sentence": "Она не даёт мне подарок.",
+  "turkish_example_sentence": "O bana hediye **vermiyor**.",
+  "turkish_example_sentence_with_blank": "O bana hediye **______**."
 }

@@ -4,17 +4,17 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylemezsin",
+    "verb_full": "söylemem",
     "root": "söyle",
     "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "zsin",
+    "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You do not say that.",
-  "russian_example_sentence": "Ты не говоришь это.",
-  "turkish_example_sentence": "Sen onu söylemezsin.",
-  "turkish_example_sentence_with_blank": "Sen onu ______."
+  "english_example_sentence": "You do not say this word.",
+  "russian_example_sentence": "Ты не говоришь это слово.",
+  "turkish_example_sentence": "Sen bu kelimeyi söylemem.",
+  "turkish_example_sentence_with_blank": "Sen bu kelimeyi ______."
 }

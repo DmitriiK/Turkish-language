@@ -4,17 +4,17 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmalı",
+    "verb_full": "yapmalıyım",
     "root": "yap",
     "tense_affix": "malı",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": null,
-    "personal_affix": "",
+    "personal_affix": "ım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Everyone should do a good job.",
-  "russian_example_sentence": "Каждый должен делать хорошую работу.",
-  "turkish_example_sentence": "Herkes iyi bir iş yapmalı.",
-  "turkish_example_sentence_with_blank": "Herkes iyi bir iş ______."
+  "english_example_sentence": "I must do my homework today.",
+  "russian_example_sentence": "Я должен сделать свою домашнюю работу сегодня.",
+  "turkish_example_sentence": "Ben bugün ödevimi yapmalıyım.",
+  "turkish_example_sentence_with_blank": "Ben bugün ödevimi ______."
 }

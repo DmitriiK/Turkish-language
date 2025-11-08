@@ -4,17 +4,17 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "gören",
+    "verb_full": "görüyor",
     "root": "gör",
-    "tense_affix": "en",
+    "tense_affix": "üyor",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "u",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The man seeing the beautiful view smiled.",
-  "russian_example_sentence": "Мужчина, видящий красивый вид, улыбнулся.",
-  "turkish_example_sentence": "Güzel manzarayı gören adam gülümsedi.",
-  "turkish_example_sentence_with_blank": "Güzel manzarayı ______ adam gülümsedi."
+  "english_example_sentence": "The teacher sees the student quickly.",
+  "russian_example_sentence": "Учитель быстро видит студента.",
+  "turkish_example_sentence": "Öğretmen öğrenciyi hızlıca görüyor.",
+  "turkish_example_sentence_with_blank": "Öğretmen öğrenciyi hızlıca ______."
 }

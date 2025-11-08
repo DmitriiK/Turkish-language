@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "bulmuyoruz",
     "root": "bul",
-    "tense_affix": "yor",
+    "tense_affix": "uyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "uz",
     "polarity": "negative",
-    "negative_affix": "mu"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "We are not finding the old book in the library.",
-  "russian_example_sentence": "Мы не находим старую книгу в библиотеке.",
-  "turkish_example_sentence": "Biz eski kitabı kütüphanede bulmuyoruz.",
-  "turkish_example_sentence_with_blank": "Biz eski kitabı kütüphanede ______."
+  "english_example_sentence": "We are not finding the book.",
+  "russian_example_sentence": "Мы не находим книгу.",
+  "turkish_example_sentence": "Biz kitabı bulmuyoruz.",
+  "turkish_example_sentence_with_blank": "Biz kitabı ______."
 }

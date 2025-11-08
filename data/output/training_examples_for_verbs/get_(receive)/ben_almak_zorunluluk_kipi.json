@@ -4,17 +4,17 @@
   "verb_russian": "получать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almalıyım",
+    "verb_full": "alıyorum",
     "root": "al",
-    "tense_affix": "malı",
+    "tense_affix": "ıyor",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "yım",
+    "personal_affix": "um",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I must get this important document from the post office.",
-  "russian_example_sentence": "Я должен получить этот важный документ с почты.",
-  "turkish_example_sentence": "Ben bu önemli belgeyi postaneden almalıyım.",
-  "turkish_example_sentence_with_blank": "Ben bu önemli belgeyi postaneden ______."
+  "english_example_sentence": "I am getting my new phone.",
+  "russian_example_sentence": "Я получаю свой новый телефон.",
+  "turkish_example_sentence": "Ben yeni telefonumu alıyorum.",
+  "turkish_example_sentence_with_blank": "Ben yeni telefonumu ______."
 }

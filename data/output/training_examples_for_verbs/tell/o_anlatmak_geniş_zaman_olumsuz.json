@@ -4,17 +4,17 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatmaz",
+    "verb_full": "anlatmıyor",
     "root": "anlat",
-    "tense_affix": "z",
+    "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "mı"
   },
-  "english_example_sentence": "The small child does not tell the old story.",
-  "russian_example_sentence": "Маленький ребенок не рассказывает старую историю.",
-  "turkish_example_sentence": "Küçük çocuk, eski hikayeyi anlatmaz.",
-  "turkish_example_sentence_with_blank": "Küçük çocuk, eski hikayeyi ______."
+  "english_example_sentence": "He is not telling the story.",
+  "russian_example_sentence": "Он не рассказывает историю.",
+  "turkish_example_sentence": "Ali ona hikayeyi anlatmıyor.",
+  "turkish_example_sentence_with_blank": "Ali ona hikayeyi ______."
 }

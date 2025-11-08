@@ -4,17 +4,17 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapsa",
+    "verb_full": "yapacak",
     "root": "yap",
-    "tense_affix": "sa",
+    "tense_affix": "acak",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "acak",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If my friend did this job, I would be very happy.",
-  "russian_example_sentence": "Если бы мой друг сделал эту работу, я был бы очень счастлив.",
-  "turkish_example_sentence": "Eğer arkadaşım bu işi yapsa, çok mutlu olurum.",
-  "turkish_example_sentence_with_blank": "Eğer arkadaşım bu işi ______, çok mutlu olurum."
+  "english_example_sentence": "He will make a beautiful painting.",
+  "russian_example_sentence": "Он сделает красивую картину.",
+  "turkish_example_sentence": "O güzel bir tablo yapacak.",
+  "turkish_example_sentence_with_blank": "O güzel bir tablo ______."
 }

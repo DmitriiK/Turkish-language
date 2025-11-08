@@ -4,17 +4,17 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görmezsin",
+    "verb_full": "görmüyorsun",
     "root": "gör",
-    "tense_affix": "z",
+    "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "sin",
+    "personal_affix": "sun",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "mı"
   },
-  "english_example_sentence": "The weather is dark, you don't see the beautiful stars.",
-  "russian_example_sentence": "Погода темная, ты не видишь красивые звезды.",
-  "turkish_example_sentence": "Hava karanlık, sen güzel yıldızları görmezsin.",
-  "turkish_example_sentence_with_blank": "Hava karanlık, sen güzel yıldızları ______."
+  "english_example_sentence": "You do not see the beautiful flowers.",
+  "russian_example_sentence": "Ты не видишь красивые цветы.",
+  "turkish_example_sentence": "Sen güzel çiçekleri **görmüyorsun**.",
+  "turkish_example_sentence_with_blank": "Sen güzel çiçekleri **______**."
 }

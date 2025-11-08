@@ -4,17 +4,17 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmazsın",
+    "verb_full": "yapmam",
     "root": "yap",
     "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "zsın",
+    "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You don't make good decisions in difficult situations.",
-  "russian_example_sentence": "Ты не принимаешь хороших решений в сложных ситуациях.",
-  "turkish_example_sentence": "Zor durumlarda iyi kararlar yapmazsın.",
-  "turkish_example_sentence_with_blank": "Zor durumlarda iyi kararlar ______."
+  "english_example_sentence": "You don't make mistakes.",
+  "russian_example_sentence": "Ты не делаешь ошибок.",
+  "turkish_example_sentence": "Sen bu yıl hatalar yapmam.",
+  "turkish_example_sentence_with_blank": "Sen bu yıl hatalar ______."
 }

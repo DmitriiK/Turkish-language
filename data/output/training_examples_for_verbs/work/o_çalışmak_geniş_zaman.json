@@ -4,17 +4,17 @@
   "verb_russian": "работать",
   "verb_infinitive": "çalışmak",
   "turkish_verb": {
-    "verb_full": "çalışır",
+    "verb_full": "çalışıyor",
     "root": "çalış",
-    "tense_affix": "ır",
+    "tense_affix": "ıyor",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "u",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "This student works in the library every day.",
-  "russian_example_sentence": "Этот студент работает в библиотеке каждый день.",
-  "turkish_example_sentence": "Bu öğrenci her gün kütüphanede çalışır.",
-  "turkish_example_sentence_with_blank": "Bu öğrenci her gün kütüphanede ______."
+  "english_example_sentence": "The teacher works hard every day.",
+  "russian_example_sentence": "Учитель работает усердно каждый день.",
+  "turkish_example_sentence": "Öğretmen her gün çok çalışıyor.",
+  "turkish_example_sentence_with_blank": "Öğretmen her gün çok ______."
 }

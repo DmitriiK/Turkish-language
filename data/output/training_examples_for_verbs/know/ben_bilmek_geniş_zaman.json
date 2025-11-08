@@ -4,17 +4,17 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilirim",
+    "verb_full": "biliyorum",
     "root": "bil",
-    "tense_affix": "ir",
+    "tense_affix": "iyor",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "im",
+    "personal_affix": "um",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I know the details of this complex topic well.",
-  "russian_example_sentence": "Я хорошо знаю детали этой сложной темы.",
-  "turkish_example_sentence": "Ben bu karmaşık konunun detaylarını iyi bilirim.",
-  "turkish_example_sentence_with_blank": "Ben bu karmaşık konunun detaylarını iyi ______."
+  "english_example_sentence": "I know the answer to the question.",
+  "russian_example_sentence": "Я знаю ответ на вопрос.",
+  "turkish_example_sentence": "Ben sorunun cevabını biliyorum.",
+  "turkish_example_sentence_with_blank": "Ben sorunun cevabını ______."
 }

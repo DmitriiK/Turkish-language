@@ -4,17 +4,17 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapsan",
+    "verb_full": "yapabilirsin",
     "root": "yap",
-    "tense_affix": "sa",
+    "tense_affix": "abilir",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you do this important task, you will get a great result.",
-  "russian_example_sentence": "Если ты сделаешь это важное задание, ты получишь отличный результат.",
-  "turkish_example_sentence": "Bu önemli görevi yapsan, harika bir sonuç alırsın.",
-  "turkish_example_sentence_with_blank": "Bu önemli görevi ______, harika bir sonuç alırsın."
+  "english_example_sentence": "You can do it easily.",
+  "russian_example_sentence": "Ты можешь сделать это легко.",
+  "turkish_example_sentence": "Sen bu işi kolayca yapabilirsin.",
+  "turkish_example_sentence_with_blank": "Sen bu işi kolayca ______."
 }
