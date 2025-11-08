@@ -670,5 +670,707 @@
         {"turkish": "Bu problemi çözebilirler.", "translation": "Они могут решить эту проблему.", "type": "positive"}
       ]
     }
+  },
+  "zorunluluk_kipi": {
+    "turkish_name": "Zorunluluk Kipi (Gereklilik)",
+    "level": "A2",
+    "vowel_harmony_link": true,
+    "english": {
+      "name": "Necessity Mood (Must/Have to)",
+      "description": "The necessity mood (zorunluluk kipi) expresses obligation or necessity. It indicates that something must be done or is required.",
+      "usage": [
+        "Expressing obligation (I must do, I have to do)",
+        "Indicating necessity (It must be done)",
+        "Strong recommendations or requirements"
+      ],
+      "formation": {
+        "positive": "Verb root + malı/meli + personal ending",
+        "negative": "Verb root + mamalı/memeli + personal ending",
+        "interrogative": "Verb root + malı/meli + personal ending + mı/mi",
+        "vowel_harmony_note": "The suffix follows 2-way vowel harmony: -malı after back vowels (a, ı, o, u), -meli after front vowels (e, i, ö, ü)."
+      },
+      "affixes": {
+        "tense_markers": [
+          {"affix": "malı", "description": "After verb roots with back vowels - e.g., yapmalı (must do)"},
+          {"affix": "meli", "description": "After verb roots with front vowels - e.g., görmeli (must see)"}
+        ],
+        "personal_endings": [
+          {"pronoun": "ben", "ending": "yım/yim", "example": "yapmalıyım (I must do)"},
+          {"pronoun": "sen", "ending": "sın/sin", "example": "yapmalısın (you must do)"},
+          {"pronoun": "o", "ending": "-", "example": "yapmalı (he/she/it must do)"},
+          {"pronoun": "biz", "ending": "yız/yiz", "example": "yapmalıyız (we must do)"},
+          {"pronoun": "siz", "ending": "sınız/siniz", "example": "yapmalısınız (you must do)"},
+          {"pronoun": "onlar", "ending": "lar/ler", "example": "yapmalılar (they must do)"}
+        ],
+        "negative_affix": "mamalı/memeli - double negative formation"
+      },
+      "examples": [
+        {"turkish": "Ödevimi bitirmeliyim.", "translation": "I must finish my homework.", "type": "positive"},
+        {"turkish": "Doktora gitmelisin.", "translation": "You must go to the doctor.", "type": "positive"},
+        {"turkish": "Erken kalkmalıyız.", "translation": "We must wake up early.", "type": "positive"},
+        {"turkish": "Sigara içmemelisin.", "translation": "You must not smoke.", "type": "negative"}
+      ]
+    },
+    "russian": {
+      "name": "Наклонение необходимости (должен)",
+      "description": "Наклонение необходимости (zorunluluk kipi) выражает обязательство или необходимость. Указывает, что что-то должно быть сделано или требуется.",
+      "usage": [
+        "Выражение обязательства (я должен делать)",
+        "Указание необходимости (это должно быть сделано)",
+        "Сильные рекомендации или требования"
+      ],
+      "formation": {
+        "positive": "Основа глагола + malı/meli + личное окончание",
+        "negative": "Основа глагола + mamalı/memeli + личное окончание",
+        "interrogative": "Основа глагола + malı/meli + личное окончание + mı/mi",
+        "vowel_harmony_note": "Суффикс следует 2-сторонней гармонии гласных: -malı после задних гласных, -meli после передних гласных."
+      },
+      "affixes": {
+        "tense_markers": [
+          {"affix": "malı", "description": "После основ с задними гласными"},
+          {"affix": "meli", "description": "После основ с передними гласными"}
+        ],
+        "personal_endings": [
+          {"pronoun": "ben", "ending": "yım/yim", "example": "yapmalıyım (я должен делать)"},
+          {"pronoun": "sen", "ending": "sın/sin", "example": "yapmalısın (ты должен делать)"},
+          {"pronoun": "o", "ending": "-", "example": "yapmalı (он/она должен делать)"},
+          {"pronoun": "biz", "ending": "yız/yiz", "example": "yapmalıyız (мы должны делать)"},
+          {"pronoun": "siz", "ending": "sınız/siniz", "example": "yapmalısınız (вы должны делать)"},
+          {"pronoun": "onlar", "ending": "lar/ler", "example": "yapmalılar (они должны делать)"}
+        ],
+        "negative_affix": "mamalı/memeli - двойная отрицательная форма"
+      },
+      "examples": [
+        {"turkish": "Ödevimi bitirmeliyim.", "translation": "Я должен закончить домашнее задание.", "type": "positive"},
+        {"turkish": "Doktora gitmelisin.", "translation": "Ты должен пойти к врачу.", "type": "positive"},
+        {"turkish": "Erken kalkmalıyız.", "translation": "Мы должны рано встать.", "type": "positive"},
+        {"turkish": "Sigara içmemelisin.", "translation": "Ты не должен курить.", "type": "negative"}
+      ]
+    }
+  },
+  "gereklilik_kipi": {
+    "turkish_name": "Gereklilik Kipi",
+    "level": "A2",
+    "vowel_harmony_link": false,
+    "english": {
+      "name": "Necessity Mood (Need to)",
+      "description": "The necessity mood (gereklilik kipi) uses 'lazım' or 'gerek' to express necessity in a less formal way than zorunluluk kipi.",
+      "usage": [
+        "Expressing necessity (I need to do)",
+        "Less formal obligation",
+        "Practical requirements"
+      ],
+      "formation": {
+        "positive": "Verb root + (possessive) + lazım/gerek",
+        "negative": "Verb root + ma/me + (possessive) + lazım/gerek",
+        "interrogative": "Verb root + (possessive) + lazım/gerek + mı/mi"
+      },
+      "affixes": {
+        "tense_markers": [
+          {"affix": "lazım", "description": "Need to, necessary"},
+          {"affix": "gerek", "description": "Need to, necessary (formal)"}
+        ],
+        "personal_endings": [
+          {"pronoun": "ben", "ending": "m", "example": "yapmam lazım (I need to do)"},
+          {"pronoun": "sen", "ending": "n", "example": "yapman lazım (you need to do)"},
+          {"pronoun": "o", "ending": "sı", "example": "yapması lazım (he/she needs to do)"},
+          {"pronoun": "biz", "ending": "mız", "example": "yapmamız lazım (we need to do)"},
+          {"pronoun": "siz", "ending": "nız", "example": "yapmanız lazım (you need to do)"},
+          {"pronoun": "onlar", "ending": "ları", "example": "yapmaları lazım (they need to do)"}
+        ],
+        "negative_affix": "ma/me before the possessive"
+      },
+      "examples": [
+        {"turkish": "Gitmem lazım.", "translation": "I need to go.", "type": "positive"},
+        {"turkish": "Çalışman gerek.", "translation": "You need to work.", "type": "positive"},
+        {"turkish": "Konuşmamız lazım.", "translation": "We need to talk.", "type": "positive"}
+      ]
+    },
+    "russian": {
+      "name": "Наклонение необходимости (нужно)",
+      "description": "Наклонение необходимости (gereklilik kipi) использует 'lazım' или 'gerek' для выражения необходимости менее формально, чем zorunluluk kipi.",
+      "usage": [
+        "Выражение необходимости (мне нужно делать)",
+        "Менее формальное обязательство",
+        "Практические требования"
+      ],
+      "formation": {
+        "positive": "Основа глагола + (притяжательное) + lazım/gerek",
+        "negative": "Основа глагола + ma/me + (притяжательное) + lazım/gerek",
+        "interrogative": "Основа глагола + (притяжательное) + lazım/gerek + mı/mi"
+      },
+      "affixes": {
+        "tense_markers": [
+          {"affix": "lazım", "description": "Нужно, необходимо"},
+          {"affix": "gerek", "description": "Нужно, необходимо (формально)"}
+        ],
+        "personal_endings": [
+          {"pronoun": "ben", "ending": "m", "example": "yapmam lazım (мне нужно делать)"},
+          {"pronoun": "sen", "ending": "n", "example": "yapman lazım (тебе нужно делать)"},
+          {"pronoun": "o", "ending": "sı", "example": "yapması lazım (ему/ей нужно делать)"},
+          {"pronoun": "biz", "ending": "mız", "example": "yapmamız lazım (нам нужно делать)"},
+          {"pronoun": "siz", "ending": "nız", "example": "yapmanız lazım (вам нужно делать)"},
+          {"pronoun": "onlar", "ending": "ları", "example": "yapmaları lazım (им нужно делать)"}
+        ],
+        "negative_affix": "ma/me перед притяжательным"
+      },
+      "examples": [
+        {"turkish": "Gitmem lazım.", "translation": "Мне нужно идти.", "type": "positive"},
+        {"turkish": "Çalışman gerek.", "translation": "Тебе нужно работать.", "type": "positive"},
+        {"turkish": "Konuşmamız lazım.", "translation": "Нам нужно поговорить.", "type": "positive"}
+      ]
+    }
+  },
+  "şart_kipi": {
+    "turkish_name": "Şart Kipi (Dilek-Şart Kipi)",
+    "level": "B1",
+    "vowel_harmony_link": true,
+    "english": {
+      "name": "Conditional Mood (If/Wish)",
+      "description": "The conditional mood (şart kipi) expresses hypothetical situations, wishes, or conditions. It's used for 'if I were to do' or 'I wish I could do'.",
+      "usage": [
+        "Hypothetical conditions (If I were to...)",
+        "Wishes and desires (I wish I could...)",
+        "Polite requests"
+      ],
+      "formation": {
+        "positive": "Verb root + sa/se + personal ending",
+        "negative": "Verb root + masa/mese + personal ending",
+        "interrogative": "Verb root + sa/se + personal ending + mı/mi",
+        "vowel_harmony_note": "The suffix follows 2-way vowel harmony: -sa after back vowels, -se after front vowels."
+      },
+      "affixes": {
+        "tense_markers": [
+          {"affix": "sa", "description": "After verb roots with back vowels - e.g., yapsa (if he/she were to do)"},
+          {"affix": "se", "description": "After verb roots with front vowels - e.g., gelse (if he/she were to come)"}
+        ],
+        "personal_endings": [
+          {"pronoun": "ben", "ending": "m", "example": "yapsam (if I were to do)"},
+          {"pronoun": "sen", "ending": "n", "example": "yapsan (if you were to do)"},
+          {"pronoun": "o", "ending": "-", "example": "yapsa (if he/she were to do)"},
+          {"pronoun": "biz", "ending": "k", "example": "yapsak (if we were to do)"},
+          {"pronoun": "siz", "ending": "nız/niz", "example": "yapsanız (if you were to do)"},
+          {"pronoun": "onlar", "ending": "lar/ler", "example": "yapsalar (if they were to do)"}
+        ],
+        "negative_affix": "masa/mese - combines negative + conditional"
+      },
+      "examples": [
+        {"turkish": "Param olsa, seyahat ederdim.", "translation": "If I had money, I would travel.", "type": "positive"},
+        {"turkish": "Türkçe bilsem, İstanbul'da yaşardım.", "translation": "If I knew Turkish, I would live in Istanbul.", "type": "positive"},
+        {"turkish": "Yardım etsen çok iyi olur.", "translation": "It would be very good if you helped.", "type": "positive"}
+      ]
+    },
+    "russian": {
+      "name": "Условное наклонение (если бы)",
+      "description": "Условное наклонение (şart kipi) выражает гипотетические ситуации, желания или условия. Используется для 'если бы я сделал' или 'хотел бы я'.",
+      "usage": [
+        "Гипотетические условия (Если бы я...)",
+        "Желания и мечты (Хотел бы я...)",
+        "Вежливые просьбы"
+      ],
+      "formation": {
+        "positive": "Основа глагола + sa/se + личное окончание",
+        "negative": "Основа глагола + masa/mese + личное окончание",
+        "interrogative": "Основа глагола + sa/se + личное окончание + mı/mi",
+        "vowel_harmony_note": "Суффикс следует 2-сторонней гармонии гласных: -sa после задних гласных, -se после передних гласных."
+      },
+      "affixes": {
+        "tense_markers": [
+          {"affix": "sa", "description": "После основ с задними гласными"},
+          {"affix": "se", "description": "После основ с передними гласными"}
+        ],
+        "personal_endings": [
+          {"pronoun": "ben", "ending": "m", "example": "yapsam (если бы я сделал)"},
+          {"pronoun": "sen", "ending": "n", "example": "yapsan (если бы ты сделал)"},
+          {"pronoun": "o", "ending": "-", "example": "yapsa (если бы он/она сделал)"},
+          {"pronoun": "biz", "ending": "k", "example": "yapsak (если бы мы сделали)"},
+          {"pronoun": "siz", "ending": "nız/niz", "example": "yapsanız (если бы вы сделали)"},
+          {"pronoun": "onlar", "ending": "lar/ler", "example": "yapsalar (если бы они сделали)"}
+        ],
+        "negative_affix": "masa/mese - комбинация отрицания + условного"
+      },
+      "examples": [
+        {"turkish": "Param olsa, seyahat ederdim.", "translation": "Если бы у меня были деньги, я бы путешествовал.", "type": "positive"},
+        {"turkish": "Türkçe bilsem, İstanbul'da yaşardım.", "translation": "Если бы я знал турецкий, я бы жил в Стамбуле.", "type": "positive"},
+        {"turkish": "Yardım etsen çok iyi olur.", "translation": "Было бы очень хорошо, если бы ты помог.", "type": "positive"}
+      ]
+    }
+  },
+  "şartlı_kipi": {
+    "turkish_name": "Şartlı Kipi",
+    "level": "B1",
+    "vowel_harmony_link": true,
+    "english": {
+      "name": "Real Conditional (If/When)",
+      "description": "The real conditional (şartlı kipi) expresses real conditions that may happen in the future. Unlike şart kipi, this refers to realistic situations.",
+      "usage": [
+        "Real future conditions (If I do... then...)",
+        "Cause and effect relationships",
+        "Realistic possibilities"
+      ],
+      "formation": {
+        "positive": "Verb root + (Ar/Er) + sa/se + personal ending",
+        "negative": "Verb root + maz/mez + sa/se + personal ending",
+        "interrogative": "Verb root + (Ar/Er) + sa/se + personal ending + mı/mi"
+      },
+      "affixes": {
+        "tense_markers": [
+          {"affix": "arsa", "description": "After verb roots with back vowels"},
+          {"affix": "erse", "description": "After verb roots with front vowels"}
+        ],
+        "personal_endings": [
+          {"pronoun": "ben", "ending": "m", "example": "yaparsam (if I do)"},
+          {"pronoun": "sen", "ending": "n", "example": "yaparsan (if you do)"},
+          {"pronoun": "o", "ending": "-", "example": "yaparsa (if he/she does)"},
+          {"pronoun": "biz", "ending": "k", "example": "yaparsak (if we do)"},
+          {"pronoun": "siz", "ending": "nız/niz", "example": "yaparsanız (if you do)"},
+          {"pronoun": "onlar", "ending": "lar/ler", "example": "yaparlarsa (if they do)"}
+        ],
+        "negative_affix": "maz/mez + sa/se"
+      },
+      "examples": [
+        {"turkish": "Erken kalkarsam, koşuya giderim.", "translation": "If I wake up early, I go for a run.", "type": "positive"},
+        {"turkish": "Yağmur yağarsa, evde kalırız.", "translation": "If it rains, we stay home.", "type": "positive"},
+        {"turkish": "Çalışmazsan, başarılı olamazsın.", "translation": "If you don't work, you cannot be successful.", "type": "negative"}
+      ]
+    },
+    "russian": {
+      "name": "Реальное условное наклонение (если)",
+      "description": "Реальное условное наклонение (şartlı kipi) выражает реальные условия, которые могут произойти в будущем. В отличие от şart kipi, это относится к реалистичным ситуациям.",
+      "usage": [
+        "Реальные будущие условия (Если я сделаю... то...)",
+        "Причинно-следственные отношения",
+        "Реалистичные возможности"
+      ],
+      "formation": {
+        "positive": "Основа глагола + (Ar/Er) + sa/se + личное окончание",
+        "negative": "Основа глагола + maz/mez + sa/se + личное окончание",
+        "interrogative": "Основа глагола + (Ar/Er) + sa/se + личное окончание + mı/mi"
+      },
+      "affixes": {
+        "tense_markers": [
+          {"affix": "arsa", "description": "После основ с задними гласными"},
+          {"affix": "erse", "description": "После основ с передними гласными"}
+        ],
+        "personal_endings": [
+          {"pronoun": "ben", "ending": "m", "example": "yaparsam (если я сделаю)"},
+          {"pronoun": "sen", "ending": "n", "example": "yaparsan (если ты сделаешь)"},
+          {"pronoun": "o", "ending": "-", "example": "yaparsa (если он/она сделает)"},
+          {"pronoun": "biz", "ending": "k", "example": "yaparsak (если мы сделаем)"},
+          {"pronoun": "siz", "ending": "nız/niz", "example": "yaparsanız (если вы сделаете)"},
+          {"pronoun": "onlar", "ending": "lar/ler", "example": "yaparlarsa (если они сделают)"}
+        ],
+        "negative_affix": "maz/mez + sa/se"
+      },
+      "examples": [
+        {"turkish": "Erken kalkarsam, koşuya giderim.", "translation": "Если я встану рано, я пойду на пробежку.", "type": "positive"},
+        {"turkish": "Yağmur yağarsa, evde kalırız.", "translation": "Если пойдет дождь, мы останемся дома.", "type": "positive"},
+        {"turkish": "Çalışmazsan, başarılı olamazsın.", "translation": "Если ты не будешь работать, ты не сможешь быть успешным.", "type": "negative"}
+      ]
+    }
+  },
+  "geçmiş_gelecek_zaman": {
+    "turkish_name": "Geçmiş Gelecek Zaman",
+    "level": "B2",
+    "vowel_harmony_link": true,
+    "english": {
+      "name": "Past Future Tense (Was going to)",
+      "description": "The past future tense expresses an intention or plan that existed in the past. It indicates what someone was going to do.",
+      "usage": [
+        "Past intentions (I was going to do)",
+        "Interrupted plans",
+        "Unfulfilled future actions in the past"
+      ],
+      "formation": {
+        "positive": "Verb root + (y)AcAk + tı/ti/tu/tü + personal ending",
+        "negative": "Verb root + mA + (y)AcAk + tı/ti/tu/tü + personal ending",
+        "interrogative": "Verb root + (y)AcAk + tı/ti/tu/tü + personal ending + mı/mi"
+      },
+      "affixes": {
+        "tense_markers": [
+          {"affix": "acaktı", "description": "Future marker + past tense marker (back vowels)"},
+          {"affix": "ecekti", "description": "Future marker + past tense marker (front vowels)"}
+        ],
+        "personal_endings": [
+          {"pronoun": "ben", "ending": "m", "example": "yapacaktım (I was going to do)"},
+          {"pronoun": "sen", "ending": "n", "example": "yapacaktın (you were going to do)"},
+          {"pronoun": "o", "ending": "-", "example": "yapacaktı (he/she was going to do)"},
+          {"pronoun": "biz", "ending": "k", "example": "yapacaktık (we were going to do)"},
+          {"pronoun": "siz", "ending": "nız/niz", "example": "yapacaktınız (you were going to do)"},
+          {"pronoun": "onlar", "ending": "lar", "example": "yapacaklardı (they were going to do)"}
+        ],
+        "negative_affix": "ma/me before the future marker"
+      },
+      "examples": [
+        {"turkish": "Sana telefon edecektim ama unuttum.", "translation": "I was going to call you but I forgot.", "type": "positive"},
+        {"turkish": "Sinemaya gidecektik.", "translation": "We were going to go to the cinema.", "type": "positive"},
+        {"turkish": "Kitap okuyacaktım.", "translation": "I was going to read a book.", "type": "positive"}
+      ]
+    },
+    "russian": {
+      "name": "Прошедшее будущее время (собирался)",
+      "description": "Прошедшее будущее время выражает намерение или план, который существовал в прошлом. Указывает, что кто-то собирался сделать.",
+      "usage": [
+        "Прошлые намерения (я собирался делать)",
+        "Прерванные планы",
+        "Невыполненные будущие действия в прошлом"
+      ],
+      "formation": {
+        "positive": "Основа глагола + (y)AcAk + tı/ti/tu/tü + личное окончание",
+        "negative": "Основа глагола + mA + (y)AcAk + tı/ti/tu/tü + личное окончание",
+        "interrogative": "Основа глагола + (y)AcAk + tı/ti/tu/tü + личное окончание + mı/mi"
+      },
+      "affixes": {
+        "tense_markers": [
+          {"affix": "acaktı", "description": "Показатель будущего + показатель прошедшего (задние гласные)"},
+          {"affix": "ecekti", "description": "Показатель будущего + показатель прошедшего (передние гласные)"}
+        ],
+        "personal_endings": [
+          {"pronoun": "ben", "ending": "m", "example": "yapacaktım (я собирался делать)"},
+          {"pronoun": "sen", "ending": "n", "example": "yapacaktın (ты собирался делать)"},
+          {"pronoun": "o", "ending": "-", "example": "yapacaktı (он/она собирался делать)"},
+          {"pronoun": "biz", "ending": "k", "example": "yapacaktık (мы собирались делать)"},
+          {"pronoun": "siz", "ending": "nız/niz", "example": "yapacaktınız (вы собирались делать)"},
+          {"pronoun": "onlar", "ending": "lar", "example": "yapacaklardı (они собирались делать)"}
+        ],
+        "negative_affix": "ma/me перед показателем будущего"
+      },
+      "examples": [
+        {"turkish": "Sana telefon edecektim ama unuttum.", "translation": "Я собирался тебе позвонить, но забыл.", "type": "positive"},
+        {"turkish": "Sinemaya gidecektik.", "translation": "Мы собирались пойти в кино.", "type": "positive"},
+        {"turkish": "Kitap okuyacaktım.", "translation": "Я собирался читать книгу.", "type": "positive"}
+      ]
+    }
+  },
+  "farzî_geçmiş_zaman": {
+    "turkish_name": "Farzî Geçmiş Zaman (Şart'lı Geçmiş Zaman)",
+    "level": "B2",
+    "vowel_harmony_link": true,
+    "english": {
+      "name": "Inferential Past Conditional",
+      "description": "The inferential past conditional combines the evidential past (miş) with the conditional (sa). It expresses hypothetical situations about past events the speaker didn't witness.",
+      "usage": [
+        "Hypothetical past situations (If he/she had done...)",
+        "Unwitnessed past conditions",
+        "Reported conditionals"
+      ],
+      "formation": {
+        "positive": "Verb root + mIş + sa/se + personal ending",
+        "negative": "Verb root + ma/me + mIş + sa/se + personal ending",
+        "interrogative": "Verb root + mIş + sa/se + personal ending + mı/mi"
+      },
+      "affixes": {
+        "tense_markers": [
+          {"affix": "mışsa", "description": "Evidential + conditional (back vowels)"},
+          {"affix": "mişse", "description": "Evidential + conditional (front vowels)"}
+        ],
+        "personal_endings": [
+          {"pronoun": "ben", "ending": "m", "example": "yapmışsam (if I had done)"},
+          {"pronoun": "sen", "ending": "n", "example": "yapmışsan (if you had done)"},
+          {"pronoun": "o", "ending": "-", "example": "yapmışsa (if he/she had done)"},
+          {"pronoun": "biz", "ending": "k", "example": "yapmışsak (if we had done)"},
+          {"pronoun": "siz", "ending": "nız/niz", "example": "yapmışsanız (if you had done)"},
+          {"pronoun": "onlar", "ending": "lar", "example": "yapmışlarsa (if they had done)"}
+        ],
+        "negative_affix": "ma/me before miş"
+      },
+      "examples": [
+        {"turkish": "Gelmiş olsaydım, seni görebilirdim.", "translation": "If I had come, I could have seen you.", "type": "positive"},
+        {"turkish": "Biraz daha erken kalkmışsan, treni kaçırmazdın.", "translation": "If you had woken up a bit earlier, you wouldn't have missed the train.", "type": "positive"}
+      ]
+    },
+    "russian": {
+      "name": "Условно-предположительное прошедшее",
+      "description": "Условно-предположительное прошедшее время комбинирует очевидное прошедшее (miş) с условным (sa). Выражает гипотетические ситуации о прошлых событиях, которые говорящий не видел.",
+      "usage": [
+        "Гипотетические прошлые ситуации (Если бы он/она сделал...)",
+        "Ненаблюдаемые прошлые условия",
+        "Сообщаемые условия"
+      ],
+      "formation": {
+        "positive": "Основа глагола + mIş + sa/se + личное окончание",
+        "negative": "Основа глагола + ma/me + mIş + sa/se + личное окончание",
+        "interrogative": "Основа глагола + mIş + sa/se + личное окончание + mı/mi"
+      },
+      "affixes": {
+        "tense_markers": [
+          {"affix": "mışsa", "description": "Очевидное + условное (задние гласные)"},
+          {"affix": "mişse", "description": "Очевидное + условное (передние гласные)"}
+        ],
+        "personal_endings": [
+          {"pronoun": "ben", "ending": "m", "example": "yapmışsam (если бы я сделал)"},
+          {"pronoun": "sen", "ending": "n", "example": "yapmışsan (если бы ты сделал)"},
+          {"pronoun": "o", "ending": "-", "example": "yapmışsa (если бы он/она сделал)"},
+          {"pronoun": "biz", "ending": "k", "example": "yapmışsak (если бы мы сделали)"},
+          {"pronoun": "siz", "ending": "nız/niz", "example": "yapmışsanız (если бы вы сделали)"},
+          {"pronoun": "onlar", "ending": "lar", "example": "yapmışlarsa (если бы они сделали)"}
+        ],
+        "negative_affix": "ma/me перед miş"
+      },
+      "examples": [
+        {"turkish": "Gelmiş olsaydım, seni görebilirdim.", "translation": "Если бы я пришел, я мог бы тебя увидеть.", "type": "positive"},
+        {"turkish": "Biraz daha erken kalkmışsan, treni kaçırmazdın.", "translation": "Если бы ты встал немного раньше, ты бы не пропустил поезд.", "type": "positive"}
+      ]
+    }
+  },
+  "sıfat_fiil": {
+    "turkish_name": "Sıfat-Fiil",
+    "level": "B1",
+    "vowel_harmony_link": true,
+    "english": {
+      "name": "Verbal Adjective (Participle)",
+      "description": "The verbal adjective (sıfat-fiil) is a participle form that functions as an adjective, describing nouns. It indicates 'the one who does/did'.",
+      "usage": [
+        "Describing people or things (the one who...)",
+        "Creating relative clauses",
+        "Forming compound adjectives"
+      ],
+      "formation": {
+        "positive": "Verb root + (y)An",
+        "negative": "Verb root + mA + (y)An",
+        "vowel_harmony_note": "The suffix is -an after back vowels, -en after front vowels. If verb ends in a vowel, add buffer 'y'."
+      },
+      "affixes": {
+        "tense_markers": [
+          {"affix": "an", "description": "After verb roots with back vowels - yapan (the one who does)"},
+          {"affix": "en", "description": "After verb roots with front vowels - gelen (the one who comes)"},
+          {"affix": "yan", "description": "After vowel-ending verbs with back vowels - okuyan (the one who reads)"},
+          {"affix": "yen", "description": "After vowel-ending verbs with front vowels - söyleyen (the one who says)"}
+        ],
+        "personal_endings": [],
+        "negative_affix": "ma/me + yan/yen"
+      },
+      "examples": [
+        {"turkish": "Türkçe konuşan kişi", "translation": "The person who speaks Turkish", "type": "positive"},
+        {"turkish": "Kitap okuyan çocuk", "translation": "The child who reads books", "type": "positive"},
+        {"turkish": "Çalışmayan adam", "translation": "The man who doesn't work", "type": "negative"}
+      ]
+    },
+    "russian": {
+      "name": "Причастие (прилагательное от глагола)",
+      "description": "Причастие (sıfat-fiil) - это форма причастия, которая функционирует как прилагательное, описывая существительные. Указывает 'тот, кто делает/сделал'.",
+      "usage": [
+        "Описание людей или вещей (тот, кто...)",
+        "Создание относительных придаточных",
+        "Формирование составных прилагательных"
+      ],
+      "formation": {
+        "positive": "Основа глагола + (y)An",
+        "negative": "Основа глагола + mA + (y)An",
+        "vowel_harmony_note": "Суффикс -an после задних гласных, -en после передних гласных. Если глагол заканчивается на гласную, добавляется 'y'."
+      },
+      "affixes": {
+        "tense_markers": [
+          {"affix": "an", "description": "После основ с задними гласными - yapan (тот, кто делает)"},
+          {"affix": "en", "description": "После основ с передними гласными - gelen (тот, кто приходит)"},
+          {"affix": "yan", "description": "После гласных с задними гласными - okuyan (тот, кто читает)"},
+          {"affix": "yen", "description": "После гласных с передними гласными - söyleyen (тот, кто говорит)"}
+        ],
+        "personal_endings": [],
+        "negative_affix": "ma/me + yan/yen"
+      },
+      "examples": [
+        {"turkish": "Türkçe konuşan kişi", "translation": "Человек, который говорит по-турецки", "type": "positive"},
+        {"turkish": "Kitap okuyan çocuk", "translation": "Ребенок, который читает книги", "type": "positive"},
+        {"turkish": "Çalışmayan adam", "translation": "Мужчина, который не работает", "type": "negative"}
+      ]
+    }
+  },
+  "zarf_fiil": {
+    "turkish_name": "Zarf-Fiil",
+    "level": "B2",
+    "vowel_harmony_link": true,
+    "english": {
+      "name": "Adverbial Clause (Gerund)",
+      "description": "The adverbial clause (zarf-fiil) creates adverbial phrases that modify verbs, expressing how, when, or why an action occurs.",
+      "usage": [
+        "Expressing manner (by doing)",
+        "Indicating simultaneous actions",
+        "Connecting related actions"
+      ],
+      "formation": {
+        "positive": "Verb root + (y)ArAk",
+        "negative": "Verb root + mA + (y)ArAk",
+        "vowel_harmony_note": "The suffix follows 2-way harmony: -arak after back vowels, -erek after front vowels."
+      },
+      "affixes": {
+        "tense_markers": [
+          {"affix": "arak", "description": "After verb roots with back vowels - yaparak (by doing)"},
+          {"affix": "erek", "description": "After verb roots with front vowels - gelerek (by coming)"},
+          {"affix": "yarak", "description": "After vowel-ending verbs - okuyarak (by reading)"}
+        ],
+        "personal_endings": [],
+        "negative_affix": "ma/me + yarak/yerek"
+      },
+      "examples": [
+        {"turkish": "Koşarak geldim.", "translation": "I came by running.", "type": "positive"},
+        {"turkish": "Şarkı söyleyerek yürüdü.", "translation": "He/she walked while singing.", "type": "positive"},
+        {"turkish": "Konuşmayarak problemi çözemezsin.", "translation": "You cannot solve the problem by not talking.", "type": "negative"}
+      ]
+    },
+    "russian": {
+      "name": "Деепричастие",
+      "description": "Деепричастие (zarf-fiil) создает наречные фразы, которые модифицируют глаголы, выражая как, когда или почему происходит действие.",
+      "usage": [
+        "Выражение способа (делая)",
+        "Указание одновременных действий",
+        "Соединение связанных действий"
+      ],
+      "formation": {
+        "positive": "Основа глагола + (y)ArAk",
+        "negative": "Основа глагола + mA + (y)ArAk",
+        "vowel_harmony_note": "Суффикс следует 2-сторонней гармонии: -arak после задних гласных, -erek после передних гласных."
+      },
+      "affixes": {
+        "tense_markers": [
+          {"affix": "arak", "description": "После основ с задними гласными - yaparak (делая)"},
+          {"affix": "erek", "description": "После основ с передними гласными - gelerek (приходя)"},
+          {"affix": "yarak", "description": "После гласных - okuyarak (читая)"}
+        ],
+        "personal_endings": [],
+        "negative_affix": "ma/me + yarak/yerek"
+      },
+      "examples": [
+        {"turkish": "Koşarak geldim.", "translation": "Я пришел, бегая.", "type": "positive"},
+        {"turkish": "Şarkı söyleyerek yürüdü.", "translation": "Он/она шел/шла, напевая.", "type": "positive"},
+        {"turkish": "Konuşmayarak problemi çözemezsin.", "translation": "Ты не можешь решить проблему, не разговаривая.", "type": "negative"}
+      ]
+    }
+  },
+  "ulak_fiil": {
+    "turkish_name": "Ulaç-Fiil",
+    "level": "B1",
+    "vowel_harmony_link": true,
+    "english": {
+      "name": "Connective Participle",
+      "description": "The connective participle (ulaç-fiil) connects sequential actions, meaning 'having done' or 'after doing'.",
+      "usage": [
+        "Sequential actions (having done, after doing)",
+        "Connecting related verbs",
+        "Expressing completed action before another"
+      ],
+      "formation": {
+        "positive": "Verb root + (y)Ip",
+        "negative": "Verb root + mA + (y)Ip",
+        "vowel_harmony_note": "The suffix follows 2-way harmony: -ıp/ip/up/üp based on the last vowel."
+      },
+      "affixes": {
+        "tense_markers": [
+          {"affix": "ıp", "description": "After back unrounded vowels (a, ı) - yapıp (having done)"},
+          {"affix": "ip", "description": "After front unrounded vowels (e, i) - gelip (having come)"},
+          {"affix": "up", "description": "After back rounded vowels (o, u) - okuyup (having read)"},
+          {"affix": "üp", "description": "After front rounded vowels (ö, ü) - görüp (having seen)"}
+        ],
+        "personal_endings": [],
+        "negative_affix": "ma/me + yıp/yip/yup/yüp"
+      },
+      "examples": [
+        {"turkish": "Yemek yeyip uyudum.", "translation": "Having eaten, I slept.", "type": "positive"},
+        {"turkish": "Kitabı okuyup geri verdim.", "translation": "Having read the book, I returned it.", "type": "positive"},
+        {"turkish": "Düşünmeyip karar verdim.", "translation": "Without thinking, I decided.", "type": "negative"}
+      ]
+    },
+    "russian": {
+      "name": "Соединительное деепричастие",
+      "description": "Соединительное деепричастие (ulaç-fiil) соединяет последовательные действия, означая 'сделав' или 'после того как сделал'.",
+      "usage": [
+        "Последовательные действия (сделав, после того как сделал)",
+        "Соединение связанных глаголов",
+        "Выражение завершенного действия перед другим"
+      ],
+      "formation": {
+        "positive": "Основа глагола + (y)Ip",
+        "negative": "Основа глагола + mA + (y)Ip",
+        "vowel_harmony_note": "Суффикс следует 2-сторонней гармонии: -ıp/ip/up/üp в зависимости от последней гласной."
+      },
+      "affixes": {
+        "tense_markers": [
+          {"affix": "ıp", "description": "После задних неогубленных гласных (a, ı) - yapıp (сделав)"},
+          {"affix": "ip", "description": "После передних неогубленных гласных (e, i) - gelip (придя)"},
+          {"affix": "up", "description": "После задних огубленных гласных (o, u) - okuyup (прочитав)"},
+          {"affix": "üp", "description": "После передних огубленных гласных (ö, ü) - görüp (увидев)"}
+        ],
+        "personal_endings": [],
+        "negative_affix": "ma/me + yıp/yip/yup/yüp"
+      },
+      "examples": [
+        {"turkish": "Yemek yeyip uyudum.", "translation": "Поев, я уснул.", "type": "positive"},
+        {"turkish": "Kitabı okuyup geri verdim.", "translation": "Прочитав книгу, я вернул ее.", "type": "positive"},
+        {"turkish": "Düşünmeyip karar verdim.", "translation": "Не подумав, я принял решение.", "type": "negative"}
+      ]
+    }
+  },
+  "zaman_sıfatı": {
+    "turkish_name": "Zaman Sıfatı",
+    "level": "B2",
+    "vowel_harmony_link": true,
+    "english": {
+      "name": "Temporal Clause (When-clause)",
+      "description": "The temporal clause (zaman sıfatı) creates time-related subordinate clauses, expressing 'when' or 'while' actions occur.",
+      "usage": [
+        "Expressing time relationships (when I do, while doing)",
+        "Creating temporal subordinate clauses",
+        "Indicating simultaneous or sequential timing"
+      ],
+      "formation": {
+        "positive": "Verb root + DIK + possessive + time word (zaman/ında/ken)",
+        "negative": "Verb root + mA + DIK + possessive + time word",
+        "vowel_harmony_note": "The suffix -DIK follows 4-way harmony. Possessive endings match the subject."
+      },
+      "affixes": {
+        "tense_markers": [
+          {"affix": "dık/dik/duk/dük", "description": "Nominalizer that creates noun clause"},
+          {"affix": "ında/inde/unda/ünde", "description": "Locative case - 'when, at the time of'"}
+        ],
+        "personal_endings": [
+          {"pronoun": "ben", "ending": "ım/im", "example": "yaptığımda (when I do)"},
+          {"pronoun": "sen", "ending": "ın/in", "example": "yaptığında (when you do)"},
+          {"pronoun": "o", "ending": "ı/i", "example": "yaptığında (when he/she does)"},
+          {"pronoun": "biz", "ending": "ımız/imiz", "example": "yaptığımızda (when we do)"},
+          {"pronoun": "siz", "ending": "ınız/iniz", "example": "yaptığınızda (when you do)"},
+          {"pronoun": "onlar", "ending": "ları/leri", "example": "yaptıklarında (when they do)"}
+        ],
+        "negative_affix": "ma/me before -DIK"
+      },
+      "examples": [
+        {"turkish": "Eve geldiğimde, yemek yedim.", "translation": "When I came home, I ate.", "type": "positive"},
+        {"turkish": "Kitap okurken, müzik dinliyorum.", "translation": "While reading a book, I listen to music.", "type": "positive"},
+        {"turkish": "Çalışmadığında, oyun oynuyor.", "translation": "When he/she doesn't work, he/she plays games.", "type": "negative"}
+      ]
+    },
+    "russian": {
+      "name": "Временное придаточное предложение",
+      "description": "Временное придаточное предложение (zaman sıfatı) создает временные подчиненные предложения, выражая 'когда' или 'во время' действий.",
+      "usage": [
+        "Выражение временных отношений (когда я делаю, во время)",
+        "Создание временных придаточных предложений",
+        "Указание одновременного или последовательного времени"
+      ],
+      "formation": {
+        "positive": "Основа глагола + DIK + притяжательное + слово времени (zaman/ında/ken)",
+        "negative": "Основа глагола + mA + DIK + притяжательное + слово времени",
+        "vowel_harmony_note": "Суффикс -DIK следует 4-сторонней гармонии. Притяжательные окончания соответствуют субъекту."
+      },
+      "affixes": {
+        "tense_markers": [
+          {"affix": "dık/dik/duk/dük", "description": "Номинализатор, создающий именное предложение"},
+          {"affix": "ında/inde/unda/ünde", "description": "Местный падеж - 'когда, во время'"}
+        ],
+        "personal_endings": [
+          {"pronoun": "ben", "ending": "ım/im", "example": "yaptığımda (когда я делаю)"},
+          {"pronoun": "sen", "ending": "ın/in", "example": "yaptığında (когда ты делаешь)"},
+          {"pronoun": "o", "ending": "ı/i", "example": "yaptığında (когда он/она делает)"},
+          {"pronoun": "biz", "ending": "ımız/imiz", "example": "yaptığımızda (когда мы делаем)"},
+          {"pronoun": "siz", "ending": "ınız/iniz", "example": "yaptığınızda (когда вы делаете)"},
+          {"pronoun": "onlar", "ending": "ları/leri", "example": "yaptıklarında (когда они делают)"}
+        ],
+        "negative_affix": "ma/me перед -DIK"
+      },
+      "examples": [
+        {"turkish": "Eve geldiğimde, yemek yedim.", "translation": "Когда я пришел домой, я поел.", "type": "positive"},
+        {"turkish": "Kitap okurken, müzik dinliyorum.", "translation": "Во время чтения книги, я слушаю музыку.", "type": "positive"},
+        {"turkish": "Çalışmadığında, oyun oynuyor.", "translation": "Когда он/она не работает, он/она играет в игры.", "type": "negative"}
+      ]
+    }
   }
 }
