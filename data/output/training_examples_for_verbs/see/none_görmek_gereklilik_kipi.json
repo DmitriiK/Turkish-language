@@ -4,17 +4,17 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görmeliyim",
+    "verb_full": "görmem lazım",
     "root": "gör",
-    "tense_affix": "meliyim",
+    "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": null,
-    "personal_affix": null,
+    "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I must see the beautiful city.",
-  "russian_example_sentence": "Я должен увидеть красивый город.",
-  "turkish_example_sentence": "Güzel şehri görmeliyim.",
-  "turkish_example_sentence_with_blank": "Güzel şehri ______."
+  "english_example_sentence": "I need to see the doctor",
+  "russian_example_sentence": "Мне нужно увидеть врача",
+  "turkish_example_sentence": "Doktora görmem lazım",
+  "turkish_example_sentence_with_blank": "Doktora ______"
 }

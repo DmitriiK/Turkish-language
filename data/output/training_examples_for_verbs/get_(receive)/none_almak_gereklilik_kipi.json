@@ -4,17 +4,17 @@
   "verb_russian": "получать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almalıyım",
+    "verb_full": "almak lazım",
     "root": "al",
-    "tense_affix": "malıy",
+    "tense_affix": "mak",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": null,
-    "personal_affix": "ım",
+    "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I must get the book.",
-  "russian_example_sentence": "Я должен получить книгу.",
-  "turkish_example_sentence": "Ben kitabı almalıyım.",
-  "turkish_example_sentence_with_blank": "Ben kitabı ______."
+  "english_example_sentence": "I need to get a new book.",
+  "russian_example_sentence": "Мне нужно получить новую книгу.",
+  "turkish_example_sentence": "Ben yeni bir kitap almak lazım.",
+  "turkish_example_sentence_with_blank": "Ben yeni bir kitap ______."
 }

@@ -4,17 +4,17 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmeliyim",
+    "verb_full": "düşünmem lazım",
     "root": "düşün",
-    "tense_affix": "meliyim",
+    "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": null,
-    "personal_affix": "im",
+    "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I should think about the future.",
-  "russian_example_sentence": "Я должен думать о будущем.",
-  "turkish_example_sentence": "Gelecek hakkında düşünmeliyim.",
-  "turkish_example_sentence_with_blank": "Gelecek hakkında ______."
+  "english_example_sentence": "I need to think about the project.",
+  "russian_example_sentence": "Мне нужно подумать о проекте.",
+  "turkish_example_sentence": "Ben projeyi düşünmem lazım.",
+  "turkish_example_sentence_with_blank": "Ben projeyi ______."
 }

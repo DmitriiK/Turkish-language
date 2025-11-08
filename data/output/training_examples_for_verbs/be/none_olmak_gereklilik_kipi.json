@@ -4,17 +4,17 @@
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmalıyım",
+    "verb_full": "olmak lazım",
     "root": "ol",
-    "tense_affix": "malı",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": null,
-    "personal_affix": "ım",
+    "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I must be happy today.",
-  "russian_example_sentence": "Я должен быть счастлив сегодня.",
-  "turkish_example_sentence": "Ben bugün mutlu olmalıyım.",
-  "turkish_example_sentence_with_blank": "Ben bugün mutlu ______."
+  "english_example_sentence": "I need to be happy.",
+  "russian_example_sentence": "Мне нужно быть счастливым.",
+  "turkish_example_sentence": "Ben mutlu olmak lazım.",
+  "turkish_example_sentence_with_blank": "Ben mutlu ______."
 }

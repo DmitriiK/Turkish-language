@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmeliyim",
+    "verb_full": "gitmem lazım",
     "root": "git",
-    "tense_affix": "meliyim",
+    "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": null,
-    "personal_affix": null,
+    "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I must go to the meeting.",
-  "russian_example_sentence": "Я должен пойти на встречу.",
-  "turkish_example_sentence": "Toplantıya gitmeliyim.",
-  "turkish_example_sentence_with_blank": "Toplantıya ______."
+  "english_example_sentence": "I need to go to school.",
+  "russian_example_sentence": "Мне нужно идти в школу.",
+  "turkish_example_sentence": "Ben okula gitmem lazım.",
+  "turkish_example_sentence_with_blank": "Ben okula ______."
 }

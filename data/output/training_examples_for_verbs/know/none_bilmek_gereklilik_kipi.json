@@ -4,17 +4,17 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilmeliyim",
+    "verb_full": "bilmem gerek",
     "root": "bil",
-    "tense_affix": "meliyim",
+    "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": null,
-    "personal_affix": "im",
+    "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I must know the answer.",
-  "russian_example_sentence": "Я должен знать ответ.",
-  "turkish_example_sentence": "Cevabı bilmeliyim.",
-  "turkish_example_sentence_with_blank": "Cevabı ______."
+  "english_example_sentence": "I need to know the answer.",
+  "russian_example_sentence": "Мне нужно знать ответ.",
+  "turkish_example_sentence": "Bu sorunun cevabını bilmem gerek.",
+  "turkish_example_sentence_with_blank": "Bu sorunun cevabını ______."
 }

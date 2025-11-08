@@ -4,17 +4,17 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylemeliyim",
+    "verb_full": "söylemem lazım",
     "root": "söyle",
-    "tense_affix": "meli",
+    "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": null,
-    "personal_affix": "yim",
+    "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I should say something important.",
-  "russian_example_sentence": "Я должен сказать что-то важное.",
-  "turkish_example_sentence": "Öğretmenim önemli bir şey söylemeliyim.",
-  "turkish_example_sentence_with_blank": "Öğretmenim önemli bir şey ______."
+  "english_example_sentence": "I need to say something important.",
+  "russian_example_sentence": "Мне нужно сказать что-то важное.",
+  "turkish_example_sentence": "Bu önemli bilgiyi söylemem lazım.",
+  "turkish_example_sentence_with_blank": "Bu önemli bilgiyi ______."
 }

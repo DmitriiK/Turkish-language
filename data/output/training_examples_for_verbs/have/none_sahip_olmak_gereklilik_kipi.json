@@ -4,17 +4,17 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olmalıyım",
+    "verb_full": "sahip olmam",
     "root": "sahip ol",
-    "tense_affix": "malı",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": null,
-    "personal_affix": "ım",
+    "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I must have a good computer.",
-  "russian_example_sentence": "Я должен иметь хороший компьютер.",
-  "turkish_example_sentence": "Ben iyi bir bilgisayara sahip olmalıyım.",
-  "turkish_example_sentence_with_blank": "Ben iyi bir bilgisayara ______."
+  "english_example_sentence": "I need to have a small dog.",
+  "russian_example_sentence": "Мне нужно иметь маленькую собаку.",
+  "turkish_example_sentence": "Ben küçük bir köpeğe sahip olmam lazım.",
+  "turkish_example_sentence_with_blank": "Ben küçük bir köpeğe ______ lazım."
 }
