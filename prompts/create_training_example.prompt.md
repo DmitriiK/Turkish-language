@@ -67,6 +67,44 @@ You are a Turkish language expert who creates training examples for language lea
     - negative_affix: "ma", tense_affix: "" (EMPTY), personal_affix: "m"
   - **NOTE:** In geniş_zaman negative, there is NO separate tense affix after the negative affix. Set tense_affix to empty string "" or null.
 
+**SPECIAL TENSE: gereklilik_kipi (Necessity with lazım/gerek)**
+**⚠️ CRITICAL: If verb_tense is "gereklilik_kipi", you MUST use lazım or gerek construction:**
+
+The gereklilik_kipi is COMPLETELY DIFFERENT from zorunluluk_kipi (which uses -malı/-meli):
+- **gereklilik_kipi**: Uses "lazım" or "gerek" + possessive form of verb
+  - Structure: Verb root + infinitive suffix + possessive + lazım/gerek
+  - Example: "yapmam lazım" (I need to do) = yap + ma + m + lazım
+  - Example: "yapman lazım" (you need to do) = yap + ma + n + lazım
+  - Example: "yapması lazım" (he/she needs to do) = yap + ma + sı + lazım
+  - Example: "bilmem gerek" (I need to know) = bil + me + m + gerek
+  
+- **zorunluluk_kipi** (DIFFERENT!): Uses -malı/-meli suffix
+  - Structure: Verb root + malı/meli + personal ending
+  - Example: "yapmalıyım" (I must do) = yap + malı + yım
+  - Example: "bilmeliyim" (I must know) = bil + meli + yim
+
+**For gereklilik_kipi conjugation:**
+- root: the verb root (e.g., "yap", "bil", "git")
+- tense_affix: "ma" or "me" (infinitive suffix following vowel harmony)
+- personal_affix: possessive suffix (m, n, sı/si, mız/miz, nız/niz, ları/leri)
+- verb_full: root + ma/me + possessive (WITHOUT lazım/gerek in verb_full)
+- The sentence MUST include "lazım" or "gerek" AFTER the verb form
+
+**Examples for gereklilik_kipi:**
+- yapmak + ben → yapmam lazım
+  - verb_full: "yapmam"
+  - sentence: "Ben ödevimi yapmam lazım" or "Ödevimi yapmam gerek"
+- gitmek + sen → gitmen lazım  
+  - verb_full: "gitmen"
+  - sentence: "Sen okula gitmen lazım"
+- bilmek + o → bilmesi gerek
+  - verb_full: "bilmesi"
+  - sentence: "O cevabı bilmesi gerek"
+
+**DO NOT confuse gereklilik_kipi with zorunluluk_kipi!**
+- ❌ WRONG for gereklilik_kipi: "yapmalıyım", "bilmeliyim" (these are zorunluluk_kipi)
+- ✅ CORRECT for gereklilik_kipi: "yapmam lazım", "bilmem gerek"
+
 **General conjugation rules:**
 - Apply the appropriate tense suffix for {verb_tense}
 - Add the correct personal affix for {personal_pronoun}
