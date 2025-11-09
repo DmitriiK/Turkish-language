@@ -1,0 +1,20 @@
+{
+  "verb_rank": 15,
+  "verb_english": "use",
+  "verb_russian": "использовать",
+  "verb_infinitive": "kullanmak",
+  "turkish_verb": {
+    "verb_full": "kullanmamız lazım",
+    "root": "kullan",
+    "tense_affix": "ma",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "mız",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "We need to use the computer.",
+  "russian_example_sentence": "Нам нужно использовать компьютер.",
+  "turkish_example_sentence": "Bilgisayarı kullanmamız lazım.",
+  "turkish_example_sentence_with_blank": "Bilgisayarı ______."
+}

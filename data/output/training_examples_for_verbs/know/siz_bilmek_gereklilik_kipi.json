@@ -1,0 +1,20 @@
+{
+  "verb_rank": 8,
+  "verb_english": "know",
+  "verb_russian": "знать",
+  "verb_infinitive": "bilmek",
+  "turkish_verb": {
+    "verb_full": "bilmeniz gerek",
+    "root": "bil",
+    "tense_affix": "me",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "niz",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "You need to know the answer.",
+  "russian_example_sentence": "Вам нужно знать ответ.",
+  "turkish_example_sentence": "Siz cevabı bilmeniz gerek.",
+  "turkish_example_sentence_with_blank": "Siz cevabı ______."
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 5,
+  "verb_english": "go",
+  "verb_russian": "идти",
+  "verb_infinitive": "gitmek",
+  "turkish_verb": {
+    "verb_full": "gitmeniz",
+    "root": "git",
+    "tense_affix": "me",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "niz",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "You need to go to school.",
+  "russian_example_sentence": "Вам нужно идти в школу.",
+  "turkish_example_sentence": "Siz okula gitmeniz lazım.",
+  "turkish_example_sentence_with_blank": "Siz okula ______ lazım."
+}

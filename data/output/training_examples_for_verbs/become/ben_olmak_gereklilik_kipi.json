@@ -1,0 +1,20 @@
+{
+  "verb_rank": 25,
+  "verb_english": "become",
+  "verb_russian": "становиться",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olmam lazım",
+    "root": "ol",
+    "tense_affix": "ma",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "I need to become happy.",
+  "russian_example_sentence": "Мне нужно стать счастливым.",
+  "turkish_example_sentence": "Ben mutlu olmam lazım.",
+  "turkish_example_sentence_with_blank": "Ben mutlu ______."
+}

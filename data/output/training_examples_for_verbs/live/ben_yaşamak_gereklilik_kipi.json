@@ -1,0 +1,20 @@
+{
+  "verb_rank": 40,
+  "verb_english": "live",
+  "verb_russian": "жить",
+  "verb_infinitive": "yaşamak",
+  "turkish_verb": {
+    "verb_full": "yaşamam lazım",
+    "root": "yaş",
+    "tense_affix": "ma",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "I need to live in this city.",
+  "russian_example_sentence": "Мне нужно жить в этом городе.",
+  "turkish_example_sentence": "Ben bu şehirde yaşamam lazım.",
+  "turkish_example_sentence_with_blank": "Ben bu şehirde ______."
+}

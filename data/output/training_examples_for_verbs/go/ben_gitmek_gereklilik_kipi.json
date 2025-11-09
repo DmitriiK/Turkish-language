@@ -1,0 +1,20 @@
+{
+  "verb_rank": 5,
+  "verb_english": "go",
+  "verb_russian": "идти",
+  "verb_infinitive": "gitmek",
+  "turkish_verb": {
+    "verb_full": "gitmem",
+    "root": "git",
+    "tense_affix": "me",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "I need to go to the library.",
+  "russian_example_sentence": "Мне нужно идти в библиотеку.",
+  "turkish_example_sentence": "Ben kütüphaneye gitmem lazım.",
+  "turkish_example_sentence_with_blank": "Ben kütüphaneye ______ lazım."
+}

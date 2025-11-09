@@ -1,0 +1,20 @@
+{
+  "verb_rank": 1,
+  "verb_english": "be",
+  "verb_russian": "быть",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olması",
+    "root": "ol",
+    "tense_affix": "ma",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": "sı",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "He needs to be happy.",
+  "russian_example_sentence": "Ему нужно быть счастливым.",
+  "turkish_example_sentence": "O mutlu olması lazım.",
+  "turkish_example_sentence_with_blank": "O mutlu ______ lazım."
+}

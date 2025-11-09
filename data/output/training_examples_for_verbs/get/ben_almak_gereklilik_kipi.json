@@ -1,0 +1,20 @@
+{
+  "verb_rank": 6,
+  "verb_english": "get",
+  "verb_russian": "получать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almam lazım",
+    "root": "al",
+    "tense_affix": "ma",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "I need to get my book",
+  "russian_example_sentence": "Мне нужно получить мою книгу",
+  "turkish_example_sentence": "Ben kitabımı almam lazım",
+  "turkish_example_sentence_with_blank": "Ben kitabımı ______"
+}

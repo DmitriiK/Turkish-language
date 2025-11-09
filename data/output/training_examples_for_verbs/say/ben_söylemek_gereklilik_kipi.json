@@ -1,0 +1,20 @@
+{
+  "verb_rank": 4,
+  "verb_english": "say",
+  "verb_russian": "сказать",
+  "verb_infinitive": "söylemek",
+  "turkish_verb": {
+    "verb_full": "söylemem lazım",
+    "root": "söyle",
+    "tense_affix": "me",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "I need to say something important.",
+  "russian_example_sentence": "Мне нужно сказать что-то важное.",
+  "turkish_example_sentence": "Ben önemli bir şey söylemem lazım.",
+  "turkish_example_sentence_with_blank": "Ben önemli bir şey ______."
+}

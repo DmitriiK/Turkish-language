@@ -1,0 +1,20 @@
+{
+  "verb_rank": 12,
+  "verb_english": "come",
+  "verb_russian": "приходить",
+  "verb_infinitive": "gelmek",
+  "turkish_verb": {
+    "verb_full": "gelmem lazım",
+    "root": "gel",
+    "tense_affix": "me",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "I need to come home early.",
+  "russian_example_sentence": "Мне нужно прийти домой рано.",
+  "turkish_example_sentence": "Ben eve erken gelmem lazım.",
+  "turkish_example_sentence_with_blank": "Ben eve erken ______."
+}

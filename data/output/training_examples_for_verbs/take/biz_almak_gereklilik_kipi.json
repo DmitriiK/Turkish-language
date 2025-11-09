@@ -1,0 +1,20 @@
+{
+  "verb_rank": 10,
+  "verb_english": "take",
+  "verb_russian": "брать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almamız",
+    "root": "al",
+    "tense_affix": "ma",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "mız",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "We need to take the bus.",
+  "russian_example_sentence": "Нам нужно взять автобус.",
+  "turkish_example_sentence": "Bizim otobüsü almamız lazım.",
+  "turkish_example_sentence_with_blank": "Bizim otobüsü ______ lazım."
+}

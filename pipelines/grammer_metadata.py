@@ -178,7 +178,7 @@ VERB_FORM_INFOS = [
     VerbFormInfo(
         verb_tense=VerbTense.GereklilikKipi,
         language_level=LanguageLevel.A2,
-        type_of_personal_pronoun=None,  # "Yapmam lazım" - no personal affix
+        type_of_personal_pronoun=1,  # "Yapmam lazım" - uses possessive suffixes for all persons
         polarity=VerbPolarity.Positive
     ),
     VerbFormInfo(
