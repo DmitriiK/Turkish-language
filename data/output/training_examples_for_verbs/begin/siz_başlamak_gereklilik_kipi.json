@@ -4,7 +4,7 @@
   "verb_russian": "начинать",
   "verb_infinitive": "başlamak",
   "turkish_verb": {
-    "verb_full": "başlamanız",
+    "verb_full": "başlamanız lazım",
     "root": "başla",
     "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to begin your work.",
-  "russian_example_sentence": "Вам нужно начать свою работу.",
-  "turkish_example_sentence": "Siz projeniz için başlamanız lazım.",
-  "turkish_example_sentence_with_blank": "Siz projeniz için ______ lazım."
+  "english_example_sentence": "You need to begin your homework.",
+  "russian_example_sentence": "Вам нужно начать домашнее задание.",
+  "turkish_example_sentence": "Siz ödevinize başlamanız lazım.",
+  "turkish_example_sentence_with_blank": "Siz ödevinize ______."
 }

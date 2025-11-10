@@ -4,17 +4,17 @@
   "verb_russian": "резать",
   "verb_infinitive": "kesmek",
   "turkish_verb": {
-    "verb_full": "kesmeniz",
+    "verb_full": "kesmen lazım",
     "root": "kes",
     "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
   "english_example_sentence": "You need to cut the paper.",
-  "russian_example_sentence": "Вам нужно резать бумагу.",
-  "turkish_example_sentence": "Siz kağıdı kesmeniz lazım.",
-  "turkish_example_sentence_with_blank": "Siz kağıdı ______ lazım."
+  "russian_example_sentence": "Тебе нужно резать бумагу.",
+  "turkish_example_sentence": "Senin kağıdı kesmen lazım.",
+  "turkish_example_sentence_with_blank": "Senin kağıdı ______."
 }

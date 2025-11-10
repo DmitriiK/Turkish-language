@@ -4,7 +4,7 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemek",
+    "verb_full": "istemek lazım",
     "root": "iste",
     "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to want to learn.",
-  "russian_example_sentence": "Тебе нужно хотеть учиться.",
-  "turkish_example_sentence": "Sen öğrenmek için istemen lazım.",
-  "turkish_example_sentence_with_blank": "Sen öğrenmek için istemen lazım."
+  "english_example_sentence": "You need to want it.",
+  "russian_example_sentence": "Тебе нужно это хотеть.",
+  "turkish_example_sentence": "Sen bu kitabı istemek lazım.",
+  "turkish_example_sentence_with_blank": "Sen bu kitabı ______."
 }

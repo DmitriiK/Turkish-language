@@ -4,17 +4,17 @@
   "verb_russian": "требовать",
   "verb_infinitive": "gerektirmek",
   "turkish_verb": {
-    "verb_full": "gerekiriz",
-    "root": "gerek",
-    "tense_affix": "ir",
+    "verb_full": "yapmam lazım",
+    "root": "yap",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iz",
+    "personal_affix": "mız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We need to study for the exam.",
-  "russian_example_sentence": "Нам нужно учиться к экзамену.",
-  "turkish_example_sentence": "Biz sınav için çalışmamız gerekiriz.",
-  "turkish_example_sentence_with_blank": "Biz sınav için çalışmamız ______."
+  "english_example_sentence": "We need to do our homework",
+  "russian_example_sentence": "Нам нужно сделать нашу домашнюю работу",
+  "turkish_example_sentence": "Bizim ödevimizi yapmam lazım",
+  "turkish_example_sentence_with_blank": "Bizim ödevimizi ______"
 }

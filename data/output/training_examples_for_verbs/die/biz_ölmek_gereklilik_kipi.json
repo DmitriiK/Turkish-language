@@ -4,17 +4,17 @@
   "verb_russian": "умирать",
   "verb_infinitive": "ölmek",
   "turkish_verb": {
-    "verb_full": "ölmemiz lazım",
+    "verb_full": "ölmem lazım",
     "root": "öl",
     "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iz",
+    "personal_affix": "mız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We need to die someday.",
-  "russian_example_sentence": "Нам нужно умереть когда-нибудь.",
-  "turkish_example_sentence": "Bizim bir gün ölmemiz lazım.",
-  "turkish_example_sentence_with_blank": "Bizim bir gün ______."
+  "english_example_sentence": "We need to die.",
+  "russian_example_sentence": "Нам нужно умереть.",
+  "turkish_example_sentence": "Bizim bu dünyadan ölmem lazım.",
+  "turkish_example_sentence_with_blank": "Bizim bu dünyadan ______."
 }

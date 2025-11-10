@@ -4,17 +4,17 @@
   "verb_russian": "двигаться",
   "verb_infinitive": "hareket etmek",
   "turkish_verb": {
-    "verb_full": "hareket etmeleri",
+    "verb_full": "hareket etmesi lazım",
     "root": "hareket et",
     "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "leri",
+    "personal_affix": "si",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They need to move the boxes.",
-  "russian_example_sentence": "Им нужно двигать коробки.",
-  "turkish_example_sentence": "Onların kutuları hareket etmeleri lazım.",
-  "turkish_example_sentence_with_blank": "Onların kutuları ______ lazım."
+  "english_example_sentence": "They need to move.",
+  "russian_example_sentence": "Им нужно двигаться.",
+  "turkish_example_sentence": "Çocukların bahçede hareket etmesi lazım.",
+  "turkish_example_sentence_with_blank": "Çocukların bahçede ______."
 }

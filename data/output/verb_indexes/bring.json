@@ -199,9 +199,33 @@
     },
     {
       "tense": "gereklilik_kipi",
-      "pronoun": "none",
+      "pronoun": "biz",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/bring/none_getirmek_gereklilik_kipi.json"
+      "file_path": "data/output/training_examples_for_verbs/bring/biz_getirmek_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "o",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/bring/o_getirmek_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "onlar",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/bring/onlar_getirmek_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "sen",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/bring/sen_getirmek_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "siz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/bring/siz_getirmek_gereklilik_kipi.json"
     },
     {
       "tense": "geçmiş_gelecek_zaman",

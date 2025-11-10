@@ -205,9 +205,39 @@
     },
     {
       "tense": "gereklilik_kipi",
-      "pronoun": "none",
+      "pronoun": "ben",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/spend/none_harcamak_gereklilik_kipi.json"
+      "file_path": "data/output/training_examples_for_verbs/spend/ben_harcamak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "biz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/spend/biz_harcamak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "o",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/spend/o_harcamak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "onlar",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/spend/onlar_harcamak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "sen",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/spend/sen_harcamak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "siz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/spend/siz_harcamak_gereklilik_kipi.json"
     },
     {
       "tense": "geçmiş_gelecek_zaman",

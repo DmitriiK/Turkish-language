@@ -193,15 +193,39 @@
     },
     {
       "tense": "gereklilik_kipi",
-      "pronoun": "none",
+      "pronoun": "ben",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/buy/none_satın_almak_gereklilik_kipi.json"
+      "file_path": "data/output/training_examples_for_verbs/buy/ben_satın_almak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "biz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/buy/biz_satın_almak_gereklilik_kipi.json"
     },
     {
       "tense": "gereklilik_kipi",
       "pronoun": "o",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/buy/o_satın_almak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "onlar",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/buy/onlar_satın_almak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "sen",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/buy/sen_satın_almak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "siz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/buy/siz_satın_almak_gereklilik_kipi.json"
     },
     {
       "tense": "geçmiş_gelecek_zaman",

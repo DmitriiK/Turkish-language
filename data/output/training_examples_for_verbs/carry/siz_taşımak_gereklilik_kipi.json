@@ -4,17 +4,17 @@
   "verb_russian": "нести",
   "verb_infinitive": "taşımak",
   "turkish_verb": {
-    "verb_full": "taşımak lazım",
+    "verb_full": "taşımak siz",
     "root": "taşı",
     "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to carry the box",
-  "russian_example_sentence": "Вам нужно нести коробку",
-  "turkish_example_sentence": "Siz kutuyu taşımak lazım",
-  "turkish_example_sentence_with_blank": "Siz kutuyu ______"
+  "english_example_sentence": "You need to carry the heavy box.",
+  "russian_example_sentence": "Тебе нужно нести тяжёлую коробку.",
+  "turkish_example_sentence": "Senin ağır kutuyu taşımak lazım.",
+  "turkish_example_sentence_with_blank": "Senin ağır kutuyu taşımak lazım."
 }

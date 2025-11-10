@@ -4,17 +4,17 @@
   "verb_russian": "нравиться",
   "verb_infinitive": "sevmek",
   "turkish_verb": {
-    "verb_full": "sevmemiz lazım",
+    "verb_full": "sevmem lazım",
     "root": "sev",
     "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "miz",
+    "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We need to like the new book.",
-  "russian_example_sentence": "Нам нужно любить новую книгу.",
-  "turkish_example_sentence": "Yeni kitabı sevmemiz lazım.",
-  "turkish_example_sentence_with_blank": "Yeni kitabı ______."
+  "english_example_sentence": "We need to like this book.",
+  "russian_example_sentence": "Нам нужно любить эту книгу.",
+  "turkish_example_sentence": "Bu kitabı sevmem lazım.",
+  "turkish_example_sentence_with_blank": "Bu kitabı ______."
 }

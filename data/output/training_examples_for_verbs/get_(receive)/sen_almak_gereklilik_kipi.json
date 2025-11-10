@@ -4,7 +4,7 @@
   "verb_russian": "получать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "alman",
+    "verb_full": "alman lazım",
     "root": "al",
     "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to get a book.",
+  "english_example_sentence": "You need to get the book.",
   "russian_example_sentence": "Тебе нужно получить книгу.",
-  "turkish_example_sentence": "Sen bir kitap alman lazım.",
-  "turkish_example_sentence_with_blank": "Sen bir kitap ______ lazım."
+  "turkish_example_sentence": "Sen kitabı alman lazım.",
+  "turkish_example_sentence_with_blank": "Sen kitabı ______."
 }

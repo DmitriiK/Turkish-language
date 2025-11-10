@@ -4,17 +4,17 @@
   "verb_russian": "верить",
   "verb_infinitive": "inanmak",
   "turkish_verb": {
-    "verb_full": "inanmanız",
+    "verb_full": "inanman lazım",
     "root": "inan",
     "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to believe in yourself.",
-  "russian_example_sentence": "Вам нужно верить в себя.",
-  "turkish_example_sentence": "Siz başarılı olmak için inanmanız lazım.",
-  "turkish_example_sentence_with_blank": "Siz başarılı olmak için ______ lazım."
+  "english_example_sentence": "You need to believe in yourself",
+  "russian_example_sentence": "Тебе нужно верить в себя",
+  "turkish_example_sentence": "Senin kendine inanman lazım",
+  "turkish_example_sentence_with_blank": "Senin kendine ______"
 }

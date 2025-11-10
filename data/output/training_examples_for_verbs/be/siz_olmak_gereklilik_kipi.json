@@ -4,7 +4,7 @@
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmanız",
+    "verb_full": "olmanız lazım",
     "root": "ol",
     "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to be careful",
-  "russian_example_sentence": "Вам нужно быть осторожным",
-  "turkish_example_sentence": "Siz dikkatli olmanız lazım",
-  "turkish_example_sentence_with_blank": "Siz dikkatli ______ lazım"
+  "english_example_sentence": "You need to be happy",
+  "russian_example_sentence": "Вам нужно быть счастливым",
+  "turkish_example_sentence": "Siz mutlu olmanız lazım",
+  "turkish_example_sentence_with_blank": "Siz mutlu ______"
 }

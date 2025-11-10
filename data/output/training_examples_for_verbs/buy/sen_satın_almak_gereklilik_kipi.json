@@ -4,7 +4,7 @@
   "verb_russian": "покупать",
   "verb_infinitive": "satın almak",
   "turkish_verb": {
-    "verb_full": "satın alman",
+    "verb_full": "satın alman lazım",
     "root": "satın al",
     "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to buy a new book.",
-  "russian_example_sentence": "Тебе нужно купить новую книгу.",
-  "turkish_example_sentence": "Sen yeni bir kitap satın alman lazım.",
-  "turkish_example_sentence_with_blank": "Sen yeni bir kitap ______ lazım."
+  "english_example_sentence": "You need to buy a new book",
+  "russian_example_sentence": "Тебе нужно купить новую книгу",
+  "turkish_example_sentence": "Sen yeni bir kitap satın alman lazım",
+  "turkish_example_sentence_with_blank": "Sen yeni bir kitap ______"
 }

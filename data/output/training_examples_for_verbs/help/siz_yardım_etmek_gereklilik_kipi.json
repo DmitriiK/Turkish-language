@@ -4,17 +4,17 @@
   "verb_russian": "помогать",
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
-    "verb_full": "yardım etmen",
+    "verb_full": "yardım etmen lazım",
     "root": "yardım et",
-    "tense_affix": "me",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to help your friend.",
-  "russian_example_sentence": "Тебе нужно помочь другу.",
-  "turkish_example_sentence": "Senin arkadaşına yardım etmen lazım.",
-  "turkish_example_sentence_with_blank": "Senin arkadaşına ______ lazım."
+  "english_example_sentence": "You need to help me with homework.",
+  "russian_example_sentence": "Тебе нужно помочь мне с домашним заданием.",
+  "turkish_example_sentence": "Senin ödevime yardım etmen lazım.",
+  "turkish_example_sentence_with_blank": "Senin ödevime ______."
 }

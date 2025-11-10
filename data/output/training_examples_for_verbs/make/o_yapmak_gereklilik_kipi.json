@@ -4,7 +4,7 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapması",
+    "verb_full": "yapması lazım",
     "root": "yap",
     "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He needs to make a cake.",
-  "russian_example_sentence": "Ему нужно сделать торт.",
-  "turkish_example_sentence": "O pastayı yapması lazım.",
-  "turkish_example_sentence_with_blank": "O pastayı ______ lazım."
+  "english_example_sentence": "He needs to make a project.",
+  "russian_example_sentence": "Ему нужно сделать проект.",
+  "turkish_example_sentence": "O projeyi yapması lazım.",
+  "turkish_example_sentence_with_blank": "O projeyi ______."
 }

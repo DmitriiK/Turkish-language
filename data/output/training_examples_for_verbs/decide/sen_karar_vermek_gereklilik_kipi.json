@@ -4,7 +4,7 @@
   "verb_russian": "решать",
   "verb_infinitive": "karar vermek",
   "turkish_verb": {
-    "verb_full": "karar vermen lazım",
+    "verb_full": "karar vermen gerek",
     "root": "karar ver",
     "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to decide today.",
-  "russian_example_sentence": "Тебе нужно решить сегодня.",
-  "turkish_example_sentence": "Sen önemli bir konu üzerinde karar vermen lazım.",
-  "turkish_example_sentence_with_blank": "Sen önemli bir konu üzerinde ______."
+  "english_example_sentence": "You need to decide soon.",
+  "russian_example_sentence": "Тебе нужно решить скоро.",
+  "turkish_example_sentence": "Sen bu konuda karar vermen gerek.",
+  "turkish_example_sentence_with_blank": "Sen bu konuda ______."
 }

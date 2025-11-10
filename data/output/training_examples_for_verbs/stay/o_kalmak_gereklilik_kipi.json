@@ -4,17 +4,17 @@
   "verb_russian": "оставаться",
   "verb_infinitive": "kalmak",
   "turkish_verb": {
-    "verb_full": "kalması",
+    "verb_full": "kalması lazım",
     "root": "kal",
-    "tense_affix": "ması",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
     "personal_affix": "sı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He needs to stay here.",
-  "russian_example_sentence": "Ему нужно остаться здесь.",
-  "turkish_example_sentence": "O burada kalması lazım.",
-  "turkish_example_sentence_with_blank": "O burada ______ lazım."
+  "english_example_sentence": "He needs to stay safe",
+  "russian_example_sentence": "Ему нужно остаться в безопасности",
+  "turkish_example_sentence": "O güvenli kalması lazım",
+  "turkish_example_sentence_with_blank": "O güvenli ______"
 }

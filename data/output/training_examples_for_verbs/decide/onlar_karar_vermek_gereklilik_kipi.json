@@ -4,17 +4,17 @@
   "verb_russian": "решать",
   "verb_infinitive": "karar vermek",
   "turkish_verb": {
-    "verb_full": "karar vermeleri",
+    "verb_full": "karar vermesi lazım",
     "root": "karar ver",
     "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "leri",
+    "personal_affix": "si",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They need to decide the plan.",
-  "russian_example_sentence": "Им нужно решить план.",
-  "turkish_example_sentence": "Onların planı karar vermeleri lazım.",
-  "turkish_example_sentence_with_blank": "Onların planı ______ lazım."
+  "english_example_sentence": "They need to decide quickly.",
+  "russian_example_sentence": "Им нужно быстро решить.",
+  "turkish_example_sentence": "Öğrencilerin hızlıca karar vermesi lazım.",
+  "turkish_example_sentence_with_blank": "Öğrencilerin hızlıca ______."
 }

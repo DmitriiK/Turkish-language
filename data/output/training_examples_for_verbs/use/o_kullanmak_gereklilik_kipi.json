@@ -4,7 +4,7 @@
   "verb_russian": "использовать",
   "verb_infinitive": "kullanmak",
   "turkish_verb": {
-    "verb_full": "kullanması",
+    "verb_full": "kullanması lazım",
     "root": "kullan",
     "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He needs to use the new computer.",
-  "russian_example_sentence": "Ему нужно использовать новый компьютер.",
-  "turkish_example_sentence": "O yeni bilgisayarı kullanması lazım.",
-  "turkish_example_sentence_with_blank": "O yeni bilgisayarı ______ lazım."
+  "english_example_sentence": "He needs to use the computer.",
+  "russian_example_sentence": "Ему нужно использовать компьютер.",
+  "turkish_example_sentence": "O bilgisayarı kullanması lazım.",
+  "turkish_example_sentence_with_blank": "O bilgisayarı ______."
 }

@@ -4,7 +4,7 @@
   "verb_russian": "разрешать",
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
-    "verb_full": "izin vermen",
+    "verb_full": "izin vermen lazım",
     "root": "izin ver",
     "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
@@ -15,6 +15,6 @@
   },
   "english_example_sentence": "You need to allow the children to play.",
   "russian_example_sentence": "Тебе нужно разрешить детям играть.",
-  "turkish_example_sentence": "Sen çocukların oynaması için izin vermen lazım.",
-  "turkish_example_sentence_with_blank": "Sen çocukların oynaması için ______ lazım."
+  "turkish_example_sentence": "Sen çocukların oynamasına izin vermen lazım.",
+  "turkish_example_sentence_with_blank": "Sen çocukların oynamasına ______."
 }

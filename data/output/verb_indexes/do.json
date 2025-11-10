@@ -211,15 +211,39 @@
     },
     {
       "tense": "gereklilik_kipi",
-      "pronoun": "none",
+      "pronoun": "ben",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/do/none_yapmak_gereklilik_kipi.json"
+      "file_path": "data/output/training_examples_for_verbs/do/ben_yapmak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "biz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/do/biz_yapmak_gereklilik_kipi.json"
     },
     {
       "tense": "gereklilik_kipi",
       "pronoun": "o",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/do/o_yapmak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "onlar",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/do/onlar_yapmak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "sen",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/do/sen_yapmak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "siz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/do/siz_yapmak_gereklilik_kipi.json"
     },
     {
       "tense": "geçmiş_gelecek_zaman",
@@ -664,6 +688,12 @@
       "pronoun": "biz",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/do/biz_yapmak_şimdiki_zaman.json"
+    },
+    {
+      "tense": "şimdiki_zaman",
+      "pronoun": "none",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/do/none_yapmak_şimdiki_zaman.json"
     },
     {
       "tense": "şimdiki_zaman",

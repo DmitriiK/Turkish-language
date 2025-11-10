@@ -7,9 +7,27 @@
   "examples": [
     {
       "tense": "emir_kipi",
+      "pronoun": "o",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/tell/o_anlatmak_emir_kipi.json"
+    },
+    {
+      "tense": "emir_kipi",
+      "pronoun": "onlar",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/tell/onlar_anlatmak_emir_kipi.json"
+    },
+    {
+      "tense": "emir_kipi",
       "pronoun": "sen",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/tell/sen_anlatmak_emir_kipi.json"
+    },
+    {
+      "tense": "emir_kipi",
+      "pronoun": "siz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/tell/siz_anlatmak_emir_kipi.json"
     },
     {
       "tense": "farzî_geçmiş_zaman",
@@ -193,9 +211,39 @@
     },
     {
       "tense": "gereklilik_kipi",
-      "pronoun": "none",
+      "pronoun": "ben",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/tell/none_anlatmak_gereklilik_kipi.json"
+      "file_path": "data/output/training_examples_for_verbs/tell/ben_anlatmak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "biz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/tell/biz_anlatmak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "o",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/tell/o_anlatmak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "onlar",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/tell/onlar_anlatmak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "sen",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/tell/sen_anlatmak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "siz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/tell/siz_anlatmak_gereklilik_kipi.json"
     },
     {
       "tense": "geçmiş_gelecek_zaman",

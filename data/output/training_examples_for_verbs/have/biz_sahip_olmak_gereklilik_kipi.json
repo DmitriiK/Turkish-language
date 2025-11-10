@@ -4,17 +4,17 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olmamız",
+    "verb_full": "sahip olmamız lazım",
     "root": "sahip ol",
     "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "ız",
+    "personal_affix": "mız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We need to have a good plan.",
-  "russian_example_sentence": "Нам нужно иметь хороший план.",
-  "turkish_example_sentence": "Bizim iyi bir plana sahip olmamız lazım.",
-  "turkish_example_sentence_with_blank": "Bizim iyi bir plana ______ lazım."
+  "english_example_sentence": "We need to have a good time",
+  "russian_example_sentence": "Нам нужно хорошо провести время",
+  "turkish_example_sentence": "Bizim güzel bir zamanı sahip olmamız lazım",
+  "turkish_example_sentence_with_blank": "Bizim güzel bir zamanı ______"
 }

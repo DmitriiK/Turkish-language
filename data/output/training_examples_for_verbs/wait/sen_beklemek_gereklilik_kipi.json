@@ -4,7 +4,7 @@
   "verb_russian": "ждать",
   "verb_infinitive": "beklemek",
   "turkish_verb": {
-    "verb_full": "beklemen",
+    "verb_full": "beklemen lazım",
     "root": "bekle",
     "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to wait for the bus.",
-  "russian_example_sentence": "Тебе нужно подождать автобус.",
-  "turkish_example_sentence": "Sen otobüsü beklemen lazım.",
-  "turkish_example_sentence_with_blank": "Sen otobüsü ______ lazım."
+  "english_example_sentence": "You need to wait for your friend",
+  "russian_example_sentence": "Тебе нужно ждать своего друга",
+  "turkish_example_sentence": "Sen arkadaşını beklemen lazım",
+  "turkish_example_sentence_with_blank": "Sen arkadaşını ______"
 }

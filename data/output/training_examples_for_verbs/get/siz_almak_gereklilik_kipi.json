@@ -4,7 +4,7 @@
   "verb_russian": "получать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almanız",
+    "verb_full": "almanız lazım",
     "root": "al",
     "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to get the book.",
-  "russian_example_sentence": "Вам нужно получить книгу.",
-  "turkish_example_sentence": "Siz kitabı almanız lazım.",
-  "turkish_example_sentence_with_blank": "Siz kitabı ______ lazım."
+  "english_example_sentence": "You need to get your homework.",
+  "russian_example_sentence": "Вам нужно получить домашнее задание.",
+  "turkish_example_sentence": "Sizin ödevinizi almanız lazım.",
+  "turkish_example_sentence_with_blank": "Sizin ödevinizi ______."
 }

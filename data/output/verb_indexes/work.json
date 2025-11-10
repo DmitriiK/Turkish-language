@@ -6,6 +6,30 @@
   "folder_name": "work",
   "examples": [
     {
+      "tense": "emir_kipi",
+      "pronoun": "o",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/o_çalışmak_emir_kipi.json"
+    },
+    {
+      "tense": "emir_kipi",
+      "pronoun": "onlar",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/onlar_çalışmak_emir_kipi.json"
+    },
+    {
+      "tense": "emir_kipi",
+      "pronoun": "sen",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/sen_çalışmak_emir_kipi.json"
+    },
+    {
+      "tense": "emir_kipi",
+      "pronoun": "siz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/siz_çalışmak_emir_kipi.json"
+    },
+    {
       "tense": "farzî_geçmiş_zaman",
       "pronoun": "ben",
       "polarity": "positive",
@@ -187,9 +211,39 @@
     },
     {
       "tense": "gereklilik_kipi",
-      "pronoun": "none",
+      "pronoun": "ben",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/work/none_çalışmak_gereklilik_kipi.json"
+      "file_path": "data/output/training_examples_for_verbs/work/ben_çalışmak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "biz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/biz_çalışmak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "o",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/o_çalışmak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "onlar",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/onlar_çalışmak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "sen",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/sen_çalışmak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "siz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/siz_çalışmak_gereklilik_kipi.json"
     },
     {
       "tense": "geçmiş_gelecek_zaman",
@@ -616,6 +670,12 @@
       "pronoun": "biz",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/work/biz_çalışmak_şimdiki_zaman.json"
+    },
+    {
+      "tense": "şimdiki_zaman",
+      "pronoun": "none",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/work/none_çalışmak_şimdiki_zaman.json"
     },
     {
       "tense": "şimdiki_zaman",

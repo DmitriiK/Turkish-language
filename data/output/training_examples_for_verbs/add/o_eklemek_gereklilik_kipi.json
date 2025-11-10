@@ -4,17 +4,17 @@
   "verb_russian": "добавлять",
   "verb_infinitive": "eklemek",
   "turkish_verb": {
-    "verb_full": "eklemesi",
+    "verb_full": "eklemesi lazım",
     "root": "ekle",
     "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "si",
+    "personal_affix": "sı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He needs to add more sugar.",
-  "russian_example_sentence": "Ему нужно добавить больше сахара.",
-  "turkish_example_sentence": "O biraz daha şeker eklemesi lazım.",
-  "turkish_example_sentence_with_blank": "O biraz daha şeker ______ lazım."
+  "english_example_sentence": "He needs to add the new book.",
+  "russian_example_sentence": "Ему нужно добавить новую книгу.",
+  "turkish_example_sentence": "O yeni kitabı eklemesi lazım.",
+  "turkish_example_sentence_with_blank": "O yeni kitabı ______."
 }

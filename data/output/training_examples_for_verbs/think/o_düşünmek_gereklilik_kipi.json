@@ -4,17 +4,17 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmesi",
+    "verb_full": "düşünmesi lazım",
     "root": "düşün",
     "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "si",
+    "personal_affix": "sı",
     "polarity": "positive",
     "negative_affix": null
   },
   "english_example_sentence": "He needs to think about the problem.",
   "russian_example_sentence": "Ему нужно подумать о проблеме.",
   "turkish_example_sentence": "O sorunu düşünmesi lazım.",
-  "turkish_example_sentence_with_blank": "O sorunu ______ lazım."
+  "turkish_example_sentence_with_blank": "O sorunu ______."
 }

@@ -4,17 +4,17 @@
   "verb_russian": "включать",
   "verb_infinitive": "içermek",
   "turkish_verb": {
-    "verb_full": "içermen",
+    "verb_full": "içermen lazım",
     "root": "iç",
-    "tense_affix": "er",
+    "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to include your homework.",
-  "russian_example_sentence": "Тебе нужно включить твою домашнюю работу.",
-  "turkish_example_sentence": "Sen ödevini içermen lazım.",
-  "turkish_example_sentence_with_blank": "Sen ödevini ______ lazım."
+  "english_example_sentence": "You need to include the information.",
+  "russian_example_sentence": "Тебе нужно включить информацию.",
+  "turkish_example_sentence": "Sen bu bilgiyi içermen lazım.",
+  "turkish_example_sentence_with_blank": "Sen bu bilgiyi ______."
 }

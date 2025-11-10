@@ -1,6 +1,6 @@
 {
-  "total_verbs": 109,
-  "total_indexes": 109,
+  "total_verbs": 116,
+  "total_indexes": 116,
   "verbs": [
     {
       "rank": 1,
@@ -28,7 +28,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 108
+      "total_examples": 116
     },
     {
       "rank": 2,
@@ -56,7 +56,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 111
+      "total_examples": 117
     },
     {
       "rank": 3,
@@ -84,7 +84,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 113
+      "total_examples": 119
     },
     {
       "rank": 4,
@@ -112,7 +112,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 112
+      "total_examples": 118
     },
     {
       "rank": 5,
@@ -140,7 +140,30 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 109
+      "total_examples": 115
+    },
+    {
+      "rank": 6,
+      "english": "get",
+      "russian": "получать",
+      "turkish": "almak",
+      "folder": "get",
+      "tenses": [
+        "emir_kipi",
+        "farzî_geçmiş_zaman",
+        "gelecek_zaman",
+        "geniş_zaman",
+        "gereklilik_kipi",
+        "geçmiş_gelecek_zaman",
+        "geçmiş_zaman",
+        "imkan_kipi",
+        "istek_kipi",
+        "zaman_sıfatı",
+        "zorunluluk_kipi",
+        "şart_kipi",
+        "şimdiki_zaman"
+      ],
+      "total_examples": 43
     },
     {
       "rank": 6,
@@ -168,7 +191,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 109
+      "total_examples": 114
     },
     {
       "rank": 7,
@@ -196,7 +219,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 110
+      "total_examples": 116
     },
     {
       "rank": 8,
@@ -224,7 +247,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 110
+      "total_examples": 116
     },
     {
       "rank": 9,
@@ -252,7 +275,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 106
+      "total_examples": 116
     },
     {
       "rank": 10,
@@ -280,7 +303,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 110
+      "total_examples": 116
     },
     {
       "rank": 11,
@@ -308,7 +331,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 108
+      "total_examples": 115
     },
     {
       "rank": 12,
@@ -336,7 +359,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 108
+      "total_examples": 116
     },
     {
       "rank": 13,
@@ -364,7 +387,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 110
+      "total_examples": 115
     },
     {
       "rank": 14,
@@ -392,7 +415,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 108
+      "total_examples": 115
     },
     {
       "rank": 15,
@@ -420,7 +443,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 108
+      "total_examples": 115
     },
     {
       "rank": 16,
@@ -448,7 +471,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 107
+      "total_examples": 115
     },
     {
       "rank": 17,
@@ -476,7 +499,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 106
+      "total_examples": 113
     },
     {
       "rank": 18,
@@ -504,7 +527,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 108
+      "total_examples": 115
     },
     {
       "rank": 19,
@@ -532,7 +555,31 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 107
+      "total_examples": 116
+    },
+    {
+      "rank": 20,
+      "english": "call",
+      "russian": "звонить",
+      "turkish": "aramak",
+      "folder": "call",
+      "tenses": [
+        "emir_kipi",
+        "farzî_geçmiş_zaman",
+        "gelecek_zaman",
+        "geniş_zaman",
+        "gereklilik_kipi",
+        "geçmiş_gelecek_zaman",
+        "geçmiş_zaman",
+        "imkan_kipi",
+        "istek_kipi",
+        "yaracağım",
+        "zorunluluk_kipi",
+        "şart_kipi",
+        "şartlı_kipi",
+        "şimdiki_zaman"
+      ],
+      "total_examples": 31
     },
     {
       "rank": 20,
@@ -560,7 +607,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 107
+      "total_examples": 117
     },
     {
       "rank": 21,
@@ -588,7 +635,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 109
+      "total_examples": 113
     },
     {
       "rank": 22,
@@ -616,7 +663,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 109
+      "total_examples": 112
     },
     {
       "rank": 23,
@@ -644,7 +691,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 110
+      "total_examples": 114
     },
     {
       "rank": 24,
@@ -672,7 +719,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 108
+      "total_examples": 112
     },
     {
       "rank": 25,
@@ -700,7 +747,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 111
+      "total_examples": 113
     },
     {
       "rank": 26,
@@ -728,7 +775,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 108
+      "total_examples": 112
     },
     {
       "rank": 27,
@@ -737,7 +784,6 @@
       "turkish": "koymak",
       "folder": "put",
       "tenses": [
-        "emir_kipi",
         "farzî_geçmiş_zaman",
         "gelecek_zaman",
         "geniş_zaman",
@@ -756,7 +802,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 105
+      "total_examples": 109
     },
     {
       "rank": 28,
@@ -765,7 +811,6 @@
       "turkish": "demek",
       "folder": "mean",
       "tenses": [
-        "emir_kipi",
         "farzî_geçmiş_zaman",
         "gelecek_zaman",
         "geniş_zaman",
@@ -784,7 +829,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 103
+      "total_examples": 107
     },
     {
       "rank": 29,
@@ -812,7 +857,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 108
+      "total_examples": 111
     },
     {
       "rank": 30,
@@ -840,7 +885,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 110
+      "total_examples": 112
     },
     {
       "rank": 31,
@@ -849,7 +894,6 @@
       "turkish": "başlamak",
       "folder": "begin",
       "tenses": [
-        "emir_kipi",
         "farzî_geçmiş_zaman",
         "gelecek_zaman",
         "geniş_zaman",
@@ -868,7 +912,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 108
+      "total_examples": 111
     },
     {
       "rank": 32,
@@ -896,7 +940,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 108
+      "total_examples": 112
     },
     {
       "rank": 33,
@@ -924,7 +968,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 109
+      "total_examples": 111
     },
     {
       "rank": 34,
@@ -952,7 +996,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 108
+      "total_examples": 112
     },
     {
       "rank": 35,
@@ -980,7 +1024,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 109
+      "total_examples": 112
     },
     {
       "rank": 36,
@@ -1008,7 +1052,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 110
+      "total_examples": 113
     },
     {
       "rank": 37,
@@ -1036,7 +1080,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 106
+      "total_examples": 110
     },
     {
       "rank": 38,
@@ -1064,7 +1108,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 105
+      "total_examples": 109
     },
     {
       "rank": 39,
@@ -1092,7 +1136,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 109
+      "total_examples": 112
     },
     {
       "rank": 40,
@@ -1120,7 +1164,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 108
+      "total_examples": 112
     },
     {
       "rank": 41,
@@ -1148,7 +1192,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 108
+      "total_examples": 112
     },
     {
       "rank": 42,
@@ -1176,7 +1220,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 108
+      "total_examples": 112
     },
     {
       "rank": 43,
@@ -1204,7 +1248,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 109
+      "total_examples": 112
     },
     {
       "rank": 44,
@@ -1232,7 +1276,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 109
+      "total_examples": 112
     },
     {
       "rank": 45,
@@ -1241,7 +1285,6 @@
       "turkish": "sağlamak",
       "folder": "provide",
       "tenses": [
-        "emir_kipi",
         "farzî_geçmiş_zaman",
         "gelecek_zaman",
         "geniş_zaman",
@@ -1260,7 +1303,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 107
+      "total_examples": 110
     },
     {
       "rank": 46,
@@ -1288,7 +1331,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 108
+      "total_examples": 111
     },
     {
       "rank": 47,
@@ -1316,7 +1359,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 109
+      "total_examples": 112
     },
     {
       "rank": 48,
@@ -1344,7 +1387,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 109
+      "total_examples": 113
     },
     {
       "rank": 49,
@@ -1353,7 +1396,6 @@
       "turkish": "ödemek",
       "folder": "pay",
       "tenses": [
-        "emir_kipi",
         "farzî_geçmiş_zaman",
         "gelecek_zaman",
         "geniş_zaman",
@@ -1372,7 +1414,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 106
+      "total_examples": 110
     },
     {
       "rank": 50,
@@ -1400,7 +1442,18 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 107
+      "total_examples": 111
+    },
+    {
+      "rank": 51,
+      "english": "include",
+      "russian": "включать",
+      "turkish": "içermek",
+      "folder": "include",
+      "tenses": [
+        "gereklilik_kipi"
+      ],
+      "total_examples": 6
     },
     {
       "rank": 52,
@@ -1428,7 +1481,18 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 106
+      "total_examples": 110
+    },
+    {
+      "rank": 53,
+      "english": "set",
+      "russian": "ставить",
+      "turkish": "koymak",
+      "folder": "set",
+      "tenses": [
+        "gereklilik_kipi"
+      ],
+      "total_examples": 5
     },
     {
       "rank": 53,
@@ -1456,7 +1520,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 107
+      "total_examples": 106
     },
     {
       "rank": 54,
@@ -1484,7 +1548,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 109
+      "total_examples": 113
     },
     {
       "rank": 55,
@@ -1493,7 +1557,6 @@
       "turkish": "değiştirmek",
       "folder": "change",
       "tenses": [
-        "emir_kipi",
         "farzî_geçmiş_zaman",
         "gelecek_zaman",
         "geniş_zaman",
@@ -1512,7 +1575,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 106
+      "total_examples": 110
     },
     {
       "rank": 56,
@@ -1540,7 +1603,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 107
+      "total_examples": 109
     },
     {
       "rank": 57,
@@ -1568,7 +1631,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 108
+      "total_examples": 112
     },
     {
       "rank": 58,
@@ -1596,7 +1659,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 108
+      "total_examples": 112
     },
     {
       "rank": 59,
@@ -1624,7 +1687,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 108
+      "total_examples": 111
     },
     {
       "rank": 60,
@@ -1633,7 +1696,6 @@
       "turkish": "durmak",
       "folder": "stop",
       "tenses": [
-        "emir_kipi",
         "farzî_geçmiş_zaman",
         "gelecek_zaman",
         "geniş_zaman",
@@ -1652,7 +1714,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 106
+      "total_examples": 110
     },
     {
       "rank": 61,
@@ -1680,7 +1742,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 109
+      "total_examples": 112
     },
     {
       "rank": 62,
@@ -1708,7 +1770,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 108
+      "total_examples": 112
     },
     {
       "rank": 63,
@@ -1736,7 +1798,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 107
+      "total_examples": 111
     },
     {
       "rank": 64,
@@ -1745,7 +1807,6 @@
       "turkish": "izin vermek",
       "folder": "allow",
       "tenses": [
-        "emir_kipi",
         "farzî_geçmiş_zaman",
         "gelecek_zaman",
         "geniş_zaman",
@@ -1764,7 +1825,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 109
+      "total_examples": 112
     },
     {
       "rank": 65,
@@ -1792,7 +1853,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 109
+      "total_examples": 112
     },
     {
       "rank": 66,
@@ -1820,7 +1881,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 110
+      "total_examples": 114
     },
     {
       "rank": 67,
@@ -1829,7 +1890,6 @@
       "turkish": "büyümek",
       "folder": "grow",
       "tenses": [
-        "emir_kipi",
         "farzî_geçmiş_zaman",
         "gelecek_zaman",
         "geniş_zaman",
@@ -1848,7 +1908,18 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 106
+      "total_examples": 110
+    },
+    {
+      "rank": 68,
+      "english": "open",
+      "russian": "открывать",
+      "turkish": "açmak",
+      "folder": "open",
+      "tenses": [
+        "gereklilik_kipi"
+      ],
+      "total_examples": 6
     },
     {
       "rank": 69,
@@ -1857,7 +1928,6 @@
       "turkish": "yürümek",
       "folder": "walk",
       "tenses": [
-        "emir_kipi",
         "farzî_geçmiş_zaman",
         "gelecek_zaman",
         "geniş_zaman",
@@ -1876,7 +1946,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 108
+      "total_examples": 111
     },
     {
       "rank": 70,
@@ -1885,7 +1955,6 @@
       "turkish": "kazanmak",
       "folder": "win",
       "tenses": [
-        "emir_kipi",
         "farzî_geçmiş_zaman",
         "gelecek_zaman",
         "geniş_zaman",
@@ -1904,7 +1973,18 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 108
+      "total_examples": 111
+    },
+    {
+      "rank": 71,
+      "english": "offer",
+      "russian": "предлагать",
+      "turkish": "teklif etmek",
+      "folder": "offer",
+      "tenses": [
+        "gereklilik_kipi"
+      ],
+      "total_examples": 6
     },
     {
       "rank": 72,
@@ -1932,7 +2012,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 105
+      "total_examples": 109
     },
     {
       "rank": 73,
@@ -1960,7 +2040,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 105
+      "total_examples": 109
     },
     {
       "rank": 74,
@@ -1988,7 +2068,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 106
+      "total_examples": 110
     },
     {
       "rank": 75,
@@ -2016,7 +2096,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 110
+      "total_examples": 113
     },
     {
       "rank": 76,
@@ -2044,7 +2124,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 108
+      "total_examples": 111
     },
     {
       "rank": 77,
@@ -2072,7 +2152,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 108
+      "total_examples": 112
     },
     {
       "rank": 78,
@@ -2100,7 +2180,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 109
+      "total_examples": 112
     },
     {
       "rank": 79,
@@ -2128,7 +2208,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 110
+      "total_examples": 113
     },
     {
       "rank": 80,
@@ -2156,7 +2236,18 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 109
+      "total_examples": 112
+    },
+    {
+      "rank": 81,
+      "english": "expect",
+      "russian": "ожидать",
+      "turkish": "beklemek",
+      "folder": "expect",
+      "tenses": [
+        "gereklilik_kipi"
+      ],
+      "total_examples": 6
     },
     {
       "rank": 82,
@@ -2184,7 +2275,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 106
+      "total_examples": 110
     },
     {
       "rank": 83,
@@ -2212,7 +2303,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 108
+      "total_examples": 111
     },
     {
       "rank": 84,
@@ -2240,7 +2331,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 109
+      "total_examples": 112
     },
     {
       "rank": 85,
@@ -2268,7 +2359,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 108
+      "total_examples": 112
     },
     {
       "rank": 87,
@@ -2296,7 +2387,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 108
+      "total_examples": 112
     },
     {
       "rank": 88,
@@ -2324,7 +2415,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 107
+      "total_examples": 111
     },
     {
       "rank": 90,
@@ -2352,7 +2443,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 108
+      "total_examples": 111
     },
     {
       "rank": 92,
@@ -2380,7 +2471,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 107
+      "total_examples": 110
     },
     {
       "rank": 93,
@@ -2408,7 +2499,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 107
+      "total_examples": 111
     },
     {
       "rank": 94,
@@ -2436,7 +2527,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 109
+      "total_examples": 112
     },
     {
       "rank": 95,
@@ -2464,7 +2555,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 110
+      "total_examples": 114
     },
     {
       "rank": 96,
@@ -2492,7 +2583,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 108
+      "total_examples": 111
     },
     {
       "rank": 97,
@@ -2501,7 +2592,6 @@
       "turkish": "dönmek",
       "folder": "return",
       "tenses": [
-        "emir_kipi",
         "farzî_geçmiş_zaman",
         "gelecek_zaman",
         "geniş_zaman",
@@ -2519,7 +2609,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 101
+      "total_examples": 105
     },
     {
       "rank": 98,
@@ -2547,7 +2637,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 107
+      "total_examples": 111
     },
     {
       "rank": 99,
@@ -2575,7 +2665,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 110
+      "total_examples": 113
     },
     {
       "rank": 100,
@@ -2603,7 +2693,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 107
+      "total_examples": 111
     },
     {
       "rank": 101,
@@ -2612,7 +2702,6 @@
       "turkish": "taşımak",
       "folder": "carry",
       "tenses": [
-        "emir_kipi",
         "farzî_geçmiş_zaman",
         "gelecek_zaman",
         "geniş_zaman",
@@ -2629,7 +2718,7 @@
         "şart_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 100
+      "total_examples": 104
     },
     {
       "rank": 102,
@@ -2656,7 +2745,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 100
+      "total_examples": 104
     },
     {
       "rank": 103,
@@ -2684,7 +2773,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 106
+      "total_examples": 111
     },
     {
       "rank": 104,
@@ -2697,7 +2786,6 @@
         "farzî_geçmiş_zaman",
         "gelecek_zaman",
         "geniş_zaman",
-        "gereklilik_kipi",
         "geçmiş_gelecek_zaman",
         "geçmiş_zaman",
         "imkan_kipi",
@@ -2712,7 +2800,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 108
+      "total_examples": 106
     },
     {
       "rank": 105,
@@ -2721,11 +2809,9 @@
       "turkish": "desteklemek",
       "folder": "support",
       "tenses": [
-        "emir_kipi",
         "farzî_geçmiş_zaman",
         "gelecek_zaman",
         "geniş_zaman",
-        "gereklilik_kipi",
         "geçmiş_gelecek_zaman",
         "geçmiş_zaman",
         "imkan_kipi",
@@ -2740,7 +2826,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 105
+      "total_examples": 103
     },
     {
       "rank": 106,
@@ -2753,7 +2839,33 @@
         "farzî_geçmiş_zaman",
         "gelecek_zaman",
         "geniş_zaman",
-        "gereklilik_kipi",
+        "geçmiş_gelecek_zaman",
+        "geçmiş_zaman",
+        "imkan_kipi",
+        "istek_kipi",
+        "sıfat_fiil",
+        "ulak_fiil",
+        "yaracağım",
+        "zaman_sıfatı",
+        "zarf_fiil",
+        "zorunluluk_kipi",
+        "şart_kipi",
+        "şartlı_kipi",
+        "şimdiki_zaman"
+      ],
+      "total_examples": 103
+    },
+    {
+      "rank": 107,
+      "english": "produce",
+      "russian": "производить",
+      "turkish": "üretmek",
+      "folder": "produce",
+      "tenses": [
+        "emir_kipi",
+        "farzî_geçmiş_zaman",
+        "gelecek_zaman",
+        "geniş_zaman",
         "geçmiş_gelecek_zaman",
         "geçmiş_zaman",
         "imkan_kipi",
@@ -2771,34 +2883,6 @@
       "total_examples": 105
     },
     {
-      "rank": 107,
-      "english": "produce",
-      "russian": "производить",
-      "turkish": "üretmek",
-      "folder": "produce",
-      "tenses": [
-        "emir_kipi",
-        "farzî_geçmiş_zaman",
-        "gelecek_zaman",
-        "geniş_zaman",
-        "gereklilik_kipi",
-        "geçmiş_gelecek_zaman",
-        "geçmiş_zaman",
-        "imkan_kipi",
-        "istek_kipi",
-        "sıfat_fiil",
-        "ulak_fiil",
-        "yaracağım",
-        "zaman_sıfatı",
-        "zarf_fiil",
-        "zorunluluk_kipi",
-        "şart_kipi",
-        "şartlı_kipi",
-        "şimdiki_zaman"
-      ],
-      "total_examples": 107
-    },
-    {
       "rank": 108,
       "english": "eat",
       "russian": "есть",
@@ -2809,7 +2893,6 @@
         "farzî_geçmiş_zaman",
         "gelecek_zaman",
         "geniş_zaman",
-        "gereklilik_kipi",
         "geçmiş_gelecek_zaman",
         "geçmiş_zaman",
         "imkan_kipi",
@@ -2824,7 +2907,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 107
+      "total_examples": 105
     },
     {
       "rank": 109,
@@ -2837,7 +2920,6 @@
         "farzî_geçmiş_zaman",
         "gelecek_zaman",
         "geniş_zaman",
-        "gereklilik_kipi",
         "geçmiş_gelecek_zaman",
         "geçmiş_zaman",
         "imkan_kipi",
@@ -2852,7 +2934,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 101
+      "total_examples": 99
     },
     {
       "rank": 110,
@@ -2865,7 +2947,6 @@
         "farzî_geçmiş_zaman",
         "gelecek_zaman",
         "geniş_zaman",
-        "gereklilik_kipi",
         "geçmiş_gelecek_zaman",
         "geçmiş_zaman",
         "imkan_kipi",
@@ -2880,7 +2961,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 107
+      "total_examples": 105
     },
     {
       "rank": 111,
@@ -2893,7 +2974,6 @@
         "farzî_geçmiş_zaman",
         "gelecek_zaman",
         "geniş_zaman",
-        "gereklilik_kipi",
         "geçmiş_gelecek_zaman",
         "geçmiş_zaman",
         "imkan_kipi",
@@ -2907,7 +2987,7 @@
         "şart_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 101
+      "total_examples": 100
     },
     {
       "rank": 112,
@@ -2920,7 +3000,6 @@
         "farzî_geçmiş_zaman",
         "gelecek_zaman",
         "geniş_zaman",
-        "gereklilik_kipi",
         "geçmiş_gelecek_zaman",
         "geçmiş_zaman",
         "imkan_kipi",
@@ -2935,7 +3014,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 104
+      "total_examples": 103
     },
     {
       "rank": 113,
@@ -2948,35 +3027,6 @@
         "farzî_geçmiş_zaman",
         "gelecek_zaman",
         "geniş_zaman",
-        "gereklilik_kipi",
-        "geçmiş_gelecek_zaman",
-        "geçmiş_zaman",
-        "imkan_kipi",
-        "istek_kipi",
-        "sıfat_fiil",
-        "ulak_fiil",
-        "yaracağım",
-        "zaman_sıfatı",
-        "zarf_fiil",
-        "zorunluluk_kipi",
-        "şart_kipi",
-        "şartlı_kipi",
-        "şimdiki_zaman"
-      ],
-      "total_examples": 106
-    },
-    {
-      "rank": 114,
-      "english": "teach",
-      "russian": "учить (кого-то)",
-      "turkish": "öğretmek",
-      "folder": "teach",
-      "tenses": [
-        "emir_kipi",
-        "farzî_geçmiş_zaman",
-        "gelecek_zaman",
-        "geniş_zaman",
-        "gereklilik_kipi",
         "geçmiş_gelecek_zaman",
         "geçmiş_zaman",
         "imkan_kipi",
@@ -2994,17 +3044,16 @@
       "total_examples": 104
     },
     {
-      "rank": 115,
-      "english": "reach (arrive)",
-      "russian": "добираться",
-      "turkish": "ulaşmak",
-      "folder": "reach_(arrive)",
+      "rank": 114,
+      "english": "teach",
+      "russian": "учить (кого-то)",
+      "turkish": "öğretmek",
+      "folder": "teach",
       "tenses": [
         "emir_kipi",
         "farzî_geçmiş_zaman",
         "gelecek_zaman",
         "geniş_zaman",
-        "gereklilik_kipi",
         "geçmiş_gelecek_zaman",
         "geçmiş_zaman",
         "imkan_kipi",
@@ -3019,7 +3068,34 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 106
+      "total_examples": 102
+    },
+    {
+      "rank": 115,
+      "english": "reach (arrive)",
+      "russian": "добираться",
+      "turkish": "ulaşmak",
+      "folder": "reach_(arrive)",
+      "tenses": [
+        "emir_kipi",
+        "farzî_geçmiş_zaman",
+        "gelecek_zaman",
+        "geniş_zaman",
+        "geçmiş_gelecek_zaman",
+        "geçmiş_zaman",
+        "imkan_kipi",
+        "istek_kipi",
+        "sıfat_fiil",
+        "ulak_fiil",
+        "yaracağım",
+        "zaman_sıfatı",
+        "zarf_fiil",
+        "zorunluluk_kipi",
+        "şart_kipi",
+        "şartlı_kipi",
+        "şimdiki_zaman"
+      ],
+      "total_examples": 104
     },
     {
       "rank": 116,
@@ -3028,11 +3104,9 @@
       "turkish": "servis yapmak",
       "folder": "serve_(food)",
       "tenses": [
-        "emir_kipi",
         "farzî_geçmiş_zaman",
         "gelecek_zaman",
         "geniş_zaman",
-        "gereklilik_kipi",
         "geçmiş_gelecek_zaman",
         "geçmiş_zaman",
         "imkan_kipi",
@@ -3045,7 +3119,7 @@
         "şart_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 99
+      "total_examples": 97
     }
   ]
 }

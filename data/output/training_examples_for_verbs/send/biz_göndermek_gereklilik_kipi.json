@@ -4,7 +4,7 @@
   "verb_russian": "отправлять",
   "verb_infinitive": "göndermek",
   "turkish_verb": {
-    "verb_full": "göndermemiz",
+    "verb_full": "göndermemiz lazım",
     "root": "gönder",
     "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We need to send the package.",
-  "russian_example_sentence": "Нам нужно отправить посылку.",
-  "turkish_example_sentence": "Biz paketi göndermemiz lazım.",
-  "turkish_example_sentence_with_blank": "Biz paketi ______ lazım."
+  "english_example_sentence": "We need to send the documents.",
+  "russian_example_sentence": "Нам нужно отправить документы.",
+  "turkish_example_sentence": "Biz belgeleri göndermemiz lazım.",
+  "turkish_example_sentence_with_blank": "Biz belgeleri ______."
 }

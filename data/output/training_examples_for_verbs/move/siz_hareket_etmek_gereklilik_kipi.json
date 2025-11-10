@@ -4,7 +4,7 @@
   "verb_russian": "двигаться",
   "verb_infinitive": "hareket etmek",
   "turkish_verb": {
-    "verb_full": "hareket etmen",
+    "verb_full": "hareket etmen lazım",
     "root": "hareket et",
     "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to move quickly.",
-  "russian_example_sentence": "Вам нужно быстро двигаться.",
-  "turkish_example_sentence": "Siz hızlı hareket etmen lazım.",
-  "turkish_example_sentence_with_blank": "Siz hızlı ______ lazım."
+  "english_example_sentence": "You need to move to a new house.",
+  "russian_example_sentence": "Тебе нужно переехать в новый дом.",
+  "turkish_example_sentence": "Siz yeni bir eve hareket etmen lazım.",
+  "turkish_example_sentence_with_blank": "Siz yeni bir eve ______."
 }

@@ -4,7 +4,7 @@
   "verb_russian": "покидать",
   "verb_infinitive": "ayrılmak",
   "turkish_verb": {
-    "verb_full": "ayrılması",
+    "verb_full": "ayrılması lazım",
     "root": "ayrıl",
     "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He needs to leave the meeting early.",
-  "russian_example_sentence": "Ему нужно уйти с собрания рано.",
-  "turkish_example_sentence": "O toplantıdan erken ayrılması lazım.",
-  "turkish_example_sentence_with_blank": "O toplantıdan erken ______ lazım."
+  "english_example_sentence": "He needs to leave the room",
+  "russian_example_sentence": "Ему нужно покинуть комнату",
+  "turkish_example_sentence": "O odadan ayrılması lazım",
+  "turkish_example_sentence_with_blank": "O odadan ______"
 }

@@ -4,7 +4,7 @@
   "verb_russian": "ставить",
   "verb_infinitive": "koymak",
   "turkish_verb": {
-    "verb_full": "koyman",
+    "verb_full": "koyman lazım",
     "root": "koy",
     "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
@@ -15,6 +15,6 @@
   },
   "english_example_sentence": "You need to put the book on the table.",
   "russian_example_sentence": "Тебе нужно положить книгу на стол.",
-  "turkish_example_sentence": "Sen kitabı masaya koyman lazım.",
-  "turkish_example_sentence_with_blank": "Sen kitabı masaya ______ lazım."
+  "turkish_example_sentence": "Sen masanın üstüne kitabı koyman lazım.",
+  "turkish_example_sentence_with_blank": "Sen masanın üstüne kitabı ______."
 }

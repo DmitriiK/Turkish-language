@@ -4,17 +4,17 @@
   "verb_russian": "любить",
   "verb_infinitive": "sevmek",
   "turkish_verb": {
-    "verb_full": "sevmemiz lazım",
+    "verb_full": "sevmem lazım",
     "root": "sev",
     "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "miz",
+    "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We need to love our friends.",
-  "russian_example_sentence": "Нам нужно любить наших друзей.",
-  "turkish_example_sentence": "Arkadaşlarımızı sevmemiz lazım.",
-  "turkish_example_sentence_with_blank": "Arkadaşlarımızı ______."
+  "english_example_sentence": "We need to love each other.",
+  "russian_example_sentence": "Нам нужно любить друг друга.",
+  "turkish_example_sentence": "Biz birbirimizi sevmem lazım.",
+  "turkish_example_sentence_with_blank": "Biz birbirimizi ______."
 }

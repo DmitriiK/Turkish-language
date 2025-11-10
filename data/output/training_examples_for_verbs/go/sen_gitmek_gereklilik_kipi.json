@@ -4,9 +4,9 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmen",
+    "verb_full": "gitmen gerek",
     "root": "git",
-    "tense_affix": "me",
+    "tense_affix": "men",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
@@ -15,6 +15,6 @@
   },
   "english_example_sentence": "You need to go to school.",
   "russian_example_sentence": "Тебе нужно идти в школу.",
-  "turkish_example_sentence": "Sen okula gitmen lazım.",
-  "turkish_example_sentence_with_blank": "Sen okula ______ lazım."
+  "turkish_example_sentence": "Sen okula gitmen gerek.",
+  "turkish_example_sentence_with_blank": "Sen okula ______."
 }

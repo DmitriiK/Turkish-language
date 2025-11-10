@@ -4,17 +4,17 @@
   "verb_russian": "менять",
   "verb_infinitive": "değiştirmek",
   "turkish_verb": {
-    "verb_full": "değiştirmeleri lazım",
+    "verb_full": "değiştirmesi lazım",
     "root": "değiştir",
     "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "leri",
+    "personal_affix": "si",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They need to change their plans.",
-  "russian_example_sentence": "Им нужно изменить свои планы.",
-  "turkish_example_sentence": "Onların planlarını değiştirmeleri lazım.",
-  "turkish_example_sentence_with_blank": "Onların planlarını ______."
+  "english_example_sentence": "They need to change the plan.",
+  "russian_example_sentence": "Им нужно изменить план.",
+  "turkish_example_sentence": "Oğlanın planı değiştirmesi lazım.",
+  "turkish_example_sentence_with_blank": "Oğlanın planı ______."
 }

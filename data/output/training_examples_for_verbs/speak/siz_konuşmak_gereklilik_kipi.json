@@ -4,7 +4,7 @@
   "verb_russian": "говорить",
   "verb_infinitive": "konuşmak",
   "turkish_verb": {
-    "verb_full": "konuşmanız",
+    "verb_full": "konuşmanız lazım",
     "root": "konuş",
     "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to speak clearly.",
-  "russian_example_sentence": "Вам нужно говорить ясно.",
-  "turkish_example_sentence": "Siz bu konuda net konuşmanız lazım.",
-  "turkish_example_sentence_with_blank": "Siz bu konuda net ______ lazım."
+  "english_example_sentence": "You need to speak",
+  "russian_example_sentence": "Вам нужно говорить",
+  "turkish_example_sentence": "Siz bu konu hakkında konuşmanız lazım",
+  "turkish_example_sentence_with_blank": "Siz bu konu hakkında ______"
 }

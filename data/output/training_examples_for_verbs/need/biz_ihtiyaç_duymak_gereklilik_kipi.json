@@ -4,17 +4,17 @@
   "verb_russian": "нуждаться",
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
-    "verb_full": "ihtiyacım var",
-    "root": "ihtiyaç",
-    "tense_affix": "ım",
+    "verb_full": "ihtiyaç duymamız lazım",
+    "root": "ihtiyaç duy",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "m",
+    "personal_affix": "mız",
     "polarity": "positive",
     "negative_affix": null
   },
   "english_example_sentence": "We need help with the project.",
   "russian_example_sentence": "Нам нужна помощь с проектом.",
-  "turkish_example_sentence": "Bizim projeye yardım etmemiz lazım.",
-  "turkish_example_sentence_with_blank": "Bizim projeye yardım etmemiz lazım."
+  "turkish_example_sentence": "Bizim projede yardıma ihtiyaç duymamız lazım.",
+  "turkish_example_sentence_with_blank": "Bizim projede yardıma ______."
 }

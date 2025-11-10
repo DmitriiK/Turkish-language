@@ -4,17 +4,17 @@
   "verb_russian": "требовать",
   "verb_infinitive": "gerektirmek",
   "turkish_verb": {
-    "verb_full": "gerekleri",
-    "root": "gerek",
-    "tense_affix": "leri",
+    "verb_full": "gerekleri var",
+    "root": "gerektir",
+    "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "ı",
+    "personal_affix": "i",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They need to complete their homework.",
-  "russian_example_sentence": "Им нужно завершить свою домашнюю работу.",
-  "turkish_example_sentence": "Öğrencilerin ödevlerini tamamlaması gerekiyor.",
-  "turkish_example_sentence_with_blank": "Öğrencilerin ödevlerini tamamlaması gerekiyor."
+  "english_example_sentence": "They need the necessary documents.",
+  "russian_example_sentence": "Им нужны необходимые документы.",
+  "turkish_example_sentence": "Onların gerekli belgeleri var.",
+  "turkish_example_sentence_with_blank": "Onların gerekli belgeleri var."
 }

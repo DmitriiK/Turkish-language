@@ -4,17 +4,17 @@
   "verb_russian": "класть",
   "verb_infinitive": "koymak",
   "turkish_verb": {
-    "verb_full": "koyması",
+    "verb_full": "koyması lazım",
     "root": "koy",
-    "tense_affix": "ması",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "sı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They need to put the book on the table.",
-  "russian_example_sentence": "Им нужно положить книгу на стол.",
-  "turkish_example_sentence": "Onlar kitabı masaya koyması lazım.",
-  "turkish_example_sentence_with_blank": "Onlar kitabı masaya ______ lazım."
+  "english_example_sentence": "They need to put the books on the table.",
+  "russian_example_sentence": "Им нужно положить книги на стол.",
+  "turkish_example_sentence": "Öğrencilerin kitapları masaya koyması lazım.",
+  "turkish_example_sentence_with_blank": "Öğrencilerin kitapları masaya ______."
 }

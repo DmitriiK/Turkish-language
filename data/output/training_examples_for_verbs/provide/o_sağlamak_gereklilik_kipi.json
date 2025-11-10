@@ -4,7 +4,7 @@
   "verb_russian": "предоставлять",
   "verb_infinitive": "sağlamak",
   "turkish_verb": {
-    "verb_full": "sağlaması",
+    "verb_full": "sağlaması lazım",
     "root": "sağla",
     "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He needs to provide the information.",
-  "russian_example_sentence": "Ему нужно предоставить информацию.",
-  "turkish_example_sentence": "O bilgiyi sağlaması lazım.",
-  "turkish_example_sentence_with_blank": "O bilgiyi ______ lazım."
+  "english_example_sentence": "He needs to provide help.",
+  "russian_example_sentence": "Ему нужно предоставить помощь.",
+  "turkish_example_sentence": "O yardım sağlaması lazım.",
+  "turkish_example_sentence_with_blank": "O yardım ______."
 }

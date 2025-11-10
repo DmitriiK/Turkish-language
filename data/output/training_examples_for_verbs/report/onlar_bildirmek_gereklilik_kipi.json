@@ -4,17 +4,17 @@
   "verb_russian": "сообщать",
   "verb_infinitive": "bildirmek",
   "turkish_verb": {
-    "verb_full": "bildirmeleri",
+    "verb_full": "bildirmesi lazım",
     "root": "bildir",
     "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "leri",
+    "personal_affix": "si",
     "polarity": "positive",
     "negative_affix": null
   },
   "english_example_sentence": "They need to report the news.",
   "russian_example_sentence": "Им нужно сообщить новости.",
-  "turkish_example_sentence": "Onların haberi bildirmeleri lazım.",
-  "turkish_example_sentence_with_blank": "Onların haberi ______ lazım."
+  "turkish_example_sentence": "Gazetecilerin haberi bildirmesi lazım.",
+  "turkish_example_sentence_with_blank": "Gazetecilerin haberi ______."
 }

@@ -1,5 +1,5 @@
 {
-  "total_verbs": 109,
+  "total_verbs": 116,
   "verbs": [
     {
       "rank": 1,
@@ -35,6 +35,13 @@
       "verb_russian": "идти",
       "verb_infinitive": "gitmek",
       "folder_name": "go"
+    },
+    {
+      "rank": 6,
+      "verb_english": "get",
+      "verb_russian": "получать",
+      "verb_infinitive": "almak",
+      "folder_name": "get"
     },
     {
       "rank": 6,
@@ -133,6 +140,13 @@
       "verb_russian": "работать",
       "verb_infinitive": "çalışmak",
       "folder_name": "work"
+    },
+    {
+      "rank": 20,
+      "verb_english": "call",
+      "verb_russian": "звонить",
+      "verb_infinitive": "aramak",
+      "folder_name": "call"
     },
     {
       "rank": 20,
@@ -352,11 +366,25 @@
       "folder_name": "meet"
     },
     {
+      "rank": 51,
+      "verb_english": "include",
+      "verb_russian": "включать",
+      "verb_infinitive": "içermek",
+      "folder_name": "include"
+    },
+    {
       "rank": 52,
       "verb_english": "continue",
       "verb_russian": "продолжать",
       "verb_infinitive": "devam etmek",
       "folder_name": "continue"
+    },
+    {
+      "rank": 53,
+      "verb_english": "set",
+      "verb_russian": "ставить",
+      "verb_infinitive": "koymak",
+      "folder_name": "set"
     },
     {
       "rank": 53,
@@ -464,6 +492,13 @@
       "folder_name": "grow"
     },
     {
+      "rank": 68,
+      "verb_english": "open",
+      "verb_russian": "открывать",
+      "verb_infinitive": "açmak",
+      "folder_name": "open"
+    },
+    {
       "rank": 69,
       "verb_english": "walk",
       "verb_russian": "ходить",
@@ -476,6 +511,13 @@
       "verb_russian": "выигрывать",
       "verb_infinitive": "kazanmak",
       "folder_name": "win"
+    },
+    {
+      "rank": 71,
+      "verb_english": "offer",
+      "verb_russian": "предлагать",
+      "verb_infinitive": "teklif etmek",
+      "folder_name": "offer"
     },
     {
       "rank": 72,
@@ -539,6 +581,13 @@
       "verb_russian": "отправлять",
       "verb_infinitive": "göndermek",
       "folder_name": "send"
+    },
+    {
+      "rank": 81,
+      "verb_english": "expect",
+      "verb_russian": "ожидать",
+      "verb_infinitive": "beklemek",
+      "folder_name": "expect"
     },
     {
       "rank": 82,

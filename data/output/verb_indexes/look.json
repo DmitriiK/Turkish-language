@@ -7,9 +7,27 @@
   "examples": [
     {
       "tense": "emir_kipi",
+      "pronoun": "o",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/look/o_bakmak_emir_kipi.json"
+    },
+    {
+      "tense": "emir_kipi",
+      "pronoun": "onlar",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/look/onlar_bakmak_emir_kipi.json"
+    },
+    {
+      "tense": "emir_kipi",
       "pronoun": "sen",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/look/sen_bakmak_emir_kipi.json"
+    },
+    {
+      "tense": "emir_kipi",
+      "pronoun": "siz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/look/siz_bakmak_emir_kipi.json"
     },
     {
       "tense": "farzî_geçmiş_zaman",
@@ -193,15 +211,39 @@
     },
     {
       "tense": "gereklilik_kipi",
-      "pronoun": "none",
+      "pronoun": "ben",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/look/none_bakmak_gereklilik_kipi.json"
+      "file_path": "data/output/training_examples_for_verbs/look/ben_bakmak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "biz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/look/biz_bakmak_gereklilik_kipi.json"
     },
     {
       "tense": "gereklilik_kipi",
       "pronoun": "o",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/look/o_bakmak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "onlar",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/look/onlar_bakmak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "sen",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/look/sen_bakmak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "siz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/look/siz_bakmak_gereklilik_kipi.json"
     },
     {
       "tense": "geçmiş_gelecek_zaman",
@@ -544,6 +586,12 @@
       "pronoun": "siz",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/look/siz_bakmak_şart_kipi.json"
+    },
+    {
+      "tense": "şartlı_kipi",
+      "pronoun": "ben",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/look/ben_bakmak_şartlı_kipi.json"
     },
     {
       "tense": "şartlı_kipi",

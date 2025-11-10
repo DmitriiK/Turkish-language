@@ -4,7 +4,7 @@
   "verb_russian": "предлагать",
   "verb_infinitive": "teklif etmek",
   "turkish_verb": {
-    "verb_full": "teklif etmen",
+    "verb_full": "teklif etmen lazım",
     "root": "teklif et",
     "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to make an offer",
-  "russian_example_sentence": "Тебе нужно сделать предложение",
-  "turkish_example_sentence": "Sen bu projeye teklif etmen lazım",
-  "turkish_example_sentence_with_blank": "Sen bu projeye ______ lazım"
+  "english_example_sentence": "You need to offer help.",
+  "russian_example_sentence": "Тебе нужно предложить помощь.",
+  "turkish_example_sentence": "Sen arkadaşına yardım teklif etmen lazım.",
+  "turkish_example_sentence_with_blank": "Sen arkadaşına yardım ______."
 }

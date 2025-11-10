@@ -4,7 +4,7 @@
   "verb_russian": "включать",
   "verb_infinitive": "içermek",
   "turkish_verb": {
-    "verb_full": "içermesi",
+    "verb_full": "içermesi lazım",
     "root": "içer",
     "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The report must include all details.",
-  "russian_example_sentence": "Отчет должен включать все детали.",
-  "turkish_example_sentence": "Raporun tüm detayları içermesi lazım.",
-  "turkish_example_sentence_with_blank": "Raporun tüm detayları ______ lazım."
+  "english_example_sentence": "They need to include the project details.",
+  "russian_example_sentence": "Им нужно включить детали проекта.",
+  "turkish_example_sentence": "Projeyi içermesi lazım.",
+  "turkish_example_sentence_with_blank": "Projeyi ______."
 }

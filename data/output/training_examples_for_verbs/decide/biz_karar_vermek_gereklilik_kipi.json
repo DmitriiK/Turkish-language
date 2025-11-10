@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "karar vermemiz lazım",
     "root": "karar ver",
-    "tense_affix": "me",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "miz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We need to decide quickly.",
-  "russian_example_sentence": "Нам нужно быстро решить.",
-  "turkish_example_sentence": "Biz bu konuyu karar vermemiz lazım.",
-  "turkish_example_sentence_with_blank": "Biz bu konuyu ______."
+  "english_example_sentence": "We need to decide today.",
+  "russian_example_sentence": "Нам нужно решить сегодня.",
+  "turkish_example_sentence": "Bugün önemli bir konu hakkında karar vermemiz lazım.",
+  "turkish_example_sentence_with_blank": "Bugün önemli bir konu hakkında ______."
 }

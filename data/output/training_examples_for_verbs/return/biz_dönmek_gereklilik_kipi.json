@@ -4,17 +4,17 @@
   "verb_russian": "возвращаться",
   "verb_infinitive": "dönmek",
   "turkish_verb": {
-    "verb_full": "dönmemiz",
+    "verb_full": "dönmem lazım",
     "root": "dön",
     "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "miz",
+    "personal_affix": "mız",
     "polarity": "positive",
     "negative_affix": null
   },
   "english_example_sentence": "We need to return home.",
   "russian_example_sentence": "Нам нужно вернуться домой.",
-  "turkish_example_sentence": "Biz eve dönmemiz lazım.",
-  "turkish_example_sentence_with_blank": "Biz eve ______ lazım."
+  "turkish_example_sentence": "Biz eve dönmem lazım.",
+  "turkish_example_sentence_with_blank": "Biz eve ______."
 }

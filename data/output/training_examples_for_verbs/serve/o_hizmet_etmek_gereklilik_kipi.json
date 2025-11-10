@@ -4,7 +4,7 @@
   "verb_russian": "обслуживать",
   "verb_infinitive": "hizmet etmek",
   "turkish_verb": {
-    "verb_full": "hizmet etmesi",
+    "verb_full": "hizmet etmesi lazım",
     "root": "hizmet et",
     "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He needs to serve the customers.",
-  "russian_example_sentence": "Ему нужно обслуживать клиентов.",
-  "turkish_example_sentence": "O müşterilere hizmet etmesi lazım.",
-  "turkish_example_sentence_with_blank": "O müşterilere ______ lazım."
+  "english_example_sentence": "He needs to serve the food",
+  "russian_example_sentence": "Ему нужно подать еду",
+  "turkish_example_sentence": "O yemeği hizmet etmesi lazım",
+  "turkish_example_sentence_with_blank": "O yemeği ______"
 }

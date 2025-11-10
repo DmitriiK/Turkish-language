@@ -4,7 +4,7 @@
   "verb_russian": "тянуть",
   "verb_infinitive": "çekmek",
   "turkish_verb": {
-    "verb_full": "çekmesi",
+    "verb_full": "çekmesi lazım",
     "root": "çek",
     "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He needs to pull the rope.",
-  "russian_example_sentence": "Ему нужно потянуть веревку.",
-  "turkish_example_sentence": "O ipi çekmesi lazım.",
-  "turkish_example_sentence_with_blank": "O ipi ______ lazım."
+  "english_example_sentence": "He needs to pull the door.",
+  "russian_example_sentence": "Ему нужно потянуть дверь.",
+  "turkish_example_sentence": "O kapıyı çekmesi lazım.",
+  "turkish_example_sentence_with_blank": "O kapıyı ______."
 }

@@ -4,7 +4,7 @@
   "verb_russian": "создавать",
   "verb_infinitive": "yaratmak",
   "turkish_verb": {
-    "verb_full": "yaratman",
+    "verb_full": "yaratman lazım",
     "root": "yarat",
     "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to create a new project.",
-  "russian_example_sentence": "Тебе нужно создать новый проект.",
-  "turkish_example_sentence": "Sen yeni bir proje yaratman lazım.",
-  "turkish_example_sentence_with_blank": "Sen yeni bir proje ______ lazım."
+  "english_example_sentence": "You need to create a project.",
+  "russian_example_sentence": "Тебе нужно создать проект.",
+  "turkish_example_sentence": "Sen bir proje yaratman lazım.",
+  "turkish_example_sentence_with_blank": "Sen bir proje ______."
 }

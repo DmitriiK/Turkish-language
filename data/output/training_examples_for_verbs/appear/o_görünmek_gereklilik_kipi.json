@@ -4,7 +4,7 @@
   "verb_russian": "появляться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmesi",
+    "verb_full": "görünmesi lazım",
     "root": "görün",
     "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He needs to appear in the meeting.",
+  "english_example_sentence": "He needs to appear at the meeting.",
   "russian_example_sentence": "Ему нужно появиться на встрече.",
-  "turkish_example_sentence": "O toplantıda görünmesi lazım.",
-  "turkish_example_sentence_with_blank": "O toplantıda ______ lazım."
+  "turkish_example_sentence": "Toplantıda görünmesi lazım.",
+  "turkish_example_sentence_with_blank": "Toplantıda ______."
 }

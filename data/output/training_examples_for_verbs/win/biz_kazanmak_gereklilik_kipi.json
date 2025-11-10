@@ -4,17 +4,17 @@
   "verb_russian": "выигрывать",
   "verb_infinitive": "kazanmak",
   "turkish_verb": {
-    "verb_full": "kazanmalıyız",
+    "verb_full": "kazanmamız lazım",
     "root": "kazan",
-    "tense_affix": "mal",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "ız",
+    "personal_affix": "mız",
     "polarity": "positive",
     "negative_affix": null
   },
   "english_example_sentence": "We need to win the game.",
   "russian_example_sentence": "Нам нужно выиграть игру.",
-  "turkish_example_sentence": "Biz oyunu kazanmalıyız.",
-  "turkish_example_sentence_with_blank": "Biz oyunu ______."
+  "turkish_example_sentence": "Biz maçı kazanmamız lazım.",
+  "turkish_example_sentence_with_blank": "Biz maçı ______."
 }

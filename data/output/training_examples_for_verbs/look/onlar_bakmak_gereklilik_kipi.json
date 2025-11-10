@@ -4,7 +4,7 @@
   "verb_russian": "смотреть",
   "verb_infinitive": "bakmak",
   "turkish_verb": {
-    "verb_full": "bakmaları",
+    "verb_full": "bakmaları lazım",
     "root": "bak",
     "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They need to look at the pictures.",
-  "russian_example_sentence": "Им нужно смотреть на картинки.",
-  "turkish_example_sentence": "Çocukların resimlere bakmaları lazım.",
-  "turkish_example_sentence_with_blank": "Çocukların resimlere ______ lazım."
+  "english_example_sentence": "They need to look at the book.",
+  "russian_example_sentence": "Им нужно посмотреть на книгу.",
+  "turkish_example_sentence": "Öğrencilerin kitabı bakmaları lazım.",
+  "turkish_example_sentence_with_blank": "Öğrencilerin kitabı ______."
 }

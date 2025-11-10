@@ -4,7 +4,7 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "alması",
+    "verb_full": "alması lazım",
     "root": "al",
     "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He needs to take a book.",
-  "russian_example_sentence": "Ему нужно взять книгу.",
+  "english_example_sentence": "She needs to take the book.",
+  "russian_example_sentence": "Ей нужно взять книгу.",
   "turkish_example_sentence": "O kitabı alması lazım.",
-  "turkish_example_sentence_with_blank": "O kitabı ______ lazım."
+  "turkish_example_sentence_with_blank": "O kitabı ______."
 }

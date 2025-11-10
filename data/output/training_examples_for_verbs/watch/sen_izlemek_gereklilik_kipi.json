@@ -4,17 +4,17 @@
   "verb_russian": "смотреть",
   "verb_infinitive": "izlemek",
   "turkish_verb": {
-    "verb_full": "izlemem lazım",
+    "verb_full": "izlemen lazım",
     "root": "izle",
     "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "m",
+    "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to watch this movie.",
-  "russian_example_sentence": "Тебе нужно посмотреть этот фильм.",
-  "turkish_example_sentence": "Sen bu filmi izlemem lazım.",
+  "english_example_sentence": "You need to watch the movie.",
+  "russian_example_sentence": "Тебе нужно смотреть фильм.",
+  "turkish_example_sentence": "Sen bu filmi izlemen lazım.",
   "turkish_example_sentence_with_blank": "Sen bu filmi ______."
 }

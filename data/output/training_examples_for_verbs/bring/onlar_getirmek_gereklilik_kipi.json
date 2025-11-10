@@ -4,17 +4,17 @@
   "verb_russian": "приносить",
   "verb_infinitive": "getirmek",
   "turkish_verb": {
-    "verb_full": "getirmeleri",
+    "verb_full": "getirmesi lazım",
     "root": "getir",
     "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "leri",
+    "personal_affix": "si",
     "polarity": "positive",
     "negative_affix": null
   },
   "english_example_sentence": "They need to bring the books.",
   "russian_example_sentence": "Им нужно принести книги.",
-  "turkish_example_sentence": "Onların kitapları getirmeleri lazım.",
-  "turkish_example_sentence_with_blank": "Onların kitapları ______ lazım."
+  "turkish_example_sentence": "Onların kitapları getirmesi lazım.",
+  "turkish_example_sentence_with_blank": "Onların kitapları ______."
 }

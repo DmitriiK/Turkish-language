@@ -87,18 +87,20 @@ The gereklilik_kipi is COMPLETELY DIFFERENT from zorunluluk_kipi (which uses -ma
 - root: the verb root (e.g., "yap", "bil", "git")
 - tense_affix: "ma" or "me" (infinitive suffix following vowel harmony)
 - personal_affix: possessive suffix (m, n, sı/si, mız/miz, nız/niz, ları/leri)
-- verb_full: root + ma/me + possessive (WITHOUT lazım/gerek in verb_full)
-- The sentence MUST include "lazım" or "gerek" AFTER the verb form
+- **verb_full: MUST include BOTH the conjugated form AND "lazım" or "gerek"**
+  - Format: root + ma/me + possessive + space + lazım/gerek
+  - You can choose either "lazım" or "gerek" (both are correct)
+- The sentence MUST also include the complete "lazım" or "gerek" construction
 
-**Examples for gereklilik_kipi:**
+**Examples for gereklilik_kipi (ALL FORMS MUST INCLUDE lazım/gerek):**
 - yapmak + ben → yapmam lazım
-  - verb_full: "yapmam"
-  - sentence: "Ben ödevimi yapmam lazım" or "Ödevimi yapmam gerek"
-- gitmek + sen → gitmen lazım  
-  - verb_full: "gitmen"
-  - sentence: "Sen okula gitmen lazım"
-- bilmek + o → bilmesi gerek
-  - verb_full: "bilmesi"
+  - verb_full: "yapmam lazım" (NOT just "yapmam")
+  - sentence: "Ben ödevimi yapmam lazım"
+- gitmek + sen → gitmen gerek
+  - verb_full: "gitmen gerek" (NOT just "gitmen")
+  - sentence: "Sen okula gitmen gerek"
+- bilmek + o → bilmesi lazım
+  - verb_full: "bilmesi lazım" (NOT just "bilmesi")
   - sentence: "O cevabı bilmesi gerek"
 
 **DO NOT confuse gereklilik_kipi with zorunluluk_kipi!**

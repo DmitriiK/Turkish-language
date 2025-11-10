@@ -4,7 +4,7 @@
   "verb_russian": "выигрывать",
   "verb_infinitive": "kazanmak",
   "turkish_verb": {
-    "verb_full": "kazanman",
+    "verb_full": "kazanman lazım",
     "root": "kazan",
     "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to win the game",
-  "russian_example_sentence": "Тебе нужно выиграть игру",
-  "turkish_example_sentence": "Sen bu oyunu kazanman lazım",
-  "turkish_example_sentence_with_blank": "Sen bu oyunu ______ lazım"
+  "english_example_sentence": "You need to win the game.",
+  "russian_example_sentence": "Тебе нужно победить в игре.",
+  "turkish_example_sentence": "Sen oyunu kazanman lazım.",
+  "turkish_example_sentence_with_blank": "Sen oyunu ______."
 }

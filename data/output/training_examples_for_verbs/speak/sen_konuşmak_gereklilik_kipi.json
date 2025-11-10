@@ -4,7 +4,7 @@
   "verb_russian": "говорить",
   "verb_infinitive": "konuşmak",
   "turkish_verb": {
-    "verb_full": "konuşman",
+    "verb_full": "konuşman lazım",
     "root": "konuş",
     "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to speak to the teacher.",
-  "russian_example_sentence": "Тебе нужно поговорить с учителем.",
-  "turkish_example_sentence": "Sen öğretmenle konuşman lazım.",
-  "turkish_example_sentence_with_blank": "Sen öğretmenle ______ lazım."
+  "english_example_sentence": "You need to speak",
+  "russian_example_sentence": "Тебе нужно говорить",
+  "turkish_example_sentence": "Sen derste konuşman lazım",
+  "turkish_example_sentence_with_blank": "Sen derste ______"
 }

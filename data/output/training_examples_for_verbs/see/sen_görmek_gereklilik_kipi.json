@@ -4,7 +4,7 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görmen",
+    "verb_full": "görmen lazım",
     "root": "gör",
     "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to see the doctor.",
-  "russian_example_sentence": "Тебе нужно увидеть врача.",
-  "turkish_example_sentence": "Sen doktora görmen lazım.",
-  "turkish_example_sentence_with_blank": "Sen doktora ______ lazım."
+  "english_example_sentence": "You need to see the movie",
+  "russian_example_sentence": "Тебе нужно увидеть фильм",
+  "turkish_example_sentence": "Sen bu filmi görmen lazım",
+  "turkish_example_sentence_with_blank": "Sen bu filmi ______"
 }

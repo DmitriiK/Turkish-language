@@ -4,7 +4,7 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "vermeniz",
+    "verb_full": "vermeniz lazım",
     "root": "ver",
     "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to give the book",
-  "russian_example_sentence": "Вам нужно дать книгу",
-  "turkish_example_sentence": "Siz kitabı vermeniz lazım",
-  "turkish_example_sentence_with_blank": "Siz kitabı ______ lazım"
+  "english_example_sentence": "You need to give the book.",
+  "russian_example_sentence": "Вам нужно дать книгу.",
+  "turkish_example_sentence": "Siz kitabı vermeniz lazım.",
+  "turkish_example_sentence_with_blank": "Siz kitabı ______."
 }

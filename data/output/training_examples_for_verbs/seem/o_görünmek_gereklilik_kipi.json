@@ -4,7 +4,7 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmesi",
+    "verb_full": "görünmesi lazım",
     "root": "görün",
     "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He needs to seem happy.",
-  "russian_example_sentence": "Ему нужно казаться счастливым.",
-  "turkish_example_sentence": "O mutlu görünmesi lazım.",
-  "turkish_example_sentence_with_blank": "O mutlu ______ lazım."
+  "english_example_sentence": "He seems happy today.",
+  "russian_example_sentence": "Он кажется счастливым сегодня.",
+  "turkish_example_sentence": "O bugün mutlu görünmesi lazım.",
+  "turkish_example_sentence_with_blank": "O bugün mutlu ______."
 }

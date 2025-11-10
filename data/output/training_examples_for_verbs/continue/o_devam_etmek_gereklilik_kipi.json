@@ -4,7 +4,7 @@
   "verb_russian": "продолжать",
   "verb_infinitive": "devam etmek",
   "turkish_verb": {
-    "verb_full": "devam etmesi",
+    "verb_full": "devam etmesi lazım",
     "root": "devam et",
     "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He needs to continue the project.",
-  "russian_example_sentence": "Ему нужно продолжить проект.",
-  "turkish_example_sentence": "O projenin devam etmesi lazım.",
-  "turkish_example_sentence_with_blank": "O projenin ______ lazım."
+  "english_example_sentence": "He needs to continue studying.",
+  "russian_example_sentence": "Ему нужно продолжать учиться.",
+  "turkish_example_sentence": "O dersi devam etmesi lazım.",
+  "turkish_example_sentence_with_blank": "O dersi ______."
 }

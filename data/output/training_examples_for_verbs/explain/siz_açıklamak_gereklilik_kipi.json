@@ -4,7 +4,7 @@
   "verb_russian": "объяснять",
   "verb_infinitive": "açıklamak",
   "turkish_verb": {
-    "verb_full": "açıklamanız",
+    "verb_full": "açıklamanız lazım",
     "root": "açıkla",
     "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to explain the project.",
-  "russian_example_sentence": "Вам нужно объяснить проект.",
-  "turkish_example_sentence": "Projeyi açıklamanız lazım.",
-  "turkish_example_sentence_with_blank": "Projeyi ______ lazım."
+  "english_example_sentence": "You need to explain the homework",
+  "russian_example_sentence": "Вам нужно объяснить домашнее задание",
+  "turkish_example_sentence": "Öğrenciye ödevinizi açıklamanız lazım",
+  "turkish_example_sentence_with_blank": "Öğrenciye ödevinizi ______"
 }

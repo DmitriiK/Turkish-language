@@ -4,7 +4,7 @@
   "verb_russian": "позволять",
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
-    "verb_full": "izin vermesi",
+    "verb_full": "izni vermesi lazım",
     "root": "izin ver",
     "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He needs to allow the students to study.",
-  "russian_example_sentence": "Ему нужно позволить студентам учиться.",
-  "turkish_example_sentence": "O öğrencilere izin vermesi lazım.",
-  "turkish_example_sentence_with_blank": "O öğrencilere ______ lazım."
+  "english_example_sentence": "He needs to allow permission.",
+  "russian_example_sentence": "Ему нужно разрешить разрешение.",
+  "turkish_example_sentence": "O konu için izin vermesi lazım.",
+  "turkish_example_sentence_with_blank": "O konu için izin vermesi lazım."
 }

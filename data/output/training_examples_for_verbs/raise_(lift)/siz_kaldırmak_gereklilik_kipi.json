@@ -4,7 +4,7 @@
   "verb_russian": "поднимать",
   "verb_infinitive": "kaldırmak",
   "turkish_verb": {
-    "verb_full": "kaldırmanız",
+    "verb_full": "kaldırmanız lazım",
     "root": "kaldır",
     "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to raise the box.",
+  "english_example_sentence": "You need to lift the box.",
   "russian_example_sentence": "Вам нужно поднять коробку.",
   "turkish_example_sentence": "Siz kutuyu kaldırmanız lazım.",
-  "turkish_example_sentence_with_blank": "Siz kutuyu ______ lazım."
+  "turkish_example_sentence_with_blank": "Siz kutuyu ______."
 }

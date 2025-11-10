@@ -4,17 +4,17 @@
   "verb_russian": "писать",
   "verb_infinitive": "yazmak",
   "turkish_verb": {
-    "verb_full": "yazması",
+    "verb_full": "yazması lazım",
     "root": "yaz",
-    "tense_affix": "ması",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "sı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They need to write the report.",
-  "russian_example_sentence": "Им нужно написать отчет.",
-  "turkish_example_sentence": "Öğrencilerin raporu yazması lazım.",
-  "turkish_example_sentence_with_blank": "Öğrencilerin raporu ______ lazım."
+  "english_example_sentence": "They need to write a letter.",
+  "russian_example_sentence": "Им нужно написать письмо.",
+  "turkish_example_sentence": "Onların bir mektup yazması lazım.",
+  "turkish_example_sentence_with_blank": "Onların bir mektup ______."
 }

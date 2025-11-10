@@ -4,7 +4,7 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylemen",
+    "verb_full": "söylemen gerek",
     "root": "söyle",
     "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to say the truth.",
-  "russian_example_sentence": "Тебе нужно сказать правду.",
-  "turkish_example_sentence": "Sen doğruyu söylemen lazım.",
-  "turkish_example_sentence_with_blank": "Sen doğruyu ______ lazım."
+  "english_example_sentence": "You need to say your name.",
+  "russian_example_sentence": "Тебе нужно сказать своё имя.",
+  "turkish_example_sentence": "Sen adını söylemen gerek.",
+  "turkish_example_sentence_with_blank": "Sen adını ______."
 }

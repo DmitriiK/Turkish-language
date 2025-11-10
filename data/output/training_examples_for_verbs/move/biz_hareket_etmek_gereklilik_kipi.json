@@ -4,9 +4,9 @@
   "verb_russian": "двигаться",
   "verb_infinitive": "hareket etmek",
   "turkish_verb": {
-    "verb_full": "hareket etmemiz",
+    "verb_full": "hareket etmemiz lazım",
     "root": "hareket et",
-    "tense_affix": "me",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "miz",
@@ -15,6 +15,6 @@
   },
   "english_example_sentence": "We need to move quickly.",
   "russian_example_sentence": "Нам нужно быстро двигаться.",
-  "turkish_example_sentence": "Bizim hızlı hareket etmemiz lazım.",
-  "turkish_example_sentence_with_blank": "Bizim hızlı ______ lazım."
+  "turkish_example_sentence": "Biz hızlı hareket etmemiz lazım.",
+  "turkish_example_sentence_with_blank": "Biz hızlı ______."
 }

@@ -193,15 +193,39 @@
     },
     {
       "tense": "gereklilik_kipi",
+      "pronoun": "ben",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/raise_(lift)/ben_kaldırmak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
       "pronoun": "biz",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/raise_(lift)/biz_kaldırmak_gereklilik_kipi.json"
     },
     {
       "tense": "gereklilik_kipi",
-      "pronoun": "none",
+      "pronoun": "o",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/raise_(lift)/none_kaldırmak_gereklilik_kipi.json"
+      "file_path": "data/output/training_examples_for_verbs/raise_(lift)/o_kaldırmak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "onlar",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/raise_(lift)/onlar_kaldırmak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "sen",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/raise_(lift)/sen_kaldırmak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "siz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/raise_(lift)/siz_kaldırmak_gereklilik_kipi.json"
     },
     {
       "tense": "geçmiş_gelecek_zaman",

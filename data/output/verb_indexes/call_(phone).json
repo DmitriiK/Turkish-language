@@ -7,6 +7,18 @@
   "examples": [
     {
       "tense": "emir_kipi",
+      "pronoun": "o",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/call_(phone)/o_aramak_emir_kipi.json"
+    },
+    {
+      "tense": "emir_kipi",
+      "pronoun": "onlar",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/call_(phone)/onlar_aramak_emir_kipi.json"
+    },
+    {
+      "tense": "emir_kipi",
       "pronoun": "sen",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/call_(phone)/sen_aramak_emir_kipi.json"
@@ -16,6 +28,12 @@
       "pronoun": "ben",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/call_(phone)/ben_aramak_farzî_geçmiş_zaman.json"
+    },
+    {
+      "tense": "farzî_geçmiş_zaman",
+      "pronoun": "ben",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/call_(phone)/ben_arama_farzî_geçmiş_zaman.json"
     },
     {
       "tense": "farzî_geçmiş_zaman",
@@ -193,9 +211,39 @@
     },
     {
       "tense": "gereklilik_kipi",
-      "pronoun": "none",
+      "pronoun": "ben",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/call_(phone)/none_aramak_gereklilik_kipi.json"
+      "file_path": "data/output/training_examples_for_verbs/call_(phone)/ben_aramak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "biz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/call_(phone)/biz_aramak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "o",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/call_(phone)/o_aramak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "onlar",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/call_(phone)/onlar_aramak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "sen",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/call_(phone)/sen_aramak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "siz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/call_(phone)/siz_aramak_gereklilik_kipi.json"
     },
     {
       "tense": "geçmiş_gelecek_zaman",
@@ -250,6 +298,12 @@
       "pronoun": "o",
       "polarity": "negative",
       "file_path": "data/output/training_examples_for_verbs/call_(phone)/o_aramak_geçmiş_zaman_olumsuz.json"
+    },
+    {
+      "tense": "geçmiş_zaman",
+      "pronoun": "o",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/call_(phone)/o_arama_geçmiş_zaman_olumsuz.json"
     },
     {
       "tense": "geçmiş_zaman",
@@ -517,6 +571,12 @@
     },
     {
       "tense": "şart_kipi",
+      "pronoun": "biz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/call_(phone)/biz_arak_şart_kipi.json"
+    },
+    {
+      "tense": "şart_kipi",
       "pronoun": "o",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/call_(phone)/o_aramak_şart_kipi.json"
@@ -634,6 +694,12 @@
       "pronoun": "sen",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/call_(phone)/sen_aramak_şimdiki_zaman.json"
+    },
+    {
+      "tense": "şimdiki_zaman",
+      "pronoun": "siz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/call_(phone)/siz_arama_şimdiki_zaman.json"
     },
     {
       "tense": "şimdiki_zaman",

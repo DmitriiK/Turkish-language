@@ -4,7 +4,7 @@
   "verb_russian": "расти",
   "verb_infinitive": "büyümek",
   "turkish_verb": {
-    "verb_full": "büyümen",
+    "verb_full": "büyümen lazım",
     "root": "büyü",
     "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to grow.",
-  "russian_example_sentence": "Вам нужно расти.",
-  "turkish_example_sentence": "Senin büyümen lazım.",
-  "turkish_example_sentence_with_blank": "Senin ______ lazım."
+  "english_example_sentence": "You need to grow",
+  "russian_example_sentence": "Тебе нужно расти",
+  "turkish_example_sentence": "Senin bu yıl büyümen lazım",
+  "turkish_example_sentence_with_blank": "Senin bu yıl ______"
 }

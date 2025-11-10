@@ -4,7 +4,7 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmesi",
+    "verb_full": "gitmesi lazım",
     "root": "git",
     "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "She needs to go to school.",
-  "russian_example_sentence": "Ей нужно идти в школу.",
+  "english_example_sentence": "He needs to go to school.",
+  "russian_example_sentence": "Ему нужно идти в школу.",
   "turkish_example_sentence": "O okula gitmesi lazım.",
-  "turkish_example_sentence_with_blank": "O okula ______ lazım."
+  "turkish_example_sentence_with_blank": "O okula ______."
 }

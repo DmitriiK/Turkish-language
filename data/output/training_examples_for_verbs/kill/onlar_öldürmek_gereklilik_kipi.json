@@ -4,7 +4,7 @@
   "verb_russian": "убивать",
   "verb_infinitive": "öldürmek",
   "turkish_verb": {
-    "verb_full": "öldürmesi",
+    "verb_full": "öldürmesi lazım",
     "root": "öldür",
     "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They need to kill the snake.",
-  "russian_example_sentence": "Им нужно убить змею.",
-  "turkish_example_sentence": "Onların yılanı öldürmesi lazım.",
-  "turkish_example_sentence_with_blank": "Onların yılanı ______ lazım."
+  "english_example_sentence": "They need to kill the bugs.",
+  "russian_example_sentence": "Им нужно убить жуков.",
+  "turkish_example_sentence": "Onların böcekleri öldürmesi lazım.",
+  "turkish_example_sentence_with_blank": "Onların böcekleri ______."
 }

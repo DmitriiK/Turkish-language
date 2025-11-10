@@ -4,17 +4,17 @@
   "verb_russian": "тянуть",
   "verb_infinitive": "çekmek",
   "turkish_verb": {
-    "verb_full": "çekmeleri",
+    "verb_full": "çekmem lazım",
     "root": "çek",
     "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "leri",
+    "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
   "english_example_sentence": "They need to pull the heavy box.",
-  "russian_example_sentence": "Им нужно тянуть тяжелую коробку.",
-  "turkish_example_sentence": "Onların ağır kutuyu çekmeleri lazım.",
-  "turkish_example_sentence_with_blank": "Onların ağır kutuyu ______ lazım."
+  "russian_example_sentence": "Им нужно потянуть тяжелую коробку.",
+  "turkish_example_sentence": "Onlar ağır kutuyu çekmem lazım.",
+  "turkish_example_sentence_with_blank": "Onlar ağır kutuyu ______."
 }

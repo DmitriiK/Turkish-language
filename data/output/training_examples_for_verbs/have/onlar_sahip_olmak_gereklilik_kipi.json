@@ -4,7 +4,7 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olmaları",
+    "verb_full": "sahip olmaları lazım",
     "root": "sahip ol",
     "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They need to have a good time.",
-  "russian_example_sentence": "Им нужно хорошо провести время.",
-  "turkish_example_sentence": "Onların güzel bir zaman **sahip olmaları** lazım.",
-  "turkish_example_sentence_with_blank": "Onların güzel bir zaman **______** lazım."
+  "english_example_sentence": "They need to have the necessary tools.",
+  "russian_example_sentence": "Им нужно иметь необходимые инструменты.",
+  "turkish_example_sentence": "Öğrencilerin gerekli aletlere sahip olmaları lazım.",
+  "turkish_example_sentence_with_blank": "Öğrencilerin gerekli aletlere ______."
 }

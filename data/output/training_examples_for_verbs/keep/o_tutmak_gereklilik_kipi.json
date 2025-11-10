@@ -4,7 +4,7 @@
   "verb_russian": "держать",
   "verb_infinitive": "tutmak",
   "turkish_verb": {
-    "verb_full": "tutması",
+    "verb_full": "tutması lazım",
     "root": "tut",
     "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He needs to keep the book.",
-  "russian_example_sentence": "Ему нужно держать книгу.",
-  "turkish_example_sentence": "O kitabı tutması lazım.",
-  "turkish_example_sentence_with_blank": "O kitabı ______ lazım."
+  "english_example_sentence": "He needs to keep the secret.",
+  "russian_example_sentence": "Ему нужно держать секрет.",
+  "turkish_example_sentence": "O sırrı tutması lazım.",
+  "turkish_example_sentence_with_blank": "O sırrı ______."
 }

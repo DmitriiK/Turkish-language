@@ -4,7 +4,7 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmanız",
+    "verb_full": "yapmanız lazım",
     "root": "yap",
     "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to make the homework.",
+  "english_example_sentence": "You need to make your homework.",
   "russian_example_sentence": "Вам нужно сделать домашнее задание.",
-  "turkish_example_sentence": "Siz ödevinizi yapmanız lazım.",
-  "turkish_example_sentence_with_blank": "Siz ödevinizi ______ lazım."
+  "turkish_example_sentence": "Sizin ödevinizi yapmanız lazım.",
+  "turkish_example_sentence_with_blank": "Sizin ödevinizi ______."
 }

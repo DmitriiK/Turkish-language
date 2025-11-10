@@ -4,7 +4,7 @@
   "verb_russian": "писать",
   "verb_infinitive": "yazmak",
   "turkish_verb": {
-    "verb_full": "yazmanız",
+    "verb_full": "yazmanız lazım",
     "root": "yaz",
     "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to write your homework.",
-  "russian_example_sentence": "Вам нужно написать домашнее задание.",
-  "turkish_example_sentence": "Siz ödevinizi yazmanız lazım.",
-  "turkish_example_sentence_with_blank": "Siz ödevinizi ______ lazım."
+  "english_example_sentence": "You need to write a letter.",
+  "russian_example_sentence": "Вам нужно написать письмо.",
+  "turkish_example_sentence": "Siz bir mektup yazmanız lazım.",
+  "turkish_example_sentence_with_blank": "Siz bir mektup ______."
 }

@@ -4,17 +4,17 @@
   "verb_russian": "получать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "alması",
+    "verb_full": "almaları lazım",
     "root": "al",
-    "tense_affix": "ması",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "sı",
+    "personal_affix": "ları",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They need to receive the package.",
-  "russian_example_sentence": "Им нужно получить посылку.",
-  "turkish_example_sentence": "Onların paketi alması lazım.",
-  "turkish_example_sentence_with_blank": "Onların paketi ______ lazım."
+  "english_example_sentence": "They need to receive the packages.",
+  "russian_example_sentence": "Им нужно получить посылки.",
+  "turkish_example_sentence": "Onların paketleri almaları lazım.",
+  "turkish_example_sentence_with_blank": "Onların paketleri ______."
 }

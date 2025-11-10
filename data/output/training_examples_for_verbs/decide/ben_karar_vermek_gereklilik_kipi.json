@@ -5,7 +5,7 @@
   "verb_infinitive": "karar vermek",
   "turkish_verb": {
     "verb_full": "karar vermem lazım",
-    "root": "karar vermek",
+    "root": "karar verm",
     "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "ben",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I need to decide quickly.",
-  "russian_example_sentence": "Мне нужно быстро решить.",
-  "turkish_example_sentence": "Ben önemli bir konuda karar vermem lazım.",
-  "turkish_example_sentence_with_blank": "Ben önemli bir konuda ______."
+  "english_example_sentence": "I need to decide",
+  "russian_example_sentence": "Мне нужно решить",
+  "turkish_example_sentence": "Ben bu konuda karar vermem lazım",
+  "turkish_example_sentence_with_blank": "Ben bu konuda ______"
 }

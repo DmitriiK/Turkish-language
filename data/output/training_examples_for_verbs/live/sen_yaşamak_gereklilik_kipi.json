@@ -4,8 +4,8 @@
   "verb_russian": "жить",
   "verb_infinitive": "yaşamak",
   "turkish_verb": {
-    "verb_full": "yaşaman",
-    "root": "yaş",
+    "verb_full": "yaşaman lazım",
+    "root": "yaşa",
     "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to live in this city.",
-  "russian_example_sentence": "Тебе нужно жить в этом городе.",
-  "turkish_example_sentence": "Sen bu şehirde yaşaman lazım.",
-  "turkish_example_sentence_with_blank": "Sen bu şehirde ______ lazım."
+  "english_example_sentence": "You need to live here.",
+  "russian_example_sentence": "Тебе нужно жить здесь.",
+  "turkish_example_sentence": "Sen burada yaşaman lazım.",
+  "turkish_example_sentence_with_blank": "Sen burada ______."
 }

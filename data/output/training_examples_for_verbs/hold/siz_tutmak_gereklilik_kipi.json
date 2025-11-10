@@ -4,7 +4,7 @@
   "verb_russian": "держать",
   "verb_infinitive": "tutmak",
   "turkish_verb": {
-    "verb_full": "tutmanız",
+    "verb_full": "tutmanız lazım",
     "root": "tut",
     "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to hold the book tightly.",
-  "russian_example_sentence": "Вам нужно крепко держать книгу.",
-  "turkish_example_sentence": "Siz kitabı sıkı tutmanız lazım.",
-  "turkish_example_sentence_with_blank": "Siz kitabı sıkı ______ lazım."
+  "english_example_sentence": "You need to hold the book.",
+  "russian_example_sentence": "Вам нужно держать книгу.",
+  "turkish_example_sentence": "Siz kitabı tutmanız lazım.",
+  "turkish_example_sentence_with_blank": "Siz kitabı ______."
 }

@@ -4,17 +4,17 @@
   "verb_russian": "любить",
   "verb_infinitive": "sevmek",
   "turkish_verb": {
-    "verb_full": "sevmeniz lazım",
+    "verb_full": "sevmen lazım",
     "root": "sev",
     "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
   "english_example_sentence": "You need to love your family.",
-  "russian_example_sentence": "Вам нужно любить свою семью.",
-  "turkish_example_sentence": "Siz ailenizi sevmeniz lazım.",
-  "turkish_example_sentence_with_blank": "Siz ailenizi ______."
+  "russian_example_sentence": "Тебе нужно любить свою семью.",
+  "turkish_example_sentence": "Senin ailenin sevmen lazım.",
+  "turkish_example_sentence_with_blank": "Senin ailenin ______."
 }

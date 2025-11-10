@@ -4,7 +4,7 @@
   "verb_russian": "чувствовать",
   "verb_infinitive": "hissetmek",
   "turkish_verb": {
-    "verb_full": "hissetmen",
+    "verb_full": "hissetmen lazım",
     "root": "hisset",
     "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to feel happy today.",
-  "russian_example_sentence": "Тебе нужно чувствовать себя счастливым сегодня.",
+  "english_example_sentence": "You need to feel happy.",
+  "russian_example_sentence": "Тебе нужно чувствовать себя счастливым.",
   "turkish_example_sentence": "Sen mutlu hissetmen lazım.",
-  "turkish_example_sentence_with_blank": "Sen mutlu ______ lazım."
+  "turkish_example_sentence_with_blank": "Sen mutlu ______."
 }

@@ -4,7 +4,7 @@
   "verb_russian": "играть",
   "verb_infinitive": "oynamak",
   "turkish_verb": {
-    "verb_full": "oynaman",
+    "verb_full": "oynaman lazım",
     "root": "oyna",
     "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to play the guitar",
-  "russian_example_sentence": "Тебе нужно играть на гитаре",
-  "turkish_example_sentence": "Sen gitar çalman lazım",
-  "turkish_example_sentence_with_blank": "Sen gitar çalman lazım"
+  "english_example_sentence": "You need to play outside.",
+  "russian_example_sentence": "Тебе нужно играть на улице.",
+  "turkish_example_sentence": "Sen dışarıda oynaman lazım.",
+  "turkish_example_sentence_with_blank": "Sen dışarıda ______."
 }

@@ -4,7 +4,7 @@
   "verb_russian": "останавливать",
   "verb_infinitive": "durmak",
   "turkish_verb": {
-    "verb_full": "durmanız",
+    "verb_full": "durmanız lazım",
     "root": "dur",
     "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to stop the car",
-  "russian_example_sentence": "Вам нужно остановить машину",
-  "turkish_example_sentence": "Siz aracı durmanız lazım",
-  "turkish_example_sentence_with_blank": "Siz aracı ______ lazım"
+  "english_example_sentence": "You need to stop now.",
+  "russian_example_sentence": "Вам нужно остановиться сейчас.",
+  "turkish_example_sentence": "Siz şimdi durmanız lazım.",
+  "turkish_example_sentence_with_blank": "Siz şimdi ______."
 }

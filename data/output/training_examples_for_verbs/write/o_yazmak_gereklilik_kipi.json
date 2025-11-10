@@ -4,9 +4,9 @@
   "verb_russian": "писать",
   "verb_infinitive": "yazmak",
   "turkish_verb": {
-    "verb_full": "yazması",
+    "verb_full": "yazması lazım",
     "root": "yaz",
-    "tense_affix": "ma",
+    "tense_affix": "ması",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
     "personal_affix": "sı",
@@ -16,5 +16,5 @@
   "english_example_sentence": "He needs to write a letter.",
   "russian_example_sentence": "Ему нужно написать письмо.",
   "turkish_example_sentence": "O mektubu yazması lazım.",
-  "turkish_example_sentence_with_blank": "O mektubu ______ lazım."
+  "turkish_example_sentence_with_blank": "O mektubu ______."
 }

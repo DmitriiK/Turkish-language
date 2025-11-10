@@ -4,7 +4,7 @@
   "verb_russian": "держать",
   "verb_infinitive": "tutmak",
   "turkish_verb": {
-    "verb_full": "tutman",
+    "verb_full": "tutman lazım",
     "root": "tut",
     "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to keep the book safe.",
-  "russian_example_sentence": "Тебе нужно держать книгу в безопасности.",
-  "turkish_example_sentence": "Sen kitabı tutman lazım.",
-  "turkish_example_sentence_with_blank": "Sen kitabı ______ lazım."
+  "english_example_sentence": "You need to keep your promise.",
+  "russian_example_sentence": "Тебе нужно держать свое обещание.",
+  "turkish_example_sentence": "Sen bu sözü tutman lazım.",
+  "turkish_example_sentence_with_blank": "Sen bu sözü ______."
 }

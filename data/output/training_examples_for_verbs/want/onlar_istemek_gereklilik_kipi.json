@@ -4,7 +4,7 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemeleri",
+    "verb_full": "istemeleri lazım",
     "root": "iste",
     "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They need to want more time.",
-  "russian_example_sentence": "Им нужно хотеть больше времени.",
-  "turkish_example_sentence": "Öğrencilerin ders için daha fazla zaman istemeleri lazım.",
-  "turkish_example_sentence_with_blank": "Öğrencilerin ders için daha fazla zaman ______ lazım."
+  "english_example_sentence": "They need to want it.",
+  "russian_example_sentence": "Им нужно это хотеть.",
+  "turkish_example_sentence": "Öğrencilerin bu kitabı istemeleri lazım.",
+  "turkish_example_sentence_with_blank": "Öğrencilerin bu kitabı ______."
 }

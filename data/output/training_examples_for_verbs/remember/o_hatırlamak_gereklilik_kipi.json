@@ -4,7 +4,7 @@
   "verb_russian": "помнить",
   "verb_infinitive": "hatırlamak",
   "turkish_verb": {
-    "verb_full": "hatırlaması",
+    "verb_full": "hatırlaması lazım",
     "root": "hatırla",
     "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He needs to remember the answer.",
-  "russian_example_sentence": "Ему нужно помнить ответ.",
-  "turkish_example_sentence": "O cevabı hatırlaması lazım.",
-  "turkish_example_sentence_with_blank": "O cevabı ______ lazım."
+  "english_example_sentence": "He needs to remember the important information.",
+  "russian_example_sentence": "Ему нужно помнить важную информацию.",
+  "turkish_example_sentence": "O önemli bilgiyi hatırlaması lazım.",
+  "turkish_example_sentence_with_blank": "O önemli bilgiyi ______."
 }

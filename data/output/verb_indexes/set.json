@@ -6,10 +6,34 @@
   "folder_name": "set",
   "examples": [
     {
-      "tense": "zaman_sıfatı",
+      "tense": "gereklilik_kipi",
+      "pronoun": "ben",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/set/ben_koymak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "biz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/set/biz_koymak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "o",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/set/o_koymak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "onlar",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/set/onlar_koymak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
       "pronoun": "siz",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/set/siz_koymak_zaman_sıfatı.json"
+      "file_path": "data/output/training_examples_for_verbs/set/siz_koymak_gereklilik_kipi.json"
     }
   ]
 }

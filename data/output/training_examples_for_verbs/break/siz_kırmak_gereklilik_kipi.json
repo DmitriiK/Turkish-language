@@ -4,17 +4,17 @@
   "verb_russian": "ломать",
   "verb_infinitive": "kırmak",
   "turkish_verb": {
-    "verb_full": "kırman lazım",
+    "verb_full": "kırmanız lazım",
     "root": "kır",
     "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "n",
+    "personal_affix": "nız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to break the window",
-  "russian_example_sentence": "Вам нужно сломать окно",
-  "turkish_example_sentence": "Sizin bu pencereyi kırman lazım",
-  "turkish_example_sentence_with_blank": "Sizin bu pencereyi ______"
+  "english_example_sentence": "You need to break it.",
+  "russian_example_sentence": "Вам нужно сломать это.",
+  "turkish_example_sentence": "Siz bu oyuncağı kırmanız lazım.",
+  "turkish_example_sentence_with_blank": "Siz bu oyuncağı ______."
 }

@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmeniz",
+    "verb_full": "gitmen gerek",
     "root": "git",
     "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
   "english_example_sentence": "You need to go to school.",
-  "russian_example_sentence": "Вам нужно идти в школу.",
-  "turkish_example_sentence": "Siz okula gitmeniz lazım.",
-  "turkish_example_sentence_with_blank": "Siz okula ______ lazım."
+  "russian_example_sentence": "Тебе нужно идти в школу.",
+  "turkish_example_sentence": "Sen okula gitmen gerek.",
+  "turkish_example_sentence_with_blank": "Sen okula ______."
 }

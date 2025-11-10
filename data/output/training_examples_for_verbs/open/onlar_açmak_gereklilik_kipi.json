@@ -4,17 +4,17 @@
   "verb_russian": "открывать",
   "verb_infinitive": "açmak",
   "turkish_verb": {
-    "verb_full": "açmaları lazım",
+    "verb_full": "açması lazım",
     "root": "aç",
     "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "ları",
+    "personal_affix": "sı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They need to open the books.",
-  "russian_example_sentence": "Им нужно открыть книги.",
-  "turkish_example_sentence": "Öğrencilerin kitapları açmaları lazım.",
-  "turkish_example_sentence_with_blank": "Öğrencilerin kitapları ______."
+  "english_example_sentence": "They need to open the door.",
+  "russian_example_sentence": "Им нужно открыть дверь.",
+  "turkish_example_sentence": "Kapıyı açması lazım.",
+  "turkish_example_sentence_with_blank": "Kapıyı ______."
 }

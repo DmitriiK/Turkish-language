@@ -4,9 +4,9 @@
   "verb_russian": "значить",
   "verb_infinitive": "demek",
   "turkish_verb": {
-    "verb_full": "demesi",
-    "root": "dem",
-    "tense_affix": "esi",
+    "verb_full": "demesi lazım",
+    "root": "de",
+    "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "si",
@@ -15,6 +15,6 @@
   },
   "english_example_sentence": "They need to mean something important.",
   "russian_example_sentence": "Им нужно что-то значить важное.",
-  "turkish_example_sentence": "Onların önemli bir şeyi demesi lazım.",
-  "turkish_example_sentence_with_blank": "Onların önemli bir şeyi ______ lazım."
+  "turkish_example_sentence": "Öğrencilerin bu proje için demesi lazım.",
+  "turkish_example_sentence_with_blank": "Öğrencilerin bu proje için ______."
 }

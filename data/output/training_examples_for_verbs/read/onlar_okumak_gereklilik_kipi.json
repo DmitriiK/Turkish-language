@@ -4,9 +4,9 @@
   "verb_russian": "читать",
   "verb_infinitive": "okumak",
   "turkish_verb": {
-    "verb_full": "okumaları lazım",
+    "verb_full": "okumakları lazım",
     "root": "oku",
-    "tense_affix": "ma",
+    "tense_affix": "mak",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ları",
@@ -15,6 +15,6 @@
   },
   "english_example_sentence": "They need to read the books.",
   "russian_example_sentence": "Им нужно читать книги.",
-  "turkish_example_sentence": "Öğrencilerin kitapları okumaları lazım.",
-  "turkish_example_sentence_with_blank": "Öğrencilerin kitapları ______."
+  "turkish_example_sentence": "Onların kitapları okumakları lazım.",
+  "turkish_example_sentence_with_blank": "Onların kitapları ______."
 }
