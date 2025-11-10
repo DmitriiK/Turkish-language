@@ -861,6 +861,7 @@ def main(
     print("Generating training examples...")
     generated_count = 0
     skipped_count = 0
+    skipped_existing_count = 0
     total_prompt_tokens = 0
     total_completion_tokens = 0
     
@@ -896,7 +897,7 @@ def main(
             # Check if file already exists and skip if requested
             if skip_existing and check_example_exists(verb, tense, pronoun, polarity, output_dir):
                 print("   ⏭️  Skipping (file already exists)")
-                skipped_count += 1
+                skipped_existing_count += 1
                 pipeline_logger.increment_skipped()
                 continue
             
@@ -955,6 +956,8 @@ def main(
         
         print(f"\n{'='*60}")
         print(f"✅ Successfully generated {generated_count} training examples")
+        if skipped_existing_count > 0:
+            print(f"⏭️  Skipped {skipped_existing_count} existing files")
         if skipped_count > 0:
             print(f"⚠️  Skipped {skipped_count} examples due to generation failures")
         
