@@ -59,7 +59,12 @@ def test_list_available_models():
     assert len(models) > 0, "No models returned from API"
 
 
-def test_dial_connection():
+def test_claude_connection():
+    model_id: str = "anthropic.claude-haiku-4-5-20251001-v1:0"
+    test_dial_connection(model_id=model_id)
+
+
+def test_dial_connection( model_id: str = "gpt-4" ):
     """Test DIAL API chat completion"""
     print("\n🔍 Testing DIAL API Connection...")
     
@@ -67,7 +72,7 @@ def test_dial_connection():
     api_key = os.getenv('AZURE_OPENAI_API_KEY')
     
     # DIAL API configuration - using OpenAI-compatible endpoint
-    model_id = "gpt-4"  # Or any other deployed model
+    # Or any other deployed model
     api_url = f"https://ai-proxy.lab.epam.com/openai/deployments/{model_id}/chat/completions"
     
     print(f"   API URL: {api_url}")
@@ -86,13 +91,14 @@ def test_dial_connection():
         "messages": [
             {"role": "user", "content": "Hello, how are you?"}
         ],
-        "temperature": 0.2
+        "temperature": 0.2,
+        "stream": False  # Explicitly set streaming to false
     }
     
     print("   Connecting to DIAL API...")
     print("   Sending test message: 'Hello, how are you?'")
     
-    response = requests.post(api_url, headers=headers, json=payload)
+    response = requests.post(api_url, headers=headers, json=payload, timeout=300)
     
     # Assert successful response
     assert response.status_code == 200, (
