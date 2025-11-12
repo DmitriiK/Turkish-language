@@ -64,6 +64,11 @@ def test_claude_connection():
     test_dial_connection(model_id=model_id)
 
 
+def test_deepseek_connection():
+    model_id: str = "deepseek-r1"
+    test_dial_connection(model_id=model_id)
+
+
 def test_dial_connection( model_id: str = "gpt-4" ):
     """Test DIAL API chat completion"""
     print("\n🔍 Testing DIAL API Connection...")
