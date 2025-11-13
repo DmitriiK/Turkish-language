@@ -12,7 +12,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 
-def load_config():
+@pytest.fixture(scope="module")
+def config():
     """Load configuration from config.toml file."""
     config_path = Path(__file__).parent.parent / "config.toml"
     return toml.load(config_path)
@@ -23,7 +24,7 @@ def test_list_available_models():
     print("\n🔍 Listing Available Models...")
     
     # Get API key from environment
-    api_key = os.getenv('AZURE_OPENAI_API_KEY')
+    api_key = os.getenv('DIAL_API_KEY')
     
     # DIAL API configuration - correct endpoint for DIAL
     api_url = "https://ai-proxy.lab.epam.com/openai/models"
@@ -31,7 +32,7 @@ def test_list_available_models():
     print(f"   API URL: {api_url}")
     print(f"   API Key: {'*' * 20}{api_key[-8:] if api_key else 'NOT FOUND'}")
     
-    assert api_key is not None, "AZURE_OPENAI_API_KEY not found in environment variables"
+    assert api_key is not None, "DIAL_API_KEY not found in environment variables"
     
     headers = {
         "Api-Key": api_key,
@@ -59,32 +60,38 @@ def test_list_available_models():
     assert len(models) > 0, "No models returned from API"
 
 
-def test_claude_connection():
-    model_id: str = "anthropic.claude-haiku-4-5-20251001-v1:0"
-    test_dial_connection(model_id=model_id)
+def test_claude_connection(config):
+    model_id: str = config.get("DIAL_API", {}).get("CLOUD_MODEL_NAME", "anthropic.claude-haiku-4-5-20251001-v1:0")
+    test_dial_connection(model_id=model_id, config=config)
 
 
-def test_deepseek_connection():
-    model_id: str = "deepseek-r1"
-    test_dial_connection(model_id=model_id)
+def test_deepseek_connection(config):
+    model_id: str = config.get("DIAL_API", {}).get("DEEP_SEEK_MODEL_NAME", "deepseek-r1")
+    test_dial_connection(model_id=model_id, config=config)
 
 
-def test_dial_connection( model_id: str = "gpt-4" ):
+def test_gemini_connection(config):
+    model_id: str = config.get("DIAL_API", {}).get("GEMINI_MODEL_NAME", "gemini-2.5-flash")
+    test_dial_connection(model_id=model_id, config=config)
+
+
+def test_dial_connection(config, model_id: str = "gpt-4"):
     """Test DIAL API chat completion"""
     print("\n🔍 Testing DIAL API Connection...")
     
     # Get credentials from environment
-    api_key = os.getenv('AZURE_OPENAI_API_KEY')
+    api_key = os.getenv('DIAL_API_KEY')
     
-    # DIAL API configuration - using OpenAI-compatible endpoint
-    # Or any other deployed model
-    api_url = f"https://ai-proxy.lab.epam.com/openai/deployments/{model_id}/chat/completions"
+    # DIAL API configuration - get endpoint from config.toml
+    api_url_template = config.get("DIAL_API", {}).get("DIAL_API_ENDPOINT")
+    assert api_url_template, "DIAL_API_ENDPOINT not found in config.toml"
+    api_url = api_url_template.format(model_id=model_id)
     
     print(f"   API URL: {api_url}")
     print(f"   Model: {model_id}")
     print(f"   API Key: {'*' * 20}{api_key[-8:] if api_key else 'NOT FOUND'}")
     
-    assert api_key is not None, "AZURE_OPENAI_API_KEY not found in environment variables"
+    assert api_key is not None, "DIAL_API_KEY not found in environment variables"
     
     # Prepare request with Api-Key header (not Authorization: Bearer)
     headers = {
@@ -132,11 +139,14 @@ def test_dial_connection( model_id: str = "gpt-4" ):
     assert len(content) > 0, "Response content is empty"
 
 
-
 if __name__ == "__main__":
     print("=" * 60)
     print("DIAL API Connection Test")
     print("=" * 60)
+    
+    # Load config for manual execution
+    config_path = Path(__file__).parent.parent / "config.toml"
+    test_config = toml.load(config_path)
     
     # Run tests manually
     try:
@@ -150,12 +160,12 @@ if __name__ == "__main__":
     try:
         print("\nStep 2: Testing chat completion")
         print("-" * 60)
-        test_dial_connection()
+        test_dial_connection(test_config)
         print("\n✅ Chat completion test passed")
     except AssertionError as e:
         print(f"\n❌ Chat completion test failed: {e}")
     
     print("\n" + "=" * 60)
-    print("Run 'pytest tests/test_azure_connection.py -v' for detailed test results")
+    print("Run 'pytest tests/test_dial_api_connection.py -v' for detailed test results")
     print("=" * 60)
 

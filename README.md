@@ -128,13 +128,179 @@ Turkish-language/
    - ✅ Complete sentence perfect!
 
 ### Generating Training Data
+
+#### Basic Usage
 ```bash
 # Generate A1 level examples for top 10 verbs
 python pipelines/create_traing_example.py --language-level A1 --top-n-verbs 10
 
-# Generate B2 level examples for top 50 verbs  
-python pipelines/create_traing_example.py --language-level B2 --top-n-verbs 50
+# Generate B2 level examples for specific verbs
+python pipelines/create_traing_example.py --language-level B2 --verbs "to be" "to do" "to go"
+
+# Generate examples for specific tenses only
+python pipelines/create_traing_example.py --tenses şimdiki_zaman geçmiş_zaman
+
+# Generate for specific pronouns and polarities
+python pipelines/create_traing_example.py --pronouns ben sen --polarities positive
+
+# Skip already generated files
+python pipelines/create_traing_example.py --skip-existing
 ```
+
+#### Generation Modes
+
+The pipeline supports two modes for efficient LLM usage:
+
+**1. Batch Mode** (Default - Most Efficient)
+- Generates all pronoun×polarity combinations in a single LLM call
+- **6.5x more token-efficient** than single mode
+- Automatically triggered when no `--pronouns` or `--polarities` filters specified
+- Example: ~666 tokens per example vs ~4,350 in single mode
+
+```bash
+# Batch mode: generates 12 examples per verb+tense (6 pronouns × 2 polarities)
+python pipelines/create_traing_example.py --language-level A2 --top-n-verbs 5
+```
+
+**2. Single Mode**
+- Generates one example per LLM call
+- Used when filtering by specific pronouns or polarities
+- More granular control but higher token usage
+
+```bash
+# Single mode: generate only positive examples for "ben" pronoun
+python pipelines/create_traing_example.py --pronouns ben --polarities positive
+```
+
+#### Provider Options
+
+Choose from multiple LLM providers (configured in `config.toml`):
+
+```bash
+# Use Claude (Anthropic)
+python pipelines/create_traing_example.py --provider claude
+
+# Use OpenAI GPT-4
+python pipelines/create_traing_example.py --provider openai
+
+# Use Google Gemini
+python pipelines/create_traing_example.py --provider gemini
+
+# Use DeepSeek
+python pipelines/create_traing_example.py --provider deepseek
+```
+
+## 📊 Pipeline Logging & Monitoring
+
+The pipeline creates **two log files** in the `logs/` directory for comprehensive tracking:
+
+### 1. Pipeline Log (`pipeline_log_YYYYMMDD_HHMMSS.txt`)
+High-level execution summary with:
+- Start/end timestamps and total duration
+- Input parameters (language level, verbs, filters)
+- Model configuration and temperature settings
+- Statistics: processed verbs, created/skipped files
+- Token usage: total input/output tokens, average per file
+- Performance metrics: average/min/max generation time
+- Per-verb summaries during execution
+- Error details if pipeline fails
+
+**Example output:**
+```
+================================================================================
+TURKISH LANGUAGE TRAINING PIPELINE LOG
+================================================================================
+
+Start Time: 2025-11-13 21:57:27
+Model: CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0
+
+Input Arguments:
+  language_level: B2
+  top_n_verbs: None
+  specific_verbs: ['say']
+  pronouns: ['ben']
+  polarities: ['positive']
+  ...
+
+Verb: say
+  Files Created: 14
+  Tokens Used: 60,911 (56,234 in + 4,677 out)
+
+================================================================================
+PIPELINE EXECUTION SUMMARY
+================================================================================
+
+Status: COMPLETED
+Duration: 0:05:23
+
+Statistics:
+  Processed Verbs: 1
+  Created Files: 14
+  Skipped Files: 0
+
+Token Usage:
+  Input Tokens (Prompt): 56,234
+  Output Tokens (Completion): 4,677
+  Total Tokens: 60,911
+  Average Tokens per File: 4,350
+```
+
+### 2. LLM Calls Log (`llm_calls_YYYYMMDD_HHMMSS.csv`)
+**NEW!** Detailed CSV log of every LLM API call with:
+
+| Column | Description | Example |
+|--------|-------------|---------|
+| `timestamp` | Date and time of the call | `2025-11-13 21:57:30` |
+| `model_name` | Provider and model used | `CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0` |
+| `prompt_tokens` | Number of input tokens | `5234` |
+| `completion_tokens` | Number of output tokens | `1567` |
+| `total_tokens` | Sum of input + output | `6801` |
+| `duration_seconds` | API call duration | `3.45` |
+| `error` | Error message (if any) | Empty for success |
+
+**Use cases:**
+- **Cost analysis**: Calculate exact API costs based on token usage
+- **Performance monitoring**: Track API response times
+- **Error tracking**: Identify and debug failed calls
+- **Efficiency comparison**: Compare batch vs single mode token usage
+- **Retry analysis**: See which calls required retries
+
+**Example CSV:**
+```csv
+timestamp,model_name,prompt_tokens,completion_tokens,total_tokens,duration_seconds,error
+2025-11-13 21:57:30,CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0,5234,1567,6801,3.45,
+2025-11-13 21:57:35,CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0,5234,1589,6823,2.98,
+2025-11-13 21:58:15,CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0,0,0,0,1.23,Status 429: Rate limit exceeded
+```
+
+**Analyze logs with Python:**
+```python
+import pandas as pd
+
+# Load LLM call log
+df = pd.read_csv('logs/llm_calls_20251113_215727.csv')
+
+# Calculate total cost (example: Claude Haiku pricing)
+input_cost = df['prompt_tokens'].sum() / 1_000_000 * 0.25  # $0.25 per 1M tokens
+output_cost = df['completion_tokens'].sum() / 1_000_000 * 1.25  # $1.25 per 1M tokens
+print(f"Total cost: ${input_cost + output_cost:.2f}")
+
+# Performance metrics
+df['duration_seconds'] = df['duration_seconds'].astype(float)
+print(f"Average API latency: {df['duration_seconds'].mean():.2f}s")
+print(f"Total API time: {df['duration_seconds'].sum():.2f}s")
+
+# Error rate
+errors = df[df['error'] != '']
+print(f"Success rate: {(len(df) - len(errors)) / len(df) * 100:.1f}%")
+```
+
+### Logging Behavior
+- **Automatic**: All LLM calls logged automatically
+- **Real-time**: Each call flushed to disk immediately
+- **Error-safe**: Failed calls logged with error details
+- **Retry-aware**: Retry attempts logged as separate entries
+- **Cleanup**: Files properly closed on exit (even with Ctrl+C)
 
 ## 🔧 Development Setup
 

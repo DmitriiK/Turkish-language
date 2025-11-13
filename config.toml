@@ -28,9 +28,16 @@ max_output_tokens = 8192
 top_p = 0.8
 top_k = 40
 
-[azure_model]
-AZURE_OPENAI_ENDPOINT="https://ai-proxy.lab.epam.com"
+[DIAL_API]
+DIAL_API_ENDPOINT="https://ai-proxy.lab.epam.com/openai/deployments/{model_id}/chat/completions"
 # "https://dklmnopenai.services.ai.azure.com"
 OPENAI_API_VERSION = "2024-08-01-preview"
-MODEL_NAME = "gpt-4o-mini-2024-07-18"
+OPENAI_MODEL_NAME = "gpt-4o-mini-2024-07-18"
+CLOUD_MODEL_NAME = "anthropic.claude-haiku-4-5-20251001-v1:0"
+DEEP_SEEK_MODEL_NAME = "deepseek-r1"
+GEMINI_MODEL_NAME = "gemini-2.5-flash"
+
+# Default provider for create_training_example.py pipeline
+# Options: openai, claude, gemini, deepseek
+default_provider = "openai"
 

@@ -387,5 +387,19 @@ class TrainingExample(BaseModel):
     def turkish_example_sentence_with_blank(self) -> str:
         """Generate the Turkish sentence with blank where the conjugated verb should be"""
         return self.turkish_example_sentence.replace(self.turkish_verb.verb_full, "______")
- 
+
+
+class BatchTrainingExamples(BaseModel):
+    """Batch of training examples for a single verb + tense combination.
+    
+    Contains all pronoun × polarity combinations (typically 12 examples):
+    - 6 pronouns (ben, sen, o, biz, siz, onlar) × 2 polarities (positive, negative)
+    
+    For special cases:
+    - Imperatives: 4 pronouns (sen, o, siz, onlar) - excludes ben, biz
+    - Participles: 1 example (no personal pronouns)
+    """
+    examples: list[TrainingExample] = Field(
+        description="List of training examples for all pronoun+polarity combinations"
+    )
 

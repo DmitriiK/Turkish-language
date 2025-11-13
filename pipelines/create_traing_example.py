@@ -6,25 +6,364 @@ import time
 import atexit
 import signal
 import sys
+import requests
 from datetime import datetime
 from pathlib import Path
 from typing import List, Tuple, Optional, Any, Dict
 
 import toml
 from dotenv import load_dotenv
-from langchain_core.prompts import PromptTemplate
-from langchain_core.callbacks import BaseCallbackHandler
-from langchain_core.outputs import LLMResult
-from langchain_openai import AzureChatOpenAI
-from langchain_google_genai import ChatGoogleGenerativeAI
-
 from grammer_metadata import (
     VerbTense, PersonalPronoun, LanguageLevel, TrainingExample,
-    VERB_FORM_INFOS, VerbPolarity
+    BatchTrainingExamples, VERB_FORM_INFOS, VerbPolarity
 )
 
 # Load environment variables
 load_dotenv()
+
+
+# LLM Call Logger
+class LLMCallLogger:
+    """Logger for individual LLM API calls"""
+    def __init__(self):
+        self.log_file = None
+        self.csv_writer = None
+        self.csv_file_handle = None
+    
+    def initialize(self, log_dir: Path):
+        """Initialize CSV logger for LLM calls"""
+        log_dir.mkdir(parents=True, exist_ok=True)
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        self.log_file = log_dir / f"llm_calls_{timestamp}.csv"
+        
+        # Open CSV file and write header
+        self.csv_file_handle = open(self.log_file, 'w', newline='', encoding='utf-8')
+        self.csv_writer = csv.writer(self.csv_file_handle)
+        self.csv_writer.writerow([
+            'timestamp',
+            'model_name',
+            'prompt_tokens',
+            'completion_tokens',
+            'total_tokens',
+            'duration_seconds',
+            'error'
+        ])
+        self.csv_file_handle.flush()
+        
+        # Register cleanup handler
+        atexit.register(self.close)
+    
+    def log_call(self, model_name: str, prompt_tokens: int, completion_tokens: int,
+                 duration: float, error: Optional[str] = None):
+        """Log an LLM API call
+        
+        Args:
+            model_name: Name of the model used
+            prompt_tokens: Number of input tokens
+            completion_tokens: Number of output tokens
+            duration: Duration of the call in seconds
+            error: Error message if the call failed
+        """
+        if self.csv_writer is None:
+            return
+        
+        timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        total_tokens = prompt_tokens + completion_tokens
+        
+        self.csv_writer.writerow([
+            timestamp,
+            model_name,
+            prompt_tokens,
+            completion_tokens,
+            total_tokens,
+            f"{duration:.2f}",
+            error or ''
+        ])
+        self.csv_file_handle.flush()
+    
+    def close(self):
+        """Close the CSV file"""
+        if self.csv_file_handle:
+            self.csv_file_handle.close()
+            self.csv_file_handle = None
+            self.csv_writer = None
+
+
+# Global LLM call logger instance
+llm_call_logger = LLMCallLogger()
+
+
+def get_pronoun_requirements_for_tense(tense: VerbTense, polarity: VerbPolarity) -> str:
+    """Generate pronoun requirements text based on verb form type.
+    
+    Args:
+        tense: The verb tense
+        polarity: The verb polarity
+    
+    Returns:
+        Formatted text describing which pronouns to generate for this tense
+    """
+    # Find the verb form info for this tense+polarity
+    verb_form = None
+    for vf in VERB_FORM_INFOS:
+        if vf.verb_tense == tense and vf.polarity == polarity:
+            verb_form = vf
+            break
+    
+    if not verb_form:
+        # Default to all pronouns if not found
+        return """
+## Generation Requirements
+
+You must generate examples for **ALL combinations** of:
+- **Pronouns**: ben, sen, o, biz, siz, onlar (6 total)
+- **Polarities**: positive, negative (2 total)
+- **Total**: 12 examples (6 pronouns × 2 polarities)
+"""
+    
+    # Determine pronouns based on type_of_personal_pronoun
+    if verb_form.type_of_personal_pronoun is None:
+        # No personal pronouns (participles, infinitives, etc.)
+        return """
+## Generation Requirements
+
+This verb form does NOT use personal pronouns (it's a participle, infinitive, or impersonal form).
+
+You must generate **2 examples**:
+- **Polarity**: positive (1 example)
+- **Polarity**: negative (1 example)
+- **Total**: 2 examples
+
+For each example, set "personal_pronoun" to null and "personal_affix" to null (or appropriate participial suffix if applicable).
+"""
+    
+    elif verb_form.type_of_personal_pronoun == 3:
+        # Type 3: Imperatives - only sen, siz, o, onlar (not ben, biz)
+        return """
+## Generation Requirements
+
+This is an **imperative** form (emir_kipi). Imperatives are NOT used with first-person pronouns (ben, biz).
+
+You must generate examples for:
+- **Pronouns**: sen, o, siz, onlar (4 total - excludes ben and biz)
+- **Polarities**: positive, negative (2 total)
+- **Total**: 8 examples (4 pronouns × 2 polarities)
+
+**Imperative pronouns:**
+- **sen** (you singular - informal command)
+- **o** (he/she/it - third person polite request)
+- **siz** (you plural/formal - polite command)
+- **onlar** (they - third person polite request)
+"""
+    
+    else:
+        # Type 1 or 2: All personal pronouns
+        return """
+## Generation Requirements
+
+You must generate examples for **ALL combinations** of:
+- **Pronouns**: ben, sen, o, biz, siz, onlar (6 total)
+- **Polarities**: positive, negative (2 total)
+- **Total**: 12 examples (6 pronouns × 2 polarities)
+"""
+
+
+def get_json_schema_for_prompt(batch_mode: bool = False) -> str:
+    """Generate JSON schema from Pydantic model for inclusion in prompt.
+    
+    Args:
+        batch_mode: If True, use BatchTrainingExamples schema; if False, use single TrainingExample
+    
+    Returns:
+        Formatted JSON schema string with example to inject into system prompt
+    """
+    # Get the JSON schema from Pydantic model
+    if batch_mode:
+        schema = BatchTrainingExamples.model_json_schema()
+        
+        # Create example instances using Pydantic models
+        from grammer_metadata import TurkishVerb
+        
+        example1 = TrainingExample(
+            verb_rank=1,
+            verb_english="be",
+            verb_russian="быть",
+            verb_infinitive="olmak",
+            turkish_verb=TurkishVerb(
+                verb_full="oluyorum",
+                root="ol",
+                tense_affix="uyor",
+                verb_tense=VerbTense.ŞimdikiZaman,
+                personal_pronoun=PersonalPronoun.Ben,
+                personal_affix="um",
+                polarity=VerbPolarity.Positive,
+                negative_affix=None
+            ),
+            english_example_sentence="I am a happy student today",
+            russian_example_sentence="Я счастливый студент сегодня",
+            turkish_example_sentence="Ben bugün mutlu bir öğrenciyim"
+        )
+        
+        example2 = TrainingExample(
+            verb_rank=1,
+            verb_english="be",
+            verb_russian="быть",
+            verb_infinitive="olmak",
+            turkish_verb=TurkishVerb(
+                verb_full="olmuyorum",
+                root="ol",
+                tense_affix="uyor",
+                verb_tense=VerbTense.ŞimdikiZaman,
+                personal_pronoun=PersonalPronoun.Ben,
+                personal_affix="um",
+                polarity=VerbPolarity.Negative,
+                negative_affix="m"
+            ),
+            english_example_sentence="I am not ready for this exam",
+            russian_example_sentence="Я не готов к этому экзамену",
+            turkish_example_sentence="Ben bu sınav için hazır olmuyorum"
+        )
+        
+        batch_example = BatchTrainingExamples(examples=[example1, example2])
+        example_json = json.loads(batch_example.model_dump_json())
+        
+    else:
+        schema = TrainingExample.model_json_schema()
+        
+        # Create example instance using Pydantic models
+        from grammer_metadata import TurkishVerb
+        
+        example_instance = TrainingExample(
+            verb_rank=1,
+            verb_english="be",
+            verb_russian="быть",
+            verb_infinitive="olmak",
+            turkish_verb=TurkishVerb(
+                verb_full="oluyorum",
+                root="ol",
+                tense_affix="uyor",
+                verb_tense=VerbTense.ŞimdikiZaman,
+                personal_pronoun=PersonalPronoun.Ben,
+                personal_affix="um",
+                polarity=VerbPolarity.Positive,
+                negative_affix=None
+            ),
+            english_example_sentence="I am a student",
+            russian_example_sentence="Я студент",
+            turkish_example_sentence="Ben öğrenciyim"
+        )
+        
+        example_json = json.loads(example_instance.model_dump_json())
+    
+    # Create a formatted schema description for the prompt
+    schema_description = f"""
+## JSON Output Schema
+
+You must respond with valid JSON matching this exact schema:
+
+```json
+{json.dumps(schema, indent=2, ensure_ascii=False)}
+```
+
+## Example Output
+
+```json
+{json.dumps(example_json, indent=2, ensure_ascii=False)}
+```
+
+**IMPORTANT**:
+- Return ONLY valid JSON, no markdown formatting, no explanations
+- All fields are required unless marked as Optional
+- Use exact enum values for verb_tense, personal_pronoun, polarity
+- Ensure verb_full matches the combination of root + tense_affix + personal_affix (and negative_affix if present)
+"""
+    
+    return schema_description
+
+
+def get_grammar_rules_for_tense(tense: VerbTense, language: str = "english") -> str:
+    """Load grammar rules for specific tense from grammar_reference.json.
+    
+    Args:
+        tense: The verb tense to get rules for
+        language: Language for the rules ("english" or "russian")
+    
+    Returns:
+        Formatted grammar rules string to inject into prompt
+    """
+    # Load grammar reference
+    grammar_file = Path(__file__).parent.parent / "frontend" / "public" / "grammar" / "grammar_reference.json"
+    
+    try:
+        with open(grammar_file, 'r', encoding='utf-8') as f:
+            grammar_data = json.load(f)
+    except Exception as e:
+        print(f"⚠️  Warning: Could not load grammar reference: {e}")
+        return ""
+    
+    # Get tense-specific data
+    tense_key = tense.value
+    if tense_key not in grammar_data:
+        print(f"⚠️  Warning: No grammar rules found for tense '{tense_key}'")
+        return ""
+    
+    tense_data = grammar_data[tense_key]
+    lang_data = tense_data.get(language, {})
+    
+    if not lang_data:
+        return ""
+    
+    # Format grammar rules
+    rules_text = f"""
+## Grammar Rules for {lang_data.get('name', tense_key)}
+
+**Description:** {lang_data.get('description', '')}
+
+**Usage:**
+"""
+    
+    # Add usage cases
+    for usage in lang_data.get('usage', []):
+        rules_text += f"- {usage}\n"
+    
+    # Add formation rules
+    formation = lang_data.get('formation', {})
+    if formation:
+        rules_text += "\n**Formation:**\n"
+        rules_text += f"- Positive: {formation.get('positive', '')}\n"
+        rules_text += f"- Negative: {formation.get('negative', '')}\n"
+        if 'vowel_harmony_note' in formation:
+            rules_text += f"- Vowel Harmony: {formation['vowel_harmony_note']}\n"
+    
+    # Add affix information
+    affixes = lang_data.get('affixes', {})
+    if affixes:
+        rules_text += "\n**Affixes:**\n"
+        
+        # Tense markers
+        if 'tense_markers' in affixes:
+            rules_text += "\nTense Markers:\n"
+            for marker in affixes['tense_markers']:
+                rules_text += f"- {marker['affix']}: {marker.get('description', '')}\n"
+        
+        # Personal endings
+        if 'personal_endings' in affixes:
+            rules_text += "\nPersonal Endings:\n"
+            for ending in affixes['personal_endings']:
+                rules_text += f"- {ending['pronoun']}: {ending['ending']} (e.g., {ending.get('example', '')})\n"
+        
+        # Negative affix
+        if 'negative_affix' in affixes:
+            rules_text += f"\nNegative Affix: {affixes['negative_affix']}\n"
+    
+    # Add examples
+    examples = lang_data.get('examples', [])
+    if examples:
+        rules_text += "\n**Examples:**\n"
+        for ex in examples[:5]:  # Limit to 5 examples
+            rules_text += f"- {ex['turkish']} → {ex['translation']} ({ex.get('type', 'positive')})\n"
+    
+    return rules_text
 
 
 # Global logger state
@@ -221,49 +560,6 @@ class PipelineLogger:
 pipeline_logger = PipelineLogger()
 
 
-class TokenUsageCallback(BaseCallbackHandler):
-    """Callback to capture token usage from LLM responses"""
-    def __init__(self):
-        self.prompt_tokens = 0
-        self.completion_tokens = 0
-        self.total_tokens = 0
-    
-    def on_llm_end(self, response: LLMResult, **kwargs: Any) -> None:
-        """Capture token usage when LLM call completes"""
-        # Try multiple ways to extract token usage
-        if response.llm_output:
-            # OpenAI format
-            if 'token_usage' in response.llm_output:
-                usage = response.llm_output['token_usage']
-                self.prompt_tokens = usage.get('prompt_tokens', 0)
-                self.completion_tokens = usage.get('completion_tokens', 0)
-                self.total_tokens = usage.get('total_tokens', 0)
-            # Gemini format (usage_metadata)
-            elif 'usage_metadata' in response.llm_output:
-                usage = response.llm_output['usage_metadata']
-                self.prompt_tokens = usage.get('prompt_token_count', 0) or usage.get('input_tokens', 0)
-                self.completion_tokens = usage.get('candidates_token_count', 0) or usage.get('output_tokens', 0)
-                self.total_tokens = usage.get('total_token_count', 0) or (self.prompt_tokens + self.completion_tokens)
-        
-        # Also check in generations metadata
-        if self.prompt_tokens == 0 and response.generations:
-            for gen_list in response.generations:
-                for gen in gen_list:
-                    if hasattr(gen, 'generation_info') and gen.generation_info:
-                        if 'usage_metadata' in gen.generation_info:
-                            usage = gen.generation_info['usage_metadata']
-                            self.prompt_tokens = usage.get('prompt_token_count', 0)
-                            self.completion_tokens = usage.get('candidates_token_count', 0)
-                            self.total_tokens = usage.get('total_token_count', 0)
-                            break
-    
-    def reset(self):
-        """Reset token counters"""
-        self.prompt_tokens = 0
-        self.completion_tokens = 0
-        self.total_tokens = 0
-
-
 class RateLimiter:
     """Simple rate limiter to control API requests per minute"""
     def __init__(self, requests_per_minute: int):
@@ -370,289 +666,553 @@ def generate_combinations(
     return combinations
 
 
-def load_prompt_template() -> str:
-    """Load the prompt template from the prompt file"""
-    prompt_file = Path(__file__).parent.parent / "prompts" / "create_training_example.prompt.md"
+def load_prompt_template(batch_mode: bool = False) -> str:
+    """Load the prompt template from the prompt file
+    
+    Args:
+        batch_mode: If True, load batch prompt; otherwise load single-example prompt
+    """
+    if batch_mode:
+        prompt_file = Path(__file__).parent.parent / "prompts" / "create_training_example_batch.prompt.md"
+    else:
+        prompt_file = Path(__file__).parent.parent / "prompts" / "create_training_example.prompt.md"
+    
     with open(prompt_file, 'r', encoding='utf-8') as f:
         return f.read()
 
 
-def load_prompt_template_OLD() -> str:
-    """OLD: Load the prompt template with nested structure for comprehensive LLM structured output"""
-    return """You are a Turkish language expert. Create a complete training example with nested Turkish verb structure following the exact format below.
+def clean_llm_response(response_text: str) -> str:
+    """Clean LLM response by removing markdown code blocks and provider-specific tags.
+    
+    Args:
+        response_text: Raw response text from LLM
+    
+    Returns:
+        Cleaned response text with only the JSON content
+    """
+    response_text = response_text.strip()
+    
+    # Handle DeepSeek's <think> tags - extract content after </think>
+    if '<think>' in response_text and '</think>' in response_text:
+        think_end = response_text.find('</think>')
+        response_text = response_text[think_end + 8:].strip()
+    
+    # Strip markdown code block markers
+    if response_text.startswith('```json'):
+        response_text = response_text[7:]  # Remove ```json
+    elif response_text.startswith('```'):
+        response_text = response_text[3:]  # Remove ```
+    
+    if response_text.endswith('```'):
+        response_text = response_text[:-3]  # Remove trailing ```
+    
+    return response_text.strip()
 
-Parameters:
-- Verb (English): {verb_english}
-- Verb (Turkish infinitive): {verb_infinitive}
-- Tense: {verb_tense}
-- Pronoun: {personal_pronoun}
-- Level: {language_level}
 
-EXAMPLE FORMAT (for reference):
-For "to be" (olmak), şimdiki_zaman, ben, A1:
-{{
-  "verb_rank": 1,
-  "verb_english": "to be",
-  "verb_russian": "быть",
-  "verb_infinitive": "olmak",
-  "turkish_verb": {{
-    "verb_full": "oluyorum",
-    "root": "ol",
-    "tense_affix": "uyor",
-    "verb_tense": "şimdiki_zaman",
-    "personal_pronoun": "ben",
-    "personal_affix": "um"
-  }},
-  "language_level": "A1",
-  "english_example_sentence": "I am becoming happy.",
-  "russian_example_sentence": "Я становлюсь счастливым.",
-  "turkish_example_sentence": "Ben mutlu oluyorum."
-}}
+def validate_and_parse_response(
+    response_text: str,
+    batch_mode: bool = False
+) -> tuple[TrainingExample | BatchTrainingExamples, str | None]:
+    """Parse and validate LLM response against Pydantic schema.
+    
+    Args:
+        response_text: Cleaned response text (JSON string)
+        batch_mode: If True, validate against BatchTrainingExamples; otherwise TrainingExample
+    
+    Returns:
+        Tuple of (parsed_model, error_message)
+        - If successful: (model_instance, None)
+        - If failed: (None, error_message_string)
+    """
+    # Parse JSON
+    try:
+        json_data = json.loads(response_text)
+    except json.JSONDecodeError as e:
+        return None, f"Failed to parse JSON. Error: {e}\nResponse text: {response_text[:500]}"
+    
+    # Validate against Pydantic model
+    try:
+        if batch_mode:
+            model_instance = BatchTrainingExamples(**json_data)
+        else:
+            model_instance = TrainingExample(**json_data)
+        
+        return model_instance, None
+    except Exception as validation_error:
+        error_msg = (
+            f"Failed to validate JSON against {'BatchTrainingExamples' if batch_mode else 'TrainingExample'} schema.\n"
+            f"Error: {validation_error}\n"
+            f"JSON data: {json.dumps(json_data, indent=2, ensure_ascii=False)[:500]}"
+        )
+        return None, error_msg
 
-REQUIREMENTS:
-1. Correct Turkish verb conjugation following vowel harmony in the nested turkish_verb object
-2. Natural example sentences in English, Russian, and Turkish (4-8 words each)
-3. Use simple vocabulary appropriate for {language_level} level
-4. Turkish sentence should use natural word order (SOV when appropriate)
-5. All sentences should convey the same basic meaning
-6. Fill ALL required fields including the nested turkish_verb structure
 
-Generate a training example for the given parameters using this exact nested format."""
+def validate_batch_completeness(
+    batch: BatchTrainingExamples,
+    tense: VerbTense,
+    expected_polarities: list[VerbPolarity]
+) -> tuple[bool, str | None]:
+    """Validate that batch contains all required pronoun+polarity combinations.
+    
+    Args:
+        batch: BatchTrainingExamples instance to validate
+        tense: The verb tense being generated
+        expected_polarities: List of polarities that should be present
+    
+    Returns:
+        Tuple of (is_complete, error_message)
+        - If complete: (True, None)
+        - If incomplete: (False, error_message_string describing what's missing)
+    """
+    # Find the verb form info for this tense
+    verb_form = None
+    for vf in VERB_FORM_INFOS:
+        if vf.verb_tense == tense:
+            verb_form = vf
+            break
+    
+    if not verb_form:
+        # Can't validate without verb form info, assume valid
+        return True, None
+    
+    # Determine expected pronouns based on type_of_personal_pronoun
+    if verb_form.type_of_personal_pronoun is None:
+        # Participles/impersonal forms - expect 2 examples (positive, negative)
+        expected_count = len(expected_polarities)
+        if len(batch.examples) != expected_count:
+            return False, (
+                f"Expected {expected_count} examples (1 per polarity for impersonal form), "
+                f"but got {len(batch.examples)}"
+            )
+    elif verb_form.type_of_personal_pronoun == 3:
+        # Imperatives - expect 4 pronouns × polarities
+        expected_pronouns = [
+            PersonalPronoun.Sen,
+            PersonalPronoun.O_Third,
+            PersonalPronoun.Siz,
+            PersonalPronoun.Onlar
+        ]
+        expected_count = len(expected_pronouns) * len(expected_polarities)
+        
+        if len(batch.examples) != expected_count:
+            return False, (
+                f"Expected {expected_count} examples "
+                f"({len(expected_pronouns)} pronouns × {len(expected_polarities)} polarities), "
+                f"but got {len(batch.examples)}"
+            )
+        
+        # Check that all combinations are present
+        missing = []
+        for pronoun in expected_pronouns:
+            for polarity in expected_polarities:
+                found = any(
+                    ex.turkish_verb.personal_pronoun == pronoun and
+                    ex.turkish_verb.polarity == polarity
+                    for ex in batch.examples
+                )
+                if not found:
+                    missing.append(f"{pronoun.value}/{polarity.value}")
+        
+        if missing:
+            return False, f"Missing pronoun/polarity combinations: {', '.join(missing)}"
+    
+    else:
+        # Type 1 or 2: All pronouns - expect 6 pronouns × polarities
+        expected_pronouns = [
+            PersonalPronoun.Ben, PersonalPronoun.Sen,
+            PersonalPronoun.O_Third, PersonalPronoun.Biz,
+            PersonalPronoun.Siz, PersonalPronoun.Onlar
+        ]
+        expected_count = len(expected_pronouns) * len(expected_polarities)
+        
+        if len(batch.examples) != expected_count:
+            return False, (
+                f"Expected {expected_count} examples "
+                f"({len(expected_pronouns)} pronouns × {len(expected_polarities)} polarities), "
+                f"but got {len(batch.examples)}"
+            )
+        
+        # Check that all combinations are present
+        missing = []
+        for pronoun in expected_pronouns:
+            for polarity in expected_polarities:
+                found = any(
+                    ex.turkish_verb.personal_pronoun == pronoun and
+                    ex.turkish_verb.polarity == polarity
+                    for ex in batch.examples
+                )
+                if not found:
+                    missing.append(f"{pronoun.value}/{polarity.value}")
+        
+        if missing:
+            return False, f"Missing pronoun/polarity combinations: {', '.join(missing)}"
+    
+    return True, None
+
+
+def call_dial_api(
+    prompt_text: str,
+    config: dict,
+    provider: str,
+    conversation_history: list[dict] = None
+) -> tuple[str, int, int]:
+    """Make a request to DIAL API and return the response.
+    
+    Args:
+        prompt_text: The prompt to send (for first message) or None if using conversation_history
+        config: Configuration dictionary
+        provider: Provider name (openai, claude, gemini, deepseek)
+        conversation_history: Optional conversation history for retry logic
+    
+    Returns:
+        Tuple of (response_text, prompt_tokens, completion_tokens)
+    
+    Raises:
+        ValueError: If API request fails or configuration is invalid
+    """
+    # Get DIAL API configuration
+    api_key = os.getenv('DIAL_API_KEY')
+    if not api_key:
+        raise ValueError("Please set DIAL_API_KEY in your environment variables")
+    
+    # Get model ID based on provider
+    dial_config = config.get('DIAL_API', {})
+    provider_model_map = {
+        'openai': dial_config.get('OPENAI_MODEL_NAME', 'gpt-4o-mini-2024-07-18'),
+        'claude': dial_config.get('CLOUD_MODEL_NAME', 'anthropic.claude-haiku-4-5-20251001-v1:0'),
+        'gemini': dial_config.get('GEMINI_MODEL_NAME', 'gemini-2.5-flash'),
+        'deepseek': dial_config.get('DEEP_SEEK_MODEL_NAME', 'deepseek-r1')
+    }
+    
+    model_id = provider_model_map.get(provider, provider_model_map['openai'])
+    model_name = f"{provider.upper()} - {model_id}"
+    
+    # Build DIAL API URL
+    api_url_template = dial_config.get('DIAL_API_ENDPOINT')
+    if not api_url_template:
+        raise ValueError("DIAL_API_ENDPOINT not found in config.toml")
+    api_url = api_url_template.format(model_id=model_id)
+    
+    # Prepare messages
+    if conversation_history:
+        messages = conversation_history
+    else:
+        messages = [{"role": "user", "content": prompt_text}]
+    
+    # Prepare DIAL API request
+    headers = {
+        "Api-Key": api_key,
+        "Content-Type": "application/json"
+    }
+    
+    payload = {
+        "messages": messages,
+        "temperature": config['generation']['temperature'],
+        "max_tokens": config['generation'].get('max_output_tokens', 8192),
+        "stream": False
+    }
+    
+    # Track start time
+    start_time = time.time()
+    error_msg = None
+    prompt_tokens = 0
+    completion_tokens = 0
+    
+    try:
+        # Make API request
+        response = requests.post(api_url, headers=headers, json=payload, timeout=300)
+        
+        # Calculate duration
+        duration = time.time() - start_time
+        
+        # Check for successful response
+        if response.status_code != 200:
+            error_msg = f"Status {response.status_code}: {response.text}"
+            llm_call_logger.log_call(model_name, 0, 0, duration, error_msg)
+            raise ValueError(
+                f"DIAL API request failed. Status: {response.status_code}, "
+                f"Response: {response.text}"
+            )
+        
+        data = response.json()
+        
+        # Extract response content
+        if 'choices' not in data or len(data['choices']) == 0:
+            error_msg = "No choices in DIAL API response"
+            llm_call_logger.log_call(model_name, 0, 0, duration, error_msg)
+            raise ValueError("No choices in DIAL API response")
+        
+        response_text = data['choices'][0]['message']['content']
+        
+        # Extract token usage
+        usage = data.get('usage', {})
+        prompt_tokens = usage.get('prompt_tokens', 0)
+        completion_tokens = usage.get('completion_tokens', 0)
+        
+        # FAIL if we don't have accurate token counts
+        if prompt_tokens == 0 or completion_tokens == 0:
+            error_msg = f"No token usage: prompt={prompt_tokens}, completion={completion_tokens}"
+            llm_call_logger.log_call(model_name, prompt_tokens, completion_tokens, duration, error_msg)
+            raise ValueError(
+                f"Failed to get token usage from DIAL API response. "
+                f"Got prompt_tokens={prompt_tokens}, completion_tokens={completion_tokens}."
+            )
+        
+        # Log successful call
+        llm_call_logger.log_call(model_name, prompt_tokens, completion_tokens, duration)
+        
+        return response_text, prompt_tokens, completion_tokens
+    
+    except Exception as e:
+        # Log failed call if we haven't already
+        duration = time.time() - start_time
+        if error_msg is None:
+            error_msg = str(e)
+            llm_call_logger.log_call(model_name, prompt_tokens, completion_tokens, duration, error_msg)
+        raise
 
 
 def generate_training_example(
     verb: VerbData,
     tense: VerbTense,
-    pronoun: Optional[PersonalPronoun],
-    polarity: VerbPolarity,
-    prompt_template_str: str,
-    language_level: LanguageLevel,
-    config: dict,
-    provider: str = "gemini",
+    pronoun: Optional[PersonalPronoun] = None,
+    polarity: Optional[VerbPolarity] = None,
+    language_level: LanguageLevel = LanguageLevel.A1,
+    config: Optional[dict] = None,
+    provider: str = "openai",
     rate_limiter: Optional[RateLimiter] = None,
     max_retries: int = 3
-) -> Tuple[Optional[TrainingExample], int, int]:
-    """Generate a training example using LangChain with configurable LLM provider
+) -> Tuple[List[TrainingExample], int, int]:
+    """Generate training examples using DIAL API.
+    
+    This function works in two modes:
+    1. **Single mode**: If pronoun AND polarity are specified, generates one example
+    2. **Batch mode**: If pronoun OR polarity is None, generates all pronoun×polarity combinations
     
     Args:
         verb: Verb data from CSV
         tense: Verb tense to use
-        pronoun: Personal pronoun (optional)
-        polarity: Verb polarity (positive/negative)
-        prompt_template_str: Prompt template string
+        pronoun: Personal pronoun (None = batch mode for all pronouns)
+        polarity: Verb polarity (None = batch mode for all polarities)
         language_level: Language level for examples
-        config: Configuration dictionary
-        provider: LLM provider to use ("gemini" or "azure")
+        config: Configuration dictionary (will be loaded if None)
+        provider: LLM provider to use (openai, claude, gemini, deepseek)
         rate_limiter: Optional rate limiter to control request frequency
-        max_retries: Maximum number of retries on rate limit errors
+        max_retries: Maximum number of retries on validation errors
     
     Returns:
-        Tuple of (TrainingExample or None, prompt_tokens, completion_tokens)
+        Tuple of (List[TrainingExample], prompt_tokens, completion_tokens)
+        - Single mode: Returns list with 1 example
+        - Batch mode: Returns list with multiple examples (2-12 depending on verb form)
     """
-    
     def extract_retry_delay(error_message: str) -> int:
-        """Extract retry delay in seconds from error message
-        
-        Parses error messages like:
-        retry_delay { seconds: 23 }
-        
-        Returns:
-            Retry delay in seconds, or 60 as default
-        """
+        """Extract retry delay in seconds from error message"""
         match = re.search(r'retry_delay\s*{\s*seconds:\s*(\d+)', str(error_message))
         if match:
             return int(match.group(1))
-        return 60  # Default to 60 seconds if can't parse
+        return 60
     
-    # Retry loop
+    # Load config if not provided
+    if config is None:
+        config = load_config()
+        if not config:
+            raise ValueError("Failed to load configuration")
+    
+    # Determine mode: batch if pronoun OR polarity is None
+    batch_mode = (pronoun is None or polarity is None)
+    
+    # Determine expected polarities for batch mode
+    if batch_mode:
+        expected_polarities = [VerbPolarity.Positive, VerbPolarity.Negative]
+    else:
+        expected_polarities = [polarity]
+    
+    # Load appropriate prompt template
+    prompt_template_str = load_prompt_template(batch_mode=batch_mode)
+    
+    # Build prompt from template
+    json_schema = get_json_schema_for_prompt(batch_mode=batch_mode)
+    grammar_rules = get_grammar_rules_for_tense(tense, language="english")
+    
+    if batch_mode:
+        # Batch mode: get pronoun requirements dynamically
+        pronoun_requirements = get_pronoun_requirements_for_tense(tense, VerbPolarity.Positive)
+        
+        prompt_text = prompt_template_str.format(
+            json_schema=json_schema,
+            grammar_rules=grammar_rules,
+            pronoun_requirements=pronoun_requirements,
+            verb_english=verb.english,
+            verb_infinitive=verb.turkish,
+            verb_tense=tense.value,
+            language_level=language_level.value
+        )
+    else:
+        # Single mode: specify pronoun and polarity
+        prompt_text = prompt_template_str.format(
+            json_schema=json_schema,
+            grammar_rules=grammar_rules,
+            verb_english=verb.english,
+            verb_infinitive=verb.turkish,
+            verb_tense=tense.value,
+            personal_pronoun=pronoun.value,
+            language_level=language_level.value,
+            polarity=polarity.value
+        )
+    
+    conversation_history = None
+    total_prompt_tokens = 0
+    total_completion_tokens = 0
+    
+    # Retry loop for validation errors
     for attempt in range(max_retries + 1):
         try:
-            # Apply rate limiting if configured
+            # Apply rate limiting
             if rate_limiter:
                 rate_limiter.wait_if_needed()
             
-            # Initialize LLM based on provider
-            if provider == "azure":
-                # Use Azure OpenAI
-                azure_config = config['azure_model']
-                api_key = os.getenv('AZURE_OPENAI_API_KEY')
-                if not api_key:
-                    raise ValueError("Please set AZURE_OPENAI_API_KEY in your environment variables")
-                
-                llm = AzureChatOpenAI(
-                    api_key=api_key,
-                    api_version=azure_config['OPENAI_API_VERSION'],
-                    azure_endpoint=azure_config['AZURE_OPENAI_ENDPOINT'],
-                    model=azure_config['MODEL_NAME'],
-                    temperature=config['generation']['temperature'],
-                    max_retries=0,  # Don't retry on rate limits - we handle it
-                )
-            else:  # gemini (AI Studio API)
-                # Use Google Gemini AI Studio API
-                api_key = os.getenv('GEMINI_API_KEY')
-                if not api_key:
-                    raise ValueError("Please set GEMINI_API_KEY in your environment variables")
-                
-                llm = ChatGoogleGenerativeAI(
-                    model=config['model']['name'],
-                    google_api_key=api_key,
-                    temperature=config['generation']['temperature'],
-                    max_output_tokens=config['generation']['max_output_tokens'],
-                    max_retries=0,  # Don't retry on rate limits - we handle it
-                )
-            
-            # Use structured output with Pydantic model
-            structured_llm = llm.with_structured_output(TrainingExample)
-            
-            # Create prompt template
-            prompt = PromptTemplate(
-                input_variables=[
-                    "verb_english", "verb_infinitive", "verb_tense",
-                    "personal_pronoun", "language_level", "polarity"
-                ],
-                template=prompt_template_str
-            )
-            
-            # Generate structured response
-            chain = prompt | structured_llm
-            
-            # Prepare prompt inputs
-            prompt_inputs = {
-                "verb_english": verb.english,
-                "verb_infinitive": verb.turkish,
-                "verb_tense": tense.value,
-                "personal_pronoun": pronoun.value if pronoun else "None",
-                "language_level": language_level.value,
-                "polarity": polarity.value
-            }
-            
-            # Generate structured response
+            # Call DIAL API
             try:
-                # Create callback to capture token usage from the base LLM call
-                token_callback = TokenUsageCallback()
+                response_text, prompt_tokens, completion_tokens = call_dial_api(
+                    prompt_text if conversation_history is None else None,
+                    config,
+                    provider,
+                    conversation_history
+                )
                 
-                # Configure callbacks for BOTH the base LLM and structured wrapper
-                config_with_callbacks = {"callbacks": [token_callback]}
+                total_prompt_tokens += prompt_tokens
+                total_completion_tokens += completion_tokens
                 
-                # Use structured chain with callback
-                result = chain.invoke(prompt_inputs, config=config_with_callbacks)
-                
-                # Get token usage from callback
-                prompt_tokens = token_callback.prompt_tokens
-                completion_tokens = token_callback.completion_tokens
-                
-                # FAIL if we don't have accurate token counts
-                if prompt_tokens == 0 or completion_tokens == 0:
-                    raise ValueError(
-                        f"Failed to capture accurate token usage from LLM response. "
-                        f"Got prompt_tokens={prompt_tokens}, completion_tokens={completion_tokens}. "
-                        f"Pipeline requires accurate token tracking and will not use estimates."
-                    )
-                
-                # Check if structured output returned valid result
-                if result is not None and hasattr(result, 'verb_english'):
-                    # Override verb_rank and verb_russian with actual values from CSV
-                    result.verb_rank = verb.rank
-                    result.verb_russian = verb.russian
-                    
-                    return result, prompt_tokens, completion_tokens
-                else:
-                    raise ValueError(
-                        "Structured output returned None - "
-                        "model may have failed to generate proper response"
-                    )
-                    
-            except Exception as generation_error:
-                # Check if this is a rate limit error (429)
-                error_str = str(generation_error)
-                
-                # Check for daily quota limit - this is fatal and should not retry
-                if 'GenerateRequestsPerDayPerProjectPerModel' in error_str or \
-                   'generate_requests_per_model_per_day' in error_str.lower():
-                    print(f"   ❌ FATAL: Daily quota limit reached!")
-                    print(f"   📊 You've hit the Gemini API daily quota limit.")
-                    print(f"   💡 Wait 24 hours or upgrade to paid tier for higher limits.")
-                    # Re-raise as fatal error to stop the pipeline
-                    raise RuntimeError(
-                        "Daily quota limit reached. Cannot continue. "
-                        "Wait 24 hours or upgrade to paid tier."
-                    ) from generation_error
-                
-                if '429' in error_str or 'RateLimitReached' in error_str or 'rate limit' in error_str.lower():
+            except requests.exceptions.RequestException as req_error:
+                # Handle rate limit errors
+                error_str = str(req_error)
+                if '429' in error_str or 'rate limit' in error_str.lower():
                     if attempt < max_retries:
-                        # Extract retry delay from error message
                         retry_delay = extract_retry_delay(error_str)
                         print(f"   ⚠️  Rate limit hit (attempt {attempt + 1}/{max_retries + 1})")
-                        
-                        # Use rate limiter to wait for the specified delay
                         if rate_limiter:
                             rate_limiter.handle_rate_limit_error(retry_delay)
                         else:
                             print(f"   ⏳ Waiting {retry_delay}s before retry...")
                             time.sleep(retry_delay)
+                        continue
+                # Re-raise other network errors
+                raise req_error
+            
+            # Clean LLM response
+            cleaned_response = clean_llm_response(response_text)
+            
+            # Validate and parse
+            result, error_msg = validate_and_parse_response(cleaned_response, batch_mode=batch_mode)
+            
+            if result is None:
+                # Validation failed
+                if attempt < max_retries:
+                    print(f"   ⚠️  Validation failed (attempt {attempt + 1}/{max_retries + 1}): {error_msg[:100]}")
+                    
+                    # Build conversation history for retry with error feedback
+                    if conversation_history is None:
+                        conversation_history = [
+                            {"role": "user", "content": prompt_text},
+                            {"role": "assistant", "content": response_text}
+                        ]
+                    else:
+                        conversation_history.append({"role": "assistant", "content": response_text})
+                    
+                    # Add error feedback
+                    feedback_message = (
+                        f"The previous response failed validation:\n\n{error_msg}\n\n"
+                        f"Please fix the issues and provide a corrected JSON response."
+                    )
+                    conversation_history.append({"role": "user", "content": feedback_message})
+                    
+                    continue
+                else:
+                    # Max retries reached
+                    print(f"   ❌ Max retries ({max_retries}) reached for validation")
+                    raise ValueError(f"Validation failed after {max_retries} retries: {error_msg}")
+            
+            # Handle batch mode: validate completeness
+            if batch_mode:
+                is_complete, completeness_error = validate_batch_completeness(
+                    result,
+                    tense,
+                    expected_polarities
+                )
+                
+                if not is_complete:
+                    # Batch incomplete
+                    if attempt < max_retries:
+                        print(f"   ⚠️  Batch incomplete (attempt {attempt + 1}/{max_retries + 1}): {completeness_error}")
                         
-                        # Continue to next retry attempt
+                        # Build conversation history for retry with error feedback
+                        if conversation_history is None:
+                            conversation_history = [
+                                {"role": "user", "content": prompt_text},
+                                {"role": "assistant", "content": response_text}
+                            ]
+                        else:
+                            conversation_history.append({"role": "assistant", "content": response_text})
+                        
+                        # Add completeness feedback
+                        feedback_message = (
+                            f"The batch is incomplete:\n\n{completeness_error}\n\n"
+                            f"Please provide ALL required examples in your corrected JSON response."
+                        )
+                        conversation_history.append({"role": "user", "content": feedback_message})
+                        
                         continue
                     else:
                         # Max retries reached
-                        print(f"   ❌ Max retries ({max_retries}) reached for rate limit")
-                        raise generation_error
-                else:
-                    # Not a rate limit error, print and re-raise
-                    print(f"   ❌ Generation error: {str(generation_error)[:200]}")
-                    raise generation_error
+                        print(f"   ❌ Max retries ({max_retries}) reached for completeness check")
+                        raise ValueError(f"Batch incomplete after {max_retries} retries: {completeness_error}")
+                
+                # Success! Override verb_rank and verb_russian in all examples
+                for example in result.examples:
+                    example.verb_rank = verb.rank
+                    example.verb_russian = verb.russian
+                
+                return result.examples, total_prompt_tokens, total_completion_tokens
+            else:
+                # Single mode: return list with one example
+                result.verb_rank = verb.rank
+                result.verb_russian = verb.russian
+                
+                return [result], total_prompt_tokens, total_completion_tokens
             
         except Exception as outer_error:
-            # Catch errors from LLM initialization or other setup
+            # Handle fatal errors
             error_str = str(outer_error)
             
-            # Check for daily quota limit - this is fatal and should not retry
+            # Check for daily quota limit
             if 'GenerateRequestsPerDayPerProjectPerModel' in error_str or \
                'generate_requests_per_model_per_day' in error_str.lower():
                 print("   ❌ FATAL: Daily quota limit reached!")
-                print("   📊 You've hit the Gemini API daily quota limit.")
-                print("   💡 Wait 24 hours or upgrade to paid tier for higher limits.")
-                # Re-raise as fatal error to stop the pipeline
-                raise RuntimeError(
-                    "Daily quota limit reached. Cannot continue. "
-                    "Wait 24 hours or upgrade to paid tier."
-                ) from outer_error
+                raise RuntimeError("Daily quota limit reached. Cannot continue.") from outer_error
             
+            # Check for rate limit during setup
             if '429' in error_str or 'RateLimitReached' in error_str or 'rate limit' in error_str.lower():
                 if attempt < max_retries:
-                    # Extract retry delay from error message
                     retry_delay = extract_retry_delay(error_str)
                     print(f"   ⚠️  Rate limit hit during setup (attempt {attempt + 1}/{max_retries + 1})")
-                    
-                    # Use rate limiter to wait for the specified delay
                     if rate_limiter:
                         rate_limiter.handle_rate_limit_error(retry_delay)
                     else:
                         print(f"   ⏳ Waiting {retry_delay}s before retry...")
                         time.sleep(retry_delay)
-                    
-                    # Continue to next retry attempt
                     continue
-                else:
-                    # Max retries reached
-                    print(f"   ❌ Max retries ({max_retries}) reached")
-                    # Fall through to final error handling
             
-            # Not a rate limit error or max retries reached
-            # Check if this is a daily quota error - if so, re-raise to stop pipeline
+            # Fatal error - stop the pipeline
             if isinstance(outer_error, RuntimeError) and 'Daily quota limit' in str(outer_error):
-                print("\n❌ FATAL ERROR: Daily quota limit reached. Stopping pipeline.")
                 raise outer_error
             
-            # For any other error, this is a fatal failure - stop the pipeline
-            print(f"\n❌ FATAL ERROR generating example for {verb.english} "
-                  f"({tense.value}, {pronoun})")
+            mode_desc = "batch" if batch_mode else f"example ({pronoun.value}, {polarity.value})"
+            print(f"\n❌ FATAL ERROR generating {mode_desc} for {verb.english} ({tense.value})")
             print(f"Error details: {outer_error}")
-            print("\n🛑 Stopping pipeline due to fatal error.\n")
-            raise outer_error  # Re-raise to stop the pipeline
+            raise outer_error
     
     # Should never reach here
-    return None, 0, 0
+    return [], 0, 0
 
 
 def save_training_example(example: TrainingExample, output_dir: Path, polarity: VerbPolarity) -> Path:
@@ -741,16 +1301,21 @@ def main(
     
     # Determine provider
     if provider is None:
-        provider = config.get('provider', {}).get('default', 'gemini')
+        provider = config.get('DIAL_API', {}).get('DEFAULT_PROVIDER', 'openai')
     
-    # Ensure provider is valid
-    assert provider in ['gemini', 'azure'], f"Invalid provider: {provider}. Must be 'gemini' or 'azure'"
+    # Ensure provider is valid (DIAL API supports multiple providers)
+    valid_providers = ['openai', 'claude', 'gemini', 'deepseek']
+    assert provider in valid_providers, f"Invalid provider: {provider}. Must be one of {valid_providers}"
     
     # Get model name for logging
-    if provider == "azure":
-        model_name = f"Azure OpenAI - {config['azure_model']['MODEL_NAME']}"
-    else:
-        model_name = f"Google Gemini - {config['model']['name']}"
+    dial_config = config.get('DIAL_API', {})
+    provider_model_map = {
+        'openai': dial_config.get('OPENAI_MODEL_NAME', 'gpt-4o-mini-2024-07-18'),
+        'claude': dial_config.get('CLOUD_MODEL_NAME', 'anthropic.claude-haiku-4-5-20251001-v1:0'),
+        'gemini': dial_config.get('GEMINI_MODEL_NAME', 'gemini-2.5-flash'),
+        'deepseek': dial_config.get('DEEP_SEEK_MODEL_NAME', 'deepseek-r1')
+    }
+    model_name = f"{provider.upper()} - {provider_model_map.get(provider, 'unknown')}"
     
     # Initialize logger
     project_root = Path(__file__).parent.parent
@@ -770,6 +1335,10 @@ def main(
     
     pipeline_logger.initialize(log_dir, logger_args, model_name)
     print(f"📝 Logging to: {pipeline_logger.log_file}")
+    
+    # Initialize LLM call logger
+    llm_call_logger.initialize(log_dir)
+    print(f"📝 LLM calls logging to: {llm_call_logger.log_file}")
     
     # Display model information
     print(f"🤖 Using model: {model_name}")
@@ -843,7 +1412,7 @@ def main(
         if tenses and tense.value not in tenses:
             continue
         # Filter by pronoun
-        if pronouns and pronoun.value not in pronouns:
+        if pronouns and (pronoun is None or pronoun.value not in pronouns):
             continue
         # Filter by polarity
         if polarities and polarity.value not in polarities:
@@ -853,9 +1422,21 @@ def main(
     combinations = filtered_combinations
     print(f"Generated {len(combinations)} combinations (after filtering)")
     
-    # Load prompt template
-    print("Loading prompt template...")
-    prompt_template = load_prompt_template()
+    # Determine generation mode based on filters
+    use_batch_mode = (pronouns is None and polarities is None)
+    
+    if use_batch_mode:
+        print("🚀 Using BATCH mode (generating all pronoun×polarity combinations per verb+tense)")
+        
+        # Group combinations by verb+tense for batch processing
+        from collections import defaultdict
+        verb_tense_groups = defaultdict(list)
+        for verb, tense, pronoun, polarity in combinations:
+            verb_tense_groups[(verb, tense)].append((pronoun, polarity))
+        
+        print(f"   → {len(verb_tense_groups)} unique verb+tense combinations")
+    else:
+        print("📝 Using SINGLE mode (generating individual examples)")
     
     # Generate training examples
     print("Generating training examples...")
@@ -872,78 +1453,157 @@ def main(
     verb_example_count = 0
     
     try:
-        for i, (verb, tense, pronoun, polarity) in enumerate(combinations):
-            # Check if we're starting a new verb
-            if current_verb is None:
-                current_verb = verb.english
-            elif current_verb != verb.english:
-                # Print statistics for the previous verb
-                verb_total = verb_prompt_tokens + verb_completion_tokens
-                print(f"\n   📊 Verb '{current_verb}' complete: {verb_example_count} examples, "
-                      f"{verb_total:,} tokens ({verb_prompt_tokens:,} in + {verb_completion_tokens:,} out)")
-                # Write verb summary to log
-                pipeline_logger.write_verb_summary(current_verb, verb_example_count,
-                                                   verb_prompt_tokens, verb_completion_tokens)
-                # Reset for new verb
-                current_verb = verb.english
-                verb_prompt_tokens = 0
-                verb_completion_tokens = 0
-                verb_example_count = 0
-            
-            polarity_str = polarity.value
-            print(f"\nProcessing {i+1}/{len(combinations)}: {verb.english} "
-                  f"({tense.value}, {pronoun}, {polarity_str})")
-            
-            # Check if file already exists and skip if requested
-            if skip_existing and check_example_exists(verb, tense, pronoun, polarity, output_dir):
-                print("   ⏭️  Skipping (file already exists)")
-                skipped_existing_count += 1
-                pipeline_logger.increment_skipped()
-                continue
-            
-            # Track time for this file generation
-            file_start_time = time.time()
-            
-            example, prompt_tokens, completion_tokens = generate_training_example(
-                verb, tense, pronoun, polarity, prompt_template, level, config, provider, rate_limiter
-            )
-            
-            file_duration = time.time() - file_start_time
-            
-            # Track token usage (total and per-verb)
-            total_prompt_tokens += prompt_tokens
-            total_completion_tokens += completion_tokens
-            verb_prompt_tokens += prompt_tokens
-            verb_completion_tokens += completion_tokens
-            
-            # Skip if generation failed
-            if example is None:
-                skipped_count += 1
-                pipeline_logger.increment_skipped()
-                continue
-            # With fail-fast approach, example should never be None
-            # But keeping this check for safety
-            if example:
-                file_path = save_training_example(example, output_dir, polarity)
+        if use_batch_mode:
+            # BATCH MODE: Process by verb+tense groups
+            for batch_idx, ((verb, tense), pronoun_polarity_list) in enumerate(verb_tense_groups.items()):
+                # Check if we're starting a new verb
+                if current_verb is None:
+                    current_verb = verb.english
+                elif current_verb != verb.english:
+                    # Print statistics for the previous verb
+                    verb_total = verb_prompt_tokens + verb_completion_tokens
+                    print(f"\n   📊 Verb '{current_verb}' complete: {verb_example_count} examples, "
+                          f"{verb_total:,} tokens ({verb_prompt_tokens:,} in + {verb_completion_tokens:,} out)")
+                    # Write verb summary to log
+                    pipeline_logger.write_verb_summary(current_verb, verb_example_count,
+                                                       verb_prompt_tokens, verb_completion_tokens)
+                    # Reset for new verb
+                    current_verb = verb.english
+                    verb_prompt_tokens = 0
+                    verb_completion_tokens = 0
+                    verb_example_count = 0
+                
+                print(f"\nBatch {batch_idx+1}/{len(verb_tense_groups)}: {verb.english} ({tense.value})")
+                print(f"   Expected: {len(pronoun_polarity_list)} examples")
+                
+                # Check if all files in this batch already exist
+                if skip_existing:
+                    all_exist = all(
+                        check_example_exists(verb, tense, p, pol, output_dir)
+                        for p, pol in pronoun_polarity_list
+                    )
+                    if all_exist:
+                        print(f"   ⏭️  Skipping batch (all {len(pronoun_polarity_list)} files already exist)")
+                        skipped_existing_count += len(pronoun_polarity_list)
+                        pipeline_logger.increment_skipped()
+                        continue
+                
+                # Track time for this batch generation
+                batch_start_time = time.time()
+                
+                # Generate batch (pronoun=None, polarity=None triggers batch mode)
+                examples_list, prompt_tokens, completion_tokens = generate_training_example(
+                    verb, tense,
+                    pronoun=None,  # Batch mode
+                    polarity=None,  # Batch mode
+                    language_level=level,
+                    config=config,
+                    provider=provider,
+                    rate_limiter=rate_limiter
+                )
+                
+                batch_duration = time.time() - batch_start_time
+                
+                # Track token usage (total and per-verb)
+                total_prompt_tokens += prompt_tokens
+                total_completion_tokens += completion_tokens
+                verb_prompt_tokens += prompt_tokens
+                verb_completion_tokens += completion_tokens
+                
+                # Save each example from the batch
+                batch_generated = 0
+                for example in examples_list:
+                    # Determine polarity for filename
+                    polarity = example.turkish_verb.polarity
+                    
+                    file_path = save_training_example(example, output_dir, polarity)
+                    batch_generated += 1
+                    verb_example_count += 1
+                
+                generated_count += batch_generated
+                
+                # Update logger
+                pipeline_logger.update_stats(prompt_tokens, completion_tokens, verb.english,
+                                             batch_duration, generated=True)
+                
+                # Show statistics
                 total_tokens = prompt_tokens + completion_tokens
                 cumulative = total_prompt_tokens + total_completion_tokens
-                print(f"   ✅ Saved to: {file_path}")
-                print(f"      ({total_tokens:,} tokens | {file_duration:.2f}s | "
-                      f"cumulative: {cumulative:,} tokens)")
-                generated_count += 1
-                verb_example_count += 1
+                tokens_per_example = total_tokens // len(examples_list) if examples_list else 0
+                print(f"   ✅ Generated {batch_generated} examples in {batch_duration:.2f}s")
+                print(f"      {total_tokens:,} tokens (~{tokens_per_example:,} per example)")
+                print(f"      Cumulative: {cumulative:,} tokens")
+        
+        else:
+            # SINGLE MODE: Process each combination individually
+            for i, (verb, tense, pronoun, polarity) in enumerate(combinations):
+                # Check if we're starting a new verb
+                if current_verb is None:
+                    current_verb = verb.english
+                elif current_verb != verb.english:
+                    # Print statistics for the previous verb
+                    verb_total = verb_prompt_tokens + verb_completion_tokens
+                    print(f"\n   📊 Verb '{current_verb}' complete: {verb_example_count} examples, "
+                          f"{verb_total:,} tokens ({verb_prompt_tokens:,} in + {verb_completion_tokens:,} out)")
+                    # Write verb summary to log
+                    pipeline_logger.write_verb_summary(current_verb, verb_example_count,
+                                                       verb_prompt_tokens, verb_completion_tokens)
+                    # Reset for new verb
+                    current_verb = verb.english
+                    verb_prompt_tokens = 0
+                    verb_completion_tokens = 0
+                    verb_example_count = 0
                 
-                # Update logger with token usage, duration, and verb info
-                pipeline_logger.update_stats(prompt_tokens, completion_tokens, verb.english,
-                                             file_duration, generated=True)
+                polarity_str = polarity.value
+                print(f"\nProcessing {i+1}/{len(combinations)}: {verb.english} "
+                      f"({tense.value}, {pronoun.value if pronoun else 'none'}, {polarity_str})")
                 
-                # Show token count for this example and cumulative total
-                example_total = prompt_tokens + completion_tokens
-                cumulative_total = total_prompt_tokens + total_completion_tokens
-                print(f"   ✅ Saved ({example_total:,} tokens | cumulative: {cumulative_total:,} tokens)")
-            else:
-                print("❌ Unexpected: got None example without exception")
-                break
+                # Check if file already exists and skip if requested
+                if skip_existing and check_example_exists(verb, tense, pronoun, polarity, output_dir):
+                    print("   ⏭️  Skipping (file already exists)")
+                    skipped_existing_count += 1
+                    pipeline_logger.increment_skipped()
+                    continue
+                
+                # Track time for this file generation
+                file_start_time = time.time()
+                
+                # Generate single example (returns list with 1 item)
+                examples_list, prompt_tokens, completion_tokens = generate_training_example(
+                    verb, tense, pronoun, polarity,
+                    language_level=level,
+                    config=config,
+                    provider=provider,
+                    rate_limiter=rate_limiter
+                )
+                
+                file_duration = time.time() - file_start_time
+                
+                # Track token usage (total and per-verb)
+                total_prompt_tokens += prompt_tokens
+                total_completion_tokens += completion_tokens
+                verb_prompt_tokens += prompt_tokens
+                verb_completion_tokens += completion_tokens
+                
+                # Save the example (list should have 1 item)
+                if examples_list and len(examples_list) > 0:
+                    example = examples_list[0]
+                    file_path = save_training_example(example, output_dir, polarity)
+                    total_tokens = prompt_tokens + completion_tokens
+                    cumulative = total_prompt_tokens + total_completion_tokens
+                    print(f"   ✅ Saved to: {file_path}")
+                    print(f"      ({total_tokens:,} tokens | {file_duration:.2f}s | "
+                          f"cumulative: {cumulative:,} tokens)")
+                    generated_count += 1
+                    verb_example_count += 1
+                    
+                    # Update logger with token usage, duration, and verb info
+                    pipeline_logger.update_stats(prompt_tokens, completion_tokens, verb.english,
+                                                 file_duration, generated=True)
+                else:
+                    print("❌ Unexpected: got empty examples list")
+                    skipped_count += 1
+                    pipeline_logger.increment_skipped()
         
         # Print statistics for the last verb
         if current_verb and verb_example_count > 0:
