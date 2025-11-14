@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "çalışmayacaksınız",
     "root": "çalış",
-    "tense_affix": "yacak",
+    "tense_affix": "acak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "ınız",
+    "personal_affix": "sınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You will not work tomorrow.",
-  "russian_example_sentence": "Вы не будете работать завтра.",
-  "turkish_example_sentence": "Siz yarın çalışmayacaksınız.",
-  "turkish_example_sentence_with_blank": "Siz yarın ______."
+  "english_example_sentence": "You will not work on the difficult assignment",
+  "russian_example_sentence": "Вы не будете работать над сложным заданием",
+  "turkish_example_sentence": "Siz zor görevde çalışmayacaksınız",
+  "turkish_example_sentence_with_blank": "Siz zor görevde ______"
 }

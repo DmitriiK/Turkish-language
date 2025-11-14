@@ -4,17 +4,17 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulmuyoruz",
+    "verb_full": "bulmuyor",
     "root": "bul",
     "tense_affix": "uyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "uz",
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "m"
   },
-  "english_example_sentence": "We are not finding the book.",
-  "russian_example_sentence": "Мы не находим книгу.",
-  "turkish_example_sentence": "Biz kitabı bulmuyoruz.",
-  "turkish_example_sentence_with_blank": "Biz kitabı ______."
+  "english_example_sentence": "We are not finding the correct answer to this difficult problem",
+  "russian_example_sentence": "Мы не находим правильный ответ на эту сложную задачу",
+  "turkish_example_sentence": "Biz bu zor sorunun doğru cevabını bulmuyor",
+  "turkish_example_sentence_with_blank": "Biz bu zor sorunun doğru cevabını ______"
 }

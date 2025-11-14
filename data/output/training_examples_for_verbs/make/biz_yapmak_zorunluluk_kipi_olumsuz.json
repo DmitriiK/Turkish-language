@@ -1,0 +1,20 @@
+{
+  "verb_rank": 7,
+  "verb_english": "make",
+  "verb_russian": "делать (создавать)",
+  "verb_infinitive": "yapmak",
+  "turkish_verb": {
+    "verb_full": "yapmamalıyız",
+    "root": "yap",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "yız",
+    "polarity": "negative",
+    "negative_affix": "mama"
+  },
+  "english_example_sentence": "We must not make careless errors in calculations",
+  "russian_example_sentence": "Мы не должны делать небрежные ошибки в расчетах",
+  "turkish_example_sentence": "Biz hesaplamalarda dikkatsiz hatalar yapmamalıyız",
+  "turkish_example_sentence_with_blank": "Biz hesaplamalarda dikkatsiz hatalar ______"
+}

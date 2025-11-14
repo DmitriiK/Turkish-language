@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "olmanız lazım",
     "root": "ol",
-    "tense_affix": "ma",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to be happy",
-  "russian_example_sentence": "Вам нужно быть счастливым",
-  "turkish_example_sentence": "Siz mutlu olmanız lazım",
-  "turkish_example_sentence_with_blank": "Siz mutlu ______"
+  "english_example_sentence": "You must be prepared for the important meeting",
+  "russian_example_sentence": "Вы должны быть готовы к важной встрече",
+  "turkish_example_sentence": "Siz önemli toplantı için hazır olmanız lazım",
+  "turkish_example_sentence_with_blank": "Siz önemli toplantı için hazır ______"
 }

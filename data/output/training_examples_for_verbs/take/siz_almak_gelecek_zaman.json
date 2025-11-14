@@ -4,17 +4,17 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "alacağım",
+    "verb_full": "alacaksınız",
     "root": "al",
     "tense_affix": "acak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "ınız",
+    "personal_affix": "sınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You will take the important book.",
-  "russian_example_sentence": "Вы возьмете важную книгу.",
-  "turkish_example_sentence": "Siz önemli kitabı alacaksınız.",
-  "turkish_example_sentence_with_blank": "Siz önemli kitabı alacaksınız."
+  "english_example_sentence": "You will take the fresh bread from the bakery",
+  "russian_example_sentence": "Вы возьмёте свежий хлеб из пекарни",
+  "turkish_example_sentence": "Siz fırından taze ekmeği alacaksınız",
+  "turkish_example_sentence_with_blank": "Siz fırından taze ekmeği ______"
 }

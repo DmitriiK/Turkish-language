@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "istemeyecek",
     "root": "iste",
-    "tense_affix": "yacak",
+    "tense_affix": "yecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "cek",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "She will not want to go.",
-  "russian_example_sentence": "Она не захочет идти.",
-  "turkish_example_sentence": "O bu akşam sinemaya gitmek istemeyecek.",
-  "turkish_example_sentence_with_blank": "O bu akşam sinemaya gitmek ______."
+  "english_example_sentence": "He will not want boring old movies anymore",
+  "russian_example_sentence": "Он не будет хотеть скучные старые фильмы больше",
+  "turkish_example_sentence": "O artık sıkıcı eski filmleri istemeyecek",
+  "turkish_example_sentence_with_blank": "O artık sıkıcı eski filmleri ______"
 }

@@ -4,17 +4,17 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatacağım",
+    "verb_full": "anlatacak",
     "root": "anlat",
     "tense_affix": "acak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "ım",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He will tell the interesting story.",
-  "russian_example_sentence": "Он расскажет интересную историю.",
-  "turkish_example_sentence": "O ilginç hikayeyi anlatacağım.",
-  "turkish_example_sentence_with_blank": "O ilginç hikayeyi ______."
+  "english_example_sentence": "She will tell the beautiful love story tonight",
+  "russian_example_sentence": "Она расскажет красивую историю любви сегодня вечером",
+  "turkish_example_sentence": "O bu gece güzel aşk öyküsünü anlatacak",
+  "turkish_example_sentence_with_blank": "O bu gece güzel aşk öyküsünü ______"
 }

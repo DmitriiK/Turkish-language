@@ -4,17 +4,17 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmam",
+    "verb_full": "yapmazsın",
     "root": "yap",
-    "tense_affix": "",
+    "tense_affix": "ar",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "m",
+    "personal_affix": "sın",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You do not do homework.",
-  "russian_example_sentence": "Ты не делаешь домашнее задание.",
-  "turkish_example_sentence": "Sen ev ödevini yapmam.",
-  "turkish_example_sentence_with_blank": "Sen ev ödevini ______."
+  "english_example_sentence": "You do not do unnecessary things",
+  "russian_example_sentence": "Ты не делаешь ненужные вещи",
+  "turkish_example_sentence": "Sen hiçbir zaman gereksiz şeyleri yapmazsın",
+  "turkish_example_sentence_with_blank": "Sen hiçbir zaman gereksiz şeyleri ______"
 }

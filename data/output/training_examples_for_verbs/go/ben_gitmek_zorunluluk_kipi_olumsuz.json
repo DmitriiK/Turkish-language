@@ -1,0 +1,20 @@
+{
+  "verb_rank": 5,
+  "verb_english": "go",
+  "verb_russian": "идти",
+  "verb_infinitive": "gitmek",
+  "turkish_verb": {
+    "verb_full": "gitmemelyim",
+    "root": "git",
+    "tense_affix": "meli",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "yim",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "I must not go to the crowded shopping center",
+  "russian_example_sentence": "Я не должен идти в переполненный торговый центр",
+  "turkish_example_sentence": "Ben kalabalık alışveriş merkezine gitmemelyim",
+  "turkish_example_sentence_with_blank": "Ben kalabalık alışveriş merkezine ______"
+}

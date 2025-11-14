@@ -4,17 +4,17 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemiyorsunuz",
+    "verb_full": "istemiyor",
     "root": "iste",
     "tense_affix": "iyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "sunuz",
     "polarity": "negative",
-    "negative_affix": "mi"
+    "negative_affix": "m"
   },
-  "english_example_sentence": "You do not want a new car.",
-  "russian_example_sentence": "Вы не хотите новую машину.",
-  "turkish_example_sentence": "Siz yeni bir araba istemiyorsunuz.",
-  "turkish_example_sentence_with_blank": "Siz yeni bir araba ______."
+  "english_example_sentence": "You do not want spicy hot Indian food",
+  "russian_example_sentence": "Вы не хотите острую горячую индийскую еду",
+  "turkish_example_sentence": "Siz acı sıcak Hint yemeğini istemiyor",
+  "turkish_example_sentence_with_blank": "Siz acı sıcak Hint yemeğini ______"
 }

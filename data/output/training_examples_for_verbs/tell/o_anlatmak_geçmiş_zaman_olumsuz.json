@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "anlatmadı",
     "root": "anlat",
-    "tense_affix": "dı",
+    "tense_affix": "tı",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "He didn't tell the story.",
-  "russian_example_sentence": "Он не рассказал историю.",
-  "turkish_example_sentence": "Ali, o hikayeyi anlatmadı.",
-  "turkish_example_sentence_with_blank": "Ali, o hikayeyi ______."
+  "english_example_sentence": "He did not tell anyone about his secret vacation plans",
+  "russian_example_sentence": "Он никому не рассказал о своих секретных планах отпуска",
+  "turkish_example_sentence": "O kimseye gizli tatil planlarını anlatmadı",
+  "turkish_example_sentence_with_blank": "O kimseye gizli tatil planlarını ______"
 }

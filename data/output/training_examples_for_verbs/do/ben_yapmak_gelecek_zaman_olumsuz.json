@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "yapmayacağım",
     "root": "yap",
-    "tense_affix": "yacak",
+    "tense_affix": "acak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "ım",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I will not do my homework tomorrow.",
-  "russian_example_sentence": "Я не буду делать свою домашнюю работу завтра.",
-  "turkish_example_sentence": "Ben yarın ödevimi yapmayacağım.",
-  "turkish_example_sentence_with_blank": "Ben yarın ödevimi ______."
+  "english_example_sentence": "I will not do any work today",
+  "russian_example_sentence": "Я не буду делать никакую работу сегодня",
+  "turkish_example_sentence": "Ben bugün hiç iş yapmayacağım",
+  "turkish_example_sentence_with_blank": "Ben bugün hiç iş ______"
 }

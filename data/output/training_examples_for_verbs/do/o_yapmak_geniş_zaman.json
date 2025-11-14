@@ -4,17 +4,17 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapıyor",
+    "verb_full": "yapar",
     "root": "yap",
-    "tense_affix": "ıyor",
+    "tense_affix": "ar",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "u",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "My friend does his homework every day.",
-  "russian_example_sentence": "Мой друг делает домашнее задание каждый день.",
-  "turkish_example_sentence": "Arkadaşım her gün ödevini yapıyor.",
-  "turkish_example_sentence_with_blank": "Arkadaşım her gün ödevini ______."
+  "english_example_sentence": "He does his best in every project",
+  "russian_example_sentence": "Он делает всё возможное в каждом проекте",
+  "turkish_example_sentence": "O her zor projesinde en iyi çabayı yapar",
+  "turkish_example_sentence_with_blank": "O her zor projesinde en iyi çabayı ______"
 }

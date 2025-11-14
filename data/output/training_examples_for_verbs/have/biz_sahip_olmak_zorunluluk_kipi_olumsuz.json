@@ -1,0 +1,20 @@
+{
+  "verb_rank": 2,
+  "verb_english": "have",
+  "verb_russian": "иметь",
+  "verb_infinitive": "sahip olmak",
+  "turkish_verb": {
+    "verb_full": "sahip olmamalıyız",
+    "root": "sahip ol",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "yız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "We must not have any conflicts during the meeting",
+  "russian_example_sentence": "Мы не должны иметь никаких конфликтов во время встречи",
+  "turkish_example_sentence": "Biz toplantı sırasında herhangi bir anlaşmazlığa sahip olmamalıyız",
+  "turkish_example_sentence_with_blank": "Biz toplantı sırasında herhangi bir anlaşmazlığa ______"
+}

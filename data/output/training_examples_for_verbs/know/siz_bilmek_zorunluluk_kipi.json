@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "bilmelisiniz",
     "root": "bil",
-    "tense_affix": "mel",
+    "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "iniz",
+    "personal_affix": "siniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You must know the rules.",
-  "russian_example_sentence": "Вы должны знать правила.",
-  "turkish_example_sentence": "Kuralları bilmelisiniz.",
-  "turkish_example_sentence_with_blank": "Kuralları ______."
+  "english_example_sentence": "You must know the basic safety regulations here",
+  "russian_example_sentence": "Вы должны знать основные правила безопасности здесь",
+  "turkish_example_sentence": "Siz bu fabrikada çalışırken tüm tehlikeli prosedürleri ve acil durum protokollerini bilmelisiniz",
+  "turkish_example_sentence_with_blank": "Siz bu fabrikada çalışırken tüm tehlikeli prosedürleri ve acil durum protokollerini ______"
 }

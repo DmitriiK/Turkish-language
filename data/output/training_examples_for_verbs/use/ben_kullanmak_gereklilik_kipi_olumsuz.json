@@ -1,0 +1,20 @@
+{
+  "verb_rank": 15,
+  "verb_english": "use",
+  "verb_russian": "использовать",
+  "verb_infinitive": "kullanmak",
+  "turkish_verb": {
+    "verb_full": "kullanmamam lazım",
+    "root": "kullan",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "I should not use expired medicine",
+  "russian_example_sentence": "Я не должен использовать просроченное лекарство",
+  "turkish_example_sentence": "Ben eski ilaçları kullanmamam lazım",
+  "turkish_example_sentence_with_blank": "Ben eski ilaçları ______"
+}

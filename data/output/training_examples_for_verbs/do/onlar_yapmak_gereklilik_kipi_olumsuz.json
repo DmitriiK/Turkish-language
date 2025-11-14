@@ -1,0 +1,20 @@
+{
+  "verb_rank": 3,
+  "verb_english": "do",
+  "verb_russian": "делать",
+  "verb_infinitive": "yapmak",
+  "turkish_verb": {
+    "verb_full": "yapmaması lazım",
+    "root": "yap",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "ları",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "They should not do that careless mistake",
+  "russian_example_sentence": "Им не нужно делать эту небрежную ошибку",
+  "turkish_example_sentence": "Onlar bu dikkatsiz hatayı yapmaması lazım",
+  "turkish_example_sentence_with_blank": "Onlar bu dikkatsiz hatayı ______"
+}

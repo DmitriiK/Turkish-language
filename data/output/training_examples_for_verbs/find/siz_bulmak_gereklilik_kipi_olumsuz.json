@@ -1,0 +1,20 @@
+{
+  "verb_rank": 16,
+  "verb_english": "find",
+  "verb_russian": "находить",
+  "verb_infinitive": "bulmak",
+  "turkish_verb": {
+    "verb_full": "bulmamanız lazım",
+    "root": "bul",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "You should not find any mistakes in this excellent work",
+  "russian_example_sentence": "Вы не должны находить ошибки в этой отличной работе",
+  "turkish_example_sentence": "Siz bu mükemmel işte hiçbir kusur bulmamanız lazım",
+  "turkish_example_sentence_with_blank": "Siz bu mükemmel işte hiçbir kusur ______"
+}

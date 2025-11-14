@@ -4,17 +4,17 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatmam",
+    "verb_full": "anlatmazsın",
     "root": "anlat",
-    "tense_affix": "",
+    "tense_affix": "ır",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "m",
+    "personal_affix": "sın",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You do not tell the truth.",
-  "russian_example_sentence": "Ты не рассказываешь правду.",
-  "turkish_example_sentence": "Sen doğruyu anlatmam.",
-  "turkish_example_sentence_with_blank": "Sen doğruyu ______."
+  "english_example_sentence": "You do not tell lies to your parents",
+  "russian_example_sentence": "Ты не рассказываешь ложь своим родителям",
+  "turkish_example_sentence": "Sen ailene yalan hikayeler anlatmazsın",
+  "turkish_example_sentence_with_blank": "Sen ailene yalan hikayeler ______"
 }

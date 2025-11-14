@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "anlatmadın",
     "root": "anlat",
-    "tense_affix": "dı",
+    "tense_affix": "tı",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You didn't tell the story.",
-  "russian_example_sentence": "Ты не рассказал историю.",
-  "turkish_example_sentence": "Sen güzel bir hikaye anlatmadın.",
-  "turkish_example_sentence_with_blank": "Sen güzel bir hikaye ______."
+  "english_example_sentence": "You did not tell me the truth about yesterday's accident",
+  "russian_example_sentence": "Ты не рассказал мне правду о вчерашней аварии",
+  "turkish_example_sentence": "Sen bana dünkü kaza hakkında gerçeği anlatmadın",
+  "turkish_example_sentence_with_blank": "Sen bana dünkü kaza hakkında gerçeği ______"
 }

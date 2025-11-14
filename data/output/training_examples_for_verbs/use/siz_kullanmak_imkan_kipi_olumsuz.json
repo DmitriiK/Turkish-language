@@ -1,0 +1,20 @@
+{
+  "verb_rank": 15,
+  "verb_english": "use",
+  "verb_russian": "использовать",
+  "verb_infinitive": "kullanmak",
+  "turkish_verb": {
+    "verb_full": "kullanamaysiniz",
+    "root": "kullan",
+    "tense_affix": "abil",
+    "verb_tense": "imkan_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "irsiniz",
+    "polarity": "negative",
+    "negative_affix": "ama"
+  },
+  "english_example_sentence": "You cannot use the restricted parking area",
+  "russian_example_sentence": "Вы не можете использовать ограниченную парковку",
+  "turkish_example_sentence": "Siz kısıtlı otopark alanını kullanamaysiniz",
+  "turkish_example_sentence_with_blank": "Siz kısıtlı otopark alanını ______"
+}

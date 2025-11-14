@@ -4,17 +4,17 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylemiyorlar",
+    "verb_full": "söylemiyor",
     "root": "söyle",
-    "tense_affix": "iyor",
+    "tense_affix": "üyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "m"
   },
-  "english_example_sentence": "They are not saying anything important.",
-  "russian_example_sentence": "Они ничего важного не говорят.",
-  "turkish_example_sentence": "Öğrenciler önemli bir şey söylemiyorlar.",
-  "turkish_example_sentence_with_blank": "Öğrenciler önemli bir şey ______."
+  "english_example_sentence": "They are not saying their honest feelings",
+  "russian_example_sentence": "Они не говорят свои честные чувства",
+  "turkish_example_sentence": "Onlar dürüst duygularını söylemiyor",
+  "turkish_example_sentence_with_blank": "Onlar dürüst duygularını ______"
 }

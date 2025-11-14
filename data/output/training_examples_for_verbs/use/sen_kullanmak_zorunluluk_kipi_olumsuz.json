@@ -1,0 +1,20 @@
+{
+  "verb_rank": 15,
+  "verb_english": "use",
+  "verb_russian": "использовать",
+  "verb_infinitive": "kullanmak",
+  "turkish_verb": {
+    "verb_full": "kullanmamalısın",
+    "root": "kullan",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "sın",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "You must not use harsh chemicals here",
+  "russian_example_sentence": "Ты не должен использовать агрессивные химикаты здесь",
+  "turkish_example_sentence": "Sen burada kuvvetli kimyasal maddeler kullanmamalısın",
+  "turkish_example_sentence_with_blank": "Sen burada kuvvetli kimyasal maddeler ______"
+}

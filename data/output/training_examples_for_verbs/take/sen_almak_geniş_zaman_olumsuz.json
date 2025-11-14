@@ -4,17 +4,17 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almıyorum",
+    "verb_full": "almazsın",
     "root": "al",
-    "tense_affix": "",
+    "tense_affix": "ır",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "m",
+    "personal_affix": "sın",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You do not take my book.",
-  "russian_example_sentence": "Ты не берешь мою книгу.",
-  "turkish_example_sentence": "Sen benim kitabımı almıyorum.",
-  "turkish_example_sentence_with_blank": "Sen benim kitabımı ______."
+  "english_example_sentence": "You do not take the difficult path to school",
+  "russian_example_sentence": "Ты не берешь трудный путь в школу",
+  "turkish_example_sentence": "Sen okula giderken zor yolu almazsın",
+  "turkish_example_sentence_with_blank": "Sen okula giderken zor yolu ______"
 }

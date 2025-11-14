@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "görmeliyim",
     "root": "gör",
-    "tense_affix": "meliy",
+    "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "im",
+    "personal_affix": "yim",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I must see my friend today.",
-  "russian_example_sentence": "Я должен увидеть своего друга сегодня.",
-  "turkish_example_sentence": "Bugün arkadaşımı görmeliyim.",
-  "turkish_example_sentence_with_blank": "Bugün arkadaşımı ______."
+  "english_example_sentence": "I must see the beautiful sunset today",
+  "russian_example_sentence": "Я должен увидеть красивый закат сегодня",
+  "turkish_example_sentence": "Ben bugün güzel gün batımını görmeliyim",
+  "turkish_example_sentence_with_blank": "Ben bugün güzel gün batımını ______"
 }

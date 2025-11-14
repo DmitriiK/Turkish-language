@@ -4,17 +4,17 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "alıyor",
+    "verb_full": "alır",
     "root": "al",
-    "tense_affix": "ıyor",
+    "tense_affix": "ır",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "u",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The teacher takes the book every day.",
-  "russian_example_sentence": "Учитель каждый день берет книгу.",
-  "turkish_example_sentence": "Öğretmen her gün kitabı alıyor.",
-  "turkish_example_sentence_with_blank": "Öğretmen her gün kitabı ______."
+  "english_example_sentence": "He takes the yellow notebook to the office",
+  "russian_example_sentence": "Он берет желтую тетрадь в офис",
+  "turkish_example_sentence": "O sarı defteri her sabah ofise alır",
+  "turkish_example_sentence_with_blank": "O sarı defteri her sabah ofise ______"
 }

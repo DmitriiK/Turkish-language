@@ -1,0 +1,20 @@
+{
+  "verb_rank": 3,
+  "verb_english": "do",
+  "verb_russian": "делать",
+  "verb_infinitive": "yapmak",
+  "turkish_verb": {
+    "verb_full": "yapamam",
+    "root": "yap",
+    "tense_affix": "abil",
+    "verb_tense": "imkan_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "irim",
+    "polarity": "negative",
+    "negative_affix": "ama"
+  },
+  "english_example_sentence": "I cannot do heavy physical work today",
+  "russian_example_sentence": "Я не могу делать тяжелую физическую работу сегодня",
+  "turkish_example_sentence": "Ben bugün ağır fiziksel işi yapamam",
+  "turkish_example_sentence_with_blank": "Ben bugün ağır fiziksel işi ______"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 15,
+  "verb_english": "use",
+  "verb_russian": "использовать",
+  "verb_infinitive": "kullanmak",
+  "turkish_verb": {
+    "verb_full": "kullanamaylar",
+    "root": "kullan",
+    "tense_affix": "abil",
+    "verb_tense": "imkan_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "irler",
+    "polarity": "negative",
+    "negative_affix": "ama"
+  },
+  "english_example_sentence": "They cannot use the dangerous chemical products",
+  "russian_example_sentence": "Они не могут использовать опасные химические продукты",
+  "turkish_example_sentence": "Onlar tehlikeli kimyasal ürünleri kullanamaylar",
+  "turkish_example_sentence_with_blank": "Onlar tehlikeli kimyasal ürünleri ______"
+}

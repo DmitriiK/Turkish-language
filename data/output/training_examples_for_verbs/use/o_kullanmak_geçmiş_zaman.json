@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "kullandı",
     "root": "kullan",
-    "tense_affix": "d",
+    "tense_affix": "dı",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "ı",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The student used the computer yesterday.",
-  "russian_example_sentence": "Студент использовал компьютер вчера.",
-  "turkish_example_sentence": "Öğrenci dün bilgisayarı kullandı.",
-  "turkish_example_sentence_with_blank": "Öğrenci dün bilgisayarı ______."
+  "english_example_sentence": "He used the blue umbrella in the rain",
+  "russian_example_sentence": "Он использовал синий зонтик под дождем",
+  "turkish_example_sentence": "O yağmurda mavi şemsiyeyi kullandı",
+  "turkish_example_sentence_with_blank": "O yağmurda mavi şemsiyeyi ______"
 }

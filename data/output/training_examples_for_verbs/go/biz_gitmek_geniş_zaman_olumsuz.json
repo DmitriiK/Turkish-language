@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmiyoruz",
+    "verb_full": "gitmeyiz",
     "root": "git",
-    "tense_affix": "",
+    "tense_affix": "er",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "ız",
+    "personal_affix": "iz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "We do not go to the school.",
-  "russian_example_sentence": "Мы не идем в школу.",
-  "turkish_example_sentence": "Biz okula gitmiyoruz.",
-  "turkish_example_sentence_with_blank": "Biz okula ______."
+  "english_example_sentence": "We do not go to the dark cold basement",
+  "russian_example_sentence": "Мы не ходим в тёмный холодный подвал",
+  "turkish_example_sentence": "Biz karanlık soğuk bodrum katına gitmeyiz",
+  "turkish_example_sentence_with_blank": "Biz karanlık soğuk bodrum katına ______"
 }

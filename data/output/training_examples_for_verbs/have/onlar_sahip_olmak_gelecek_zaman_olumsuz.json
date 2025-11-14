@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "sahip olmayacaklar",
     "root": "sahip ol",
-    "tense_affix": "yacak",
+    "tense_affix": "acak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "They will not have a cat.",
-  "russian_example_sentence": "У них не будет кошки.",
-  "turkish_example_sentence": "Onlar güzel bir kediye sahip olmayacaklar.",
-  "turkish_example_sentence_with_blank": "Onlar güzel bir kediye ______."
+  "english_example_sentence": "They will not have any free time during the project",
+  "russian_example_sentence": "У них не будет свободного времени во время проекта",
+  "turkish_example_sentence": "Onlar bu yoğun çalışma döneminde hiçbir boş zamanı sahip olmayacaklar",
+  "turkish_example_sentence_with_blank": "Onlar bu yoğun çalışma döneminde hiçbir boş zamanı ______"
 }

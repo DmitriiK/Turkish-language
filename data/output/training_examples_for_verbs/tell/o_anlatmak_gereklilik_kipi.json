@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "anlatması lazım",
     "root": "anlat",
-    "tense_affix": "ma",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
     "personal_affix": "sı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He needs to tell the story.",
-  "russian_example_sentence": "Ему нужно рассказать историю.",
-  "turkish_example_sentence": "O hikayeyi anlatması lazım.",
-  "turkish_example_sentence_with_blank": "O hikayeyi ______."
+  "english_example_sentence": "He needs to tell the exciting adventure story",
+  "russian_example_sentence": "Он должен рассказать захватывающую историю приключений",
+  "turkish_example_sentence": "O heyecan verici macera hikayesini anlatması lazım",
+  "turkish_example_sentence_with_blank": "O heyecan verici macera hikayesini ______"
 }

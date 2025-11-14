@@ -4,17 +4,17 @@
   "verb_russian": "смотреть",
   "verb_infinitive": "bakmak",
   "turkish_verb": {
-    "verb_full": "bakmıyor",
+    "verb_full": "bakmaz",
     "root": "bak",
-    "tense_affix": "",
+    "tense_affix": "ar",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "mı"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "The student does not look at the teacher.",
-  "russian_example_sentence": "Студент не смотрит на учителя.",
-  "turkish_example_sentence": "Öğrenci öğretmene bakmıyor.",
-  "turkish_example_sentence_with_blank": "Öğrenci öğretmene ______."
+  "english_example_sentence": "She does not look at the broken mirror",
+  "russian_example_sentence": "Она не смотрит на разбитое зеркало",
+  "turkish_example_sentence": "O kırık aynaya bakmaz",
+  "turkish_example_sentence_with_blank": "O kırık aynaya ______"
 }

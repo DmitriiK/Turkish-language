@@ -4,17 +4,17 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylemiyorsunuz",
+    "verb_full": "söylemiyor",
     "root": "söyle",
-    "tense_affix": "iyor",
+    "tense_affix": "üyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "sunuz",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "m"
   },
-  "english_example_sentence": "You are not saying anything important.",
-  "russian_example_sentence": "Вы ничего важного не говорите.",
-  "turkish_example_sentence": "Öğretmenler önemli bir şey söylemiyorsunuz.",
-  "turkish_example_sentence_with_blank": "Öğretmenler önemli bir şey ______."
+  "english_example_sentence": "You are not saying your real opinions",
+  "russian_example_sentence": "Вы не говорите свои настоящие мнения",
+  "turkish_example_sentence": "Siz gerçek fikirlerinizi söylemiyor",
+  "turkish_example_sentence_with_blank": "Siz gerçek fikirlerinizi ______"
 }

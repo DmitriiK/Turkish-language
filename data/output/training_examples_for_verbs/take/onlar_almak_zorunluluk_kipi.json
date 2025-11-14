@@ -4,17 +4,17 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "alacaklar",
+    "verb_full": "almalılar",
     "root": "al",
-    "tense_affix": "acak",
+    "tense_affix": "malı",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They will take the necessary documents.",
-  "russian_example_sentence": "Они возьмут необходимые документы.",
-  "turkish_example_sentence": "Onlar gerekli belgeleri alacaklar.",
-  "turkish_example_sentence_with_blank": "Onlar gerekli belgeleri ______."
+  "english_example_sentence": "They must take the beautiful flowers",
+  "russian_example_sentence": "Они должны взять красивые цветы",
+  "turkish_example_sentence": "Onlar güzel çiçekleri almalılar",
+  "turkish_example_sentence_with_blank": "Onlar güzel çiçekleri ______"
 }

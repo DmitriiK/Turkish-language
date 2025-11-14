@@ -4,17 +4,17 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemeliyim",
+    "verb_full": "istemeliyi",
     "root": "iste",
-    "tense_affix": "meliy",
+    "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "im",
+    "personal_affix": "yim",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I want to go to the park.",
-  "russian_example_sentence": "Я хочу пойти в парк.",
-  "turkish_example_sentence": "Ben parka gitmeliyim.",
-  "turkish_example_sentence_with_blank": "Ben parka gitmeliyim."
+  "english_example_sentence": "I must want to help my elderly grandmother today",
+  "russian_example_sentence": "Я должен хотеть помочь моей пожилой бабушке сегодня",
+  "turkish_example_sentence": "Ben yaşlı büyükannem için bugün yardım istemeliyi",
+  "turkish_example_sentence_with_blank": "Ben yaşlı büyükannem için bugün yardım ______"
 }

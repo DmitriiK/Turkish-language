@@ -4,17 +4,17 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söyle",
+    "verb_full": "söylesin",
     "root": "söyle",
     "tense_affix": "",
     "verb_tense": "emir_kipi",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He says his opinion clearly.",
-  "russian_example_sentence": "Он говорит свое мнение четко.",
-  "turkish_example_sentence": "Ali, öğretmenine düşüncelerini söyle.",
-  "turkish_example_sentence_with_blank": "Ali, öğretmenine düşüncelerini ______."
+  "english_example_sentence": "Let him speak his beautiful thoughts aloud",
+  "russian_example_sentence": "Пусть он скажет свои прекрасные мысли вслух",
+  "turkish_example_sentence": "O güzel fikirlerini yüksek sesle söylesin",
+  "turkish_example_sentence_with_blank": "O güzel fikirlerini yüksek sesle ______"
 }

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 12,
+  "verb_english": "come",
+  "verb_russian": "приходить",
+  "verb_infinitive": "gelmek",
+  "turkish_verb": {
+    "verb_full": "gelmemeniz lazım",
+    "root": "gel",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "You all do not need to come to the routine office meeting",
+  "russian_example_sentence": "Вам не нужно приходить на рутинное офисное совещание",
+  "turkish_example_sentence": "Siz rutin ofis toplantısına gelmemeniz lazım",
+  "turkish_example_sentence_with_blank": "Siz rutin ofis toplantısına ______"
+}

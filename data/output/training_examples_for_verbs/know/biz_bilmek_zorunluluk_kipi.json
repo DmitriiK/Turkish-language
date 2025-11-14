@@ -4,17 +4,17 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilmemiz gerekir",
+    "verb_full": "bilmeliyiz",
     "root": "bil",
-    "tense_affix": "melidir",
+    "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "imiz",
+    "personal_affix": "yiz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We need to know the truth.",
-  "russian_example_sentence": "Нам нужно знать правду.",
-  "turkish_example_sentence": "Biz gerçeği bilmemiz gerekir.",
-  "turkish_example_sentence_with_blank": "Biz gerçeği ______."
+  "english_example_sentence": "We must know all important vocabulary words",
+  "russian_example_sentence": "Мы должны знать все важные слова словаря",
+  "turkish_example_sentence": "Biz Türkçe sınavı için tüm yeni kelime ve gramer kurallarını bilmeliyiz",
+  "turkish_example_sentence_with_blank": "Biz Türkçe sınavı için tüm yeni kelime ve gramer kurallarını ______"
 }

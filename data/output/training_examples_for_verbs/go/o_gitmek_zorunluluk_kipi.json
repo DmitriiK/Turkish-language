@@ -9,12 +9,12 @@
     "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "dir",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He must go to the school.",
-  "russian_example_sentence": "Он должен идти в школу.",
-  "turkish_example_sentence": "O, okula gitmelidir.",
-  "turkish_example_sentence_with_blank": "O, okula ______."
+  "english_example_sentence": "He must go to the hospital immediately",
+  "russian_example_sentence": "Он должен идти в больницу немедленно",
+  "turkish_example_sentence": "O hastaneye hemen gitmelidir",
+  "turkish_example_sentence_with_blank": "O hastaneye hemen ______"
 }

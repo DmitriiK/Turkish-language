@@ -4,17 +4,17 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istiyoruz",
+    "verb_full": "isteriz",
     "root": "iste",
-    "tense_affix": "iyor",
+    "tense_affix": "r",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "uz",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We want to go to the concert.",
-  "russian_example_sentence": "Мы хотим пойти на концерт.",
-  "turkish_example_sentence": "Biz konser gitmek istiyoruz.",
-  "turkish_example_sentence_with_blank": "Biz konser gitmek ______."
+  "english_example_sentence": "We want beautiful sunny weather tomorrow",
+  "russian_example_sentence": "Мы хотим красивую солнечную погоду завтра",
+  "turkish_example_sentence": "Biz yarın güzel güneşli havayı isteriz",
+  "turkish_example_sentence_with_blank": "Biz yarın güzel güneşli havayı ______"
 }

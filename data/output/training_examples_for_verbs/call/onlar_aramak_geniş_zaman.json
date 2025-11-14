@@ -4,17 +4,17 @@
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "aramıyorlar",
+    "verb_full": "ararlar",
     "root": "ara",
-    "tense_affix": "",
+    "tense_affix": "r",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They call their friends often.",
-  "russian_example_sentence": "Они часто звонят своим друзьям.",
-  "turkish_example_sentence": "Arkadaşlarına sık sık arıyorlar.",
-  "turkish_example_sentence_with_blank": "Arkadaşlarına sık sık arıyorlar."
+  "english_example_sentence": "They call their relatives during important holidays",
+  "russian_example_sentence": "Они звонят своим родственникам в важные праздники",
+  "turkish_example_sentence": "Onlar önemli bayramlarda uzak akrabaları ararlar",
+  "turkish_example_sentence_with_blank": "Onlar önemli bayramlarda uzak akrabaları ______"
 }

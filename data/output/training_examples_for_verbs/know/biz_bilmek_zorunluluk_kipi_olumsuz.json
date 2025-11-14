@@ -1,0 +1,20 @@
+{
+  "verb_rank": 8,
+  "verb_english": "know",
+  "verb_russian": "знать",
+  "verb_infinitive": "bilmek",
+  "turkish_verb": {
+    "verb_full": "bilmemeliiz",
+    "root": "bil",
+    "tense_affix": "meli",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "yiz",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "We must not know the final exam questions",
+  "russian_example_sentence": "Мы не должны знать вопросы финального экзамена",
+  "turkish_example_sentence": "Biz öğretmenin hazırladığı gizli test sorularını ve cevap anahtarını bilmemeliiz",
+  "turkish_example_sentence_with_blank": "Biz öğretmenin hazırladığı gizli test sorularını ve cevap anahtarını ______"
+}

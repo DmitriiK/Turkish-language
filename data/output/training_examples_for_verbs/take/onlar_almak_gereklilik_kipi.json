@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "almaları lazım",
     "root": "al",
-    "tense_affix": "ma",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ları",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They need to take the books.",
-  "russian_example_sentence": "Им нужно взять книги.",
-  "turkish_example_sentence": "Öğrencilerin kitapları almaları lazım.",
-  "turkish_example_sentence_with_blank": "Öğrencilerin kitapları ______."
+  "english_example_sentence": "They need to take the fresh vegetables to the market",
+  "russian_example_sentence": "Им нужно взять свежие овощи на рынок",
+  "turkish_example_sentence": "Onlar pazara taze sebzeleri almaları lazım",
+  "turkish_example_sentence_with_blank": "Onlar pazara taze sebzeleri ______"
 }

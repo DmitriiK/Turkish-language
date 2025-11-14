@@ -4,17 +4,17 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulması lazım",
+    "verb_full": "bulmaları lazım",
     "root": "bul",
-    "tense_affix": "ma",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "sı",
+    "personal_affix": "ları",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They need to find the book.",
-  "russian_example_sentence": "Им нужно найти книгу.",
-  "turkish_example_sentence": "Onların kitabı bulması lazım.",
-  "turkish_example_sentence_with_blank": "Onların kitabı ______."
+  "english_example_sentence": "They need to find the small white kitten in the dark basement",
+  "russian_example_sentence": "Им нужно найти маленького белого котенка в темном подвале",
+  "turkish_example_sentence": "Onlar karanlık bodrumdaki küçük beyaz yavru kediyi bulmaları lazım",
+  "turkish_example_sentence_with_blank": "Onlar karanlık bodrumdaki küçük beyaz yavru kediyi ______"
 }

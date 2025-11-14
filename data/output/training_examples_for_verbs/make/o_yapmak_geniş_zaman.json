@@ -4,17 +4,17 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapıyor",
+    "verb_full": "yapar",
     "root": "yap",
-    "tense_affix": "ıyor",
+    "tense_affix": "ar",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "u",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "My sister is making a cake.",
-  "russian_example_sentence": "Моя сестра делает торт.",
-  "turkish_example_sentence": "Kız kardeşim güzel bir pasta yapıyor.",
-  "turkish_example_sentence_with_blank": "Kız kardeşim güzel bir pasta ______."
+  "english_example_sentence": "He makes fresh organic bread in the bakery",
+  "russian_example_sentence": "Он делает свежий органический хлеб в пекарне",
+  "turkish_example_sentence": "O fırında taze organik ekmeği yapar",
+  "turkish_example_sentence_with_blank": "O fırında taze organik ekmeği ______"
 }

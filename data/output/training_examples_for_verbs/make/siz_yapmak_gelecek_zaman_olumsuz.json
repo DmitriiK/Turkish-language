@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "yapmayacaksınız",
     "root": "yap",
-    "tense_affix": "yacak",
+    "tense_affix": "acak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "ınız",
+    "personal_affix": "sınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You will not make a cake for the party.",
-  "russian_example_sentence": "Вы не сделаете торт для вечеринки.",
-  "turkish_example_sentence": "Siz parti için bir pasta yapmayacaksınız.",
-  "turkish_example_sentence_with_blank": "Siz parti için bir pasta ______."
+  "english_example_sentence": "You will not make that expensive purchase",
+  "russian_example_sentence": "Вы не будете делать эту дорогую покупку",
+  "turkish_example_sentence": "Siz pahalı alışverişi yapmayacaksınız",
+  "turkish_example_sentence_with_blank": "Siz pahalı alışverişi ______"
 }

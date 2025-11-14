@@ -1,0 +1,20 @@
+{
+  "verb_rank": 10,
+  "verb_english": "take",
+  "verb_russian": "брать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almamalısınız",
+    "root": "al",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "sınız",
+    "polarity": "negative",
+    "negative_affix": "mama"
+  },
+  "english_example_sentence": "You must not take the forbidden items",
+  "russian_example_sentence": "Вы не должны брать запрещенные предметы",
+  "turkish_example_sentence": "Siz yasak eşyaları almamalısınız",
+  "turkish_example_sentence_with_blank": "Siz yasak eşyaları ______"
+}

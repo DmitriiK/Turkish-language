@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "anlatmayacağım",
     "root": "anlat",
-    "tense_affix": "yacak",
+    "tense_affix": "acak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "ım",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I will not tell the story again.",
-  "russian_example_sentence": "Я не расскажу историю снова.",
-  "turkish_example_sentence": "Ben hikayeyi tekrar anlatmayacağım.",
-  "turkish_example_sentence_with_blank": "Ben hikayeyi tekrar ______."
+  "english_example_sentence": "I will not tell the secret to anyone today",
+  "russian_example_sentence": "Я не расскажу секрет никому сегодня",
+  "turkish_example_sentence": "Ben bugün kimseye sırrı anlatmayacağım",
+  "turkish_example_sentence_with_blank": "Ben bugün kimseye sırrı ______"
 }

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "bakmadım",
     "root": "bak",
-    "tense_affix": "dı",
+    "tense_affix": "tı",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "ım",
+    "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I didn't look at the beautiful painting.",
-  "russian_example_sentence": "Я не смотрел на красивую картину.",
-  "turkish_example_sentence": "Ben güzel tabloya bakmadım.",
-  "turkish_example_sentence_with_blank": "Ben güzel tabloya ______."
+  "english_example_sentence": "I did not look at the old photograph",
+  "russian_example_sentence": "Я не смотрел на старую фотографию",
+  "turkish_example_sentence": "Ben eski fotoğrafa bakmadım",
+  "turkish_example_sentence_with_blank": "Ben eski fotoğrafa ______"
 }

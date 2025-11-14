@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "çalışmazlar",
     "root": "çalış",
-    "tense_affix": "",
+    "tense_affix": "ır",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
-    "negative_affix": "maz"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "The children do not work on weekends",
-  "russian_example_sentence": "Дети не работают по выходным",
-  "turkish_example_sentence": "Çocuklar hafta sonları çalışmazlar",
-  "turkish_example_sentence_with_blank": "Çocuklar hafta sonları ______"
+  "english_example_sentence": "They do not work on quiet peaceful weekend days",
+  "russian_example_sentence": "Они не работают в спокойные мирные выходные дни",
+  "turkish_example_sentence": "Onlar sakin huzurlu hafta sonu günlerinde çalışmazlar",
+  "turkish_example_sentence_with_blank": "Onlar sakin huzurlu hafta sonu günlerinde ______"
 }

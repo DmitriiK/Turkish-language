@@ -1,0 +1,20 @@
+{
+  "verb_rank": 13,
+  "verb_english": "want",
+  "verb_russian": "хотеть",
+  "verb_infinitive": "istemek",
+  "turkish_verb": {
+    "verb_full": "istememeleri lazım değil",
+    "root": "iste",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "leri",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "They should not want that complicated confusing project",
+  "russian_example_sentence": "Они не должны хотеть этот сложный запутанный проект",
+  "turkish_example_sentence": "Onlar o karmaşık kafa karıştırıcı projeyi istememeleri lazım değil",
+  "turkish_example_sentence_with_blank": "Onlar o karmaşık kafa karıştırıcı projeyi ______"
+}

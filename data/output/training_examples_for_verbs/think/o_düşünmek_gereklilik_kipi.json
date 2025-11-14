@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "düşünmesi lazım",
     "root": "düşün",
-    "tense_affix": "me",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
     "personal_affix": "sı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He needs to think about the problem.",
-  "russian_example_sentence": "Ему нужно подумать о проблеме.",
-  "turkish_example_sentence": "O sorunu düşünmesi lazım.",
-  "turkish_example_sentence_with_blank": "O sorunu ______."
+  "english_example_sentence": "He needs to think about his important decision",
+  "russian_example_sentence": "Ему нужно думать о его важном решении",
+  "turkish_example_sentence": "O kritik kararı hızlı düşünmesi lazım",
+  "turkish_example_sentence_with_blank": "O kritik kararı hızlı ______"
 }

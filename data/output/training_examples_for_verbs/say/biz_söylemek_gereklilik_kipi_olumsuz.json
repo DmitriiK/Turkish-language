@@ -1,0 +1,20 @@
+{
+  "verb_rank": 4,
+  "verb_english": "say",
+  "verb_russian": "сказать",
+  "verb_infinitive": "söylemek",
+  "turkish_verb": {
+    "verb_full": "söylememememiz lazım",
+    "root": "söyle",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "mız",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "We should not say those negative comments",
+  "russian_example_sentence": "Мы не должны говорить эти негативные комментарии",
+  "turkish_example_sentence": "Biz olumsuz düşünceleri birbirimize söylememememiz lazım",
+  "turkish_example_sentence_with_blank": "Biz olumsuz düşünceleri birbirimize ______"
+}

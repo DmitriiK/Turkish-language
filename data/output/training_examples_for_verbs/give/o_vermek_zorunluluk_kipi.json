@@ -4,17 +4,17 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "veriyor",
+    "verb_full": "vermelidir",
     "root": "ver",
-    "tense_affix": "iyor",
+    "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "u",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He gives an important presentation to the team.",
-  "russian_example_sentence": "Он дает важную презентацию команде.",
-  "turkish_example_sentence": "O, takıma önemli bir sunum veriyor.",
-  "turkish_example_sentence_with_blank": "O, takıma önemli bir sunum ______."
+  "english_example_sentence": "He must give the important document to the manager",
+  "russian_example_sentence": "Он должен дать важный документ менеджеру",
+  "turkish_example_sentence": "O kritik raporları müdüre derhal vermelidir",
+  "turkish_example_sentence_with_blank": "O kritik raporları müdüre derhal ______"
 }

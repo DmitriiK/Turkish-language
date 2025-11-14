@@ -4,17 +4,17 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemeleri lazım",
+    "verb_full": "istememeleri lazım",
     "root": "iste",
-    "tense_affix": "me",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "leri",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They need to want it.",
-  "russian_example_sentence": "Им нужно это хотеть.",
-  "turkish_example_sentence": "Öğrencilerin bu kitabı istemeleri lazım.",
-  "turkish_example_sentence_with_blank": "Öğrencilerin bu kitabı ______."
+  "english_example_sentence": "They need to want that peaceful quiet garden",
+  "russian_example_sentence": "Они должны хотеть этот спокойный тихий сад",
+  "turkish_example_sentence": "Onlar o sakin sessiz bahçeyi istememeleri lazım",
+  "turkish_example_sentence_with_blank": "Onlar o sakin sessiz bahçeyi ______"
 }

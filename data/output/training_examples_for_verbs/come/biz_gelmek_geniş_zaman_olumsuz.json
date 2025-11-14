@@ -4,17 +4,17 @@
   "verb_russian": "приходить",
   "verb_infinitive": "gelmek",
   "turkish_verb": {
-    "verb_full": "gelmiyoruz",
+    "verb_full": "gelmeyiz",
     "root": "gel",
-    "tense_affix": "",
+    "tense_affix": "ir",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "iyoruz",
+    "personal_affix": "iz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "We do not come to the party",
-  "russian_example_sentence": "Мы не приходим на вечеринку",
-  "turkish_example_sentence": "Biz partiye gelmiyoruz",
-  "turkish_example_sentence_with_blank": "Biz partiye ______"
+  "english_example_sentence": "We do not come to the expensive fancy restaurant",
+  "russian_example_sentence": "Мы не приходим в дорогой модный ресторан",
+  "turkish_example_sentence": "Biz pahalı şık restorana gelmeyiz",
+  "turkish_example_sentence_with_blank": "Biz pahalı şık restorana ______"
 }

@@ -5,16 +5,16 @@
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
     "verb_full": "sahip olmam",
-    "root": "sahip ol",
-    "tense_affix": "",
+    "root": "ol",
+    "tense_affix": "ur",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "um",
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "m"
   },
-  "english_example_sentence": "I do not have a small dog.",
-  "russian_example_sentence": "У меня нет маленькой собаки.",
-  "turkish_example_sentence": "Ben küçük bir köpeğe sahip olmam.",
-  "turkish_example_sentence_with_blank": "Ben küçük bir köpeğe ______."
+  "english_example_sentence": "I do not have expensive jewelry",
+  "russian_example_sentence": "У меня нет дорогих украшений",
+  "turkish_example_sentence": "Ben pahalı mücevherlere sahip olmam",
+  "turkish_example_sentence_with_blank": "Ben pahalı mücevherlere ______"
 }

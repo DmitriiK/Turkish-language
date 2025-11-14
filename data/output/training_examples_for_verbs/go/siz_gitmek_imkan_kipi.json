@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gidiyorsunuz",
+    "verb_full": "gidebilirsiniz",
     "root": "git",
-    "tense_affix": "iyor",
+    "tense_affix": "ebil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "sunuz",
+    "personal_affix": "irsiniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You are going to the meeting.",
-  "russian_example_sentence": "Вы идете на встречу.",
-  "turkish_example_sentence": "Toplantıya gidiyorsunuz.",
-  "turkish_example_sentence_with_blank": "Toplantıya ______."
+  "english_example_sentence": "You can go to the famous art gallery next month",
+  "russian_example_sentence": "Вы можете пойти в знаменитую художественную галерею в следующем месяце",
+  "turkish_example_sentence": "Siz ünlü sanat galerisine gelecek ay gidebilirsiniz",
+  "turkish_example_sentence_with_blank": "Siz ünlü sanat galerisine gelecek ay ______"
 }

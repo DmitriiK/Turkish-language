@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "vermesi lazım",
     "root": "ver",
-    "tense_affix": "me",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "si",
+    "personal_affix": "sı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He needs to give the answer.",
-  "russian_example_sentence": "Ему нужно дать ответ.",
-  "turkish_example_sentence": "O cevabı vermesi lazım.",
-  "turkish_example_sentence_with_blank": "O cevabı ______."
+  "english_example_sentence": "He needs to give the expensive gift to his girlfriend",
+  "russian_example_sentence": "Он должен подарить дорогой подарок своей подруге",
+  "turkish_example_sentence": "O pahalı hediyeyi sevgilisine vermesi lazım",
+  "turkish_example_sentence_with_blank": "O pahalı hediyeyi sevgilisine ______"
 }

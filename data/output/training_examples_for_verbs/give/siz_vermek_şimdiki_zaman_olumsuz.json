@@ -4,17 +4,17 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "veremiyorsunuz",
+    "verb_full": "vermiyorsunuz",
     "root": "ver",
     "tense_affix": "iyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "sunuz",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "m"
   },
-  "english_example_sentence": "You are not giving the important information.",
-  "russian_example_sentence": "Вы не даете важную информацию.",
-  "turkish_example_sentence": "Siz önemli bilgiyi veremiyorsunuz.",
-  "turkish_example_sentence_with_blank": "Siz önemli bilgiyi ______."
+  "english_example_sentence": "You are not giving clear instructions to the team",
+  "russian_example_sentence": "Вы не даете четкие инструкции команде",
+  "turkish_example_sentence": "Siz takıma net talimatlar vermiyorsunuz",
+  "turkish_example_sentence_with_blank": "Siz takıma net talimatlar ______"
 }

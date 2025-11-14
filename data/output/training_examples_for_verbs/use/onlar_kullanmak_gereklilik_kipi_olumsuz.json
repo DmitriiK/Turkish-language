@@ -1,0 +1,20 @@
+{
+  "verb_rank": 15,
+  "verb_english": "use",
+  "verb_russian": "использовать",
+  "verb_infinitive": "kullanmak",
+  "turkish_verb": {
+    "verb_full": "kullanmamaları lazım",
+    "root": "kullan",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "ları",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "They should not use counterfeit products",
+  "russian_example_sentence": "Они не должны использовать поддельные товары",
+  "turkish_example_sentence": "Onlar sahte ürünleri kullanmamaları lazım",
+  "turkish_example_sentence_with_blank": "Onlar sahte ürünleri ______"
+}

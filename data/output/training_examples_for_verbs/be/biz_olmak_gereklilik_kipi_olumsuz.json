@@ -1,0 +1,20 @@
+{
+  "verb_rank": 1,
+  "verb_english": "be",
+  "verb_russian": "быть",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olmaması lazım",
+    "root": "ol",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "mız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "We should not be selfish in difficult times",
+  "russian_example_sentence": "Мы не должны быть эгоистичными в трудные времена",
+  "turkish_example_sentence": "Biz zor zamanlarda bencil olmaması lazım",
+  "turkish_example_sentence_with_blank": "Biz zor zamanlarda bencil ______"
+}

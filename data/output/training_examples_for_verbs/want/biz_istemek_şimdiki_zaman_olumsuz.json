@@ -4,17 +4,17 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemiyoruz",
+    "verb_full": "istemiyor",
     "root": "iste",
-    "tense_affix": "yor",
+    "tense_affix": "iyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "uz",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "m"
   },
-  "english_example_sentence": "We do not want to eat pizza.",
-  "russian_example_sentence": "Мы не хотим есть пиццу.",
-  "turkish_example_sentence": "Biz peynirsiz pizza istemiyoruz.",
-  "turkish_example_sentence_with_blank": "Biz peynirsiz pizza ______."
+  "english_example_sentence": "We do not want noisy crowded public places",
+  "russian_example_sentence": "Мы не хотим шумные переполненные общественные места",
+  "turkish_example_sentence": "Biz gürültülü kalabalık halka açık yerleri istemiyor",
+  "turkish_example_sentence_with_blank": "Biz gürültülü kalabalık halka açık yerleri ______"
 }

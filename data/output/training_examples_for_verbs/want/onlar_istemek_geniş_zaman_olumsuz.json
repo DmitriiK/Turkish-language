@@ -4,17 +4,17 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemiyorlar",
+    "verb_full": "istemezler",
     "root": "iste",
-    "tense_affix": "",
+    "tense_affix": "r",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "ler",
     "polarity": "negative",
-    "negative_affix": "mi"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "They do not want to go.",
-  "russian_example_sentence": "Они не хотят идти.",
-  "turkish_example_sentence": "Çocuklar oyun oynamak istemiyorlar.",
-  "turkish_example_sentence_with_blank": "Çocuklar oyun oynamak ______."
+  "english_example_sentence": "They do not want early morning boring lectures",
+  "russian_example_sentence": "Они не хотят ранние утренние скучные лекции",
+  "turkish_example_sentence": "Onlar erken sabah sıkıcı dersleri istemezler",
+  "turkish_example_sentence_with_blank": "Onlar erken sabah sıkıcı dersleri ______"
 }

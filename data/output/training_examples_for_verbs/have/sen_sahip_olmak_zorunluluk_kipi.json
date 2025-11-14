@@ -4,17 +4,17 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip oluyorsun",
+    "verb_full": "sahip olmalısın",
     "root": "sahip ol",
-    "tense_affix": "uyor",
+    "tense_affix": "malı",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "sun",
+    "personal_affix": "sın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You have a beautiful car.",
-  "russian_example_sentence": "У тебя красивая машина.",
-  "turkish_example_sentence": "Sen güzel bir arabaya sahip oluyorsun.",
-  "turkish_example_sentence_with_blank": "Sen güzel bir arabaya ______."
+  "english_example_sentence": "You must have proper identification at the airport",
+  "russian_example_sentence": "Ты должен иметь надлежащее удостоверение личности в аэропорту",
+  "turkish_example_sentence": "Sen havaalanında uygun bir kimlik belgesine sahip olmalısın",
+  "turkish_example_sentence_with_blank": "Sen havaalanında uygun bir kimlik belgesine ______"
 }

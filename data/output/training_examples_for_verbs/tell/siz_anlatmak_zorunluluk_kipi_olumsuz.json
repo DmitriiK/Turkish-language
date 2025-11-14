@@ -1,0 +1,20 @@
+{
+  "verb_rank": 18,
+  "verb_english": "tell",
+  "verb_russian": "рассказывать",
+  "verb_infinitive": "anlatmak",
+  "turkish_verb": {
+    "verb_full": "anlatmamalısınız",
+    "root": "anlat",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "sınız",
+    "polarity": "negative",
+    "negative_affix": "mama"
+  },
+  "english_example_sentence": "You must not tell the confidential business details",
+  "russian_example_sentence": "Вы не должны рассказывать конфиденциальные деловые детали",
+  "turkish_example_sentence": "Siz bu gizli ticari detayları müşterilere anlatmamalısınız",
+  "turkish_example_sentence_with_blank": "Siz bu gizli ticari detayları müşterilere ______"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 11,
+  "verb_english": "see",
+  "verb_russian": "видеть",
+  "verb_infinitive": "görmek",
+  "turkish_verb": {
+    "verb_full": "görmemem lazım",
+    "root": "gör",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "I should not see that violent movie",
+  "russian_example_sentence": "Я не должен смотреть этот жестокий фильм",
+  "turkish_example_sentence": "Ben o şiddetli filmi görmemem lazım",
+  "turkish_example_sentence_with_blank": "Ben o şiddetli filmi ______"
+}

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "söylemeyeceğim",
     "root": "söyle",
-    "tense_affix": "meye",
+    "tense_affix": "yecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "im",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "I will not say the truth.",
-  "russian_example_sentence": "Я не скажу правду.",
-  "turkish_example_sentence": "Ben gerçeği söylemeyeceğim.",
-  "turkish_example_sentence_with_blank": "Ben gerçeği ______."
+  "english_example_sentence": "I will not say anything about this secret",
+  "russian_example_sentence": "Я не скажу ничего об этом секрете",
+  "turkish_example_sentence": "Ben bu gizli konuyu kimseye söylemeyeceğim",
+  "turkish_example_sentence_with_blank": "Ben bu gizli konuyu kimseye ______"
 }

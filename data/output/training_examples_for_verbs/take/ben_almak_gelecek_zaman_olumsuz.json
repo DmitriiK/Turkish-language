@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "almayacağım",
     "root": "al",
-    "tense_affix": "yacak",
+    "tense_affix": "acak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "ım",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I will not take the book.",
-  "russian_example_sentence": "Я не возьму книгу.",
-  "turkish_example_sentence": "Ben kitabı almayacağım.",
-  "turkish_example_sentence_with_blank": "Ben kitabı ______."
+  "english_example_sentence": "I will not take the expensive gift",
+  "russian_example_sentence": "Я не возьму дорогой подарок",
+  "turkish_example_sentence": "Ben pahalı hediyeyi almayacağım",
+  "turkish_example_sentence_with_blank": "Ben pahalı hediyeyi ______"
 }

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 15,
+  "verb_english": "use",
+  "verb_russian": "использовать",
+  "verb_infinitive": "kullanmak",
+  "turkish_verb": {
+    "verb_full": "kullanmamanız lazım",
+    "root": "kullan",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "You must not use personal devices in the office",
+  "russian_example_sentence": "Вы не должны использовать личные устройства в офисе",
+  "turkish_example_sentence": "Siz ofiste kişisel elektronik cihazları kullanmamanız lazım",
+  "turkish_example_sentence_with_blank": "Siz ofiste kişisel elektronik cihazları ______"
+}

@@ -4,17 +4,17 @@
   "verb_russian": "использовать",
   "verb_infinitive": "kullanmak",
   "turkish_verb": {
-    "verb_full": "kullanmıyorsunuz",
+    "verb_full": "kullanmazsınız",
     "root": "kullan",
-    "tense_affix": "",
+    "tense_affix": "ır",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "sınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You do not use this method.",
-  "russian_example_sentence": "Вы не используете этот метод.",
-  "turkish_example_sentence": "Bu yöntemi kullanmıyorsunuz.",
-  "turkish_example_sentence_with_blank": "Bu yöntemi ______."
+  "english_example_sentence": "You do not use traditional cooking methods at home",
+  "russian_example_sentence": "Вы не используете традиционные методы приготовления дома",
+  "turkish_example_sentence": "Siz evde geleneksel pişirme yöntemlerini kullanmazsınız",
+  "turkish_example_sentence_with_blank": "Siz evde geleneksel pişirme yöntemlerini ______"
 }

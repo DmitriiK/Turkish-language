@@ -4,17 +4,17 @@
   "verb_russian": "использовать",
   "verb_infinitive": "kullanmak",
   "turkish_verb": {
-    "verb_full": "kullanacağım",
+    "verb_full": "kullanacak",
     "root": "kullan",
     "tense_affix": "acak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "ım",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The teacher will use the new books.",
-  "russian_example_sentence": "Учитель будет использовать новые книги.",
-  "turkish_example_sentence": "Öğretmen yeni kitapları kullanacağım.",
-  "turkish_example_sentence_with_blank": "Öğretmen yeni kitapları ______."
+  "english_example_sentence": "He will use the modern kitchen equipment",
+  "russian_example_sentence": "Он будет использовать современное кухонное оборудование",
+  "turkish_example_sentence": "O mutfakta modern aletleri kullanacak",
+  "turkish_example_sentence_with_blank": "O mutfakta modern aletleri ______"
 }

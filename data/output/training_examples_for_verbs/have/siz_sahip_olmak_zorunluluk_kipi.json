@@ -4,17 +4,17 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip oluyorsunuz",
+    "verb_full": "sahip olmalısınız",
     "root": "sahip ol",
-    "tense_affix": "uyor",
+    "tense_affix": "malı",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "sunuz",
+    "personal_affix": "sınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You have a beautiful house.",
-  "russian_example_sentence": "У вас красивый дом.",
-  "turkish_example_sentence": "Siz güzel bir eve sahip oluyorsunuz.",
-  "turkish_example_sentence_with_blank": "Siz güzel bir eve ______."
+  "english_example_sentence": "You must have all required documents ready tomorrow",
+  "russian_example_sentence": "Вы должны иметь все необходимые документы готовыми завтра",
+  "turkish_example_sentence": "Siz yarın tüm gerekli evrakları hazır olarak sahip olmalısınız",
+  "turkish_example_sentence_with_blank": "Siz yarın tüm gerekli evrakları hazır olarak ______"
 }

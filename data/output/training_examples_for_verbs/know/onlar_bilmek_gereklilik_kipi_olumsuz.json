@@ -1,0 +1,20 @@
+{
+  "verb_rank": 8,
+  "verb_english": "know",
+  "verb_russian": "знать",
+  "verb_infinitive": "bilmek",
+  "turkish_verb": {
+    "verb_full": "bilmemeleri lazım",
+    "root": "bil",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "ları",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "They don't need to know the sensitive political situation",
+  "russian_example_sentence": "Им не нужно знать чувствительную политическую ситуацию",
+  "turkish_example_sentence": "Onlar hassas siyasi durumu bilmemeleri lazım",
+  "turkish_example_sentence_with_blank": "Onlar hassas siyasi durumu ______"
+}

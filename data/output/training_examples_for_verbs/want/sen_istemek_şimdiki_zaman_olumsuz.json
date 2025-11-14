@@ -4,17 +4,17 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemiyorum",
+    "verb_full": "istemiyor",
     "root": "iste",
-    "tense_affix": "yor",
+    "tense_affix": "iyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "um",
+    "personal_affix": "sun",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "m"
   },
-  "english_example_sentence": "You do not want to eat this food.",
-  "russian_example_sentence": "Ты не хочешь есть эту еду.",
-  "turkish_example_sentence": "Sen bu yemeği istemiyorum.",
-  "turkish_example_sentence_with_blank": "Sen bu yemeği ______."
+  "english_example_sentence": "You do not want expensive leather shoes",
+  "russian_example_sentence": "Ты не хочешь дорогие кожаные туфли",
+  "turkish_example_sentence": "Sen pahalı deri ayakkabıları istemiyor",
+  "turkish_example_sentence_with_blank": "Sen pahalı deri ayakkabıları ______"
 }

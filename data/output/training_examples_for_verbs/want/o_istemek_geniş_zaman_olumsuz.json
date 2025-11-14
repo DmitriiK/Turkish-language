@@ -4,17 +4,17 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemiyor",
+    "verb_full": "istemez",
     "root": "iste",
-    "tense_affix": "",
+    "tense_affix": "r",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "mi"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "He does not want to go to the event.",
-  "russian_example_sentence": "Он не хочет идти на мероприятие.",
-  "turkish_example_sentence": "O etkinliğe gitmiyor.",
-  "turkish_example_sentence_with_blank": "O etkinliğe gitmiyor."
+  "english_example_sentence": "She does not want heavy dark chocolate cake",
+  "russian_example_sentence": "Она не хочет тяжелый темный шоколадный торт",
+  "turkish_example_sentence": "O ağır koyu çikolatalı pastayı istemez",
+  "turkish_example_sentence_with_blank": "O ağır koyu çikolatalı pastayı ______"
 }

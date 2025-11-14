@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "bakmam",
     "root": "bak",
-    "tense_affix": "",
+    "tense_affix": "ar",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ım",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I do not look at the beautiful house.",
-  "russian_example_sentence": "Я не смотрю на красивый дом.",
-  "turkish_example_sentence": "Ben güzel eve bakmam.",
-  "turkish_example_sentence_with_blank": "Ben güzel eve ______."
+  "english_example_sentence": "I do not look at old newspapers in the morning",
+  "russian_example_sentence": "Я не смотрю на старые газеты утром",
+  "turkish_example_sentence": "Ben sabah eski gazete haberlerine bakmam",
+  "turkish_example_sentence_with_blank": "Ben sabah eski gazete haberlerine ______"
 }

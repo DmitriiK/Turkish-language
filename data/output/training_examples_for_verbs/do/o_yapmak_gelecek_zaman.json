@@ -4,17 +4,17 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapacağım",
+    "verb_full": "yapacak",
     "root": "yap",
     "tense_affix": "acak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "ım",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He will do the project tomorrow.",
-  "russian_example_sentence": "Он сделает проект завтра.",
-  "turkish_example_sentence": "O, yarın projeyi yapacağım.",
-  "turkish_example_sentence_with_blank": "O, yarın projeyi ______."
+  "english_example_sentence": "She will do the beautiful garden design",
+  "russian_example_sentence": "Она будет делать красивый дизайн сада",
+  "turkish_example_sentence": "O güzel bahçe tasarımını yapacak",
+  "turkish_example_sentence_with_blank": "O güzel bahçe tasarımını ______"
 }

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "kullanmanız lazım",
     "root": "kullan",
-    "tense_affix": "ma",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to use the computer.",
-  "russian_example_sentence": "Вам нужно использовать компьютер.",
-  "turkish_example_sentence": "Siz bilgisayarı kullanmanız lazım.",
-  "turkish_example_sentence_with_blank": "Siz bilgisayarı ______."
+  "english_example_sentence": "You all need to use the updated training manual",
+  "russian_example_sentence": "Вам нужно использовать обновленное руководство обучения",
+  "turkish_example_sentence": "Siz güncellenmiş eğitim kitapçığını kullanmanız lazım",
+  "turkish_example_sentence_with_blank": "Siz güncellenmiş eğitim kitapçığını ______"
 }

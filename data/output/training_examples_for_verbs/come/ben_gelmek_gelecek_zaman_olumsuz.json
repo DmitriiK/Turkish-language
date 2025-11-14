@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gelmeyeceğim",
     "root": "gel",
-    "tense_affix": "yacak",
+    "tense_affix": "ecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "im",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "I will not come to the party.",
-  "russian_example_sentence": "Я не приду на вечеринку.",
-  "turkish_example_sentence": "Ben partiye gelmeyeceğim.",
-  "turkish_example_sentence_with_blank": "Ben partiye ______."
+  "english_example_sentence": "I will not come to the crowded market today",
+  "russian_example_sentence": "Я не приду на переполненный рынок сегодня",
+  "turkish_example_sentence": "Ben bugün kalabalık pazara gelmeyeceğim",
+  "turkish_example_sentence_with_blank": "Ben bugün kalabalık pazara ______"
 }

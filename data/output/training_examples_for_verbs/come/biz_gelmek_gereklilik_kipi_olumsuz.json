@@ -1,0 +1,20 @@
+{
+  "verb_rank": 12,
+  "verb_english": "come",
+  "verb_russian": "приходить",
+  "verb_infinitive": "gelmek",
+  "turkish_verb": {
+    "verb_full": "gelmememiz lazım",
+    "root": "gel",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "mız",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "We do not need to come to the long professional conference",
+  "russian_example_sentence": "Нам не нужно приходить на долгую профессиональную конференцию",
+  "turkish_example_sentence": "Biz uzun profesyonel konferansa gelmememiz lazım",
+  "turkish_example_sentence_with_blank": "Biz uzun profesyonel konferansa ______"
+}

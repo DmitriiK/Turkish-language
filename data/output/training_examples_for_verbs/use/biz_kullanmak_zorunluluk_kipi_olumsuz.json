@@ -1,0 +1,20 @@
+{
+  "verb_rank": 15,
+  "verb_english": "use",
+  "verb_russian": "использовать",
+  "verb_infinitive": "kullanmak",
+  "turkish_verb": {
+    "verb_full": "kullanmamalıyız",
+    "root": "kullan",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "yız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "We must not use plastic bags anymore",
+  "russian_example_sentence": "Мы не должны больше использовать пластиковые пакеты",
+  "turkish_example_sentence": "Biz artık tek kullanımlık plastik torbaları kullanmamalıyız",
+  "turkish_example_sentence_with_blank": "Biz artık tek kullanımlık plastik torbaları ______"
+}

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "söylerler",
     "root": "söyle",
-    "tense_affix": "",
+    "tense_affix": "r",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "ler",
+    "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The children say interesting stories.",
-  "russian_example_sentence": "Дети рассказывают интересные истории.",
-  "turkish_example_sentence": "Çocuklar ilginç hikayeler söylerler.",
-  "turkish_example_sentence_with_blank": "Çocuklar ilginç hikayeler ______."
+  "english_example_sentence": "They always say beautiful things about nature",
+  "russian_example_sentence": "Они всегда говорят красивые вещи о природе",
+  "turkish_example_sentence": "Onlar doğa hakkında her zaman güzel sözler söylerler",
+  "turkish_example_sentence_with_blank": "Onlar doğa hakkında her zaman güzel sözler ______"
 }

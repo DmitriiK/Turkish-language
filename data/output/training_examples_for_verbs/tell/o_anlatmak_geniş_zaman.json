@@ -4,17 +4,17 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatıyor",
+    "verb_full": "anlatır",
     "root": "anlat",
-    "tense_affix": "ıyor",
+    "tense_affix": "ır",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "u",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The teacher tells a story.",
-  "russian_example_sentence": "Учитель рассказывает историю.",
-  "turkish_example_sentence": "Öğretmen bir hikaye anlatıyor.",
-  "turkish_example_sentence_with_blank": "Öğretmen bir hikaye ______."
+  "english_example_sentence": "He tells detailed accounts of his travels",
+  "russian_example_sentence": "Он рассказывает подробные рассказы о своих путешествиях",
+  "turkish_example_sentence": "O uzun yolculuklarının heyecan verici detaylarını anlatır",
+  "turkish_example_sentence_with_blank": "O uzun yolculuklarının heyecan verici detaylarını ______"
 }

@@ -4,17 +4,17 @@
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmamız",
+    "verb_full": "olmayız",
     "root": "ol",
-    "tense_affix": "",
+    "tense_affix": "ur",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "ız",
+    "personal_affix": "uz",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "We are not friends",
-  "russian_example_sentence": "Мы не друзья",
-  "turkish_example_sentence": "Biz iyi arkadaşlar olmamız.",
-  "turkish_example_sentence_with_blank": "Biz iyi arkadaşlar ______."
+  "english_example_sentence": "We are not usually late for important meetings",
+  "russian_example_sentence": "Мы обычно не опаздываем на важные встречи",
+  "turkish_example_sentence": "Biz önemli toplantılara genellikle geç olmayız",
+  "turkish_example_sentence_with_blank": "Biz önemli toplantılara genellikle geç ______"
 }

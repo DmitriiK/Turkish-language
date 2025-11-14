@@ -4,17 +4,17 @@
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "aramıyorum",
+    "verb_full": "ararım",
     "root": "ara",
-    "tense_affix": "",
+    "tense_affix": "r",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I call my friend every week.",
-  "russian_example_sentence": "Я звоню своему другу каждую неделю.",
-  "turkish_example_sentence": "Ben her hafta arkadaşımı arıyorum.",
-  "turkish_example_sentence_with_blank": "Ben her hafta arkadaşımı arıyorum."
+  "english_example_sentence": "I call my elderly grandmother every morning",
+  "russian_example_sentence": "Я звоню своей пожилой бабушке каждое утро",
+  "turkish_example_sentence": "Ben yaşlı büyükanneyi her sabah ararım",
+  "turkish_example_sentence_with_blank": "Ben yaşlı büyükanneyi her sabah ______"
 }

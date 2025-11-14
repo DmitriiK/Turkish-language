@@ -1,0 +1,20 @@
+{
+  "verb_rank": 10,
+  "verb_english": "take",
+  "verb_russian": "брать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "alamazsınız",
+    "root": "al",
+    "tense_affix": "ama",
+    "verb_tense": "imkan_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "zsınız",
+    "polarity": "negative",
+    "negative_affix": "ama"
+  },
+  "english_example_sentence": "You cannot take the confidential important documents outside",
+  "russian_example_sentence": "Вы не можете взять конфиденциальные важные документы наружу",
+  "turkish_example_sentence": "Siz gizli önemli belgeleri dışarı alamazsınız",
+  "turkish_example_sentence_with_blank": "Siz gizli önemli belgeleri dışarı ______"
+}

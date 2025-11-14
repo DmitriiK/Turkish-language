@@ -1,0 +1,20 @@
+{
+  "verb_rank": 1,
+  "verb_english": "be",
+  "verb_russian": "быть",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olmayın",
+    "root": "ol",
+    "tense_affix": "",
+    "verb_tense": "emir_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "un",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "Don't be careless with valuable documents",
+  "russian_example_sentence": "Не будьте небрежны с важными документами",
+  "turkish_example_sentence": "Siz değerli evraklar hakkında dikkatsiz olmayın",
+  "turkish_example_sentence_with_blank": "Siz değerli evraklar hakkında dikkatsiz ______"
+}

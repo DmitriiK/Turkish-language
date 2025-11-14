@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "görecek",
     "root": "gör",
-    "tense_affix": "e",
+    "tense_affix": "ecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "cek",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The teacher will see the students tomorrow.",
-  "russian_example_sentence": "Учитель увидит студентов завтра.",
-  "turkish_example_sentence": "Öğretmen yarın öğrencileri görecek.",
-  "turkish_example_sentence_with_blank": "Öğretmen yarın öğrencileri ______."
+  "english_example_sentence": "He will see the interesting museum exhibition next month",
+  "russian_example_sentence": "Он увидит интересную выставку музея в следующем месяце",
+  "turkish_example_sentence": "O gelecek ay ilginç müze sergisini görecek",
+  "turkish_example_sentence_with_blank": "O gelecek ay ilginç müze sergisini ______"
 }

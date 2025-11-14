@@ -4,17 +4,17 @@
   "verb_russian": "использовать",
   "verb_infinitive": "kullanmak",
   "turkish_verb": {
-    "verb_full": "kullanacaklar",
+    "verb_full": "kullanmalılar",
     "root": "kullan",
-    "tense_affix": "acak",
+    "tense_affix": "malı",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The students will use the new computers.",
-  "russian_example_sentence": "Студенты будут использовать новые компьютеры.",
-  "turkish_example_sentence": "Öğrenciler yeni bilgisayarları kullanacaklar.",
-  "turkish_example_sentence_with_blank": "Öğrenciler yeni bilgisayarları ______."
+  "english_example_sentence": "They must use clean water for cooking",
+  "russian_example_sentence": "Они должны использовать чистую воду для приготовления пищи",
+  "turkish_example_sentence": "Onlar yemek pişirmek için temiz suyu kullanmalılar",
+  "turkish_example_sentence_with_blank": "Onlar yemek pişirmek için temiz suyu ______"
 }

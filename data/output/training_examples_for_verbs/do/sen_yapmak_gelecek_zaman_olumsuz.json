@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "yapmayacaksın",
     "root": "yap",
-    "tense_affix": "yacak",
+    "tense_affix": "acak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "sın",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You will not do your homework",
-  "russian_example_sentence": "Ты не будешь делать домашнее задание",
-  "turkish_example_sentence": "Sen ödevini yapmayacaksın.",
-  "turkish_example_sentence_with_blank": "Sen ödevini ______."
+  "english_example_sentence": "You will not do the same mistake again",
+  "russian_example_sentence": "Ты не будешь делать ту же ошибку снова",
+  "turkish_example_sentence": "Sen aynı hatayı tekrar yapmayacaksın",
+  "turkish_example_sentence_with_blank": "Sen aynı hatayı tekrar ______"
 }

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gitmeyeceksin",
     "root": "git",
-    "tense_affix": "yacak",
+    "tense_affix": "ecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "sin",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You will not go to the party.",
-  "russian_example_sentence": "Ты не пойдёшь на вечеринку.",
-  "turkish_example_sentence": "Sen bu akşam partiye gitmeyeceksin.",
-  "turkish_example_sentence_with_blank": "Sen bu akşam partiye ______."
+  "english_example_sentence": "You will not go to the expensive restaurant alone",
+  "russian_example_sentence": "Ты не пойдешь в дорогой ресторан один",
+  "turkish_example_sentence": "Sen pahalı restoranda yalnız gitmeyeceksin",
+  "turkish_example_sentence_with_blank": "Sen pahalı restoranda yalnız ______"
 }

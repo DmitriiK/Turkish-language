@@ -4,17 +4,17 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "vermesi lazım",
+    "verb_full": "vermeleri lazım",
     "root": "ver",
-    "tense_affix": "me",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "si",
+    "personal_affix": "ları",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They need to give money.",
-  "russian_example_sentence": "Им нужно дать деньги.",
-  "turkish_example_sentence": "Onların parayı vermesi lazım.",
-  "turkish_example_sentence_with_blank": "Onların parayı ______."
+  "english_example_sentence": "They need to give their complete answers to the strict teacher",
+  "russian_example_sentence": "Они должны дать полные ответы строгому учителю",
+  "turkish_example_sentence": "Onlar tam cevaplarını katı öğretmene vermeleri lazım",
+  "turkish_example_sentence_with_blank": "Onlar tam cevaplarını katı öğretmene ______"
 }

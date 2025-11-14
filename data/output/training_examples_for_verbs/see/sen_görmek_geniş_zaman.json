@@ -4,17 +4,17 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görüyorsun",
+    "verb_full": "görürsün",
     "root": "gör",
-    "tense_affix": "iyor",
+    "tense_affix": "ür",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "sun",
+    "personal_affix": "sün",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You see the beautiful flowers.",
-  "russian_example_sentence": "Ты видишь красивые цветы.",
-  "turkish_example_sentence": "Sen güzel çiçekleri görüyorsun.",
-  "turkish_example_sentence_with_blank": "Sen güzel çiçekleri ______."
+  "english_example_sentence": "You see the tall buildings downtown",
+  "russian_example_sentence": "Ты видишь высокие здания в центре",
+  "turkish_example_sentence": "Sen şehir merkezindeki yüksek binaları görürsün",
+  "turkish_example_sentence_with_blank": "Sen şehir merkezindeki yüksek binaları ______"
 }

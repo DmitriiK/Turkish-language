@@ -1,0 +1,20 @@
+{
+  "verb_rank": 9,
+  "verb_english": "think",
+  "verb_russian": "думать",
+  "verb_infinitive": "düşünmek",
+  "turkish_verb": {
+    "verb_full": "düşünmememiz lazım",
+    "root": "düşün",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "mız",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "We should not think about the failed experiment",
+  "russian_example_sentence": "Нам не нужно думать о неудачном эксперименте",
+  "turkish_example_sentence": "Biz başarısız deneyi düşünmememiz lazım",
+  "turkish_example_sentence_with_blank": "Biz başarısız deneyi ______"
+}

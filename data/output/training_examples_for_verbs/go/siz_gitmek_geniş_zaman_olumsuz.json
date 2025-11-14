@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmiyorsunuz",
+    "verb_full": "gitmesiniz",
     "root": "git",
-    "tense_affix": "",
+    "tense_affix": "er",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "sunuz",
+    "personal_affix": "siniz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You do not go to school.",
-  "russian_example_sentence": "Вы не идёте в школу.",
-  "turkish_example_sentence": "Siz okula gitmiyorsunuz.",
-  "turkish_example_sentence_with_blank": "Siz okula ______."
+  "english_example_sentence": "You do not go to the dangerous steep mountain",
+  "russian_example_sentence": "Вы не ходите на опасную крутую гору",
+  "turkish_example_sentence": "Siz tehlikeli dik dağa gitmesiniz",
+  "turkish_example_sentence_with_blank": "Siz tehlikeli dik dağa ______"
 }

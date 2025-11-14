@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "çalışmadı",
     "root": "çalış",
-    "tense_affix": "dı",
+    "tense_affix": "tı",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "He did not work yesterday.",
-  "russian_example_sentence": "Он не работал вчера.",
-  "turkish_example_sentence": "Ahmet dün çalışmadı.",
-  "turkish_example_sentence_with_blank": "Ahmet dün ______."
+  "english_example_sentence": "He did not work on the important research",
+  "russian_example_sentence": "Он не работал над важным исследованием",
+  "turkish_example_sentence": "O önemli araştırma konusunda çalışmadı",
+  "turkish_example_sentence_with_blank": "O önemli araştırma konusunda ______"
 }

@@ -4,17 +4,17 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "veriyor",
+    "verb_full": "verir",
     "root": "ver",
-    "tense_affix": "iyor",
+    "tense_affix": "ir",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "u",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The teacher is giving an interesting lesson.",
-  "russian_example_sentence": "Учитель дает интересный урок.",
-  "turkish_example_sentence": "Öğretmen ilginç bir dersi veriyor.",
-  "turkish_example_sentence_with_blank": "Öğretmen ilginç bir dersi ______."
+  "english_example_sentence": "She gives fresh flowers to her mother every week",
+  "russian_example_sentence": "Она дает свежие цветы своей матери каждую неделю",
+  "turkish_example_sentence": "O taze çiçekleri annesine her hafta verir",
+  "turkish_example_sentence_with_blank": "O taze çiçekleri annesine her hafta ______"
 }

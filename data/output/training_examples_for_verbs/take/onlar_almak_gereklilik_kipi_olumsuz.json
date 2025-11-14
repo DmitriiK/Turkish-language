@@ -1,0 +1,20 @@
+{
+  "verb_rank": 10,
+  "verb_english": "take",
+  "verb_russian": "брать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almamları lazım",
+    "root": "al",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "ları",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "They should not take the stolen valuable jewelry",
+  "russian_example_sentence": "Им не нужно брать украденные ценные украшения",
+  "turkish_example_sentence": "Onlar çalıntı değerli mücevherleri almamları lazım",
+  "turkish_example_sentence_with_blank": "Onlar çalıntı değerli mücevherleri ______"
+}

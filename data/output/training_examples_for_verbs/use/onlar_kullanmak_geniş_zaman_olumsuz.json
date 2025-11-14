@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "kullanmazlar",
     "root": "kullan",
-    "tense_affix": "",
+    "tense_affix": "ır",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
-    "negative_affix": "maz"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "They do not use the new computer.",
-  "russian_example_sentence": "Они не используют новый компьютер.",
-  "turkish_example_sentence": "Öğrenciler yeni bilgisayarı kullanmazlar.",
-  "turkish_example_sentence_with_blank": "Öğrenciler yeni bilgisayarı ______."
+  "english_example_sentence": "They do not use frozen food in their restaurant",
+  "russian_example_sentence": "Они не используют замороженную еду в своём ресторане",
+  "turkish_example_sentence": "Onlar restoranlarında dondurulmuş yiyecekleri kullanmazlar",
+  "turkish_example_sentence_with_blank": "Onlar restoranlarında dondurulmuş yiyecekleri ______"
 }

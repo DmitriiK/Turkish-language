@@ -1,0 +1,20 @@
+{
+  "verb_rank": 17,
+  "verb_english": "give",
+  "verb_russian": "давать",
+  "verb_infinitive": "vermek",
+  "turkish_verb": {
+    "verb_full": "vermemeliyin",
+    "root": "ver",
+    "tense_affix": "meli",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "yim",
+    "polarity": "negative",
+    "negative_affix": "meme"
+  },
+  "english_example_sentence": "I must not give my savings to unreliable people",
+  "russian_example_sentence": "Я не должен давать свои сбережения ненадежным людям",
+  "turkish_example_sentence": "Ben kendi birikimlerimi güvenilmez insanlara vermemeliyin",
+  "turkish_example_sentence_with_blank": "Ben kendi birikimlerimi güvenilmez insanlara ______"
+}

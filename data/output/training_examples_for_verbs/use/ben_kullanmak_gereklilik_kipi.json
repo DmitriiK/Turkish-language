@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "kullanmam lazım",
     "root": "kullan",
-    "tense_affix": "ma",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I need to use my computer for school.",
-  "russian_example_sentence": "Мне нужно использовать мой компьютер для школы.",
-  "turkish_example_sentence": "Ben okulum için bilgisayarı kullanmam lazım.",
-  "turkish_example_sentence_with_blank": "Ben okulum için bilgisayarı ______."
+  "english_example_sentence": "I need to use the new computer software",
+  "russian_example_sentence": "Мне нужно использовать новое программное обеспечение",
+  "turkish_example_sentence": "Ben yeni bilgisayar yazılımını kullanmam lazım",
+  "turkish_example_sentence_with_blank": "Ben yeni bilgisayar yazılımını ______"
 }

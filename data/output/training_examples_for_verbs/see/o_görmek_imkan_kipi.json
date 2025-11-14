@@ -4,17 +4,17 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görüyor",
+    "verb_full": "görebilir",
     "root": "gör",
-    "tense_affix": "üyor",
+    "tense_affix": "ebil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "u",
+    "personal_affix": "ir",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The teacher sees the students.",
-  "russian_example_sentence": "Учитель видит студентов.",
-  "turkish_example_sentence": "Öğretmen öğrencileri görüyor.",
-  "turkish_example_sentence_with_blank": "Öğretmen öğrencileri ______."
+  "english_example_sentence": "She can see the old castle from the tower",
+  "russian_example_sentence": "Она может видеть старый замок с башни",
+  "turkish_example_sentence": "O kuleden eski şatoyı görebilir",
+  "turkish_example_sentence_with_blank": "O kuleden eski şatoyı ______"
 }

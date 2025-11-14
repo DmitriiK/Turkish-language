@@ -4,17 +4,17 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulmalıdır",
+    "verb_full": "bulmalı",
     "root": "bul",
     "tense_affix": "malı",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "dır",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He must find a solution.",
-  "russian_example_sentence": "Он должен найти решение.",
-  "turkish_example_sentence": "O, önemli bir çözüm bulmalıdır.",
-  "turkish_example_sentence_with_blank": "O, önemli bir çözüm ______."
+  "english_example_sentence": "He must find the beautiful green garden path",
+  "russian_example_sentence": "Он должен найти красивую зеленую дорожку в саду",
+  "turkish_example_sentence": "O güzel yeşil bahçe yolunu bulmalı",
+  "turkish_example_sentence_with_blank": "O güzel yeşil bahçe yolunu ______"
 }

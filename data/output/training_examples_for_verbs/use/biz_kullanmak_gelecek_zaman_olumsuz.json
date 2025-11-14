@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "kullanmayacağız",
     "root": "kullan",
-    "tense_affix": "yacak",
+    "tense_affix": "acak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "ız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "We will not use the new software.",
-  "russian_example_sentence": "Мы не будем использовать новое программное обеспечение.",
-  "turkish_example_sentence": "Biz yeni yazılımı kullanmayacağız.",
-  "turkish_example_sentence_with_blank": "Biz yeni yazılımı ______."
+  "english_example_sentence": "We will not use the old wooden furniture",
+  "russian_example_sentence": "Мы не будем использовать старую деревянную мебель",
+  "turkish_example_sentence": "Biz eski ahşap mobilyaları kullanmayacağız",
+  "turkish_example_sentence_with_blank": "Biz eski ahşap mobilyaları ______"
 }

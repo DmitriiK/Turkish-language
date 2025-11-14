@@ -4,17 +4,17 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "alacağız",
+    "verb_full": "almalıyız",
     "root": "al",
-    "tense_affix": "aç",
+    "tense_affix": "malı",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "ız",
+    "personal_affix": "yız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We will take the documents tomorrow.",
-  "russian_example_sentence": "Мы возьмем документы завтра.",
-  "turkish_example_sentence": "Biz yarın belgeleri alacağız.",
-  "turkish_example_sentence_with_blank": "Biz yarın belgeleri ______."
+  "english_example_sentence": "We must take the comfortable bus tomorrow",
+  "russian_example_sentence": "Мы должны взять удобный автобус завтра",
+  "turkish_example_sentence": "Biz yarın rahat otobüsü almalıyız",
+  "turkish_example_sentence_with_blank": "Biz yarın rahat otobüsü ______"
 }

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "yapmayacağız",
     "root": "yap",
-    "tense_affix": "yacak",
+    "tense_affix": "acak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "ız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "We will not do the project together.",
-  "russian_example_sentence": "Мы не будем делать проект вместе.",
-  "turkish_example_sentence": "Biz projeyi birlikte yapmayacağız.",
-  "turkish_example_sentence_with_blank": "Biz projeyi birlikte ______."
+  "english_example_sentence": "We will not do the unnecessary repairs",
+  "russian_example_sentence": "Мы не будем делать ненужный ремонт",
+  "turkish_example_sentence": "Biz gereksiz onarımları yapmayacağız",
+  "turkish_example_sentence_with_blank": "Biz gereksiz onarımları ______"
 }

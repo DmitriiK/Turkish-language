@@ -4,17 +4,17 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olmuyor",
-    "root": "sahip ol",
-    "tense_affix": "",
+    "verb_full": "sahip olmaz",
+    "root": "ol",
+    "tense_affix": "ur",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "m"
   },
-  "english_example_sentence": "The cat does not have a toy.",
-  "russian_example_sentence": "У кошки нет игрушки.",
-  "turkish_example_sentence": "Kedinin bir oyuncağı sahip olmuyor.",
-  "turkish_example_sentence_with_blank": "Kedinin bir oyuncağı ______."
+  "english_example_sentence": "He does not have a small quiet garden",
+  "russian_example_sentence": "У него нет маленького тихого сада",
+  "turkish_example_sentence": "O küçük sessiz bir bahçeye sahip olmaz",
+  "turkish_example_sentence_with_blank": "O küçük sessiz bir bahçeye ______"
 }

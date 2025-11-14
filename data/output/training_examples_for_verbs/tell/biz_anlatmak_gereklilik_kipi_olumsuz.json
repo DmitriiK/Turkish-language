@@ -1,0 +1,20 @@
+{
+  "verb_rank": 18,
+  "verb_english": "tell",
+  "verb_russian": "рассказывать",
+  "verb_infinitive": "anlatmak",
+  "turkish_verb": {
+    "verb_full": "anlatmamamız lazım",
+    "root": "anlat",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "mız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "We should not tell the sad news immediately",
+  "russian_example_sentence": "Мы не должны рассказывать грустные новости сразу",
+  "turkish_example_sentence": "Biz üzücü haberleri hemen anlatmamamız lazım",
+  "turkish_example_sentence_with_blank": "Biz üzücü haberleri hemen ______"
+}

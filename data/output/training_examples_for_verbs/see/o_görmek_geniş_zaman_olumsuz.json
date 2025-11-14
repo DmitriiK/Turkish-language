@@ -4,17 +4,17 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görmüyor",
+    "verb_full": "görmez",
     "root": "gör",
-    "tense_affix": "",
+    "tense_affix": "ür",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "mı"
+    "negative_affix": "mez"
   },
-  "english_example_sentence": "The student does not see the teacher.",
-  "russian_example_sentence": "Студент не видит учителя.",
-  "turkish_example_sentence": "Öğrenci öğretmeni görmüyor.",
-  "turkish_example_sentence_with_blank": "Öğrenci öğretmeni ______."
+  "english_example_sentence": "She doesn't see the problem at all",
+  "russian_example_sentence": "Она вообще не видит проблему",
+  "turkish_example_sentence": "O sorunu hiç görmez",
+  "turkish_example_sentence_with_blank": "O sorunu hiç ______"
 }

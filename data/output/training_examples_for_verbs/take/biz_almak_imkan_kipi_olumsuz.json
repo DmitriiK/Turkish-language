@@ -1,0 +1,20 @@
+{
+  "verb_rank": 10,
+  "verb_english": "take",
+  "verb_russian": "брать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "alamayız",
+    "root": "al",
+    "tense_affix": "ama",
+    "verb_tense": "imkan_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "yız",
+    "polarity": "negative",
+    "negative_affix": "ama"
+  },
+  "english_example_sentence": "We cannot take the large paintings from the museum",
+  "russian_example_sentence": "Мы не можем взять большие картины из музея",
+  "turkish_example_sentence": "Biz müzeden büyük resimleri alamayız",
+  "turkish_example_sentence_with_blank": "Biz müzeden büyük resimleri ______"
+}

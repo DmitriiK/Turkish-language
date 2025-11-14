@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "kullanmayız",
     "root": "kullan",
-    "tense_affix": "",
+    "tense_affix": "ır",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "ız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "We don't use the old computer.",
-  "russian_example_sentence": "Мы не используем старый компьютер.",
-  "turkish_example_sentence": "Eski bilgisayarı kullanmayız.",
-  "turkish_example_sentence_with_blank": "Eski bilgisayarı ______."
+  "english_example_sentence": "We do not use plastic bags at the market",
+  "russian_example_sentence": "Мы не используем пластиковые пакеты на рынке",
+  "turkish_example_sentence": "Biz pazarda plastik torbaları kullanmayız",
+  "turkish_example_sentence_with_blank": "Biz pazarda plastik torbaları ______"
 }

@@ -4,17 +4,17 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulmayacaksın",
+    "verb_full": "bulamayacaksın",
     "root": "bul",
-    "tense_affix": "yacak",
+    "tense_affix": "acak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "sın",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You will not find the book.",
-  "russian_example_sentence": "Ты не найдешь книгу.",
-  "turkish_example_sentence": "Sen bu kitabı bulmayacaksın.",
-  "turkish_example_sentence_with_blank": "Sen bu kitabı ______."
+  "english_example_sentence": "You will not find the old dusty book anywhere",
+  "russian_example_sentence": "Ты не найдешь старую пыльную книгу нигде",
+  "turkish_example_sentence": "Sen hiçbir yerde eski tozlu kitabı bulamayacaksın",
+  "turkish_example_sentence_with_blank": "Sen hiçbir yerde eski tozlu kitabı ______"
 }

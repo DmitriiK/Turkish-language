@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gelmeyeceksin",
     "root": "gel",
-    "tense_affix": "meye",
+    "tense_affix": "ecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "ceksin",
+    "personal_affix": "sin",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You will not come to the party.",
-  "russian_example_sentence": "Ты не придёшь на вечеринку.",
-  "turkish_example_sentence": "Sen bu partiye gelmeyeceksin.",
-  "turkish_example_sentence_with_blank": "Sen bu partiye ______."
+  "english_example_sentence": "You will not come to the boring meeting tomorrow",
+  "russian_example_sentence": "Ты не придёшь на скучное совещание завтра",
+  "turkish_example_sentence": "Sen yarın sıkıcı toplantıya gelmeyeceksin",
+  "turkish_example_sentence_with_blank": "Sen yarın sıkıcı toplantıya ______"
 }

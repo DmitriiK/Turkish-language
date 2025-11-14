@@ -4,17 +4,17 @@
   "verb_russian": "получать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almanız",
+    "verb_full": "almalısınız",
     "root": "al",
-    "tense_affix": "ma",
+    "tense_affix": "malı",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "sınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to get the documents.",
-  "russian_example_sentence": "Вам нужно получить документы.",
-  "turkish_example_sentence": "Siz belgeleri almanız gerekiyor.",
-  "turkish_example_sentence_with_blank": "Siz belgeleri ______ gerekiyor."
+  "english_example_sentence": "You must get your warm coat before winter",
+  "russian_example_sentence": "Вы должны получить свое теплое пальто перед зимой",
+  "turkish_example_sentence": "Siz kış öncesi sıcak paltonuzu almalısınız",
+  "turkish_example_sentence_with_blank": "Siz kış öncesi sıcak paltonuzu ______"
 }

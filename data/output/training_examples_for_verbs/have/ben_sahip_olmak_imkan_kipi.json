@@ -4,17 +4,17 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip oluyorum",
+    "verb_full": "sahip olabilirim",
     "root": "sahip ol",
-    "tense_affix": "uyor",
+    "tense_affix": "abil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "um",
+    "personal_affix": "irim",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I have a beautiful house.",
-  "russian_example_sentence": "У меня есть красивый дом.",
-  "turkish_example_sentence": "Ben güzel bir eve sahip oluyorum.",
-  "turkish_example_sentence_with_blank": "Ben güzel bir eve ______."
+  "english_example_sentence": "I can have a beautiful garden tomorrow",
+  "russian_example_sentence": "Я могу иметь красивый сад завтра",
+  "turkish_example_sentence": "Ben yarın güzel bir bahçeye sahip olabilirim",
+  "turkish_example_sentence_with_blank": "Ben yarın güzel bir bahçeye ______"
 }

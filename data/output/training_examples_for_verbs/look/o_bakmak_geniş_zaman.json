@@ -4,17 +4,17 @@
   "verb_russian": "смотреть",
   "verb_infinitive": "bakmak",
   "turkish_verb": {
-    "verb_full": "bakıyor",
+    "verb_full": "bakar",
     "root": "bak",
-    "tense_affix": "ıyor",
+    "tense_affix": "ar",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "u",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The teacher looks at the students.",
-  "russian_example_sentence": "Учитель смотрит на студентов.",
-  "turkish_example_sentence": "Öğretmen öğrencileri bakıyor.",
-  "turkish_example_sentence_with_blank": "Öğretmen öğrencileri ______."
+  "english_example_sentence": "He looks at the tall mountains with wonder",
+  "russian_example_sentence": "Он смотрит на высокие горы с удивлением",
+  "turkish_example_sentence": "O hayranlıkla yüksek dağlara bakar",
+  "turkish_example_sentence_with_blank": "O hayranlıkla yüksek dağlara ______"
 }

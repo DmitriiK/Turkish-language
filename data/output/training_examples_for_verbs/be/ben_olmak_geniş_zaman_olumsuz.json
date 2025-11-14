@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "olmam",
     "root": "ol",
-    "tense_affix": "",
+    "tense_affix": "ur",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "um",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I am not a student.",
-  "russian_example_sentence": "Я не студент.",
-  "turkish_example_sentence": "Ben öğrenci olmam.",
-  "turkish_example_sentence_with_blank": "Ben öğrenci ______."
+  "english_example_sentence": "I am not usually late for work",
+  "russian_example_sentence": "Я обычно не опаздываю на работу",
+  "turkish_example_sentence": "Ben işe genellikle geç olmam",
+  "turkish_example_sentence_with_blank": "Ben işe genellikle geç ______"
 }

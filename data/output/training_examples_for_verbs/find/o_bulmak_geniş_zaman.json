@@ -4,17 +4,17 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "buluyor",
+    "verb_full": "bulur",
     "root": "bul",
-    "tense_affix": "uyor",
+    "tense_affix": "ur",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "u",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "She finds the lost keys.",
-  "russian_example_sentence": "Она находит потерянные ключи.",
-  "turkish_example_sentence": "Ayşe kaybolan anahtarları buluyor.",
-  "turkish_example_sentence_with_blank": "Ayşe kaybolan anahtarları ______."
+  "english_example_sentence": "He finds the lost green wallet often",
+  "russian_example_sentence": "Он часто находит потерянный зелёный кошелёк",
+  "turkish_example_sentence": "O kayıp yeşil cüzdanı sık bulur",
+  "turkish_example_sentence_with_blank": "O kayıp yeşil cüzdanı sık ______"
 }

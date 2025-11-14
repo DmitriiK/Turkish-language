@@ -4,17 +4,17 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istiyorsun",
+    "verb_full": "isteyebilirsin",
     "root": "iste",
-    "tense_affix": "yor",
+    "tense_affix": "yebil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "sun",
+    "personal_affix": "irsin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You want to go to the park.",
-  "russian_example_sentence": "Ты хочешь пойти в парк.",
-  "turkish_example_sentence": "Sen güzel parka gitmek istiyorsun.",
-  "turkish_example_sentence_with_blank": "Sen güzel parka gitmek ______."
+  "english_example_sentence": "You can want beautiful red roses tomorrow",
+  "russian_example_sentence": "Ты можешь хотеть красивые красные розы завтра",
+  "turkish_example_sentence": "Sen yarın güzel kırmızı gülleri isteyebilirsin",
+  "turkish_example_sentence_with_blank": "Sen yarın güzel kırmızı gülleri ______"
 }

@@ -4,17 +4,17 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip oluyorum",
+    "verb_full": "sahip oluyor",
     "root": "sahip ol",
     "tense_affix": "uyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "um",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I have a small dog.",
-  "russian_example_sentence": "У меня есть маленькая собака.",
-  "turkish_example_sentence": "Ben küçük bir köpeğe sahip oluyorum.",
-  "turkish_example_sentence_with_blank": "Ben küçük bir köpeğe ______."
+  "english_example_sentence": "He has three talented children in school",
+  "russian_example_sentence": "У него есть три талантливых ребенка в школе",
+  "turkish_example_sentence": "O okulda üç yetenekli çocuğa sahip oluyor",
+  "turkish_example_sentence_with_blank": "O okulda üç yetenekli çocuğa ______"
 }

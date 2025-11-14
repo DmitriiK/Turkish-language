@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "çalışmıyorsun",
     "root": "çalış",
-    "tense_affix": "yor",
+    "tense_affix": "ıyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "sun",
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "m"
   },
-  "english_example_sentence": "You are not working today.",
-  "russian_example_sentence": "Ты сегодня не работаешь.",
-  "turkish_example_sentence": "Sen bugün çalışmıyorsun.",
-  "turkish_example_sentence_with_blank": "Sen bugün ______."
+  "english_example_sentence": "You are not working on the difficult assignment",
+  "russian_example_sentence": "Ты не работаешь над сложным заданием",
+  "turkish_example_sentence": "Sen zor görev üzerinde çalışmıyorsun",
+  "turkish_example_sentence_with_blank": "Sen zor görev üzerinde ______"
 }

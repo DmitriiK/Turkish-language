@@ -4,17 +4,17 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylemiyoruz",
+    "verb_full": "söylemeyiz",
     "root": "söyle",
-    "tense_affix": "",
+    "tense_affix": "r",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "uyoruz",
+    "personal_affix": "iz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "We do not say anything wrong.",
-  "russian_example_sentence": "Мы не говорим ничего плохого.",
-  "turkish_example_sentence": "Biz yanlış bir şey söylemiyoruz.",
-  "turkish_example_sentence_with_blank": "Biz yanlış bir şey ______."
+  "english_example_sentence": "We never say negative things about our colleagues",
+  "russian_example_sentence": "Мы никогда не говорим плохие вещи о наших коллегах",
+  "turkish_example_sentence": "Biz çalışma arkadaşlarımız hakkında kötü sözler söylemeyiz",
+  "turkish_example_sentence_with_blank": "Biz çalışma arkadaşlarımız hakkında kötü sözler ______"
 }

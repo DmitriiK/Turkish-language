@@ -4,17 +4,17 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almıyoruz",
+    "verb_full": "almayız",
     "root": "al",
-    "tense_affix": "",
+    "tense_affix": "ır",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "ız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "We do not take the bus to school.",
-  "russian_example_sentence": "Мы не берём автобус в школу.",
-  "turkish_example_sentence": "Biz okula otobüsü almıyoruz.",
-  "turkish_example_sentence_with_blank": "Biz okula otobüsü ______."
+  "english_example_sentence": "We do not take public transportation during holidays",
+  "russian_example_sentence": "Мы не берем общественный транспорт во время праздников",
+  "turkish_example_sentence": "Biz tatil günlerinde toplu taşımayı almayız",
+  "turkish_example_sentence_with_blank": "Biz tatil günlerinde toplu taşımayı ______"
 }

@@ -4,17 +4,17 @@
   "verb_russian": "работать",
   "verb_infinitive": "çalışmak",
   "turkish_verb": {
-    "verb_full": "çalışmıyor",
+    "verb_full": "çalışmaz",
     "root": "çalış",
-    "tense_affix": "",
+    "tense_affix": "ır",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "mı"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "She does not work in the office.",
-  "russian_example_sentence": "Она не работает в офисе.",
-  "turkish_example_sentence": "Ayşe ofiste çalışmıyor.",
-  "turkish_example_sentence_with_blank": "Ayşe ofiste ______."
+  "english_example_sentence": "He does not work on important national holidays",
+  "russian_example_sentence": "Он не работает в важные национальные праздники",
+  "turkish_example_sentence": "O önemli milli bayramlarda çalışmaz",
+  "turkish_example_sentence_with_blank": "O önemli milli bayramlarda ______"
 }

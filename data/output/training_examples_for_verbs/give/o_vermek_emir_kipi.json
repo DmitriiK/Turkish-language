@@ -4,17 +4,17 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "ver",
+    "verb_full": "versin",
     "root": "ver",
     "tense_affix": "",
     "verb_tense": "emir_kipi",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He gives the book to the teacher.",
-  "russian_example_sentence": "Он даёт книгу учителю.",
-  "turkish_example_sentence": "O öğretmene kitabı ver.",
-  "turkish_example_sentence_with_blank": "O öğretmene kitabı ______."
+  "english_example_sentence": "Let him give the important letter to the manager",
+  "russian_example_sentence": "Пусть он даст важное письмо менеджеру",
+  "turkish_example_sentence": "Önemli mektubu müdüre versin",
+  "turkish_example_sentence_with_blank": "Önemli mektubu müdüre ______"
 }

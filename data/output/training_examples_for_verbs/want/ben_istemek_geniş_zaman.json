@@ -4,17 +4,17 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istiyorum",
+    "verb_full": "isterim",
     "root": "iste",
-    "tense_affix": "iyor",
+    "tense_affix": "r",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "um",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I want to eat pizza.",
-  "russian_example_sentence": "Я хочу поесть пиццу.",
-  "turkish_example_sentence": "Ben peyniri ve domatesi yemek istiyorum.",
-  "turkish_example_sentence_with_blank": "Ben peyniri ve domatesi yemek ______."
+  "english_example_sentence": "I want fresh strawberries from the market",
+  "russian_example_sentence": "Я хочу свежую клубнику с рынка",
+  "turkish_example_sentence": "Ben pazardan taze çilek isterim",
+  "turkish_example_sentence_with_blank": "Ben pazardan taze çilek ______"
 }

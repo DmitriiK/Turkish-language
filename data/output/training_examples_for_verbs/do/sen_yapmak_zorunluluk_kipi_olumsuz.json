@@ -1,0 +1,20 @@
+{
+  "verb_rank": 3,
+  "verb_english": "do",
+  "verb_russian": "делать",
+  "verb_infinitive": "yapmak",
+  "turkish_verb": {
+    "verb_full": "yapmamalısın",
+    "root": "yap",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "sın",
+    "polarity": "negative",
+    "negative_affix": "mama"
+  },
+  "english_example_sentence": "You must not do such careless work here",
+  "russian_example_sentence": "Ты не должен делать такую небрежную работу здесь",
+  "turkish_example_sentence": "Sen burada bu dikkatsiz işi yapmamalısın",
+  "turkish_example_sentence_with_blank": "Sen burada bu dikkatsiz işi ______"
+}

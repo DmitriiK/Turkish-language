@@ -4,17 +4,17 @@
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "oluyor",
+    "verb_full": "olur",
     "root": "ol",
-    "tense_affix": "uyor",
+    "tense_affix": "ur",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "u",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "My friend is happy.",
-  "russian_example_sentence": "Мой друг счастлив.",
-  "turkish_example_sentence": "Arkadaşım mutlu oluyor.",
-  "turkish_example_sentence_with_blank": "Arkadaşım mutlu ______."
+  "english_example_sentence": "He is always a talented musician",
+  "russian_example_sentence": "Он всегда талантливый музыкант",
+  "turkish_example_sentence": "O daima yetenekli bir müzisyen olur",
+  "turkish_example_sentence_with_blank": "O daima yetenekli bir müzisyen ______"
 }

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "bulmanız lazım",
     "root": "bul",
-    "tense_affix": "ma",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "ınız",
+    "personal_affix": "nız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to find the book.",
-  "russian_example_sentence": "Вам нужно найти книгу.",
-  "turkish_example_sentence": "Siz kitabı bulmanız lazım.",
-  "turkish_example_sentence_with_blank": "Siz kitabı ______."
+  "english_example_sentence": "You must find the correct answer to this difficult problem",
+  "russian_example_sentence": "Вы должны найти правильный ответ на эту сложную задачу",
+  "turkish_example_sentence": "Siz bu zor sorunun doğru cevabını bulmanız lazım",
+  "turkish_example_sentence_with_blank": "Siz bu zor sorunun doğru cevabını ______"
 }

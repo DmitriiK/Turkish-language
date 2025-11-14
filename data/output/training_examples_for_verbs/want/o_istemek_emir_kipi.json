@@ -4,17 +4,17 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istiyor",
+    "verb_full": "istessin",
     "root": "iste",
-    "tense_affix": "yor",
+    "tense_affix": "ssin",
     "verb_tense": "emir_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "u",
+    "personal_affix": "ssin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The child wants to play outside.",
-  "russian_example_sentence": "Ребёнок хочет играть на улице.",
-  "turkish_example_sentence": "Çocuk dışarıda oynamak istiyor.",
-  "turkish_example_sentence_with_blank": "Çocuk dışarıda oynamak ______."
+  "english_example_sentence": "Let him want the delicious sweet cake",
+  "russian_example_sentence": "Пусть он хочет вкусный сладкий торт",
+  "turkish_example_sentence": "O lezzetli tatlı pastayı istessin",
+  "turkish_example_sentence_with_blank": "O lezzetli tatlı pastayı ______"
 }

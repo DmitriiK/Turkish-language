@@ -4,17 +4,17 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylüyorsun",
+    "verb_full": "söylersin",
     "root": "söyle",
-    "tense_affix": "iyor",
+    "tense_affix": "r",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "sun",
+    "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You say something interesting.",
-  "russian_example_sentence": "Ты говоришь что-то интересное.",
-  "turkish_example_sentence": "Sen her zaman ilginç şeyler söylüyorsun.",
-  "turkish_example_sentence_with_blank": "Sen her zaman ilginç şeyler ______."
+  "english_example_sentence": "You always say interesting things during meetings",
+  "russian_example_sentence": "Ты всегда говоришь интересные вещи на встречах",
+  "turkish_example_sentence": "Sen toplantılarda her zaman akıllı fikirler söylersin",
+  "turkish_example_sentence_with_blank": "Sen toplantılarda her zaman akıllı fikirler ______"
 }

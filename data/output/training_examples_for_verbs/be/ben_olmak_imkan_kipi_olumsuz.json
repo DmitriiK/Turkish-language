@@ -1,0 +1,20 @@
+{
+  "verb_rank": 1,
+  "verb_english": "be",
+  "verb_russian": "быть",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olamam",
+    "root": "ol",
+    "tense_affix": "abil",
+    "verb_tense": "imkan_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "irim",
+    "polarity": "negative",
+    "negative_affix": "ama"
+  },
+  "english_example_sentence": "I cannot be late for the important meeting",
+  "russian_example_sentence": "Я не могу опоздать на важное совещание",
+  "turkish_example_sentence": "Ben önemli toplantıya geç olamam",
+  "turkish_example_sentence_with_blank": "Ben önemli toplantıya geç ______"
+}

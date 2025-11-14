@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "anlattı",
     "root": "anlat",
-    "tense_affix": "t",
+    "tense_affix": "tı",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "ı",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He told a beautiful story.",
-  "russian_example_sentence": "Он рассказал красивую историю.",
-  "turkish_example_sentence": "O güzel bir hikaye anlattı.",
-  "turkish_example_sentence_with_blank": "O güzel bir hikaye ______."
+  "english_example_sentence": "She told the children a funny adventure story last night",
+  "russian_example_sentence": "Она рассказала детям смешную историю приключений вчера вечером",
+  "turkish_example_sentence": "O geçen gece çocuklara komik bir macera hikayesi anlattı",
+  "turkish_example_sentence_with_blank": "O geçen gece çocuklara komik bir macera hikayesi ______"
 }

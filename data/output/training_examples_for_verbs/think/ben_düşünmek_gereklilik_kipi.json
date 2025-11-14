@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "düşünmem lazım",
     "root": "düşün",
-    "tense_affix": "me",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I need to think about this problem.",
-  "russian_example_sentence": "Мне нужно подумать об этой проблеме.",
-  "turkish_example_sentence": "Ben bu soruyu düşünmem lazım.",
-  "turkish_example_sentence_with_blank": "Ben bu soruyu ______."
+  "english_example_sentence": "I need to think about this difficult problem",
+  "russian_example_sentence": "Мне нужно думать об этой сложной проблеме",
+  "turkish_example_sentence": "Ben bu zor sorunu dikkatlice düşünmem lazım",
+  "turkish_example_sentence_with_blank": "Ben bu zor sorunu dikkatlice ______"
 }

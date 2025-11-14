@@ -4,17 +4,17 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almanız",
+    "verb_full": "almalısınız",
     "root": "al",
-    "tense_affix": "ma",
+    "tense_affix": "malı",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "sınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You have to take the important documents.",
-  "russian_example_sentence": "Вам нужно взять важные документы.",
-  "turkish_example_sentence": "Önemli belgeleri almanız gerekiyor.",
-  "turkish_example_sentence_with_blank": "Önemli belgeleri ______ gerekiyor."
+  "english_example_sentence": "You must take the necessary precautions",
+  "russian_example_sentence": "Вы должны принять необходимые меры предосторожности",
+  "turkish_example_sentence": "Siz gerekli önlemleri almalısınız",
+  "turkish_example_sentence_with_blank": "Siz gerekli önlemleri ______"
 }

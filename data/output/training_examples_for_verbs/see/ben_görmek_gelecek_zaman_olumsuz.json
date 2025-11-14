@@ -4,17 +4,17 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görmeyeceğim",
+    "verb_full": "görmeyecğim",
     "root": "gör",
-    "tense_affix": "meye",
+    "tense_affix": "ecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "im",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "I will not see the beautiful painting.",
-  "russian_example_sentence": "Я не увижу красивую картину.",
-  "turkish_example_sentence": "Ben güzel resmi görmeyeceğim.",
-  "turkish_example_sentence_with_blank": "Ben güzel resmi ______."
+  "english_example_sentence": "I will not see that old movie next week",
+  "russian_example_sentence": "Я не буду смотреть тот старый фильм на следующей неделе",
+  "turkish_example_sentence": "Ben gelecek hafta eski filmi görmeyecğim",
+  "turkish_example_sentence_with_blank": "Ben gelecek hafta eski filmi ______"
 }

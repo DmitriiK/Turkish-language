@@ -4,17 +4,17 @@
   "verb_russian": "использовать",
   "verb_infinitive": "kullanmak",
   "turkish_verb": {
-    "verb_full": "kullanıyorsun",
+    "verb_full": "kullanırsın",
     "root": "kullan",
-    "tense_affix": "ıyor",
+    "tense_affix": "ır",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "sun",
+    "personal_affix": "sın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You use this tool every day.",
-  "russian_example_sentence": "Ты используешь этот инструмент каждый день.",
-  "turkish_example_sentence": "Sen her gün bu aracı kullanıyorsun.",
-  "turkish_example_sentence_with_blank": "Sen her gün bu aracı ______."
+  "english_example_sentence": "You use a beautiful yellow pencil for drawing",
+  "russian_example_sentence": "Ты используешь красивый жёлтый карандаш для рисования",
+  "turkish_example_sentence": "Sen çizim için güzel sarı kalemi kullanırsın",
+  "turkish_example_sentence_with_blank": "Sen çizim için güzel sarı kalemi ______"
 }

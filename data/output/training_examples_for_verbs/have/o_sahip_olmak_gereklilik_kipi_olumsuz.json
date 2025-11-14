@@ -1,0 +1,20 @@
+{
+  "verb_rank": 2,
+  "verb_english": "have",
+  "verb_russian": "иметь",
+  "verb_infinitive": "sahip olmak",
+  "turkish_verb": {
+    "verb_full": "sahip olması lazım değil",
+    "root": "sahip ol",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": "sı",
+    "polarity": "negative",
+    "negative_affix": "değil"
+  },
+  "english_example_sentence": "He does not need to have formal education credentials",
+  "russian_example_sentence": "Ему не нужно иметь формальные учебные квалификации",
+  "turkish_example_sentence": "O resmi eğitim sertifikalarına sahip olması lazım değil",
+  "turkish_example_sentence_with_blank": "O resmi eğitim sertifikalarına ______"
+}

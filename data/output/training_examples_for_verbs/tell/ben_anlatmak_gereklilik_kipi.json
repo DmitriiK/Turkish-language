@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "anlatmam lazım",
     "root": "anlat",
-    "tense_affix": "ma",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I need to tell the story.",
-  "russian_example_sentence": "Мне нужно рассказать историю.",
-  "turkish_example_sentence": "Ben hikayeyi anlatmam lazım.",
-  "turkish_example_sentence_with_blank": "Ben hikayeyi ______."
+  "english_example_sentence": "I need to tell the important story today",
+  "russian_example_sentence": "Мне нужно рассказать важную историю сегодня",
+  "turkish_example_sentence": "Ben bugün önemli hikayeyi anlatmam lazım",
+  "turkish_example_sentence_with_blank": "Ben bugün önemli hikayeyi ______"
 }

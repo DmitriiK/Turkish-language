@@ -4,17 +4,17 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "biliyorsun",
+    "verb_full": "bilirsin",
     "root": "bil",
-    "tense_affix": "iyor",
+    "tense_affix": "ir",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "sun",
+    "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You know a lot of things.",
-  "russian_example_sentence": "Ты знаешь много вещей.",
-  "turkish_example_sentence": "Sen çok şey biliyorsun.",
-  "turkish_example_sentence_with_blank": "Sen çok şey ______."
+  "english_example_sentence": "You know the beautiful city of Istanbul",
+  "russian_example_sentence": "Ты знаешь красивый город Стамбул",
+  "turkish_example_sentence": "Sen güzel İstanbul şehrini bilirsin",
+  "turkish_example_sentence_with_blank": "Sen güzel İstanbul şehrini ______"
 }

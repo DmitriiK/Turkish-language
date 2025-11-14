@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "düşünmeyecek",
     "root": "düşün",
-    "tense_affix": "meye",
+    "tense_affix": "ecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "cek",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "He will not think about the future.",
-  "russian_example_sentence": "Он не будет думать о будущем.",
-  "turkish_example_sentence": "O gelecek hakkında düşünmeyecek.",
-  "turkish_example_sentence_with_blank": "O gelecek hakkında ______."
+  "english_example_sentence": "She will not think about the sad news today",
+  "russian_example_sentence": "Она не будет думать о грустной новости сегодня",
+  "turkish_example_sentence": "O üzücü haberi bugün düşünmeyecek",
+  "turkish_example_sentence_with_blank": "O üzücü haberi bugün ______"
 }

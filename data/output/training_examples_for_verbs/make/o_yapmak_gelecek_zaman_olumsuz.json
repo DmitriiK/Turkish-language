@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "yapmayacak",
     "root": "yap",
-    "tense_affix": "y",
+    "tense_affix": "acak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "acak",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "He will not make dinner tonight.",
-  "russian_example_sentence": "Он не будет готовить ужин сегодня вечером.",
-  "turkish_example_sentence": "O, bu akşam akşam yemeği yapmayacak.",
-  "turkish_example_sentence_with_blank": "O, bu akşam akşam yemeği ______."
+  "english_example_sentence": "He will not make that silly joke",
+  "russian_example_sentence": "Он не будет делать эту глупую шутку",
+  "turkish_example_sentence": "O aptal şakayı yapmayacak",
+  "turkish_example_sentence_with_blank": "O aptal şakayı ______"
 }

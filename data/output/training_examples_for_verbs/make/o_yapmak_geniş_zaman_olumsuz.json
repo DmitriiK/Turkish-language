@@ -4,17 +4,17 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmam",
+    "verb_full": "yapmaz",
     "root": "yap",
-    "tense_affix": "",
+    "tense_affix": "ar",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "m",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "He does not make mistakes.",
-  "russian_example_sentence": "Он не делает ошибок.",
-  "turkish_example_sentence": "Ali bu sınavda hata yapmam.",
-  "turkish_example_sentence_with_blank": "Ali bu sınavda hata ______."
+  "english_example_sentence": "She does not make unnecessary complaints about work",
+  "russian_example_sentence": "Она не делает ненужные жалобы о работе",
+  "turkish_example_sentence": "O iş hakkında gereksiz şikayetler yapmaz",
+  "turkish_example_sentence_with_blank": "O iş hakkında gereksiz şikayetler ______"
 }

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 5,
+  "verb_english": "go",
+  "verb_russian": "идти",
+  "verb_infinitive": "gitmek",
+  "turkish_verb": {
+    "verb_full": "gitmeyin",
+    "root": "git",
+    "tense_affix": "in",
+    "verb_tense": "emir_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "in",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "Don't go to the expensive fancy restaurant alone",
+  "russian_example_sentence": "Не ходите в дорогой фешенебельный ресторан одни",
+  "turkish_example_sentence": "Pahalı şık restoranda yalnız gitmeyin",
+  "turkish_example_sentence_with_blank": "Pahalı şık restoranda yalnız ______"
+}

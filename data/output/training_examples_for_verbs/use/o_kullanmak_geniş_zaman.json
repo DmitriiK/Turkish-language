@@ -4,17 +4,17 @@
   "verb_russian": "использовать",
   "verb_infinitive": "kullanmak",
   "turkish_verb": {
-    "verb_full": "kullanıyor",
+    "verb_full": "kullanır",
     "root": "kullan",
-    "tense_affix": "ıyor",
+    "tense_affix": "ır",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "u",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The teacher uses the new book.",
-  "russian_example_sentence": "Учитель использует новую книгу.",
-  "turkish_example_sentence": "Öğretmen yeni kitabı kullanıyor.",
-  "turkish_example_sentence_with_blank": "Öğretmen yeni kitabı ______."
+  "english_example_sentence": "He uses modern green technology in his factory",
+  "russian_example_sentence": "Он использует современную зелёную технологию на своём заводе",
+  "turkish_example_sentence": "O fabrikasında modern yeşil teknolojiyi kullanır",
+  "turkish_example_sentence_with_blank": "O fabrikasında modern yeşil teknolojiyi ______"
 }

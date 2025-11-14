@@ -4,17 +4,17 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulmuyor",
+    "verb_full": "bulmaz",
     "root": "bul",
-    "tense_affix": "",
+    "tense_affix": "ur",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "He is not finding the book.",
-  "russian_example_sentence": "Он не находит книгу.",
-  "turkish_example_sentence": "Ali, kitabı bulmuyor.",
-  "turkish_example_sentence_with_blank": "Ali, kitabı ______."
+  "english_example_sentence": "She does not find the white cat anywhere",
+  "russian_example_sentence": "Она не находит белую кошку нигде",
+  "turkish_example_sentence": "O beyaz kediye hiçbir yerde bulmaz",
+  "turkish_example_sentence_with_blank": "O beyaz kediye hiçbir yerde ______"
 }

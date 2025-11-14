@@ -4,17 +4,17 @@
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "aramıyoruz",
+    "verb_full": "aramayız",
     "root": "ara",
-    "tense_affix": "",
+    "tense_affix": "r",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "ız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "We do not call our friends.",
-  "russian_example_sentence": "Мы не звоним нашим друзьям.",
-  "turkish_example_sentence": "Biz arkadaşlarımıza aramıyoruz.",
-  "turkish_example_sentence_with_blank": "Biz arkadaşlarımıza ______."
+  "english_example_sentence": "We do not call the taxi company late at night",
+  "russian_example_sentence": "Мы не звоним в компанию такси поздно ночью",
+  "turkish_example_sentence": "Biz gece yarısı sarı taksi şirketini aramayız",
+  "turkish_example_sentence_with_blank": "Biz gece yarısı sarı taksi şirketini ______"
 }

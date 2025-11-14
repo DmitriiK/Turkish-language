@@ -4,17 +4,17 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmüyoruz",
+    "verb_full": "düşünmeyiz",
     "root": "düşün",
-    "tense_affix": "",
+    "tense_affix": "ür",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "uz",
+    "personal_affix": "iz",
     "polarity": "negative",
-    "negative_affix": "mü"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "We do not think about the problem.",
-  "russian_example_sentence": "Мы не думаем о проблеме.",
-  "turkish_example_sentence": "Biz bu sorun hakkında düşünmüyoruz.",
-  "turkish_example_sentence_with_blank": "Biz bu sorun hakkında ______."
+  "english_example_sentence": "We don't think about superficial social media trends",
+  "russian_example_sentence": "Мы не думаем о поверхностных тенденциях социальных сетей",
+  "turkish_example_sentence": "Biz yüzeysel ve anlamsız sosyal medya trendleri hakkında düşünmeyiz",
+  "turkish_example_sentence_with_blank": "Biz yüzeysel ve anlamsız sosyal medya trendleri hakkında ______"
 }

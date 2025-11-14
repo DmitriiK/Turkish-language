@@ -4,17 +4,17 @@
   "verb_russian": "приходить",
   "verb_infinitive": "gelmek",
   "turkish_verb": {
-    "verb_full": "geliyor",
+    "verb_full": "gelebilir",
     "root": "gel",
-    "tense_affix": "iyor",
+    "tense_affix": "ebil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "ir",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The teacher is coming to the meeting.",
-  "russian_example_sentence": "Учитель приходит на встречу.",
-  "turkish_example_sentence": "Öğretmen toplantıya geliyor.",
-  "turkish_example_sentence_with_blank": "Öğretmen toplantıya ______."
+  "english_example_sentence": "He can come to the wedding ceremony",
+  "russian_example_sentence": "Он может прийти на свадебную церемонию",
+  "turkish_example_sentence": "O güzel kız kardeşinin düğün törenine gelebilir",
+  "turkish_example_sentence_with_blank": "O güzel kız kardeşinin düğün törenine ______"
 }

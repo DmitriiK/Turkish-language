@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gitmeliyiz",
     "root": "git",
-    "tense_affix": "meliy",
+    "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iz",
+    "personal_affix": "yiz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We must go to the market today.",
-  "russian_example_sentence": "Мы должны идти на рынок сегодня.",
-  "turkish_example_sentence": "Biz bugün pazara gitmeliyiz.",
-  "turkish_example_sentence_with_blank": "Biz bugün pazara ______."
+  "english_example_sentence": "We must go to the beautiful beach tomorrow",
+  "russian_example_sentence": "Мы должны идти на красивый пляж завтра",
+  "turkish_example_sentence": "Biz yarın güzel sahile gitmeliyiz",
+  "turkish_example_sentence_with_blank": "Biz yarın güzel sahile ______"
 }

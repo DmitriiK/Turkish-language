@@ -4,17 +4,17 @@
   "verb_russian": "приходить",
   "verb_infinitive": "gelmek",
   "turkish_verb": {
-    "verb_full": "gelmiyor",
+    "verb_full": "gelmez",
     "root": "gel",
-    "tense_affix": "",
+    "tense_affix": "ir",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "mi"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "The teacher is not coming to the meeting.",
-  "russian_example_sentence": "Учитель не приходит на встречу.",
-  "turkish_example_sentence": "Öğretmen toplantıya gelmiyor.",
-  "turkish_example_sentence_with_blank": "Öğretmen toplantıya ______."
+  "english_example_sentence": "She does not come to the noisy concert hall",
+  "russian_example_sentence": "Она не приходит в шумный концертный зал",
+  "turkish_example_sentence": "O gürültülü konser salonuna gelmez",
+  "turkish_example_sentence_with_blank": "O gürültülü konser salonuna ______"
 }

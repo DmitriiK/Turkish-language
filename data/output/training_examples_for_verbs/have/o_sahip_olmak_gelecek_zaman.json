@@ -4,17 +4,17 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olacağım",
+    "verb_full": "sahip olacak",
     "root": "sahip ol",
     "tense_affix": "acak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "ım",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "She will have a beautiful house.",
-  "russian_example_sentence": "У неё будет красивый дом.",
-  "turkish_example_sentence": "O güzel bir eve sahip olacağım.",
-  "turkish_example_sentence_with_blank": "O güzel bir eve ______."
+  "english_example_sentence": "She will have a successful career in medicine",
+  "russian_example_sentence": "У неё будет успешная карьера в медицине",
+  "turkish_example_sentence": "O parlak doktor kızı tıp alanında başarılı bir meslek sahip olacak",
+  "turkish_example_sentence_with_blank": "O parlak doktor kızı tıp alanında başarılı bir meslek ______"
 }

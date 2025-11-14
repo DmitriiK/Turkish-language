@@ -4,17 +4,17 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "biliyor",
+    "verb_full": "bilsin",
     "root": "bil",
-    "tense_affix": "iyor",
+    "tense_affix": "sin",
     "verb_tense": "emir_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "u",
+    "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The teacher knows the answer to the question",
-  "russian_example_sentence": "Учитель знает ответ на вопрос",
-  "turkish_example_sentence": "Öğretmen sorunun cevabını biliyor.",
-  "turkish_example_sentence_with_blank": "Öğretmen sorunun cevabını ______."
+  "english_example_sentence": "Let him know the important news about the promotion",
+  "russian_example_sentence": "Пусть он знает важные новости о повышении",
+  "turkish_example_sentence": "O işte yükseltme hakkında önemli haberleri bilsin",
+  "turkish_example_sentence_with_blank": "O işte yükseltme hakkında önemli haberleri ______"
 }

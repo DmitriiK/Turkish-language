@@ -1,0 +1,20 @@
+{
+  "verb_rank": 10,
+  "verb_english": "take",
+  "verb_russian": "брать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almamamız lazım",
+    "root": "al",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "mız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "We should not take the heavy suitcases to the beach",
+  "russian_example_sentence": "Нам не нужно брать тяжелые чемоданы на пляж",
+  "turkish_example_sentence": "Biz ağır bavulları plaja almamamız lazım",
+  "turkish_example_sentence_with_blank": "Biz ağır bavulları plaja ______"
+}

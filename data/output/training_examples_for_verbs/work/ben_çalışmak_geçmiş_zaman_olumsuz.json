@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "çalışmadım",
     "root": "çalış",
-    "tense_affix": "dı",
+    "tense_affix": "tı",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I did not work yesterday.",
-  "russian_example_sentence": "Я не работал вчера.",
-  "turkish_example_sentence": "Ben dün çalışmadım.",
-  "turkish_example_sentence_with_blank": "Ben dün ______."
+  "english_example_sentence": "I did not work at the office last week",
+  "russian_example_sentence": "Я не работал в офисе на прошлой неделе",
+  "turkish_example_sentence": "Ben geçen hafta ofiste çalışmadım",
+  "turkish_example_sentence_with_blank": "Ben geçen hafta ofiste ______"
 }

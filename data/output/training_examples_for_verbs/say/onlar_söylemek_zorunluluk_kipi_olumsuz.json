@@ -1,0 +1,20 @@
+{
+  "verb_rank": 4,
+  "verb_english": "say",
+  "verb_russian": "сказать",
+  "verb_infinitive": "söylemek",
+  "turkish_verb": {
+    "verb_full": "söylememeli",
+    "root": "söyle",
+    "tense_affix": "memeli",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "ler",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "They must not say offensive jokes loudly",
+  "russian_example_sentence": "Они не должны говорить оскорбительные шутки громко",
+  "turkish_example_sentence": "Onlar saldırgan şakaları yüksek sesle söylememeli",
+  "turkish_example_sentence_with_blank": "Onlar saldırgan şakaları yüksek sesle ______"
+}

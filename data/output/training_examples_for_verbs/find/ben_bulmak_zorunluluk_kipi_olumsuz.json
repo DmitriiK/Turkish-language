@@ -1,0 +1,20 @@
+{
+  "verb_rank": 16,
+  "verb_english": "find",
+  "verb_russian": "находить",
+  "verb_infinitive": "bulmak",
+  "turkish_verb": {
+    "verb_full": "bulmamalıyım",
+    "root": "bul",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "yım",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "I must not find the secret hidden letter",
+  "russian_example_sentence": "Я не должен найти секретное письмо",
+  "turkish_example_sentence": "Ben gizli mektupları bulmamalıyım",
+  "turkish_example_sentence_with_blank": "Ben gizli mektupları ______"
+}

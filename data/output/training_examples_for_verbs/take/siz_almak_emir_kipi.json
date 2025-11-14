@@ -4,17 +4,17 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "alıyorsunuz",
+    "verb_full": "alın",
     "root": "al",
-    "tense_affix": "ıyor",
+    "tense_affix": "ın",
     "verb_tense": "emir_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "sun",
+    "personal_affix": "ın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You are taking the important documents.",
-  "russian_example_sentence": "Вы берете важные документы.",
-  "turkish_example_sentence": "Önemli belgeleri alıyorsunuz.",
-  "turkish_example_sentence_with_blank": "Önemli belgeleri ______."
+  "english_example_sentence": "Please take the important official documents from the office",
+  "russian_example_sentence": "Пожалуйста, возьмите важные официальные документы из офиса",
+  "turkish_example_sentence": "Lütfen ofisten önemli resmi belgeleri alın",
+  "turkish_example_sentence_with_blank": "Lütfen ofisten önemli resmi belgeleri ______"
 }

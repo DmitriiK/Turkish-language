@@ -1,0 +1,20 @@
+{
+  "verb_rank": 5,
+  "verb_english": "go",
+  "verb_russian": "идти",
+  "verb_infinitive": "gitmek",
+  "turkish_verb": {
+    "verb_full": "gitmemem lazım",
+    "root": "git",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "I do not need to go to the cold beach tomorrow",
+  "russian_example_sentence": "Мне не нужно идти на холодный пляж завтра",
+  "turkish_example_sentence": "Ben yarın soğuk sahile gitmemem lazım",
+  "turkish_example_sentence_with_blank": "Ben yarın soğuk sahile ______"
+}

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "yapmam lazım",
     "root": "yap",
-    "tense_affix": "ma",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I need to do my homework",
-  "russian_example_sentence": "Мне нужно сделать домашнее задание",
-  "turkish_example_sentence": "Ben ödevimi yapmam lazım",
-  "turkish_example_sentence_with_blank": "Ben ödevimi ______"
+  "english_example_sentence": "I need to do my homework today",
+  "russian_example_sentence": "Мне нужно делать домашнее задание сегодня",
+  "turkish_example_sentence": "Ben bugün önemli ev ödevini yapmam lazım",
+  "turkish_example_sentence_with_blank": "Ben bugün önemli ev ödevini ______"
 }

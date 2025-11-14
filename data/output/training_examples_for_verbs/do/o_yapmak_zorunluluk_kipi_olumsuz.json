@@ -1,0 +1,20 @@
+{
+  "verb_rank": 3,
+  "verb_english": "do",
+  "verb_russian": "делать",
+  "verb_infinitive": "yapmak",
+  "turkish_verb": {
+    "verb_full": "yapmamalı",
+    "root": "yap",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "mama"
+  },
+  "english_example_sentence": "He must not do risky experiments alone",
+  "russian_example_sentence": "Он не должен делать рискованные эксперименты один",
+  "turkish_example_sentence": "O tehlikeli deneyleri yalnız yapmamalı",
+  "turkish_example_sentence_with_blank": "O tehlikeli deneyleri yalnız ______"
+}

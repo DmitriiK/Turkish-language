@@ -1,0 +1,20 @@
+{
+  "verb_rank": 16,
+  "verb_english": "find",
+  "verb_russian": "находить",
+  "verb_infinitive": "bulmak",
+  "turkish_verb": {
+    "verb_full": "bulmaması lazım",
+    "root": "bul",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "I should not find any excuses for being late",
+  "russian_example_sentence": "Я не должен искать оправдания за опоздание",
+  "turkish_example_sentence": "Ben geç kalmak için hiçbir bahane bulmaması lazım",
+  "turkish_example_sentence_with_blank": "Ben geç kalmak için hiçbir bahane ______"
+}

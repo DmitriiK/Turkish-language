@@ -1,0 +1,20 @@
+{
+  "verb_rank": 13,
+  "verb_english": "want",
+  "verb_russian": "хотеть",
+  "verb_infinitive": "istemek",
+  "turkish_verb": {
+    "verb_full": "istememem lazım",
+    "root": "iste",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "I should not want this difficult challenge",
+  "russian_example_sentence": "Я не должен хотеть этот сложный вызов",
+  "turkish_example_sentence": "Ben bu zor mücadeleyi istememem lazım",
+  "turkish_example_sentence_with_blank": "Ben bu zor mücadeleyi ______"
+}

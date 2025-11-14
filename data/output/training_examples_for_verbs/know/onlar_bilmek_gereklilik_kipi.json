@@ -4,17 +4,17 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilmesi lazım",
+    "verb_full": "bilmeleri lazım",
     "root": "bil",
-    "tense_affix": "me",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "si",
+    "personal_affix": "ları",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They need to know the answer.",
-  "russian_example_sentence": "Им нужно знать ответ.",
-  "turkish_example_sentence": "Öğrencilerin cevabı bilmesi lazım.",
-  "turkish_example_sentence_with_blank": "Öğrencilerin cevabı ______."
+  "english_example_sentence": "They need to know the local traditional customs",
+  "russian_example_sentence": "Им нужно знать местные традиционные обычаи",
+  "turkish_example_sentence": "Onlar yerel geleneksel adetleri bilmeleri lazım",
+  "turkish_example_sentence_with_blank": "Onlar yerel geleneksel adetleri ______"
 }

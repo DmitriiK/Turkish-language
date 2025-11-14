@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gitmedin",
     "root": "git",
-    "tense_affix": "di",
+    "tense_affix": "ti",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You didn't go to the party yesterday.",
-  "russian_example_sentence": "Ты не пошёл на вечеринку вчера.",
-  "turkish_example_sentence": "Sen dün partiye gitmedin.",
-  "turkish_example_sentence_with_blank": "Sen dün partiye ______."
+  "english_example_sentence": "You did not go to the exciting concert last night",
+  "russian_example_sentence": "Ты не пошёл на захватывающий концерт вчера вечером",
+  "turkish_example_sentence": "Sen dün gece heyecan verici konsere gitmedin",
+  "turkish_example_sentence_with_blank": "Sen dün gece heyecan verici konsere ______"
 }

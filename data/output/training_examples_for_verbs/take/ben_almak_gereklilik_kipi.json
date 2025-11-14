@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "almam lazım",
     "root": "al",
-    "tense_affix": "ma",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I need to take my book",
-  "russian_example_sentence": "Мне нужно взять мою книгу",
-  "turkish_example_sentence": "Ben kitabımı almam lazım",
-  "turkish_example_sentence_with_blank": "Ben kitabımı ______"
+  "english_example_sentence": "I need to take the red umbrella today",
+  "russian_example_sentence": "Мне нужно взять красный зонтик сегодня",
+  "turkish_example_sentence": "Ben bugün kırmızı şemsiyeyi almam lazım",
+  "turkish_example_sentence_with_blank": "Ben bugün kırmızı şemsiyeyi ______"
 }

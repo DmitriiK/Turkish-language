@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "görmeyeceksin",
     "root": "gör",
-    "tense_affix": "meye",
+    "tense_affix": "ecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "sin",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You will not see the beautiful view.",
-  "russian_example_sentence": "Ты не увидишь красивый вид.",
-  "turkish_example_sentence": "Sen güzel manzarayı görmeyeceksin.",
-  "turkish_example_sentence_with_blank": "Sen güzel manzarayı ______."
+  "english_example_sentence": "You will not see your close friend at the party",
+  "russian_example_sentence": "Ты не увидишь своего близкого друга на вечеринке",
+  "turkish_example_sentence": "Sen partide yakın arkadaşını görmeyeceksin",
+  "turkish_example_sentence_with_blank": "Sen partide yakın arkadaşını ______"
 }

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 20,
+  "verb_english": "call",
+  "verb_russian": "звонить",
+  "verb_infinitive": "aramak",
+  "turkish_verb": {
+    "verb_full": "aramamalıyız",
+    "root": "ara",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "yız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "We must not call the lazy employee on vacation",
+  "russian_example_sentence": "Мы не должны звонить ленивому сотруднику в отпуске",
+  "turkish_example_sentence": "Biz tembel çalışanı tatilde aramamalıyız",
+  "turkish_example_sentence_with_blank": "Biz tembel çalışanı tatilde ______"
+}

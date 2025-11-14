@@ -1,0 +1,20 @@
+{
+  "verb_rank": 3,
+  "verb_english": "do",
+  "verb_russian": "делать",
+  "verb_infinitive": "yapmak",
+  "turkish_verb": {
+    "verb_full": "yapmaması lazım",
+    "root": "yap",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": "sı",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "She should not do that silly joke",
+  "russian_example_sentence": "Ей не нужно делать эту глупую шутку",
+  "turkish_example_sentence": "O bu kötü komik şakayı yapmaması lazım",
+  "turkish_example_sentence_with_blank": "O bu kötü komik şakayı ______"
+}

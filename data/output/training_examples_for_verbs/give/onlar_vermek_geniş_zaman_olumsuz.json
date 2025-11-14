@@ -4,17 +4,17 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "vermem",
+    "verb_full": "vermezler",
     "root": "ver",
-    "tense_affix": "",
+    "tense_affix": "ir",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "m",
+    "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "They do not give the children candy.",
-  "russian_example_sentence": "Они не дают детям конфеты.",
-  "turkish_example_sentence": "Çocuklara şeker vermem.",
-  "turkish_example_sentence_with_blank": "Çocuklara şeker ______."
+  "english_example_sentence": "They do not give permission for unauthorized activities",
+  "russian_example_sentence": "Они не дают разрешение на несанкционированную деятельность",
+  "turkish_example_sentence": "Onlar yetkisiz faaliyetler için izin vermezler",
+  "turkish_example_sentence_with_blank": "Onlar yetkisiz faaliyetler için izin ______"
 }

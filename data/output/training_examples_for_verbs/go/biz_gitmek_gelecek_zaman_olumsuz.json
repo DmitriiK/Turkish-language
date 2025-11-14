@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gitmeyeceğiz",
     "root": "git",
-    "tense_affix": "yacak",
+    "tense_affix": "ecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "iz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "We will not go to the concert.",
-  "russian_example_sentence": "Мы не пойдем на концерт.",
-  "turkish_example_sentence": "Biz konser için gitmeyeceğiz.",
-  "turkish_example_sentence_with_blank": "Biz konser için ______."
+  "english_example_sentence": "We will not go to the small village this summer",
+  "russian_example_sentence": "Мы не пойдем в маленькую деревню этим летом",
+  "turkish_example_sentence": "Biz bu yaz küçük köye gitmeyeceğiz",
+  "turkish_example_sentence_with_blank": "Biz bu yaz küçük köye ______"
 }

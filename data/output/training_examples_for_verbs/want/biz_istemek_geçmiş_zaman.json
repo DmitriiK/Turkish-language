@@ -4,17 +4,17 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istediğimiz",
+    "verb_full": "istedik",
     "root": "iste",
     "tense_affix": "di",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "ğimiz",
+    "personal_affix": "k",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We wanted to attend the concert.",
-  "russian_example_sentence": "Мы хотели посетить концерт.",
-  "turkish_example_sentence": "Biz geçen yıl konsere istediğimiz.",
-  "turkish_example_sentence_with_blank": "Biz geçen yıl konsere ______."
+  "english_example_sentence": "We wanted the sunny beach vacation last summer",
+  "russian_example_sentence": "Мы хотели солнечный пляжный отпуск прошлым летом",
+  "turkish_example_sentence": "Biz geçen yaz güneşli plaj tatilini istedik",
+  "turkish_example_sentence_with_blank": "Biz geçen yaz güneşli plaj tatilini ______"
 }

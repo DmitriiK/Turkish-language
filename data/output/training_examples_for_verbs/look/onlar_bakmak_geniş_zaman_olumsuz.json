@@ -4,17 +4,17 @@
   "verb_russian": "смотреть",
   "verb_infinitive": "bakmak",
   "turkish_verb": {
-    "verb_full": "bakmıyorlar",
+    "verb_full": "bakmazlar",
     "root": "bak",
-    "tense_affix": "",
+    "tense_affix": "ar",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
-    "negative_affix": "mı"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "They do not look at the beautiful garden.",
-  "russian_example_sentence": "Они не смотрят на красивый сад.",
-  "turkish_example_sentence": "Onlar güzel bahçeye bakmıyorlar.",
-  "turkish_example_sentence_with_blank": "Onlar güzel bahçeye ______."
+  "english_example_sentence": "They do not look at the sad abandoned buildings downtown",
+  "russian_example_sentence": "Они не смотрят на грустные заброшенные здания в центре",
+  "turkish_example_sentence": "Onlar şehir merkezindeki üzgün terk edilmiş binaları bakmazlar",
+  "turkish_example_sentence_with_blank": "Onlar şehir merkezindeki üzgün terk edilmiş binaları ______"
 }

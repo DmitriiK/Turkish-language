@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "bilmedi",
     "root": "bil",
-    "tense_affix": "d",
+    "tense_affix": "di",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "i",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "He did not know the answer.",
-  "russian_example_sentence": "Он не знал ответа.",
-  "turkish_example_sentence": "Ali doğru cevabı bilmedi.",
-  "turkish_example_sentence_with_blank": "Ali doğru cevabı ______."
+  "english_example_sentence": "She did not know the important secret",
+  "russian_example_sentence": "Она не знала важный секрет",
+  "turkish_example_sentence": "O önemli sırrı bilmedi",
+  "turkish_example_sentence_with_blank": "O önemli sırrı ______"
 }

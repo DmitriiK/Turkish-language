@@ -4,17 +4,17 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatmıyor",
+    "verb_full": "anlatmaz",
     "root": "anlat",
-    "tense_affix": "",
+    "tense_affix": "ır",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "mı"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "He is not telling the story.",
-  "russian_example_sentence": "Он не рассказывает историю.",
-  "turkish_example_sentence": "Ali ona hikayeyi anlatmıyor.",
-  "turkish_example_sentence_with_blank": "Ali ona hikayeyi ______."
+  "english_example_sentence": "She does not tell her personal problems",
+  "russian_example_sentence": "Она не рассказывает свои личные проблемы",
+  "turkish_example_sentence": "O kişisel sorunlarını kimseye anlatmaz",
+  "turkish_example_sentence_with_blank": "O kişisel sorunlarını kimseye ______"
 }

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "bilmezler",
     "root": "bil",
-    "tense_affix": "",
+    "tense_affix": "ir",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "ler",
+    "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "They don't know the answer.",
-  "russian_example_sentence": "Они не знают ответа.",
-  "turkish_example_sentence": "Öğrenciler sınavın cevabını bilmezler.",
-  "turkish_example_sentence_with_blank": "Öğrenciler sınavın cevabını ______."
+  "english_example_sentence": "They don't know the rare historical artifact",
+  "russian_example_sentence": "Они не знают редкий исторический артефакт",
+  "turkish_example_sentence": "Onlar nadir tarihi eseri bilmezler",
+  "turkish_example_sentence_with_blank": "Onlar nadir tarihi eseri ______"
 }

@@ -4,17 +4,17 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "buluyorum",
+    "verb_full": "buluyor",
     "root": "bul",
     "tense_affix": "uyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "um",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The student is finding the book.",
-  "russian_example_sentence": "Студент находит книгу.",
-  "turkish_example_sentence": "Öğrenci kitabı buluyorum.",
-  "turkish_example_sentence_with_blank": "Öğrenci kitabı ______."
+  "english_example_sentence": "He is finding the beautiful white flower in the garden",
+  "russian_example_sentence": "Он находит красивый белый цветок в саду",
+  "turkish_example_sentence": "O bahçede güzel beyaz çiçeği buluyor",
+  "turkish_example_sentence_with_blank": "O bahçede güzel beyaz çiçeği ______"
 }

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 17,
+  "verb_english": "give",
+  "verb_russian": "давать",
+  "verb_infinitive": "vermek",
+  "turkish_verb": {
+    "verb_full": "vermemem lazım",
+    "root": "ver",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "I should not give sensitive information to strangers",
+  "russian_example_sentence": "Я не должен давать конфиденциальную информацию незнакомцам",
+  "turkish_example_sentence": "Ben gizli önemli bilgileri yabancılara vermemem lazım",
+  "turkish_example_sentence_with_blank": "Ben gizli önemli bilgileri yabancılara ______"
+}

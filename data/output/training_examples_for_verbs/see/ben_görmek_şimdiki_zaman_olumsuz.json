@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "görmüyorum",
     "root": "gör",
-    "tense_affix": "yor",
+    "tense_affix": "üyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "um",
     "polarity": "negative",
-    "negative_affix": "mı"
+    "negative_affix": "m"
   },
-  "english_example_sentence": "I am not seeing the beautiful park.",
-  "russian_example_sentence": "Я не вижу красивый парк.",
-  "turkish_example_sentence": "Ben güzel parkı görmüyorum.",
-  "turkish_example_sentence_with_blank": "Ben güzel parkı ______."
+  "english_example_sentence": "I am not seeing the distant mountains clearly",
+  "russian_example_sentence": "Я не вижу далёкие горы ясно",
+  "turkish_example_sentence": "Ben uzak dağları net görmüyorum",
+  "turkish_example_sentence_with_blank": "Ben uzak dağları net ______"
 }

@@ -4,17 +4,17 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istiyoruz",
+    "verb_full": "isteyebiliriz",
     "root": "iste",
-    "tense_affix": "yor",
+    "tense_affix": "yebil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "uz",
+    "personal_affix": "iriz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We want to go to the park.",
-  "russian_example_sentence": "Мы хотим пойти в парк.",
-  "turkish_example_sentence": "Biz parka gitmek istiyoruz.",
-  "turkish_example_sentence_with_blank": "Biz parka gitmek ______."
+  "english_example_sentence": "We can want delicious homemade chocolate cake",
+  "russian_example_sentence": "Мы можем хотеть вкусный домашний шоколадный торт",
+  "turkish_example_sentence": "Biz lezzetli ev yapımı çikolata pastasını isteyebiliriz",
+  "turkish_example_sentence_with_blank": "Biz lezzetli ev yapımı çikolata pastasını ______"
 }

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "görmüyor",
     "root": "gör",
-    "tense_affix": "iyor",
+    "tense_affix": "üyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "mi"
+    "negative_affix": "m"
   },
-  "english_example_sentence": "He/She does not see the beautiful flowers.",
-  "russian_example_sentence": "Он/Она не видит красивые цветы.",
-  "turkish_example_sentence": "Bahçedeki güzel çiçekleri görmüyor.",
-  "turkish_example_sentence_with_blank": "Bahçedeki güzel çiçekleri ______."
+  "english_example_sentence": "She is not seeing the important announcement on the wall",
+  "russian_example_sentence": "Она не видит важное объявление на стене",
+  "turkish_example_sentence": "O duvar üzerindeki önemli duyuruyu görmüyor",
+  "turkish_example_sentence_with_blank": "O duvar üzerindeki önemli duyuruyu ______"
 }

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "bakmadın",
     "root": "bak",
-    "tense_affix": "dı",
+    "tense_affix": "tı",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You didn't look at the beautiful painting.",
-  "russian_example_sentence": "Ты не смотрел на красивую картину.",
-  "turkish_example_sentence": "Sen güzel tabloya bakmadın.",
-  "turkish_example_sentence_with_blank": "Sen güzel tabloya ______."
+  "english_example_sentence": "You did not look at the new store window",
+  "russian_example_sentence": "Ты не смотрел на витрину нового магазина",
+  "turkish_example_sentence": "Sen yeni mağaza vitrinini bakmadın",
+  "turkish_example_sentence_with_blank": "Sen yeni mağaza vitrinini ______"
 }

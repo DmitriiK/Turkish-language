@@ -4,17 +4,17 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulmuyorsun",
+    "verb_full": "bulmuyor",
     "root": "bul",
     "tense_affix": "uyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "sun",
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "m"
   },
-  "english_example_sentence": "You are not finding the book.",
-  "russian_example_sentence": "Ты не находишь книгу.",
-  "turkish_example_sentence": "Sen büyük kitabı bulmuyorsun.",
-  "turkish_example_sentence_with_blank": "Sen büyük kitabı ______."
+  "english_example_sentence": "You are not finding the important green document today",
+  "russian_example_sentence": "Ты не находишь важный зеленый документ сегодня",
+  "turkish_example_sentence": "Sen bugün önemli yeşil belgeyi bulmuyor",
+  "turkish_example_sentence_with_blank": "Sen bugün önemli yeşil belgeyi ______"
 }

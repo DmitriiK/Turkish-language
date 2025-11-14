@@ -4,17 +4,17 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almıyor",
+    "verb_full": "almaz",
     "root": "al",
-    "tense_affix": "",
+    "tense_affix": "ır",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "mı"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "He is not taking my book.",
-  "russian_example_sentence": "Он не берет мою книгу.",
-  "turkish_example_sentence": "Ali, o kitabı almıyor.",
-  "turkish_example_sentence_with_blank": "Ali, o kitabı ______."
+  "english_example_sentence": "She does not take expensive gifts from strangers",
+  "russian_example_sentence": "Она не берет дорогие подарки от незнакомцев",
+  "turkish_example_sentence": "O yabancılardan pahalı hediyeler almaz",
+  "turkish_example_sentence_with_blank": "O yabancılardan pahalı hediyeler ______"
 }

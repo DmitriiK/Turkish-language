@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "düşündü",
     "root": "düşün",
-    "tense_affix": "d",
+    "tense_affix": "dü",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "ü",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "My friend thought about the problem.",
-  "russian_example_sentence": "Мой друг думал о проблеме.",
-  "turkish_example_sentence": "Arkadaşım sorunu düşündü.",
-  "turkish_example_sentence_with_blank": "Arkadaşım sorunu ______."
+  "english_example_sentence": "She thought about the beautiful memories all day",
+  "russian_example_sentence": "Она думала о прекрасных воспоминаниях весь день",
+  "turkish_example_sentence": "O bütün gün güzel anıları düşündü",
+  "turkish_example_sentence_with_blank": "O bütün gün güzel anıları ______"
 }

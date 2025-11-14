@@ -1,0 +1,20 @@
+{
+  "verb_rank": 8,
+  "verb_english": "know",
+  "verb_russian": "знать",
+  "verb_infinitive": "bilmek",
+  "turkish_verb": {
+    "verb_full": "bilemezsin",
+    "root": "bil",
+    "tense_affix": "eme",
+    "verb_tense": "imkan_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "zsin",
+    "polarity": "negative",
+    "negative_affix": "eme"
+  },
+  "english_example_sentence": "You cannot know the old Turkish history",
+  "russian_example_sentence": "Ты не можешь знать старую турецкую историю",
+  "turkish_example_sentence": "Sen eski Türk tarihini bilemezsin",
+  "turkish_example_sentence_with_blank": "Sen eski Türk tarihini ______"
+}

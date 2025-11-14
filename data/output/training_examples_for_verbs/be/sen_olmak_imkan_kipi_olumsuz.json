@@ -1,0 +1,20 @@
+{
+  "verb_rank": 1,
+  "verb_english": "be",
+  "verb_russian": "быть",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olamazsın",
+    "root": "ol",
+    "tense_affix": "abil",
+    "verb_tense": "imkan_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "irsin",
+    "polarity": "negative",
+    "negative_affix": "ama"
+  },
+  "english_example_sentence": "You cannot be absent from school today",
+  "russian_example_sentence": "Ты не можешь отсутствовать в школе сегодня",
+  "turkish_example_sentence": "Sen bugün okuldan uzak olamazsın",
+  "turkish_example_sentence_with_blank": "Sen bugün okuldan uzak ______"
+}

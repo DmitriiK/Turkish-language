@@ -4,17 +4,17 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip oluyorsun",
+    "verb_full": "sahip ol",
     "root": "sahip ol",
-    "tense_affix": "uyor",
+    "tense_affix": "",
     "verb_tense": "emir_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "sun",
+    "personal_affix": "",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You have a beautiful garden.",
-  "russian_example_sentence": "У тебя есть красивый сад.",
-  "turkish_example_sentence": "Sen güzel bir bahçeye sahip oluyorsun.",
-  "turkish_example_sentence_with_blank": "Sen güzel bir bahçeye ______."
+  "english_example_sentence": "You have a beautiful red car today",
+  "russian_example_sentence": "У тебя есть красивый красный автомобиль сегодня",
+  "turkish_example_sentence": "Sen güzel kırmızı arabaya sahip ol",
+  "turkish_example_sentence_with_blank": "Sen güzel kırmızı arabaya ______"
 }

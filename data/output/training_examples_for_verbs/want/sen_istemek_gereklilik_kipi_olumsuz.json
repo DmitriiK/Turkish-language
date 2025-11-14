@@ -1,0 +1,20 @@
+{
+  "verb_rank": 13,
+  "verb_english": "want",
+  "verb_russian": "хотеть",
+  "verb_infinitive": "istemek",
+  "turkish_verb": {
+    "verb_full": "istememen lazım",
+    "root": "iste",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "You should not want that expensive luxury car",
+  "russian_example_sentence": "Ты не должен хотеть эту дорогую роскошную машину",
+  "turkish_example_sentence": "Sen o pahalı lüks arabayı istememen lazım",
+  "turkish_example_sentence_with_blank": "Sen o pahalı lüks arabayı ______"
+}

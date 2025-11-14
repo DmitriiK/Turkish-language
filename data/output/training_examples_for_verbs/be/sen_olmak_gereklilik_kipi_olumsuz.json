@@ -1,0 +1,20 @@
+{
+  "verb_rank": 1,
+  "verb_english": "be",
+  "verb_russian": "быть",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olmaması lazım",
+    "root": "ol",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "You should not be rude to teachers",
+  "russian_example_sentence": "Ты не должен быть грубым с учителями",
+  "turkish_example_sentence": "Sen öğretmenlere karşı kaba olmaması lazım",
+  "turkish_example_sentence_with_blank": "Sen öğretmenlere karşı kaba ______"
+}

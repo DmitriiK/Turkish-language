@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "yapmayacak",
     "root": "yap",
-    "tense_affix": "y",
+    "tense_affix": "acak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "acak",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "He will not do his homework today.",
-  "russian_example_sentence": "Он не будет делать домашнее задание сегодня.",
-  "turkish_example_sentence": "O, bugün ödevini yapmayacak.",
-  "turkish_example_sentence_with_blank": "O, bugün ödevini ______."
+  "english_example_sentence": "He will not do the boring task",
+  "russian_example_sentence": "Он не будет делать скучную задачу",
+  "turkish_example_sentence": "O sıkıcı görevi yapmayacak",
+  "turkish_example_sentence_with_blank": "O sıkıcı görevi ______"
 }

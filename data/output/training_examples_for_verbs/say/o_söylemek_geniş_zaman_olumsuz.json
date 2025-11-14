@@ -4,17 +4,17 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylemiyor",
+    "verb_full": "söylemez",
     "root": "söyle",
-    "tense_affix": "",
+    "tense_affix": "r",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "mi"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "He is not saying anything.",
-  "russian_example_sentence": "Он ничего не говорит.",
-  "turkish_example_sentence": "Ali, Ahmet'e hiçbir şey söylemiyor.",
-  "turkish_example_sentence_with_blank": "Ali, Ahmet'e hiçbir şey ______."
+  "english_example_sentence": "She never says anything about her private life",
+  "russian_example_sentence": "Она никогда не говорит ничего о своей личной жизни",
+  "turkish_example_sentence": "O kişisel hayatı hakkında hiçbir şey söylemez",
+  "turkish_example_sentence_with_blank": "O kişisel hayatı hakkında hiçbir şey ______"
 }

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 12,
+  "verb_english": "come",
+  "verb_russian": "приходить",
+  "verb_infinitive": "gelmek",
+  "turkish_verb": {
+    "verb_full": "gelmemelisiniz",
+    "root": "gel",
+    "tense_affix": "meli",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "siniz",
+    "polarity": "negative",
+    "negative_affix": "meme"
+  },
+  "english_example_sentence": "You must not come to the closed restaurant tonight",
+  "russian_example_sentence": "Вы не должны приходить в закрытый ресторан сегодня вечером",
+  "turkish_example_sentence": "Siz kapalı restorana bu gece gelmemelisiniz",
+  "turkish_example_sentence_with_blank": "Siz kapalı restorana bu gece ______"
+}

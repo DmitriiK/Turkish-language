@@ -4,17 +4,17 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulacağım",
+    "verb_full": "bulacak",
     "root": "bul",
     "tense_affix": "acak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "ım",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "My sister will find the book.",
-  "russian_example_sentence": "Моя сестра найдет книгу.",
-  "turkish_example_sentence": "Kız kardeşim kitabı bulacağım.",
-  "turkish_example_sentence_with_blank": "Kız kardeşim kitabı ______."
+  "english_example_sentence": "She will find the green key in the kitchen",
+  "russian_example_sentence": "Она найдет зеленый ключ на кухне",
+  "turkish_example_sentence": "O mutfakta yeşil anahtarı bulacak",
+  "turkish_example_sentence_with_blank": "O mutfakta yeşil anahtarı ______"
 }

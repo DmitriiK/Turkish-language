@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "görmedim",
     "root": "gör",
-    "tense_affix": "di",
+    "tense_affix": "dü",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "I didn't see the beautiful city yesterday.",
-  "russian_example_sentence": "Вчера я не видел красивый город.",
-  "turkish_example_sentence": "Ben dün güzel şehri görmedim.",
-  "turkish_example_sentence_with_blank": "Ben dün güzel şehri ______."
+  "english_example_sentence": "I did not see the old movie last night",
+  "russian_example_sentence": "Я не видел старый фильм вчера вечером",
+  "turkish_example_sentence": "Ben geçen gece eski filmi görmedim",
+  "turkish_example_sentence_with_blank": "Ben geçen gece eski filmi ______"
 }

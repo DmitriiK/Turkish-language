@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "sahip olmam lazım",
     "root": "sahip ol",
-    "tense_affix": "ma",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I need to have a bicycle.",
-  "russian_example_sentence": "Мне нужно иметь велосипед.",
-  "turkish_example_sentence": "Ben bir bisiklete sahip olmam lazım.",
-  "turkish_example_sentence_with_blank": "Ben bir bisiklete ______."
+  "english_example_sentence": "I need to have a valid passport for travel",
+  "russian_example_sentence": "Мне нужно иметь действительный паспорт для путешествия",
+  "turkish_example_sentence": "Ben seyahat için geçerli bir pasaporta sahip olmam lazım",
+  "turkish_example_sentence_with_blank": "Ben seyahat için geçerli bir pasaporta ______"
 }

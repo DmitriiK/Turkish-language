@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "anlatmanız lazım",
     "root": "anlat",
-    "tense_affix": "ma",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to tell the story.",
-  "russian_example_sentence": "Вам нужно рассказать историю.",
-  "turkish_example_sentence": "Siz bu hikayeyi anlatmanız lazım.",
-  "turkish_example_sentence_with_blank": "Siz bu hikayeyi ______."
+  "english_example_sentence": "You need to tell the interesting cultural traditions",
+  "russian_example_sentence": "Вы должны рассказать интересные культурные традиции",
+  "turkish_example_sentence": "Siz ilginç kültürel gelenekleri anlatmanız lazım",
+  "turkish_example_sentence_with_blank": "Siz ilginç kültürel gelenekleri ______"
 }

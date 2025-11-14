@@ -1,0 +1,20 @@
+{
+  "verb_rank": 8,
+  "verb_english": "know",
+  "verb_russian": "знать",
+  "verb_infinitive": "bilmek",
+  "turkish_verb": {
+    "verb_full": "bilmesin",
+    "root": "bil",
+    "tense_affix": "sin",
+    "verb_tense": "emir_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": "sin",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "Let her not know about the surprise birthday party",
+  "russian_example_sentence": "Пусть она не знает о вечеринке сюрприз",
+  "turkish_example_sentence": "O sürpriz doğum günü partisini asla bilmesin",
+  "turkish_example_sentence_with_blank": "O sürpriz doğum günü partisini asla ______"
+}

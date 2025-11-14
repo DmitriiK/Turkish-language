@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "yapmadılar",
     "root": "yap",
-    "tense_affix": "dı",
+    "tense_affix": "tı",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "They did not make a decision.",
-  "russian_example_sentence": "Они не приняли решение.",
-  "turkish_example_sentence": "Öğrenciler dün önemli bir karar yapmadılar.",
-  "turkish_example_sentence_with_blank": "Öğrenciler dün önemli bir karar ______."
+  "english_example_sentence": "They did not make any progress on the difficult assignment",
+  "russian_example_sentence": "Они не добились никакого прогресса в сложном задании",
+  "turkish_example_sentence": "Onlar zor ödev üzerinde hiç ilerleme yapmadılar",
+  "turkish_example_sentence_with_blank": "Onlar zor ödev üzerinde hiç ilerleme ______"
 }

@@ -4,17 +4,17 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istiyor",
+    "verb_full": "ister",
     "root": "iste",
-    "tense_affix": "yor",
+    "tense_affix": "r",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "u",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He wants a new car.",
-  "russian_example_sentence": "Он хочет новую машину.",
-  "turkish_example_sentence": "Ali yeni bir araba istiyor.",
-  "turkish_example_sentence_with_blank": "Ali yeni bir araba ______."
+  "english_example_sentence": "He wants a fast blue sports car",
+  "russian_example_sentence": "Он хочет быстрый синий спортивный автомобиль",
+  "turkish_example_sentence": "O hızlı mavi spor arabayı ister",
+  "turkish_example_sentence_with_blank": "O hızlı mavi spor arabayı ______"
 }

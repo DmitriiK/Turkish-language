@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "yapman lazım",
     "root": "yap",
-    "tense_affix": "ma",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to make your homework",
-  "russian_example_sentence": "Тебе нужно сделать домашнее задание",
-  "turkish_example_sentence": "Sen ödevini yapman lazım",
-  "turkish_example_sentence_with_blank": "Sen ödevini ______"
+  "english_example_sentence": "You need to make important business decisions today",
+  "russian_example_sentence": "Тебе нужно принять важные деловые решения сегодня",
+  "turkish_example_sentence": "Sen bugün önemli iş kararlarını yapman lazım",
+  "turkish_example_sentence_with_blank": "Sen bugün önemli iş kararlarını ______"
 }

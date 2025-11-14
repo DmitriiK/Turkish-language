@@ -4,17 +4,17 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünüyorsun",
+    "verb_full": "düşünürsün",
     "root": "düşün",
-    "tense_affix": "üyor",
+    "tense_affix": "ür",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "sun",
+    "personal_affix": "sün",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You are thinking about the project.",
-  "russian_example_sentence": "Ты думаешь о проекте.",
-  "turkish_example_sentence": "Sen projeyi düşünüyor, çok çalışıyorsun.",
-  "turkish_example_sentence_with_blank": "Sen projeyi düşünüyor, çok çalışıyorsun."
+  "english_example_sentence": "You think about difficult mathematical problems",
+  "russian_example_sentence": "Ты думаешь о сложных математических проблемах",
+  "turkish_example_sentence": "Sen karmaşık matematik problemleri hakkında derinlemesine düşünürsün",
+  "turkish_example_sentence_with_blank": "Sen karmaşık matematik problemleri hakkında derinlemesine ______"
 }

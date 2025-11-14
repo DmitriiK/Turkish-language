@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "çalışmam",
     "root": "çalış",
-    "tense_affix": "",
+    "tense_affix": "ır",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ım",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I don't work",
-  "russian_example_sentence": "Я не работаю",
-  "turkish_example_sentence": "Ben bu yıl çok çalışmam.",
-  "turkish_example_sentence_with_blank": "Ben bu yıl çok ______."
+  "english_example_sentence": "I do not work on peaceful Sunday mornings",
+  "russian_example_sentence": "Я не работаю в спокойные воскресные утра",
+  "turkish_example_sentence": "Ben sakin pazar sabahlarında çalışmam",
+  "turkish_example_sentence_with_blank": "Ben sakin pazar sabahlarında ______"
 }

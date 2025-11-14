@@ -1,0 +1,20 @@
+{
+  "verb_rank": 20,
+  "verb_english": "call",
+  "verb_russian": "звонить",
+  "verb_infinitive": "aramak",
+  "turkish_verb": {
+    "verb_full": "aramaları lazım değil",
+    "root": "ara",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "ları",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "They do not need to call the expensive restaurant today",
+  "russian_example_sentence": "Им не нужно звонить дорогому ресторану сегодня",
+  "turkish_example_sentence": "Onlar pahalı restoranı bugün aramaları lazım değil",
+  "turkish_example_sentence_with_blank": "Onlar pahalı restoranı bugün ______"
+}

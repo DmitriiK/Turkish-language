@@ -4,17 +4,17 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "vermemek",
+    "verb_full": "vermiyorsun",
     "root": "ver",
-    "tense_affix": "me",
+    "tense_affix": "iyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "m",
+    "personal_affix": "sun",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "m"
   },
-  "english_example_sentence": "You are not giving a gift.",
-  "russian_example_sentence": "Ты не даёшь подарок.",
-  "turkish_example_sentence": "Sen bu yıl hediye vermemekle meşgulsün.",
-  "turkish_example_sentence_with_blank": "Sen bu yıl hediye ______le meşgulsün."
+  "english_example_sentence": "You are not giving enough time for homework",
+  "russian_example_sentence": "Ты не даешь достаточно времени для домашней работы",
+  "turkish_example_sentence": "Sen ödev için yeterli zamanı vermiyorsun",
+  "turkish_example_sentence_with_blank": "Sen ödev için yeterli zamanı ______"
 }

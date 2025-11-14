@@ -4,17 +4,17 @@
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "aramıyorsun",
+    "verb_full": "ararsın",
     "root": "ara",
-    "tense_affix": "",
+    "tense_affix": "r",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "sın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You call your friend every day.",
-  "russian_example_sentence": "Ты звонишь своему другу каждый день.",
-  "turkish_example_sentence": "Sen her gün arkadaşına arıyorsun.",
-  "turkish_example_sentence_with_blank": "Sen her gün arkadaşına arıyorsun."
+  "english_example_sentence": "You always call your best friend after work",
+  "russian_example_sentence": "Ты всегда звонишь своему лучшему другу после работы",
+  "turkish_example_sentence": "Sen işten sonra yakın dostunu sık sık ararsın",
+  "turkish_example_sentence_with_blank": "Sen işten sonra yakın dostunu sık sık ______"
 }

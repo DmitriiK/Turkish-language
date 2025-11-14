@@ -1,0 +1,20 @@
+{
+  "verb_rank": 15,
+  "verb_english": "use",
+  "verb_russian": "использовать",
+  "verb_infinitive": "kullanmak",
+  "turkish_verb": {
+    "verb_full": "kullanmamalısınız",
+    "root": "kullan",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "sınız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "You must not use unauthorized software",
+  "russian_example_sentence": "Вы не должны использовать несанкционированное программное обеспечение",
+  "turkish_example_sentence": "Siz izinsiz yazılım programlarını kullanmamalısınız",
+  "turkish_example_sentence_with_blank": "Siz izinsiz yazılım programlarını ______"
+}

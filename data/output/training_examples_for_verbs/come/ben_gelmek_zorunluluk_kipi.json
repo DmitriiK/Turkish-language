@@ -4,17 +4,17 @@
   "verb_russian": "приходить",
   "verb_infinitive": "gelmek",
   "turkish_verb": {
-    "verb_full": "geliyorum",
+    "verb_full": "gelmeliyim",
     "root": "gel",
-    "tense_affix": "iyor",
+    "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "um",
+    "personal_affix": "yim",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I have to come to the meeting.",
-  "russian_example_sentence": "Мне нужно прийти на встречу.",
-  "turkish_example_sentence": "Ben toplantıya geliyorum.",
-  "turkish_example_sentence_with_blank": "Ben toplantıya ______."
+  "english_example_sentence": "I must come to the important meeting tomorrow",
+  "russian_example_sentence": "Я должен прийти на важное совещание завтра",
+  "turkish_example_sentence": "Ben yarın önemli toplantıya gelmeliyim",
+  "turkish_example_sentence_with_blank": "Ben yarın önemli toplantıya ______"
 }

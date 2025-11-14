@@ -1,0 +1,20 @@
+{
+  "verb_rank": 12,
+  "verb_english": "come",
+  "verb_russian": "приходить",
+  "verb_infinitive": "gelmek",
+  "turkish_verb": {
+    "verb_full": "gelmemeliim",
+    "root": "gel",
+    "tense_affix": "meli",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "yim",
+    "polarity": "negative",
+    "negative_affix": "meme"
+  },
+  "english_example_sentence": "I must not come to the crowded market today",
+  "russian_example_sentence": "Я не должен приходить на переполненный рынок сегодня",
+  "turkish_example_sentence": "Ben bugün kalabalık pazara gelmemeliim",
+  "turkish_example_sentence_with_blank": "Ben bugün kalabalık pazara ______"
+}

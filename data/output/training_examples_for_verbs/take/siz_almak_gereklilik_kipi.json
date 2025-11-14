@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "almanız lazım",
     "root": "al",
-    "tense_affix": "ma",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to take your books.",
-  "russian_example_sentence": "Вам нужно взять свои книги.",
-  "turkish_example_sentence": "Siz kitaplarınızı almanız lazım.",
-  "turkish_example_sentence_with_blank": "Siz kitaplarınızı ______."
+  "english_example_sentence": "You all need to take the warm coat for winter",
+  "russian_example_sentence": "Вам нужно взять теплое пальто на зиму",
+  "turkish_example_sentence": "Siz kış için sıcak paltoyu almanız lazım",
+  "turkish_example_sentence_with_blank": "Siz kış için sıcak paltoyu ______"
 }

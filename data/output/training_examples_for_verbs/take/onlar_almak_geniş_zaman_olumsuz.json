@@ -4,17 +4,17 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almıyorlar",
+    "verb_full": "almazlar",
     "root": "al",
-    "tense_affix": "",
+    "tense_affix": "ır",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
-    "negative_affix": "mı"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "The students are not taking the exam.",
-  "russian_example_sentence": "Студенты не сдают экзамен.",
-  "turkish_example_sentence": "Öğrenciler sınavı almıyorlar.",
-  "turkish_example_sentence_with_blank": "Öğrenciler sınavı ______."
+  "english_example_sentence": "They do not take cold water for swimming",
+  "russian_example_sentence": "Они не берут холодную воду для плавания",
+  "turkish_example_sentence": "Onlar yüzme için soğuk suyu almazlar",
+  "turkish_example_sentence_with_blank": "Onlar yüzme için soğuk suyu ______"
 }

@@ -4,17 +4,17 @@
   "verb_russian": "смотреть",
   "verb_infinitive": "bakmak",
   "turkish_verb": {
-    "verb_full": "bakmalıdır",
+    "verb_full": "bakmalı",
     "root": "bak",
     "tense_affix": "malı",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "dır",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He should look at the book carefully.",
-  "russian_example_sentence": "Он должен внимательно смотреть на книгу.",
-  "turkish_example_sentence": "O kitabı dikkatle bakmalıdır.",
-  "turkish_example_sentence_with_blank": "O kitabı dikkatle ______."
+  "english_example_sentence": "He must look at the colorful painting in the museum",
+  "russian_example_sentence": "Он должен смотреть на красочную картину в музее",
+  "turkish_example_sentence": "O renkli sanat eserini müzede dikkatle bakmalı",
+  "turkish_example_sentence_with_blank": "O renkli sanat eserini müzede dikkatle ______"
 }

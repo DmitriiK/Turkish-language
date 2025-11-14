@@ -4,17 +4,17 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmam",
+    "verb_full": "yapmazlar",
     "root": "yap",
-    "tense_affix": "",
+    "tense_affix": "ar",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "They do not make mistakes.",
-  "russian_example_sentence": "Они не делают ошибок.",
-  "turkish_example_sentence": "Öğrenciler sınavda hata yapmam.",
-  "turkish_example_sentence_with_blank": "Öğrenciler sınavda hata ______."
+  "english_example_sentence": "They do not make promises they cannot keep",
+  "russian_example_sentence": "Они не делают обещания, которые не могут сдержать",
+  "turkish_example_sentence": "Onlar tutamayacakları sözleri yapmazlar",
+  "turkish_example_sentence_with_blank": "Onlar tutamayacakları sözleri ______"
 }

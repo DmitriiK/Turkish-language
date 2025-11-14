@@ -4,17 +4,17 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapması",
+    "verb_full": "yapmalı",
     "root": "yap",
-    "tense_affix": "ma",
+    "tense_affix": "malı",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "sı",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He must make a decision soon.",
-  "russian_example_sentence": "Он должен скоро принять решение.",
-  "turkish_example_sentence": "O, yakında bir karar yapması gerekiyor.",
-  "turkish_example_sentence_with_blank": "O, yakında bir karar ______ gerekiyor."
+  "english_example_sentence": "He must make a beautiful wooden table",
+  "russian_example_sentence": "Он должен сделать красивый деревянный стол",
+  "turkish_example_sentence": "O güzel bir ahşap masa yapmalı",
+  "turkish_example_sentence_with_blank": "O güzel bir ahşap masa ______"
 }

@@ -4,17 +4,17 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "gör",
+    "verb_full": "görsün",
     "root": "gör",
     "tense_affix": "",
     "verb_tense": "emir_kipi",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "sün",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He sees the beautiful garden.",
-  "russian_example_sentence": "Он видит красивый сад.",
-  "turkish_example_sentence": "O güzel bahçeyi gör.",
-  "turkish_example_sentence_with_blank": "O güzel bahçeyi ______."
+  "english_example_sentence": "Let him see the ancient historical ruins",
+  "russian_example_sentence": "Пусть он посмотрит на древние исторические руины",
+  "turkish_example_sentence": "O eski tarihi harabeler görsün",
+  "turkish_example_sentence_with_blank": "O eski tarihi harabeler ______"
 }

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gitmeyecekler",
     "root": "git",
-    "tense_affix": "meyecek",
+    "tense_affix": "ecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "They will not go to the cinema.",
-  "russian_example_sentence": "Они не пойдут в кино.",
-  "turkish_example_sentence": "Onlar sinemaya gitmeyecekler.",
-  "turkish_example_sentence_with_blank": "Onlar sinemaya ______."
+  "english_example_sentence": "They will not go to the dark abandoned castle",
+  "russian_example_sentence": "Они не пойдут в темный заброшенный замок",
+  "turkish_example_sentence": "Onlar karanlık terk edilmiş kaloya gitmeyecekler",
+  "turkish_example_sentence_with_blank": "Onlar karanlık terk edilmiş kaloya ______"
 }

@@ -4,17 +4,17 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmam",
+    "verb_full": "yapmazsın",
     "root": "yap",
-    "tense_affix": "",
+    "tense_affix": "ar",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "m",
+    "personal_affix": "sın",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You don't make mistakes.",
-  "russian_example_sentence": "Ты не делаешь ошибок.",
-  "turkish_example_sentence": "Sen bu yıl hatalar yapmam.",
-  "turkish_example_sentence_with_blank": "Sen bu yıl hatalar ______."
+  "english_example_sentence": "You do not make loud noises during study time",
+  "russian_example_sentence": "Ты не делаешь громкие звуки во время учебы",
+  "turkish_example_sentence": "Sen ders zamanında gürültülü sesler yapmazsın",
+  "turkish_example_sentence_with_blank": "Sen ders zamanında gürültülü sesler ______"
 }

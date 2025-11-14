@@ -4,17 +4,17 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilmelidir",
+    "verb_full": "bilmeli",
     "root": "bil",
     "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "dir",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He must know the answer.",
-  "russian_example_sentence": "Он должен знать ответ.",
-  "turkish_example_sentence": "Ali, o cevabı bilmelidir.",
-  "turkish_example_sentence_with_blank": "Ali, o cevabı ______."
+  "english_example_sentence": "He must know the beautiful city history well",
+  "russian_example_sentence": "Он должен знать историю красивого города хорошо",
+  "turkish_example_sentence": "O eski İstanbul şehrinin ilginç kültürel mirasını ve tarihi mekanlarını bilmeli",
+  "turkish_example_sentence_with_blank": "O eski İstanbul şehrinin ilginç kültürel mirasını ve tarihi mekanlarını ______"
 }

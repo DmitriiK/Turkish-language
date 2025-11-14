@@ -1,0 +1,20 @@
+{
+  "verb_rank": 7,
+  "verb_english": "make",
+  "verb_russian": "делать (создавать)",
+  "verb_infinitive": "yapmak",
+  "turkish_verb": {
+    "verb_full": "yapmamalısınız",
+    "root": "yap",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "sınız",
+    "polarity": "negative",
+    "negative_affix": "mama"
+  },
+  "english_example_sentence": "You must not make promises you cannot keep",
+  "russian_example_sentence": "Вы не должны давать обещания, которые не можете выполнить",
+  "turkish_example_sentence": "Siz tutamayacağınız vaatler yapmamalısınız",
+  "turkish_example_sentence_with_blank": "Siz tutamayacağınız vaatler ______"
+}

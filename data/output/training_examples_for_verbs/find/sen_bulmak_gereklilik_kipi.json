@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "bulman lazım",
     "root": "bul",
-    "tense_affix": "ma",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to find the book",
-  "russian_example_sentence": "Тебе нужно найти книгу",
-  "turkish_example_sentence": "Sen kitabı bulman lazım",
-  "turkish_example_sentence_with_blank": "Sen kitabı ______"
+  "english_example_sentence": "You need to find the important blue document quickly",
+  "russian_example_sentence": "Тебе нужно найти важный синий документ быстро",
+  "turkish_example_sentence": "Sen hızlı bir şekilde önemli mavi belgeyi bulman lazım",
+  "turkish_example_sentence_with_blank": "Sen hızlı bir şekilde önemli mavi belgeyi ______"
 }

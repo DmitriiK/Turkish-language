@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "kullanması lazım",
     "root": "kullan",
-    "tense_affix": "ma",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
     "personal_affix": "sı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He needs to use the computer.",
-  "russian_example_sentence": "Ему нужно использовать компьютер.",
-  "turkish_example_sentence": "O bilgisayarı kullanması lazım.",
-  "turkish_example_sentence_with_blank": "O bilgisayarı ______."
+  "english_example_sentence": "He needs to use the public transportation system",
+  "russian_example_sentence": "Ему нужно использовать систему общественного транспорта",
+  "turkish_example_sentence": "O şehir otobüs ağını kullanması lazım",
+  "turkish_example_sentence_with_blank": "O şehir otobüs ağını ______"
 }

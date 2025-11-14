@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "vermeyeceksin",
     "root": "ver",
-    "tense_affix": "meyecek",
+    "tense_affix": "ecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "sin",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You will not give the book to the student.",
-  "russian_example_sentence": "Ты не дашь книгу студенту.",
-  "turkish_example_sentence": "Sen öğrenciye kitabı vermeyeceksin.",
-  "turkish_example_sentence_with_blank": "Sen öğrenciye kitabı ______."
+  "english_example_sentence": "You will not give that expensive jewelry to your sister",
+  "russian_example_sentence": "Ты не дашь это дорогое украшение своей сестре",
+  "turkish_example_sentence": "Sen pahalı mücevheri kız kardeşine vermeyeceksin",
+  "turkish_example_sentence_with_blank": "Sen pahalı mücevheri kız kardeşine ______"
 }

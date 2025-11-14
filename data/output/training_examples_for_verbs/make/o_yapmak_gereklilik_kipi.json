@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "yapması lazım",
     "root": "yap",
-    "tense_affix": "ma",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
     "personal_affix": "sı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He needs to make a project.",
-  "russian_example_sentence": "Ему нужно сделать проект.",
-  "turkish_example_sentence": "O projeyi yapması lazım.",
-  "turkish_example_sentence_with_blank": "O projeyi ______."
+  "english_example_sentence": "He needs to make a beautiful handmade gift",
+  "russian_example_sentence": "Ему нужно сделать красивый ручной подарок",
+  "turkish_example_sentence": "O güzel el yapımı bir hediye yapması lazım",
+  "turkish_example_sentence_with_blank": "O güzel el yapımı bir hediye ______"
 }

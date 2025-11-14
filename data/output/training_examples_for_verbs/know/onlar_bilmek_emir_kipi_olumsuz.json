@@ -1,0 +1,20 @@
+{
+  "verb_rank": 8,
+  "verb_english": "know",
+  "verb_russian": "знать",
+  "verb_infinitive": "bilmek",
+  "turkish_verb": {
+    "verb_full": "bilmesinler",
+    "root": "bil",
+    "tense_affix": "sinler",
+    "verb_tense": "emir_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "sinler",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "Don't let them know the confidential business strategy",
+  "russian_example_sentence": "Не позволяйте им знать конфиденциальную бизнес-стратегию",
+  "turkish_example_sentence": "Onlar gizli ticari stratejisini kesinlikle bilmesinler",
+  "turkish_example_sentence_with_blank": "Onlar gizli ticari stratejisini kesinlikle ______"
+}

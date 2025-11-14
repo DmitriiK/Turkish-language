@@ -1,0 +1,20 @@
+{
+  "verb_rank": 5,
+  "verb_english": "go",
+  "verb_russian": "идти",
+  "verb_infinitive": "gitmek",
+  "turkish_verb": {
+    "verb_full": "gitmememiz lazım",
+    "root": "git",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "mız",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "We do not need to go to the expensive restaurant tonight",
+  "russian_example_sentence": "Нам не нужно идти в дорогой ресторан сегодня вечером",
+  "turkish_example_sentence": "Biz bu gece pahalı restorana gitmememiz lazım",
+  "turkish_example_sentence_with_blank": "Biz bu gece pahalı restorana ______"
+}

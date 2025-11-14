@@ -4,17 +4,17 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "alıyor",
+    "verb_full": "alabilir",
     "root": "al",
-    "tense_affix": "ıyor",
+    "tense_affix": "abil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "u",
+    "personal_affix": "ir",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The teacher is taking the students to the museum.",
-  "russian_example_sentence": "Учитель берет студентов в музей.",
-  "turkish_example_sentence": "Öğretmen öğrencileri müzeye alıyor.",
-  "turkish_example_sentence_with_blank": "Öğretmen öğrencileri müzeye ______."
+  "english_example_sentence": "He can take the blue notebook from the shelf",
+  "russian_example_sentence": "Он может взять синюю тетрадь с полки",
+  "turkish_example_sentence": "O mavi defterleri raftan alabilir",
+  "turkish_example_sentence_with_blank": "O mavi defterleri raftan ______"
 }

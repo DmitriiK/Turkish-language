@@ -1,0 +1,20 @@
+{
+  "verb_rank": 20,
+  "verb_english": "call",
+  "verb_russian": "звонить",
+  "verb_infinitive": "aramak",
+  "turkish_verb": {
+    "verb_full": "aramazsın",
+    "root": "ara",
+    "tense_affix": "r",
+    "verb_tense": "geniş_zaman",
+    "personal_pronoun": "sen",
+    "personal_affix": "sın",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "You never call the pizza restaurant during lunch",
+  "russian_example_sentence": "Ты никогда не звонишь в пиццерию во время обеда",
+  "turkish_example_sentence": "Sen öğle yemeği saatinde pizzacıyı aramazsın",
+  "turkish_example_sentence_with_blank": "Sen öğle yemeği saatinde pizzacıyı ______"
+}

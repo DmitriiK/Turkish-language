@@ -4,17 +4,17 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "alıyorsunuz",
+    "verb_full": "alırsınız",
     "root": "al",
-    "tense_affix": "ıyor",
+    "tense_affix": "ır",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "sunuz",
+    "personal_affix": "sınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You are taking the book.",
-  "russian_example_sentence": "Вы берете книгу.",
-  "turkish_example_sentence": "Siz kitabı alıyorsunuz.",
-  "turkish_example_sentence_with_blank": "Siz kitabı ______."
+  "english_example_sentence": "You take the green train to the coastal city",
+  "russian_example_sentence": "Вы берете зеленый поезд в прибрежный город",
+  "turkish_example_sentence": "Siz kıyıya gitmek için yeşil treni alırsınız",
+  "turkish_example_sentence_with_blank": "Siz kıyıya gitmek için yeşil treni ______"
 }

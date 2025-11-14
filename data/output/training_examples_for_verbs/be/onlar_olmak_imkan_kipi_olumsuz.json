@@ -1,0 +1,20 @@
+{
+  "verb_rank": 1,
+  "verb_english": "be",
+  "verb_russian": "быть",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olamazlar",
+    "root": "ol",
+    "tense_affix": "abil",
+    "verb_tense": "imkan_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "irler",
+    "polarity": "negative",
+    "negative_affix": "ama"
+  },
+  "english_example_sentence": "They cannot be silent about this serious scandal",
+  "russian_example_sentence": "Они не могут молчать об этом серьезном скандале",
+  "turkish_example_sentence": "Onlar bu ciddi skandal hakkında sessiz olamazlar",
+  "turkish_example_sentence_with_blank": "Onlar bu ciddi skandal hakkında sessiz ______"
+}

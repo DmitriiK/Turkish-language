@@ -1,0 +1,20 @@
+{
+  "verb_rank": 13,
+  "verb_english": "want",
+  "verb_russian": "хотеть",
+  "verb_infinitive": "istemek",
+  "turkish_verb": {
+    "verb_full": "istememeli",
+    "root": "iste",
+    "tense_affix": "memeli",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "yim",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "I must not want unnecessary expensive gifts",
+  "russian_example_sentence": "Я не должен хотеть ненужные дорогие подарки",
+  "turkish_example_sentence": "Ben gereksiz pahalı hediyeler istememeli",
+  "turkish_example_sentence_with_blank": "Ben gereksiz pahalı hediyeler ______"
+}

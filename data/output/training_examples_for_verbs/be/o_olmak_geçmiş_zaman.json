@@ -4,17 +4,17 @@
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "oldum",
-    "root": "ol",
-    "tense_affix": "du",
+    "verb_full": "idi",
+    "root": "i",
+    "tense_affix": "di",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "m",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "My friend was happy last year.",
-  "russian_example_sentence": "Мой друг был счастлив в прошлом году.",
-  "turkish_example_sentence": "Geçen yıl arkadaşım mutlu oldum.",
-  "turkish_example_sentence_with_blank": "Geçen yıl arkadaşım mutlu ______."
+  "english_example_sentence": "She was an excellent doctor in the hospital",
+  "russian_example_sentence": "Она была отличным врачом в больнице",
+  "turkish_example_sentence": "O hastanede mükemmel bir doktor idi",
+  "turkish_example_sentence_with_blank": "O hastanede mükemmel bir doktor ______"
 }

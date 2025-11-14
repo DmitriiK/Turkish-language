@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "vermeniz lazım",
     "root": "ver",
-    "tense_affix": "me",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "nız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to give the book.",
-  "russian_example_sentence": "Вам нужно дать книгу.",
-  "turkish_example_sentence": "Siz kitabı vermeniz lazım.",
-  "turkish_example_sentence_with_blank": "Siz kitabı ______."
+  "english_example_sentence": "You must give the detailed report to the experienced director",
+  "russian_example_sentence": "Вы должны дать подробный отчет опытному директору",
+  "turkish_example_sentence": "Siz ayrıntılı raporları tecrübeli müdüre vermeniz lazım",
+  "turkish_example_sentence_with_blank": "Siz ayrıntılı raporları tecrübeli müdüre ______"
 }

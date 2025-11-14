@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gidecek",
     "root": "git",
-    "tense_affix": "e",
+    "tense_affix": "ecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "cek",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "She will go to the market tomorrow.",
-  "russian_example_sentence": "Она пойдет на рынок завтра.",
-  "turkish_example_sentence": "O yarın pazara gidecek.",
-  "turkish_example_sentence_with_blank": "O yarın pazara ______."
+  "english_example_sentence": "He will go to the green forest for hiking",
+  "russian_example_sentence": "Он пойдет в зеленый лес для пеших прогулок",
+  "turkish_example_sentence": "O yeşil ormana yürüyüş için gidecek",
+  "turkish_example_sentence_with_blank": "O yeşil ormana yürüyüş için ______"
 }

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 18,
+  "verb_english": "tell",
+  "verb_russian": "рассказывать",
+  "verb_infinitive": "anlatmak",
+  "turkish_verb": {
+    "verb_full": "anlatmaması lazım",
+    "root": "anlat",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": "sı",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "She should not tell the personal information",
+  "russian_example_sentence": "Она не должна рассказывать личную информацию",
+  "turkish_example_sentence": "O özel kişisel bilgileri anlatmaması lazım",
+  "turkish_example_sentence_with_blank": "O özel kişisel bilgileri ______"
+}

@@ -4,17 +4,17 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilmem",
+    "verb_full": "bilmeyiz",
     "root": "bil",
-    "tense_affix": "",
+    "tense_affix": "ir",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "m",
+    "personal_affix": "iz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "We do not know the answer.",
-  "russian_example_sentence": "Мы не знаем ответа.",
-  "turkish_example_sentence": "Biz bu sorunun cevabını bilmem.",
-  "turkish_example_sentence_with_blank": "Biz bu sorunun cevabını ______."
+  "english_example_sentence": "We don't know the remote mountain village",
+  "russian_example_sentence": "Мы не знаем удаленную горную деревню",
+  "turkish_example_sentence": "Biz uzak dağ köyünü bilmeyiz",
+  "turkish_example_sentence_with_blank": "Biz uzak dağ köyünü ______"
 }

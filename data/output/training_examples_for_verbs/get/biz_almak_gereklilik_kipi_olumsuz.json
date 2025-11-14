@@ -1,0 +1,20 @@
+{
+  "verb_rank": 6,
+  "verb_english": "get",
+  "verb_russian": "получать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almamamız lazım",
+    "root": "al",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "mız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "We should not get those cheap plastic toys",
+  "russian_example_sentence": "Нам не нужно получать те дешевые пластиковые игрушки",
+  "turkish_example_sentence": "Biz o ucuz plastik oyuncakları almamamız lazım",
+  "turkish_example_sentence_with_blank": "Biz o ucuz plastik oyuncakları ______"
+}

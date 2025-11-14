@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "düşünmedim",
     "root": "düşün",
-    "tense_affix": "di",
+    "tense_affix": "dü",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "I didn't think about the problem yesterday.",
-  "russian_example_sentence": "Я не думал о проблеме вчера.",
-  "turkish_example_sentence": "Ben dün bu problem hakkında düşünmedim.",
-  "turkish_example_sentence_with_blank": "Ben dün bu problem hakkında ______."
+  "english_example_sentence": "I did not think about the important meeting",
+  "russian_example_sentence": "Я не думал о важной встрече",
+  "turkish_example_sentence": "Ben önemli toplantı hakkında düşünmedim",
+  "turkish_example_sentence_with_blank": "Ben önemli toplantı hakkında ______"
 }

@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmiyor",
+    "verb_full": "gitmez",
     "root": "git",
-    "tense_affix": "",
+    "tense_affix": "er",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "mi"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "He is not going to the park.",
-  "russian_example_sentence": "Он не идет в парк.",
-  "turkish_example_sentence": "O, parka gitmiyor.",
-  "turkish_example_sentence_with_blank": "O, parka ______."
+  "english_example_sentence": "She does not go to the expensive fancy restaurant",
+  "russian_example_sentence": "Она не ходит в дорогой модный ресторан",
+  "turkish_example_sentence": "O pahalı şık restoranda gitmez",
+  "turkish_example_sentence_with_blank": "O pahalı şık restoranda ______"
 }

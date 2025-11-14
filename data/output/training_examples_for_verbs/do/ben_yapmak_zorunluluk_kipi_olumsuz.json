@@ -1,0 +1,20 @@
+{
+  "verb_rank": 3,
+  "verb_english": "do",
+  "verb_russian": "делать",
+  "verb_infinitive": "yapmak",
+  "turkish_verb": {
+    "verb_full": "yapmamalıyım",
+    "root": "yap",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "yım",
+    "polarity": "negative",
+    "negative_affix": "mama"
+  },
+  "english_example_sentence": "I must not do this terrible mistake again",
+  "russian_example_sentence": "Я не должен делать эту ужасную ошибку снова",
+  "turkish_example_sentence": "Ben bu korkunç hatayı tekrar yapmamalıyım",
+  "turkish_example_sentence_with_blank": "Ben bu korkunç hatayı tekrar ______"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 17,
+  "verb_english": "give",
+  "verb_russian": "давать",
+  "verb_infinitive": "vermek",
+  "turkish_verb": {
+    "verb_full": "vermemesi lazım",
+    "root": "ver",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": "sı",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "She should not give her phone number to unknown callers",
+  "russian_example_sentence": "Она не должна давать свой номер телефона неизвестным звонящим",
+  "turkish_example_sentence": "O bilinmeyen arayanların telefon numarasını vermemesi lazım",
+  "turkish_example_sentence_with_blank": "O bilinmeyen arayanların telefon numarasını ______"
+}

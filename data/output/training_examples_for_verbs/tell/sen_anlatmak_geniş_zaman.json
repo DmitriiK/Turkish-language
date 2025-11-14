@@ -4,17 +4,17 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatıyorsun",
+    "verb_full": "anlatırsın",
     "root": "anlat",
-    "tense_affix": "ıyor",
+    "tense_affix": "ır",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "sun",
+    "personal_affix": "sın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You are telling an interesting story.",
-  "russian_example_sentence": "Ты рассказываешь интересную историю.",
-  "turkish_example_sentence": "Sen ilginç bir hikaye anlatıyorsun.",
-  "turkish_example_sentence_with_blank": "Sen ilginç bir hikaye ______."
+  "english_example_sentence": "You tell funny jokes at parties",
+  "russian_example_sentence": "Ты рассказываешь смешные шутки на вечеринках",
+  "turkish_example_sentence": "Sen partilerde komik fıkralar anlatırsın",
+  "turkish_example_sentence_with_blank": "Sen partilerde komik fıkralar ______"
 }

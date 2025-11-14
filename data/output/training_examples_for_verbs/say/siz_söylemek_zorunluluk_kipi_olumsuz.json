@@ -1,0 +1,20 @@
+{
+  "verb_rank": 4,
+  "verb_english": "say",
+  "verb_russian": "сказать",
+  "verb_infinitive": "söylemek",
+  "turkish_verb": {
+    "verb_full": "söylememezsiniz",
+    "root": "söyle",
+    "tense_affix": "memeli",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "siniz",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "You must not say rude things to customers",
+  "russian_example_sentence": "Вы не должны говорить грубые вещи клиентам",
+  "turkish_example_sentence": "Siz müşterilere kaba şeyler söylememezsiniz",
+  "turkish_example_sentence_with_blank": "Siz müşterilere kaba şeyler ______"
+}

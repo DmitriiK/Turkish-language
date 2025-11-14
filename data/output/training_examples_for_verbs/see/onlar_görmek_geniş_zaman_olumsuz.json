@@ -4,17 +4,17 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görmüyorlar",
+    "verb_full": "görmezler",
     "root": "gör",
-    "tense_affix": "",
+    "tense_affix": "ür",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "ler",
     "polarity": "negative",
-    "negative_affix": "mıyor"
+    "negative_affix": "mez"
   },
-  "english_example_sentence": "The children do not see the beautiful park.",
-  "russian_example_sentence": "Дети не видят красивый парк.",
-  "turkish_example_sentence": "Çocuklar güzel parkı görmüyorlar.",
-  "turkish_example_sentence_with_blank": "Çocuklar güzel parkı ______."
+  "english_example_sentence": "They don't see the danger ahead",
+  "russian_example_sentence": "Они не видят опасность впереди",
+  "turkish_example_sentence": "Onlar öncesindeki tehlikeyi görmezler",
+  "turkish_example_sentence_with_blank": "Onlar öncesindeki tehlikeyi ______"
 }

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "bulmazlar",
     "root": "bul",
-    "tense_affix": "",
+    "tense_affix": "ur",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
-    "negative_affix": "maz"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "They do not find the book.",
-  "russian_example_sentence": "Они не находят книгу.",
-  "turkish_example_sentence": "Öğrenciler kitap bulmazlar.",
-  "turkish_example_sentence_with_blank": "Öğrenciler kitap ______."
+  "english_example_sentence": "They do not find the soft brown leather bag",
+  "russian_example_sentence": "Они не находят мягкую коричневую кожаную сумку",
+  "turkish_example_sentence": "Onlar yumuşak kahverengi deri çantayı bulmazlar",
+  "turkish_example_sentence_with_blank": "Onlar yumuşak kahverengi deri çantayı ______"
 }

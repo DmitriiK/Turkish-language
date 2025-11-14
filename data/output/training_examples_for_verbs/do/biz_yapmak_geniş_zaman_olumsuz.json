@@ -4,17 +4,17 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmam",
+    "verb_full": "yapmayız",
     "root": "yap",
-    "tense_affix": "",
+    "tense_affix": "ar",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "m",
+    "personal_affix": "ız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "We do not have a plan.",
-  "russian_example_sentence": "У нас нет плана.",
-  "turkish_example_sentence": "Bizim bir planımız yok.",
-  "turkish_example_sentence_with_blank": "Bizim bir planımız yok."
+  "english_example_sentence": "We do not do harmful experiments",
+  "russian_example_sentence": "Мы не делаем вредные эксперименты",
+  "turkish_example_sentence": "Biz laboratuvarda hiçbir zararlı deneyi yapmayız",
+  "turkish_example_sentence_with_blank": "Biz laboratuvarda hiçbir zararlı deneyi ______"
 }

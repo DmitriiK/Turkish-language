@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmem lazım",
+    "verb_full": "gitmemiz lazım",
     "root": "git",
-    "tense_affix": "me",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "mız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We need to go to the market.",
-  "russian_example_sentence": "Нам нужно идти на рынок.",
-  "turkish_example_sentence": "Bizim pazara gitmem lazım.",
-  "turkish_example_sentence_with_blank": "Bizim pazara ______."
+  "english_example_sentence": "We need to go to the new art museum this week",
+  "russian_example_sentence": "Нам нужно идти в новый художественный музей на этой неделе",
+  "turkish_example_sentence": "Biz bu hafta yeni sanat müzesine gitmemiz lazım",
+  "turkish_example_sentence_with_blank": "Biz bu hafta yeni sanat müzesine ______"
 }

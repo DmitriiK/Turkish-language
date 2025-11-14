@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "vermem",
     "root": "ver",
-    "tense_affix": "",
+    "tense_affix": "ir",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "im",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "I do not give my brother help.",
-  "russian_example_sentence": "Я не даю помощь моему брату.",
-  "turkish_example_sentence": "Ben kardeşime yardım vermem.",
-  "turkish_example_sentence_with_blank": "Ben kardeşime yardım ______."
+  "english_example_sentence": "I do not give personal information to strangers",
+  "russian_example_sentence": "Я не даю личную информацию незнакомцам",
+  "turkish_example_sentence": "Ben kişisel bilgilerimi yabancılara vermem",
+  "turkish_example_sentence_with_blank": "Ben kişisel bilgilerimi yabancılara ______"
 }

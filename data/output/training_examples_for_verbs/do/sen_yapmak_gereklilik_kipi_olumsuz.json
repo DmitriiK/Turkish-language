@@ -4,17 +4,17 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmıyorum",
+    "verb_full": "yapmaması lazım",
     "root": "yap",
-    "tense_affix": "ma",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "m",
+    "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "My friend does not do homework",
-  "russian_example_sentence": "Мой друг не делает домашнее задание",
-  "turkish_example_sentence": "Arkadaşım ödev yapmıyor",
-  "turkish_example_sentence_with_blank": "Arkadaşım ödev yapmıyor"
+  "english_example_sentence": "You should not do that dangerous thing",
+  "russian_example_sentence": "Тебе не нужно делать это опасное дело",
+  "turkish_example_sentence": "Sen bu tehlikeli işi yapmaması lazım",
+  "turkish_example_sentence_with_blank": "Sen bu tehlikeli işi ______"
 }

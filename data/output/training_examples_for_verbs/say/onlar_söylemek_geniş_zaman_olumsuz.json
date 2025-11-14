@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "söylemezler",
     "root": "söyle",
-    "tense_affix": "",
+    "tense_affix": "r",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "ler",
+    "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "The children do not say anything wrong.",
-  "russian_example_sentence": "Дети не говорят ничего плохого.",
-  "turkish_example_sentence": "Çocuklar yanlış bir şey söylemezler.",
-  "turkish_example_sentence_with_blank": "Çocuklar yanlış bir şey ______."
+  "english_example_sentence": "They never say their true feelings openly",
+  "russian_example_sentence": "Они никогда не говорят свои истинные чувства открыто",
+  "turkish_example_sentence": "Onlar gerçek duygularını açıkça asla söylemezler",
+  "turkish_example_sentence_with_blank": "Onlar gerçek duygularını açıkça asla ______"
 }

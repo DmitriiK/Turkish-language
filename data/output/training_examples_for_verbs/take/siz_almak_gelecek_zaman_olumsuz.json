@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "almayacaksınız",
     "root": "al",
-    "tense_affix": "yacak",
+    "tense_affix": "acak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "ınız",
+    "personal_affix": "sınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You will not take the books.",
-  "russian_example_sentence": "Вы не возьмете книги.",
-  "turkish_example_sentence": "Siz kitapları almayacaksınız.",
-  "turkish_example_sentence_with_blank": "Siz kitapları ______."
+  "english_example_sentence": "You will not take the heavy suitcase on the trip",
+  "russian_example_sentence": "Вы не возьмёте тяжёлый чемодан в путешествие",
+  "turkish_example_sentence": "Siz yolculukta ağır valizleri almayacaksınız",
+  "turkish_example_sentence_with_blank": "Siz yolculukta ağır valizleri ______"
 }

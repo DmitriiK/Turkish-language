@@ -1,0 +1,20 @@
+{
+  "verb_rank": 3,
+  "verb_english": "do",
+  "verb_russian": "делать",
+  "verb_infinitive": "yapmak",
+  "turkish_verb": {
+    "verb_full": "yapmamalılar",
+    "root": "yap",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "lar",
+    "polarity": "negative",
+    "negative_affix": "mama"
+  },
+  "english_example_sentence": "They must not do any expensive purchases now",
+  "russian_example_sentence": "Они не должны делать никаких дорогих покупок сейчас",
+  "turkish_example_sentence": "Onlar şimdi hiçbir pahalı alışveriş yapmamalılar",
+  "turkish_example_sentence_with_blank": "Onlar şimdi hiçbir pahalı alışveriş ______"
+}

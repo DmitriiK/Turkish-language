@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "çalışmadınız",
     "root": "çalış",
-    "tense_affix": "madı",
+    "tense_affix": "tı",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You did not work yesterday.",
-  "russian_example_sentence": "Вы не работали вчера.",
-  "turkish_example_sentence": "Siz dün hiç çalışmadınız.",
-  "turkish_example_sentence_with_blank": "Siz dün hiç ______."
+  "english_example_sentence": "You did not work on the creative design project",
+  "russian_example_sentence": "Вы не работали над творческим проектом дизайна",
+  "turkish_example_sentence": "Siz yaratıcı tasarım projesinde çalışmadınız",
+  "turkish_example_sentence_with_blank": "Siz yaratıcı tasarım projesinde ______"
 }

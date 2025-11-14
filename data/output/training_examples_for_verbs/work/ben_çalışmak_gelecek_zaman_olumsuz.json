@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "çalışmayacağım",
     "root": "çalış",
-    "tense_affix": "yacak",
+    "tense_affix": "acak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "ım",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I will not work tomorrow.",
-  "russian_example_sentence": "Я не буду работать завтра.",
-  "turkish_example_sentence": "Ben yarın çalışmayacağım.",
-  "turkish_example_sentence_with_blank": "Ben yarın ______."
+  "english_example_sentence": "I will not work on the weekend",
+  "russian_example_sentence": "Я не буду работать в выходной",
+  "turkish_example_sentence": "Ben hafta sonu rahat çalışmayacağım",
+  "turkish_example_sentence_with_blank": "Ben hafta sonu rahat ______"
 }

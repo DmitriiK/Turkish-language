@@ -1,0 +1,20 @@
+{
+  "verb_rank": 20,
+  "verb_english": "call",
+  "verb_russian": "звонить",
+  "verb_infinitive": "aramak",
+  "turkish_verb": {
+    "verb_full": "aramadın",
+    "root": "ara",
+    "tense_affix": "dı",
+    "verb_tense": "geçmiş_zaman",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "You did not call the important client yesterday",
+  "russian_example_sentence": "Ты не позвонил важному клиенту вчера",
+  "turkish_example_sentence": "Sen dün önemli müşteri aramadın",
+  "turkish_example_sentence_with_blank": "Sen dün önemli müşteri ______"
+}

@@ -4,17 +4,17 @@
   "verb_russian": "получать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "alıyor",
+    "verb_full": "alabilir",
     "root": "al",
-    "tense_affix": "ıyor",
+    "tense_affix": "abil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "u",
+    "personal_affix": "ir",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The teacher is getting the books.",
-  "russian_example_sentence": "Учитель получает книги.",
-  "turkish_example_sentence": "Öğretmen kitapları alıyor.",
-  "turkish_example_sentence_with_blank": "Öğretmen kitapları ______."
+  "english_example_sentence": "She can get the blue notebook from the store",
+  "russian_example_sentence": "Она может получить синюю тетрадь из магазина",
+  "turkish_example_sentence": "O mağazadan mavi defteri alabilir",
+  "turkish_example_sentence_with_blank": "O mağazadan mavi defteri ______"
 }

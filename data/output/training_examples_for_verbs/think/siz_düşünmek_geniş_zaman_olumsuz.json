@@ -4,17 +4,17 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmüyorsunuz",
+    "verb_full": "düşünmezsiniz",
     "root": "düşün",
-    "tense_affix": "",
+    "tense_affix": "ür",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "sunuz",
+    "personal_affix": "siniz",
     "polarity": "negative",
-    "negative_affix": "mı"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "You do not think about the future.",
-  "russian_example_sentence": "Вы не думаете о будущем.",
-  "turkish_example_sentence": "Siz geleceği düşünmüyorsunuz.",
-  "turkish_example_sentence_with_blank": "Siz geleceği ______."
+  "english_example_sentence": "You don't think about complex philosophical questions",
+  "russian_example_sentence": "Вы не думаете о сложных философских вопросах",
+  "turkish_example_sentence": "Siz karışık ve derin felsefi sorular hakkında düşünmezsiniz",
+  "turkish_example_sentence_with_blank": "Siz karışık ve derin felsefi sorular hakkında ______"
 }

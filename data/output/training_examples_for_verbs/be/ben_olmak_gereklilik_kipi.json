@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "olmam lazım",
     "root": "ol",
-    "tense_affix": "ma",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I need to be happy.",
-  "russian_example_sentence": "Мне нужно быть счастливым.",
-  "turkish_example_sentence": "Ben mutlu olmam lazım.",
-  "turkish_example_sentence_with_blank": "Ben mutlu ______."
+  "english_example_sentence": "I need to be more careful today",
+  "russian_example_sentence": "Мне нужно быть более осторожным сегодня",
+  "turkish_example_sentence": "Ben bugün daha dikkatli olmam lazım",
+  "turkish_example_sentence_with_blank": "Ben bugün daha dikkatli ______"
 }

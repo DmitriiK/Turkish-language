@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gitmesi lazım",
     "root": "git",
-    "tense_affix": "me",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "si",
+    "personal_affix": "sı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He needs to go to school.",
-  "russian_example_sentence": "Ему нужно идти в школу.",
-  "turkish_example_sentence": "O okula gitmesi lazım.",
-  "turkish_example_sentence_with_blank": "O okula ______."
+  "english_example_sentence": "He needs to go to the beautiful mountain village",
+  "russian_example_sentence": "Ему нужно идти в красивую горную деревню",
+  "turkish_example_sentence": "O güzel dağ köyüne gitmesi lazım",
+  "turkish_example_sentence_with_blank": "O güzel dağ köyüne ______"
 }

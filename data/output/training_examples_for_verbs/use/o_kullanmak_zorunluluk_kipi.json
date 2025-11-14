@@ -4,17 +4,17 @@
   "verb_russian": "использовать",
   "verb_infinitive": "kullanmak",
   "turkish_verb": {
-    "verb_full": "kullanmalıdır",
+    "verb_full": "kullanmalı",
     "root": "kullan",
     "tense_affix": "malı",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "dır",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The teacher must use the book.",
-  "russian_example_sentence": "Учитель должен использовать книгу.",
-  "turkish_example_sentence": "Öğretmen kitabı kullanmalıdır.",
-  "turkish_example_sentence_with_blank": "Öğretmen kitabı ______."
+  "english_example_sentence": "He must use the professional camera correctly",
+  "russian_example_sentence": "Он должен правильно использовать профессиональную камеру",
+  "turkish_example_sentence": "O profesyonel kamerayı doğru şekilde kullanmalı",
+  "turkish_example_sentence_with_blank": "O profesyonel kamerayı doğru şekilde ______"
 }

@@ -4,17 +4,17 @@
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmadım",
-    "root": "ol",
-    "tense_affix": "dı",
+    "verb_full": "değildim",
+    "root": "i",
+    "tense_affix": "di",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "değil"
   },
-  "english_example_sentence": "I was not happy last year.",
-  "russian_example_sentence": "Я не был счастлив в прошлом году.",
-  "turkish_example_sentence": "Ben geçen yıl mutlu olmadım.",
-  "turkish_example_sentence_with_blank": "Ben geçen yıl mutlu ______."
+  "english_example_sentence": "I was not late for the important meeting",
+  "russian_example_sentence": "Я не опоздал на важное совещание",
+  "turkish_example_sentence": "Ben önemli toplantıya geç kalmış değildim",
+  "turkish_example_sentence_with_blank": "Ben önemli toplantıya geç kalmış ______"
 }

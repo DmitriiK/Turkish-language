@@ -4,17 +4,17 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemektedir",
+    "verb_full": "istemeli",
     "root": "iste",
-    "tense_affix": "mekte",
+    "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "dir",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He wants to go to the cinema.",
-  "russian_example_sentence": "Он хочет пойти в кино.",
-  "turkish_example_sentence": "Ali sinemaya gitmek istemektedir.",
-  "turkish_example_sentence_with_blank": "Ali sinemaya gitmek ______."
+  "english_example_sentence": "He must want to travel to distant beautiful countries",
+  "russian_example_sentence": "Он должен хотеть путешествовать в далекие красивые страны",
+  "turkish_example_sentence": "O uzak güzel ülkelere seyahat etmek istemeli",
+  "turkish_example_sentence_with_blank": "O uzak güzel ülkelere seyahat etmek ______"
 }

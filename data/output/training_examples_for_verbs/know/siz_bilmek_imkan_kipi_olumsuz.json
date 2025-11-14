@@ -1,0 +1,20 @@
+{
+  "verb_rank": 8,
+  "verb_english": "know",
+  "verb_russian": "знать",
+  "verb_infinitive": "bilmek",
+  "turkish_verb": {
+    "verb_full": "bilemezsiniz",
+    "root": "bil",
+    "tense_affix": "eme",
+    "verb_tense": "imkan_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "zsiniz",
+    "polarity": "negative",
+    "negative_affix": "eme"
+  },
+  "english_example_sentence": "You cannot know the complex mathematical problem",
+  "russian_example_sentence": "Вы не можете знать сложную математическую задачу",
+  "turkish_example_sentence": "Siz karmaşık matematik problemini bilemezsiniz",
+  "turkish_example_sentence_with_blank": "Siz karmaşık matematik problemini ______"
+}

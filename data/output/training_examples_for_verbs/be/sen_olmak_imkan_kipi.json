@@ -4,17 +4,17 @@
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "oluyorsun",
+    "verb_full": "olabilirsin",
     "root": "ol",
-    "tense_affix": "uyor",
+    "tense_affix": "abil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "sun",
+    "personal_affix": "irsin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You are happy today.",
-  "russian_example_sentence": "Ты сегодня счастлив.",
-  "turkish_example_sentence": "Sen bugün mutlu oluyorsun.",
-  "turkish_example_sentence_with_blank": "Sen bugün mutlu ______."
+  "english_example_sentence": "You can be a talented musician with practice",
+  "russian_example_sentence": "Ты можешь быть талантливым музыкантом с практикой",
+  "turkish_example_sentence": "Sen pratik ile yetenekli bir müzisyen olabilirsin",
+  "turkish_example_sentence_with_blank": "Sen pratik ile yetenekli bir müzisyen ______"
 }

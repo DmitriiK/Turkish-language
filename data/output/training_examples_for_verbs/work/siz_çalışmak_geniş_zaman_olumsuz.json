@@ -4,17 +4,17 @@
   "verb_russian": "работать",
   "verb_infinitive": "çalışmak",
   "turkish_verb": {
-    "verb_full": "çalışmıyorsunuz",
+    "verb_full": "çalışmazsınız",
     "root": "çalış",
-    "tense_affix": "",
+    "tense_affix": "ır",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "sunuz",
+    "personal_affix": "sınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You do not work at the office.",
-  "russian_example_sentence": "Вы не работаете в офисе.",
-  "turkish_example_sentence": "Siz ofiste çalışmıyorsunuz.",
-  "turkish_example_sentence_with_blank": "Siz ofiste ______."
+  "english_example_sentence": "You do not work during the festive holiday season",
+  "russian_example_sentence": "Вы не работаете во время праздничного сезона",
+  "turkish_example_sentence": "Siz şenlikli tatil sezonunda çalışmazsınız",
+  "turkish_example_sentence_with_blank": "Siz şenlikli tatil sezonunda ______"
 }

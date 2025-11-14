@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "kullanmam",
     "root": "kullan",
-    "tense_affix": "",
+    "tense_affix": "ır",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ım",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I do not use this software.",
-  "russian_example_sentence": "Я не использую это программное обеспечение.",
-  "turkish_example_sentence": "Ben bu yazılımı kullanmam.",
-  "turkish_example_sentence_with_blank": "Ben bu yazılımı ______."
+  "english_example_sentence": "I do not use old broken tools at work",
+  "russian_example_sentence": "Я не использую старые сломанные инструменты на работе",
+  "turkish_example_sentence": "Ben işte eski kırık araçları kullanmam",
+  "turkish_example_sentence_with_blank": "Ben işte eski kırık araçları ______"
 }

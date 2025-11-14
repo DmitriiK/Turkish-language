@@ -1,0 +1,20 @@
+{
+  "verb_rank": 4,
+  "verb_english": "say",
+  "verb_russian": "сказать",
+  "verb_infinitive": "söylemek",
+  "turkish_verb": {
+    "verb_full": "söylememеn lazım",
+    "root": "söyle",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "You should not say those hurtful words",
+  "russian_example_sentence": "Ты не должен говорить эти обидные слова",
+  "turkish_example_sentence": "Sen acı verici sözleri söylememеn lazım",
+  "turkish_example_sentence_with_blank": "Sen acı verici sözleri ______"
+}

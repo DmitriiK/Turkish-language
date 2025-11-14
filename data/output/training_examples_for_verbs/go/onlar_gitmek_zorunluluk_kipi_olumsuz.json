@@ -1,0 +1,20 @@
+{
+  "verb_rank": 5,
+  "verb_english": "go",
+  "verb_russian": "идти",
+  "verb_infinitive": "gitmek",
+  "turkish_verb": {
+    "verb_full": "gitmemelidir",
+    "root": "git",
+    "tense_affix": "meli",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "ler",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "They must not go to the late night concert",
+  "russian_example_sentence": "Они не должны идти на поздний концерт",
+  "turkish_example_sentence": "Onlar geç gece konserine gitmemelidir",
+  "turkish_example_sentence_with_blank": "Onlar geç gece konserine ______"
+}

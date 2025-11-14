@@ -4,17 +4,17 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemem",
+    "verb_full": "istemezsin",
     "root": "iste",
-    "tense_affix": "",
+    "tense_affix": "r",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "m",
+    "personal_affix": "sin",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You do not want to eat that food.",
-  "russian_example_sentence": "Ты не хочешь есть эту еду.",
-  "turkish_example_sentence": "Sen o yemeği istemem.",
-  "turkish_example_sentence_with_blank": "Sen o yemeği ______."
+  "english_example_sentence": "You do not want spicy red pepper sauce",
+  "russian_example_sentence": "Ты не хочешь острый красный перечный соус",
+  "turkish_example_sentence": "Sen acı kırmızı biber sosunu istemezsin",
+  "turkish_example_sentence_with_blank": "Sen acı kırmızı biber sosunu ______"
 }

@@ -4,17 +4,17 @@
   "verb_russian": "приходить",
   "verb_infinitive": "gelmek",
   "turkish_verb": {
-    "verb_full": "geliyoruz",
+    "verb_full": "gelmeliyiz",
     "root": "gel",
-    "tense_affix": "iyor",
+    "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "uz",
+    "personal_affix": "yiz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We must come to the meeting on time.",
-  "russian_example_sentence": "Мы должны прийти на встречу вовремя.",
-  "turkish_example_sentence": "Toplantıya zamanında geliyoruz.",
-  "turkish_example_sentence_with_blank": "Toplantıya zamanında ______."
+  "english_example_sentence": "We must come to the university lecture hall on time",
+  "russian_example_sentence": "Мы должны прийти в аудиторию университета вовремя",
+  "turkish_example_sentence": "Biz üniversite derslik salonuna zamanında gelmeliyiz",
+  "turkish_example_sentence_with_blank": "Biz üniversite derslik salonuna zamanında ______"
 }

@@ -4,17 +4,17 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatıyor",
+    "verb_full": "anlatabilir",
     "root": "anlat",
-    "tense_affix": "ıyor",
+    "tense_affix": "abil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "ir",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The teacher tells a story every day.",
-  "russian_example_sentence": "Учитель рассказывает историю каждый день.",
-  "turkish_example_sentence": "Öğretmen her gün bir hikaye anlatıyor.",
-  "turkish_example_sentence_with_blank": "Öğretmen her gün bir hikaye ______."
+  "english_example_sentence": "He can tell traditional Turkish tales beautifully",
+  "russian_example_sentence": "Он может красиво рассказать традиционные турецкие сказки",
+  "turkish_example_sentence": "O eski Türk masallarını harika anlatabilir",
+  "turkish_example_sentence_with_blank": "O eski Türk masallarını harika ______"
 }

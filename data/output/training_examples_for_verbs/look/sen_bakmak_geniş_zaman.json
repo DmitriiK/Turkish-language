@@ -4,17 +4,17 @@
   "verb_russian": "смотреть",
   "verb_infinitive": "bakmak",
   "turkish_verb": {
-    "verb_full": "bakıyorsun",
+    "verb_full": "bakarsın",
     "root": "bak",
-    "tense_affix": "ıyor",
+    "tense_affix": "ar",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "sun",
+    "personal_affix": "sın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You are looking at the beautiful painting.",
-  "russian_example_sentence": "Ты смотришь на красивую картину.",
-  "turkish_example_sentence": "Sen güzel tabloya bakıyorsun.",
-  "turkish_example_sentence_with_blank": "Sen güzel tabloya ______."
+  "english_example_sentence": "You look at the colorful flowers in the garden",
+  "russian_example_sentence": "Ты смотришь на разноцветные цветы в саду",
+  "turkish_example_sentence": "Sen bahçedeki renkli çiçeklere bakarsın",
+  "turkish_example_sentence_with_blank": "Sen bahçedeki renkli çiçeklere ______"
 }

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "anlatmadım",
     "root": "anlat",
-    "tense_affix": "dı",
+    "tense_affix": "tı",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "ım",
+    "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I didn't tell the story to my friends.",
-  "russian_example_sentence": "Я не рассказал историю своим друзьям.",
-  "turkish_example_sentence": "Ben arkadaşlarıma hikayeyi anlatmadım.",
-  "turkish_example_sentence_with_blank": "Ben arkadaşlarıma hikayeyi ______."
+  "english_example_sentence": "I did not tell the teacher about the broken window",
+  "russian_example_sentence": "Я не рассказал учителю о разбитом окне",
+  "turkish_example_sentence": "Ben öğretmene kırılmış pencere hakkında anlatmadım",
+  "turkish_example_sentence_with_blank": "Ben öğretmene kırılmış pencere hakkında ______"
 }

@@ -4,17 +4,17 @@
   "verb_russian": "получать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "alıyorlar",
+    "verb_full": "alabilirler",
     "root": "al",
-    "tense_affix": "ıyor",
+    "tense_affix": "abil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "irler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They are getting a new car.",
-  "russian_example_sentence": "Они получают новую машину.",
-  "turkish_example_sentence": "Onlar yeni bir araba alıyorlar.",
-  "turkish_example_sentence_with_blank": "Onlar yeni bir araba ______."
+  "english_example_sentence": "They can get the black coffee from the café",
+  "russian_example_sentence": "Они могут получить черный кофе из кафе",
+  "turkish_example_sentence": "Onlar kafeden siyah kahveyi alabilirler",
+  "turkish_example_sentence_with_blank": "Onlar kafeden siyah kahveyi ______"
 }

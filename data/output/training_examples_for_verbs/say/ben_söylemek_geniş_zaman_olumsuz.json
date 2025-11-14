@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "söylemem",
     "root": "söyle",
-    "tense_affix": "",
+    "tense_affix": "r",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "im",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "I do not say anything.",
-  "russian_example_sentence": "Я ничего не говорю.",
-  "turkish_example_sentence": "Ben bu konuda hiçbir şey söylemem.",
-  "turkish_example_sentence_with_blank": "Ben bu konuda hiçbir şey ______."
+  "english_example_sentence": "I never say lies to my best friend",
+  "russian_example_sentence": "Я никогда не говорю ложь моему лучшему другу",
+  "turkish_example_sentence": "Ben en yakın arkadaşıma asla yalan söylemem",
+  "turkish_example_sentence_with_blank": "Ben en yakın arkadaşıma asla yalan ______"
 }

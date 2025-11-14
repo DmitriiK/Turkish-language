@@ -1,0 +1,20 @@
+{
+  "verb_rank": 4,
+  "verb_english": "say",
+  "verb_russian": "сказать",
+  "verb_infinitive": "söylemek",
+  "turkish_verb": {
+    "verb_full": "söylememesi lazım",
+    "root": "söyle",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": "si",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "She should not say those secret things",
+  "russian_example_sentence": "Она не должна говорить эти секретные вещи",
+  "turkish_example_sentence": "O gizli bilgileri kimseye söylememesi lazım",
+  "turkish_example_sentence_with_blank": "O gizli bilgileri kimseye ______"
+}

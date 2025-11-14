@@ -1,0 +1,20 @@
+{
+  "verb_rank": 7,
+  "verb_english": "make",
+  "verb_russian": "делать (создавать)",
+  "verb_infinitive": "yapmak",
+  "turkish_verb": {
+    "verb_full": "yapmaması lazım",
+    "root": "yap",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "You should not make rude comments to customers",
+  "russian_example_sentence": "Вам не нужно делать грубые комментарии клиентам",
+  "turkish_example_sentence": "Siz müşterilere kaba yorumları yapmaması lazım",
+  "turkish_example_sentence_with_blank": "Siz müşterilere kaba yorumları ______"
+}

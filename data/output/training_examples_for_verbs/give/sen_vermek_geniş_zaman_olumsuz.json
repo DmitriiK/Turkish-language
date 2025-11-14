@@ -4,17 +4,17 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "vermem",
+    "verb_full": "vermezsin",
     "root": "ver",
-    "tense_affix": "",
+    "tense_affix": "ir",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "m",
+    "personal_affix": "sin",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You do not give your brother a gift.",
-  "russian_example_sentence": "Ты не даёшь своему брату подарок.",
-  "turkish_example_sentence": "Sen kardeğine hediye vermem.",
-  "turkish_example_sentence_with_blank": "Sen kardeğine hediye ______."
+  "english_example_sentence": "You do not give up easily in difficult situations",
+  "russian_example_sentence": "Ты не сдаешься легко в сложных ситуациях",
+  "turkish_example_sentence": "Sen zor durumlarda kolayca pes vermezsin",
+  "turkish_example_sentence_with_blank": "Sen zor durumlarda kolayca pes ______"
 }

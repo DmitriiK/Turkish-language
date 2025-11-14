@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "verdi",
     "root": "ver",
-    "tense_affix": "d",
+    "tense_affix": "di",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "i",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He gave me a beautiful gift yesterday.",
-  "russian_example_sentence": "Он дал мне красивый подарок вчера.",
-  "turkish_example_sentence": "O, bana güzel bir hediye verdi.",
-  "turkish_example_sentence_with_blank": "O, bana güzel bir hediye ______."
+  "english_example_sentence": "He gave the small golden ring to his beloved",
+  "russian_example_sentence": "Он дал маленькое золотое кольцо своей любимой",
+  "turkish_example_sentence": "O küçük altın yüzüğü sevdiği kişiye verdi",
+  "turkish_example_sentence_with_blank": "O küçük altın yüzüğü sevdiği kişiye ______"
 }

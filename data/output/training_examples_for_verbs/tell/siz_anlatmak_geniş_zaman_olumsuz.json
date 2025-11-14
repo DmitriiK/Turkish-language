@@ -4,17 +4,17 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatmıyorsunuz",
+    "verb_full": "anlatmazsınız",
     "root": "anlat",
-    "tense_affix": "",
+    "tense_affix": "ır",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "sınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You do not tell the truth.",
-  "russian_example_sentence": "Вы не рассказываете правду.",
-  "turkish_example_sentence": "Siz doğruyu anlatmıyorsunuz.",
-  "turkish_example_sentence_with_blank": "Siz doğruyu ______."
+  "english_example_sentence": "You do not tell confidential business matters",
+  "russian_example_sentence": "Вы не рассказываете конфиденциальные деловые вопросы",
+  "turkish_example_sentence": "Siz gizli ticari konuları hiç anlatmazsınız",
+  "turkish_example_sentence_with_blank": "Siz gizli ticari konuları hiç ______"
 }

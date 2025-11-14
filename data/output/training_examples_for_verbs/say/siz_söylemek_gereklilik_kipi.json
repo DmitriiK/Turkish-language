@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "söylemeniz lazım",
     "root": "söyle",
-    "tense_affix": "me",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "nız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to say something important.",
-  "russian_example_sentence": "Вам нужно сказать что-то важное.",
-  "turkish_example_sentence": "Siz önemli bir şey söylemeniz lazım.",
-  "turkish_example_sentence_with_blank": "Siz önemli bir şey ______."
+  "english_example_sentence": "You must say your honest feelings",
+  "russian_example_sentence": "Вы должны сказать свои честные чувства",
+  "turkish_example_sentence": "Siz samimi duygularınızı açıkça söylemeniz lazım",
+  "turkish_example_sentence_with_blank": "Siz samimi duygularınızı açıkça ______"
 }

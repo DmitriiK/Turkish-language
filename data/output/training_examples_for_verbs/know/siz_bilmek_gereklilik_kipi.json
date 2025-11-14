@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "bilmeniz lazım",
     "root": "bil",
-    "tense_affix": "me",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "nız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to know the answer.",
-  "russian_example_sentence": "Вам нужно знать ответ.",
-  "turkish_example_sentence": "Siz cevabı bilmeniz lazım.",
-  "turkish_example_sentence_with_blank": "Siz cevabı ______."
+  "english_example_sentence": "You all need to know the emergency safety procedures",
+  "russian_example_sentence": "Вам нужно знать процедуры безопасности при чрезвычайных ситуациях",
+  "turkish_example_sentence": "Siz acil güvenlik prosedürlerini bilmeniz lazım",
+  "turkish_example_sentence_with_blank": "Siz acil güvenlik prosedürlerini ______"
 }

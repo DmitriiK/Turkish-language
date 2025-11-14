@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "söyler",
     "root": "söyle",
-    "tense_affix": "",
+    "tense_affix": "r",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "r",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He says something interesting.",
-  "russian_example_sentence": "Он говорит что-то интересное.",
-  "turkish_example_sentence": "O her zaman ilginç şeyler söyler.",
-  "turkish_example_sentence_with_blank": "O her zaman ilginç şeyler ______."
+  "english_example_sentence": "He always says funny jokes at parties",
+  "russian_example_sentence": "Он всегда говорит смешные шутки на вечеринках",
+  "turkish_example_sentence": "O eğlenceli partilerde komik fıkralar söyler",
+  "turkish_example_sentence_with_blank": "O eğlenceli partilerde komik fıkralar ______"
 }

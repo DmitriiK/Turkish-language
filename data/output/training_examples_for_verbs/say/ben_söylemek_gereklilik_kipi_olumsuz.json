@@ -1,0 +1,20 @@
+{
+  "verb_rank": 4,
+  "verb_english": "say",
+  "verb_russian": "сказать",
+  "verb_infinitive": "söylemek",
+  "turkish_verb": {
+    "verb_full": "söylememem lazım",
+    "root": "söyle",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "I should not say anything rude",
+  "russian_example_sentence": "Я не должен говорить ничего грубого",
+  "turkish_example_sentence": "Ben kötü sözleri hiç söylememem lazım",
+  "turkish_example_sentence_with_blank": "Ben kötü sözleri hiç ______"
+}

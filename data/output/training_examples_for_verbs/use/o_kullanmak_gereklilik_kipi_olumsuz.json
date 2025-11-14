@@ -1,0 +1,20 @@
+{
+  "verb_rank": 15,
+  "verb_english": "use",
+  "verb_russian": "использовать",
+  "verb_infinitive": "kullanmak",
+  "turkish_verb": {
+    "verb_full": "kullanmaması lazım",
+    "root": "kullan",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": "sı",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "She should not use too much salt",
+  "russian_example_sentence": "Она не должна использовать слишком много соли",
+  "turkish_example_sentence": "O yemekte fazla tuz kullanmaması lazım",
+  "turkish_example_sentence_with_blank": "O yemekte fazla tuz ______"
+}

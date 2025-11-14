@@ -4,17 +4,17 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmam",
+    "verb_full": "yapmaz",
     "root": "yap",
-    "tense_affix": "",
+    "tense_affix": "ar",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "m",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "He does not do his homework.",
-  "russian_example_sentence": "Он не делает домашнюю работу.",
-  "turkish_example_sentence": "O ödevini yapmam.",
-  "turkish_example_sentence_with_blank": "O ödevini ______."
+  "english_example_sentence": "She does not do risky activities",
+  "russian_example_sentence": "Она не делает рискованные действия",
+  "turkish_example_sentence": "O asla tehlikeli spor aktivitelerini yapmaz",
+  "turkish_example_sentence_with_blank": "O asla tehlikeli spor aktivitelerini ______"
 }

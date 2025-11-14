@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "almayacak",
     "root": "al",
-    "tense_affix": "yacak",
+    "tense_affix": "acak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "He will not take his book tomorrow.",
-  "russian_example_sentence": "Он не возьмет свою книгу завтра.",
-  "turkish_example_sentence": "O, yarın kitabını almayacak.",
-  "turkish_example_sentence_with_blank": "O, yarın kitabını ______."
+  "english_example_sentence": "She will not take the difficult exam next week",
+  "russian_example_sentence": "Она не возьмёт сложный экзамен на следующей неделе",
+  "turkish_example_sentence": "O gelecek hafta zor sınavı almayacak",
+  "turkish_example_sentence_with_blank": "O gelecek hafta zor sınavı ______"
 }

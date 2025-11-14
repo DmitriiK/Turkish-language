@@ -4,17 +4,17 @@
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmadı",
-    "root": "ol",
-    "tense_affix": "dı",
+    "verb_full": "değildi",
+    "root": "i",
+    "tense_affix": "di",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "değil"
   },
-  "english_example_sentence": "The cat was not happy.",
-  "russian_example_sentence": "Кошка не была счастлива.",
-  "turkish_example_sentence": "Kedi mutlu olmadı.",
-  "turkish_example_sentence_with_blank": "Kedi mutlu ______."
+  "english_example_sentence": "It was not a difficult problem for the engineers",
+  "russian_example_sentence": "Это не была сложная проблема для инженеров",
+  "turkish_example_sentence": "O mühendisler için zor bir sorun değildi",
+  "turkish_example_sentence_with_blank": "O mühendisler için zor bir sorun ______"
 }

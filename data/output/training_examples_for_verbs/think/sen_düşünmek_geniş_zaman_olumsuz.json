@@ -4,17 +4,17 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmüyorsun",
+    "verb_full": "düşünmezsin",
     "root": "düşün",
-    "tense_affix": "",
+    "tense_affix": "ür",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "sun",
+    "personal_affix": "sin",
     "polarity": "negative",
-    "negative_affix": "mü"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "You do not think about the future.",
-  "russian_example_sentence": "Ты не думаешь о будущем.",
-  "turkish_example_sentence": "Sen geleceği düşünmüyorsun.",
-  "turkish_example_sentence_with_blank": "Sen geleceği ______."
+  "english_example_sentence": "You don't think about other people's feelings",
+  "russian_example_sentence": "Ты не думаешь о чувствах других людей",
+  "turkish_example_sentence": "Sen başka insanların derin duygusal ihtiyaçları hakkında düşünmezsin",
+  "turkish_example_sentence_with_blank": "Sen başka insanların derin duygusal ihtiyaçları hakkında ______"
 }

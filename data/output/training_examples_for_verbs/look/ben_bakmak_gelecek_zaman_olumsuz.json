@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "bakmayacağım",
     "root": "bak",
-    "tense_affix": "yacak",
+    "tense_affix": "acak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "ım",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I will not look at the beautiful painting.",
-  "russian_example_sentence": "Я не буду смотреть на красивую картину.",
-  "turkish_example_sentence": "Ben güzel tabloya bakmayacağım.",
-  "turkish_example_sentence_with_blank": "Ben güzel tabloya ______."
+  "english_example_sentence": "I will not look at that old broken mirror",
+  "russian_example_sentence": "Я не буду смотреть на это старое разбитое зеркало",
+  "turkish_example_sentence": "Ben o eski kırık aynaya bakmayacağım",
+  "turkish_example_sentence_with_blank": "Ben o eski kırık aynaya ______"
 }

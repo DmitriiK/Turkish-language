@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "istiyoruz",
     "root": "iste",
-    "tense_affix": "yor",
+    "tense_affix": "iyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "uz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We want to go to the park.",
-  "russian_example_sentence": "Мы хотим пойти в парк.",
-  "turkish_example_sentence": "Biz güzel parka gitmek istiyoruz.",
-  "turkish_example_sentence_with_blank": "Biz güzel parka gitmek ______."
+  "english_example_sentence": "We want sunny warm weather this weekend",
+  "russian_example_sentence": "Мы хотим солнечную теплую погоду на выходных",
+  "turkish_example_sentence": "Biz bu hafta sonu güneşli sıcak havayı istiyoruz",
+  "turkish_example_sentence_with_blank": "Biz bu hafta sonu güneşli sıcak havayı ______"
 }

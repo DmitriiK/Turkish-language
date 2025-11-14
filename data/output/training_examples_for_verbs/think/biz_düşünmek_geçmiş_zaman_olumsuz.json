@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "düşünmedik",
     "root": "düşün",
-    "tense_affix": "di",
+    "tense_affix": "dü",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "dik",
+    "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "We did not think about the problem.",
-  "russian_example_sentence": "Мы не думали о проблеме.",
-  "turkish_example_sentence": "Biz problemi düşünmedik.",
-  "turkish_example_sentence_with_blank": "Biz problemi ______."
+  "english_example_sentence": "We did not think about the dangerous situation",
+  "russian_example_sentence": "Мы не думали об опасной ситуации",
+  "turkish_example_sentence": "Biz tehlikeli durumu önceden düşünmedik",
+  "turkish_example_sentence_with_blank": "Biz tehlikeli durumu önceden ______"
 }

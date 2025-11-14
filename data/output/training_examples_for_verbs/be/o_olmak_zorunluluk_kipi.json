@@ -4,17 +4,17 @@
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmalıdır",
+    "verb_full": "olmalı",
     "root": "ol",
     "tense_affix": "malı",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "dır",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He must be happy today.",
-  "russian_example_sentence": "Он должен быть счастлив сегодня.",
-  "turkish_example_sentence": "Ahmet bugün mutlu olmalıdır.",
-  "turkish_example_sentence_with_blank": "Ahmet bugün mutlu ______."
+  "english_example_sentence": "He must be careful with expensive equipment",
+  "russian_example_sentence": "Он должен быть осторожным с дорогим оборудованием",
+  "turkish_example_sentence": "O pahalı ve kırılgan cihazlarla dikkatli olmalı",
+  "turkish_example_sentence_with_blank": "O pahalı ve kırılgan cihazlarla dikkatli ______"
 }

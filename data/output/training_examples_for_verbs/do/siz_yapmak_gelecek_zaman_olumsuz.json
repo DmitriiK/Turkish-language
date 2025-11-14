@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "yapmayacaksınız",
     "root": "yap",
-    "tense_affix": "yacak",
+    "tense_affix": "acak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "ınız",
+    "personal_affix": "sınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You will not do the homework.",
-  "russian_example_sentence": "Вы не будете делать домашнее задание.",
-  "turkish_example_sentence": "Siz bu ödevi yapmayacaksınız.",
-  "turkish_example_sentence_with_blank": "Siz bu ödevi ______."
+  "english_example_sentence": "You will not do the dangerous experiment",
+  "russian_example_sentence": "Вы не будете делать опасный эксперимент",
+  "turkish_example_sentence": "Siz tehlikeli deneyi yapmayacaksınız",
+  "turkish_example_sentence_with_blank": "Siz tehlikeli deneyi ______"
 }

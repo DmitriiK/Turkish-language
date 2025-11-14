@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "anlatmadılar",
     "root": "anlat",
-    "tense_affix": "dı",
+    "tense_affix": "tı",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "They didn't tell the story.",
-  "russian_example_sentence": "Они не рассказали историю.",
-  "turkish_example_sentence": "Çocuklar hikayeyi anlatmadılar.",
-  "turkish_example_sentence_with_blank": "Çocuklar hikayeyi ______."
+  "english_example_sentence": "They did not tell their friends about the beautiful mountain hiking trip",
+  "russian_example_sentence": "Они не рассказали своим друзьям о прекрасной поездке в горы",
+  "turkish_example_sentence": "Onlar arkadaşlarına güzel dağ yürüyüş gezisi hakkında anlatmadılar",
+  "turkish_example_sentence_with_blank": "Onlar arkadaşlarına güzel dağ yürüyüş gezisi hakkında ______"
 }

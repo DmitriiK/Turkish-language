@@ -4,17 +4,17 @@
   "verb_russian": "получать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almıyorsunuz",
+    "verb_full": "almazsınız",
     "root": "al",
-    "tense_affix": "",
+    "tense_affix": "ır",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "sınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You do not get the news.",
-  "russian_example_sentence": "Вы не получаете новости.",
-  "turkish_example_sentence": "Siz bu yıl güzel haberleri almıyorsunuz.",
-  "turkish_example_sentence_with_blank": "Siz bu yıl güzel haberleri ______."
+  "english_example_sentence": "You don't get cold water in winter",
+  "russian_example_sentence": "Вы не получаете холодную воду зимой",
+  "turkish_example_sentence": "Siz kışta soğuk su almazsınız hiç",
+  "turkish_example_sentence_with_blank": "Siz kışta soğuk su ______ hiç"
 }

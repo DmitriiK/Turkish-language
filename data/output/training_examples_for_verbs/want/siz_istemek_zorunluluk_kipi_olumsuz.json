@@ -1,0 +1,20 @@
+{
+  "verb_rank": 13,
+  "verb_english": "want",
+  "verb_russian": "хотеть",
+  "verb_infinitive": "istemek",
+  "turkish_verb": {
+    "verb_full": "istememelisi",
+    "root": "iste",
+    "tense_affix": "memeli",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "siniz",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "You must not want to ignore serious health problems",
+  "russian_example_sentence": "Вы не должны хотеть игнорировать серьезные проблемы со здоровьем",
+  "turkish_example_sentence": "Siz ciddi sağlık sorunlarını görmezden gelmek istememelisi",
+  "turkish_example_sentence_with_blank": "Siz ciddi sağlık sorunlarını görmezden gelmek ______"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 3,
+  "verb_english": "do",
+  "verb_russian": "делать",
+  "verb_infinitive": "yapmak",
+  "turkish_verb": {
+    "verb_full": "yapmaması lazım",
+    "root": "yap",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "mız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "We should not do that expensive purchase",
+  "russian_example_sentence": "Нам не нужно делать эту дорогую покупку",
+  "turkish_example_sentence": "Biz bu pahalı alışverişi şimdi yapmaması lazım",
+  "turkish_example_sentence_with_blank": "Biz bu pahalı alışverişi şimdi ______"
+}

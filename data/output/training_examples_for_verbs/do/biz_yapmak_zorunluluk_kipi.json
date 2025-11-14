@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "yapmalıyız",
     "root": "yap",
-    "tense_affix": "malıy",
+    "tense_affix": "malı",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "ız",
+    "personal_affix": "yız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We must do the homework.",
-  "russian_example_sentence": "Мы должны сделать домашнее задание.",
-  "turkish_example_sentence": "Biz ödevleri yapmalıyız.",
-  "turkish_example_sentence_with_blank": "Biz ödevleri ______."
+  "english_example_sentence": "We must do our best for this beautiful project",
+  "russian_example_sentence": "Мы должны делать все возможное для этого красивого проекта",
+  "turkish_example_sentence": "Biz bu güzel proje için elimizden gelenin en iyisini yapmalıyız",
+  "turkish_example_sentence_with_blank": "Biz bu güzel proje için elimizden gelenin en iyisini ______"
 }

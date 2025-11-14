@@ -4,17 +4,17 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapacağım",
+    "verb_full": "yapacaksın",
     "root": "yap",
     "tense_affix": "acak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "caksın",
+    "personal_affix": "sın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You will do your homework tomorrow.",
-  "russian_example_sentence": "Ты сделаешь домашнее задание завтра.",
-  "turkish_example_sentence": "Sen yarın ödevini yapacağım.",
-  "turkish_example_sentence_with_blank": "Sen yarın ödevini ______."
+  "english_example_sentence": "You will do the difficult project next week",
+  "russian_example_sentence": "Ты будешь делать сложный проект на следующей неделе",
+  "turkish_example_sentence": "Sen gelecek hafta zor projeyi yapacaksın",
+  "turkish_example_sentence_with_blank": "Sen gelecek hafta zor projeyi ______"
 }

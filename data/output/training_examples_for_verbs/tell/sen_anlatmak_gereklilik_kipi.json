@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "anlatman lazım",
     "root": "anlat",
-    "tense_affix": "ma",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to tell the truth.",
-  "russian_example_sentence": "Тебе нужно рассказать правду.",
-  "turkish_example_sentence": "Sen doğruyu anlatman lazım.",
-  "turkish_example_sentence_with_blank": "Sen doğruyu ______."
+  "english_example_sentence": "You need to tell the truth immediately",
+  "russian_example_sentence": "Ты должен рассказать правду сразу",
+  "turkish_example_sentence": "Sen hemen gerçek olayları anlatman lazım",
+  "turkish_example_sentence_with_blank": "Sen hemen gerçek olayları ______"
 }

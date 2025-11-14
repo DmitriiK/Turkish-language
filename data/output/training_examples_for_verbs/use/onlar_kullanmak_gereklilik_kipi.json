@@ -4,17 +4,17 @@
   "verb_russian": "использовать",
   "verb_infinitive": "kullanmak",
   "turkish_verb": {
-    "verb_full": "kullanması lazım",
+    "verb_full": "kullanmaları lazım",
     "root": "kullan",
-    "tense_affix": "ma",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "sı",
+    "personal_affix": "ları",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They need to use the computer.",
-  "russian_example_sentence": "Им нужно использовать компьютер.",
-  "turkish_example_sentence": "Öğrencilerin bilgisayarı kullanması lazım.",
-  "turkish_example_sentence_with_blank": "Öğrencilerin bilgisayarı ______."
+  "english_example_sentence": "They need to use the advanced laboratory equipment",
+  "russian_example_sentence": "Им нужно использовать продвинутое лабораторное оборудование",
+  "turkish_example_sentence": "Onlar ileri teknoloji laboratuvar aletlerini kullanmaları lazım",
+  "turkish_example_sentence_with_blank": "Onlar ileri teknoloji laboratuvar aletlerini ______"
 }

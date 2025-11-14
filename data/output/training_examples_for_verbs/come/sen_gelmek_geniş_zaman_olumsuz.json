@@ -4,17 +4,17 @@
   "verb_russian": "приходить",
   "verb_infinitive": "gelmek",
   "turkish_verb": {
-    "verb_full": "gelmiyorsun",
+    "verb_full": "gelmezsin",
     "root": "gel",
-    "tense_affix": "",
+    "tense_affix": "ir",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "sun",
+    "personal_affix": "sin",
     "polarity": "negative",
-    "negative_affix": "mi"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "You do not come to the meeting.",
-  "russian_example_sentence": "Ты не приходишь на встречу.",
-  "turkish_example_sentence": "Sen toplantıya gelmiyorsun.",
-  "turkish_example_sentence_with_blank": "Sen toplantıya ______."
+  "english_example_sentence": "You do not come to the cold winter festival",
+  "russian_example_sentence": "Ты не приходишь на холодный зимний фестиваль",
+  "turkish_example_sentence": "Sen soğuk kış festivaline gelmezsin",
+  "turkish_example_sentence_with_blank": "Sen soğuk kış festivaline ______"
 }

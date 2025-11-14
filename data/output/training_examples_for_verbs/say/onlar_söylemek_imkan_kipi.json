@@ -4,17 +4,17 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söyleyecekler",
+    "verb_full": "söyleyebilirler",
     "root": "söyle",
-    "tense_affix": "yecek",
+    "tense_affix": "ebil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "ler",
+    "personal_affix": "irler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They will say the truth.",
-  "russian_example_sentence": "Они скажут правду.",
-  "turkish_example_sentence": "Onlar gerçeği söyleyecekler.",
-  "turkish_example_sentence_with_blank": "Onlar gerçeği ______."
+  "english_example_sentence": "They can say the important announcement tomorrow morning",
+  "russian_example_sentence": "Они могут говорить важное объявление завтра утром",
+  "turkish_example_sentence": "Onlar yarın sabah önemli duyuruyu söyleyebilirler",
+  "turkish_example_sentence_with_blank": "Onlar yarın sabah önemli duyuruyu ______"
 }

@@ -4,17 +4,17 @@
   "verb_russian": "смотреть",
   "verb_infinitive": "bakmak",
   "turkish_verb": {
-    "verb_full": "bakacağım",
+    "verb_full": "bakacak",
     "root": "bak",
     "tense_affix": "acak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "ım",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "My friend will look at the beautiful sunset.",
-  "russian_example_sentence": "Мой друг будет смотреть на красивый закат.",
-  "turkish_example_sentence": "Arkadaşım güzel gün batımına bakacağım.",
-  "turkish_example_sentence_with_blank": "Arkadaşım güzel gün batımına ______."
+  "english_example_sentence": "He will look at the colorful flowers in the garden",
+  "russian_example_sentence": "Он будет смотреть на разноцветные цветы в саду",
+  "turkish_example_sentence": "O bahçedeki renkli çiçeklere bakacak",
+  "turkish_example_sentence_with_blank": "O bahçedeki renkli çiçeklere ______"
 }

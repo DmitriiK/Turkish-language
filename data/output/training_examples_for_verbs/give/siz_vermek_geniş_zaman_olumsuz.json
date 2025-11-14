@@ -4,17 +4,17 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "vermemek",
+    "verb_full": "vermezsiniz",
     "root": "ver",
-    "tense_affix": "",
+    "tense_affix": "ir",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "mez",
+    "personal_affix": "siniz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You do not give a gift.",
-  "russian_example_sentence": "Вы не дарите подарок.",
-  "turkish_example_sentence": "Sen güzel bir hediye vermemek için buradasın.",
-  "turkish_example_sentence_with_blank": "Sen güzel bir hediye ______ için buradasın."
+  "english_example_sentence": "You do not give up on your ambitious dreams",
+  "russian_example_sentence": "Вы не отказываетесь от своих амбициозных мечтаний",
+  "turkish_example_sentence": "Siz iddialı hayallerinizden pes vermezsiniz",
+  "turkish_example_sentence_with_blank": "Siz iddialı hayallerinizden pes ______"
 }

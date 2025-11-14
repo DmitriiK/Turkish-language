@@ -1,0 +1,20 @@
+{
+  "verb_rank": 5,
+  "verb_english": "go",
+  "verb_russian": "идти",
+  "verb_infinitive": "gitmek",
+  "turkish_verb": {
+    "verb_full": "gidemeyiz",
+    "root": "git",
+    "tense_affix": "eme",
+    "verb_tense": "imkan_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "yiz",
+    "polarity": "negative",
+    "negative_affix": "eme"
+  },
+  "english_example_sentence": "We cannot go to the distant island this summer",
+  "russian_example_sentence": "Мы не можем пойти на далекий остров этим летом",
+  "turkish_example_sentence": "Biz uzak adaya bu yazı gidemeyiz",
+  "turkish_example_sentence_with_blank": "Biz uzak adaya bu yazı ______"
+}

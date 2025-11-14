@@ -1,0 +1,20 @@
+{
+  "verb_rank": 4,
+  "verb_english": "say",
+  "verb_russian": "сказать",
+  "verb_infinitive": "söylemek",
+  "turkish_verb": {
+    "verb_full": "söyleyemezsiniz",
+    "root": "söyle",
+    "tense_affix": "eme",
+    "verb_tense": "imkan_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "zsiniz",
+    "polarity": "negative",
+    "negative_affix": "eme"
+  },
+  "english_example_sentence": "You cannot say inappropriate jokes at formal business events",
+  "russian_example_sentence": "Вы не можете говорить неуместные шутки на официальных деловых мероприятиях",
+  "turkish_example_sentence": "Siz resmi iş etkinliklerinde uygunsuz şakaları söyleyemezsiniz",
+  "turkish_example_sentence_with_blank": "Siz resmi iş etkinliklerinde uygunsuz şakaları ______"
+}

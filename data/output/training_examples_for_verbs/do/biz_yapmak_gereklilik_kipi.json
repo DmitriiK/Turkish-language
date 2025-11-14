@@ -4,17 +4,17 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmam lazım",
+    "verb_full": "yapmamız lazım",
     "root": "yap",
-    "tense_affix": "ma",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "mız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We need to do our homework.",
-  "russian_example_sentence": "Нам нужно сделать домашнее задание.",
-  "turkish_example_sentence": "Bizim ödevimizi yapmam lazım.",
-  "turkish_example_sentence_with_blank": "Bizim ödevimizi ______."
+  "english_example_sentence": "We need to do this important decision together",
+  "russian_example_sentence": "Нам нужно делать это важное решение вместе",
+  "turkish_example_sentence": "Biz bu kritik kararı birlikte hemen yapmamız lazım",
+  "turkish_example_sentence_with_blank": "Biz bu kritik kararı birlikte hemen ______"
 }

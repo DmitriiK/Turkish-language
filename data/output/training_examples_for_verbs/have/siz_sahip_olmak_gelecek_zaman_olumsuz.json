@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "sahip olmayacaksınız",
     "root": "sahip ol",
-    "tense_affix": "yacak",
+    "tense_affix": "acak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "ınız",
+    "personal_affix": "sınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You will not have a car",
-  "russian_example_sentence": "У вас не будет машины",
-  "turkish_example_sentence": "Sizde yeni bir araba sahip olmayacaksınız",
-  "turkish_example_sentence_with_blank": "Sizde yeni bir araba ______"
+  "english_example_sentence": "You will not have any financial worries soon",
+  "russian_example_sentence": "У вас не будет финансовых забот в скором времени",
+  "turkish_example_sentence": "Siz yakında ekonomik kaygılardan hiçbirini sahip olmayacaksınız",
+  "turkish_example_sentence_with_blank": "Siz yakında ekonomik kaygılardan hiçbirini ______"
 }

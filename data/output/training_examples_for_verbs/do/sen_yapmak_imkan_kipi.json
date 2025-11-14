@@ -4,17 +4,17 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapıyorsun",
+    "verb_full": "yapabilirsin",
     "root": "yap",
-    "tense_affix": "ıyor",
+    "tense_affix": "abil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "sun",
+    "personal_affix": "irsin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You are doing your homework now.",
-  "russian_example_sentence": "Ты делаешь свою домашнюю работу сейчас.",
-  "turkish_example_sentence": "Sen şimdi ödevini yapıyorsun.",
-  "turkish_example_sentence_with_blank": "Sen şimdi ödevini ______."
+  "english_example_sentence": "You can do the beautiful garden project",
+  "russian_example_sentence": "Ты можешь сделать красивый проект сада",
+  "turkish_example_sentence": "Sen güzel bahçe projesini yapabilirsin",
+  "turkish_example_sentence_with_blank": "Sen güzel bahçe projesini ______"
 }

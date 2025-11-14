@@ -4,17 +4,17 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemiyorsunuz",
+    "verb_full": "istemezsiniz",
     "root": "iste",
-    "tense_affix": "",
+    "tense_affix": "r",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "sunuz",
+    "personal_affix": "siniz",
     "polarity": "negative",
-    "negative_affix": "mi"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "You do not want to go to the party.",
-  "russian_example_sentence": "Вы не хотите идти на вечеринку.",
-  "turkish_example_sentence": "Siz bu partiye gitmek istemiyorsunuz.",
-  "turkish_example_sentence_with_blank": "Siz bu partiye gitmek ______."
+  "english_example_sentence": "You do not want difficult complicated mathematics problems",
+  "russian_example_sentence": "Вы не хотите сложные запутанные математические задачи",
+  "turkish_example_sentence": "Siz zor karmaşık matematik problemlerini istemezsiniz",
+  "turkish_example_sentence_with_blank": "Siz zor karmaşık matematik problemlerini ______"
 }

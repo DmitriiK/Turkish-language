@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gelmem",
     "root": "gel",
-    "tense_affix": "",
+    "tense_affix": "ir",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "im",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "I don't come to school every day.",
-  "russian_example_sentence": "Я не прихожу в школу каждый день.",
-  "turkish_example_sentence": "Ben her gün okula gelmem.",
-  "turkish_example_sentence_with_blank": "Ben her gün okula ______."
+  "english_example_sentence": "I do not come to the crowded marketplace often",
+  "russian_example_sentence": "Я не приходу на переполненный рынок часто",
+  "turkish_example_sentence": "Ben kalabalık pazara sık sık gelmem",
+  "turkish_example_sentence_with_blank": "Ben kalabalık pazara sık sık ______"
 }

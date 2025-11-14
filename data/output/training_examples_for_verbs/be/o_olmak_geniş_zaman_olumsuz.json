@@ -4,17 +4,17 @@
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmuyor",
+    "verb_full": "olmaz",
     "root": "ol",
-    "tense_affix": "",
+    "tense_affix": "ur",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "u",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "The cat is not a good pet.",
-  "russian_example_sentence": "Кошка не хороший питомец.",
-  "turkish_example_sentence": "Kedi iyi bir evcil hayvan olmuyor.",
-  "turkish_example_sentence_with_blank": "Kedi iyi bir evcil hayvan ______."
+  "english_example_sentence": "She is not typically nervous during presentations",
+  "russian_example_sentence": "Она обычно не нервничает во время презентаций",
+  "turkish_example_sentence": "O sunumlarda tipik olarak gergin olmaz",
+  "turkish_example_sentence_with_blank": "O sunumlarda tipik olarak gergin ______"
 }

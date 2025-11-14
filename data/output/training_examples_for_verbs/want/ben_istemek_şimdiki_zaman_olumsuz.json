@@ -4,17 +4,17 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemiyorum",
+    "verb_full": "istemiyor",
     "root": "iste",
-    "tense_affix": "yor",
+    "tense_affix": "iyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "um",
     "polarity": "negative",
-    "negative_affix": "mi"
+    "negative_affix": "m"
   },
-  "english_example_sentence": "I don't want to go to the party.",
-  "russian_example_sentence": "Я не хочу идти на вечеринку.",
-  "turkish_example_sentence": "Ben partiye gelmeyi istemiyorum.",
-  "turkish_example_sentence_with_blank": "Ben partiye gelmeyi ______."
+  "english_example_sentence": "I do not want cold bitter coffee today",
+  "russian_example_sentence": "Я не хочу холодный горький кофе сегодня",
+  "turkish_example_sentence": "Ben bugün soğuk acı kahveyi istemiyor",
+  "turkish_example_sentence_with_blank": "Ben bugün soğuk acı kahveyi ______"
 }

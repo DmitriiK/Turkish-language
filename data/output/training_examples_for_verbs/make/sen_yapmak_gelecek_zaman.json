@@ -4,17 +4,17 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapacağım",
+    "verb_full": "yapacaksın",
     "root": "yap",
     "tense_affix": "acak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "caksın",
+    "personal_affix": "sın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You will make a beautiful painting.",
-  "russian_example_sentence": "Ты сделаешь красивую картину.",
-  "turkish_example_sentence": "Sen güzel bir tablo yapacağım.",
-  "turkish_example_sentence_with_blank": "Sen güzel bir tablo ______."
+  "english_example_sentence": "You will make a beautiful wooden table",
+  "russian_example_sentence": "Ты сделаешь красивый деревянный стол",
+  "turkish_example_sentence": "Sen güzel ahşap bir masa yapacaksın",
+  "turkish_example_sentence_with_blank": "Sen güzel ahşap bir masa ______"
 }

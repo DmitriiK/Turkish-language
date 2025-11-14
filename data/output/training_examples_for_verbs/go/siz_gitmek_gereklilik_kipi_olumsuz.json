@@ -1,0 +1,20 @@
+{
+  "verb_rank": 5,
+  "verb_english": "go",
+  "verb_russian": "идти",
+  "verb_infinitive": "gitmek",
+  "turkish_verb": {
+    "verb_full": "gitmemeniz lazım",
+    "root": "git",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "You all do not need to go to the long boring lecture",
+  "russian_example_sentence": "Вам не нужно идти на долгую скучную лекцию",
+  "turkish_example_sentence": "Siz uzun sıkıcı derse gitmemeniz lazım",
+  "turkish_example_sentence_with_blank": "Siz uzun sıkıcı derse ______"
+}

@@ -4,17 +4,17 @@
   "verb_russian": "смотреть",
   "verb_infinitive": "bakmak",
   "turkish_verb": {
-    "verb_full": "bakmam",
+    "verb_full": "bakmazsın",
     "root": "bak",
-    "tense_affix": "",
+    "tense_affix": "ar",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "m",
+    "personal_affix": "sın",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You do not look happy today.",
-  "russian_example_sentence": "Ты не выглядишь сегодня счастливым.",
-  "turkish_example_sentence": "Sen bugün mutlu bakmam.",
-  "turkish_example_sentence_with_blank": "Sen bugün mutlu ______."
+  "english_example_sentence": "You do not look at the interesting documentary films",
+  "russian_example_sentence": "Ты не смотришь на интересные документальные фильмы",
+  "turkish_example_sentence": "Sen ilginç belgesel filmlere bakmazsın",
+  "turkish_example_sentence_with_blank": "Sen ilginç belgesel filmlere ______"
 }

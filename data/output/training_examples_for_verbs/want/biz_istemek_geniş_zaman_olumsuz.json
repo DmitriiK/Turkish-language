@@ -4,17 +4,17 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemiyoruz",
+    "verb_full": "istemeyiz",
     "root": "iste",
-    "tense_affix": "",
+    "tense_affix": "r",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "iyoruz",
+    "personal_affix": "iz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "We do not want to go out today.",
-  "russian_example_sentence": "Мы не хотим выходить сегодня.",
-  "turkish_example_sentence": "Biz bugün dışarı çıkmayı istemiyoruz.",
-  "turkish_example_sentence_with_blank": "Biz bugün dışarı çıkmayı ______."
+  "english_example_sentence": "We do not want loud noisy neighbors",
+  "russian_example_sentence": "Мы не хотим громких шумных соседей",
+  "turkish_example_sentence": "Biz gürültülü komşuları istemeyiz",
+  "turkish_example_sentence_with_blank": "Biz gürültülü komşuları ______"
 }

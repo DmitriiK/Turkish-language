@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "görmem",
     "root": "gör",
-    "tense_affix": "",
+    "tense_affix": "ür",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "mez"
   },
-  "english_example_sentence": "I don't see the beautiful flowers.",
-  "russian_example_sentence": "Я не вижу красивые цветы.",
-  "turkish_example_sentence": "Ben güzel çiçekleri görmem.",
-  "turkish_example_sentence_with_blank": "Ben güzel çiçekleri ______."
+  "english_example_sentence": "I don't see the tiny insects on the leaf",
+  "russian_example_sentence": "Я не вижу крошечных насекомых на листе",
+  "turkish_example_sentence": "Ben yaprağın üzerindeki minik böcekleri görmem",
+  "turkish_example_sentence_with_blank": "Ben yaprağın üzerindeki minik böcekleri ______"
 }

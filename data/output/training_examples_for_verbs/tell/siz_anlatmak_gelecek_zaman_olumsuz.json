@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "anlatmayacaksınız",
     "root": "anlat",
-    "tense_affix": "yacak",
+    "tense_affix": "acak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "sınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You will not tell the story to the children.",
-  "russian_example_sentence": "Вы не расскажете историю детям.",
-  "turkish_example_sentence": "Çocuklara hikayeyi anlatmayacaksınız.",
-  "turkish_example_sentence_with_blank": "Çocuklara hikayeyi ______."
+  "english_example_sentence": "You will not tell anyone about the confidential information",
+  "russian_example_sentence": "Вы не расскажете никому о конфиденциальной информации",
+  "turkish_example_sentence": "Siz gizli bilgiyi hiç kimseye anlatmayacaksınız",
+  "turkish_example_sentence_with_blank": "Siz gizli bilgiyi hiç kimseye ______"
 }

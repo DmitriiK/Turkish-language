@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "bulmam lazım",
     "root": "bul",
-    "tense_affix": "ma",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I need to find my keys.",
-  "russian_example_sentence": "Мне нужно найти свои ключи.",
-  "turkish_example_sentence": "Ben anahtarlarımı bulmam lazım.",
-  "turkish_example_sentence_with_blank": "Ben anahtarlarımı ______."
+  "english_example_sentence": "I need to find my lost red wallet today",
+  "russian_example_sentence": "Мне нужно найти мой потерянный красный кошелек сегодня",
+  "turkish_example_sentence": "Ben bugün kayıp kırmızı cüzdanımı bulmam lazım",
+  "turkish_example_sentence_with_blank": "Ben bugün kayıp kırmızı cüzdanımı ______"
 }

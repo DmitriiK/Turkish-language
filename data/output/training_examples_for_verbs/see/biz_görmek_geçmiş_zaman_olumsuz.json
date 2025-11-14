@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "görmedik",
     "root": "gör",
-    "tense_affix": "di",
+    "tense_affix": "dü",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "dik",
+    "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "We did not see the beautiful city.",
-  "russian_example_sentence": "Мы не видели красивый город.",
-  "turkish_example_sentence": "Biz güzel şehri görmedik.",
-  "turkish_example_sentence_with_blank": "Biz güzel şehri ______."
+  "english_example_sentence": "We did not see the famous actor at the event",
+  "russian_example_sentence": "Мы не видели знаменитого актера на мероприятии",
+  "turkish_example_sentence": "Biz etkinlikte ünlü oyuncuyu görmedik",
+  "turkish_example_sentence_with_blank": "Biz etkinlikte ünlü oyuncuyu ______"
 }

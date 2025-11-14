@@ -4,17 +4,17 @@
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "oluyorsun",
+    "verb_full": "olmalısın",
     "root": "ol",
-    "tense_affix": "uyor",
+    "tense_affix": "malı",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "sun",
+    "personal_affix": "sın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You must be happy today.",
-  "russian_example_sentence": "Ты должен быть счастлив сегодня.",
-  "turkish_example_sentence": "Bugün mutlu oluyorsun.",
-  "turkish_example_sentence_with_blank": "Bugün mutlu ______."
+  "english_example_sentence": "You must be honest with your family",
+  "russian_example_sentence": "Ты должен быть честным со своей семьей",
+  "turkish_example_sentence": "Sen sevdiğin insanlara karşı dürüst ve açık olmalısın",
+  "turkish_example_sentence_with_blank": "Sen sevdiğin insanlara karşı dürüst ve açık ______"
 }

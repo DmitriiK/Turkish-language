@@ -1,0 +1,20 @@
+{
+  "verb_rank": 2,
+  "verb_english": "have",
+  "verb_russian": "иметь",
+  "verb_infinitive": "sahip olmak",
+  "turkish_verb": {
+    "verb_full": "sahip olmamalılar",
+    "root": "sahip ol",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "lar",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "They must not have any criminal records whatsoever",
+  "russian_example_sentence": "Они не должны иметь никаких судимостей",
+  "turkish_example_sentence": "Onlar hiçbir şekilde ceza kaydına sahip olmamalılar",
+  "turkish_example_sentence_with_blank": "Onlar hiçbir şekilde ceza kaydına ______"
+}

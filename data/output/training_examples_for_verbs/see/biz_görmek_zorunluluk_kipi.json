@@ -4,17 +4,17 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görmemiz gerekir",
+    "verb_full": "görmeliyiz",
     "root": "gör",
-    "tense_affix": "me",
+    "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iz",
+    "personal_affix": "yiz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We need to see the results.",
-  "russian_example_sentence": "Нам нужно увидеть результаты.",
-  "turkish_example_sentence": "Sonuçları görmemiz gerekir.",
-  "turkish_example_sentence_with_blank": "Sonuçları ______."
+  "english_example_sentence": "We must see the colorful spring flowers",
+  "russian_example_sentence": "Мы должны увидеть красочные весенние цветы",
+  "turkish_example_sentence": "Biz renkli bahar çiçeklerini görmeliyiz",
+  "turkish_example_sentence_with_blank": "Biz renkli bahar çiçeklerini ______"
 }

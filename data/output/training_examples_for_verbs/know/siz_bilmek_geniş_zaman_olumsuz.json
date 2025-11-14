@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "bilmezsiniz",
     "root": "bil",
-    "tense_affix": "",
+    "tense_affix": "ir",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "siniz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You do not know the answer.",
-  "russian_example_sentence": "Вы не знаете ответа.",
-  "turkish_example_sentence": "Siz bu sorunun cevabını bilmezsiniz.",
-  "turkish_example_sentence_with_blank": "Siz bu sorunun cevabını ______."
+  "english_example_sentence": "You don't know the delicious local cuisine",
+  "russian_example_sentence": "Вы не знаете вкусную местную кухню",
+  "turkish_example_sentence": "Siz lezzetli yerel mutfağı bilmezsiniz",
+  "turkish_example_sentence_with_blank": "Siz lezzetli yerel mutfağı ______"
 }

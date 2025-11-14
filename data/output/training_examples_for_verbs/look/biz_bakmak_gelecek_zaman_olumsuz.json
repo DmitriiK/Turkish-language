@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "bakmayacağız",
     "root": "bak",
-    "tense_affix": "yacak",
+    "tense_affix": "acak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "ız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "We will not look at the beautiful pictures.",
-  "russian_example_sentence": "Мы не будем смотреть на красивые картинки.",
-  "turkish_example_sentence": "Biz güzel resimlere bakmayacağız.",
-  "turkish_example_sentence_with_blank": "Biz güzel resimlere ______."
+  "english_example_sentence": "We will not look at the sad tragic news today",
+  "russian_example_sentence": "Мы не будем смотреть на печальные трагические новости сегодня",
+  "turkish_example_sentence": "Biz bugün üzücü trajik haberlere bakmayacağız",
+  "turkish_example_sentence_with_blank": "Biz bugün üzücü trajik haberlere ______"
 }

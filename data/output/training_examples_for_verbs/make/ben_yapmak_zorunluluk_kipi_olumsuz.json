@@ -1,0 +1,20 @@
+{
+  "verb_rank": 7,
+  "verb_english": "make",
+  "verb_russian": "делать (создавать)",
+  "verb_infinitive": "yapmak",
+  "turkish_verb": {
+    "verb_full": "yapmamalıyım",
+    "root": "yap",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "yım",
+    "polarity": "negative",
+    "negative_affix": "mama"
+  },
+  "english_example_sentence": "I must not make silly mistakes in the exam",
+  "russian_example_sentence": "Я не должен делать глупые ошибки на экзамене",
+  "turkish_example_sentence": "Ben sınavda aptalca hatalar yapmamalıyım",
+  "turkish_example_sentence_with_blank": "Ben sınavda aptalca hatalar ______"
+}

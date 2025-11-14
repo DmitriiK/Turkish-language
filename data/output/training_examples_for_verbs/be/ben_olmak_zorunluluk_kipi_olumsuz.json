@@ -1,0 +1,20 @@
+{
+  "verb_rank": 1,
+  "verb_english": "be",
+  "verb_russian": "быть",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olmamalıyım",
+    "root": "ol",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "yım",
+    "polarity": "negative",
+    "negative_affix": "mama"
+  },
+  "english_example_sentence": "I must not be late for the meeting",
+  "russian_example_sentence": "Я не должен опаздывать на встречу",
+  "turkish_example_sentence": "Ben önemli toplantıya geç olmamalıyım",
+  "turkish_example_sentence_with_blank": "Ben önemli toplantıya geç ______"
+}

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "görmeyecek",
     "root": "gör",
-    "tense_affix": "meye",
+    "tense_affix": "ecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "cek",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "He is not going to see the movie.",
-  "russian_example_sentence": "Он не собирается увидеть фильм.",
-  "turkish_example_sentence": "O, filmi görmeyecek.",
-  "turkish_example_sentence_with_blank": "O, filmi ______."
+  "english_example_sentence": "She will not see the dark clouds coming from the mountains",
+  "russian_example_sentence": "Она не увидит темные облака, идущие с гор",
+  "turkish_example_sentence": "O dağlardan gelen koyu bulutları görmeyecek",
+  "turkish_example_sentence_with_blank": "O dağlardan gelen koyu bulutları ______"
 }

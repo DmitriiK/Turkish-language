@@ -1,0 +1,20 @@
+{
+  "verb_rank": 1,
+  "verb_english": "be",
+  "verb_russian": "быть",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olamayız",
+    "root": "ol",
+    "tense_affix": "abil",
+    "verb_tense": "imkan_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "irsiniz",
+    "polarity": "negative",
+    "negative_affix": "ama"
+  },
+  "english_example_sentence": "You cannot be rude to elderly customers here",
+  "russian_example_sentence": "Вы не можете быть грубыми со старшими клиентами здесь",
+  "turkish_example_sentence": "Siz burada yaşlı müşterilere kaba olamayız",
+  "turkish_example_sentence_with_blank": "Siz burada yaşlı müşterilere kaba ______"
+}

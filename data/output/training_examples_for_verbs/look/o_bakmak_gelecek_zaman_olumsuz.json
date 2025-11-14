@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "bakmayacak",
     "root": "bak",
-    "tense_affix": "y",
+    "tense_affix": "acak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "acak",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "He will not look at the beautiful painting.",
-  "russian_example_sentence": "Он не будет смотреть на красивую картину.",
-  "turkish_example_sentence": "O güzel tabloya bakmayacak.",
-  "turkish_example_sentence_with_blank": "O güzel tabloya ______."
+  "english_example_sentence": "She will not look at the difficult math problems",
+  "russian_example_sentence": "Она не будет смотреть на сложные математические задачи",
+  "turkish_example_sentence": "O zor matematik problemlerine bakmayacak",
+  "turkish_example_sentence_with_blank": "O zor matematik problemlerine ______"
 }

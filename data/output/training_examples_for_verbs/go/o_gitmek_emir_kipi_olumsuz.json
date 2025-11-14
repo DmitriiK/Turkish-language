@@ -1,0 +1,20 @@
+{
+  "verb_rank": 5,
+  "verb_english": "go",
+  "verb_russian": "идти",
+  "verb_infinitive": "gitmek",
+  "turkish_verb": {
+    "verb_full": "gitmesin",
+    "root": "git",
+    "tense_affix": "",
+    "verb_tense": "emir_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": "sin",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "Don't let her go to the crowded noisy station",
+  "russian_example_sentence": "Не позволяй ей идти на переполненный шумный вокзал",
+  "turkish_example_sentence": "Kalabalık gürültülü istasyona gitmesin",
+  "turkish_example_sentence_with_blank": "Kalabalık gürültülü istasyona ______"
+}

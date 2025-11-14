@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "sahip olmalı",
     "root": "sahip ol",
-    "tense_affix": "mal",
+    "tense_affix": "malı",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "ı",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He must have a good car",
-  "russian_example_sentence": "Он должен иметь хорошую машину",
-  "turkish_example_sentence": "O güzel bir arabaya sahip olmalı",
-  "turkish_example_sentence_with_blank": "O güzel bir arabaya ______"
+  "english_example_sentence": "She must have excellent communication skills for this job",
+  "russian_example_sentence": "Она должна иметь отличные навыки общения для этой работы",
+  "turkish_example_sentence": "O bu iş için mükemmel iletişim becerilerine sahip olmalı",
+  "turkish_example_sentence_with_blank": "O bu iş için mükemmel iletişim becerilerine ______"
 }

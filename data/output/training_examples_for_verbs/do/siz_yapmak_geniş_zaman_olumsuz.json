@@ -4,17 +4,17 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmam",
+    "verb_full": "yapmazsınız",
     "root": "yap",
-    "tense_affix": "",
+    "tense_affix": "ar",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "m",
+    "personal_affix": "sınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You do not work on Sundays.",
-  "russian_example_sentence": "Вы не работаете по воскресеньям.",
-  "turkish_example_sentence": "Siz pazar günleri yapmam.",
-  "turkish_example_sentence_with_blank": "Siz pazar günleri ______."
+  "english_example_sentence": "You do not do careless work",
+  "russian_example_sentence": "Вы не делаете небрежную работу",
+  "turkish_example_sentence": "Siz asla dikkatsiz ve kalitesiz işleri yapmazsınız",
+  "turkish_example_sentence_with_blank": "Siz asla dikkatsiz ve kalitesiz işleri ______"
 }

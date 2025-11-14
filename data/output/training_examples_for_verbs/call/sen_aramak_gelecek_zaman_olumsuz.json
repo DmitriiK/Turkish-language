@@ -1,0 +1,20 @@
+{
+  "verb_rank": 20,
+  "verb_english": "call",
+  "verb_russian": "звонить",
+  "verb_infinitive": "aramak",
+  "turkish_verb": {
+    "verb_full": "aramayacaksın",
+    "root": "ara",
+    "tense_affix": "yacak",
+    "verb_tense": "gelecek_zaman",
+    "personal_pronoun": "sen",
+    "personal_affix": "sın",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "You will not call the small local restaurant tonight",
+  "russian_example_sentence": "Ты не позвонишь в маленький местный ресторан сегодня вечером",
+  "turkish_example_sentence": "Sen bu gece küçük yerel restorana aramayacaksın",
+  "turkish_example_sentence_with_blank": "Sen bu gece küçük yerel restorana ______"
+}

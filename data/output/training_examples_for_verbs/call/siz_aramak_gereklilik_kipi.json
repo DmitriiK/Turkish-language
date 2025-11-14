@@ -4,17 +4,17 @@
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "aramak siz",
+    "verb_full": "aramanız lazım",
     "root": "ara",
-    "tense_affix": "mak",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to call your friend.",
-  "russian_example_sentence": "Вам нужно позвонить своему другу.",
-  "turkish_example_sentence": "Siz arkadaşınıza aramak lazım.",
-  "turkish_example_sentence_with_blank": "Siz arkadaşınıza aramak lazım."
+  "english_example_sentence": "You must call the talented musician before the concert",
+  "russian_example_sentence": "Вы должны позвонить талантливому музыканту перед концертом",
+  "turkish_example_sentence": "Siz yetenekli müzisyeni konserden önce aramanız lazım",
+  "turkish_example_sentence_with_blank": "Siz yetenekli müzisyeni konserden önce ______"
 }

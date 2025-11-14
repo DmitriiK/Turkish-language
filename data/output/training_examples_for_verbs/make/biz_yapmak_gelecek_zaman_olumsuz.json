@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "yapmayacağız",
     "root": "yap",
-    "tense_affix": "yacak",
+    "tense_affix": "acak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "ız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "We will not make a big decision.",
-  "russian_example_sentence": "Мы не примем большое решение.",
-  "turkish_example_sentence": "Biz büyük bir karar yapmayacağız.",
-  "turkish_example_sentence_with_blank": "Biz büyük bir karar ______."
+  "english_example_sentence": "We will not make any loud noise tonight",
+  "russian_example_sentence": "Мы не будем делать громкий шум сегодня ночью",
+  "turkish_example_sentence": "Biz bu gece gürültülü ses yapmayacağız",
+  "turkish_example_sentence_with_blank": "Biz bu gece gürültülü ses ______"
 }

@@ -4,17 +4,17 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip oluyor",
-    "root": "sahip ol",
-    "tense_affix": "uyor",
+    "verb_full": "sahip olur",
+    "root": "ol",
+    "tense_affix": "ur",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "u",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The student has a new book.",
-  "russian_example_sentence": "У студента есть новая книга.",
-  "turkish_example_sentence": "Öğrenci yeni bir kitaba sahip oluyor.",
-  "turkish_example_sentence_with_blank": "Öğrenci yeni bir kitaba ______."
+  "english_example_sentence": "She has a clever intelligent daughter",
+  "russian_example_sentence": "У неё есть умная интеллигентная дочь",
+  "turkish_example_sentence": "O zeki akıllı bir kızına sahip olur",
+  "turkish_example_sentence_with_blank": "O zeki akıllı bir kızına ______"
 }

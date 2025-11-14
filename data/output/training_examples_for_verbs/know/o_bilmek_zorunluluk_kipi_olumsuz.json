@@ -1,0 +1,20 @@
+{
+  "verb_rank": 8,
+  "verb_english": "know",
+  "verb_russian": "знать",
+  "verb_infinitive": "bilmek",
+  "turkish_verb": {
+    "verb_full": "bilmemeli",
+    "root": "bil",
+    "tense_affix": "meli",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "She must not know about the medical diagnosis",
+  "russian_example_sentence": "Она не должна знать о медицинском диагнозе",
+  "turkish_example_sentence": "O hastanın özel sağlık durumu ve doktor tarafından verilen gizli tedavi planını bilmemeli",
+  "turkish_example_sentence_with_blank": "O hastanın özel sağlık durumu ve doktor tarafından verilen gizli tedavi planını ______"
+}

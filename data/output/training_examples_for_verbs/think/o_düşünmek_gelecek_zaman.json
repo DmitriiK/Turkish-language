@@ -4,17 +4,17 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünecektir",
+    "verb_full": "düşünecek",
     "root": "düşün",
     "tense_affix": "ecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "dir",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He will think about the new project",
-  "russian_example_sentence": "Он подумает о новом проекте",
-  "turkish_example_sentence": "Ali yeni proje hakkında düşünecektir.",
-  "turkish_example_sentence_with_blank": "Ali yeni proje hakkında ______."
+  "english_example_sentence": "He will think about the important decision carefully",
+  "russian_example_sentence": "Он будет тщательно думать о важном решении",
+  "turkish_example_sentence": "O önemli kararı dikkatle düşünecek",
+  "turkish_example_sentence_with_blank": "O önemli kararı dikkatle ______"
 }

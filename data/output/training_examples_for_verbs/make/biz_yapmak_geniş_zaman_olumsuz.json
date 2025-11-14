@@ -4,17 +4,17 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmam",
+    "verb_full": "yapmayız",
     "root": "yap",
-    "tense_affix": "",
+    "tense_affix": "ar",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "m",
+    "personal_affix": "ız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "We do not make plans for the weekend.",
-  "russian_example_sentence": "Мы не составляем планы на выходные.",
-  "turkish_example_sentence": "Biz hafta sonu plan yapmam.",
-  "turkish_example_sentence_with_blank": "Biz hafta sonu plan ______."
+  "english_example_sentence": "We do not make reservations at expensive restaurants",
+  "russian_example_sentence": "Мы не делаем резервирования в дорогих ресторанах",
+  "turkish_example_sentence": "Biz pahalı restoranlarda ön rezervasyon yapmayız",
+  "turkish_example_sentence_with_blank": "Biz pahalı restoranlarda ön rezervasyon ______"
 }

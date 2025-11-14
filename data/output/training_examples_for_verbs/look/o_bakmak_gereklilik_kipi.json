@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "bakması lazım",
     "root": "bak",
-    "tense_affix": "ma",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
     "personal_affix": "sı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He needs to look at the book.",
-  "russian_example_sentence": "Ему нужно смотреть на книгу.",
-  "turkish_example_sentence": "O kitabı bakması lazım.",
-  "turkish_example_sentence_with_blank": "O kitabı ______."
+  "english_example_sentence": "He needs to look at the important medical report",
+  "russian_example_sentence": "Ему нужно посмотреть на важный медицинский отчет",
+  "turkish_example_sentence": "O önemli tıbbi raporu dikkatlice bakması lazım",
+  "turkish_example_sentence_with_blank": "O önemli tıbbi raporu dikkatlice ______"
 }

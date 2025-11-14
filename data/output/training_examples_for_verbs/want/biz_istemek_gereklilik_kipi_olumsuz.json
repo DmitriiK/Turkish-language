@@ -1,0 +1,20 @@
+{
+  "verb_rank": 13,
+  "verb_english": "want",
+  "verb_russian": "хотеть",
+  "verb_infinitive": "istemek",
+  "turkish_verb": {
+    "verb_full": "istememiz lazım değil",
+    "root": "iste",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "mız",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "We should not want that dangerous risky adventure",
+  "russian_example_sentence": "Мы не должны хотеть это опасное рискованное приключение",
+  "turkish_example_sentence": "Biz o tehlikeli riskli maceraya istememiz lazım değil",
+  "turkish_example_sentence_with_blank": "Biz o tehlikeli riskli maceraya ______"
+}

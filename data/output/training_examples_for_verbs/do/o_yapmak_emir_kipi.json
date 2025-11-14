@@ -4,17 +4,17 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapıyor",
+    "verb_full": "yapsın",
     "root": "yap",
-    "tense_affix": "ıyor",
+    "tense_affix": "",
     "verb_tense": "emir_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "u",
+    "personal_affix": "sın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The child does homework every day",
-  "russian_example_sentence": "Ребёнок делает домашнее задание каждый день",
-  "turkish_example_sentence": "Çocuk her gün ödev yapıyor",
-  "turkish_example_sentence_with_blank": "Çocuk her gün ödev ______"
+  "english_example_sentence": "Let him prepare the delicious meal",
+  "russian_example_sentence": "Пусть он приготовит вкусное блюдо",
+  "turkish_example_sentence": "O lezzetli yemeği hazırlasın",
+  "turkish_example_sentence_with_blank": "O lezzetli yemeği hazırlasın"
 }

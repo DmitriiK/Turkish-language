@@ -1,0 +1,20 @@
+{
+  "verb_rank": 11,
+  "verb_english": "see",
+  "verb_russian": "видеть",
+  "verb_infinitive": "görmek",
+  "turkish_verb": {
+    "verb_full": "görmemelisiniz",
+    "root": "gör",
+    "tense_affix": "meli",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "siniz",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "You must not see the private family photos",
+  "russian_example_sentence": "Вы не должны видеть личные семейные фотографии",
+  "turkish_example_sentence": "Siz özel aile fotoğraflarını görmemelisiniz",
+  "turkish_example_sentence_with_blank": "Siz özel aile fotoğraflarını ______"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 3,
+  "verb_english": "do",
+  "verb_russian": "делать",
+  "verb_infinitive": "yapmak",
+  "turkish_verb": {
+    "verb_full": "yapmamalısınız",
+    "root": "yap",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "sınız",
+    "polarity": "negative",
+    "negative_affix": "mama"
+  },
+  "english_example_sentence": "You must not do any illegal activities here",
+  "russian_example_sentence": "Вы не должны делать никаких незаконных действий здесь",
+  "turkish_example_sentence": "Siz burada hiçbir yasa dışı faaliyet yapmamalısınız",
+  "turkish_example_sentence_with_blank": "Siz burada hiçbir yasa dışı faaliyet ______"
+}

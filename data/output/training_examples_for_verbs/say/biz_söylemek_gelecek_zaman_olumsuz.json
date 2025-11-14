@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "söylemeyeceğiz",
     "root": "söyle",
-    "tense_affix": "yacak",
+    "tense_affix": "yecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "ız",
+    "personal_affix": "iz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "We will not say anything tomorrow.",
-  "russian_example_sentence": "Мы ничего не скажем завтра.",
-  "turkish_example_sentence": "Biz yarın hiçbir şey söylemeyeceğiz.",
-  "turkish_example_sentence_with_blank": "Biz yarın hiçbir şey ______."
+  "english_example_sentence": "We will not say anything about the accident",
+  "russian_example_sentence": "Мы не скажем ничего об аварии",
+  "turkish_example_sentence": "Biz bu acı olayı hiç söylemeyeceğiz",
+  "turkish_example_sentence_with_blank": "Biz bu acı olayı hiç ______"
 }

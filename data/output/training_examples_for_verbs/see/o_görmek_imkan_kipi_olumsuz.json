@@ -1,0 +1,20 @@
+{
+  "verb_rank": 11,
+  "verb_english": "see",
+  "verb_russian": "видеть",
+  "verb_infinitive": "görmek",
+  "turkish_verb": {
+    "verb_full": "göremez",
+    "root": "gör",
+    "tense_affix": "eme",
+    "verb_tense": "imkan_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": "z",
+    "polarity": "negative",
+    "negative_affix": "eme"
+  },
+  "english_example_sentence": "He cannot see the movie without subtitles",
+  "russian_example_sentence": "Он не может видеть фильм без субтитров",
+  "turkish_example_sentence": "O altyazı olmadan yeni filmi göremez",
+  "turkish_example_sentence_with_blank": "O altyazı olmadan yeni filmi ______"
+}

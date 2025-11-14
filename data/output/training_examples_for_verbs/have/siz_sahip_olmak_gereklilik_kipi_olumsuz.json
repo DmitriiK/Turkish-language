@@ -1,0 +1,20 @@
+{
+  "verb_rank": 2,
+  "verb_english": "have",
+  "verb_russian": "иметь",
+  "verb_infinitive": "sahip olmak",
+  "turkish_verb": {
+    "verb_full": "sahip olmanız lazım değil",
+    "root": "sahip ol",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "değil"
+  },
+  "english_example_sentence": "You do not need to have special permission documents",
+  "russian_example_sentence": "Вам не нужно иметь специальные документы разрешения",
+  "turkish_example_sentence": "Siz özel izin belgelerine sahip olmanız lazım değil",
+  "turkish_example_sentence_with_blank": "Siz özel izin belgelerine ______"
+}

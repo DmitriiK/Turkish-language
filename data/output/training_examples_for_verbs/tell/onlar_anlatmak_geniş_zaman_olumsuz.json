@@ -4,17 +4,17 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatmam",
+    "verb_full": "anlatmazlar",
     "root": "anlat",
-    "tense_affix": "",
+    "tense_affix": "ır",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "They do not tell the story.",
-  "russian_example_sentence": "Они не рассказывают историю.",
-  "turkish_example_sentence": "Çocuklar hikaye anlatmam.",
-  "turkish_example_sentence_with_blank": "Çocuklar hikaye ______."
+  "english_example_sentence": "They do not tell their embarrassing childhood memories",
+  "russian_example_sentence": "Они не рассказывают свои неловкие детские воспоминания",
+  "turkish_example_sentence": "Onlar utanç verici çocukluk anılarını anlatmazlar",
+  "turkish_example_sentence_with_blank": "Onlar utanç verici çocukluk anılarını ______"
 }

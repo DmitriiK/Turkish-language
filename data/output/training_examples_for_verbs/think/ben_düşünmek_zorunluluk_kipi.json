@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "düşünmeliyim",
     "root": "düşün",
-    "tense_affix": "meliy",
+    "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "im",
+    "personal_affix": "yim",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I need to think about the future.",
-  "russian_example_sentence": "Мне нужно подумать о будущем.",
-  "turkish_example_sentence": "Gelecek hakkında düşünmeliyim.",
-  "turkish_example_sentence_with_blank": "Gelecek hakkında ______."
+  "english_example_sentence": "I must think about this difficult decision carefully",
+  "russian_example_sentence": "Я должен тщательно подумать об этом сложном решении",
+  "turkish_example_sentence": "Ben bu zor kararı dikkatle düşünmeliyim",
+  "turkish_example_sentence_with_blank": "Ben bu zor kararı dikkatle ______"
 }

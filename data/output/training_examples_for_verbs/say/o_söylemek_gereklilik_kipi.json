@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "söylemesi lazım",
     "root": "söyle",
-    "tense_affix": "me",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
     "personal_affix": "si",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He needs to say the answer.",
-  "russian_example_sentence": "Ему нужно сказать ответ.",
-  "turkish_example_sentence": "O cevabı söylemesi lazım.",
-  "turkish_example_sentence_with_blank": "O cevabı ______."
+  "english_example_sentence": "He needs to say his final decision",
+  "russian_example_sentence": "Он должен сказать своё окончательное решение",
+  "turkish_example_sentence": "O önemli kararını açık şekilde söylemesi lazım",
+  "turkish_example_sentence_with_blank": "O önemli kararını açık şekilde ______"
 }

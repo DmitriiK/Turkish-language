@@ -4,17 +4,17 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "vermemekteler",
+    "verb_full": "vermiyorlar",
     "root": "ver",
-    "tense_affix": "me",
+    "tense_affix": "iyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "te",
+    "personal_affix": "lar",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "m"
   },
-  "english_example_sentence": "The children are not giving their homework.",
-  "russian_example_sentence": "Дети не дают свои домашние задания.",
-  "turkish_example_sentence": "Çocuklar ödevlerini vermemekteler.",
-  "turkish_example_sentence_with_blank": "Çocuklar ödevlerini ______."
+  "english_example_sentence": "They are not giving second chances to anyone",
+  "russian_example_sentence": "Они не дают второй шанс никому",
+  "turkish_example_sentence": "Onlar kimseye ikinci şans vermiyorlar",
+  "turkish_example_sentence_with_blank": "Onlar kimseye ikinci şans ______"
 }

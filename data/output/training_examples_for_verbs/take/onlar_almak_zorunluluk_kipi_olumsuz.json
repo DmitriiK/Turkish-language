@@ -1,0 +1,20 @@
+{
+  "verb_rank": 10,
+  "verb_english": "take",
+  "verb_russian": "брать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almamalılar",
+    "root": "al",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "lar",
+    "polarity": "negative",
+    "negative_affix": "mama"
+  },
+  "english_example_sentence": "They must not take the fragile glasses",
+  "russian_example_sentence": "Они не должны брать хрупкие стаканы",
+  "turkish_example_sentence": "Onlar kırılgan bardakları almamalılar",
+  "turkish_example_sentence_with_blank": "Onlar kırılgan bardakları ______"
+}

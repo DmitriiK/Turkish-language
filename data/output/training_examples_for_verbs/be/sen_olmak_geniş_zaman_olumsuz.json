@@ -4,17 +4,17 @@
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmuyorsun",
+    "verb_full": "olmazsın",
     "root": "ol",
-    "tense_affix": "",
+    "tense_affix": "ur",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "sun",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You are not happy today.",
-  "russian_example_sentence": "Ты не счастлив сегодня.",
-  "turkish_example_sentence": "Sen bugün mutlu olmuyorsun.",
-  "turkish_example_sentence_with_blank": "Sen bugün mutlu ______."
+  "english_example_sentence": "You are not usually impatient with children",
+  "russian_example_sentence": "Ты обычно не нетерпелив с детьми",
+  "turkish_example_sentence": "Sen çocuklarla sabırsız olmazsın",
+  "turkish_example_sentence_with_blank": "Sen çocuklarla sabırsız ______"
 }

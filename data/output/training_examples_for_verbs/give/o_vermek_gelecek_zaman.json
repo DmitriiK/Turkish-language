@@ -4,17 +4,17 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "vereceğim",
+    "verb_full": "verecek",
     "root": "ver",
     "tense_affix": "ecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "im",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He will give a beautiful gift to his friend.",
-  "russian_example_sentence": "Он даст красивый подарок своему другу.",
-  "turkish_example_sentence": "O, arkadaşı için güzel bir hediye vereceğim.",
-  "turkish_example_sentence_with_blank": "O, arkadaşı için güzel bir hediye ______."
+  "english_example_sentence": "He will give fresh warm bread to the hungry children",
+  "russian_example_sentence": "Он даст свежий теплый хлеб голодным детям",
+  "turkish_example_sentence": "O aç çocuklara taze sıcak ekmek verecek",
+  "turkish_example_sentence_with_blank": "O aç çocuklara taze sıcak ekmek ______"
 }

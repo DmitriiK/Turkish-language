@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "görmeyeceksiniz",
     "root": "gör",
-    "tense_affix": "meyecek",
+    "tense_affix": "ecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "siniz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You will not see the movie.",
-  "russian_example_sentence": "Вы не увидите фильм.",
-  "turkish_example_sentence": "Siz bu filmi görmeyeceksiniz.",
-  "turkish_example_sentence_with_blank": "Siz bu filmi ______."
+  "english_example_sentence": "You will not see the expensive jewelry in that small shop",
+  "russian_example_sentence": "Вы не увидите дорогие украшения в том маленьком магазине",
+  "turkish_example_sentence": "Siz o küçük dükkânda pahalı mücevherleri görmeyeceksiniz",
+  "turkish_example_sentence_with_blank": "Siz o küçük dükkânda pahalı mücevherleri ______"
 }

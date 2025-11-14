@@ -4,17 +4,17 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylemem gerekiyor",
+    "verb_full": "söylemeliyin",
     "root": "söyle",
-    "tense_affix": "me",
+    "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "yim",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I need to say something important.",
-  "russian_example_sentence": "Мне нужно сказать что-то важное.",
-  "turkish_example_sentence": "Ben önemli bir şey söylemem gerekiyor.",
-  "turkish_example_sentence_with_blank": "Ben önemli bir şey ______."
+  "english_example_sentence": "I must say the truth clearly today",
+  "russian_example_sentence": "Я должен сказать правду ясно сегодня",
+  "turkish_example_sentence": "Ben bugün açık gerçeği söylemeliyin",
+  "turkish_example_sentence_with_blank": "Ben bugün açık gerçeği ______"
 }

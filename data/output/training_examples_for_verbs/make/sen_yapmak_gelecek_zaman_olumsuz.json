@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "yapmayacaksın",
     "root": "yap",
-    "tense_affix": "yacak",
+    "tense_affix": "acak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "sın",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You will not make a decision today.",
-  "russian_example_sentence": "Ты не примешь решение сегодня.",
-  "turkish_example_sentence": "Sen bugün karar yapmayacaksın.",
-  "turkish_example_sentence_with_blank": "Sen bugün karar ______."
+  "english_example_sentence": "You will not make that difficult decision",
+  "russian_example_sentence": "Ты не будешь принимать это сложное решение",
+  "turkish_example_sentence": "Sen o zor kararı yapmayacaksın",
+  "turkish_example_sentence_with_blank": "Sen o zor kararı ______"
 }

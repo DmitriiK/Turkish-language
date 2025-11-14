@@ -4,17 +4,17 @@
   "verb_russian": "смотреть",
   "verb_infinitive": "bakmak",
   "turkish_verb": {
-    "verb_full": "bakıyoruz",
+    "verb_full": "bakabiliriz",
     "root": "bak",
-    "tense_affix": "ıyor",
+    "tense_affix": "abil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "uz",
+    "personal_affix": "iriz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We look at the beautiful garden.",
-  "russian_example_sentence": "Мы смотрим на красивый сад.",
-  "turkish_example_sentence": "Biz güzel bahçeye bakıyoruz.",
-  "turkish_example_sentence_with_blank": "Biz güzel bahçeye ______."
+  "english_example_sentence": "We can look at the colorful flowers in the garden",
+  "russian_example_sentence": "Мы можем смотреть на разноцветные цветы в саду",
+  "turkish_example_sentence": "Biz bahçedeki renkli çiçeklere bakabiliriz",
+  "turkish_example_sentence_with_blank": "Biz bahçedeki renkli çiçeklere ______"
 }

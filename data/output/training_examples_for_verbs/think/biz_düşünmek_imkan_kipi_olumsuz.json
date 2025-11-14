@@ -1,0 +1,20 @@
+{
+  "verb_rank": 9,
+  "verb_english": "think",
+  "verb_russian": "думать",
+  "verb_infinitive": "düşünmek",
+  "turkish_verb": {
+    "verb_full": "düşünemeyiz",
+    "root": "düşün",
+    "tense_affix": "eme",
+    "verb_tense": "imkan_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "yiz",
+    "polarity": "negative",
+    "negative_affix": "eme"
+  },
+  "english_example_sentence": "We cannot think properly without enough sleep",
+  "russian_example_sentence": "Мы не можем думать правильно без достаточного сна",
+  "turkish_example_sentence": "Biz yeterli uyku olmadan düzgün düşünemeyiz",
+  "turkish_example_sentence_with_blank": "Biz yeterli uyku olmadan düzgün ______"
+}

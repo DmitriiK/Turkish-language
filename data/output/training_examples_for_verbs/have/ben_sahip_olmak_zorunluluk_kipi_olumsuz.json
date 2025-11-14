@@ -1,0 +1,20 @@
+{
+  "verb_rank": 2,
+  "verb_english": "have",
+  "verb_russian": "иметь",
+  "verb_infinitive": "sahip olmak",
+  "turkish_verb": {
+    "verb_full": "sahip olmamalıyım",
+    "root": "sahip ol",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "yım",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "I must not have any allergic reactions today",
+  "russian_example_sentence": "Я не должен иметь никаких аллергических реакций сегодня",
+  "turkish_example_sentence": "Ben bugün hiçbir alerjik tepkiye sahip olmamalıyım",
+  "turkish_example_sentence_with_blank": "Ben bugün hiçbir alerjik tepkiye ______"
+}

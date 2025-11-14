@@ -4,17 +4,17 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmüyor",
+    "verb_full": "düşünmez",
     "root": "düşün",
-    "tense_affix": "",
+    "tense_affix": "ür",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "mı"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "He is not thinking about the problem.",
-  "russian_example_sentence": "Он не думает о проблеме.",
-  "turkish_example_sentence": "Arkadaşım bu sorun hakkında düşünmüyor.",
-  "turkish_example_sentence_with_blank": "Arkadaşım bu sorun hakkında ______."
+  "english_example_sentence": "She doesn't think about negative things",
+  "russian_example_sentence": "Она не думает об отрицательных вещах",
+  "turkish_example_sentence": "O, kötü ve üzücü konular hakkında düşünmez",
+  "turkish_example_sentence_with_blank": "O, kötü ve üzücü konular hakkında ______"
 }

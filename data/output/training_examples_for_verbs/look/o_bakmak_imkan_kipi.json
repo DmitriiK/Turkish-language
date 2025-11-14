@@ -4,17 +4,17 @@
   "verb_russian": "смотреть",
   "verb_infinitive": "bakmak",
   "turkish_verb": {
-    "verb_full": "bakıyor",
+    "verb_full": "bakabilir",
     "root": "bak",
-    "tense_affix": "ıyor",
+    "tense_affix": "abil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "ir",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The child is looking at the beautiful flowers.",
-  "russian_example_sentence": "Ребёнок смотрит на красивые цветы.",
-  "turkish_example_sentence": "Çocuk güzel çiçeklere bakıyor.",
-  "turkish_example_sentence_with_blank": "Çocuk güzel çiçeklere ______."
+  "english_example_sentence": "He can look at the new car in the showroom",
+  "russian_example_sentence": "Он может смотреть на новый автомобиль в салоне",
+  "turkish_example_sentence": "O vitrin penceresinden yeni arabaya bakabilir",
+  "turkish_example_sentence_with_blank": "O vitrin penceresinden yeni arabaya ______"
 }

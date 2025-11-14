@@ -4,17 +4,17 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmalıdır",
+    "verb_full": "yapmalı",
     "root": "yap",
     "tense_affix": "malı",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "dır",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "She must do her homework.",
-  "russian_example_sentence": "Она должна сделать домашнее задание.",
-  "turkish_example_sentence": "O, ödevini yapmalıdır.",
-  "turkish_example_sentence_with_blank": "O, ödevini ______."
+  "english_example_sentence": "She must do the necessary repairs quickly",
+  "russian_example_sentence": "Она должна делать необходимый ремонт быстро",
+  "turkish_example_sentence": "O gerekli onarımları hızlı yapmalı",
+  "turkish_example_sentence_with_blank": "O gerekli onarımları hızlı ______"
 }

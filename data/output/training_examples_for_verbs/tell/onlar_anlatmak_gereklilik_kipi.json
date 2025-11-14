@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "anlatmaları lazım",
     "root": "anlat",
-    "tense_affix": "ma",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ları",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They need to tell a story.",
-  "russian_example_sentence": "Им нужно рассказать историю.",
-  "turkish_example_sentence": "Öğrencilerin bir hikaye anlatmaları lazım.",
-  "turkish_example_sentence_with_blank": "Öğrencilerin bir hikaye ______."
+  "english_example_sentence": "They need to tell the funny jokes tonight",
+  "russian_example_sentence": "Они должны рассказать смешные шутки сегодня вечером",
+  "turkish_example_sentence": "Onlar komik fıkraları bu gece anlatmaları lazım",
+  "turkish_example_sentence_with_blank": "Onlar komik fıkraları bu gece ______"
 }

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "görmedin",
     "root": "gör",
-    "tense_affix": "di",
+    "tense_affix": "dü",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "in",
+    "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You didn't see the beautiful park.",
-  "russian_example_sentence": "Ты не видел красивый парк.",
-  "turkish_example_sentence": "Sen güzel parkı görmedin.",
-  "turkish_example_sentence_with_blank": "Sen güzel parkı ______."
+  "english_example_sentence": "You did not see the small bird in the garden",
+  "russian_example_sentence": "Ты не видел маленькую птицу в саду",
+  "turkish_example_sentence": "Sen bahçedeki küçük kuşu görmedin",
+  "turkish_example_sentence_with_blank": "Sen bahçedeki küçük kuşu ______"
 }

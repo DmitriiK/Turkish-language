@@ -1,0 +1,20 @@
+{
+  "verb_rank": 10,
+  "verb_english": "take",
+  "verb_russian": "брать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almaması lazım",
+    "root": "al",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": "sı",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "She should not take the dangerous sharp knife",
+  "russian_example_sentence": "Она не должна брать опасный острый нож",
+  "turkish_example_sentence": "O tehlikeli keskin bıçağı almaması lazım",
+  "turkish_example_sentence_with_blank": "O tehlikeli keskin bıçağı ______"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 6,
+  "verb_english": "get",
+  "verb_russian": "получать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almamalıyım",
+    "root": "al",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "yım",
+    "polarity": "negative",
+    "negative_affix": "mama"
+  },
+  "english_example_sentence": "I must not get expensive gifts today",
+  "russian_example_sentence": "Я не должен получать дорогие подарки сегодня",
+  "turkish_example_sentence": "Ben bugün pahalı hediyeler almamalıyım",
+  "turkish_example_sentence_with_blank": "Ben bugün pahalı hediyeler ______"
+}

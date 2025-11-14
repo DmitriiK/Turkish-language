@@ -8,6 +8,30 @@
     {
       "tense": "emir_kipi",
       "pronoun": "o",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/know/o_bilmek_emir_kipi_olumsuz.json"
+    },
+    {
+      "tense": "emir_kipi",
+      "pronoun": "onlar",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/know/onlar_bilmek_emir_kipi_olumsuz.json"
+    },
+    {
+      "tense": "emir_kipi",
+      "pronoun": "sen",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/know/sen_bilmek_emir_kipi_olumsuz.json"
+    },
+    {
+      "tense": "emir_kipi",
+      "pronoun": "siz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/know/siz_bilmek_emir_kipi_olumsuz.json"
+    },
+    {
+      "tense": "emir_kipi",
+      "pronoun": "o",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/know/o_bilmek_emir_kipi.json"
     },
@@ -28,42 +52,6 @@
       "pronoun": "siz",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/know/siz_bilmek_emir_kipi.json"
-    },
-    {
-      "tense": "farzî_geçmiş_zaman",
-      "pronoun": "ben",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/know/ben_bilmek_farzî_geçmiş_zaman.json"
-    },
-    {
-      "tense": "farzî_geçmiş_zaman",
-      "pronoun": "biz",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/know/biz_bilmek_farzî_geçmiş_zaman.json"
-    },
-    {
-      "tense": "farzî_geçmiş_zaman",
-      "pronoun": "o",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/know/o_bilmek_farzî_geçmiş_zaman.json"
-    },
-    {
-      "tense": "farzî_geçmiş_zaman",
-      "pronoun": "onlar",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/know/onlar_bilmek_farzî_geçmiş_zaman.json"
-    },
-    {
-      "tense": "farzî_geçmiş_zaman",
-      "pronoun": "sen",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/know/sen_bilmek_farzî_geçmiş_zaman.json"
-    },
-    {
-      "tense": "farzî_geçmiş_zaman",
-      "pronoun": "siz",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/know/siz_bilmek_farzî_geçmiş_zaman.json"
     },
     {
       "tense": "gelecek_zaman",
@@ -212,6 +200,42 @@
     {
       "tense": "gereklilik_kipi",
       "pronoun": "ben",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/know/ben_bilmek_gereklilik_kipi_olumsuz.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "biz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/know/biz_bilmek_gereklilik_kipi_olumsuz.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "o",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/know/o_bilmek_gereklilik_kipi_olumsuz.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "onlar",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/know/onlar_bilmek_gereklilik_kipi_olumsuz.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "sen",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/know/sen_bilmek_gereklilik_kipi_olumsuz.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "siz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/know/siz_bilmek_gereklilik_kipi_olumsuz.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "ben",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/know/ben_bilmek_gereklilik_kipi.json"
     },
@@ -244,42 +268,6 @@
       "pronoun": "siz",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/know/siz_bilmek_gereklilik_kipi.json"
-    },
-    {
-      "tense": "geçmiş_gelecek_zaman",
-      "pronoun": "ben",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/know/ben_bilmek_geçmiş_gelecek_zaman.json"
-    },
-    {
-      "tense": "geçmiş_gelecek_zaman",
-      "pronoun": "biz",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/know/biz_bilmek_geçmiş_gelecek_zaman.json"
-    },
-    {
-      "tense": "geçmiş_gelecek_zaman",
-      "pronoun": "o",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/know/o_bilmek_geçmiş_gelecek_zaman.json"
-    },
-    {
-      "tense": "geçmiş_gelecek_zaman",
-      "pronoun": "onlar",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/know/onlar_bilmek_geçmiş_gelecek_zaman.json"
-    },
-    {
-      "tense": "geçmiş_gelecek_zaman",
-      "pronoun": "sen",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/know/sen_bilmek_geçmiş_gelecek_zaman.json"
-    },
-    {
-      "tense": "geçmiş_gelecek_zaman",
-      "pronoun": "siz",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/know/siz_bilmek_geçmiş_gelecek_zaman.json"
     },
     {
       "tense": "geçmiş_zaman",
@@ -356,6 +344,42 @@
     {
       "tense": "imkan_kipi",
       "pronoun": "ben",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/know/ben_bilmek_imkan_kipi_olumsuz.json"
+    },
+    {
+      "tense": "imkan_kipi",
+      "pronoun": "biz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/know/biz_bilmek_imkan_kipi_olumsuz.json"
+    },
+    {
+      "tense": "imkan_kipi",
+      "pronoun": "o",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/know/o_bilmek_imkan_kipi_olumsuz.json"
+    },
+    {
+      "tense": "imkan_kipi",
+      "pronoun": "onlar",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/know/onlar_bilmek_imkan_kipi_olumsuz.json"
+    },
+    {
+      "tense": "imkan_kipi",
+      "pronoun": "sen",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/know/sen_bilmek_imkan_kipi_olumsuz.json"
+    },
+    {
+      "tense": "imkan_kipi",
+      "pronoun": "siz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/know/siz_bilmek_imkan_kipi_olumsuz.json"
+    },
+    {
+      "tense": "imkan_kipi",
+      "pronoun": "ben",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/know/ben_bilmek_imkan_kipi.json"
     },
@@ -390,58 +414,40 @@
       "file_path": "data/output/training_examples_for_verbs/know/siz_bilmek_imkan_kipi.json"
     },
     {
-      "tense": "istek_kipi",
+      "tense": "yaracağım",
       "pronoun": "ben",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/know/ben_bilmek_istek_kipi.json"
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/know/ben_bilmek_yaracağım_olumsuz.json"
     },
     {
-      "tense": "istek_kipi",
+      "tense": "yaracağım",
       "pronoun": "biz",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/know/biz_bilmek_istek_kipi.json"
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/know/biz_bilmek_yaracağım_olumsuz.json"
     },
     {
-      "tense": "istek_kipi",
+      "tense": "yaracağım",
       "pronoun": "o",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/know/o_bilmek_istek_kipi.json"
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/know/o_bilmek_yaracağım_olumsuz.json"
     },
     {
-      "tense": "istek_kipi",
+      "tense": "yaracağım",
       "pronoun": "onlar",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/know/onlar_bilmek_istek_kipi.json"
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/know/onlar_bilmek_yaracağım_olumsuz.json"
     },
     {
-      "tense": "istek_kipi",
+      "tense": "yaracağım",
       "pronoun": "sen",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/know/sen_bilmek_istek_kipi.json"
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/know/sen_bilmek_yaracağım_olumsuz.json"
     },
     {
-      "tense": "istek_kipi",
+      "tense": "yaracağım",
       "pronoun": "siz",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/know/siz_bilmek_istek_kipi.json"
-    },
-    {
-      "tense": "sıfat_fiil",
-      "pronoun": "none",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/know/none_bilmek_sıfat_fiil.json"
-    },
-    {
-      "tense": "sıfat_fiil",
-      "pronoun": "o",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/know/o_bilmek_sıfat_fiil.json"
-    },
-    {
-      "tense": "ulak_fiil",
-      "pronoun": "none",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/know/none_bilmek_ulak_fiil.json"
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/know/siz_bilmek_yaracağım_olumsuz.json"
     },
     {
       "tense": "yaracağım",
@@ -480,46 +486,40 @@
       "file_path": "data/output/training_examples_for_verbs/know/siz_bilmek_yaracağım.json"
     },
     {
-      "tense": "zaman_sıfatı",
+      "tense": "zorunluluk_kipi",
       "pronoun": "ben",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/know/ben_bilmek_zaman_sıfatı.json"
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/know/ben_bilmek_zorunluluk_kipi_olumsuz.json"
     },
     {
-      "tense": "zaman_sıfatı",
+      "tense": "zorunluluk_kipi",
       "pronoun": "biz",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/know/biz_bilmek_zaman_sıfatı.json"
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/know/biz_bilmek_zorunluluk_kipi_olumsuz.json"
     },
     {
-      "tense": "zaman_sıfatı",
+      "tense": "zorunluluk_kipi",
       "pronoun": "o",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/know/o_bilmek_zaman_sıfatı.json"
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/know/o_bilmek_zorunluluk_kipi_olumsuz.json"
     },
     {
-      "tense": "zaman_sıfatı",
+      "tense": "zorunluluk_kipi",
       "pronoun": "onlar",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/know/onlar_bilmek_zaman_sıfatı.json"
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/know/onlar_bilmek_zorunluluk_kipi_olumsuz.json"
     },
     {
-      "tense": "zaman_sıfatı",
+      "tense": "zorunluluk_kipi",
       "pronoun": "sen",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/know/sen_bilmek_zaman_sıfatı.json"
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/know/sen_bilmek_zorunluluk_kipi_olumsuz.json"
     },
     {
-      "tense": "zaman_sıfatı",
+      "tense": "zorunluluk_kipi",
       "pronoun": "siz",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/know/siz_bilmek_zaman_sıfatı.json"
-    },
-    {
-      "tense": "zarf_fiil",
-      "pronoun": "none",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/know/none_bilmek_zarf_fiil.json"
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/know/siz_bilmek_zorunluluk_kipi_olumsuz.json"
     },
     {
       "tense": "zorunluluk_kipi",
@@ -556,78 +556,6 @@
       "pronoun": "siz",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/know/siz_bilmek_zorunluluk_kipi.json"
-    },
-    {
-      "tense": "şart_kipi",
-      "pronoun": "ben",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/know/ben_bilmek_şart_kipi.json"
-    },
-    {
-      "tense": "şart_kipi",
-      "pronoun": "biz",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/know/biz_bilmek_şart_kipi.json"
-    },
-    {
-      "tense": "şart_kipi",
-      "pronoun": "o",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/know/o_bilmek_şart_kipi.json"
-    },
-    {
-      "tense": "şart_kipi",
-      "pronoun": "onlar",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/know/onlar_bilmek_şart_kipi.json"
-    },
-    {
-      "tense": "şart_kipi",
-      "pronoun": "sen",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/know/sen_bilmek_şart_kipi.json"
-    },
-    {
-      "tense": "şart_kipi",
-      "pronoun": "siz",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/know/siz_bilmek_şart_kipi.json"
-    },
-    {
-      "tense": "şartlı_kipi",
-      "pronoun": "ben",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/know/ben_bilmek_şartlı_kipi.json"
-    },
-    {
-      "tense": "şartlı_kipi",
-      "pronoun": "biz",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/know/biz_bilmek_şartlı_kipi.json"
-    },
-    {
-      "tense": "şartlı_kipi",
-      "pronoun": "o",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/know/o_bilmek_şartlı_kipi.json"
-    },
-    {
-      "tense": "şartlı_kipi",
-      "pronoun": "onlar",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/know/onlar_bilmek_şartlı_kipi.json"
-    },
-    {
-      "tense": "şartlı_kipi",
-      "pronoun": "sen",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/know/sen_bilmek_şartlı_kipi.json"
-    },
-    {
-      "tense": "şartlı_kipi",
-      "pronoun": "siz",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/know/siz_bilmek_şartlı_kipi.json"
     },
     {
       "tense": "şimdiki_zaman",

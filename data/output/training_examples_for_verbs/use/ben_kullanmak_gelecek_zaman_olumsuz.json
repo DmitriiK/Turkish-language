@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "kullanmayacağım",
     "root": "kullan",
-    "tense_affix": "yacak",
+    "tense_affix": "acak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "ım",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I will not use my old phone.",
-  "russian_example_sentence": "Я не буду использовать свой старый телефон.",
-  "turkish_example_sentence": "Ben eski telefonumu kullanmayacağım.",
-  "turkish_example_sentence_with_blank": "Ben eski telefonumu ______."
+  "english_example_sentence": "I will not use the old telephone anymore",
+  "russian_example_sentence": "Я не буду использовать старый телефон больше",
+  "turkish_example_sentence": "Ben eski telefonu artık kullanmayacağım",
+  "turkish_example_sentence_with_blank": "Ben eski telefonu artık ______"
 }

@@ -4,17 +4,17 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almıyorsunuz",
+    "verb_full": "almazsınız",
     "root": "al",
-    "tense_affix": "",
+    "tense_affix": "ır",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "unuz",
+    "personal_affix": "sınız",
     "polarity": "negative",
-    "negative_affix": "mı"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "You do not take the bus",
-  "russian_example_sentence": "Вы не берёте автобус",
-  "turkish_example_sentence": "Siz bu otobüsü almıyorsunuz.",
-  "turkish_example_sentence_with_blank": "Siz bu otobüsü ______."
+  "english_example_sentence": "You do not take the old wooden chairs to the garden",
+  "russian_example_sentence": "Вы не берете старые деревянные стулья в сад",
+  "turkish_example_sentence": "Siz bahçeye eski ahşap sandalyeleri almazsınız",
+  "turkish_example_sentence_with_blank": "Siz bahçeye eski ahşap sandalyeleri ______"
 }

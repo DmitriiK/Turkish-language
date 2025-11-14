@@ -4,17 +4,17 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "alıyorum",
+    "verb_full": "alabilirim",
     "root": "al",
-    "tense_affix": "ıyor",
+    "tense_affix": "abil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "um",
+    "personal_affix": "irim",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I am taking a beautiful photo.",
-  "russian_example_sentence": "Я делаю красивое фото.",
-  "turkish_example_sentence": "Ben güzel bir fotoğraf alıyorum.",
-  "turkish_example_sentence_with_blank": "Ben güzel bir fotoğraf ______."
+  "english_example_sentence": "I can take the red apple from the table",
+  "russian_example_sentence": "Я могу взять красное яблоко со стола",
+  "turkish_example_sentence": "Ben kırmızı elmayı masadan alabilirim",
+  "turkish_example_sentence_with_blank": "Ben kırmızı elmayı masadan ______"
 }

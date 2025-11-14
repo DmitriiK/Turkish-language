@@ -4,17 +4,17 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "biliyoruz",
+    "verb_full": "bilebiliriz",
     "root": "bil",
-    "tense_affix": "iyor",
+    "tense_affix": "ebil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "uz",
+    "personal_affix": "iriz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We know the answer to the question.",
-  "russian_example_sentence": "Мы знаем ответ на вопрос.",
-  "turkish_example_sentence": "Biz sorunun cevabını biliyoruz.",
-  "turkish_example_sentence_with_blank": "Biz sorunun cevabını ______."
+  "english_example_sentence": "We can know the interesting local customs",
+  "russian_example_sentence": "Мы можем знать интересные местные обычаи",
+  "turkish_example_sentence": "Biz ilginç yerel gelenekleri bilebiliriz",
+  "turkish_example_sentence_with_blank": "Biz ilginç yerel gelenekleri ______"
 }

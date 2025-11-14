@@ -4,17 +4,17 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmediniz",
+    "verb_full": "düşünmemisiniz",
     "root": "düşün",
-    "tense_affix": "di",
+    "tense_affix": "dü",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "niz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You did not think about the project.",
-  "russian_example_sentence": "Вы не думали о проекте.",
-  "turkish_example_sentence": "Siz projeyi düşünmediniz.",
-  "turkish_example_sentence_with_blank": "Siz projeyi ______."
+  "english_example_sentence": "You did not think about the serious problem",
+  "russian_example_sentence": "Вы не думали о серьёзной проблеме",
+  "turkish_example_sentence": "Siz ciddi sorunları hiç düşünmemisiniz",
+  "turkish_example_sentence_with_blank": "Siz ciddi sorunları hiç ______"
 }

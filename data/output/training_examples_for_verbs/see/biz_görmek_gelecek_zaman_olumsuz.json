@@ -4,17 +4,17 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görmeyeceğiz",
+    "verb_full": "görmeyecğiz",
     "root": "gör",
-    "tense_affix": "meye",
+    "tense_affix": "ecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "ceğiz",
+    "personal_affix": "iz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "We will not see the movie.",
-  "russian_example_sentence": "Мы не увидим фильм.",
-  "turkish_example_sentence": "Biz bu filmi görmeyeceğiz.",
-  "turkish_example_sentence_with_blank": "Biz bu filmi ______."
+  "english_example_sentence": "We will not see the rare animals in the forest",
+  "russian_example_sentence": "Мы не увидим редких животных в лесу",
+  "turkish_example_sentence": "Biz ormanda nadir hayvanları görmeyecğiz",
+  "turkish_example_sentence_with_blank": "Biz ormanda nadir hayvanları ______"
 }
