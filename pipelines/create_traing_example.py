@@ -21,6 +21,10 @@ from grammer_metadata import (
 # Load environment variables
 load_dotenv()
 
+# Global state for Claude model rotation
+CLAUDE_MODEL_INDEX = 0
+CLAUDE_ROTATION_ENABLED = True
+
 
 # LLM Call Logger
 class LLMCallLogger:
@@ -854,7 +858,8 @@ def call_dial_api(
     prompt_text: str,
     config: dict,
     provider: str,
-    conversation_history: list[dict] = None
+    conversation_history: list[dict] = None,
+    claude_model_index: int = 0
 ) -> tuple[str, int, int]:
     """Make a request to DIAL API and return the response.
     
@@ -863,6 +868,7 @@ def call_dial_api(
         config: Configuration dictionary
         provider: Provider name (openai, claude, gemini, deepseek)
         conversation_history: Optional conversation history for retry logic
+        claude_model_index: Index in CLAUDE_MODEL_ROTATION list (for rotation)
     
     Returns:
         Tuple of (response_text, prompt_tokens, completion_tokens)
@@ -877,14 +883,22 @@ def call_dial_api(
     
     # Get model ID based on provider
     dial_config = config.get('DIAL_API', {})
-    provider_model_map = {
-        'openai': dial_config.get('OPENAI_MODEL_NAME', 'gpt-4o-mini-2024-07-18'),
-        'claude': dial_config.get('CLOUD_MODEL_NAME', 'anthropic.claude-haiku-4-5-20251001-v1:0'),
-        'gemini': dial_config.get('GEMINI_MODEL_NAME', 'gemini-2.5-flash'),
-        'deepseek': dial_config.get('DEEP_SEEK_MODEL_NAME', 'deepseek-r1')
-    }
     
-    model_id = provider_model_map.get(provider, provider_model_map['openai'])
+    # For Claude, use rotation list if available
+    if provider == 'claude':
+        rotation_list = dial_config.get('CLAUDE_MODEL_ROTATION', [])
+        if rotation_list and claude_model_index < len(rotation_list):
+            model_id = rotation_list[claude_model_index]
+        else:
+            model_id = dial_config.get('CLOUD_MODEL_NAME', 'anthropic.claude-haiku-4-5-20251001-v1:0')
+    else:
+        provider_model_map = {
+            'openai': dial_config.get('OPENAI_MODEL_NAME', 'gpt-4o-mini-2024-07-18'),
+            'gemini': dial_config.get('GEMINI_MODEL_NAME', 'gemini-2.5-flash'),
+            'deepseek': dial_config.get('DEEP_SEEK_MODEL_NAME', 'deepseek-r1')
+        }
+        model_id = provider_model_map.get(provider, provider_model_map.get('openai'))
+    
     model_name = f"{provider.upper()} - {model_id}"
     
     # Build DIAL API URL
@@ -905,12 +919,18 @@ def call_dial_api(
         "Content-Type": "application/json"
     }
     
+    # Use max_completion_tokens for OpenAI models, max_tokens for others
+    max_tokens_key = "max_completion_tokens" if provider == "openai" else "max_tokens"
+    
     payload = {
         "messages": messages,
-        "temperature": config['generation']['temperature'],
-        "max_tokens": config['generation'].get('max_output_tokens', 8192),
+        max_tokens_key: config['generation'].get('max_output_tokens', 8192),
         "stream": False
     }
+    
+    # OpenAI gpt-5-nano only supports temperature=1 (default), others support custom temperature
+    if provider != "openai":
+        payload["temperature"] = config['generation']['temperature']
     
     # Track start time
     start_time = time.time()
@@ -1071,22 +1091,46 @@ def generate_training_example(
             if rate_limiter:
                 rate_limiter.wait_if_needed()
             
-            # Call DIAL API
+            # Call DIAL API (with Claude model rotation support)
             try:
+                global CLAUDE_MODEL_INDEX, CLAUDE_ROTATION_ENABLED
+                
                 response_text, prompt_tokens, completion_tokens = call_dial_api(
                     prompt_text if conversation_history is None else None,
                     config,
                     provider,
-                    conversation_history
+                    conversation_history,
+                    claude_model_index=CLAUDE_MODEL_INDEX if provider == 'claude' else 0
                 )
                 
                 total_prompt_tokens += prompt_tokens
                 total_completion_tokens += completion_tokens
                 
-            except requests.exceptions.RequestException as req_error:
+            except (requests.exceptions.RequestException, ValueError) as req_error:
                 # Handle rate limit errors
                 error_str = str(req_error)
-                if '429' in error_str or 'rate limit' in error_str.lower():
+                is_rate_limit = '429' in error_str or 'rate limit' in error_str.lower() or 'day limit' in error_str.lower()
+                
+                if is_rate_limit:
+                    # Check if we're using Claude and rotation is enabled
+                    if provider == 'claude' and CLAUDE_ROTATION_ENABLED:
+                        rotation_list = config.get('DIAL_API', {}).get('CLAUDE_MODEL_ROTATION', [])
+                        if rotation_list and CLAUDE_MODEL_INDEX < len(rotation_list) - 1:
+                            # Try next model in rotation
+                            CLAUDE_MODEL_INDEX += 1
+                            next_model = rotation_list[CLAUDE_MODEL_INDEX]
+                            print(f"   🔄 Daily limit hit! Rotating to next Claude model: {next_model}")
+                            print(f"      Model {CLAUDE_MODEL_INDEX + 1}/{len(rotation_list)} in rotation")
+                            # Retry immediately with new model (don't count as retry attempt)
+                            continue
+                        elif rotation_list and CLAUDE_MODEL_INDEX >= len(rotation_list) - 1:
+                            print(f"   ❌ All {len(rotation_list)} Claude models exhausted their daily limits!")
+                            raise ValueError(
+                                "All Claude models have hit their daily token limits. "
+                                "Try again tomorrow or use a different provider."
+                            )
+                    
+                    # Not Claude or no rotation available - use normal retry logic
                     if attempt < max_retries:
                         retry_delay = extract_retry_delay(error_str)
                         print(f"   ⚠️  Rate limit hit (attempt {attempt + 1}/{max_retries + 1})")
@@ -1096,6 +1140,7 @@ def generate_training_example(
                             print(f"   ⏳ Waiting {retry_delay}s before retry...")
                             time.sleep(retry_delay)
                         continue
+                
                 # Re-raise other network errors
                 raise req_error
             
@@ -1309,13 +1354,23 @@ def main(
     
     # Get model name for logging
     dial_config = config.get('DIAL_API', {})
-    provider_model_map = {
-        'openai': dial_config.get('OPENAI_MODEL_NAME', 'gpt-4o-mini-2024-07-18'),
-        'claude': dial_config.get('CLOUD_MODEL_NAME', 'anthropic.claude-haiku-4-5-20251001-v1:0'),
-        'gemini': dial_config.get('GEMINI_MODEL_NAME', 'gemini-2.5-flash'),
-        'deepseek': dial_config.get('DEEP_SEEK_MODEL_NAME', 'deepseek-r1')
-    }
-    model_name = f"{provider.upper()} - {provider_model_map.get(provider, 'unknown')}"
+    
+    # For Claude, show the active model from rotation
+    if provider == 'claude':
+        rotation_list = dial_config.get('CLAUDE_MODEL_ROTATION', [])
+        if rotation_list:
+            active_model = rotation_list[CLAUDE_MODEL_INDEX]
+            model_name = f"{provider.upper()} - {active_model} (model {CLAUDE_MODEL_INDEX + 1}/{len(rotation_list)})"
+        else:
+            active_model = dial_config.get('CLOUD_MODEL_NAME', 'anthropic.claude-haiku-4-5-20251001-v1:0')
+            model_name = f"{provider.upper()} - {active_model}"
+    else:
+        provider_model_map = {
+            'openai': dial_config.get('OPENAI_MODEL_NAME', 'gpt-4o-mini-2024-07-18'),
+            'gemini': dial_config.get('GEMINI_MODEL_NAME', 'gemini-2.5-flash'),
+            'deepseek': dial_config.get('DEEP_SEEK_MODEL_NAME', 'deepseek-r1')
+        }
+        model_name = f"{provider.upper()} - {provider_model_map.get(provider, 'unknown')}"
     
     # Initialize logger
     project_root = Path(__file__).parent.parent

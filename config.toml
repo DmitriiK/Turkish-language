@@ -32,10 +32,19 @@ top_k = 40
 DIAL_API_ENDPOINT="https://ai-proxy.lab.epam.com/openai/deployments/{model_id}/chat/completions"
 # "https://dklmnopenai.services.ai.azure.com"
 OPENAI_API_VERSION = "2024-08-01-preview"
-OPENAI_MODEL_NAME = "gpt-4o-mini-2024-07-18"
+OPENAI_MODEL_NAME = "gpt-5-nano-2025-08-07"
 CLOUD_MODEL_NAME = "anthropic.claude-haiku-4-5-20251001-v1:0"
 DEEP_SEEK_MODEL_NAME = "deepseek-r1"
 GEMINI_MODEL_NAME = "gemini-2.5-flash"
+
+# Claude model rotation list - will try each in order when hitting daily limits
+# Each model has its own daily quota, so we can rotate through them
+CLAUDE_MODEL_ROTATION = [
+    "claude-haiku-4-5@20251001",                    # VertexAI Haiku (fastest, accessible)
+    "claude-sonnet-4-5@20250929",                   # VertexAI Sonnet (most capable)
+    "anthropic.claude-v3-5-haiku",                  # Legacy Haiku (fallback)
+    "anthropic.claude-v3-5-sonnet",                 # Legacy Sonnet (fallback)
+]
 
 # Default provider for create_training_example.py pipeline
 # Options: openai, claude, gemini, deepseek
