@@ -31,7 +31,6 @@ interface LearningCardProps {
   example: TrainingExample;
   direction: LearnDirection;
   onProgress: (progress: ProgressState, wasManualInput?: boolean) => void;
-  revealAnswer?: boolean; // Initial reveal answer state from parent
   // Navigation props
   currentVerb: string;
   currentVerbDisplay: string;
@@ -61,7 +60,6 @@ export const LearningCard: React.FC<LearningCardProps> = ({
   example,
   direction,
   onProgress,
-  revealAnswer = false,
   // Navigation props
   currentVerb,
   currentVerbDisplay,
@@ -114,25 +112,13 @@ export const LearningCard: React.FC<LearningCardProps> = ({
     loadTenseLevel();
   }, [currentTense]);
 
-  // Reset state when example changes
+  // Reset state when example changes, but PRESERVE revealAnswer state
   useEffect(() => {
-    setUserInput('');
-    // Preserve the reveal answer state from parent
-    const newProgress = {
-      verbRoot: revealAnswer,
-      negativeAffix: revealAnswer,
-      tenseAffix: revealAnswer,
-      personalAffix: revealAnswer,
-      fullSentence: revealAnswer
-    };
-    setProgress(newProgress);
     setInputState('neutral');
     
-    // If reveal answer is checked, populate the input with the answer
-    if (revealAnswer) {
-      setUserInput(buildTextFromProgress(newProgress));
-    }
-  }, [example, revealAnswer]);
+    // Don't reset progress or userInput - keep the current reveal answer state
+    // The user might have enabled "reveal answer" and wants it to stay on
+  }, [example]);
 
   // Handle direction changes - update input based on Reveal Answer state
   useEffect(() => {
@@ -146,6 +132,13 @@ export const LearningCard: React.FC<LearningCardProps> = ({
     // Reset input state to neutral on direction change
     setInputState('neutral');
   }, [direction]);
+
+  // Update input when progress changes (for reveal answer state preservation)
+  useEffect(() => {
+    if (progress.fullSentence) {
+      setUserInput(buildTextFromProgress(progress));
+    }
+  }, [progress.fullSentence, example]);
 
   // Get current cursor position in the contenteditable div
   const getCursorPosition = (): number => {

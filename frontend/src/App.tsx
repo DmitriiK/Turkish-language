@@ -7,8 +7,6 @@ import { BookOpen, BookText, FileText } from 'lucide-react';
 import { motion } from 'framer-motion';
 
 const App: React.FC = () => {
-  console.log('App component rendering...'); // Debug log
-  
   // Core state
   const [currentExample, setCurrentExample] = useState<TrainingExample | null>(null);
   const [direction, setDirection] = useState<LearnDirection>('english-to-turkish');
@@ -17,7 +15,6 @@ const App: React.FC = () => {
   const [error, setError] = useState<string | null>(null);
   const [totalVerbs, setTotalVerbs] = useState<number>(0);
   const [totalExamples, setTotalExamples] = useState<number>(0);
-  const [revealAnswer, setRevealAnswer] = useState<boolean>(false); // Preserve reveal answer state
   const [trackAnsweredCards, setTrackAnsweredCards] = useState<boolean>(() => {
     // Load from localStorage on init
     const saved = localStorage.getItem('trackAnsweredCards');
@@ -296,9 +293,6 @@ const App: React.FC = () => {
   const handleProgress = (newProgress: ProgressState, wasManualInput: boolean = false) => {
     setProgress(newProgress);
     
-    // Track reveal answer state to preserve it across navigation
-    setRevealAnswer(newProgress.fullSentence);
-    
     // Update user progress only when the full sentence is completed manually AND tracking is enabled
     if (newProgress.fullSentence && !progress.fullSentence && wasManualInput && currentExample && trackAnsweredCards) {
       // Create a unique key for this example
@@ -433,7 +427,6 @@ const App: React.FC = () => {
             example={currentExample}
             direction={direction}
             onProgress={handleProgress}
-            revealAnswer={revealAnswer}
             currentVerb={currentVerb}
             currentVerbDisplay={currentVerbDisplay}
             currentTense={currentTense}
