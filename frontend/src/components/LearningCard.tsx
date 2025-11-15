@@ -31,6 +31,7 @@ interface LearningCardProps {
   example: TrainingExample;
   direction: LearnDirection;
   onProgress: (progress: ProgressState, wasManualInput?: boolean) => void;
+  revealAnswer?: boolean; // Initial reveal answer state from parent
   // Navigation props
   currentVerb: string;
   currentVerbDisplay: string;
@@ -60,6 +61,7 @@ export const LearningCard: React.FC<LearningCardProps> = ({
   example,
   direction,
   onProgress,
+  revealAnswer = false,
   // Navigation props
   currentVerb,
   currentVerbDisplay,
@@ -115,15 +117,22 @@ export const LearningCard: React.FC<LearningCardProps> = ({
   // Reset state when example changes
   useEffect(() => {
     setUserInput('');
-    setProgress({
-      verbRoot: false,
-      negativeAffix: false,
-      tenseAffix: false,
-      personalAffix: false,
-      fullSentence: false
-    });
+    // Preserve the reveal answer state from parent
+    const newProgress = {
+      verbRoot: revealAnswer,
+      negativeAffix: revealAnswer,
+      tenseAffix: revealAnswer,
+      personalAffix: revealAnswer,
+      fullSentence: revealAnswer
+    };
+    setProgress(newProgress);
     setInputState('neutral');
-  }, [example]);
+    
+    // If reveal answer is checked, populate the input with the answer
+    if (revealAnswer) {
+      setUserInput(buildTextFromProgress(newProgress));
+    }
+  }, [example, revealAnswer]);
 
   // Handle direction changes - update input based on Reveal Answer state
   useEffect(() => {

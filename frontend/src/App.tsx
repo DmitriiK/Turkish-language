@@ -17,6 +17,7 @@ const App: React.FC = () => {
   const [error, setError] = useState<string | null>(null);
   const [totalVerbs, setTotalVerbs] = useState<number>(0);
   const [totalExamples, setTotalExamples] = useState<number>(0);
+  const [revealAnswer, setRevealAnswer] = useState<boolean>(false); // Preserve reveal answer state
   const [trackAnsweredCards, setTrackAnsweredCards] = useState<boolean>(() => {
     // Load from localStorage on init
     const saved = localStorage.getItem('trackAnsweredCards');
@@ -174,7 +175,12 @@ const App: React.FC = () => {
     const nextTense = await dataLoader.getNextTense(currentVerb, currentTense, languageLevel);
     if (nextTense) {
       setCurrentTense(nextTense);
-      setCurrentPronoun('ben'); // Reset pronoun for new tense
+      // Check if current pronoun is valid for the new tense
+      const availablePronouns = await dataLoader.getAvailablePronouns(currentVerb, nextTense, currentPolarity);
+      if (currentPronoun && !availablePronouns.includes(currentPronoun)) {
+        // Current pronoun not available, use first available or null
+        setCurrentPronoun(availablePronouns.length > 0 ? availablePronouns[0] : null);
+      }
     }
   };
 
@@ -182,7 +188,12 @@ const App: React.FC = () => {
     const prevTense = await dataLoader.getPrevTense(currentVerb, currentTense, languageLevel);
     if (prevTense) {
       setCurrentTense(prevTense);
-      setCurrentPronoun('ben');
+      // Check if current pronoun is valid for the new tense
+      const availablePronouns = await dataLoader.getAvailablePronouns(currentVerb, prevTense, currentPolarity);
+      if (currentPronoun && !availablePronouns.includes(currentPronoun)) {
+        // Current pronoun not available, use first available or null
+        setCurrentPronoun(availablePronouns.length > 0 ? availablePronouns[0] : null);
+      }
     }
   };
 
@@ -209,15 +220,30 @@ const App: React.FC = () => {
   };
 
   // Direct navigation handlers for dropdowns
-  const handleGoToVerb = (verb: string) => {
+  const handleGoToVerb = async (verb: string) => {
     setCurrentVerb(verb);
-    setCurrentTense('şimdiki_zaman');
-    setCurrentPronoun('ben');
+    // Don't reset tense/pronoun - preserve current state
+    // Only reset if the current tense is not available for the new verb
+    const availableTenses = await dataLoader.getAvailableTenses(verb, languageLevel || 'All');
+    if (!availableTenses.includes(currentTense)) {
+      // Current tense not available, fall back to first available
+      if (availableTenses.length > 0) {
+        setCurrentTense(availableTenses[0]);
+        // When tense changes due to unavailability, loadCurrentExample will auto-correct pronoun if needed
+      }
+    }
+    // If current tense is available, keep tense and pronoun as is
+    // loadCurrentExample will auto-correct pronoun if it's not valid for this verb
   };
 
-  const handleGoToTense = (tense: string) => {
+  const handleGoToTense = async (tense: string) => {
     setCurrentTense(tense);
-    setCurrentPronoun('ben'); // Reset to first person for new tense
+    // Check if current pronoun is valid for the new tense
+    const availablePronouns = await dataLoader.getAvailablePronouns(currentVerb, tense, currentPolarity);
+    if (currentPronoun && !availablePronouns.includes(currentPronoun)) {
+      // Current pronoun not available, use first available or null
+      setCurrentPronoun(availablePronouns.length > 0 ? availablePronouns[0] : null);
+    }
   };
 
   const handleGoToPronoun = (pronoun: string) => {
@@ -253,6 +279,13 @@ const App: React.FC = () => {
         const newTense = availableTenses[0];
         setCurrentTense(newTense);
         console.log(`Switching to first available tense for level ${level}: ${newTense}`);
+        
+        // Check if current pronoun is valid for the new tense
+        const availablePronouns = await dataLoader.getAvailablePronouns(currentVerb, newTense, currentPolarity);
+        if (currentPronoun && !availablePronouns.includes(currentPronoun)) {
+          // Current pronoun not available, use first available or null
+          setCurrentPronoun(availablePronouns.length > 0 ? availablePronouns[0] : null);
+        }
       }
     } else {
       // Reload the current example
@@ -262,6 +295,9 @@ const App: React.FC = () => {
 
   const handleProgress = (newProgress: ProgressState, wasManualInput: boolean = false) => {
     setProgress(newProgress);
+    
+    // Track reveal answer state to preserve it across navigation
+    setRevealAnswer(newProgress.fullSentence);
     
     // Update user progress only when the full sentence is completed manually AND tracking is enabled
     if (newProgress.fullSentence && !progress.fullSentence && wasManualInput && currentExample && trackAnsweredCards) {
@@ -397,6 +433,7 @@ const App: React.FC = () => {
             example={currentExample}
             direction={direction}
             onProgress={handleProgress}
+            revealAnswer={revealAnswer}
             currentVerb={currentVerb}
             currentVerbDisplay={currentVerbDisplay}
             currentTense={currentTense}
