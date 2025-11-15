@@ -151,7 +151,8 @@ const App: React.FC = () => {
   useEffect(() => {
     const loadStatistics = async () => {
       try {
-        const response = await fetch('/data/navigation_summary.json');
+        // Use relative path to work with Vite's base configuration
+        const response = await fetch('./data/navigation_summary.json');
         const data = await response.json();
         setTotalVerbs(data.total_verbs || 0);
         
