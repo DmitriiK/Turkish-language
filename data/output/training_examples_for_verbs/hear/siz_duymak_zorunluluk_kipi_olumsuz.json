@@ -1,0 +1,20 @@
+{
+  "verb_rank": 35,
+  "verb_english": "hear",
+  "verb_russian": "слышать",
+  "verb_infinitive": "duymak",
+  "turkish_verb": {
+    "verb_full": "duymayalısınız",
+    "root": "duy",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "sınız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "You must not hear the confidential information",
+  "russian_example_sentence": "Вы не должны слышать конфиденциальную информацию",
+  "turkish_example_sentence": "Siz gizli bilgiyi duymayalısınız",
+  "turkish_example_sentence_with_blank": "Siz gizli bilgiyi ______"
+}

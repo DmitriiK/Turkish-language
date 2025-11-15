@@ -1,0 +1,20 @@
+{
+  "verb_rank": 28,
+  "verb_english": "mean",
+  "verb_russian": "значить",
+  "verb_infinitive": "demek",
+  "turkish_verb": {
+    "verb_full": "demezlerse",
+    "root": "de",
+    "tense_affix": "erse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "ler",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If they don’t tell anyone, nothing will happen.",
+  "russian_example_sentence": "Если они никому не скажут, ничего не случится.",
+  "turkish_example_sentence": "Kimseye demezlerse, bir şey olmayacak.",
+  "turkish_example_sentence_with_blank": "Kimseye ______, bir şey olmayacak."
+}

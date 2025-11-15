@@ -1,0 +1,20 @@
+{
+  "verb_rank": 20,
+  "verb_english": "call",
+  "verb_russian": "звонить",
+  "verb_infinitive": "aramak",
+  "turkish_verb": {
+    "verb_full": "aramayalar",
+    "root": "ara",
+    "tense_affix": "ya",
+    "verb_tense": "istek_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "lar",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "May they not call the problematic debt collector",
+  "russian_example_sentence": "Пусть они не звонят проблемному коллектору долгов",
+  "turkish_example_sentence": "Onlar kesinlikle sorunlu tahsilat memurunu aramayalar",
+  "turkish_example_sentence_with_blank": "Onlar kesinlikle sorunlu tahsilat memurunu ______"
+}

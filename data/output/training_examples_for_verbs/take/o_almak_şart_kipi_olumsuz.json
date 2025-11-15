@@ -1,0 +1,20 @@
+{
+  "verb_rank": 10,
+  "verb_english": "take",
+  "verb_russian": "брать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almasa",
+    "root": "al",
+    "tense_affix": "sa",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If he didn’t take the flowers for her",
+  "russian_example_sentence": "Если бы он не взял цветы для неё",
+  "turkish_example_sentence": "O çiçekleri onun için almasa",
+  "turkish_example_sentence_with_blank": "O çiçekleri onun için ______"
+}

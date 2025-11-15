@@ -1,0 +1,20 @@
+{
+  "verb_rank": 25,
+  "verb_english": "become",
+  "verb_russian": "становиться",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olmazsak",
+    "root": "ol",
+    "tense_affix": "zsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If we don't become careful, we might fail.",
+  "russian_example_sentence": "Если мы не будем осторожны, мы можем потерпеть неудачу.",
+  "turkish_example_sentence": "Eğer dikkatli olmazsak, başarısız olabiliriz.",
+  "turkish_example_sentence_with_blank": "Eğer dikkatli ______, başarısız olabiliriz."
+}

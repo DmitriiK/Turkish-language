@@ -1,0 +1,20 @@
+{
+  "verb_rank": 6,
+  "verb_english": "get",
+  "verb_russian": "получать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almazsak",
+    "root": "al",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If we don't get any help,",
+  "russian_example_sentence": "Если мы не получим никакой помощи,",
+  "turkish_example_sentence": "Biz hiçbir yardım almazsak, projeyi bitiremeyiz.",
+  "turkish_example_sentence_with_blank": "Biz hiçbir yardım ______, projeyi bitiremeyiz."
+}

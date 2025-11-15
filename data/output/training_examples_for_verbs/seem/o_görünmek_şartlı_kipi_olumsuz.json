@@ -1,0 +1,20 @@
+{
+  "verb_rank": 32,
+  "verb_english": "seem",
+  "verb_russian": "казаться",
+  "verb_infinitive": "görünmek",
+  "turkish_verb": {
+    "verb_full": "görünmezse",
+    "root": "görün",
+    "tense_affix": "mezse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If he doesn’t seem excited, they won’t ask him.",
+  "russian_example_sentence": "Если он не кажется взволнованным, они его не спросят.",
+  "turkish_example_sentence": "Eğer heyecanlı görünmezse, ona sormazlar.",
+  "turkish_example_sentence_with_blank": "Eğer heyecanlı ______, ona sormazlar."
+}

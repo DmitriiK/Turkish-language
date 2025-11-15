@@ -1,0 +1,20 @@
+{
+  "verb_rank": 44,
+  "verb_english": "write",
+  "verb_russian": "писать",
+  "verb_infinitive": "yazmak",
+  "turkish_verb": {
+    "verb_full": "yazmazsam",
+    "root": "yaz",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If I do not write the report today",
+  "russian_example_sentence": "Если я не напишу отчёт сегодня",
+  "turkish_example_sentence": "Eğer bugün raporu yazmazsam",
+  "turkish_example_sentence_with_blank": "Eğer bugün raporu ______"
+}

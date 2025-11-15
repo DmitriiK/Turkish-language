@@ -1,0 +1,20 @@
+{
+  "verb_rank": 17,
+  "verb_english": "give",
+  "verb_russian": "давать",
+  "verb_infinitive": "vermek",
+  "turkish_verb": {
+    "verb_full": "vermezsen",
+    "root": "ver",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If you don't give the answer",
+  "russian_example_sentence": "Если ты не дашь ответ",
+  "turkish_example_sentence": "Cevabı vermezsen",
+  "turkish_example_sentence_with_blank": "Cevabı ______"
+}

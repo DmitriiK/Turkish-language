@@ -1,0 +1,20 @@
+{
+  "verb_rank": 3,
+  "verb_english": "do",
+  "verb_russian": "делать",
+  "verb_infinitive": "yapmak",
+  "turkish_verb": {
+    "verb_full": "yaparsanız",
+    "root": "yap",
+    "tense_affix": "arsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If you do the dishes, I will cook.",
+  "russian_example_sentence": "Если вы помоете посуду, я приготовлю еду.",
+  "turkish_example_sentence": "Bulaşıkları yaparsanız ben yemek yaparım.",
+  "turkish_example_sentence_with_blank": "Bulaşıkları ______ ben yemek yaparım."
+}

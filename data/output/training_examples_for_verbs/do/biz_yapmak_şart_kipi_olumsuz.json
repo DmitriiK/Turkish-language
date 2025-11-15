@@ -1,0 +1,20 @@
+{
+  "verb_rank": 3,
+  "verb_english": "do",
+  "verb_russian": "делать",
+  "verb_infinitive": "yapmak",
+  "turkish_verb": {
+    "verb_full": "yapmasak",
+    "root": "yap",
+    "tense_affix": "sa",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If we didn’t do the project, it wouldn’t succeed",
+  "russian_example_sentence": "Если бы мы не сделали проект, он не был бы успешным",
+  "turkish_example_sentence": "Projeyi yapmasak başarılı olmazdı",
+  "turkish_example_sentence_with_blank": "Projeyi ______ başarılı olmazdı"
+}

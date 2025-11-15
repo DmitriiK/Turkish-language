@@ -1,0 +1,20 @@
+{
+  "verb_rank": 15,
+  "verb_english": "use",
+  "verb_russian": "использовать",
+  "verb_infinitive": "kullanmak",
+  "turkish_verb": {
+    "verb_full": "kullanmazlarsa",
+    "root": "kullan",
+    "tense_affix": "zlarsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "lar",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If they don't use the washing machine, it will break.",
+  "russian_example_sentence": "Если они не будут пользоваться стиральной машиной, она сломается.",
+  "turkish_example_sentence": "Çamaşır makinesini kullanmazlarsa, bozulur.",
+  "turkish_example_sentence_with_blank": "Çamaşır makinesini ______, bozulur."
+}

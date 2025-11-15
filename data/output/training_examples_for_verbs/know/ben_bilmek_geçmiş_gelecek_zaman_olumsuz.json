@@ -1,0 +1,20 @@
+{
+  "verb_rank": 8,
+  "verb_english": "know",
+  "verb_russian": "знать",
+  "verb_infinitive": "bilmek",
+  "turkish_verb": {
+    "verb_full": "bilmeyecektim",
+    "root": "bil",
+    "tense_affix": "ecekti",
+    "verb_tense": "geçmiş_gelecek_zaman",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "I wasn't going to know about the secret.",
+  "russian_example_sentence": "Я не должен был знать секрет.",
+  "turkish_example_sentence": "Ben bu sırrı bilmeyecektim.",
+  "turkish_example_sentence_with_blank": "Ben bu sırrı ______."
+}

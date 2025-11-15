@@ -1,0 +1,20 @@
+{
+  "verb_rank": 15,
+  "verb_english": "use",
+  "verb_russian": "использовать",
+  "verb_infinitive": "kullanmak",
+  "turkish_verb": {
+    "verb_full": "kullanmazsanız",
+    "root": "kullan",
+    "tense_affix": "zsanız",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If you don't use protection, you might get injured.",
+  "russian_example_sentence": "Если вы не используете защиту, вы можете получить травму.",
+  "turkish_example_sentence": "Koruyucu kullanmazsanız, yaralanabilirsiniz.",
+  "turkish_example_sentence_with_blank": "Koruyucu ______, yaralanabilirsiniz."
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 3,
+  "verb_english": "do",
+  "verb_russian": "делать",
+  "verb_infinitive": "yapmak",
+  "turkish_verb": {
+    "verb_full": "yapmayayım",
+    "root": "yap",
+    "tense_affix": "mayayım",
+    "verb_tense": "istek_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "yım",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "Let me not do this task again",
+  "russian_example_sentence": "Дайте я не сделаю эту задачу снова",
+  "turkish_example_sentence": "Bu görevi tekrar yapmayayım",
+  "turkish_example_sentence_with_blank": "Bu görevi tekrar ______"
+}

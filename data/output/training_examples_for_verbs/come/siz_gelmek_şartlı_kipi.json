@@ -1,0 +1,20 @@
+{
+  "verb_rank": 12,
+  "verb_english": "come",
+  "verb_russian": "приходить",
+  "verb_infinitive": "gelmek",
+  "turkish_verb": {
+    "verb_full": "gelirseniz",
+    "root": "gel",
+    "tense_affix": "irse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "siniz",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If you come to the office, we can talk.",
+  "russian_example_sentence": "Если вы придете в офис, мы можем поговорить.",
+  "turkish_example_sentence": "Eğer ofise gelirseniz, konuşabiliriz.",
+  "turkish_example_sentence_with_blank": "Eğer ofise ______, konuşabiliriz."
+}

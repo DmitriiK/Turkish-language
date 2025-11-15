@@ -1,0 +1,20 @@
+{
+  "verb_rank": 49,
+  "verb_english": "pay",
+  "verb_russian": "платить",
+  "verb_infinitive": "ödemek",
+  "turkish_verb": {
+    "verb_full": "ödemezse",
+    "root": "öde",
+    "tense_affix": "mezse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If she doesn't pay taxes, she suffers.",
+  "russian_example_sentence": "Если она не заплатит налоги, она пострадает.",
+  "turkish_example_sentence": "O vergileri ödemezse, acı çeker.",
+  "turkish_example_sentence_with_blank": "O vergileri ______, acı çeker."
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 15,
+  "verb_english": "use",
+  "verb_russian": "использовать",
+  "verb_infinitive": "kullanmak",
+  "turkish_verb": {
+    "verb_full": "kullanmayalım",
+    "root": "kullan",
+    "tense_affix": "a",
+    "verb_tense": "istek_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "lım",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "Let's not use that dirty table.",
+  "russian_example_sentence": "Давайте не использовать тот грязный стол.",
+  "turkish_example_sentence": "O kirli masayı kullanmayalım.",
+  "turkish_example_sentence_with_blank": "O kirli masayı ______."
+}

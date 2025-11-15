@@ -1,0 +1,20 @@
+{
+  "verb_rank": 1,
+  "verb_english": "be",
+  "verb_russian": "быть",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olmazsa",
+    "root": "ol",
+    "tense_affix": "sa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If he is not here, we will leave.",
+  "russian_example_sentence": "Если его здесь нет, мы уйдем.",
+  "turkish_example_sentence": "O burada olmazsa biz gideriz.",
+  "turkish_example_sentence_with_blank": "O burada ______ biz gideriz."
+}

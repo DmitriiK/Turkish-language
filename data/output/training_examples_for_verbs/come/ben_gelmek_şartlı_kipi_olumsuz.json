@@ -1,0 +1,20 @@
+{
+  "verb_rank": 12,
+  "verb_english": "come",
+  "verb_russian": "приходить",
+  "verb_infinitive": "gelmek",
+  "turkish_verb": {
+    "verb_full": "gelmezsem",
+    "root": "gel",
+    "tense_affix": "mezse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If I don’t come, they will call me.",
+  "russian_example_sentence": "Если я не приду, мне позвонят.",
+  "turkish_example_sentence": "Eğer gelmezsem, beni arayacaklar.",
+  "turkish_example_sentence_with_blank": "Eğer ______, beni arayacaklar."
+}

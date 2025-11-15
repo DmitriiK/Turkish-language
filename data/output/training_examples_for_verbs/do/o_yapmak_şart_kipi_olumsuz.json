@@ -1,0 +1,20 @@
+{
+  "verb_rank": 3,
+  "verb_english": "do",
+  "verb_russian": "делать",
+  "verb_infinitive": "yapmak",
+  "turkish_verb": {
+    "verb_full": "yapmasa",
+    "root": "yap",
+    "tense_affix": "sa",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If he didn’t do his homework, the teacher would be angry",
+  "russian_example_sentence": "Если бы он не сделал домашнее задание, учитель бы рассердился",
+  "turkish_example_sentence": "Ödevini yapmasa öğretmen kızardı",
+  "turkish_example_sentence_with_blank": "Ödevini ______ öğretmen kızardı"
+}

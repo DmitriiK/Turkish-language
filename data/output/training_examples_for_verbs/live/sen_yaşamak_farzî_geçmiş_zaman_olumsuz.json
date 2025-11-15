@@ -1,0 +1,20 @@
+{
+  "verb_rank": 40,
+  "verb_english": "live",
+  "verb_russian": "жить",
+  "verb_infinitive": "yaşamak",
+  "turkish_verb": {
+    "verb_full": "yaşamamışsan",
+    "root": "yaşa",
+    "tense_affix": "mış",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "sen",
+    "personal_affix": "san",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If you had not lived through difficult times, you wouldn't be this strong now.",
+  "russian_example_sentence": "Если бы ты не пережил трудные времена, ты бы сейчас не был таким сильным.",
+  "turkish_example_sentence": "Sen zor zamanlar yaşamamışsan, bugün bu kadar güçlü olamazdın.",
+  "turkish_example_sentence_with_blank": "Sen zor zamanlar ______, bugün bu kadar güçlü olamazdın."
+}

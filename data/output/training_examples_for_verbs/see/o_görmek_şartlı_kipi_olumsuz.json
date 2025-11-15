@@ -1,0 +1,20 @@
+{
+  "verb_rank": 11,
+  "verb_english": "see",
+  "verb_russian": "видеть",
+  "verb_infinitive": "görmek",
+  "turkish_verb": {
+    "verb_full": "görmezse",
+    "root": "gör",
+    "tense_affix": "mezse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If he doesn't see the bird, he won't believe it",
+  "russian_example_sentence": "Если он не увидит птицу, он не поверит",
+  "turkish_example_sentence": "Eğer kuşu görmezse, inanmayacak",
+  "turkish_example_sentence_with_blank": "Eğer kuşu ______, inanmayacak"
+}

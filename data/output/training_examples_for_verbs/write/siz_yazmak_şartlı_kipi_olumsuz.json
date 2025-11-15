@@ -1,0 +1,20 @@
+{
+  "verb_rank": 44,
+  "verb_english": "write",
+  "verb_russian": "писать",
+  "verb_infinitive": "yazmak",
+  "turkish_verb": {
+    "verb_full": "yazmazsanız",
+    "root": "yaz",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If you do not write an email to the customer",
+  "russian_example_sentence": "Если вы не напишете письмо клиенту",
+  "turkish_example_sentence": "Eğer müşteriye bir eposta yazmazsanız",
+  "turkish_example_sentence_with_blank": "Eğer müşteriye bir eposta ______"
+}

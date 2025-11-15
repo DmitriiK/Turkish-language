@@ -1,0 +1,20 @@
+{
+  "verb_rank": 13,
+  "verb_english": "want",
+  "verb_russian": "хотеть",
+  "verb_infinitive": "istemek",
+  "turkish_verb": {
+    "verb_full": "istemeyesiniz",
+    "root": "iste",
+    "tense_affix": "yes",
+    "verb_tense": "istek_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "siniz",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "May you not want failure",
+  "russian_example_sentence": "Пусть вы не захотите неудачи",
+  "turkish_example_sentence": "Siz başarısızlık istemeyesiniz",
+  "turkish_example_sentence_with_blank": "Siz başarısızlık ______"
+}

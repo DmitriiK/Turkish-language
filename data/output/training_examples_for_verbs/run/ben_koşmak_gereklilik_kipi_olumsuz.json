@@ -1,0 +1,20 @@
+{
+  "verb_rank": 37,
+  "verb_english": "run",
+  "verb_russian": "бегать",
+  "verb_infinitive": "koşmak",
+  "turkish_verb": {
+    "verb_full": "koşmamam lazım",
+    "root": "koş",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "I must not run in the hallway",
+  "russian_example_sentence": "Я не должен бежать в коридоре",
+  "turkish_example_sentence": "Ben dar koridorda koşmamam lazım",
+  "turkish_example_sentence_with_blank": "Ben dar koridorda ______"
+}

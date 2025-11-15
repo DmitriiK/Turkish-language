@@ -1,0 +1,20 @@
+{
+  "verb_rank": 4,
+  "verb_english": "say",
+  "verb_russian": "сказать",
+  "verb_infinitive": "söylemek",
+  "turkish_verb": {
+    "verb_full": "söylersem",
+    "root": "söyle",
+    "tense_affix": "erse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If I say it now, they will argue",
+  "russian_example_sentence": "Если я скажу это сейчас, они будут спорить",
+  "turkish_example_sentence": "Şimdi söylersem, tartışacaklar",
+  "turkish_example_sentence_with_blank": "Şimdi ______, tartışacaklar"
+}

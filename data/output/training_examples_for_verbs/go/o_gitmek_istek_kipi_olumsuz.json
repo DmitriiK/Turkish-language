@@ -1,0 +1,20 @@
+{
+  "verb_rank": 5,
+  "verb_english": "go",
+  "verb_russian": "идти",
+  "verb_infinitive": "gitmek",
+  "turkish_verb": {
+    "verb_full": "gitmeye",
+    "root": "git",
+    "tense_affix": "e",
+    "verb_tense": "istek_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "May she not go to the cinema",
+  "russian_example_sentence": "Пусть она не идёт в кино",
+  "turkish_example_sentence": "Sinemaya gitmeye",
+  "turkish_example_sentence_with_blank": "Sinemaya ______"
+}

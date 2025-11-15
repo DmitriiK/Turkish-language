@@ -1,0 +1,20 @@
+{
+  "verb_rank": 30,
+  "verb_english": "allow",
+  "verb_russian": "позволять",
+  "verb_infinitive": "izin vermek",
+  "turkish_verb": {
+    "verb_full": "vermeyeyim",
+    "root": "ver",
+    "tense_affix": "ye",
+    "verb_tense": "istek_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "yim",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "Let me not allow late arrivals to the meeting",
+  "russian_example_sentence": "Позвольте мне не разрешать опоздания на собрание",
+  "turkish_example_sentence": "Toplantıya geç gelmelerine izin vermeyeyim",
+  "turkish_example_sentence_with_blank": "Toplantıya geç gelmelerine izin ______"
+}

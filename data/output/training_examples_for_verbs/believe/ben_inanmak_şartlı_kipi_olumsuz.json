@@ -1,0 +1,20 @@
+{
+  "verb_rank": 41,
+  "verb_english": "believe",
+  "verb_russian": "верить",
+  "verb_infinitive": "inanmak",
+  "turkish_verb": {
+    "verb_full": "inanmazsam",
+    "root": "inan",
+    "tense_affix": "mazsam",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If I don’t believe him, he will be angry.",
+  "russian_example_sentence": "Если я ему не поверю, он разозлится.",
+  "turkish_example_sentence": "Ona inanmazsam, bana kızacak.",
+  "turkish_example_sentence_with_blank": "Ona ______, bana kızacak."
+}

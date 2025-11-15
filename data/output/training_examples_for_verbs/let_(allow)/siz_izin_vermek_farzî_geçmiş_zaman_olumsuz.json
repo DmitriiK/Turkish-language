@@ -1,0 +1,20 @@
+{
+  "verb_rank": 30,
+  "verb_english": "let",
+  "verb_russian": "позволять",
+  "verb_infinitive": "izin vermek",
+  "turkish_verb": {
+    "verb_full": "izin vermemişseniz",
+    "root": "izin ver",
+    "tense_affix": "mişse",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "siz",
+    "personal_affix": "niz",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If you hadn't let him borrow it.",
+  "russian_example_sentence": "Если бы вы не позволили ему взять это в долг.",
+  "turkish_example_sentence": "Siz onun ödünç almasına izin vermemişseniz, şimdi endişelenmezdiniz.",
+  "turkish_example_sentence_with_blank": "Siz onun ödünç almasına ______, şimdi endişelenmezdiniz."
+}

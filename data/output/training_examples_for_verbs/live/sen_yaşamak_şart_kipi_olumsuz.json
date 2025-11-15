@@ -1,0 +1,20 @@
+{
+  "verb_rank": 40,
+  "verb_english": "live",
+  "verb_russian": "жить",
+  "verb_infinitive": "yaşamak",
+  "turkish_verb": {
+    "verb_full": "yaşamasan",
+    "root": "yaşa",
+    "tense_affix": "ma",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If you didn't live close, I would miss you",
+  "russian_example_sentence": "Если бы ты не жил рядом, я бы скучал",
+  "turkish_example_sentence": "Sen yakında yaşamasan seni çok özlerdim",
+  "turkish_example_sentence_with_blank": "Sen yakında ______ seni çok özlerdim"
+}

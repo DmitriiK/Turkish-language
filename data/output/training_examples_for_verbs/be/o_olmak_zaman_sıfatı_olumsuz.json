@@ -1,0 +1,20 @@
+{
+  "verb_rank": 1,
+  "verb_english": "be",
+  "verb_russian": "быть",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olmadığında",
+    "root": "ol",
+    "tense_affix": "dık",
+    "verb_tense": "zaman_sıfatı",
+    "personal_pronoun": "o",
+    "personal_affix": "ı",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "When she is not focused, she makes mistakes.",
+  "russian_example_sentence": "Когда она не сосредоточена, она совершает ошибки.",
+  "turkish_example_sentence": "O odaklanmış olmadığında, hatalar yapar.",
+  "turkish_example_sentence_with_blank": "O odaklanmış ______, hatalar yapar."
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 27,
+  "verb_english": "put",
+  "verb_russian": "класть",
+  "verb_infinitive": "koymak",
+  "turkish_verb": {
+    "verb_full": "koymaması lazım",
+    "root": "koy",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "I should not put salt in the sweet dessert",
+  "russian_example_sentence": "Я не должен класть соль в сладкий десерт",
+  "turkish_example_sentence": "Ben tatlı tatlıya tuz koymaması lazım",
+  "turkish_example_sentence_with_blank": "Ben tatlı tatlıya tuz ______"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 32,
+  "verb_english": "seem",
+  "verb_russian": "казаться",
+  "verb_infinitive": "görünmek",
+  "turkish_verb": {
+    "verb_full": "görünmezlerse",
+    "root": "görün",
+    "tense_affix": "mezlerse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "ler",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If they don’t seem smart, people will underestimate them.",
+  "russian_example_sentence": "Если они не кажутся умными, люди их недооценят.",
+  "turkish_example_sentence": "Eğer zeki görünmezlerse, insanlar onları küçümser.",
+  "turkish_example_sentence_with_blank": "Eğer zeki ______, insanlar onları küçümser."
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 36,
+  "verb_english": "play",
+  "verb_russian": "играть",
+  "verb_infinitive": "oynamak",
+  "turkish_verb": {
+    "verb_full": "oynamamışsan",
+    "root": "oyna",
+    "tense_affix": "mış",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "sen",
+    "personal_affix": "san",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If you had not played a single card, you wouldn't have lost everything.",
+  "russian_example_sentence": "Если бы ты не сыграл ни одной карты, ты бы не проиграл всё.",
+  "turkish_example_sentence": "Sen o riskli kart oyununda hiç oynamamışsan, bütün paranı kaybetmezdin.",
+  "turkish_example_sentence_with_blank": "Sen o riskli kart oyununda hiç ______, bütün paranı kaybetmezdin."
+}

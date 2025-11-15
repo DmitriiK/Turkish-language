@@ -1,0 +1,20 @@
+{
+  "verb_rank": 26,
+  "verb_english": "leave",
+  "verb_russian": "покидать",
+  "verb_infinitive": "ayrılmak",
+  "turkish_verb": {
+    "verb_full": "ayrılmazsam",
+    "root": "ayrıl",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If I don't leave the meeting, I'll be late.",
+  "russian_example_sentence": "Если я не уйду с собрания, я опоздаю.",
+  "turkish_example_sentence": "Eğer toplantıdan ayrılmazsam, geç kalacağım.",
+  "turkish_example_sentence_with_blank": "Eğer toplantıdan ______, geç kalacağım."
+}

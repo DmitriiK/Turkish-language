@@ -1,0 +1,20 @@
+{
+  "verb_rank": 49,
+  "verb_english": "pay",
+  "verb_russian": "платить",
+  "verb_infinitive": "ödemek",
+  "turkish_verb": {
+    "verb_full": "ödemediğinde",
+    "root": "öde",
+    "tense_affix": "diğ",
+    "verb_tense": "zaman_sıfatı",
+    "personal_pronoun": "o",
+    "personal_affix": "inde",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "When he didn't pay the parking ticket, it accumulated interest.",
+  "russian_example_sentence": "Когда он не оплатил штраф за парковку, накопились проценты.",
+  "turkish_example_sentence": "Park cezasını ödemediğinde, faiz birikmişti.",
+  "turkish_example_sentence_with_blank": "Park cezasını ______, faiz birikmişti."
+}

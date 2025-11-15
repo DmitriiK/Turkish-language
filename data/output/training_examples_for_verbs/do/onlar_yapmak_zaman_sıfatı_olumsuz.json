@@ -1,0 +1,20 @@
+{
+  "verb_rank": 3,
+  "verb_english": "do",
+  "verb_russian": "делать",
+  "verb_infinitive": "yapmak",
+  "turkish_verb": {
+    "verb_full": "yapmadıklarında",
+    "root": "yap",
+    "tense_affix": "tık",
+    "verb_tense": "zaman_sıfatı",
+    "personal_pronoun": "onlar",
+    "personal_affix": "ları",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "When they don't do research, they are uninformed.",
+  "russian_example_sentence": "Когда они не проводят исследования, они не информированы.",
+  "turkish_example_sentence": "Onlar araştırma yapmadıklarında, bilgisiz kalırlar.",
+  "turkish_example_sentence_with_blank": "Onlar araştırma ______, bilgisiz kalırlar."
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 20,
+  "verb_english": "call (phone)",
+  "verb_russian": "звонить",
+  "verb_infinitive": "aramak",
+  "turkish_verb": {
+    "verb_full": "aramasalar",
+    "root": "ara",
+    "tense_affix": "masa",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "lar",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If they didn't call the doctor, worry.",
+  "russian_example_sentence": "Если бы они не позвонили врачу, волнуйтесь.",
+  "turkish_example_sentence": "Onlar doktoru aramasalar, endişelenirim.",
+  "turkish_example_sentence_with_blank": "Onlar doktoru ______, endişelenirim."
+}

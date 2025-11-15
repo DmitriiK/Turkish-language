@@ -1,0 +1,20 @@
+{
+  "verb_rank": 44,
+  "verb_english": "write",
+  "verb_russian": "писать",
+  "verb_infinitive": "yazmak",
+  "turkish_verb": {
+    "verb_full": "yazmadığımızda",
+    "root": "yaz",
+    "tense_affix": "dık",
+    "verb_tense": "zaman_sıfatı",
+    "personal_pronoun": "biz",
+    "personal_affix": "ımızda",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "When we don't write our articles, we cannot attend the conference.",
+  "russian_example_sentence": "Когда мы не пишем наши статьи, мы не можем участвовать в конференции.",
+  "turkish_example_sentence": "Biz makalelerimizi yazmadığımızda, konferansa katılamayız.",
+  "turkish_example_sentence_with_blank": "Biz makalelerimizi ______, konferansa katılamayız."
+}

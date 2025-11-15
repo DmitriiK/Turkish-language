@@ -1,0 +1,20 @@
+{
+  "verb_rank": 4,
+  "verb_english": "say",
+  "verb_russian": "сказать",
+  "verb_infinitive": "söylemek",
+  "turkish_verb": {
+    "verb_full": "söylemezsem",
+    "root": "söyle",
+    "tense_affix": "mezse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If I don’t say anything, nobody will know",
+  "russian_example_sentence": "Если я ничего не скажу, никто не узнает",
+  "turkish_example_sentence": "Hiçbir şey söylemezsem, kimse bilmeyecek",
+  "turkish_example_sentence_with_blank": "Hiçbir şey ______, kimse bilmeyecek"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 21,
+  "verb_english": "try",
+  "verb_russian": "пытаться",
+  "verb_infinitive": "denemek",
+  "turkish_verb": {
+    "verb_full": "denemezsem",
+    "root": "dene",
+    "tense_affix": "se",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If I don't try harder, I will fail.",
+  "russian_example_sentence": "Если я не постараюсь больше, я провалюсь.",
+  "turkish_example_sentence": "Eğer daha fazla denemezsem, başarısız olurum.",
+  "turkish_example_sentence_with_blank": "Eğer daha fazla ______, başarısız olurum."
+}

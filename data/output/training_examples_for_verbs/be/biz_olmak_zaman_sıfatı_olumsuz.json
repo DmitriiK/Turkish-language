@@ -1,0 +1,20 @@
+{
+  "verb_rank": 1,
+  "verb_english": "be",
+  "verb_russian": "быть",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olmadığımızda",
+    "root": "ol",
+    "tense_affix": "dık",
+    "verb_tense": "zaman_sıfatı",
+    "personal_pronoun": "biz",
+    "personal_affix": "ımız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "When we are not informed, we ask questions.",
+  "russian_example_sentence": "Когда мы не информированы, мы задаем вопросы.",
+  "turkish_example_sentence": "Biz bilgili olmadığımızda, sorular sorarız.",
+  "turkish_example_sentence_with_blank": "Biz bilgili ______, sorular sorarız."
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 36,
+  "verb_english": "play",
+  "verb_russian": "играть",
+  "verb_infinitive": "oynamak",
+  "turkish_verb": {
+    "verb_full": "oynamazsam",
+    "root": "oyna",
+    "tense_affix": "arsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If I don't play today, I will rest.",
+  "russian_example_sentence": "Если я не играю сегодня, я отдыхаю.",
+  "turkish_example_sentence": "Bugün oynamazsam dinleniyorum.",
+  "turkish_example_sentence_with_blank": "Bugün ______ dinleniyorum."
+}

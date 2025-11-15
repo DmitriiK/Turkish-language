@@ -1,0 +1,20 @@
+{
+  "verb_rank": 39,
+  "verb_english": "like",
+  "verb_russian": "нравиться",
+  "verb_infinitive": "sevmek",
+  "turkish_verb": {
+    "verb_full": "seversen",
+    "root": "sev",
+    "tense_affix": "erse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If you like this dessert, order another.",
+  "russian_example_sentence": "Если тебе понравится этот десерт, закажи ещё один.",
+  "turkish_example_sentence": "Bu tatlıyı seversen, bir tane daha sipariş et.",
+  "turkish_example_sentence_with_blank": "Bu tatlıyı ______, bir tane daha sipariş et."
+}

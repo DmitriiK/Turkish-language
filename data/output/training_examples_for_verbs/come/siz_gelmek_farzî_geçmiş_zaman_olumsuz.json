@@ -1,0 +1,20 @@
+{
+  "verb_rank": 12,
+  "verb_english": "come",
+  "verb_russian": "приходить",
+  "verb_infinitive": "gelmek",
+  "turkish_verb": {
+    "verb_full": "gelmemişseniz",
+    "root": "gel",
+    "tense_affix": "mişse",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "siz",
+    "personal_affix": "niz",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If you hadn't come, you slept",
+  "russian_example_sentence": "Если бы вы не пришли, вы бы спали",
+  "turkish_example_sentence": "Siz gelmemişseniz, rahat yatakta uyumuşsunuzdur bence",
+  "turkish_example_sentence_with_blank": "Siz ______, rahat yatakta uyumuşsunuzdur bence"
+}

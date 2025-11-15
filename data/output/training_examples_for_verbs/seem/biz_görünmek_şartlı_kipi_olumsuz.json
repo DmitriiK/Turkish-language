@@ -1,0 +1,20 @@
+{
+  "verb_rank": 32,
+  "verb_english": "seem",
+  "verb_russian": "казаться",
+  "verb_infinitive": "görünmek",
+  "turkish_verb": {
+    "verb_full": "görünmezsek",
+    "root": "görün",
+    "tense_affix": "mezse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If we don’t seem ready, they won’t wait.",
+  "russian_example_sentence": "Если мы не кажемся готовыми, они не будут ждать.",
+  "turkish_example_sentence": "Eğer hazır görünmezsek, beklemezler.",
+  "turkish_example_sentence_with_blank": "Eğer hazır ______, beklemezler."
+}

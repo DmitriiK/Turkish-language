@@ -1,0 +1,20 @@
+{
+  "verb_rank": 4,
+  "verb_english": "say",
+  "verb_russian": "сказать",
+  "verb_infinitive": "söylemek",
+  "turkish_verb": {
+    "verb_full": "söylememişsem",
+    "root": "söyle",
+    "tense_affix": "mişse",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If I hadn't said anything important.",
+  "russian_example_sentence": "Если бы я не сказал ничего важного.",
+  "turkish_example_sentence": "Ben önemli bir şey söylememişsem, sorun yok.",
+  "turkish_example_sentence_with_blank": "Ben önemli bir şey ______, sorun yok."
+}

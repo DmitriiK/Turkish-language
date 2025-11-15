@@ -1,0 +1,20 @@
+{
+  "verb_rank": 12,
+  "verb_english": "come",
+  "verb_russian": "приходить",
+  "verb_infinitive": "gelmek",
+  "turkish_verb": {
+    "verb_full": "gelmezsek",
+    "root": "gel",
+    "tense_affix": "mezse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If we don’t come now, we’ll be late.",
+  "russian_example_sentence": "Если мы не придем сейчас, мы опоздаем.",
+  "turkish_example_sentence": "Eğer şimdi gelmezsek, geç kalırız.",
+  "turkish_example_sentence_with_blank": "Eğer şimdi ______, geç kalırız."
+}

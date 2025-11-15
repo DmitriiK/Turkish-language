@@ -1,0 +1,20 @@
+{
+  "verb_rank": 31,
+  "verb_english": "begin",
+  "verb_russian": "начинать",
+  "verb_infinitive": "başlamak",
+  "turkish_verb": {
+    "verb_full": "başlamazsa",
+    "root": "başla",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If she doesn’t begin work, it won’t finish today.",
+  "russian_example_sentence": "Если она не начнёт работу, она сегодня не закончится.",
+  "turkish_example_sentence": "Eğer işe başlamazsa, bugün bitmez.",
+  "turkish_example_sentence_with_blank": "Eğer işe ______, bugün bitmez."
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 10,
+  "verb_english": "take",
+  "verb_russian": "брать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almasam",
+    "root": "al",
+    "tense_affix": "sa",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If I didn’t take the book home",
+  "russian_example_sentence": "Если бы я не взял книгу домой",
+  "turkish_example_sentence": "Ben kitabı eve almasam",
+  "turkish_example_sentence_with_blank": "Ben kitabı eve ______"
+}

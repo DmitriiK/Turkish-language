@@ -1,0 +1,20 @@
+{
+  "verb_rank": 37,
+  "verb_english": "run",
+  "verb_russian": "бегать",
+  "verb_infinitive": "koşmak",
+  "turkish_verb": {
+    "verb_full": "koşmazsa",
+    "root": "koş",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If she doesn't run in the park, she'll miss the meeting.",
+  "russian_example_sentence": "Если она не побежит в парке, она пропустит встречу.",
+  "turkish_example_sentence": "Eğer parkta koşmazsa, toplantıyı kaçırır.",
+  "turkish_example_sentence_with_blank": "Eğer parkta ______, toplantıyı kaçırır."
+}

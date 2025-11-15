@@ -1,0 +1,20 @@
+{
+  "verb_rank": 13,
+  "verb_english": "want",
+  "verb_russian": "хотеть",
+  "verb_infinitive": "istemek",
+  "turkish_verb": {
+    "verb_full": "istemezsem",
+    "root": "iste",
+    "tense_affix": "mezse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If I don't want to go, I will stay home.",
+  "russian_example_sentence": "Если я не захочу идти, я останусь дома.",
+  "turkish_example_sentence": "Eğer gitmek istemezsem, evde kalırım.",
+  "turkish_example_sentence_with_blank": "Eğer gitmek ______, evde kalırım."
+}

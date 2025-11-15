@@ -1,0 +1,20 @@
+{
+  "verb_rank": 40,
+  "verb_english": "live",
+  "verb_russian": "жить",
+  "verb_infinitive": "yaşamak",
+  "turkish_verb": {
+    "verb_full": "yaşamamışsanız",
+    "root": "yaşa",
+    "tense_affix": "mış",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "siz",
+    "personal_affix": "sanız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If you had not lived in the modern world, you would prefer a simpler life.",
+  "russian_example_sentence": "Если бы вы не жили в современном мире, вы бы предпочли более простую жизнь.",
+  "turkish_example_sentence": "Siz modern dünyada yaşamamışsanız, daha basit bir hayatı tercih ederdiniz.",
+  "turkish_example_sentence_with_blank": "Siz modern dünyada ______, daha basit bir hayatı tercih ederdiniz."
+}

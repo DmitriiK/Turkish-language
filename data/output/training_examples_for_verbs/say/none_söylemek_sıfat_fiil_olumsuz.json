@@ -1,0 +1,20 @@
+{
+  "verb_rank": 4,
+  "verb_english": "say",
+  "verb_russian": "сказать",
+  "verb_infinitive": "söylemek",
+  "turkish_verb": {
+    "verb_full": "söylemeyen",
+    "root": "söyle",
+    "tense_affix": "meyen",
+    "verb_tense": "sıfat_fiil",
+    "personal_pronoun": null,
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "The child who doesn’t say anything",
+  "russian_example_sentence": "Ребенок, который ничего не говорит",
+  "turkish_example_sentence": "Hiçbir şey söylemeyen çocuk",
+  "turkish_example_sentence_with_blank": "Hiçbir şey ______ çocuk"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 15,
+  "verb_english": "use",
+  "verb_russian": "использовать",
+  "verb_infinitive": "kullanmak",
+  "turkish_verb": {
+    "verb_full": "kullanırsan",
+    "root": "kullan",
+    "tense_affix": "ırsan",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If you use this map, you won't get lost.",
+  "russian_example_sentence": "Если ты используешь эту карту, ты не потеряешься.",
+  "turkish_example_sentence": "Bu haritayı kullanırsan, kaybolmazsın.",
+  "turkish_example_sentence_with_blank": "Bu haritayı ______, kaybolmazsın."
+}

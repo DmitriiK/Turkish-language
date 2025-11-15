@@ -1,0 +1,20 @@
+{
+  "verb_rank": 10,
+  "verb_english": "take",
+  "verb_russian": "брать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almazsanız",
+    "root": "al",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If you don’t take care, it might be dangerous",
+  "russian_example_sentence": "Если вы не позаботитесь, это может быть опасным",
+  "turkish_example_sentence": "Eğer dikkat almazsanız, tehlikeli olabilir",
+  "turkish_example_sentence_with_blank": "Eğer dikkat ______, tehlikeli olabilir"
+}

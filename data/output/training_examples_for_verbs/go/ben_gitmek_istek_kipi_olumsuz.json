@@ -1,0 +1,20 @@
+{
+  "verb_rank": 5,
+  "verb_english": "go",
+  "verb_russian": "идти",
+  "verb_infinitive": "gitmek",
+  "turkish_verb": {
+    "verb_full": "gitmeyeyim",
+    "root": "git",
+    "tense_affix": "e",
+    "verb_tense": "istek_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "yim",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "Let me not go to the park today",
+  "russian_example_sentence": "Позвольте мне не идти в парк сегодня",
+  "turkish_example_sentence": "Bugün parka gitmeyeyim",
+  "turkish_example_sentence_with_blank": "Bugün parka ______"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 20,
+  "verb_english": "call (phone)",
+  "verb_russian": "звонить",
+  "verb_infinitive": "aramak",
+  "turkish_verb": {
+    "verb_full": "aramasak",
+    "root": "ara",
+    "tense_affix": "masa",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If we didn't call the embassy, problem?",
+  "russian_example_sentence": "Если бы мы не позвонили в посольство, проблема?",
+  "turkish_example_sentence": "Biz elçiliği aramasak, sorun olur muydu?",
+  "turkish_example_sentence_with_blank": "Biz elçiliği ______, sorun olur muydu?"
+}

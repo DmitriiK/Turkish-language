@@ -1,0 +1,20 @@
+{
+  "verb_rank": 20,
+  "verb_english": "call",
+  "verb_russian": "звонить",
+  "verb_infinitive": "aramak",
+  "turkish_verb": {
+    "verb_full": "aramazsanız",
+    "root": "ara",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If you don't call, I'll assume you arrived.",
+  "russian_example_sentence": "Если вы не позвоните, я предположу, что вы приехали.",
+  "turkish_example_sentence": "Siz beni istasyondan aramazsanız, vardığınızı düşünürüm.",
+  "turkish_example_sentence_with_blank": "Siz beni istasyondan ______, vardığınızı düşünürüm."
+}

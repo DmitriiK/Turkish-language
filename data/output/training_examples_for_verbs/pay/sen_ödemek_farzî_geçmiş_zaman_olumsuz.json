@@ -1,0 +1,20 @@
+{
+  "verb_rank": 49,
+  "verb_english": "pay",
+  "verb_russian": "платить",
+  "verb_infinitive": "ödemek",
+  "turkish_verb": {
+    "verb_full": "ödememişsen",
+    "root": "öde",
+    "tense_affix": "miş",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "sen",
+    "personal_affix": "sen",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If you had not paid the traffic fine, they would notice.",
+  "russian_example_sentence": "Если бы ты не оплатил штраф за нарушение правил дорожного движения, они бы заметили.",
+  "turkish_example_sentence": "Trafik cezasını hala ödememişsen, kesinlikle fark edeceklerdi.",
+  "turkish_example_sentence_with_blank": "Trafik cezasını hala ______, kesinlikle fark edeceklerdi."
+}

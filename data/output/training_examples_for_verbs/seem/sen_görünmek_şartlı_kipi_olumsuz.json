@@ -1,0 +1,20 @@
+{
+  "verb_rank": 32,
+  "verb_english": "seem",
+  "verb_russian": "казаться",
+  "verb_infinitive": "görünmek",
+  "turkish_verb": {
+    "verb_full": "görünmezsen",
+    "root": "görün",
+    "tense_affix": "mezse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If you don’t seem tired, they’ll invite you.",
+  "russian_example_sentence": "Если ты не кажешься усталым, они тебя пригласят.",
+  "turkish_example_sentence": "Eğer yorgun görünmezsen, seni davet ederler.",
+  "turkish_example_sentence_with_blank": "Eğer yorgun ______, seni davet ederler."
+}

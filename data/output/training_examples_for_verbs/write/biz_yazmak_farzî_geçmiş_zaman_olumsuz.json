@@ -1,0 +1,20 @@
+{
+  "verb_rank": 44,
+  "verb_english": "write",
+  "verb_russian": "писать",
+  "verb_infinitive": "yazmak",
+  "turkish_verb": {
+    "verb_full": "yazmamışsak",
+    "root": "yaz",
+    "tense_affix": "mış",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "biz",
+    "personal_affix": "sak",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If we hadn't written the urgent message, they wouldn't have known.",
+  "russian_example_sentence": "Если бы мы не написали срочное сообщение, они бы не узнали.",
+  "turkish_example_sentence": "Biz acil mesajı yazmamışsak, haberleri olmazdı.",
+  "turkish_example_sentence_with_blank": "Biz acil mesajı ______, haberleri olmazdı."
+}

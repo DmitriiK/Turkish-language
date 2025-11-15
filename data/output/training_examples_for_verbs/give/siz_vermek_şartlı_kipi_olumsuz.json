@@ -1,0 +1,20 @@
+{
+  "verb_rank": 17,
+  "verb_english": "give",
+  "verb_russian": "давать",
+  "verb_infinitive": "vermek",
+  "turkish_verb": {
+    "verb_full": "vermezseniz",
+    "root": "ver",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "siniz",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If you don't give the password",
+  "russian_example_sentence": "Если вы не дадите пароль",
+  "turkish_example_sentence": "Şifreyi vermezseniz",
+  "turkish_example_sentence_with_blank": "Şifreyi ______"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 8,
+  "verb_english": "know",
+  "verb_russian": "знать",
+  "verb_infinitive": "bilmek",
+  "turkish_verb": {
+    "verb_full": "bilmeyelim",
+    "root": "bil",
+    "tense_affix": "e",
+    "verb_tense": "istek_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "lim",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "Let us not know this problem",
+  "russian_example_sentence": "Давайте не будем знать эту проблему",
+  "turkish_example_sentence": "Bu sorunu bilmeyelim",
+  "turkish_example_sentence_with_blank": "Bu sorunu ______"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 33,
+  "verb_english": "help",
+  "verb_russian": "помогать",
+  "verb_infinitive": "yardım etmek",
+  "turkish_verb": {
+    "verb_full": "yardım etmezsek",
+    "root": "yardım et",
+    "tense_affix": "mezse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If we don't help, it will get worse.",
+  "russian_example_sentence": "Если мы не поможем, всё станет хуже.",
+  "turkish_example_sentence": "Biz yardım etmezsek, her şey daha kötü olur.",
+  "turkish_example_sentence_with_blank": "Biz ______, her şey daha kötü olur."
+}

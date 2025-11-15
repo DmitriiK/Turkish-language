@@ -1,0 +1,20 @@
+{
+  "verb_rank": 13,
+  "verb_english": "want",
+  "verb_russian": "хотеть",
+  "verb_infinitive": "istemek",
+  "turkish_verb": {
+    "verb_full": "istemezlerse",
+    "root": "iste",
+    "tense_affix": "mezse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "ler",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If they don't want to cook, I can order food.",
+  "russian_example_sentence": "Если они не захотят готовить, я могу заказать еду.",
+  "turkish_example_sentence": "Yemek yapmak istemezlerse yemek sipariş edebilirim.",
+  "turkish_example_sentence_with_blank": "Yemek yapmak ______ yemek sipariş edebilirim."
+}

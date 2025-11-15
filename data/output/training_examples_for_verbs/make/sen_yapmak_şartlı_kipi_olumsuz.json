@@ -1,0 +1,20 @@
+{
+  "verb_rank": 7,
+  "verb_english": "make",
+  "verb_russian": "делать (создавать)",
+  "verb_infinitive": "yapmak",
+  "turkish_verb": {
+    "verb_full": "yapmazsan",
+    "root": "yap",
+    "tense_affix": "sa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If you don’t make lunch, I will cook.",
+  "russian_example_sentence": "Если ты не приготовишь обед, я приготовлю.",
+  "turkish_example_sentence": "Eğer öğle yemeğini yapmazsan, ben pişiririm.",
+  "turkish_example_sentence_with_blank": "Eğer öğle yemeğini ______, ben pişiririm."
+}

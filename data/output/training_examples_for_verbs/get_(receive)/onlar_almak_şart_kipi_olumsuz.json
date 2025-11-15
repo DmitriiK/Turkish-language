@@ -1,0 +1,20 @@
+{
+  "verb_rank": 6,
+  "verb_english": "get",
+  "verb_russian": "получать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almasalar",
+    "root": "al",
+    "tense_affix": "masa",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "lar",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If they didn't get approval today",
+  "russian_example_sentence": "Если бы они не получили одобрение сегодня",
+  "turkish_example_sentence": "Onlar bugün yeni bir onay almasalar projeye başlayamazlar.",
+  "turkish_example_sentence_with_blank": "Onlar bugün yeni bir onay ______ projeye başlayamazlar."
+}

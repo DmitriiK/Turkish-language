@@ -1,0 +1,20 @@
+{
+  "verb_rank": 10,
+  "verb_english": "take",
+  "verb_russian": "брать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almazsa",
+    "root": "al",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If he doesn’t take care of it, it will break",
+  "russian_example_sentence": "Если он не позаботится об этом, оно сломается",
+  "turkish_example_sentence": "Eğer ona bakmazsa, bozulur",
+  "turkish_example_sentence_with_blank": "Eğer ona bakmazsa, bozulur"
+}

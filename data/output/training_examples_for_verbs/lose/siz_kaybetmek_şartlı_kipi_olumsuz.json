@@ -1,0 +1,20 @@
+{
+  "verb_rank": 48,
+  "verb_english": "lose",
+  "verb_russian": "терять",
+  "verb_infinitive": "kaybetmek",
+  "turkish_verb": {
+    "verb_full": "kaybetmezseniz",
+    "root": "kaybet",
+    "tense_affix": "se",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "niz",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If you don't lose the recipe book, we can make traditional desserts.",
+  "russian_example_sentence": "Если вы не потеряете кулинарную книгу, мы сможем приготовить традиционные десерты.",
+  "turkish_example_sentence": "Yemek kitabını kaybetmezseniz, geleneksel tatlılar yapabiliriz.",
+  "turkish_example_sentence_with_blank": "Yemek kitabını ______, geleneksel tatlılar yapabiliriz."
+}

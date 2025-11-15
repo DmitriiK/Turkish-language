@@ -1,0 +1,20 @@
+{
+  "verb_rank": 21,
+  "verb_english": "try",
+  "verb_russian": "пытаться",
+  "verb_infinitive": "denemek",
+  "turkish_verb": {
+    "verb_full": "denemezsek",
+    "root": "dene",
+    "tense_affix": "se",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If we don’t try, we’ll never know.",
+  "russian_example_sentence": "Если мы не попробуем, мы никогда не узнаем.",
+  "turkish_example_sentence": "Eğer denemezsek, asla bilemeyiz.",
+  "turkish_example_sentence_with_blank": "Eğer ______, asla bilemeyiz."
+}

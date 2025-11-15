@@ -1,0 +1,20 @@
+{
+  "verb_rank": 5,
+  "verb_english": "go",
+  "verb_russian": "идти",
+  "verb_infinitive": "gitmek",
+  "turkish_verb": {
+    "verb_full": "gitmeseler",
+    "root": "git",
+    "tense_affix": "se",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "ler",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If they don’t go to the theater next week",
+  "russian_example_sentence": "Если они не пойдут в театр на следующей неделе",
+  "turkish_example_sentence": "Haftaya tiyatroya gitmeseler",
+  "turkish_example_sentence_with_blank": "Haftaya tiyatroya ______"
+}

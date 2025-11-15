@@ -1,0 +1,20 @@
+{
+  "verb_rank": 40,
+  "verb_english": "live",
+  "verb_russian": "жить",
+  "verb_infinitive": "yaşamak",
+  "turkish_verb": {
+    "verb_full": "yaşamazsam",
+    "root": "yaşa",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If I do not live near family, I will feel lonely",
+  "russian_example_sentence": "Если я не буду жить рядом с семьёй, я почувствую себя одиноким",
+  "turkish_example_sentence": "Ailemle yakın yaşamazsam, kendimi yalnız hissederim",
+  "turkish_example_sentence_with_blank": "Ailemle yakın ______, kendimi yalnız hissederim"
+}

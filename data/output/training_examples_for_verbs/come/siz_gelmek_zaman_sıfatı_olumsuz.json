@@ -1,0 +1,20 @@
+{
+  "verb_rank": 12,
+  "verb_english": "come",
+  "verb_russian": "приходить",
+  "verb_infinitive": "gelmek",
+  "turkish_verb": {
+    "verb_full": "gelmediğinizde",
+    "root": "gel",
+    "tense_affix": "dik",
+    "verb_tense": "zaman_sıfatı",
+    "personal_pronoun": "siz",
+    "personal_affix": "iniz",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "When you don't come on time, the show starts late.",
+  "russian_example_sentence": "Когда вы не приходите вовремя, шоу начинается поздно.",
+  "turkish_example_sentence": "Siz zamanında gelmediğinizde, gösteri geç başlıyor.",
+  "turkish_example_sentence_with_blank": "Siz zamanında ______, gösteri geç başlıyor."
+}

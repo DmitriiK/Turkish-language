@@ -1,0 +1,20 @@
+{
+  "verb_rank": 41,
+  "verb_english": "believe",
+  "verb_russian": "верить",
+  "verb_infinitive": "inanmak",
+  "turkish_verb": {
+    "verb_full": "inanmazsan",
+    "root": "inan",
+    "tense_affix": "mazsan",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If you don't believe what I say, I won’t talk.",
+  "russian_example_sentence": "Если ты не веришь тому, что я говорю, я не буду разговаривать.",
+  "turkish_example_sentence": "Eğer söylediklerime inanmazsan, konuşmayacağım.",
+  "turkish_example_sentence_with_blank": "Eğer söylediklerime ______, konuşmayacağım."
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 44,
+  "verb_english": "write",
+  "verb_russian": "писать",
+  "verb_infinitive": "yazmak",
+  "turkish_verb": {
+    "verb_full": "yazmaması lazım",
+    "root": "yaz",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "You should not write personal comments on the document",
+  "russian_example_sentence": "Ты не должен писать личные комментарии в документе",
+  "turkish_example_sentence": "Sen belgedeki kişisel yorumları yazmaması lazım",
+  "turkish_example_sentence_with_blank": "Sen belgedeki kişisel yorumları ______"
+}

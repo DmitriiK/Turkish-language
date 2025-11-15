@@ -1,0 +1,20 @@
+{
+  "verb_rank": 30,
+  "verb_english": "allow",
+  "verb_russian": "позволять",
+  "verb_infinitive": "izin vermek",
+  "turkish_verb": {
+    "verb_full": "vermeyeler",
+    "root": "ver",
+    "tense_affix": "ye",
+    "verb_tense": "istek_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "ler",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "May they not allow parking here",
+  "russian_example_sentence": "Пусть они не разрешают парковку здесь",
+  "turkish_example_sentence": "Buraya park etmeye izin vermeyeler",
+  "turkish_example_sentence_with_blank": "Buraya park etmeye izin ______"
+}

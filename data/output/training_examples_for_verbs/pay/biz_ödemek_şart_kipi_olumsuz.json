@@ -1,0 +1,20 @@
+{
+  "verb_rank": 49,
+  "verb_english": "pay",
+  "verb_russian": "платить",
+  "verb_infinitive": "ödemek",
+  "turkish_verb": {
+    "verb_full": "ödemesek",
+    "root": "öde",
+    "tense_affix": "mese",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If we didn't pay the insurance...",
+  "russian_example_sentence": "Если бы мы не платили страховку...",
+  "turkish_example_sentence": "Biz sigortayı ödemesek, araba tamir edilemezdi",
+  "turkish_example_sentence_with_blank": "Biz sigortayı ______, araba tamir edilemezdi"
+}

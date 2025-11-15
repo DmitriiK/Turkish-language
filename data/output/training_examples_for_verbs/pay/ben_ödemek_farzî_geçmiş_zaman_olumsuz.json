@@ -1,0 +1,20 @@
+{
+  "verb_rank": 49,
+  "verb_english": "pay",
+  "verb_russian": "платить",
+  "verb_infinitive": "ödemek",
+  "turkish_verb": {
+    "verb_full": "ödememişsem",
+    "root": "öde",
+    "tense_affix": "miş",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "ben",
+    "personal_affix": "sem",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If I had not paid that restaurant bill, it would be a mistake.",
+  "russian_example_sentence": "Если бы я не оплатил счет в ресторане, это была бы ошибка.",
+  "turkish_example_sentence": "O restoran faturasını hiç ödememişsem, büyük bir hata olurdu.",
+  "turkish_example_sentence_with_blank": "O restoran faturasını hiç ______, büyük bir hata olurdu."
+}

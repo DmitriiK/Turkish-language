@@ -1,0 +1,20 @@
+{
+  "verb_rank": 12,
+  "verb_english": "come",
+  "verb_russian": "приходить",
+  "verb_infinitive": "gelmek",
+  "turkish_verb": {
+    "verb_full": "gelirlerse",
+    "root": "gel",
+    "tense_affix": "irse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "ler",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If they come today, we’ll have dinner.",
+  "russian_example_sentence": "Если они придут сегодня, мы поужинаем.",
+  "turkish_example_sentence": "Eğer bugün gelirlerse, yemek yeriz.",
+  "turkish_example_sentence_with_blank": "Eğer bugün ______, yemek yeriz."
+}

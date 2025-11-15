@@ -1,0 +1,20 @@
+{
+  "verb_rank": 4,
+  "verb_english": "say",
+  "verb_russian": "сказать",
+  "verb_infinitive": "söylemek",
+  "turkish_verb": {
+    "verb_full": "söyleseniz",
+    "root": "söyle",
+    "tense_affix": "se",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "niz",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If you say it politely, it may work",
+  "russian_example_sentence": "Если вы скажете это вежливо, это может сработать",
+  "turkish_example_sentence": "Siz bunu nazikçe söyleseniz, işe yarayabilir",
+  "turkish_example_sentence_with_blank": "Siz bunu nazikçe ______, işe yarayabilir"
+}

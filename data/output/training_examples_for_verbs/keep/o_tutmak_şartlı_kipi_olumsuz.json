@@ -1,0 +1,20 @@
+{
+  "verb_rank": 29,
+  "verb_english": "keep",
+  "verb_russian": "держать",
+  "verb_infinitive": "tutmak",
+  "turkish_verb": {
+    "verb_full": "tutmazsa",
+    "root": "tut",
+    "tense_affix": "mazs",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": "a",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If she doesn't keep her promise, she will regret it.",
+  "russian_example_sentence": "Если она не сдержит своё обещание, ей станет жаль.",
+  "turkish_example_sentence": "Eğer o sözünü tutmazsa, pişman olacak.",
+  "turkish_example_sentence_with_blank": "Eğer o sözünü ______, pişman olacak."
+}

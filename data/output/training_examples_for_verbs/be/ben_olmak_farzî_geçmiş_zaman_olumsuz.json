@@ -1,0 +1,20 @@
+{
+  "verb_rank": 1,
+  "verb_english": "be",
+  "verb_russian": "быть",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olmamışsam",
+    "root": "ol",
+    "tense_affix": "mamışsa",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If I had not been a doctor...",
+  "russian_example_sentence": "Если бы я не был врачом...",
+  "turkish_example_sentence": "Ben başarılı bir doktor olmamışsam, şimdi ne yapardım?",
+  "turkish_example_sentence_with_blank": "Ben başarılı bir doktor ______, şimdi ne yapardım?"
+}

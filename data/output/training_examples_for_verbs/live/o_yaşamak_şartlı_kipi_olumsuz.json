@@ -1,0 +1,20 @@
+{
+  "verb_rank": 40,
+  "verb_english": "live",
+  "verb_russian": "жить",
+  "verb_infinitive": "yaşamak",
+  "turkish_verb": {
+    "verb_full": "yaşamazsa",
+    "root": "yaşa",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If he does not live in the city, he will have a quieter life",
+  "russian_example_sentence": "Если он не будет жить в городе, его жизнь будет более тихой",
+  "turkish_example_sentence": "Eğer şehirde yaşamazsa, hayatı daha sessiz olur",
+  "turkish_example_sentence_with_blank": "Eğer şehirde ______, hayatı daha sessiz olur"
+}

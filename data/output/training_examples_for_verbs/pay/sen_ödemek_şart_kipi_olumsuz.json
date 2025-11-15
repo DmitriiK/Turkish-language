@@ -1,0 +1,20 @@
+{
+  "verb_rank": 49,
+  "verb_english": "pay",
+  "verb_russian": "платить",
+  "verb_infinitive": "ödemek",
+  "turkish_verb": {
+    "verb_full": "ödemesen",
+    "root": "öde",
+    "tense_affix": "mese",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If you didn't pay the taxes...",
+  "russian_example_sentence": "Если бы ты не платил налоги...",
+  "turkish_example_sentence": "Sen vergileri ödemesen, başın belaya girerdi",
+  "turkish_example_sentence_with_blank": "Sen vergileri ______, başın belaya girerdi"
+}

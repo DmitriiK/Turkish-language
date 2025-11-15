@@ -1,0 +1,20 @@
+{
+  "verb_rank": 27,
+  "verb_english": "put",
+  "verb_russian": "класть",
+  "verb_infinitive": "koymak",
+  "turkish_verb": {
+    "verb_full": "koymazsam",
+    "root": "koy",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If I don't put food, the cat will be hungry.",
+  "russian_example_sentence": "Если я не положу еду, кошка будет голодной.",
+  "turkish_example_sentence": "Yemek koymazsam, kedi aç kalır.",
+  "turkish_example_sentence_with_blank": "Yemek ______, kedi aç kalır."
+}

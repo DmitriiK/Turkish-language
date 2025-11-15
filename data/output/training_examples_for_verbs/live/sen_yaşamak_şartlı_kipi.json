@@ -1,0 +1,20 @@
+{
+  "verb_rank": 40,
+  "verb_english": "live",
+  "verb_russian": "жить",
+  "verb_infinitive": "yaşamak",
+  "turkish_verb": {
+    "verb_full": "yaşarsan",
+    "root": "yaşa",
+    "tense_affix": "arsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If you live in a big city, you will be busy",
+  "russian_example_sentence": "Если ты будешь жить в большом городе, ты будешь занят",
+  "turkish_example_sentence": "Eğer büyük bir şehirde yaşarsan, meşgul olursun",
+  "turkish_example_sentence_with_blank": "Eğer büyük bir şehirde ______, meşgul olursun"
+}

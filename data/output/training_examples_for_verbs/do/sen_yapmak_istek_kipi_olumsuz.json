@@ -1,0 +1,20 @@
+{
+  "verb_rank": 3,
+  "verb_english": "do",
+  "verb_russian": "делать",
+  "verb_infinitive": "yapmak",
+  "turkish_verb": {
+    "verb_full": "yapmayasın",
+    "root": "yap",
+    "tense_affix": "mayasın",
+    "verb_tense": "istek_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "sın",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "May you not do the same mistake again",
+  "russian_example_sentence": "Ты не сделаешь ту же ошибку снова",
+  "turkish_example_sentence": "Aynı hatayı tekrar yapmayasın",
+  "turkish_example_sentence_with_blank": "Aynı hatayı tekrar ______"
+}

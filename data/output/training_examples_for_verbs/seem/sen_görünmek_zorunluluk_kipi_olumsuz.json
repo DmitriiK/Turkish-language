@@ -1,0 +1,20 @@
+{
+  "verb_rank": 32,
+  "verb_english": "seem",
+  "verb_russian": "казаться",
+  "verb_infinitive": "görünmek",
+  "turkish_verb": {
+    "verb_full": "görünmemelisin",
+    "root": "görün",
+    "tense_affix": "meli",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "sin",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "You must not seem worried about the exam",
+  "russian_example_sentence": "Ты не должен казаться встревоженным по поводу экзамена",
+  "turkish_example_sentence": "Sen sınav hakkında endişeli ve stresli görünmemelisin",
+  "turkish_example_sentence_with_blank": "Sen sınav hakkında endişeli ve stresli ______"
+}

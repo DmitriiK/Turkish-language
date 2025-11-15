@@ -1,0 +1,20 @@
+{
+  "verb_rank": 4,
+  "verb_english": "say",
+  "verb_russian": "сказать",
+  "verb_infinitive": "söylemek",
+  "turkish_verb": {
+    "verb_full": "söylemeye",
+    "root": "söyle",
+    "tense_affix": "ye",
+    "verb_tense": "istek_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "May he not talk about private matters.",
+  "russian_example_sentence": "Пусть он не говорит о личном.",
+  "turkish_example_sentence": "O özel şeyleri söylemeye.",
+  "turkish_example_sentence_with_blank": "O özel şeyleri ______."
+}

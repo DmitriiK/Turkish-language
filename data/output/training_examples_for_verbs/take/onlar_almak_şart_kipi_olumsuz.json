@@ -1,0 +1,20 @@
+{
+  "verb_rank": 10,
+  "verb_english": "take",
+  "verb_russian": "брать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almasalar",
+    "root": "al",
+    "tense_affix": "sa",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "lar",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If they didn’t take the plates to the table",
+  "russian_example_sentence": "Если бы они не принесли тарелки на стол",
+  "turkish_example_sentence": "Onlar tabakları masaya almasalar",
+  "turkish_example_sentence_with_blank": "Onlar tabakları masaya ______"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 35,
+  "verb_english": "hear",
+  "verb_russian": "слышать",
+  "verb_infinitive": "duymak",
+  "turkish_verb": {
+    "verb_full": "duymazlarsa",
+    "root": "duy",
+    "tense_affix": "sa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "lar",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If they don't hear the instructions, they'll make mistakes.",
+  "russian_example_sentence": "Если они не услышат инструкции, они сделают ошибки.",
+  "turkish_example_sentence": "Onlar talimatları duymazlarsa hata yaparlar.",
+  "turkish_example_sentence_with_blank": "Onlar talimatları ______ hata yaparlar."
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 41,
+  "verb_english": "believe",
+  "verb_russian": "верить",
+  "verb_infinitive": "inanmak",
+  "turkish_verb": {
+    "verb_full": "inanmazsak",
+    "root": "inan",
+    "tense_affix": "mazsak",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If we don’t believe it, no one will.",
+  "russian_example_sentence": "Если мы в это не поверим, никто не будет.",
+  "turkish_example_sentence": "Eğer buna inanmazsak, kimse inanmaz.",
+  "turkish_example_sentence_with_blank": "Eğer buna ______, kimse inanmaz."
+}

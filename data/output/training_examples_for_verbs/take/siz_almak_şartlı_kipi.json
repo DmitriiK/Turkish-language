@@ -1,0 +1,20 @@
+{
+  "verb_rank": 10,
+  "verb_english": "take",
+  "verb_russian": "брать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "alırsanız",
+    "root": "al",
+    "tense_affix": "ırsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If you take the map, you won’t get lost",
+  "russian_example_sentence": "Если вы возьмёте карту, вы не потеряетесь",
+  "turkish_example_sentence": "Eğer haritayı alırsanız, kaybolmazsınız",
+  "turkish_example_sentence_with_blank": "Eğer haritayı ______, kaybolmazsınız"
+}

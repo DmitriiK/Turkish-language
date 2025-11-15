@@ -1,0 +1,20 @@
+{
+  "verb_rank": 32,
+  "verb_english": "seem",
+  "verb_russian": "казаться",
+  "verb_infinitive": "görünmek",
+  "turkish_verb": {
+    "verb_full": "görünürsen",
+    "root": "görün",
+    "tense_affix": "ürse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If you seem happy, they smile.",
+  "russian_example_sentence": "Если ты кажешься счастливым, они улыбаются.",
+  "turkish_example_sentence": "Eğer mutlu görünürsen, onlar gülümser.",
+  "turkish_example_sentence_with_blank": "Eğer mutlu ______, onlar gülümser."
+}

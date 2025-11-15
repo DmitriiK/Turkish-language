@@ -1,0 +1,20 @@
+{
+  "verb_rank": 40,
+  "verb_english": "live",
+  "verb_russian": "жить",
+  "verb_infinitive": "yaşamak",
+  "turkish_verb": {
+    "verb_full": "yaşamazsın",
+    "root": "yaşa",
+    "tense_affix": "r",
+    "verb_tense": "geniş_zaman",
+    "personal_pronoun": "sen",
+    "personal_affix": "sın",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "You do not live alone in that house",
+  "russian_example_sentence": "Ты не живешь один в том доме",
+  "turkish_example_sentence": "Sen geniş ve rahat evde yalnız yaşamazsın",
+  "turkish_example_sentence_with_blank": "Sen geniş ve rahat evde yalnız ______"
+}

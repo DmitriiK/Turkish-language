@@ -1,0 +1,20 @@
+{
+  "verb_rank": 20,
+  "verb_english": "call",
+  "verb_russian": "звонить",
+  "verb_infinitive": "aramak",
+  "turkish_verb": {
+    "verb_full": "aramam lazım",
+    "root": "ara",
+    "tense_affix": " ",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "I need to call my dentist",
+  "russian_example_sentence": "Мне нужно позвонить моему дантисту",
+  "turkish_example_sentence": "Ben dişçimi acilen aramam lazım",
+  "turkish_example_sentence_with_blank": "Ben dişçimi acilen ______"
+}

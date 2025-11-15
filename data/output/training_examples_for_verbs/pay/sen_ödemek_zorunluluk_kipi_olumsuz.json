@@ -1,0 +1,20 @@
+{
+  "verb_rank": 49,
+  "verb_english": "pay",
+  "verb_russian": "платить",
+  "verb_infinitive": "ödemek",
+  "turkish_verb": {
+    "verb_full": "ödememelisin",
+    "root": "öde",
+    "tense_affix": "meli",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "sin",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "You must not pay with cash here",
+  "russian_example_sentence": "Ты не должен платить наличными здесь",
+  "turkish_example_sentence": "Sen burada nakit ile ödememelisin",
+  "turkish_example_sentence_with_blank": "Sen burada nakit ile ______"
+}

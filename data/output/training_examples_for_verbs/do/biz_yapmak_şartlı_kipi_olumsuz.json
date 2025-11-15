@@ -1,0 +1,20 @@
+{
+  "verb_rank": 3,
+  "verb_english": "do",
+  "verb_russian": "делать",
+  "verb_infinitive": "yapmak",
+  "turkish_verb": {
+    "verb_full": "yapmazsak",
+    "root": "yap",
+    "tense_affix": "arsak",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If we don't do our research, nothing will change.",
+  "russian_example_sentence": "Если мы не проведем наше исследование, ничего не изменится.",
+  "turkish_example_sentence": "Araştırmamızı yapmazsak hiçbir şey değişmez.",
+  "turkish_example_sentence_with_blank": "Araştırmamızı ______ hiçbir şey değişmez."
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 1,
+  "verb_english": "be",
+  "verb_russian": "быть",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olmasa",
+    "root": "ol",
+    "tense_affix": "sa",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If she were not unhappy.",
+  "russian_example_sentence": "Если бы она не была несчастной.",
+  "turkish_example_sentence": "Eğer mutsuz olmasa.",
+  "turkish_example_sentence_with_blank": "Eğer mutsuz ______."
+}

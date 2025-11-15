@@ -1,0 +1,20 @@
+{
+  "verb_rank": 40,
+  "verb_english": "live",
+  "verb_russian": "жить",
+  "verb_infinitive": "yaşamak",
+  "turkish_verb": {
+    "verb_full": "yaşamamalısın",
+    "root": "yaşa",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "sın",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "You must not live far from your elderly parents",
+  "russian_example_sentence": "Ты не должен жить далеко от своих пожилых родителей",
+  "turkish_example_sentence": "Sen yaşlı ebeveynlerinden uzak yaşamamalısın",
+  "turkish_example_sentence_with_blank": "Sen yaşlı ebeveynlerinden uzak ______"
+}

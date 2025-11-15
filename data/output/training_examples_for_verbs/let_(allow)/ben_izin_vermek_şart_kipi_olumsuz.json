@@ -1,0 +1,20 @@
+{
+  "verb_rank": 30,
+  "verb_english": "let",
+  "verb_russian": "позволять",
+  "verb_infinitive": "izin vermek",
+  "turkish_verb": {
+    "verb_full": "izin vermesem",
+    "root": "izin ver",
+    "tense_affix": "mese",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If I didn't let you go...",
+  "russian_example_sentence": "Если бы я не отпустил тебя...",
+  "turkish_example_sentence": "Ben seni o tehlikeli yere izin vermesem daha iyi olurdu.",
+  "turkish_example_sentence_with_blank": "Ben seni o tehlikeli yere ______ daha iyi olurdu."
+}

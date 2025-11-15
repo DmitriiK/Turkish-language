@@ -1,0 +1,20 @@
+{
+  "verb_rank": 48,
+  "verb_english": "lose",
+  "verb_russian": "терять",
+  "verb_infinitive": "kaybetmek",
+  "turkish_verb": {
+    "verb_full": "kaybetmemen lazım",
+    "root": "kaybet",
+    "tense_affix": "memen",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "You should not lose the keys",
+  "russian_example_sentence": "Тебе нельзя терять ключи",
+  "turkish_example_sentence": "Sen anahtarları kaybetmemen lazım",
+  "turkish_example_sentence_with_blank": "Sen anahtarları ______"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 49,
+  "verb_english": "pay",
+  "verb_russian": "платить",
+  "verb_infinitive": "ödemek",
+  "turkish_verb": {
+    "verb_full": "ödemeyesiniz",
+    "root": "öde",
+    "tense_affix": "ye",
+    "verb_tense": "istek_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "siniz",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "May you not pay the overdue penalty fee",
+  "russian_example_sentence": "Пусть вы не платите просроченный штраф",
+  "turkish_example_sentence": "Gecikmiş ceza ücretini ödemeyesiniz",
+  "turkish_example_sentence_with_blank": "Gecikmiş ceza ücretini ______"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 5,
+  "verb_english": "go",
+  "verb_russian": "идти",
+  "verb_infinitive": "gitmek",
+  "turkish_verb": {
+    "verb_full": "gitmesem",
+    "root": "git",
+    "tense_affix": "se",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If I don’t go to the park tomorrow",
+  "russian_example_sentence": "Если я не пойду завтра в парк",
+  "turkish_example_sentence": "Yarın parka gitmesem",
+  "turkish_example_sentence_with_blank": "Yarın parka ______"
+}

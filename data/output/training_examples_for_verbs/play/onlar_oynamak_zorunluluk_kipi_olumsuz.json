@@ -1,0 +1,20 @@
+{
+  "verb_rank": 36,
+  "verb_english": "play",
+  "verb_russian": "играть",
+  "verb_infinitive": "oynamak",
+  "turkish_verb": {
+    "verb_full": "oynamamalılar",
+    "root": "oyna",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "lar",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "They must not play in the library",
+  "russian_example_sentence": "Они не должны играть в библиотеке",
+  "turkish_example_sentence": "Onlar sessiz ve sakin kütüphane alanında oynamamalılar",
+  "turkish_example_sentence_with_blank": "Onlar sessiz ve sakin kütüphane alanında ______"
+}

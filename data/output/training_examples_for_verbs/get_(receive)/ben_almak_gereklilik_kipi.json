@@ -1,0 +1,20 @@
+{
+  "verb_rank": 6,
+  "verb_english": "get",
+  "verb_russian": "получать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almam lazım",
+    "root": "al",
+    "tense_affix": "mam",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "I need to get new shoes.",
+  "russian_example_sentence": "Мне нужно купить новые туфли.",
+  "turkish_example_sentence": "Ben yeni ayakkabılar almam lazım.",
+  "turkish_example_sentence_with_blank": "Ben yeni ayakkabılar ______."
+}

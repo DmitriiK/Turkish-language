@@ -1,0 +1,20 @@
+{
+  "verb_rank": 21,
+  "verb_english": "try",
+  "verb_russian": "пытаться",
+  "verb_infinitive": "denemek",
+  "turkish_verb": {
+    "verb_full": "denemeyeyim",
+    "root": "dene",
+    "tense_affix": "meyeyim",
+    "verb_tense": "istek_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "yim",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "Let me not try this chair.",
+  "russian_example_sentence": "Позвольте мне не пробовать этот стул.",
+  "turkish_example_sentence": "Ben bu sandalyeyi denemeyeyim.",
+  "turkish_example_sentence_with_blank": "Ben bu sandalyeyi ______."
+}

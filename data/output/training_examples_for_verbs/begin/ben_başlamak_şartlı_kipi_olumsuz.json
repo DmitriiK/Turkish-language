@@ -1,0 +1,20 @@
+{
+  "verb_rank": 31,
+  "verb_english": "begin",
+  "verb_russian": "начинать",
+  "verb_infinitive": "başlamak",
+  "turkish_verb": {
+    "verb_full": "başlamazsam",
+    "root": "başla",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If I don’t begin my homework, I’ll regret it.",
+  "russian_example_sentence": "Если я не начну свою домашнюю работу, я пожалею.",
+  "turkish_example_sentence": "Eğer ödevime başlamazsam, pişman olurum.",
+  "turkish_example_sentence_with_blank": "Eğer ödevime ______, pişman olurum."
+}

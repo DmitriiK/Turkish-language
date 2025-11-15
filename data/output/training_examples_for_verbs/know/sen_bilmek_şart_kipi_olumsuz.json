@@ -1,0 +1,20 @@
+{
+  "verb_rank": 8,
+  "verb_english": "know",
+  "verb_russian": "знать",
+  "verb_infinitive": "bilmek",
+  "turkish_verb": {
+    "verb_full": "bilmesen",
+    "root": "bil",
+    "tense_affix": "mese",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If you didn't know her name",
+  "russian_example_sentence": "Если бы ты не знал её имени",
+  "turkish_example_sentence": "Onun adını bilmesen",
+  "turkish_example_sentence_with_blank": "Onun adını ______"
+}

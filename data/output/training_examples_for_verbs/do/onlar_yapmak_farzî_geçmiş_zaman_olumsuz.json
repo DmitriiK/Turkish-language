@@ -1,0 +1,20 @@
+{
+  "verb_rank": 3,
+  "verb_english": "do",
+  "verb_russian": "делать",
+  "verb_infinitive": "yapmak",
+  "turkish_verb": {
+    "verb_full": "yapmamışlarsa",
+    "root": "yap",
+    "tense_affix": "mamışlarsa",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "onlar",
+    "personal_affix": "lar",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If they hadn't done the construction...",
+  "russian_example_sentence": "Если бы они не сделали строительство...",
+  "turkish_example_sentence": "Onlar bu kaçak inşaatı yapmamışlarsa, belediye ceza kesmezdi.",
+  "turkish_example_sentence_with_blank": "Onlar bu kaçak inşaatı ______, belediye ceza kesmezdi."
+}

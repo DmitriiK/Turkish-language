@@ -1,0 +1,20 @@
+{
+  "verb_rank": 19,
+  "verb_english": "work",
+  "verb_russian": "работать",
+  "verb_infinitive": "çalışmak",
+  "turkish_verb": {
+    "verb_full": "çalışmazsan",
+    "root": "çalış",
+    "tense_affix": "mazsan",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If you don't work quickly, you will be late",
+  "russian_example_sentence": "Если ты не будешь быстро работать, ты опоздаешь",
+  "turkish_example_sentence": "Eğer hızlı çalışmazsan, geç kalırsın",
+  "turkish_example_sentence_with_blank": "Eğer hızlı ______, geç kalırsın"
+}

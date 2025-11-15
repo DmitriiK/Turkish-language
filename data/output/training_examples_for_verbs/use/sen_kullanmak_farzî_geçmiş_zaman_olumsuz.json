@@ -1,0 +1,20 @@
+{
+  "verb_rank": 15,
+  "verb_english": "use",
+  "verb_russian": "использовать",
+  "verb_infinitive": "kullanmak",
+  "turkish_verb": {
+    "verb_full": "kullanmamışsan",
+    "root": "kullan",
+    "tense_affix": "mışsa",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If you hadn't used too much sugar",
+  "russian_example_sentence": "Если бы ты не использовал слишком много сахара",
+  "turkish_example_sentence": "Sen çok fazla şeker kullanmamışsan, tatlı daha lezzetli olurdu.",
+  "turkish_example_sentence_with_blank": "Sen çok fazla şeker ______, tatlı daha lezzetli olurdu."
+}

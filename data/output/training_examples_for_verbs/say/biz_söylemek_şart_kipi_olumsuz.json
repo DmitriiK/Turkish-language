@@ -1,0 +1,20 @@
+{
+  "verb_rank": 4,
+  "verb_english": "say",
+  "verb_russian": "сказать",
+  "verb_infinitive": "söylemek",
+  "turkish_verb": {
+    "verb_full": "söylemesek",
+    "root": "söyle",
+    "tense_affix": "se",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If we don’t say anything, they won’t ask us",
+  "russian_example_sentence": "Если мы ничего не скажем, нас не спросят",
+  "turkish_example_sentence": "Biz hiçbir şey söylemesek, bize soru sormazlar",
+  "turkish_example_sentence_with_blank": "Biz hiçbir şey ______, bize soru sormazlar"
+}

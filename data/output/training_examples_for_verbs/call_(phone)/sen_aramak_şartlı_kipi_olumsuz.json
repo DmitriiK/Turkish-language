@@ -1,0 +1,20 @@
+{
+  "verb_rank": 20,
+  "verb_english": "call",
+  "verb_russian": "звонить",
+  "verb_infinitive": "aramak",
+  "turkish_verb": {
+    "verb_full": "aramazsan",
+    "root": "ara",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If you don't call, I will worry.",
+  "russian_example_sentence": "Если ты не позвонишь, я буду волноваться.",
+  "turkish_example_sentence": "Sen beni hemen aramazsan, ben endişelenirim.",
+  "turkish_example_sentence_with_blank": "Sen beni hemen ______, ben endişelenirim."
+}

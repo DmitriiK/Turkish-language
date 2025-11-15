@@ -1,0 +1,20 @@
+{
+  "verb_rank": 1,
+  "verb_english": "be",
+  "verb_russian": "быть",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olursam",
+    "root": "ol",
+    "tense_affix": "ursa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If I am calm, I can sleep.",
+  "russian_example_sentence": "Если я спокойна, я смогу спать.",
+  "turkish_example_sentence": "Ben sakin olursam uyuyabilirim.",
+  "turkish_example_sentence_with_blank": "Ben sakin ______ uyuyabilirim."
+}

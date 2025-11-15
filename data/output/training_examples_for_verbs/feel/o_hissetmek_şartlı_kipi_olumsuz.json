@@ -1,0 +1,20 @@
+{
+  "verb_rank": 24,
+  "verb_english": "feel",
+  "verb_russian": "чувствовать",
+  "verb_infinitive": "hissetmek",
+  "turkish_verb": {
+    "verb_full": "hissetmese",
+    "root": "hisset",
+    "tense_affix": "se",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If he does not feel cold, he stays outside",
+  "russian_example_sentence": "Если он не чувствует холода, он остается на улице",
+  "turkish_example_sentence": "Eğer soğuk hissetmese, dışarıda kalır",
+  "turkish_example_sentence_with_blank": "Eğer soğuk ______, dışarıda kalır"
+}

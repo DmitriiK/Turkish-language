@@ -1,0 +1,20 @@
+{
+  "verb_rank": 7,
+  "verb_english": "make",
+  "verb_russian": "делать (создавать)",
+  "verb_infinitive": "yapmak",
+  "turkish_verb": {
+    "verb_full": "yapmazsam",
+    "root": "yap",
+    "tense_affix": "sa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If I don’t make the coffee, will you?",
+  "russian_example_sentence": "Если я не сделаю кофе, ты сделаешь?",
+  "turkish_example_sentence": "Eğer kahveyi yapmazsam, sen yapar mısın?",
+  "turkish_example_sentence_with_blank": "Eğer kahveyi ______, sen yapar mısın?"
+}

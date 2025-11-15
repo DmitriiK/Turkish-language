@@ -1,0 +1,20 @@
+{
+  "verb_rank": 26,
+  "verb_english": "leave",
+  "verb_russian": "покидать",
+  "verb_infinitive": "ayrılmak",
+  "turkish_verb": {
+    "verb_full": "ayrılmazsanız",
+    "root": "ayrıl",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If you don't leave now, you'll miss your flight.",
+  "russian_example_sentence": "Если вы не уйдёте сейчас, то опоздаете на рейс.",
+  "turkish_example_sentence": "Eğer şimdi ayrılmazsanız, uçuşunuzu kaçıracaksınız.",
+  "turkish_example_sentence_with_blank": "Eğer şimdi ______, uçuşunuzu kaçıracaksınız."
+}

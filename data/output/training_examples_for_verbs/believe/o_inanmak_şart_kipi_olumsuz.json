@@ -1,0 +1,20 @@
+{
+  "verb_rank": 41,
+  "verb_english": "believe",
+  "verb_russian": "верить",
+  "verb_infinitive": "inanmak",
+  "turkish_verb": {
+    "verb_full": "inanmazsa",
+    "root": "inan",
+    "tense_affix": "mazsa",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If he doesn't believe, he won't come.",
+  "russian_example_sentence": "Если он не поверит, он не придет.",
+  "turkish_example_sentence": "Eğer inanmazsa gelmez.",
+  "turkish_example_sentence_with_blank": "Eğer ______ gelmez."
+}

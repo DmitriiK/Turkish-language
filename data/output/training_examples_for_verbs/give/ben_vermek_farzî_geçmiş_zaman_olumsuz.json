@@ -1,0 +1,20 @@
+{
+  "verb_rank": 17,
+  "verb_english": "give",
+  "verb_russian": "давать",
+  "verb_infinitive": "vermek",
+  "turkish_verb": {
+    "verb_full": "vermemişsem",
+    "root": "ver",
+    "tense_affix": "mişse",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If I hadn't given the secret formula...",
+  "russian_example_sentence": "Если бы я не дал секретную формулу...",
+  "turkish_example_sentence": "Ben gizli formülü vermemişsem, şirket batmazdı.",
+  "turkish_example_sentence_with_blank": "Ben gizli formülü ______, şirket batmazdı."
+}

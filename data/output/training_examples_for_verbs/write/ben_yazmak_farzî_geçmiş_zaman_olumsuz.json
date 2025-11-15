@@ -1,0 +1,20 @@
+{
+  "verb_rank": 44,
+  "verb_english": "write",
+  "verb_russian": "писать",
+  "verb_infinitive": "yazmak",
+  "turkish_verb": {
+    "verb_full": "yazmamışsam",
+    "root": "yaz",
+    "tense_affix": "mış",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "ben",
+    "personal_affix": "sam",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If I hadn't written this sensitive letter, nobody would know.",
+  "russian_example_sentence": "Если бы я не написал это деликатное письмо, никто бы не знал.",
+  "turkish_example_sentence": "Ben bu hassas mektubu yazmamışsam, kimse bilmezdi.",
+  "turkish_example_sentence_with_blank": "Ben bu hassas mektubu ______, kimse bilmezdi."
+}

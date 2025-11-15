@@ -1,0 +1,20 @@
+{
+  "verb_rank": 45,
+  "verb_english": "provide",
+  "verb_russian": "предоставлять",
+  "verb_infinitive": "sağlamak",
+  "turkish_verb": {
+    "verb_full": "sağlamazsam",
+    "root": "sağla",
+    "tense_affix": "arsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If I don’t provide support, it will fail.",
+  "russian_example_sentence": "Если я не поддержу, это провалится.",
+  "turkish_example_sentence": "Eğer ben destek sağlamazsam, bu başarısız olur.",
+  "turkish_example_sentence_with_blank": "Eğer ben destek ______, bu başarısız olur."
+}

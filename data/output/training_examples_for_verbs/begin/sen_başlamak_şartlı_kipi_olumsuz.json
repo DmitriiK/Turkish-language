@@ -1,0 +1,20 @@
+{
+  "verb_rank": 31,
+  "verb_english": "begin",
+  "verb_russian": "начинать",
+  "verb_infinitive": "başlamak",
+  "turkish_verb": {
+    "verb_full": "başlamazsan",
+    "root": "başla",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If you don’t begin now, you will miss the chance.",
+  "russian_example_sentence": "Если ты не начнёшь сейчас, ты упустишь шанс.",
+  "turkish_example_sentence": "Eğer şimdi başlamazsan, fırsatı kaçırırsın.",
+  "turkish_example_sentence_with_blank": "Eğer şimdi ______, fırsatı kaçırırsın."
+}

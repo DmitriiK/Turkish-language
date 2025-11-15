@@ -1,0 +1,20 @@
+{
+  "verb_rank": 5,
+  "verb_english": "go",
+  "verb_russian": "идти",
+  "verb_infinitive": "gitmek",
+  "turkish_verb": {
+    "verb_full": "gitmeyen",
+    "root": "git",
+    "tense_affix": "en",
+    "verb_tense": "sıfat_fiil",
+    "personal_pronoun": null,
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "The student who doesn't go to school",
+  "russian_example_sentence": "Ученик, который не ходит в школу",
+  "turkish_example_sentence": "Okula gitmeyen öğrenci",
+  "turkish_example_sentence_with_blank": "Okula ______ öğrenci"
+}

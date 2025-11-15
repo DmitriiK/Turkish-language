@@ -1,0 +1,20 @@
+{
+  "verb_rank": 21,
+  "verb_english": "try",
+  "verb_russian": "пытаться",
+  "verb_infinitive": "denemek",
+  "turkish_verb": {
+    "verb_full": "denememem lazım",
+    "root": "dene",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "I should not try that risky dangerous experiment",
+  "russian_example_sentence": "Мне не нужно пробовать этот рискованный опасный эксперимент",
+  "turkish_example_sentence": "Ben o riskli tehlikeli deneyi denememem lazım",
+  "turkish_example_sentence_with_blank": "Ben o riskli tehlikeli deneyi ______"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 39,
+  "verb_english": "like",
+  "verb_russian": "нравиться",
+  "verb_infinitive": "sevmek",
+  "turkish_verb": {
+    "verb_full": "sevmezlerse",
+    "root": "sev",
+    "tense_affix": "mezse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "ler",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If they don't like the hotel, they'll complain.",
+  "russian_example_sentence": "Если им не понравится отель, они будут жаловаться.",
+  "turkish_example_sentence": "Oteli sevmezlerse, şikayet edecekler.",
+  "turkish_example_sentence_with_blank": "Oteli ______, şikayet edecekler."
+}

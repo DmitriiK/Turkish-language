@@ -1,0 +1,20 @@
+{
+  "verb_rank": 10,
+  "verb_english": "take",
+  "verb_russian": "брать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almazlarsa",
+    "root": "al",
+    "tense_affix": "mazlar",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "lar",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If they don’t take enough food, they’ll be hungry",
+  "russian_example_sentence": "Если они не возьмут достаточно еды, они будут голодными",
+  "turkish_example_sentence": "Eğer yeterince yemek almazlarsa, aç kalırlar",
+  "turkish_example_sentence_with_blank": "Eğer yeterince yemek ______, aç kalırlar"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 50,
+  "verb_english": "meet",
+  "verb_russian": "встречать",
+  "verb_infinitive": "buluşmak",
+  "turkish_verb": {
+    "verb_full": "buluşmazsak",
+    "root": "buluş",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If we don't meet, reschedule later.",
+  "russian_example_sentence": "Если мы не встретимся, перенесем на потом.",
+  "turkish_example_sentence": "Biz doktorla hastanede buluşmazsak, randevuyu erteleyeceğiz.",
+  "turkish_example_sentence_with_blank": "Biz doktorla hastanede ______, randevuyu erteleyeceğiz."
+}

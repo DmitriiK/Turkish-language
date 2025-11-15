@@ -1,0 +1,20 @@
+{
+  "verb_rank": 21,
+  "verb_english": "try",
+  "verb_russian": "пытаться",
+  "verb_infinitive": "denemek",
+  "turkish_verb": {
+    "verb_full": "denememeli",
+    "root": "dene",
+    "tense_affix": "memeli",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "sin",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "You must not try to cheat on the exam",
+  "russian_example_sentence": "Ты не должен пытаться обманывать на экзамене",
+  "turkish_example_sentence": "Sen sınavda hile yapmayı denememeli",
+  "turkish_example_sentence_with_blank": "Sen sınavda hile yapmayı ______"
+}

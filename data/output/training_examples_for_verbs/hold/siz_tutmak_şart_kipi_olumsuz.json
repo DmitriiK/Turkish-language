@@ -1,0 +1,20 @@
+{
+  "verb_rank": 42,
+  "verb_english": "hold",
+  "verb_russian": "держать",
+  "verb_infinitive": "tutmak",
+  "turkish_verb": {
+    "verb_full": "tutmasanız",
+    "root": "tut",
+    "tense_affix": "sa",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If you didn’t hold the leash, the dog would escape.",
+  "russian_example_sentence": "Если бы вы не держали поводок, собака бы сбежала.",
+  "turkish_example_sentence": "Tasmayı tutmasanız, köpek kaçardı.",
+  "turkish_example_sentence_with_blank": "Tasmayı ______, köpek kaçardı."
+}

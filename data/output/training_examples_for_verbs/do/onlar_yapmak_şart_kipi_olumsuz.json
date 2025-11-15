@@ -1,0 +1,20 @@
+{
+  "verb_rank": 3,
+  "verb_english": "do",
+  "verb_russian": "делать",
+  "verb_infinitive": "yapmak",
+  "turkish_verb": {
+    "verb_full": "yapmasalar",
+    "root": "yap",
+    "tense_affix": "sa",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "lar",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If they didn’t do anything, it would be useless",
+  "russian_example_sentence": "Если бы они ничего не сделали, это было бы бесполезно",
+  "turkish_example_sentence": "Onlar bir şey yapmasalar işe yaramaz olurdu",
+  "turkish_example_sentence_with_blank": "Onlar bir şey ______ işe yaramaz olurdu"
+}

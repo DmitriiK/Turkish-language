@@ -1,0 +1,20 @@
+{
+  "verb_rank": 3,
+  "verb_english": "do",
+  "verb_russian": "делать",
+  "verb_infinitive": "yapmak",
+  "turkish_verb": {
+    "verb_full": "yapmayalım",
+    "root": "yap",
+    "tense_affix": "mayalım",
+    "verb_tense": "istek_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "lım",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "Let's not do this work today",
+  "russian_example_sentence": "Давайте не делать эту работу сегодня",
+  "turkish_example_sentence": "Bugün bu işi yapmayalım",
+  "turkish_example_sentence_with_blank": "Bugün bu işi ______"
+}

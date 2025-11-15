@@ -1,0 +1,20 @@
+{
+  "verb_rank": 37,
+  "verb_english": "run",
+  "verb_russian": "бегать",
+  "verb_infinitive": "koşmak",
+  "turkish_verb": {
+    "verb_full": "koşmamalısın",
+    "root": "koş",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "sın",
+    "polarity": "negative",
+    "negative_affix": "mama"
+  },
+  "english_example_sentence": "You must not run on the wet floor",
+  "russian_example_sentence": "Ты не должен бежать на мокром полу",
+  "turkish_example_sentence": "Sen ıslak zeminde koşmamalısın",
+  "turkish_example_sentence_with_blank": "Sen ıslak zeminde ______"
+}

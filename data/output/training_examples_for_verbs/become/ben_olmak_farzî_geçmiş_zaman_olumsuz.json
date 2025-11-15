@@ -1,0 +1,20 @@
+{
+  "verb_rank": 25,
+  "verb_english": "become",
+  "verb_russian": "становиться",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olmamışsam",
+    "root": "ol",
+    "tense_affix": "mamışsa",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If I hadn't become an engineer...",
+  "russian_example_sentence": "Если бы я не стал инженером...",
+  "turkish_example_sentence": "Ben mühendis olmamışsam, farklı bir kariyer seçerdim.",
+  "turkish_example_sentence_with_blank": "Ben mühendis ______, farklı bir kariyer seçerdim."
+}

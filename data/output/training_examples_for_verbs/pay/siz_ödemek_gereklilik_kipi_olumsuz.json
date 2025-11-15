@@ -1,0 +1,20 @@
+{
+  "verb_rank": 49,
+  "verb_english": "pay",
+  "verb_russian": "платить",
+  "verb_infinitive": "ödemek",
+  "turkish_verb": {
+    "verb_full": "ödememeniz lazım",
+    "root": "öde",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "You don't need to pay the entrance fee",
+  "russian_example_sentence": "Вам не нужно платить за вход",
+  "turkish_example_sentence": "Siz giriş ücretini ödememeniz lazım",
+  "turkish_example_sentence_with_blank": "Siz giriş ücretini ______"
+}

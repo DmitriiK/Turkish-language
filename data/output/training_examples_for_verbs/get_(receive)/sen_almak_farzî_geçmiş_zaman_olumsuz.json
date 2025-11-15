@@ -1,0 +1,20 @@
+{
+  "verb_rank": 6,
+  "verb_english": "get",
+  "verb_russian": "получать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almamışsan",
+    "root": "al",
+    "tense_affix": "mamışsa",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If you hadn't gotten the promotion...",
+  "russian_example_sentence": "Если бы ты не получил повышение...",
+  "turkish_example_sentence": "Terfiyi almamışsan, yeni projede çalışamazdın.",
+  "turkish_example_sentence_with_blank": "Terfiyi ______, yeni projede çalışamazdın."
+}

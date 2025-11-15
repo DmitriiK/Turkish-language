@@ -1,0 +1,20 @@
+{
+  "verb_rank": 21,
+  "verb_english": "try",
+  "verb_russian": "пытаться",
+  "verb_infinitive": "denemek",
+  "turkish_verb": {
+    "verb_full": "denemezlerse",
+    "root": "dene",
+    "tense_affix": "se",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "ler",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If they don’t try, they’ll lose.",
+  "russian_example_sentence": "Если они не попробуют, то проиграют.",
+  "turkish_example_sentence": "Eğer denemezlerse, kaybederler.",
+  "turkish_example_sentence_with_blank": "Eğer ______, kaybederler."
+}

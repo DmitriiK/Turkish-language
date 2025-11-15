@@ -1,0 +1,20 @@
+{
+  "verb_rank": 20,
+  "verb_english": "call (phone)",
+  "verb_russian": "звонить",
+  "verb_infinitive": "aramak",
+  "turkish_verb": {
+    "verb_full": "aramamalısınız",
+    "root": "ara",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "sınız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "You must not call late at night, it's rude.",
+  "russian_example_sentence": "Вы не должны звонить поздно ночью, это невежливо.",
+  "turkish_example_sentence": "Siz gece geç saatte aramamalısınız, ayıp olur.",
+  "turkish_example_sentence_with_blank": "Siz gece geç saatte ______, ayıp olur."
+}

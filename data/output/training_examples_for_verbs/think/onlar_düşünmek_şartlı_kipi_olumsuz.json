@@ -1,0 +1,20 @@
+{
+  "verb_rank": 9,
+  "verb_english": "think",
+  "verb_russian": "думать",
+  "verb_infinitive": "düşünmek",
+  "turkish_verb": {
+    "verb_full": "düşünmezlerse",
+    "root": "düşün",
+    "tense_affix": "mezse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "ler",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If they don't think positively, they harm the team",
+  "russian_example_sentence": "Если они не думают позитивно, они вредят команде",
+  "turkish_example_sentence": "Pozitif düşünmezlerse, takıma zarar verirler",
+  "turkish_example_sentence_with_blank": "Pozitif ______, takıma zarar verirler"
+}

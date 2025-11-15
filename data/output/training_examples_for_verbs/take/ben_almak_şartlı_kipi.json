@@ -1,0 +1,20 @@
+{
+  "verb_rank": 10,
+  "verb_english": "take",
+  "verb_russian": "брать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "alırsam",
+    "root": "al",
+    "tense_affix": "ırsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If I take a taxi, I will be on time",
+  "russian_example_sentence": "Если я возьму такси, я буду вовремя",
+  "turkish_example_sentence": "Eğer taksi alırsam, zamanında yetişirim",
+  "turkish_example_sentence_with_blank": "Eğer taksi ______, zamanında yetişirim"
+}

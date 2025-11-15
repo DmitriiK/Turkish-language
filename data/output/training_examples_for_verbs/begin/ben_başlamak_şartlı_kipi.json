@@ -1,0 +1,20 @@
+{
+  "verb_rank": 31,
+  "verb_english": "begin",
+  "verb_russian": "начинать",
+  "verb_infinitive": "başlamak",
+  "turkish_verb": {
+    "verb_full": "başlarsam",
+    "root": "başla",
+    "tense_affix": "arsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If I begin this book, I will finish it.",
+  "russian_example_sentence": "Если я начну эту книгу, я её закончу.",
+  "turkish_example_sentence": "Eğer bu kitaba başlarsam, bitiririm.",
+  "turkish_example_sentence_with_blank": "Eğer bu kitaba ______, bitiririm."
+}

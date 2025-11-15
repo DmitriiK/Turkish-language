@@ -1,0 +1,20 @@
+{
+  "verb_rank": 6,
+  "verb_english": "get",
+  "verb_russian": "получать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almazsa",
+    "root": "al",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If she doesn't get a response,",
+  "russian_example_sentence": "Если она не получит ответа,",
+  "turkish_example_sentence": "O bir cevap almazsa, endişelenmeye başlayacak.",
+  "turkish_example_sentence_with_blank": "O bir cevap ______, endişelenmeye başlayacak."
+}

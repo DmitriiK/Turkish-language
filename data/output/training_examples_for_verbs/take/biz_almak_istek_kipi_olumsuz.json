@@ -1,0 +1,20 @@
+{
+  "verb_rank": 10,
+  "verb_english": "take",
+  "verb_russian": "брать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almayalım",
+    "root": "al",
+    "tense_affix": "a",
+    "verb_tense": "istek_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "lım",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "Let’s not take any unnecessary items",
+  "russian_example_sentence": "Давайте не будем брать ненужные вещи",
+  "turkish_example_sentence": "Biz gereksiz eşyaları almayalım",
+  "turkish_example_sentence_with_blank": "Biz gereksiz eşyaları ______"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 12,
+  "verb_english": "come",
+  "verb_russian": "приходить",
+  "verb_infinitive": "gelmek",
+  "turkish_verb": {
+    "verb_full": "gelmeyesin",
+    "root": "gel",
+    "tense_affix": "e",
+    "verb_tense": "istek_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "sin",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "May you not come right now?",
+  "russian_example_sentence": "Ты не придёшь сейчас?",
+  "turkish_example_sentence": "Sen şu an gelmeyesin mi?",
+  "turkish_example_sentence_with_blank": "Sen şu an ______ mi?"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 10,
+  "verb_english": "take",
+  "verb_russian": "брать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almazsan",
+    "root": "al",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If you don't take the exam, you can’t graduate",
+  "russian_example_sentence": "Если ты не сдашь экзамен, ты не сможешь закончить",
+  "turkish_example_sentence": "Eğer o sınavı almazsan, mezun olamazsın",
+  "turkish_example_sentence_with_blank": "Eğer o sınavı ______, mezun olamazsın"
+}

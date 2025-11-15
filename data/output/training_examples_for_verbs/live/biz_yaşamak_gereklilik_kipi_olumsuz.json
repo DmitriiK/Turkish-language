@@ -1,0 +1,20 @@
+{
+  "verb_rank": 40,
+  "verb_english": "live",
+  "verb_russian": "жить",
+  "verb_infinitive": "yaşamak",
+  "turkish_verb": {
+    "verb_full": "yaşamamamız lazım",
+    "root": "yaşa",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "mız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "We do not need to live in that old deteriorating historical building",
+  "russian_example_sentence": "Нам не нужно жить в том старом разрушающемся историческом здании",
+  "turkish_example_sentence": "Biz o eski harap tarihi binada yaşamamamız lazım",
+  "turkish_example_sentence_with_blank": "Biz o eski harap tarihi binada ______"
+}

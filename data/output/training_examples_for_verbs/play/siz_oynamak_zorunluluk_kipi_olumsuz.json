@@ -1,0 +1,20 @@
+{
+  "verb_rank": 36,
+  "verb_english": "play",
+  "verb_russian": "играть",
+  "verb_infinitive": "oynamak",
+  "turkish_verb": {
+    "verb_full": "oynamamalısınız",
+    "root": "oyna",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "sınız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "You must not play with fire carelessly",
+  "russian_example_sentence": "Вы не должны неосторожно играть с огнем",
+  "turkish_example_sentence": "Siz tehlikeli ateşle dışarıda asla oynamamalısınız",
+  "turkish_example_sentence_with_blank": "Siz tehlikeli ateşle dışarıda asla ______"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 44,
+  "verb_english": "write",
+  "verb_russian": "писать",
+  "verb_infinitive": "yazmak",
+  "turkish_verb": {
+    "verb_full": "yazmamalısınız",
+    "root": "yaz",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "sınız",
+    "polarity": "negative",
+    "negative_affix": "mama"
+  },
+  "english_example_sentence": "You must not write abbreviations in formal documents",
+  "russian_example_sentence": "Вы не должны писать сокращения в официальных документах",
+  "turkish_example_sentence": "Siz resmi yazışmalarda kısaltmalar yazmamalısınız",
+  "turkish_example_sentence_with_blank": "Siz resmi yazışmalarda kısaltmalar ______"
+}

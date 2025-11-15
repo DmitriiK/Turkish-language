@@ -1,0 +1,20 @@
+{
+  "verb_rank": 15,
+  "verb_english": "use",
+  "verb_russian": "использовать",
+  "verb_infinitive": "kullanmak",
+  "turkish_verb": {
+    "verb_full": "kullanmasan",
+    "root": "kullan",
+    "tense_affix": "sa",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If you don't use this sharp knife, it will stay dangerous.",
+  "russian_example_sentence": "Если ты не будешь использовать этот острый нож, он останется опасным.",
+  "turkish_example_sentence": "Sen bu keskin bıçağı kullanmasan, o yine tehlikeli olur.",
+  "turkish_example_sentence_with_blank": "Sen bu keskin bıçağı ______, o yine tehlikeli olur."
+}

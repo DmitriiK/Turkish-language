@@ -1,0 +1,20 @@
+{
+  "verb_rank": 49,
+  "verb_english": "pay",
+  "verb_russian": "платить",
+  "verb_infinitive": "ödemek",
+  "turkish_verb": {
+    "verb_full": "ödemediğinizde",
+    "root": "öde",
+    "tense_affix": "diğ",
+    "verb_tense": "zaman_sıfatı",
+    "personal_pronoun": "siz",
+    "personal_affix": "inizde",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "When you didn't pay the deposit, the reservation was canceled.",
+  "russian_example_sentence": "Когда вы не оплатили залог, бронь была отменена.",
+  "turkish_example_sentence": "Depozitoyu ödemediğinizde, rezervasyon iptal edildi.",
+  "turkish_example_sentence_with_blank": "Depozitoyu ______, rezervasyon iptal edildi."
+}

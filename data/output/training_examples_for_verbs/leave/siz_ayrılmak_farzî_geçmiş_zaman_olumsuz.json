@@ -1,0 +1,20 @@
+{
+  "verb_rank": 26,
+  "verb_english": "leave",
+  "verb_russian": "покидать",
+  "verb_infinitive": "ayrılmak",
+  "turkish_verb": {
+    "verb_full": "ayrılmamışsanız",
+    "root": "ayrıl",
+    "tense_affix": "mışsa",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If you hadn't left the quiet library",
+  "russian_example_sentence": "Если бы вы не покинули тихую библиотеку",
+  "turkish_example_sentence": "Siz sessiz kütüphaneden ayrılmamışsanız, ders çalışmaya devam ederdiniz.",
+  "turkish_example_sentence_with_blank": "Siz sessiz kütüphaneden ______, ders çalışmaya devam ederdiniz."
+}

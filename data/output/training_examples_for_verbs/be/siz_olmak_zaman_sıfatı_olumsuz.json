@@ -1,0 +1,20 @@
+{
+  "verb_rank": 1,
+  "verb_english": "be",
+  "verb_russian": "быть",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olmadığınızda",
+    "root": "ol",
+    "tense_affix": "dık",
+    "verb_tense": "zaman_sıfatı",
+    "personal_pronoun": "siz",
+    "personal_affix": "ınız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "When you are not careful, accidents happen.",
+  "russian_example_sentence": "Когда вы не осторожны, случаются несчастные случаи.",
+  "turkish_example_sentence": "Siz dikkatli olmadığınızda, kazalar olur.",
+  "turkish_example_sentence_with_blank": "Siz dikkatli ______, kazalar olur."
+}

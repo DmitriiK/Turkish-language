@@ -1,0 +1,20 @@
+{
+  "verb_rank": 10,
+  "verb_english": "take",
+  "verb_russian": "брать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almayayım",
+    "root": "al",
+    "tense_affix": "a",
+    "verb_tense": "istek_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "yım",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "Let me not take the last piece",
+  "russian_example_sentence": "Позвольте мне не брать последний кусок",
+  "turkish_example_sentence": "Ben son parçayı almayayım",
+  "turkish_example_sentence_with_blank": "Ben son parçayı ______"
+}

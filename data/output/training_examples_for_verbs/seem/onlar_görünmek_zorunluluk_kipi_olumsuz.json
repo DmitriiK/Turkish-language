@@ -1,0 +1,20 @@
+{
+  "verb_rank": 32,
+  "verb_english": "seem",
+  "verb_russian": "казаться",
+  "verb_infinitive": "görünmek",
+  "turkish_verb": {
+    "verb_full": "görünmemelilar",
+    "root": "görün",
+    "tense_affix": "meli",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "lar",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "They must not seem bored during the concert",
+  "russian_example_sentence": "Они не должны казаться скучающими во время концерта",
+  "turkish_example_sentence": "Onlar müzik festivalinde sıkıcı ve ilgisiz görünmemelilar",
+  "turkish_example_sentence_with_blank": "Onlar müzik festivalinde sıkıcı ve ilgisiz ______"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 31,
+  "verb_english": "begin",
+  "verb_russian": "начинать",
+  "verb_infinitive": "başlamak",
+  "turkish_verb": {
+    "verb_full": "başlamamamamız lazım",
+    "root": "başla",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "mız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "We should not begin the expensive renovation project",
+  "russian_example_sentence": "Нам не нужно начинать дорогой проект реновации",
+  "turkish_example_sentence": "Biz pahalı ev yenileme projesini başlamamamamız lazım",
+  "turkish_example_sentence_with_blank": "Biz pahalı ev yenileme projesini ______"
+}

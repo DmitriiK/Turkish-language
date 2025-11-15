@@ -1,0 +1,20 @@
+{
+  "verb_rank": 27,
+  "verb_english": "put",
+  "verb_russian": "класть",
+  "verb_infinitive": "koymak",
+  "turkish_verb": {
+    "verb_full": "koymazsan",
+    "root": "koy",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If you don't put salt, the food will be bland.",
+  "russian_example_sentence": "Если ты не положишь соль, еда будет пресной.",
+  "turkish_example_sentence": "Tuz koymazsan, yemek tatsız olur.",
+  "turkish_example_sentence_with_blank": "Tuz ______, yemek tatsız olur."
+}

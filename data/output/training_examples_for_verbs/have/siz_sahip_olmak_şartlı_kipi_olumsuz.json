@@ -1,0 +1,20 @@
+{
+  "verb_rank": 2,
+  "verb_english": "have",
+  "verb_russian": "иметь",
+  "verb_infinitive": "sahip olmak",
+  "turkish_verb": {
+    "verb_full": "sahip olmazsanız",
+    "root": "sahip ol",
+    "tense_affix": "zsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If you don’t have a valid ticket, you can’t enter.",
+  "russian_example_sentence": "Если у вас нет действующего билета, вы не сможете войти.",
+  "turkish_example_sentence": "Geçerli biletiniz olmazsanız, giremezsiniz.",
+  "turkish_example_sentence_with_blank": "Geçerli biletiniz olmazsanız, giremezsiniz."
+}

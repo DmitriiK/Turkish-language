@@ -1,0 +1,20 @@
+{
+  "verb_rank": 39,
+  "verb_english": "like",
+  "verb_russian": "нравиться",
+  "verb_infinitive": "sevmek",
+  "turkish_verb": {
+    "verb_full": "sevmezsem",
+    "root": "sev",
+    "tense_affix": "mezse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If I don't like it, I'll say so.",
+  "russian_example_sentence": "Если мне это не понравится, я скажу об этом.",
+  "turkish_example_sentence": "Bunu sevmezsem, bunu söylerim.",
+  "turkish_example_sentence_with_blank": "Bunu ______, bunu söylerim."
+}

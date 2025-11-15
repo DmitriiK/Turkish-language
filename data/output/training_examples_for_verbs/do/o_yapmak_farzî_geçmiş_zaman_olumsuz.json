@@ -1,0 +1,20 @@
+{
+  "verb_rank": 3,
+  "verb_english": "do",
+  "verb_russian": "делать",
+  "verb_infinitive": "yapmak",
+  "turkish_verb": {
+    "verb_full": "yapmamışsa",
+    "root": "yap",
+    "tense_affix": "mamışsa",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If she hadn't done the crime...",
+  "russian_example_sentence": "Если бы она не совершила преступление...",
+  "turkish_example_sentence": "O büyük suçu yapmamışsa, hapse girmeyecekti.",
+  "turkish_example_sentence_with_blank": "O büyük suçu ______, hapse girmeyecekti."
+}

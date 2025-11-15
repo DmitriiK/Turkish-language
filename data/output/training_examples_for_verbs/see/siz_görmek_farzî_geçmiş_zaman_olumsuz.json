@@ -1,0 +1,20 @@
+{
+  "verb_rank": 11,
+  "verb_english": "see",
+  "verb_russian": "видеть",
+  "verb_infinitive": "görmek",
+  "turkish_verb": {
+    "verb_full": "görmemişseniz",
+    "root": "gör",
+    "tense_affix": "memişse",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "siz",
+    "personal_affix": "niz",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If you hadn't seen the hidden message...",
+  "russian_example_sentence": "Если бы вы не увидели скрытое сообщение...",
+  "turkish_example_sentence": "Siz gizli mesajı görmemişseniz, ipucunu kaçırmış olabilirsiniz.",
+  "turkish_example_sentence_with_blank": "Siz gizli mesajı ______, ipucunu kaçırmış olabilirsiniz."
+}

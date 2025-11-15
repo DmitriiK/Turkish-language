@@ -1,0 +1,20 @@
+{
+  "verb_rank": 4,
+  "verb_english": "say",
+  "verb_russian": "сказать",
+  "verb_infinitive": "söylemek",
+  "turkish_verb": {
+    "verb_full": "söylediğinde",
+    "root": "söyle",
+    "tense_affix": "diğ",
+    "verb_tense": "zaman_sıfatı",
+    "personal_pronoun": "sen",
+    "personal_affix": "inde",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "When you say the password, the door opens.",
+  "russian_example_sentence": "Когда ты говоришь пароль, дверь открывается.",
+  "turkish_example_sentence": "Sen şifreyi söylediğinde, kapı açılır.",
+  "turkish_example_sentence_with_blank": "Sen şifreyi ______, kapı açılır."
+}

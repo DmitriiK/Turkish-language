@@ -1,0 +1,20 @@
+{
+  "verb_rank": 31,
+  "verb_english": "begin",
+  "verb_russian": "начинать",
+  "verb_infinitive": "başlamak",
+  "turkish_verb": {
+    "verb_full": "başlamamalıyım",
+    "root": "başla",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "yım",
+    "polarity": "negative",
+    "negative_affix": "mama"
+  },
+  "english_example_sentence": "I must not begin this difficult homework now",
+  "russian_example_sentence": "Я не должен начинать эту сложную домашнюю работу сейчас",
+  "turkish_example_sentence": "Ben bu zor ödevle şimdi başlamamalıyım",
+  "turkish_example_sentence_with_blank": "Ben bu zor ödevle şimdi ______"
+}

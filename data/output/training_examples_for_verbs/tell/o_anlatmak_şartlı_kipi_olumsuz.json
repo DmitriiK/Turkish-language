@@ -1,0 +1,20 @@
+{
+  "verb_rank": 18,
+  "verb_english": "tell",
+  "verb_russian": "рассказывать",
+  "verb_infinitive": "anlatmak",
+  "turkish_verb": {
+    "verb_full": "anlatmazsa",
+    "root": "anlat",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If she doesn't tell the sad story",
+  "russian_example_sentence": "Если она не расскажет грустную историю",
+  "turkish_example_sentence": "Eğer üzücü hikâyeyi anlatmazsa",
+  "turkish_example_sentence_with_blank": "Eğer üzücü hikâyeyi ______"
+}

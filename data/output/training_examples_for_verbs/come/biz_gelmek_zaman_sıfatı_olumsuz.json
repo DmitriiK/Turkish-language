@@ -1,0 +1,20 @@
+{
+  "verb_rank": 12,
+  "verb_english": "come",
+  "verb_russian": "приходить",
+  "verb_infinitive": "gelmek",
+  "turkish_verb": {
+    "verb_full": "gelmediğimizde",
+    "root": "gel",
+    "tense_affix": "dik",
+    "verb_tense": "zaman_sıfatı",
+    "personal_pronoun": "biz",
+    "personal_affix": "imiz",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "When we don't come to the meeting, we apologize.",
+  "russian_example_sentence": "Когда мы не приходим на встречу, мы извиняемся.",
+  "turkish_example_sentence": "Biz toplantıya gelmediğimizde, özür diliyoruz.",
+  "turkish_example_sentence_with_blank": "Biz toplantıya ______, özür diliyoruz."
+}

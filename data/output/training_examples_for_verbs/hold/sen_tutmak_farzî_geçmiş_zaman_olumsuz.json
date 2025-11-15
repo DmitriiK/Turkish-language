@@ -1,0 +1,20 @@
+{
+  "verb_rank": 42,
+  "verb_english": "rent",
+  "verb_russian": "держать",
+  "verb_infinitive": "tutmak",
+  "turkish_verb": {
+    "verb_full": "tutmamışsan",
+    "root": "tut",
+    "tense_affix": "mış",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "sen",
+    "personal_affix": "san",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If you had not rented that cheap house, we would be homeless.",
+  "russian_example_sentence": "Если бы ты не снял тот дешевый дом, мы бы остались бездомными.",
+  "turkish_example_sentence": "O ucuz evi tutmamışsan, evsiz kalırdık.",
+  "turkish_example_sentence_with_blank": "O ucuz evi ______, evsiz kalırdık."
+}

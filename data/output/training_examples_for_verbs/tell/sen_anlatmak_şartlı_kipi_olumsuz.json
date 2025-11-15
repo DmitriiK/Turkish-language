@@ -1,0 +1,20 @@
+{
+  "verb_rank": 18,
+  "verb_english": "tell",
+  "verb_russian": "рассказывать",
+  "verb_infinitive": "anlatmak",
+  "turkish_verb": {
+    "verb_full": "anlatmazsan",
+    "root": "anlat",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If you don't tell the funny joke",
+  "russian_example_sentence": "Если ты не расскажешь смешную шутку",
+  "turkish_example_sentence": "Eğer komik espriyi anlatmazsan",
+  "turkish_example_sentence_with_blank": "Eğer komik espriyi ______"
+}

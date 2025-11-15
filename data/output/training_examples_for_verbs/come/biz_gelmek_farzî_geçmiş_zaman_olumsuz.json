@@ -1,0 +1,20 @@
+{
+  "verb_rank": 12,
+  "verb_english": "come",
+  "verb_russian": "приходить",
+  "verb_infinitive": "gelmek",
+  "turkish_verb": {
+    "verb_full": "gelmemişsek",
+    "root": "gel",
+    "tense_affix": "mişse",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If we hadn't come, we saved",
+  "russian_example_sentence": "Если бы мы не пришли, мы бы спасли",
+  "turkish_example_sentence": "Biz gelmemişsek, şirketin itibarını kurtarmış olurduk",
+  "turkish_example_sentence_with_blank": "Biz ______, şirketin itibarını kurtarmış olurduk"
+}

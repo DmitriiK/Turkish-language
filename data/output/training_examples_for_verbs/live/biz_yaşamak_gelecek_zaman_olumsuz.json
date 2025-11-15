@@ -1,0 +1,20 @@
+{
+  "verb_rank": 40,
+  "verb_english": "live",
+  "verb_russian": "жить",
+  "verb_infinitive": "yaşamak",
+  "turkish_verb": {
+    "verb_full": "yaşamayacağız",
+    "root": "yaşa",
+    "tense_affix": "yacak",
+    "verb_tense": "gelecek_zaman",
+    "personal_pronoun": "biz",
+    "personal_affix": "ız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "We will not live in that small remote island forever",
+  "russian_example_sentence": "Мы не будем жить на том маленьком отдаленном острове",
+  "turkish_example_sentence": "Biz küçük uzak adada sonsuza kadar yaşamayacağız",
+  "turkish_example_sentence_with_blank": "Biz küçük uzak adada sonsuza kadar ______"
+}

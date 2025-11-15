@@ -1,0 +1,20 @@
+{
+  "verb_rank": 11,
+  "verb_english": "see",
+  "verb_russian": "видеть",
+  "verb_infinitive": "görmek",
+  "turkish_verb": {
+    "verb_full": "görmezsek",
+    "root": "gör",
+    "tense_affix": "mezse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If we don't see the painting, we'll leave early",
+  "russian_example_sentence": "Если мы не увидим картину, мы уйдем рано",
+  "turkish_example_sentence": "Eğer resmi görmezsek erken gideriz",
+  "turkish_example_sentence_with_blank": "Eğer resmi ______ erken gideriz"
+}

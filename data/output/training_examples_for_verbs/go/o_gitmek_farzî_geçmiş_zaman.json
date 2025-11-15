@@ -1,0 +1,20 @@
+{
+  "verb_rank": 5,
+  "verb_english": "go",
+  "verb_russian": "идти",
+  "verb_infinitive": "gitmek",
+  "turkish_verb": {
+    "verb_full": "gitmişse",
+    "root": "git",
+    "tense_affix": "mişse",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If he had gone to the doctor.",
+  "russian_example_sentence": "Если бы он пошел к врачу.",
+  "turkish_example_sentence": "O hasta doktora gitmişse, iyileşirdi.",
+  "turkish_example_sentence_with_blank": "O hasta doktora ______, iyileşirdi."
+}

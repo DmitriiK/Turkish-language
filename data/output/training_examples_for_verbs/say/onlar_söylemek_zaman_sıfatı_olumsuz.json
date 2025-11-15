@@ -1,0 +1,20 @@
+{
+  "verb_rank": 4,
+  "verb_english": "say",
+  "verb_russian": "сказать",
+  "verb_infinitive": "söylemek",
+  "turkish_verb": {
+    "verb_full": "söylemediklerinde",
+    "root": "söyle",
+    "tense_affix": "mediğ",
+    "verb_tense": "zaman_sıfatı",
+    "personal_pronoun": "onlar",
+    "personal_affix": "lerinde",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "When they don't say anything, the tension rises.",
+  "russian_example_sentence": "Когда они ничего не говорят, напряжение растет.",
+  "turkish_example_sentence": "Onlar hiçbir şey söylemediklerinde, gerginlik artar.",
+  "turkish_example_sentence_with_blank": "Onlar hiçbir şey ______, gerginlik artar."
+}

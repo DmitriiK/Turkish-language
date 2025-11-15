@@ -1,0 +1,20 @@
+{
+  "verb_rank": 40,
+  "verb_english": "live",
+  "verb_russian": "жить",
+  "verb_infinitive": "yaşamak",
+  "turkish_verb": {
+    "verb_full": "yaşamamışsam",
+    "root": "yaşa",
+    "tense_affix": "mış",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "ben",
+    "personal_affix": "sam",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If I had not lived in that quiet village, I wouldn't know peace.",
+  "russian_example_sentence": "Если бы я не жил в той тихой деревне, я бы не знал покоя.",
+  "turkish_example_sentence": "Ben o sakin köyde yaşamamışsam, huzuru hiç bilmezdim.",
+  "turkish_example_sentence_with_blank": "Ben o sakin köyde ______, huzuru hiç bilmezdim."
+}

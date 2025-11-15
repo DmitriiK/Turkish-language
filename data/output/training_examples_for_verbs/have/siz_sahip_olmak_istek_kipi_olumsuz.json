@@ -1,0 +1,20 @@
+{
+  "verb_rank": 2,
+  "verb_english": "have",
+  "verb_russian": "иметь",
+  "verb_infinitive": "sahip olmak",
+  "turkish_verb": {
+    "verb_full": "sahip olmayasınız",
+    "root": "sahip ol",
+    "tense_affix": "a",
+    "verb_tense": "istek_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "sınız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "May you all not have problems.",
+  "russian_example_sentence": "Пусть у вас не будет проблем.",
+  "turkish_example_sentence": "Siz sorunlara sahip olmayasınız.",
+  "turkish_example_sentence_with_blank": "Siz sorunlara ______."
+}

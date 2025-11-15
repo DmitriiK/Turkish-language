@@ -1,0 +1,20 @@
+{
+  "verb_rank": 1,
+  "verb_english": "be",
+  "verb_russian": "быть",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olmazsam",
+    "root": "ol",
+    "tense_affix": "sa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If I am not ready, I will call you.",
+  "russian_example_sentence": "Если я не буду готов, я позову тебя.",
+  "turkish_example_sentence": "Ben hazır olmazsam seni ararım.",
+  "turkish_example_sentence_with_blank": "Ben hazır ______ seni ararım."
+}

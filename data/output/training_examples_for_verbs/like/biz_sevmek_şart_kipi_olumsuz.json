@@ -1,0 +1,20 @@
+{
+  "verb_rank": 39,
+  "verb_english": "like",
+  "verb_russian": "нравиться",
+  "verb_infinitive": "sevmek",
+  "turkish_verb": {
+    "verb_full": "sevmesek",
+    "root": "sev",
+    "tense_affix": "mese",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If we didn’t like this idea, we wouldn’t agree",
+  "russian_example_sentence": "Если бы нам не понравилась эта идея, мы бы не согласились",
+  "turkish_example_sentence": "Bu fikri sevmesek, kabul etmezdik",
+  "turkish_example_sentence_with_blank": "Bu fikri ______, kabul etmezdik"
+}

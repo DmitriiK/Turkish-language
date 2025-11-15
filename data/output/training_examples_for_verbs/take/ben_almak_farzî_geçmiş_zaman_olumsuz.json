@@ -1,0 +1,20 @@
+{
+  "verb_rank": 10,
+  "verb_english": "take",
+  "verb_russian": "брать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almamışsam",
+    "root": "al",
+    "tense_affix": "mamışsa",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If I hadn't taken that risk...",
+  "russian_example_sentence": "Если бы я не пошел на этот риск...",
+  "turkish_example_sentence": "Ben o büyük riski almamışsam, şimdi farklı yerde olurdum",
+  "turkish_example_sentence_with_blank": "Ben o büyük riski ______, şimdi farklı yerde olurdum"
+}

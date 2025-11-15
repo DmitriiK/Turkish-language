@@ -1,0 +1,20 @@
+{
+  "verb_rank": 45,
+  "verb_english": "provide",
+  "verb_russian": "предоставлять",
+  "verb_infinitive": "sağlamak",
+  "turkish_verb": {
+    "verb_full": "sağlamazsak",
+    "root": "sağla",
+    "tense_affix": "arsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If we don’t provide any support, they won’t succeed.",
+  "russian_example_sentence": "Если мы не окажем никакой поддержки, они не добьются успеха.",
+  "turkish_example_sentence": "Eğer biz hiçbir destek sağlamazsak, onlar başarılı olamaz.",
+  "turkish_example_sentence_with_blank": "Eğer biz hiçbir destek ______, onlar başarılı olamaz."
+}

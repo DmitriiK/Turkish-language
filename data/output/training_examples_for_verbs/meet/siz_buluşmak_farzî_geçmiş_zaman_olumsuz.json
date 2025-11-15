@@ -1,0 +1,20 @@
+{
+  "verb_rank": 50,
+  "verb_english": "meet",
+  "verb_russian": "встречать",
+  "verb_infinitive": "buluşmak",
+  "turkish_verb": {
+    "verb_full": "buluşmamışsanız",
+    "root": "buluş",
+    "tense_affix": "mış",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "siz",
+    "personal_affix": "sanız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If you had not met the new neighbors, you wouldn't have learned their names.",
+  "russian_example_sentence": "Если бы вы не встретили новых соседей, вы бы не узнали их имена.",
+  "turkish_example_sentence": "Yeni komşularla buluşmamışsanız, isimlerini öğrenmezdiniz.",
+  "turkish_example_sentence_with_blank": "Yeni komşularla ______, isimlerini öğrenmezdiniz."
+}

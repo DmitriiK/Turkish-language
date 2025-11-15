@@ -1,0 +1,20 @@
+{
+  "verb_rank": 4,
+  "verb_english": "say",
+  "verb_russian": "сказать",
+  "verb_infinitive": "söylemek",
+  "turkish_verb": {
+    "verb_full": "söylemeyelim",
+    "root": "söyle",
+    "tense_affix": "yelim",
+    "verb_tense": "istek_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "lim",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "Let's not say anything too personal.",
+  "russian_example_sentence": "Давайте не будем говорить ничего личного.",
+  "turkish_example_sentence": "Biz çok özel bir şey söylemeyelim.",
+  "turkish_example_sentence_with_blank": "Biz çok özel bir şey ______."
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 49,
+  "verb_english": "pay",
+  "verb_russian": "платить",
+  "verb_infinitive": "ödemek",
+  "turkish_verb": {
+    "verb_full": "ödememişsek",
+    "root": "öde",
+    "tense_affix": "miş",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "biz",
+    "personal_affix": "sek",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If we had not paid the tuition, we would face difficulty.",
+  "russian_example_sentence": "Если бы мы не заплатили за обучение, мы бы столкнулись с трудностями.",
+  "turkish_example_sentence": "Okul ücretini henüz ödememişsek, büyük zorluklarla karşılaşırdık.",
+  "turkish_example_sentence_with_blank": "Okul ücretini henüz ______, büyük zorluklarla karşılaşırdık."
+}

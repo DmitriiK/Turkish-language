@@ -1,0 +1,20 @@
+{
+  "verb_rank": 20,
+  "verb_english": "call",
+  "verb_russian": "звонить",
+  "verb_infinitive": "aramak",
+  "turkish_verb": {
+    "verb_full": "aramayalım",
+    "root": "ara",
+    "tense_affix": "ya",
+    "verb_tense": "istek_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "lım",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "Let's not call the annoying telemarketer",
+  "russian_example_sentence": "Давайте не будем звонить надоедливому телемаркетологу",
+  "turkish_example_sentence": "Biz o sinir bozucu tele pazarlamacıyı aramayalım",
+  "turkish_example_sentence_with_blank": "Biz o sinir bozucu tele pazarlamacıyı ______"
+}

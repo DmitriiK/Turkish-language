@@ -1,0 +1,20 @@
+{
+  "verb_rank": 10,
+  "verb_english": "take",
+  "verb_russian": "брать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almazsak",
+    "root": "al",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If we don’t take water, we might be thirsty",
+  "russian_example_sentence": "Если мы не возьмём воду, мы можем захотеть пить",
+  "turkish_example_sentence": "Eğer su almazsak, susayabiliriz",
+  "turkish_example_sentence_with_blank": "Eğer su ______, susayabiliriz"
+}

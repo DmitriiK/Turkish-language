@@ -1,0 +1,20 @@
+{
+  "verb_rank": 30,
+  "verb_english": "let",
+  "verb_russian": "позволять",
+  "verb_infinitive": "izin vermek",
+  "turkish_verb": {
+    "verb_full": "izin vermezlerse",
+    "root": "izin ver",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "lerse",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If they don't allow, we're stuck.",
+  "russian_example_sentence": "Если они не позволят, мы застряли.",
+  "turkish_example_sentence": "Onlar size izin vermezlerse, biz burada mahsur kalırız.",
+  "turkish_example_sentence_with_blank": "Onlar size ______, biz burada mahsur kalırız."
+}

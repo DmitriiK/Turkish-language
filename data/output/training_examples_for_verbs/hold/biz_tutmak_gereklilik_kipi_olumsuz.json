@@ -1,0 +1,20 @@
+{
+  "verb_rank": 42,
+  "verb_english": "hold",
+  "verb_russian": "держать",
+  "verb_infinitive": "tutmak",
+  "turkish_verb": {
+    "verb_full": "tutmamamız lazım",
+    "root": "tut",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "mız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "We should not hold the delicate antique mirror without care",
+  "russian_example_sentence": "Мы не должны держать деликатное антикварное зеркало",
+  "turkish_example_sentence": "Biz hassas antika aynayı dikkatsizce tutmamamız lazım",
+  "turkish_example_sentence_with_blank": "Biz hassas antika aynayı dikkatsizce ______"
+}

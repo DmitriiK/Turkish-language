@@ -1,0 +1,20 @@
+{
+  "verb_rank": 40,
+  "verb_english": "live",
+  "verb_russian": "жить",
+  "verb_infinitive": "yaşamak",
+  "turkish_verb": {
+    "verb_full": "yaşamazsınız",
+    "root": "yaşa",
+    "tense_affix": "r",
+    "verb_tense": "geniş_zaman",
+    "personal_pronoun": "siz",
+    "personal_affix": "sınız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "You do not live in the crowded downtown area",
+  "russian_example_sentence": "Вы не живете в переполненном центре города",
+  "turkish_example_sentence": "Siz yoğun ve havalı merkez bölgesinde yaşamazsınız",
+  "turkish_example_sentence_with_blank": "Siz yoğun ve havalı merkez bölgesinde ______"
+}

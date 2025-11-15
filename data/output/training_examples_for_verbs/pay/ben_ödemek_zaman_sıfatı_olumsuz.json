@@ -1,0 +1,20 @@
+{
+  "verb_rank": 49,
+  "verb_english": "pay",
+  "verb_russian": "платить",
+  "verb_infinitive": "ödemek",
+  "turkish_verb": {
+    "verb_full": "ödemediğimde",
+    "root": "öde",
+    "tense_affix": "diğ",
+    "verb_tense": "zaman_sıfatı",
+    "personal_pronoun": "ben",
+    "personal_affix": "imde",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "When I didn't pay the monthly subscription, the service was cut.",
+  "russian_example_sentence": "Когда я не оплатил ежемесячную подписку, услуга была отключена.",
+  "turkish_example_sentence": "Aylık aboneliği ödemediğimde, hizmet kesildi.",
+  "turkish_example_sentence_with_blank": "Aylık aboneliği ______, hizmet kesildi."
+}

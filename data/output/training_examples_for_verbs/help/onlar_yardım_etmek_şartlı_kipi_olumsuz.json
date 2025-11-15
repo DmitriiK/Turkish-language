@@ -1,0 +1,20 @@
+{
+  "verb_rank": 33,
+  "verb_english": "help",
+  "verb_russian": "помогать",
+  "verb_infinitive": "yardım etmek",
+  "turkish_verb": {
+    "verb_full": "yardım etmezlerse",
+    "root": "yardım et",
+    "tense_affix": "mezse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "ler",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If they don't help, it will take longer.",
+  "russian_example_sentence": "Если они не помогут, это займет дольше.",
+  "turkish_example_sentence": "Onlar yardım etmezlerse, daha uzun sürer.",
+  "turkish_example_sentence_with_blank": "Onlar ______, daha uzun sürer."
+}

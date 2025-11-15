@@ -1,0 +1,20 @@
+{
+  "verb_rank": 5,
+  "verb_english": "go",
+  "verb_russian": "идти",
+  "verb_infinitive": "gitmek",
+  "turkish_verb": {
+    "verb_full": "gitmediğimde",
+    "root": "git",
+    "tense_affix": "mediği",
+    "verb_tense": "zaman_sıfatı",
+    "personal_pronoun": "ben",
+    "personal_affix": "mde",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "When I don't go to the gym, I feel guilty.",
+  "russian_example_sentence": "Когда я не хожу в спортзал, я чувствую себя виноватым.",
+  "turkish_example_sentence": "Ben spor salonuna gitmediğimde, suçlu hissediyorum.",
+  "turkish_example_sentence_with_blank": "Ben spor salonuna ______, suçlu hissediyorum."
+}

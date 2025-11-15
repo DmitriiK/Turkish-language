@@ -1,0 +1,20 @@
+{
+  "verb_rank": 40,
+  "verb_english": "live",
+  "verb_russian": "жить",
+  "verb_infinitive": "yaşamak",
+  "turkish_verb": {
+    "verb_full": "yaşamamam lazım",
+    "root": "yaşa",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "I do not need to live in that crowded noisy place",
+  "russian_example_sentence": "Мне не нужно жить в том шумном многолюдном месте",
+  "turkish_example_sentence": "Ben o kalabalık gürültülü yerde yaşamamam lazım",
+  "turkish_example_sentence_with_blank": "Ben o kalabalık gürültülü yerde ______"
+}

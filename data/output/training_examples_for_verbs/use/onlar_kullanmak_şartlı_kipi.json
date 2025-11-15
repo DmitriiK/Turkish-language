@@ -1,0 +1,20 @@
+{
+  "verb_rank": 15,
+  "verb_english": "use",
+  "verb_russian": "использовать",
+  "verb_infinitive": "kullanmak",
+  "turkish_verb": {
+    "verb_full": "kullanırlarsa",
+    "root": "kullan",
+    "tense_affix": "ırlarsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "lar",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If they use our idea, we will both win.",
+  "russian_example_sentence": "Если они используют нашу идею, то мы оба выиграем.",
+  "turkish_example_sentence": "Bizim fikrimizi kullanırlarsa, ikimiz de kazanırız.",
+  "turkish_example_sentence_with_blank": "Bizim fikrimizi ______, ikimiz de kazanırız."
+}

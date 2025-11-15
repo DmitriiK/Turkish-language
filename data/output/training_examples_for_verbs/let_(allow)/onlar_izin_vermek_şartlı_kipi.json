@@ -1,0 +1,20 @@
+{
+  "verb_rank": 30,
+  "verb_english": "let",
+  "verb_russian": "позволять",
+  "verb_infinitive": "izin vermek",
+  "turkish_verb": {
+    "verb_full": "izin verirlerse",
+    "root": "izin ver",
+    "tense_affix": "ir",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "lerse",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If they allow it, everything's fine.",
+  "russian_example_sentence": "Если они позволят, все в порядке.",
+  "turkish_example_sentence": "Onlar sana izin verirlerse, her şey yolunda demektir.",
+  "turkish_example_sentence_with_blank": "Onlar sana ______, her şey yolunda demektir."
+}

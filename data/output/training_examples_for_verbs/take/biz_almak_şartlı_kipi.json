@@ -1,0 +1,20 @@
+{
+  "verb_rank": 10,
+  "verb_english": "take",
+  "verb_russian": "брать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "alırsak",
+    "root": "al",
+    "tense_affix": "ırsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If we take the green bus, we might be late",
+  "russian_example_sentence": "Если мы возьмём зелёный автобус, мы можем опоздать",
+  "turkish_example_sentence": "Eğer yeşil otobüsü alırsak, geç kalabiliriz",
+  "turkish_example_sentence_with_blank": "Eğer yeşil otobüsü ______, geç kalabiliriz"
+}

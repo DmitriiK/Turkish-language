@@ -1,0 +1,20 @@
+{
+  "verb_rank": 40,
+  "verb_english": "live",
+  "verb_russian": "жить",
+  "verb_infinitive": "yaşamak",
+  "turkish_verb": {
+    "verb_full": "yaşamamışsa",
+    "root": "yaşa",
+    "tense_affix": "mış",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "o",
+    "personal_affix": "sa",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If she had not lived unhealthily, she would not be sick.",
+  "russian_example_sentence": "Если бы она не жила нездорово, она бы не болела.",
+  "turkish_example_sentence": "O sağlıksız bir hayat yaşamamışsa, bugün hasta olmazdı.",
+  "turkish_example_sentence_with_blank": "O sağlıksız bir hayat ______, bugün hasta olmazdı."
+}

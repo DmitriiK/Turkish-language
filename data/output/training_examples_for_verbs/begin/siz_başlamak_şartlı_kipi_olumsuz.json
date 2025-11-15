@@ -1,0 +1,20 @@
+{
+  "verb_rank": 31,
+  "verb_english": "begin",
+  "verb_russian": "начинать",
+  "verb_infinitive": "başlamak",
+  "turkish_verb": {
+    "verb_full": "başlamazsanız",
+    "root": "başla",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If you don’t begin studying, you’ll fail.",
+  "russian_example_sentence": "Если вы не начнёте учиться, вы провалитесь.",
+  "turkish_example_sentence": "Eğer ders çalışmaya başlamazsanız, başarısız olursunuz.",
+  "turkish_example_sentence_with_blank": "Eğer ders çalışmaya ______, başarısız olursunuz."
+}

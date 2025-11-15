@@ -1,0 +1,20 @@
+{
+  "verb_rank": 4,
+  "verb_english": "say",
+  "verb_russian": "сказать",
+  "verb_infinitive": "söylemek",
+  "turkish_verb": {
+    "verb_full": "söylemeyecektik",
+    "root": "söyle",
+    "tense_affix": "yecek",
+    "verb_tense": "geçmiş_gelecek_zaman",
+    "personal_pronoun": "biz",
+    "personal_affix": "tik",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "We weren't going to say the truth.",
+  "russian_example_sentence": "Мы не собирались говорить правду.",
+  "turkish_example_sentence": "Biz gerçeği söylemeyecektik.",
+  "turkish_example_sentence_with_blank": "Biz gerçeği ______."
+}

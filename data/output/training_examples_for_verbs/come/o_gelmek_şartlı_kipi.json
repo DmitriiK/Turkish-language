@@ -1,0 +1,20 @@
+{
+  "verb_rank": 12,
+  "verb_english": "come",
+  "verb_russian": "приходить",
+  "verb_infinitive": "gelmek",
+  "turkish_verb": {
+    "verb_full": "gelirse",
+    "root": "gel",
+    "tense_affix": "irse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If he comes on time, we can start.",
+  "russian_example_sentence": "Если он придет вовремя, мы можем начать.",
+  "turkish_example_sentence": "Eğer zamanında gelirse, başlayabiliriz.",
+  "turkish_example_sentence_with_blank": "Eğer zamanında ______, başlayabiliriz."
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 48,
+  "verb_english": "lose",
+  "verb_russian": "терять",
+  "verb_infinitive": "kaybetmek",
+  "turkish_verb": {
+    "verb_full": "kaybetmezse",
+    "root": "kaybet",
+    "tense_affix": "se",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If he doesn't lose his ticket, he can attend the concert.",
+  "russian_example_sentence": "Если он не потеряет билет, он сможет пойти на концерт.",
+  "turkish_example_sentence": "Biletini kaybetmezse, konsere gidebilir.",
+  "turkish_example_sentence_with_blank": "Biletini ______, konsere gidebilir."
+}

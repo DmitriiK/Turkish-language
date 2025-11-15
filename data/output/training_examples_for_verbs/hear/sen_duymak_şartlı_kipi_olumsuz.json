@@ -1,0 +1,20 @@
+{
+  "verb_rank": 35,
+  "verb_english": "hear",
+  "verb_russian": "слышать",
+  "verb_infinitive": "duymak",
+  "turkish_verb": {
+    "verb_full": "duymazsan",
+    "root": "duy",
+    "tense_affix": "sa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If you don't hear me, call me.",
+  "russian_example_sentence": "Если ты меня не услышишь, позвони мне.",
+  "turkish_example_sentence": "Beni duymazsan beni ara.",
+  "turkish_example_sentence_with_blank": "Beni ______ beni ara."
+}

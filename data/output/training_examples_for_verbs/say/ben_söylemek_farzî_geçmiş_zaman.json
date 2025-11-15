@@ -1,0 +1,20 @@
+{
+  "verb_rank": 4,
+  "verb_english": "say",
+  "verb_russian": "сказать",
+  "verb_infinitive": "söylemek",
+  "turkish_verb": {
+    "verb_full": "söylemişsem",
+    "root": "söyle",
+    "tense_affix": "mişse",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If I had said it wrong.",
+  "russian_example_sentence": "Если бы я сказал это неправильно.",
+  "turkish_example_sentence": "Ben bunu yanlış söylemişsem, özür dilerim.",
+  "turkish_example_sentence_with_blank": "Ben bunu yanlış ______, özür dilerim."
+}

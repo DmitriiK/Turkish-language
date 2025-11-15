@@ -1,0 +1,20 @@
+{
+  "verb_rank": 37,
+  "verb_english": "run",
+  "verb_russian": "бегать",
+  "verb_infinitive": "koşmak",
+  "turkish_verb": {
+    "verb_full": "koşmazlarsa",
+    "root": "koş",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "lar",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If they don't run fast, they'll lose the match.",
+  "russian_example_sentence": "Если они не побегут быстро, они проиграют матч.",
+  "turkish_example_sentence": "Eğer hızlı koşmazlarsa, maçı kaybederler.",
+  "turkish_example_sentence_with_blank": "Eğer hızlı ______, maçı kaybederler."
+}

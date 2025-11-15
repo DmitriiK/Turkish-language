@@ -1,0 +1,20 @@
+{
+  "verb_rank": 20,
+  "verb_english": "call",
+  "verb_russian": "звонить",
+  "verb_infinitive": "aramak",
+  "turkish_verb": {
+    "verb_full": "aramadığınızda",
+    "root": "ara",
+    "tense_affix": "dık",
+    "verb_tense": "zaman_sıfatı",
+    "personal_pronoun": "siz",
+    "personal_affix": "ınız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "When you don't call, we assume busy.",
+  "russian_example_sentence": "Когда вы не звоните, мы предполагаем, что заняты.",
+  "turkish_example_sentence": "Siz beni seminerden aramadığınızda, biz meşgul olduğunuzu sanıyoruz.",
+  "turkish_example_sentence_with_blank": "Siz beni seminerden ______, biz meşgul olduğunuzu sanıyoruz."
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 3,
+  "verb_english": "do",
+  "verb_russian": "делать",
+  "verb_infinitive": "yapmak",
+  "turkish_verb": {
+    "verb_full": "yaparsan",
+    "root": "yap",
+    "tense_affix": "arsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If you do this project, it will help.",
+  "russian_example_sentence": "Если ты сделаешь этот проект, это поможет.",
+  "turkish_example_sentence": "Bu projeyi yaparsan faydalı olur.",
+  "turkish_example_sentence_with_blank": "Bu projeyi ______ faydalı olur."
+}

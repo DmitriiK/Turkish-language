@@ -1,0 +1,20 @@
+{
+  "verb_rank": 4,
+  "verb_english": "say",
+  "verb_russian": "сказать",
+  "verb_infinitive": "söylemek",
+  "turkish_verb": {
+    "verb_full": "söylemeseler",
+    "root": "söyle",
+    "tense_affix": "se",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "ler",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If they don’t say anything, we won’t know anything",
+  "russian_example_sentence": "Если они ничего не скажут, мы ничего не узнаем",
+  "turkish_example_sentence": "Onlar hiçbir şey söylemeseler, hiçbir şey bilmeyiz",
+  "turkish_example_sentence_with_blank": "Onlar hiçbir şey ______, hiçbir şey bilmeyiz"
+}

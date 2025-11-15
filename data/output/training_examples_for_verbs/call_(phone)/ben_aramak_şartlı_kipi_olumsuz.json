@@ -1,0 +1,20 @@
+{
+  "verb_rank": 20,
+  "verb_english": "call",
+  "verb_russian": "звонить",
+  "verb_infinitive": "aramak",
+  "turkish_verb": {
+    "verb_full": "aramazsam",
+    "root": "ara",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If I don't call, assume everything's fine.",
+  "russian_example_sentence": "Если я не позвоню, считай, что все в порядке.",
+  "turkish_example_sentence": "Ben seni hiç aramazsam, her şey yolunda demektir.",
+  "turkish_example_sentence_with_blank": "Ben seni hiç ______, her şey yolunda demektir."
+}

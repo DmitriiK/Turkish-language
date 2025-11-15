@@ -1,0 +1,20 @@
+{
+  "verb_rank": 49,
+  "verb_english": "pay",
+  "verb_russian": "платить",
+  "verb_infinitive": "ödemek",
+  "turkish_verb": {
+    "verb_full": "ödersen",
+    "root": "öde",
+    "tense_affix": "rse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If you pay the rent, you stay.",
+  "russian_example_sentence": "Если ты заплатишь арендную плату, ты останешься.",
+  "turkish_example_sentence": "Sen kirayı ödersen, kalırsın.",
+  "turkish_example_sentence_with_blank": "Sen kirayı ______, kalırsın."
+}

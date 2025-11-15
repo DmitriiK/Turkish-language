@@ -1,0 +1,20 @@
+{
+  "verb_rank": 5,
+  "verb_english": "go",
+  "verb_russian": "идти",
+  "verb_infinitive": "gitmek",
+  "turkish_verb": {
+    "verb_full": "gitmeyesin",
+    "root": "git",
+    "tense_affix": "e",
+    "verb_tense": "istek_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "sin",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "May you not go to the cold river",
+  "russian_example_sentence": "Пусть ты не идёшь к холодной реке",
+  "turkish_example_sentence": "Soğuk nehre gitmeyesin",
+  "turkish_example_sentence_with_blank": "Soğuk nehre ______"
+}

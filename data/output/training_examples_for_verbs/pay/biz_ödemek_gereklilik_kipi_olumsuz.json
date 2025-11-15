@@ -1,0 +1,20 @@
+{
+  "verb_rank": 49,
+  "verb_english": "pay",
+  "verb_russian": "платить",
+  "verb_infinitive": "ödemek",
+  "turkish_verb": {
+    "verb_full": "ödemememiz lazım",
+    "root": "öde",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "mız",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "We don't need to pay the fine",
+  "russian_example_sentence": "Нам не нужно платить штраф",
+  "turkish_example_sentence": "Biz cezayı ödemememiz lazım",
+  "turkish_example_sentence_with_blank": "Biz cezayı ______"
+}

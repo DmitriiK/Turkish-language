@@ -1,0 +1,20 @@
+{
+  "verb_rank": 31,
+  "verb_english": "begin",
+  "verb_russian": "начинать",
+  "verb_infinitive": "başlamak",
+  "turkish_verb": {
+    "verb_full": "başlamasa",
+    "root": "başla",
+    "tense_affix": "masa",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If she doesn’t begin working, we will fail.",
+  "russian_example_sentence": "Если она не начнёт работать, мы провалим.",
+  "turkish_example_sentence": "Eğer çalışmaya başlamasa, biz başarısız oluruz.",
+  "turkish_example_sentence_with_blank": "Eğer çalışmaya ______, biz başarısız oluruz."
+}

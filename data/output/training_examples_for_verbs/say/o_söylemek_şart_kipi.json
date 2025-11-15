@@ -1,0 +1,20 @@
+{
+  "verb_rank": 4,
+  "verb_english": "say",
+  "verb_russian": "сказать",
+  "verb_infinitive": "söylemek",
+  "turkish_verb": {
+    "verb_full": "söylese",
+    "root": "söyle",
+    "tense_affix": "se",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If he says something important, we will listen",
+  "russian_example_sentence": "Если он скажет что-то важное, мы будем слушать",
+  "turkish_example_sentence": "O önemli bir şey söylese, dinleriz",
+  "turkish_example_sentence_with_blank": "O önemli bir şey ______, dinleriz"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 8,
+  "verb_english": "know",
+  "verb_russian": "знать",
+  "verb_infinitive": "bilmek",
+  "turkish_verb": {
+    "verb_full": "bilmezsek",
+    "root": "bil",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If we don’t know what to say",
+  "russian_example_sentence": "Если мы не знаем, что сказать",
+  "turkish_example_sentence": "Eğer ne söyleyeceğimizi bilmezsek",
+  "turkish_example_sentence_with_blank": "Eğer ne söyleyeceğimizi ______"
+}

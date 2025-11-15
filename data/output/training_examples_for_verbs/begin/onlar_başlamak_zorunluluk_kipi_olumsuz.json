@@ -1,0 +1,20 @@
+{
+  "verb_rank": 31,
+  "verb_english": "begin",
+  "verb_russian": "начинать",
+  "verb_infinitive": "başlamak",
+  "turkish_verb": {
+    "verb_full": "başlamamalılar",
+    "root": "başla",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "lar",
+    "polarity": "negative",
+    "negative_affix": "mama"
+  },
+  "english_example_sentence": "They must not begin the secret investigation without permission",
+  "russian_example_sentence": "Они не должны начинать секретное расследование без разрешения",
+  "turkish_example_sentence": "Onlar izin olmadan gizli soruşturmayı başlamamalılar",
+  "turkish_example_sentence_with_blank": "Onlar izin olmadan gizli soruşturmayı ______"
+}

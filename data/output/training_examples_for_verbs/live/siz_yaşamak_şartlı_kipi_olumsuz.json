@@ -1,0 +1,20 @@
+{
+  "verb_rank": 40,
+  "verb_english": "live",
+  "verb_russian": "жить",
+  "verb_infinitive": "yaşamak",
+  "turkish_verb": {
+    "verb_full": "yaşamazsanız",
+    "root": "yaşa",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If you do not live downtown, commuting might take longer",
+  "russian_example_sentence": "Если вы не будете жить в центре города, поездки могут занять больше времени",
+  "turkish_example_sentence": "Eğer şehir merkezinde yaşamazsanız, işe gitmek daha uzun sürebilir",
+  "turkish_example_sentence_with_blank": "Eğer şehir merkezinde ______, işe gitmek daha uzun sürebilir"
+}

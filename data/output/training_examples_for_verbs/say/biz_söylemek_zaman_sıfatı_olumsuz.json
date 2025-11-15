@@ -1,0 +1,20 @@
+{
+  "verb_rank": 4,
+  "verb_english": "say",
+  "verb_russian": "сказать",
+  "verb_infinitive": "söylemek",
+  "turkish_verb": {
+    "verb_full": "söylemediğimizde",
+    "root": "söyle",
+    "tense_affix": "mediğ",
+    "verb_tense": "zaman_sıfatı",
+    "personal_pronoun": "biz",
+    "personal_affix": "imizde",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "When we don't say anything, they assume guilt.",
+  "russian_example_sentence": "Когда мы ничего не говорим, они предполагают вину.",
+  "turkish_example_sentence": "Biz hiçbir şey söylemediğimizde, onlar suçluluk varsayıyorlar.",
+  "turkish_example_sentence_with_blank": "Biz hiçbir şey ______, onlar suçluluk varsayıyorlar."
+}

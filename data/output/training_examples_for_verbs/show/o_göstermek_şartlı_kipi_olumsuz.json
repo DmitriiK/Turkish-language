@@ -1,0 +1,20 @@
+{
+  "verb_rank": 34,
+  "verb_english": "show",
+  "verb_russian": "показывать",
+  "verb_infinitive": "göstermek",
+  "turkish_verb": {
+    "verb_full": "göstermese",
+    "root": "göster",
+    "tense_affix": "se",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If he doesn't show the ticket, he won't enter.",
+  "russian_example_sentence": "Если он не покажет билет, он не войдет.",
+  "turkish_example_sentence": "Bileti göstermese içeri giremez.",
+  "turkish_example_sentence_with_blank": "Bileti ______ içeri giremez."
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 4,
+  "verb_english": "say",
+  "verb_russian": "сказать",
+  "verb_infinitive": "söylemek",
+  "turkish_verb": {
+    "verb_full": "söylememişsen",
+    "root": "söyle",
+    "tense_affix": "mişse",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If you hadn't said those harsh words.",
+  "russian_example_sentence": "Если бы ты не сказал эти резкие слова.",
+  "turkish_example_sentence": "Sen o sert sözleri söylememişsen, endişelenme.",
+  "turkish_example_sentence_with_blank": "Sen o sert sözleri ______, endişelenme."
+}

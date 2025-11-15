@@ -1,0 +1,20 @@
+{
+  "verb_rank": 12,
+  "verb_english": "come",
+  "verb_russian": "приходить",
+  "verb_infinitive": "gelmek",
+  "turkish_verb": {
+    "verb_full": "gelmeyesiniz",
+    "root": "gel",
+    "tense_affix": "e",
+    "verb_tense": "istek_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "siniz",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "May you not come late tonight.",
+  "russian_example_sentence": "Вы не придёте сегодня поздно вечером?",
+  "turkish_example_sentence": "Siz bu gece geç gelmeyesiniz.",
+  "turkish_example_sentence_with_blank": "Siz bu gece geç ______."
+}

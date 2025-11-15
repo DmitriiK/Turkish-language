@@ -1,0 +1,20 @@
+{
+  "verb_rank": 7,
+  "verb_english": "make",
+  "verb_russian": "делать (создавать)",
+  "verb_infinitive": "yapmak",
+  "turkish_verb": {
+    "verb_full": "yapmazsak",
+    "root": "yap",
+    "tense_affix": "sa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If we don’t make progress, we will stop.",
+  "russian_example_sentence": "Если мы не добьемся прогресса, мы остановимся.",
+  "turkish_example_sentence": "Eğer ilerleme yapmazsak, dururuz.",
+  "turkish_example_sentence_with_blank": "Eğer ilerleme ______, dururuz."
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 42,
+  "verb_english": "hold",
+  "verb_russian": "держать",
+  "verb_infinitive": "tutmak",
+  "turkish_verb": {
+    "verb_full": "tutmazsa",
+    "root": "tut",
+    "tense_affix": "arsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If he doesn't hold the door, it will close.",
+  "russian_example_sentence": "Если он не держит дверь, она закроется.",
+  "turkish_example_sentence": "Kapıyı tutmazsa, kapanır.",
+  "turkish_example_sentence_with_blank": "Kapıyı ______, kapanır."
+}

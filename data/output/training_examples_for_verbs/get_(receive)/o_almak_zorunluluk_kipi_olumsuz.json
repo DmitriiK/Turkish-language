@@ -1,0 +1,20 @@
+{
+  "verb_rank": 6,
+  "verb_english": "get",
+  "verb_russian": "получать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almamalı",
+    "root": "al",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "He must not get too much sugar.",
+  "russian_example_sentence": "Он не должен получать слишком много сахара.",
+  "turkish_example_sentence": "O çok fazla şeker almamalı.",
+  "turkish_example_sentence_with_blank": "O çok fazla şeker ______."
+}

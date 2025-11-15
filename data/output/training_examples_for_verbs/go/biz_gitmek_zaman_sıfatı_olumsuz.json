@@ -1,0 +1,20 @@
+{
+  "verb_rank": 5,
+  "verb_english": "go",
+  "verb_russian": "идти",
+  "verb_infinitive": "gitmek",
+  "turkish_verb": {
+    "verb_full": "gitmediğimizde",
+    "root": "git",
+    "tense_affix": "mediği",
+    "verb_tense": "zaman_sıfatı",
+    "personal_pronoun": "biz",
+    "personal_affix": "mizde",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "When we don't go to the mountains, we relax.",
+  "russian_example_sentence": "Когда мы не идем в горы, мы отдыхаем.",
+  "turkish_example_sentence": "Biz dağlara gitmediğimizde, dinleniriz.",
+  "turkish_example_sentence_with_blank": "Biz dağlara ______, dinleniriz."
+}

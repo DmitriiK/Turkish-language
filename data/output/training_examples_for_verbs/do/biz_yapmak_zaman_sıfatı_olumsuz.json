@@ -1,0 +1,20 @@
+{
+  "verb_rank": 3,
+  "verb_english": "do",
+  "verb_russian": "делать",
+  "verb_infinitive": "yapmak",
+  "turkish_verb": {
+    "verb_full": "yapmadığımızda",
+    "root": "yap",
+    "tense_affix": "tık",
+    "verb_tense": "zaman_sıfatı",
+    "personal_pronoun": "biz",
+    "personal_affix": "ımız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "When we don't do research, we are ignorant.",
+  "russian_example_sentence": "Когда мы не проводим исследования, мы невежественны.",
+  "turkish_example_sentence": "Biz araştırma yapmadığımızda, cahil kalırız.",
+  "turkish_example_sentence_with_blank": "Biz araştırma ______, cahil kalırız."
+}

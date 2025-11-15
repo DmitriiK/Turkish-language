@@ -1,0 +1,20 @@
+{
+  "verb_rank": 4,
+  "verb_english": "say",
+  "verb_russian": "сказать",
+  "verb_infinitive": "söylemek",
+  "turkish_verb": {
+    "verb_full": "söylemişsek",
+    "root": "söyle",
+    "tense_affix": "mişse",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If we had said the correct answer.",
+  "russian_example_sentence": "Если бы мы сказали правильный ответ.",
+  "turkish_example_sentence": "Biz doğru cevabı söylemişsek, puan alacağız.",
+  "turkish_example_sentence_with_blank": "Biz doğru cevabı ______, puan alacağız."
+}

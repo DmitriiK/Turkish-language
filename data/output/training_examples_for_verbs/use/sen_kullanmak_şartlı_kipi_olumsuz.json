@@ -1,0 +1,20 @@
+{
+  "verb_rank": 15,
+  "verb_english": "use",
+  "verb_russian": "использовать",
+  "verb_infinitive": "kullanmak",
+  "turkish_verb": {
+    "verb_full": "kullanmazsan",
+    "root": "kullan",
+    "tense_affix": "zsan",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If you don't use this medicine, you won't recover.",
+  "russian_example_sentence": "Если ты не используешь это лекарство, ты не выздоровеешь.",
+  "turkish_example_sentence": "Bu ilacı kullanmazsan, iyileşmezsin.",
+  "turkish_example_sentence_with_blank": "Bu ilacı ______, iyileşmezsin."
+}

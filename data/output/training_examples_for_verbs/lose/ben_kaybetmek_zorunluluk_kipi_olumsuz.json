@@ -1,0 +1,20 @@
+{
+  "verb_rank": 48,
+  "verb_english": "lose",
+  "verb_russian": "терять",
+  "verb_infinitive": "kaybetmek",
+  "turkish_verb": {
+    "verb_full": "kaybetmemeliyim",
+    "root": "kaybet",
+    "tense_affix": "meli",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "yim",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "I must not lose my wallet.",
+  "russian_example_sentence": "Я не должен терять свой кошелек.",
+  "turkish_example_sentence": "Ben cüzdanımı kaybetmemeliyim.",
+  "turkish_example_sentence_with_blank": "Ben cüzdanımı ______."
+}

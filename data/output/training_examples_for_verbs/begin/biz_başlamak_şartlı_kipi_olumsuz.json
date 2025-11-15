@@ -1,0 +1,20 @@
+{
+  "verb_rank": 31,
+  "verb_english": "begin",
+  "verb_russian": "начинать",
+  "verb_infinitive": "başlamak",
+  "turkish_verb": {
+    "verb_full": "başlamazsak",
+    "root": "başla",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If we don’t begin soon, it will get dark.",
+  "russian_example_sentence": "Если мы не начнём скоро, станет темно.",
+  "turkish_example_sentence": "Eğer yakında başlamazsak, hava kararır.",
+  "turkish_example_sentence_with_blank": "Eğer yakında ______, hava kararır."
+}

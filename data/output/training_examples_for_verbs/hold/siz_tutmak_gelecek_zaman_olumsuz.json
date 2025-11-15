@@ -1,0 +1,20 @@
+{
+  "verb_rank": 42,
+  "verb_english": "hold",
+  "verb_russian": "держать",
+  "verb_infinitive": "tutmak",
+  "turkish_verb": {
+    "verb_full": "tutmayacaksınız",
+    "root": "tut",
+    "tense_affix": "acak",
+    "verb_tense": "gelecek_zaman",
+    "personal_pronoun": "siz",
+    "personal_affix": "sınız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "You will not hold the dangerous sharp kitchen knife carelessly",
+  "russian_example_sentence": "Вы не будете беспечно держать опасный острый кухонный нож",
+  "turkish_example_sentence": "Siz tehlikeli keskin mutfak bıçağını dikkatsizce tutmayacaksınız",
+  "turkish_example_sentence_with_blank": "Siz tehlikeli keskin mutfak bıçağını dikkatsizce ______"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 13,
+  "verb_english": "want",
+  "verb_russian": "хотеть",
+  "verb_infinitive": "istemek",
+  "turkish_verb": {
+    "verb_full": "istemezseniz",
+    "root": "iste",
+    "tense_affix": "mezse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "niz",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If you don't want to wait, you can leave.",
+  "russian_example_sentence": "Если вы не хотите ждать, вы можете уехать.",
+  "turkish_example_sentence": "Eğer beklemek istemezseniz, gidebilirsiniz.",
+  "turkish_example_sentence_with_blank": "Eğer beklemek ______, gidebilirsiniz."
+}

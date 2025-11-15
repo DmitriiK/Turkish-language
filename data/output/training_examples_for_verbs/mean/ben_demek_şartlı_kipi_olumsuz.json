@@ -1,0 +1,20 @@
+{
+  "verb_rank": 28,
+  "verb_english": "mean",
+  "verb_russian": "значить",
+  "verb_infinitive": "demek",
+  "turkish_verb": {
+    "verb_full": "demezsem",
+    "root": "de",
+    "tense_affix": "erse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If I don’t say it, nothing changes.",
+  "russian_example_sentence": "Если я этого не скажу, ничего не изменится.",
+  "turkish_example_sentence": "Bunu demezsem, hiçbir şey değişmez.",
+  "turkish_example_sentence_with_blank": "Bunu ______, hiçbir şey değişmez."
+}

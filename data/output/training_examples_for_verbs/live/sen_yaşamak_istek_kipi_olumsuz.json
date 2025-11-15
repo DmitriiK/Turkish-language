@@ -1,0 +1,20 @@
+{
+  "verb_rank": 40,
+  "verb_english": "live",
+  "verb_russian": "жить",
+  "verb_infinitive": "yaşamak",
+  "turkish_verb": {
+    "verb_full": "yaşamayasın",
+    "root": "yaşa",
+    "tense_affix": "ya",
+    "verb_tense": "istek_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "sın",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "May you not live in sadness every day",
+  "russian_example_sentence": "Пусть ты не живешь в печали каждый день",
+  "turkish_example_sentence": "Sen her gün üzüntü içinde yaşamayasın.",
+  "turkish_example_sentence_with_blank": "Sen her gün üzüntü içinde ______."
+}

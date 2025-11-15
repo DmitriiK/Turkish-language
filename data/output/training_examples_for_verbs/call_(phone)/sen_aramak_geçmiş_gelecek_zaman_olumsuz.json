@@ -1,0 +1,20 @@
+{
+  "verb_rank": 20,
+  "verb_english": "call (phone)",
+  "verb_russian": "звонить",
+  "verb_infinitive": "aramak",
+  "turkish_verb": {
+    "verb_full": "aramayacaktın",
+    "root": "ara",
+    "tense_affix": "mayacaktı",
+    "verb_tense": "geçmiş_gelecek_zaman",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "You weren't going to call the ambulance.",
+  "russian_example_sentence": "Ты не собирался звонить в скорую помощь.",
+  "turkish_example_sentence": "Sen ambulansı aramayacaktın.",
+  "turkish_example_sentence_with_blank": "Sen ambulansı ______."
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 25,
+  "verb_english": "become",
+  "verb_russian": "становиться",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olmazsa",
+    "root": "ol",
+    "tense_affix": "zsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If he doesn't become responsible, problems will arise.",
+  "russian_example_sentence": "Если он не станет ответственным, возникнут проблемы.",
+  "turkish_example_sentence": "Eğer sorumlu olmazsa, problemler çıkabilir.",
+  "turkish_example_sentence_with_blank": "Eğer sorumlu ______, problemler çıkabilir."
+}

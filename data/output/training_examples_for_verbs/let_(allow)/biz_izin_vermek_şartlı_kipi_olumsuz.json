@@ -1,0 +1,20 @@
+{
+  "verb_rank": 30,
+  "verb_english": "let",
+  "verb_russian": "позволять",
+  "verb_infinitive": "izin vermek",
+  "turkish_verb": {
+    "verb_full": "izin vermezsek",
+    "root": "izin ver",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "sek",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If we don't allow, it will fail.",
+  "russian_example_sentence": "Если мы не позволим, это провалится.",
+  "turkish_example_sentence": "Biz onlara izin vermezsek, proje başarısız olacak.",
+  "turkish_example_sentence_with_blank": "Biz onlara ______, proje başarısız olacak."
+}

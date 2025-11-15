@@ -1,0 +1,20 @@
+{
+  "verb_rank": 37,
+  "verb_english": "run",
+  "verb_russian": "бегать",
+  "verb_infinitive": "koşmak",
+  "turkish_verb": {
+    "verb_full": "koşmamışsam",
+    "root": "koş",
+    "tense_affix": "mışsa",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If I hadn't run that marathon, my legs wouldn't be so tired.",
+  "russian_example_sentence": "Если бы я не пробежал тот марафон, мои ноги не были бы такими уставшими.",
+  "turkish_example_sentence": "Ben o maratonu koşmamışsam, bacaklarım bu kadar yorgun olmazdı.",
+  "turkish_example_sentence_with_blank": "Ben o maratonu ______, bacaklarım bu kadar yorgun olmazdı."
+}

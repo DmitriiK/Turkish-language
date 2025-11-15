@@ -1,0 +1,20 @@
+{
+  "verb_rank": 22,
+  "verb_english": "ask",
+  "verb_russian": "спрашивать",
+  "verb_infinitive": "sormak",
+  "turkish_verb": {
+    "verb_full": "sormazlarsa",
+    "root": "sor",
+    "tense_affix": "sa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "lar",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If they don’t ask the teacher",
+  "russian_example_sentence": "Если они не спросят учителя",
+  "turkish_example_sentence": "Onlar öğretmene sormazlarsa, sınavda yanlış yaparlar",
+  "turkish_example_sentence_with_blank": "Onlar öğretmene ______, sınavda yanlış yaparlar"
+}

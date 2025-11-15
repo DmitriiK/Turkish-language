@@ -1,0 +1,20 @@
+{
+  "verb_rank": 40,
+  "verb_english": "live",
+  "verb_russian": "жить",
+  "verb_infinitive": "yaşamak",
+  "turkish_verb": {
+    "verb_full": "yaşamazsak",
+    "root": "yaşa",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If we do not live in the forest, we will not hear the birds",
+  "russian_example_sentence": "Если мы не будем жить в лесу, мы не услышим птиц",
+  "turkish_example_sentence": "Eğer ormanda yaşamazsak, kuşları duyamayız",
+  "turkish_example_sentence_with_blank": "Eğer ormanda ______, kuşları duyamayız"
+}

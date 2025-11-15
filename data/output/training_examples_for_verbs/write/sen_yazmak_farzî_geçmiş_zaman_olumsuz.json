@@ -1,0 +1,20 @@
+{
+  "verb_rank": 44,
+  "verb_english": "write",
+  "verb_russian": "писать",
+  "verb_infinitive": "yazmak",
+  "turkish_verb": {
+    "verb_full": "yazmamışsan",
+    "root": "yaz",
+    "tense_affix": "mış",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "sen",
+    "personal_affix": "san",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If you hadn't written that long email, we wouldn't have waited.",
+  "russian_example_sentence": "Если бы ты не написал то длинное электронное письмо, мы бы не ждали.",
+  "turkish_example_sentence": "Sen o uzun e-postayı yazmamışsan, beklemezdik.",
+  "turkish_example_sentence_with_blank": "Sen o uzun e-postayı ______, beklemezdik."
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 50,
+  "verb_english": "meet",
+  "verb_russian": "встречать",
+  "verb_infinitive": "buluşmak",
+  "turkish_verb": {
+    "verb_full": "buluşmazlarsa",
+    "root": "buluş",
+    "tense_affix": "mazlar",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "sa",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If they don't meet, cancel.",
+  "russian_example_sentence": "Если они не встретятся, отмените.",
+  "turkish_example_sentence": "Onlar rehberle müzede buluşmazlarsa, turu iptal etsinler.",
+  "turkish_example_sentence_with_blank": "Onlar rehberle müzede ______, turu iptal etsinler."
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 6,
+  "verb_english": "get",
+  "verb_russian": "получать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almaman lazım",
+    "root": "al",
+    "tense_affix": "man",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "You don't need to get medicine.",
+  "russian_example_sentence": "Тебе не нужно покупать лекарство.",
+  "turkish_example_sentence": "Sen ilaç almaman lazım.",
+  "turkish_example_sentence_with_blank": "Sen ilaç ______."
+}

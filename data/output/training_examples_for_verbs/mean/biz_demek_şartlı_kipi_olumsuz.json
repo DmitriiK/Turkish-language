@@ -1,0 +1,20 @@
+{
+  "verb_rank": 28,
+  "verb_english": "mean",
+  "verb_russian": "значить",
+  "verb_infinitive": "demek",
+  "turkish_verb": {
+    "verb_full": "demezsek",
+    "root": "de",
+    "tense_affix": "erse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If we don’t say anything, they will leave.",
+  "russian_example_sentence": "Если мы ничего не скажем, они уйдут.",
+  "turkish_example_sentence": "Hiçbir şey demezsek, onlar gidecek.",
+  "turkish_example_sentence_with_blank": "Hiçbir şey ______, onlar gidecek."
+}

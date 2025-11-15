@@ -1,0 +1,20 @@
+{
+  "verb_rank": 12,
+  "verb_english": "come",
+  "verb_russian": "приходить",
+  "verb_infinitive": "gelmek",
+  "turkish_verb": {
+    "verb_full": "gelmemişlerse",
+    "root": "gel",
+    "tense_affix": "mişlerse",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "onlar",
+    "personal_affix": "lar",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If they hadn't come, no news",
+  "russian_example_sentence": "Если бы они не пришли, не было бы новостей",
+  "turkish_example_sentence": "Onlar gelmemişlerse, önemli haberleri duymamışlardır muhtemelen",
+  "turkish_example_sentence_with_blank": "Onlar ______, önemli haberleri duymamışlardır muhtemelen"
+}

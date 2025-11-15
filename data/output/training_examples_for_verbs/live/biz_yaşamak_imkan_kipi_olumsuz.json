@@ -1,0 +1,20 @@
+{
+  "verb_rank": 40,
+  "verb_english": "live",
+  "verb_russian": "жить",
+  "verb_infinitive": "yaşamak",
+  "turkish_verb": {
+    "verb_full": "yaşayamayız",
+    "root": "yaşa",
+    "tense_affix": "yama",
+    "verb_tense": "imkan_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "yız",
+    "polarity": "negative",
+    "negative_affix": "yama"
+  },
+  "english_example_sentence": "We cannot live in such an expensive luxurious resort permanently",
+  "russian_example_sentence": "Мы не можем жить в таком дорогом роскошном курорте постоянно",
+  "turkish_example_sentence": "Biz bu pahalı lüks tatil bölgesinde sürekli yaşayamayız",
+  "turkish_example_sentence_with_blank": "Biz bu pahalı lüks tatil bölgesinde sürekli ______"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 10,
+  "verb_english": "take",
+  "verb_russian": "брать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almışsanız",
+    "root": "al",
+    "tense_affix": "mışsa",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If you had taken the medicine...",
+  "russian_example_sentence": "Если бы вы приняли лекарство...",
+  "turkish_example_sentence": "Siz acı ilacı almışsanız, iyileşirdiniz",
+  "turkish_example_sentence_with_blank": "Siz acı ilacı ______, iyileşirdiniz"
+}

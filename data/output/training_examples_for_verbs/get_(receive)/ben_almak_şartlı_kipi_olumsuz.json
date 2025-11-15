@@ -1,0 +1,20 @@
+{
+  "verb_rank": 6,
+  "verb_english": "get",
+  "verb_russian": "получать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almazsam",
+    "root": "al",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If I don't get enough sleep,",
+  "russian_example_sentence": "Если я не получу достаточно сна,",
+  "turkish_example_sentence": "Ben yeterli uyku almazsam, yorgun hissederim.",
+  "turkish_example_sentence_with_blank": "Ben yeterli uyku ______, yorgun hissederim."
+}

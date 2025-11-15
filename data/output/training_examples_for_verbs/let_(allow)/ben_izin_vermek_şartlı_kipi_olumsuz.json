@@ -1,0 +1,20 @@
+{
+  "verb_rank": 30,
+  "verb_english": "let",
+  "verb_russian": "позволять",
+  "verb_infinitive": "izin vermek",
+  "turkish_verb": {
+    "verb_full": "izin vermezsem",
+    "root": "izin ver",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "sem",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If I don't allow it, nobody wins.",
+  "russian_example_sentence": "Если я не позволю, никто не выиграет.",
+  "turkish_example_sentence": "Ben sana izin vermezsem, kimse kazanamaz.",
+  "turkish_example_sentence_with_blank": "Ben sana ______, kimse kazanamaz."
+}

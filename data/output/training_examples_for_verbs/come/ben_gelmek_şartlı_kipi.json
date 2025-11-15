@@ -1,0 +1,20 @@
+{
+  "verb_rank": 12,
+  "verb_english": "come",
+  "verb_russian": "приходить",
+  "verb_infinitive": "gelmek",
+  "turkish_verb": {
+    "verb_full": "gelirsem",
+    "root": "gel",
+    "tense_affix": "irse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If I come early, we can leave.",
+  "russian_example_sentence": "Если я приду рано, мы можем уйти.",
+  "turkish_example_sentence": "Eğer erken gelirsem, çıkabiliriz.",
+  "turkish_example_sentence_with_blank": "Eğer erken ______, çıkabiliriz."
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 10,
+  "verb_english": "take",
+  "verb_russian": "брать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almazsam",
+    "root": "al",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If I don't take my umbrella, I’ll get soaked",
+  "russian_example_sentence": "Если я не возьму зонт, я промокну",
+  "turkish_example_sentence": "Eğer şemsiyemi almazsam, sırılsıklam olurum",
+  "turkish_example_sentence_with_blank": "Eğer şemsiyemi ______, sırılsıklam olurum"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 25,
+  "verb_english": "become",
+  "verb_russian": "становиться",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olmazsan",
+    "root": "ol",
+    "tense_affix": "zsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If you don't become stronger, it’ll be hard.",
+  "russian_example_sentence": "Если ты не станешь сильнее, будет трудно.",
+  "turkish_example_sentence": "Eğer daha güçlü olmazsan, zor olur.",
+  "turkish_example_sentence_with_blank": "Eğer daha güçlü ______, zor olur."
+}

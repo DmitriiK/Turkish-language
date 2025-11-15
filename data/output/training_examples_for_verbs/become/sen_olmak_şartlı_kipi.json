@@ -1,0 +1,20 @@
+{
+  "verb_rank": 25,
+  "verb_english": "become",
+  "verb_russian": "становиться",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olursan",
+    "root": "ol",
+    "tense_affix": "ursa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If you become a doctor, you can save lives.",
+  "russian_example_sentence": "Если ты станешь врачом, сможешь спасать жизни.",
+  "turkish_example_sentence": "Eğer doktor olursan, hayat kurtarabilirsin.",
+  "turkish_example_sentence_with_blank": "Eğer doktor ______, hayat kurtarabilirsin."
+}

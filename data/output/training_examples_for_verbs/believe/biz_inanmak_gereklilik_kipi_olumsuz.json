@@ -1,0 +1,20 @@
+{
+  "verb_rank": 41,
+  "verb_english": "believe",
+  "verb_russian": "верить",
+  "verb_infinitive": "inanmak",
+  "turkish_verb": {
+    "verb_full": "inanmamamız lazım",
+    "root": "inan",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "mız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "We should not believe every news headline",
+  "russian_example_sentence": "Мы не должны верить каждому заголовку новостей",
+  "turkish_example_sentence": "Biz her haber başlığına inanmamamız lazım",
+  "turkish_example_sentence_with_blank": "Biz her haber başlığına ______"
+}

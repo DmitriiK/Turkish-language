@@ -1,0 +1,20 @@
+{
+  "verb_rank": 4,
+  "verb_english": "say",
+  "verb_russian": "сказать",
+  "verb_infinitive": "söylemek",
+  "turkish_verb": {
+    "verb_full": "söylemesem",
+    "root": "söyle",
+    "tense_affix": "se",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If I don’t say anything, it may be easier",
+  "russian_example_sentence": "Если я ничего не скажу, это может быть проще",
+  "turkish_example_sentence": "Ben hiçbir şey söylemesem, daha kolay olur",
+  "turkish_example_sentence_with_blank": "Ben hiçbir şey ______, daha kolay olur"
+}

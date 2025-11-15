@@ -1,0 +1,20 @@
+{
+  "verb_rank": 43,
+  "verb_english": "bring",
+  "verb_russian": "приносить",
+  "verb_infinitive": "getirmek",
+  "turkish_verb": {
+    "verb_full": "getirmezsem",
+    "root": "getir",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If I don’t bring enough food",
+  "russian_example_sentence": "Если я не принесу достаточно еды",
+  "turkish_example_sentence": "Yeterince yiyecek getirmezsem",
+  "turkish_example_sentence_with_blank": "Yeterince yiyecek ______"
+}

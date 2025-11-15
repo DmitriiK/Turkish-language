@@ -1,0 +1,20 @@
+{
+  "verb_rank": 6,
+  "verb_english": "get",
+  "verb_russian": "получать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almasak",
+    "root": "al",
+    "tense_affix": "masa",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If we didn't get the necessary information",
+  "russian_example_sentence": "Если бы мы не получили необходимую информацию",
+  "turkish_example_sentence": "Biz gerekli bilgiyi almasak projeyi tamamlayamazdık.",
+  "turkish_example_sentence_with_blank": "Biz gerekli bilgiyi ______ projeyi tamamlayamazdık."
+}

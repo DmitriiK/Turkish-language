@@ -1,0 +1,20 @@
+{
+  "verb_rank": 40,
+  "verb_english": "live",
+  "verb_russian": "жить",
+  "verb_infinitive": "yaşamak",
+  "turkish_verb": {
+    "verb_full": "yaşamazsan",
+    "root": "yaşa",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If you do not live near the school, you might struggle",
+  "russian_example_sentence": "Если ты не будешь жить рядом со школой, тебе будет трудно",
+  "turkish_example_sentence": "Eğer okulun yakınında yaşamazsan, zorlanabilirsin",
+  "turkish_example_sentence_with_blank": "Eğer okulun yakınında ______, zorlanabilirsin"
+}

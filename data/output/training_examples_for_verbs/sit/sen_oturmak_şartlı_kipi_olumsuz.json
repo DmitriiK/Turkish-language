@@ -1,0 +1,20 @@
+{
+  "verb_rank": 46,
+  "verb_english": "sit",
+  "verb_russian": "сидеть",
+  "verb_infinitive": "oturmak",
+  "turkish_verb": {
+    "verb_full": "oturmazsan",
+    "root": "otur",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If you don't sit on the wet grass, your clothes will stay dry.",
+  "russian_example_sentence": "Если ты не сядешь на мокрую траву, твоя одежда останется сухой.",
+  "turkish_example_sentence": "Sen ıslak çimene oturmazsan, kıyafetlerin kuru kalır.",
+  "turkish_example_sentence_with_blank": "Sen ıslak çimene ______, kıyafetlerin kuru kalır."
+}

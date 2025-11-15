@@ -1,0 +1,20 @@
+{
+  "verb_rank": 31,
+  "verb_english": "begin",
+  "verb_russian": "начинать",
+  "verb_infinitive": "başlamak",
+  "turkish_verb": {
+    "verb_full": "başlamamalı",
+    "root": "başla",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "mama"
+  },
+  "english_example_sentence": "She must not begin the long journey tonight",
+  "russian_example_sentence": "Она не должна начинать долгое путешествие сегодня ночью",
+  "turkish_example_sentence": "O uzun yolculuğa bu gece başlamamalı",
+  "turkish_example_sentence_with_blank": "O uzun yolculuğa bu gece ______"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 20,
+  "verb_english": "call",
+  "verb_russian": "звонить",
+  "verb_infinitive": "aramak",
+  "turkish_verb": {
+    "verb_full": "aramamanız lazım",
+    "root": "ara",
+    "tense_affix": " ",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "You don't need to call tonight",
+  "russian_example_sentence": "Вам не нужно звонить сегодня вечером",
+  "turkish_example_sentence": "Siz kimseyi bu akşam aramamanız lazım",
+  "turkish_example_sentence_with_blank": "Siz kimseyi bu akşam ______"
+}

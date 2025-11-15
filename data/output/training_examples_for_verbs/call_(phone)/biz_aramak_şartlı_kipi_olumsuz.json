@@ -1,0 +1,20 @@
+{
+  "verb_rank": 20,
+  "verb_english": "call",
+  "verb_russian": "звонить",
+  "verb_infinitive": "aramak",
+  "turkish_verb": {
+    "verb_full": "aramazsak",
+    "root": "ara",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If we don't call, everything is okay.",
+  "russian_example_sentence": "Если мы не позвоним, все в порядке.",
+  "turkish_example_sentence": "Biz sizi meşgul aramazsak, her şey yolundadır.",
+  "turkish_example_sentence_with_blank": "Biz sizi meşgul ______, her şey yolundadır."
+}

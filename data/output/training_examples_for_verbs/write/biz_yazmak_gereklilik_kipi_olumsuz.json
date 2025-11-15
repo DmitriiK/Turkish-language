@@ -1,0 +1,20 @@
+{
+  "verb_rank": 44,
+  "verb_english": "write",
+  "verb_russian": "писать",
+  "verb_infinitive": "yazmak",
+  "turkish_verb": {
+    "verb_full": "yazmaması lazım",
+    "root": "yaz",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "mız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "We should not write negative reviews about the restaurant",
+  "russian_example_sentence": "Мы не должны писать негативные отзывы о ресторане",
+  "turkish_example_sentence": "Biz restoranla ilgili olumsuz yorumları yazmaması lazım",
+  "turkish_example_sentence_with_blank": "Biz restoranla ilgili olumsuz yorumları ______"
+}

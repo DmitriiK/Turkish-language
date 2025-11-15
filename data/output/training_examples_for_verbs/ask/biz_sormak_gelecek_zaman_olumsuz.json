@@ -1,0 +1,20 @@
+{
+  "verb_rank": 22,
+  "verb_english": "ask",
+  "verb_russian": "спрашивать",
+  "verb_infinitive": "sormak",
+  "turkish_verb": {
+    "verb_full": "sormayacağız",
+    "root": "sor",
+    "tense_affix": "acak",
+    "verb_tense": "gelecek_zaman",
+    "personal_pronoun": "biz",
+    "personal_affix": "ız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "We will not ask the tired librarian about the rare documents",
+  "russian_example_sentence": "Мы не спросим уставшего библиотекаря о редких документах",
+  "turkish_example_sentence": "Biz yorgun kütüphaneciden nadir belgeler sormayacağız",
+  "turkish_example_sentence_with_blank": "Biz yorgun kütüphaneciden nadir belgeler ______"
+}

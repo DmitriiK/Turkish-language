@@ -1,0 +1,20 @@
+{
+  "verb_rank": 23,
+  "verb_english": "need",
+  "verb_russian": "нуждаться",
+  "verb_infinitive": "ihtiyaç duymak",
+  "turkish_verb": {
+    "verb_full": "ihtiyaç duymazsam",
+    "root": "ihtiyaç du",
+    "tense_affix": "sa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If I don't need directions, I won't ask.",
+  "russian_example_sentence": "Если я не нуждаюсь в указаниях, я не спрошу.",
+  "turkish_example_sentence": "Yol tarifi ihtiyaç duymazsam, sormam.",
+  "turkish_example_sentence_with_blank": "Yol tarifi ______, sormam."
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 4,
+  "verb_english": "say",
+  "verb_russian": "сказать",
+  "verb_infinitive": "söylemek",
+  "turkish_verb": {
+    "verb_full": "söylesem",
+    "root": "söyle",
+    "tense_affix": "se",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If I say something now, it will help",
+  "russian_example_sentence": "Если я скажу что-то сейчас, это поможет",
+  "turkish_example_sentence": "Ben şimdi bir şey söylesem, faydalı olur",
+  "turkish_example_sentence_with_blank": "Ben şimdi bir şey ______, faydalı olur"
+}

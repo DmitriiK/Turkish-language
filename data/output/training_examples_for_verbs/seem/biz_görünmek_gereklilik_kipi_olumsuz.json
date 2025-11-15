@@ -1,0 +1,20 @@
+{
+  "verb_rank": 32,
+  "verb_english": "seem",
+  "verb_russian": "казаться",
+  "verb_infinitive": "görünmek",
+  "turkish_verb": {
+    "verb_full": "görünmememiz lazım",
+    "root": "görün",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "mız",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "We must not appear unprepared for the important meeting",
+  "russian_example_sentence": "Мы не должны казаться неподготовленными на важном собрании",
+  "turkish_example_sentence": "Biz önemli konferansta hazırlıksız görünmememiz lazım",
+  "turkish_example_sentence_with_blank": "Biz önemli konferansta hazırlıksız ______"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 44,
+  "verb_english": "write",
+  "verb_russian": "писать",
+  "verb_infinitive": "yazmak",
+  "turkish_verb": {
+    "verb_full": "yazmamalılar",
+    "root": "yaz",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "lar",
+    "polarity": "negative",
+    "negative_affix": "mama"
+  },
+  "english_example_sentence": "They must not write confidential information online",
+  "russian_example_sentence": "Они не должны писать конфиденциальную информацию онлайн",
+  "turkish_example_sentence": "Onlar gizli şirket verilerini internet üzerinde yazmamalılar",
+  "turkish_example_sentence_with_blank": "Onlar gizli şirket verilerini internet üzerinde ______"
+}

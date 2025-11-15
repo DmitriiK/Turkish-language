@@ -1,0 +1,20 @@
+{
+  "verb_rank": 1,
+  "verb_english": "be",
+  "verb_russian": "быть",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olmamışlarsa",
+    "root": "ol",
+    "tense_affix": "mamışlarsa",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "onlar",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If they hadn't been so prejudiced...",
+  "russian_example_sentence": "Если бы они не были такими предвзятыми...",
+  "turkish_example_sentence": "Onlar bu kadar önyargılı olmamışlarsa, daha iyi kararlar verebilirlerdi.",
+  "turkish_example_sentence_with_blank": "Onlar bu kadar önyargılı ______, daha iyi kararlar verebilirlerdi."
+}

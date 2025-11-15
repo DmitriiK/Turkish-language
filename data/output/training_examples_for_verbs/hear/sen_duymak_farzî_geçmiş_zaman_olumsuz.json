@@ -1,0 +1,20 @@
+{
+  "verb_rank": 35,
+  "verb_english": "hear",
+  "verb_russian": "слышать",
+  "verb_infinitive": "duymak",
+  "turkish_verb": {
+    "verb_full": "duymamışsan",
+    "root": "duy",
+    "tense_affix": "mamışsa",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If you hadn't heard the thunder",
+  "russian_example_sentence": "Если бы ты не услышал гром",
+  "turkish_example_sentence": "Sen gök gürültüsünü duymamışsan, uyuyordun herhalde.",
+  "turkish_example_sentence_with_blank": "Sen gök gürültüsünü ______, uyuyordun herhalde."
+}

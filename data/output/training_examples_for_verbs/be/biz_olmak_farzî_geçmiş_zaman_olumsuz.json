@@ -1,0 +1,20 @@
+{
+  "verb_rank": 1,
+  "verb_english": "be",
+  "verb_russian": "быть",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olmamışsak",
+    "root": "ol",
+    "tense_affix": "mamışsa",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If we hadn't been so naive...",
+  "russian_example_sentence": "Если бы мы не были такими наивными...",
+  "turkish_example_sentence": "Biz çok saf olmamışsak, bu tuzağa düşmezdik.",
+  "turkish_example_sentence_with_blank": "Biz çok saf ______, bu tuzağa düşmezdik."
+}

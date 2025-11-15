@@ -1,0 +1,20 @@
+{
+  "verb_rank": 4,
+  "verb_english": "say",
+  "verb_russian": "сказать",
+  "verb_infinitive": "söylemek",
+  "turkish_verb": {
+    "verb_full": "söylerseniz",
+    "root": "söyle",
+    "tense_affix": "erse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "niz",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If you say yes now, it will start immediately",
+  "russian_example_sentence": "Если вы скажете да сейчас, это начнётся немедленно",
+  "turkish_example_sentence": "Şimdi evet söylerseniz, hemen başlar",
+  "turkish_example_sentence_with_blank": "Şimdi evet ______, hemen başlar"
+}

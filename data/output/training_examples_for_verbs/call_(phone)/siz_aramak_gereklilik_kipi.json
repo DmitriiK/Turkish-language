@@ -1,0 +1,20 @@
+{
+  "verb_rank": 20,
+  "verb_english": "call",
+  "verb_russian": "звонить",
+  "verb_infinitive": "aramak",
+  "turkish_verb": {
+    "verb_full": "aramanız lazım",
+    "root": "ara",
+    "tense_affix": " ",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "You need to call customer service",
+  "russian_example_sentence": "Вам нужно позвонить в службу поддержки",
+  "turkish_example_sentence": "Siz müşteri hizmetlerini acilen aramanız lazım",
+  "turkish_example_sentence_with_blank": "Siz müşteri hizmetlerini acilen ______"
+}

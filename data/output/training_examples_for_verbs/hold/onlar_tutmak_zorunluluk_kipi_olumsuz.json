@@ -1,0 +1,20 @@
+{
+  "verb_rank": 42,
+  "verb_english": "hold",
+  "verb_russian": "держать",
+  "verb_infinitive": "tutmak",
+  "turkish_verb": {
+    "verb_full": "tutmamalılar",
+    "root": "tut",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "lar",
+    "polarity": "negative",
+    "negative_affix": "mama"
+  },
+  "english_example_sentence": "They must not hold the expensive electronic devices near water",
+  "russian_example_sentence": "Они не должны держать дорогие электронные устройства рядом с водой",
+  "turkish_example_sentence": "Onlar pahalı elektronik cihazları su yakınında tutmamalılar",
+  "turkish_example_sentence_with_blank": "Onlar pahalı elektronik cihazları su yakınında ______"
+}

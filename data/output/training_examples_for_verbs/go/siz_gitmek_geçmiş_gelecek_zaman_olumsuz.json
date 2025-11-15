@@ -1,0 +1,20 @@
+{
+  "verb_rank": 5,
+  "verb_english": "go",
+  "verb_russian": "идти",
+  "verb_infinitive": "gitmek",
+  "turkish_verb": {
+    "verb_full": "gitmeyecektiniz",
+    "root": "git",
+    "tense_affix": "ecek",
+    "verb_tense": "geçmiş_gelecek_zaman",
+    "personal_pronoun": "siz",
+    "personal_affix": "tiniz",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "You weren't going to tell them.",
+  "russian_example_sentence": "Вы не собирались им говорить.",
+  "turkish_example_sentence": "Siz onlara bu acı haberi gitmeyecektiniz.",
+  "turkish_example_sentence_with_blank": "Siz onlara bu acı haberi ______."
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 49,
+  "verb_english": "pay",
+  "verb_russian": "платить",
+  "verb_infinitive": "ödemek",
+  "turkish_verb": {
+    "verb_full": "ödemezseniz",
+    "root": "öde",
+    "tense_affix": "mezse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "niz",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If you don't pay the invoice, service stops.",
+  "russian_example_sentence": "Если вы не заплатите счет, обслуживание прекратится.",
+  "turkish_example_sentence": "Siz faturayı ödemezseniz, servis durur.",
+  "turkish_example_sentence_with_blank": "Siz faturayı ______, servis durur."
+}

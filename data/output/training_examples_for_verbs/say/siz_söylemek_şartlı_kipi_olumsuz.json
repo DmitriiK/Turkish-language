@@ -1,0 +1,20 @@
+{
+  "verb_rank": 4,
+  "verb_english": "say",
+  "verb_russian": "сказать",
+  "verb_infinitive": "söylemek",
+  "turkish_verb": {
+    "verb_full": "söylemezseniz",
+    "root": "söyle",
+    "tense_affix": "mezse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "niz",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If you don’t say it clearly, they won’t understand",
+  "russian_example_sentence": "Если вы не скажете это ясно, они не поймут",
+  "turkish_example_sentence": "Bunu açıkça söylemezseniz, anlamazlar",
+  "turkish_example_sentence_with_blank": "Bunu açıkça ______, anlamazlar"
+}

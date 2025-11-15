@@ -1,0 +1,20 @@
+{
+  "verb_rank": 49,
+  "verb_english": "pay",
+  "verb_russian": "платить",
+  "verb_infinitive": "ödemek",
+  "turkish_verb": {
+    "verb_full": "ödeyemezsiniz",
+    "root": "öde",
+    "tense_affix": "yeme",
+    "verb_tense": "imkan_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "siniz",
+    "polarity": "negative",
+    "negative_affix": "yeme"
+  },
+  "english_example_sentence": "You cannot pay with an expired card",
+  "russian_example_sentence": "Вы не можете платить с просроченной картой",
+  "turkish_example_sentence": "Siz süresi geçmiş bir kartla ödeyemezsiniz",
+  "turkish_example_sentence_with_blank": "Siz süresi geçmiş bir kartla ______"
+}

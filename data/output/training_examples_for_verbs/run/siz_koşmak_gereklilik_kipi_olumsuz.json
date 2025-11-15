@@ -1,0 +1,20 @@
+{
+  "verb_rank": 37,
+  "verb_english": "run",
+  "verb_russian": "бегать",
+  "verb_infinitive": "koşmak",
+  "turkish_verb": {
+    "verb_full": "koşmamanız lazım",
+    "root": "koş",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "You should not run on the stairs",
+  "russian_example_sentence": "Вам не следует бежать по лестнице",
+  "turkish_example_sentence": "Siz tehlikeli merdivende koşmamanız lazım",
+  "turkish_example_sentence_with_blank": "Siz tehlikeli merdivende ______"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 30,
+  "verb_english": "let",
+  "verb_russian": "позволять",
+  "verb_infinitive": "izin vermek",
+  "turkish_verb": {
+    "verb_full": "izin vermemişsek",
+    "root": "izin ver",
+    "tense_affix": "mişse",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If we hadn't let them enter.",
+  "russian_example_sentence": "Если бы мы не позволили им войти.",
+  "turkish_example_sentence": "Biz onların içeri girmesine izin vermemişsek, sorun çıkmazdı.",
+  "turkish_example_sentence_with_blank": "Biz onların içeri girmesine ______, sorun çıkmazdı."
+}

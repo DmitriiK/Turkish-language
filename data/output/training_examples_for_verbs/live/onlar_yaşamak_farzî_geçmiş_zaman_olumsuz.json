@@ -1,0 +1,20 @@
+{
+  "verb_rank": 40,
+  "verb_english": "live",
+  "verb_russian": "жить",
+  "verb_infinitive": "yaşamak",
+  "turkish_verb": {
+    "verb_full": "yaşamamışlarsa",
+    "root": "yaşa",
+    "tense_affix": "mış",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "onlar",
+    "personal_affix": "larsa",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If they had not lived here for years, they would not understand the local customs.",
+  "russian_example_sentence": "Если бы они не жили здесь годами, они бы не поняли местные обычаи.",
+  "turkish_example_sentence": "Onlar burada yıllarca yaşamamışlarsa, yerel gelenekleri anlamazlardı.",
+  "turkish_example_sentence_with_blank": "Onlar burada yıllarca ______, yerel gelenekleri anlamazlardı."
+}

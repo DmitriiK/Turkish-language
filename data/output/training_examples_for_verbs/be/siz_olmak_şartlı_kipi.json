@@ -1,0 +1,20 @@
+{
+  "verb_rank": 1,
+  "verb_english": "be",
+  "verb_russian": "быть",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olursanız",
+    "root": "ol",
+    "tense_affix": "ursa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If you are early, I will wait.",
+  "russian_example_sentence": "Если вы будете рано, я подожду.",
+  "turkish_example_sentence": "Siz erken olursanız beklerim.",
+  "turkish_example_sentence_with_blank": "Siz erken ______ beklerim."
+}

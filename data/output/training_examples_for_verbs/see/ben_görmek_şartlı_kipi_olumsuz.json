@@ -1,0 +1,20 @@
+{
+  "verb_rank": 11,
+  "verb_english": "see",
+  "verb_russian": "видеть",
+  "verb_infinitive": "görmek",
+  "turkish_verb": {
+    "verb_full": "görmezsem",
+    "root": "gör",
+    "tense_affix": "mezse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If I don't see the dog, I’ll be sad",
+  "russian_example_sentence": "Если я не увижу собаку, я расстроюсь",
+  "turkish_example_sentence": "Eğer köpeği görmezsem üzgün olurum",
+  "turkish_example_sentence_with_blank": "Eğer köpeği ______ üzgün olurum"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 40,
+  "verb_english": "live",
+  "verb_russian": "жить",
+  "verb_infinitive": "yaşamak",
+  "turkish_verb": {
+    "verb_full": "yaşamadığında",
+    "root": "yaşa",
+    "tense_affix": "dık",
+    "verb_tense": "zaman_sıfatı",
+    "personal_pronoun": "o",
+    "personal_affix": "ığında",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "When he didn't live with his parents, he learned to cook.",
+  "russian_example_sentence": "Когда он не жил с родителями, он научился готовить.",
+  "turkish_example_sentence": "Ailesiyle yaşamadığında, yemek yapmayı öğrendi.",
+  "turkish_example_sentence_with_blank": "Ailesiyle ______, yemek yapmayı öğrendi."
+}

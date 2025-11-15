@@ -1,0 +1,20 @@
+{
+  "verb_rank": 49,
+  "verb_english": "pay",
+  "verb_russian": "платить",
+  "verb_infinitive": "ödemek",
+  "turkish_verb": {
+    "verb_full": "ödememeliler",
+    "root": "öde",
+    "tense_affix": "meli",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "ler",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "They must not pay for damaged items",
+  "russian_example_sentence": "Они не должны платить за поврежденные товары",
+  "turkish_example_sentence": "Onlar hasarlı eşyalar için ödememeliler",
+  "turkish_example_sentence_with_blank": "Onlar hasarlı eşyalar için ______"
+}

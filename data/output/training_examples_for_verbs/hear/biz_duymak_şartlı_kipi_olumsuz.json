@@ -1,0 +1,20 @@
+{
+  "verb_rank": 35,
+  "verb_english": "hear",
+  "verb_russian": "слышать",
+  "verb_infinitive": "duymak",
+  "turkish_verb": {
+    "verb_full": "duymazsak",
+    "root": "duy",
+    "tense_affix": "sa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If we don't hear the horn, we'll miss the bus.",
+  "russian_example_sentence": "Если мы не услышим гудок, мы пропустим автобус.",
+  "turkish_example_sentence": "Kornayı duymazsak otobüsü kaçırırız.",
+  "turkish_example_sentence_with_blank": "Kornayı ______ otobüsü kaçırırız."
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 46,
+  "verb_english": "sit",
+  "verb_russian": "сидеть",
+  "verb_infinitive": "oturmak",
+  "turkish_verb": {
+    "verb_full": "oturmazsak",
+    "root": "otur",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If we don't sit near the window, we'll miss the view.",
+  "russian_example_sentence": "Если мы не сядем у окна, мы пропустим вид.",
+  "turkish_example_sentence": "Biz pencere kenarına oturmazsak, manzarayı kaçırırız.",
+  "turkish_example_sentence_with_blank": "Biz pencere kenarına ______, manzarayı kaçırırız."
+}

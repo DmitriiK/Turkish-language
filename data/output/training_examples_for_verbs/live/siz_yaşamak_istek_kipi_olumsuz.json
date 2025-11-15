@@ -1,0 +1,20 @@
+{
+  "verb_rank": 40,
+  "verb_english": "live",
+  "verb_russian": "жить",
+  "verb_infinitive": "yaşamak",
+  "turkish_verb": {
+    "verb_full": "yaşamayasınız",
+    "root": "yaşa",
+    "tense_affix": "ya",
+    "verb_tense": "istek_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "sınız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "May you not live in an unkind city",
+  "russian_example_sentence": "Пусть вы не живете в недоброжелательном городе",
+  "turkish_example_sentence": "Siz kötü bir şehirde yaşamayasınız.",
+  "turkish_example_sentence_with_blank": "Siz kötü bir şehirde ______."
+}

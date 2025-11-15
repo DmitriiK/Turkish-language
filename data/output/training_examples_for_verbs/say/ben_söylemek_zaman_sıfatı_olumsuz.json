@@ -1,0 +1,20 @@
+{
+  "verb_rank": 4,
+  "verb_english": "say",
+  "verb_russian": "сказать",
+  "verb_infinitive": "söylemek",
+  "turkish_verb": {
+    "verb_full": "söylemediğimde",
+    "root": "söyle",
+    "tense_affix": "mediğ",
+    "verb_tense": "zaman_sıfatı",
+    "personal_pronoun": "ben",
+    "personal_affix": "imde",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "When I don't say anything, they get curious.",
+  "russian_example_sentence": "Когда я ничего не говорю, им становится любопытно.",
+  "turkish_example_sentence": "Ben hiçbir şey söylemediğimde, onlar merak ediyorlar.",
+  "turkish_example_sentence_with_blank": "Ben hiçbir şey ______, onlar merak ediyorlar."
+}

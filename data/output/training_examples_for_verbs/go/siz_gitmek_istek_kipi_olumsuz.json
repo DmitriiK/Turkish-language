@@ -1,0 +1,20 @@
+{
+  "verb_rank": 5,
+  "verb_english": "go",
+  "verb_russian": "идти",
+  "verb_infinitive": "gitmek",
+  "turkish_verb": {
+    "verb_full": "gitmeyesiniz",
+    "root": "git",
+    "tense_affix": "e",
+    "verb_tense": "istek_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "siniz",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "May you not go to the old town alone",
+  "russian_example_sentence": "Пусть вы не идёте в старый город одни",
+  "turkish_example_sentence": "Yalnız eski kente gitmeyesiniz",
+  "turkish_example_sentence_with_blank": "Yalnız eski kente ______"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 28,
+  "verb_english": "mean",
+  "verb_russian": "значить",
+  "verb_infinitive": "demek",
+  "turkish_verb": {
+    "verb_full": "demezse",
+    "root": "de",
+    "tense_affix": "erse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If she doesn't tell the truth, it would be unjust.",
+  "russian_example_sentence": "Если она не скажет правду, это будет несправедливо.",
+  "turkish_example_sentence": "Eğer doğruyu demezse, bu haksızlık olur.",
+  "turkish_example_sentence_with_blank": "Eğer doğruyu ______, bu haksızlık olur."
+}

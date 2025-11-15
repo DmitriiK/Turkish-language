@@ -1,0 +1,20 @@
+{
+  "verb_rank": 40,
+  "verb_english": "live",
+  "verb_russian": "жить",
+  "verb_infinitive": "yaşamak",
+  "turkish_verb": {
+    "verb_full": "yaşamasak",
+    "root": "yaşa",
+    "tense_affix": "ma",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If we didn't live close to the city, we would have a quieter life",
+  "russian_example_sentence": "Если бы мы не жили близко к городу, у нас была бы тихая жизнь",
+  "turkish_example_sentence": "Biz şehre yakın yaşamasak daha sakin bir hayatımız olurdu",
+  "turkish_example_sentence_with_blank": "Biz şehre yakın ______ daha sakin bir hayatımız olurdu"
+}

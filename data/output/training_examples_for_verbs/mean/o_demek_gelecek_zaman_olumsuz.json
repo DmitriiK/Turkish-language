@@ -1,0 +1,20 @@
+{
+  "verb_rank": 28,
+  "verb_english": "mean",
+  "verb_russian": "значить",
+  "verb_infinitive": "demek",
+  "turkish_verb": {
+    "verb_full": "demeyecek",
+    "root": "de",
+    "tense_affix": "yecek",
+    "verb_tense": "gelecek_zaman",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "She will not mention the difficult decision",
+  "russian_example_sentence": "Она не упомянет сложное решение",
+  "turkish_example_sentence": "O zor kararı asla demeyecek",
+  "turkish_example_sentence_with_blank": "O zor kararı asla ______"
+}

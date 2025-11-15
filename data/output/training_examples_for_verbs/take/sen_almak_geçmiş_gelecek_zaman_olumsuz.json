@@ -1,0 +1,20 @@
+{
+  "verb_rank": 10,
+  "verb_english": "take",
+  "verb_russian": "брать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almayacaktın",
+    "root": "al",
+    "tense_affix": "acaktı",
+    "verb_tense": "geçmiş_gelecek_zaman",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "You weren't going to accept the offer.",
+  "russian_example_sentence": "Ты не собирался принимать предложение.",
+  "turkish_example_sentence": "Sen bu cazip teklifi almayacaktın.",
+  "turkish_example_sentence_with_blank": "Sen bu cazip teklifi ______."
+}

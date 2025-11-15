@@ -1,0 +1,20 @@
+{
+  "verb_rank": 32,
+  "verb_english": "seem",
+  "verb_russian": "казаться",
+  "verb_infinitive": "görünmek",
+  "turkish_verb": {
+    "verb_full": "görünürsem",
+    "root": "görün",
+    "tense_affix": "ürse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If I seem confident, they trust me.",
+  "russian_example_sentence": "Если я кажусь уверенным, они мне доверяют.",
+  "turkish_example_sentence": "Eğer güvenilir görünürsem, bana güvenirler.",
+  "turkish_example_sentence_with_blank": "Eğer güvenilir ______, bana güvenirler."
+}

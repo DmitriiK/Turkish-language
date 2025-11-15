@@ -1,0 +1,20 @@
+{
+  "verb_rank": 41,
+  "verb_english": "believe",
+  "verb_russian": "верить",
+  "verb_infinitive": "inanmak",
+  "turkish_verb": {
+    "verb_full": "inanmazsanız",
+    "root": "inan",
+    "tense_affix": "mazsanız",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If you don’t believe the news, ask her yourself.",
+  "russian_example_sentence": "Если вы не верите новостям, спросите ее сами.",
+  "turkish_example_sentence": "Haberleri inanmazsanız, kendisine sorun.",
+  "turkish_example_sentence_with_blank": "Haberleri ______, kendisine sorun."
+}

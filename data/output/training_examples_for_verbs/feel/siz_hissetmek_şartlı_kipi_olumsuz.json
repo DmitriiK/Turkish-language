@@ -1,0 +1,20 @@
+{
+  "verb_rank": 24,
+  "verb_english": "feel",
+  "verb_russian": "чувствовать",
+  "verb_infinitive": "hissetmek",
+  "turkish_verb": {
+    "verb_full": "hissetmezseniz",
+    "root": "hisset",
+    "tense_affix": "se",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "niz",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If you do not feel thirsty, you drink less water",
+  "russian_example_sentence": "Если вы не чувствуете жажды, вы пьете меньше воды",
+  "turkish_example_sentence": "Eğer susuz hissetmezseniz, daha az su içersiniz",
+  "turkish_example_sentence_with_blank": "Eğer susuz ______, daha az su içersiniz"
+}

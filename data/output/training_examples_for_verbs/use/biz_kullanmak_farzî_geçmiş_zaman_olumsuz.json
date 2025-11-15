@@ -1,0 +1,20 @@
+{
+  "verb_rank": 15,
+  "verb_english": "use",
+  "verb_russian": "использовать",
+  "verb_infinitive": "kullanmak",
+  "turkish_verb": {
+    "verb_full": "kullanmamışsak",
+    "root": "kullan",
+    "tense_affix": "mışsa",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If we hadn't used that harmful pesticide",
+  "russian_example_sentence": "Если бы мы не использовали этот вредный пестицид",
+  "turkish_example_sentence": "Biz o zararlı böcek ilacını kullanmamışsak, bitkiler daha sağlıklı kalırdı.",
+  "turkish_example_sentence_with_blank": "Biz o zararlı böcek ilacını ______, bitkiler daha sağlıklı kalırdı."
+}

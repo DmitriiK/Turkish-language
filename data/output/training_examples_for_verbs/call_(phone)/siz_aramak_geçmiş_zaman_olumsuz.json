@@ -1,0 +1,20 @@
+{
+  "verb_rank": 20,
+  "verb_english": "call (phone)",
+  "verb_russian": "звонить",
+  "verb_infinitive": "aramak",
+  "turkish_verb": {
+    "verb_full": "aramadınız",
+    "root": "ara",
+    "tense_affix": "dı",
+    "verb_tense": "geçmiş_zaman",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "You did not call me last night.",
+  "russian_example_sentence": "Вы не звонили мне прошлой ночью.",
+  "turkish_example_sentence": "Siz dün gece beni aramadınız.",
+  "turkish_example_sentence_with_blank": "Siz dün gece beni ______."
+}

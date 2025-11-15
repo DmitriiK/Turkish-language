@@ -1,0 +1,20 @@
+{
+  "verb_rank": 37,
+  "verb_english": "run",
+  "verb_russian": "бегать",
+  "verb_infinitive": "koşmak",
+  "turkish_verb": {
+    "verb_full": "koşmazsan",
+    "root": "koş",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If you don't run now, you'll be late.",
+  "russian_example_sentence": "Если ты не побежишь сейчас, ты опоздаешь.",
+  "turkish_example_sentence": "Eğer şimdi koşmazsan, geç kalırsın.",
+  "turkish_example_sentence_with_blank": "Eğer şimdi ______, geç kalırsın."
+}

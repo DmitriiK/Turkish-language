@@ -1,0 +1,20 @@
+{
+  "verb_rank": 23,
+  "verb_english": "need",
+  "verb_russian": "нуждаться",
+  "verb_infinitive": "ihtiyaç duymak",
+  "turkish_verb": {
+    "verb_full": "ihtiyaç duymazsan",
+    "root": "ihtiyaç du",
+    "tense_affix": "sa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If you don't need it, give it back.",
+  "russian_example_sentence": "Если тебе это не нужно, отдай обратно.",
+  "turkish_example_sentence": "Eğer buna ihtiyaç duymazsan, geri ver.",
+  "turkish_example_sentence_with_blank": "Eğer buna ______, geri ver."
+}

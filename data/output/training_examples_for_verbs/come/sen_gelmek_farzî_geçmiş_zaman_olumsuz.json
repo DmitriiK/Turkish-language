@@ -1,0 +1,20 @@
+{
+  "verb_rank": 12,
+  "verb_english": "come",
+  "verb_russian": "приходить",
+  "verb_infinitive": "gelmek",
+  "turkish_verb": {
+    "verb_full": "gelmemişsen",
+    "root": "gel",
+    "tense_affix": "mişse",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If you hadn't come, you'd missed",
+  "russian_example_sentence": "Если бы ты не пришел, ты бы пропустил",
+  "turkish_example_sentence": "Sen gelmemişsen, eğlenceli partiyi kaçırmış olurdun",
+  "turkish_example_sentence_with_blank": "Sen ______, eğlenceli partiyi kaçırmış olurdun"
+}

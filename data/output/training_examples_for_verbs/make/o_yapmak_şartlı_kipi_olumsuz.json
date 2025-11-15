@@ -1,0 +1,20 @@
+{
+  "verb_rank": 7,
+  "verb_english": "make",
+  "verb_russian": "делать (создавать)",
+  "verb_infinitive": "yapmak",
+  "turkish_verb": {
+    "verb_full": "yapmazsa",
+    "root": "yap",
+    "tense_affix": "sa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": "",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If he doesn’t make the call, we will be late.",
+  "russian_example_sentence": "Если он не позвонит, мы опоздаем.",
+  "turkish_example_sentence": "Eğer aramayı yapmazsa, geç kalacağız.",
+  "turkish_example_sentence_with_blank": "Eğer aramayı ______, geç kalacağız."
+}

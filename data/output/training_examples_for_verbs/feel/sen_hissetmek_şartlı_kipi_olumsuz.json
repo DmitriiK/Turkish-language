@@ -1,0 +1,20 @@
+{
+  "verb_rank": 24,
+  "verb_english": "feel",
+  "verb_russian": "чувствовать",
+  "verb_infinitive": "hissetmek",
+  "turkish_verb": {
+    "verb_full": "hissetmezsen",
+    "root": "hisset",
+    "tense_affix": "se",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If you do not feel tired, you walk",
+  "russian_example_sentence": "Если ты не чувствуешь усталости, ты гуляешь",
+  "turkish_example_sentence": "Eğer yorgun hissetmezsen, yürürsün",
+  "turkish_example_sentence_with_blank": "Eğer yorgun ______, yürürsün"
+}

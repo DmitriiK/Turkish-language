@@ -1,0 +1,20 @@
+{
+  "verb_rank": 40,
+  "verb_english": "live",
+  "verb_russian": "жить",
+  "verb_infinitive": "yaşamak",
+  "turkish_verb": {
+    "verb_full": "yaşamayacağım",
+    "root": "yaşa",
+    "tense_affix": "yacak",
+    "verb_tense": "gelecek_zaman",
+    "personal_pronoun": "ben",
+    "personal_affix": "ım",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "I will not live in that crowded noisy village",
+  "russian_example_sentence": "Я не буду жить в той шумной деревне",
+  "turkish_example_sentence": "Ben kalabalık gürültülü köyde yaşamayacağım",
+  "turkish_example_sentence_with_blank": "Ben kalabalık gürültülü köyde ______"
+}

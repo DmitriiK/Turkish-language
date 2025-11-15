@@ -1,0 +1,20 @@
+{
+  "verb_rank": 1,
+  "verb_english": "be",
+  "verb_russian": "быть",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olmasan",
+    "root": "ol",
+    "tense_affix": "sa",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If you were not late.",
+  "russian_example_sentence": "Если бы ты не опоздал.",
+  "turkish_example_sentence": "Eğer geç kalmasan.",
+  "turkish_example_sentence_with_blank": "Eğer geç kalmasan."
+}

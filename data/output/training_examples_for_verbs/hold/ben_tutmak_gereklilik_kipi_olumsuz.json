@@ -1,0 +1,20 @@
+{
+  "verb_rank": 42,
+  "verb_english": "hold",
+  "verb_russian": "держать",
+  "verb_infinitive": "tutmak",
+  "turkish_verb": {
+    "verb_full": "tutmamam lazım",
+    "root": "tut",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "I should not hold the fragile glass vase",
+  "russian_example_sentence": "Я не должен держать хрупкую стеклянную вазу",
+  "turkish_example_sentence": "Ben kırılgan cam vazoyu tutmamam lazım",
+  "turkish_example_sentence_with_blank": "Ben kırılgan cam vazoyu ______"
+}

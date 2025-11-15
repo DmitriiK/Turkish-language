@@ -1,0 +1,20 @@
+{
+  "verb_rank": 4,
+  "verb_english": "say",
+  "verb_russian": "сказать",
+  "verb_infinitive": "söylemek",
+  "turkish_verb": {
+    "verb_full": "söylemezsen",
+    "root": "söyle",
+    "tense_affix": "mezse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If you don’t say it, we can leave now",
+  "russian_example_sentence": "Если ты не скажешь это, мы можем уйти сейчас",
+  "turkish_example_sentence": "Bunu söylemezsen, şimdi gidebiliriz",
+  "turkish_example_sentence_with_blank": "Bunu ______, şimdi gidebiliriz"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 25,
+  "verb_english": "become",
+  "verb_russian": "становиться",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olmayayım",
+    "root": "ol",
+    "tense_affix": "a",
+    "verb_tense": "istek_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "yım",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "Let me not become the last one",
+  "russian_example_sentence": "Дайте мне не стать последним",
+  "turkish_example_sentence": "Ben en son olmayayım",
+  "turkish_example_sentence_with_blank": "Ben en son ______"
+}

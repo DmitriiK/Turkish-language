@@ -1,0 +1,20 @@
+{
+  "verb_rank": 15,
+  "verb_english": "use",
+  "verb_russian": "использовать",
+  "verb_infinitive": "kullanmak",
+  "turkish_verb": {
+    "verb_full": "kullanmasak",
+    "root": "kullan",
+    "tense_affix": "sa",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If we don't use sunscreen, our skin will burn.",
+  "russian_example_sentence": "Если мы не будем использовать крем для загара, наша кожа обгорит.",
+  "turkish_example_sentence": "Biz güneş kremi kullanmasak, cildimiz yanar.",
+  "turkish_example_sentence_with_blank": "Biz güneş kremi ______, cildimiz yanar."
+}

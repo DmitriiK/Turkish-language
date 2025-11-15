@@ -1,0 +1,20 @@
+{
+  "verb_rank": 3,
+  "verb_english": "do",
+  "verb_russian": "делать",
+  "verb_infinitive": "yapmak",
+  "turkish_verb": {
+    "verb_full": "yapmasan",
+    "root": "yap",
+    "tense_affix": "sa",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If you didn’t do that, I would feel more relaxed",
+  "russian_example_sentence": "Если бы ты этого не делал, мне было бы спокойнее",
+  "turkish_example_sentence": "Bunu yapmasan daha sakin hissederdim",
+  "turkish_example_sentence_with_blank": "Bunu ______ daha sakin hissederdim"
+}

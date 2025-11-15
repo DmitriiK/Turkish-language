@@ -1,0 +1,20 @@
+{
+  "verb_rank": 8,
+  "verb_english": "know",
+  "verb_russian": "знать",
+  "verb_infinitive": "bilmek",
+  "turkish_verb": {
+    "verb_full": "bilmemişlerse",
+    "root": "bil",
+    "tense_affix": "mişlerse",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "onlar",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If they hadn't known the language...",
+  "russian_example_sentence": "Если бы они не знали язык...",
+  "turkish_example_sentence": "Onlar yabancı dili bilmemişlerse, iletişim kuramazlardı.",
+  "turkish_example_sentence_with_blank": "Onlar yabancı dili ______, iletişim kuramazlardı."
+}

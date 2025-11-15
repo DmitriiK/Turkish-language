@@ -1,0 +1,20 @@
+{
+  "verb_rank": 18,
+  "verb_english": "tell",
+  "verb_russian": "рассказывать",
+  "verb_infinitive": "anlatmak",
+  "turkish_verb": {
+    "verb_full": "anlatmayasınız",
+    "root": "anlat",
+    "tense_affix": "a",
+    "verb_tense": "istek_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "sınız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "May you not tell that story",
+  "russian_example_sentence": "Пусть вы не расскажете ту историю",
+  "turkish_example_sentence": "Siz o hikayeyi anlatmayasınız",
+  "turkish_example_sentence_with_blank": "Siz o hikayeyi ______"
+}

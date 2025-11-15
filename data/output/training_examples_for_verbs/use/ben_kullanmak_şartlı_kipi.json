@@ -1,0 +1,20 @@
+{
+  "verb_rank": 15,
+  "verb_english": "use",
+  "verb_russian": "использовать",
+  "verb_infinitive": "kullanmak",
+  "turkish_verb": {
+    "verb_full": "kullanırsam",
+    "root": "kullan",
+    "tense_affix": "ırsam",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If I use this computer, it will work.",
+  "russian_example_sentence": "Если я использую этот компьютер, он будет работать.",
+  "turkish_example_sentence": "Bu bilgisayarı kullanırsam, çalışır.",
+  "turkish_example_sentence_with_blank": "Bu bilgisayarı ______, çalışır."
+}

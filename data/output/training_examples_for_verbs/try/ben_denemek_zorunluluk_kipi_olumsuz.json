@@ -1,0 +1,20 @@
+{
+  "verb_rank": 21,
+  "verb_english": "try",
+  "verb_russian": "пытаться",
+  "verb_infinitive": "denemek",
+  "turkish_verb": {
+    "verb_full": "denememeli",
+    "root": "dene",
+    "tense_affix": "memeli",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "yim",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "I must not try dangerous experiments alone",
+  "russian_example_sentence": "Я не должен пробовать опасные эксперименты один",
+  "turkish_example_sentence": "Ben tehlikeli bilimsel deneyleri denememeli",
+  "turkish_example_sentence_with_blank": "Ben tehlikeli bilimsel deneyleri ______"
+}

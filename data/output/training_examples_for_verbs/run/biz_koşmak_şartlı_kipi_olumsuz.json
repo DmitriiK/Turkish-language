@@ -1,0 +1,20 @@
+{
+  "verb_rank": 37,
+  "verb_english": "run",
+  "verb_russian": "бегать",
+  "verb_infinitive": "koşmak",
+  "turkish_verb": {
+    "verb_full": "koşmazsak",
+    "root": "koş",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If we don't run soon, we'll lose the chance.",
+  "russian_example_sentence": "Если мы скоро не побежим, мы упустим шанс.",
+  "turkish_example_sentence": "Eğer yakında koşmazsak, fırsatı kaybederiz.",
+  "turkish_example_sentence_with_blank": "Eğer yakında ______, fırsatı kaybederiz."
+}

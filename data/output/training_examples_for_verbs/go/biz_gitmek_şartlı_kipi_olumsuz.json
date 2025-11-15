@@ -1,0 +1,20 @@
+{
+  "verb_rank": 5,
+  "verb_english": "go",
+  "verb_russian": "идти",
+  "verb_infinitive": "gitmek",
+  "turkish_verb": {
+    "verb_full": "gitmesek",
+    "root": "git",
+    "tense_affix": "se",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If we don’t go to the museum this weekend",
+  "russian_example_sentence": "Если мы не пойдем в музей в эти выходные",
+  "turkish_example_sentence": "Bu hafta sonu müzeye gitmesek",
+  "turkish_example_sentence_with_blank": "Bu hafta sonu müzeye ______"
+}

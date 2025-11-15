@@ -1,0 +1,20 @@
+{
+  "verb_rank": 44,
+  "verb_english": "write",
+  "verb_russian": "писать",
+  "verb_infinitive": "yazmak",
+  "turkish_verb": {
+    "verb_full": "yazmaması lazım",
+    "root": "yaz",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "You should not write confidential information in the message",
+  "russian_example_sentence": "Вы не должны писать конфиденциальную информацию в сообщении",
+  "turkish_example_sentence": "Siz mesajda gizli bilgileri yazmaması lazım",
+  "turkish_example_sentence_with_blank": "Siz mesajda gizli bilgileri ______"
+}

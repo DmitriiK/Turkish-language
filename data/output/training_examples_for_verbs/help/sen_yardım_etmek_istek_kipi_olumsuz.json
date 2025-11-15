@@ -1,0 +1,20 @@
+{
+  "verb_rank": 33,
+  "verb_english": "help",
+  "verb_russian": "помогать",
+  "verb_infinitive": "yardım etmek",
+  "turkish_verb": {
+    "verb_full": "yardım etmeyesin",
+    "root": "yardım et",
+    "tense_affix": "meyesin",
+    "verb_tense": "istek_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "sin",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "You may not help with the homework",
+  "russian_example_sentence": "Ты можешь не помогать с домашним заданием",
+  "turkish_example_sentence": "Sen ödevde yardım etmeyesin",
+  "turkish_example_sentence_with_blank": "Sen ödevde ______"
+}

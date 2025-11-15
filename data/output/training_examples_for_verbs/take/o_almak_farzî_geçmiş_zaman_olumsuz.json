@@ -1,0 +1,20 @@
+{
+  "verb_rank": 10,
+  "verb_english": "take",
+  "verb_russian": "брать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almamışsa",
+    "root": "al",
+    "tense_affix": "mamışsa",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If she hadn't taken the money...",
+  "russian_example_sentence": "Если бы она не взяла деньги...",
+  "turkish_example_sentence": "O bütün parayı almamışsa, borcunu ödeyemezdi",
+  "turkish_example_sentence_with_blank": "O bütün parayı ______, borcunu ödeyemezdi"
+}

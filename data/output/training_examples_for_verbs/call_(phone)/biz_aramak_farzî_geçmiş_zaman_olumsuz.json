@@ -1,0 +1,20 @@
+{
+  "verb_rank": 20,
+  "verb_english": "call",
+  "verb_russian": "звонить",
+  "verb_infinitive": "aramak",
+  "turkish_verb": {
+    "verb_full": "aramamışsak",
+    "root": "ara",
+    "tense_affix": "mamışsa",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If we hadn't called the fire department...",
+  "russian_example_sentence": "Если бы мы не позвонили в пожарную службу...",
+  "turkish_example_sentence": "Biz itfaiyeyi aramamışsak, yangın büyürdü.",
+  "turkish_example_sentence_with_blank": "Biz itfaiyeyi ______, yangın büyürdü."
+}

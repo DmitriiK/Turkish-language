@@ -1,0 +1,20 @@
+{
+  "verb_rank": 50,
+  "verb_english": "meet",
+  "verb_russian": "встречать",
+  "verb_infinitive": "buluşmak",
+  "turkish_verb": {
+    "verb_full": "buluşmamışsan",
+    "root": "buluş",
+    "tense_affix": "mış",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "sen",
+    "personal_affix": "san",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If you had not met your doctor, you wouldn't have known the test results.",
+  "russian_example_sentence": "Если бы ты не встретил своего врача, ты бы не знал результаты анализов.",
+  "turkish_example_sentence": "Doktorunla buluşmamışsan, test sonuçlarını bilmezdin.",
+  "turkish_example_sentence_with_blank": "Doktorunla ______, test sonuçlarını bilmezdin."
+}

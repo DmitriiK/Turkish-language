@@ -1,0 +1,20 @@
+{
+  "verb_rank": 40,
+  "verb_english": "live",
+  "verb_russian": "жить",
+  "verb_infinitive": "yaşamak",
+  "turkish_verb": {
+    "verb_full": "yaşamamalı",
+    "root": "yaşa",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "She must not live in that noisy industrial neighborhood",
+  "russian_example_sentence": "Она не должна жить в том шумном промышленном районе",
+  "turkish_example_sentence": "O gürültülü endüstriyel mahallede yaşamamalı",
+  "turkish_example_sentence_with_blank": "O gürültülü endüstriyel mahallede ______"
+}

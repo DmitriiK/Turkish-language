@@ -1,0 +1,20 @@
+{
+  "verb_rank": 16,
+  "verb_english": "find",
+  "verb_russian": "находить",
+  "verb_infinitive": "bulmak",
+  "turkish_verb": {
+    "verb_full": "bulmazsa",
+    "root": "bul",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If she doesn't find a solution",
+  "russian_example_sentence": "Если она не найдет решение",
+  "turkish_example_sentence": "Bir çözüm bulmazsa",
+  "turkish_example_sentence_with_blank": "Bir çözüm ______"
+}

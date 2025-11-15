@@ -1,0 +1,20 @@
+{
+  "verb_rank": 15,
+  "verb_english": "use",
+  "verb_russian": "использовать",
+  "verb_infinitive": "kullanmak",
+  "turkish_verb": {
+    "verb_full": "kullanmamışsam",
+    "root": "kullan",
+    "tense_affix": "mışsa",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If I hadn't used that old method",
+  "russian_example_sentence": "Если бы я не использовал этот старый метод",
+  "turkish_example_sentence": "Ben o eski yöntemi kullanmamışsam, sonuçlar farklı olabilirdi.",
+  "turkish_example_sentence_with_blank": "Ben o eski yöntemi ______, sonuçlar farklı olabilirdi."
+}

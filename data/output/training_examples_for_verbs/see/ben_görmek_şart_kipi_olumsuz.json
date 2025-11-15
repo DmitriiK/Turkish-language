@@ -1,0 +1,20 @@
+{
+  "verb_rank": 11,
+  "verb_english": "see",
+  "verb_russian": "видеть",
+  "verb_infinitive": "görmek",
+  "turkish_verb": {
+    "verb_full": "görmesem",
+    "root": "gör",
+    "tense_affix": "se",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If I don't see the green leaf",
+  "russian_example_sentence": "Если я не увижу зелёный лист",
+  "turkish_example_sentence": "Ben yeşil yaprağı görmesem",
+  "turkish_example_sentence_with_blank": "Ben yeşil yaprağı ______"
+}

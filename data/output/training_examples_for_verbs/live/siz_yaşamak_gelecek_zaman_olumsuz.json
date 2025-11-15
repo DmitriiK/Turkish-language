@@ -1,0 +1,20 @@
+{
+  "verb_rank": 40,
+  "verb_english": "live",
+  "verb_russian": "жить",
+  "verb_infinitive": "yaşamak",
+  "turkish_verb": {
+    "verb_full": "yaşamayacaksınız",
+    "root": "yaşa",
+    "tense_affix": "yacak",
+    "verb_tense": "gelecek_zaman",
+    "personal_pronoun": "siz",
+    "personal_affix": "sınız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "You will not live in that harsh frozen arctic region",
+  "russian_example_sentence": "Вы не будете жить в том суровом арктическом регионе",
+  "turkish_example_sentence": "Siz sert donmuş kuzey bölgesinde yaşamayacaksınız",
+  "turkish_example_sentence_with_blank": "Siz sert donmuş kuzey bölgesinde ______"
+}

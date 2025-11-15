@@ -1,0 +1,20 @@
+{
+  "verb_rank": 15,
+  "verb_english": "use",
+  "verb_russian": "использовать",
+  "verb_infinitive": "kullanmak",
+  "turkish_verb": {
+    "verb_full": "kullanmadığında",
+    "root": "kullan",
+    "tense_affix": "dık",
+    "verb_tense": "zaman_sıfatı",
+    "personal_pronoun": "sen",
+    "personal_affix": "ın",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "When you don't use the internet.",
+  "russian_example_sentence": "Когда ты не используешь интернет.",
+  "turkish_example_sentence": "Sen interneti kullanmadığında, kitap okuyorsun.",
+  "turkish_example_sentence_with_blank": "Sen interneti ______, kitap okuyorsun."
+}

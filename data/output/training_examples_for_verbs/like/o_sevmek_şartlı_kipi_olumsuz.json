@@ -1,0 +1,20 @@
+{
+  "verb_rank": 39,
+  "verb_english": "like",
+  "verb_russian": "нравиться",
+  "verb_infinitive": "sevmek",
+  "turkish_verb": {
+    "verb_full": "sevmezse",
+    "root": "sev",
+    "tense_affix": "mezse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If she doesn't like the weather, she'll stay home.",
+  "russian_example_sentence": "Если ей не понравится погода, она останется дома.",
+  "turkish_example_sentence": "Havayı sevmezse, evde kalır.",
+  "turkish_example_sentence_with_blank": "Havayı ______, evde kalır."
+}

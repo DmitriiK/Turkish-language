@@ -1,0 +1,20 @@
+{
+  "verb_rank": 19,
+  "verb_english": "work",
+  "verb_russian": "работать",
+  "verb_infinitive": "çalışmak",
+  "turkish_verb": {
+    "verb_full": "çalışmazsak",
+    "root": "çalış",
+    "tense_affix": "mazsak",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If we don't work together, we will fail",
+  "russian_example_sentence": "Если мы не будем работать вместе, мы потерпим неудачу",
+  "turkish_example_sentence": "Eğer birlikte çalışmazsak, başarısız oluruz",
+  "turkish_example_sentence_with_blank": "Eğer birlikte ______, başarısız oluruz"
+}

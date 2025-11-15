@@ -1,0 +1,20 @@
+{
+  "verb_rank": 4,
+  "verb_english": "say",
+  "verb_russian": "сказать",
+  "verb_infinitive": "söylemek",
+  "turkish_verb": {
+    "verb_full": "söylemeyecektiniz",
+    "root": "söyle",
+    "tense_affix": "yecek",
+    "verb_tense": "geçmiş_gelecek_zaman",
+    "personal_pronoun": "siz",
+    "personal_affix": "tiniz",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "You weren't going to say anything bad.",
+  "russian_example_sentence": "Вы не собирались говорить ничего плохого.",
+  "turkish_example_sentence": "Siz kötü bir şey söylemeyecektiniz.",
+  "turkish_example_sentence_with_blank": "Siz kötü bir şey ______."
+}

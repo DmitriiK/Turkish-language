@@ -1,0 +1,20 @@
+{
+  "verb_rank": 23,
+  "verb_english": "need",
+  "verb_russian": "нуждаться",
+  "verb_infinitive": "ihtiyaç duymak",
+  "turkish_verb": {
+    "verb_full": "ihtiyaç duymazsak",
+    "root": "ihtiyaç du",
+    "tense_affix": "sa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If we don't need more water, we won't go.",
+  "russian_example_sentence": "Если нам не понадобится больше воды, мы не пойдем.",
+  "turkish_example_sentence": "Eğer daha fazla suya ihtiyaç duymazsak, gitmeyiz.",
+  "turkish_example_sentence_with_blank": "Eğer daha fazla suya ______, gitmeyiz."
+}

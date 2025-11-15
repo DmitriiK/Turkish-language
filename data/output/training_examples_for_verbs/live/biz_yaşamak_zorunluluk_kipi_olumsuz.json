@@ -1,0 +1,20 @@
+{
+  "verb_rank": 40,
+  "verb_english": "live",
+  "verb_russian": "жить",
+  "verb_infinitive": "yaşamak",
+  "turkish_verb": {
+    "verb_full": "yaşamamalıyız",
+    "root": "yaşa",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "yız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "We must not live without proper electricity and water",
+  "russian_example_sentence": "Мы не должны жить без надлежащего электричества и воды",
+  "turkish_example_sentence": "Biz uygun elektrik ve su olmadan yaşamamalıyız",
+  "turkish_example_sentence_with_blank": "Biz uygun elektrik ve su olmadan ______"
+}

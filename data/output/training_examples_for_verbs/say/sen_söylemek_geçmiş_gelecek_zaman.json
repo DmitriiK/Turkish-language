@@ -1,0 +1,20 @@
+{
+  "verb_rank": 4,
+  "verb_english": "say",
+  "verb_russian": "сказать",
+  "verb_infinitive": "söylemek",
+  "turkish_verb": {
+    "verb_full": "söyleyecektin",
+    "root": "söyle",
+    "tense_affix": "yecek",
+    "verb_tense": "geçmiş_gelecek_zaman",
+    "personal_pronoun": "sen",
+    "personal_affix": "tin",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "You were going to tell a secret.",
+  "russian_example_sentence": "Ты собирался рассказать секрет.",
+  "turkish_example_sentence": "Sen bir sır söyleyecektin.",
+  "turkish_example_sentence_with_blank": "Sen bir sır ______."
+}

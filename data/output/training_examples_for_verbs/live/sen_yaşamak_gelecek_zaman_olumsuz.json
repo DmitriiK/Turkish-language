@@ -1,0 +1,20 @@
+{
+  "verb_rank": 40,
+  "verb_english": "live",
+  "verb_russian": "жить",
+  "verb_infinitive": "yaşamak",
+  "turkish_verb": {
+    "verb_full": "yaşamayacaksın",
+    "root": "yaşa",
+    "tense_affix": "yacak",
+    "verb_tense": "gelecek_zaman",
+    "personal_pronoun": "sen",
+    "personal_affix": "sın",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "You will not live in that expensive downtown apartment",
+  "russian_example_sentence": "Ты не будешь жить в дорогой квартире",
+  "turkish_example_sentence": "Sen pahalı şehir merkezi dairesinde yaşamayacaksın",
+  "turkish_example_sentence_with_blank": "Sen pahalı şehir merkezi dairesinde ______"
+}

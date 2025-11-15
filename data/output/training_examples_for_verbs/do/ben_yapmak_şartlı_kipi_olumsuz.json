@@ -1,0 +1,20 @@
+{
+  "verb_rank": 3,
+  "verb_english": "do",
+  "verb_russian": "делать",
+  "verb_infinitive": "yapmak",
+  "turkish_verb": {
+    "verb_full": "yapmazsam",
+    "root": "yap",
+    "tense_affix": "arsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If I don't do my homework, I fail.",
+  "russian_example_sentence": "Если я не делаю домашнее задание, я проваливаюсь.",
+  "turkish_example_sentence": "Ödevimi yapmazsam başarısız olurum.",
+  "turkish_example_sentence_with_blank": "Ödevimi ______ başarısız olurum."
+}

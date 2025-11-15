@@ -1,0 +1,20 @@
+{
+  "verb_rank": 43,
+  "verb_english": "bring",
+  "verb_russian": "приносить",
+  "verb_infinitive": "getirmek",
+  "turkish_verb": {
+    "verb_full": "getirmezse",
+    "root": "getir",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If she doesn’t bring the documents",
+  "russian_example_sentence": "Если она не принесёт документы",
+  "turkish_example_sentence": "Belgeleri getirmezse",
+  "turkish_example_sentence_with_blank": "Belgeleri ______"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 37,
+  "verb_english": "run",
+  "verb_russian": "бегать",
+  "verb_infinitive": "koşmak",
+  "turkish_verb": {
+    "verb_full": "koşmazsanız",
+    "root": "koş",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If you don't run early, you'll miss the bus.",
+  "russian_example_sentence": "Если вы не побежите рано, вы опоздаете на автобус.",
+  "turkish_example_sentence": "Eğer erken koşmazsanız, otobüsü kaçırırsınız.",
+  "turkish_example_sentence_with_blank": "Eğer erken ______, otobüsü kaçırırsınız."
+}

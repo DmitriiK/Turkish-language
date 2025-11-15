@@ -1,0 +1,20 @@
+{
+  "verb_rank": 9,
+  "verb_english": "think",
+  "verb_russian": "думать",
+  "verb_infinitive": "düşünmek",
+  "turkish_verb": {
+    "verb_full": "düşünmezsek",
+    "root": "düşün",
+    "tense_affix": "mezse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If we don't think creatively, we fail",
+  "russian_example_sentence": "Если мы не думаем творчески, мы терпим неудачу",
+  "turkish_example_sentence": "Yaratıcı düşünmezsek, başarısız oluruz",
+  "turkish_example_sentence_with_blank": "Yaratıcı ______, başarısız oluruz"
+}

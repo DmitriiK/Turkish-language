@@ -1,0 +1,20 @@
+{
+  "verb_rank": 49,
+  "verb_english": "pay",
+  "verb_russian": "платить",
+  "verb_infinitive": "ödemek",
+  "turkish_verb": {
+    "verb_full": "ödemezsek",
+    "root": "öde",
+    "tense_affix": "mezse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If we don't pay credit, interest grows.",
+  "russian_example_sentence": "Если мы не заплатим кредит, проценты растут.",
+  "turkish_example_sentence": "Biz krediyi ödemezsek, faiz büyür.",
+  "turkish_example_sentence_with_blank": "Biz krediyi ______, faiz büyür."
+}

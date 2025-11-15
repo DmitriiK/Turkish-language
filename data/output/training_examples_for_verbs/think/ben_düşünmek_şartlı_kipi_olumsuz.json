@@ -1,0 +1,20 @@
+{
+  "verb_rank": 9,
+  "verb_english": "think",
+  "verb_russian": "думать",
+  "verb_infinitive": "düşünmek",
+  "turkish_verb": {
+    "verb_full": "düşünmezsem",
+    "root": "düşün",
+    "tense_affix": "mezse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If I don't think carefully, I make mistakes",
+  "russian_example_sentence": "Если я не думаю внимательно, я совершаю ошибки",
+  "turkish_example_sentence": "Dikkatlice düşünmezsem, hatalar yaparım",
+  "turkish_example_sentence_with_blank": "Dikkatlice ______, hatalar yaparım"
+}

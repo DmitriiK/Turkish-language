@@ -1,0 +1,20 @@
+{
+  "verb_rank": 22,
+  "verb_english": "ask",
+  "verb_russian": "спрашивать",
+  "verb_infinitive": "sormak",
+  "turkish_verb": {
+    "verb_full": "sormazsanız",
+    "root": "sor",
+    "tense_affix": "sa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If you don’t ask now",
+  "russian_example_sentence": "Если вы не спросите сейчас",
+  "turkish_example_sentence": "Siz şimdi sormazsanız, bilgi alamasınız",
+  "turkish_example_sentence_with_blank": "Siz şimdi ______, bilgi alamasınız"
+}

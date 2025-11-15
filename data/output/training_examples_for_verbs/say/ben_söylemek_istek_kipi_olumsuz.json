@@ -1,0 +1,20 @@
+{
+  "verb_rank": 4,
+  "verb_english": "say",
+  "verb_russian": "сказать",
+  "verb_infinitive": "söylemek",
+  "turkish_verb": {
+    "verb_full": "söylemeyeyim",
+    "root": "söyle",
+    "tense_affix": "yeyim",
+    "verb_tense": "istek_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "yim",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "Let me not say anything bad.",
+  "russian_example_sentence": "Позволь мне не говорить ничего плохого.",
+  "turkish_example_sentence": "Ben kötü bir şey söylemeyeyim.",
+  "turkish_example_sentence_with_blank": "Ben kötü bir şey ______."
+}

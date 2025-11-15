@@ -1,0 +1,20 @@
+{
+  "verb_rank": 40,
+  "verb_english": "live",
+  "verb_russian": "жить",
+  "verb_infinitive": "yaşamak",
+  "turkish_verb": {
+    "verb_full": "yaşamamalıyım",
+    "root": "yaşa",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "yım",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "I must not live alone in that dark apartment",
+  "russian_example_sentence": "Я не должен жить один в той тёмной квартире",
+  "turkish_example_sentence": "Ben o karanlık dairede yalnız yaşamamalıyım",
+  "turkish_example_sentence_with_blank": "Ben o karanlık dairede yalnız ______"
+}

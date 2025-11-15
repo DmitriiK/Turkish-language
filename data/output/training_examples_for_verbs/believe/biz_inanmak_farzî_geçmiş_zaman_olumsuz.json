@@ -1,0 +1,20 @@
+{
+  "verb_rank": 41,
+  "verb_english": "believe",
+  "verb_russian": "верить",
+  "verb_infinitive": "inanmak",
+  "turkish_verb": {
+    "verb_full": "inanmamışsak",
+    "root": "inan",
+    "tense_affix": "mışsa",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If we hadn't believed this impossible task, we would quit.",
+  "russian_example_sentence": "Если бы мы не поверили этой невыполнимой задаче, мы бы бросили.",
+  "turkish_example_sentence": "Biz bu imkansız göreve inanmamışsak, çoktan vazgeçerdik.",
+  "turkish_example_sentence_with_blank": "Biz bu imkansız göreve ______, çoktan vazgeçerdik."
+}

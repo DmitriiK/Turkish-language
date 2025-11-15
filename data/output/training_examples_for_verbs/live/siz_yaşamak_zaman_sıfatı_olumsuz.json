@@ -1,0 +1,20 @@
+{
+  "verb_rank": 40,
+  "verb_english": "live",
+  "verb_russian": "жить",
+  "verb_infinitive": "yaşamak",
+  "turkish_verb": {
+    "verb_full": "yaşamadığınızda",
+    "root": "yaşa",
+    "tense_affix": "dık",
+    "verb_tense": "zaman_sıfatı",
+    "personal_pronoun": "siz",
+    "personal_affix": "ığınızda",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "When you didn't live close to school, you woke up early every day.",
+  "russian_example_sentence": "Когда вы не жили рядом со школой, вы просыпались рано каждый день.",
+  "turkish_example_sentence": "Okula yakın yaşamadığınızda, her gün erken uyandınız.",
+  "turkish_example_sentence_with_blank": "Okula yakın ______, her gün erken uyandınız."
+}

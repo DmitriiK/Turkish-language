@@ -1,0 +1,20 @@
+{
+  "verb_rank": 15,
+  "verb_english": "use",
+  "verb_russian": "использовать",
+  "verb_infinitive": "kullanmak",
+  "turkish_verb": {
+    "verb_full": "kullanmazsa",
+    "root": "kullan",
+    "tense_affix": "zsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If she doesn't use her glasses, she can't see clearly.",
+  "russian_example_sentence": "Если она не использует свои очки, она не сможет хорошо видеть.",
+  "turkish_example_sentence": "Gözlüklerini kullanmazsa, net göremez.",
+  "turkish_example_sentence_with_blank": "Gözlüklerini ______, net göremez."
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 40,
+  "verb_english": "live",
+  "verb_russian": "жить",
+  "verb_infinitive": "yaşamak",
+  "turkish_verb": {
+    "verb_full": "yaşayamam",
+    "root": "yaşa",
+    "tense_affix": "yama",
+    "verb_tense": "imkan_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "yama"
+  },
+  "english_example_sentence": "I cannot live without my dear family",
+  "russian_example_sentence": "Я не могу жить без моей дорогой семьи",
+  "turkish_example_sentence": "Ben sevgili ailemiz olmadan uzak yerlerde yaşayamam",
+  "turkish_example_sentence_with_blank": "Ben sevgili ailemiz olmadan uzak yerlerde ______"
+}

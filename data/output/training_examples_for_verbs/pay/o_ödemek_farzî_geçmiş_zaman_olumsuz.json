@@ -1,0 +1,20 @@
+{
+  "verb_rank": 49,
+  "verb_english": "pay",
+  "verb_russian": "платить",
+  "verb_infinitive": "ödemek",
+  "turkish_verb": {
+    "verb_full": "ödememişse",
+    "root": "öde",
+    "tense_affix": "miş",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "o",
+    "personal_affix": "se",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If she had not paid her taxes, she would have a problem.",
+  "russian_example_sentence": "Если бы она не заплатила налоги, у нее были бы проблемы.",
+  "turkish_example_sentence": "Vergilerini düzenli olarak ödememişse, şimdi büyük bir sorun yaşardı.",
+  "turkish_example_sentence_with_blank": "Vergilerini düzenli olarak ______, şimdi büyük bir sorun yaşardı."
+}

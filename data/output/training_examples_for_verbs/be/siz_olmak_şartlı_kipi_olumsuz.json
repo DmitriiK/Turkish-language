@@ -1,0 +1,20 @@
+{
+  "verb_rank": 1,
+  "verb_english": "be",
+  "verb_russian": "быть",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olmazsanız",
+    "root": "ol",
+    "tense_affix": "sa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If you are not at home, let me know.",
+  "russian_example_sentence": "Если вы не дома, дайте мне знать.",
+  "turkish_example_sentence": "Siz evde olmazsanız bana haber verin.",
+  "turkish_example_sentence_with_blank": "Siz evde ______ bana haber verin."
+}

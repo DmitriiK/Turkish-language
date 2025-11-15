@@ -1,0 +1,20 @@
+{
+  "verb_rank": 6,
+  "verb_english": "get",
+  "verb_russian": "получать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almayasın",
+    "root": "al",
+    "tense_affix": "ya",
+    "verb_tense": "istek_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "sın",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "May you not get a parking ticket.",
+  "russian_example_sentence": "Пусть тебе не выпишут штраф за парковку.",
+  "turkish_example_sentence": "Sen otoparkta ceza almayasın",
+  "turkish_example_sentence_with_blank": "Sen otoparkta ceza ______"
+}

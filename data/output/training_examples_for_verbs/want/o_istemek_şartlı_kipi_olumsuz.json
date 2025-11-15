@@ -1,0 +1,20 @@
+{
+  "verb_rank": 13,
+  "verb_english": "want",
+  "verb_russian": "хотеть",
+  "verb_infinitive": "istemek",
+  "turkish_verb": {
+    "verb_full": "istemezse",
+    "root": "iste",
+    "tense_affix": "mezse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If she doesn't want to study, she won't pass.",
+  "russian_example_sentence": "Если она не захочет учиться, она не сдаст экзамен.",
+  "turkish_example_sentence": "Eğer çalışmak istemezse sınavı geçemez.",
+  "turkish_example_sentence_with_blank": "Eğer çalışmak ______ sınavı geçemez."
+}

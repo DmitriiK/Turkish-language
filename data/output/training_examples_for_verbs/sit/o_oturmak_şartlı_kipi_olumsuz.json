@@ -1,0 +1,20 @@
+{
+  "verb_rank": 46,
+  "verb_english": "sit",
+  "verb_russian": "сидеть",
+  "verb_infinitive": "oturmak",
+  "turkish_verb": {
+    "verb_full": "oturmazsa",
+    "root": "otur",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If he doesn't sit on the broken chair, he won't get injured.",
+  "russian_example_sentence": "Если он не сядет на сломанный стул, он не поранится.",
+  "turkish_example_sentence": "O kırık sandalyeye oturmazsa, yaralanmaz.",
+  "turkish_example_sentence_with_blank": "O kırık sandalyeye ______, yaralanmaz."
+}

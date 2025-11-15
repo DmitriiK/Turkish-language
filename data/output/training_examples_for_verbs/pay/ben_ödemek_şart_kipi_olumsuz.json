@@ -1,0 +1,20 @@
+{
+  "verb_rank": 49,
+  "verb_english": "pay",
+  "verb_russian": "платить",
+  "verb_infinitive": "ödemek",
+  "turkish_verb": {
+    "verb_full": "ödemesem",
+    "root": "öde",
+    "tense_affix": "mese",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If I didn't pay the rent...",
+  "russian_example_sentence": "Если бы я не платил арендную плату...",
+  "turkish_example_sentence": "Ben kirayı ödemesem, evden atılırdım",
+  "turkish_example_sentence_with_blank": "Ben kirayı ______, evden atılırdım"
+}

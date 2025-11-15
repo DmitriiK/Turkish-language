@@ -1,0 +1,20 @@
+{
+  "verb_rank": 40,
+  "verb_english": "live",
+  "verb_russian": "жить",
+  "verb_infinitive": "yaşamak",
+  "turkish_verb": {
+    "verb_full": "yaşamaması lazım",
+    "root": "yaşa",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": "sı",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "She does not need to live in that expensive fancy downtown area",
+  "russian_example_sentence": "Ей не нужно жить в том дорогом роскошном центре города",
+  "turkish_example_sentence": "O pahalı lüks şehir merkezinde yaşamaması lazım",
+  "turkish_example_sentence_with_blank": "O pahalı lüks şehir merkezinde ______"
+}

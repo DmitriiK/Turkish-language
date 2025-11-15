@@ -1,0 +1,20 @@
+{
+  "verb_rank": 15,
+  "verb_english": "use",
+  "verb_russian": "использовать",
+  "verb_infinitive": "kullanmak",
+  "turkish_verb": {
+    "verb_full": "kullanmayayım",
+    "root": "kullan",
+    "tense_affix": "a",
+    "verb_tense": "istek_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "yım",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "Let me not use this tool.",
+  "russian_example_sentence": "Пусть я не использую этот инструмент.",
+  "turkish_example_sentence": "Bu aleti kullanmayayım.",
+  "turkish_example_sentence_with_blank": "Bu aleti ______."
+}

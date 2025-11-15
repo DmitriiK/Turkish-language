@@ -1,0 +1,20 @@
+{
+  "verb_rank": 25,
+  "verb_english": "become",
+  "verb_russian": "становиться",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olmazlarsa",
+    "root": "ol",
+    "tense_affix": "zsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "lar",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If they don't become happy, they will leave.",
+  "russian_example_sentence": "Если они не станут счастливыми, они уйдут.",
+  "turkish_example_sentence": "Eğer mutlu olmazlarsa, ayrılacaklar.",
+  "turkish_example_sentence_with_blank": "Eğer mutlu ______, ayrılacaklar."
+}

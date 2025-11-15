@@ -1,0 +1,20 @@
+{
+  "verb_rank": 22,
+  "verb_english": "ask",
+  "verb_russian": "спрашивать",
+  "verb_infinitive": "sormak",
+  "turkish_verb": {
+    "verb_full": "sormayasın",
+    "root": "sor",
+    "tense_affix": "a",
+    "verb_tense": "istek_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "sın",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "May you not ask unnecessary questions",
+  "russian_example_sentence": "Пусть ты не спрашиваешь ненужные вопросы",
+  "turkish_example_sentence": "Gereksiz sorular sormayasın",
+  "turkish_example_sentence_with_blank": "Gereksiz sorular ______"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 10,
+  "verb_english": "take",
+  "verb_russian": "брать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almaya",
+    "root": "al",
+    "tense_affix": "a",
+    "verb_tense": "istek_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "May he not take unnecessary time",
+  "russian_example_sentence": "Пусть он не тратит лишнее время",
+  "turkish_example_sentence": "O gereksiz zaman almayaya",
+  "turkish_example_sentence_with_blank": "O gereksiz zaman ______ya"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 6,
+  "verb_english": "get",
+  "verb_russian": "получать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almasa",
+    "root": "al",
+    "tense_affix": "masa",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If she didn't get the message",
+  "russian_example_sentence": "Если бы она не получила сообщение",
+  "turkish_example_sentence": "O önemli mesajı almasa toplantıyı kaçıracaktı.",
+  "turkish_example_sentence_with_blank": "O önemli mesajı ______ toplantıyı kaçıracaktı."
+}

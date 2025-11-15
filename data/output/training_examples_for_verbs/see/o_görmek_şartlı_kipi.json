@@ -1,0 +1,20 @@
+{
+  "verb_rank": 11,
+  "verb_english": "see",
+  "verb_russian": "видеть",
+  "verb_infinitive": "görmek",
+  "turkish_verb": {
+    "verb_full": "görürse",
+    "root": "gör",
+    "tense_affix": "ürse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If she sees the book, she will read it",
+  "russian_example_sentence": "Если она увидит книгу, она её прочитает",
+  "turkish_example_sentence": "Eğer kitabı görürse, onu okuyacak",
+  "turkish_example_sentence_with_blank": "Eğer kitabı ______, onu okuyacak"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 18,
+  "verb_english": "tell",
+  "verb_russian": "рассказывать",
+  "verb_infinitive": "anlatmak",
+  "turkish_verb": {
+    "verb_full": "anlatmazsak",
+    "root": "anlat",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If we don't tell the new idea",
+  "russian_example_sentence": "Если мы не расскажем новую идею",
+  "turkish_example_sentence": "Eğer yeni fikri anlatmazsak",
+  "turkish_example_sentence_with_blank": "Eğer yeni fikri ______"
+}

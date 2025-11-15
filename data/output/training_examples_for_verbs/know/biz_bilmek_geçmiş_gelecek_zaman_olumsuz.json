@@ -1,0 +1,20 @@
+{
+  "verb_rank": 8,
+  "verb_english": "know",
+  "verb_russian": "знать",
+  "verb_infinitive": "bilmek",
+  "turkish_verb": {
+    "verb_full": "bilmeyecektik",
+    "root": "bil",
+    "tense_affix": "ecekti",
+    "verb_tense": "geçmiş_gelecek_zaman",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "We weren't going to know what happened.",
+  "russian_example_sentence": "Мы не должны были знать, что произошло.",
+  "turkish_example_sentence": "Biz ne olduğunu bilmeyecektik.",
+  "turkish_example_sentence_with_blank": "Biz ne olduğunu ______."
+}

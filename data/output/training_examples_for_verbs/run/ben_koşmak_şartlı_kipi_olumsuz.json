@@ -1,0 +1,20 @@
+{
+  "verb_rank": 37,
+  "verb_english": "run",
+  "verb_russian": "бегать",
+  "verb_infinitive": "koşmak",
+  "turkish_verb": {
+    "verb_full": "koşmazsam",
+    "root": "koş",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If I don't run regularly, I lose energy.",
+  "russian_example_sentence": "Если я не бегаю регулярно, я теряю энергию.",
+  "turkish_example_sentence": "Eğer düzenli koşmazsam, enerjimi kaybederim.",
+  "turkish_example_sentence_with_blank": "Eğer düzenli ______, enerjimi kaybederim."
+}

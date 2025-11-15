@@ -1,0 +1,20 @@
+{
+  "verb_rank": 2,
+  "verb_english": "have",
+  "verb_russian": "иметь",
+  "verb_infinitive": "sahip olmak",
+  "turkish_verb": {
+    "verb_full": "sahip olmamışsak",
+    "root": "sahip ol",
+    "tense_affix": "mamışsa",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If we hadn't had the equipment...",
+  "russian_example_sentence": "Если бы у нас не было оборудования...",
+  "turkish_example_sentence": "Gerekli ekipmana sahip olmamışsak, bu görevi tamamlayamazdık.",
+  "turkish_example_sentence_with_blank": "Gerekli ekipmana ______, bu görevi tamamlayamazdık."
+}

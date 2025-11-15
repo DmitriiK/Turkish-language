@@ -1,0 +1,20 @@
+{
+  "verb_rank": 4,
+  "verb_english": "say",
+  "verb_russian": "сказать",
+  "verb_infinitive": "söylemek",
+  "turkish_verb": {
+    "verb_full": "söylesek",
+    "root": "söyle",
+    "tense_affix": "se",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If we say our ideas, the project will improve",
+  "russian_example_sentence": "Если мы скажем свои идеи, проект улучшится",
+  "turkish_example_sentence": "Biz fikirlerimizi söylesek, proje gelişir",
+  "turkish_example_sentence_with_blank": "Biz fikirlerimizi ______, proje gelişir"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 17,
+  "verb_english": "give",
+  "verb_russian": "давать",
+  "verb_infinitive": "vermek",
+  "turkish_verb": {
+    "verb_full": "vermemişsek",
+    "root": "ver",
+    "tense_affix": "mişse",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If we hadn't given the final warning...",
+  "russian_example_sentence": "Если бы мы не дали последнее предупреждение...",
+  "turkish_example_sentence": "Biz son uyarıyı vermemişsek, olaylar farklı gelişirdi.",
+  "turkish_example_sentence_with_blank": "Biz son uyarıyı ______, olaylar farklı gelişirdi."
+}

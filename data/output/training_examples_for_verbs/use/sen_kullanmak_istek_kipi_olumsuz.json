@@ -1,0 +1,20 @@
+{
+  "verb_rank": 15,
+  "verb_english": "use",
+  "verb_russian": "использовать",
+  "verb_infinitive": "kullanmak",
+  "turkish_verb": {
+    "verb_full": "kullanmayasın",
+    "root": "kullan",
+    "tense_affix": "a",
+    "verb_tense": "istek_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "sın",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "I hope you don't use this road.",
+  "russian_example_sentence": "Я надеюсь, ты не пойдешь по этой дороге.",
+  "turkish_example_sentence": "Bu yolu kullanmayasın.",
+  "turkish_example_sentence_with_blank": "Bu yolu ______."
+}

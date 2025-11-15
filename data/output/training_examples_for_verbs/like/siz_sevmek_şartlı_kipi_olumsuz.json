@@ -1,0 +1,20 @@
+{
+  "verb_rank": 39,
+  "verb_english": "like",
+  "verb_russian": "нравиться",
+  "verb_infinitive": "sevmek",
+  "turkish_verb": {
+    "verb_full": "sevmezseniz",
+    "root": "sev",
+    "tense_affix": "mezse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "niz",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If you don't like the product, return it.",
+  "russian_example_sentence": "Если вам не понравится продукт, верните его.",
+  "turkish_example_sentence": "Ürünü sevmezseniz, iade edin.",
+  "turkish_example_sentence_with_blank": "Ürünü ______, iade edin."
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 2,
+  "verb_english": "have",
+  "verb_russian": "иметь",
+  "verb_infinitive": "sahip olmak",
+  "turkish_verb": {
+    "verb_full": "sahip olmamışsan",
+    "root": "sahip ol",
+    "tense_affix": "mamışsa",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If you hadn't had that information...",
+  "russian_example_sentence": "Если бы у тебя не было этой информации...",
+  "turkish_example_sentence": "Eğer bu gizli bilgilere sahip olmamışsan, sorunu çözemezdin.",
+  "turkish_example_sentence_with_blank": "Eğer bu gizli bilgilere ______, sorunu çözemezdin."
+}

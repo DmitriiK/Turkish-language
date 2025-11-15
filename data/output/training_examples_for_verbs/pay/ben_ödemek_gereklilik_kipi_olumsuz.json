@@ -1,0 +1,20 @@
+{
+  "verb_rank": 49,
+  "verb_english": "pay",
+  "verb_russian": "платить",
+  "verb_infinitive": "ödemek",
+  "turkish_verb": {
+    "verb_full": "ödememem lazım",
+    "root": "öde",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "I don't need to pay for the dinner",
+  "russian_example_sentence": "Мне не нужно платить за ужин",
+  "turkish_example_sentence": "Ben akşam yemeği için ödememem lazım",
+  "turkish_example_sentence_with_blank": "Ben akşam yemeği için ______"
+}

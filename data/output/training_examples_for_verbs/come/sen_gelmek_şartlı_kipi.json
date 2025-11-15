@@ -1,0 +1,20 @@
+{
+  "verb_rank": 12,
+  "verb_english": "come",
+  "verb_russian": "приходить",
+  "verb_infinitive": "gelmek",
+  "turkish_verb": {
+    "verb_full": "gelirsen",
+    "root": "gel",
+    "tense_affix": "irse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If you come tomorrow, we will have coffee.",
+  "russian_example_sentence": "Если ты придешь завтра, мы выпьем кофе.",
+  "turkish_example_sentence": "Eğer yarın gelirsen, kahve içeriz.",
+  "turkish_example_sentence_with_blank": "Eğer yarın ______, kahve içeriz."
+}

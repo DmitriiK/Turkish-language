@@ -1,0 +1,20 @@
+{
+  "verb_rank": 39,
+  "verb_english": "like",
+  "verb_russian": "нравиться",
+  "verb_infinitive": "sevmek",
+  "turkish_verb": {
+    "verb_full": "sevmesen",
+    "root": "sev",
+    "tense_affix": "mese",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If you didn’t like that store, you wouldn’t go there",
+  "russian_example_sentence": "Если бы тебе не нравился этот магазин, ты бы туда не пошёл",
+  "turkish_example_sentence": "O mağazayı sevmesen, oraya gitmezsin",
+  "turkish_example_sentence_with_blank": "O mağazayı ______, oraya gitmezsin"
+}

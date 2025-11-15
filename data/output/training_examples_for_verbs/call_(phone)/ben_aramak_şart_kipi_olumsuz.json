@@ -1,0 +1,20 @@
+{
+  "verb_rank": 20,
+  "verb_english": "call (phone)",
+  "verb_russian": "звонить",
+  "verb_infinitive": "aramak",
+  "turkish_verb": {
+    "verb_full": "aramasam",
+    "root": "ara",
+    "tense_affix": "masa",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If I didn't call, would you worry?",
+  "russian_example_sentence": "Если бы я не позвонил, ты бы волновался?",
+  "turkish_example_sentence": "Ben seni aramasam, endişelenir miydin?",
+  "turkish_example_sentence_with_blank": "Ben seni ______, endişelenir miydin?"
+}

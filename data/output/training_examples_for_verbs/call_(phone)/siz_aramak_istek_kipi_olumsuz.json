@@ -1,0 +1,20 @@
+{
+  "verb_rank": 20,
+  "verb_english": "call",
+  "verb_russian": "звонить",
+  "verb_infinitive": "aramak",
+  "turkish_verb": {
+    "verb_full": "aramayasınız",
+    "root": "ara",
+    "tense_affix": "ya",
+    "verb_tense": "istek_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "sınız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "May you not call the dishonest insurance agent",
+  "russian_example_sentence": "Может быть, вы не будете звонить нечестному страховому агенту",
+  "turkish_example_sentence": "Siz asla dürüst olmayan sigorta acentesini aramayasınız",
+  "turkish_example_sentence_with_blank": "Siz asla dürüst olmayan sigorta acentesini ______"
+}

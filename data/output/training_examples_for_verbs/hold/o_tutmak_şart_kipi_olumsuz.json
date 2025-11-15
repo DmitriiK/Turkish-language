@@ -1,0 +1,20 @@
+{
+  "verb_rank": 42,
+  "verb_english": "hold",
+  "verb_russian": "держать",
+  "verb_infinitive": "tutmak",
+  "turkish_verb": {
+    "verb_full": "tutmasa",
+    "root": "tut",
+    "tense_affix": "sa",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If she didn’t hold the glass, it would spill.",
+  "russian_example_sentence": "Если бы она не держала стакан, он бы опрокинулся.",
+  "turkish_example_sentence": "Bardağı tutmasa, dökülürdü.",
+  "turkish_example_sentence_with_blank": "Bardağı ______, dökülürdü."
+}

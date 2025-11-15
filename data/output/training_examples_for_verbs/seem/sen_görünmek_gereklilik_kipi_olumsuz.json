@@ -1,0 +1,20 @@
+{
+  "verb_rank": 32,
+  "verb_english": "seem",
+  "verb_russian": "казаться",
+  "verb_infinitive": "görünmek",
+  "turkish_verb": {
+    "verb_full": "görünmemen lazım",
+    "root": "görün",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "You should not appear nervous at the exam",
+  "russian_example_sentence": "Ты не должен казаться нервным на экзамене",
+  "turkish_example_sentence": "Sen sınav salonunda endişeli görünmemen lazım",
+  "turkish_example_sentence_with_blank": "Sen sınav salonunda endişeli ______"
+}

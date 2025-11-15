@@ -1,0 +1,20 @@
+{
+  "verb_rank": 33,
+  "verb_english": "help",
+  "verb_russian": "помогать",
+  "verb_infinitive": "yardım etmek",
+  "turkish_verb": {
+    "verb_full": "yardım etmezsem",
+    "root": "yardım et",
+    "tense_affix": "mezse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If I don't help today, he will struggle.",
+  "russian_example_sentence": "Если я не помогу сегодня, ему будет трудно.",
+  "turkish_example_sentence": "Ben bugün yardım etmezsem, o çok zorlanır.",
+  "turkish_example_sentence_with_blank": "Ben bugün ______, o çok zorlanır."
+}

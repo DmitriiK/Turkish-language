@@ -1,0 +1,20 @@
+{
+  "verb_rank": 49,
+  "verb_english": "pay",
+  "verb_russian": "платить",
+  "verb_infinitive": "ödemek",
+  "turkish_verb": {
+    "verb_full": "ödesek",
+    "root": "öde",
+    "tense_affix": "se",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If we paid the electricity bill...",
+  "russian_example_sentence": "Если бы мы оплатили счет за электричество...",
+  "turkish_example_sentence": "Biz elektrik faturasını ödesek, kesilmezdi",
+  "turkish_example_sentence_with_blank": "Biz elektrik faturasını ______, kesilmezdi"
+}

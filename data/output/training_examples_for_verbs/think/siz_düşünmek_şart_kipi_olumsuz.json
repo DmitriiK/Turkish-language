@@ -1,0 +1,20 @@
+{
+  "verb_rank": 9,
+  "verb_english": "think",
+  "verb_russian": "думать",
+  "verb_infinitive": "düşünmek",
+  "turkish_verb": {
+    "verb_full": "düşünmeseniz",
+    "root": "düşün",
+    "tense_affix": "se",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "niz",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If you don't think first, it'll be risky.",
+  "russian_example_sentence": "Если вы не подумаете сначала, это будет рискованно.",
+  "turkish_example_sentence": "Siz önce düşünmeseniz, riskli olur.",
+  "turkish_example_sentence_with_blank": "Siz önce ______, riskli olur."
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 40,
+  "verb_english": "live",
+  "verb_russian": "жить",
+  "verb_infinitive": "yaşamak",
+  "turkish_verb": {
+    "verb_full": "yaşamadığında",
+    "root": "yaşa",
+    "tense_affix": "dık",
+    "verb_tense": "zaman_sıfatı",
+    "personal_pronoun": "sen",
+    "personal_affix": "ığında",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "When you didn't live in the city center, you avoided traffic.",
+  "russian_example_sentence": "Когда ты не жил в центре города, ты избегал пробок.",
+  "turkish_example_sentence": "Şehir merkezinde yaşamadığında, trafikten kaçındın.",
+  "turkish_example_sentence_with_blank": "Şehir merkezinde ______, trafikten kaçındın."
+}

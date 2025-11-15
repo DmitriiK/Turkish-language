@@ -1,0 +1,20 @@
+{
+  "verb_rank": 48,
+  "verb_english": "lose",
+  "verb_russian": "терять",
+  "verb_infinitive": "kaybetmek",
+  "turkish_verb": {
+    "verb_full": "kaybetmezsem",
+    "root": "kaybet",
+    "tense_affix": "se",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If I don't lose my glasses, I can read the map.",
+  "russian_example_sentence": "Если я не потеряю очки, я смогу прочитать карту.",
+  "turkish_example_sentence": "Gözlüklerimi kaybetmezsem, haritayı okuyabilirim.",
+  "turkish_example_sentence_with_blank": "Gözlüklerimi ______, haritayı okuyabilirim."
+}

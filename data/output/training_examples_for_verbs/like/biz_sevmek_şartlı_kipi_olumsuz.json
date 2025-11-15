@@ -1,0 +1,20 @@
+{
+  "verb_rank": 39,
+  "verb_english": "like",
+  "verb_russian": "нравиться",
+  "verb_infinitive": "sevmek",
+  "turkish_verb": {
+    "verb_full": "sevmezsek",
+    "root": "sev",
+    "tense_affix": "mezse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If we don't like the menu, we'll leave.",
+  "russian_example_sentence": "Если нам не понравится меню, мы уйдём.",
+  "turkish_example_sentence": "Menüyü sevmezsek, gideriz.",
+  "turkish_example_sentence_with_blank": "Menüyü ______, gideriz."
+}

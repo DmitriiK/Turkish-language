@@ -1,0 +1,20 @@
+{
+  "verb_rank": 32,
+  "verb_english": "seem",
+  "verb_russian": "казаться",
+  "verb_infinitive": "görünmek",
+  "turkish_verb": {
+    "verb_full": "görünmemelisiniz",
+    "root": "görün",
+    "tense_affix": "meli",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "siniz",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "You must not seem uncertain about your qualifications",
+  "russian_example_sentence": "Вы не должны казаться неуверенными в своих квалификациях",
+  "turkish_example_sentence": "Siz bu prestijli kurumda şüpheli ve yetersiz görünmemelisiniz",
+  "turkish_example_sentence_with_blank": "Siz bu prestijli kurumda şüpheli ve yetersiz ______"
+}

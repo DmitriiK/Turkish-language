@@ -1,0 +1,20 @@
+{
+  "verb_rank": 10,
+  "verb_english": "take",
+  "verb_russian": "брать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almadığımda",
+    "root": "al",
+    "tense_affix": "dık",
+    "verb_tense": "zaman_sıfatı",
+    "personal_pronoun": "ben",
+    "personal_affix": "ım",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "When I don't take my medicine,",
+  "russian_example_sentence": "Когда я не принимаю лекарство,",
+  "turkish_example_sentence": "Ben her gün vitaminleri almadığımda, kendimi yorgun hissediyorum.",
+  "turkish_example_sentence_with_blank": "Ben her gün vitaminleri ______, kendimi yorgun hissediyorum."
+}

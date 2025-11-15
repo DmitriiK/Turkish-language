@@ -1,0 +1,20 @@
+{
+  "verb_rank": 37,
+  "verb_english": "run",
+  "verb_russian": "бегать",
+  "verb_infinitive": "koşmak",
+  "turkish_verb": {
+    "verb_full": "koşmaman lazım",
+    "root": "koş",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "You should not run after eating",
+  "russian_example_sentence": "Тебе не следует бежать после еды",
+  "turkish_example_sentence": "Sen ağır yemekten sonra koşmaman lazım",
+  "turkish_example_sentence_with_blank": "Sen ağır yemekten sonra ______"
+}

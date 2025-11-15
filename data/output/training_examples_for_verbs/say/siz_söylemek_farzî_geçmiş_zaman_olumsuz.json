@@ -1,0 +1,20 @@
+{
+  "verb_rank": 4,
+  "verb_english": "say",
+  "verb_russian": "сказать",
+  "verb_infinitive": "söylemek",
+  "turkish_verb": {
+    "verb_full": "söylememişseniz",
+    "root": "söyle",
+    "tense_affix": "mişse",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "siz",
+    "personal_affix": "niz",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If you hadn't said those embarrassing things.",
+  "russian_example_sentence": "Если бы вы не сказали эти смущающие вещи.",
+  "turkish_example_sentence": "Siz o utanç verici şeyleri söylememişseniz, iyi olur.",
+  "turkish_example_sentence_with_blank": "Siz o utanç verici şeyleri ______, iyi olur."
+}

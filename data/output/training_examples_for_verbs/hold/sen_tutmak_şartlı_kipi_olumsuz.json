@@ -1,0 +1,20 @@
+{
+  "verb_rank": 42,
+  "verb_english": "hold",
+  "verb_russian": "держать",
+  "verb_infinitive": "tutmak",
+  "turkish_verb": {
+    "verb_full": "tutmazsan",
+    "root": "tut",
+    "tense_affix": "arsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If you don't hold the leash, the dog will run away.",
+  "russian_example_sentence": "Если ты не держишь поводок, собака убежит.",
+  "turkish_example_sentence": "Tasma tutmazsan, köpek kaçar.",
+  "turkish_example_sentence_with_blank": "Tasma ______, köpek kaçar."
+}

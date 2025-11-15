@@ -1,0 +1,20 @@
+{
+  "verb_rank": 32,
+  "verb_english": "seem",
+  "verb_russian": "казаться",
+  "verb_infinitive": "görünmek",
+  "turkish_verb": {
+    "verb_full": "görünemem",
+    "root": "görün",
+    "tense_affix": "eme",
+    "verb_tense": "imkan_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "eme"
+  },
+  "english_example_sentence": "I cannot seem happy in this situation",
+  "russian_example_sentence": "Я не могу казаться счастливой в этой ситуации",
+  "turkish_example_sentence": "Ben bu durumda mutlu görünemem",
+  "turkish_example_sentence_with_blank": "Ben bu durumda mutlu ______"
+}

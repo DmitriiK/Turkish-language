@@ -1,0 +1,20 @@
+{
+  "verb_rank": 5,
+  "verb_english": "go",
+  "verb_russian": "идти",
+  "verb_infinitive": "gitmek",
+  "turkish_verb": {
+    "verb_full": "gitmemişsem",
+    "root": "git",
+    "tense_affix": "mişse",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If I hadn't gone to the concert.",
+  "russian_example_sentence": "Если бы я не пошел на концерт.",
+  "turkish_example_sentence": "Ben o gürültülü konsere gitmemişsem, rahat uyurdum.",
+  "turkish_example_sentence_with_blank": "Ben o gürültülü konsere ______, rahat uyurdum."
+}

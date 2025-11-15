@@ -1,0 +1,20 @@
+{
+  "verb_rank": 10,
+  "verb_english": "take",
+  "verb_russian": "брать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almadığımızda",
+    "root": "al",
+    "tense_affix": "dık",
+    "verb_tense": "zaman_sıfatı",
+    "personal_pronoun": "biz",
+    "personal_affix": "ımız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "When we don't take enough vitamins,",
+  "russian_example_sentence": "Когда мы не принимаем достаточно витаминов,",
+  "turkish_example_sentence": "Biz önemli kararları almadığımızda, pişman oluyoruz genellikle.",
+  "turkish_example_sentence_with_blank": "Biz önemli kararları ______, pişman oluyoruz genellikle."
+}

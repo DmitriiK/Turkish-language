@@ -1,0 +1,20 @@
+{
+  "verb_rank": 49,
+  "verb_english": "pay",
+  "verb_russian": "платить",
+  "verb_infinitive": "ödemek",
+  "turkish_verb": {
+    "verb_full": "ödememeliyiz",
+    "root": "öde",
+    "tense_affix": "meli",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "yiz",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "We must not pay today",
+  "russian_example_sentence": "Мы не должны платить сегодня",
+  "turkish_example_sentence": "Biz bugün ödememeliyiz",
+  "turkish_example_sentence_with_blank": "Biz bugün ______"
+}

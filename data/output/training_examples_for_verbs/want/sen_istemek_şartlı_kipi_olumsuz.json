@@ -1,0 +1,20 @@
+{
+  "verb_rank": 13,
+  "verb_english": "want",
+  "verb_russian": "хотеть",
+  "verb_infinitive": "istemek",
+  "turkish_verb": {
+    "verb_full": "istemezsen",
+    "root": "iste",
+    "tense_affix": "mezse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If you don't want help, just say so.",
+  "russian_example_sentence": "Если ты не захочешь помощи, просто скажи об этом.",
+  "turkish_example_sentence": "Yardım istemezsen sadece söyle.",
+  "turkish_example_sentence_with_blank": "Yardım ______ sadece söyle."
+}

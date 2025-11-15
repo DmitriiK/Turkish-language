@@ -1,0 +1,20 @@
+{
+  "verb_rank": 44,
+  "verb_english": "write",
+  "verb_russian": "писать",
+  "verb_infinitive": "yazmak",
+  "turkish_verb": {
+    "verb_full": "yazmaması lazım",
+    "root": "yaz",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "I should not write false information here",
+  "russian_example_sentence": "Я не должен писать неправильную информацию здесь",
+  "turkish_example_sentence": "Ben burada yanlış bilgiyi yazmaması lazım",
+  "turkish_example_sentence_with_blank": "Ben burada yanlış bilgiyi ______"
+}

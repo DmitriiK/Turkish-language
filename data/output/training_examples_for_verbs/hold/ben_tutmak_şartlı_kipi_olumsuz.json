@@ -1,0 +1,20 @@
+{
+  "verb_rank": 42,
+  "verb_english": "hold",
+  "verb_russian": "держать",
+  "verb_infinitive": "tutmak",
+  "turkish_verb": {
+    "verb_full": "tutmazsam",
+    "root": "tut",
+    "tense_affix": "arsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If I don't hold the rope, I will fall.",
+  "russian_example_sentence": "Если я не держу веревку, я упаду.",
+  "turkish_example_sentence": "Ipi tutmazsam, düşerim.",
+  "turkish_example_sentence_with_blank": "Ipi ______, düşerim."
+}

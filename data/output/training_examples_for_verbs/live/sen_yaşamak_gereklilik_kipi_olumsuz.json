@@ -1,0 +1,20 @@
+{
+  "verb_rank": 40,
+  "verb_english": "live",
+  "verb_russian": "жить",
+  "verb_infinitive": "yaşamak",
+  "turkish_verb": {
+    "verb_full": "yaşamaman lazım",
+    "root": "yaşa",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "You do not need to live alone in that remote mountain village",
+  "russian_example_sentence": "Тебе не нужно жить одному в той отдаленной горной деревне",
+  "turkish_example_sentence": "Sen o uzak dağ köyünde yalnız yaşamaman lazım",
+  "turkish_example_sentence_with_blank": "Sen o uzak dağ köyünde yalnız ______"
+}

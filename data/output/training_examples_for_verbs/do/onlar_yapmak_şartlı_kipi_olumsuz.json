@@ -1,0 +1,20 @@
+{
+  "verb_rank": 3,
+  "verb_english": "do",
+  "verb_russian": "делать",
+  "verb_infinitive": "yapmak",
+  "turkish_verb": {
+    "verb_full": "yapmazlarsa",
+    "root": "yap",
+    "tense_affix": "arsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "lar",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If they don't help, we won't finish.",
+  "russian_example_sentence": "Если они не помогут, мы не закончим.",
+  "turkish_example_sentence": "Eğer yardım yapmazlarsa işi bitiremeyiz.",
+  "turkish_example_sentence_with_blank": "Eğer yardım ______ işi bitiremeyiz."
+}
