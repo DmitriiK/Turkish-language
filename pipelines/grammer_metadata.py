@@ -138,6 +138,12 @@ VERB_FORM_INFOS = [
         type_of_personal_pronoun=1,
         polarity=VerbPolarity.Positive
     ),
+    VerbFormInfo(
+        verb_tense=VerbTense.Yaracağım,
+        language_level=LanguageLevel.A2,
+        type_of_personal_pronoun=1,
+        polarity=VerbPolarity.Negative
+    ),
     
     # General/habitual tense - POSITIVE
     VerbFormInfo(
@@ -154,12 +160,18 @@ VERB_FORM_INFOS = [
         polarity=VerbPolarity.Negative
     ),
     
-    # Modal forms - keeping only positive for now (can add negative later)
+    # Modal forms
     VerbFormInfo(
         verb_tense=VerbTense.IstekKipi,
         language_level=LanguageLevel.B1,
         type_of_personal_pronoun=1,
         polarity=VerbPolarity.Positive
+    ),
+    VerbFormInfo(
+        verb_tense=VerbTense.IstekKipi,
+        language_level=LanguageLevel.B1,
+        type_of_personal_pronoun=1,
+        polarity=VerbPolarity.Negative
     ),
     VerbFormInfo(
         verb_tense=VerbTense.EmirKipi,
@@ -168,18 +180,36 @@ VERB_FORM_INFOS = [
         polarity=VerbPolarity.Positive
     ),
     VerbFormInfo(
+        verb_tense=VerbTense.EmirKipi,
+        language_level=LanguageLevel.A2,
+        type_of_personal_pronoun=3,  # Negative imperatives: Yapma! Yapmayın! Yapmasın! Yapmasınlar!
+        polarity=VerbPolarity.Negative
+    ),
+    VerbFormInfo(
         verb_tense=VerbTense.ŞartKipi,
         language_level=LanguageLevel.B1,
         type_of_personal_pronoun=1,
         polarity=VerbPolarity.Positive
+    ),
+    VerbFormInfo(
+        verb_tense=VerbTense.ŞartKipi,
+        language_level=LanguageLevel.B1,
+        type_of_personal_pronoun=1,
+        polarity=VerbPolarity.Negative
     ),
     
     # Necessity and ability
     VerbFormInfo(
         verb_tense=VerbTense.GereklilikKipi,
         language_level=LanguageLevel.A2,
-        type_of_personal_pronoun=1,  # "Yapmam lazım" - uses possessive suffixes for all persons
+        type_of_personal_pronoun=1,
         polarity=VerbPolarity.Positive
+    ),
+    VerbFormInfo(
+        verb_tense=VerbTense.GereklilikKipi,
+        language_level=LanguageLevel.A2,
+        type_of_personal_pronoun=1,
+        polarity=VerbPolarity.Negative
     ),
     VerbFormInfo(
         verb_tense=VerbTense.İmkanKipi,
@@ -188,10 +218,22 @@ VERB_FORM_INFOS = [
         polarity=VerbPolarity.Positive
     ),
     VerbFormInfo(
+        verb_tense=VerbTense.İmkanKipi,
+        language_level=LanguageLevel.A2,
+        type_of_personal_pronoun=1,
+        polarity=VerbPolarity.Negative
+    ),
+    VerbFormInfo(
         verb_tense=VerbTense.ZorunlulukKipi,
         language_level=LanguageLevel.A2,
         type_of_personal_pronoun=1,
         polarity=VerbPolarity.Positive
+    ),
+    VerbFormInfo(
+        verb_tense=VerbTense.ZorunlulukKipi,
+        language_level=LanguageLevel.A2,
+        type_of_personal_pronoun=1,
+        polarity=VerbPolarity.Negative
     ),
     
     # Conditional forms
@@ -202,8 +244,26 @@ VERB_FORM_INFOS = [
         polarity=VerbPolarity.Positive
     ),
     VerbFormInfo(
+        verb_tense=VerbTense.GeçmişGelecekZaman,
+        language_level=LanguageLevel.B2,
+        type_of_personal_pronoun=1,
+        polarity=VerbPolarity.Negative
+    ),
+    VerbFormInfo(
         verb_tense=VerbTense.ŞartlıKipi,
         language_level=LanguageLevel.B1,
+        type_of_personal_pronoun=1,
+        polarity=VerbPolarity.Positive
+    ),
+    VerbFormInfo(
+        verb_tense=VerbTense.ŞartlıKipi,
+        language_level=LanguageLevel.B1,
+        type_of_personal_pronoun=1,
+        polarity=VerbPolarity.Negative
+    ),
+    VerbFormInfo(
+        verb_tense=VerbTense.FarzîGeçmişZaman,
+        language_level=LanguageLevel.B2,
         type_of_personal_pronoun=1,
         polarity=VerbPolarity.Positive
     ),
@@ -211,7 +271,7 @@ VERB_FORM_INFOS = [
         verb_tense=VerbTense.FarzîGeçmişZaman,
         language_level=LanguageLevel.B2,
         type_of_personal_pronoun=1,
-        polarity=VerbPolarity.Positive
+        polarity=VerbPolarity.Negative
     ),
     
     # Participial forms
@@ -222,16 +282,34 @@ VERB_FORM_INFOS = [
         polarity=VerbPolarity.Positive
     ),
     VerbFormInfo(
+        verb_tense=VerbTense.SıfatFiil,
+        language_level=LanguageLevel.B1,
+        type_of_personal_pronoun=None,  # "Yapmayan" - negative participle
+        polarity=VerbPolarity.Negative
+    ),
+    VerbFormInfo(
         verb_tense=VerbTense.ZarfFiil,
         language_level=LanguageLevel.B2,
-        type_of_personal_pronoun=None,  # "Yararak" - no personal affix
+        type_of_personal_pronoun=None,  # "Yaparak" - no personal affix
         polarity=VerbPolarity.Positive
+    ),
+    VerbFormInfo(
+        verb_tense=VerbTense.ZarfFiil,
+        language_level=LanguageLevel.B2,
+        type_of_personal_pronoun=None,  # "Yapmadan" - negative adverbial
+        polarity=VerbPolarity.Negative
     ),
     VerbFormInfo(
         verb_tense=VerbTense.UlakFiil,
         language_level=LanguageLevel.B1,
         type_of_personal_pronoun=None,  # "Yapıp" - no personal affix
         polarity=VerbPolarity.Positive
+    ),
+    VerbFormInfo(
+        verb_tense=VerbTense.UlakFiil,
+        language_level=LanguageLevel.B1,
+        type_of_personal_pronoun=None,  # "Yapmayıp" - negative converb
+        polarity=VerbPolarity.Negative
     ),
     
     # Temporal forms
@@ -240,6 +318,12 @@ VERB_FORM_INFOS = [
         language_level=LanguageLevel.B2,
         type_of_personal_pronoun=2,  # "Yaptığımda" - uses possessive affix
         polarity=VerbPolarity.Positive
+    ),
+    VerbFormInfo(
+        verb_tense=VerbTense.ZamanSıfatı,
+        language_level=LanguageLevel.B2,
+        type_of_personal_pronoun=2,  # "Yapmadığımda" - negative temporal
+        polarity=VerbPolarity.Negative
     ),
 ]
 
