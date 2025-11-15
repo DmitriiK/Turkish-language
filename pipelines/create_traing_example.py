@@ -1260,21 +1260,27 @@ def generate_training_example(
     return [], 0, 0
 
 
-def save_training_example(example: TrainingExample, output_dir: Path, polarity: VerbPolarity) -> Path:
+def save_training_example(example: TrainingExample, output_dir: Path, polarity: VerbPolarity,
+                          verb: Optional['VerbData'] = None) -> Path:
     """Save training example as JSON file with proper naming convention
-    
+
+    Args:
+        example: The training example to save
+        output_dir: Base output directory
+        polarity: Verb polarity (positive/negative)
+        verb: Optional VerbData to ensure consistent folder naming with CSV
+
     Returns:
         Path: The path to the saved file
     """
     # Create folder structure: verb_english/ (without "to " prefix at the beginning)
-    verb_name = example.verb_english
+    # Use verb.english if provided (from CSV) for consistency, otherwise fall back to example
+    verb_name = verb.english if verb else example.verb_english
     if verb_name.startswith("to "):
         verb_name = verb_name[3:]  # Remove "to " from the beginning
     verb_name = verb_name.replace(" ", "_")
     verb_folder = output_dir / verb_name
-    verb_folder.mkdir(parents=True, exist_ok=True)
-    
-    # Create filename: pronoun_infinitive_tense_polarity.json
+    verb_folder.mkdir(parents=True, exist_ok=True)    # Create filename: pronoun_infinitive_tense_polarity.json
     pronoun_part = (example.turkish_verb.personal_pronoun.value
                     if example.turkish_verb.personal_pronoun else "none")
     # Use the infinitive from the nested structure
@@ -1570,8 +1576,8 @@ def main(
                 for example in examples_list:
                     # Determine polarity for filename
                     polarity = example.turkish_verb.polarity
-                    
-                    file_path = save_training_example(example, output_dir, polarity)
+
+                    file_path = save_training_example(example, output_dir, polarity, verb)
                     batch_generated += 1
                     verb_example_count += 1
                 
@@ -1643,7 +1649,7 @@ def main(
                 # Save the example (list should have 1 item)
                 if examples_list and len(examples_list) > 0:
                     example = examples_list[0]
-                    file_path = save_training_example(example, output_dir, polarity)
+                    file_path = save_training_example(example, output_dir, polarity, verb)
                     total_tokens = prompt_tokens + completion_tokens
                     cumulative = total_prompt_tokens + total_completion_tokens
                     print(f"   ✅ Saved to: {file_path}")
@@ -1716,9 +1722,9 @@ if __name__ == "__main__":
     )
     parser.add_argument(
         "--language-level",
-        default="A2",
+        default=None,
         choices=["A1", "A2", "B1", "B2"],
-        help="Target language level (default: A2)"
+        help="Target language level. If not specified, generates for all levels (A1, A2, B1, B2)"
     )
     parser.add_argument(
         "--top-n-verbs",
@@ -1768,25 +1774,40 @@ if __name__ == "__main__":
     
     args = parser.parse_args()
     
-    # If specific verbs are provided, use them; otherwise use top-n
-    if args.verbs:
-        main(
-            language_level=args.language_level,
-            specific_verbs=args.verbs,
-            tenses=args.tenses,
-            pronouns=args.pronouns,
-            polarities=args.polarities,
-            provider=args.provider,
-            skip_existing=args.skip_existing
-        )
+    # Determine which levels to process
+    if args.language_level is None:
+        # Generate for all levels
+        levels = ["A1", "A2", "B1", "B2"]
+        print(f"🌍 Generating for ALL language levels: {', '.join(levels)}\n")
     else:
-        top_n = args.top_n_verbs if args.top_n_verbs else 10
-        main(
-            language_level=args.language_level,
-            top_n_verbs=top_n,
-            tenses=args.tenses,
-            pronouns=args.pronouns,
-            polarities=args.polarities,
-            provider=args.provider,
-            skip_existing=args.skip_existing
-        )
+        levels = [args.language_level]
+    
+    # Process each level
+    for level in levels:
+        if len(levels) > 1:
+            print(f"\n{'='*80}")
+            print(f"📚 Processing Language Level: {level}")
+            print(f"{'='*80}\n")
+        
+        # If specific verbs are provided, use them; otherwise use top-n
+        if args.verbs:
+            main(
+                language_level=level,
+                specific_verbs=args.verbs,
+                tenses=args.tenses,
+                pronouns=args.pronouns,
+                polarities=args.polarities,
+                provider=args.provider,
+                skip_existing=args.skip_existing
+            )
+        else:
+            top_n = args.top_n_verbs if args.top_n_verbs else 10
+            main(
+                language_level=level,
+                top_n_verbs=top_n,
+                tenses=args.tenses,
+                pronouns=args.pronouns,
+                polarities=args.polarities,
+                provider=args.provider,
+                skip_existing=args.skip_existing
+            )
