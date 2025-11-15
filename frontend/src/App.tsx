@@ -3,7 +3,7 @@ import { LearningCard } from '@/components/LearningCard';
 import { DirectionControls } from '@/components/DirectionControls';
 import { dataLoader } from '@/utils/dataLoader';
 import { TrainingExample, LearnDirection, ProgressState, UserProgress, LanguageLevel } from '@/types';
-import { BookOpen } from 'lucide-react';
+import { BookOpen, BookText, FileText } from 'lucide-react';
 import { motion } from 'framer-motion';
 
 const App: React.FC = () => {
@@ -15,6 +15,8 @@ const App: React.FC = () => {
   const [languageLevel, setLanguageLevel] = useState<LanguageLevel>('All');
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+  const [totalVerbs, setTotalVerbs] = useState<number>(0);
+  const [totalExamples, setTotalExamples] = useState<number>(0);
   const [trackAnsweredCards, setTrackAnsweredCards] = useState<boolean>(() => {
     // Load from localStorage on init
     const saved = localStorage.getItem('trackAnsweredCards');
@@ -144,6 +146,27 @@ const App: React.FC = () => {
     console.log('useEffect triggered, loading example...'); // Debug log
     loadCurrentExample();
   }, [currentVerb, currentTense, currentPronoun, currentPolarity]);
+
+  // Load statistics on mount
+  useEffect(() => {
+    const loadStatistics = async () => {
+      try {
+        const response = await fetch('/data/navigation_summary.json');
+        const data = await response.json();
+        setTotalVerbs(data.total_verbs || 0);
+        
+        // Calculate total examples by summing all verb examples
+        const total = data.verbs.reduce((sum: number, verb: any) => {
+          return sum + (verb.total_examples || 0);
+        }, 0);
+        setTotalExamples(total);
+      } catch (error) {
+        console.error('Failed to load statistics:', error);
+      }
+    };
+    
+    loadStatistics();
+  }, []);
 
   // Navigation handlers
   const handleNextTense = async () => {
@@ -329,6 +352,27 @@ const App: React.FC = () => {
             </select>
           </div>
         </motion.header>
+
+        {/* Statistics */}
+        <motion.div 
+          initial={{ opacity: 0, y: -10 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ delay: 0.1 }}
+          className="flex justify-center gap-6 mb-4"
+        >
+          <div className="flex items-center gap-2 px-4 py-2 bg-blue-50 rounded-lg border border-blue-200">
+            <BookText className="w-5 h-5 text-blue-600" />
+            <span className="text-sm font-medium text-blue-900">
+              {totalVerbs} Verbs
+            </span>
+          </div>
+          <div className="flex items-center gap-2 px-4 py-2 bg-green-50 rounded-lg border border-green-200">
+            <FileText className="w-5 h-5 text-green-600" />
+            <span className="text-sm font-medium text-green-900">
+              {totalExamples.toLocaleString()} Examples
+            </span>
+          </div>
+        </motion.div>
 
         {/* Controls */}
         <motion.div
