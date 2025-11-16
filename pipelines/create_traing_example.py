@@ -992,6 +992,54 @@ def call_dial_api(
         raise
 
 
+def validate_verb_root_in_sentence(
+    verb_root: str,
+    turkish_sentence: str,
+    verb_full: str
+) -> Tuple[bool, str]:
+    """
+    Validate that the verb root appears in the Turkish sentence.
+    Accounts for Turkish consonant softening: p→b, ç→c, t→d, k→ğ
+    
+    Args:
+        verb_root: The root of the verb (e.g., "yap", "git")
+        turkish_sentence: The Turkish example sentence
+        verb_full: The complete conjugated verb form
+        
+    Returns:
+        (is_valid, error_message) - error_message is empty if valid
+    """
+    # First check if full verb appears in sentence
+    if verb_full.lower() in turkish_sentence.lower():
+        return True, ""
+    
+    # Check if root appears directly
+    if verb_root.lower() in turkish_sentence.lower():
+        return True, ""
+    
+    # Check for consonant softening variations
+    # Turkish consonant softening rules: p→b, ç→c, t→d, k→ğ (when between vowels)
+    softening_map = {
+        'p': 'b',
+        'ç': 'c',
+        't': 'd',
+        'k': 'ğ'
+    }
+    
+    # Try each possible softening of the last consonant
+    for i, char in enumerate(verb_root):
+        if char in softening_map:
+            softened_root = verb_root[:i] + softening_map[char] + verb_root[i+1:]
+            if softened_root.lower() in turkish_sentence.lower():
+                return True, ""
+    
+    # Root not found in any form
+    return False, (
+        f"Verb root '{verb_root}' not found in sentence: '{turkish_sentence}'. "
+        f"The sentence may be using a different verb. Please use the correct verb '{verb_root}' or its softened form."
+    )
+
+
 def generate_training_example(
     verb: VerbData,
     tense: VerbTense,
@@ -1176,6 +1224,53 @@ def generate_training_example(
                     # Max retries reached
                     print(f"   ❌ Max retries ({max_retries}) reached for validation")
                     raise ValueError(f"Validation failed after {max_retries} retries: {error_msg}")
+            
+            # Post-validation: Check verb root in sentence(s)
+            verb_root_errors = []
+            examples_to_check = result.examples if batch_mode else [result]
+            
+            for example in examples_to_check:
+                is_valid, root_error = validate_verb_root_in_sentence(
+                    example.turkish_verb.root,
+                    example.turkish_example_sentence,
+                    example.turkish_verb.verb_full
+                )
+                if not is_valid:
+                    verb_root_errors.append(root_error)
+            
+            if verb_root_errors:
+                # Verb root validation failed
+                if attempt < max_retries:
+                    error_summary = "\n".join(f"- {err}" for err in verb_root_errors)
+                    print(f"   ⚠️  Verb root mismatch (attempt {attempt + 1}/{max_retries + 1})")
+                    
+                    # Build conversation history for retry with error feedback
+                    if conversation_history is None:
+                        conversation_history = [
+                            {"role": "user", "content": prompt_text},
+                            {"role": "assistant", "content": response_text}
+                        ]
+                    else:
+                        conversation_history.append({"role": "assistant", "content": response_text})
+                    
+                    # Add verb root error feedback
+                    feedback_message = (
+                        f"CRITICAL ERROR: The verb root does not match the sentence:\n\n"
+                        f"{error_summary}\n\n"
+                        f"You MUST use the verb '{verb.turkish}' "
+                        f"(root: '{examples_to_check[0].turkish_verb.root}') in the Turkish sentence. "
+                        f"Do NOT use different verbs. Remember that the root may undergo consonant softening "
+                        f"(p→b, ç→c, t→d, k→ğ) but it must be recognizable as the same verb.\n\n"
+                        f"Please provide a corrected JSON response with the correct verb."
+                    )
+                    conversation_history.append({"role": "user", "content": feedback_message})
+                    
+                    continue
+                else:
+                    # Max retries reached
+                    print(f"   ❌ Max retries ({max_retries}) reached for verb root validation")
+                    error_summary = "\n".join(verb_root_errors)
+                    raise ValueError(f"Verb root mismatch after {max_retries} retries:\n{error_summary}")
             
             # Handle batch mode: validate completeness
             if batch_mode:

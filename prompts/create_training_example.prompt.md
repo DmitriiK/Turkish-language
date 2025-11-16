@@ -67,7 +67,14 @@ Apply the grammar rules provided above to conjugate the verb correctly:
 Create three natural example sentences:
 
 **Turkish sentence**:
-- MUST contain the EXACT "verb_full" form generated
+- **CRITICAL VERB REQUIREMENT:** MUST contain the EXACT "verb_full" form generated
+  - The verb root from "verb_infinitive" MUST appear in the sentence
+  - Example: If verb is "yapmak" (to do), the sentence MUST use a form with root "yap"
+  - ❌ WRONG: Using "kalmak" when verb is "yapmak"
+  - ❌ WRONG: Using "gitmek" when verb is "olmak"
+  - Note: Root may undergo consonant softening (p→b, ç→c, t→d, k→ğ) but must be recognizable
+    - Example: "git" → "gid" in "gidiyor" is acceptable (t→d softening)
+    - Example: "yap" → "yab" in "yabıyor" would be acceptable (p→b softening)
 - **CRITICAL WORD COUNT REQUIREMENT:**
   - The sentence MUST have **at least 4 content words** (excluding pronouns)
   - Content words = nouns, adjectives, verbs (including the conjugated verb), adverbs, objects
@@ -109,10 +116,11 @@ Create three natural example sentences:
 Before generating output, verify:
 
 1. ✅ Does the Turkish sentence contain the EXACT verb_full form?
-2. ✅ Is polarity "{polarity}" correctly applied?
-3. ✅ Does the Turkish sentence have at least 4 words (excluding pronouns)?
-4. ✅ Does the Turkish sentence include at least 2 nouns and 1 adjective?
-5. ✅ Are the affixes correctly broken down following the grammar rules?
-6. ✅ Do buffer vowels appear in the correct affix fields?
+2. ✅ Does the verb root from verb_infinitive appear in the Turkish sentence? (Check for consonant softening: p→b, ç→c, t→d, k→ğ)
+3. ✅ Is polarity "{polarity}" correctly applied?
+4. ✅ Does the Turkish sentence have at least 4 words (excluding pronouns)?
+5. ✅ Does the Turkish sentence include at least 2 nouns and 1 adjective?
+6. ✅ Are the affixes correctly broken down following the grammar rules?
+7. ✅ Do buffer vowels appear in the correct affix fields?
 
 If all checks pass, generate the JSON output now.
