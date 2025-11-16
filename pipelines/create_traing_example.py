@@ -1795,9 +1795,9 @@ if __name__ == "__main__":
     parser.add_argument(
         "--provider",
         type=str,
-        choices=["gemini", "azure"],
+        choices=["openai", "claude", "gemini", "deepseek"],
         default=None,
-        help='LLM provider to use: "gemini" (AI Studio) or "azure" (default: uses config.toml setting)'
+        help='LLM provider to use: "openai", "claude", "gemini", or "deepseek" (default: uses config.toml setting)'
     )
     parser.add_argument(
         "--skip-existing",

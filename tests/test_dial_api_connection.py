@@ -60,8 +60,33 @@ def test_list_available_models():
     assert len(models) > 0, "No models returned from API"
 
 
-def test_claude_connection(config):
-    model_id: str = config.get("DIAL_API", {}).get("CLOUD_MODEL_NAME", "anthropic.claude-haiku-4-5-20251001-v1:0")
+def test_claude_haiku_4_5_connection(config):
+    """Test Claude 4.5 Haiku model"""
+    model_id: str = "anthropic.claude-haiku-4-5-20251001-v1:0"
+    test_dial_connection(model_id=model_id, config=config)
+
+
+def test_claude_sonnet_4_connection(config):
+    """Test Claude 4 Sonnet model"""
+    model_id: str = "anthropic.claude-sonnet-4-20250514-v1:0"
+    test_dial_connection(model_id=model_id, config=config)
+
+
+def test_claude_sonnet_4_5_connection(config):
+    """Test Claude 4.5 Sonnet model"""
+    model_id: str = "anthropic.claude-sonnet-4-5-20250929-v1:0"
+    test_dial_connection(model_id=model_id, config=config)
+
+
+def test_claude_opus_4_connection(config):
+    """Test Claude 4 Opus model"""
+    model_id: str = "anthropic.claude-opus-4-20250514-v1:0"
+    test_dial_connection(model_id=model_id, config=config)
+
+
+def test_claude_opus_4_1_connection(config):
+    """Test Claude 4.1 Opus model"""
+    model_id: str = "anthropic.claude-opus-4-1-20250805-v1:0"
     test_dial_connection(model_id=model_id, config=config)
 
 

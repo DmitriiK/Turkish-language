@@ -40,9 +40,7 @@ GEMINI_MODEL_NAME = "gemini-2.5-flash"
 # Claude model rotation list - will try each in order when hitting daily limits
 # Each model has its own daily quota, so we can rotate through them
 CLAUDE_MODEL_ROTATION = [
-    "anthropic.claude-v3-5-haiku",                  # Legacy Haiku 3.5 (proven accessible)
-    "anthropic.claude-v3-5-sonnet",                 # Legacy Sonnet 3.5 (fallback)
-    "anthropic.claude-v3-haiku",                    # Older Haiku 3 (fallback)
+    "anthropic.claude-haiku-4-5-20251001-v1:0",    # Claude 4.5 Haiku (verified accessible)
 ]
 
 # Default provider for create_training_example.py pipeline
