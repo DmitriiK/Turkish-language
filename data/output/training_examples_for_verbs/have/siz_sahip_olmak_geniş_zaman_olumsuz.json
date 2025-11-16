@@ -4,17 +4,17 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olmazsınız",
-    "root": "ol",
-    "tense_affix": "ur",
+    "verb_full": "sahip değilsiniz",
+    "root": "sahip",
+    "tense_affix": "ip",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "sunuz",
+    "personal_affix": "siniz",
     "polarity": "negative",
-    "negative_affix": "m"
+    "negative_affix": "değil"
   },
-  "english_example_sentence": "You do not have old rare books",
-  "russian_example_sentence": "У вас нет старых редких книг",
-  "turkish_example_sentence": "Siz eski nadir kitaplara sahip olmazsınız",
-  "turkish_example_sentence_with_blank": "Siz eski nadir kitaplara ______"
+  "english_example_sentence": "You do not have enough money",
+  "russian_example_sentence": "У вас нет достаточно денег",
+  "turkish_example_sentence": "Siz yeterli paraya sahip değilsiniz",
+  "turkish_example_sentence_with_blank": "Siz yeterli paraya ______"
 }

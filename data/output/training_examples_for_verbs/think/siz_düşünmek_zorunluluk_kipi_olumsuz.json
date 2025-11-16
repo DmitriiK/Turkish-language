@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "düşünmemelisiniz",
     "root": "düşün",
-    "tense_affix": "meli",
+    "tense_affix": "memeli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "siniz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You must not think about the complicated mathematical problem",
-  "russian_example_sentence": "Вы не должны думать о сложной математической задаче",
-  "turkish_example_sentence": "Siz karmaşık matematik problemini düşünmemelisiniz",
-  "turkish_example_sentence_with_blank": "Siz karmaşık matematik problemini ______"
+  "english_example_sentence": "You all must not think about trivial things.",
+  "russian_example_sentence": "Вам всем не нужно думать о мелочах.",
+  "turkish_example_sentence": "Siz önemsiz şeyleri düşünmemelisiniz.",
+  "turkish_example_sentence_with_blank": "Siz önemsiz şeyleri ______."
 }

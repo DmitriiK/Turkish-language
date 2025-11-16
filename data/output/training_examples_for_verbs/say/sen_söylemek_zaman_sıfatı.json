@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "söylediğinde",
     "root": "söyle",
-    "tense_affix": "diğ",
+    "tense_affix": "dik",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "sen",
-    "personal_affix": "inde",
+    "personal_affix": "in",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When you say the password, the door opens.",
-  "russian_example_sentence": "Когда ты говоришь пароль, дверь открывается.",
-  "turkish_example_sentence": "Sen şifreyi söylediğinde, kapı açılır.",
-  "turkish_example_sentence_with_blank": "Sen şifreyi ______, kapı açılır."
+  "english_example_sentence": "When you say something funny, we laugh",
+  "russian_example_sentence": "Когда ты говоришь что-то смешное, мы смеёмся",
+  "turkish_example_sentence": "Sen komik bir şey söylediğinde, biz gülüyoruz",
+  "turkish_example_sentence_with_blank": "Sen komik bir şey ______, biz gülüyoruz"
 }

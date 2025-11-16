@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "sahip olmamışsanız",
     "root": "sahip ol",
-    "tense_affix": "mamışsa",
+    "tense_affix": "muşsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If you hadn't had that experience...",
-  "russian_example_sentence": "Если бы у вас не было этого опыта...",
-  "turkish_example_sentence": "Bu tür bir tecrübeye sahip olmamışsanız, bu işi yapmak zor olabilirdi.",
-  "turkish_example_sentence_with_blank": "Bu tür bir tecrübeye ______, bu işi yapmak zor olabilirdi."
+  "english_example_sentence": "If you hadn’t had the address, you wouldn’t have found the house.",
+  "russian_example_sentence": "Если бы у вас не было адреса, вы бы не нашли дом.",
+  "turkish_example_sentence": "Siz adrese sahip olmamışsanız, evi bulamazdınız.",
+  "turkish_example_sentence_with_blank": "Siz adrese ______, evi bulamazdınız."
 }

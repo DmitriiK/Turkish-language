@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "olmamışsa",
     "root": "ol",
-    "tense_affix": "mamışsa",
+    "tense_affix": "muşsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If she hadn't been so late...",
-  "russian_example_sentence": "Если бы она не опоздала...",
-  "turkish_example_sentence": "O bu kadar geç kalmamışsa, toplantıya yetişebilirdi.",
-  "turkish_example_sentence_with_blank": "O bu kadar geç kalmamışsa, toplantıya yetişebilirdi."
+  "english_example_sentence": "If she hadn't been there, they would be late.",
+  "russian_example_sentence": "Если бы её не было там, они бы опоздали.",
+  "turkish_example_sentence": "Orada olmamışsa, geç kalırlardı.",
+  "turkish_example_sentence_with_blank": "Orada ______, geç kalırlardı."
 }

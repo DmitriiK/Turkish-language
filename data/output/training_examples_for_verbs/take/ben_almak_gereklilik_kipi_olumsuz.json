@@ -4,17 +4,17 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almaması lazım",
+    "verb_full": "almamam lazım",
     "root": "al",
     "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "mam",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I should not take the expensive gift",
-  "russian_example_sentence": "Я не должен брать дорогой подарок",
-  "turkish_example_sentence": "Ben pahalı hediyeyi almamam lazım",
-  "turkish_example_sentence_with_blank": "Ben pahalı hediyeyi almamam lazım"
+  "english_example_sentence": "I must not take unnecessary risks",
+  "russian_example_sentence": "Мне нельзя брать ненужные риски",
+  "turkish_example_sentence": "Ben gereksiz riskler almamam lazım",
+  "turkish_example_sentence_with_blank": "Ben gereksiz riskler ______"
 }

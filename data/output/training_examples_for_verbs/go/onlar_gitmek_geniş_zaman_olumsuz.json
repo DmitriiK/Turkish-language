@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmazler",
+    "verb_full": "gitmezler",
     "root": "git",
-    "tense_affix": "er",
+    "tense_affix": "mez",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "They do not go to the long boring lecture",
-  "russian_example_sentence": "Они не ходят на долгую скучную лекцию",
-  "turkish_example_sentence": "Onlar uzun sıkıcı derse gitmazler",
-  "turkish_example_sentence_with_blank": "Onlar uzun sıkıcı derse ______"
+  "english_example_sentence": "They don't go to concerts",
+  "russian_example_sentence": "Они не ходят на концерты",
+  "turkish_example_sentence": "Onlar konserlere gitmezler",
+  "turkish_example_sentence_with_blank": "Onlar konserlere ______"
 }

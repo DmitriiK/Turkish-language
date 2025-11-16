@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gitmese",
     "root": "git",
-    "tense_affix": "mese",
+    "tense_affix": "se",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If he doesn’t go to work, he’ll rest.",
-  "russian_example_sentence": "Если он не пойдёт на работу, он отдохнёт.",
-  "turkish_example_sentence": "O işe gitmese, dinlenir.",
-  "turkish_example_sentence_with_blank": "O işe ______, dinlenir."
+  "english_example_sentence": "If he didn't go to the park",
+  "russian_example_sentence": "Если бы он не пошел в парк",
+  "turkish_example_sentence": "Eğer parka gitmese",
+  "turkish_example_sentence_with_blank": "Eğer parka ______"
 }

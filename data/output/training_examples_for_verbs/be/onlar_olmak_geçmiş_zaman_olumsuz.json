@@ -4,17 +4,17 @@
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "değildiler",
-    "root": "i",
-    "tense_affix": "di",
+    "verb_full": "olmadılar",
+    "root": "ol",
+    "tense_affix": "du",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "ler",
+    "personal_affix": "lar",
     "polarity": "negative",
-    "negative_affix": "değil"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "They were not interested in the ancient historical ruins",
-  "russian_example_sentence": "Они не интересовались древними историческими руинами",
-  "turkish_example_sentence": "Onlar antik tarihi kalıntılara ilgili değildiler",
-  "turkish_example_sentence_with_blank": "Onlar antik tarihi kalıntılara ilgili ______"
+  "english_example_sentence": "They were not happy with the results.",
+  "russian_example_sentence": "Они не были довольны результатами.",
+  "turkish_example_sentence": "Onlar sonuçlardan memnun olmadılar.",
+  "turkish_example_sentence_with_blank": "Onlar sonuçlardan memnun ______."
 }

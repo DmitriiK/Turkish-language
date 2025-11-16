@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "almamışsanız",
     "root": "al",
-    "tense_affix": "mamışsa",
+    "tense_affix": "mışsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If you hadn't taken so many photos...",
-  "russian_example_sentence": "Если бы вы не сделали так много фотографий...",
-  "turkish_example_sentence": "Siz çok fazla fotoğraf almamışsanız, hafıza dolmazdı",
-  "turkish_example_sentence_with_blank": "Siz çok fazla fotoğraf ______, hafıza dolmazdı"
+  "english_example_sentence": "If you (all) had not taken that decision",
+  "russian_example_sentence": "Если бы вы не приняли такое решение",
+  "turkish_example_sentence": "Eğer bu kararı almamışsanız, başka bir yol arayalım.",
+  "turkish_example_sentence_with_blank": "Eğer bu kararı ______, başka bir yol arayalım."
 }

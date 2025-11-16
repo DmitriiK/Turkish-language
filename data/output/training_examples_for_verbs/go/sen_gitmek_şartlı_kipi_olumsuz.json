@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmesen",
+    "verb_full": "gitmezsen",
     "root": "git",
-    "tense_affix": "se",
+    "tense_affix": "mezse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "mez"
   },
-  "english_example_sentence": "If you don’t go to the office today",
-  "russian_example_sentence": "Если ты не пойдешь в офис сегодня",
-  "turkish_example_sentence": "Bugün ofise gitmesen",
-  "turkish_example_sentence_with_blank": "Bugün ofise ______"
+  "english_example_sentence": "If you don’t go to the store, we will have no bread.",
+  "russian_example_sentence": "Если ты не пойдешь в магазин, у нас не будет хлеба.",
+  "turkish_example_sentence": "Sen mağazaya gitmezsen ekmek olmayacak.",
+  "turkish_example_sentence_with_blank": "Sen mağazaya ______ ekmek olmayacak."
 }

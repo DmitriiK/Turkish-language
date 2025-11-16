@@ -4,17 +4,17 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylemiyor",
+    "verb_full": "söylemiyoruz",
     "root": "söyle",
     "tense_affix": "üyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "uz",
     "polarity": "negative",
-    "negative_affix": "m"
+    "negative_affix": "mü"
   },
-  "english_example_sentence": "We are not saying negative comments here",
-  "russian_example_sentence": "Мы не говорим негативные комментарии здесь",
-  "turkish_example_sentence": "Biz burada olumsuz yorumları söylemiyor",
-  "turkish_example_sentence_with_blank": "Biz burada olumsuz yorumları ______"
+  "english_example_sentence": "We are not saying it out loud.",
+  "russian_example_sentence": "Мы не говорим это вслух.",
+  "turkish_example_sentence": "Biz bunu yüksek sesle söylemiyoruz.",
+  "turkish_example_sentence_with_blank": "Biz bunu yüksek sesle ______."
 }

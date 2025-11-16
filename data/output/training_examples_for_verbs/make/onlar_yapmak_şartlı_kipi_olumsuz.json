@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "yapmazlarsa",
     "root": "yap",
-    "tense_affix": "sa",
+    "tense_affix": "mazsa",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If they don’t make changes, it won’t work.",
-  "russian_example_sentence": "Если они не внесут изменения, это не сработает.",
-  "turkish_example_sentence": "Eğer değişiklik yapmazlarsa, çalışmayacak.",
-  "turkish_example_sentence_with_blank": "Eğer değişiklik ______, çalışmayacak."
+  "english_example_sentence": "If they don't make progress, they'll fail.",
+  "russian_example_sentence": "Если они не будут двигаться вперёд, то провалятся.",
+  "turkish_example_sentence": "Eğer ilerleme yapmazlarsa, başarısız olurlar.",
+  "turkish_example_sentence_with_blank": "Eğer ilerleme ______, başarısız olurlar."
 }

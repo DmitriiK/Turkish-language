@@ -4,17 +4,17 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olmamız lazım değil",
+    "verb_full": "sahip olmamamız lazım",
     "root": "sahip ol",
     "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "mız",
     "polarity": "negative",
-    "negative_affix": "değil"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "We do not need to have expensive luxury items here",
-  "russian_example_sentence": "Нам не нужно иметь дорогие предметы роскоши здесь",
-  "turkish_example_sentence": "Biz burada pahalı lüks eşyalara sahip olmamız lazım değil",
-  "turkish_example_sentence_with_blank": "Biz burada pahalı lüks eşyalara ______"
+  "english_example_sentence": "We don’t need to have any fear.",
+  "russian_example_sentence": "Нам не нужно иметь никакого страха.",
+  "turkish_example_sentence": "Bizim hiçbir korkuya sahip olmamamız lazım.",
+  "turkish_example_sentence_with_blank": "Bizim hiçbir korkuya ______."
 }

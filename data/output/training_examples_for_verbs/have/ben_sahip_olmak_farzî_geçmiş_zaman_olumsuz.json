@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "sahip olmamışsam",
     "root": "sahip ol",
-    "tense_affix": "mamışsa",
+    "tense_affix": "muşsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If I hadn't had the opportunity...",
-  "russian_example_sentence": "Если бы у меня не было возможности...",
-  "turkish_example_sentence": "Eğer bu fırsata sahip olmamışsam, çok üzülürdüm.",
-  "turkish_example_sentence_with_blank": "Eğer bu fırsata ______, çok üzülürdüm."
+  "english_example_sentence": "If I hadn’t had the time, I couldn’t have helped.",
+  "russian_example_sentence": "Если бы у меня не было времени, я не смог бы помочь.",
+  "turkish_example_sentence": "Ben zamana sahip olmamışsam, yardım edemezdim.",
+  "turkish_example_sentence_with_blank": "Ben zamana ______, yardım edemezdim."
 }

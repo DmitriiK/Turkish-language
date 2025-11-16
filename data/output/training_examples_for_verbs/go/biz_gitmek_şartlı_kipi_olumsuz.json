@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmesek",
+    "verb_full": "gitmezsek",
     "root": "git",
-    "tense_affix": "se",
+    "tense_affix": "mezse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "mez"
   },
-  "english_example_sentence": "If we don’t go to the museum this weekend",
-  "russian_example_sentence": "Если мы не пойдем в музей в эти выходные",
-  "turkish_example_sentence": "Bu hafta sonu müzeye gitmesek",
-  "turkish_example_sentence_with_blank": "Bu hafta sonu müzeye ______"
+  "english_example_sentence": "If we don’t go now, we’ll be late.",
+  "russian_example_sentence": "Если мы сейчас не пойдем, мы опоздаем.",
+  "turkish_example_sentence": "Şimdi gitmezsek geç kalacağız.",
+  "turkish_example_sentence_with_blank": "Şimdi ______ geç kalacağız."
 }

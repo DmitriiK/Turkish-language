@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gittin",
     "root": "git",
-    "tense_affix": "ti",
+    "tense_affix": "tin",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "in",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You went to the old historic museum last week",
-  "russian_example_sentence": "Ты пошёл в старый исторический музей на прошлой неделе",
-  "turkish_example_sentence": "Sen geçen hafta eski tarihi müzeye gittin",
-  "turkish_example_sentence_with_blank": "Sen geçen hafta eski tarihi müzeye ______"
+  "english_example_sentence": "You went to see the doctor yesterday",
+  "russian_example_sentence": "Ты вчера сходил к врачу",
+  "turkish_example_sentence": "Sen dün doktora gittin",
+  "turkish_example_sentence_with_blank": "Sen dün doktora ______"
 }

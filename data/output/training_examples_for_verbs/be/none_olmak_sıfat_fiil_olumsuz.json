@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "olmayan",
     "root": "ol",
-    "tense_affix": "an",
+    "tense_affix": "yan",
     "verb_tense": "sıfat_fiil",
     "personal_pronoun": null,
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "The person not available is absent",
-  "russian_example_sentence": "Человек, которого нет, отсутствует",
-  "turkish_example_sentence": "Mevcut olmayan kişi yok",
-  "turkish_example_sentence_with_blank": "Mevcut ______ kişi yok"
+  "english_example_sentence": "The man who is not honest is here.",
+  "russian_example_sentence": "Мужчина, который не честный, здесь.",
+  "turkish_example_sentence": "Dürüst olmayan adam burada.",
+  "turkish_example_sentence_with_blank": "Dürüst ______ adam burada."
 }

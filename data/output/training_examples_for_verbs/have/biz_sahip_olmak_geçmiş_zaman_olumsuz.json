@@ -4,17 +4,17 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olmadık",
-    "root": "sahip ol",
-    "tense_affix": "du",
+    "verb_full": "sahip değildik",
+    "root": "sahip",
+    "tense_affix": "ti",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "değil"
   },
-  "english_example_sentence": "We did not have clear detailed instructions",
-  "russian_example_sentence": "У нас не было четких подробных инструкций",
-  "turkish_example_sentence": "Biz net açık talimatları sahip olmadık",
-  "turkish_example_sentence_with_blank": "Biz net açık talimatları ______"
+  "english_example_sentence": "We did not have time to visit the museum",
+  "russian_example_sentence": "У нас не было времени на посещение музея",
+  "turkish_example_sentence": "Biz müzeyi ziyaret etmek için zamana sahip değildik",
+  "turkish_example_sentence_with_blank": "Biz müzeyi ziyaret etmek için zamana ______"
 }

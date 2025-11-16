@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "alamazsın",
     "root": "al",
-    "tense_affix": "ama",
+    "tense_affix": "amaz",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "zsın",
+    "personal_affix": "sın",
     "polarity": "negative",
-    "negative_affix": "ama"
+    "negative_affix": "amaz"
   },
-  "english_example_sentence": "You cannot take the expensive jewelry without permission",
-  "russian_example_sentence": "Ты не можешь взять дорогое украшение без разрешения",
-  "turkish_example_sentence": "Sen izin olmadan pahalı mücevherleri alamazsın",
-  "turkish_example_sentence_with_blank": "Sen izin olmadan pahalı mücevherleri ______"
+  "english_example_sentence": "You cannot take this fragile vase",
+  "russian_example_sentence": "Ты не можешь взять это хрупкую вазу",
+  "turkish_example_sentence": "Sen bu hassas vazoyu alamazsın",
+  "turkish_example_sentence_with_blank": "Sen bu hassas vazoyu ______"
 }

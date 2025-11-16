@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "yapmayacaktık",
     "root": "yap",
-    "tense_affix": "acak",
+    "tense_affix": "acaktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "tık",
+    "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "We weren't going to fight",
-  "russian_example_sentence": "Мы не собирались драться",
-  "turkish_example_sentence": "Biz o konuda büyük bir tartışma asla yapmayacaktık",
-  "turkish_example_sentence_with_blank": "Biz o konuda büyük bir tartışma asla ______"
+  "english_example_sentence": "We were not going to make any noise.",
+  "russian_example_sentence": "Мы не собирались шуметь.",
+  "turkish_example_sentence": "Biz hiç gürültü yapmayacaktık.",
+  "turkish_example_sentence_with_blank": "Biz hiç gürültü ______."
 }

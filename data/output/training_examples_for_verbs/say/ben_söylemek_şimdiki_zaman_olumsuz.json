@@ -4,17 +4,17 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylemiyor",
+    "verb_full": "söylemiyorum",
     "root": "söyle",
     "tense_affix": "üyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "um",
     "polarity": "negative",
-    "negative_affix": "m"
+    "negative_affix": "mü"
   },
-  "english_example_sentence": "I am not saying anything right now",
-  "russian_example_sentence": "Я не говорю ничего прямо сейчас",
-  "turkish_example_sentence": "Ben şu anda hiçbir şey söylemiyor",
-  "turkish_example_sentence_with_blank": "Ben şu anda hiçbir şey ______"
+  "english_example_sentence": "I am not saying anything now.",
+  "russian_example_sentence": "Я сейчас ничего не говорю.",
+  "turkish_example_sentence": "Ben şimdi hiçbir şey söylemiyorum.",
+  "turkish_example_sentence_with_blank": "Ben şimdi hiçbir şey ______."
 }

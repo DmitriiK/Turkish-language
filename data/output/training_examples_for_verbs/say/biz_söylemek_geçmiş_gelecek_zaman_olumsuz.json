@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "söylemeyecektik",
     "root": "söyle",
-    "tense_affix": "yecek",
+    "tense_affix": "ecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "tik",
+    "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "We weren't going to say the truth.",
-  "russian_example_sentence": "Мы не собирались говорить правду.",
-  "turkish_example_sentence": "Biz gerçeği söylemeyecektik.",
-  "turkish_example_sentence_with_blank": "Biz gerçeği ______."
+  "english_example_sentence": "We were not going to say anything offensive",
+  "russian_example_sentence": "Мы не собирались говорить ничего обидного",
+  "turkish_example_sentence": "Biz rahatsız edici bir şey söylemeyecektik",
+  "turkish_example_sentence_with_blank": "Biz rahatsız edici bir şey ______"
 }

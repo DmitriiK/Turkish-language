@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "düşünmüşlerse",
     "root": "düşün",
-    "tense_affix": "müşlerse",
+    "tense_affix": "müşse",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they had thought about the long term...",
-  "russian_example_sentence": "Если бы они подумали о долгосрочной перспективе...",
-  "turkish_example_sentence": "Onlar uzun vadeli sonuçları düşünmüşlerse, akıllıca yatırım yapmış olurlardı.",
-  "turkish_example_sentence_with_blank": "Onlar uzun vadeli sonuçları ______, akıllıca yatırım yapmış olurlardı."
+  "english_example_sentence": "If they had thought about their future",
+  "russian_example_sentence": "Если бы они подумали о своем будущем",
+  "turkish_example_sentence": "Eğer geleceklerini düşünmüşlerse, bunu yapmazlardı.",
+  "turkish_example_sentence_with_blank": "Eğer geleceklerini ______, bunu yapmazlardı."
 }

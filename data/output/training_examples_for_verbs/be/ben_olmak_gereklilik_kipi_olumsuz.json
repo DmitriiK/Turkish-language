@@ -4,7 +4,7 @@
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmaması lazım",
+    "verb_full": "olmamam lazım",
     "root": "ol",
     "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I should not be late for work",
-  "russian_example_sentence": "Я не должен опаздывать на работу",
-  "turkish_example_sentence": "Ben işe geç olmamam lazım",
-  "turkish_example_sentence_with_blank": "Ben işe geç olmamam lazım"
+  "english_example_sentence": "I must not be late again",
+  "russian_example_sentence": "Мне нельзя снова опоздать",
+  "turkish_example_sentence": "Ben tekrar geç olmamam lazım",
+  "turkish_example_sentence_with_blank": "Ben tekrar geç ______"
 }

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "söylemişlerse",
     "root": "söyle",
-    "tense_affix": "mişlerse",
+    "tense_affix": "mişse",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": null,
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they had said the important news.",
-  "russian_example_sentence": "Если бы они сказали важные новости.",
-  "turkish_example_sentence": "Onlar önemli haberleri söylemişlerse, herkes bilecek.",
-  "turkish_example_sentence_with_blank": "Onlar önemli haberleri ______, herkes bilecek."
+  "english_example_sentence": "If they mentioned the plan, we should start now.",
+  "russian_example_sentence": "Если они упомянули план, нам нужно начать сейчас.",
+  "turkish_example_sentence": "Onlar planı söylemişlerse, şimdi başlamalıyız.",
+  "turkish_example_sentence_with_blank": "Onlar planı ______, şimdi başlamalıyız."
 }

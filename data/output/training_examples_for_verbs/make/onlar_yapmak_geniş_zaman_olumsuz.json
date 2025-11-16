@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "yapmazlar",
     "root": "yap",
-    "tense_affix": "ar",
+    "tense_affix": "z",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "They do not make promises they cannot keep",
-  "russian_example_sentence": "Они не делают обещания, которые не могут сдержать",
-  "turkish_example_sentence": "Onlar tutamayacakları sözleri yapmazlar",
-  "turkish_example_sentence_with_blank": "Onlar tutamayacakları sözleri ______"
+  "english_example_sentence": "They don't make bad decisions",
+  "russian_example_sentence": "Они не принимают плохих решений",
+  "turkish_example_sentence": "Onlar kötü kararlar yapmazlar",
+  "turkish_example_sentence_with_blank": "Onlar kötü kararlar ______"
 }

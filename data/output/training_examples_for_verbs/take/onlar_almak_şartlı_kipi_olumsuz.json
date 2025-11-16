@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "almazlarsa",
     "root": "al",
-    "tense_affix": "mazlar",
+    "tense_affix": "mazsa",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If they don’t take enough food, they’ll be hungry",
-  "russian_example_sentence": "Если они не возьмут достаточно еды, они будут голодными",
-  "turkish_example_sentence": "Eğer yeterince yemek almazlarsa, aç kalırlar",
-  "turkish_example_sentence_with_blank": "Eğer yeterince yemek ______, aç kalırlar"
+  "english_example_sentence": "If they don’t take the tickets, they can’t enter",
+  "russian_example_sentence": "Если они не возьмут билеты, они не могут войти",
+  "turkish_example_sentence": "Biletleri almazlarsa içeri giremezler",
+  "turkish_example_sentence_with_blank": "Biletleri ______ içeri giremezler"
 }

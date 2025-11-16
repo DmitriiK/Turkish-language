@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmeseniz",
+    "verb_full": "gitmezseniz",
     "root": "git",
-    "tense_affix": "se",
+    "tense_affix": "mezse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "niz",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "mez"
   },
-  "english_example_sentence": "If you don’t go to the concert tonight",
-  "russian_example_sentence": "Если вы не пойдете на концерт сегодня вечером",
-  "turkish_example_sentence": "Bu akşam konsere gitmeseniz",
-  "turkish_example_sentence_with_blank": "Bu akşam konsere ______"
+  "english_example_sentence": "If you don’t go to the hospital, your fever will get worse.",
+  "russian_example_sentence": "Если вы не пойдете в больницу, ваша температура ухудшится.",
+  "turkish_example_sentence": "Hastaneye gitmezseniz ateşiniz artar.",
+  "turkish_example_sentence_with_blank": "Hastaneye ______ ateşiniz artar."
 }

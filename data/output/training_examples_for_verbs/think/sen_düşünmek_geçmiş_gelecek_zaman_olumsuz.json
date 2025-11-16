@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "düşünmeyecektin",
     "root": "düşün",
-    "tense_affix": "ecek",
+    "tense_affix": "ecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "tin",
+    "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You weren't going to watch that film",
-  "russian_example_sentence": "Ты не собирался смотреть этот фильм",
-  "turkish_example_sentence": "Sen o korkunç filmi seyretmeyecektin",
-  "turkish_example_sentence_with_blank": "Sen o korkunç filmi seyretmeyecektin"
+  "english_example_sentence": "You were not going to think about the trip",
+  "russian_example_sentence": "Ты не собирался думать о поездке",
+  "turkish_example_sentence": "Sen geziyi düşünmeyecektin",
+  "turkish_example_sentence_with_blank": "Sen geziyi ______"
 }

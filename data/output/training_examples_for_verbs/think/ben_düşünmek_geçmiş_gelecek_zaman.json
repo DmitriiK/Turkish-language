@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "düşünecektim",
     "root": "düşün",
-    "tense_affix": "ecek",
+    "tense_affix": "ecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "tim",
+    "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I was going to buy a car",
-  "russian_example_sentence": "Я собирался купить машину",
-  "turkish_example_sentence": "Ben yeni bir araba alacaktım",
-  "turkish_example_sentence_with_blank": "Ben yeni bir araba alacaktım"
+  "english_example_sentence": "I was going to think about it yesterday",
+  "russian_example_sentence": "Я собирался подумать об этом вчера",
+  "turkish_example_sentence": "Ben dün bunu düşünecektim",
+  "turkish_example_sentence_with_blank": "Ben dün bunu ______"
 }

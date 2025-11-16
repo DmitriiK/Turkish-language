@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "sahip olduğumuzda",
     "root": "sahip ol",
-    "tense_affix": "dık",
+    "tense_affix": "duğumuz",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "biz",
-    "personal_affix": "ğumuz",
+    "personal_affix": "da",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When we have teamwork, we succeed",
-  "russian_example_sentence": "Когда у нас есть командная работа, мы преуспеваем",
-  "turkish_example_sentence": "Biz takım çalışması olduğumuzda, başarılı oluruz",
-  "turkish_example_sentence_with_blank": "Biz takım çalışması olduğumuzda, başarılı oluruz"
+  "english_example_sentence": "When we have free time",
+  "russian_example_sentence": "Когда у нас есть свободное время",
+  "turkish_example_sentence": "Biz boş zamana sahip olduğumuzda",
+  "turkish_example_sentence_with_blank": "Biz boş zamana ______"
 }

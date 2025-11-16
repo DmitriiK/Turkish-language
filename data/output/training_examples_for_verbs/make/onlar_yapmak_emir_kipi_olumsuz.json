@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "yapmasınlar",
     "root": "yap",
-    "tense_affix": "",
+    "tense_affix": "sın",
     "verb_tense": "emir_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "sınlar",
+    "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "Don't let them make unnecessary changes here",
-  "russian_example_sentence": "Не позволяй им делать ненужные изменения здесь",
-  "turkish_example_sentence": "Onlar gereksiz değişiklikleri yapmasınlar",
-  "turkish_example_sentence_with_blank": "Onlar gereksiz değişiklikleri ______"
+  "english_example_sentence": "Let them not make the rules!",
+  "russian_example_sentence": "Пусть они не придумывают правила!",
+  "turkish_example_sentence": "Onlar kuralları yapmasınlar!",
+  "turkish_example_sentence_with_blank": "Onlar kuralları ______!"
 }

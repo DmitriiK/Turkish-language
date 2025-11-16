@@ -4,17 +4,17 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olmaz",
-    "root": "ol",
-    "tense_affix": "ur",
+    "verb_full": "sahip değil",
+    "root": "sahip",
+    "tense_affix": "ip",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "m"
+    "negative_affix": "değil"
   },
-  "english_example_sentence": "He does not have a small quiet garden",
-  "russian_example_sentence": "У него нет маленького тихого сада",
-  "turkish_example_sentence": "O küçük sessiz bir bahçeye sahip olmaz",
-  "turkish_example_sentence_with_blank": "O küçük sessiz bir bahçeye ______"
+  "english_example_sentence": "She doesn't have a big house",
+  "russian_example_sentence": "У неё нет большого дома",
+  "turkish_example_sentence": "O büyük bir eve sahip değil",
+  "turkish_example_sentence_with_blank": "O büyük bir eve ______"
 }

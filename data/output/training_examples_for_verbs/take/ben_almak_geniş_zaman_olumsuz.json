@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "almam",
     "root": "al",
-    "tense_affix": "ır",
+    "tense_affix": "maz",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "ım",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I do not take sugar in my coffee",
-  "russian_example_sentence": "Я не беру сахар в свой кофе",
-  "turkish_example_sentence": "Ben kahveme hiçbir zaman şeker almam",
-  "turkish_example_sentence_with_blank": "Ben kahveme hiçbir zaman şeker ______"
+  "english_example_sentence": "I don't take the bus to school",
+  "russian_example_sentence": "Я не сажусь на автобус до школы",
+  "turkish_example_sentence": "Ben okula otobüs almam",
+  "turkish_example_sentence_with_blank": "Ben okula otobüs ______"
 }

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "olmadığımda",
     "root": "ol",
-    "tense_affix": "dık",
+    "tense_affix": "duğ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "ben",
-    "personal_affix": "ım",
+    "personal_affix": "um",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "When I am not busy, I relax.",
-  "russian_example_sentence": "Когда я не занят, я отдыхаю.",
-  "turkish_example_sentence": "Ben meşgul olmadığımda, dinlenmeye çalışırım.",
-  "turkish_example_sentence_with_blank": "Ben meşgul ______, dinlenmeye çalışırım."
+  "english_example_sentence": "When I am not organized, I forget everything",
+  "russian_example_sentence": "Когда я не организован, я всё забываю",
+  "turkish_example_sentence": "Ben düzenli olmadığımda her şeyi unuturum",
+  "turkish_example_sentence_with_blank": "Ben düzenli ______ her şeyi unuturum"
 }

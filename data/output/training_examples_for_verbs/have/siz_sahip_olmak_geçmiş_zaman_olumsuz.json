@@ -4,17 +4,17 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olmadınız",
-    "root": "sahip ol",
-    "tense_affix": "du",
+    "verb_full": "sahip değildiniz",
+    "root": "sahip",
+    "tense_affix": "ti",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "niz",
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "değil"
   },
-  "english_example_sentence": "You did not have proper legal representation",
-  "russian_example_sentence": "У вас не было надлежащего юридического представительства",
-  "turkish_example_sentence": "Siz uygun yasal temsile sahip olmadınız",
-  "turkish_example_sentence_with_blank": "Siz uygun yasal temsile ______"
+  "english_example_sentence": "You did not have proper shoes for hiking",
+  "russian_example_sentence": "У вас не было подходящей обуви для похода",
+  "turkish_example_sentence": "Siz yürüyüş için uygun ayakkabılara sahip değildiniz",
+  "turkish_example_sentence_with_blank": "Siz yürüyüş için uygun ayakkabılara ______"
 }

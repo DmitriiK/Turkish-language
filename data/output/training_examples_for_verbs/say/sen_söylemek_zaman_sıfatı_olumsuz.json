@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "söylemediğinde",
     "root": "söyle",
-    "tense_affix": "mediğ",
+    "tense_affix": "dik",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "sen",
-    "personal_affix": "inde",
+    "personal_affix": "in",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "When you don't say thank you, it's rude.",
-  "russian_example_sentence": "Когда ты не говоришь спасибо, это грубо.",
-  "turkish_example_sentence": "Sen teşekkür etmediğinde, bu kabalık olur.",
-  "turkish_example_sentence_with_blank": "Sen teşekkür etmediğinde, bu kabalık olur."
+  "english_example_sentence": "When you don’t say enough, we misunderstand",
+  "russian_example_sentence": "Когда ты не говоришь достаточно, мы тебя неправильно понимаем",
+  "turkish_example_sentence": "Sen yeterince söylemediğinde, biz yanlış anlıyoruz",
+  "turkish_example_sentence_with_blank": "Sen yeterince ______, biz yanlış anlıyoruz"
 }

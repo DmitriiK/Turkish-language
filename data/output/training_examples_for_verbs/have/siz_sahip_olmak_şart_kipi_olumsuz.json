@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "sahip olmasanız",
     "root": "sahip ol",
-    "tense_affix": "sa",
+    "tense_affix": "masa",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If you didn't have any problems",
-  "russian_example_sentence": "Если бы у вас не было проблем",
-  "turkish_example_sentence": "Hiçbir sorunlara sahip olmasanız",
-  "turkish_example_sentence_with_blank": "Hiçbir sorunlara ______"
+  "english_example_sentence": "If you didn’t have a ticket, you couldn’t enter",
+  "russian_example_sentence": "Если бы у вас не было билета, вы бы не смогли войти",
+  "turkish_example_sentence": "Bilete sahip olmasanız, içeri giremezdiniz",
+  "turkish_example_sentence_with_blank": "Bilete ______, içeri giremezdiniz"
 }

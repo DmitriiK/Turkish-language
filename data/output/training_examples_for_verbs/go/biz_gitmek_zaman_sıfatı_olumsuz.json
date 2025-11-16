@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gitmediğimizde",
     "root": "git",
-    "tense_affix": "mediği",
+    "tense_affix": "tik",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "biz",
-    "personal_affix": "mizde",
+    "personal_affix": "imiz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "When we don't go to the mountains, we relax.",
-  "russian_example_sentence": "Когда мы не идем в горы, мы отдыхаем.",
-  "turkish_example_sentence": "Biz dağlara gitmediğimizde, dinleniriz.",
-  "turkish_example_sentence_with_blank": "Biz dağlara ______, dinleniriz."
+  "english_example_sentence": "When we don't go shopping, we eat at home.",
+  "russian_example_sentence": "Когда мы не идем в магазин, мы едим дома.",
+  "turkish_example_sentence": "Biz alışverişe gitmediğimizde evde yemek yeriz.",
+  "turkish_example_sentence_with_blank": "Biz alışverişe ______ evde yemek yeriz."
 }

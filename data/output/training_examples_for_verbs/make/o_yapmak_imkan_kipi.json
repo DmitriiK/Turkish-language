@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "yapabilir",
     "root": "yap",
-    "tense_affix": "abil",
+    "tense_affix": "abilir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "ir",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He can make beautiful colorful paintings",
-  "russian_example_sentence": "Он может создать красивые красочные картины",
-  "turkish_example_sentence": "O güzel renkli resimler yapabilir",
-  "turkish_example_sentence_with_blank": "O güzel renkli resimler ______"
+  "english_example_sentence": "She can make a dress for herself",
+  "russian_example_sentence": "Она может сделать себе платье",
+  "turkish_example_sentence": "O kendine bir elbise yapabilir",
+  "turkish_example_sentence_with_blank": "O kendine bir elbise ______"
 }

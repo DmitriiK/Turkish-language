@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gitsinler",
     "root": "git",
-    "tense_affix": "in",
+    "tense_affix": "",
     "verb_tense": "emir_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "inler",
+    "personal_affix": "sinler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Let them go to the peaceful quiet village soon",
-  "russian_example_sentence": "Пусть они идут в спокойную тихую деревню скоро",
-  "turkish_example_sentence": "Yakında sakin sessiz köye gitsinler",
-  "turkish_example_sentence_with_blank": "Yakında sakin sessiz köye ______"
+  "english_example_sentence": "Let them go to the museum.",
+  "russian_example_sentence": "Пусть они идут в музей.",
+  "turkish_example_sentence": "Onlar müzeye gitsinler.",
+  "turkish_example_sentence_with_blank": "Onlar müzeye ______."
 }

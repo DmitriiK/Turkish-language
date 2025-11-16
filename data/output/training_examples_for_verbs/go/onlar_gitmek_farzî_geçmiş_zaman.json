@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gitmişlerse",
     "root": "git",
-    "tense_affix": "mişlerse",
+    "tense_affix": "mişse",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they had gone to the village.",
-  "russian_example_sentence": "Если бы они пошли в деревню.",
-  "turkish_example_sentence": "Onlar küçük köye gitmişlerse, taze hava solurlardı.",
-  "turkish_example_sentence_with_blank": "Onlar küçük köye ______, taze hava solurlardı."
+  "english_example_sentence": "If they had gone to the park, they probably played there.",
+  "russian_example_sentence": "Если бы они пошли в парк, они, вероятно, там играли.",
+  "turkish_example_sentence": "Eğer parka gitmişlerse, orada oynamış olabilirler.",
+  "turkish_example_sentence_with_blank": "Eğer parka ______, orada oynamış olabilirler."
 }

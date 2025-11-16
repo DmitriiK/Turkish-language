@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "sahip olmamışsa",
     "root": "sahip ol",
-    "tense_affix": "mamışsa",
+    "tense_affix": "muşsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If he/she hadn't had any problems...",
-  "russian_example_sentence": "Если бы у него/нее не было никаких проблем...",
-  "turkish_example_sentence": "O herhangi bir sağlık sorununa sahip olmamışsa, çok şanslıydı.",
-  "turkish_example_sentence_with_blank": "O herhangi bir sağlık sorununa ______, çok şanslıydı."
+  "english_example_sentence": "If she hadn’t had the map, she would get lost.",
+  "russian_example_sentence": "Если бы у неё не было карты, она бы потерялась.",
+  "turkish_example_sentence": "O haritaya sahip olmamışsa, kaybolurdu.",
+  "turkish_example_sentence_with_blank": "O haritaya ______, kaybolurdu."
 }

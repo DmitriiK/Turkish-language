@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "sahip olamayız",
     "root": "sahip ol",
-    "tense_affix": "abil",
+    "tense_affix": "a",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iriz",
+    "personal_affix": "yız",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "We cannot have perfect solutions for all problems",
-  "russian_example_sentence": "Мы не можем иметь идеальные решения для всех проблем",
-  "turkish_example_sentence": "Biz tüm sorunlar için mükemmel çözümler sahibi olamayız",
-  "turkish_example_sentence_with_blank": "Biz tüm sorunlar için mükemmel çözümler sahibi olamayız"
+  "english_example_sentence": "We cannot have a better option.",
+  "russian_example_sentence": "Мы не можем иметь лучшее предложение.",
+  "turkish_example_sentence": "Biz daha iyi bir seçeneğe sahip olamayız.",
+  "turkish_example_sentence_with_blank": "Biz daha iyi bir seçeneğe ______."
 }

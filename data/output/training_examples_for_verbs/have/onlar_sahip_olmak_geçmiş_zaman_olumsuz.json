@@ -4,17 +4,17 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olmadılar",
-    "root": "sahip ol",
-    "tense_affix": "du",
+    "verb_full": "sahip değillerdi",
+    "root": "sahip",
+    "tense_affix": "ti",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "lerdi",
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "değil"
   },
-  "english_example_sentence": "They did not have reliable stable employment",
-  "russian_example_sentence": "У них не было надежной стабильной работы",
-  "turkish_example_sentence": "Onlar güvenilir istikrarlı bir işe sahip olmadılar",
-  "turkish_example_sentence_with_blank": "Onlar güvenilir istikrarlı bir işe ______"
+  "english_example_sentence": "They did not have enough food for the party",
+  "russian_example_sentence": "У них не было достаточно еды для вечеринки",
+  "turkish_example_sentence": "Onlar parti için yeterli yiyeceğe sahip değillerdi",
+  "turkish_example_sentence_with_blank": "Onlar parti için yeterli yiyeceğe ______"
 }

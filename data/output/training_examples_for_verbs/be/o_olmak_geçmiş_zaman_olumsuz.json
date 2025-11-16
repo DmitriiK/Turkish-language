@@ -4,17 +4,17 @@
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "değildi",
-    "root": "i",
-    "tense_affix": "di",
+    "verb_full": "olmadı",
+    "root": "ol",
+    "tense_affix": "du",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "değil"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "It was not a difficult problem for the engineers",
-  "russian_example_sentence": "Это не была сложная проблема для инженеров",
-  "turkish_example_sentence": "O mühendisler için zor bir sorun değildi",
-  "turkish_example_sentence_with_blank": "O mühendisler için zor bir sorun ______"
+  "english_example_sentence": "She was not busy last weekend.",
+  "russian_example_sentence": "Она не была занятой на выходных.",
+  "turkish_example_sentence": "O geçen hafta sonu meşgul olmadı.",
+  "turkish_example_sentence_with_blank": "O geçen hafta sonu meşgul ______."
 }

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "yapmazsa",
     "root": "yap",
-    "tense_affix": "sa",
+    "tense_affix": "mazsa",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If he doesn’t make the call, we will be late.",
-  "russian_example_sentence": "Если он не позвонит, мы опоздаем.",
-  "turkish_example_sentence": "Eğer aramayı yapmazsa, geç kalacağız.",
-  "turkish_example_sentence_with_blank": "Eğer aramayı ______, geç kalacağız."
+  "english_example_sentence": "If she doesn't make the bed, I will do it.",
+  "russian_example_sentence": "Если она не заправит кровать, я сделаю это.",
+  "turkish_example_sentence": "O yatağı yapmazsa, ben yapacağım.",
+  "turkish_example_sentence_with_blank": "O yatağı ______, ben yapacağım."
 }

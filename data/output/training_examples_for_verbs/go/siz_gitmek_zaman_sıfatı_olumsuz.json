@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gitmediğinizde",
     "root": "git",
-    "tense_affix": "mediği",
+    "tense_affix": "tik",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "siz",
-    "personal_affix": "nizde",
+    "personal_affix": "iniz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "When you don't go to sleep, you are tired.",
-  "russian_example_sentence": "Когда вы не идете спать, вы устаете.",
-  "turkish_example_sentence": "Siz uyumaya gitmediğinizde, yorgunsunuz.",
-  "turkish_example_sentence_with_blank": "Siz uyumaya ______, yorgunsunuz."
+  "english_example_sentence": "When you don't go hiking, you watch TV.",
+  "russian_example_sentence": "Когда вы не отправляетесь в поход, вы смотрите телевизор.",
+  "turkish_example_sentence": "Siz yürüyüşe gitmediğinizde televizyon izliyorsunuz.",
+  "turkish_example_sentence_with_blank": "Siz yürüyüşe ______ televizyon izliyorsunuz."
 }

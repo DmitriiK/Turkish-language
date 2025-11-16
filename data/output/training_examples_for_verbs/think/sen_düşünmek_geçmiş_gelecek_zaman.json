@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "düşünecektin",
     "root": "düşün",
-    "tense_affix": "ecek",
+    "tense_affix": "ecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "tin",
+    "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You were going to cook dinner",
-  "russian_example_sentence": "Ты собирался приготовить ужин",
-  "turkish_example_sentence": "Sen lezzetli akşam yemeği pişirecektin",
-  "turkish_example_sentence_with_blank": "Sen lezzetli akşam yemeği pişirecektin"
+  "english_example_sentence": "You were going to think of another idea",
+  "russian_example_sentence": "Ты собирался подумать о другой идее",
+  "turkish_example_sentence": "Sen başka bir fikir düşünecektin",
+  "turkish_example_sentence_with_blank": "Sen başka bir fikir ______"
 }

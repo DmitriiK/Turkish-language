@@ -4,7 +4,7 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmaması lazım",
+    "verb_full": "yapmamaları lazım",
     "root": "yap",
     "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "They should not make false promises to anyone",
-  "russian_example_sentence": "Им не нужно делать ложные обещания кому-либо",
-  "turkish_example_sentence": "Onlar kimseye yanlış vaatler yapmaması lazım",
-  "turkish_example_sentence_with_blank": "Onlar kimseye yanlış vaatler ______"
+  "english_example_sentence": "They must not make mistakes in assignments",
+  "russian_example_sentence": "Им нельзя делать ошибки в заданиях",
+  "turkish_example_sentence": "Onların ödevlerde hata yapmamaları lazım",
+  "turkish_example_sentence_with_blank": "Onların ödevlerde hata ______"
 }

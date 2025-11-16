@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "almaya",
     "root": "al",
-    "tense_affix": "a",
+    "tense_affix": "ya",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "May he not take unnecessary time",
-  "russian_example_sentence": "Пусть он не тратит лишнее время",
-  "turkish_example_sentence": "O gereksiz zaman almayaya",
-  "turkish_example_sentence_with_blank": "O gereksiz zaman ______ya"
+  "english_example_sentence": "May she not take the small bag",
+  "russian_example_sentence": "Пусть она не берет маленькую сумку",
+  "turkish_example_sentence": "O küçük çantayı almaya",
+  "turkish_example_sentence_with_blank": "O küçük çantayı ______"
 }

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gitmediklerinde",
     "root": "git",
-    "tense_affix": "medikleri",
+    "tense_affix": "tik",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "onlar",
-    "personal_affix": "nde",
+    "personal_affix": "leri",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "When they don't go home, they stay out.",
-  "russian_example_sentence": "Когда они не идут домой, они остаются на улице.",
-  "turkish_example_sentence": "Onlar eve gitmediklerinde, dışarıda kalırlar.",
-  "turkish_example_sentence_with_blank": "Onlar eve ______, dışarıda kalırlar."
+  "english_example_sentence": "When they don't go to the park, they stay home.",
+  "russian_example_sentence": "Когда они не идут в парк, они остаются дома.",
+  "turkish_example_sentence": "Onlar parka gitmediklerinde evde kalıyorlar.",
+  "turkish_example_sentence_with_blank": "Onlar parka ______ evde kalıyorlar."
 }

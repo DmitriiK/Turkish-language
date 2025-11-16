@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "yapmayalım",
     "root": "yap",
-    "tense_affix": "a",
+    "tense_affix": "al",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "lım",
+    "personal_affix": "ım",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "Let’s not make any promises",
-  "russian_example_sentence": "Давайте не будем ничего обещать",
-  "turkish_example_sentence": "Biz hiçbir söz yapmayalım",
-  "turkish_example_sentence_with_blank": "Biz hiçbir söz ______"
+  "english_example_sentence": "Let’s not create unnecessary tasks",
+  "russian_example_sentence": "Давайте не будем создавать ненужные задачи",
+  "turkish_example_sentence": "Biz gereksiz görevler yapmayalım",
+  "turkish_example_sentence_with_blank": "Biz gereksiz görevler ______"
 }

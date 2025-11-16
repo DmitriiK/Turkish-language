@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitseniz",
+    "verb_full": "giderseniz",
     "root": "git",
-    "tense_affix": "se",
+    "tense_affix": "er",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "seniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you go to the concert tonight",
-  "russian_example_sentence": "Если вы пойдете на концерт сегодня вечером",
-  "turkish_example_sentence": "Bu akşam konsere gitseniz",
-  "turkish_example_sentence_with_blank": "Bu akşam konsere ______"
+  "english_example_sentence": "If you go to Istanbul, enjoy the view of Bosphorus.",
+  "russian_example_sentence": "Если вы поедете в Стамбул, наслаждайтесь видом Босфора.",
+  "turkish_example_sentence": "İstanbul’a giderseniz Boğaz manzarasının tadını çıkarın.",
+  "turkish_example_sentence_with_blank": "İstanbul’a ______ Boğaz manzarasının tadını çıkarın."
 }

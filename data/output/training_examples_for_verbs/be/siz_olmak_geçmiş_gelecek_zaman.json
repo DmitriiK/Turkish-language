@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "olacaktınız",
     "root": "ol",
-    "tense_affix": "acak",
+    "tense_affix": "acaktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "tınız",
+    "personal_affix": "nız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You were going to be teachers.",
-  "russian_example_sentence": "Вы собирались быть учителями.",
-  "turkish_example_sentence": "Siz mezun olduktan sonra başarılı öğretmenler olacaktınız.",
-  "turkish_example_sentence_with_blank": "Siz mezun olduktan sonra başarılı öğretmenler ______."
+  "english_example_sentence": "You all were going to be doctors",
+  "russian_example_sentence": "Вы все собирались быть врачами",
+  "turkish_example_sentence": "Siz doktorlar olacaktınız",
+  "turkish_example_sentence_with_blank": "Siz doktorlar ______"
 }

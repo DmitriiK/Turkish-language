@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "düşünmemişse",
     "root": "düşün",
-    "tense_affix": "mişse",
+    "tense_affix": "müşse",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "se",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If she hadn't thought about the future...",
-  "russian_example_sentence": "Если бы она не подумала о будущем...",
-  "turkish_example_sentence": "O parlak geleceği düşünmemişse, bu fırsatı kaçırırdı.",
-  "turkish_example_sentence_with_blank": "O parlak geleceği ______, bu fırsatı kaçırırdı."
+  "english_example_sentence": "If he had not thought of the plan",
+  "russian_example_sentence": "Если бы он не подумал о плане",
+  "turkish_example_sentence": "Eğer planı düşünmemişse, şu an kaybetmiş olurduk.",
+  "turkish_example_sentence_with_blank": "Eğer planı ______, şu an kaybetmiş olurduk."
 }

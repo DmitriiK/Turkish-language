@@ -4,17 +4,17 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olmayız",
-    "root": "ol",
-    "tense_affix": "ur",
+    "verb_full": "sahip değiliz",
+    "root": "sahip",
+    "tense_affix": "ip",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "uz",
+    "personal_affix": "iz",
     "polarity": "negative",
-    "negative_affix": "m"
+    "negative_affix": "değil"
   },
-  "english_example_sentence": "We do not have expensive luxury boats",
-  "russian_example_sentence": "У нас нет дорогих роскошных лодок",
-  "turkish_example_sentence": "Biz pahalı lüks teknelere sahip olmayız",
-  "turkish_example_sentence_with_blank": "Biz pahalı lüks teknelere ______"
+  "english_example_sentence": "We do not have free time",
+  "russian_example_sentence": "У нас нет свободного времени",
+  "turkish_example_sentence": "Biz boş bir zamana sahip değiliz",
+  "turkish_example_sentence_with_blank": "Biz boş bir zamana ______"
 }

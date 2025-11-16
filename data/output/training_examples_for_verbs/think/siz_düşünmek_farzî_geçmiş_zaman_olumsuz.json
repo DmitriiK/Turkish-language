@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "düşünmemişseniz",
     "root": "düşün",
-    "tense_affix": "mişse",
+    "tense_affix": "müşse",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "niz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If you all hadn't thought about the strategy...",
-  "russian_example_sentence": "Если бы вы все не подумали о стратегии...",
-  "turkish_example_sentence": "Siz yeni stratejiyi düşünmemişseniz, rekabeti kaybederdiniz.",
-  "turkish_example_sentence_with_blank": "Siz yeni stratejiyi ______, rekabeti kaybederdiniz."
+  "english_example_sentence": "If you had not thought of this beforehand",
+  "russian_example_sentence": "Если бы вы не подумали об этом предварительно",
+  "turkish_example_sentence": "Eğer bunu önceden düşünmemişseniz, bir çözüm getiremezdiniz.",
+  "turkish_example_sentence_with_blank": "Eğer bunu önceden ______, bir çözüm getiremezdiniz."
 }

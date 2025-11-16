@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gitmesem",
     "root": "git",
-    "tense_affix": "mese",
+    "tense_affix": "se",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If I don’t go outside, I’ll feel better.",
-  "russian_example_sentence": "Если я не выйду на улицу, мне станет лучше.",
-  "turkish_example_sentence": "Ben dışarı gitmesem, daha iyi hissederim.",
-  "turkish_example_sentence_with_blank": "Ben dışarı ______, daha iyi hissederim."
+  "english_example_sentence": "If I didn't go to the mountain",
+  "russian_example_sentence": "Если бы я не пошел на гору",
+  "turkish_example_sentence": "Eğer dağa gitmesem",
+  "turkish_example_sentence_with_blank": "Eğer dağa ______"
 }

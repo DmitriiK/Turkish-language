@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmese",
+    "verb_full": "gitmezse",
     "root": "git",
-    "tense_affix": "se",
+    "tense_affix": "mezse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "se",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "mez"
   },
-  "english_example_sentence": "If he doesn’t go to the library later",
-  "russian_example_sentence": "Если он не пойдет позже в библиотеку",
-  "turkish_example_sentence": "Daha sonra kütüphaneye gitmese",
-  "turkish_example_sentence_with_blank": "Daha sonra kütüphaneye ______"
+  "english_example_sentence": "If she doesn’t go outside, she won’t meet him.",
+  "russian_example_sentence": "Если она не выйдет на улицу, она с ним не встретится.",
+  "turkish_example_sentence": "O dışarı gitmezse onunla tanışmayacak.",
+  "turkish_example_sentence_with_blank": "O dışarı ______ onunla tanışmayacak."
 }

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "yaptığında",
     "root": "yap",
-    "tense_affix": "tık",
+    "tense_affix": "dık",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "o",
     "personal_affix": "ı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When he makes art, it's beautiful.",
-  "russian_example_sentence": "Когда он делает искусство, это красиво.",
-  "turkish_example_sentence": "O sanat yaptığında, çok güzel oluyor.",
-  "turkish_example_sentence_with_blank": "O sanat ______, çok güzel oluyor."
+  "english_example_sentence": "He smiles when he makes art",
+  "russian_example_sentence": "Он улыбается, когда занимается искусством",
+  "turkish_example_sentence": "Sanat yaptığında gülümser",
+  "turkish_example_sentence_with_blank": "Sanat ______ gülümser"
 }

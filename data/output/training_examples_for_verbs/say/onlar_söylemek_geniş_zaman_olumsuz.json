@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "söylemezler",
     "root": "söyle",
-    "tense_affix": "r",
+    "tense_affix": "mez",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "They never say their true feelings openly",
-  "russian_example_sentence": "Они никогда не говорят свои истинные чувства открыто",
-  "turkish_example_sentence": "Onlar gerçek duygularını açıkça asla söylemezler",
-  "turkish_example_sentence_with_blank": "Onlar gerçek duygularını açıkça asla ______"
+  "english_example_sentence": "They don’t say unnecessary things.",
+  "russian_example_sentence": "Они не говорят ничего лишнего.",
+  "turkish_example_sentence": "Onlar gereksiz şeyler söylemezler.",
+  "turkish_example_sentence_with_blank": "Onlar gereksiz şeyler ______."
 }

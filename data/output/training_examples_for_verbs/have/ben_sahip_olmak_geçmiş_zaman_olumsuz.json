@@ -4,17 +4,17 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olmadım",
-    "root": "sahip ol",
-    "tense_affix": "du",
+    "verb_full": "sahip değildim",
+    "root": "sahip",
+    "tense_affix": "ti",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "değil"
   },
-  "english_example_sentence": "I did not have any old documents",
-  "russian_example_sentence": "У меня не было никаких старых документов",
-  "turkish_example_sentence": "Ben hiç eski önemli belgelere sahip olmadım",
-  "turkish_example_sentence_with_blank": "Ben hiç eski önemli belgelere ______"
+  "english_example_sentence": "I did not have a new phone yesterday",
+  "russian_example_sentence": "У меня не было нового телефона вчера",
+  "turkish_example_sentence": "Ben dün yeni bir telefona sahip değildim",
+  "turkish_example_sentence_with_blank": "Ben dün yeni bir telefona ______"
 }

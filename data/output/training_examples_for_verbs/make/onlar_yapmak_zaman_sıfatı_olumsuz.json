@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "yapmadıklarında",
     "root": "yap",
-    "tense_affix": "dık",
+    "tense_affix": "madık",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "onlar",
     "personal_affix": "ları",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "When they don't make decisions, they worry.",
-  "russian_example_sentence": "Когда они не принимают решений, они беспокоятся.",
-  "turkish_example_sentence": "Onlar önemli kararlar yapmadıklarında, endişeleniyorlar.",
-  "turkish_example_sentence_with_blank": "Onlar önemli kararlar ______, endişeleniyorlar."
+  "english_example_sentence": "They are frustrated when they don’t make a decision",
+  "russian_example_sentence": "Они раздражаются, когда не принимают решения",
+  "turkish_example_sentence": "Karar yapmadıklarında hayal kırıklığına uğrarlar",
+  "turkish_example_sentence_with_blank": "Karar ______ hayal kırıklığına uğrarlar"
 }

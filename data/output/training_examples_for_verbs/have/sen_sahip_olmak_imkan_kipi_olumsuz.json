@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "sahip olamazsın",
     "root": "sahip ol",
-    "tense_affix": "abil",
+    "tense_affix": "a",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "irsin",
+    "personal_affix": "sın",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "You cannot have two different opinions simultaneously",
-  "russian_example_sentence": "Ты не можешь иметь два разных мнения одновременно",
-  "turkish_example_sentence": "Sen aynı anda iki farklı görüşe sahip olamazsın",
-  "turkish_example_sentence_with_blank": "Sen aynı anda iki farklı görüşe ______"
+  "english_example_sentence": "You cannot have a new bicycle.",
+  "russian_example_sentence": "Ты не можешь иметь новый велосипед.",
+  "turkish_example_sentence": "Sen yeni bir bisiklete sahip olamazsın.",
+  "turkish_example_sentence_with_blank": "Sen yeni bir bisiklete ______."
 }

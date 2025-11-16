@@ -4,17 +4,17 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olmazsın",
-    "root": "ol",
-    "tense_affix": "ur",
+    "verb_full": "sahip değilsin",
+    "root": "sahip",
+    "tense_affix": "ip",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "sun",
+    "personal_affix": "sin",
     "polarity": "negative",
-    "negative_affix": "m"
+    "negative_affix": "değil"
   },
-  "english_example_sentence": "You do not have a large comfortable house",
-  "russian_example_sentence": "У тебя нет большого удобного дома",
-  "turkish_example_sentence": "Sen geniş rahat bir eve sahip olmazsın",
-  "turkish_example_sentence_with_blank": "Sen geniş rahat bir eve ______"
+  "english_example_sentence": "You don't have a new computer",
+  "russian_example_sentence": "У тебя нет нового компьютера",
+  "turkish_example_sentence": "Sen yeni bir bilgisayara sahip değilsin",
+  "turkish_example_sentence_with_blank": "Sen yeni bir bilgisayara ______"
 }

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "söylemediğinizde",
     "root": "söyle",
-    "tense_affix": "mediğ",
+    "tense_affix": "dik",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "siz",
-    "personal_affix": "inizde",
+    "personal_affix": "iniz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "When you don't say your name, I get confused.",
-  "russian_example_sentence": "Когда вы не говорите свое имя, я путаюсь.",
-  "turkish_example_sentence": "Siz adınızı söylemediğinizde, ben kafam karışır.",
-  "turkish_example_sentence_with_blank": "Siz adınızı ______, ben kafam karışır."
+  "english_example_sentence": "When you don’t say anything, the meeting fails",
+  "russian_example_sentence": "Когда вы ничего не говорите, встреча терпит крах",
+  "turkish_example_sentence": "Siz hiçbir şey söylemediğinizde, toplantı başarısız oluyor",
+  "turkish_example_sentence_with_blank": "Siz hiçbir şey ______, toplantı başarısız oluyor"
 }

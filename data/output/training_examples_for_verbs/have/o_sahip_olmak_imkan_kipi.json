@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "sahip olabilir",
     "root": "sahip ol",
-    "tense_affix": "abil",
+    "tense_affix": "abilir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "ir",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "She can have strong determination and courage",
-  "russian_example_sentence": "Она может иметь сильную решимость и мужество",
-  "turkish_example_sentence": "O güçlü bir irade ve cesaret sahibi olabilir",
-  "turkish_example_sentence_with_blank": "O güçlü bir irade ve cesaret sahibi olabilir"
+  "english_example_sentence": "He can have a hard meeting tomorrow.",
+  "russian_example_sentence": "Он может иметь сложную встречу завтра.",
+  "turkish_example_sentence": "O yarın zorlu bir toplantıya sahip olabilir.",
+  "turkish_example_sentence_with_blank": "O yarın zorlu bir toplantıya ______."
 }

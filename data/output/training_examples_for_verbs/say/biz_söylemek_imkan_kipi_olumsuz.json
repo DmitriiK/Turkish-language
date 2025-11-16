@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "söyleyemeyiz",
     "root": "söyle",
-    "tense_affix": "eme",
+    "tense_affix": "yeme",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yiz",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": "yeme"
   },
-  "english_example_sentence": "We cannot say the painful truth to our elderly grandmother",
-  "russian_example_sentence": "Мы не можем говорить болезненную правду нашей пожилой бабушке",
-  "turkish_example_sentence": "Biz yaşlı büyükannemize acı gerçeği söyleyemeyiz",
-  "turkish_example_sentence_with_blank": "Biz yaşlı büyükannemize acı gerçeği ______"
+  "english_example_sentence": "We cannot say this in public",
+  "russian_example_sentence": "Мы не можем сказать это публично",
+  "turkish_example_sentence": "Biz bunu halka söyleyemeyiz",
+  "turkish_example_sentence_with_blank": "Biz bunu halka ______"
 }

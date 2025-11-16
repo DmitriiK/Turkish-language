@@ -4,17 +4,17 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olmadı",
-    "root": "sahip ol",
-    "tense_affix": "du",
+    "verb_full": "sahip değildi",
+    "root": "sahip",
+    "tense_affix": "ti",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "değil"
   },
-  "english_example_sentence": "He did not have any valuable experience",
-  "russian_example_sentence": "У него не было никакого ценного опыта",
-  "turkish_example_sentence": "O değerli pratik deneyime sahip olmadı",
-  "turkish_example_sentence_with_blank": "O değerli pratik deneyime ______"
+  "english_example_sentence": "She did not have a warm jacket last winter",
+  "russian_example_sentence": "У неё не было тёплой куртки прошлой зимой",
+  "turkish_example_sentence": "O geçen kış sıcak bir cekete sahip değildi",
+  "turkish_example_sentence_with_blank": "O geçen kış sıcak bir cekete ______"
 }

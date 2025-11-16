@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "söylemeyecektim",
     "root": "söyle",
-    "tense_affix": "yecek",
+    "tense_affix": "ecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "tim",
+    "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "I wasn't going to say anything rude.",
-  "russian_example_sentence": "Я не собирался говорить ничего грубого.",
-  "turkish_example_sentence": "Ben kaba bir şey söylemeyecektim.",
-  "turkish_example_sentence_with_blank": "Ben kaba bir şey ______."
+  "english_example_sentence": "I was not going to say anything",
+  "russian_example_sentence": "Я не собирался ничего говорить",
+  "turkish_example_sentence": "Ben hiçbir şey söylemeyecektim",
+  "turkish_example_sentence_with_blank": "Ben hiçbir şey ______"
 }

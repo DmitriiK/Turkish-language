@@ -4,17 +4,17 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olmazlar",
-    "root": "ol",
-    "tense_affix": "ur",
+    "verb_full": "sahip değiller",
+    "root": "sahip",
+    "tense_affix": "ip",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "ler",
     "polarity": "negative",
-    "negative_affix": "m"
+    "negative_affix": "değil"
   },
-  "english_example_sentence": "They do not have fast reliable vehicles",
-  "russian_example_sentence": "У них нет быстрых надежных автомобилей",
-  "turkish_example_sentence": "Onlar hızlı güvenilir araçlara sahip olmazlar",
-  "turkish_example_sentence_with_blank": "Onlar hızlı güvenilir araçlara ______"
+  "english_example_sentence": "They do not have any pets",
+  "russian_example_sentence": "У них нет домашних животных",
+  "turkish_example_sentence": "Onlar hiç hayvana sahip değiller",
+  "turkish_example_sentence_with_blank": "Onlar hiç hayvana ______"
 }

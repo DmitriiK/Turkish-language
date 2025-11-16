@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "sahip olduğunuzda",
     "root": "sahip ol",
-    "tense_affix": "dık",
+    "tense_affix": "duğunuz",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "siz",
-    "personal_affix": "ğunuz",
+    "personal_affix": "da",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When you have knowledge, you teach",
-  "russian_example_sentence": "Когда у вас есть знание, вы учите",
-  "turkish_example_sentence": "Siz bilginiz olduğunuzda, öğretirsiniz",
-  "turkish_example_sentence_with_blank": "Siz bilginiz olduğunuzda, öğretirsiniz"
+  "english_example_sentence": "When you have a big dream",
+  "russian_example_sentence": "Когда у вас большая мечта",
+  "turkish_example_sentence": "Siz büyük bir hayale sahip olduğunuzda",
+  "turkish_example_sentence_with_blank": "Siz büyük bir hayale ______"
 }

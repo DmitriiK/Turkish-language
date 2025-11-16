@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "sahip olduğunda",
     "root": "sahip ol",
-    "tense_affix": "dık",
+    "tense_affix": "duğun",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "o",
-    "personal_affix": "ğu",
+    "personal_affix": "da",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When he has a car, he travels",
-  "russian_example_sentence": "Когда у него есть машина, он путешествует",
-  "turkish_example_sentence": "O arabası olduğunda, seyahat eder",
-  "turkish_example_sentence_with_blank": "O arabası olduğunda, seyahat eder"
+  "english_example_sentence": "When he has a good idea",
+  "russian_example_sentence": "Когда у него есть хорошая идея",
+  "turkish_example_sentence": "O iyi bir fikre sahip olduğunda",
+  "turkish_example_sentence_with_blank": "O iyi bir fikre ______"
 }

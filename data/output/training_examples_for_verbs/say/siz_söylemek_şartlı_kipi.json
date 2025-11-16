@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "söylerseniz",
     "root": "söyle",
-    "tense_affix": "erse",
+    "tense_affix": "erseniz",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "niz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you say yes now, it will start immediately",
-  "russian_example_sentence": "Если вы скажете да сейчас, это начнётся немедленно",
-  "turkish_example_sentence": "Şimdi evet söylerseniz, hemen başlar",
-  "turkish_example_sentence_with_blank": "Şimdi evet ______, hemen başlar"
+  "english_example_sentence": "If you say your name, I will write it.",
+  "russian_example_sentence": "Если вы скажете свое имя, я запишу его.",
+  "turkish_example_sentence": "Adınızı söylerseniz, yazarım.",
+  "turkish_example_sentence_with_blank": "Adınızı ______, yazarım."
 }

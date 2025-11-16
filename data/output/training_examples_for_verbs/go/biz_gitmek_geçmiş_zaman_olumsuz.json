@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gitmedik",
     "root": "git",
-    "tense_affix": "ti",
+    "tense_affix": "tik",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ik",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "We did not go to the expensive fancy restaurant",
-  "russian_example_sentence": "Мы не пошли в дорогой шикарный ресторан",
-  "turkish_example_sentence": "Biz pahalı lüks restorana gitmedik",
-  "turkish_example_sentence_with_blank": "Biz pahalı lüks restorana ______"
+  "english_example_sentence": "We didn't go to the wedding",
+  "russian_example_sentence": "Мы не пошли на свадьбу",
+  "turkish_example_sentence": "Biz düğüne gitmedik",
+  "turkish_example_sentence_with_blank": "Biz düğüne ______"
 }

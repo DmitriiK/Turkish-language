@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "düşünmezsin",
     "root": "düşün",
-    "tense_affix": "ür",
+    "tense_affix": "mez",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "sin",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "mez"
   },
-  "english_example_sentence": "You don't think about other people's feelings",
-  "russian_example_sentence": "Ты не думаешь о чувствах других людей",
-  "turkish_example_sentence": "Sen başka insanların derin duygusal ihtiyaçları hakkında düşünmezsin",
-  "turkish_example_sentence_with_blank": "Sen başka insanların derin duygusal ihtiyaçları hakkında ______"
+  "english_example_sentence": "You don't think about your mistakes",
+  "russian_example_sentence": "Ты не думаешь о своих ошибках",
+  "turkish_example_sentence": "Sen hataların hakkında düşünmezsin",
+  "turkish_example_sentence_with_blank": "Sen hataların hakkında ______"
 }

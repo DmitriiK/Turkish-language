@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gitmediğinde",
     "root": "git",
-    "tense_affix": "mediği",
+    "tense_affix": "tik",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "o",
-    "personal_affix": "nde",
+    "personal_affix": "i",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "When she doesn't go outside, she reads books.",
-  "russian_example_sentence": "Когда она не выходит на улицу, она читает книги.",
-  "turkish_example_sentence": "O dışarı gitmediğinde, kitap okuyor.",
-  "turkish_example_sentence_with_blank": "O dışarı ______, kitap okuyor."
+  "english_example_sentence": "When he doesn't go out, he reads books.",
+  "russian_example_sentence": "Когда он не выходит, он читает книги.",
+  "turkish_example_sentence": "O dışarı gitmediğinde kitap okur.",
+  "turkish_example_sentence_with_blank": "O dışarı ______ kitap okur."
 }

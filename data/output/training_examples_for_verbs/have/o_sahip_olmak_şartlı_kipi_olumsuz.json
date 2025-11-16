@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "sahip olmazsa",
     "root": "sahip ol",
-    "tense_affix": "zsa",
+    "tense_affix": "mazsa",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If he doesn’t have time, he won’t call.",
-  "russian_example_sentence": "Если у него не будет времени, он не позвонит.",
-  "turkish_example_sentence": "Zamanı olmazsa aramaz.",
-  "turkish_example_sentence_with_blank": "Zamanı olmazsa aramaz."
+  "english_example_sentence": "If he doesn't have his ID, he can't enter",
+  "russian_example_sentence": "Если у него нет удостоверения личности, он не сможет войти",
+  "turkish_example_sentence": "Eğer kimliğine sahip olmazsa, içeri giremez",
+  "turkish_example_sentence_with_blank": "Eğer kimliğine ______, içeri giremez"
 }

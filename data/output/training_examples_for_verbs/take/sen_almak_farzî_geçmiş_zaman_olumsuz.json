@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "almamışsan",
     "root": "al",
-    "tense_affix": "mamışsa",
+    "tense_affix": "mışsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If you hadn't taken that course...",
-  "russian_example_sentence": "Если бы ты не прошел этот курс...",
-  "turkish_example_sentence": "Sen o zor dersi almamışsan, mezun olamazdın",
-  "turkish_example_sentence_with_blank": "Sen o zor dersi ______, mezun olamazdın"
+  "english_example_sentence": "If you had not taken the tea",
+  "russian_example_sentence": "Если бы ты не взял чай",
+  "turkish_example_sentence": "Çayı almamışsan, neden kahve getirmedin?",
+  "turkish_example_sentence_with_blank": "Çayı ______, neden kahve getirmedin?"
 }

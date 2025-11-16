@@ -4,17 +4,17 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olamayız",
+    "verb_full": "sahip olamazsınız",
     "root": "sahip ol",
-    "tense_affix": "abil",
+    "tense_affix": "a",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "irsiniz",
+    "personal_affix": "sınız",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "You cannot have complete certainty about future events",
-  "russian_example_sentence": "Вы не можете иметь полную уверенность в будущих событиях",
-  "turkish_example_sentence": "Siz gelecek olayları hakkında tam kesinlik sahibi olamayız",
-  "turkish_example_sentence_with_blank": "Siz gelecek olayları hakkında tam kesinlik sahibi olamayız"
+  "english_example_sentence": "You cannot have that delicious dessert.",
+  "russian_example_sentence": "Вы не можете съесть этот вкусный десерт.",
+  "turkish_example_sentence": "Hazır tatlıya sahip olamazsınız.",
+  "turkish_example_sentence_with_blank": "Hazır tatlıya ______."
 }

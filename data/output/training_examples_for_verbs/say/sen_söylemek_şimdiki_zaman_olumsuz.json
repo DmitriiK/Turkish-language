@@ -4,17 +4,17 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylemiyor",
+    "verb_full": "söylemiyorsun",
     "root": "söyle",
     "tense_affix": "üyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "sun",
     "polarity": "negative",
-    "negative_affix": "m"
+    "negative_affix": "mü"
   },
-  "english_example_sentence": "You are not saying the truth clearly",
-  "russian_example_sentence": "Ты не говоришь правду ясно",
-  "turkish_example_sentence": "Sen gerçeği açıkça söylemiyor",
-  "turkish_example_sentence_with_blank": "Sen gerçeği açıkça ______"
+  "english_example_sentence": "You are not saying anything new.",
+  "russian_example_sentence": "Ты ничего нового не говоришь.",
+  "turkish_example_sentence": "Sen yeni bir şey söylemiyorsun.",
+  "turkish_example_sentence_with_blank": "Sen yeni bir şey ______."
 }

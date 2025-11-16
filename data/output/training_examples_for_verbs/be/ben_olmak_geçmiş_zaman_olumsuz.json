@@ -4,17 +4,17 @@
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "değildim",
-    "root": "i",
-    "tense_affix": "di",
+    "verb_full": "olmadım",
+    "root": "ol",
+    "tense_affix": "du",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
-    "negative_affix": "değil"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "I was not late for the important meeting",
-  "russian_example_sentence": "Я не опоздал на важное совещание",
-  "turkish_example_sentence": "Ben önemli toplantıya geç kalmış değildim",
-  "turkish_example_sentence_with_blank": "Ben önemli toplantıya geç kalmış ______"
+  "english_example_sentence": "I was not late for the party.",
+  "russian_example_sentence": "Я не опоздал на вечеринку.",
+  "turkish_example_sentence": "Ben partiye geç olmadım.",
+  "turkish_example_sentence_with_blank": "Ben partiye geç ______."
 }

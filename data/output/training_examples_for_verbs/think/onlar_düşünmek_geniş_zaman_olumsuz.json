@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "düşünmezler",
     "root": "düşün",
-    "tense_affix": "ür",
+    "tense_affix": "mez",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "mez"
   },
-  "english_example_sentence": "They don't think about past mistakes",
-  "russian_example_sentence": "Они не думают о прошлых ошибках",
-  "turkish_example_sentence": "Onlar geçmişteki acı ve ağır hatalarını düşünmezler",
-  "turkish_example_sentence_with_blank": "Onlar geçmişteki acı ve ağır hatalarını ______"
+  "english_example_sentence": "They don't think negatively about life",
+  "russian_example_sentence": "Они не думают негативно о жизни",
+  "turkish_example_sentence": "Onlar yaşam hakkında olumsuz düşünmezler",
+  "turkish_example_sentence_with_blank": "Onlar yaşam hakkında olumsuz ______"
 }

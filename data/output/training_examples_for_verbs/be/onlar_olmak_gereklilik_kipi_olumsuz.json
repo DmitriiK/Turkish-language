@@ -4,7 +4,7 @@
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmaması lazım",
+    "verb_full": "olmamalaları lazım",
     "root": "ol",
     "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "They should not be lazy about their studies",
-  "russian_example_sentence": "Они не должны быть ленивыми в учебе",
-  "turkish_example_sentence": "Onlar eğitim konusunda tembel olmaması lazım",
-  "turkish_example_sentence_with_blank": "Onlar eğitim konusunda tembel ______"
+  "english_example_sentence": "They must not be careless outside",
+  "russian_example_sentence": "Им нельзя быть неосторожными на улице",
+  "turkish_example_sentence": "Onların dışarıda dikkatsiz olmamaları lazım",
+  "turkish_example_sentence_with_blank": "Onların dışarıda dikkatsiz olmamaları lazım"
 }

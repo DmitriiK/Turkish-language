@@ -4,17 +4,17 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olmam lazım değil",
+    "verb_full": "sahip olmamam lazım",
     "root": "sahip ol",
     "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
-    "negative_affix": "değil"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "I do not need to have expensive equipment today",
-  "russian_example_sentence": "Мне не нужно иметь дорогое оборудование сегодня",
-  "turkish_example_sentence": "Ben bugün pahalı ekipmana sahip olmam lazım değil",
-  "turkish_example_sentence_with_blank": "Ben bugün pahalı ekipmana ______"
+  "english_example_sentence": "I don’t need to have a pet.",
+  "russian_example_sentence": "Мне не нужно иметь домашнее животное.",
+  "turkish_example_sentence": "Benim bir evcil hayvana sahip olmamam lazım.",
+  "turkish_example_sentence_with_blank": "Benim bir evcil hayvana ______."
 }

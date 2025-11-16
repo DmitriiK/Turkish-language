@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "sahip olmadığında",
     "root": "sahip ol",
-    "tense_affix": "dık",
+    "tense_affix": "madığın",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "o",
-    "personal_affix": "ğı",
+    "personal_affix": "da",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "When she doesn't have support, she struggles",
-  "russian_example_sentence": "Когда у нее нет поддержки, она борется",
-  "turkish_example_sentence": "O desteği olmadığında, mücadele eder",
-  "turkish_example_sentence_with_blank": "O desteği olmadığında, mücadele eder"
+  "english_example_sentence": "When she does not have a pen",
+  "russian_example_sentence": "Когда у неё нет ручки",
+  "turkish_example_sentence": "O bir kaleme sahip olmadığında",
+  "turkish_example_sentence_with_blank": "O bir kaleme ______"
 }

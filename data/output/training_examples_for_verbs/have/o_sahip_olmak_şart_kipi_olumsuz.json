@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "sahip olmasa",
     "root": "sahip ol",
-    "tense_affix": "sa",
+    "tense_affix": "masa",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If he didn't have siblings",
-  "russian_example_sentence": "Если бы у него не было братьев или сестёр",
-  "turkish_example_sentence": "Kardeşlere sahip olmasa",
-  "turkish_example_sentence_with_blank": "Kardeşlere ______"
+  "english_example_sentence": "If he didn’t have skills, he wouldn’t get the job",
+  "russian_example_sentence": "Если бы у него не было навыков, он не получил бы работу",
+  "turkish_example_sentence": "Becerilere sahip olmasa, işi alamazdı",
+  "turkish_example_sentence_with_blank": "Becerilere ______, işi alamazdı"
 }

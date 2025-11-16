@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "düşündüğümde",
     "root": "düşün",
-    "tense_affix": "dük",
+    "tense_affix": "düğ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "ben",
-    "personal_affix": "üm",
+    "personal_affix": "ümde",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When I think, I write poetry.",
-  "russian_example_sentence": "Когда я думаю, я пишу стихи.",
-  "turkish_example_sentence": "Ben düşündüğümde, şiir yazıyorum.",
-  "turkish_example_sentence_with_blank": "Ben ______, şiir yazıyorum."
+  "english_example_sentence": "When I think about the project, I feel confident",
+  "russian_example_sentence": "Когда я думаю о проекте, я чувствую уверенность",
+  "turkish_example_sentence": "Projeyi düşündüğümde, kendime güveniyorum",
+  "turkish_example_sentence_with_blank": "Projeyi ______, kendime güveniyorum"
 }

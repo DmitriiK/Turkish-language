@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "düşünmemişlerse",
     "root": "düşün",
-    "tense_affix": "mişlerse",
+    "tense_affix": "müşse",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If they hadn't thought about the potential risks...",
-  "russian_example_sentence": "Если бы они не подумали о потенциальных рисках...",
-  "turkish_example_sentence": "Onlar olası riskleri düşünmemişlerse, büyük zararlar görmüş olabilirlerdi.",
-  "turkish_example_sentence_with_blank": "Onlar olası riskleri ______, büyük zararlar görmüş olabilirlerdi."
+  "english_example_sentence": "If they had not thought about the consequences",
+  "russian_example_sentence": "Если бы они не подумали о последствиях",
+  "turkish_example_sentence": "Eğer sonuçları düşünmemişlerse, onları uyarmalısınız.",
+  "turkish_example_sentence_with_blank": "Eğer sonuçları ______, onları uyarmalısınız."
 }

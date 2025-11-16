@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "söylemeyin",
     "root": "söyle",
-    "tense_affix": "",
+    "tense_affix": "yin",
     "verb_tense": "emir_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "in",
+    "personal_affix": "yin",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "Don't tell the young children scary stories",
-  "russian_example_sentence": "Не рассказывайте маленьким детям страшные истории",
-  "turkish_example_sentence": "Siz küçük çocuklara korkunç hikayeleri söylemeyin",
-  "turkish_example_sentence_with_blank": "Siz küçük çocuklara korkunç hikayeleri ______"
+  "english_example_sentence": "Don’t say anything without proof.",
+  "russian_example_sentence": "Не говорите ничего без доказательств.",
+  "turkish_example_sentence": "Kanıt olmadan hiçbir şey söylemeyin.",
+  "turkish_example_sentence_with_blank": "Kanıt olmadan hiçbir şey ______."
 }

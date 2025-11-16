@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "sahip olmazsan",
     "root": "sahip ol",
-    "tense_affix": "zsa",
+    "tense_affix": "mazsa",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If you don’t have an umbrella, you’ll get wet.",
-  "russian_example_sentence": "Если у тебя нет зонта, ты промокнешь.",
-  "turkish_example_sentence": "Şemsiyen olmazsan, ıslanırsın.",
-  "turkish_example_sentence_with_blank": "Şemsiyen olmazsan, ıslanırsın."
+  "english_example_sentence": "If you don't have a solution, we can't move forward",
+  "russian_example_sentence": "Если у тебя нет решения, мы не сможем двигаться вперёд",
+  "turkish_example_sentence": "Eğer bir çözüme sahip olmazsan, ilerleyemeyiz",
+  "turkish_example_sentence_with_blank": "Eğer bir çözüme ______, ilerleyemeyiz"
 }

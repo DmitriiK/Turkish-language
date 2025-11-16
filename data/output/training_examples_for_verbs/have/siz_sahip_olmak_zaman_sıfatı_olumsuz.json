@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "sahip olmadığınızda",
     "root": "sahip ol",
-    "tense_affix": "dık",
+    "tense_affix": "madığınız",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "siz",
-    "personal_affix": "ğınız",
+    "personal_affix": "da",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "When you don't have experience, you learn",
-  "russian_example_sentence": "Когда у вас нет опыта, вы учитесь",
-  "turkish_example_sentence": "Siz tecrübeniz olmadığınızda, öğrenirsiniz",
-  "turkish_example_sentence_with_blank": "Siz tecrübeniz olmadığınızda, öğrenirsiniz"
+  "english_example_sentence": "When you do not have a computer",
+  "russian_example_sentence": "Когда у вас нет компьютера",
+  "turkish_example_sentence": "Siz bir bilgisayara sahip olmadığınızda",
+  "turkish_example_sentence_with_blank": "Siz bir bilgisayara ______"
 }

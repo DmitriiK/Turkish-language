@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "sahip olmamışlarsa",
     "root": "sahip ol",
-    "tense_affix": "mamışlarsa",
+    "tense_affix": "muşsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If they hadn't had enough support...",
-  "russian_example_sentence": "Если бы у них не было достаточной поддержки...",
-  "turkish_example_sentence": "Yeterli desteğe sahip olmamışlarsa, projeyi tamamlayamazlardı.",
-  "turkish_example_sentence_with_blank": "Yeterli desteğe ______, projeyi tamamlayamazlardı."
+  "english_example_sentence": "If they hadn’t had the opportunity, they couldn’t contribute.",
+  "russian_example_sentence": "Если бы у них не было возможности, они не смогли бы внести вклад.",
+  "turkish_example_sentence": "Onlar bir fırsata sahip olmamışlarsa, katkıda bulunamazlardı.",
+  "turkish_example_sentence_with_blank": "Onlar bir fırsata ______, katkıda bulunamazlardı."
 }

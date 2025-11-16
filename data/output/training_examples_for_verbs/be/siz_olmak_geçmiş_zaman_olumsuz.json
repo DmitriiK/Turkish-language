@@ -4,17 +4,17 @@
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "değildiniz",
-    "root": "i",
-    "tense_affix": "di",
+    "verb_full": "olmadınız",
+    "root": "ol",
+    "tense_affix": "du",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "nuz",
     "polarity": "negative",
-    "negative_affix": "değil"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "You were not responsible for the serious accident",
-  "russian_example_sentence": "Вы не были ответственны за серьезное происшествие",
-  "turkish_example_sentence": "Siz ciddi kaza için sorumlu değildiniz",
-  "turkish_example_sentence_with_blank": "Siz ciddi kaza için sorumlu ______"
+  "english_example_sentence": "You were not the first guests.",
+  "russian_example_sentence": "Вы не были первыми гостями.",
+  "turkish_example_sentence": "Siz ilk misafirler olmadınız.",
+  "turkish_example_sentence_with_blank": "Siz ilk misafirler ______."
 }

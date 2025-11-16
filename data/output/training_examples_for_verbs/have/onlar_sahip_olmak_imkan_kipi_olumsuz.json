@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "sahip olamazlar",
     "root": "sahip ol",
-    "tense_affix": "abil",
+    "tense_affix": "a",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "They cannot have absolute control over everything",
-  "russian_example_sentence": "Они не могут иметь абсолютный контроль над всем",
-  "turkish_example_sentence": "Onlar her şey üzerinde mutlak kontrol sahibi olamazlar",
-  "turkish_example_sentence_with_blank": "Onlar her şey üzerinde mutlak kontrol sahibi olamazlar"
+  "english_example_sentence": "They cannot have free tickets for the match.",
+  "russian_example_sentence": "Они не могут получить бесплатные билеты на матч.",
+  "turkish_example_sentence": "Onlar maç için ücretsiz biletlerine sahip olamazlar.",
+  "turkish_example_sentence_with_blank": "Onlar maç için ücretsiz biletlerine ______."
 }

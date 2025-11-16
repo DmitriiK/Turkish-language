@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "söylemeyecekti",
     "root": "söyle",
-    "tense_affix": "yecek",
+    "tense_affix": "ecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "She wasn't going to say anything.",
-  "russian_example_sentence": "Она не собиралась ничего говорить.",
-  "turkish_example_sentence": "O hiçbir şey söylemeyecekti.",
-  "turkish_example_sentence_with_blank": "O hiçbir şey ______."
+  "english_example_sentence": "She was not going to say goodbye",
+  "russian_example_sentence": "Она не собиралась прощаться",
+  "turkish_example_sentence": "O elveda söylemeyecekti",
+  "turkish_example_sentence_with_blank": "O elveda ______"
 }

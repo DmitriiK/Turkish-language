@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "düşünmemişsek",
     "root": "düşün",
-    "tense_affix": "mişse",
+    "tense_affix": "müşse",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If we hadn't thought about the details...",
-  "russian_example_sentence": "Если бы мы не подумали о деталях...",
-  "turkish_example_sentence": "Biz karmaşık detayları düşünmemişsek, projeyi tamamlayamazdık.",
-  "turkish_example_sentence_with_blank": "Biz karmaşık detayları ______, projeyi tamamlayamazdık."
+  "english_example_sentence": "If we had not thought about the results",
+  "russian_example_sentence": "Если бы мы не подумали о результатах",
+  "turkish_example_sentence": "Eğer sonuçları düşünmemişsek, bu bizim hatamız.",
+  "turkish_example_sentence_with_blank": "Eğer sonuçları ______, bu bizim hatamız."
 }

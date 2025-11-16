@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "düşünecektik",
     "root": "düşün",
-    "tense_affix": "ecek",
+    "tense_affix": "ecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "tik",
+    "personal_affix": "k",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We were going to learn Spanish",
-  "russian_example_sentence": "Мы собирались учить испанский",
-  "turkish_example_sentence": "Biz İspanyolca dilini öğrenecektik",
-  "turkish_example_sentence_with_blank": "Biz İspanyolca dilini öğrenecektik"
+  "english_example_sentence": "We were going to think of a name for the baby",
+  "russian_example_sentence": "Мы собирались подумать над именем для ребенка",
+  "turkish_example_sentence": "Biz bebek için bir isim düşünecektik",
+  "turkish_example_sentence_with_blank": "Biz bebek için bir isim ______"
 }

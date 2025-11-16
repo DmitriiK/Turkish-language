@@ -4,17 +4,17 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almaması lazım",
+    "verb_full": "almaman lazım",
     "root": "al",
     "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "man",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You should not take the old broken bicycle",
-  "russian_example_sentence": "Ты не должен брать старый сломанный велосипед",
-  "turkish_example_sentence": "Sen eski kırık bisikleti almaması lazım",
-  "turkish_example_sentence_with_blank": "Sen eski kırık bisikleti ______"
+  "english_example_sentence": "You shouldn’t take this road",
+  "russian_example_sentence": "Тебе нельзя ехать этой дорогой",
+  "turkish_example_sentence": "Sen bu yolu almaman lazım",
+  "turkish_example_sentence_with_blank": "Sen bu yolu ______"
 }

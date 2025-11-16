@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gittiğinde",
     "root": "git",
-    "tense_affix": "tiği",
+    "tense_affix": "tik",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "o",
-    "personal_affix": "nde",
+    "personal_affix": "i",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When he goes to school, he studies hard.",
-  "russian_example_sentence": "Когда он идет в школу, он усердно учится.",
-  "turkish_example_sentence": "O okula gittiğinde, çok çalışıyor.",
-  "turkish_example_sentence_with_blank": "O okula ______, çok çalışıyor."
+  "english_example_sentence": "When he goes to the market, he buys tea.",
+  "russian_example_sentence": "Когда он идёт на рынок, он покупает чай.",
+  "turkish_example_sentence": "O, pazara gittiğinde çay alır.",
+  "turkish_example_sentence_with_blank": "O, pazara ______ çay alır."
 }

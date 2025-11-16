@@ -4,17 +4,17 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapamassın",
+    "verb_full": "yapamazsın",
     "root": "yap",
     "tense_affix": "ama",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "ssın",
+    "personal_affix": "sın",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "You cannot make this important business decision alone",
-  "russian_example_sentence": "Ты не можешь принять это важное деловое решение один",
-  "turkish_example_sentence": "Sen bu önemli iş kararını yapamassın",
-  "turkish_example_sentence_with_blank": "Sen bu önemli iş kararını ______"
+  "english_example_sentence": "You cannot make a mistake here",
+  "russian_example_sentence": "Ты не можешь сделать ошибку здесь",
+  "turkish_example_sentence": "Sen burada bir hata yapamazsın",
+  "turkish_example_sentence_with_blank": "Sen burada bir hata ______"
 }

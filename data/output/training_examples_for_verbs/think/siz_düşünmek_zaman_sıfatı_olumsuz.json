@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "düşünmediğinizde",
     "root": "düşün",
-    "tense_affix": "dük",
+    "tense_affix": "düğ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "siz",
-    "personal_affix": "ünüz",
+    "personal_affix": "ünüzde",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "When you don't think, opportunities vanish.",
-  "russian_example_sentence": "Когда вы не думаете, возможности исчезают.",
-  "turkish_example_sentence": "Siz düşünmediğinizde, fırsatlar kayboluyor.",
-  "turkish_example_sentence_with_blank": "Siz ______, fırsatlar kayboluyor."
+  "english_example_sentence": "When you don't think calmly, bad choices happen",
+  "russian_example_sentence": "Когда вы не думаете спокойно, случаются плохие решения",
+  "turkish_example_sentence": "Sakin düşünmediğinizde kötü tercihler olur",
+  "turkish_example_sentence_with_blank": "Sakin ______ kötü tercihler olur"
 }

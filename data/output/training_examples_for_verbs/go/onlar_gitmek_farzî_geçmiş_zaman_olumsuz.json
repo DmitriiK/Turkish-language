@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gitmemişlerse",
     "root": "git",
-    "tense_affix": "mişlerse",
+    "tense_affix": "mişse",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If they hadn't gone to the city.",
-  "russian_example_sentence": "Если бы они не пошли в город.",
-  "turkish_example_sentence": "Onlar büyük şehre gitmemişlerse, trafikle uğraşmazlardı.",
-  "turkish_example_sentence_with_blank": "Onlar büyük şehre ______, trafikle uğraşmazlardı."
+  "english_example_sentence": "If they hadn’t gone away, they would still be with us.",
+  "russian_example_sentence": "Если бы они не ушли, они бы всё ещё были с нами.",
+  "turkish_example_sentence": "Eğer gitmemişlerse, hâlâ yanımızda olurlardı.",
+  "turkish_example_sentence_with_blank": "Eğer ______, hâlâ yanımızda olurlardı."
 }

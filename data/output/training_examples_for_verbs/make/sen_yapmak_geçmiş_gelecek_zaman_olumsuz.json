@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "yapmayacaktın",
     "root": "yap",
-    "tense_affix": "acak",
+    "tense_affix": "acaktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "tın",
+    "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You weren't going to attend",
-  "russian_example_sentence": "Ты не собирался посещать",
-  "turkish_example_sentence": "Sen o sıkıcı toplantıya asla katılmak yapmayacaktın",
-  "turkish_example_sentence_with_blank": "Sen o sıkıcı toplantıya asla katılmak ______"
+  "english_example_sentence": "You were not going to make your bed.",
+  "russian_example_sentence": "Ты не собирался застилать свою постель.",
+  "turkish_example_sentence": "Sen yatağını yapmayacaktın.",
+  "turkish_example_sentence_with_blank": "Sen yatağını ______."
 }

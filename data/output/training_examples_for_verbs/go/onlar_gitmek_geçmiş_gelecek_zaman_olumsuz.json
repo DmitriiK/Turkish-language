@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gitmeyeceklerdi",
     "root": "git",
-    "tense_affix": "ecek",
+    "tense_affix": "ecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lerdi",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "They weren't going to help us.",
-  "russian_example_sentence": "Они не собирались нам помогать.",
-  "turkish_example_sentence": "Onlar bize hiçbir zaman yardım gitmeyeceklerdi.",
-  "turkish_example_sentence_with_blank": "Onlar bize hiçbir zaman yardım ______."
+  "english_example_sentence": "They were not going to go to school.",
+  "russian_example_sentence": "Они не собирались идти в школу.",
+  "turkish_example_sentence": "Onlar okula gitmeyeceklerdi.",
+  "turkish_example_sentence_with_blank": "Onlar okula ______."
 }

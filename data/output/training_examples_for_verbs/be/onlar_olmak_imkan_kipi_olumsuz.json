@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "olamazlar",
     "root": "ol",
-    "tense_affix": "abil",
+    "tense_affix": "ama",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "azlar",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "They cannot be silent about this serious scandal",
-  "russian_example_sentence": "Они не могут молчать об этом серьезном скандале",
-  "turkish_example_sentence": "Onlar bu ciddi skandal hakkında sessiz olamazlar",
-  "turkish_example_sentence_with_blank": "Onlar bu ciddi skandal hakkında sessiz ______"
+  "english_example_sentence": "They cannot be present at night.",
+  "russian_example_sentence": "Они не могут быть ночью.",
+  "turkish_example_sentence": "Onlar gece burada olamazlar.",
+  "turkish_example_sentence_with_blank": "Onlar gece burada ______."
 }

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "yapmayacaktınız",
     "root": "yap",
-    "tense_affix": "acak",
+    "tense_affix": "acaktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "tınız",
+    "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You weren't going to complain",
-  "russian_example_sentence": "Вы не собирались жаловаться",
-  "turkish_example_sentence": "Siz bu konuda yüksek sesle asla şikayet etmek yapmayacaktınız",
-  "turkish_example_sentence_with_blank": "Siz bu konuda yüksek sesle asla şikayet etmek ______"
+  "english_example_sentence": "You were not going to make noise here.",
+  "russian_example_sentence": "Вы не собирались здесь шуметь.",
+  "turkish_example_sentence": "Siz burada gürültü yapmayacaktınız.",
+  "turkish_example_sentence_with_blank": "Siz burada gürültü ______."
 }

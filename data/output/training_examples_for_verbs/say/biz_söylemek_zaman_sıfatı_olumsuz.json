@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "söylemediğimizde",
     "root": "söyle",
-    "tense_affix": "mediğ",
+    "tense_affix": "dik",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "biz",
-    "personal_affix": "imizde",
+    "personal_affix": "imiz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "When we don't say anything, they assume guilt.",
-  "russian_example_sentence": "Когда мы ничего не говорим, они предполагают вину.",
-  "turkish_example_sentence": "Biz hiçbir şey söylemediğimizde, onlar suçluluk varsayıyorlar.",
-  "turkish_example_sentence_with_blank": "Biz hiçbir şey ______, onlar suçluluk varsayıyorlar."
+  "english_example_sentence": "When we don’t say quickly, others interrupt",
+  "russian_example_sentence": "Когда мы не говорим быстро, нас перебивают",
+  "turkish_example_sentence": "Biz çabuk söylemediğimizde, diğerleri sözümüzü kesiyor",
+  "turkish_example_sentence_with_blank": "Biz çabuk ______, diğerleri sözümüzü kesiyor"
 }

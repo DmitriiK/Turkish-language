@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitsem",
+    "verb_full": "gidersem",
     "root": "git",
-    "tense_affix": "se",
+    "tense_affix": "er",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "sem",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I go to the park tomorrow",
-  "russian_example_sentence": "Если я пойду завтра в парк",
-  "turkish_example_sentence": "Yarın parka gitsem",
-  "turkish_example_sentence_with_blank": "Yarın parka ______"
+  "english_example_sentence": "If I go to the park, I will run.",
+  "russian_example_sentence": "Если я пойду в парк, я побегу.",
+  "turkish_example_sentence": "Ben parka gidersem koşarım.",
+  "turkish_example_sentence_with_blank": "Ben parka ______ koşarım."
 }

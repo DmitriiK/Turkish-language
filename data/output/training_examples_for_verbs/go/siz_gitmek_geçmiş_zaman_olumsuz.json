@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gitmediniz",
     "root": "git",
-    "tense_affix": "ti",
+    "tense_affix": "tiniz",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "iniz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You did not go to the interesting art gallery last month",
-  "russian_example_sentence": "Вы не пошли в интересную художественную галерею в прошлом месяце",
-  "turkish_example_sentence": "Siz geçen ay ilginç sanat galerisine gitmediniz",
-  "turkish_example_sentence_with_blank": "Siz geçen ay ilginç sanat galerisine ______"
+  "english_example_sentence": "You didn't go hiking in the mountains",
+  "russian_example_sentence": "Вы не ходили в горы в поход",
+  "turkish_example_sentence": "Siz dağlarda yürüyüşe gitmediniz",
+  "turkish_example_sentence_with_blank": "Siz dağlarda yürüyüşe ______"
 }

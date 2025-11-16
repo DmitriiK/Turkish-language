@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "olamazsın",
     "root": "ol",
-    "tense_affix": "abil",
+    "tense_affix": "ama",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "irsin",
+    "personal_affix": "azsın",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "You cannot be absent from school today",
-  "russian_example_sentence": "Ты не можешь отсутствовать в школе сегодня",
-  "turkish_example_sentence": "Sen bugün okuldan uzak olamazsın",
-  "turkish_example_sentence_with_blank": "Sen bugün okuldan uzak ______"
+  "english_example_sentence": "You cannot always be this stubborn.",
+  "russian_example_sentence": "Ты не можешь быть таким упрямым всегда.",
+  "turkish_example_sentence": "Sen her zaman bu kadar inatçı olamazsın.",
+  "turkish_example_sentence_with_blank": "Sen her zaman bu kadar inatçı ______."
 }

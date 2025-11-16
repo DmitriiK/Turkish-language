@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitsek",
+    "verb_full": "gidersek",
     "root": "git",
-    "tense_affix": "se",
+    "tense_affix": "er",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "sek",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we go to the museum this weekend",
-  "russian_example_sentence": "Если мы пойдем в музей в эти выходные",
-  "turkish_example_sentence": "Bu hafta sonu müzeye gitsek",
-  "turkish_example_sentence_with_blank": "Bu hafta sonu müzeye ______"
+  "english_example_sentence": "If we go together, it’ll be faster.",
+  "russian_example_sentence": "Если мы пойдем вместе, это будет быстрее.",
+  "turkish_example_sentence": "Eğer birlikte gidersek daha hızlı olacak.",
+  "turkish_example_sentence_with_blank": "Eğer birlikte ______ daha hızlı olacak."
 }

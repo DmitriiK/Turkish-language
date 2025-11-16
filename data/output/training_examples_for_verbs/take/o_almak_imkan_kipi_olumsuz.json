@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "alamaz",
     "root": "al",
-    "tense_affix": "ama",
+    "tense_affix": "amaz",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "z",
+    "personal_affix": "maz",
     "polarity": "negative",
-    "negative_affix": "ama"
+    "negative_affix": "amaz"
   },
-  "english_example_sentence": "She cannot take the old broken bicycle to the park",
-  "russian_example_sentence": "Она не может взять старый сломанный велосипед в парк",
-  "turkish_example_sentence": "O eski kırık bisikleti parka alamaz",
-  "turkish_example_sentence_with_blank": "O eski kırık bisikleti parka ______"
+  "english_example_sentence": "She cannot take the cold water",
+  "russian_example_sentence": "Она не может взять холодную воду",
+  "turkish_example_sentence": "O soğuk suyu alamaz",
+  "turkish_example_sentence_with_blank": "O soğuk suyu ______"
 }

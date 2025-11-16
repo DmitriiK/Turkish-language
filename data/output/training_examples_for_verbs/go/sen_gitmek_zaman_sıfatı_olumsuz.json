@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gitmediğinde",
     "root": "git",
-    "tense_affix": "mediği",
+    "tense_affix": "tik",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "sen",
-    "personal_affix": "nde",
+    "personal_affix": "in",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "When you don't go to work, who cares?",
-  "russian_example_sentence": "Когда ты не ходишь на работу, кому это важно?",
-  "turkish_example_sentence": "Sen işe gitmediğinde, kim önemser?",
-  "turkish_example_sentence_with_blank": "Sen işe ______, kim önemser?"
+  "english_example_sentence": "When you don't go to school, you lose time.",
+  "russian_example_sentence": "Когда ты не ходишь в школу, ты теряешь время.",
+  "turkish_example_sentence": "Okula gitmediğinde zaman kaybediyorsun.",
+  "turkish_example_sentence_with_blank": "Okula ______ zaman kaybediyorsun."
 }

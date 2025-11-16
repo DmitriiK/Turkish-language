@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "olmamışsam",
     "root": "ol",
-    "tense_affix": "mamışsa",
+    "tense_affix": "muşsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If I had not been a doctor...",
-  "russian_example_sentence": "Если бы я не был врачом...",
-  "turkish_example_sentence": "Ben başarılı bir doktor olmamışsam, şimdi ne yapardım?",
-  "turkish_example_sentence_with_blank": "Ben başarılı bir doktor ______, şimdi ne yapardım?"
+  "english_example_sentence": "If I hadn't been present, they'd forget me.",
+  "russian_example_sentence": "Если бы меня не было, меня бы забыли.",
+  "turkish_example_sentence": "Orada olmamışsam, beni unuturlardı.",
+  "turkish_example_sentence_with_blank": "Orada ______, beni unuturlardı."
 }

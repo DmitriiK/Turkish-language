@@ -4,7 +4,7 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmaması lazım",
+    "verb_full": "yapmamam lazım",
     "root": "yap",
     "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I should not make that silly mistake again",
-  "russian_example_sentence": "Мне не нужно делать эту глупую ошибку снова",
-  "turkish_example_sentence": "Ben bu aptal hatayı tekrar yapmaması lazım",
-  "turkish_example_sentence_with_blank": "Ben bu aptal hatayı tekrar ______"
+  "english_example_sentence": "I must not make the same mistake twice",
+  "russian_example_sentence": "Мне нельзя сделать ту же ошибку дважды",
+  "turkish_example_sentence": "Ben iki kez aynı hatayı yapmamam lazım",
+  "turkish_example_sentence_with_blank": "Ben iki kez aynı hatayı ______"
 }

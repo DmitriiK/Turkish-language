@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "söyleyecektin",
     "root": "söyle",
-    "tense_affix": "yecek",
+    "tense_affix": "ecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "tin",
+    "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You were going to tell a secret.",
-  "russian_example_sentence": "Ты собирался рассказать секрет.",
-  "turkish_example_sentence": "Sen bir sır söyleyecektin.",
-  "turkish_example_sentence_with_blank": "Sen bir sır ______."
+  "english_example_sentence": "You were going to say your opinion",
+  "russian_example_sentence": "Ты собирался сказать своё мнение",
+  "turkish_example_sentence": "Sen fikrini söyleyecektin",
+  "turkish_example_sentence_with_blank": "Sen fikrini ______"
 }

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gidecektim",
     "root": "git",
-    "tense_affix": "ecek",
+    "tense_affix": "ecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "tim",
+    "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I was going to visit Ankara.",
-  "russian_example_sentence": "Я собирался посетить Анкару.",
-  "turkish_example_sentence": "Ben yarın Ankara'yı ziyaret edecektim.",
-  "turkish_example_sentence_with_blank": "Ben yarın Ankara'yı ziyaret edecektim."
+  "english_example_sentence": "I was going to go to school.",
+  "russian_example_sentence": "Я собирался идти в школу.",
+  "turkish_example_sentence": "Ben okula gidecektim.",
+  "turkish_example_sentence_with_blank": "Ben okula ______."
 }

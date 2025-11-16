@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "sahip olmadığımızda",
     "root": "sahip ol",
-    "tense_affix": "dık",
+    "tense_affix": "madığımız",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "biz",
-    "personal_affix": "ğımız",
+    "personal_affix": "da",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "When we don't have internet, we panic",
-  "russian_example_sentence": "Когда у нас нет интернета, мы паникуем",
-  "turkish_example_sentence": "Biz internetimiz olmadığımızda, panikleriz",
-  "turkish_example_sentence_with_blank": "Biz internetimiz olmadığımızda, panikleriz"
+  "english_example_sentence": "When we do not have knowledge",
+  "russian_example_sentence": "Когда у нас нет знаний",
+  "turkish_example_sentence": "Biz bilgiye sahip olmadığımızda",
+  "turkish_example_sentence_with_blank": "Biz bilgiye ______"
 }

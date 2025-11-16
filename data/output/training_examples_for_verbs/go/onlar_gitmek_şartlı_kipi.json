@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitseler",
+    "verb_full": "giderlerse",
     "root": "git",
-    "tense_affix": "se",
+    "tense_affix": "er",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "ler",
+    "personal_affix": "lerse",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they go to the theater next week",
-  "russian_example_sentence": "Если они пойдут в театр на следующей неделе",
-  "turkish_example_sentence": "Haftaya tiyatroya gitseler",
-  "turkish_example_sentence_with_blank": "Haftaya tiyatroya ______"
+  "english_example_sentence": "If they go home, they will eat dinner.",
+  "russian_example_sentence": "Если они пойдут домой, они поужинают.",
+  "turkish_example_sentence": "Eve giderlerse akşam yemeği yiyecekler.",
+  "turkish_example_sentence_with_blank": "Eve ______ akşam yemeği yiyecekler."
 }

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gitmeseniz",
     "root": "git",
-    "tense_affix": "mese",
+    "tense_affix": "se",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "niz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If you don’t go now, you’ll miss the bus.",
-  "russian_example_sentence": "Если вы не пойдёте сейчас, вы опоздаете на автобус.",
-  "turkish_example_sentence": "Siz şimdi gitmeseniz, otobüsü kaçırırsınız.",
-  "turkish_example_sentence_with_blank": "Siz şimdi ______, otobüsü kaçırırsınız."
+  "english_example_sentence": "If you all didn't go to the market",
+  "russian_example_sentence": "Если бы вы все не пошли на рынок",
+  "turkish_example_sentence": "Eğer pazara gitmeseniz",
+  "turkish_example_sentence_with_blank": "Eğer pazara ______"
 }

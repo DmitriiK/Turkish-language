@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "sahip olmasak",
     "root": "sahip ol",
-    "tense_affix": "sa",
+    "tense_affix": "masa",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If we didn't have enough money",
-  "russian_example_sentence": "Если бы у нас не хватало денег",
-  "turkish_example_sentence": "Yeterince paraya sahip olmasak",
-  "turkish_example_sentence_with_blank": "Yeterince paraya ______"
+  "english_example_sentence": "If we didn’t have tools, we couldn’t fix it",
+  "russian_example_sentence": "Если бы у нас не было инструментов, мы не могли бы это исправить",
+  "turkish_example_sentence": "Araçlara sahip olmasak, bunu düzeltemezdik",
+  "turkish_example_sentence_with_blank": "Araçlara ______, bunu düzeltemezdik"
 }

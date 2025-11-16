@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "olduğunda",
     "root": "ol",
-    "tense_affix": "duk",
+    "tense_affix": "duğ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "sen",
     "personal_affix": "un",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When you are tired, you should rest.",
-  "russian_example_sentence": "Когда ты устал, тебе следует отдохнуть.",
-  "turkish_example_sentence": "Sen yorgun olduğunda, dinlenmen gerekiyor.",
-  "turkish_example_sentence_with_blank": "Sen yorgun ______, dinlenmen gerekiyor."
+  "english_example_sentence": "When you are tired, you sleep",
+  "russian_example_sentence": "Когда ты уставший, ты спишь",
+  "turkish_example_sentence": "Sen yorgun olduğunda uyursun",
+  "turkish_example_sentence_with_blank": "Sen yorgun ______ uyursun"
 }

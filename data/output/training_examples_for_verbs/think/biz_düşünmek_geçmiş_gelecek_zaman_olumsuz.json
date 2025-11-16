@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "düşünmeyecektik",
     "root": "düşün",
-    "tense_affix": "ecek",
+    "tense_affix": "ecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "tik",
+    "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "We weren't going to attend the meeting",
-  "russian_example_sentence": "Мы не собирались посещать встречу",
-  "turkish_example_sentence": "Biz önemli toplantıya katılmayacaktık",
-  "turkish_example_sentence_with_blank": "Biz önemli toplantıya katılmayacaktık"
+  "english_example_sentence": "We were not going to think about anything serious",
+  "russian_example_sentence": "Мы не собирались думать о чем-то серьезном",
+  "turkish_example_sentence": "Biz ciddi bir şey düşünmeyecektik",
+  "turkish_example_sentence_with_blank": "Biz ciddi bir şey ______"
 }

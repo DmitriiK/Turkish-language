@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "yapmayan",
     "root": "yap",
-    "tense_affix": "an",
+    "tense_affix": "yan",
     "verb_tense": "sıfat_fiil",
     "personal_pronoun": null,
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "The one who doesn’t make any noise",
-  "russian_example_sentence": "Тот, кто не шумит",
-  "turkish_example_sentence": "Hiç ses yapmayan kişi",
-  "turkish_example_sentence_with_blank": "Hiç ses ______ kişi"
+  "english_example_sentence": "The person who does not make the bed",
+  "russian_example_sentence": "Человек, который не заправляет кровать",
+  "turkish_example_sentence": "Yatağını yapmayan kişi",
+  "turkish_example_sentence_with_blank": "Yatağını ______ kişi"
 }

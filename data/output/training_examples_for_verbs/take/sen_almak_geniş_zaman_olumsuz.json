@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "almazsın",
     "root": "al",
-    "tense_affix": "ır",
+    "tense_affix": "maz",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "sın",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You do not take the difficult path to school",
-  "russian_example_sentence": "Ты не берешь трудный путь в школу",
-  "turkish_example_sentence": "Sen okula giderken zor yolu almazsın",
-  "turkish_example_sentence_with_blank": "Sen okula giderken zor yolu ______"
+  "english_example_sentence": "You don't take that pen often",
+  "russian_example_sentence": "Ты не берёшь эту ручку часто",
+  "turkish_example_sentence": "Sen o kalemi sık sık almazsın",
+  "turkish_example_sentence_with_blank": "Sen o kalemi sık sık ______"
 }

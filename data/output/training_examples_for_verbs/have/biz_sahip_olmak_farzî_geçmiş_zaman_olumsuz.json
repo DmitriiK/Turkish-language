@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "sahip olmamışsak",
     "root": "sahip ol",
-    "tense_affix": "mamışsa",
+    "tense_affix": "muşsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If we hadn't had the equipment...",
-  "russian_example_sentence": "Если бы у нас не было оборудования...",
-  "turkish_example_sentence": "Gerekli ekipmana sahip olmamışsak, bu görevi tamamlayamazdık.",
-  "turkish_example_sentence_with_blank": "Gerekli ekipmana ______, bu görevi tamamlayamazdık."
+  "english_example_sentence": "If we hadn’t had the instructions, we would have failed.",
+  "russian_example_sentence": "Если бы у нас не было инструкции, мы бы провалились.",
+  "turkish_example_sentence": "Eğer talimatlara sahip olmamışsak, başarısız olurduk.",
+  "turkish_example_sentence_with_blank": "Eğer talimatlara ______, başarısız olurduk."
 }

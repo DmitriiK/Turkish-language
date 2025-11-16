@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "olmamışsak",
     "root": "ol",
-    "tense_affix": "mamışsa",
+    "tense_affix": "muşsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If we hadn't been so naive...",
-  "russian_example_sentence": "Если бы мы не были такими наивными...",
-  "turkish_example_sentence": "Biz çok saf olmamışsak, bu tuzağa düşmezdik.",
-  "turkish_example_sentence_with_blank": "Biz çok saf ______, bu tuzağa düşmezdik."
+  "english_example_sentence": "If we hadn't been there, who'd help?",
+  "russian_example_sentence": "Если бы мы не были там, кто бы помог?",
+  "turkish_example_sentence": "Orada olmamışsak, kim yardım ederdi?",
+  "turkish_example_sentence_with_blank": "Orada ______, kim yardım ederdi?"
 }

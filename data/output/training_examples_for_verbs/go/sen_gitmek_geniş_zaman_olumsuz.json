@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gitmezsin",
     "root": "git",
-    "tense_affix": "er",
+    "tense_affix": "mez",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "sin",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You do not go to the noisy train station",
-  "russian_example_sentence": "Ты не ходишь на шумный железнодорожный вокзал",
-  "turkish_example_sentence": "Sen gürültülü tren istasyonuna gitmezsin",
-  "turkish_example_sentence_with_blank": "Sen gürültülü tren istasyonuna ______"
+  "english_example_sentence": "You don't go to the park",
+  "russian_example_sentence": "Ты не идёшь в парк",
+  "turkish_example_sentence": "Sen parka gitmezsin",
+  "turkish_example_sentence_with_blank": "Sen parka ______"
 }

@@ -4,17 +4,17 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylemesiniz",
+    "verb_full": "söylemezsiniz",
     "root": "söyle",
-    "tense_affix": "r",
+    "tense_affix": "mez",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "siniz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You never say rude comments to your guests",
-  "russian_example_sentence": "Вы никогда не говорите грубые комментарии своим гостям",
-  "turkish_example_sentence": "Siz misafirlerinize asla kaba yorumlar söylemesiniz",
-  "turkish_example_sentence_with_blank": "Siz misafirlerinize asla kaba yorumlar ______"
+  "english_example_sentence": "You don't say careless remarks.",
+  "russian_example_sentence": "Вы не делаете небрежных замечаний.",
+  "turkish_example_sentence": "Siz dikkatsiz yorumlar söylemezsiniz.",
+  "turkish_example_sentence_with_blank": "Siz dikkatsiz yorumlar ______."
 }

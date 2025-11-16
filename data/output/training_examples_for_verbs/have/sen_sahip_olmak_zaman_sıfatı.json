@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "sahip olduğunda",
     "root": "sahip ol",
-    "tense_affix": "dık",
+    "tense_affix": "duğun",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "sen",
-    "personal_affix": "ğun",
+    "personal_affix": "da",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When you have energy, you exercise",
-  "russian_example_sentence": "Когда у тебя есть энергия, ты занимаешься спортом",
-  "turkish_example_sentence": "Sen enerjin olduğunda, spor yaparsın",
-  "turkish_example_sentence_with_blank": "Sen enerjin olduğunda, spor yaparsın"
+  "english_example_sentence": "When you have a new book",
+  "russian_example_sentence": "Когда у тебя есть новая книга",
+  "turkish_example_sentence": "Sen yeni bir kitaba sahip olduğunda",
+  "turkish_example_sentence_with_blank": "Sen yeni bir kitaba ______"
 }

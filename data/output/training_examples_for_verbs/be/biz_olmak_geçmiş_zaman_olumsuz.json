@@ -4,17 +4,17 @@
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "değildik",
-    "root": "i",
-    "tense_affix": "di",
+    "verb_full": "olmadık",
+    "root": "ol",
+    "tense_affix": "duk",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
-    "negative_affix": "değil"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "We were not nervous about the final examination",
-  "russian_example_sentence": "Мы не нервничали перед финальным экзаменом",
-  "turkish_example_sentence": "Biz final sınavından endişeli değildik",
-  "turkish_example_sentence_with_blank": "Biz final sınavından endişeli ______"
+  "english_example_sentence": "We were not happy about the results.",
+  "russian_example_sentence": "Мы не были довольны результатами.",
+  "turkish_example_sentence": "Biz sonuçlardan memnun olmadık.",
+  "turkish_example_sentence_with_blank": "Biz sonuçlardan memnun ______."
 }

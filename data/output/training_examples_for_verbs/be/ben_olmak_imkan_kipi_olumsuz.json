@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "olamam",
     "root": "ol",
-    "tense_affix": "abil",
+    "tense_affix": "ama",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "irim",
+    "personal_affix": "am",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "I cannot be late for the important meeting",
-  "russian_example_sentence": "Я не могу опоздать на важное совещание",
-  "turkish_example_sentence": "Ben önemli toplantıya geç olamam",
-  "turkish_example_sentence_with_blank": "Ben önemli toplantıya geç ______"
+  "english_example_sentence": "I cannot be patient all the time.",
+  "russian_example_sentence": "Я не могу быть терпеливым всё время.",
+  "turkish_example_sentence": "Ben her zaman sabırlı olamam.",
+  "turkish_example_sentence_with_blank": "Ben her zaman sabırlı ______."
 }

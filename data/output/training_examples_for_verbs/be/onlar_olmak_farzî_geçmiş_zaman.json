@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "olmuşlarsa",
     "root": "ol",
-    "tense_affix": "muşlarsa",
+    "tense_affix": "muşsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": null,
+    "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they had been more understanding...",
-  "russian_example_sentence": "Если бы они были более понимающими...",
-  "turkish_example_sentence": "Onlar daha anlayışlı olmuşlarsa, problemi çözebilirlerdi.",
-  "turkish_example_sentence_with_blank": "Onlar daha anlayışlı ______, problemi çözebilirlerdi."
+  "english_example_sentence": "If they had been ready, we’d leave earlier.",
+  "russian_example_sentence": "Если бы они были готовы, мы бы уехали пораньше.",
+  "turkish_example_sentence": "Eğer hazır olmuşlarsa, daha erken ayrılırdık.",
+  "turkish_example_sentence_with_blank": "Eğer hazır ______, daha erken ayrılırdık."
 }

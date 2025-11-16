@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "düşünmediğimizde",
     "root": "düşün",
-    "tense_affix": "dük",
+    "tense_affix": "düğ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "biz",
-    "personal_affix": "ümüz",
+    "personal_affix": "ümüzde",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "When we don't think, we repeat mistakes.",
-  "russian_example_sentence": "Когда мы не думаем, мы повторяем ошибки.",
-  "turkish_example_sentence": "Biz düşünmediğimizde, hataları tekrarlıyoruz.",
-  "turkish_example_sentence_with_blank": "Biz ______, hataları tekrarlıyoruz."
+  "english_example_sentence": "When we don't think fast, we lose the chance",
+  "russian_example_sentence": "Когда мы не думаем быстро, мы упускаем шанс",
+  "turkish_example_sentence": "Hızlı düşünmediğimizde, fırsatı kaybederiz",
+  "turkish_example_sentence_with_blank": "Hızlı ______, fırsatı kaybederiz"
 }

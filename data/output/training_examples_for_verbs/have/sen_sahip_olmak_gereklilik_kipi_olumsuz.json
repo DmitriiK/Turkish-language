@@ -4,17 +4,17 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olman lazım değil",
+    "verb_full": "sahip olmaman lazım",
     "root": "sahip ol",
     "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
-    "negative_affix": "değil"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "You do not need to have advanced computer skills now",
-  "russian_example_sentence": "Тебе не нужно иметь продвинутые навыки компьютера сейчас",
-  "turkish_example_sentence": "Sen şimdi ileri düzey bilgisayar becerilerine sahip olman lazım değil",
-  "turkish_example_sentence_with_blank": "Sen şimdi ileri düzey bilgisayar becerilerine ______"
+  "english_example_sentence": "You don’t need to have unnecessary worries.",
+  "russian_example_sentence": "Тебе не нужно иметь ненужных беспокойств.",
+  "turkish_example_sentence": "Senin gereksiz endişelere sahip olmaman lazım.",
+  "turkish_example_sentence_with_blank": "Senin gereksiz endişelere ______."
 }

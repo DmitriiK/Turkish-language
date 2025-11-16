@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "düşünmeyecektim",
     "root": "düşün",
-    "tense_affix": "ecek",
+    "tense_affix": "ecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "tim",
+    "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "I wasn't going to sell my house",
-  "russian_example_sentence": "Я не собирался продавать свой дом",
-  "turkish_example_sentence": "Ben eski evimi satmayacaktım",
-  "turkish_example_sentence_with_blank": "Ben eski evimi satmayacaktım"
+  "english_example_sentence": "I was not going to think about the problem",
+  "russian_example_sentence": "Я не собирался думать о проблеме",
+  "turkish_example_sentence": "Ben sorunu düşünmeyecektim",
+  "turkish_example_sentence_with_blank": "Ben sorunu ______"
 }

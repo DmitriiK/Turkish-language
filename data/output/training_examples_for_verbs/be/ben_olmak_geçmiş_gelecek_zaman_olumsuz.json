@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "olmayacaktım",
     "root": "ol",
-    "tense_affix": "acak",
+    "tense_affix": "acaktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "tım",
+    "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I was not going to be late.",
-  "russian_example_sentence": "Я не собирался опаздывать.",
-  "turkish_example_sentence": "Ben o toplantıya asla geç kalmayacaktım.",
-  "turkish_example_sentence_with_blank": "Ben o toplantıya asla geç kalmayacaktım."
+  "english_example_sentence": "I was not going to be there",
+  "russian_example_sentence": "Я не собирался быть там",
+  "turkish_example_sentence": "Ben orada olmayacaktım",
+  "turkish_example_sentence_with_blank": "Ben orada ______"
 }
