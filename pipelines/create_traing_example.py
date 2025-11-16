@@ -1812,36 +1812,99 @@ if __name__ == "__main__":
         # Generate for all levels
         levels = ["A1", "A2", "B1", "B2"]
         print(f"🌍 Generating for ALL language levels: {', '.join(levels)}\n")
+        process_by_verb = True  # Process verb-by-verb across all levels
     else:
         levels = [args.language_level]
+        process_by_verb = False  # Single level, process normally
     
-    # Process each level
-    for level in levels:
-        if len(levels) > 1:
-            print(f"\n{'='*80}")
-            print(f"📚 Processing Language Level: {level}")
-            print(f"{'='*80}\n")
+    if process_by_verb:
+        # New approach: Process each verb across ALL levels before moving to next verb
+        print("📋 Processing strategy: Complete each verb across all levels (A1→A2→B1→B2) before next verb\n")
         
-        # If specific verbs are provided, use them; otherwise use top-n
+        # Load verbs to get the list
+        project_root = Path(__file__).parent.parent
+        verbs_file = project_root / "data" / "input" / "verbs.csv"
+        all_verbs = load_verbs_from_csv(str(verbs_file))
+        
+        # Determine which verbs to process
         if args.verbs:
-            main(
-                language_level=level,
-                specific_verbs=args.verbs,
-                tenses=args.tenses,
-                pronouns=args.pronouns,
-                polarities=args.polarities,
-                provider=args.provider,
-                skip_existing=args.skip_existing
-            )
+            verbs_to_process = args.verbs
+            print(f"Processing {len(verbs_to_process)} specific verbs across all levels\n")
         else:
             top_n = args.top_n_verbs if args.top_n_verbs else 10
-            main(
-                language_level=level,
-                top_n_verbs=top_n,
-                start_from=args.start_from,
-                tenses=args.tenses,
-                pronouns=args.pronouns,
-                polarities=args.polarities,
-                provider=args.provider,
-                skip_existing=args.skip_existing
-            )
+            start_from = args.start_from
+            
+            # Validate and slice
+            if start_from < 1:
+                print("⚠️  Warning: start_from must be >= 1, using 1 instead")
+                start_from = 1
+            if start_from > len(all_verbs):
+                print(f"❌ Error: start_from ({start_from}) exceeds total verbs ({len(all_verbs)})")
+                sys.exit(1)
+            
+            start_idx = start_from - 1
+            end_idx = start_idx + top_n
+            selected_verbs = all_verbs[start_idx:end_idx]
+            verbs_to_process = [v.english for v in selected_verbs]
+            
+            end_position = start_from + len(verbs_to_process) - 1
+            print(f"Processing verbs {start_from} to {end_position} ({len(verbs_to_process)} verbs) across all levels\n")
+        
+        # Process each verb across all levels
+        for verb_idx, verb_name in enumerate(verbs_to_process, 1):
+            print(f"\n{'='*80}")
+            print(f"📌 VERB {verb_idx}/{len(verbs_to_process)}: {verb_name}")
+            print(f"{'='*80}")
+            
+            # Process this verb for each level
+            for level_idx, level in enumerate(levels, 1):
+                print(f"\n  📚 Level {level_idx}/{len(levels)}: {level}")
+                print(f"  {'-'*76}")
+                
+                main(
+                    language_level=level,
+                    specific_verbs=[verb_name],
+                    tenses=args.tenses,
+                    pronouns=args.pronouns,
+                    polarities=args.polarities,
+                    provider=args.provider,
+                    skip_existing=args.skip_existing
+                )
+            
+            print(f"\n  ✅ Completed '{verb_name}' across all {len(levels)} levels")
+        
+        print(f"\n{'='*80}")
+        print(f"🎉 ALL DONE! Processed {len(verbs_to_process)} verbs across {len(levels)} levels")
+        print(f"{'='*80}")
+    
+    else:
+        # Original approach: Process level-by-level (for single level or backward compatibility)
+        for level in levels:
+            if len(levels) > 1:
+                print(f"\n{'='*80}")
+                print(f"📚 Processing Language Level: {level}")
+                print(f"{'='*80}\n")
+            
+            # If specific verbs are provided, use them; otherwise use top-n
+            if args.verbs:
+                main(
+                    language_level=level,
+                    specific_verbs=args.verbs,
+                    tenses=args.tenses,
+                    pronouns=args.pronouns,
+                    polarities=args.polarities,
+                    provider=args.provider,
+                    skip_existing=args.skip_existing
+                )
+            else:
+                top_n = args.top_n_verbs if args.top_n_verbs else 10
+                main(
+                    language_level=level,
+                    top_n_verbs=top_n,
+                    start_from=args.start_from,
+                    tenses=args.tenses,
+                    pronouns=args.pronouns,
+                    polarities=args.polarities,
+                    provider=args.provider,
+                    skip_existing=args.skip_existing
+                )
