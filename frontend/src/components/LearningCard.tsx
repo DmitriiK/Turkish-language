@@ -174,6 +174,12 @@ export const LearningCard: React.FC<LearningCardProps> = ({
       return '';
     }
 
+    // If "Reveal Answer" is checked, don't mark anything as incorrect
+    // because the displayed text is the correct answer by definition
+    if (progress.fullSentence) {
+      return escapeHtml(userInput);
+    }
+
     const targetSentence = getTargetSentence().replace(/\.+$/, ''); // Remove trailing dots
     const verbFull = example.turkish_verb.verb_full;
     const inputLower = userInput.toLowerCase();
