@@ -1,0 +1,20 @@
+{
+  "verb_rank": 60,
+  "verb_english": "stop",
+  "verb_russian": "останавливать",
+  "verb_infinitive": "durmak",
+  "turkish_verb": {
+    "verb_full": "durmamışsak",
+    "root": "dur",
+    "tense_affix": "muşsa",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If we had not stopped the loud music at midnight, the angry neighbors would have called the police",
+  "russian_example_sentence": "Если бы мы не остановили громкую музыку в полночь, злые соседи бы вызвали полицию",
+  "turkish_example_sentence": "Biz gece yarısında yüksek sesi durmamışsak, kızgın komşular polisi çağırırdı",
+  "turkish_example_sentence_with_blank": "Biz gece yarısında yüksek sesi ______, kızgın komşular polisi çağırırdı"
+}

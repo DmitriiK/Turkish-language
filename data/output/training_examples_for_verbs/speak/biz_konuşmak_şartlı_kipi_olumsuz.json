@@ -1,0 +1,20 @@
+{
+  "verb_rank": 62,
+  "verb_english": "speak",
+  "verb_russian": "говорить",
+  "verb_infinitive": "konuşmak",
+  "turkish_verb": {
+    "verb_full": "konuşmazsak",
+    "root": "konuş",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If we don't speak about our problems, they grow bigger",
+  "russian_example_sentence": "Если мы не говорим о наших проблемах, они становятся больше",
+  "turkish_example_sentence": "Biz ağır konuları konuşmazsak, sorunlar daha da büyür",
+  "turkish_example_sentence_with_blank": "Biz ağır konuları ______, sorunlar daha da büyür"
+}

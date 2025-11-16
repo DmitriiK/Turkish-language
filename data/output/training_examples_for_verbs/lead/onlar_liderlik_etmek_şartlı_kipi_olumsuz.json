@@ -1,0 +1,20 @@
+{
+  "verb_rank": 255,
+  "verb_english": "lead",
+  "verb_russian": "вести",
+  "verb_infinitive": "liderlik etmek",
+  "turkish_verb": {
+    "verb_full": "liderlik etmezlerse",
+    "root": "et",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "ler",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If they do not lead the expedition, it will fail",
+  "russian_example_sentence": "Если они не будут руководить экспедицией, она потерпит неудачу",
+  "turkish_example_sentence": "Onlar bu tehlikeli dağ tırmanışına liderlik etmezlerse, misyon başarısız olacak",
+  "turkish_example_sentence_with_blank": "Onlar bu tehlikeli dağ tırmanışına ______, misyon başarısız olacak"
+}

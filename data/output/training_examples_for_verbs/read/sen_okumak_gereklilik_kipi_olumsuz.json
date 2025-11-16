@@ -1,0 +1,20 @@
+{
+  "verb_rank": 63,
+  "verb_english": "read",
+  "verb_russian": "читать",
+  "verb_infinitive": "okumak",
+  "turkish_verb": {
+    "verb_full": "okumaman lazım",
+    "root": "oku",
+    "tense_affix": "ma",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "You should not read those scary stories",
+  "russian_example_sentence": "Тебе не нужно читать те страшные истории",
+  "turkish_example_sentence": "Sen o korkunç hikayeleri okumaman lazım",
+  "turkish_example_sentence_with_blank": "Sen o korkunç hikayeleri ______"
+}

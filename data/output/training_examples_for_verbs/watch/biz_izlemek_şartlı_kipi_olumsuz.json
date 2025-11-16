@@ -1,0 +1,20 @@
+{
+  "verb_rank": 58,
+  "verb_english": "watch",
+  "verb_russian": "смотреть",
+  "verb_infinitive": "izlemek",
+  "turkish_verb": {
+    "verb_full": "izlemezsek",
+    "root": "izle",
+    "tense_affix": "rse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If we do not watch the live concert performance tomorrow",
+  "russian_example_sentence": "Если мы не смотрим живой концерт завтра",
+  "turkish_example_sentence": "Eğer biz yarın canlı müzik konserini izlemezsek, harika bir fırsatı kaçıracağız",
+  "turkish_example_sentence_with_blank": "Eğer biz yarın canlı müzik konserini ______, harika bir fırsatı kaçıracağız"
+}

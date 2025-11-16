@@ -1,0 +1,20 @@
+{
+  "verb_rank": 51,
+  "verb_english": "include",
+  "verb_russian": "включать",
+  "verb_infinitive": "içermek",
+  "turkish_verb": {
+    "verb_full": "içermemeniz lazım",
+    "root": "içer",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "niz",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "You shouldn't include confidential information in public documents",
+  "russian_example_sentence": "Вы не должны включать конфиденциальную информацию в открытые документы",
+  "turkish_example_sentence": "Siz kamuya açık belgelerde gizli bilgileri içermemeniz lazım",
+  "turkish_example_sentence_with_blank": "Siz kamuya açık belgelerde gizli bilgileri ______"
+}

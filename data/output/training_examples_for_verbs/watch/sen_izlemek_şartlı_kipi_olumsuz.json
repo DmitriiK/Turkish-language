@@ -1,0 +1,20 @@
+{
+  "verb_rank": 58,
+  "verb_english": "watch",
+  "verb_russian": "смотреть",
+  "verb_infinitive": "izlemek",
+  "turkish_verb": {
+    "verb_full": "izlemezsen",
+    "root": "izle",
+    "tense_affix": "rse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If you do not watch the important news broadcast carefully",
+  "russian_example_sentence": "Если ты не смотришь важную новостную трансляцию внимательно",
+  "turkish_example_sentence": "Eğer sen önemli haber yayınını dikkatle izlemezsen, önemli bilgileri kaçıracaksın",
+  "turkish_example_sentence_with_blank": "Eğer sen önemli haber yayınını dikkatle ______, önemli bilgileri kaçıracaksın"
+}

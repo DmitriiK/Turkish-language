@@ -1,0 +1,20 @@
+{
+  "verb_rank": 61,
+  "verb_english": "create",
+  "verb_russian": "создавать",
+  "verb_infinitive": "yaratmak",
+  "turkish_verb": {
+    "verb_full": "yaratmaması lazım",
+    "root": "yarat",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": "sı",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "She should not create false misleading information",
+  "russian_example_sentence": "Она не должна создавать ложную вводящую в заблуждение информацию",
+  "turkish_example_sentence": "O yanlış yanıltıcı bilgi yaratmaması lazım",
+  "turkish_example_sentence_with_blank": "O yanlış yanıltıcı bilgi ______"
+}

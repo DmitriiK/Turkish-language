@@ -1,0 +1,20 @@
+{
+  "verb_rank": 51,
+  "verb_english": "include",
+  "verb_russian": "включать",
+  "verb_infinitive": "içermek",
+  "turkish_verb": {
+    "verb_full": "içermezse",
+    "root": "içer",
+    "tense_affix": "se",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If I do not include sugar, the dessert will taste bitter",
+  "russian_example_sentence": "Если я не включу сахар, десерт будет горьким",
+  "turkish_example_sentence": "Ben şeker içermezse, tatlı acı bir tat alır",
+  "turkish_example_sentence_with_blank": "Ben şeker ______, tatlı acı bir tat alır"
+}

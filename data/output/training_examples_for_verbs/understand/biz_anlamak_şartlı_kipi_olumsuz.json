@@ -1,0 +1,20 @@
+{
+  "verb_rank": 57,
+  "verb_english": "understand",
+  "verb_russian": "понимать",
+  "verb_infinitive": "anlamak",
+  "turkish_verb": {
+    "verb_full": "anlamazsak",
+    "root": "anla",
+    "tense_affix": "maz",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If we do not understand the foreign language movie dialogue",
+  "russian_example_sentence": "Если мы не понимаем диалог иностранного фильма",
+  "turkish_example_sentence": "Biz bu İtalyan filminin hızlı konuşmasını anlamazsak, altyazı açarız",
+  "turkish_example_sentence_with_blank": "Biz bu İtalyan filminin hızlı konuşmasını ______, altyazı açarız"
+}

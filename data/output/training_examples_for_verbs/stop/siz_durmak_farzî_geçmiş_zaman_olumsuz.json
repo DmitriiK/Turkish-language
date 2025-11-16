@@ -1,0 +1,20 @@
+{
+  "verb_rank": 60,
+  "verb_english": "stop",
+  "verb_russian": "останавливать",
+  "verb_infinitive": "durmak",
+  "turkish_verb": {
+    "verb_full": "durmamışsanız",
+    "root": "dur",
+    "tense_affix": "muşsa",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If you had not stopped the dangerous experiment in the laboratory, the serious accident would have occurred",
+  "russian_example_sentence": "Если бы вы не остановили опасный эксперимент в лаборатории, серьезная авария бы произошла",
+  "turkish_example_sentence": "Siz laboratuvarda tehlikeli deneyi durmamışsanız, ciddi kaza meydana gelirdi",
+  "turkish_example_sentence_with_blank": "Siz laboratuvarda tehlikeli deneyi ______, ciddi kaza meydana gelirdi"
+}

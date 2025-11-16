@@ -1,0 +1,20 @@
+{
+  "verb_rank": 60,
+  "verb_english": "stop",
+  "verb_russian": "останавливать",
+  "verb_infinitive": "durmak",
+  "turkish_verb": {
+    "verb_full": "durmasın",
+    "root": "dur",
+    "tense_affix": "a",
+    "verb_tense": "istek_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "sın",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "May you not stop the important project work",
+  "russian_example_sentence": "Пусть ты не остановишь важную работу проекта",
+  "turkish_example_sentence": "Sen önemli proje çalışmasını durmasın",
+  "turkish_example_sentence_with_blank": "Sen önemli proje çalışmasını ______"
+}

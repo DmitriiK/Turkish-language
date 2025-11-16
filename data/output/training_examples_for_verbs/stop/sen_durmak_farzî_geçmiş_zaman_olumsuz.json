@@ -1,0 +1,20 @@
+{
+  "verb_rank": 60,
+  "verb_english": "stop",
+  "verb_russian": "останавливать",
+  "verb_infinitive": "durmak",
+  "turkish_verb": {
+    "verb_full": "durmamışsan",
+    "root": "dur",
+    "tense_affix": "muşsa",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If you had not stopped the noisy train, the passengers would have complained loudly",
+  "russian_example_sentence": "Если бы ты не остановил шумный поезд, пассажиры бы громко пожаловались",
+  "turkish_example_sentence": "Sen gürültülü treni durmamışsan, yolcular şiddetle şikayet ederlerdi",
+  "turkish_example_sentence_with_blank": "Sen gürültülü treni ______, yolcular şiddetle şikayet ederlerdi"
+}

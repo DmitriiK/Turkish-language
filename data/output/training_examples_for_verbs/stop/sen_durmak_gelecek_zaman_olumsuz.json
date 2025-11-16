@@ -1,0 +1,20 @@
+{
+  "verb_rank": 60,
+  "verb_english": "stop",
+  "verb_russian": "останавливать",
+  "verb_infinitive": "durmak",
+  "turkish_verb": {
+    "verb_full": "durmayacaksın",
+    "root": "dur",
+    "tense_affix": "acak",
+    "verb_tense": "gelecek_zaman",
+    "personal_pronoun": "sen",
+    "personal_affix": "sın",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "You will not stop the old train at the station",
+  "russian_example_sentence": "Ты не остановишь старый поезд на станции",
+  "turkish_example_sentence": "Sen eski treni istasyonda durmayacaksın",
+  "turkish_example_sentence_with_blank": "Sen eski treni istasyonda ______"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 63,
+  "verb_english": "read",
+  "verb_russian": "читать",
+  "verb_infinitive": "okumak",
+  "turkish_verb": {
+    "verb_full": "okumamalısınız",
+    "root": "oku",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "sınız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "You must not read those inappropriate stories",
+  "russian_example_sentence": "Вы не должны читать эти неподходящие истории",
+  "turkish_example_sentence": "Siz o uygunsuz hikayeleri okumamalısınız",
+  "turkish_example_sentence_with_blank": "Siz o uygunsuz hikayeleri ______"
+}

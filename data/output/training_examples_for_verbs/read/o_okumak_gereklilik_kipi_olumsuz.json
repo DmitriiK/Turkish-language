@@ -1,0 +1,20 @@
+{
+  "verb_rank": 63,
+  "verb_english": "read",
+  "verb_russian": "читать",
+  "verb_infinitive": "okumak",
+  "turkish_verb": {
+    "verb_full": "okumması lazım",
+    "root": "oku",
+    "tense_affix": "ma",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": "sı",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "She should not read that confidential document",
+  "russian_example_sentence": "Ей не нужно читать тот конфиденциальный документ",
+  "turkish_example_sentence": "O gizli belgeyi okumması lazım",
+  "turkish_example_sentence_with_blank": "O gizli belgeyi ______"
+}

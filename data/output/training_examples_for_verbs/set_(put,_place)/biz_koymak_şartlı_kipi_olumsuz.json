@@ -1,0 +1,20 @@
+{
+  "verb_rank": 53,
+  "verb_english": "set",
+  "verb_russian": "ставить",
+  "verb_infinitive": "koymak",
+  "turkish_verb": {
+    "verb_full": "koymazsak",
+    "root": "koy",
+    "tense_affix": "maz",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If we don't set the picnic basket under the big tree, the food will get hot.",
+  "russian_example_sentence": "Если мы не поставим корзину для пикника под большое дерево, еда нагреется.",
+  "turkish_example_sentence": "Biz piknik sepetini büyük ağacın altına koymazsak, yemek ısınır.",
+  "turkish_example_sentence_with_blank": "Biz piknik sepetini büyük ağacın altına ______, yemek ısınır."
+}

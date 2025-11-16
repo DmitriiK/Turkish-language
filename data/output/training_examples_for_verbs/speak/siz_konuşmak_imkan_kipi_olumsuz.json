@@ -1,0 +1,20 @@
+{
+  "verb_rank": 62,
+  "verb_english": "speak",
+  "verb_russian": "говорить",
+  "verb_infinitive": "konuşmak",
+  "turkish_verb": {
+    "verb_full": "konuşamazsınız",
+    "root": "konuş",
+    "tense_affix": "ama",
+    "verb_tense": "imkan_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "sınız",
+    "polarity": "negative",
+    "negative_affix": "ama"
+  },
+  "english_example_sentence": "You cannot speak without permission",
+  "russian_example_sentence": "Вы не можете говорить без разрешения",
+  "turkish_example_sentence": "Siz resmi toplantıda izin olmadan konuşamazsınız",
+  "turkish_example_sentence_with_blank": "Siz resmi toplantıda izin olmadan ______"
+}

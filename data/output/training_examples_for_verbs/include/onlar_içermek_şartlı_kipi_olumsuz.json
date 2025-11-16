@@ -1,0 +1,20 @@
+{
+  "verb_rank": 51,
+  "verb_english": "include",
+  "verb_russian": "включать",
+  "verb_infinitive": "içermek",
+  "turkish_verb": {
+    "verb_full": "içermezlerse",
+    "root": "içer",
+    "tense_affix": "se",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "ler",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If they do not include safety measures, the construction project becomes dangerous",
+  "russian_example_sentence": "Если они не включат меры безопасности, строительный проект становится опасным",
+  "turkish_example_sentence": "Onlar güvenlik önlemlerini içermezlerse, inşaat projesi tehlikeli hale gelir",
+  "turkish_example_sentence_with_blank": "Onlar güvenlik önlemlerini ______, inşaat projesi tehlikeli hale gelir"
+}

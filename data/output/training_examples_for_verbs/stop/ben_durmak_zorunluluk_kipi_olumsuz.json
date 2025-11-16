@@ -1,0 +1,20 @@
+{
+  "verb_rank": 60,
+  "verb_english": "stop",
+  "verb_russian": "останавливать",
+  "verb_infinitive": "durmak",
+  "turkish_verb": {
+    "verb_full": "durmamalıyım",
+    "root": "dur",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "yım",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "I must not stop the important project",
+  "russian_example_sentence": "Я не должен останавливать важный проект",
+  "turkish_example_sentence": "Ben önemli projeyi durmamalıyım",
+  "turkish_example_sentence_with_blank": "Ben önemli projeyi ______"
+}

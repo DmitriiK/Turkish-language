@@ -1,0 +1,20 @@
+{
+  "verb_rank": 51,
+  "verb_english": "include",
+  "verb_russian": "включать",
+  "verb_infinitive": "içermek",
+  "turkish_verb": {
+    "verb_full": "içermezsen",
+    "root": "içer",
+    "tense_affix": "se",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If you do not include your contact details, employers cannot reach you",
+  "russian_example_sentence": "Если ты не включишь свои контактные данные, работодатели не смогут связаться с тобой",
+  "turkish_example_sentence": "Sen iletişim bilgilerini içermezsen, işverenler sana ulaşamaz",
+  "turkish_example_sentence_with_blank": "Sen iletişim bilgilerini ______, işverenler sana ulaşamaz"
+}

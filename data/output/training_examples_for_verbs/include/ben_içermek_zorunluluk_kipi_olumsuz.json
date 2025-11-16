@@ -1,0 +1,20 @@
+{
+  "verb_rank": 51,
+  "verb_english": "include",
+  "verb_russian": "включать",
+  "verb_infinitive": "içermek",
+  "turkish_verb": {
+    "verb_full": "içermemeliyin",
+    "root": "içer",
+    "tense_affix": "memeli",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "yim",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "I must not include personal information in this document",
+  "russian_example_sentence": "Я не должен включать личную информацию в этот документ",
+  "turkish_example_sentence": "Ben bu belgede kişisel bilgileri içermemeliyin",
+  "turkish_example_sentence_with_blank": "Ben bu belgede kişisel bilgileri ______"
+}

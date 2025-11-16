@@ -1,0 +1,20 @@
+{
+  "verb_rank": 51,
+  "verb_english": "include",
+  "verb_russian": "включать",
+  "verb_infinitive": "içermek",
+  "turkish_verb": {
+    "verb_full": "içermemesi lazım",
+    "root": "içer",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": "si",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "The menu shouldn't include expired dairy products",
+  "russian_example_sentence": "Меню не должно включать просроченные молочные продукты",
+  "turkish_example_sentence": "Menü eski süt ürünlerini içermemesi lazım",
+  "turkish_example_sentence_with_blank": "Menü eski süt ürünlerini ______"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 60,
+  "verb_english": "stop",
+  "verb_russian": "останавливать",
+  "verb_infinitive": "durmak",
+  "turkish_verb": {
+    "verb_full": "durmuşsanız",
+    "root": "dur",
+    "tense_affix": "muşsa",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If you had stopped the expensive project at the beginning, the company would have saved significant money",
+  "russian_example_sentence": "Если бы вы остановили дорогостоящий проект в начале, компания бы сэкономила значительные деньги",
+  "turkish_example_sentence": "Siz başında pahalı projeyi durmuşsanız, şirket önemli para tasarruf ederdi",
+  "turkish_example_sentence_with_blank": "Siz başında pahalı projeyi ______, şirket önemli para tasarruf ederdi"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 58,
+  "verb_english": "watch",
+  "verb_russian": "смотреть",
+  "verb_infinitive": "izlemek",
+  "turkish_verb": {
+    "verb_full": "izlemezseniz",
+    "root": "izle",
+    "tense_affix": "se",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "niz",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If you do not watch the weather forecast, you will not prepare properly",
+  "russian_example_sentence": "Если вы не будете смотреть прогноз погоды, вы не подготовитесь правильно",
+  "turkish_example_sentence": "Siz meteoroloji tahminini izlemezseniz, hava koşullarına hazırlık yapamazsınız",
+  "turkish_example_sentence_with_blank": "Siz meteoroloji tahminini ______, hava koşullarına hazırlık yapamazsınız"
+}

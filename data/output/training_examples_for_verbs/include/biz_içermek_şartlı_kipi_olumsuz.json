@@ -1,0 +1,20 @@
+{
+  "verb_rank": 51,
+  "verb_english": "include",
+  "verb_russian": "включать",
+  "verb_infinitive": "içermek",
+  "turkish_verb": {
+    "verb_full": "içermezse",
+    "root": "içer",
+    "tense_affix": "se",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If we do not include exercise routines, our fitness goals fail",
+  "russian_example_sentence": "Если мы не включим упражнения, наши цели по фитнесу не достигнут",
+  "turkish_example_sentence": "Biz egzersiz rutinlerini içermezse, fitness hedeflerimiz başarısız olur",
+  "turkish_example_sentence_with_blank": "Biz egzersiz rutinlerini ______, fitness hedeflerimiz başarısız olur"
+}

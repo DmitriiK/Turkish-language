@@ -1,0 +1,20 @@
+{
+  "verb_rank": 62,
+  "verb_english": "speak",
+  "verb_russian": "говорить",
+  "verb_infinitive": "konuşmak",
+  "turkish_verb": {
+    "verb_full": "konuşmamaları lazım",
+    "root": "konuş",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "ları",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "They should not speak about private information",
+  "russian_example_sentence": "Они не должны говорить о личной информации",
+  "turkish_example_sentence": "Onlar kişisel ve hassas bilgileri konuşmamaları lazım",
+  "turkish_example_sentence_with_blank": "Onlar kişisel ve hassas bilgileri ______"
+}

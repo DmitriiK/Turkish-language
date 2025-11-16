@@ -1,0 +1,20 @@
+{
+  "verb_rank": 54,
+  "verb_english": "learn",
+  "verb_russian": "учить(ся)",
+  "verb_infinitive": "öğrenmek",
+  "turkish_verb": {
+    "verb_full": "öğrenmezsen",
+    "root": "öğren",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If you do not learn English, you cannot work abroad",
+  "russian_example_sentence": "Если ты не выучишь английский, ты не сможешь работать за границей",
+  "turkish_example_sentence": "Sen İngilizce öğrenmezsens, yurt dışında çalışamazsın",
+  "turkish_example_sentence_with_blank": "Sen İngilizce ______s, yurt dışında çalışamazsın"
+}

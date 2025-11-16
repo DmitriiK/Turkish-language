@@ -1,0 +1,20 @@
+{
+  "verb_rank": 63,
+  "verb_english": "read",
+  "verb_russian": "читать",
+  "verb_infinitive": "okumak",
+  "turkish_verb": {
+    "verb_full": "okumazsa",
+    "root": "oku",
+    "tense_affix": "maz",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If you do not read the contract terms carefully, you will regret it",
+  "russian_example_sentence": "Если вы не прочитаете условия контракта внимательно, вы пожалеете",
+  "turkish_example_sentence": "Siz sözleşme şartlarını dikkatle okumazsanız, pişman olacaksınız",
+  "turkish_example_sentence_with_blank": "Siz sözleşme şartlarını dikkatle ______nız, pişman olacaksınız"
+}

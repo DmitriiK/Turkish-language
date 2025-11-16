@@ -1,0 +1,20 @@
+{
+  "verb_rank": 60,
+  "verb_english": "stop",
+  "verb_russian": "останавливать",
+  "verb_infinitive": "durmak",
+  "turkish_verb": {
+    "verb_full": "durmaması lazım",
+    "root": "dur",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "mız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "We should not stop the interesting educational program",
+  "russian_example_sentence": "Мы не должны останавливать интересную образовательную программу",
+  "turkish_example_sentence": "Biz ilginç eğitim programını durmaması lazım",
+  "turkish_example_sentence_with_blank": "Biz ilginç eğitim programını ______"
+}

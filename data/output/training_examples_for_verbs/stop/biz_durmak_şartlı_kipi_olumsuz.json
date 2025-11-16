@@ -1,0 +1,20 @@
+{
+  "verb_rank": 60,
+  "verb_english": "stop",
+  "verb_russian": "останавливать",
+  "verb_infinitive": "durmak",
+  "turkish_verb": {
+    "verb_full": "durmazsak",
+    "root": "dur",
+    "tense_affix": "maz",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If we do not stop wasting money, we will go bankrupt",
+  "russian_example_sentence": "Если мы не перестанем тратить деньги, мы разоримся",
+  "turkish_example_sentence": "Eğer biz pahalı harcamaları durmazsak, iflas edeceğiz",
+  "turkish_example_sentence_with_blank": "Eğer biz pahalı harcamaları ______, iflas edeceğiz"
+}

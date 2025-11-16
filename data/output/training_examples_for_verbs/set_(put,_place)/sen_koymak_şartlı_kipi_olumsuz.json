@@ -1,0 +1,20 @@
+{
+  "verb_rank": 53,
+  "verb_english": "set",
+  "verb_russian": "ставить",
+  "verb_infinitive": "koymak",
+  "turkish_verb": {
+    "verb_full": "koymazsan",
+    "root": "koy",
+    "tense_affix": "maz",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If you don't place the fresh flowers on the table, they'll wilt quickly.",
+  "russian_example_sentence": "Если ты не поставишь свежие цветы на стол, они быстро завянут.",
+  "turkish_example_sentence": "Sen taze çiçekleri masaya koymazsan, hızla solacak.",
+  "turkish_example_sentence_with_blank": "Sen taze çiçekleri masaya ______, hızla solacak."
+}

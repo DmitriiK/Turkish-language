@@ -1,0 +1,20 @@
+{
+  "verb_rank": 60,
+  "verb_english": "stop",
+  "verb_russian": "останавливать",
+  "verb_infinitive": "durmak",
+  "turkish_verb": {
+    "verb_full": "durmamışlarsa",
+    "root": "dur",
+    "tense_affix": "muşsa",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "onlar",
+    "personal_affix": "lar",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If they had not stopped the heavy rain yesterday, the beautiful garden would have been completely destroyed",
+  "russian_example_sentence": "Если бы они не остановили сильный дождь вчера, красивый сад был бы полностью разрушен",
+  "turkish_example_sentence": "Onlar dün şiddetli yağmuru durmamışlarsa, güzel bahçe tamamen yok olurdu",
+  "turkish_example_sentence_with_blank": "Onlar dün şiddetli yağmuru ______, güzel bahçe tamamen yok olurdu"
+}

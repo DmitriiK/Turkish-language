@@ -1,0 +1,20 @@
+{
+  "verb_rank": 60,
+  "verb_english": "stop",
+  "verb_russian": "останавливать",
+  "verb_infinitive": "durmak",
+  "turkish_verb": {
+    "verb_full": "durarsa",
+    "root": "dur",
+    "tense_affix": "ar",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If he stops the dangerous experiment, we will be safe",
+  "russian_example_sentence": "Если он остановит опасный эксперимент, мы будем в безопасности",
+  "turkish_example_sentence": "Eğer o riskli deneyi durarsa, güvenli bir ortam oluşacak",
+  "turkish_example_sentence_with_blank": "Eğer o riskli deneyi ______, güvenli bir ortam oluşacak"
+}

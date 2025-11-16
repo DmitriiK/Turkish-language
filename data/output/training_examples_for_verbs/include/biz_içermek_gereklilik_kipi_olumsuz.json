@@ -1,0 +1,20 @@
+{
+  "verb_rank": 51,
+  "verb_english": "include",
+  "verb_russian": "включать",
+  "verb_infinitive": "içermek",
+  "turkish_verb": {
+    "verb_full": "içermememiz lazım",
+    "root": "içer",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "mız",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "We shouldn't include unnecessary technical jargon in our presentation",
+  "russian_example_sentence": "Мы не должны включать ненужный технический жаргон в нашу презентацию",
+  "turkish_example_sentence": "Biz sunumumuzda gereksiz teknik terimleri içermememiz lazım",
+  "turkish_example_sentence_with_blank": "Biz sunumumuzda gereksiz teknik terimleri ______"
+}

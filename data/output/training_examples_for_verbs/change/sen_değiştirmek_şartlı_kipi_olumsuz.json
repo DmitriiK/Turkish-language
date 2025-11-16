@@ -1,0 +1,20 @@
+{
+  "verb_rank": 55,
+  "verb_english": "change",
+  "verb_russian": "менять",
+  "verb_infinitive": "değiştirmek",
+  "turkish_verb": {
+    "verb_full": "değiştirmezsen",
+    "root": "değiştir",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If you do not change your study habits, you will fail the exam",
+  "russian_example_sentence": "Если ты не изменишь свои привычки учебы, ты не сдашь экзамен",
+  "turkish_example_sentence": "Sen çalışma alışkanlıklarını değiştirmezsen, sınavı geçemeyeceksin",
+  "turkish_example_sentence_with_blank": "Sen çalışma alışkanlıklarını ______, sınavı geçemeyeceksin"
+}

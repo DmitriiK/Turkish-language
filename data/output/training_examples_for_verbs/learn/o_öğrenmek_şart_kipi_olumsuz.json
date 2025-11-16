@@ -1,0 +1,20 @@
+{
+  "verb_rank": 54,
+  "verb_english": "learn",
+  "verb_russian": "учить(ся)",
+  "verb_infinitive": "öğrenmek",
+  "turkish_verb": {
+    "verb_full": "öğrenemezse",
+    "root": "öğren",
+    "tense_affix": "se",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If he cannot learn the ancient Greek alphabet, he will need extra tutoring",
+  "russian_example_sentence": "Если он не сможет выучить древний греческий алфавит, ему понадобится дополнительное обучение",
+  "turkish_example_sentence": "O eski Yunan alfabesini öğrenemezse, ekstra özel ders alması gerekecek",
+  "turkish_example_sentence_with_blank": "O eski Yunan alfabesini ______, ekstra özel ders alması gerekecek"
+}

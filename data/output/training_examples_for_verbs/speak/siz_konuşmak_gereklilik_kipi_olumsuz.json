@@ -1,0 +1,20 @@
+{
+  "verb_rank": 62,
+  "verb_english": "speak",
+  "verb_russian": "говорить",
+  "verb_infinitive": "konuşmak",
+  "turkish_verb": {
+    "verb_full": "konuşmamanız lazım",
+    "root": "konuş",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "You should not speak out of turn in class",
+  "russian_example_sentence": "Вы не должны говорить без разрешения на уроке",
+  "turkish_example_sentence": "Siz sınıfta izin olmadan sıra dışı konuşmamanız lazım",
+  "turkish_example_sentence_with_blank": "Siz sınıfta izin olmadan sıra dışı ______"
+}

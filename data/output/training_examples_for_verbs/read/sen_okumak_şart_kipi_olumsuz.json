@@ -1,0 +1,20 @@
+{
+  "verb_rank": 63,
+  "verb_english": "read",
+  "verb_russian": "читать",
+  "verb_infinitive": "okumak",
+  "turkish_verb": {
+    "verb_full": "okumaysan",
+    "root": "oku",
+    "tense_affix": "sa",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If you don't read the instructions carefully, you might make mistakes",
+  "russian_example_sentence": "Если ты не прочитаешь инструкции внимательно, ты можешь ошибиться",
+  "turkish_example_sentence": "Sen talimatları dikkatle okumaysan, hata yapabilirsin",
+  "turkish_example_sentence_with_blank": "Sen talimatları dikkatle ______, hata yapabilirsin"
+}

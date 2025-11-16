@@ -1,0 +1,20 @@
+{
+  "verb_rank": 54,
+  "verb_english": "learn",
+  "verb_russian": "учить(ся)",
+  "verb_infinitive": "öğrenmek",
+  "turkish_verb": {
+    "verb_full": "öğrenmemelisin",
+    "root": "öğren",
+    "tense_affix": "meli",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "sin",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "You must not learn incorrect historical facts from unreliable sources",
+  "russian_example_sentence": "Ты не должен учить неправильные исторические факты из ненадежных источников",
+  "turkish_example_sentence": "Sen güvenilmez kaynaklardan yanlış tarihsel bilgileri öğrenmemelisin",
+  "turkish_example_sentence_with_blank": "Sen güvenilmez kaynaklardan yanlış tarihsel bilgileri ______"
+}

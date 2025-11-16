@@ -1,0 +1,20 @@
+{
+  "verb_rank": 255,
+  "verb_english": "lead",
+  "verb_russian": "вести",
+  "verb_infinitive": "liderlik etmek",
+  "turkish_verb": {
+    "verb_full": "liderlik etmezse",
+    "root": "et",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If I do not lead the team, chaos will happen",
+  "russian_example_sentence": "Если я не буду руководить командой, произойдёт хаос",
+  "turkish_example_sentence": "Ben genç takıma liderlik etmezsem, sorunlar ortaya çıkacak",
+  "turkish_example_sentence_with_blank": "Ben genç takıma ______m, sorunlar ortaya çıkacak"
+}

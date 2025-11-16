@@ -1,0 +1,20 @@
+{
+  "verb_rank": 54,
+  "verb_english": "learn",
+  "verb_russian": "учить(ся)",
+  "verb_infinitive": "öğrenmek",
+  "turkish_verb": {
+    "verb_full": "öğrenmezsek",
+    "root": "öğren",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If we do not learn history, we will forget our culture",
+  "russian_example_sentence": "Если мы не выучим историю, мы забудем нашу культуру",
+  "turkish_example_sentence": "Biz tarihi öğrenmezsek, kültürümüzü unutacağız",
+  "turkish_example_sentence_with_blank": "Biz tarihi ______, kültürümüzü unutacağız"
+}

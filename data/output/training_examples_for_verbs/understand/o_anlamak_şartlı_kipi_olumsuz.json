@@ -1,0 +1,20 @@
+{
+  "verb_rank": 57,
+  "verb_english": "understand",
+  "verb_russian": "понимать",
+  "verb_infinitive": "anlamak",
+  "turkish_verb": {
+    "verb_full": "anlamazsa",
+    "root": "anla",
+    "tense_affix": "maz",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If he does not understand the complex mathematical equation",
+  "russian_example_sentence": "Если он не понимает сложное математическое уравнение",
+  "turkish_example_sentence": "O erkek öğrenci bu zor formülü anlamazsa, özel ders almalı",
+  "turkish_example_sentence_with_blank": "O erkek öğrenci bu zor formülü ______, özel ders almalı"
+}

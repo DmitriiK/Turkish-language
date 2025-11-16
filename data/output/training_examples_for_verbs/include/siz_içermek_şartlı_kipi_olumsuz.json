@@ -1,0 +1,20 @@
+{
+  "verb_rank": 51,
+  "verb_english": "include",
+  "verb_russian": "включать",
+  "verb_infinitive": "içermek",
+  "turkish_verb": {
+    "verb_full": "içermezseniz",
+    "root": "içer",
+    "tense_affix": "se",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "niz",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If you do not include proper citations, your academic work lacks credibility",
+  "russian_example_sentence": "Если вы не включите правильные ссылки, ваша академическая работа теряет достоверность",
+  "turkish_example_sentence": "Siz uygun atıfları içermezseniz, akademik çalışmanız güvenilirliğini kaybeder",
+  "turkish_example_sentence_with_blank": "Siz uygun atıfları ______, akademik çalışmanız güvenilirliğini kaybeder"
+}

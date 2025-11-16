@@ -1,0 +1,20 @@
+{
+  "verb_rank": 62,
+  "verb_english": "speak",
+  "verb_russian": "говорить",
+  "verb_infinitive": "konuşmak",
+  "turkish_verb": {
+    "verb_full": "konuşmamam lazım",
+    "root": "konuş",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "I should not speak loudly in the library",
+  "russian_example_sentence": "Я не должен громко говорить в библиотеке",
+  "turkish_example_sentence": "Ben kütüphanede yüksek sesle konuşmamam lazım",
+  "turkish_example_sentence_with_blank": "Ben kütüphanede yüksek sesle ______"
+}

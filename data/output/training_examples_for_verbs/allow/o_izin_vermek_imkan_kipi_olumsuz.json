@@ -1,0 +1,20 @@
+{
+  "verb_rank": 64,
+  "verb_english": "allow",
+  "verb_russian": "разрешать",
+  "verb_infinitive": "izin vermek",
+  "turkish_verb": {
+    "verb_full": "izin veremez",
+    "root": "izin ver",
+    "tense_affix": "eme",
+    "verb_tense": "imkan_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": "z",
+    "polarity": "negative",
+    "negative_affix": "eme"
+  },
+  "english_example_sentence": "The security guard cannot allow unauthorized people into the restricted area",
+  "russian_example_sentence": "Охранник не может позволить неавторизованным людям входить в закрытую зону",
+  "turkish_example_sentence": "Güvenlik görevlisi yetkisiz kişileri kısıtlı alana izin veremez",
+  "turkish_example_sentence_with_blank": "Güvenlik görevlisi yetkisiz kişileri kısıtlı alana ______"
+}

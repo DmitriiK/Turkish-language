@@ -1,0 +1,20 @@
+{
+  "verb_rank": 51,
+  "verb_english": "include",
+  "verb_russian": "включать",
+  "verb_infinitive": "içermek",
+  "turkish_verb": {
+    "verb_full": "içermeseniz",
+    "root": "içer",
+    "tense_affix": "se",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "niz",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If you do not include warranty information in the contract",
+  "russian_example_sentence": "Если вы не включите информацию о гарантии в контракт",
+  "turkish_example_sentence": "Siz garanti bilgisini sözleşmeye içermeseniz sorun çıkabilir",
+  "turkish_example_sentence_with_blank": "Siz garanti bilgisini sözleşmeye ______ sorun çıkabilir"
+}

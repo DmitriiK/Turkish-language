@@ -1,0 +1,20 @@
+{
+  "verb_rank": 54,
+  "verb_english": "learn",
+  "verb_russian": "учить(ся)",
+  "verb_infinitive": "öğrenmek",
+  "turkish_verb": {
+    "verb_full": "öğrenemezsek",
+    "root": "öğren",
+    "tense_affix": "se",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If we cannot learn the complex musical theory, we will practice more",
+  "russian_example_sentence": "Если мы не сможем выучить сложную музыкальную теорию, мы будем больше практиковаться",
+  "turkish_example_sentence": "Biz karmaşık müzik teorisini öğrenemezsek, daha fazla pratik yapacağız",
+  "turkish_example_sentence_with_blank": "Biz karmaşık müzik teorisini ______, daha fazla pratik yapacağız"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 51,
+  "verb_english": "include",
+  "verb_russian": "включать",
+  "verb_infinitive": "içermek",
+  "turkish_verb": {
+    "verb_full": "içermemem lazım",
+    "root": "içer",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "I don't need to include artificial flavors in the recipe",
+  "russian_example_sentence": "Я не должна включать искусственные ароматизаторы в рецепт",
+  "turkish_example_sentence": "Ben yapay aromaları tarife içermemem lazım",
+  "turkish_example_sentence_with_blank": "Ben yapay aromaları tarife ______"
+}

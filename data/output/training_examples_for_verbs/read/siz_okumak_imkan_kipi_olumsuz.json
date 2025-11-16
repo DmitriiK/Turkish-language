@@ -1,0 +1,20 @@
+{
+  "verb_rank": 63,
+  "verb_english": "read",
+  "verb_russian": "читать",
+  "verb_infinitive": "okumak",
+  "turkish_verb": {
+    "verb_full": "okuyamayız",
+    "root": "oku",
+    "tense_affix": "yama",
+    "verb_tense": "imkan_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "yız",
+    "polarity": "negative",
+    "negative_affix": "yama"
+  },
+  "english_example_sentence": "You cannot read that blurry faded letter properly",
+  "russian_example_sentence": "Вы не можете правильно читать то размытое выцветшее письмо",
+  "turkish_example_sentence": "Siz o bulanık solmuş mektubu düzgün bir şekilde okuyamayız",
+  "turkish_example_sentence_with_blank": "Siz o bulanık solmuş mektubu düzgün bir şekilde ______"
+}

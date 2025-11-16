@@ -1,0 +1,20 @@
+{
+  "verb_rank": 255,
+  "verb_english": "lead",
+  "verb_russian": "вести",
+  "verb_infinitive": "liderlik etmek",
+  "turkish_verb": {
+    "verb_full": "liderlik etmezsek",
+    "root": "et",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If we do not lead the movement, others will take control",
+  "russian_example_sentence": "Если мы не будем руководить движением, другие возьмут контроль",
+  "turkish_example_sentence": "Biz bu önemli sosyal harekete liderlik etmezsek, rakip gruplar güç kazanacak",
+  "turkish_example_sentence_with_blank": "Biz bu önemli sosyal harekete ______, rakip gruplar güç kazanacak"
+}

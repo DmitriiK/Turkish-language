@@ -1,0 +1,20 @@
+{
+  "verb_rank": 57,
+  "verb_english": "understand",
+  "verb_russian": "понимать",
+  "verb_infinitive": "anlamak",
+  "turkish_verb": {
+    "verb_full": "anlamazsanız",
+    "root": "anla",
+    "tense_affix": "maz",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If you do not understand the technical computer manual",
+  "russian_example_sentence": "Если вы не понимаете техническое руководство компьютера",
+  "turkish_example_sentence": "Siz bu yeni yazılımın karışık kullanım kılavuzunu anlamazsanız, destek ekibini arayın",
+  "turkish_example_sentence_with_blank": "Siz bu yeni yazılımın karışık kullanım kılavuzunu ______, destek ekibini arayın"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 61,
+  "verb_english": "create",
+  "verb_russian": "создавать",
+  "verb_infinitive": "yaratmak",
+  "turkish_verb": {
+    "verb_full": "yaratmadığımızda",
+    "root": "yarat",
+    "tense_affix": "madığ",
+    "verb_tense": "zaman_sıfatı",
+    "personal_pronoun": "biz",
+    "personal_affix": "ımızda",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "When we don't create safe environments, children feel anxious",
+  "russian_example_sentence": "Когда мы не создаём безопасную среду, дети чувствуют беспокойство",
+  "turkish_example_sentence": "Biz güvenli ortamlar yaratmadığımızda, çocuklar endişeli hissediyorlar",
+  "turkish_example_sentence_with_blank": "Biz güvenli ortamlar ______, çocuklar endişeli hissediyorlar"
+}

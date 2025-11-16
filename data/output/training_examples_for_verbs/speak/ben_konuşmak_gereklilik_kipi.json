@@ -1,0 +1,20 @@
+{
+  "verb_rank": 62,
+  "verb_english": "speak",
+  "verb_russian": "говорить",
+  "verb_infinitive": "konuşmak",
+  "turkish_verb": {
+    "verb_full": "konuşmam lazım",
+    "root": "konuş",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "I need to speak with the manager today",
+  "russian_example_sentence": "Мне нужно поговорить с менеджером сегодня",
+  "turkish_example_sentence": "Ben bugün müdürle önemli konuşmam lazım",
+  "turkish_example_sentence_with_blank": "Ben bugün müdürle önemli ______"
+}

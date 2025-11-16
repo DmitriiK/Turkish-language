@@ -1,0 +1,20 @@
+{
+  "verb_rank": 61,
+  "verb_english": "create",
+  "verb_russian": "создавать",
+  "verb_infinitive": "yaratmak",
+  "turkish_verb": {
+    "verb_full": "yaratmazsak",
+    "root": "yarat",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If we don't create sustainable solutions, the environment will suffer",
+  "russian_example_sentence": "Если мы не создадим устойчивые решения, окружающая среда пострадает",
+  "turkish_example_sentence": "Biz sürdürülebilir çözüm yaratmazsak, çevre zarar görecek",
+  "turkish_example_sentence_with_blank": "Biz sürdürülebilir çözüm ______, çevre zarar görecek"
+}

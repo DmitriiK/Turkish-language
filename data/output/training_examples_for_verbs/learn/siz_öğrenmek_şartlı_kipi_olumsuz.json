@@ -1,0 +1,20 @@
+{
+  "verb_rank": 54,
+  "verb_english": "learn",
+  "verb_russian": "учить(ся)",
+  "verb_infinitive": "öğrenmek",
+  "turkish_verb": {
+    "verb_full": "öğrenmezseniz",
+    "root": "öğren",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "niz",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If you do not learn music theory, you cannot compose songs",
+  "russian_example_sentence": "Если вы не выучите теорию музыки, вы не сможете писать песни",
+  "turkish_example_sentence": "Siz müzik teorisini öğrenmezseniz, şarkı bestelleyemezsiniz",
+  "turkish_example_sentence_with_blank": "Siz müzik teorisini ______, şarkı bestelleyemezsiniz"
+}

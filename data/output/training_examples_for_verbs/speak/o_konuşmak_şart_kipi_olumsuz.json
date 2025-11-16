@@ -1,0 +1,20 @@
+{
+  "verb_rank": 62,
+  "verb_english": "speak",
+  "verb_russian": "говорить",
+  "verb_infinitive": "konuşmak",
+  "turkish_verb": {
+    "verb_full": "konuşmasa",
+    "root": "konuş",
+    "tense_affix": "sa",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If she did not speak about the secret, nobody would know",
+  "russian_example_sentence": "Если бы она не говорила о секрете, никто бы не узнал",
+  "turkish_example_sentence": "O gizli konuyu konuşmasa, hiç kimse öğrenmezdi",
+  "turkish_example_sentence_with_blank": "O gizli konuyu ______, hiç kimse öğrenmezdi"
+}

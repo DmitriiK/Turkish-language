@@ -1,0 +1,20 @@
+{
+  "verb_rank": 63,
+  "verb_english": "read",
+  "verb_russian": "читать",
+  "verb_infinitive": "okumak",
+  "turkish_verb": {
+    "verb_full": "okumamışsanız",
+    "root": "oku",
+    "tense_affix": "muşsa",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If you had not read that critical health warning yesterday",
+  "russian_example_sentence": "Если бы вы не прочитали то критическое предупреждение о здоровье вчера",
+  "turkish_example_sentence": "Eğer siz dün o kritik sağlık uyarısını okumamışsanız, tehlike atlatmazdınız",
+  "turkish_example_sentence_with_blank": "Eğer siz dün o kritik sağlık uyarısını ______, tehlike atlatmazdınız"
+}

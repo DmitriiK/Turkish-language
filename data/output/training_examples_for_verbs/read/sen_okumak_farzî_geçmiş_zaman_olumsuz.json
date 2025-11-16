@@ -1,0 +1,20 @@
+{
+  "verb_rank": 63,
+  "verb_english": "read",
+  "verb_russian": "читать",
+  "verb_infinitive": "okumak",
+  "turkish_verb": {
+    "verb_full": "okumamışsan",
+    "root": "oku",
+    "tense_affix": "muşsa",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If you had not read that confusing scientific article thoroughly",
+  "russian_example_sentence": "Если бы ты не прочитал ту запутанную научную статью тщательно",
+  "turkish_example_sentence": "Eğer sen o kafa karıştırıcı bilimsel makaleyi iyice okumamışsan, yanılırdın",
+  "turkish_example_sentence_with_blank": "Eğer sen o kafa karıştırıcı bilimsel makaleyi iyice ______, yanılırdın"
+}

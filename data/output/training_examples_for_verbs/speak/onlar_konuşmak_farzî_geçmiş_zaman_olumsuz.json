@@ -1,0 +1,20 @@
+{
+  "verb_rank": 62,
+  "verb_english": "speak",
+  "verb_russian": "говорить",
+  "verb_infinitive": "konuşmak",
+  "turkish_verb": {
+    "verb_full": "konuşmamışlarsa",
+    "root": "konuş",
+    "tense_affix": "muşsa",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "onlar",
+    "personal_affix": "lar",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If they had not spoken about the incident",
+  "russian_example_sentence": "Если бы они не говорили об инциденте",
+  "turkish_example_sentence": "Eğer onlar olaydan konuşmamışlarsa, kimse bilmezdi",
+  "turkish_example_sentence_with_blank": "Eğer onlar olaydan ______, kimse bilmezdi"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 63,
+  "verb_english": "read",
+  "verb_russian": "читать",
+  "verb_infinitive": "okumak",
+  "turkish_verb": {
+    "verb_full": "okumasam",
+    "root": "oku",
+    "tense_affix": "sa",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If I don't read this important document, I will miss crucial information",
+  "russian_example_sentence": "Если я не прочитаю этот важный документ, я упущу важную информацию",
+  "turkish_example_sentence": "Ben bu önemli belgeyi okumasam, kritik bilgileri kaçıracağım",
+  "turkish_example_sentence_with_blank": "Ben bu önemli belgeyi ______, kritik bilgileri kaçıracağım"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 52,
+  "verb_english": "continue",
+  "verb_russian": "продолжать",
+  "verb_infinitive": "devam etmek",
+  "turkish_verb": {
+    "verb_full": "devam etmezse",
+    "root": "devam et",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If she does not continue helping, the project will fail",
+  "russian_example_sentence": "Если она не будет продолжать помогать, проект потерпит неудачу",
+  "turkish_example_sentence": "Eğer o sosyal yardım faaliyetini devam etmezse, toplum zarar görecek",
+  "turkish_example_sentence_with_blank": "Eğer o sosyal yardım faaliyetini ______, toplum zarar görecek"
+}

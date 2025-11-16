@@ -1,0 +1,20 @@
+{
+  "verb_rank": 52,
+  "verb_english": "continue",
+  "verb_russian": "продолжать",
+  "verb_infinitive": "devam etmek",
+  "turkish_verb": {
+    "verb_full": "devam etmezsek",
+    "root": "devam et",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If we do not continue communicating, we will grow apart",
+  "russian_example_sentence": "Если мы не будем продолжать общаться, мы отдалимся друг от друга",
+  "turkish_example_sentence": "Eğer biz samimi konuşmayı devam etmezsek, uzaklaşacağız",
+  "turkish_example_sentence_with_blank": "Eğer biz samimi konuşmayı ______, uzaklaşacağız"
+}

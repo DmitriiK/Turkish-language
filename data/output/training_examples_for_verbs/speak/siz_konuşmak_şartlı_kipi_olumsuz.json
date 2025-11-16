@@ -1,0 +1,20 @@
+{
+  "verb_rank": 62,
+  "verb_english": "speak",
+  "verb_russian": "говорить",
+  "verb_infinitive": "konuşmak",
+  "turkish_verb": {
+    "verb_full": "konuşmazsanız",
+    "root": "konuş",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If you don't speak your mind, resentment builds silently",
+  "russian_example_sentence": "Если вы не говорите свое мнение, обида накапливается молча",
+  "turkish_example_sentence": "Siz açıkça konuşmazsanız, içinizde kızgınlık birikir",
+  "turkish_example_sentence_with_blank": "Siz açıkça ______, içinizde kızgınlık birikir"
+}

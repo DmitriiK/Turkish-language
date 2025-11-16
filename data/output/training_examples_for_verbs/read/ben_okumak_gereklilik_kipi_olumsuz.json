@@ -1,0 +1,20 @@
+{
+  "verb_rank": 63,
+  "verb_english": "read",
+  "verb_russian": "читать",
+  "verb_infinitive": "okumak",
+  "turkish_verb": {
+    "verb_full": "okumaman lazım",
+    "root": "oku",
+    "tense_affix": "ma",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "I should not read that old newspaper",
+  "russian_example_sentence": "Мне не нужно читать ту старую газету",
+  "turkish_example_sentence": "Ben o eski gazeteyi okumaman lazım",
+  "turkish_example_sentence_with_blank": "Ben o eski gazeteyi ______"
+}

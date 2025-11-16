@@ -1,0 +1,20 @@
+{
+  "verb_rank": 62,
+  "verb_english": "speak",
+  "verb_russian": "говорить",
+  "verb_infinitive": "konuşmak",
+  "turkish_verb": {
+    "verb_full": "konuşmasak",
+    "root": "konuş",
+    "tense_affix": "sa",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If we did not speak about politics at dinner, the evening would be peaceful",
+  "russian_example_sentence": "Если бы мы не говорили о политике за ужином, вечер был бы спокойным",
+  "turkish_example_sentence": "Biz akşam yemeğinde siyaset konuşmasak, gece sakin olurdu",
+  "turkish_example_sentence_with_blank": "Biz akşam yemeğinde siyaset ______, gece sakin olurdu"
+}

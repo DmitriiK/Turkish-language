@@ -1,0 +1,20 @@
+{
+  "verb_rank": 60,
+  "verb_english": "stop",
+  "verb_russian": "останавливать",
+  "verb_infinitive": "durmak",
+  "turkish_verb": {
+    "verb_full": "durmasam",
+    "root": "dur",
+    "tense_affix": "sa",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If I did not stop, trouble would happen",
+  "russian_example_sentence": "Если бы я не остановился, случилась бы беда",
+  "turkish_example_sentence": "Ben tehlikeli arabaları durmasam, kaza olabilirdi",
+  "turkish_example_sentence_with_blank": "Ben tehlikeli arabaları ______, kaza olabilirdi"
+}

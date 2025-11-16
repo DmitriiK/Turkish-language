@@ -1,0 +1,20 @@
+{
+  "verb_rank": 63,
+  "verb_english": "read",
+  "verb_russian": "читать",
+  "verb_infinitive": "okumak",
+  "turkish_verb": {
+    "verb_full": "okumazlarsa",
+    "root": "oku",
+    "tense_affix": "mmaz",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "lar",
+    "polarity": "negative",
+    "negative_affix": "mmaz"
+  },
+  "english_example_sentence": "If they do not read the medical health information, they will be uninformed",
+  "russian_example_sentence": "Если они не прочитают медицинскую информацию о здоровье, они будут неинформированы",
+  "turkish_example_sentence": "Onlar tıbbi sağlık bilgisini okumazlarsa, bilgisiz kalacaklar",
+  "turkish_example_sentence_with_blank": "Onlar tıbbi sağlık bilgisini ______, bilgisiz kalacaklar"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 62,
+  "verb_english": "speak",
+  "verb_russian": "говорить",
+  "verb_infinitive": "konuşmak",
+  "turkish_verb": {
+    "verb_full": "konuşmamışsak",
+    "root": "konuş",
+    "tense_affix": "muşsa",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If we had not spoken about the problem",
+  "russian_example_sentence": "Если бы мы не говорили о проблеме",
+  "turkish_example_sentence": "Eğer biz sorundan konuşmamışsak, çatışma devam ederdi",
+  "turkish_example_sentence_with_blank": "Eğer biz sorundan ______, çatışma devam ederdi"
+}

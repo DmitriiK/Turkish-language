@@ -1,0 +1,20 @@
+{
+  "verb_rank": 62,
+  "verb_english": "speak",
+  "verb_russian": "говорить",
+  "verb_infinitive": "konuşmak",
+  "turkish_verb": {
+    "verb_full": "konuşmasanız",
+    "root": "konuş",
+    "tense_affix": "sa",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If you did not speak to the doctor about your symptoms, you would not get treatment",
+  "russian_example_sentence": "Если бы вы не говорили врачу о ваших симптомах, вы бы не получили лечение",
+  "turkish_example_sentence": "Siz doktora belirti hakkında konuşmasanız, tedavi alamazsınız",
+  "turkish_example_sentence_with_blank": "Siz doktora belirti hakkında ______, tedavi alamazsınız"
+}

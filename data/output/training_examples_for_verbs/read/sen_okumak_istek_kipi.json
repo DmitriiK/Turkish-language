@@ -1,0 +1,20 @@
+{
+  "verb_rank": 63,
+  "verb_english": "read",
+  "verb_russian": "читать",
+  "verb_infinitive": "okumak",
+  "turkish_verb": {
+    "verb_full": "okuyasın",
+    "root": "oku",
+    "tense_affix": "ya",
+    "verb_tense": "istek_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "sın",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "May you read that important scientific article carefully",
+  "russian_example_sentence": "Пусть ты прочитаешь эту важную научную статью внимательно",
+  "turkish_example_sentence": "Sen o önemli bilimsel makaleyi dikkatle okuyasın",
+  "turkish_example_sentence_with_blank": "Sen o önemli bilimsel makaleyi dikkatle ______"
+}

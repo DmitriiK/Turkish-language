@@ -1,0 +1,20 @@
+{
+  "verb_rank": 62,
+  "verb_english": "speak",
+  "verb_russian": "говорить",
+  "verb_infinitive": "konuşmak",
+  "turkish_verb": {
+    "verb_full": "konuşmazsa",
+    "root": "konuş",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If she doesn't speak honestly, trust disappears quickly",
+  "russian_example_sentence": "Если она не говорит честно, доверие исчезает быстро",
+  "turkish_example_sentence": "O dürüst konuşmazsa, güven hızla kaybolur",
+  "turkish_example_sentence_with_blank": "O dürüst ______, güven hızla kaybolur"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 51,
+  "verb_english": "include",
+  "verb_russian": "включать",
+  "verb_infinitive": "içermek",
+  "turkish_verb": {
+    "verb_full": "içermezse",
+    "root": "içer",
+    "tense_affix": "se",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If the contract does not include warranty terms, customers lose protection",
+  "russian_example_sentence": "Если контракт не включает условия гарантии, клиенты теряют защиту",
+  "turkish_example_sentence": "Sözleşme garanti şartlarını içermezse, müşteriler korunmasız kalır",
+  "turkish_example_sentence_with_blank": "Sözleşme garanti şartlarını ______, müşteriler korunmasız kalır"
+}

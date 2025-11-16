@@ -1,0 +1,20 @@
+{
+  "verb_rank": 60,
+  "verb_english": "stop",
+  "verb_russian": "останавливать",
+  "verb_infinitive": "durmak",
+  "turkish_verb": {
+    "verb_full": "durmazsanız",
+    "root": "dur",
+    "tense_affix": "maz",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If you do not stop the pollution, nature will suffer",
+  "russian_example_sentence": "Если вы не остановите загрязнение, природа будет страдать",
+  "turkish_example_sentence": "Eğer siz çevre kirliliğini durmazsanız, doğa zarar görecek",
+  "turkish_example_sentence_with_blank": "Eğer siz çevre kirliliğini ______, doğa zarar görecek"
+}

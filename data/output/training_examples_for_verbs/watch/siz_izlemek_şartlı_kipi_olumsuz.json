@@ -1,0 +1,20 @@
+{
+  "verb_rank": 58,
+  "verb_english": "watch",
+  "verb_russian": "смотреть",
+  "verb_infinitive": "izlemek",
+  "turkish_verb": {
+    "verb_full": "izlemezsanız",
+    "root": "izle",
+    "tense_affix": "rse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If you do not watch the popular cooking show this week",
+  "russian_example_sentence": "Если вы не смотрите популярное кулинарное шоу на этой неделе",
+  "turkish_example_sentence": "Eğer siz bu hafta popüler yemek pişirme programını izlemezsanız, yeni tarifler öğrenemeyeceksiniz",
+  "turkish_example_sentence_with_blank": "Eğer siz bu hafta popüler yemek pişirme programını ______, yeni tarifler öğrenemeyeceksiniz"
+}

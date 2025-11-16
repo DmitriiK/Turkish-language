@@ -1,0 +1,20 @@
+{
+  "verb_rank": 62,
+  "verb_english": "speak",
+  "verb_russian": "говорить",
+  "verb_infinitive": "konuşmak",
+  "turkish_verb": {
+    "verb_full": "konuşmasam",
+    "root": "konuş",
+    "tense_affix": "sa",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If I did not speak during the important meeting, everyone would listen",
+  "russian_example_sentence": "Если бы я не говорил на важном совещании, все бы слушали",
+  "turkish_example_sentence": "Ben önemli toplantıda konuşmasam, herkes dikkatle dinlerdi",
+  "turkish_example_sentence_with_blank": "Ben önemli toplantıda ______, herkes dikkatle dinlerdi"
+}

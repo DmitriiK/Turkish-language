@@ -1,0 +1,20 @@
+{
+  "verb_rank": 61,
+  "verb_english": "create",
+  "verb_russian": "создавать",
+  "verb_infinitive": "yaratmak",
+  "turkish_verb": {
+    "verb_full": "yaratmazsam",
+    "root": "yarat",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If I don't create new music, the concert will be cancelled",
+  "russian_example_sentence": "Если я не создам новую музыку, концерт будет отменён",
+  "turkish_example_sentence": "Ben yeni müzik yaratmazsam, konser iptal edilecek",
+  "turkish_example_sentence_with_blank": "Ben yeni müzik ______, konser iptal edilecek"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 54,
+  "verb_english": "learn",
+  "verb_russian": "учить(ся)",
+  "verb_infinitive": "öğrenmek",
+  "turkish_verb": {
+    "verb_full": "öğrenemezsin",
+    "root": "öğren",
+    "tense_affix": "eme",
+    "verb_tense": "imkan_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "zsin",
+    "polarity": "negative",
+    "negative_affix": "eme"
+  },
+  "english_example_sentence": "You cannot learn advanced programming without practice",
+  "russian_example_sentence": "Ты не можешь учить продвинутое программирование без практики",
+  "turkish_example_sentence": "Sen pratik olmadan ileri seviye programlamayı öğrenemezsin",
+  "turkish_example_sentence_with_blank": "Sen pratik olmadan ileri seviye programlamayı ______"
+}

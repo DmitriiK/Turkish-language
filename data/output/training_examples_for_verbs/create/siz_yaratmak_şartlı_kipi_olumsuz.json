@@ -1,0 +1,20 @@
+{
+  "verb_rank": 61,
+  "verb_english": "create",
+  "verb_russian": "создавать",
+  "verb_infinitive": "yaratmak",
+  "turkish_verb": {
+    "verb_full": "yaratmazsiniz",
+    "root": "yarat",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If you don't create clear instructions, customers will be confused",
+  "russian_example_sentence": "Если вы не создадите ясные инструкции, клиенты будут в замешательстве",
+  "turkish_example_sentence": "Siz açık talimat yaratmazsiniz, müşteriler kafa karışacak",
+  "turkish_example_sentence_with_blank": "Siz açık talimat ______, müşteriler kafa karışacak"
+}

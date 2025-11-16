@@ -1,0 +1,20 @@
+{
+  "verb_rank": 62,
+  "verb_english": "speak",
+  "verb_russian": "говорить",
+  "verb_infinitive": "konuşmak",
+  "turkish_verb": {
+    "verb_full": "konuşmasınız",
+    "root": "konuş",
+    "tense_affix": "a",
+    "verb_tense": "istek_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "sınız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "May you not speak too loudly in the quiet library",
+  "russian_example_sentence": "Пусть вы не говорите слишком громко в тихой библиотеке",
+  "turkish_example_sentence": "Siz sessiz kütüphanede çok yüksek konuşmasınız",
+  "turkish_example_sentence_with_blank": "Siz sessiz kütüphanede çok yüksek ______"
+}

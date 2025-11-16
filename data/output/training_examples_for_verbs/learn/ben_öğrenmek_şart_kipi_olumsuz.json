@@ -1,0 +1,20 @@
+{
+  "verb_rank": 54,
+  "verb_english": "learn",
+  "verb_russian": "учить(ся)",
+  "verb_infinitive": "öğrenmek",
+  "turkish_verb": {
+    "verb_full": "öğrenemezsem",
+    "root": "öğren",
+    "tense_affix": "se",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If I cannot learn this difficult mathematics, I will be disappointed",
+  "russian_example_sentence": "Если я не смогу выучить эту сложную математику, я буду разочарован",
+  "turkish_example_sentence": "Ben bu zor matematikleri öğrenemezsem, çok hayal kırıklığına uğrayacağım",
+  "turkish_example_sentence_with_blank": "Ben bu zor matematikleri ______, çok hayal kırıklığına uğrayacağım"
+}

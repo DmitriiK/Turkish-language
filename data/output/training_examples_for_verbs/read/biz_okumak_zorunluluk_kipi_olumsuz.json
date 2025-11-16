@@ -1,0 +1,20 @@
+{
+  "verb_rank": 63,
+  "verb_english": "read",
+  "verb_russian": "читать",
+  "verb_infinitive": "okumak",
+  "turkish_verb": {
+    "verb_full": "okumamalıyız",
+    "root": "oku",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "yız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "We must not read those outdated newspapers",
+  "russian_example_sentence": "Мы не должны читать эти устаревшие газеты",
+  "turkish_example_sentence": "Biz o eski gazeteleri okumamalıyız",
+  "turkish_example_sentence_with_blank": "Biz o eski gazeteleri ______"
+}

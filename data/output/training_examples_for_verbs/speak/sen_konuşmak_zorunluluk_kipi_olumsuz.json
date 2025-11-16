@@ -1,0 +1,20 @@
+{
+  "verb_rank": 62,
+  "verb_english": "speak",
+  "verb_russian": "говорить",
+  "verb_infinitive": "konuşmak",
+  "turkish_verb": {
+    "verb_full": "konuşmamalısın",
+    "root": "konuş",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "sın",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "You must not speak about this secret matter",
+  "russian_example_sentence": "Ты не должен говорить об этом секретном деле",
+  "turkish_example_sentence": "Sen bu gizli konuyu hiç kimseyle konuşmamalısın",
+  "turkish_example_sentence_with_blank": "Sen bu gizli konuyu hiç kimseyle ______"
+}

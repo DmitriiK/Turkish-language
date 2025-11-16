@@ -1,0 +1,20 @@
+{
+  "verb_rank": 255,
+  "verb_english": "lead",
+  "verb_russian": "вести",
+  "verb_infinitive": "liderlik etmek",
+  "turkish_verb": {
+    "verb_full": "liderlik etmezse",
+    "root": "et",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If she does not lead the research, progress will stall",
+  "russian_example_sentence": "Если она не будет руководить исследованием, прогресс остановится",
+  "turkish_example_sentence": "O yetenekli bilim insanı önemli araştırmaya liderlik etmezse, proje başarısız olur",
+  "turkish_example_sentence_with_blank": "O yetenekli bilim insanı önemli araştırmaya ______, proje başarısız olur"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 62,
+  "verb_english": "speak",
+  "verb_russian": "говорить",
+  "verb_infinitive": "konuşmak",
+  "turkish_verb": {
+    "verb_full": "konuşsak",
+    "root": "konuş",
+    "tense_affix": "sa",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If we spoke with the manager about the new project, we would get approval",
+  "russian_example_sentence": "Если бы мы говорили с менеджером о новом проекте, мы бы получили одобрение",
+  "turkish_example_sentence": "Biz yöneticiyle yeni proje hakkında konuşsak, onay alabilirdik",
+  "turkish_example_sentence_with_blank": "Biz yöneticiyle yeni proje hakkında ______, onay alabilirdik"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 57,
+  "verb_english": "understand",
+  "verb_russian": "понимать",
+  "verb_infinitive": "anlamak",
+  "turkish_verb": {
+    "verb_full": "anlamazsam",
+    "root": "anla",
+    "tense_affix": "maz",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If I do not understand the professor's lecture today",
+  "russian_example_sentence": "Если я не понимаю лекцию профессора сегодня",
+  "turkish_example_sentence": "Ben profesörün uzun İngilizce dersini anlamazsam, yardım isteyeceğim",
+  "turkish_example_sentence_with_blank": "Ben profesörün uzun İngilizce dersini ______, yardım isteyeceğim"
+}

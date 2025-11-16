@@ -1,0 +1,20 @@
+{
+  "verb_rank": 52,
+  "verb_english": "continue",
+  "verb_russian": "продолжать",
+  "verb_infinitive": "devam etmek",
+  "turkish_verb": {
+    "verb_full": "devam etmezlerse",
+    "root": "devam et",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "ler",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If they do not continue investing, the business will collapse",
+  "russian_example_sentence": "Если они не будут продолжать инвестировать, бизнес рухнет",
+  "turkish_example_sentence": "Eğer onlar finansal yatırımı devam etmezlerse, başarısız işletme kapanacak",
+  "turkish_example_sentence_with_blank": "Eğer onlar finansal yatırımı ______, başarısız işletme kapanacak"
+}

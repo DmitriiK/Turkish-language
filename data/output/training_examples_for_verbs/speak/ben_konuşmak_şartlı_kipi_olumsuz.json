@@ -1,0 +1,20 @@
+{
+  "verb_rank": 62,
+  "verb_english": "speak",
+  "verb_russian": "говорить",
+  "verb_infinitive": "konuşmak",
+  "turkish_verb": {
+    "verb_full": "konuşmazsam",
+    "root": "konuş",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If I don't speak up, nobody hears my opinion",
+  "russian_example_sentence": "Если я не говорю, никто не услышит мое мнение",
+  "turkish_example_sentence": "Ben cesurca konuşmazsam, kimse benim fikrimi duymaz",
+  "turkish_example_sentence_with_blank": "Ben cesurca ______, kimse benim fikrimi duymaz"
+}

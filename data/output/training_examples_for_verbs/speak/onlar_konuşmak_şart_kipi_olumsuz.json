@@ -1,0 +1,20 @@
+{
+  "verb_rank": 62,
+  "verb_english": "speak",
+  "verb_russian": "говорить",
+  "verb_infinitive": "konuşmak",
+  "turkish_verb": {
+    "verb_full": "konuşmasalar",
+    "root": "konuş",
+    "tense_affix": "sa",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "lar",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If they did not speak about the accident, nobody would discover the truth",
+  "russian_example_sentence": "Если бы они не говорили об аварии, никто бы не узнал правду",
+  "turkish_example_sentence": "Onlar kazadan konuşmasalar, hiç kimse gerçeği keşfetmezdi",
+  "turkish_example_sentence_with_blank": "Onlar kazadan ______, hiç kimse gerçeği keşfetmezdi"
+}

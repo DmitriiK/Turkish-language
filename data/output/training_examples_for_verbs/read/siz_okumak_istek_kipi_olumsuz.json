@@ -1,0 +1,20 @@
+{
+  "verb_rank": 63,
+  "verb_english": "read",
+  "verb_russian": "читать",
+  "verb_infinitive": "okumak",
+  "turkish_verb": {
+    "verb_full": "okumayasınız",
+    "root": "oku",
+    "tense_affix": "ya",
+    "verb_tense": "istek_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "sınız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "May you not read those disturbing news articles tonight",
+  "russian_example_sentence": "Пусть вы не читаете эти тревожные новостные статьи сегодня вечером",
+  "turkish_example_sentence": "Siz bu rahatsız edici haber makalelerini okumayasınız bu gece",
+  "turkish_example_sentence_with_blank": "Siz bu rahatsız edici haber makalelerini ______ bu gece"
+}

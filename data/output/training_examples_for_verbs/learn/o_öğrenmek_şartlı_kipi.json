@@ -1,0 +1,20 @@
+{
+  "verb_rank": 54,
+  "verb_english": "learn",
+  "verb_russian": "учить(ся)",
+  "verb_infinitive": "öğrenmek",
+  "turkish_verb": {
+    "verb_full": "öğrenirse",
+    "root": "öğren",
+    "tense_affix": "erse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If he learns programming, he will find a good job",
+  "russian_example_sentence": "Если он выучит программирование, он найдёт хорошую работу",
+  "turkish_example_sentence": "O programlama öğrenirse, iyi bir iş bulacak",
+  "turkish_example_sentence_with_blank": "O programlama ______, iyi bir iş bulacak"
+}

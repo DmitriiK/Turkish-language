@@ -1,0 +1,20 @@
+{
+  "verb_rank": 58,
+  "verb_english": "watch",
+  "verb_russian": "смотреть",
+  "verb_infinitive": "izlemek",
+  "turkish_verb": {
+    "verb_full": "izlemezse",
+    "root": "izle",
+    "tense_affix": "se",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If she does not watch the tutorial, she will not learn the technique",
+  "russian_example_sentence": "Если она не будет смотреть учебное видео, она не выучит технику",
+  "turkish_example_sentence": "O detaylı eğitim videosunu izlemezse, yeni tekniği öğrenemeyecek",
+  "turkish_example_sentence_with_blank": "O detaylı eğitim videosunu ______, yeni tekniği öğrenemeyecek"
+}
