@@ -14,7 +14,8 @@ The pipeline creates structured training examples that include:
 
 ### Core Pipeline Files
 
-- **`create_traing_example.py`** - Main pipeline script
+- **`create_traing_example.py`** - Main pipeline script for generating training examples
+- **`consolidate_training_examples.py`** - Utility to merge individual JSON files into consolidated collections
 - **`grammer_metadata.py`** - Grammar definitions and data models
 
 ### Supporting Files
@@ -447,6 +448,74 @@ For verb "yapmak" (to do) at A2 level:
 **B2 Level:** 98 combinations per verb
 
 ## Advanced Features
+
+### Consolidating Training Examples
+
+The `consolidate_training_examples.py` script allows you to merge individual JSON training example files into a single consolidated JSON file. This is useful for:
+- Creating training datasets for machine learning models
+- Bulk data analysis and processing
+- Easier distribution and sharing of training data
+- Integration with other tools and systems
+
+**Basic Usage:**
+```bash
+# Consolidate first 10 verbs
+python pipelines/consolidate_training_examples.py --top-n-verbs 10
+
+# Consolidate verbs 51-70
+python pipelines/consolidate_training_examples.py --start-from 51 --top-n-verbs 20
+
+# Consolidate specific verbs
+python pipelines/consolidate_training_examples.py --verbs "be,do,have,say"
+
+# Custom output file
+python pipelines/consolidate_training_examples.py --start-from 1 --top-n-verbs 50 --output my_examples.json
+```
+
+**Parameters:**
+- `--start-from` - Starting position in verb list (1-indexed, default: 1)
+- `--top-n-verbs` - Number of verbs to process from start position
+- `--verbs` - Comma-separated list of specific verbs to consolidate
+- `--output` - Custom output file path (default: auto-generated)
+
+**Output Format:**
+```json
+{
+  "metadata": {
+    "total_verbs": 3,
+    "verbs": ["be", "do", "say"],
+    "total_examples": 546
+  },
+  "examples": [
+    {
+      "verb_rank": 1,
+      "verb_english": "be",
+      "verb_russian": "быть",
+      "verb_infinitive": "olmak",
+      "turkish_verb": {
+        "verb_full": "oluyorum",
+        "root": "ol",
+        "tense_affix": "uyor",
+        "verb_tense": "şimdiki_zaman",
+        "personal_pronoun": "ben",
+        "personal_affix": "um",
+        "polarity": "positive",
+        "negative_affix": null
+      },
+      "english_example_sentence": "I am happy today",
+      "russian_example_sentence": "Я сегодня счастлив",
+      "turkish_example_sentence": "Ben bugün mutluyum",
+      "turkish_example_sentence_with_blank": "Ben bugün ______"
+    }
+    // ... more examples
+  ]
+}
+```
+
+**Statistics:**
+- Average of ~182 examples per verb (all tenses × pronouns × polarities × levels)
+- File sizes: ~420 KB for 3 verbs, ~770 KB for 5 verbs
+- Handles special characters in verb names (e.g., "set (put, place)")
 
 ### LangChain Integration
 - Uses LangChain for robust prompt management
