@@ -153,16 +153,19 @@ python pipelines/create_traing_example.py --language-level B2 --top-n-verbs 10 -
 python pipelines/create_traing_example.py --language-level B2 --top-n-verbs 10 --provider gemini --skip-existing
 ```
 
-**Option 2: Process in Smaller Chunks**
+**Option 2: Process in Smaller Chunks Using --start-from**
 ```bash
 # Day 1: Process verbs 1-5
 python pipelines/create_traing_example.py --language-level A1 --top-n-verbs 5
 
 # Day 2: Process verbs 6-10
-python pipelines/create_traing_example.py --language-level A1 --verbs "to go" "to see" "to know" "to get" "to think"
+python pipelines/create_traing_example.py --language-level A1 --start-from 6 --top-n-verbs 5
 
 # Day 3: Process verbs 11-15
-# ... and so on
+python pipelines/create_traing_example.py --language-level A1 --start-from 11 --top-n-verbs 5
+
+# Day 4: Process verbs 16-20
+python pipelines/create_traing_example.py --language-level A1 --start-from 16 --top-n-verbs 5
 ```
 
 **Option 3: Filter by Specific Combinations**
@@ -228,6 +231,12 @@ python pipelines/create_traing_example.py --language-level A1 --top-n-verbs 5
 # Process top 20 verbs at B1 level  
 python pipelines/create_traing_example.py --language-level B1 --top-n-verbs 20
 
+# Process verbs 11-20 (batch processing strategy)
+python pipelines/create_traing_example.py --language-level A1 --start-from 11 --top-n-verbs 10
+
+# Process verbs 51-100 at B2 level
+python pipelines/create_traing_example.py --language-level B2 --start-from 51 --top-n-verbs 50
+
 # Use Gemini provider
 python pipelines/create_traing_example.py --language-level B2 --top-n-verbs 10 --provider gemini
 
@@ -281,6 +290,13 @@ main(language_level="A2", top_n_verbs=15)
   - Type: Integer
   - Default: `10`
   - Range: 1-300 (based on available verbs in CSV)
+
+- `--start-from`: Position in verb list to start from (use with `--top-n-verbs`)
+  - Type: Integer
+  - Default: `1` (1-indexed)
+  - Range: 1-300
+  - Example: `--start-from 11 --top-n-verbs 10` processes verbs 11-20
+  - Use case: Process verbs in batches to manage daily quota limits
 
 - `--verbs`: Specific verbs to process (instead of top-n)
   - Type: List of strings

@@ -1325,6 +1325,7 @@ def check_example_exists(verb: VerbData, tense: VerbTense, pronoun: Optional[Per
 def main(
     language_level: str = "A2",
     top_n_verbs: Optional[int] = None,
+    start_from: int = 1,
     specific_verbs: Optional[List[str]] = None,
     tenses: Optional[List[str]] = None,
     pronouns: Optional[List[str]] = None,
@@ -1337,6 +1338,7 @@ def main(
     Args:
         language_level: Target language level (A1, A2, B1, B2)
         top_n_verbs: Number of top verbs to process from the list
+        start_from: Position in the verb list to start from (1-indexed, default: 1)
         specific_verbs: List of specific verb names (English) to process
         tenses: List of specific tenses to generate (None = all). Values: şimdiki_zaman, geçmiş_zaman, geniş_zaman
         pronouns: List of specific pronouns to generate (None = all). Values: ben, sen, o, biz, siz, onlar
@@ -1385,6 +1387,7 @@ def main(
     logger_args = {
         "language_level": language_level,
         "top_n_verbs": top_n_verbs,
+        "start_from": start_from,
         "specific_verbs": specific_verbs,
         "tenses": tenses,
         "pronouns": pronouns,
@@ -1425,7 +1428,11 @@ def main(
     else:
         if top_n_verbs is None:
             top_n_verbs = 10
-        print(f"Processing top {top_n_verbs} verbs from the list")
+        if start_from > 1:
+            end_position = start_from + top_n_verbs - 1
+            print(f"Processing verbs {start_from} to {end_position} (top {top_n_verbs} from position {start_from})")
+        else:
+            print(f"Processing top {top_n_verbs} verbs from the list")
     
     # Display filters if any
     if tenses:
@@ -1458,9 +1465,27 @@ def main(
             print(f"⚠️  Warning: Could not find verbs: {', '.join(missing)}")
         print(f"Loaded {len(all_verbs)} verbs, processing {len(verbs)} specific verbs")
     else:
-        # Limit to top N verbs
-        verbs = all_verbs[:top_n_verbs]
-        print(f"Loaded {len(all_verbs)} verbs, processing top {len(verbs)}")
+        # Validate start_from parameter
+        if start_from < 1:
+            print("⚠️  Warning: start_from must be >= 1, using 1 instead")
+            start_from = 1
+        
+        if start_from > len(all_verbs):
+            print(f"❌ Error: start_from ({start_from}) exceeds total verbs ({len(all_verbs)})")
+            return
+        
+        # Calculate slice indices (convert from 1-indexed to 0-indexed)
+        start_idx = start_from - 1
+        end_idx = start_idx + top_n_verbs
+        
+        # Limit to top N verbs starting from position M
+        verbs = all_verbs[start_idx:end_idx]
+        actual_count = len(verbs)
+        
+        if actual_count < top_n_verbs:
+            print(f"⚠️  Warning: Only {actual_count} verbs available from position {start_from}")
+        
+        print(f"Loaded {len(all_verbs)} verbs, processing {actual_count} verbs (positions {start_from} to {start_from + actual_count - 1})")
     
     # Generate combinations
     print(f"Generating combinations for level {level}...")
@@ -1733,6 +1758,14 @@ if __name__ == "__main__":
         help="Number of top verbs to process (default: 10 if no --verbs specified)"
     )
     parser.add_argument(
+        "--start-from",
+        type=int,
+        default=1,
+        help="Position in verb list to start from (1-indexed, default: 1). "
+             "Use with --top-n-verbs to process a range "
+             "(e.g., --start-from 11 --top-n-verbs 10 processes verbs 11-20)"
+    )
+    parser.add_argument(
         "--verbs",
         type=str,
         nargs="+",
@@ -1805,6 +1838,7 @@ if __name__ == "__main__":
             main(
                 language_level=level,
                 top_n_verbs=top_n,
+                start_from=args.start_from,
                 tenses=args.tenses,
                 pronouns=args.pronouns,
                 polarities=args.polarities,
