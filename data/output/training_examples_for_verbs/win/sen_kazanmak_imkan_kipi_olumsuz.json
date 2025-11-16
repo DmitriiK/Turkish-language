@@ -1,0 +1,20 @@
+{
+  "verb_rank": 70,
+  "verb_english": "win",
+  "verb_russian": "выигрывать",
+  "verb_infinitive": "kazanmak",
+  "turkish_verb": {
+    "verb_full": "kazanamazsın",
+    "root": "kazan",
+    "tense_affix": "ama",
+    "verb_tense": "imkan_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "azsın",
+    "polarity": "negative",
+    "negative_affix": "ama"
+  },
+  "english_example_sentence": "You cannot win this tough race.",
+  "russian_example_sentence": "Ты не можешь выиграть эту сложную гонку.",
+  "turkish_example_sentence": "Sen bu zorlu yarışı kazanamazsın.",
+  "turkish_example_sentence_with_blank": "Sen bu zorlu yarışı ______."
+}

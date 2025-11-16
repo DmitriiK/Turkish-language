@@ -1,0 +1,20 @@
+{
+  "verb_rank": 69,
+  "verb_english": "walk",
+  "verb_russian": "ходить",
+  "verb_infinitive": "yürümek",
+  "turkish_verb": {
+    "verb_full": "yürümezsek",
+    "root": "yürü",
+    "tense_affix": "erse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If we don't walk, then we won't arrive early.",
+  "russian_example_sentence": "Если мы не пойдём прогуляться, то не придём вовремя.",
+  "turkish_example_sentence": "Eğer yürümezsek erken varamayız.",
+  "turkish_example_sentence_with_blank": "Eğer ______ erken varamayız."
+}

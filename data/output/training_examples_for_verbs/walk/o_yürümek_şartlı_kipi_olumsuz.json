@@ -1,0 +1,20 @@
+{
+  "verb_rank": 69,
+  "verb_english": "walk",
+  "verb_russian": "ходить",
+  "verb_infinitive": "yürümek",
+  "turkish_verb": {
+    "verb_full": "yürümezse",
+    "root": "yürü",
+    "tense_affix": "erse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": "",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If she doesn't walk slow, she'll trip.",
+  "russian_example_sentence": "Если она не будет ходить медленно, она споткнется.",
+  "turkish_example_sentence": "Eğer o yavaş yürümezse düşer.",
+  "turkish_example_sentence_with_blank": "Eğer o yavaş ______ düşer."
+}

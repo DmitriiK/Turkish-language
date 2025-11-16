@@ -1,0 +1,20 @@
+{
+  "verb_rank": 70,
+  "verb_english": "win",
+  "verb_russian": "выигрывать",
+  "verb_infinitive": "kazanmak",
+  "turkish_verb": {
+    "verb_full": "kazanmazsa",
+    "root": "kazan",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If she doesn’t win the match, she will train harder",
+  "russian_example_sentence": "Если она не выиграет матч, она будет тренироваться усерднее",
+  "turkish_example_sentence": "Maçı kazanmazsa daha çok antrenman yapar",
+  "turkish_example_sentence_with_blank": "Maçı ______ daha çok antrenman yapar"
+}

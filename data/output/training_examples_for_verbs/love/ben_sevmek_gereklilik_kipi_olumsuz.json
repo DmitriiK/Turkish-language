@@ -1,0 +1,20 @@
+{
+  "verb_rank": 73,
+  "verb_english": "love",
+  "verb_russian": "любить",
+  "verb_infinitive": "sevmek",
+  "turkish_verb": {
+    "verb_full": "sevmemem lazım",
+    "root": "sev",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "I do not need to love lies",
+  "russian_example_sentence": "Мне не нужно любить лжи",
+  "turkish_example_sentence": "Ben yalanları sevmemem lazım",
+  "turkish_example_sentence_with_blank": "Ben yalanları ______"
+}

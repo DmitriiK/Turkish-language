@@ -1,0 +1,20 @@
+{
+  "verb_rank": 73,
+  "verb_english": "love",
+  "verb_russian": "любить",
+  "verb_infinitive": "sevmek",
+  "turkish_verb": {
+    "verb_full": "sevmezse",
+    "root": "sev",
+    "tense_affix": "erse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If she doesn't love the food, she will leave.",
+  "russian_example_sentence": "Если ей не понравится еда, она уйдёт.",
+  "turkish_example_sentence": "Yemeği sevmezse gider.",
+  "turkish_example_sentence_with_blank": "Yemeği ______ gider."
+}

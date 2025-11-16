@@ -6,54 +6,6 @@
   "folder_name": "consider",
   "examples": [
     {
-      "tense": "emir_kipi",
-      "pronoun": "sen",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/sen_düşünmek_emir_kipi.json"
-    },
-    {
-      "tense": "emir_kipi",
-      "pronoun": "siz",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/siz_düşünmek_emir_kipi.json"
-    },
-    {
-      "tense": "farzî_geçmiş_zaman",
-      "pronoun": "ben",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/ben_düşünmek_farzî_geçmiş_zaman.json"
-    },
-    {
-      "tense": "farzî_geçmiş_zaman",
-      "pronoun": "biz",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/biz_düşünmek_farzî_geçmiş_zaman.json"
-    },
-    {
-      "tense": "farzî_geçmiş_zaman",
-      "pronoun": "o",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/o_düşünmek_farzî_geçmiş_zaman.json"
-    },
-    {
-      "tense": "farzî_geçmiş_zaman",
-      "pronoun": "onlar",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/onlar_düşünmek_farzî_geçmiş_zaman.json"
-    },
-    {
-      "tense": "farzî_geçmiş_zaman",
-      "pronoun": "sen",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/sen_düşünmek_farzî_geçmiş_zaman.json"
-    },
-    {
-      "tense": "farzî_geçmiş_zaman",
-      "pronoun": "siz",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/siz_düşünmek_farzî_geçmiş_zaman.json"
-    },
-    {
       "tense": "gelecek_zaman",
       "pronoun": "ben",
       "polarity": "negative",
@@ -124,150 +76,6 @@
       "pronoun": "siz",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/consider/siz_düşünmek_gelecek_zaman.json"
-    },
-    {
-      "tense": "geniş_zaman",
-      "pronoun": "ben",
-      "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/consider/ben_düşünmek_geniş_zaman_olumsuz.json"
-    },
-    {
-      "tense": "geniş_zaman",
-      "pronoun": "biz",
-      "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/consider/biz_düşünmek_geniş_zaman_olumsuz.json"
-    },
-    {
-      "tense": "geniş_zaman",
-      "pronoun": "o",
-      "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/consider/o_düşünmek_geniş_zaman_olumsuz.json"
-    },
-    {
-      "tense": "geniş_zaman",
-      "pronoun": "onlar",
-      "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/consider/onlar_düşünmek_geniş_zaman_olumsuz.json"
-    },
-    {
-      "tense": "geniş_zaman",
-      "pronoun": "sen",
-      "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/consider/sen_düşünmek_geniş_zaman_olumsuz.json"
-    },
-    {
-      "tense": "geniş_zaman",
-      "pronoun": "siz",
-      "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/consider/siz_düşünmek_geniş_zaman_olumsuz.json"
-    },
-    {
-      "tense": "geniş_zaman",
-      "pronoun": "ben",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/ben_düşünmek_geniş_zaman.json"
-    },
-    {
-      "tense": "geniş_zaman",
-      "pronoun": "biz",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/biz_düşünmek_geniş_zaman.json"
-    },
-    {
-      "tense": "geniş_zaman",
-      "pronoun": "o",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/o_düşünmek_geniş_zaman.json"
-    },
-    {
-      "tense": "geniş_zaman",
-      "pronoun": "onlar",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/onlar_düşünmek_geniş_zaman.json"
-    },
-    {
-      "tense": "geniş_zaman",
-      "pronoun": "sen",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/sen_düşünmek_geniş_zaman.json"
-    },
-    {
-      "tense": "geniş_zaman",
-      "pronoun": "siz",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/siz_düşünmek_geniş_zaman.json"
-    },
-    {
-      "tense": "gereklilik_kipi",
-      "pronoun": "ben",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/ben_düşünmek_gereklilik_kipi.json"
-    },
-    {
-      "tense": "gereklilik_kipi",
-      "pronoun": "biz",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/biz_düşünmek_gereklilik_kipi.json"
-    },
-    {
-      "tense": "gereklilik_kipi",
-      "pronoun": "o",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/o_düşünmek_gereklilik_kipi.json"
-    },
-    {
-      "tense": "gereklilik_kipi",
-      "pronoun": "onlar",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/onlar_düşünmek_gereklilik_kipi.json"
-    },
-    {
-      "tense": "gereklilik_kipi",
-      "pronoun": "sen",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/sen_düşünmek_gereklilik_kipi.json"
-    },
-    {
-      "tense": "gereklilik_kipi",
-      "pronoun": "siz",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/siz_düşünmek_gereklilik_kipi.json"
-    },
-    {
-      "tense": "geçmiş_gelecek_zaman",
-      "pronoun": "ben",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/ben_düşünmek_geçmiş_gelecek_zaman.json"
-    },
-    {
-      "tense": "geçmiş_gelecek_zaman",
-      "pronoun": "biz",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/biz_düşünmek_geçmiş_gelecek_zaman.json"
-    },
-    {
-      "tense": "geçmiş_gelecek_zaman",
-      "pronoun": "o",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/o_düşünmek_geçmiş_gelecek_zaman.json"
-    },
-    {
-      "tense": "geçmiş_gelecek_zaman",
-      "pronoun": "onlar",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/onlar_düşünmek_geçmiş_gelecek_zaman.json"
-    },
-    {
-      "tense": "geçmiş_gelecek_zaman",
-      "pronoun": "sen",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/sen_düşünmek_geçmiş_gelecek_zaman.json"
-    },
-    {
-      "tense": "geçmiş_gelecek_zaman",
-      "pronoun": "siz",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/siz_düşünmek_geçmiş_gelecek_zaman.json"
     },
     {
       "tense": "geçmiş_zaman",
@@ -342,88 +150,40 @@
       "file_path": "data/output/training_examples_for_verbs/consider/siz_düşünmek_geçmiş_zaman.json"
     },
     {
-      "tense": "imkan_kipi",
+      "tense": "yaracağım",
       "pronoun": "ben",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/ben_düşünmek_imkan_kipi.json"
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/consider/ben_düşünmek_yaracağım_olumsuz.json"
     },
     {
-      "tense": "imkan_kipi",
+      "tense": "yaracağım",
       "pronoun": "biz",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/biz_düşünmek_imkan_kipi.json"
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/consider/biz_düşünmek_yaracağım_olumsuz.json"
     },
     {
-      "tense": "imkan_kipi",
+      "tense": "yaracağım",
       "pronoun": "o",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/o_düşünmek_imkan_kipi.json"
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/consider/o_düşünmek_yaracağım_olumsuz.json"
     },
     {
-      "tense": "imkan_kipi",
+      "tense": "yaracağım",
       "pronoun": "onlar",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/onlar_düşünmek_imkan_kipi.json"
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/consider/onlar_düşünmek_yaracağım_olumsuz.json"
     },
     {
-      "tense": "imkan_kipi",
+      "tense": "yaracağım",
       "pronoun": "sen",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/sen_düşünmek_imkan_kipi.json"
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/consider/sen_düşünmek_yaracağım_olumsuz.json"
     },
     {
-      "tense": "imkan_kipi",
+      "tense": "yaracağım",
       "pronoun": "siz",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/siz_düşünmek_imkan_kipi.json"
-    },
-    {
-      "tense": "istek_kipi",
-      "pronoun": "ben",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/ben_düşünmek_istek_kipi.json"
-    },
-    {
-      "tense": "istek_kipi",
-      "pronoun": "biz",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/biz_düşünmek_istek_kipi.json"
-    },
-    {
-      "tense": "istek_kipi",
-      "pronoun": "o",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/o_düşünmek_istek_kipi.json"
-    },
-    {
-      "tense": "istek_kipi",
-      "pronoun": "onlar",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/onlar_düşünmek_istek_kipi.json"
-    },
-    {
-      "tense": "istek_kipi",
-      "pronoun": "sen",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/sen_düşünmek_istek_kipi.json"
-    },
-    {
-      "tense": "istek_kipi",
-      "pronoun": "siz",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/siz_düşünmek_istek_kipi.json"
-    },
-    {
-      "tense": "sıfat_fiil",
-      "pronoun": "none",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/none_düşünmek_sıfat_fiil.json"
-    },
-    {
-      "tense": "ulak_fiil",
-      "pronoun": "none",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/none_düşünmek_ulak_fiil.json"
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/consider/siz_düşünmek_yaracağım_olumsuz.json"
     },
     {
       "tense": "yaracağım",
@@ -460,138 +220,6 @@
       "pronoun": "siz",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/consider/siz_düşünmek_yaracağım.json"
-    },
-    {
-      "tense": "zaman_sıfatı",
-      "pronoun": "ben",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/ben_düşünmek_zaman_sıfatı.json"
-    },
-    {
-      "tense": "zaman_sıfatı",
-      "pronoun": "biz",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/biz_düşünmek_zaman_sıfatı.json"
-    },
-    {
-      "tense": "zaman_sıfatı",
-      "pronoun": "o",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/o_düşünmek_zaman_sıfatı.json"
-    },
-    {
-      "tense": "zaman_sıfatı",
-      "pronoun": "onlar",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/onlar_düşünmek_zaman_sıfatı.json"
-    },
-    {
-      "tense": "zaman_sıfatı",
-      "pronoun": "sen",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/sen_düşünmek_zaman_sıfatı.json"
-    },
-    {
-      "tense": "zaman_sıfatı",
-      "pronoun": "siz",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/siz_düşünmek_zaman_sıfatı.json"
-    },
-    {
-      "tense": "zarf_fiil",
-      "pronoun": "none",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/none_düşünmek_zarf_fiil.json"
-    },
-    {
-      "tense": "zorunluluk_kipi",
-      "pronoun": "ben",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/ben_düşünmek_zorunluluk_kipi.json"
-    },
-    {
-      "tense": "zorunluluk_kipi",
-      "pronoun": "biz",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/biz_düşünmek_zorunluluk_kipi.json"
-    },
-    {
-      "tense": "zorunluluk_kipi",
-      "pronoun": "o",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/o_düşünmek_zorunluluk_kipi.json"
-    },
-    {
-      "tense": "zorunluluk_kipi",
-      "pronoun": "onlar",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/onlar_düşünmek_zorunluluk_kipi.json"
-    },
-    {
-      "tense": "zorunluluk_kipi",
-      "pronoun": "sen",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/sen_düşünmek_zorunluluk_kipi.json"
-    },
-    {
-      "tense": "zorunluluk_kipi",
-      "pronoun": "siz",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/siz_düşünmek_zorunluluk_kipi.json"
-    },
-    {
-      "tense": "şart_kipi",
-      "pronoun": "ben",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/ben_düşünmek_şart_kipi.json"
-    },
-    {
-      "tense": "şart_kipi",
-      "pronoun": "biz",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/biz_düşünmek_şart_kipi.json"
-    },
-    {
-      "tense": "şart_kipi",
-      "pronoun": "o",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/o_düşünmek_şart_kipi.json"
-    },
-    {
-      "tense": "şart_kipi",
-      "pronoun": "onlar",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/onlar_düşünmek_şart_kipi.json"
-    },
-    {
-      "tense": "şart_kipi",
-      "pronoun": "sen",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/sen_düşünmek_şart_kipi.json"
-    },
-    {
-      "tense": "şart_kipi",
-      "pronoun": "siz",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/siz_düşünmek_şart_kipi.json"
-    },
-    {
-      "tense": "şartlı_kipi",
-      "pronoun": "biz",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/biz_düşünmek_şartlı_kipi.json"
-    },
-    {
-      "tense": "şartlı_kipi",
-      "pronoun": "onlar",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/onlar_düşünmek_şartlı_kipi.json"
-    },
-    {
-      "tense": "şartlı_kipi",
-      "pronoun": "siz",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/consider/siz_düşünmek_şartlı_kipi.json"
     },
     {
       "tense": "şimdiki_zaman",

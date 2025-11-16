@@ -1,0 +1,20 @@
+{
+  "verb_rank": 66,
+  "verb_english": "spend",
+  "verb_russian": "тратить",
+  "verb_infinitive": "harcamak",
+  "turkish_verb": {
+    "verb_full": "harcamazsa",
+    "root": "harca",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If she doesn't spend time on this, she won't finish.",
+  "russian_example_sentence": "Если она не потратит на это время, она не закончит.",
+  "turkish_example_sentence": "Eğer buna zaman harcamazsa, bitiremez.",
+  "turkish_example_sentence_with_blank": "Eğer buna zaman ______, bitiremez."
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 66,
+  "verb_english": "spend",
+  "verb_russian": "тратить",
+  "verb_infinitive": "harcamak",
+  "turkish_verb": {
+    "verb_full": "harcamazsanız",
+    "root": "harca",
+    "tense_affix": "mazsanız",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If you don't spend the budget, we might save money.",
+  "russian_example_sentence": "Если вы не потратите бюджет, мы сможем сэкономить деньги.",
+  "turkish_example_sentence": "Eğer bütçeyi harcamazsanız, para biriktirebiliriz.",
+  "turkish_example_sentence_with_blank": "Eğer bütçeyi ______, para biriktirebiliriz."
+}

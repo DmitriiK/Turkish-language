@@ -1,0 +1,20 @@
+{
+  "verb_rank": 67,
+  "verb_english": "grow",
+  "verb_russian": "расти",
+  "verb_infinitive": "büyümek",
+  "turkish_verb": {
+    "verb_full": "büyümezseniz",
+    "root": "büyü",
+    "tense_affix": "erse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "niz",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If you don't grow the plants, they won't bloom.",
+  "russian_example_sentence": "Если вы не будете выращивать растения, они не зацветут.",
+  "turkish_example_sentence": "Bitkileri büyümezseniz, çiçek açmazlar.",
+  "turkish_example_sentence_with_blank": "Bitkileri ______, çiçek açmazlar."
+}

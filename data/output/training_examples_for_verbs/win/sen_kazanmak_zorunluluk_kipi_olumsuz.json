@@ -1,0 +1,20 @@
+{
+  "verb_rank": 70,
+  "verb_english": "win",
+  "verb_russian": "выигрывать",
+  "verb_infinitive": "kazanmak",
+  "turkish_verb": {
+    "verb_full": "kazanmamalısın",
+    "root": "kazan",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "sın",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "You must not win the competition.",
+  "russian_example_sentence": "Ты не должен выиграть соревнование.",
+  "turkish_example_sentence": "Sen bu yarışı kazanmamalısın.",
+  "turkish_example_sentence_with_blank": "Sen bu yarışı ______."
+}

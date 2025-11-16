@@ -1,0 +1,20 @@
+{
+  "verb_rank": 70,
+  "verb_english": "win",
+  "verb_russian": "выигрывать",
+  "verb_infinitive": "kazanmak",
+  "turkish_verb": {
+    "verb_full": "kazanmamalıyız",
+    "root": "kazan",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "yız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "We must not win with cheating.",
+  "russian_example_sentence": "Мы не должны выигрывать обманом.",
+  "turkish_example_sentence": "Biz hile yaparak kazanmamalıyız.",
+  "turkish_example_sentence_with_blank": "Biz hile yaparak ______."
+}

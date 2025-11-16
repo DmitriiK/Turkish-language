@@ -1,0 +1,20 @@
+{
+  "verb_rank": 70,
+  "verb_english": "win",
+  "verb_russian": "выигрывать",
+  "verb_infinitive": "kazanmak",
+  "turkish_verb": {
+    "verb_full": "kazanmamam lazım",
+    "root": "kazan",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "mam",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "I don't need to win this prize.",
+  "russian_example_sentence": "Мне не нужно выигрывать этот приз.",
+  "turkish_example_sentence": "Bu ödülü kazanmamam lazım.",
+  "turkish_example_sentence_with_blank": "Bu ödülü ______."
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 70,
+  "verb_english": "win",
+  "verb_russian": "выигрывать",
+  "verb_infinitive": "kazanmak",
+  "turkish_verb": {
+    "verb_full": "kazanmazsanız",
+    "root": "kazan",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If you don't win the prize, try another contest",
+  "russian_example_sentence": "Если вы не выиграете приз, попробуйте другой конкурс",
+  "turkish_example_sentence": "Ödülü kazanmazsanız başka bir yarışmaya girin",
+  "turkish_example_sentence_with_blank": "Ödülü ______ başka bir yarışmaya girin"
+}

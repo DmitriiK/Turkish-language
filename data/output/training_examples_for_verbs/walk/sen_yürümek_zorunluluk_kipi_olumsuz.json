@@ -1,0 +1,20 @@
+{
+  "verb_rank": 69,
+  "verb_english": "walk",
+  "verb_russian": "ходить",
+  "verb_infinitive": "yürümek",
+  "turkish_verb": {
+    "verb_full": "yürümemelisin",
+    "root": "yürü",
+    "tense_affix": "meli",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "sin",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "You must not walk alone at night",
+  "russian_example_sentence": "Ты не должен гулять один ночью",
+  "turkish_example_sentence": "Sen geceleri yalnız yürümemelisin",
+  "turkish_example_sentence_with_blank": "Sen geceleri yalnız ______"
+}

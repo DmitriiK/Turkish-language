@@ -1,0 +1,20 @@
+{
+  "verb_rank": 70,
+  "verb_english": "win",
+  "verb_russian": "выигрывать",
+  "verb_infinitive": "kazanmak",
+  "turkish_verb": {
+    "verb_full": "kazanmıyasan",
+    "root": "kazan",
+    "tense_affix": "ya",
+    "verb_tense": "istek_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "sın",
+    "polarity": "negative",
+    "negative_affix": "mı"
+  },
+  "english_example_sentence": "May you not win against us.",
+  "russian_example_sentence": "Пусть ты не выиграешь против нас.",
+  "turkish_example_sentence": "Bize karşı kazanmıyasan.",
+  "turkish_example_sentence_with_blank": "Bize karşı ______."
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 73,
+  "verb_english": "love",
+  "verb_russian": "любить",
+  "verb_infinitive": "sevmek",
+  "turkish_verb": {
+    "verb_full": "sevmezseniz",
+    "root": "sev",
+    "tense_affix": "erse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "niz",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If you don't love art, the museum will be boring.",
+  "russian_example_sentence": "Если вы не любите искусство, музей покажется скучным.",
+  "turkish_example_sentence": "Sanatı sevmezseniz müze sıkıcı olur.",
+  "turkish_example_sentence_with_blank": "Sanatı ______ müze sıkıcı olur."
+}

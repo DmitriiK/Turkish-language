@@ -1,0 +1,20 @@
+{
+  "verb_rank": 70,
+  "verb_english": "win",
+  "verb_russian": "выигрывать",
+  "verb_infinitive": "kazanmak",
+  "turkish_verb": {
+    "verb_full": "kazanmaması lazım",
+    "root": "kazan",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": "ması",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "She doesn't need to win every time.",
+  "russian_example_sentence": "Ей не нужно выигрывать каждый раз.",
+  "turkish_example_sentence": "Her seferinde kazanmaması lazım.",
+  "turkish_example_sentence_with_blank": "Her seferinde ______."
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 70,
+  "verb_english": "win",
+  "verb_russian": "выигрывать",
+  "verb_infinitive": "kazanmak",
+  "turkish_verb": {
+    "verb_full": "kazanmazsan",
+    "root": "kazan",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If you don't win the lottery, stay calm",
+  "russian_example_sentence": "Если ты не выиграешь лотерею, сохраняй спокойствие",
+  "turkish_example_sentence": "Lotoyu kazanmazsan sakin kal",
+  "turkish_example_sentence_with_blank": "Lotoyu ______ sakin kal"
+}

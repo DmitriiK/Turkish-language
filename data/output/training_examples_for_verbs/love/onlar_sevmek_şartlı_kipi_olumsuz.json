@@ -1,0 +1,20 @@
+{
+  "verb_rank": 73,
+  "verb_english": "love",
+  "verb_russian": "любить",
+  "verb_infinitive": "sevmek",
+  "turkish_verb": {
+    "verb_full": "sevmezlerse",
+    "root": "sev",
+    "tense_affix": "erse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "ler",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If they don't love animals, they will leave the farm.",
+  "russian_example_sentence": "Если они не любят животных, они уйдут с фермы.",
+  "turkish_example_sentence": "Hayvanları sevmezlerse çiftlikten giderler.",
+  "turkish_example_sentence_with_blank": "Hayvanları ______ çiftlikten giderler."
+}
