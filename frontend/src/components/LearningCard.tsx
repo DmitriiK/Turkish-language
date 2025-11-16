@@ -174,12 +174,6 @@ export const LearningCard: React.FC<LearningCardProps> = ({
       return '';
     }
 
-    // If "Reveal Answer" is checked, don't mark anything as incorrect
-    // because the displayed text is the correct answer by definition
-    if (progress.fullSentence) {
-      return escapeHtml(userInput);
-    }
-
     const targetSentence = getTargetSentence().replace(/\.+$/, ''); // Remove trailing dots
     const verbFull = example.turkish_verb.verb_full;
     const inputLower = userInput.toLowerCase();
@@ -188,6 +182,12 @@ export const LearningCard: React.FC<LearningCardProps> = ({
     
     // Helper to check if a word sequence is incorrect
     const markIncorrectWords = (text: string, cursorPosition?: number) => {
+      // If "Reveal Answer" is checked, don't mark anything as incorrect
+      // because the displayed text is the correct answer by definition
+      if (progress.fullSentence) {
+        return escapeHtml(text);
+      }
+      
       // Split both into words (preserve spaces)
       const words = text.split(/(\s+)/); // Keeps spaces as separate elements
       const targetWords = targetSentence.split(/(\s+)/).filter(w => !/^\s+$/.test(w)); // Get only non-space words from target
@@ -290,9 +290,17 @@ export const LearningCard: React.FC<LearningCardProps> = ({
       let verbHtml = '';
       let searchOffset = 0; // Offset within the actual verb text
       
-      // Root (blue, bold) - always starts at the beginning, use root length
+      // Root (blue, bold) - handle vowel-dropping roots
       if (example.turkish_verb.root) {
-        const rootLength = example.turkish_verb.root.length;
+        const root = example.turkish_verb.root;
+        const turkishVowels = ['a', 'e', 'ı', 'i', 'o', 'ö', 'u', 'ü'];
+        const rootEndsWithVowel = turkishVowels.includes(root[root.length - 1].toLowerCase());
+        const tenseAffix = example.turkish_verb.tense_affix || '';
+        const tenseStartsWithVowel = tenseAffix.length > 0 && turkishVowels.includes(tenseAffix[0].toLowerCase());
+        
+        // If root ends with vowel and tense starts with vowel, use reduced root (drop final vowel)
+        const useReducedRoot = rootEndsWithVowel && tenseStartsWithVowel;
+        const rootLength = useReducedRoot ? root.length - 1 : root.length;
         const rootText = actualVerbText.substring(0, rootLength);
         verbHtml += `<span style="color: #1d4ed8; font-weight: bold;">${escapeHtml(rootText)}</span>`;
         searchOffset = rootLength;
