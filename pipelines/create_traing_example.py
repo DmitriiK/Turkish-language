@@ -628,12 +628,44 @@ def load_verbs_from_csv(file_path: str) -> List[VerbData]:
     return verbs
 
 
+def load_verb_tense_exclusions() -> Dict[str, List[str]]:
+    """Load verb-tense exclusion rules from JSON file.
+    
+    Returns:
+        Dictionary mapping verb_infinitive to list of excluded tense names
+    """
+    exclusion_file = Path(__file__).parent.parent / "data" / "verb_tense_exclusions.json"
+    if not exclusion_file.exists():
+        return {}
+    
+    try:
+        with open(exclusion_file, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        
+        # Build lookup dictionary: verb_infinitive -> [excluded_tenses]
+        exclusions = {}
+        for item in data.get("exclusions", []):
+            verb_infinitive = item.get("verb_infinitive")
+            excluded_tenses = item.get("excluded_tenses", [])
+            if verb_infinitive and excluded_tenses:
+                exclusions[verb_infinitive] = excluded_tenses
+        
+        return exclusions
+    except Exception as e:
+        print(f"⚠️  Warning: Failed to load verb_tense_exclusions.json: {e}")
+        return {}
+
+
 def generate_combinations(
     verbs: List[VerbData],
     language_level: LanguageLevel
 ) -> List[Tuple[VerbData, VerbTense, Optional[PersonalPronoun], VerbPolarity]]:
     """Generate combinations of verbs × tenses × pronouns × polarity for given level"""
     combinations = []
+
+    # Load exclusion rules
+    exclusions = load_verb_tense_exclusions()
+    excluded_count = 0
 
     # Filter verb forms by language level
     valid_verb_forms = [
@@ -642,7 +674,14 @@ def generate_combinations(
     ]
     
     for verb in verbs:
+        # Get excluded tenses for this verb
+        excluded_tenses = exclusions.get(verb.verb_infinitive, [])
+        
         for verb_form in valid_verb_forms:
+            # Skip if this verb+tense combination is excluded
+            if verb_form.verb_tense.value in excluded_tenses:
+                excluded_count += 1
+                continue
             # Handle pronouns based on verb form requirements
             if verb_form.type_of_personal_pronoun is None:
                 # No personal pronouns (e.g., participles, infinitives)
@@ -666,6 +705,9 @@ def generate_combinations(
                 ]
                 for pronoun in pronouns:
                     combinations.append((verb, verb_form.verb_tense, pronoun, verb_form.polarity))
+    
+    if excluded_count > 0:
+        print(f"⏭️  Excluded {excluded_count} semantically redundant verb+tense combinations")
     
     return combinations
 

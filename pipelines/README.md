@@ -526,6 +526,54 @@ python pipelines/consolidate_training_examples.py --start-from 1 --top-n-verbs 5
 - Automatically filters verb forms by language level
 - Ensures vocabulary matches learner proficiency
 - Maintains grammatical accuracy across all forms
+- **Semantic redundancy filtering**: Automatically skips verb+tense combinations that are grammatically valid but semantically awkward or unnatural
+
+### Verb-Tense Exclusions
+
+The pipeline automatically excludes semantically redundant verb+tense combinations that are grammatically correct but rarely used in natural Turkish. This improves:
+- **Generation Quality**: Prevents awkward or circular constructions
+- **API Efficiency**: Reduces failed attempts and retries
+- **Data Naturalness**: Ensures examples reflect real Turkish usage
+
+**Excluded Combinations (defined in `data/verb_tense_exclusions.json`):**
+
+| Verb | Excluded Tense(s) | Reason |
+|------|------------------|---------|
+| `gerektirmek` (require) | `gereklilik_kipi` (necessity mood) | Creates redundant "I must require" constructions |
+| `yapabilmek` (be able to do) | `imkan_kipi` (potential mood) | Creates "I can be able to" constructions |
+| `isteyebilmek` (be able to want) | `istek_kipi` (optative mood) | Combines wanting with wishing/wanting |
+| `zorunda olmak` (have to/must) | `gereklilik_kipi`, `zorunluluk_kipi` | Already expresses obligation |
+
+**Example of Problematic Combination:**
+```
+❌ gerektirmek + gereklilik_kipi
+   → "gerektirmeliyim" = "I must require" (semantically redundant)
+   
+✅ Better alternatives:
+   → gerektirmek + şimdiki_zaman = "gerektiriyorum" (I require)
+   → başka_fiil + gereklilik_kipi = "yapmalıyım" (I must do)
+```
+
+**Adding Custom Exclusions:**
+
+Edit `data/verb_tense_exclusions.json`:
+```json
+{
+  "exclusions": [
+    {
+      "verb_infinitive": "gerektirmek",
+      "verb_english": "require",
+      "excluded_tenses": ["gereklilik_kipi"],
+      "reason": "Verb semantically redundant with necessity mood"
+    }
+  ]
+}
+```
+
+The pipeline will automatically skip these combinations during generation and display:
+```
+⏭️  Excluded 12 semantically redundant verb+tense combinations
+```
 
 ### Extensible Design
 - Easy to add new verb tenses

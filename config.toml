@@ -33,6 +33,8 @@ DIAL_API_ENDPOINT="https://ai-proxy.lab.epam.com/openai/deployments/{model_id}/c
 # "https://dklmnopenai.services.ai.azure.com"
 OPENAI_API_VERSION = "2024-08-01-preview"
 OPENAI_MODEL_NAME = "gpt-4o"
+GPT41_MODEL_NAME = "gpt-4.1-2025-04-14"
+# GPT5_MODEL_NAME = "gpt-5-chat-2025-08-07"  # Access denied - requires special permissions
 CLOUD_MODEL_NAME = "anthropic.claude-opus-4-1-20250805-v1:0"
 DEEP_SEEK_MODEL_NAME = "deepseek-r1"
 GEMINI_MODEL_NAME = "gemini-2.5-flash"

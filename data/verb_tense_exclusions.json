@@ -1,0 +1,35 @@
+{
+  "description": "Semantically redundant or unnatural verb+tense combinations to exclude from generation",
+  "exclusions": [
+    {
+      "verb_infinitive": "gerektirmek",
+      "verb_english": "require",
+      "excluded_tenses": ["gereklilik_kipi"],
+      "reason": "Verb 'gerektirmek' (to require/necessitate) is semantically redundant with necessity mood (gereklilik_kipi). Creates unnatural constructions like 'I must require'."
+    },
+    {
+      "verb_infinitive": "isteyebilmek",
+      "verb_english": "be able to want",
+      "excluded_tenses": ["istek_kipi"],
+      "reason": "Verb contains 'istemek' (to want) which is redundant with desiderative/optative mood (istek_kipi)."
+    },
+    {
+      "verb_infinitive": "yapabilmek",
+      "verb_english": "be able to do",
+      "excluded_tenses": ["imkan_kipi"],
+      "reason": "Verb already expresses ability (-abil- suffix) which is redundant with potential mood (imkan_kipi). Creates 'I can be able to' constructions."
+    },
+    {
+      "verb_infinitive": "zorunda olmak",
+      "verb_english": "have to / must",
+      "excluded_tenses": ["gereklilik_kipi", "zorunluluk_kipi"],
+      "reason": "Verb already expresses obligation, redundant with necessity/obligation moods."
+    }
+  ],
+  "notes": [
+    "These combinations are grammatically valid but semantically awkward",
+    "LLMs struggle to generate natural examples for these pairs",
+    "Exclusions improve generation quality and reduce API costs",
+    "Can be overridden with --force-all flag if needed for linguistic completeness"
+  ]
+}

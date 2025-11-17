@@ -52,12 +52,24 @@ def test_list_available_models():
     models = data.get("data", [])
     
     print(f"   ✅ Successfully retrieved {len(models)} models")
-    for model in models[:5]:  # Show first 5
+    
+    # Check for GPT-5.1
+    gpt51_models = [m for m in models if '5.1' in m['id'] or 'gpt-5' in m['id'].lower()]
+    if gpt51_models:
+        print(f"\n   🎉 Found GPT-5.1 models:")
+        for model in gpt51_models:
+            print(f"      • {model['id']}")
+    else:
+        print(f"\n   ⚠️  No GPT-5.1 models found")
+    
+    # Show all models
+    print(f"\n   All {len(models)} available models:")
+    for model in models:
         print(f"      • {model['id']}")
-    if len(models) > 5:
-        print(f"      ... and {len(models) - 5} more")
     
     assert len(models) > 0, "No models returned from API"
+    
+    return gpt51_models
 
 
 def test_claude_haiku_4_5_connection(config):
@@ -97,6 +109,18 @@ def test_deepseek_connection(config):
 
 def test_gemini_connection(config):
     model_id: str = config.get("DIAL_API", {}).get("GEMINI_MODEL_NAME", "gemini-2.5-flash")
+    test_dial_connection(model_id=model_id, config=config)
+
+
+def test_gpt41_connection(config):
+    """Test GPT-4.1 model"""
+    model_id: str = config.get("DIAL_API", {}).get("GPT41_MODEL_NAME", "gpt-4.1-2025-04-14")
+    test_dial_connection(model_id=model_id, config=config)
+
+
+def test_gpt5_connection(config):
+    """Test GPT-5 Chat model (may require special permissions)"""
+    model_id: str = "gpt-5-chat-2025-08-07"
     test_dial_connection(model_id=model_id, config=config)
 
 
