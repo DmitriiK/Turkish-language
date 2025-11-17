@@ -675,7 +675,7 @@ def generate_combinations(
     
     for verb in verbs:
         # Get excluded tenses for this verb
-        excluded_tenses = exclusions.get(verb.verb_infinitive, [])
+        excluded_tenses = exclusions.get(verb.turkish, [])
         
         for verb_form in valid_verb_forms:
             # Skip if this verb+tense combination is excluded
