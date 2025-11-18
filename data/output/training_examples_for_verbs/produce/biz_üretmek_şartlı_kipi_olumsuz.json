@@ -1,0 +1,20 @@
+{
+  "verb_rank": 107,
+  "verb_english": "produce",
+  "verb_russian": "производить",
+  "verb_infinitive": "üretmek",
+  "turkish_verb": {
+    "verb_full": "üretmezsek",
+    "root": "üret",
+    "tense_affix": "se",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If we don't produce enough food, there will be hunger.",
+  "russian_example_sentence": "Если мы не произведем достаточно еды, будет голод.",
+  "turkish_example_sentence": "Biz yeterli gıda üretmezsek, açlık başlar.",
+  "turkish_example_sentence_with_blank": "Biz yeterli gıda ______, açlık başlar."
+}

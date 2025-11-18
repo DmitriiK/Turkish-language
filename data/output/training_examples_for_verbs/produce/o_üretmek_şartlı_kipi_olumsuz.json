@@ -1,0 +1,20 @@
+{
+  "verb_rank": 107,
+  "verb_english": "produce",
+  "verb_russian": "производить",
+  "verb_infinitive": "üretmek",
+  "turkish_verb": {
+    "verb_full": "üretmezse",
+    "root": "üret",
+    "tense_affix": "se",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": "",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If she doesn't produce an idea, the team will be stuck.",
+  "russian_example_sentence": "Если она не произведет идею, команда застрянет.",
+  "turkish_example_sentence": "O yaratıcı bir fikir üretmezse, ekip takılır.",
+  "turkish_example_sentence_with_blank": "O yaratıcı bir fikir ______, ekip takılır."
+}

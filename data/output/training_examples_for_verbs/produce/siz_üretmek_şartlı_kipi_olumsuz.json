@@ -1,0 +1,20 @@
+{
+  "verb_rank": 107,
+  "verb_english": "produce",
+  "verb_russian": "производить",
+  "verb_infinitive": "üretmek",
+  "turkish_verb": {
+    "verb_full": "üretmezseniz",
+    "root": "üret",
+    "tense_affix": "se",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "niz",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If you don't produce clear instructions, mistakes will happen.",
+  "russian_example_sentence": "Если вы не произведете четкие инструкции, произойдут ошибки.",
+  "turkish_example_sentence": "Siz açık talimatlar üretmezseniz, hatalar meydana gelir.",
+  "turkish_example_sentence_with_blank": "Siz açık talimatlar ______, hatalar meydana gelir."
+}

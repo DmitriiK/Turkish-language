@@ -1,0 +1,20 @@
+{
+  "verb_rank": 107,
+  "verb_english": "produce",
+  "verb_russian": "производить",
+  "verb_infinitive": "üretmek",
+  "turkish_verb": {
+    "verb_full": "üretmezsem",
+    "root": "üret",
+    "tense_affix": "se",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If I don't produce enough energy, the factory will stop.",
+  "russian_example_sentence": "Если я не произведу достаточно энергии, завод остановится.",
+  "turkish_example_sentence": "Ben yeterli enerji üretmezsem, fabrika durur.",
+  "turkish_example_sentence_with_blank": "Ben yeterli enerji ______, fabrika durur."
+}

@@ -7,6 +7,42 @@
   "examples": [
     {
       "tense": "emir_kipi",
+      "pronoun": "o",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/o_anlaşmak_emir_kipi_olumsuz.json"
+    },
+    {
+      "tense": "emir_kipi",
+      "pronoun": "onlar",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/onlar_anlaşmak_emir_kipi_olumsuz.json"
+    },
+    {
+      "tense": "emir_kipi",
+      "pronoun": "sen",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/sen_anlaşmak_emir_kipi_olumsuz.json"
+    },
+    {
+      "tense": "emir_kipi",
+      "pronoun": "siz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/siz_anlaşmak_emir_kipi_olumsuz.json"
+    },
+    {
+      "tense": "emir_kipi",
+      "pronoun": "o",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/agree/o_anlaşmak_emir_kipi.json"
+    },
+    {
+      "tense": "emir_kipi",
+      "pronoun": "onlar",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/agree/onlar_anlaşmak_emir_kipi.json"
+    },
+    {
+      "tense": "emir_kipi",
       "pronoun": "sen",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/agree/sen_anlaşmak_emir_kipi.json"
@@ -16,6 +52,42 @@
       "pronoun": "siz",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/agree/siz_anlaşmak_emir_kipi.json"
+    },
+    {
+      "tense": "farzî_geçmiş_zaman",
+      "pronoun": "ben",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/ben_anlaşmak_farzî_geçmiş_zaman_olumsuz.json"
+    },
+    {
+      "tense": "farzî_geçmiş_zaman",
+      "pronoun": "biz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/biz_anlaşmak_farzî_geçmiş_zaman_olumsuz.json"
+    },
+    {
+      "tense": "farzî_geçmiş_zaman",
+      "pronoun": "o",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/o_anlaşmak_farzî_geçmiş_zaman_olumsuz.json"
+    },
+    {
+      "tense": "farzî_geçmiş_zaman",
+      "pronoun": "onlar",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/onlar_anlaşmak_farzî_geçmiş_zaman_olumsuz.json"
+    },
+    {
+      "tense": "farzî_geçmiş_zaman",
+      "pronoun": "sen",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/sen_anlaşmak_farzî_geçmiş_zaman_olumsuz.json"
+    },
+    {
+      "tense": "farzî_geçmiş_zaman",
+      "pronoun": "siz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/siz_anlaşmak_farzî_geçmiş_zaman_olumsuz.json"
     },
     {
       "tense": "farzî_geçmiş_zaman",
@@ -198,6 +270,114 @@
       "file_path": "data/output/training_examples_for_verbs/agree/siz_anlaşmak_geniş_zaman.json"
     },
     {
+      "tense": "gereklilik_kipi",
+      "pronoun": "ben",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/ben_anlaşmak_gereklilik_kipi_olumsuz.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "biz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/biz_anlaşmak_gereklilik_kipi_olumsuz.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "o",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/o_anlaşmak_gereklilik_kipi_olumsuz.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "onlar",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/onlar_anlaşmak_gereklilik_kipi_olumsuz.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "sen",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/sen_anlaşmak_gereklilik_kipi_olumsuz.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "siz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/siz_anlaşmak_gereklilik_kipi_olumsuz.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "ben",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/agree/ben_anlaşmak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "biz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/agree/biz_anlaşmak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "o",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/agree/o_anlaşmak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "onlar",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/agree/onlar_anlaşmak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "sen",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/agree/sen_anlaşmak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "siz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/agree/siz_anlaşmak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "geçmiş_gelecek_zaman",
+      "pronoun": "ben",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/ben_anlaşmak_geçmiş_gelecek_zaman_olumsuz.json"
+    },
+    {
+      "tense": "geçmiş_gelecek_zaman",
+      "pronoun": "biz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/biz_anlaşmak_geçmiş_gelecek_zaman_olumsuz.json"
+    },
+    {
+      "tense": "geçmiş_gelecek_zaman",
+      "pronoun": "o",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/o_anlaşmak_geçmiş_gelecek_zaman_olumsuz.json"
+    },
+    {
+      "tense": "geçmiş_gelecek_zaman",
+      "pronoun": "onlar",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/onlar_anlaşmak_geçmiş_gelecek_zaman_olumsuz.json"
+    },
+    {
+      "tense": "geçmiş_gelecek_zaman",
+      "pronoun": "sen",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/sen_anlaşmak_geçmiş_gelecek_zaman_olumsuz.json"
+    },
+    {
+      "tense": "geçmiş_gelecek_zaman",
+      "pronoun": "siz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/siz_anlaşmak_geçmiş_gelecek_zaman_olumsuz.json"
+    },
+    {
       "tense": "geçmiş_gelecek_zaman",
       "pronoun": "ben",
       "polarity": "positive",
@@ -308,6 +488,42 @@
     {
       "tense": "imkan_kipi",
       "pronoun": "ben",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/ben_anlaşmak_imkan_kipi_olumsuz.json"
+    },
+    {
+      "tense": "imkan_kipi",
+      "pronoun": "biz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/biz_anlaşmak_imkan_kipi_olumsuz.json"
+    },
+    {
+      "tense": "imkan_kipi",
+      "pronoun": "o",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/o_anlaşmak_imkan_kipi_olumsuz.json"
+    },
+    {
+      "tense": "imkan_kipi",
+      "pronoun": "onlar",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/onlar_anlaşmak_imkan_kipi_olumsuz.json"
+    },
+    {
+      "tense": "imkan_kipi",
+      "pronoun": "sen",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/sen_anlaşmak_imkan_kipi_olumsuz.json"
+    },
+    {
+      "tense": "imkan_kipi",
+      "pronoun": "siz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/siz_anlaşmak_imkan_kipi_olumsuz.json"
+    },
+    {
+      "tense": "imkan_kipi",
+      "pronoun": "ben",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/agree/ben_anlaşmak_imkan_kipi.json"
     },
@@ -340,6 +556,42 @@
       "pronoun": "siz",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/agree/siz_anlaşmak_imkan_kipi.json"
+    },
+    {
+      "tense": "istek_kipi",
+      "pronoun": "ben",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/ben_anlaşmak_istek_kipi_olumsuz.json"
+    },
+    {
+      "tense": "istek_kipi",
+      "pronoun": "biz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/biz_anlaşmak_istek_kipi_olumsuz.json"
+    },
+    {
+      "tense": "istek_kipi",
+      "pronoun": "o",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/o_anlaşmak_istek_kipi_olumsuz.json"
+    },
+    {
+      "tense": "istek_kipi",
+      "pronoun": "onlar",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/onlar_anlaşmak_istek_kipi_olumsuz.json"
+    },
+    {
+      "tense": "istek_kipi",
+      "pronoun": "sen",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/sen_anlaşmak_istek_kipi_olumsuz.json"
+    },
+    {
+      "tense": "istek_kipi",
+      "pronoun": "siz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/siz_anlaşmak_istek_kipi_olumsuz.json"
     },
     {
       "tense": "istek_kipi",
@@ -380,14 +632,68 @@
     {
       "tense": "sıfat_fiil",
       "pronoun": "none",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/none_anlaşmak_sıfat_fiil_olumsuz.json"
+    },
+    {
+      "tense": "sıfat_fiil",
+      "pronoun": "none",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/agree/none_anlaşmak_sıfat_fiil.json"
     },
     {
       "tense": "ulak_fiil",
       "pronoun": "none",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/none_anlaşmak_ulak_fiil_olumsuz.json"
+    },
+    {
+      "tense": "ulak_fiil",
+      "pronoun": "none",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/agree/none_anlaşmak_ulak_fiil.json"
+    },
+    {
+      "tense": "yaracağım",
+      "pronoun": "ben",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/ben_anlaşmak_yaracağım_olumsuz.json"
+    },
+    {
+      "tense": "yaracağım",
+      "pronoun": "biz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/biz_anlaşmak_yaracağım_olumsuz.json"
+    },
+    {
+      "tense": "yaracağım",
+      "pronoun": "o",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/o_anlaşmak_yaracağım_olumsuz.json"
+    },
+    {
+      "tense": "yaracağım",
+      "pronoun": "onlar",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/onlar_anlaşmak_yaracağım_olumsuz.json"
+    },
+    {
+      "tense": "yaracağım",
+      "pronoun": "sen",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/sen_anlaşmak_yaracağım_olumsuz.json"
+    },
+    {
+      "tense": "yaracağım",
+      "pronoun": "siz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/siz_anlaşmak_yaracağım_olumsuz.json"
+    },
+    {
+      "tense": "yaracağım",
+      "pronoun": "ben",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/agree/ben_anlaşmak_yaracağım.json"
     },
     {
       "tense": "yaracağım",
@@ -418,6 +724,42 @@
       "pronoun": "siz",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/agree/siz_anlaşmak_yaracağım.json"
+    },
+    {
+      "tense": "zaman_sıfatı",
+      "pronoun": "ben",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/ben_anlaşmak_zaman_sıfatı_olumsuz.json"
+    },
+    {
+      "tense": "zaman_sıfatı",
+      "pronoun": "biz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/biz_anlaşmak_zaman_sıfatı_olumsuz.json"
+    },
+    {
+      "tense": "zaman_sıfatı",
+      "pronoun": "o",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/o_anlaşmak_zaman_sıfatı_olumsuz.json"
+    },
+    {
+      "tense": "zaman_sıfatı",
+      "pronoun": "onlar",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/onlar_anlaşmak_zaman_sıfatı_olumsuz.json"
+    },
+    {
+      "tense": "zaman_sıfatı",
+      "pronoun": "sen",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/sen_anlaşmak_zaman_sıfatı_olumsuz.json"
+    },
+    {
+      "tense": "zaman_sıfatı",
+      "pronoun": "siz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/siz_anlaşmak_zaman_sıfatı_olumsuz.json"
     },
     {
       "tense": "zaman_sıfatı",
@@ -458,8 +800,50 @@
     {
       "tense": "zarf_fiil",
       "pronoun": "none",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/none_anlaşmak_zarf_fiil_olumsuz.json"
+    },
+    {
+      "tense": "zarf_fiil",
+      "pronoun": "none",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/agree/none_anlaşmak_zarf_fiil.json"
+    },
+    {
+      "tense": "zorunluluk_kipi",
+      "pronoun": "ben",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/ben_anlaşmak_zorunluluk_kipi_olumsuz.json"
+    },
+    {
+      "tense": "zorunluluk_kipi",
+      "pronoun": "biz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/biz_anlaşmak_zorunluluk_kipi_olumsuz.json"
+    },
+    {
+      "tense": "zorunluluk_kipi",
+      "pronoun": "o",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/o_anlaşmak_zorunluluk_kipi_olumsuz.json"
+    },
+    {
+      "tense": "zorunluluk_kipi",
+      "pronoun": "onlar",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/onlar_anlaşmak_zorunluluk_kipi_olumsuz.json"
+    },
+    {
+      "tense": "zorunluluk_kipi",
+      "pronoun": "sen",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/sen_anlaşmak_zorunluluk_kipi_olumsuz.json"
+    },
+    {
+      "tense": "zorunluluk_kipi",
+      "pronoun": "siz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/siz_anlaşmak_zorunluluk_kipi_olumsuz.json"
     },
     {
       "tense": "zorunluluk_kipi",
@@ -500,6 +884,42 @@
     {
       "tense": "şart_kipi",
       "pronoun": "ben",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/ben_anlaşmak_şart_kipi_olumsuz.json"
+    },
+    {
+      "tense": "şart_kipi",
+      "pronoun": "biz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/biz_anlaşmak_şart_kipi_olumsuz.json"
+    },
+    {
+      "tense": "şart_kipi",
+      "pronoun": "o",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/o_anlaşmak_şart_kipi_olumsuz.json"
+    },
+    {
+      "tense": "şart_kipi",
+      "pronoun": "onlar",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/onlar_anlaşmak_şart_kipi_olumsuz.json"
+    },
+    {
+      "tense": "şart_kipi",
+      "pronoun": "sen",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/sen_anlaşmak_şart_kipi_olumsuz.json"
+    },
+    {
+      "tense": "şart_kipi",
+      "pronoun": "siz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/siz_anlaşmak_şart_kipi_olumsuz.json"
+    },
+    {
+      "tense": "şart_kipi",
+      "pronoun": "ben",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/agree/ben_anlaşmak_şart_kipi.json"
     },
@@ -532,6 +952,42 @@
       "pronoun": "siz",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/agree/siz_anlaşmak_şart_kipi.json"
+    },
+    {
+      "tense": "şartlı_kipi",
+      "pronoun": "ben",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/ben_anlaşmak_şartlı_kipi_olumsuz.json"
+    },
+    {
+      "tense": "şartlı_kipi",
+      "pronoun": "biz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/biz_anlaşmak_şartlı_kipi_olumsuz.json"
+    },
+    {
+      "tense": "şartlı_kipi",
+      "pronoun": "o",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/o_anlaşmak_şartlı_kipi_olumsuz.json"
+    },
+    {
+      "tense": "şartlı_kipi",
+      "pronoun": "onlar",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/onlar_anlaşmak_şartlı_kipi_olumsuz.json"
+    },
+    {
+      "tense": "şartlı_kipi",
+      "pronoun": "sen",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/sen_anlaşmak_şartlı_kipi_olumsuz.json"
+    },
+    {
+      "tense": "şartlı_kipi",
+      "pronoun": "siz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/agree/siz_anlaşmak_şartlı_kipi_olumsuz.json"
     },
     {
       "tense": "şartlı_kipi",

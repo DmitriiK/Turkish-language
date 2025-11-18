@@ -1,0 +1,20 @@
+{
+  "verb_rank": 107,
+  "verb_english": "produce",
+  "verb_russian": "производить",
+  "verb_infinitive": "üretmek",
+  "turkish_verb": {
+    "verb_full": "üretmemişlerse",
+    "root": "üret",
+    "tense_affix": "miş",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "onlar",
+    "personal_affix": "lerse",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If they hadn't produced any evidence, the court would have dismissed the case.",
+  "russian_example_sentence": "Если бы они не представили никаких доказательств, суд бы отклонил дело.",
+  "turkish_example_sentence": "Hiçbir kanıt üretmemişlerse, mahkeme davayı düşürürdü.",
+  "turkish_example_sentence_with_blank": "Hiçbir kanıt ______, mahkeme davayı düşürürdü."
+}

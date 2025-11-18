@@ -7,9 +7,87 @@
   "examples": [
     {
       "tense": "emir_kipi",
+      "pronoun": "o",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/o_satmak_emir_kipi_olumsuz.json"
+    },
+    {
+      "tense": "emir_kipi",
+      "pronoun": "onlar",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/onlar_satmak_emir_kipi_olumsuz.json"
+    },
+    {
+      "tense": "emir_kipi",
+      "pronoun": "sen",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/sen_satmak_emir_kipi_olumsuz.json"
+    },
+    {
+      "tense": "emir_kipi",
+      "pronoun": "siz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/siz_satmak_emir_kipi_olumsuz.json"
+    },
+    {
+      "tense": "emir_kipi",
+      "pronoun": "o",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/sell/o_satmak_emir_kipi.json"
+    },
+    {
+      "tense": "emir_kipi",
+      "pronoun": "onlar",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/sell/onlar_satmak_emir_kipi.json"
+    },
+    {
+      "tense": "emir_kipi",
       "pronoun": "sen",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/sell/sen_satmak_emir_kipi.json"
+    },
+    {
+      "tense": "emir_kipi",
+      "pronoun": "siz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/sell/siz_satmak_emir_kipi.json"
+    },
+    {
+      "tense": "farzî_geçmiş_zaman",
+      "pronoun": "ben",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/ben_satmak_farzî_geçmiş_zaman_olumsuz.json"
+    },
+    {
+      "tense": "farzî_geçmiş_zaman",
+      "pronoun": "biz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/biz_satmak_farzî_geçmiş_zaman_olumsuz.json"
+    },
+    {
+      "tense": "farzî_geçmiş_zaman",
+      "pronoun": "o",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/o_satmak_farzî_geçmiş_zaman_olumsuz.json"
+    },
+    {
+      "tense": "farzî_geçmiş_zaman",
+      "pronoun": "onlar",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/onlar_satmak_farzî_geçmiş_zaman_olumsuz.json"
+    },
+    {
+      "tense": "farzî_geçmiş_zaman",
+      "pronoun": "sen",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/sen_satmak_farzî_geçmiş_zaman_olumsuz.json"
+    },
+    {
+      "tense": "farzî_geçmiş_zaman",
+      "pronoun": "siz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/siz_satmak_farzî_geçmiş_zaman_olumsuz.json"
     },
     {
       "tense": "farzî_geçmiş_zaman",
@@ -194,6 +272,42 @@
     {
       "tense": "gereklilik_kipi",
       "pronoun": "ben",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/ben_satmak_gereklilik_kipi_olumsuz.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "biz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/biz_satmak_gereklilik_kipi_olumsuz.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "o",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/o_satmak_gereklilik_kipi_olumsuz.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "onlar",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/onlar_satmak_gereklilik_kipi_olumsuz.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "sen",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/sen_satmak_gereklilik_kipi_olumsuz.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "siz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/siz_satmak_gereklilik_kipi_olumsuz.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "ben",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/sell/ben_satmak_gereklilik_kipi.json"
     },
@@ -226,6 +340,42 @@
       "pronoun": "siz",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/sell/siz_satmak_gereklilik_kipi.json"
+    },
+    {
+      "tense": "geçmiş_gelecek_zaman",
+      "pronoun": "ben",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/ben_satmak_geçmiş_gelecek_zaman_olumsuz.json"
+    },
+    {
+      "tense": "geçmiş_gelecek_zaman",
+      "pronoun": "biz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/biz_satmak_geçmiş_gelecek_zaman_olumsuz.json"
+    },
+    {
+      "tense": "geçmiş_gelecek_zaman",
+      "pronoun": "o",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/o_satmak_geçmiş_gelecek_zaman_olumsuz.json"
+    },
+    {
+      "tense": "geçmiş_gelecek_zaman",
+      "pronoun": "onlar",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/onlar_satmak_geçmiş_gelecek_zaman_olumsuz.json"
+    },
+    {
+      "tense": "geçmiş_gelecek_zaman",
+      "pronoun": "sen",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/sen_satmak_geçmiş_gelecek_zaman_olumsuz.json"
+    },
+    {
+      "tense": "geçmiş_gelecek_zaman",
+      "pronoun": "siz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/siz_satmak_geçmiş_gelecek_zaman_olumsuz.json"
     },
     {
       "tense": "geçmiş_gelecek_zaman",
@@ -338,6 +488,42 @@
     {
       "tense": "imkan_kipi",
       "pronoun": "ben",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/ben_satmak_imkan_kipi_olumsuz.json"
+    },
+    {
+      "tense": "imkan_kipi",
+      "pronoun": "biz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/biz_satmak_imkan_kipi_olumsuz.json"
+    },
+    {
+      "tense": "imkan_kipi",
+      "pronoun": "o",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/o_satmak_imkan_kipi_olumsuz.json"
+    },
+    {
+      "tense": "imkan_kipi",
+      "pronoun": "onlar",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/onlar_satmak_imkan_kipi_olumsuz.json"
+    },
+    {
+      "tense": "imkan_kipi",
+      "pronoun": "sen",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/sen_satmak_imkan_kipi_olumsuz.json"
+    },
+    {
+      "tense": "imkan_kipi",
+      "pronoun": "siz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/siz_satmak_imkan_kipi_olumsuz.json"
+    },
+    {
+      "tense": "imkan_kipi",
+      "pronoun": "ben",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/sell/ben_satmak_imkan_kipi.json"
     },
@@ -370,6 +556,42 @@
       "pronoun": "siz",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/sell/siz_satmak_imkan_kipi.json"
+    },
+    {
+      "tense": "istek_kipi",
+      "pronoun": "ben",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/ben_satmak_istek_kipi_olumsuz.json"
+    },
+    {
+      "tense": "istek_kipi",
+      "pronoun": "biz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/biz_satmak_istek_kipi_olumsuz.json"
+    },
+    {
+      "tense": "istek_kipi",
+      "pronoun": "o",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/o_satmak_istek_kipi_olumsuz.json"
+    },
+    {
+      "tense": "istek_kipi",
+      "pronoun": "onlar",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/onlar_satmak_istek_kipi_olumsuz.json"
+    },
+    {
+      "tense": "istek_kipi",
+      "pronoun": "sen",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/sen_satmak_istek_kipi_olumsuz.json"
+    },
+    {
+      "tense": "istek_kipi",
+      "pronoun": "siz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/siz_satmak_istek_kipi_olumsuz.json"
     },
     {
       "tense": "istek_kipi",
@@ -410,14 +632,62 @@
     {
       "tense": "sıfat_fiil",
       "pronoun": "none",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/none_satmak_sıfat_fiil_olumsuz.json"
+    },
+    {
+      "tense": "sıfat_fiil",
+      "pronoun": "none",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/sell/none_satmak_sıfat_fiil.json"
     },
     {
       "tense": "ulak_fiil",
       "pronoun": "none",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/none_satmak_ulak_fiil_olumsuz.json"
+    },
+    {
+      "tense": "ulak_fiil",
+      "pronoun": "none",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/sell/none_satmak_ulak_fiil.json"
+    },
+    {
+      "tense": "yaracağım",
+      "pronoun": "ben",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/ben_satmak_yaracağım_olumsuz.json"
+    },
+    {
+      "tense": "yaracağım",
+      "pronoun": "biz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/biz_satmak_yaracağım_olumsuz.json"
+    },
+    {
+      "tense": "yaracağım",
+      "pronoun": "o",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/o_satmak_yaracağım_olumsuz.json"
+    },
+    {
+      "tense": "yaracağım",
+      "pronoun": "onlar",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/onlar_satmak_yaracağım_olumsuz.json"
+    },
+    {
+      "tense": "yaracağım",
+      "pronoun": "sen",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/sen_satmak_yaracağım_olumsuz.json"
+    },
+    {
+      "tense": "yaracağım",
+      "pronoun": "siz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/siz_satmak_yaracağım_olumsuz.json"
     },
     {
       "tense": "yaracağım",
@@ -458,6 +728,42 @@
     {
       "tense": "zaman_sıfatı",
       "pronoun": "ben",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/ben_satmak_zaman_sıfatı_olumsuz.json"
+    },
+    {
+      "tense": "zaman_sıfatı",
+      "pronoun": "biz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/biz_satmak_zaman_sıfatı_olumsuz.json"
+    },
+    {
+      "tense": "zaman_sıfatı",
+      "pronoun": "o",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/o_satmak_zaman_sıfatı_olumsuz.json"
+    },
+    {
+      "tense": "zaman_sıfatı",
+      "pronoun": "onlar",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/onlar_satmak_zaman_sıfatı_olumsuz.json"
+    },
+    {
+      "tense": "zaman_sıfatı",
+      "pronoun": "sen",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/sen_satmak_zaman_sıfatı_olumsuz.json"
+    },
+    {
+      "tense": "zaman_sıfatı",
+      "pronoun": "siz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/siz_satmak_zaman_sıfatı_olumsuz.json"
+    },
+    {
+      "tense": "zaman_sıfatı",
+      "pronoun": "ben",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/sell/ben_satmak_zaman_sıfatı.json"
     },
@@ -494,8 +800,50 @@
     {
       "tense": "zarf_fiil",
       "pronoun": "none",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/none_satmak_zarf_fiil_olumsuz.json"
+    },
+    {
+      "tense": "zarf_fiil",
+      "pronoun": "none",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/sell/none_satmak_zarf_fiil.json"
+    },
+    {
+      "tense": "zorunluluk_kipi",
+      "pronoun": "ben",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/ben_satmak_zorunluluk_kipi_olumsuz.json"
+    },
+    {
+      "tense": "zorunluluk_kipi",
+      "pronoun": "biz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/biz_satmak_zorunluluk_kipi_olumsuz.json"
+    },
+    {
+      "tense": "zorunluluk_kipi",
+      "pronoun": "o",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/o_satmak_zorunluluk_kipi_olumsuz.json"
+    },
+    {
+      "tense": "zorunluluk_kipi",
+      "pronoun": "onlar",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/onlar_satmak_zorunluluk_kipi_olumsuz.json"
+    },
+    {
+      "tense": "zorunluluk_kipi",
+      "pronoun": "sen",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/sen_satmak_zorunluluk_kipi_olumsuz.json"
+    },
+    {
+      "tense": "zorunluluk_kipi",
+      "pronoun": "siz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/siz_satmak_zorunluluk_kipi_olumsuz.json"
     },
     {
       "tense": "zorunluluk_kipi",
@@ -536,6 +884,42 @@
     {
       "tense": "şart_kipi",
       "pronoun": "ben",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/ben_satmak_şart_kipi_olumsuz.json"
+    },
+    {
+      "tense": "şart_kipi",
+      "pronoun": "biz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/biz_satmak_şart_kipi_olumsuz.json"
+    },
+    {
+      "tense": "şart_kipi",
+      "pronoun": "o",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/o_satmak_şart_kipi_olumsuz.json"
+    },
+    {
+      "tense": "şart_kipi",
+      "pronoun": "onlar",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/onlar_satmak_şart_kipi_olumsuz.json"
+    },
+    {
+      "tense": "şart_kipi",
+      "pronoun": "sen",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/sen_satmak_şart_kipi_olumsuz.json"
+    },
+    {
+      "tense": "şart_kipi",
+      "pronoun": "siz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/siz_satmak_şart_kipi_olumsuz.json"
+    },
+    {
+      "tense": "şart_kipi",
+      "pronoun": "ben",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/sell/ben_satmak_şart_kipi.json"
     },
@@ -572,6 +956,42 @@
     {
       "tense": "şartlı_kipi",
       "pronoun": "ben",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/ben_satmak_şartlı_kipi_olumsuz.json"
+    },
+    {
+      "tense": "şartlı_kipi",
+      "pronoun": "biz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/biz_satmak_şartlı_kipi_olumsuz.json"
+    },
+    {
+      "tense": "şartlı_kipi",
+      "pronoun": "o",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/o_satmak_şartlı_kipi_olumsuz.json"
+    },
+    {
+      "tense": "şartlı_kipi",
+      "pronoun": "onlar",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/onlar_satmak_şartlı_kipi_olumsuz.json"
+    },
+    {
+      "tense": "şartlı_kipi",
+      "pronoun": "sen",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/sen_satmak_şartlı_kipi_olumsuz.json"
+    },
+    {
+      "tense": "şartlı_kipi",
+      "pronoun": "siz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/sell/siz_satmak_şartlı_kipi_olumsuz.json"
+    },
+    {
+      "tense": "şartlı_kipi",
+      "pronoun": "ben",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/sell/ben_satmak_şartlı_kipi.json"
     },
@@ -583,9 +1003,21 @@
     },
     {
       "tense": "şartlı_kipi",
+      "pronoun": "o",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/sell/o_satmak_şartlı_kipi.json"
+    },
+    {
+      "tense": "şartlı_kipi",
       "pronoun": "onlar",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/sell/onlar_satmak_şartlı_kipi.json"
+    },
+    {
+      "tense": "şartlı_kipi",
+      "pronoun": "sen",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/sell/sen_satmak_şartlı_kipi.json"
     },
     {
       "tense": "şartlı_kipi",

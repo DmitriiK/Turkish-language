@@ -1,0 +1,20 @@
+{
+  "verb_rank": 106,
+  "verb_english": "hit",
+  "verb_russian": "ударять",
+  "verb_infinitive": "vurmak",
+  "turkish_verb": {
+    "verb_full": "vurmamışsan",
+    "root": "vur",
+    "tense_affix": "muşsa",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If you hadn’t hit the table, it wouldn’t have moved.",
+  "russian_example_sentence": "Если бы ты не ударил по столу, он бы не сдвинулся.",
+  "turkish_example_sentence": "Sen masaya vurmamışsan hareket etmezdi.",
+  "turkish_example_sentence_with_blank": "Sen masaya ______ hareket etmezdi."
+}
