@@ -1,0 +1,20 @@
+{
+  "verb_rank": 90,
+  "verb_english": "raise",
+  "verb_russian": "поднимать",
+  "verb_infinitive": "kaldırmak",
+  "turkish_verb": {
+    "verb_full": "kaldırmaları lazım değil",
+    "root": "kaldır",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "ları",
+    "polarity": "negative",
+    "negative_affix": "değil"
+  },
+  "english_example_sentence": "They don't need to raise the expensive painting",
+  "russian_example_sentence": "Им не нужно поднимать дорогую картину",
+  "turkish_example_sentence": "Onlar pahalı tabloyu kaldırmaları lazım değil",
+  "turkish_example_sentence_with_blank": "Onlar pahalı tabloyu ______"
+}

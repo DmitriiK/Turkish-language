@@ -1,0 +1,20 @@
+{
+  "verb_rank": 78,
+  "verb_english": "serve",
+  "verb_russian": "обслуживать",
+  "verb_infinitive": "hizmet etmek",
+  "turkish_verb": {
+    "verb_full": "hizmet etmezse",
+    "root": "hizmet et",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If I do not serve fresh salad, customers will complain loudly",
+  "russian_example_sentence": "Если я не подам свежий салат, клиенты будут жаловаться",
+  "turkish_example_sentence": "Eğer ben taze yeşil salatayı hizmet etmezsem, müşteriler şikayetçi olacaklar",
+  "turkish_example_sentence_with_blank": "Eğer ben taze yeşil salatayı ______m, müşteriler şikayetçi olacaklar"
+}

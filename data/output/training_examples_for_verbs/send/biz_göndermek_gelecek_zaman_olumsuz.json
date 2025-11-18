@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "göndermeyeceğiz",
+    "root": "gönder",
+    "tense_affix": "ecek",
+    "verb_tense": "gelecek_zaman",
+    "personal_pronoun": "biz",
+    "personal_affix": "iz",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "We will not send the heavy furniture boxes",
+  "russian_example_sentence": "Мы не отправим тяжелые коробки с мебелью",
+  "turkish_example_sentence": "Biz ağır mobilya kutularını göndermeyeceğiz",
+  "turkish_example_sentence_with_blank": "Biz ağır mobilya kutularını ______"
+}

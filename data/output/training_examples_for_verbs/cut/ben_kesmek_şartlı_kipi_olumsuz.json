@@ -1,0 +1,20 @@
+{
+  "verb_rank": 85,
+  "verb_english": "cut",
+  "verb_russian": "резать",
+  "verb_infinitive": "kesmek",
+  "turkish_verb": {
+    "verb_full": "kesmezsen",
+    "root": "kes",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If I do not cut the thick white bread, we cannot make sandwiches",
+  "russian_example_sentence": "Если я не нарежу толстый белый хлеб, мы не сможем сделать бутерброды",
+  "turkish_example_sentence": "Ben kalın beyaz ekmeği kesmezsen, sandviç yapamayız",
+  "turkish_example_sentence_with_blank": "Ben kalın beyaz ekmeği ______, sandviç yapamayız"
+}

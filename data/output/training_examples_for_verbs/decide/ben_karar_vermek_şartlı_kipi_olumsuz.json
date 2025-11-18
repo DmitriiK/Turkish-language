@@ -1,0 +1,20 @@
+{
+  "verb_rank": 95,
+  "verb_english": "decide",
+  "verb_russian": "решать",
+  "verb_infinitive": "karar vermek",
+  "turkish_verb": {
+    "verb_full": "karar vermezsem",
+    "root": "karar ver",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "sem",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If I don’t decide now, I will lose my chance",
+  "russian_example_sentence": "Если я не решу сейчас, я упущу шанс",
+  "turkish_example_sentence": "Ben şimdi karar vermezsem fırsatımı kaybederim",
+  "turkish_example_sentence_with_blank": "Ben şimdi ______ fırsatımı kaybederim"
+}

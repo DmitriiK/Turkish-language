@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "gönderirsem",
+    "root": "gönder",
+    "tense_affix": "irse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If I send the urgent email today, they will respond quickly",
+  "russian_example_sentence": "Если я отправлю срочное письмо сегодня, они ответят быстро",
+  "turkish_example_sentence": "Ben acil e-postayı bugün gönderirsem, hemen cevap verirler",
+  "turkish_example_sentence_with_blank": "Ben acil e-postayı bugün ______, hemen cevap verirler"
+}

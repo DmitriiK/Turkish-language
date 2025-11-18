@@ -1,0 +1,20 @@
+{
+  "verb_rank": 76,
+  "verb_english": "buy",
+  "verb_russian": "покупать",
+  "verb_infinitive": "satın almak",
+  "turkish_verb": {
+    "verb_full": "satın alamazsın",
+    "root": "satın al",
+    "tense_affix": "ama",
+    "verb_tense": "imkan_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "zsın",
+    "polarity": "negative",
+    "negative_affix": "ama"
+  },
+  "english_example_sentence": "You cannot buy tickets without a valid ID",
+  "russian_example_sentence": "Ты не можешь купить билеты без действительного удостоверения личности",
+  "turkish_example_sentence": "Sen geçerli bir kimlik olmadan konser biletlerini satın alamazsın",
+  "turkish_example_sentence_with_blank": "Sen geçerli bir kimlik olmadan konser biletlerini ______"
+}

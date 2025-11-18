@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "göndermesi lazım",
+    "root": "gönder",
+    "tense_affix": "me",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": "si",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "He needs to send the important invitation",
+  "russian_example_sentence": "Ему нужно отправить важное приглашение",
+  "turkish_example_sentence": "O resmi davetiyeyi göndermesi lazım",
+  "turkish_example_sentence_with_blank": "O resmi davetiyeyi ______"
+}

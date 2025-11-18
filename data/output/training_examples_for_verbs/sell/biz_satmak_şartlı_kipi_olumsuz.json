@@ -1,0 +1,20 @@
+{
+  "verb_rank": 92,
+  "verb_english": "sell",
+  "verb_russian": "продавать",
+  "verb_infinitive": "satmak",
+  "turkish_verb": {
+    "verb_full": "satmazsak",
+    "root": "sat",
+    "tense_affix": "arsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If we don't sell tickets, the show will be empty.",
+  "russian_example_sentence": "Если мы не продаем билеты, шоу будет пустым.",
+  "turkish_example_sentence": "Biletleri satmazsak, etkinlik boş olacak.",
+  "turkish_example_sentence_with_blank": "Biletleri ______, etkinlik boş olacak."
+}

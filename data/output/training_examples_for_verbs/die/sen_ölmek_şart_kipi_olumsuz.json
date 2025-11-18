@@ -1,0 +1,20 @@
+{
+  "verb_rank": 79,
+  "verb_english": "die",
+  "verb_russian": "умирать",
+  "verb_infinitive": "ölmek",
+  "turkish_verb": {
+    "verb_full": "ölmesen",
+    "root": "öl",
+    "tense_affix": "se",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If you do not die from this terrible disease, you will be very lucky",
+  "russian_example_sentence": "Если ты не умрешь от этой ужасной болезни, тебе повезет",
+  "turkish_example_sentence": "Sen bu korkunç hastalıktan ölmesen, çok şanslı ve mutlu olacaksın",
+  "turkish_example_sentence_with_blank": "Sen bu korkunç hastalıktan ______, çok şanslı ve mutlu olacaksın"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 95,
+  "verb_english": "decide",
+  "verb_russian": "решать",
+  "verb_infinitive": "karar vermek",
+  "turkish_verb": {
+    "verb_full": "karar vermemişlerse",
+    "root": "karar ver",
+    "tense_affix": "mişse",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "onlar",
+    "personal_affix": "ler",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If they hadn’t decided, the project might have failed.",
+  "russian_example_sentence": "Если бы они не решили, проект мог бы провалиться.",
+  "turkish_example_sentence": "Eğer karar vermemişlerse, proje başarısız olabilirdi.",
+  "turkish_example_sentence_with_blank": "Eğer ______, proje başarısız olabilirdi."
+}

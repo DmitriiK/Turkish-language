@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "göndermeyeyim",
+    "root": "gönder",
+    "tense_affix": "e",
+    "verb_tense": "istek_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "yim",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "Let me not send this confidential document today",
+  "russian_example_sentence": "Позвольте мне не отправлять этот конфиденциальный документ сегодня",
+  "turkish_example_sentence": "Ben bu gizli belgeyi bugün göndermeyeyim",
+  "turkish_example_sentence_with_blank": "Ben bu gizli belgeyi bugün ______"
+}

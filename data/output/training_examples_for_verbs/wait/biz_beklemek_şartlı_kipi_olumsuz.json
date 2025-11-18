@@ -1,0 +1,20 @@
+{
+  "verb_rank": 77,
+  "verb_english": "wait",
+  "verb_russian": "ждать",
+  "verb_infinitive": "beklemek",
+  "turkish_verb": {
+    "verb_full": "beklemezsek",
+    "root": "bekle",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If we don't wait for the spring season, we'll miss the flowers",
+  "russian_example_sentence": "Если мы не будем ждать весну, мы пропустим цветы",
+  "turkish_example_sentence": "Biz bahar mevsimi için beklemezsek, çiçekleri kaçıracağız",
+  "turkish_example_sentence_with_blank": "Biz bahar mevsimi için ______, çiçekleri kaçıracağız"
+}

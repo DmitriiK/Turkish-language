@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "gönderemezsin",
+    "root": "gönder",
+    "tense_affix": "eme",
+    "verb_tense": "imkan_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "zsin",
+    "polarity": "negative",
+    "negative_affix": "eme"
+  },
+  "english_example_sentence": "You cannot send this document without permission",
+  "russian_example_sentence": "Ты не можешь отправить этот документ без разрешения",
+  "turkish_example_sentence": "Sen gizli belgeyi izin olmadan gönderemezsin",
+  "turkish_example_sentence_with_blank": "Sen gizli belgeyi izin olmadan ______"
+}

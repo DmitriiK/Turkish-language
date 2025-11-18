@@ -1,0 +1,20 @@
+{
+  "verb_rank": 76,
+  "verb_english": "buy",
+  "verb_russian": "покупать",
+  "verb_infinitive": "satın almak",
+  "turkish_verb": {
+    "verb_full": "satın almamalı",
+    "root": "satın al",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "mama"
+  },
+  "english_example_sentence": "She must not buy unnecessary electronic gadgets",
+  "russian_example_sentence": "Она не должна покупать ненужные электронные гаджеты",
+  "turkish_example_sentence": "O gereksiz elektronik cihazları satın almamalı",
+  "turkish_example_sentence_with_blank": "O gereksiz elektronik cihazları ______"
+}

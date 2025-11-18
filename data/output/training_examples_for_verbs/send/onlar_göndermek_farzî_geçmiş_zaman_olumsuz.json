@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "gönderememişlerse",
+    "root": "gönder",
+    "tense_affix": "mişse",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "onlar",
+    "personal_affix": "ler",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If they had not sent the necessary supplies",
+  "russian_example_sentence": "Если бы они не отправили необходимые припасы",
+  "turkish_example_sentence": "Onlar gerekli malzemeleri gönderememişlerse, proje gecikebilirdi",
+  "turkish_example_sentence_with_blank": "Onlar gerekli malzemeleri ______, proje gecikebilirdi"
+}

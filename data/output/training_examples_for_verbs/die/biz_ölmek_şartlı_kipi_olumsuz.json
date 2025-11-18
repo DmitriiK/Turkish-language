@@ -1,0 +1,20 @@
+{
+  "verb_rank": 79,
+  "verb_english": "die",
+  "verb_russian": "умирать",
+  "verb_infinitive": "ölmek",
+  "turkish_verb": {
+    "verb_full": "ölmeyeceğiz",
+    "root": "öl",
+    "tense_affix": "ecek",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "z",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If we do not die in this war, we will rebuild our nation",
+  "russian_example_sentence": "Если мы не умрем в этой войне, мы восстановим нашу нацию",
+  "turkish_example_sentence": "Biz bu savaşta ölmeyeceğiz, güçlü ve bağımsız ülke kuracağız",
+  "turkish_example_sentence_with_blank": "Biz bu savaşta ______, güçlü ve bağımsız ülke kuracağız"
+}

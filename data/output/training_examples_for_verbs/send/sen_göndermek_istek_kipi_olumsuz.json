@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "göndermeyesen",
+    "root": "gönder",
+    "tense_affix": "e",
+    "verb_tense": "istek_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "sen",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "May you not send that rude message to anyone",
+  "russian_example_sentence": "Пусть ты не отправишь это грубое сообщение никому",
+  "turkish_example_sentence": "Sen o kaba mesajı kimseye göndermeyesen",
+  "turkish_example_sentence_with_blank": "Sen o kaba mesajı kimseye ______"
+}

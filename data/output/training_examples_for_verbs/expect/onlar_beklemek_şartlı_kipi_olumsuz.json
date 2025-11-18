@@ -1,0 +1,20 @@
+{
+  "verb_rank": 81,
+  "verb_english": "expect",
+  "verb_russian": "ожидать",
+  "verb_infinitive": "beklemek",
+  "turkish_verb": {
+    "verb_full": "bekleme lerse",
+    "root": "bekle",
+    "tense_affix": "r",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "ler",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If they don't wait for the signal, the game will start",
+  "russian_example_sentence": "Если они не будут ждать сигнал, игра начнётся",
+  "turkish_example_sentence": "Eğer onlar kargo görevlisini bekleme lerse, paket kaybolacak",
+  "turkish_example_sentence_with_blank": "Eğer onlar kargo görevlisini ______, paket kaybolacak"
+}

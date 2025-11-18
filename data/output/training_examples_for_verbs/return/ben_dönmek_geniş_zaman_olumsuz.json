@@ -1,0 +1,20 @@
+{
+  "verb_rank": 97,
+  "verb_english": "return",
+  "verb_russian": "возвращаться",
+  "verb_infinitive": "dönmek",
+  "turkish_verb": {
+    "verb_full": "dönmüyorum",
+    "root": "dön",
+    "tense_affix": "üyor",
+    "verb_tense": "geniş_zaman",
+    "personal_pronoun": "ben",
+    "personal_affix": "um",
+    "polarity": "negative",
+    "negative_affix": "m"
+  },
+  "english_example_sentence": "I do not return from the park",
+  "russian_example_sentence": "Я не возвращаюсь из парка",
+  "turkish_example_sentence": "Ben parktan dönmüyorum",
+  "turkish_example_sentence_with_blank": "Ben parktan ______"
+}

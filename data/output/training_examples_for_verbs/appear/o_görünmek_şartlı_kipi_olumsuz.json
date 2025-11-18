@@ -1,0 +1,20 @@
+{
+  "verb_rank": 75,
+  "verb_english": "appear",
+  "verb_russian": "появляться",
+  "verb_infinitive": "görünmek",
+  "turkish_verb": {
+    "verb_full": "görünmezse",
+    "root": "görün",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If she doesn't appear in the film, the plot changes",
+  "russian_example_sentence": "Если она не появится в фильме, сюжет изменится",
+  "turkish_example_sentence": "O filmde görünmezse, hikaye değişecek",
+  "turkish_example_sentence_with_blank": "O filmde ______, hikaye değişecek"
+}

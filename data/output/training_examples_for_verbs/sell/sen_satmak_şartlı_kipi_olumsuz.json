@@ -1,0 +1,20 @@
+{
+  "verb_rank": 92,
+  "verb_english": "sell",
+  "verb_russian": "продавать",
+  "verb_infinitive": "satmak",
+  "turkish_verb": {
+    "verb_full": "satmazsan",
+    "root": "sat",
+    "tense_affix": "arsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If you don't sell the tickets, they will expire.",
+  "russian_example_sentence": "Если ты не продаешь билеты, они истекут.",
+  "turkish_example_sentence": "Biletleri satmazsan, onlar geçersiz olacak.",
+  "turkish_example_sentence_with_blank": "Biletleri ______, onlar geçersiz olacak."
+}

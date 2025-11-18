@@ -1,0 +1,20 @@
+{
+  "verb_rank": 77,
+  "verb_english": "wait",
+  "verb_russian": "ждать",
+  "verb_infinitive": "beklemek",
+  "turkish_verb": {
+    "verb_full": "beklememeli",
+    "root": "bekle",
+    "tense_affix": "memeli",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "sin",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "You must not wait for the crowded evening ferry",
+  "russian_example_sentence": "Ты не должен ждать переполненный вечерний паром",
+  "turkish_example_sentence": "Sen kalabalık akşam vapurunu beklememeli sin",
+  "turkish_example_sentence_with_blank": "Sen kalabalık akşam vapurunu ______ sin"
+}

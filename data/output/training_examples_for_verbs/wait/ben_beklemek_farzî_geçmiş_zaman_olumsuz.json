@@ -1,0 +1,20 @@
+{
+  "verb_rank": 77,
+  "verb_english": "wait",
+  "verb_russian": "ждать",
+  "verb_infinitive": "beklemek",
+  "turkish_verb": {
+    "verb_full": "beklememişsem",
+    "root": "bekle",
+    "tense_affix": "mişse",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If I had not waited at the station, I would have missed the important train",
+  "russian_example_sentence": "Если бы я не ждал на станции, я бы пропустил важный поезд",
+  "turkish_example_sentence": "Eğer ben istasyonda beklememişsem, önemli hızlı treni kaçırırdım",
+  "turkish_example_sentence_with_blank": "Eğer ben istasyonda ______, önemli hızlı treni kaçırırdım"
+}

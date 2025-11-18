@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "gönderdiğimizde",
+    "root": "gönder",
+    "tense_affix": "diğ",
+    "verb_tense": "zaman_sıfatı",
+    "personal_pronoun": "biz",
+    "personal_affix": "imizde",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "When we send the application, the university responds quickly",
+  "russian_example_sentence": "Когда мы отправляем заявку, университет быстро отвечает",
+  "turkish_example_sentence": "Biz resmi başvuru formunu gönderdiğimizde, üniversite hemen cevap verir",
+  "turkish_example_sentence_with_blank": "Biz resmi başvuru formunu ______, üniversite hemen cevap verir"
+}

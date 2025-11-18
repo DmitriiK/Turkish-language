@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "göndermenmeliyim",
+    "root": "gönder",
+    "tense_affix": "me",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "You should not send that rude message",
+  "russian_example_sentence": "Ты не должен отправлять это грубое сообщение",
+  "turkish_example_sentence": "Sen o kaba mesajı göndermenmeliyim",
+  "turkish_example_sentence_with_blank": "Sen o kaba mesajı ______"
+}

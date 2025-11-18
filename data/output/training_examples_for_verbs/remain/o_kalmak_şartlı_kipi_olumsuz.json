@@ -1,0 +1,20 @@
+{
+  "verb_rank": 88,
+  "verb_english": "remain",
+  "verb_russian": "оставаться",
+  "verb_infinitive": "kalmak",
+  "turkish_verb": {
+    "verb_full": "kalmazsa",
+    "root": "kal",
+    "tense_affix": "maz",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If she doesn't stay, the project will fail",
+  "russian_example_sentence": "Если она не останется, проект потерпит неудачу",
+  "turkish_example_sentence": "Eğer o kalmazsa, zor proje başarısız olacak",
+  "turkish_example_sentence_with_blank": "Eğer o ______, zor proje başarısız olacak"
+}

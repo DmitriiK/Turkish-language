@@ -1,0 +1,20 @@
+{
+  "verb_rank": 85,
+  "verb_english": "cut",
+  "verb_russian": "резать",
+  "verb_infinitive": "kesmek",
+  "turkish_verb": {
+    "verb_full": "kesmemelidir",
+    "root": "kes",
+    "tense_affix": "meli",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "She must not cut the beautiful dark velvet",
+  "russian_example_sentence": "Она не должна резать красивый темный бархат",
+  "turkish_example_sentence": "O güzel koyu renk kadifesi kesmemelidir",
+  "turkish_example_sentence_with_blank": "O güzel koyu renk kadifesi ______"
+}

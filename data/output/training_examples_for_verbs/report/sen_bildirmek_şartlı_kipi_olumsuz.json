@@ -1,0 +1,20 @@
+{
+  "verb_rank": 94,
+  "verb_english": "report",
+  "verb_russian": "сообщать",
+  "verb_infinitive": "bildirmek",
+  "turkish_verb": {
+    "verb_full": "bildirmezsen",
+    "root": "bildir",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "sen",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If you don't report it, it might get worse.",
+  "russian_example_sentence": "Если ты не сообщишь, ситуация может ухудшиться.",
+  "turkish_example_sentence": "Sen bunu bildirmezsen, durum kötüleşebilir.",
+  "turkish_example_sentence_with_blank": "Sen bunu ______, durum kötüleşebilir."
+}

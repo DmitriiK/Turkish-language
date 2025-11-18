@@ -1,0 +1,20 @@
+{
+  "verb_rank": 95,
+  "verb_english": "decide",
+  "verb_russian": "решать",
+  "verb_infinitive": "karar vermek",
+  "turkish_verb": {
+    "verb_full": "karar vermezsek",
+    "root": "karar ver",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "sek",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If we don’t decide now, it will be too late",
+  "russian_example_sentence": "Если мы не решим сейчас, будет слишком поздно",
+  "turkish_example_sentence": "Biz şimdi karar vermezsek çok geç olacak",
+  "turkish_example_sentence_with_blank": "Biz şimdi ______ çok geç olacak"
+}

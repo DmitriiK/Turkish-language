@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "göndermeyeniz",
+    "root": "gönder",
+    "tense_affix": "e",
+    "verb_tense": "istek_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "niz",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "May you not send any private information online",
+  "russian_example_sentence": "Пусть вы не отправляете никакую личную информацию в интернет",
+  "turkish_example_sentence": "Siz hiçbir kişisel bilgiyi çevrimiçi göndermeyeniz",
+  "turkish_example_sentence_with_blank": "Siz hiçbir kişisel bilgiyi çevrimiçi ______"
+}

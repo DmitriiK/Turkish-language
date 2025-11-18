@@ -1,0 +1,20 @@
+{
+  "verb_rank": 76,
+  "verb_english": "buy",
+  "verb_russian": "покупать",
+  "verb_infinitive": "satın almak",
+  "turkish_verb": {
+    "verb_full": "satın almıyorsam",
+    "root": "satın al",
+    "tense_affix": "ırsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "mı"
+  },
+  "english_example_sentence": "If I don't buy expensive gifts, I save more money",
+  "russian_example_sentence": "Если я не куплю дорогие подарки, я сэкономлю больше денег",
+  "turkish_example_sentence": "Ben pahalı hediyeleri satın almıyorsam, daha fazla para biriktiririm",
+  "turkish_example_sentence_with_blank": "Ben pahalı hediyeleri ______, daha fazla para biriktiririm"
+}

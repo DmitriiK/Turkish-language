@@ -1,0 +1,20 @@
+{
+  "verb_rank": 92,
+  "verb_english": "sell",
+  "verb_russian": "продавать",
+  "verb_infinitive": "satmak",
+  "turkish_verb": {
+    "verb_full": "satmazlarsa",
+    "root": "sat",
+    "tense_affix": "arsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "lar",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If they don't sell fruits, the stall will stay empty.",
+  "russian_example_sentence": "Если они не продают фрукты, ларек останется пустым.",
+  "turkish_example_sentence": "Eğer meyveleri satmazlarsa, tezgah boş kalır.",
+  "turkish_example_sentence_with_blank": "Eğer meyveleri ______, tezgah boş kalır."
+}

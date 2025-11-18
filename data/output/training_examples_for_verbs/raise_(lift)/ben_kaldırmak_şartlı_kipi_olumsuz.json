@@ -1,0 +1,20 @@
+{
+  "verb_rank": 90,
+  "verb_english": "raise",
+  "verb_russian": "поднимать",
+  "verb_infinitive": "kaldırmak",
+  "turkish_verb": {
+    "verb_full": "kaldırmazsam",
+    "root": "kaldır",
+    "tense_affix": "ırsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If I do not lift the fallen branch, it will block the pathway",
+  "russian_example_sentence": "Если я не подниму упавшую ветку, она заблокирует дорожку",
+  "turkish_example_sentence": "Eğer ben düşen dalı kaldırmazsam, yol kapalı kalacak",
+  "turkish_example_sentence_with_blank": "Eğer ben düşen dalı ______, yol kapalı kalacak"
+}

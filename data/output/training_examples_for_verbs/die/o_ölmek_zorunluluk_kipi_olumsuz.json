@@ -1,0 +1,20 @@
+{
+  "verb_rank": 79,
+  "verb_english": "die",
+  "verb_russian": "умирать",
+  "verb_infinitive": "ölmek",
+  "turkish_verb": {
+    "verb_full": "ölmemeli",
+    "root": "öl",
+    "tense_affix": "meli",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "She must not die from this rare disease",
+  "russian_example_sentence": "Она не должна умирать от этой редкой болезни",
+  "turkish_example_sentence": "O bu nadir hastalıktan ölmemeli",
+  "turkish_example_sentence_with_blank": "O bu nadir hastalıktan ______"
+}

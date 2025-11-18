@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "göndermeyerek",
+    "root": "gönder",
+    "tense_affix": "erek",
+    "verb_tense": "ulak_fiil",
+    "personal_pronoun": null,
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "Without sending the package, he returned home early",
+  "russian_example_sentence": "Не отправив посылку, он рано вернулся домой",
+  "turkish_example_sentence": "Kargo paketini göndermeyerek, o erkenden eve döndü",
+  "turkish_example_sentence_with_blank": "Kargo paketini ______, o erkenden eve döndü"
+}

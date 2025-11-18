@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "göndermezse",
+    "root": "gönder",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If she doesn't send the birthday gift before Friday, it will arrive too late",
+  "russian_example_sentence": "Если она не отправит подарок на день рождения до пятницы, он придет слишком поздно",
+  "turkish_example_sentence": "O doğum günü hediyesini cuma günü öncesi göndermezse, çok geç gelecek",
+  "turkish_example_sentence_with_blank": "O doğum günü hediyesini cuma günü öncesi ______, çok geç gelecek"
+}

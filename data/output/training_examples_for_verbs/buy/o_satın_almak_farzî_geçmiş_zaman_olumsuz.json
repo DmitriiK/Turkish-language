@@ -1,0 +1,20 @@
+{
+  "verb_rank": 76,
+  "verb_english": "buy",
+  "verb_russian": "покупать",
+  "verb_infinitive": "satın almak",
+  "turkish_verb": {
+    "verb_full": "satın almamışsa",
+    "root": "satın al",
+    "tense_affix": "mışsa",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If she had not bought the small yellow notebook",
+  "russian_example_sentence": "Если бы она не купила маленький жёлтый блокнот",
+  "turkish_example_sentence": "Kırtasiyeden küçük sarı defteri satın almamışsa, notlarını yazamazdı",
+  "turkish_example_sentence_with_blank": "Kırtasiyeden küçük sarı defteri ______, notlarını yazamazdı"
+}

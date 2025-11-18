@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "göndermemiz lazım",
+    "root": "gönder",
+    "tense_affix": "me",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "mız",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "We need to send the birthday gift soon",
+  "russian_example_sentence": "Нам нужно отправить подарок на день рождения скоро",
+  "turkish_example_sentence": "Biz yakında güzel doğum günü hediyesini göndermemiz lazım",
+  "turkish_example_sentence_with_blank": "Biz yakında güzel doğum günü hediyesini ______"
+}

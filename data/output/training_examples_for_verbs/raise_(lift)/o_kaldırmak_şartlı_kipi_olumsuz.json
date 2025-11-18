@@ -1,0 +1,20 @@
+{
+  "verb_rank": 90,
+  "verb_english": "raise",
+  "verb_russian": "поднимать",
+  "verb_infinitive": "kaldırmak",
+  "turkish_verb": {
+    "verb_full": "kaldırmazsa",
+    "root": "kaldır",
+    "tense_affix": "ırsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If she does not raise the white tablecloth, the dust will settle on the food",
+  "russian_example_sentence": "Если она не поднимет белую скатерть, пыль осядет на еду",
+  "turkish_example_sentence": "Eğer o beyaz masa örtüsünü kaldırmazsa, toz yemeğin üzerine oturacak",
+  "turkish_example_sentence_with_blank": "Eğer o beyaz masa örtüsünü ______, toz yemeğin üzerine oturacak"
+}

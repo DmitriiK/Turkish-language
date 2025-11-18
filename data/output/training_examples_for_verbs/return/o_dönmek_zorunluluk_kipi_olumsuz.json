@@ -1,0 +1,20 @@
+{
+  "verb_rank": 97,
+  "verb_english": "return",
+  "verb_russian": "возвращаться",
+  "verb_infinitive": "dönmek",
+  "turkish_verb": {
+    "verb_full": "dönmemeli",
+    "root": "dön",
+    "tense_affix": "meli",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "He must not return empty-handed.",
+  "russian_example_sentence": "Он не должен возвращаться с пустыми руками.",
+  "turkish_example_sentence": "O eli boş dönmemeli.",
+  "turkish_example_sentence_with_blank": "O eli boş ______."
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 85,
+  "verb_english": "cut",
+  "verb_russian": "резать",
+  "verb_infinitive": "kesmek",
+  "turkish_verb": {
+    "verb_full": "kesmememeliler",
+    "root": "kes",
+    "tense_affix": "meli",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "ler",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "They must not cut the fine transparent plastic",
+  "russian_example_sentence": "Они не должны резать тонкий прозрачный пластик",
+  "turkish_example_sentence": "Onlar ince şeffaf plastik malzemeyi hiç kesmememeliler",
+  "turkish_example_sentence_with_blank": "Onlar ince şeffaf plastik malzemeyi hiç ______"
+}

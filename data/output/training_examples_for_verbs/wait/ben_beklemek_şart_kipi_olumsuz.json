@@ -1,0 +1,20 @@
+{
+  "verb_rank": 77,
+  "verb_english": "wait",
+  "verb_russian": "ждать",
+  "verb_infinitive": "beklemek",
+  "turkish_verb": {
+    "verb_full": "beklemezsem",
+    "root": "bekle",
+    "tense_affix": "se",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If I do not wait any longer, I will miss the train",
+  "russian_example_sentence": "Если я не буду ждать дольше, я пропущу поезд",
+  "turkish_example_sentence": "Ben daha fazla beklemezsem, trenini kaçıracağım",
+  "turkish_example_sentence_with_blank": "Ben daha fazla ______, trenini kaçıracağım"
+}

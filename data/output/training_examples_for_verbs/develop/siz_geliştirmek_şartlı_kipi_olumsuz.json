@@ -1,0 +1,20 @@
+{
+  "verb_rank": 100,
+  "verb_english": "develop",
+  "verb_russian": "развивать",
+  "verb_infinitive": "geliştirmek",
+  "turkish_verb": {
+    "verb_full": "geliştirmezseniz",
+    "root": "geliştir",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "seniz",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If you don't develop the idea, it won't win",
+  "russian_example_sentence": "Если вы не разовьёте идею, она не победит",
+  "turkish_example_sentence": "Fikri geliştirmezseniz kazanamayacak",
+  "turkish_example_sentence_with_blank": "Fikri ______ kazanamayacak"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "göndermiyoruz",
+    "root": "gönder",
+    "tense_affix": "iyor",
+    "verb_tense": "şimdiki_zaman",
+    "personal_pronoun": "biz",
+    "personal_affix": "uz",
+    "polarity": "negative",
+    "negative_affix": "m"
+  },
+  "english_example_sentence": "We are not sending the application until next week",
+  "russian_example_sentence": "Мы не отправляем заявку до следующей недели",
+  "turkish_example_sentence": "Biz başvuru formunu gelecek haftaya kadar göndermiyoruz",
+  "turkish_example_sentence_with_blank": "Biz başvuru formunu gelecek haftaya kadar ______"
+}

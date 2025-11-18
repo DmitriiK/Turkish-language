@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "göndermesek",
+    "root": "gönder",
+    "tense_affix": "se",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If we don't send the formal application soon, we will miss the deadline",
+  "russian_example_sentence": "Если мы не отправим официальное заявление скоро, мы пропустим крайний срок",
+  "turkish_example_sentence": "Biz resmi başvuruyu yakında göndermesek, son tarihi kaçıracağız",
+  "turkish_example_sentence_with_blank": "Biz resmi başvuruyu yakında ______, son tarihi kaçıracağız"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "göndermeyecekler",
+    "root": "gönder",
+    "tense_affix": "ecek",
+    "verb_tense": "gelecek_zaman",
+    "personal_pronoun": "onlar",
+    "personal_affix": "ler",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "They will not send the fragile ceramic dishes",
+  "russian_example_sentence": "Они не отправят хрупкие керамические тарелки",
+  "turkish_example_sentence": "Onlar kırılgan seramik tabakları göndermeyecekler",
+  "turkish_example_sentence_with_blank": "Onlar kırılgan seramik tabakları ______"
+}

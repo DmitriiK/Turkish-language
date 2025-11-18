@@ -1,0 +1,20 @@
+{
+  "verb_rank": 99,
+  "verb_english": "hope",
+  "verb_russian": "надеяться",
+  "verb_infinitive": "ummak",
+  "turkish_verb": {
+    "verb_full": "ummazlarsa",
+    "root": "um",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "lar",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If they don't hope for victory, they will lose.",
+  "russian_example_sentence": "Если они не надеются на победу, они проиграют.",
+  "turkish_example_sentence": "Onlar zaferi ummazlarsa, kaybedecekler.",
+  "turkish_example_sentence_with_blank": "Onlar zaferi ______, kaybedecekler."
+}

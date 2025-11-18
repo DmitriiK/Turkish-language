@@ -1,0 +1,20 @@
+{
+  "verb_rank": 81,
+  "verb_english": "expect",
+  "verb_russian": "ожидать",
+  "verb_infinitive": "beklemek",
+  "turkish_verb": {
+    "verb_full": "beklemezsem",
+    "root": "bekle",
+    "tense_affix": "se",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If I do not wait, I will miss the important call",
+  "russian_example_sentence": "Если я не буду ждать, я пропущу важный звонок",
+  "turkish_example_sentence": "Ben beklemezsem, önemli telefon görüşmesini kaçıracağım",
+  "turkish_example_sentence_with_blank": "Ben ______, önemli telefon görüşmesini kaçıracağım"
+}

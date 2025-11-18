@@ -1,0 +1,20 @@
+{
+  "verb_rank": 95,
+  "verb_english": "decide",
+  "verb_russian": "решать",
+  "verb_infinitive": "karar vermek",
+  "turkish_verb": {
+    "verb_full": "karar vermesen",
+    "root": "karar ver",
+    "tense_affix": "mese",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If you don’t decide quickly, we’ll leave without you.",
+  "russian_example_sentence": "Если ты не решишь скоро, мы уйдем без тебя.",
+  "turkish_example_sentence": "Eğer çabuk karar vermesen, biz sensiz gideriz.",
+  "turkish_example_sentence_with_blank": "Eğer çabuk ______, biz sensiz gideriz."
+}

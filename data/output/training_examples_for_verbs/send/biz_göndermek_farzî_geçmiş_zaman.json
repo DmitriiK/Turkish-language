@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "göndermişsek",
+    "root": "gönder",
+    "tense_affix": "mişse",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If we had sent the detailed report",
+  "russian_example_sentence": "Если бы мы отправили подробный отчет",
+  "turkish_example_sentence": "Biz ayrıntılı raporu göndermişsek, yönetim kararını değiştirebilirdi",
+  "turkish_example_sentence_with_blank": "Biz ayrıntılı raporu ______, yönetim kararını değiştirebilirdi"
+}

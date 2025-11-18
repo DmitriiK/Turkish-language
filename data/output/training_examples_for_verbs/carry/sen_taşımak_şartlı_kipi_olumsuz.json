@@ -1,0 +1,20 @@
+{
+  "verb_rank": 101,
+  "verb_english": "carry",
+  "verb_russian": "нести",
+  "verb_infinitive": "taşımak",
+  "turkish_verb": {
+    "verb_full": "taşımazsan",
+    "root": "taşı",
+    "tense_affix": "rsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If you don’t carry this bag, it may fall.",
+  "russian_example_sentence": "Если ты не понесешь эту сумку, она может упасть.",
+  "turkish_example_sentence": "Bu çantayı taşımazsan, düşebilir.",
+  "turkish_example_sentence_with_blank": "Bu çantayı ______, düşebilir."
+}

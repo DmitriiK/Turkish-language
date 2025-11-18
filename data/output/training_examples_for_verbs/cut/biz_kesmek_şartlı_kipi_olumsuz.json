@@ -1,0 +1,20 @@
+{
+  "verb_rank": 85,
+  "verb_english": "cut",
+  "verb_russian": "резать",
+  "verb_infinitive": "kesmek",
+  "turkish_verb": {
+    "verb_full": "kesmezse",
+    "root": "kes",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If we do not cut the expensive silk fabric properly, we will waste money",
+  "russian_example_sentence": "Если мы не нарежем дорогую шёлковую ткань правильно, мы потратим деньги впустую",
+  "turkish_example_sentence": "Biz pahalı ipek kumaşı düzgün kesmezse, para harcayacağız",
+  "turkish_example_sentence_with_blank": "Biz pahalı ipek kumaşı düzgün ______, para harcayacağız"
+}

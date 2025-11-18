@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "göndermediğinde",
+    "root": "gönder",
+    "tense_affix": "mediğ",
+    "verb_tense": "zaman_sıfatı",
+    "personal_pronoun": "sen",
+    "personal_affix": "inde",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "When you don't send the document, the project delays",
+  "russian_example_sentence": "Когда ты не отправляешь документ, проект задерживается",
+  "turkish_example_sentence": "Sen önemli resmi belgeyi göndermediğinde, tüm proje gecikir",
+  "turkish_example_sentence_with_blank": "Sen önemli resmi belgeyi ______, tüm proje gecikir"
+}

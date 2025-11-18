@@ -1,0 +1,20 @@
+{
+  "verb_rank": 77,
+  "verb_english": "wait",
+  "verb_russian": "ждать",
+  "verb_infinitive": "beklemek",
+  "turkish_verb": {
+    "verb_full": "beklemezsе",
+    "root": "bekle",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If he doesn't wait for the doctor's appointment, he'll suffer",
+  "russian_example_sentence": "Если он не будет ждать приём врача, он будет страдать",
+  "turkish_example_sentence": "O doktor randevusu için beklemezsе, acı çekecek",
+  "turkish_example_sentence_with_blank": "O doktor randevusu için ______, acı çekecek"
+}

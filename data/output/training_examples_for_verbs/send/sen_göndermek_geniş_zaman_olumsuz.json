@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "göndermezsin",
+    "root": "gönder",
+    "tense_affix": "ir",
+    "verb_tense": "geniş_zaman",
+    "personal_pronoun": "sen",
+    "personal_affix": "sin",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "You do not send expensive gifts to strangers",
+  "russian_example_sentence": "Ты не отправляешь дорогие подарки незнакомцам",
+  "turkish_example_sentence": "Sen pahalı hediyeleri yabancılara göndermezsin",
+  "turkish_example_sentence_with_blank": "Sen pahalı hediyeleri yabancılara ______"
+}

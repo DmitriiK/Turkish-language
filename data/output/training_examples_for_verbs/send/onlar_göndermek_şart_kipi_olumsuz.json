@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "göndermeseler",
+    "root": "gönder",
+    "tense_affix": "se",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "ler",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If they don't send the emergency supplies immediately, people will suffer greatly",
+  "russian_example_sentence": "Если они не отправят экстренные припасы немедленно, люди будут сильно страдать",
+  "turkish_example_sentence": "Onlar acil yardım malzemelerini derhal göndermeseler, insanlar çok acı çekecek",
+  "turkish_example_sentence_with_blank": "Onlar acil yardım malzemelerini derhal ______, insanlar çok acı çekecek"
+}

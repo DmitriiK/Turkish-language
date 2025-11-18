@@ -1,0 +1,20 @@
+{
+  "verb_rank": 100,
+  "verb_english": "develop",
+  "verb_russian": "развивать",
+  "verb_infinitive": "geliştirmek",
+  "turkish_verb": {
+    "verb_full": "geliştirmemem lazım",
+    "root": "geliştir",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "I must not develop this project right now.",
+  "russian_example_sentence": "Мне не нужно разрабатывать этот проект сейчас.",
+  "turkish_example_sentence": "Ben şu anda bu projeyi geliştirmemem lazım.",
+  "turkish_example_sentence_with_blank": "Ben şu anda bu projeyi ______."
+}

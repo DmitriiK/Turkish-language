@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "göndermediğimde",
+    "root": "gönder",
+    "tense_affix": "mediğ",
+    "verb_tense": "zaman_sıfatı",
+    "personal_pronoun": "ben",
+    "personal_affix": "imde",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "When I don't send the package, my friend gets upset",
+  "russian_example_sentence": "Когда я не отправляю посылку, мой друг расстраивается",
+  "turkish_example_sentence": "Ben kırmızı hediye kutusunu göndermediğimde, arkadaşım hayal kırıklığına uğrar",
+  "turkish_example_sentence_with_blank": "Ben kırmızı hediye kutusunu ______, arkadaşım hayal kırıklığına uğrar"
+}

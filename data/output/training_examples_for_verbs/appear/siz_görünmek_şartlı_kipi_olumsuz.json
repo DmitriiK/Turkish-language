@@ -1,0 +1,20 @@
+{
+  "verb_rank": 75,
+  "verb_english": "appear",
+  "verb_russian": "появляться",
+  "verb_infinitive": "görünmek",
+  "turkish_verb": {
+    "verb_full": "görünmezsünüz",
+    "root": "görün",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If you don't appear nervous, the interview will go well",
+  "russian_example_sentence": "Если вы не выглядите нервными, интервью пройдет хорошо",
+  "turkish_example_sentence": "Siz gergin görünmezsünüz, röportaj iyi geçecek",
+  "turkish_example_sentence_with_blank": "Siz gergin ______, röportaj iyi geçecek"
+}

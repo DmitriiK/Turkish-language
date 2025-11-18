@@ -1,0 +1,20 @@
+{
+  "verb_rank": 90,
+  "verb_english": "raise",
+  "verb_russian": "поднимать",
+  "verb_infinitive": "kaldırmak",
+  "turkish_verb": {
+    "verb_full": "kaldırırlarsa",
+    "root": "kaldır",
+    "tense_affix": "ırsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "lar",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If they raise the colorful banner high, the excited crowd will cheer loudly",
+  "russian_example_sentence": "Если они поднимут красочный баннер высоко, возбужденная толпа будет громко кричать",
+  "turkish_example_sentence": "Eğer onlar renkli afişi yükseğe kaldırırlarsa, heyecanlı kalabalık yüksek sesle alkışlayacak",
+  "turkish_example_sentence_with_blank": "Eğer onlar renkli afişi yükseğe ______, heyecanlı kalabalık yüksek sesle alkışlayacak"
+}

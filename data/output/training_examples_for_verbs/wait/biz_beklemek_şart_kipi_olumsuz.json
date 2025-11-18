@@ -1,0 +1,20 @@
+{
+  "verb_rank": 77,
+  "verb_english": "wait",
+  "verb_russian": "ждать",
+  "verb_infinitive": "beklemek",
+  "turkish_verb": {
+    "verb_full": "beklemezsek",
+    "root": "bekle",
+    "tense_affix": "se",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If we do not wait for the delayed flight, we will miss our vacation",
+  "russian_example_sentence": "Если мы не будем ждать задержанный рейс, мы пропустим наш отпуск",
+  "turkish_example_sentence": "Biz gecikmiş uçuş için beklemezsek, tatilimizi kaçıracağız",
+  "turkish_example_sentence_with_blank": "Biz gecikmiş uçuş için ______, tatilimizi kaçıracağız"
+}

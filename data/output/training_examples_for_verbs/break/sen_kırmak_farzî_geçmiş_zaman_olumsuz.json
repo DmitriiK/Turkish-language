@@ -1,0 +1,20 @@
+{
+  "verb_rank": 102,
+  "verb_english": "break",
+  "verb_russian": "ломать",
+  "verb_infinitive": "kırmak",
+  "turkish_verb": {
+    "verb_full": "kırmamışsan",
+    "root": "kır",
+    "tense_affix": "mışsa",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If you hadn’t broken the glass, it would stay intact.",
+  "russian_example_sentence": "Если бы ты не разбил стекло, оно осталось бы целым.",
+  "turkish_example_sentence": "Eğer camı kırmamışsan, sağlam kalırdı.",
+  "turkish_example_sentence_with_blank": "Eğer camı ______, sağlam kalırdı."
+}

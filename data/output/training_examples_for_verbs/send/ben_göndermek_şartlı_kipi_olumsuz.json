@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "göndermezsen",
+    "root": "gönder",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If I don't send the important package tomorrow, we will lose the opportunity",
+  "russian_example_sentence": "Если я не отправлю важный пакет завтра, мы потеряем возможность",
+  "turkish_example_sentence": "Ben önemli paketi yarın göndermezsen, fırsatı kaybederiz",
+  "turkish_example_sentence_with_blank": "Ben önemli paketi yarın ______, fırsatı kaybederiz"
+}

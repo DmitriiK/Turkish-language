@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "göndermememiz lazım",
+    "root": "gönder",
+    "tense_affix": "me",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "mız",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "We should not send the broken equipment",
+  "russian_example_sentence": "Мы не должны отправлять сломанное оборудование",
+  "turkish_example_sentence": "Biz kırık teknik ekipmanı göndermememiz lazım",
+  "turkish_example_sentence_with_blank": "Biz kırık teknik ekipmanı ______"
+}

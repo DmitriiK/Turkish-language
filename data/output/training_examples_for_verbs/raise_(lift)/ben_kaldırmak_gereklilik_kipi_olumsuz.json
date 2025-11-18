@@ -1,0 +1,20 @@
+{
+  "verb_rank": 90,
+  "verb_english": "raise",
+  "verb_russian": "поднимать",
+  "verb_infinitive": "kaldırmak",
+  "turkish_verb": {
+    "verb_full": "kaldırmam lazım değil",
+    "root": "kaldır",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "değil"
+  },
+  "english_example_sentence": "I don't need to raise my voice today",
+  "russian_example_sentence": "Мне не нужно поднимать голос сегодня",
+  "turkish_example_sentence": "Ben sesimi bugün kaldırmam lazım değil",
+  "turkish_example_sentence_with_blank": "Ben sesimi bugün ______"
+}

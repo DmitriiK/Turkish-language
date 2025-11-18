@@ -1,0 +1,20 @@
+{
+  "verb_rank": 85,
+  "verb_english": "cut",
+  "verb_russian": "резать",
+  "verb_infinitive": "kesmek",
+  "turkish_verb": {
+    "verb_full": "kesmezsen",
+    "root": "kes",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If you do not cut the old green paper carefully, it will tear badly",
+  "russian_example_sentence": "Если ты не нарежешь старую зелёную бумагу осторожно, она порвётся плохо",
+  "turkish_example_sentence": "Sen eski yeşil kağıdı dikkatle kesmezsen, kötü şekilde yırtılacak",
+  "turkish_example_sentence_with_blank": "Sen eski yeşil kağıdı dikkatle ______, kötü şekilde yırtılacak"
+}

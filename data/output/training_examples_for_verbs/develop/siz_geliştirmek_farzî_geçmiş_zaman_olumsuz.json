@@ -1,0 +1,20 @@
+{
+  "verb_rank": 100,
+  "verb_english": "develop",
+  "verb_russian": "развивать",
+  "verb_infinitive": "geliştirmek",
+  "turkish_verb": {
+    "verb_full": "geliştirmemişseniz",
+    "root": "geliştir",
+    "tense_affix": "mişse",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "siz",
+    "personal_affix": "niz",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If you had not developed the solution",
+  "russian_example_sentence": "Если бы вы не разработали решение",
+  "turkish_example_sentence": "Siz çözümü geliştirmemişseniz",
+  "turkish_example_sentence_with_blank": "Siz çözümü ______"
+}

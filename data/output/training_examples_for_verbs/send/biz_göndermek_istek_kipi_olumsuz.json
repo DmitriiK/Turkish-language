@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "göndermeyeli",
+    "root": "gönder",
+    "tense_affix": "e",
+    "verb_tense": "istek_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "lim",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "Let's not send those expensive gifts right now",
+  "russian_example_sentence": "Давайте не отправлять эти дорогие подарки прямо сейчас",
+  "turkish_example_sentence": "Biz o pahalı hediyeleri şu anda göndermeyeli",
+  "turkish_example_sentence_with_blank": "Biz o pahalı hediyeleri şu anda ______"
+}

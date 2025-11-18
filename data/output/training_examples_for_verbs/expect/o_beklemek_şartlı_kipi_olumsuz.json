@@ -1,0 +1,20 @@
+{
+  "verb_rank": 81,
+  "verb_english": "expect",
+  "verb_russian": "ожидать",
+  "verb_infinitive": "beklemek",
+  "turkish_verb": {
+    "verb_full": "bekleme se",
+    "root": "bekle",
+    "tense_affix": "r",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If she doesn't wait for the bus, she will miss it",
+  "russian_example_sentence": "Если она не будет ждать автобус, она его пропустит",
+  "turkish_example_sentence": "Eğer o müze kapanmadan bekleme se, sanat eserlerini göremeyecek",
+  "turkish_example_sentence_with_blank": "Eğer o müze kapanmadan ______, sanat eserlerini göremeyecek"
+}

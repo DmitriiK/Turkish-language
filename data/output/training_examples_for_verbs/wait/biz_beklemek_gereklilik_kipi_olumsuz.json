@@ -1,0 +1,20 @@
+{
+  "verb_rank": 77,
+  "verb_english": "wait",
+  "verb_russian": "ждать",
+  "verb_infinitive": "beklemek",
+  "turkish_verb": {
+    "verb_full": "beklememememiz lazım",
+    "root": "bekle",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "mız",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "We should not wait for the cancelled flight anymore",
+  "russian_example_sentence": "Нам не нужно больше ждать отменённый рейс",
+  "turkish_example_sentence": "Biz iptal edilen uluslararası uçağı artık beklememememiz lazım",
+  "turkish_example_sentence_with_blank": "Biz iptal edilen uluslararası uçağı artık ______"
+}

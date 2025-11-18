@@ -1,0 +1,20 @@
+{
+  "verb_rank": 77,
+  "verb_english": "wait",
+  "verb_russian": "ждать",
+  "verb_infinitive": "beklemek",
+  "turkish_verb": {
+    "verb_full": "beklemezsseniz",
+    "root": "bekle",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "niz",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If you don't wait for my detailed explanation, you'll be confused",
+  "russian_example_sentence": "Если вы не будете ждать моё подробное объяснение, вы будете запутаны",
+  "turkish_example_sentence": "Siz benim ayrıntılı açıklaması için beklemezsseniz, karışık olacaksınız",
+  "turkish_example_sentence_with_blank": "Siz benim ayrıntılı açıklaması için ______, karışık olacaksınız"
+}

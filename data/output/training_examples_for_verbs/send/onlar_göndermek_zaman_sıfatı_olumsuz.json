@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "göndermediğinde",
+    "root": "gönder",
+    "tense_affix": "mediğ",
+    "verb_tense": "zaman_sıfatı",
+    "personal_pronoun": "onlar",
+    "personal_affix": "inde",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "When they don't send the supplies, the hospital faces shortages",
+  "russian_example_sentence": "Когда они не отправляют припасы, больница сталкивается с нехваткой",
+  "turkish_example_sentence": "Onlar tıbbi malzemeleri göndermediğinde, hastane ciddi sıkıntı yaşar",
+  "turkish_example_sentence_with_blank": "Onlar tıbbi malzemeleri ______, hastane ciddi sıkıntı yaşar"
+}

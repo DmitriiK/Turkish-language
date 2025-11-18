@@ -1,0 +1,20 @@
+{
+  "verb_rank": 99,
+  "verb_english": "hope",
+  "verb_russian": "надеяться",
+  "verb_infinitive": "ummak",
+  "turkish_verb": {
+    "verb_full": "ummazsak",
+    "root": "um",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If we don't hope for a clear sky, we won't leave.",
+  "russian_example_sentence": "Если мы не надеемся на ясное небо, мы не уйдем.",
+  "turkish_example_sentence": "Biz açık bir gökyüzü ummazsak, ayrılmayız.",
+  "turkish_example_sentence_with_blank": "Biz açık bir gökyüzü ______, ayrılmayız."
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 81,
+  "verb_english": "expect",
+  "verb_russian": "ожидать",
+  "verb_infinitive": "beklemek",
+  "turkish_verb": {
+    "verb_full": "beklemememeliyin",
+    "root": "bekle",
+    "tense_affix": "meli",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "yim",
+    "polarity": "negative",
+    "negative_affix": "meme"
+  },
+  "english_example_sentence": "I must not expect miracles from this situation",
+  "russian_example_sentence": "Я не должен ожидать чудеса от этой ситуации",
+  "turkish_example_sentence": "Ben bu zor durumdan mucize beklemememeliyin",
+  "turkish_example_sentence_with_blank": "Ben bu zor durumdan mucize ______"
+}

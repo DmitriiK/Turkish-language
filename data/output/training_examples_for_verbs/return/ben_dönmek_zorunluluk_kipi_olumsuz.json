@@ -1,0 +1,20 @@
+{
+  "verb_rank": 97,
+  "verb_english": "return",
+  "verb_russian": "возвращаться",
+  "verb_infinitive": "dönmek",
+  "turkish_verb": {
+    "verb_full": "dönmemeliyim",
+    "root": "dön",
+    "tense_affix": "meli",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "yim",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "I must not return to the office.",
+  "russian_example_sentence": "Я не должен возвращаться в офис.",
+  "turkish_example_sentence": "Ben ofise dönmemeliyim.",
+  "turkish_example_sentence_with_blank": "Ben ofise ______."
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 79,
+  "verb_english": "die",
+  "verb_russian": "умирать",
+  "verb_infinitive": "ölmek",
+  "turkish_verb": {
+    "verb_full": "ölmediğinde",
+    "root": "öl",
+    "tense_affix": "di",
+    "verb_tense": "zaman_sıfatı",
+    "personal_pronoun": "o",
+    "personal_affix": "nde",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "When the patient doesn't die, the doctor celebrates success",
+  "russian_example_sentence": "Когда пациент не умирает, врач празднует успех",
+  "turkish_example_sentence": "O hasta ölmediğinde, başarılı doktor sevinçle kutluyor",
+  "turkish_example_sentence_with_blank": "O hasta ______, başarılı doktor sevinçle kutluyor"
+}

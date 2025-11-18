@@ -1,0 +1,20 @@
+{
+  "verb_rank": 97,
+  "verb_english": "return",
+  "verb_russian": "возвращаться",
+  "verb_infinitive": "dönmek",
+  "turkish_verb": {
+    "verb_full": "dönmemeniz lazım",
+    "root": "dön",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "niz",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "You must not return to this place",
+  "russian_example_sentence": "Вам нельзя возвращаться сюда",
+  "turkish_example_sentence": "Siz buraya dönmemeniz lazım",
+  "turkish_example_sentence_with_blank": "Siz buraya ______"
+}

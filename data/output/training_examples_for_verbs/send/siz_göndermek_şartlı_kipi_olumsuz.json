@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "göndermezseniz",
+    "root": "gönder",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "niz",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If you don't send the payment confirmation within three days, the order will be cancelled",
+  "russian_example_sentence": "Если вы не отправите подтверждение платежа в течение трех дней, заказ будет отменен",
+  "turkish_example_sentence": "Siz ödeme onayını üç gün içinde göndermezseniz, sipariş iptal edilecek",
+  "turkish_example_sentence_with_blank": "Siz ödeme onayını üç gün içinde ______, sipariş iptal edilecek"
+}

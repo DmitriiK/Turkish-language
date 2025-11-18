@@ -1,0 +1,20 @@
+{
+  "verb_rank": 85,
+  "verb_english": "cut",
+  "verb_russian": "резать",
+  "verb_infinitive": "kesmek",
+  "turkish_verb": {
+    "verb_full": "kesmesek",
+    "root": "kes",
+    "tense_affix": "se",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If we don't cut the wild grass today, it will grow taller tomorrow",
+  "russian_example_sentence": "Если мы не будем резать дикую траву сегодня, она вырастет выше завтра",
+  "turkish_example_sentence": "Biz yabani çimi bugün kesmesek, yarın daha yüksek olacak",
+  "turkish_example_sentence_with_blank": "Biz yabani çimi bugün ______, yarın daha yüksek olacak"
+}

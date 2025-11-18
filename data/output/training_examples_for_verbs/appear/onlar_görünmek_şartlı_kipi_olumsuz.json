@@ -1,0 +1,20 @@
+{
+  "verb_rank": 75,
+  "verb_english": "appear",
+  "verb_russian": "появляться",
+  "verb_infinitive": "görünmek",
+  "turkish_verb": {
+    "verb_full": "görünmezlerse",
+    "root": "görün",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "ler",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If they don't appear at the ceremony, it will be incomplete",
+  "russian_example_sentence": "Если они не появятся на церемонии, она будет неполной",
+  "turkish_example_sentence": "Onlar törenде görünmezlerse, eksik kalacak",
+  "turkish_example_sentence_with_blank": "Onlar törenде ______, eksik kalacak"
+}

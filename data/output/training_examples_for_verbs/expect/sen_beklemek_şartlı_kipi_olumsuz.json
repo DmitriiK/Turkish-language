@@ -1,0 +1,20 @@
+{
+  "verb_rank": 81,
+  "verb_english": "expect",
+  "verb_russian": "ожидать",
+  "verb_infinitive": "beklemek",
+  "turkish_verb": {
+    "verb_full": "bekleme isen",
+    "root": "bekle",
+    "tense_affix": "r",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If you don't wait for your friend, she will be upset",
+  "russian_example_sentence": "Если ты не будешь ждать свою подругу, она будет расстроена",
+  "turkish_example_sentence": "Eğer sen tiyatro oyununu başlamadan bekleme isen, bilet fiyatı artacak",
+  "turkish_example_sentence_with_blank": "Eğer sen tiyatro oyununu başlamadan ______, bilet fiyatı artacak"
+}

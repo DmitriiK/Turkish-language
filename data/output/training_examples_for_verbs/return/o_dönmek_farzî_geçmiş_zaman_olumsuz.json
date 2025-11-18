@@ -1,0 +1,20 @@
+{
+  "verb_rank": 97,
+  "verb_english": "return",
+  "verb_russian": "возвращаться",
+  "verb_infinitive": "dönmek",
+  "turkish_verb": {
+    "verb_full": "dönmemişse",
+    "root": "dön",
+    "tense_affix": "mişse",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If she hadn't returned, they would have gone to the station.",
+  "russian_example_sentence": "Если бы она не вернулась, они бы пошли на вокзал.",
+  "turkish_example_sentence": "Eğer o dönmemişse, istasyona gitmişlerdi.",
+  "turkish_example_sentence_with_blank": "Eğer o ______, istasyona gitmişlerdi."
+}

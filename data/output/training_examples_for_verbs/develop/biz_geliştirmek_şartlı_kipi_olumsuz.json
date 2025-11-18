@@ -1,0 +1,20 @@
+{
+  "verb_rank": 100,
+  "verb_english": "develop",
+  "verb_russian": "развивать",
+  "verb_infinitive": "geliştirmek",
+  "turkish_verb": {
+    "verb_full": "geliştirmezsek",
+    "root": "geliştir",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "sek",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If we don't develop a strategy, we will fail",
+  "russian_example_sentence": "Если мы не разработаем стратегию, мы потерпим неудачу",
+  "turkish_example_sentence": "Bir strateji geliştirmezsek başarısız olacağız",
+  "turkish_example_sentence_with_blank": "Bir strateji ______ başarısız olacağız"
+}

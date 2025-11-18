@@ -1,0 +1,20 @@
+{
+  "verb_rank": 90,
+  "verb_english": "raise",
+  "verb_russian": "поднимать",
+  "verb_infinitive": "kaldırmak",
+  "turkish_verb": {
+    "verb_full": "kaldırmazsak",
+    "root": "kaldır",
+    "tense_affix": "ırsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If we do not raise the green tent quickly, the sudden storm will damage it",
+  "russian_example_sentence": "Если мы не поднимем зеленую палатку быстро, внезапная буря повредит ее",
+  "turkish_example_sentence": "Eğer biz yeşil çadırı hızlı kaldırmazsak, ani fırtına onu hasar görecek",
+  "turkish_example_sentence_with_blank": "Eğer biz yeşil çadırı hızlı ______, ani fırtına onu hasar görecek"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 94,
+  "verb_english": "report",
+  "verb_russian": "сообщать",
+  "verb_infinitive": "bildirmek",
+  "turkish_verb": {
+    "verb_full": "bildirmezsem",
+    "root": "bildir",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "sem",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If I don't report the issue, no one will know.",
+  "russian_example_sentence": "Если я не сообщу о проблеме, никто не узнает.",
+  "turkish_example_sentence": "Ben sorunu bildirmezsem, kimse bilmeyecek.",
+  "turkish_example_sentence_with_blank": "Ben sorunu ______, kimse bilmeyecek."
+}

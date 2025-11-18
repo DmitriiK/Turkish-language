@@ -1,0 +1,20 @@
+{
+  "verb_rank": 76,
+  "verb_english": "buy",
+  "verb_russian": "покупать",
+  "verb_infinitive": "satın almak",
+  "turkish_verb": {
+    "verb_full": "satın almıyorsan",
+    "root": "satın al",
+    "tense_affix": "ırsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "mı"
+  },
+  "english_example_sentence": "If you don't buy winter clothes, you'll feel cold",
+  "russian_example_sentence": "Если ты не купишь зимнюю одежду, ты будешь мерзнуть",
+  "turkish_example_sentence": "Sen kış elbiselerini satın almıyorsan, soğuk hissedersin",
+  "turkish_example_sentence_with_blank": "Sen kış elbiselerini ______, soğuk hissedersin"
+}

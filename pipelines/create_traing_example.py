@@ -487,6 +487,19 @@ class PipelineLogger:
         except Exception as e:
             print(f"⚠️  Warning: Could not write verb summary: {e}")
     
+    def log_batch_start(self, batch_num: int, total_batches: int, verb_turkish: str, 
+                        verb_english: str, tense: str, expected_count: int):
+        """Log the start of a batch processing"""
+        if self.log_file is None:
+            return
+        
+        try:
+            with open(self.log_file, 'a', encoding='utf-8') as f:
+                f.write(f"Batch {batch_num}/{total_batches}: {verb_english} ({verb_turkish}) + {tense}\n")
+                f.write(f"  Expected: {expected_count} examples\n")
+        except Exception as e:
+            print(f"⚠️  Warning: Could not write batch start log: {e}")
+    
     def write_final_log(self):
         """Write final statistics (called on exit)"""
         if self.log_file is None or self.start_time is None:
@@ -1347,7 +1360,10 @@ def generate_training_example(
                     else:
                         # Max retries reached
                         print(f"   ❌ Max retries ({max_retries}) reached for completeness check")
-                        raise ValueError(f"Batch incomplete after {max_retries} retries: {completeness_error}")
+                        raise ValueError(
+                            f"Batch incomplete after {max_retries} retries for verb '{verb.turkish}' ({verb.english}) "
+                            f"+ tense '{tense.value}': {completeness_error}"
+                        )
                 
                 # Success! Override verb_rank and verb_russian in all examples
                 for example in result.examples:
@@ -1698,6 +1714,16 @@ def main(
                 
                 print(f"\nBatch {batch_idx+1}/{len(verb_tense_groups)}: {verb.english} ({tense.value})")
                 print(f"   Expected: {len(pronoun_polarity_list)} examples")
+                
+                # Log batch start to file
+                pipeline_logger.log_batch_start(
+                    batch_idx + 1, 
+                    len(verb_tense_groups),
+                    verb.turkish,
+                    verb.english,
+                    tense.value,
+                    len(pronoun_polarity_list)
+                )
                 
                 # Check if all files in this batch already exist
                 if skip_existing:

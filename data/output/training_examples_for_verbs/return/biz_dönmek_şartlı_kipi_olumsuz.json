@@ -1,0 +1,20 @@
+{
+  "verb_rank": 97,
+  "verb_english": "return",
+  "verb_russian": "возвращаться",
+  "verb_infinitive": "dönmek",
+  "turkish_verb": {
+    "verb_full": "dönmezsek",
+    "root": "dön",
+    "tense_affix": "erse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If we don’t return on time, they will leave.",
+  "russian_example_sentence": "Если мы не вернемся вовремя, они уйдут.",
+  "turkish_example_sentence": "Zamanında dönmezsek, onlar gidecek.",
+  "turkish_example_sentence_with_blank": "Zamanında ______, onlar gidecek."
+}

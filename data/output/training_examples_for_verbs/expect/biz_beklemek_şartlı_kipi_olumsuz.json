@@ -1,0 +1,20 @@
+{
+  "verb_rank": 81,
+  "verb_english": "expect",
+  "verb_russian": "ожидать",
+  "verb_infinitive": "beklemek",
+  "turkish_verb": {
+    "verb_full": "bekleme sek",
+    "root": "bekle",
+    "tense_affix": "r",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If we don't wait for the meeting, we will miss important decisions",
+  "russian_example_sentence": "Если мы не будем ждать встречу, мы пропустим важные решения",
+  "turkish_example_sentence": "Eğer biz resepsiyonda müşteri bekleme sek, otel hizmetleri kötü olacak",
+  "turkish_example_sentence_with_blank": "Eğer biz resepsiyonda müşteri ______, otel hizmetleri kötü olacak"
+}

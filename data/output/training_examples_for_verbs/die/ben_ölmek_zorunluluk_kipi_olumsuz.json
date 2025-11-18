@@ -1,0 +1,20 @@
+{
+  "verb_rank": 79,
+  "verb_english": "die",
+  "verb_russian": "умирать",
+  "verb_infinitive": "ölmek",
+  "turkish_verb": {
+    "verb_full": "ölmemeliyin",
+    "root": "öl",
+    "tense_affix": "meli",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "yim",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "I must not die in this terrible accident",
+  "russian_example_sentence": "Я не должен умирать в этой ужасной аварии",
+  "turkish_example_sentence": "Ben bu korkunç kazada ölmemeliyin",
+  "turkish_example_sentence_with_blank": "Ben bu korkunç kazada ______"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "göndermezse",
+    "root": "gönder",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If we don't send the conference registration forms by next week, we will lose our spots",
+  "russian_example_sentence": "Если мы не отправим формы регистрации конференции на следующей неделе, мы потеряем наши места",
+  "turkish_example_sentence": "Biz konferans kayıt formlarını gelecek hafta göndermezse, yerlerimizi kaybederiz",
+  "turkish_example_sentence_with_blank": "Biz konferans kayıt formlarını gelecek hafta ______, yerlerimizi kaybederiz"
+}

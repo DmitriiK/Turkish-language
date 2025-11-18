@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "göndermmeleri lazım",
+    "root": "gönder",
+    "tense_affix": "me",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "leri",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "They should not send the false information",
+  "russian_example_sentence": "Они не должны отправлять ложную информацию",
+  "turkish_example_sentence": "Onlar yanlış haber verilerini göndermmeleri lazım",
+  "turkish_example_sentence_with_blank": "Onlar yanlış haber verilerini ______"
+}

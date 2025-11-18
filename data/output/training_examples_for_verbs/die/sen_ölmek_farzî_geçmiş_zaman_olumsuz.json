@@ -1,0 +1,20 @@
+{
+  "verb_rank": 79,
+  "verb_english": "die",
+  "verb_russian": "умирать",
+  "verb_infinitive": "ölmek",
+  "turkish_verb": {
+    "verb_full": "ölmemişsin",
+    "root": "öl",
+    "tense_affix": "müşse",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If you had not died from that poisonous snake bite",
+  "russian_example_sentence": "Если бы ты не умер от укуса ядовитой змеи",
+  "turkish_example_sentence": "Sen o zehirli yılan ısırığından ölmemişsin, doktor seni kurtarırdı",
+  "turkish_example_sentence_with_blank": "Sen o zehirli yılan ısırığından ______, doktor seni kurtarırdı"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 100,
+  "verb_english": "develop",
+  "verb_russian": "развивать",
+  "verb_infinitive": "geliştirmek",
+  "turkish_verb": {
+    "verb_full": "geliştirmeyeceksin",
+    "root": "geliştir",
+    "tense_affix": "ece",
+    "verb_tense": "gelecek_zaman",
+    "personal_pronoun": "sen",
+    "personal_affix": "sin",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "You will not develop this idea",
+  "russian_example_sentence": "Ты не будешь развивать эту идею",
+  "turkish_example_sentence": "Sen bu fikri geliştirmeyeceksin",
+  "turkish_example_sentence_with_blank": "Sen bu fikri ______"
+}

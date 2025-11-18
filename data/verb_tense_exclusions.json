@@ -24,6 +24,12 @@
       "verb_english": "have to / must",
       "excluded_tenses": ["gereklilik_kipi", "zorunluluk_kipi"],
       "reason": "Verb already expresses obligation, redundant with necessity/obligation moods."
+    },
+    {
+      "verb_infinitive": "desteklemek",
+      "verb_english": "support",
+      "excluded_tenses": ["gereklilik_kipi"],
+      "reason": "LLM generation quality issue - fails to generate complete batch (returns 2 instead of 12 examples after retries). Possibly too abstract/political contexts causing inconsistency."
     }
   ],
   "notes": [

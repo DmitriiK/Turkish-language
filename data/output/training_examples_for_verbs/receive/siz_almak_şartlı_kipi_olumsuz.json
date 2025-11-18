@@ -1,0 +1,20 @@
+{
+  "verb_rank": 103,
+  "verb_english": "receive",
+  "verb_russian": "получать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almazsanız",
+    "root": "al",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If you don’t receive the call, check the phone",
+  "russian_example_sentence": "Если вы не получите звонок, проверьте телефон",
+  "turkish_example_sentence": "Çağrıyı almazsanız, telefonu kontrol edin",
+  "turkish_example_sentence_with_blank": "Çağrıyı ______, telefonu kontrol edin"
+}

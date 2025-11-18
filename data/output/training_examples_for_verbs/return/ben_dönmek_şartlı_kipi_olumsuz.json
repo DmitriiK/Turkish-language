@@ -1,0 +1,20 @@
+{
+  "verb_rank": 97,
+  "verb_english": "return",
+  "verb_russian": "возвращаться",
+  "verb_infinitive": "dönmek",
+  "turkish_verb": {
+    "verb_full": "dönmezsem",
+    "root": "dön",
+    "tense_affix": "erse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If I don’t return today, call me.",
+  "russian_example_sentence": "Если я не вернусь сегодня, позвони мне.",
+  "turkish_example_sentence": "Bugün dönmezsem beni ara.",
+  "turkish_example_sentence_with_blank": "Bugün ______ beni ara."
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 81,
+  "verb_english": "expect",
+  "verb_russian": "ожидать",
+  "verb_infinitive": "beklemek",
+  "turkish_verb": {
+    "verb_full": "beklemezse",
+    "root": "bekle",
+    "tense_affix": "se",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If she does not wait for the package, it will be lost",
+  "russian_example_sentence": "Если она не будет ждать посылку, она потеряется",
+  "turkish_example_sentence": "O paketi beklemezse, kaybolacak",
+  "turkish_example_sentence_with_blank": "O paketi ______, kaybolacak"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 102,
+  "verb_english": "break",
+  "verb_russian": "ломать",
+  "verb_infinitive": "kırmak",
+  "turkish_verb": {
+    "verb_full": "kırmaması lazım",
+    "root": "kır",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": "sı",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "She must not break the antique table",
+  "russian_example_sentence": "Ей нельзя сломать антикварный стол",
+  "turkish_example_sentence": "Antika masayı kırmaması lazım",
+  "turkish_example_sentence_with_blank": "Antika masayı ______"
+}

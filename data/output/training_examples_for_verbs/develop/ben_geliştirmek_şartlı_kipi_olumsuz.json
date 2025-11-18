@@ -1,0 +1,20 @@
+{
+  "verb_rank": 100,
+  "verb_english": "develop",
+  "verb_russian": "развивать",
+  "verb_infinitive": "geliştirmek",
+  "turkish_verb": {
+    "verb_full": "geliştirmezsem",
+    "root": "geliştir",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "sem",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If I don't develop the project, it will fail",
+  "russian_example_sentence": "Если я не разработаю проект, он провалится",
+  "turkish_example_sentence": "Bu projeyi geliştirmezsem başarısız olacak",
+  "turkish_example_sentence_with_blank": "Bu projeyi ______ başarısız olacak"
+}

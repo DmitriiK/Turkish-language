@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "gönderemeyiz",
+    "root": "gönder",
+    "tense_affix": "eme",
+    "verb_tense": "imkan_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "yiz",
+    "polarity": "negative",
+    "negative_affix": "eme"
+  },
+  "english_example_sentence": "We cannot send the order without payment",
+  "russian_example_sentence": "Мы не можем отправить заказ без оплаты",
+  "turkish_example_sentence": "Biz büyük siparişi ödeme olmadan gönderemeyiz",
+  "turkish_example_sentence_with_blank": "Biz büyük siparişi ödeme olmadan ______"
+}

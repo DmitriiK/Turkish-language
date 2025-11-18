@@ -1,0 +1,20 @@
+{
+  "verb_rank": 85,
+  "verb_english": "cut",
+  "verb_russian": "резать",
+  "verb_infinitive": "kesmek",
+  "turkish_verb": {
+    "verb_full": "kesersen",
+    "root": "kes",
+    "tense_affix": "erse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If you cut the beautiful yellow lemon into pieces, the juice will flow out",
+  "russian_example_sentence": "Если ты нарежешь красивый жёлтый лимон на кусочки, сок потечёт",
+  "turkish_example_sentence": "Sen güzel sarı limonu parçalara kesersen, meyve suyu akacak",
+  "turkish_example_sentence_with_blank": "Sen güzel sarı limonu parçalara ______, meyve suyu akacak"
+}

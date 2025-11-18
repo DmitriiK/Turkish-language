@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "göndermediğinizde",
+    "root": "gönder",
+    "tense_affix": "mediğ",
+    "verb_tense": "zaman_sıfatı",
+    "personal_pronoun": "siz",
+    "personal_affix": "inizde",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "When you don't send the confirmation, the reservation gets cancelled",
+  "russian_example_sentence": "Когда вы не отправляете подтверждение, бронирование отменяется",
+  "turkish_example_sentence": "Siz otel rezervasyon onayını göndermediğinizde, yer iptal edilir",
+  "turkish_example_sentence_with_blank": "Siz otel rezervasyon onayını ______, yer iptal edilir"
+}

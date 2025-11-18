@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "gönderirlersa",
+    "root": "gönder",
+    "tense_affix": "irse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "lar",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If they send the vintage photographs tomorrow, we can display them at the exhibition",
+  "russian_example_sentence": "Если они отправят старинные фотографии завтра, мы сможем выставить их на выставке",
+  "turkish_example_sentence": "Onlar eski fotoğrafları yarın gönderirlersa, sergide sergileyebiliriz",
+  "turkish_example_sentence_with_blank": "Onlar eski fotoğrafları yarın ______, sergide sergileyebiliriz"
+}

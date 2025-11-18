@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "göndermesanız",
+    "root": "gönder",
+    "tense_affix": "se",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If you don't send the required documents this week, your application will be rejected",
+  "russian_example_sentence": "Если вы не отправите необходимые документы на этой неделе, ваше заявление будет отклонено",
+  "turkish_example_sentence": "Siz gerekli evrakları bu hafta göndermesanız, başvurunuz reddedilecek",
+  "turkish_example_sentence_with_blank": "Siz gerekli evrakları bu hafta ______, başvurunuz reddedilecek"
+}

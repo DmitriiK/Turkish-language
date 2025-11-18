@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "gönderdiğinizde",
+    "root": "gönder",
+    "tense_affix": "diğ",
+    "verb_tense": "zaman_sıfatı",
+    "personal_pronoun": "siz",
+    "personal_affix": "inizde",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "When you send the report, the manager reviews it carefully",
+  "russian_example_sentence": "Когда вы отправляете отчет, менеджер его внимательно проверяет",
+  "turkish_example_sentence": "Siz detaylı iş raporunu gönderdiğinizde, müdür bunu dikkatle inceler",
+  "turkish_example_sentence_with_blank": "Siz detaylı iş raporunu ______, müdür bunu dikkatle inceler"
+}

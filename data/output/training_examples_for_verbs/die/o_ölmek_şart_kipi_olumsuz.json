@@ -1,0 +1,20 @@
+{
+  "verb_rank": 79,
+  "verb_english": "die",
+  "verb_russian": "умирать",
+  "verb_infinitive": "ölmek",
+  "turkish_verb": {
+    "verb_full": "ölmese",
+    "root": "öl",
+    "tense_affix": "se",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If she does not die from her serious illness, she will write a book",
+  "russian_example_sentence": "Если она не умрет от своей серьезной болезни, она напишет книгу",
+  "turkish_example_sentence": "O ciddi hastalıktan ölmese, güzel bir otobiyografi yazacak ve yayınlayacak",
+  "turkish_example_sentence_with_blank": "O ciddi hastalıktan ______, güzel bir otobiyografi yazacak ve yayınlayacak"
+}

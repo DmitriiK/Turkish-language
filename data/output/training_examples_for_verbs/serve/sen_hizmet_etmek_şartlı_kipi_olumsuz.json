@@ -1,0 +1,20 @@
+{
+  "verb_rank": 78,
+  "verb_english": "serve",
+  "verb_russian": "обслуживать",
+  "verb_infinitive": "hizmet etmek",
+  "turkish_verb": {
+    "verb_full": "hizmet etmezsen",
+    "root": "hizmet et",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If you do not serve warm soup, the sick child will be upset",
+  "russian_example_sentence": "Если ты не подашь теплый суп, больной ребенок будет расстроен",
+  "turkish_example_sentence": "Eğer sen sıcak ve besleyici çorbayı hizmet etmezsen, hasta çocuk üzülecek",
+  "turkish_example_sentence_with_blank": "Eğer sen sıcak ve besleyici çorbayı ______, hasta çocuk üzülecek"
+}

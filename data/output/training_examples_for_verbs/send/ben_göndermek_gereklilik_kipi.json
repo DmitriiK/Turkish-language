@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "göndermem lazım",
+    "root": "gönder",
+    "tense_affix": "me",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "I need to send the urgent email today",
+  "russian_example_sentence": "Мне нужно отправить срочное письмо сегодня",
+  "turkish_example_sentence": "Ben bugün acil e-postayı göndermem lazım",
+  "turkish_example_sentence_with_blank": "Ben bugün acil e-postayı ______"
+}

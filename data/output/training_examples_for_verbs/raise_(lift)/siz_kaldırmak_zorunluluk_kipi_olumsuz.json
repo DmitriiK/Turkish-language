@@ -1,0 +1,20 @@
+{
+  "verb_rank": 90,
+  "verb_english": "raise",
+  "verb_russian": "поднимать",
+  "verb_infinitive": "kaldırmak",
+  "turkish_verb": {
+    "verb_full": "kaldırmamalısınız",
+    "root": "kaldır",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "sınız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "You must not raise the precious golden statue carelessly",
+  "russian_example_sentence": "Вы не должны поднимать драгоценную золотую статую неосторожно",
+  "turkish_example_sentence": "Siz değerli altın heykeli dikkatsizce kaldırmamalısınız",
+  "turkish_example_sentence_with_blank": "Siz değerli altın heykeli dikkatsizce ______"
+}

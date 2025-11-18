@@ -1,0 +1,20 @@
+{
+  "verb_rank": 87,
+  "verb_english": "kill",
+  "verb_russian": "убивать",
+  "verb_infinitive": "öldürmek",
+  "turkish_verb": {
+    "verb_full": "öldürmezlerse",
+    "root": "öldür",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "ler",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If they do not kill the parasitic worm, the fish will become ill",
+  "russian_example_sentence": "Если они не убьют паразитического червя, рыба заболеет",
+  "turkish_example_sentence": "Onlar parazit solucanı öldürmezlerse, balık hastalanacak",
+  "turkish_example_sentence_with_blank": "Onlar parazit solucanı ______, balık hastalanacak"
+}

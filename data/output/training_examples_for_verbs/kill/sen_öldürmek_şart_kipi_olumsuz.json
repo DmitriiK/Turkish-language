@@ -1,0 +1,20 @@
+{
+  "verb_rank": 87,
+  "verb_english": "kill",
+  "verb_russian": "убивать",
+  "verb_infinitive": "öldürmek",
+  "turkish_verb": {
+    "verb_full": "öldürmesen",
+    "root": "öldür",
+    "tense_affix": "se",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If you were not to kill that small ant, it would continue working diligently",
+  "russian_example_sentence": "Если бы ты не убил этого маленького муравья, он продолжал бы работать усердно",
+  "turkish_example_sentence": "Sen o küçük karıncayı öldürmesen, çalışmaya devam ederdi",
+  "turkish_example_sentence_with_blank": "Sen o küçük karıncayı ______, çalışmaya devam ederdi"
+}

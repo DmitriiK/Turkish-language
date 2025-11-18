@@ -1,0 +1,20 @@
+{
+  "verb_rank": 77,
+  "verb_english": "wait",
+  "verb_russian": "ждать",
+  "verb_infinitive": "beklemek",
+  "turkish_verb": {
+    "verb_full": "beklemezsler se",
+    "root": "bekle",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "ler",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If they don't wait for the official announcement, chaos will erupt",
+  "russian_example_sentence": "Если они не будут ждать официальное объявление, начнётся хаос",
+  "turkish_example_sentence": "Onlar resmi duyuru için beklemezsler se, kaos patlak verecek",
+  "turkish_example_sentence_with_blank": "Onlar resmi duyuru için ______, kaos patlak verecek"
+}

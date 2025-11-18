@@ -1,0 +1,20 @@
+{
+  "verb_rank": 76,
+  "verb_english": "buy",
+  "verb_russian": "покупать",
+  "verb_infinitive": "satın almak",
+  "turkish_verb": {
+    "verb_full": "satın almıyorlarsa",
+    "root": "satın al",
+    "tense_affix": "ırsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "lar",
+    "polarity": "negative",
+    "negative_affix": "mı"
+  },
+  "english_example_sentence": "If they don't buy textbooks, they can't study properly",
+  "russian_example_sentence": "Если они не купят учебники, они не смогут нормально учиться",
+  "turkish_example_sentence": "Onlar ders kitaplarını satın almıyorlarsa, düzgün bir şekilde çalışamayacaklar",
+  "turkish_example_sentence_with_blank": "Onlar ders kitaplarını ______, düzgün bir şekilde çalışamayacaklar"
+}

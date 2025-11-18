@@ -1,0 +1,20 @@
+{
+  "verb_rank": 84,
+  "verb_english": "fall",
+  "verb_russian": "падать",
+  "verb_infinitive": "düşmek",
+  "turkish_verb": {
+    "verb_full": "düşmezse",
+    "root": "düş",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If she doesn't fall during the dangerous acrobatic performance, the crowd will applaud",
+  "russian_example_sentence": "Если она не упадёт во время опасного акробатического представления, публика будет аплодировать",
+  "turkish_example_sentence": "O tehlikeli akrobatik gösteride düşmezse, kalabalık alkış tutacak",
+  "turkish_example_sentence_with_blank": "O tehlikeli akrobatik gösteride ______, kalabalık alkış tutacak"
+}

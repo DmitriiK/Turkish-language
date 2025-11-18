@@ -1,0 +1,20 @@
+{
+  "verb_rank": 76,
+  "verb_english": "buy",
+  "verb_russian": "покупать",
+  "verb_infinitive": "satın almak",
+  "turkish_verb": {
+    "verb_full": "satın almasın",
+    "root": "satın al",
+    "tense_affix": "sın",
+    "verb_tense": "emir_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": "sın",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "Don't let her buy unnecessary electronic gadgets online",
+  "russian_example_sentence": "Не позволяй ей покупать ненужные электронные гаджеты онлайн",
+  "turkish_example_sentence": "O gereksiz elektronik aletleri internetten satın almasın",
+  "turkish_example_sentence_with_blank": "O gereksiz elektronik aletleri internetten ______"
+}

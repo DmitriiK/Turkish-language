@@ -1,0 +1,20 @@
+{
+  "verb_rank": 87,
+  "verb_english": "kill",
+  "verb_russian": "убивать",
+  "verb_infinitive": "öldürmek",
+  "turkish_verb": {
+    "verb_full": "öldürmemelisiniz",
+    "root": "öldür",
+    "tense_affix": "meli",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "siniz",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "You must not kill the protected birds nesting on the cliff",
+  "russian_example_sentence": "Вы не должны убивать защищённых птиц, гнездящихся на скале",
+  "turkish_example_sentence": "Siz kayalıkta yuva yapan korunan kuşları öldürmemelisiniz",
+  "turkish_example_sentence_with_blank": "Siz kayalıkta yuva yapan korunan kuşları ______"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "göndermeyerek",
+    "root": "gönder",
+    "tense_affix": "erek",
+    "verb_tense": "zarf_fiil",
+    "personal_pronoun": null,
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "Without sending the important email, they missed the deadline",
+  "russian_example_sentence": "Не отправляя важное письмо, они пропустили срок",
+  "turkish_example_sentence": "Önemli e-postayı göndermeyerek, onlar son tarihi kaçırdılar",
+  "turkish_example_sentence_with_blank": "Önemli e-postayı ______, onlar son tarihi kaçırdılar"
+}

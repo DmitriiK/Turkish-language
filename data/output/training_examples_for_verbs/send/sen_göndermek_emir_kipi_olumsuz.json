@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "gönderme",
+    "root": "gönder",
+    "tense_affix": "",
+    "verb_tense": "emir_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "Don't send that confidential document without permission",
+  "russian_example_sentence": "Не отправляй этот конфиденциальный документ без разрешения",
+  "turkish_example_sentence": "Gizli belgeyi izin olmadan gönderme",
+  "turkish_example_sentence_with_blank": "Gizli belgeyi izin olmadan ______"
+}

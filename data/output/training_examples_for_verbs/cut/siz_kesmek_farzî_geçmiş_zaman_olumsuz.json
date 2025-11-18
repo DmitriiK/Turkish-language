@@ -1,0 +1,20 @@
+{
+  "verb_rank": 85,
+  "verb_english": "cut",
+  "verb_russian": "резать",
+  "verb_infinitive": "kesmek",
+  "turkish_verb": {
+    "verb_full": "kesmemişsanız",
+    "root": "kes",
+    "tense_affix": "miş",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If you had not cut the delicate silk fabric yesterday",
+  "russian_example_sentence": "Если бы вы вчера не порезали деликатную шелковую ткань",
+  "turkish_example_sentence": "Siz hassas ipek kumaşı dün kesmemişsanız, elbise tamamlanabilirdi",
+  "turkish_example_sentence_with_blank": "Siz hassas ipek kumaşı dün ______, elbise tamamlanabilirdi"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "göndermemesi lazım",
+    "root": "gönder",
+    "tense_affix": "me",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": "si",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "She should not send the personal information",
+  "russian_example_sentence": "Она не должна отправлять личную информацию",
+  "turkish_example_sentence": "O hassas kişisel bilgiyi göndermemesi lazım",
+  "turkish_example_sentence_with_blank": "O hassas kişisel bilgiyi ______"
+}

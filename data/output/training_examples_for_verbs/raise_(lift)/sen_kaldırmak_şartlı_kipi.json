@@ -1,0 +1,20 @@
+{
+  "verb_rank": 90,
+  "verb_english": "raise",
+  "verb_russian": "поднимать",
+  "verb_infinitive": "kaldırmak",
+  "turkish_verb": {
+    "verb_full": "kaldırırsan",
+    "root": "kaldır",
+    "tense_affix": "ırsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If you raise your strong arm high, everyone will see you",
+  "russian_example_sentence": "Если ты поднимешь свою сильную руку высоко, все тебя увидят",
+  "turkish_example_sentence": "Eğer sen güçlü kolunu yükseğe kaldırırsan, herkes seni görecek",
+  "turkish_example_sentence_with_blank": "Eğer sen güçlü kolunu yükseğe ______, herkes seni görecek"
+}

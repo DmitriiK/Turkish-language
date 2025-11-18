@@ -1,0 +1,20 @@
+{
+  "verb_rank": 95,
+  "verb_english": "decide",
+  "verb_russian": "решать",
+  "verb_infinitive": "karar vermek",
+  "turkish_verb": {
+    "verb_full": "karar vermemişsen",
+    "root": "karar ver",
+    "tense_affix": "mişse",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If you hadn’t decided, we would have waited.",
+  "russian_example_sentence": "Если бы ты не решил, мы бы подождали.",
+  "turkish_example_sentence": "Eğer karar vermemişsen, beklerdik.",
+  "turkish_example_sentence_with_blank": "Eğer ______, beklerdik."
+}

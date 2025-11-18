@@ -1,0 +1,20 @@
+{
+  "verb_rank": 76,
+  "verb_english": "buy",
+  "verb_russian": "покупать",
+  "verb_infinitive": "satın almak",
+  "turkish_verb": {
+    "verb_full": "satın almıyorsanız",
+    "root": "satın al",
+    "tense_affix": "ırsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "mı"
+  },
+  "english_example_sentence": "If you don't buy travel insurance, you risk losing money",
+  "russian_example_sentence": "Если вы не купите туристическую страховку, вы рискуете потерять деньги",
+  "turkish_example_sentence": "Siz seyahat sigortasını satın almıyorsanız, paranızı kaybetme riski alırsınız",
+  "turkish_example_sentence_with_blank": "Siz seyahat sigortasını ______, paranızı kaybetme riski alırsınız"
+}

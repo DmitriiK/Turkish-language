@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "göndermeyeceksin",
+    "root": "gönder",
+    "tense_affix": "ecek",
+    "verb_tense": "gelecek_zaman",
+    "personal_pronoun": "sen",
+    "personal_affix": "sin",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "You will not send those expensive flowers",
+  "russian_example_sentence": "Ты не отправишь эти дорогие цветы",
+  "turkish_example_sentence": "Sen o pahalı çiçekleri göndermeyeceksin",
+  "turkish_example_sentence_with_blank": "Sen o pahalı çiçekleri ______"
+}

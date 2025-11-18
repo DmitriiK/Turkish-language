@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "göndermeyeler",
+    "root": "gönder",
+    "tense_affix": "e",
+    "verb_tense": "istek_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "ler",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "May they not send those negative comments to anyone",
+  "russian_example_sentence": "Пусть они не отправляют эти негативные комментарии никому",
+  "turkish_example_sentence": "Onlar o olumsuz yorumları kimseye göndermeyeler",
+  "turkish_example_sentence_with_blank": "Onlar o olumsuz yorumları kimseye ______"
+}

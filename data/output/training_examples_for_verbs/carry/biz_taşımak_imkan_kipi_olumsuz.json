@@ -1,0 +1,20 @@
+{
+  "verb_rank": 101,
+  "verb_english": "carry",
+  "verb_russian": "нести",
+  "verb_infinitive": "taşımak",
+  "turkish_verb": {
+    "verb_full": "taşıyamayız",
+    "root": "taşı",
+    "tense_affix": "yama",
+    "verb_tense": "imkan_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "ız",
+    "polarity": "negative",
+    "negative_affix": "yama"
+  },
+  "english_example_sentence": "We cannot carry all these boxes.",
+  "russian_example_sentence": "Мы не можем нести все эти коробки.",
+  "turkish_example_sentence": "Biz bu kadar kutuyu taşıyamayız.",
+  "turkish_example_sentence_with_blank": "Biz bu kadar kutuyu ______."
+}

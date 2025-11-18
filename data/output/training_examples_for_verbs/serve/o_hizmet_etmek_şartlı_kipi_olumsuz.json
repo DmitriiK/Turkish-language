@@ -1,0 +1,20 @@
+{
+  "verb_rank": 78,
+  "verb_english": "serve",
+  "verb_russian": "обслуживать",
+  "verb_infinitive": "hizmet etmek",
+  "turkish_verb": {
+    "verb_full": "hizmet etmezse",
+    "root": "hizmet et",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If she does not serve sweet dessert, the birthday party will fail",
+  "russian_example_sentence": "Если она не подаст сладкий десерт, вечеринка в день рождения будет неудачной",
+  "turkish_example_sentence": "Eğer o tatlı ve lezzetli pastayı hizmet etmezse, doğum günü partisi başarısız olacak",
+  "turkish_example_sentence_with_blank": "Eğer o tatlı ve lezzetli pastayı ______, doğum günü partisi başarısız olacak"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 97,
+  "verb_english": "return",
+  "verb_russian": "возвращаться",
+  "verb_infinitive": "dönmek",
+  "turkish_verb": {
+    "verb_full": "dönmemem lazım",
+    "root": "dön",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "I must not return immediately",
+  "russian_example_sentence": "Я не должен сразу возвращаться",
+  "turkish_example_sentence": "Ben hemen dönmemem lazım",
+  "turkish_example_sentence_with_blank": "Ben hemen ______"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 87,
+  "verb_english": "kill",
+  "verb_russian": "убивать",
+  "verb_infinitive": "öldürmek",
+  "turkish_verb": {
+    "verb_full": "öldürürlerse",
+    "root": "öldür",
+    "tense_affix": "ürse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "ler",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If they kill the dangerous predator, the livestock will be safe",
+  "russian_example_sentence": "Если они убьют опасного хищника, скот будет в безопасности",
+  "turkish_example_sentence": "Onlar tehlikeli avcı hayvanı öldürürlerse, hayvanlar güvende olur",
+  "turkish_example_sentence_with_blank": "Onlar tehlikeli avcı hayvanı ______, hayvanlar güvende olur"
+}

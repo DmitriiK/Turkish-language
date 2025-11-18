@@ -1,0 +1,20 @@
+{
+  "verb_rank": 99,
+  "verb_english": "hope",
+  "verb_russian": "надеяться",
+  "verb_infinitive": "ummak",
+  "turkish_verb": {
+    "verb_full": "ummazsanız",
+    "root": "um",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If you don't hope for success, you won't achieve it.",
+  "russian_example_sentence": "Если вы не надеетесь на успех, вы его не достигнете.",
+  "turkish_example_sentence": "Siz başarıyı ummazsanız, ona ulaşamazsınız.",
+  "turkish_example_sentence_with_blank": "Siz başarıyı ______, ona ulaşamazsınız."
+}

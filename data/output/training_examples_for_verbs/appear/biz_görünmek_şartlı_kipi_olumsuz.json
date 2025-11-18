@@ -1,0 +1,20 @@
+{
+  "verb_rank": 75,
+  "verb_english": "appear",
+  "verb_russian": "появляться",
+  "verb_infinitive": "görünmek",
+  "turkish_verb": {
+    "verb_full": "görünmezsek",
+    "root": "görün",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If we don't appear on time, the show will be delayed",
+  "russian_example_sentence": "Если мы не появимся вовремя, шоу будет отложено",
+  "turkish_example_sentence": "Biz zamanında görünmezsek, gösteri gecikecek",
+  "turkish_example_sentence_with_blank": "Biz zamanında ______, gösteri gecikecek"
+}

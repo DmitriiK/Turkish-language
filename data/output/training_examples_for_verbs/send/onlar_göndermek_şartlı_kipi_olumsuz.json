@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "göndermezlerse",
+    "root": "gönder",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "ler",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If they don't send the medical test results by Friday, the surgery will be postponed",
+  "russian_example_sentence": "Если они не отправят результаты медицинских тестов к пятнице, операция будет отложена",
+  "turkish_example_sentence": "Onlar tıbbi test sonuçlarını cuma gününe kadar göndermezlerse, ameliyat ertelenecek",
+  "turkish_example_sentence_with_blank": "Onlar tıbbi test sonuçlarını cuma gününe kadar ______, ameliyat ertelenecek"
+}

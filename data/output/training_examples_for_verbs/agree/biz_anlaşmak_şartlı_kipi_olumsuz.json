@@ -1,0 +1,20 @@
+{
+  "verb_rank": 104,
+  "verb_english": "agree",
+  "verb_russian": "соглашаться",
+  "verb_infinitive": "anlaşmak",
+  "turkish_verb": {
+    "verb_full": "anlaşmazsak",
+    "root": "anlaş",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If we do not agree, the deal is off",
+  "russian_example_sentence": "Если мы не согласимся, сделка сорвётся",
+  "turkish_example_sentence": "Eğer anlaşmazsak, anlaşma iptal olur",
+  "turkish_example_sentence_with_blank": "Eğer ______, anlaşma iptal olur"
+}

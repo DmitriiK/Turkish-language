@@ -1,0 +1,20 @@
+{
+  "verb_rank": 100,
+  "verb_english": "develop",
+  "verb_russian": "развивать",
+  "verb_infinitive": "geliştirmek",
+  "turkish_verb": {
+    "verb_full": "geliştirmezsen",
+    "root": "geliştir",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "sen",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If you don't develop your skills, you'll fall behind",
+  "russian_example_sentence": "Если ты не будешь развивать свои навыки, ты отстанешь",
+  "turkish_example_sentence": "Becerilerini geliştirmezsen geri kalacaksın",
+  "turkish_example_sentence_with_blank": "Becerilerini ______ geri kalacaksın"
+}

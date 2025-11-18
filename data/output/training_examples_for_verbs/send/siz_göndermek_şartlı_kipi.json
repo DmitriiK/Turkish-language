@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "gönderirseniz",
+    "root": "gönder",
+    "tense_affix": "irse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "niz",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If you send the professional portfolio materials this afternoon, we can review them today",
+  "russian_example_sentence": "Если вы отправите материалы профессионального портфолио этим днем, мы сможем их рассмотреть сегодня",
+  "turkish_example_sentence": "Siz profesyonel portföy materyallerini bu öğleden sonra gönderirseniz, bugün inceleyebiliriz",
+  "turkish_example_sentence_with_blank": "Siz profesyonel portföy materyallerini bu öğleden sonra ______, bugün inceleyebiliriz"
+}

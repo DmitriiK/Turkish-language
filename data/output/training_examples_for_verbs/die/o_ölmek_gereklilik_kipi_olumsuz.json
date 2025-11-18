@@ -1,0 +1,20 @@
+{
+  "verb_rank": 79,
+  "verb_english": "die",
+  "verb_russian": "умирать",
+  "verb_infinitive": "ölmek",
+  "turkish_verb": {
+    "verb_full": "ölmemesi gerek",
+    "root": "öl",
+    "tense_affix": "me",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": "si",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "She must not die from this illness",
+  "russian_example_sentence": "Она не должна умереть от этой болезни",
+  "turkish_example_sentence": "O genç ve güçlü doktor ölmemesi gerek",
+  "turkish_example_sentence_with_blank": "O genç ve güçlü doktor ______"
+}

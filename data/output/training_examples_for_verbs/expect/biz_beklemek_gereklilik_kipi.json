@@ -1,0 +1,20 @@
+{
+  "verb_rank": 81,
+  "verb_english": "expect",
+  "verb_russian": "ожидать",
+  "verb_infinitive": "beklemek",
+  "turkish_verb": {
+    "verb_full": "beklemamız lazım",
+    "root": "bekle",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "mız",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "We need to expect unexpected weather changes tomorrow",
+  "russian_example_sentence": "Мы должны ожидать неожиданных изменений погоды завтра",
+  "turkish_example_sentence": "Biz yarın ani hava değişikliklerini beklemamız lazım",
+  "turkish_example_sentence_with_blank": "Biz yarın ani hava değişikliklerini ______"
+}

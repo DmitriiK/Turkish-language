@@ -1,0 +1,20 @@
+{
+  "verb_rank": 100,
+  "verb_english": "develop",
+  "verb_russian": "развивать",
+  "verb_infinitive": "geliştirmek",
+  "turkish_verb": {
+    "verb_full": "geliştirmezse",
+    "root": "geliştir",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": "se",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If she doesn't develop the design, the project won’t progress",
+  "russian_example_sentence": "Если она не разработает дизайн, проект не будет продвигаться",
+  "turkish_example_sentence": "Tasarımı geliştirmezse proje ilerlemeyecek",
+  "turkish_example_sentence_with_blank": "Tasarımı ______ proje ilerlemeyecek"
+}

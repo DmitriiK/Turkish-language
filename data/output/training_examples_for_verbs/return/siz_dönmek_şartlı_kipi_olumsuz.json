@@ -1,0 +1,20 @@
+{
+  "verb_rank": 97,
+  "verb_english": "return",
+  "verb_russian": "возвращаться",
+  "verb_infinitive": "dönmek",
+  "turkish_verb": {
+    "verb_full": "dönmezseniz",
+    "root": "dön",
+    "tense_affix": "erse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "niz",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If you don’t return, we’ll close the office.",
+  "russian_example_sentence": "Если вы не вернетесь, мы закроем офис.",
+  "turkish_example_sentence": "Eve dönmezseniz, ofisi kapatırız.",
+  "turkish_example_sentence_with_blank": "Eve ______, ofisi kapatırız."
+}

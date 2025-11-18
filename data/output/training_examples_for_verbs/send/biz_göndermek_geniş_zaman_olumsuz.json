@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "göndermez",
+    "root": "gönder",
+    "tense_affix": "ir",
+    "verb_tense": "geniş_zaman",
+    "personal_pronoun": "biz",
+    "personal_affix": "iz",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "We do not send confidential information through public channels",
+  "russian_example_sentence": "Мы не отправляем конфиденциальную информацию через открытые каналы",
+  "turkish_example_sentence": "Biz gizli bilgileri halka açık kanallar aracılığıyla göndermez",
+  "turkish_example_sentence_with_blank": "Biz gizli bilgileri halka açık kanallar aracılığıyla ______"
+}

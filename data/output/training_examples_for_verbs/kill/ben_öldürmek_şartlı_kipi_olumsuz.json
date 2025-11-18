@@ -1,0 +1,20 @@
+{
+  "verb_rank": 87,
+  "verb_english": "kill",
+  "verb_russian": "убивать",
+  "verb_infinitive": "öldürmek",
+  "turkish_verb": {
+    "verb_full": "öldürmezsen",
+    "root": "öldür",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If I do not kill the infected plant, it will spread disease",
+  "russian_example_sentence": "Если я не убью зараженное растение, болезнь распространится",
+  "turkish_example_sentence": "Ben hasta bitki hastalığı yayarsa öldürmezsen, enfeksiyon yayılır",
+  "turkish_example_sentence_with_blank": "Ben hasta bitki hastalığı yayarsa ______, enfeksiyon yayılır"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 85,
+  "verb_english": "cut",
+  "verb_russian": "резать",
+  "verb_infinitive": "kesmek",
+  "turkish_verb": {
+    "verb_full": "kesmezlerse",
+    "root": "kes",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "ler",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If they do not cut the strong thick rope today, the project will be delayed",
+  "russian_example_sentence": "Если они не нарежут крепкую толстую верёвку сегодня, проект будет отложен",
+  "turkish_example_sentence": "Onlar güçlü kalın ipi bugün kesmezlerse, proje gecikecek",
+  "turkish_example_sentence_with_blank": "Onlar güçlü kalın ipi bugün ______, proje gecikecek"
+}

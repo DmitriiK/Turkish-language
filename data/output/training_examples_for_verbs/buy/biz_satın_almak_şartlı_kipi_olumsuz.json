@@ -1,0 +1,20 @@
+{
+  "verb_rank": 76,
+  "verb_english": "buy",
+  "verb_russian": "покупать",
+  "verb_infinitive": "satın almak",
+  "turkish_verb": {
+    "verb_full": "satın almıyorsak",
+    "root": "satın al",
+    "tense_affix": "ırsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "mı"
+  },
+  "english_example_sentence": "If we don't buy groceries today, we'll have nothing to eat",
+  "russian_example_sentence": "Если мы не купим продукты сегодня, нам нечего будет есть",
+  "turkish_example_sentence": "Biz bugün market ürünlerini satın almıyorsak, yemek için hiçbir şeyimiz olmayacak",
+  "turkish_example_sentence_with_blank": "Biz bugün market ürünlerini ______, yemek için hiçbir şeyimiz olmayacak"
+}

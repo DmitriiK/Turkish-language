@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "göndermedim",
+    "root": "gönder",
+    "tense_affix": "di",
+    "verb_tense": "geçmiş_zaman",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "I did not send the important letter today",
+  "russian_example_sentence": "Я не отправил важное письмо сегодня",
+  "turkish_example_sentence": "Ben bugün önemli mektubu göndermedim",
+  "turkish_example_sentence_with_blank": "Ben bugün önemli mektubu ______"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 90,
+  "verb_english": "raise",
+  "verb_russian": "поднимать",
+  "verb_infinitive": "kaldırmak",
+  "turkish_verb": {
+    "verb_full": "kaldırmasam",
+    "root": "kaldır",
+    "tense_affix": "sa",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "If I did not raise the red flag today",
+  "russian_example_sentence": "Если бы я не поднял красный флаг сегодня",
+  "turkish_example_sentence": "Ben kırmızı bayrağı bugün kaldırmasam kimse fark etmez",
+  "turkish_example_sentence_with_blank": "Ben kırmızı bayrağı bugün ______ kimse fark etmez"
+}

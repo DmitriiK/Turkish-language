@@ -1,0 +1,20 @@
+{
+  "verb_rank": 95,
+  "verb_english": "decide",
+  "verb_russian": "решать",
+  "verb_infinitive": "karar vermek",
+  "turkish_verb": {
+    "verb_full": "karar vermese",
+    "root": "karar ver",
+    "tense_affix": "mese",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If he doesn’t decide, the project will stop.",
+  "russian_example_sentence": "Если он не решит, проект остановится.",
+  "turkish_example_sentence": "Eğer bu konuda karar vermese, proje duracak.",
+  "turkish_example_sentence_with_blank": "Eğer bu konuda ______, proje duracak."
+}

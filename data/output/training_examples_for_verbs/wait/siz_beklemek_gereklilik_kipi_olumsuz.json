@@ -1,0 +1,20 @@
+{
+  "verb_rank": 77,
+  "verb_english": "wait",
+  "verb_russian": "ждать",
+  "verb_infinitive": "beklemek",
+  "turkish_verb": {
+    "verb_full": "beklemememeniz lazım",
+    "root": "bekle",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "You should not wait for the broken elevator anymore",
+  "russian_example_sentence": "Вам не нужно больше ждать сломанный лифт",
+  "turkish_example_sentence": "Siz bozuk asansörü artık beklemememeniz lazım",
+  "turkish_example_sentence_with_blank": "Siz bozuk asansörü artık ______"
+}

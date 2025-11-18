@@ -1,0 +1,20 @@
+{
+  "verb_rank": 87,
+  "verb_english": "kill",
+  "verb_russian": "убивать",
+  "verb_infinitive": "öldürmek",
+  "turkish_verb": {
+    "verb_full": "öldürmezsek",
+    "root": "öldür",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If we do not kill the invasive bacteria, the patient will suffer",
+  "russian_example_sentence": "Если мы не убьем инвазивные бактерии, пациент будет страдать",
+  "turkish_example_sentence": "Biz istilacı bakteri öldürmezsek, hasta acı çekecek",
+  "turkish_example_sentence_with_blank": "Biz istilacı bakteri ______, hasta acı çekecek"
+}

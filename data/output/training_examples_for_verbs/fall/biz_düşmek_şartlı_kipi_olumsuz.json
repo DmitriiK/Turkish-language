@@ -1,0 +1,20 @@
+{
+  "verb_rank": 84,
+  "verb_english": "fall",
+  "verb_russian": "падать",
+  "verb_infinitive": "düşmek",
+  "turkish_verb": {
+    "verb_full": "düşmezse",
+    "root": "düş",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If we don't fall on the icy sidewalk, we will arrive at the warm café on time",
+  "russian_example_sentence": "Если мы не упадём на ледяной тротуар, мы придём в тёплое кафе вовремя",
+  "turkish_example_sentence": "Biz buzlu kaldırımda düşmezse, sıcak kafeye zamanında varacağız",
+  "turkish_example_sentence_with_blank": "Biz buzlu kaldırımda ______, sıcak kafeye zamanında varacağız"
+}

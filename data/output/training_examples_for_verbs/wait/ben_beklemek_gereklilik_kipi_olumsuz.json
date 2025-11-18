@@ -1,0 +1,20 @@
+{
+  "verb_rank": 77,
+  "verb_english": "wait",
+  "verb_russian": "ждать",
+  "verb_infinitive": "beklemek",
+  "turkish_verb": {
+    "verb_full": "beklememem lazım",
+    "root": "bekle",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "I should not wait for the delayed bus anymore",
+  "russian_example_sentence": "Мне не нужно ждать опоздавший автобус больше",
+  "turkish_example_sentence": "Ben geç kalan kırmızı otobüsü artık beklememem lazım",
+  "turkish_example_sentence_with_blank": "Ben geç kalan kırmızı otobüsü artık ______"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "göndermesen",
+    "root": "gönder",
+    "tense_affix": "se",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If you don't send the detailed report by Friday, the project will fail",
+  "russian_example_sentence": "Если ты не отправишь подробный отчёт к пятнице, проект потерпит неудачу",
+  "turkish_example_sentence": "Sen ayrıntılı raporu cuma gününe kadar göndermesen, proje başarısız olacak",
+  "turkish_example_sentence_with_blank": "Sen ayrıntılı raporu cuma gününe kadar ______, proje başarısız olacak"
+}

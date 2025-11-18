@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "göndermese",
+    "root": "gönder",
+    "tense_affix": "se",
+    "verb_tense": "şart_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If she doesn't send the confirmation message tonight, we will worry",
+  "russian_example_sentence": "Если она не отправит подтверждающее сообщение сегодня ночью, мы будем беспокоиться",
+  "turkish_example_sentence": "O onay mesajını bu gece göndermese, biz endişe edeceğiz",
+  "turkish_example_sentence_with_blank": "O onay mesajını bu gece ______, biz endişe edeceğiz"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 100,
+  "verb_english": "develop",
+  "verb_russian": "развивать",
+  "verb_infinitive": "geliştirmek",
+  "turkish_verb": {
+    "verb_full": "geliştirmezlerse",
+    "root": "geliştir",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "lerse",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If they don't develop their ideas, they will lose",
+  "russian_example_sentence": "Если они не разработают свои идеи, они проиграют",
+  "turkish_example_sentence": "Fikirlerini geliştirmezlerse kaybedecekler",
+  "turkish_example_sentence_with_blank": "Fikirlerini ______ kaybedecekler"
+}

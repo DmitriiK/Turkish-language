@@ -1,0 +1,20 @@
+{
+  "verb_rank": 77,
+  "verb_english": "wait",
+  "verb_russian": "ждать",
+  "verb_infinitive": "beklemek",
+  "turkish_verb": {
+    "verb_full": "beklemezssin",
+    "root": "bekle",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If you don't wait for my response, you'll regret it",
+  "russian_example_sentence": "Если ты не будешь ждать мой ответ, ты пожалеешь",
+  "turkish_example_sentence": "Sen benim cevabım için beklemezssin, pişman olacaksın",
+  "turkish_example_sentence_with_blank": "Sen benim cevabım için ______, pişman olacaksın"
+}

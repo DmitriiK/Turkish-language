@@ -1,0 +1,20 @@
+{
+  "verb_rank": 90,
+  "verb_english": "raise",
+  "verb_russian": "поднимать",
+  "verb_infinitive": "kaldırmak",
+  "turkish_verb": {
+    "verb_full": "kaldırmanız lazım değil",
+    "root": "kaldır",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "değil"
+  },
+  "english_example_sentence": "You don't need to raise the black door frame",
+  "russian_example_sentence": "Вам не нужно поднимать черную дверную раму",
+  "turkish_example_sentence": "Siz siyah kapı çerçevesini kaldırmanız lazım değil",
+  "turkish_example_sentence_with_blank": "Siz siyah kapı çerçevesini ______"
+}

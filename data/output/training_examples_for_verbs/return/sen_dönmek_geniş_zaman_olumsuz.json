@@ -1,0 +1,20 @@
+{
+  "verb_rank": 97,
+  "verb_english": "return",
+  "verb_russian": "возвращаться",
+  "verb_infinitive": "dönmek",
+  "turkish_verb": {
+    "verb_full": "dönmüyorsun",
+    "root": "dön",
+    "tense_affix": "üyor",
+    "verb_tense": "geniş_zaman",
+    "personal_pronoun": "sen",
+    "personal_affix": "sun",
+    "polarity": "negative",
+    "negative_affix": "m"
+  },
+  "english_example_sentence": "You do not return to the hotel",
+  "russian_example_sentence": "Ты не возвращаешься в отель",
+  "turkish_example_sentence": "Sen otele dönmüyorsun",
+  "turkish_example_sentence_with_blank": "Sen otele ______"
+}

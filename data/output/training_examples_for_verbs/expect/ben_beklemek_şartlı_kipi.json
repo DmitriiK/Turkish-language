@@ -1,0 +1,20 @@
+{
+  "verb_rank": 81,
+  "verb_english": "expect",
+  "verb_russian": "ожидать",
+  "verb_infinitive": "beklemek",
+  "turkish_verb": {
+    "verb_full": "bekler isem",
+    "root": "bekle",
+    "tense_affix": "r",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If I wait patiently, good news will arrive",
+  "russian_example_sentence": "Если я буду ждать терпеливо, придёт хорошая новость",
+  "turkish_example_sentence": "Eğer ben istasyonda uzun süre bekler isem, trenin geç kalması normal olur",
+  "turkish_example_sentence_with_blank": "Eğer ben istasyonda uzun süre ______, trenin geç kalması normal olur"
+}

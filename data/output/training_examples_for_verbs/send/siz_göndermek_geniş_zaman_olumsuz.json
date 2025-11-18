@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "göndermezsiniz",
+    "root": "gönder",
+    "tense_affix": "ir",
+    "verb_tense": "geniş_zaman",
+    "personal_pronoun": "siz",
+    "personal_affix": "siniz",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "You do not send fragile packages without proper protection",
+  "russian_example_sentence": "Вы не отправляете хрупкие посылки без надлежащей защиты",
+  "turkish_example_sentence": "Siz kırılgan paketleri uygun koruma olmadan göndermezsiniz",
+  "turkish_example_sentence_with_blank": "Siz kırılgan paketleri uygun koruma olmadan ______"
+}

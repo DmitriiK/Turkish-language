@@ -1,0 +1,20 @@
+{
+  "verb_rank": 75,
+  "verb_english": "appear",
+  "verb_russian": "появляться",
+  "verb_infinitive": "görünmek",
+  "turkish_verb": {
+    "verb_full": "görünmem lazım değil",
+    "root": "görün",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "değil"
+  },
+  "english_example_sentence": "I don't need to appear nervous about the exam",
+  "russian_example_sentence": "Мне не нужно выглядеть нервным на экзамене",
+  "turkish_example_sentence": "Ben sınavda endişeli ve kaygılı görünmem lazım değil",
+  "turkish_example_sentence_with_blank": "Ben sınavda endişeli ve kaygılı ______"
+}

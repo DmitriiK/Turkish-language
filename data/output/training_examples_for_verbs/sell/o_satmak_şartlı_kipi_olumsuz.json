@@ -1,0 +1,20 @@
+{
+  "verb_rank": 92,
+  "verb_english": "sell",
+  "verb_russian": "продавать",
+  "verb_infinitive": "satmak",
+  "turkish_verb": {
+    "verb_full": "satmazsa",
+    "root": "sat",
+    "tense_affix": "arsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If he doesn't sell his house, he will lose money.",
+  "russian_example_sentence": "Если он не продаст свой дом, он потеряет деньги.",
+  "turkish_example_sentence": "Evin satmazsa, para kaybeder.",
+  "turkish_example_sentence_with_blank": "Evin ______, para kaybeder."
+}

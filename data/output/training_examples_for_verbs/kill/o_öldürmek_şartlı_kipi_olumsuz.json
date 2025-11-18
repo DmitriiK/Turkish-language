@@ -1,0 +1,20 @@
+{
+  "verb_rank": 87,
+  "verb_english": "kill",
+  "verb_russian": "убивать",
+  "verb_infinitive": "öldürmek",
+  "turkish_verb": {
+    "verb_full": "öldürmezse",
+    "root": "öldür",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": "",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If she does not kill the infected mosquito, the virus will spread",
+  "russian_example_sentence": "Если она не убьет зараженного комара, вирус распространится",
+  "turkish_example_sentence": "O enfekte sivrisinekleri öldürmezse, hastalık yayılacak",
+  "turkish_example_sentence_with_blank": "O enfekte sivrisinekleri ______, hastalık yayılacak"
+}

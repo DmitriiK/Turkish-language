@@ -1,0 +1,20 @@
+{
+  "verb_rank": 76,
+  "verb_english": "buy",
+  "verb_russian": "покупать",
+  "verb_infinitive": "satın almak",
+  "turkish_verb": {
+    "verb_full": "satın almamanız lazım",
+    "root": "satın al",
+    "tense_affix": "lazım",
+    "verb_tense": "gereklilik_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "You should not buy expired pharmaceutical medicines",
+  "russian_example_sentence": "Вам не нужно покупать просроченные фармацевтические лекарства",
+  "turkish_example_sentence": "Siz süresi dolmuş ve tehlikeli tıbbi ilaçları satın almamanız lazım",
+  "turkish_example_sentence_with_blank": "Siz süresi dolmuş ve tehlikeli tıbbi ilaçları ______"
+}

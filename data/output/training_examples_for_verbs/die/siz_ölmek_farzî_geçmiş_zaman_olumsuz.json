@@ -1,0 +1,20 @@
+{
+  "verb_rank": 79,
+  "verb_english": "die",
+  "verb_russian": "умирать",
+  "verb_infinitive": "ölmek",
+  "turkish_verb": {
+    "verb_full": "ölmemişsiniz",
+    "root": "öl",
+    "tense_affix": "müşse",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If you had not died from that contagious plague spreading through the city",
+  "russian_example_sentence": "Если бы вы не умерли от той заразной чумы, распространяющейся по городу",
+  "turkish_example_sentence": "Siz şehirde yayılan o bulaşıcı vebadan ölmemişsiniz, tıbbi tedavi alırdınız",
+  "turkish_example_sentence_with_blank": "Siz şehirde yayılan o bulaşıcı vebadan ______, tıbbi tedavi alırdınız"
+}

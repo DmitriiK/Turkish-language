@@ -1,0 +1,20 @@
+{
+  "verb_rank": 76,
+  "verb_english": "buy",
+  "verb_russian": "покупать",
+  "verb_infinitive": "satın almak",
+  "turkish_verb": {
+    "verb_full": "satın almıyorsa",
+    "root": "satın al",
+    "tense_affix": "ırsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "mı"
+  },
+  "english_example_sentence": "If she doesn't buy milk, we can't make dessert",
+  "russian_example_sentence": "Если она не купит молоко, мы не сможем сделать десерт",
+  "turkish_example_sentence": "O süt satın almıyorsa, tatlı yapamayız",
+  "turkish_example_sentence_with_blank": "O süt ______, tatlı yapamayız"
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 97,
+  "verb_english": "return",
+  "verb_russian": "возвращаться",
+  "verb_infinitive": "dönmek",
+  "turkish_verb": {
+    "verb_full": "dönmemişsem",
+    "root": "dön",
+    "tense_affix": "mişse",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "english_example_sentence": "If I hadn't returned, they would have left.",
+  "russian_example_sentence": "Если бы я не вернулся, они бы ушли.",
+  "turkish_example_sentence": "Ben dönmemişsem, onlar gitmiş olurlardı.",
+  "turkish_example_sentence_with_blank": "Ben ______, onlar gitmiş olurlardı."
+}

@@ -1,0 +1,20 @@
+{
+  "verb_rank": 77,
+  "verb_english": "wait",
+  "verb_russian": "ждать",
+  "verb_infinitive": "beklemek",
+  "turkish_verb": {
+    "verb_full": "beklemezsem",
+    "root": "bekle",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "english_example_sentence": "If I don't wait for the train, I'll miss it",
+  "russian_example_sentence": "Если я не буду ждать поезд, я его пропущу",
+  "turkish_example_sentence": "Ben trenin için beklemezsem, onu kaçıracağım",
+  "turkish_example_sentence_with_blank": "Ben trenin için ______, onu kaçıracağım"
+}

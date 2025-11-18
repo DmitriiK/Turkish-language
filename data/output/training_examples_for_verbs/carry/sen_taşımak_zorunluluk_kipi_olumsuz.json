@@ -1,0 +1,20 @@
+{
+  "verb_rank": 101,
+  "verb_english": "carry",
+  "verb_russian": "нести",
+  "verb_infinitive": "taşımak",
+  "turkish_verb": {
+    "verb_full": "taşımamalısın",
+    "root": "taşı",
+    "tense_affix": "mamalı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "sın",
+    "polarity": "negative",
+    "negative_affix": "mama"
+  },
+  "english_example_sentence": "You must not carry this fragile vase",
+  "russian_example_sentence": "Ты не должен нести эту хрупкую вазу",
+  "turkish_example_sentence": "Sen bu hassas vazoyu taşımamalısın",
+  "turkish_example_sentence_with_blank": "Sen bu hassas vazoyu ______"
+}

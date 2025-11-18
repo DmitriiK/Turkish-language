@@ -1,0 +1,20 @@
+{
+  "verb_rank": 80,
+  "verb_english": "send",
+  "verb_russian": "отправлять",
+  "verb_infinitive": "göndermek",
+  "turkish_verb": {
+    "verb_full": "gönderirse",
+    "root": "gönder",
+    "tense_affix": "irse",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If he sends the detailed report next Monday, the project will progress faster",
+  "russian_example_sentence": "Если он отправит подробный отчет в следующий понедельник, проект будет развиваться быстрее",
+  "turkish_example_sentence": "O ayrıntılı raporu gelecek pazartesi gönderirse, proje daha hızlı ilerler",
+  "turkish_example_sentence_with_blank": "O ayrıntılı raporu gelecek pazartesi ______, proje daha hızlı ilerler"
+}
