@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "söylemediklerinde",
     "root": "söyle",
-    "tense_affix": "dik",
+    "tense_affix": "medikleri",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "onlar",
-    "personal_affix": "leri",
+    "personal_affix": "nde",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "When they don’t say anything, we ignore them",
-  "russian_example_sentence": "Когда они ничего не говорят, мы их игнорируем",
-  "turkish_example_sentence": "Onlar hiçbir şey söylemediklerinde, biz onları görmezden geliyoruz",
-  "turkish_example_sentence_with_blank": "Onlar hiçbir şey ______, biz onları görmezden geliyoruz"
+  "english_example_sentence": "When they don't say goodbye, we feel sad and disappointed",
+  "russian_example_sentence": "Когда они не говорят до свидания, мы чувствуем себя грустными и разочарованными",
+  "turkish_example_sentence": "Onlar hoşça kalın söylemediklerinde, biz üzgün ve hayal kırıklığına uğramış hissediyoruz",
+  "turkish_example_sentence_with_blank": "Onlar hoşça kalın ______, biz üzgün ve hayal kırıklığına uğramış hissediyoruz"
 }

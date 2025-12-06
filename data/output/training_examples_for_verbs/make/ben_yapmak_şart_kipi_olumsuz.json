@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "yapmasam",
     "root": "yap",
-    "tense_affix": "masa",
+    "tense_affix": "sa",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If I don’t make lunch, will you?",
-  "russian_example_sentence": "Если я не приготовлю обед, то сделаешь ты?",
-  "turkish_example_sentence": "Eğer yemek yapmasam, sen yapar mısın?",
-  "turkish_example_sentence_with_blank": "Eğer yemek ______, sen yapar mısın?"
+  "english_example_sentence": "If I were not to make any mistakes today",
+  "russian_example_sentence": "Если бы я не делал никаких ошибок сегодня",
+  "turkish_example_sentence": "Ben bugün hiç hata yapmasam, sınav geçerim",
+  "turkish_example_sentence_with_blank": "Ben bugün hiç hata ______, sınav geçerim"
 }

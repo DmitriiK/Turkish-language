@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "söylediğimde",
     "root": "söyle",
-    "tense_affix": "dik",
+    "tense_affix": "diğ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "ben",
-    "personal_affix": "im",
+    "personal_affix": "imde",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When I say the truth, people listen",
-  "russian_example_sentence": "Когда я говорю правду, люди слушают",
-  "turkish_example_sentence": "Ben doğruyu söylediğimde, insanlar dinliyor",
-  "turkish_example_sentence_with_blank": "Ben doğruyu ______, insanlar dinliyor"
+  "english_example_sentence": "When I say important words, everyone listens carefully",
+  "russian_example_sentence": "Когда я говорю важные слова, все слушают внимательно",
+  "turkish_example_sentence": "Ben önemli sözleri söylediğimde, herkes dikkatle dinliyor",
+  "turkish_example_sentence_with_blank": "Ben önemli sözleri ______, herkes dikkatle dinliyor"
 }

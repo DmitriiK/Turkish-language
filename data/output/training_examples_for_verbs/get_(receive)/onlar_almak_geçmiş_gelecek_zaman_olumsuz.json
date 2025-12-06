@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "almayacaklardı",
     "root": "al",
-    "tense_affix": "mayacaklardı",
+    "tense_affix": "acaktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "They weren't going to get refunds",
-  "russian_example_sentence": "Они не собирались получать возврат",
-  "turkish_example_sentence": "Onlar şirketten para iadesi almayacaklardı",
-  "turkish_example_sentence_with_blank": "Onlar şirketten para iadesi ______"
+  "english_example_sentence": "They were not going to get the heavy wooden boxes from the warehouse",
+  "russian_example_sentence": "Они не собирались получить тяжелые деревянные ящики со склада",
+  "turkish_example_sentence": "Onlar depodan ağır ahşap kutuları almayacaklardı",
+  "turkish_example_sentence_with_blank": "Onlar depodan ağır ahşap kutuları ______"
 }

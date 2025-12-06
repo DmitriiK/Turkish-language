@@ -4,17 +4,17 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylemeseniz",
+    "verb_full": "söylemesanız",
     "root": "söyle",
     "tense_affix": "se",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If you (plural/formal) didn’t say anything unnecessary",
-  "russian_example_sentence": "Если бы вы не говорили ничего лишнего",
-  "turkish_example_sentence": "Siz gereksiz bir şey söylemeseniz",
-  "turkish_example_sentence_with_blank": "Siz gereksiz bir şey ______"
+  "english_example_sentence": "If you don't say the truth, we will be disappointed",
+  "russian_example_sentence": "Если вы не скажете правду, мы будем разочарованы",
+  "turkish_example_sentence": "Siz açık gerçeği söylemesanız, biz hayal kırıklığına uğrayacağız",
+  "turkish_example_sentence_with_blank": "Siz açık gerçeği ______, biz hayal kırıklığına uğrayacağız"
 }

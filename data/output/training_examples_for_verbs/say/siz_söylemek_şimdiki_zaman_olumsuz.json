@@ -4,17 +4,17 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylemiyorsunuz",
+    "verb_full": "söylemiyor",
     "root": "söyle",
     "tense_affix": "üyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "sunuz",
     "polarity": "negative",
-    "negative_affix": "mü"
+    "negative_affix": "m"
   },
-  "english_example_sentence": "You are not saying your opinion.",
-  "russian_example_sentence": "Вы не говорите своё мнение.",
-  "turkish_example_sentence": "Siz fikrinizi söylemiyorsunuz.",
-  "turkish_example_sentence_with_blank": "Siz fikrinizi ______."
+  "english_example_sentence": "You are not saying your concerns about the project",
+  "russian_example_sentence": "Вы не говорите свои опасения по поводу проекта",
+  "turkish_example_sentence": "Siz büyük projenin riskli yönlerini açıkça söylemiyor",
+  "turkish_example_sentence_with_blank": "Siz büyük projenin riskli yönlerini açıkça ______"
 }

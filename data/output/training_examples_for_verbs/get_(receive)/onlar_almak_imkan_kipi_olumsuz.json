@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "alamazlar",
     "root": "al",
-    "tense_affix": "amaz",
+    "tense_affix": "abil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "irler",
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "ama"
   },
-  "english_example_sentence": "They cannot get a refund now.",
-  "russian_example_sentence": "Они сейчас не могут получить возврат.",
-  "turkish_example_sentence": "Onlar şimdi geri ödeme alamazlar.",
-  "turkish_example_sentence_with_blank": "Onlar şimdi geri ödeme ______."
+  "english_example_sentence": "They cannot get sufficient financial support from government",
+  "russian_example_sentence": "Они не могут получить достаточную финансовую поддержку от правительства",
+  "turkish_example_sentence": "Onlar hükümetten yeterli mali desteği alamazlar",
+  "turkish_example_sentence_with_blank": "Onlar hükümetten yeterli mali desteği ______"
 }

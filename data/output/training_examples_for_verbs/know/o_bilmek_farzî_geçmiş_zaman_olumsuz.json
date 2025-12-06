@@ -4,17 +4,17 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilmemişse",
+    "verb_full": "bilmemiş olsa",
     "root": "bil",
-    "tense_affix": "mişse",
+    "tense_affix": "miş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If she hadn't known French...",
-  "russian_example_sentence": "Если бы она не знала французский...",
-  "turkish_example_sentence": "O Fransızca dilini bilmemişse, tercüman bulurdu.",
-  "turkish_example_sentence_with_blank": "O Fransızca dilini ______, tercüman bulurdu."
+  "english_example_sentence": "If she had not known the old tradition",
+  "russian_example_sentence": "Если бы она не знала старую традицию",
+  "turkish_example_sentence": "O eski geleneği bilmemiş olsa",
+  "turkish_example_sentence_with_blank": "O eski geleneği ______"
 }

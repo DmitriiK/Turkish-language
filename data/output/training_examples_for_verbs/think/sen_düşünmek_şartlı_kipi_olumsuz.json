@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "düşünmezsen",
     "root": "düşün",
-    "tense_affix": "mezse",
+    "tense_affix": "ürse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "mez"
   },
-  "english_example_sentence": "If you don’t think, you’ll regret it",
-  "russian_example_sentence": "Если ты не подумаешь, ты пожалеешь об этом",
-  "turkish_example_sentence": "Sen düşünmezsen, pişman olursun",
-  "turkish_example_sentence_with_blank": "Sen ______, pişman olursun"
+  "english_example_sentence": "If you don't think about the important decision seriously",
+  "russian_example_sentence": "Если ты не будешь думать о важном решении серьёзно",
+  "turkish_example_sentence": "Eğer sen önemli kararı ciddi şekilde düşünmezsen, pişman olursun",
+  "turkish_example_sentence_with_blank": "Eğer sen önemli kararı ciddi şekilde ______, pişman olursun"
 }

@@ -4,17 +4,17 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmayayım",
+    "verb_full": "yapmasın",
     "root": "yap",
-    "tense_affix": "ay",
+    "tense_affix": "a",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "ım",
+    "personal_affix": "yım",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "Let me not start this project",
-  "russian_example_sentence": "Позвольте мне не начинать этот проект",
-  "turkish_example_sentence": "Ben bu projeyi yapmayayım",
-  "turkish_example_sentence_with_blank": "Ben bu projeyi ______"
+  "english_example_sentence": "Let me not make any silly mistakes here",
+  "russian_example_sentence": "Позвольте мне не делать глупые ошибки здесь",
+  "turkish_example_sentence": "Ben burada aptal hatalar yapmayayım",
+  "turkish_example_sentence_with_blank": "Ben burada aptal hatalar yapmayayım"
 }

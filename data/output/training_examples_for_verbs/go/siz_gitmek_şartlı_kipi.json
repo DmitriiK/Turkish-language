@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "giderseniz",
     "root": "git",
-    "tense_affix": "er",
+    "tense_affix": "erse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "seniz",
+    "personal_affix": "nız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you go to Istanbul, enjoy the view of Bosphorus.",
-  "russian_example_sentence": "Если вы поедете в Стамбул, наслаждайтесь видом Босфора.",
-  "turkish_example_sentence": "İstanbul’a giderseniz Boğaz manzarasının tadını çıkarın.",
-  "turkish_example_sentence_with_blank": "İstanbul’a ______ Boğaz manzarasının tadını çıkarın."
+  "english_example_sentence": "If you go to the library, you will find interesting books",
+  "russian_example_sentence": "Если вы пойдете в библиотеку, вы найдете интересные книги",
+  "turkish_example_sentence": "Siz kütüphaneye giderseniz, nadir antika kitapları bulabilirsiniz",
+  "turkish_example_sentence_with_blank": "Siz kütüphaneye ______, nadir antika kitapları bulabilirsiniz"
 }

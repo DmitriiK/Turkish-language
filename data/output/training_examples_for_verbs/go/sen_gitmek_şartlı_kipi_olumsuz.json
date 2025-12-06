@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gitmezsen",
     "root": "git",
-    "tense_affix": "mezse",
+    "tense_affix": "mez",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
-    "negative_affix": "mez"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "If you don’t go to the store, we will have no bread.",
-  "russian_example_sentence": "Если ты не пойдешь в магазин, у нас не будет хлеба.",
-  "turkish_example_sentence": "Sen mağazaya gitmezsen ekmek olmayacak.",
-  "turkish_example_sentence_with_blank": "Sen mağazaya ______ ekmek olmayacak."
+  "english_example_sentence": "If you do not go to school, you will miss the important exam",
+  "russian_example_sentence": "Если ты не пойдешь в школу, ты пропустишь важный экзамен",
+  "turkish_example_sentence": "Sen okula gitmezsen, kritik matematik sınavını kaçırırsın",
+  "turkish_example_sentence_with_blank": "Sen okula ______, kritik matematik sınavını kaçırırsın"
 }

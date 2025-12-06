@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "alamayız",
     "root": "al",
-    "tense_affix": "amaz",
+    "tense_affix": "ama",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "ız",
+    "personal_affix": "yız",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "We cannot take your broken phone",
-  "russian_example_sentence": "Мы не можем взять ваш сломанный телефон",
-  "turkish_example_sentence": "Biz kırık telefonunuzu alamayız",
-  "turkish_example_sentence_with_blank": "Biz kırık telefonunuzu ______"
+  "english_example_sentence": "We cannot take the old broken bicycle to the park",
+  "russian_example_sentence": "Мы не можем взять старый сломанный велосипед в парк",
+  "turkish_example_sentence": "Biz parka eski kırık bisikleti alamayız",
+  "turkish_example_sentence_with_blank": "Biz parka eski kırık bisikleti ______"
 }

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "bilmeyin",
     "root": "bil",
-    "tense_affix": "in",
+    "tense_affix": "",
     "verb_tense": "emir_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "in",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "Don't know the private details of their personal relationship",
-  "russian_example_sentence": "Не знайте приватные детали их личных отношений",
-  "turkish_example_sentence": "Siz onların kişisel ilişkisinin özel detaylarını bilmeyin",
-  "turkish_example_sentence_with_blank": "Siz onların kişisel ilişkisinin özel detaylarını ______"
+  "english_example_sentence": "Please don't know about the confidential research project details",
+  "russian_example_sentence": "Пожалуйста, не знайте о деталях конфиденциального проекта",
+  "turkish_example_sentence": "Siz gizli araştırma projesinin hassas bilgilerini bilmeyin",
+  "turkish_example_sentence_with_blank": "Siz gizli araştırma projesinin hassas bilgilerini ______"
 }

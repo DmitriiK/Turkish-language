@@ -4,17 +4,17 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almayasın",
+    "verb_full": "almasın",
     "root": "al",
-    "tense_affix": "ya",
+    "tense_affix": "a",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "sın",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "May you not take the old chair",
-  "russian_example_sentence": "Пусть ты не берёшь старый стул",
-  "turkish_example_sentence": "Sen eski sandalyeyi almayasın",
-  "turkish_example_sentence_with_blank": "Sen eski sandalyeyi ______"
+  "english_example_sentence": "May you not take the old broken bicycle from the garage",
+  "russian_example_sentence": "Пусть ты не возьмешь старый сломанный велосипед из гаража",
+  "turkish_example_sentence": "Sen garajdan eski kırık bisikleti almasın",
+  "turkish_example_sentence_with_blank": "Sen garajdan eski kırık bisikleti ______"
 }

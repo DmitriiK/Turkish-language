@@ -4,7 +4,7 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylemesem",
+    "verb_full": "söylemeseм",
     "root": "söyle",
     "tense_affix": "se",
     "verb_tense": "şart_kipi",
@@ -13,8 +13,8 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If I didn’t say my opinion freely",
-  "russian_example_sentence": "Если бы я не высказал свое мнение свободно",
-  "turkish_example_sentence": "Ben fikrimi özgürce söylemesem",
-  "turkish_example_sentence_with_blank": "Ben fikrimi özgürce ______"
+  "english_example_sentence": "If I don't say anything, the situation will worsen",
+  "russian_example_sentence": "Если я ничего не скажу, ситуация ухудшится",
+  "turkish_example_sentence": "Ben hiçbir şey söylemeseм, durum kötüleşecek",
+  "turkish_example_sentence_with_blank": "Ben hiçbir şey ______, durum kötüleşecek"
 }

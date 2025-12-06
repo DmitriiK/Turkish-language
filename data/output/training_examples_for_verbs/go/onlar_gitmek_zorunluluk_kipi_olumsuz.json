@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmemeliler",
+    "verb_full": "gitmemelidir",
     "root": "git",
-    "tense_affix": "memeli",
+    "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "ler",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "They must not go to this dangerous street",
-  "russian_example_sentence": "Они не должны ходить на эту опасную улицу",
-  "turkish_example_sentence": "Onlar bu tehlikeli sokağa gitmemeliler",
-  "turkish_example_sentence_with_blank": "Onlar bu tehlikeli sokağa ______"
+  "english_example_sentence": "They must not go to the restricted military training zone",
+  "russian_example_sentence": "Они не должны идти в ограниченную военную зону подготовки",
+  "turkish_example_sentence": "Onlar kısıtlı askeri eğitim bölgesine gitmemelidir",
+  "turkish_example_sentence_with_blank": "Onlar kısıtlı askeri eğitim bölgesine ______"
 }

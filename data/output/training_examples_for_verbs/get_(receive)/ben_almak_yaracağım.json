@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "alacağım",
     "root": "al",
-    "tense_affix": "yacağım",
+    "tense_affix": "acağ",
     "verb_tense": "yaracağım",
     "personal_pronoun": "ben",
     "personal_affix": "ım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I will get a new bicycle.",
-  "russian_example_sentence": "Я получу новый велосипед.",
-  "turkish_example_sentence": "Ben yeni bir bisiklet alacağım.",
-  "turkish_example_sentence_with_blank": "Ben yeni bir bisiklet ______."
+  "english_example_sentence": "I will get a new red bicycle tomorrow",
+  "russian_example_sentence": "Я получу новый красный велосипед завтра",
+  "turkish_example_sentence": "Ben yarın yeni kırmızı bisikleti alacağım",
+  "turkish_example_sentence_with_blank": "Ben yarın yeni kırmızı bisikleti ______"
 }

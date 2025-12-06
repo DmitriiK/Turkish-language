@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "almadığınızda",
     "root": "al",
-    "tense_affix": "dık",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "siz",
-    "personal_affix": "ınız",
+    "personal_affix": "ınızda",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "When you don't get directions, you get lost.",
-  "russian_example_sentence": "Когда вы не получаете указания, вы теряетесь.",
-  "turkish_example_sentence": "Siz yol tarifi almadığınızda, kaybolursunuz.",
-  "turkish_example_sentence_with_blank": "Siz yol tarifi ______, kaybolursunuz."
+  "english_example_sentence": "When you don't receive the medical report, you call the clinic",
+  "russian_example_sentence": "Когда вы не получаете медицинский отчет, вы звоните в клинику",
+  "turkish_example_sentence": "Siz tıbbi raporu almadığınızda, kliniği arıyorsunuz",
+  "turkish_example_sentence_with_blank": "Siz tıbbi raporu ______, kliniği arıyorsunuz"
 }

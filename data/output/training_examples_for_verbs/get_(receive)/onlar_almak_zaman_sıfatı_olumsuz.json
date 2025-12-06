@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "almadıklarında",
     "root": "al",
-    "tense_affix": "dık",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "onlar",
-    "personal_affix": "ları",
+    "personal_affix": "larında",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "When they don't get respect, they protest.",
-  "russian_example_sentence": "Когда они не получают уважение, они протестуют.",
-  "turkish_example_sentence": "Onlar saygıyı almadıklarında, protesto ediyorlar.",
-  "turkish_example_sentence_with_blank": "Onlar saygıyı ______, protesto ediyorlar."
+  "english_example_sentence": "When they don't receive the payment confirmation, they send a reminder",
+  "russian_example_sentence": "Когда они не получают подтверждение платежа, они отправляют напоминание",
+  "turkish_example_sentence": "Onlar ödeme onayını almadıklarında, hatırlatma gönderiyorlar",
+  "turkish_example_sentence_with_blank": "Onlar ödeme onayını ______, hatırlatma gönderiyorlar"
 }

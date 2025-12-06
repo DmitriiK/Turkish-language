@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gitmezse",
     "root": "git",
-    "tense_affix": "mezse",
+    "tense_affix": "mez",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "se",
+    "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "mez"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "If she doesn’t go outside, she won’t meet him.",
-  "russian_example_sentence": "Если она не выйдет на улицу, она с ним не встретится.",
-  "turkish_example_sentence": "O dışarı gitmezse onunla tanışmayacak.",
-  "turkish_example_sentence_with_blank": "O dışarı ______ onunla tanışmayacak."
+  "english_example_sentence": "If she does not go to the doctor, her illness will worsen",
+  "russian_example_sentence": "Если она не пойдет к врачу, ее болезнь ухудшится",
+  "turkish_example_sentence": "O doktora gitmezse, ciddi hastalığı daha da kötüleşecektir",
+  "turkish_example_sentence_with_blank": "O doktora ______, ciddi hastalığı daha da kötüleşecektir"
 }

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "düşünmeyeceğiz",
     "root": "düşün",
-    "tense_affix": "eceğ",
+    "tense_affix": "ecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "iz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "We will not think about the meeting",
-  "russian_example_sentence": "Мы не будем думать о встрече",
-  "turkish_example_sentence": "Biz toplantı hakkında düşünmeyeceğiz",
-  "turkish_example_sentence_with_blank": "Biz toplantı hakkında ______"
+  "english_example_sentence": "We will not think about the negative criticism from others",
+  "russian_example_sentence": "Мы не будем думать о негативной критике других",
+  "turkish_example_sentence": "Biz başkalarından gelen olumsuz eleştiriyi düşünmeyeceğiz",
+  "turkish_example_sentence_with_blank": "Biz başkalarından gelen olumsuz eleştiriyi ______"
 }

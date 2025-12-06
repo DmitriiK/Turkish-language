@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "söylemeyeceğim",
     "root": "söyle",
-    "tense_affix": "ecek",
+    "tense_affix": "yecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "im",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "I will not say anything bad today",
-  "russian_example_sentence": "Сегодня я не скажу ничего плохого",
-  "turkish_example_sentence": "Ben bugün kötü bir şey söylemeyeceğim",
-  "turkish_example_sentence_with_blank": "Ben bugün kötü bir şey ______"
+  "english_example_sentence": "I will not say secret information today",
+  "russian_example_sentence": "Я не скажу секретную информацию сегодня",
+  "turkish_example_sentence": "Ben bugün gizli bilgileri söylemeyeceğim",
+  "turkish_example_sentence_with_blank": "Ben bugün gizli bilgileri ______"
 }

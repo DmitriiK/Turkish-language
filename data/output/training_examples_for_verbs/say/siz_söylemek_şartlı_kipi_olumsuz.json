@@ -4,17 +4,17 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylemezseniz",
+    "verb_full": "söylemeseniz",
     "root": "söyle",
-    "tense_affix": "mezse",
+    "tense_affix": "mez",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "niz",
     "polarity": "negative",
-    "negative_affix": "mez"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "If you don't say it loudly, I won't understand.",
-  "russian_example_sentence": "Если вы не скажете это громко, я не пойму.",
-  "turkish_example_sentence": "Eğer yüksek sesle söylemezseniz, anlamam.",
-  "turkish_example_sentence_with_blank": "Eğer yüksek sesle ______, anlamam."
+  "english_example_sentence": "If you do not say the right words, misunderstanding will happen",
+  "russian_example_sentence": "Если вы не скажете правильные слова, произойдёт недопонимание",
+  "turkish_example_sentence": "Siz doğru sözleri söylemeseniz, yanlış anlaşılma meydana gelecek",
+  "turkish_example_sentence_with_blank": "Siz doğru sözleri ______, yanlış anlaşılma meydana gelecek"
 }

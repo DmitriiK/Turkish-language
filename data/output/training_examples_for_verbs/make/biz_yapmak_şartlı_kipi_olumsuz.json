@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "yapmazsak",
     "root": "yap",
-    "tense_affix": "mazsa",
+    "tense_affix": "maz",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If we don't make the list, we may forget.",
-  "russian_example_sentence": "Если мы не составим список, мы можем забыть.",
-  "turkish_example_sentence": "Listeyi yapmazsak, unutabiliriz.",
-  "turkish_example_sentence_with_blank": "Listeyi ______, unutabiliriz."
+  "english_example_sentence": "If we do not make necessary changes",
+  "russian_example_sentence": "Если мы не внесём необходимые изменения",
+  "turkish_example_sentence": "Eğer biz gerekli düzenlemeler yapmazsak, proje başarısız olacak",
+  "turkish_example_sentence_with_blank": "Eğer biz gerekli düzenlemeler ______, proje başarısız olacak"
 }

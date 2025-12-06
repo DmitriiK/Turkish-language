@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "almamız lazım",
     "root": "al",
-    "tense_affix": "mamız",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "mız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We need to get fresh bread.",
-  "russian_example_sentence": "Нам нужно получить свежий хлеб.",
-  "turkish_example_sentence": "Biz taze ekmek almamız lazım.",
-  "turkish_example_sentence_with_blank": "Biz taze ekmek ______."
+  "english_example_sentence": "We need to get the beautiful blue tickets",
+  "russian_example_sentence": "Нам нужно получить красивые синие билеты",
+  "turkish_example_sentence": "Biz güzel mavi biletleri almamız lazım",
+  "turkish_example_sentence_with_blank": "Biz güzel mavi biletleri ______"
 }

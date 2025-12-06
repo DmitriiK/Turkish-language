@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmeseler",
+    "verb_full": "gitmaseler",
     "root": "git",
     "tense_affix": "se",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "If they didn't go to the mountain",
-  "russian_example_sentence": "Если бы они не пошли на гору",
-  "turkish_example_sentence": "Eğer dağa gitmeseler",
-  "turkish_example_sentence_with_blank": "Eğer dağa ______"
+  "english_example_sentence": "If they were not to go to the dangerous construction site",
+  "russian_example_sentence": "Если бы они не пошли на опасную строительную площадку",
+  "turkish_example_sentence": "Onlar tehlikeli inşaat alanına gitmaseler daha sağlıklı kalabilirler",
+  "turkish_example_sentence_with_blank": "Onlar tehlikeli inşaat alanına ______ daha sağlıklı kalabilirler"
 }

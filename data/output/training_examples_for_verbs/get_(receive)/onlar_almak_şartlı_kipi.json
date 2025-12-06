@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "alırlarsa",
     "root": "al",
-    "tense_affix": "ırlarsa",
+    "tense_affix": "ırsa",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they get a loan,",
-  "russian_example_sentence": "Если они получат кредит,",
-  "turkish_example_sentence": "Onlar bir kredi alırlarsa, yeni bir ev alacaklar.",
-  "turkish_example_sentence_with_blank": "Onlar bir kredi ______, yeni bir ev alacaklar."
+  "english_example_sentence": "If they get the vintage painting, they will donate it to the museum",
+  "russian_example_sentence": "Если они получат старинную картину, они пожертвуют ее музею",
+  "turkish_example_sentence": "Onlar antika tabloyu alırlarsa, müzeye bağış yapacaklar",
+  "turkish_example_sentence_with_blank": "Onlar antika tabloyu ______, müzeye bağış yapacaklar"
 }

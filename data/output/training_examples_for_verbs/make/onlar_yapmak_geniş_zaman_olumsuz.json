@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "yapmazlar",
     "root": "yap",
-    "tense_affix": "z",
+    "tense_affix": "ar",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "m"
   },
-  "english_example_sentence": "They don't make bad decisions",
-  "russian_example_sentence": "Они не принимают плохих решений",
-  "turkish_example_sentence": "Onlar kötü kararlar yapmazlar",
-  "turkish_example_sentence_with_blank": "Onlar kötü kararlar ______"
+  "english_example_sentence": "They do not make harmful environmental decisions that damage natural ecosystems",
+  "russian_example_sentence": "Они не делают вредные экологические решения, которые повреждают природные экосистемы",
+  "turkish_example_sentence": "Onlar doğal ekosistemleri hasar veren zararlı çevre kararları yapmazlar",
+  "turkish_example_sentence_with_blank": "Onlar doğal ekosistemleri hasar veren zararlı çevre kararları ______"
 }

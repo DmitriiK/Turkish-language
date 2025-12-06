@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmesem",
+    "verb_full": "gitmasem",
     "root": "git",
     "tense_affix": "se",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "If I didn't go to the mountain",
-  "russian_example_sentence": "Если бы я не пошел на гору",
-  "turkish_example_sentence": "Eğer dağa gitmesem",
-  "turkish_example_sentence_with_blank": "Eğer dağa ______"
+  "english_example_sentence": "If I were not to go to the crowded market",
+  "russian_example_sentence": "Если бы я не пошел на переполненный рынок",
+  "turkish_example_sentence": "Ben kalabalık pazara gitmasem daha rahat bir gün geçirebilirdim",
+  "turkish_example_sentence_with_blank": "Ben kalabalık pazara ______ daha rahat bir gün geçirebilirdim"
 }

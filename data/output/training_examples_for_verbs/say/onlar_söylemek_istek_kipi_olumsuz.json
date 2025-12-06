@@ -4,17 +4,17 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylemeyeler",
+    "verb_full": "söylemesinler",
     "root": "söyle",
-    "tense_affix": "yeler",
+    "tense_affix": "ye",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "May they not say anything unnecessary.",
-  "russian_example_sentence": "Пусть они не говорят ничего лишнего.",
-  "turkish_example_sentence": "Onlar gereksiz bir şey söylemeyeler.",
-  "turkish_example_sentence_with_blank": "Onlar gereksiz bir şey ______."
+  "english_example_sentence": "May they not say false accusations loudly",
+  "russian_example_sentence": "Пусть они не говорят ложные обвинения громко",
+  "turkish_example_sentence": "Onlar yüksek sesle yanlış suçlamalar söylemesinler",
+  "turkish_example_sentence_with_blank": "Onlar yüksek sesle yanlış suçlamalar ______"
 }

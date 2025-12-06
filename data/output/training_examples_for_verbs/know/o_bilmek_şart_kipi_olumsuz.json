@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "bilmese",
     "root": "bil",
-    "tense_affix": "mese",
+    "tense_affix": "se",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If he didn't know the path",
-  "russian_example_sentence": "Если бы он не знал дорогу",
-  "turkish_example_sentence": "Yolu bilmese",
-  "turkish_example_sentence_with_blank": "Yolu ______"
+  "english_example_sentence": "If she did not know the traditional Turkish recipe, she would not cook the delicious meal",
+  "russian_example_sentence": "Если бы она не знала традиционный турецкий рецепт, она бы не готовила вкусное блюдо",
+  "turkish_example_sentence": "O geleneksel Türk tarifini bilmese, lezzetli yemeği pişirmeyecekti",
+  "turkish_example_sentence_with_blank": "O geleneksel Türk tarifini ______, lezzetli yemeği pişirmeyecekti"
 }

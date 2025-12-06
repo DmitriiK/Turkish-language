@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gitmediğimde",
     "root": "git",
-    "tense_affix": "tik",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "ben",
-    "personal_affix": "im",
+    "personal_affix": "imde",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "When I don't go to work, I stay home.",
-  "russian_example_sentence": "Когда я не иду на работу, я остаюсь дома.",
-  "turkish_example_sentence": "İşe gitmediğimde evde kalırım.",
-  "turkish_example_sentence_with_blank": "İşe ______ evde kalırım."
+  "english_example_sentence": "When I did not go to the important business meeting today",
+  "russian_example_sentence": "Когда я не пошел на важное деловое совещание сегодня",
+  "turkish_example_sentence": "Ben bugün önemli iş toplantısına gitmediğimde, müdür çok kızgın oldu",
+  "turkish_example_sentence_with_blank": "Ben bugün önemli iş toplantısına ______, müdür çok kızgın oldu"
 }

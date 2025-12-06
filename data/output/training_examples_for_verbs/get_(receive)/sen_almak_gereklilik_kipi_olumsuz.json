@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "almaman lazım",
     "root": "al",
-    "tense_affix": "man",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You don't need to get medicine.",
-  "russian_example_sentence": "Тебе не нужно покупать лекарство.",
-  "turkish_example_sentence": "Sen ilaç almaman lazım.",
-  "turkish_example_sentence_with_blank": "Sen ilaç ______."
+  "english_example_sentence": "You should not get the old broken bicycle",
+  "russian_example_sentence": "Тебе не нужно получать старый сломанный велосипед",
+  "turkish_example_sentence": "Sen eski kırık bisikleti almaman lazım",
+  "turkish_example_sentence_with_blank": "Sen eski kırık bisikleti ______"
 }

@@ -4,17 +4,17 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapamazlar",
+    "verb_full": "yapamayacaklar",
     "root": "yap",
     "tense_affix": "ama",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "yacaklar",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "They cannot make the trip this morning",
-  "russian_example_sentence": "Они не могут отправиться в поездку этим утром",
-  "turkish_example_sentence": "Onlar bu sabah seyahati yapamazlar",
-  "turkish_example_sentence_with_blank": "Onlar bu sabah seyahati ______"
+  "english_example_sentence": "They cannot make such complicated scientific research projects",
+  "russian_example_sentence": "Они не могут делать такие сложные научные исследовательские проекты",
+  "turkish_example_sentence": "Onlar bu kadar karmaşık bilimsel araştırma projelerini yapamayacaklar",
+  "turkish_example_sentence_with_blank": "Onlar bu kadar karmaşık bilimsel araştırma projelerini ______"
 }

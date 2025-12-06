@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gitmedim",
     "root": "git",
-    "tense_affix": "tim",
+    "tense_affix": "ti",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "im",
+    "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "I didn't go to school last week",
-  "russian_example_sentence": "Я не ходил в школу на прошлой неделе",
-  "turkish_example_sentence": "Ben geçen hafta okula gitmedim",
-  "turkish_example_sentence_with_blank": "Ben geçen hafta okula ______"
+  "english_example_sentence": "I did not go to the crowded market today",
+  "russian_example_sentence": "Я не пошел на переполненный рынок сегодня",
+  "turkish_example_sentence": "Ben bugün kalabalık pazara gitmedim",
+  "turkish_example_sentence_with_blank": "Ben bugün kalabalık pazara ______"
 }

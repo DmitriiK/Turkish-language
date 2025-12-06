@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gidersen",
+    "verb_full": "gidersin",
     "root": "git",
-    "tense_affix": "er",
+    "tense_affix": "erse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "sen",
+    "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you go to the meeting, you will learn.",
-  "russian_example_sentence": "Если ты пойдешь на встречу, ты узнаешь.",
-  "turkish_example_sentence": "Sen toplantıya gidersen öğreneceksin.",
-  "turkish_example_sentence_with_blank": "Sen toplantıya ______ öğreneceksin."
+  "english_example_sentence": "If you go to the market, you will buy fresh vegetables",
+  "russian_example_sentence": "Если ты пойдешь на рынок, ты купишь свежие овощи",
+  "turkish_example_sentence": "Sen pazara gidersin, yeşil organik sebzeleri satın alırsın",
+  "turkish_example_sentence_with_blank": "Sen pazara ______, yeşil organik sebzeleri satın alırsın"
 }

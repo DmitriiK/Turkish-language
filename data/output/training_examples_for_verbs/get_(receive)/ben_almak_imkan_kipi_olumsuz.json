@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "alamam",
     "root": "al",
-    "tense_affix": "ama",
+    "tense_affix": "abil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "irim",
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "ama"
   },
-  "english_example_sentence": "I cannot get the exam results.",
-  "russian_example_sentence": "Я не могу получить результаты экзамена.",
-  "turkish_example_sentence": "Ben sınav sonuçlarını alamam.",
-  "turkish_example_sentence_with_blank": "Ben sınav sonuçlarını ______."
+  "english_example_sentence": "I cannot get expensive concert tickets today",
+  "russian_example_sentence": "Я не могу получить дорогие билеты на концерт сегодня",
+  "turkish_example_sentence": "Ben bugün pahalı konser biletlerini alamam",
+  "turkish_example_sentence_with_blank": "Ben bugün pahalı konser biletlerini ______"
 }

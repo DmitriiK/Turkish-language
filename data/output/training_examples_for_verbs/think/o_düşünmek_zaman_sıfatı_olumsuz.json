@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "düşünmediğinde",
     "root": "düşün",
-    "tense_affix": "düğ",
+    "tense_affix": "dik",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "o",
-    "personal_affix": "ünde",
+    "personal_affix": "i",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "When she doesn't think about the past, she's happy",
-  "russian_example_sentence": "Когда она не думает о прошлом, она счастлива",
-  "turkish_example_sentence": "Geçmişi düşünmediğinde mutlu oluyor",
-  "turkish_example_sentence_with_blank": "Geçmişi ______ mutlu oluyor"
+  "english_example_sentence": "When she doesn't think about the sad memories, she is happier",
+  "russian_example_sentence": "Когда она не думает о грустных воспоминаниях, она счастливее",
+  "turkish_example_sentence": "Üzücü anıları düşünmediğinde, o daha mutlu ve neşeli görünüyor",
+  "turkish_example_sentence_with_blank": "Üzücü anıları ______, o daha mutlu ve neşeli görünüyor"
 }

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "almaması lazım",
     "root": "al",
-    "tense_affix": "maması",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
     "personal_affix": "sı",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "She doesn't need to get a taxi.",
-  "russian_example_sentence": "Ей не нужно брать такси.",
-  "turkish_example_sentence": "Onun taksi almaması lazım.",
-  "turkish_example_sentence_with_blank": "Onun taksi ______."
+  "english_example_sentence": "She should not get the spicy hot peppers",
+  "russian_example_sentence": "Ей не нужно получать острый горячий перец",
+  "turkish_example_sentence": "O acı sıcak biberi almaması lazım",
+  "turkish_example_sentence_with_blank": "O acı sıcak biberi ______"
 }

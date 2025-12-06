@@ -4,17 +4,17 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylersen",
+    "verb_full": "söylersin",
     "root": "söyle",
-    "tense_affix": "ersen",
+    "tense_affix": "rse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you say something, I'll listen.",
-  "russian_example_sentence": "Если ты что-то скажешь, я послушаю.",
-  "turkish_example_sentence": "Eğer bir şey söylersen, dinlerim.",
-  "turkish_example_sentence_with_blank": "Eğer bir şey ______, dinlerim."
+  "english_example_sentence": "If you say your opinion, we will respect your thoughts",
+  "russian_example_sentence": "Если ты скажешь своё мнение, мы будем уважать твои мысли",
+  "turkish_example_sentence": "Sen kendi fikirlerini söylersen, biz senin düşüncelerine saygı göstereceğiz",
+  "turkish_example_sentence_with_blank": "Sen kendi fikirlerini söylersen, biz senin düşüncelerine saygı göstereceğiz"
 }

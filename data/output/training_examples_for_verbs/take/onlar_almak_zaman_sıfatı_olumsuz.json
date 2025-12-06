@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "almadıklarında",
     "root": "al",
-    "tense_affix": "dık",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "onlar",
-    "personal_affix": "ları",
+    "personal_affix": "larında",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "When they don’t take advice, they make mistakes.",
-  "russian_example_sentence": "Когда они не слушают советов, они совершают ошибки.",
-  "turkish_example_sentence": "Onlar tavsiye almadıklarında hatalar yaparlar.",
-  "turkish_example_sentence_with_blank": "Onlar tavsiye ______ hatalar yaparlar."
+  "english_example_sentence": "When they do not take the sharp knives from the kitchen",
+  "russian_example_sentence": "Когда они не берут острые ножи из кухни",
+  "turkish_example_sentence": "Onlar keskin bıçakları mutfaktan almadıklarında, çocuklar güvende kalıyor",
+  "turkish_example_sentence_with_blank": "Onlar keskin bıçakları mutfaktan ______, çocuklar güvende kalıyor"
 }

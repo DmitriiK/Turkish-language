@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmese",
+    "verb_full": "gitmase",
     "root": "git",
     "tense_affix": "se",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "If he didn't go to the park",
-  "russian_example_sentence": "Если бы он не пошел в парк",
-  "turkish_example_sentence": "Eğer parka gitmese",
-  "turkish_example_sentence_with_blank": "Eğer parka ______"
+  "english_example_sentence": "If she were not to go to the noisy concert",
+  "russian_example_sentence": "Если бы она не пошла на шумный концерт",
+  "turkish_example_sentence": "O gürültülü müzik festivali gitmase daha sakin bir akşam yaşayabilir",
+  "turkish_example_sentence_with_blank": "O gürültülü müzik festivali ______ daha sakin bir akşam yaşayabilir"
 }

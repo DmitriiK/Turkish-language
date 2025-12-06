@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "almasam",
     "root": "al",
-    "tense_affix": "masa",
+    "tense_affix": "sa",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If I didn't get the job",
-  "russian_example_sentence": "Если бы я не получил работу",
-  "turkish_example_sentence": "Ben o yeni işi almasam biraz üzülürdüm.",
-  "turkish_example_sentence_with_blank": "Ben o yeni işi ______ biraz üzülürdüm."
+  "english_example_sentence": "If I did not receive the important letter, I would worry",
+  "russian_example_sentence": "Если бы я не получил важное письмо, я бы беспокоился",
+  "turkish_example_sentence": "Ben önemli resmi mektubu almasam endişeli kalırdım",
+  "turkish_example_sentence_with_blank": "Ben önemli resmi mektubu ______ endişeli kalırdım"
 }

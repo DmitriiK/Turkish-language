@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "almadığınızda",
     "root": "al",
-    "tense_affix": "dık",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "siz",
-    "personal_affix": "ınız",
+    "personal_affix": "ınızda",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You should inform me if you don’t take the keys.",
-  "russian_example_sentence": "Вы должны сообщить мне, если вы не возьмете ключи.",
-  "turkish_example_sentence": "Siz anahtarları almadığınızda beni bilgilendirmeniz gerekiyor.",
-  "turkish_example_sentence_with_blank": "Siz anahtarları ______ beni bilgilendirmeniz gerekiyor."
+  "english_example_sentence": "When you do not take the delicious dessert from the restaurant",
+  "russian_example_sentence": "Когда вы не берете вкусный десерт из ресторана",
+  "turkish_example_sentence": "Siz lezzetli tatlıyı restorantan almadığınızda, garson hayal kırıklığına uğradı",
+  "turkish_example_sentence_with_blank": "Siz lezzetli tatlıyı restorantan ______, garson hayal kırıklığına uğradı"
 }

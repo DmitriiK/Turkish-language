@@ -4,7 +4,7 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilmemelidirler",
+    "verb_full": "bilmemeiler",
     "root": "bil",
     "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
@@ -13,8 +13,8 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "They must not know about the upcoming reorganization",
-  "russian_example_sentence": "Они не должны знать о предстоящей реорганизации",
-  "turkish_example_sentence": "Onlar şirketin yaklaşan yapısal değişiklikleri ve yönetim kararlarını bilmemelidirler",
-  "turkish_example_sentence_with_blank": "Onlar şirketin yaklaşan yapısal değişiklikleri ve yönetim kararlarını ______"
+  "english_example_sentence": "They must not know the dangerous criminal details",
+  "russian_example_sentence": "Они не должны знать опасные криминальные детали",
+  "turkish_example_sentence": "Onlar tehlikeli suç ayrıntılarını bilmemeiler",
+  "turkish_example_sentence_with_blank": "Onlar tehlikeli suç ayrıntılarını ______"
 }

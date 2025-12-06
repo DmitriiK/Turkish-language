@@ -4,17 +4,17 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almaya",
+    "verb_full": "almasın",
     "root": "al",
-    "tense_affix": "ya",
+    "tense_affix": "a",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "May she not take the small bag",
-  "russian_example_sentence": "Пусть она не берет маленькую сумку",
-  "turkish_example_sentence": "O küçük çantayı almaya",
-  "turkish_example_sentence_with_blank": "O küçük çantayı ______"
+  "english_example_sentence": "May he not take the dangerous sharp knife from the kitchen",
+  "russian_example_sentence": "Пусть он не возьмет опасный острый нож из кухни",
+  "turkish_example_sentence": "O mutfaktan tehlikeli keskin bıçağı almasın",
+  "turkish_example_sentence_with_blank": "O mutfaktan tehlikeli keskin bıçağı ______"
 }

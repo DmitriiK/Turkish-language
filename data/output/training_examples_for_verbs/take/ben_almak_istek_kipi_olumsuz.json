@@ -4,17 +4,17 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almayayım",
+    "verb_full": "almasın",
     "root": "al",
-    "tense_affix": "yay",
+    "tense_affix": "a",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "yım",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "Let me not take the green umbrella",
-  "russian_example_sentence": "Пусть я не беру зелёный зонт",
-  "turkish_example_sentence": "Ben yeşil şemsiyeyi almayayım",
-  "turkish_example_sentence_with_blank": "Ben yeşil şemsiyeyi ______"
+  "english_example_sentence": "Let me not take the expensive leather wallet carelessly",
+  "russian_example_sentence": "Позвольте мне не брать дорогой кожаный кошелек небрежно",
+  "turkish_example_sentence": "Ben pahalı deri cüzdanı dikkatsizce almasın",
+  "turkish_example_sentence_with_blank": "Ben pahalı deri cüzdanı dikkatsizce ______"
 }

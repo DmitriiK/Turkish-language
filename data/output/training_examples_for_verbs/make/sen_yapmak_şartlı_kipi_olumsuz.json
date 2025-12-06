@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "yapmazsan",
     "root": "yap",
-    "tense_affix": "mazsa",
+    "tense_affix": "maz",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If you don't make the call, I'll do it.",
-  "russian_example_sentence": "Если ты не позвонишь, я сделаю это.",
-  "turkish_example_sentence": "Telefonu yapmazsan, ben yapacağım.",
-  "turkish_example_sentence_with_blank": "Telefonu ______, ben yapacağım."
+  "english_example_sentence": "If you do not make a reservation soon",
+  "russian_example_sentence": "Если ты не забронируешь номер скоро",
+  "turkish_example_sentence": "Eğer sen yakında otel rezervasyonu yapmazsan, iyi odalar kalmayacak",
+  "turkish_example_sentence_with_blank": "Eğer sen yakında otel rezervasyonu ______, iyi odalar kalmayacak"
 }

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gitmezlerse",
     "root": "git",
-    "tense_affix": "mezse",
+    "tense_affix": "mez",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "lerse",
+    "personal_affix": "ler",
     "polarity": "negative",
-    "negative_affix": "mez"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "If they don’t go to school, they won’t pass.",
-  "russian_example_sentence": "Если они не пойдут в школу, они не сдадут.",
-  "turkish_example_sentence": "Okula gitmezlerse geçemeyecekler.",
-  "turkish_example_sentence_with_blank": "Okula ______ geçemeyecekler."
+  "english_example_sentence": "If they do not go to the wedding, they will regret it",
+  "russian_example_sentence": "Если они не пойдут на свадьбу, они будут сожалеть",
+  "turkish_example_sentence": "Onlar düğüne gitmezlerse, güzel anıları kaçıracaklar",
+  "turkish_example_sentence_with_blank": "Onlar düğüne ______, güzel anıları kaçıracaklar"
 }

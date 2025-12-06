@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "almadığımızda",
     "root": "al",
-    "tense_affix": "dık",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "biz",
-    "personal_affix": "ımız",
+    "personal_affix": "ımızda",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "When we don’t take breaks, we get tired.",
-  "russian_example_sentence": "Когда мы не делаем перерывов, мы устаем.",
-  "turkish_example_sentence": "Biz aralar vermediğimizde enerjimizi almadığımızda yoruluruz.",
-  "turkish_example_sentence_with_blank": "Biz aralar vermediğimizde enerjimizi ______ yoruluruz."
+  "english_example_sentence": "When we do not take the warm jackets to the beach",
+  "russian_example_sentence": "Когда мы не берем теплые куртки на пляж",
+  "turkish_example_sentence": "Biz kalın ceketleri plaja almadığımızda, soğuktan titredik",
+  "turkish_example_sentence_with_blank": "Biz kalın ceketleri plaja ______, soğuktan titredik"
 }

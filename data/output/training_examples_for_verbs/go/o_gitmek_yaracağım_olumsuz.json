@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gitmeyecek",
     "root": "git",
-    "tense_affix": "eceğ",
+    "tense_affix": "ecek",
     "verb_tense": "yaracağım",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "She will not go to the meeting today.",
-  "russian_example_sentence": "Она не пойдет сегодня на встречу.",
-  "turkish_example_sentence": "O bugün toplantıya gitmeyecek.",
-  "turkish_example_sentence_with_blank": "O bugün toplantıya ______."
+  "english_example_sentence": "She will not go to the expensive restaurant",
+  "russian_example_sentence": "Она не пойдет в дорогой ресторан",
+  "turkish_example_sentence": "O pahalı restoranda gitmeyecek",
+  "turkish_example_sentence_with_blank": "O pahalı restoranda ______"
 }

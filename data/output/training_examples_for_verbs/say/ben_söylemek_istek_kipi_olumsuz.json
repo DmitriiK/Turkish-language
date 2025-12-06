@@ -4,17 +4,17 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylemeyeyim",
+    "verb_full": "söylemeyelim",
     "root": "söyle",
-    "tense_affix": "yeyim",
+    "tense_affix": "ye",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "yim",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "Let me not say something unnecessary.",
-  "russian_example_sentence": "Дайте мне не говорить ничего лишнего.",
-  "turkish_example_sentence": "Ben gereksiz bir şey söylemeyeyim.",
-  "turkish_example_sentence_with_blank": "Ben gereksiz bir şey ______."
+  "english_example_sentence": "Let me not say anything wrong today",
+  "russian_example_sentence": "Позвольте мне не говорить ничего неправильного сегодня",
+  "turkish_example_sentence": "Ben bugün yanlış bir şey söylemeyelim",
+  "turkish_example_sentence_with_blank": "Ben bugün yanlış bir şey ______"
 }

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "bildiğimizde",
     "root": "bil",
-    "tense_affix": "dik",
+    "tense_affix": "diğ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "biz",
-    "personal_affix": "imiz",
+    "personal_affix": "imizde",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When we know, we will decide",
-  "russian_example_sentence": "Когда мы знаем, мы решим",
-  "turkish_example_sentence": "Biz doğru stratejiyi bildiğimizde, karar vereceğiz",
-  "turkish_example_sentence_with_blank": "Biz doğru stratejiyi ______, karar vereceğiz"
+  "english_example_sentence": "When we know the modern technology well, we work efficiently",
+  "russian_example_sentence": "Когда мы хорошо знаем современную технологию, мы работаем эффективно",
+  "turkish_example_sentence": "Modern teknolojiyi iyi bildiğimizde, verimli bir şekilde çalışıyoruz",
+  "turkish_example_sentence_with_blank": "Modern teknolojiyi iyi ______, verimli bir şekilde çalışıyoruz"
 }

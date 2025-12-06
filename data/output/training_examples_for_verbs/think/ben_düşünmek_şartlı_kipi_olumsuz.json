@@ -4,17 +4,17 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmezsem",
+    "verb_full": "düşünmezsen",
     "root": "düşün",
-    "tense_affix": "mezse",
+    "tense_affix": "ürse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "mez"
   },
-  "english_example_sentence": "If I don’t think, I will fail",
-  "russian_example_sentence": "Если я не буду думать, я проиграю",
-  "turkish_example_sentence": "Ben düşünmezsem, başarısız olurum",
-  "turkish_example_sentence_with_blank": "Ben ______, başarısız olurum"
+  "english_example_sentence": "If I don't think about the future plan carefully",
+  "russian_example_sentence": "Если я не буду думать о будущем плане внимательно",
+  "turkish_example_sentence": "Eğer ben gelecek planı düşünmezsen, başarısız olursun",
+  "turkish_example_sentence_with_blank": "Eğer ben gelecek planı ______, başarısız olursun"
 }

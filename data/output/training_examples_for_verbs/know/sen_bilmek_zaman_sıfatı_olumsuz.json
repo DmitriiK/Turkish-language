@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "bilmediğinde",
     "root": "bil",
-    "tense_affix": "dik",
+    "tense_affix": "diğ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "sen",
-    "personal_affix": "in",
+    "personal_affix": "inde",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "When you don't know, stay quiet",
-  "russian_example_sentence": "Когда ты не знаешь, молчи",
-  "turkish_example_sentence": "Sen önemli ayrıntıları bilmediğinde, sessiz kal",
-  "turkish_example_sentence_with_blank": "Sen önemli ayrıntıları ______, sessiz kal"
+  "english_example_sentence": "When you don't know the important rule, you make mistakes",
+  "russian_example_sentence": "Когда ты не знаешь важное правило, ты делаешь ошибки",
+  "turkish_example_sentence": "Önemli kuralı bilmediğinde, hata yapıyorsun",
+  "turkish_example_sentence_with_blank": "Önemli kuralı ______, hata yapıyorsun"
 }

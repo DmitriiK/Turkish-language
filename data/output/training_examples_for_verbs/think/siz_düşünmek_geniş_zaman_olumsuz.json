@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "düşünmezsiniz",
     "root": "düşün",
-    "tense_affix": "mez",
+    "tense_affix": "ür",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "siniz",
     "polarity": "negative",
-    "negative_affix": "mez"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "You don't think this idea is good",
-  "russian_example_sentence": "Вы не думаете, что эта идея хорошая",
-  "turkish_example_sentence": "Siz bu fikrin iyi olduğunu düşünmezsiniz",
-  "turkish_example_sentence_with_blank": "Siz bu fikrin iyi olduğunu ______"
+  "english_example_sentence": "You don't think about serious health medical issues",
+  "russian_example_sentence": "Вы не думаете о серьезных проблемах со здоровьем",
+  "turkish_example_sentence": "Siz ciddi sağlık tıbbi sorunlarını düşünmezsiniz",
+  "turkish_example_sentence_with_blank": "Siz ciddi sağlık tıbbi sorunlarını ______"
 }

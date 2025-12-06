@@ -4,17 +4,17 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylememeliler",
+    "verb_full": "söylememeli",
     "root": "söyle",
-    "tense_affix": "meli",
+    "tense_affix": "memeli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "They must not say their mistakes",
-  "russian_example_sentence": "Они не должны говорить о своих ошибках",
-  "turkish_example_sentence": "Onlar hatalarını söylememeliler",
-  "turkish_example_sentence_with_blank": "Onlar hatalarını ______"
+  "english_example_sentence": "They must not say rude remarks to customers",
+  "russian_example_sentence": "Они не должны говорить грубые замечания клиентам",
+  "turkish_example_sentence": "Onlar müşterilere kaba sözler söylememeli",
+  "turkish_example_sentence_with_blank": "Onlar müşterilere kaba sözler ______"
 }

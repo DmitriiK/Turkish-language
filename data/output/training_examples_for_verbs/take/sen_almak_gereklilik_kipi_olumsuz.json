@@ -4,17 +4,17 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almaman lazım",
+    "verb_full": "almamanız lazım",
     "root": "al",
     "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "man",
+    "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You shouldn’t take this road",
-  "russian_example_sentence": "Тебе нельзя ехать этой дорогой",
-  "turkish_example_sentence": "Sen bu yolu almaman lazım",
-  "turkish_example_sentence_with_blank": "Sen bu yolu ______"
+  "english_example_sentence": "You should not take the old broken camera",
+  "russian_example_sentence": "Ты не должен брать старую сломанную камеру",
+  "turkish_example_sentence": "Sen eski kırık kamerayı almamanız lazım",
+  "turkish_example_sentence_with_blank": "Sen eski kırık kamerayı ______"
 }

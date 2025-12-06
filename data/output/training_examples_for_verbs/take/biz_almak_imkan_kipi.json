@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "alabiliriz",
     "root": "al",
-    "tense_affix": "abilir",
+    "tense_affix": "abil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iz",
+    "personal_affix": "iriz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We can take the delicious pie",
-  "russian_example_sentence": "Мы можем взять вкусный пирог",
-  "turkish_example_sentence": "Biz lezzetli turtayı alabiliriz",
-  "turkish_example_sentence_with_blank": "Biz lezzetli turtayı ______"
+  "english_example_sentence": "We can take the delicious sweet pastry from the bakery",
+  "russian_example_sentence": "Мы можем взять вкусную сладкую выпечку из пекарни",
+  "turkish_example_sentence": "Biz fırından lezzetli tatlı pastayı alabiliriz",
+  "turkish_example_sentence_with_blank": "Biz fırından lezzetli tatlı pastayı ______"
 }

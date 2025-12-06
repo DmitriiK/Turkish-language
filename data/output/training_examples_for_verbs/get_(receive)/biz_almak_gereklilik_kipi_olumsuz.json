@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "almamamız lazım",
     "root": "al",
-    "tense_affix": "mamamız",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "mız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "We don't need to get a dog.",
-  "russian_example_sentence": "Нам не нужно заводить собаку.",
-  "turkish_example_sentence": "Biz köpek almamamız lazım.",
-  "turkish_example_sentence_with_blank": "Biz köpek ______."
+  "english_example_sentence": "We should not get the cheap plastic toys",
+  "russian_example_sentence": "Нам не нужно получать дешевые пластиковые игрушки",
+  "turkish_example_sentence": "Biz ucuz plastik oyuncakları almamamız lazım",
+  "turkish_example_sentence_with_blank": "Biz ucuz plastik oyuncakları ______"
 }

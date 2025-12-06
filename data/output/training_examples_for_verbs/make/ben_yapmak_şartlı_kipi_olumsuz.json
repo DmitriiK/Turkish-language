@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "yapmazsam",
     "root": "yap",
-    "tense_affix": "mazsa",
+    "tense_affix": "maz",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If I don't make it, I will call you.",
-  "russian_example_sentence": "Если я не успею, я тебе позвоню.",
-  "turkish_example_sentence": "Bunu yapmazsam, seni ararım.",
-  "turkish_example_sentence_with_blank": "Bunu ______, seni ararım."
+  "english_example_sentence": "If I do not make an effort today",
+  "russian_example_sentence": "Если я сегодня не приложу усилия",
+  "turkish_example_sentence": "Eğer ben bugün ciddi bir çaba yapmazsam, sınavı geçemeyeceğim",
+  "turkish_example_sentence_with_blank": "Eğer ben bugün ciddi bir çaba ______, sınavı geçemeyeceğim"
 }

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "bilmediklerinde",
     "root": "bil",
-    "tense_affix": "dik",
+    "tense_affix": "diğ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "onlar",
-    "personal_affix": "leri",
+    "personal_affix": "lerinde",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "When they don't know, they guess",
-  "russian_example_sentence": "Когда они не знают, они угадывают",
-  "turkish_example_sentence": "Onlar zor soruyu bilmediklerinde, tahmin ederler",
-  "turkish_example_sentence_with_blank": "Onlar zor soruyu ______, tahmin ederler"
+  "english_example_sentence": "When they don't know the right answer, they ask their teacher",
+  "russian_example_sentence": "Когда они не знают правильный ответ, они спрашивают своего учителя",
+  "turkish_example_sentence": "Doğru cevabı bilmediklerinde, öğretmenlerine soruyorlar",
+  "turkish_example_sentence_with_blank": "Doğru cevabı ______, öğretmenlerine soruyorlar"
 }

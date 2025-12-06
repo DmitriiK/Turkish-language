@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gitmezsin",
     "root": "git",
-    "tense_affix": "mez",
+    "tense_affix": "er",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "sin",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You don't go to the park",
-  "russian_example_sentence": "Ты не идёшь в парк",
-  "turkish_example_sentence": "Sen parka gitmezsin",
-  "turkish_example_sentence_with_blank": "Sen parka ______"
+  "english_example_sentence": "You do not go to noisy nightclubs on weekends",
+  "russian_example_sentence": "Ты не ходишь в шумные ночные клубы по выходным",
+  "turkish_example_sentence": "Sen hafta sonları gürültülü gece kulüplerine gitmezsin",
+  "turkish_example_sentence_with_blank": "Sen hafta sonları gürültülü gece kulüplerine ______"
 }

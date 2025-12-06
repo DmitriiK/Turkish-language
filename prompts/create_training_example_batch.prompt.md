@@ -111,17 +111,9 @@ This is WRONG because it uses the same noun "kitap" for all examples!
 - Appropriate complexity for {language_level} learners
 - Natural, realistic language that native speakers would actually use
 
-**English sentence requirements:**
-- Natural translation that captures the meaning and context
-- Use DIFFERENT vocabulary from other examples (match the Turkish diversity)
-- Appropriate for {language_level} learners
-- 4-8 words preferred
-
-**Russian sentence requirements:**
-- Natural translation with simple vocabulary
-- Use DIFFERENT vocabulary from other examples (match the Turkish diversity)
-- Maintain meaning and context from English/Turkish
-
+**English and Russian sentence requirements:**
+- It should contain exact translation of Turkish phrase.  Generate turkish phrase first, then translate it to other languages. 
+- You should translate as closely to Turkish phrase as possible, even it if sounds not quite natural in Eng or Rus language.
 ### 3. Verification Before Output
 
 Before generating the JSON output, verify:

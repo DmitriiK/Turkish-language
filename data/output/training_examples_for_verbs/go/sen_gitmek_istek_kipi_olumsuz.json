@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmeyesin",
+    "verb_full": "gitmesin",
     "root": "git",
     "tense_affix": "e",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "sin",
     "polarity": "negative",
-    "negative_affix": "mey"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "I wish you would not go there alone.",
-  "russian_example_sentence": "Я надеюсь, ты не пойдёшь туда один.",
-  "turkish_example_sentence": "Oraya yalnız gitmeyesin.",
-  "turkish_example_sentence_with_blank": "Oraya yalnız ______."
+  "english_example_sentence": "May you not go to that dangerous dark forest alone",
+  "russian_example_sentence": "Пусть ты не пойдешь в тот опасный темный лес один",
+  "turkish_example_sentence": "Sen o tehlikeli karanlık ormana yalnız gitmesin",
+  "turkish_example_sentence_with_blank": "Sen o tehlikeli karanlık ormana yalnız ______"
 }

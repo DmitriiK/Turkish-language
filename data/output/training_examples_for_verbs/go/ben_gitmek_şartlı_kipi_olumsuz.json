@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gitmezsem",
     "root": "git",
-    "tense_affix": "mezse",
+    "tense_affix": "mez",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "em",
+    "personal_affix": "m",
     "polarity": "negative",
-    "negative_affix": "mez"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "If I don’t go to work, I’ll rest.",
-  "russian_example_sentence": "Если я не пойду на работу, я отдохну.",
-  "turkish_example_sentence": "Ben işe gitmezsem dinleneceğim.",
-  "turkish_example_sentence_with_blank": "Ben işe ______ dinleneceğim."
+  "english_example_sentence": "If I do not go to the beach, I will stay home",
+  "russian_example_sentence": "Если я не пойду на пляж, я останусь дома",
+  "turkish_example_sentence": "Ben kumlu sahile gitmezsem, rahat evde kalırım",
+  "turkish_example_sentence_with_blank": "Ben kumlu sahile ______, rahat evde kalırım"
 }

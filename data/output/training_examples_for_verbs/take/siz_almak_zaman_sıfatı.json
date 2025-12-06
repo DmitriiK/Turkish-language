@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "aldığınızda",
     "root": "al",
-    "tense_affix": "dık",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "siz",
-    "personal_affix": "ınız",
+    "personal_affix": "ınızda",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When you take the food parcel, please call him.",
-  "russian_example_sentence": "Когда вы берете еду, пожалуйста, позвоните ему.",
-  "turkish_example_sentence": "Lütfen siz yemek paketini aldığınızda ona haber verin.",
-  "turkish_example_sentence_with_blank": "Lütfen siz yemek paketini ______ ona haber verin."
+  "english_example_sentence": "When you take the important documents to the office",
+  "russian_example_sentence": "Когда вы берете важные документы в офис",
+  "turkish_example_sentence": "Siz resmi evrakları işyerine aldığınızda, müdür sizi karşıladı",
+  "turkish_example_sentence_with_blank": "Siz resmi evrakları işyerine ______, müdür sizi karşıladı"
 }

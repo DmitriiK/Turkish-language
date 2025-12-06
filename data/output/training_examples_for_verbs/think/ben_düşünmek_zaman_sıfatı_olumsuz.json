@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "düşünmediğimde",
     "root": "düşün",
-    "tense_affix": "düğ",
+    "tense_affix": "dik",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "ben",
-    "personal_affix": "ümde",
+    "personal_affix": "im",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "When I don't think about it, I feel at peace",
-  "russian_example_sentence": "Когда я об этом не думаю, чувствую себя спокойно",
-  "turkish_example_sentence": "Onu düşünmediğimde, huzur hissediyorum",
-  "turkish_example_sentence_with_blank": "Onu ______, huzur hissediyorum"
+  "english_example_sentence": "When I don't think about my worries, I enjoy the beautiful day",
+  "russian_example_sentence": "Когда я не думаю о своих беспокойствах, я наслаждаюсь красивым днём",
+  "turkish_example_sentence": "Endişeli konuları düşünmediğimde, güzel günü keyifle geçiriyorum",
+  "turkish_example_sentence_with_blank": "Endişeli konuları ______, güzel günü keyifle geçiriyorum"
 }

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "alamaz",
     "root": "al",
-    "tense_affix": "amaz",
+    "tense_affix": "abil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "ir",
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "ama"
   },
-  "english_example_sentence": "She cannot get the bus now.",
-  "russian_example_sentence": "Она не может сейчас сесть на автобус.",
-  "turkish_example_sentence": "O şimdi otobüsü alamaz.",
-  "turkish_example_sentence_with_blank": "O şimdi otobüsü ______."
+  "english_example_sentence": "She cannot get good quality organic vegetables here",
+  "russian_example_sentence": "Она не может получить качественные органические овощи здесь",
+  "turkish_example_sentence": "O burada iyi kaliteli organik sebzeleri alamaz",
+  "turkish_example_sentence_with_blank": "O burada iyi kaliteli organik sebzeleri ______"
 }

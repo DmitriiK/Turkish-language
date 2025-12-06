@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "almayacaktık",
     "root": "al",
-    "tense_affix": "mayacaktı",
+    "tense_affix": "acaktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "We weren't going to buy groceries",
-  "russian_example_sentence": "Мы не собирались покупать продукты",
-  "turkish_example_sentence": "Biz süpermarketten taze sebzeler almayacaktık",
-  "turkish_example_sentence_with_blank": "Biz süpermarketten taze sebzeler ______"
+  "english_example_sentence": "We were not going to get the expensive luxury car from the dealer",
+  "russian_example_sentence": "Мы не собирались получить дорогой люксовый автомобиль у дилера",
+  "turkish_example_sentence": "Biz satıcıdan pahalı lüks arabayı almayacaktık",
+  "turkish_example_sentence_with_blank": "Biz satıcıdan pahalı lüks arabayı ______"
 }

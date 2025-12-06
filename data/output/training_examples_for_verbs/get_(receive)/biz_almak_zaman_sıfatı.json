@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "aldığımızda",
     "root": "al",
-    "tense_affix": "dık",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "biz",
-    "personal_affix": "ımız",
+    "personal_affix": "ımızda",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When we get feedback, we improve quickly.",
-  "russian_example_sentence": "Когда мы получаем обратную связь, мы быстро улучшаемся.",
-  "turkish_example_sentence": "Biz geri bildirimi aldığımızda, hızla gelişiyoruz.",
-  "turkish_example_sentence_with_blank": "Biz geri bildirimi ______, hızla gelişiyoruz."
+  "english_example_sentence": "When we receive the travel tickets, we plan the exciting journey",
+  "russian_example_sentence": "Когда мы получаем билеты на путешествие, мы планируем захватывающее путешествие",
+  "turkish_example_sentence": "Biz seyahat biletlerini aldığımızda, heyecan verici yolculuğu planlıyoruz",
+  "turkish_example_sentence_with_blank": "Biz seyahat biletlerini ______, heyecan verici yolculuğu planlıyoruz"
 }

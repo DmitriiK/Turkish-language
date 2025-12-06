@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "giderse",
     "root": "git",
-    "tense_affix": "er",
+    "tense_affix": "erse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "se",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If he goes to the party, it will be fun.",
-  "russian_example_sentence": "Если он пойдет на вечеринку, будет весело.",
-  "turkish_example_sentence": "O partiye giderse eğlenceli olacak.",
-  "turkish_example_sentence_with_blank": "O partiye ______ eğlenceli olacak."
+  "english_example_sentence": "If he goes to the concert, he will enjoy the beautiful music",
+  "russian_example_sentence": "Если он пойдет на концерт, он будет наслаждаться красивой музыкой",
+  "turkish_example_sentence": "O konser salonuna giderse, ünlü orkestranın harika müziğini dinleyecektir",
+  "turkish_example_sentence_with_blank": "O konser salonuna ______, ünlü orkestranın harika müziğini dinleyecektir"
 }

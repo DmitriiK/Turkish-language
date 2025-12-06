@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "almayan",
     "root": "al",
-    "tense_affix": "yan",
+    "tense_affix": "an",
     "verb_tense": "sıfat_fiil",
     "personal_pronoun": null,
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "The student not taking a book failed.",
-  "russian_example_sentence": "Ученик, который не взял книгу, потерпел неудачу.",
-  "turkish_example_sentence": "Kitap almayan öğrenci başarısız oldu.",
-  "turkish_example_sentence_with_blank": "Kitap ______ öğrenci başarısız oldu."
+  "english_example_sentence": "The person not taking the delicious sweet cake is unusual",
+  "russian_example_sentence": "Человек, не берущий вкусный сладкий торт, необычен",
+  "turkish_example_sentence": "Lezzetli tatlı pastayı almayan yaşlı adam çok garip görünüyor",
+  "turkish_example_sentence_with_blank": "Lezzetli tatlı pastayı ______ yaşlı adam çok garip görünüyor"
 }

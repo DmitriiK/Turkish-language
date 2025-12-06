@@ -4,17 +4,17 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylememeliyim",
+    "verb_full": "söylememeli",
     "root": "söyle",
-    "tense_affix": "meli",
+    "tense_affix": "memeli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "yim",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "I must not say anything rude",
-  "russian_example_sentence": "Я не должен говорить ничего грубого",
-  "turkish_example_sentence": "Ben kaba bir şey söylememeliyim",
-  "turkish_example_sentence_with_blank": "Ben kaba bir şey ______"
+  "english_example_sentence": "I must not say those harsh words",
+  "russian_example_sentence": "Я не должен говорить эти жесткие слова",
+  "turkish_example_sentence": "Ben o kırıcı sözleri söylememeli",
+  "turkish_example_sentence_with_blank": "Ben o kırıcı sözleri ______"
 }

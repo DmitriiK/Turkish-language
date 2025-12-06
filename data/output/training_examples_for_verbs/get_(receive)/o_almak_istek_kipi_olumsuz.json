@@ -4,17 +4,17 @@
   "verb_russian": "получать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almıya",
+    "verb_full": "almasın",
     "root": "al",
-    "tense_affix": "ıya",
+    "tense_affix": "a",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "May she not get a cold.",
-  "russian_example_sentence": "Пусть она не простудится.",
-  "turkish_example_sentence": "O soğuk algınlığı almaya",
-  "turkish_example_sentence_with_blank": "O soğuk algınlığı almaya"
+  "english_example_sentence": "May she not take the harmful dangerous medication",
+  "russian_example_sentence": "Пусть она не возьмет вредное опасное лекарство",
+  "turkish_example_sentence": "O zararlı tehlikeli ilacı almasın",
+  "turkish_example_sentence_with_blank": "O zararlı tehlikeli ilacı ______"
 }

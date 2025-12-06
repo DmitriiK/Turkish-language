@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gitmediğinde",
     "root": "git",
-    "tense_affix": "tik",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "sen",
-    "personal_affix": "in",
+    "personal_affix": "inde",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "When you don't go to school, you lose time.",
-  "russian_example_sentence": "Когда ты не ходишь в школу, ты теряешь время.",
-  "turkish_example_sentence": "Okula gitmediğinde zaman kaybediyorsun.",
-  "turkish_example_sentence_with_blank": "Okula ______ zaman kaybediyorsun."
+  "english_example_sentence": "When you did not go to the small village school last week",
+  "russian_example_sentence": "Когда ты не пошел в маленькую деревенскую школу на прошлой неделе",
+  "turkish_example_sentence": "Sen geçen hafta küçük köy okuluna gitmediğinde, arkadaşların seni çok aradı",
+  "turkish_example_sentence_with_blank": "Sen geçen hafta küçük köy okuluna ______, arkadaşların seni çok aradı"
 }

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "yapmazsa",
     "root": "yap",
-    "tense_affix": "mazsa",
+    "tense_affix": "maz",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If she doesn't make the bed, I will do it.",
-  "russian_example_sentence": "Если она не заправит кровать, я сделаю это.",
-  "turkish_example_sentence": "O yatağı yapmazsa, ben yapacağım.",
-  "turkish_example_sentence_with_blank": "O yatağı ______, ben yapacağım."
+  "english_example_sentence": "If she does not make progress quickly",
+  "russian_example_sentence": "Если она не добьётся прогресса быстро",
+  "turkish_example_sentence": "Eğer o hızlı ilerleme yapmazsa, kursunu bitirmeyecek",
+  "turkish_example_sentence_with_blank": "Eğer o hızlı ilerleme ______, kursunu bitirmeyecek"
 }

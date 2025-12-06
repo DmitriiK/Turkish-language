@@ -4,7 +4,7 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilmeyesiniz",
+    "verb_full": "bilmesiniz",
     "root": "bil",
     "tense_affix": "e",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,8 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "May you not know the final answer",
-  "russian_example_sentence": "Пусть вы не знаете окончательный ответ",
-  "turkish_example_sentence": "Son cevabı bilmeyesiniz",
-  "turkish_example_sentence_with_blank": "Son cevabı ______"
+  "english_example_sentence": "May you not know the dangerous secret",
+  "russian_example_sentence": "Пусть вы не узнаете опасный секрет",
+  "turkish_example_sentence": "Siz bu tehlikeli sırları bilmesiniz",
+  "turkish_example_sentence_with_blank": "Siz bu tehlikeli sırları ______"
 }

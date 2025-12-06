@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gitmedin",
     "root": "git",
-    "tense_affix": "tin",
+    "tense_affix": "ti",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "in",
+    "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You didn't go to work on Monday",
-  "russian_example_sentence": "Ты не ходил на работу в понедельник",
-  "turkish_example_sentence": "Sen pazartesi günü işe gitmedin",
-  "turkish_example_sentence_with_blank": "Sen pazartesi günü işe ______"
+  "english_example_sentence": "You did not go to the important business meeting yesterday",
+  "russian_example_sentence": "Ты не пошел на важное деловое совещание вчера",
+  "turkish_example_sentence": "Sen dün önemli iş toplantısına gitmedin",
+  "turkish_example_sentence_with_blank": "Sen dün önemli iş toplantısına ______"
 }

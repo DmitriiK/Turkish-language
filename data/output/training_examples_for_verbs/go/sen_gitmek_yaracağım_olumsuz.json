@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gitmeyeceksin",
     "root": "git",
-    "tense_affix": "eceğ",
+    "tense_affix": "ecek",
     "verb_tense": "yaracağım",
     "personal_pronoun": "sen",
     "personal_affix": "sin",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You will not go to the park tomorrow.",
-  "russian_example_sentence": "Ты завтра не пойдёшь в парк.",
-  "turkish_example_sentence": "Sen yarın parka gitmeyeceksin.",
-  "turkish_example_sentence_with_blank": "Sen yarın parka ______."
+  "english_example_sentence": "You will not go to the boring lecture hall",
+  "russian_example_sentence": "Ты не пойдешь в скучный лекционный зал",
+  "turkish_example_sentence": "Sen sıkıcı ders salonuna gitmeyeceksin",
+  "turkish_example_sentence_with_blank": "Sen sıkıcı ders salonuna ______"
 }

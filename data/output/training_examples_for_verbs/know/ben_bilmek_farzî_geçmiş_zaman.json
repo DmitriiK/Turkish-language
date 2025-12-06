@@ -4,17 +4,17 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilmişsem",
+    "verb_full": "bilmiş olsaydım",
     "root": "bil",
-    "tense_affix": "mişse",
+    "tense_affix": "miş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I had known the answer...",
-  "russian_example_sentence": "Если бы я знал ответ...",
-  "turkish_example_sentence": "Ben cevabı bilmişsem, sana söylerdim.",
-  "turkish_example_sentence_with_blank": "Ben cevabı ______, sana söylerdim."
+  "english_example_sentence": "If I had known the difficult answer earlier",
+  "russian_example_sentence": "Если бы я знал сложный ответ раньше",
+  "turkish_example_sentence": "Ben zor sorunun cevabını daha erken bilmiş olsaydım",
+  "turkish_example_sentence_with_blank": "Ben zor sorunun cevabını daha erken ______"
 }

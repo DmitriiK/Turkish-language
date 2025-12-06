@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmeseniz",
+    "verb_full": "gitmazsanız",
     "root": "git",
     "tense_affix": "se",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "nız",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "If you all didn't go to the market",
-  "russian_example_sentence": "Если бы вы все не пошли на рынок",
-  "turkish_example_sentence": "Eğer pazara gitmeseniz",
-  "turkish_example_sentence_with_blank": "Eğer pazara ______"
+  "english_example_sentence": "If you were not to go to the crowded football stadium",
+  "russian_example_sentence": "Если бы вы не пошли на переполненный футбольный стадион",
+  "turkish_example_sentence": "Siz kalabalık futbol stadyumuna gitmazsanız daha güvenli hissedebilirsiniz",
+  "turkish_example_sentence_with_blank": "Siz kalabalık futbol stadyumuna ______ daha güvenli hissedebilirsiniz"
 }

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "almayacaktınız",
     "root": "al",
-    "tense_affix": "mayacaktı",
+    "tense_affix": "acaktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You weren't going to get permission",
-  "russian_example_sentence": "Вы не собирались получать разрешение",
-  "turkish_example_sentence": "Siz müdürden seyahat izni almayacaktınız",
-  "turkish_example_sentence_with_blank": "Siz müdürden seyahat izni ______"
+  "english_example_sentence": "You were not going to get the rare antique furniture from the auction",
+  "russian_example_sentence": "Вы не собирались получить редкую антикварную мебель с аукциона",
+  "turkish_example_sentence": "Siz müzayededen nadir antika mobilyaları almayacaktınız",
+  "turkish_example_sentence_with_blank": "Siz müzayededen nadir antika mobilyaları ______"
 }

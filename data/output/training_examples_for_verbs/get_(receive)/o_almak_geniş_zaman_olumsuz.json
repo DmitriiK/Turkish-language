@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "almaz",
     "root": "al",
-    "tense_affix": "maz",
+    "tense_affix": "ır",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "She doesn't get enough sleep",
-  "russian_example_sentence": "Она не получает достаточно сна",
-  "turkish_example_sentence": "O yeterince uyku almaz",
-  "turkish_example_sentence_with_blank": "O yeterince uyku ______"
+  "english_example_sentence": "She does not get enough sleep at night",
+  "russian_example_sentence": "Она не получает достаточно сна ночью",
+  "turkish_example_sentence": "O gece yeterli dinlenme uyku almaz",
+  "turkish_example_sentence_with_blank": "O gece yeterli dinlenme uyku ______"
 }

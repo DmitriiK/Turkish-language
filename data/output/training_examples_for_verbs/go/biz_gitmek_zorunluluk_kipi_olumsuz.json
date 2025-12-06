@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmemeliyiz",
+    "verb_full": "gitmemelyiz",
     "root": "git",
-    "tense_affix": "memeli",
+    "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yiz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "We must not go to this dangerous zone",
-  "russian_example_sentence": "Мы не должны ходить в эту опасную зону",
-  "turkish_example_sentence": "Biz bu tehlikeli bölgeye gitmemeliyiz",
-  "turkish_example_sentence_with_blank": "Biz bu tehlikeli bölgeye ______"
+  "english_example_sentence": "We must not go to the crowded downtown shopping mall",
+  "russian_example_sentence": "Мы не должны идти в переполненный торговый центр в центре города",
+  "turkish_example_sentence": "Biz kalabalık şehir merkezi alışveriş merkezine gitmemelyiz",
+  "turkish_example_sentence_with_blank": "Biz kalabalık şehir merkezi alışveriş merkezine ______"
 }

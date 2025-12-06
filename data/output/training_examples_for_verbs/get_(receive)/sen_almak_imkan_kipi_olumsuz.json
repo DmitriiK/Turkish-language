@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "alamazsın",
     "root": "al",
-    "tense_affix": "amaz",
+    "tense_affix": "abil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "sın",
+    "personal_affix": "irsin",
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "ama"
   },
-  "english_example_sentence": "You cannot get a ticket today.",
-  "russian_example_sentence": "Ты не можешь получить билет сегодня.",
-  "turkish_example_sentence": "Sen bugün bilet alamazsın.",
-  "turkish_example_sentence_with_blank": "Sen bugün bilet ______."
+  "english_example_sentence": "You cannot get rare antique furniture without money",
+  "russian_example_sentence": "Ты не можешь получить редкую антикварную мебель без денег",
+  "turkish_example_sentence": "Sen para olmadan nadir antika mobilyaları alamazsın",
+  "turkish_example_sentence_with_blank": "Sen para olmadan nadir antika mobilyaları ______"
 }

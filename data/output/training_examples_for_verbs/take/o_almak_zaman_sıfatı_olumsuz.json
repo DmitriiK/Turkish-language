@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "almadığında",
     "root": "al",
-    "tense_affix": "dık",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "o",
-    "personal_affix": "ı",
+    "personal_affix": "ında",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "When he does not take enough water, he gets thirsty.",
-  "russian_example_sentence": "Когда он не берет достаточно воды, он испытывает жажду.",
-  "turkish_example_sentence": "O yeterince su almadığında çok susar.",
-  "turkish_example_sentence_with_blank": "O yeterince su ______ çok susar."
+  "english_example_sentence": "When she does not take the necessary medicine from the pharmacy",
+  "russian_example_sentence": "Когда она не берет необходимое лекарство из аптеки",
+  "turkish_example_sentence": "O gerekli ilacı eczaneden almadığında, hastalığı kötüleşiyor",
+  "turkish_example_sentence_with_blank": "O gerekli ilacı eczaneden ______, hastalığı kötüleşiyor"
 }

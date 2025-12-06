@@ -4,7 +4,7 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylememen lazım",
+    "verb_full": "söylememem lazım",
     "root": "söyle",
     "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You must not say the plan to anyone.",
-  "russian_example_sentence": "Ты никому не должен говорить план.",
-  "turkish_example_sentence": "Sen kimseye planı söylememen lazım.",
-  "turkish_example_sentence_with_blank": "Sen kimseye planı ______."
+  "english_example_sentence": "You need to not say anything about the secret",
+  "russian_example_sentence": "Ты не должен ничего говорить о секрете",
+  "turkish_example_sentence": "Sen gizli konuyu hiç söylemememen lazım",
+  "turkish_example_sentence_with_blank": "Sen gizli konuyu hiç söylemememen lazım"
 }

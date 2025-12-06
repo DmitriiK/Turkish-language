@@ -4,7 +4,7 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilmemeleri lazım",
+    "verb_full": "bilmmeleri lazım",
     "root": "bil",
     "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,8 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "They don't need to know the sensitive political situation",
-  "russian_example_sentence": "Им не нужно знать чувствительную политическую ситуацию",
-  "turkish_example_sentence": "Onlar hassas siyasi durumu bilmemeleri lazım",
-  "turkish_example_sentence_with_blank": "Onlar hassas siyasi durumu ______"
+  "english_example_sentence": "They do not need to know the confidential business strategies",
+  "russian_example_sentence": "Им не нужно знать конфиденциальные деловые стратегии",
+  "turkish_example_sentence": "Onlar gizli ticari stratejileri bilmmeleri lazım",
+  "turkish_example_sentence_with_blank": "Onlar gizli ticari stratejileri ______"
 }

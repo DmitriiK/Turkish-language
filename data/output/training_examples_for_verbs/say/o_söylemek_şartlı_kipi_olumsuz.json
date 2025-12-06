@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "söylemezse",
     "root": "söyle",
-    "tense_affix": "mezse",
+    "tense_affix": "mez",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "mez"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "If he doesn't say a word, nobody will help.",
-  "russian_example_sentence": "Если он не скажет ни слова, никто не поможет.",
-  "turkish_example_sentence": "Eğer bir şey söylemezse, kimse yardım etmez.",
-  "turkish_example_sentence_with_blank": "Eğer bir şey ______, kimse yardım etmez."
+  "english_example_sentence": "If she does not say goodbye, we will feel sad",
+  "russian_example_sentence": "Если она не скажет до свидания, мы будем грустить",
+  "turkish_example_sentence": "O veda sözünü söylemezse, biz üzüntü hissedecek",
+  "turkish_example_sentence_with_blank": "O veda sözünü ______, biz üzüntü hissedecek"
 }

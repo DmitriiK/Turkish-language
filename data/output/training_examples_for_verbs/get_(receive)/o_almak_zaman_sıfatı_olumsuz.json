@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "almadığında",
     "root": "al",
-    "tense_affix": "dık",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "o",
-    "personal_affix": "ı",
+    "personal_affix": "ında",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "When she doesn't get help, she struggles.",
-  "russian_example_sentence": "Когда она не получает помощь, она борется.",
-  "turkish_example_sentence": "O yardımı almadığında, zorlanıyor.",
-  "turkish_example_sentence_with_blank": "O yardımı ______, zorlanıyor."
+  "english_example_sentence": "When she doesn't receive the phone call, she stays silent",
+  "russian_example_sentence": "Когда она не получает телефонный звонок, она молчит",
+  "turkish_example_sentence": "O beklenen telefon aramasını almadığında, sessiz kalıyor",
+  "turkish_example_sentence_with_blank": "O beklenen telefon aramasını ______, sessiz kalıyor"
 }

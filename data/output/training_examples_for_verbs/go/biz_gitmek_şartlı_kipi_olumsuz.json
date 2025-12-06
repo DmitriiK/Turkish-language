@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gitmezsek",
     "root": "git",
-    "tense_affix": "mezse",
+    "tense_affix": "mez",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
-    "negative_affix": "mez"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "If we don’t go now, we’ll be late.",
-  "russian_example_sentence": "Если мы сейчас не пойдем, мы опоздаем.",
-  "turkish_example_sentence": "Şimdi gitmezsek geç kalacağız.",
-  "turkish_example_sentence_with_blank": "Şimdi ______ geç kalacağız."
+  "english_example_sentence": "If we do not go to the restaurant, we will cook dinner at home",
+  "russian_example_sentence": "Если мы не пойдем в ресторан, мы приготовим ужин дома",
+  "turkish_example_sentence": "Biz lezzetli restoranda gitmezsek, evde sağlıklı yemek pişireceğiz",
+  "turkish_example_sentence_with_blank": "Biz lezzetli restoranda ______, evde sağlıklı yemek pişireceğiz"
 }

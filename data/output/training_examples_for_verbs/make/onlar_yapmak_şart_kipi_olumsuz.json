@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "yapmasalar",
     "root": "yap",
-    "tense_affix": "masa",
+    "tense_affix": "sa",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If they don’t make the noise, we can focus.",
-  "russian_example_sentence": "Если они не будут шуметь, мы сможем сосредоточиться.",
-  "turkish_example_sentence": "Eğer gürültü yapmasalar, odaklanabiliriz.",
-  "turkish_example_sentence_with_blank": "Eğer gürültü ______, odaklanabiliriz."
+  "english_example_sentence": "If they were not to make necessary repairs soon",
+  "russian_example_sentence": "Если бы они не делали необходимый ремонт вскоре",
+  "turkish_example_sentence": "Onlar gerekli onarımları yapmasalar, eski bina çöker",
+  "turkish_example_sentence_with_blank": "Onlar gerekli onarımları ______, eski bina çöker"
 }

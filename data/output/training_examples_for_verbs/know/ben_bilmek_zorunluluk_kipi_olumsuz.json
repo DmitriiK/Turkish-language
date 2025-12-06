@@ -4,7 +4,7 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilmemeliim",
+    "verb_full": "bilmemeliyin",
     "root": "bil",
     "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
@@ -13,8 +13,8 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "I must not know this confidential company secret",
-  "russian_example_sentence": "Я не должен знать этот конфиденциальный секрет компании",
-  "turkish_example_sentence": "Ben yönetim tarafından gizli tutulan önemli iş stratejisini bilmemeliim",
-  "turkish_example_sentence_with_blank": "Ben yönetim tarafından gizli tutulan önemli iş stratejisini ______"
+  "english_example_sentence": "I must not know those secret details",
+  "russian_example_sentence": "Я не должен знать те секретные детали",
+  "turkish_example_sentence": "Ben o gizli ayrıntıları bilmemeliyin",
+  "turkish_example_sentence_with_blank": "Ben o gizli ayrıntıları ______"
 }

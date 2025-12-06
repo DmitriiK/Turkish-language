@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gitmezsiniz",
     "root": "git",
-    "tense_affix": "mez",
+    "tense_affix": "er",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "siniz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You don't go to the mountains",
-  "russian_example_sentence": "Вы не идете в горы",
-  "turkish_example_sentence": "Siz dağlara gitmezsiniz",
-  "turkish_example_sentence_with_blank": "Siz dağlara ______"
+  "english_example_sentence": "You all do not go to the cold snowy mountains in winter",
+  "russian_example_sentence": "Вы все не ходите в холодные снежные горы зимой",
+  "turkish_example_sentence": "Siz kış aylarında soğuk karlı dağlara gitmezsiniz",
+  "turkish_example_sentence_with_blank": "Siz kış aylarında soğuk karlı dağlara ______"
 }

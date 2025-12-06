@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "bilmediğimde",
     "root": "bil",
-    "tense_affix": "dik",
+    "tense_affix": "diğ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "ben",
-    "personal_affix": "im",
+    "personal_affix": "imde",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "When I don't know, I ask questions",
-  "russian_example_sentence": "Когда я не знаю, я задаю вопросы",
-  "turkish_example_sentence": "Ben doğru yolu bilmediğimde, soru sorarım",
-  "turkish_example_sentence_with_blank": "Ben doğru yolu ______, soru sorarım"
+  "english_example_sentence": "When I don't know the secret path, I get lost easily",
+  "russian_example_sentence": "Когда я не знаю секретную дорогу, я легко теряюсь",
+  "turkish_example_sentence": "Gizli yolu bilmediğimde, kolayca kayboluyorum",
+  "turkish_example_sentence_with_blank": "Gizli yolu ______, kolayca kayboluyorum"
 }

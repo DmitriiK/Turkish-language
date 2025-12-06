@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "almadığımda",
     "root": "al",
-    "tense_affix": "dık",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "ben",
-    "personal_affix": "ım",
+    "personal_affix": "ımda",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "When I don't get good news, I worry.",
-  "russian_example_sentence": "Когда я не получаю хорошие новости, я волнуюсь.",
-  "turkish_example_sentence": "Ben iyi haberi almadığımda, endişeleniyorum.",
-  "turkish_example_sentence_with_blank": "Ben iyi haberi ______, endişeleniyorum."
+  "english_example_sentence": "When I don't receive the important letter, I worry",
+  "russian_example_sentence": "Когда я не получаю важное письмо, я беспокоюсь",
+  "turkish_example_sentence": "Ben önemli mektupları almadığımda, endişeli hissediyorum",
+  "turkish_example_sentence_with_blank": "Ben önemli mektupları ______, endişeli hissediyorum"
 }

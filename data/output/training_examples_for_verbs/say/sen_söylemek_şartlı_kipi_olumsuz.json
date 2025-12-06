@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "söylemezsen",
     "root": "söyle",
-    "tense_affix": "mezse",
+    "tense_affix": "mez",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
-    "negative_affix": "mez"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "If you don't say it, we cannot continue.",
-  "russian_example_sentence": "Если ты это не скажешь, мы не сможем продолжить.",
-  "turkish_example_sentence": "Eğer bunu söylemezsen, devam edemeyiz.",
-  "turkish_example_sentence_with_blank": "Eğer bunu ______, devam edemeyiz."
+  "english_example_sentence": "If you do not say the secret, nobody will discover it",
+  "russian_example_sentence": "Если ты не скажешь секрет, никто его не откроет",
+  "turkish_example_sentence": "Sen gizli bilgiyi söylemezsen, hiç kimse onu keşfetmeyecek",
+  "turkish_example_sentence_with_blank": "Sen gizli bilgiyi ______, hiç kimse onu keşfetmeyecek"
 }

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gidersek",
     "root": "git",
-    "tense_affix": "er",
+    "tense_affix": "erse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "sek",
+    "personal_affix": "k",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we go together, it’ll be faster.",
-  "russian_example_sentence": "Если мы пойдем вместе, это будет быстрее.",
-  "turkish_example_sentence": "Eğer birlikte gidersek daha hızlı olacak.",
-  "turkish_example_sentence_with_blank": "Eğer birlikte ______ daha hızlı olacak."
+  "english_example_sentence": "If we go to the mountains, we will see the snowy peaks",
+  "russian_example_sentence": "Если мы пойдем в горы, мы увидим заснеженные вершины",
+  "turkish_example_sentence": "Biz dağlara gidersek, yüksek beyaz tepeleri görebiliriz",
+  "turkish_example_sentence_with_blank": "Biz dağlara ______, yüksek beyaz tepeleri görebiliriz"
 }

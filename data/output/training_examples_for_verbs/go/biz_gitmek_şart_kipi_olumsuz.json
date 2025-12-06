@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmesek",
+    "verb_full": "gitmasek",
     "root": "git",
     "tense_affix": "se",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "If we didn't go to school",
-  "russian_example_sentence": "Если бы мы не пошли в школу",
-  "turkish_example_sentence": "Eğer okula gitmesek",
-  "turkish_example_sentence_with_blank": "Eğer okula ______"
+  "english_example_sentence": "If we were not to go to the expensive restaurant",
+  "russian_example_sentence": "Если бы мы не пошли в дорогой ресторан",
+  "turkish_example_sentence": "Biz pahalı Fransız restoranına gitmasek daha fazla para biriktireceğiz",
+  "turkish_example_sentence_with_blank": "Biz pahalı Fransız restoranına ______ daha fazla para biriktireceğiz"
 }

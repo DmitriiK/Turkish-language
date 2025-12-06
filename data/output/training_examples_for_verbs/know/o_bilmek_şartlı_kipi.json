@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "bilirse",
     "root": "bil",
-    "tense_affix": "ir",
+    "tense_affix": "irse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If he knows about the event",
-  "russian_example_sentence": "Если он знает о событии",
-  "turkish_example_sentence": "Eğer etkinliği bilirse",
-  "turkish_example_sentence_with_blank": "Eğer etkinliği ______"
+  "english_example_sentence": "If she knows the beautiful melody, she will sing it perfectly",
+  "russian_example_sentence": "Если она знает красивую мелодию, она будет петь её идеально",
+  "turkish_example_sentence": "Güzel melodyı bilirse, onu mükemmel şekilde söyleyecek",
+  "turkish_example_sentence_with_blank": "Güzel melodyı ______, onu mükemmel şekilde söyleyecek"
 }

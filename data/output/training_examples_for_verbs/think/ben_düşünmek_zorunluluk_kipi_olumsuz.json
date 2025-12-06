@@ -4,17 +4,17 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmemeliyim",
+    "verb_full": "düşünmemelisin",
     "root": "düşün",
-    "tense_affix": "memeli",
+    "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "yim",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "I must not think about the past.",
-  "russian_example_sentence": "Я не должен думать о прошлом.",
-  "turkish_example_sentence": "Ben geçmiş hakkında düşünmemeliyim.",
-  "turkish_example_sentence_with_blank": "Ben geçmiş hakkında ______."
+  "english_example_sentence": "I must not think about sad memories from yesterday",
+  "russian_example_sentence": "Я не должен думать о грустных воспоминаниях вчерашнего дня",
+  "turkish_example_sentence": "Ben dün akşamın üzücü anılarını düşünmemeliyin",
+  "turkish_example_sentence_with_blank": "Ben dün akşamın üzücü anılarını düşünmemeliyin"
 }

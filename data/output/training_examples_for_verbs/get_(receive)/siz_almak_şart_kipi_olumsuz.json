@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "almasanız",
     "root": "al",
-    "tense_affix": "masa",
+    "tense_affix": "sa",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If you didn't get a response soon",
-  "russian_example_sentence": "Если бы вы не получили ответ скоро",
-  "turkish_example_sentence": "Siz hızlı bir cevap almasanız endişelenirdiniz.",
-  "turkish_example_sentence_with_blank": "Siz hızlı bir cevap ______ endişelenirdiniz."
+  "english_example_sentence": "If you did not receive the documents, you would miss the deadline",
+  "russian_example_sentence": "Если бы вы не получили документы, вы бы пропустили срок",
+  "turkish_example_sentence": "Siz o gerekli yasal belgeleri almasanız önemli son tarihi kaçırırdınız",
+  "turkish_example_sentence_with_blank": "Siz o gerekli yasal belgeleri ______ önemli son tarihi kaçırırdınız"
 }

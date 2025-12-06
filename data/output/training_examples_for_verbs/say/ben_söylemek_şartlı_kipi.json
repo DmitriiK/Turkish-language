@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "söylersem",
     "root": "söyle",
-    "tense_affix": "erse",
+    "tense_affix": "rse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I say something, listen carefully.",
-  "russian_example_sentence": "Если я что-то скажу, послушай внимательно.",
-  "turkish_example_sentence": "Eğer bir şey söylersem, dikkatlice dinle.",
-  "turkish_example_sentence_with_blank": "Eğer bir şey ______, dikkatlice dinle."
+  "english_example_sentence": "If I say the truth, everyone will listen carefully",
+  "russian_example_sentence": "Если я скажу правду, все будут слушать внимательно",
+  "turkish_example_sentence": "Ben doğru sözü söylersem, herkes dikkatle dinleyecek",
+  "turkish_example_sentence_with_blank": "Ben doğru sözü ______, herkes dikkatle dinleyecek"
 }

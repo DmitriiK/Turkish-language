@@ -4,7 +4,7 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmayasınız",
+    "verb_full": "yapmasınız",
     "root": "yap",
     "tense_affix": "a",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,8 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "May you not make bad decisions",
-  "russian_example_sentence": "Пусть вы не принимаете плохих решений",
-  "turkish_example_sentence": "Siz kötü kararlar yapmayasınız",
-  "turkish_example_sentence_with_blank": "Siz kötü kararlar ______"
+  "english_example_sentence": "May you not make any reckless dangerous decisions",
+  "russian_example_sentence": "Пусть вы не делаете никаких опрометчивых опасных решений",
+  "turkish_example_sentence": "Siz pervasız tehlikeli kararlar yapmasınız",
+  "turkish_example_sentence_with_blank": "Siz pervasız tehlikeli kararlar ______"
 }

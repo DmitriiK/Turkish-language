@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "bilirsem",
     "root": "bil",
-    "tense_affix": "ir",
+    "tense_affix": "irse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I know the correct answer",
-  "russian_example_sentence": "Если я знаю правильный ответ",
-  "turkish_example_sentence": "Eğer doğru cevabı bilirsem",
-  "turkish_example_sentence_with_blank": "Eğer doğru cevabı ______"
+  "english_example_sentence": "If I know the difficult answer, I will help my friend",
+  "russian_example_sentence": "Если я знаю сложный ответ, я помогу своему другу",
+  "turkish_example_sentence": "Zor cevabı bilirsem, arkadaşıma yardım edeceğim",
+  "turkish_example_sentence_with_blank": "Zor cevabı ______, arkadaşıma yardım edeceğim"
 }

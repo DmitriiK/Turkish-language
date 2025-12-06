@@ -4,17 +4,17 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylemiyorlar",
+    "verb_full": "söylemiyor",
     "root": "söyle",
     "tense_affix": "üyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
-    "negative_affix": "mü"
+    "negative_affix": "m"
   },
-  "english_example_sentence": "They are not saying the truth.",
-  "russian_example_sentence": "Они не говорят правду.",
-  "turkish_example_sentence": "Onlar doğruyu söylemiyorlar.",
-  "turkish_example_sentence_with_blank": "Onlar doğruyu ______."
+  "english_example_sentence": "They are not saying their real names to strangers",
+  "russian_example_sentence": "Они не говорят свои настоящие имена незнакомцам",
+  "turkish_example_sentence": "Onlar tanımadıkları kişilere gerçek isimlerini söylemiyor",
+  "turkish_example_sentence_with_blank": "Onlar tanımadıkları kişilere gerçek isimlerini ______"
 }

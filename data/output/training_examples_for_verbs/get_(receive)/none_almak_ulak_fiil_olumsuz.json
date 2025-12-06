@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "almayıp",
     "root": "al",
-    "tense_affix": "mayıp",
+    "tense_affix": "ıp",
     "verb_tense": "ulak_fiil",
     "personal_pronoun": null,
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "Without getting permission, he left.",
-  "russian_example_sentence": "Не получив разрешения, он ушел.",
-  "turkish_example_sentence": "İzni almayıp gitti.",
-  "turkish_example_sentence_with_blank": "İzni ______ gitti."
+  "english_example_sentence": "Without receiving the important document, he returned home",
+  "russian_example_sentence": "Не получив важный документ, он вернулся домой",
+  "turkish_example_sentence": "Önemli belgeyi almayıp, evine geri döndü",
+  "turkish_example_sentence_with_blank": "Önemli belgeyi ______, evine geri döndü"
 }

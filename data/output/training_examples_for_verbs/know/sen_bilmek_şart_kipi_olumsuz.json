@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "bilmesen",
     "root": "bil",
-    "tense_affix": "mese",
+    "tense_affix": "se",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If you didn't know her name",
-  "russian_example_sentence": "Если бы ты не знал её имени",
-  "turkish_example_sentence": "Onun adını bilmesen",
-  "turkish_example_sentence_with_blank": "Onun adını ______"
+  "english_example_sentence": "If you did not know the important telephone number, you could not reach your friend",
+  "russian_example_sentence": "Если бы ты не знал важный номер телефона, ты не смог бы позвонить своему другу",
+  "turkish_example_sentence": "Sen önemli telefon numarasını bilmesen, arkadaşına ulaşamazsın",
+  "turkish_example_sentence_with_blank": "Sen önemli telefon numarasını ______, arkadaşına ulaşamazsın"
 }

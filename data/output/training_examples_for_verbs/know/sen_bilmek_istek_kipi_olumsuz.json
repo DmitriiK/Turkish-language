@@ -4,7 +4,7 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilmeyesin",
+    "verb_full": "bilmesin",
     "root": "bil",
     "tense_affix": "e",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,8 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "May you not know all the details",
-  "russian_example_sentence": "Пусть ты не знаешь всех деталей",
-  "turkish_example_sentence": "Tüm detayları bilmeyesin",
-  "turkish_example_sentence_with_blank": "Tüm detayları ______"
+  "english_example_sentence": "May you not know the sad news",
+  "russian_example_sentence": "Пусть ты не узнаешь печальные новости",
+  "turkish_example_sentence": "Sen kötü haberleri bilmesin diye umuyorum",
+  "turkish_example_sentence_with_blank": "Sen kötü haberleri ______ diye umuyorum"
 }

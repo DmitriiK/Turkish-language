@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gittiğimde",
     "root": "git",
-    "tense_affix": "tik",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "ben",
-    "personal_affix": "im",
+    "personal_affix": "imde",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When I go to the city, I shop.",
-  "russian_example_sentence": "Когда я иду в город, я хожу по магазинам.",
-  "turkish_example_sentence": "Şehre gittiğimde alışveriş yaparım.",
-  "turkish_example_sentence_with_blank": "Şehre ______ alışveriş yaparım."
+  "english_example_sentence": "When I went to the beautiful seaside town yesterday",
+  "russian_example_sentence": "Когда я пошел в красивый приморский город вчера",
+  "turkish_example_sentence": "Ben dün güzel sahil kasabasına gittiğimde, orada birçok turist gördüm",
+  "turkish_example_sentence_with_blank": "Ben dün güzel sahil kasabasına ______, orada birçok turist gördüm"
 }

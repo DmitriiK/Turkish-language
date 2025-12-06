@@ -4,17 +4,17 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmemeleri lazım",
+    "verb_full": "düşünmmeleri lazım",
     "root": "düşün",
     "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "leri",
+    "personal_affix": "ları",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "They don't need to think about tonight.",
-  "russian_example_sentence": "Им не нужно думать о сегодняшнем вечере.",
-  "turkish_example_sentence": "Onların bu akşamı düşünmemeleri lazım.",
-  "turkish_example_sentence_with_blank": "Onların bu akşamı ______."
+  "english_example_sentence": "They should not think about the complicated mathematical formulas right now",
+  "russian_example_sentence": "Они не должны думать о сложных математических формулах прямо сейчас",
+  "turkish_example_sentence": "Onlar karmaşık matematiksel formülleri şu anda düşünmmeleri lazım",
+  "turkish_example_sentence_with_blank": "Onlar karmaşık matematiksel formülleri şu anda ______"
 }

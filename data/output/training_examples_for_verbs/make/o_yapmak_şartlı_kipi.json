@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "yaparsa",
     "root": "yap",
-    "tense_affix": "arsa",
+    "tense_affix": "ar",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If he makes tea, we can drink together.",
-  "russian_example_sentence": "Если он заварит чай, мы сможем выпить его вместе.",
-  "turkish_example_sentence": "O çay yaparsa, birlikte içebiliriz.",
-  "turkish_example_sentence_with_blank": "O çay ______, birlikte içebiliriz."
+  "english_example_sentence": "If he makes a serious mistake at work",
+  "russian_example_sentence": "Если он сделает серьёзную ошибку на работе",
+  "turkish_example_sentence": "Eğer o büyük bir hata yaparsa, işini kaybedebilir",
+  "turkish_example_sentence_with_blank": "Eğer o büyük bir hata ______, işini kaybedebilir"
 }

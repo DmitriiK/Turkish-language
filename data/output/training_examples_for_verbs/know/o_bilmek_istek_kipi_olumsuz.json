@@ -4,7 +4,7 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilmeye",
+    "verb_full": "bilmese",
     "root": "bil",
     "tense_affix": "e",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,8 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "May she not know the truth",
-  "russian_example_sentence": "Пусть она не знает правду",
-  "turkish_example_sentence": "Gerçeği bilmeye",
-  "turkish_example_sentence_with_blank": "Gerçeği ______"
+  "english_example_sentence": "May she not know the painful truth",
+  "russian_example_sentence": "Пусть она не узнает болезненную правду",
+  "turkish_example_sentence": "O acı gerçeği bilmese de iyi olur",
+  "turkish_example_sentence_with_blank": "O acı gerçeği ______ de iyi olur"
 }

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gittiğinde",
     "root": "git",
-    "tense_affix": "tik",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "sen",
-    "personal_affix": "in",
+    "personal_affix": "inde",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When you go home, call me.",
-  "russian_example_sentence": "Когда ты идёшь домой, позвони мне.",
-  "turkish_example_sentence": "Sen eve gittiğinde beni ara.",
-  "turkish_example_sentence_with_blank": "Sen eve ______ beni ara."
+  "english_example_sentence": "When you went to the crowded central market yesterday evening",
+  "russian_example_sentence": "Когда ты пошел на переполненный центральный рынок вчера вечером",
+  "turkish_example_sentence": "Sen dün akşam kalabalık merkezi pazara gittiğinde, çok ilginç eski eşyalar buldum",
+  "turkish_example_sentence_with_blank": "Sen dün akşam kalabalık merkezi pazara ______, çok ilginç eski eşyalar buldum"
 }

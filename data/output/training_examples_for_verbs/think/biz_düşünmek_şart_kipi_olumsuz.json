@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "düşünmesek",
     "root": "düşün",
-    "tense_affix": "mese",
+    "tense_affix": "se",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If we don’t think too much",
-  "russian_example_sentence": "Если мы не будем слишком много думать",
-  "turkish_example_sentence": "Çok fazla düşünmesek",
-  "turkish_example_sentence_with_blank": "Çok fazla ______"
+  "english_example_sentence": "If we were not to think about the stressful exam situation",
+  "russian_example_sentence": "Если бы мы не думали о стрессовой ситуации экзамена",
+  "turkish_example_sentence": "Biz stresli sınav durumunu düşünmesek daha rahat uyuyabilirdik",
+  "turkish_example_sentence_with_blank": "Biz stresli sınav durumunu ______ daha rahat uyuyabilirdik"
 }

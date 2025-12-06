@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gitmediğinizde",
     "root": "git",
-    "tense_affix": "tik",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "siz",
-    "personal_affix": "iniz",
+    "personal_affix": "inizde",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "When you don't go hiking, you watch TV.",
-  "russian_example_sentence": "Когда вы не отправляетесь в поход, вы смотрите телевизор.",
-  "turkish_example_sentence": "Siz yürüyüşe gitmediğinizde televizyon izliyorsunuz.",
-  "turkish_example_sentence_with_blank": "Siz yürüyüşe ______ televizyon izliyorsunuz."
+  "english_example_sentence": "When you did not go to the special holiday celebration last December",
+  "russian_example_sentence": "Когда вы не пошли на специальное праздничное торжество в прошлом декабре",
+  "turkish_example_sentence": "Siz geçen aralık özel tatil kutlamasına gitmediğinizde, arkadaşlarınız hayal kırıklığına uğradı",
+  "turkish_example_sentence_with_blank": "Siz geçen aralık özel tatil kutlamasına ______, arkadaşlarınız hayal kırıklığına uğradı"
 }

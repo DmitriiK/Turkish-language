@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "almazsanız",
     "root": "al",
-    "tense_affix": "mazsanız",
+    "tense_affix": "mazsa",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If you don't get the approval,",
-  "russian_example_sentence": "Если вы не получите одобрение,",
-  "turkish_example_sentence": "Siz onayı almazsanız, inşaata başlayamazsınız.",
-  "turkish_example_sentence_with_blank": "Siz onayı ______, inşaata başlayamazsınız."
+  "english_example_sentence": "If you do not get the required certificate, you will not be hired",
+  "russian_example_sentence": "Если вы не получите требуемый сертификат, вас не наймут",
+  "turkish_example_sentence": "Siz gerekli sertifikayı almazsanız, işe alınmayacaksınız",
+  "turkish_example_sentence_with_blank": "Siz gerekli sertifikayı ______, işe alınmayacaksınız"
 }

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "almazlarsa",
     "root": "al",
-    "tense_affix": "mazlarsa",
+    "tense_affix": "mazsa",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If they don't get the visa,",
-  "russian_example_sentence": "Если они не получат визу,",
-  "turkish_example_sentence": "Onlar vize almazlarsa, tatile gidemeyecekler.",
-  "turkish_example_sentence_with_blank": "Onlar vize ______, tatile gidemeyecekler."
+  "english_example_sentence": "If they do not get the visa approval, they will cancel the holiday",
+  "russian_example_sentence": "Если они не получат одобрение визы, они отменят отпуск",
+  "turkish_example_sentence": "Onlar vize onayını almazlarsa, tatili iptal edecekler",
+  "turkish_example_sentence_with_blank": "Onlar vize onayını ______, tatili iptal edecekler"
 }

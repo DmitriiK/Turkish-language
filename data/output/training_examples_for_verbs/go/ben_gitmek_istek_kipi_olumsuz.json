@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmeyeyim",
+    "verb_full": "gitmeyelim",
     "root": "git",
     "tense_affix": "e",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "yim",
     "polarity": "negative",
-    "negative_affix": "mey"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "Let me not go to the party today.",
-  "russian_example_sentence": "Позволь мне не идти на вечеринку сегодня.",
-  "turkish_example_sentence": "Bugün partiye gitmeyeyim.",
-  "turkish_example_sentence_with_blank": "Bugün partiye ______."
+  "english_example_sentence": "Let me not go to that crowded noisy market today",
+  "russian_example_sentence": "Позвольте мне не пойти на этот переполненный шумный рынок сегодня",
+  "turkish_example_sentence": "Ben bugün o kalabalık gürültülü pazara gitmeyelim",
+  "turkish_example_sentence_with_blank": "Ben bugün o kalabalık gürültülü pazara ______"
 }

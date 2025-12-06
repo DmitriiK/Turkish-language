@@ -4,17 +4,17 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylememeliyiz",
+    "verb_full": "söylememeli",
     "root": "söyle",
-    "tense_affix": "meli",
+    "tense_affix": "memeli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yiz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "We must not say anything offensive",
-  "russian_example_sentence": "Мы не должны говорить ничего обидного",
-  "turkish_example_sentence": "Biz hiçbir hakaret söylememeliyiz",
-  "turkish_example_sentence_with_blank": "Biz hiçbir hakaret ______"
+  "english_example_sentence": "We must not say inappropriate jokes here",
+  "russian_example_sentence": "Мы не должны говорить неуместные шутки здесь",
+  "turkish_example_sentence": "Biz burada uygunsuz fıkraları söylememeli",
+  "turkish_example_sentence_with_blank": "Biz burada uygunsuz fıkraları ______"
 }

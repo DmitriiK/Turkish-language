@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "söylemem",
     "root": "söyle",
-    "tense_affix": "mez",
+    "tense_affix": "z",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "im",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "I never say bad words.",
-  "russian_example_sentence": "Я никогда не говорю плохие слова.",
-  "turkish_example_sentence": "Ben asla kötü sözler söylemem.",
-  "turkish_example_sentence_with_blank": "Ben asla kötü sözler ______."
+  "english_example_sentence": "I do not say harsh words to anyone",
+  "russian_example_sentence": "Я не говорю резкие слова никому",
+  "turkish_example_sentence": "Ben kimseye sert ve kırıcı sözleri söylemem",
+  "turkish_example_sentence_with_blank": "Ben kimseye sert ve kırıcı sözleri ______"
 }

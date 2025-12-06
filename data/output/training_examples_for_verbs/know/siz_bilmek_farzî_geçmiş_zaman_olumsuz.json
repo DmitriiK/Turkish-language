@@ -4,17 +4,17 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilmemişseniz",
+    "verb_full": "bilmemiş olsanız",
     "root": "bil",
-    "tense_affix": "mişse",
+    "tense_affix": "miş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If you hadn't known about the party...",
-  "russian_example_sentence": "Если бы вы не знали о вечеринке...",
-  "turkish_example_sentence": "Siz yarınki partiyi bilmemişseniz, gelmezdiniz.",
-  "turkish_example_sentence_with_blank": "Siz yarınki partiyi ______, gelmezdiniz."
+  "english_example_sentence": "If you had not known the complex problem",
+  "russian_example_sentence": "Если бы вы не знали сложную проблему",
+  "turkish_example_sentence": "Siz karmaşık sorunu bilmemiş olsanız",
+  "turkish_example_sentence_with_blank": "Siz karmaşık sorunu ______"
 }

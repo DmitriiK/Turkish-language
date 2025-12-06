@@ -4,17 +4,17 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylerlerse",
+    "verb_full": "söylerlersa",
     "root": "söyle",
-    "tense_affix": "erlerse",
+    "tense_affix": "rse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "ler",
+    "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they say the truth, we will accept.",
-  "russian_example_sentence": "Если они скажут правду, мы это примем.",
-  "turkish_example_sentence": "Eğer doğruyu söylerlerse, kabul ederiz.",
-  "turkish_example_sentence_with_blank": "Eğer doğruyu ______, kabul ederiz."
+  "english_example_sentence": "If they say their experiences, everyone will learn something new",
+  "russian_example_sentence": "Если они скажут свой опыт, все узнают что-то новое",
+  "turkish_example_sentence": "Onlar ilginç deneyimlerini söylerlersa, herkes yeni şeyler öğrenecek",
+  "turkish_example_sentence_with_blank": "Onlar ilginç deneyimlerini ______, herkes yeni şeyler öğrenecek"
 }

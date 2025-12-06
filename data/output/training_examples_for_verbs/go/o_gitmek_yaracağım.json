@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gidecek",
     "root": "git",
-    "tense_affix": "eceğ",
+    "tense_affix": "ecek",
     "verb_tense": "yaracağım",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He will go to the new cafe.",
-  "russian_example_sentence": "Он пойдет в новое кафе.",
-  "turkish_example_sentence": "O yeni kafeye gidecek.",
-  "turkish_example_sentence_with_blank": "O yeni kafeye ______."
+  "english_example_sentence": "He will go to the old historical museum",
+  "russian_example_sentence": "Он пойдет в старый исторический музей",
+  "turkish_example_sentence": "O eski tarihi müzeye gidecek",
+  "turkish_example_sentence_with_blank": "O eski tarihi müzeye ______"
 }

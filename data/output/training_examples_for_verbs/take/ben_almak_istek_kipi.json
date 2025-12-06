@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "alayım",
     "root": "al",
-    "tense_affix": "ay",
+    "tense_affix": "a",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "yım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Let me take the red apple",
-  "russian_example_sentence": "Пусть я возьму красное яблоко",
-  "turkish_example_sentence": "Ben kırmızı elmayı alayım",
-  "turkish_example_sentence_with_blank": "Ben kırmızı elmayı ______"
+  "english_example_sentence": "Let me take the fresh red apple from the table",
+  "russian_example_sentence": "Позвольте мне взять свежее красное яблоко со стола",
+  "turkish_example_sentence": "Ben masadan taze kırmızı elmayı alayım",
+  "turkish_example_sentence_with_blank": "Ben masadan taze kırmızı elmayı ______"
 }

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "yaparsam",
     "root": "yap",
-    "tense_affix": "arsa",
+    "tense_affix": "ar",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I make breakfast, you can eat.",
-  "russian_example_sentence": "Если я приготовлю завтрак, ты сможешь поесть.",
-  "turkish_example_sentence": "Kahvaltıyı yaparsam, yiyebilirsin.",
-  "turkish_example_sentence_with_blank": "Kahvaltıyı ______, yiyebilirsin."
+  "english_example_sentence": "If I make a delicious chocolate cake tomorrow",
+  "russian_example_sentence": "Если я завтра сделаю вкусный шоколадный торт",
+  "turkish_example_sentence": "Eğer ben yarın lezzetli çikolatalı kek yaparsam, aileme sunacağım",
+  "turkish_example_sentence_with_blank": "Eğer ben yarın lezzetli çikolatalı kek ______, aileme sunacağım"
 }

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "söylemediğinde",
     "root": "söyle",
-    "tense_affix": "dik",
+    "tense_affix": "mediğ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "o",
-    "personal_affix": "i",
+    "personal_affix": "inde",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "When she doesn’t say anything useful, I’m confused",
-  "russian_example_sentence": "Когда она не говорит ничего полезного, я теряюсь",
-  "turkish_example_sentence": "O yararlı bir şey söylemediğinde, ben kafam karışıyor",
-  "turkish_example_sentence_with_blank": "O yararlı bir şey ______, ben kafam karışıyor"
+  "english_example_sentence": "When she doesn't say her opinion, we miss her perspective",
+  "russian_example_sentence": "Когда она не говорит свое мнение, мы упускаем ее точку зрения",
+  "turkish_example_sentence": "O kendi fikrini söylemediğinde, onun bakış açısını kaçırıyoruz",
+  "turkish_example_sentence_with_blank": "O kendi fikrini ______, onun bakış açısını kaçırıyoruz"
 }

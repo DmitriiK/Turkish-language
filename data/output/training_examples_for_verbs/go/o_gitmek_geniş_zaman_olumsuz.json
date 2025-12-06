@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gitmez",
     "root": "git",
-    "tense_affix": "mez",
+    "tense_affix": "er",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "She doesn't go to the library",
-  "russian_example_sentence": "Она не ходит в библиотеку",
-  "turkish_example_sentence": "O kütüphaneye gitmez",
-  "turkish_example_sentence_with_blank": "O kütüphaneye ______"
+  "english_example_sentence": "She does not go to expensive fancy restaurants",
+  "russian_example_sentence": "Она не ходит в дорогие модные рестораны",
+  "turkish_example_sentence": "O pahalı şık restoranlara gitmez",
+  "turkish_example_sentence_with_blank": "O pahalı şık restoranlara ______"
 }

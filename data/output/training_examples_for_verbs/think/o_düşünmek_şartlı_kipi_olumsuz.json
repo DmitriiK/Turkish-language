@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "düşünmezse",
     "root": "düşün",
-    "tense_affix": "mezse",
+    "tense_affix": "ürse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "mez"
   },
-  "english_example_sentence": "If she doesn’t think, she will lose",
-  "russian_example_sentence": "Если она не подумает, она проиграет",
-  "turkish_example_sentence": "O düşünmezse, kaybedecek",
-  "turkish_example_sentence_with_blank": "O ______, kaybedecek"
+  "english_example_sentence": "If she doesn't think about the complex situation logically",
+  "russian_example_sentence": "Если она не будет думать о сложной ситуации логически",
+  "turkish_example_sentence": "Eğer o karmaşık durumu mantıklı şekilde düşünmezse, hata yapabilir",
+  "turkish_example_sentence_with_blank": "Eğer o karmaşık durumu mantıklı şekilde ______, hata yapabilir"
 }

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "yapmazsanız",
     "root": "yap",
-    "tense_affix": "mazsa",
+    "tense_affix": "maz",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If you don't make coffee, I will leave.",
-  "russian_example_sentence": "Если вы не сварите кофе, я уйду.",
-  "turkish_example_sentence": "Eğer kahve yapmazsanız, ben gideceğim.",
-  "turkish_example_sentence_with_blank": "Eğer kahve ______, ben gideceğim."
+  "english_example_sentence": "If you do not make a decision soon",
+  "russian_example_sentence": "Если вы не примете решение скоро",
+  "turkish_example_sentence": "Eğer siz hızlı bir karar yapmazsanız, fırsat kaçacak",
+  "turkish_example_sentence_with_blank": "Eğer siz hızlı bir karar ______, fırsat kaçacak"
 }

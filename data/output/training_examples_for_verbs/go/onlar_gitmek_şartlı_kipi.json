@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "giderlerse",
     "root": "git",
-    "tense_affix": "er",
+    "tense_affix": "erse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "lerse",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they go home, they will eat dinner.",
-  "russian_example_sentence": "Если они пойдут домой, они поужинают.",
-  "turkish_example_sentence": "Eve giderlerse akşam yemeği yiyecekler.",
-  "turkish_example_sentence_with_blank": "Eve ______ akşam yemeği yiyecekler."
+  "english_example_sentence": "If they go to the park, they will play exciting games",
+  "russian_example_sentence": "Если они пойдут в парк, они будут играть в интересные игры",
+  "turkish_example_sentence": "Onlar yeşil parkta giderlerse, eğlenceli futbol maçını oynayacaklar",
+  "turkish_example_sentence_with_blank": "Onlar yeşil parkta ______, eğlenceli futbol maçını oynayacaklar"
 }

@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "almazsınız",
     "root": "al",
-    "tense_affix": "maz",
+    "tense_affix": "ır",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "sınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You don't get much sunshine here",
-  "russian_example_sentence": "Вы здесь не получаете много солнечного света",
-  "turkish_example_sentence": "Siz burada fazla güneş ışığı almazsınız",
-  "turkish_example_sentence_with_blank": "Siz burada fazla güneş ışığı ______"
+  "english_example_sentence": "You do not get refunds without receipts",
+  "russian_example_sentence": "Вы не получаете возврат без квитанций",
+  "turkish_example_sentence": "Siz makbuz olmadan geri ödeme almazsınız",
+  "turkish_example_sentence_with_blank": "Siz makbuz olmadan geri ödeme ______"
 }

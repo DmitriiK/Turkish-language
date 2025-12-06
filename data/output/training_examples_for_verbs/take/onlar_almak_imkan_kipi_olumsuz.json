@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "alamazlar",
     "root": "al",
-    "tense_affix": "amaz",
+    "tense_affix": "ama",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "zlar",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "They cannot take your valuable painting",
-  "russian_example_sentence": "Они не могут взять вашу ценную картину",
-  "turkish_example_sentence": "Onlar değerli tablonuzu alamazlar",
-  "turkish_example_sentence_with_blank": "Onlar değerli tablonuzu ______"
+  "english_example_sentence": "They cannot take the dangerous sharp knife from the kitchen",
+  "russian_example_sentence": "Они не могут взять опасный острый нож из кухни",
+  "turkish_example_sentence": "Onlar mutfaktan tehlikeli keskin bıçağı alamazlar",
+  "turkish_example_sentence_with_blank": "Onlar mutfaktan tehlikeli keskin bıçağı ______"
 }

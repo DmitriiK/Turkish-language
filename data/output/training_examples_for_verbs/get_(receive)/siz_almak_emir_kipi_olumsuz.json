@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "almayın",
     "root": "al",
-    "tense_affix": "",
+    "tense_affix": "ın",
     "verb_tense": "emir_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "mayın",
+    "personal_affix": "ın",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "Do not get the expensive jewelry.",
-  "russian_example_sentence": "Не берите дорогие украшения.",
-  "turkish_example_sentence": "Pahalı mücevherleri almayın.",
-  "turkish_example_sentence_with_blank": "Pahalı mücevherleri ______."
+  "english_example_sentence": "Don't take the fragile white porcelain dishes from the high shelf",
+  "russian_example_sentence": "Не берите хрупкую белую фарфоровую посуду с высокой полки",
+  "turkish_example_sentence": "Yüksek raftan kırılgan beyaz porselen tabakları almayın",
+  "turkish_example_sentence_with_blank": "Yüksek raftan kırılgan beyaz porselen tabakları ______"
 }

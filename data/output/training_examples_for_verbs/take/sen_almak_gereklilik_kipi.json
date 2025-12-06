@@ -4,17 +4,17 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "alman lazım",
+    "verb_full": "almanız lazım",
     "root": "al",
     "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "man",
+    "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to take your shoes off",
-  "russian_example_sentence": "Тебе нужно снять свои ботинки",
-  "turkish_example_sentence": "Sen ayakkabılarını alman lazım",
-  "turkish_example_sentence_with_blank": "Sen ayakkabılarını ______"
+  "english_example_sentence": "You need to take the blue notebook to class",
+  "russian_example_sentence": "Тебе нужно взять синюю тетрадь в класс",
+  "turkish_example_sentence": "Sen sınıfa mavi defteri almanız lazım",
+  "turkish_example_sentence_with_blank": "Sen sınıfa mavi defteri ______"
 }

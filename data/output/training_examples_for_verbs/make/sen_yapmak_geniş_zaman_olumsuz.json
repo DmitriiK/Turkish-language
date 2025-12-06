@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "yapmazsın",
     "root": "yap",
-    "tense_affix": "z",
+    "tense_affix": "ar",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "sın",
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "m"
   },
-  "english_example_sentence": "You don't make cakes at parties",
-  "russian_example_sentence": "Ты не печёшь торты на вечеринках",
-  "turkish_example_sentence": "Sen partilerde pasta yapmazsın",
-  "turkish_example_sentence_with_blank": "Sen partilerde pasta ______"
+  "english_example_sentence": "You do not make quick decisions about your future career plans",
+  "russian_example_sentence": "Ты не делаешь быстрые решения о своих планах будущей карьеры",
+  "turkish_example_sentence": "Sen gelecek kariyer planların hakkında hızlı kararlar yapmazsın",
+  "turkish_example_sentence_with_blank": "Sen gelecek kariyer planların hakkında hızlı kararlar ______"
 }

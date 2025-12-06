@@ -4,17 +4,17 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylememelisiniz",
+    "verb_full": "söylememezsiniz",
     "root": "söyle",
-    "tense_affix": "meli",
+    "tense_affix": "memeli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "siniz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You must not say unnecessary things",
-  "russian_example_sentence": "Вы не должны говорить ненужных вещей",
-  "turkish_example_sentence": "Siz gereksiz şeyler söylememelisiniz",
-  "turkish_example_sentence_with_blank": "Siz gereksiz şeyler ______"
+  "english_example_sentence": "You must not say confidential information publicly",
+  "russian_example_sentence": "Вы не должны говорить конфиденциальную информацию публично",
+  "turkish_example_sentence": "Siz gizli bilgileri kamuya söylememezsiniz",
+  "turkish_example_sentence_with_blank": "Siz gizli bilgileri kamuya ______"
 }

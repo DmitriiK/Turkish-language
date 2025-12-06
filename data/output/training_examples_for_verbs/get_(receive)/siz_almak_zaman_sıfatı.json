@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "aldığınızda",
     "root": "al",
-    "tense_affix": "dık",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "siz",
-    "personal_affix": "ınız",
+    "personal_affix": "ınızda",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When you get the bill, please pay promptly.",
-  "russian_example_sentence": "Когда вы получите счет, пожалуйста, оплатите быстро.",
-  "turkish_example_sentence": "Siz faturayı aldığınızda, lütfen hemen ödeyin.",
-  "turkish_example_sentence_with_blank": "Siz faturayı ______, lütfen hemen ödeyin."
+  "english_example_sentence": "When you receive the official invitation, you confirm your attendance",
+  "russian_example_sentence": "Когда вы получаете официальное приглашение, вы подтверждаете свое присутствие",
+  "turkish_example_sentence": "Siz resmi davetiyeyi aldığınızda, katılımınızı onaylıyorsunuz",
+  "turkish_example_sentence_with_blank": "Siz resmi davetiyeyi ______, katılımınızı onaylıyorsunuz"
 }

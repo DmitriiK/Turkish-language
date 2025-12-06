@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "almam lazım",
     "root": "al",
-    "tense_affix": "mam",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I need to get new shoes.",
-  "russian_example_sentence": "Мне нужно купить новые туфли.",
-  "turkish_example_sentence": "Ben yeni ayakkabılar almam lazım.",
-  "turkish_example_sentence_with_blank": "Ben yeni ayakkabılar ______."
+  "english_example_sentence": "I need to get fresh bread from the bakery",
+  "russian_example_sentence": "Мне нужно получить свежий хлеб из пекарни",
+  "turkish_example_sentence": "Ben fırından taze ekmek almam lazım",
+  "turkish_example_sentence_with_blank": "Ben fırından taze ekmek ______"
 }

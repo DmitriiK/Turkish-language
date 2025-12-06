@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmesen",
+    "verb_full": "gitmazsen",
     "root": "git",
     "tense_affix": "se",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "If you didn't go to the class",
-  "russian_example_sentence": "Если бы ты не пошел на урок",
-  "turkish_example_sentence": "Eğer derse gitmesen",
-  "turkish_example_sentence_with_blank": "Eğer derse ______"
+  "english_example_sentence": "If you were not to go to the boring conference",
+  "russian_example_sentence": "Если бы ты не пошел на скучную конференцию",
+  "turkish_example_sentence": "Sen sıkıcı bilimsel konferansa gitmazsen daha fazla vakit bulabilirsin",
+  "turkish_example_sentence_with_blank": "Sen sıkıcı bilimsel konferansa ______ daha fazla vakit bulabilirsin"
 }

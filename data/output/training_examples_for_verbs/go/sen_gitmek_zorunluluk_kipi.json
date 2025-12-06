@@ -4,7 +4,7 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmelisin",
+    "verb_full": "gitmelissin",
     "root": "git",
     "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You must go to class now",
-  "russian_example_sentence": "Ты должен пойти на урок сейчас",
-  "turkish_example_sentence": "Sen şimdi derse gitmelisin",
-  "turkish_example_sentence_with_blank": "Sen şimdi derse ______"
+  "english_example_sentence": "You must go to the dentist for your painful tooth",
+  "russian_example_sentence": "Ты должен идти к стоматологу для своего больного зуба",
+  "turkish_example_sentence": "Sen ağrıyan diş için diş hekimine gitmelissin",
+  "turkish_example_sentence_with_blank": "Sen ağrıyan diş için diş hekimine ______"
 }

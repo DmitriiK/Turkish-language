@@ -4,17 +4,17 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilmemişsek",
+    "verb_full": "bilmemiş olsak",
     "root": "bil",
-    "tense_affix": "mişse",
+    "tense_affix": "miş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If we hadn't known the location...",
-  "russian_example_sentence": "Если бы мы не знали местоположение...",
-  "turkish_example_sentence": "Biz gizli konumu bilmemişsek, kaybolurduk.",
-  "turkish_example_sentence_with_blank": "Biz gizli konumu ______, kaybolurduk."
+  "english_example_sentence": "If we had not known the painful truth",
+  "russian_example_sentence": "Если бы мы не знали болезненную правду",
+  "turkish_example_sentence": "Biz acı gerçeği bilmemiş olsak",
+  "turkish_example_sentence_with_blank": "Biz acı gerçeği ______"
 }

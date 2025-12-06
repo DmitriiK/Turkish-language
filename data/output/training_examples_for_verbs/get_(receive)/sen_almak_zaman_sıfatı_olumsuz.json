@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "almadığında",
     "root": "al",
-    "tense_affix": "dık",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "sen",
-    "personal_affix": "ın",
+    "personal_affix": "ında",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "When you don't get enough sleep, focus suffers.",
-  "russian_example_sentence": "Когда ты не получаешь достаточно сна, страдает концентрация.",
-  "turkish_example_sentence": "Sen yeterli uykuyu almadığında, odaklanma zorlaşır.",
-  "turkish_example_sentence_with_blank": "Sen yeterli uykuyu ______, odaklanma zorlaşır."
+  "english_example_sentence": "When you don't receive the expected salary, you feel disappointed",
+  "russian_example_sentence": "Когда ты не получаешь ожидаемую зарплату, ты чувствуешь разочарование",
+  "turkish_example_sentence": "Sen beklenen maaşı almadığında, hayal kırıklığına uğruyorsun",
+  "turkish_example_sentence_with_blank": "Sen beklenen maaşı ______, hayal kırıklığına uğruyorsun"
 }

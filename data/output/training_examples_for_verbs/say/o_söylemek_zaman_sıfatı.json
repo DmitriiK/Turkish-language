@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "söylediğinde",
     "root": "söyle",
-    "tense_affix": "dik",
+    "tense_affix": "diğ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "o",
-    "personal_affix": "i",
+    "personal_affix": "inde",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When he says advice, everyone listens",
-  "russian_example_sentence": "Когда он говорит совет, все слушают",
-  "turkish_example_sentence": "O öneri söylediğinde, herkes dinliyor",
-  "turkish_example_sentence_with_blank": "O öneri ______, herkes dinliyor"
+  "english_example_sentence": "When he says funny jokes, the whole room laughs loudly",
+  "russian_example_sentence": "Когда он говорит смешные шутки, вся комната громко смеется",
+  "turkish_example_sentence": "O komik fıkraları söylediğinde, bütün oda yüksek sesle gülüyor",
+  "turkish_example_sentence_with_blank": "O komik fıkraları ______, bütün oda yüksek sesle gülüyor"
 }

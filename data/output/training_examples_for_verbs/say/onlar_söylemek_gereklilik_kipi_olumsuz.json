@@ -4,17 +4,17 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylememeleri lazım",
+    "verb_full": "söylemememeları lazım",
     "root": "söyle",
     "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "leri",
+    "personal_affix": "ları",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "They must not say anything bad.",
-  "russian_example_sentence": "Им не стоит говорить ничего плохого.",
-  "turkish_example_sentence": "Onların kötü bir şey söylememeleri lazım.",
-  "turkish_example_sentence_with_blank": "Onların kötü bir şey ______."
+  "english_example_sentence": "They need to not say any false information",
+  "russian_example_sentence": "Они не должны говорить никакую ложную информацию",
+  "turkish_example_sentence": "Onlar yanlış bilgileri hiç söylemememeları lazım",
+  "turkish_example_sentence_with_blank": "Onlar yanlış bilgileri hiç ______"
 }

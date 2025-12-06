@@ -4,17 +4,17 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilmişlerse",
+    "verb_full": "bilmiş olsalar",
     "root": "bil",
-    "tense_affix": "mişlerse",
+    "tense_affix": "miş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": null,
+    "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they had known the danger...",
-  "russian_example_sentence": "Если бы они знали об опасности...",
-  "turkish_example_sentence": "Onlar yaklaşan tehlikeyi bilmişlerse, kaçarlardı.",
-  "turkish_example_sentence_with_blank": "Onlar yaklaşan tehlikeyi ______, kaçarlardı."
+  "english_example_sentence": "If they had known the interesting fact",
+  "russian_example_sentence": "Если бы они знали интересный факт",
+  "turkish_example_sentence": "Onlar ilginç gerçeği bilmiş olsalar",
+  "turkish_example_sentence_with_blank": "Onlar ilginç gerçeği ______"
 }

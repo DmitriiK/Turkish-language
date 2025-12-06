@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "düşünmesem",
     "root": "düşün",
-    "tense_affix": "mese",
+    "tense_affix": "se",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If I don’t think about my problems",
-  "russian_example_sentence": "Если я не думаю о своих проблемах",
-  "turkish_example_sentence": "Sorunlarımı düşünmesem",
-  "turkish_example_sentence_with_blank": "Sorunlarımı ______"
+  "english_example_sentence": "If I were not to think about the sad memories today",
+  "russian_example_sentence": "Если бы я не думал о грустных воспоминаниях сегодня",
+  "turkish_example_sentence": "Ben bugün üzücü anıları düşünmesem daha mutlu olurdum",
+  "turkish_example_sentence_with_blank": "Ben bugün üzücü anıları ______ daha mutlu olurdum"
 }

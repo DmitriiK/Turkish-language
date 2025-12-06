@@ -4,7 +4,7 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylememişseniz",
+    "verb_full": "söylememişsiniz",
     "root": "söyle",
     "tense_affix": "mişse",
     "verb_tense": "farzî_geçmiş_zaman",
@@ -13,8 +13,8 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If you didn't say that, there would be no problem.",
-  "russian_example_sentence": "Если вы этого не сказали, проблем бы не было.",
-  "turkish_example_sentence": "Eğer bunu söylememişseniz, sorun olmazdı.",
-  "turkish_example_sentence_with_blank": "Eğer bunu ______, sorun olmazdı."
+  "english_example_sentence": "If you had not said those critical remarks to the students",
+  "russian_example_sentence": "Если бы вы не сказали те критические замечания студентам",
+  "turkish_example_sentence": "Siz öğrencilere o eleştirel yorumları söylememişsiniz, onlar daha güvenli hissedebilirdi",
+  "turkish_example_sentence_with_blank": "Siz öğrencilere o eleştirel yorumları ______, onlar daha güvenli hissedebilirdi"
 }

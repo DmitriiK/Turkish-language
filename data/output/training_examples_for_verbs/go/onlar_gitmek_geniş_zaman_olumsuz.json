@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gitmezler",
     "root": "git",
-    "tense_affix": "mez",
+    "tense_affix": "er",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "They don't go to concerts",
-  "russian_example_sentence": "Они не ходят на концерты",
-  "turkish_example_sentence": "Onlar konserlere gitmezler",
-  "turkish_example_sentence_with_blank": "Onlar konserlere ______"
+  "english_example_sentence": "They do not go to the boring suburban cinema regularly",
+  "russian_example_sentence": "Они не ходят в скучный пригородный кинотеатр регулярно",
+  "turkish_example_sentence": "Onlar sıkıcı banliyö sinemasına düzenli gitmezler",
+  "turkish_example_sentence_with_blank": "Onlar sıkıcı banliyö sinemasına düzenli ______"
 }

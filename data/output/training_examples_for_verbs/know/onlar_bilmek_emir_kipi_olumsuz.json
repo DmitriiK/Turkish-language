@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "bilmesinler",
     "root": "bil",
-    "tense_affix": "sinler",
+    "tense_affix": "",
     "verb_tense": "emir_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "sinler",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "Don't let them know the confidential business strategy",
-  "russian_example_sentence": "Не позволяйте им знать конфиденциальную бизнес-стратегию",
-  "turkish_example_sentence": "Onlar gizli ticari stratejisini kesinlikle bilmesinler",
-  "turkish_example_sentence_with_blank": "Onlar gizli ticari stratejisini kesinlikle ______"
+  "english_example_sentence": "Let them not know about the financial difficulties of the organization",
+  "russian_example_sentence": "Пусть они не знают о финансовых трудностях организации",
+  "turkish_example_sentence": "Onlar kuruluşun ciddi mali sorunlarını bilmesinler",
+  "turkish_example_sentence_with_blank": "Onlar kuruluşun ciddi mali sorunlarını ______"
 }

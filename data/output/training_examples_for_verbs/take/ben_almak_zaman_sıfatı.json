@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "aldığımda",
     "root": "al",
-    "tense_affix": "dık",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "ben",
-    "personal_affix": "ım",
+    "personal_affix": "ımda",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I take the umbrella when it rains.",
-  "russian_example_sentence": "Я беру зонтик, когда идет дождь.",
-  "turkish_example_sentence": "Yağmur yağdığında şemsiyeyi aldığımda dışarı çıkarım.",
-  "turkish_example_sentence_with_blank": "Yağmur yağdığında şemsiyeyi ______ dışarı çıkarım."
+  "english_example_sentence": "When I take the red apple from the table",
+  "russian_example_sentence": "Когда я беру красное яблоко со стола",
+  "turkish_example_sentence": "Ben kırmızı elmayı masadan aldığımda, kardeşim bana baktı",
+  "turkish_example_sentence_with_blank": "Ben kırmızı elmayı masadan ______, kardeşim bana baktı"
 }

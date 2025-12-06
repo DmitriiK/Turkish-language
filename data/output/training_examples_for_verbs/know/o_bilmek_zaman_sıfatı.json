@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "bildiğinde",
     "root": "bil",
-    "tense_affix": "dik",
+    "tense_affix": "diğ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "o",
-    "personal_affix": "i",
+    "personal_affix": "nde",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When he knows, he will tell",
-  "russian_example_sentence": "Когда он знает, он расскажет",
-  "turkish_example_sentence": "O karmaşık konuyu bildiğinde, anlatacak",
-  "turkish_example_sentence_with_blank": "O karmaşık konuyu ______, anlatacak"
+  "english_example_sentence": "When he knows the ancient history, he tells fascinating stories",
+  "russian_example_sentence": "Когда он знает древнюю историю, он рассказывает увлекательные истории",
+  "turkish_example_sentence": "Eski tarihi bildiğinde, ilginç hikayeler anlatıyor",
+  "turkish_example_sentence_with_blank": "Eski tarihi ______, ilginç hikayeler anlatıyor"
 }

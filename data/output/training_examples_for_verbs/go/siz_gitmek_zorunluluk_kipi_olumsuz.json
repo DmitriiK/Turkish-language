@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gitmemelisiniz",
     "root": "git",
-    "tense_affix": "memeli",
+    "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "siniz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You must not go to the forest alone",
-  "russian_example_sentence": "Вы не должны ходить в лес один",
-  "turkish_example_sentence": "Siz ormana yalnız gitmemelisiniz",
-  "turkish_example_sentence_with_blank": "Siz ormana yalnız ______"
+  "english_example_sentence": "You must not go to the abandoned old factory area",
+  "russian_example_sentence": "Вы не должны идти в заброшенный старый промышленный район",
+  "turkish_example_sentence": "Siz terk edilmiş eski fabrika bölgesine gitmemelisiniz",
+  "turkish_example_sentence_with_blank": "Siz terk edilmiş eski fabrika bölgesine ______"
 }

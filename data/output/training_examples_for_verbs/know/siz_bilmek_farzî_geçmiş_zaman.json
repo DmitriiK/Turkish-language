@@ -4,17 +4,17 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilmişseniz",
+    "verb_full": "bilmiş olsanız",
     "root": "bil",
-    "tense_affix": "mişse",
+    "tense_affix": "miş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "nız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you had known the truth...",
-  "russian_example_sentence": "Если бы вы знали правду...",
-  "turkish_example_sentence": "Siz önemli gerçeği bilmişseniz, tepki gösterirdiniz.",
-  "turkish_example_sentence_with_blank": "Siz önemli gerçeği ______, tepki gösterirdiniz."
+  "english_example_sentence": "If you had known the valuable information",
+  "russian_example_sentence": "Если бы вы знали ценную информацию",
+  "turkish_example_sentence": "Siz değerli bilgiyi bilmiş olsanız",
+  "turkish_example_sentence_with_blank": "Siz değerli bilgiyi ______"
 }

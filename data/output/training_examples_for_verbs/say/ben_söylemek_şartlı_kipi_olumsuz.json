@@ -4,17 +4,17 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylemezsem",
+    "verb_full": "söylemezse",
     "root": "söyle",
-    "tense_affix": "mezse",
+    "tense_affix": "mez",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
-    "negative_affix": "mez"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "If I don't say it, nobody will know.",
-  "russian_example_sentence": "Если я этого не скажу, никто не узнает.",
-  "turkish_example_sentence": "Eğer bunu söylemezsem, kimse bilmez.",
-  "turkish_example_sentence_with_blank": "Eğer bunu ______, kimse bilmez."
+  "english_example_sentence": "If I do not say anything, the situation will become worse",
+  "russian_example_sentence": "Если я ничего не скажу, ситуация станет хуже",
+  "turkish_example_sentence": "Ben hiçbir şey söylemezse, durum daha kötü olacak",
+  "turkish_example_sentence_with_blank": "Ben hiçbir şey ______, durum daha kötü olacak"
 }

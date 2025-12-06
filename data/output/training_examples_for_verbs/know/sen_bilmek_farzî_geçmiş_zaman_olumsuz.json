@@ -4,17 +4,17 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilmemişsen",
+    "verb_full": "bilmemiş olsaydın",
     "root": "bil",
-    "tense_affix": "mişse",
+    "tense_affix": "miş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If you hadn't known his address...",
-  "russian_example_sentence": "Если бы ты не знал его адрес...",
-  "turkish_example_sentence": "Sen onun yeni adresini bilmemişsen, mektubu gönderemezdin.",
-  "turkish_example_sentence_with_blank": "Sen onun yeni adresini ______, mektubu gönderemezdin."
+  "english_example_sentence": "If you had not known the dangerous situation",
+  "russian_example_sentence": "Если бы ты не знал опасную ситуацию",
+  "turkish_example_sentence": "Sen tehlikeli durumu bilmemiş olsaydın",
+  "turkish_example_sentence_with_blank": "Sen tehlikeli durumu ______"
 }

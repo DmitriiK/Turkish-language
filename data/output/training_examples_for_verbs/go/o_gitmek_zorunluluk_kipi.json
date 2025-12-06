@@ -4,7 +4,7 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmeli",
+    "verb_full": "gitmelidir",
     "root": "git",
     "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
@@ -13,8 +13,8 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He must go to the office soon",
-  "russian_example_sentence": "Он должен скоро пойти в офис",
-  "turkish_example_sentence": "O yakında ofise gitmeli",
-  "turkish_example_sentence_with_blank": "O yakında ofise ______"
+  "english_example_sentence": "He must go to the hospital for urgent medical treatment",
+  "russian_example_sentence": "Он должен идти в больницу для срочного медицинского лечения",
+  "turkish_example_sentence": "O acil tıbbi tedavi için hastaneye gitmelidir",
+  "turkish_example_sentence_with_blank": "O acil tıbbi tedavi için hastaneye ______"
 }

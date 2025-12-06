@@ -4,17 +4,17 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylememelisin",
+    "verb_full": "söylememezsin",
     "root": "söyle",
-    "tense_affix": "meli",
+    "tense_affix": "memeli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "sin",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You must not say any lies",
-  "russian_example_sentence": "Ты не должен говорить лжи",
-  "turkish_example_sentence": "Sen hiçbir yalan söylememelisin",
-  "turkish_example_sentence_with_blank": "Sen hiçbir yalan ______"
+  "english_example_sentence": "You must not say those secret details",
+  "russian_example_sentence": "Ты не должен говорить эти секретные детали",
+  "turkish_example_sentence": "Sen bu gizli ayrıntıları söylememezsin",
+  "turkish_example_sentence_with_blank": "Sen bu gizli ayrıntıları ______"
 }

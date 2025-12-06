@@ -4,17 +4,17 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilmemişsem",
+    "verb_full": "bilmemiş olsaydım",
     "root": "bil",
-    "tense_affix": "mişse",
+    "tense_affix": "miş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If I hadn't known the truth...",
-  "russian_example_sentence": "Если бы я не знал правду...",
-  "turkish_example_sentence": "Ben gerçeği bilmemişsem, yanlış karar verirdim.",
-  "turkish_example_sentence_with_blank": "Ben gerçeği ______, yanlış karar verirdim."
+  "english_example_sentence": "If I had not known the secret truth",
+  "russian_example_sentence": "Если бы я не знал секретную правду",
+  "turkish_example_sentence": "Ben gizli gerçeği bilmemiş olsaydım",
+  "turkish_example_sentence_with_blank": "Ben gizli gerçeği ______"
 }

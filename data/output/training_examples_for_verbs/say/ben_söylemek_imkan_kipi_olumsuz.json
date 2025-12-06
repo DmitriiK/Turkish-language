@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "söyleyemem",
     "root": "söyle",
-    "tense_affix": "yeme",
+    "tense_affix": "eme",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
-    "negative_affix": "yeme"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "I cannot say anything right now",
-  "russian_example_sentence": "Я не могу ничего сейчас сказать",
-  "turkish_example_sentence": "Ben şu anda hiçbir şey söyleyemem",
-  "turkish_example_sentence_with_blank": "Ben şu anda hiçbir şey ______"
+  "english_example_sentence": "I cannot say the secret to anyone today",
+  "russian_example_sentence": "Я не могу говорить секрет никому сегодня",
+  "turkish_example_sentence": "Ben bugün sırrı kimseye söyleyemem",
+  "turkish_example_sentence_with_blank": "Ben bugün sırrı kimseye ______"
 }

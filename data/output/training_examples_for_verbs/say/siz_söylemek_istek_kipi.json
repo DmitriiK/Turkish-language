@@ -4,17 +4,17 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söyleyesiniz",
+    "verb_full": "söyleyeysiniz",
     "root": "söyle",
-    "tense_affix": "yesiniz",
+    "tense_affix": "ye",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "siniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "May you quickly say your decision.",
-  "russian_example_sentence": "Скажите быстрее ваше решение.",
-  "turkish_example_sentence": "Siz kararınızı hızlıca söyleyesiniz.",
-  "turkish_example_sentence_with_blank": "Siz kararınızı hızlıca ______."
+  "english_example_sentence": "May you say the correct answer confidently",
+  "russian_example_sentence": "Пусть вы скажете правильный ответ уверенно",
+  "turkish_example_sentence": "Siz doğru cevabı güvenle söyleyeysiniz",
+  "turkish_example_sentence_with_blank": "Siz doğru cevabı güvenle ______"
 }

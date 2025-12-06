@@ -4,17 +4,17 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almamaları lazım",
+    "verb_full": "almamları lazım",
     "root": "al",
     "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "maları",
+    "personal_affix": "ları",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "They shouldn’t take anything from the table",
-  "russian_example_sentence": "Им нельзя брать что-либо со стола",
-  "turkish_example_sentence": "Onların masadan hiçbir şey almamaları lazım",
-  "turkish_example_sentence_with_blank": "Onların masadan hiçbir şey ______"
+  "english_example_sentence": "They should not take the poisonous toxic chemicals outside",
+  "russian_example_sentence": "Им не нужно брать ядовитые химические вещества на улицу",
+  "turkish_example_sentence": "Onlar dışarıya zehirli toksik kimyasalları almamları lazım",
+  "turkish_example_sentence_with_blank": "Onlar dışarıya zehirli toksik kimyasalları ______"
 }

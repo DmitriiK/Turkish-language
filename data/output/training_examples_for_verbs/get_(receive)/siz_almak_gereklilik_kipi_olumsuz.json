@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "almamanız lazım",
     "root": "al",
-    "tense_affix": "mamanız",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You don't need to get angry.",
-  "russian_example_sentence": "Вам не нужно сердиться.",
-  "turkish_example_sentence": "Siz kızgın almamanız lazım.",
-  "turkish_example_sentence_with_blank": "Siz kızgın ______."
+  "english_example_sentence": "You should not get the expired frozen food",
+  "russian_example_sentence": "Вам не нужно получать просроченную замороженную еду",
+  "turkish_example_sentence": "Siz süresi geçmiş dondurulmuş yiyeceği almamanız lazım",
+  "turkish_example_sentence_with_blank": "Siz süresi geçmiş dondurulmuş yiyeceği ______"
 }

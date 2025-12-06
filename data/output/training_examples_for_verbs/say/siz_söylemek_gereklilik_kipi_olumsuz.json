@@ -4,17 +4,17 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylememeniz lazım",
+    "verb_full": "söylemememeniz lazım",
     "root": "söyle",
     "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You should not say her secret.",
-  "russian_example_sentence": "Вам не стоит говорить ее секрет.",
-  "turkish_example_sentence": "Onun sırrını söylememeniz lazım.",
-  "turkish_example_sentence_with_blank": "Onun sırrını ______."
+  "english_example_sentence": "You all need to not say anything negative today",
+  "russian_example_sentence": "Вы все не должны говорить ничего отрицательного сегодня",
+  "turkish_example_sentence": "Siz bugün olumsuz hiçbir şey söylemememeniz lazım",
+  "turkish_example_sentence_with_blank": "Siz bugün olumsuz hiçbir şey ______"
 }

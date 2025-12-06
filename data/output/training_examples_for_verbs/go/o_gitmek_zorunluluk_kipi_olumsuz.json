@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmemeli",
+    "verb_full": "gitmemelidir",
     "root": "git",
-    "tense_affix": "memeli",
+    "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "He must not go to dangerous places",
-  "russian_example_sentence": "Он не должен ходить в опасные места",
-  "turkish_example_sentence": "O tehlikeli yerlere gitmemeli",
-  "turkish_example_sentence_with_blank": "O tehlikeli yerlere ______"
+  "english_example_sentence": "She must not go outside during the heavy rainstorm",
+  "russian_example_sentence": "Она не должна идти на улицу во время сильного ливня",
+  "turkish_example_sentence": "O şiddetli yağmur fırtınası sırasında dışarıya gitmemelidir",
+  "turkish_example_sentence_with_blank": "O şiddetli yağmur fırtınası sırasında dışarıya ______"
 }

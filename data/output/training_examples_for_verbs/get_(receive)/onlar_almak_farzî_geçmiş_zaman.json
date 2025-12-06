@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "almışlarsa",
     "root": "al",
-    "tense_affix": "mışlar",
+    "tense_affix": "mışsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "sa",
+    "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they had gotten the supplies...",
-  "russian_example_sentence": "Если бы они получили припасы...",
-  "turkish_example_sentence": "Malzemeleri almışlarsa, inşaatı tamamlayabilirlerdi.",
-  "turkish_example_sentence_with_blank": "Malzemeleri ______, inşaatı tamamlayabilirlerdi."
+  "english_example_sentence": "If they had received the purple certificate",
+  "russian_example_sentence": "Если бы они получили фиолетовый сертификат",
+  "turkish_example_sentence": "Onlar mor sertifikayı almışlarsa, sevinirlerdi",
+  "turkish_example_sentence_with_blank": "Onlar mor sertifikayı ______, sevinirlerdi"
 }

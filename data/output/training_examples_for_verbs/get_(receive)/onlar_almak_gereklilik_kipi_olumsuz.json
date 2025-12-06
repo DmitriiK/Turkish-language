@@ -4,17 +4,17 @@
   "verb_russian": "получать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almamaları lazım",
+    "verb_full": "almamları lazım",
     "root": "al",
-    "tense_affix": "mamaları",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ları",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "They don't need to get worried.",
-  "russian_example_sentence": "Им не нужно волноваться.",
-  "turkish_example_sentence": "Onlar endişeli almamaları lazım.",
-  "turkish_example_sentence_with_blank": "Onlar endişeli ______."
+  "english_example_sentence": "They should not get the dangerous sharp tools",
+  "russian_example_sentence": "Им не нужно получать опасные острые инструменты",
+  "turkish_example_sentence": "Onlar tehlikeli keskin araçları almamları lazım",
+  "turkish_example_sentence_with_blank": "Onlar tehlikeli keskin araçları ______"
 }

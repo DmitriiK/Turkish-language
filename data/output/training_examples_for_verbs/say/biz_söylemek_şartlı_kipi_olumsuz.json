@@ -4,17 +4,17 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylemezsek",
+    "verb_full": "söylemezse",
     "root": "söyle",
-    "tense_affix": "mezse",
+    "tense_affix": "mez",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
-    "negative_affix": "mez"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "If we don't say it soon, it'll be late.",
-  "russian_example_sentence": "Если мы этого не скажем, будет поздно.",
-  "turkish_example_sentence": "Eğer yakında söylemezsek, geç olacak.",
-  "turkish_example_sentence_with_blank": "Eğer yakında ______, geç olacak."
+  "english_example_sentence": "If we do not say our concerns, problems will grow bigger",
+  "russian_example_sentence": "Если мы не скажем о наших проблемах, они станут больше",
+  "turkish_example_sentence": "Biz endişelerimizi söylemezse, sorunlar daha da büyüyecek",
+  "turkish_example_sentence_with_blank": "Biz endişelerimizi ______, sorunlar daha da büyüyecek"
 }

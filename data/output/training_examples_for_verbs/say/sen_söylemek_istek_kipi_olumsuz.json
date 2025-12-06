@@ -4,17 +4,17 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylemeyesin",
+    "verb_full": "söylemesin",
     "root": "söyle",
-    "tense_affix": "yesin",
+    "tense_affix": "ye",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "sin",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "May you not say something rude.",
-  "russian_example_sentence": "Не говори ничего грубого.",
-  "turkish_example_sentence": "Sen kaba bir şey söylemeyesin.",
-  "turkish_example_sentence_with_blank": "Sen kaba bir şey ______."
+  "english_example_sentence": "May you not say hurtful things here",
+  "russian_example_sentence": "Пусть ты не говоришь обидные вещи здесь",
+  "turkish_example_sentence": "Sen burada kırıcı şeyler söylemesin",
+  "turkish_example_sentence_with_blank": "Sen burada kırıcı şeyler ______"
 }

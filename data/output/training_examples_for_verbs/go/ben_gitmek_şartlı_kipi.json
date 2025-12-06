@@ -6,15 +6,15 @@
   "turkish_verb": {
     "verb_full": "gidersem",
     "root": "git",
-    "tense_affix": "er",
+    "tense_affix": "erse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "sem",
+    "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I go to the park, I will run.",
-  "russian_example_sentence": "Если я пойду в парк, я побегу.",
-  "turkish_example_sentence": "Ben parka gidersem koşarım.",
-  "turkish_example_sentence_with_blank": "Ben parka ______ koşarım."
+  "english_example_sentence": "If I go to Istanbul, I will visit the Blue Mosque",
+  "russian_example_sentence": "Если я пойду в Стамбул, я посещу Голубую мечеть",
+  "turkish_example_sentence": "Ben İstanbul'a gidersem, ünlü Mavi Camii'yi ziyaret ederim",
+  "turkish_example_sentence_with_blank": "Ben İstanbul'a ______, ünlü Mavi Camii'yi ziyaret ederim"
 }

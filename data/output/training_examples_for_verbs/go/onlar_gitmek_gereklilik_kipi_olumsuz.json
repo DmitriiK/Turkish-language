@@ -4,17 +4,17 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmemeleri lazım",
+    "verb_full": "gitmmeleri lazım",
     "root": "git",
     "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "leri",
+    "personal_affix": "ları",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "They don’t need to go to the meeting",
-  "russian_example_sentence": "Им не нужно идти на собрание",
-  "turkish_example_sentence": "Onların toplantıya gitmemeleri lazım",
-  "turkish_example_sentence_with_blank": "Onların toplantıya ______"
+  "english_example_sentence": "They do not need to go to the noisy crowded stadium",
+  "russian_example_sentence": "Им не нужно идти на шумный переполненный стадион",
+  "turkish_example_sentence": "Onlar gürültülü kalabalık stadyuma gitmmeleri lazım",
+  "turkish_example_sentence_with_blank": "Onlar gürültülü kalabalık stadyuma ______"
 }
