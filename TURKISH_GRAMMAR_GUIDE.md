@@ -376,3 +376,47 @@ Note: two affix izafet
 *Note: Kadar - comparison by quantity. Gibi - for emotional comparison*
 - Sen benım gibi şarkı söylüyorsun. You sing like me
 - Kar gibi beyaz: white as snow. Taş gibi sert: Hard as stone. Buz gibi soğuk: cold as ice.
+
+---
+## Necessity Mood (Gereklilik Kipi)
+The necessity mood expresses obligation or necessity ("must", "have to", "need to"). It's formed using the verb root + **possessive suffix** + **lazım/gerek**.
+
+### Formation:
+**Verb root + possessive suffix + lazım/gerek**
+
+### Possessive Suffixes (used to indicate the subject):
+| Person | Possessive Suffix | Example with "yapmak" (to do) |
+|--------|-------------------|-------------------------------|
+| ben    | **-(i)m**        | yap**mam** lazım (I must do)  |
+| sen    | **-(i)n**        | yap**man** lazım (you must do)|
+| o      | **-(i)si**       | yap**ması** lazım (he/she must do)|
+| biz    | **-(i)miz**      | yap**mamız** lazım (we must do)|
+| siz    | **-(i)niz**      | yap**manız** lazım (you must do)|
+| onlar  | **-(i)ları**     | yap**maları** lazım (they must do)|
+
+**Note:** The suffixes **-m, -n, -si, -miz, -niz, -ları** are possessive affixes that show WHO must do the action.
+
+### Literal Translation:
+The structure translates literally as "my doing is necessary" / "your doing is necessary", etc.
+- **yapmam lazım** = "my doing is necessary" = "I must do"
+- **yapman lazım** = "your doing is necessary" = "you must do"
+- **yapması lazım** = "his/her doing is necessary" = "he/she must do"
+
+### Examples:
+- Ben gitmem lazım. (I must go - literally: "my going is necessary")
+- Sen çalışman gerek. (You need to work - literally: "your working is necessary")
+- O okuması lazım. (He/she must read - literally: "his/her reading is necessary")
+- Biz yememiz gerek. (We must eat - literally: "our eating is necessary")
+- Siz beklemeniz lazım. (You must wait - literally: "your waiting is necessary")
+- Onlar gelmeleri gerek. (They need to come - literally: "their coming is necessary")
+
+### Negative Form:
+Add **-ma/-me** before the possessive suffix:
+- Ben gitme**mem** lazım. (I must not go)
+- Sen çalışma**man** gerek. (You must not work)
+- O okuma**ması** lazım. (He/she must not read)
+
+### Why "possessive"?
+These are called possessive suffixes because they're the same suffixes used to show ownership:
+- ev**im** = my house (possessive)
+- yap**mam** = my doing (possessive in necessity mood)

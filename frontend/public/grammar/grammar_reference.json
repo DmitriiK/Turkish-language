@@ -754,31 +754,40 @@
     "vowel_harmony_link": false,
     "english": {
       "name": "Necessity Mood (Need to)",
-      "description": "The necessity mood (gereklilik kipi) uses 'lazım' or 'gerek' to express necessity in a less formal way than zorunluluk kipi.",
+      "description": "The necessity mood (gereklilik kipi) uses 'lazım' or 'gerek' to express necessity in a less formal way than zorunluluk kipi. The structure literally means 'my doing is necessary' where possessive suffixes indicate the subject.",
       "usage": [
         "Expressing necessity (I need to do)",
         "Less formal obligation",
         "Practical requirements"
       ],
       "formation": {
-        "positive": "Verb root + (possessive) + lazım/gerek",
-        "negative": "Verb root + ma/me + (possessive) + lazım/gerek",
-        "interrogative": "Verb root + (possessive) + lazım/gerek + mı/mi"
+        "positive": "Verb root + possessive suffix + lazım/gerek",
+        "negative": "Verb root + ma/me + possessive suffix + lazım/gerek",
+        "interrogative": "Verb root + possessive suffix + lazım/gerek + mı/mi",
+        "literal_meaning": "The construction literally translates as 'my/your/his doing is necessary'. The possessive suffixes (-m, -n, -sı, -mız, -nız, -ları) indicate WHO must perform the action, same suffixes used for possession (evim = my house, yapmam = my doing)."
       },
       "affixes": {
         "tense_markers": [
           {"affix": "lazım", "description": "Need to, necessary"},
           {"affix": "gerek", "description": "Need to, necessary (formal)"}
         ],
-        "personal_endings": [
-          {"pronoun": "ben", "ending": "m", "example": "yapmam lazım (I need to do)"},
-          {"pronoun": "sen", "ending": "n", "example": "yapman lazım (you need to do)"},
-          {"pronoun": "o", "ending": "sı", "example": "yapması lazım (he/she needs to do)"},
-          {"pronoun": "biz", "ending": "mız", "example": "yapmamız lazım (we need to do)"},
-          {"pronoun": "siz", "ending": "nız", "example": "yapmanız lazım (you need to do)"},
-          {"pronoun": "onlar", "ending": "ları", "example": "yapmaları lazım (they need to do)"}
+        "possessive_suffixes": [
+          {"pronoun": "ben", "suffix": "-(i)m", "example": "yapmam lazım (literally: my doing is necessary = I need to do)"},
+          {"pronoun": "sen", "suffix": "-(i)n", "example": "yapman lazım (literally: your doing is necessary = you need to do)"},
+          {"pronoun": "o", "suffix": "-(i)sı", "example": "yapması lazım (literally: his/her doing is necessary = he/she needs to do)"},
+          {"pronoun": "biz", "suffix": "-(i)miz", "example": "yapmamız lazım (literally: our doing is necessary = we need to do)"},
+          {"pronoun": "siz", "suffix": "-(i)niz", "example": "yapmanız lazım (literally: your doing is necessary = you need to do)"},
+          {"pronoun": "onlar", "suffix": "-(i)ları", "example": "yapmaları lazım (literally: their doing is necessary = they need to do)"}
         ],
-        "negative_affix": "ma/me before the possessive"
+        "personal_endings": [
+          {"pronoun": "ben", "ending": "m", "example": "yapmam lazım (I need to do)", "note": "possessive suffix -m"},
+          {"pronoun": "sen", "ending": "n", "example": "yapman lazım (you need to do)", "note": "possessive suffix -n"},
+          {"pronoun": "o", "ending": "sı", "example": "yapması lazım (he/she needs to do)", "note": "possessive suffix -sı"},
+          {"pronoun": "biz", "ending": "mız", "example": "yapmamız lazım (we need to do)", "note": "possessive suffix -mız"},
+          {"pronoun": "siz", "ending": "nız", "example": "yapmanız lazım (you need to do)", "note": "possessive suffix -nız"},
+          {"pronoun": "onlar", "ending": "ları", "example": "yapmaları lazım (they need to do)", "note": "possessive suffix -ları"}
+        ],
+        "negative_affix": "ma/me before the possessive suffix"
       },
       "examples": [
         {"turkish": "Gitmem lazım.", "translation": "I need to go.", "type": "positive"},
@@ -788,31 +797,40 @@
     },
     "russian": {
       "name": "Наклонение необходимости (нужно)",
-      "description": "Наклонение необходимости (gereklilik kipi) использует 'lazım' или 'gerek' для выражения необходимости менее формально, чем zorunluluk kipi.",
+      "description": "Наклонение необходимости (gereklilik kipi) использует 'lazım' или 'gerek' для выражения необходимости менее формально, чем zorunluluk kipi. Конструкция буквально означает 'моё делание необходимо', где притяжательные суффиксы указывают на субъект действия.",
       "usage": [
         "Выражение необходимости (мне нужно делать)",
         "Менее формальное обязательство",
         "Практические требования"
       ],
       "formation": {
-        "positive": "Основа глагола + (притяжательное) + lazım/gerek",
-        "negative": "Основа глагола + ma/me + (притяжательное) + lazım/gerek",
-        "interrogative": "Основа глагола + (притяжательное) + lazım/gerek + mı/mi"
+        "positive": "Основа глагола + притяжательный суффикс + lazım/gerek",
+        "negative": "Основа глагола + ma/me + притяжательный суффикс + lazım/gerek",
+        "interrogative": "Основа глагола + притяжательный суффикс + lazım/gerek + mı/mi",
+        "literal_meaning": "Конструкция буквально переводится как 'моё/твоё/его делание необходимо'. Притяжательные суффиксы (-m, -n, -sı, -mız, -nız, -ları) указывают, КТО должен выполнить действие, те же суффиксы используются для обозначения принадлежности (evim = мой дом, yapmam = моё делание)."
       },
       "affixes": {
         "tense_markers": [
           {"affix": "lazım", "description": "Нужно, необходимо"},
           {"affix": "gerek", "description": "Нужно, необходимо (формально)"}
         ],
-        "personal_endings": [
-          {"pronoun": "ben", "ending": "m", "example": "yapmam lazım (мне нужно делать)"},
-          {"pronoun": "sen", "ending": "n", "example": "yapman lazım (тебе нужно делать)"},
-          {"pronoun": "o", "ending": "sı", "example": "yapması lazım (ему/ей нужно делать)"},
-          {"pronoun": "biz", "ending": "mız", "example": "yapmamız lazım (нам нужно делать)"},
-          {"pronoun": "siz", "ending": "nız", "example": "yapmanız lazım (вам нужно делать)"},
-          {"pronoun": "onlar", "ending": "ları", "example": "yapmaları lazım (им нужно делать)"}
+        "possessive_suffixes": [
+          {"pronoun": "ben", "suffix": "-(i)m", "example": "yapmam lazım (буквально: моё делание необходимо = мне нужно делать)"},
+          {"pronoun": "sen", "suffix": "-(i)n", "example": "yapman lazım (буквально: твоё делание необходимо = тебе нужно делать)"},
+          {"pronoun": "o", "suffix": "-(i)sı", "example": "yapması lazım (буквально: его/её делание необходимо = ему/ей нужно делать)"},
+          {"pronoun": "biz", "suffix": "-(i)miz", "example": "yapmamız lazım (буквально: наше делание необходимо = нам нужно делать)"},
+          {"pronoun": "siz", "suffix": "-(i)niz", "example": "yapmanız lazım (буквально: ваше делание необходимо = вам нужно делать)"},
+          {"pronoun": "onlar", "suffix": "-(i)ları", "example": "yapmaları lazım (буквально: их делание необходимо = им нужно делать)"}
         ],
-        "negative_affix": "ma/me перед притяжательным"
+        "personal_endings": [
+          {"pronoun": "ben", "ending": "m", "example": "yapmam lazım (мне нужно делать)", "note": "притяжательный суффикс -m"},
+          {"pronoun": "sen", "ending": "n", "example": "yapman lazım (тебе нужно делать)", "note": "притяжательный суффикс -n"},
+          {"pronoun": "o", "ending": "sı", "example": "yapması lazım (ему/ей нужно делать)", "note": "притяжательный суффикс -sı"},
+          {"pronoun": "biz", "ending": "mız", "example": "yapmamız lazım (нам нужно делать)", "note": "притяжательный суффикс -mız"},
+          {"pronoun": "siz", "ending": "nız", "example": "yapmanız lazım (вам нужно делать)", "note": "притяжательный суффикс -nız"},
+          {"pronoun": "onlar", "ending": "ları", "example": "yapmaları lazım (им нужно делать)", "note": "притяжательный суффикс -ları"}
+        ],
+        "negative_affix": "ma/me перед притяжательным суффиксом"
       },
       "examples": [
         {"turkish": "Gitmem lazım.", "translation": "Мне нужно идти.", "type": "positive"},
