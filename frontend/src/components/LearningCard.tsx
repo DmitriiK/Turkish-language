@@ -831,6 +831,11 @@ export const LearningCard: React.FC<LearningCardProps> = ({
             ref={editableRef}
             contentEditable
             suppressContentEditableWarning
+            spellCheck={false}
+            autoCorrect="off"
+            autoCapitalize="none"
+            data-gramm="false"
+            data-lt-active="false"
             onInput={(e) => {
               // Get plain text content (this strips HTML tags)
               const newValue = e.currentTarget.textContent || '';
