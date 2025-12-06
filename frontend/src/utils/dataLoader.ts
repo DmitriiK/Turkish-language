@@ -37,11 +37,20 @@ class DataLoader {
   private verbIndexCache = new Map<string, VerbIndex>();
   private tenseLevelMapping: TenseLevelMapping | null = null;
   
+  // Cache-busting version - update this when data changes
+  private readonly DATA_VERSION = Date.now();
+  
   // Get the base URL for fetching data (works with Vite's base path)
   private getBasePath(): string {
     // In production, Vite sets the base path in import.meta.env
     const base = (import.meta as any).env?.BASE_URL;
     return base || '/';
+  }
+  
+  // Add cache-busting parameter to URLs
+  private addCacheBuster(url: string): string {
+    const separator = url.includes('?') ? '&' : '?';
+    return `${url}${separator}v=${this.DATA_VERSION}`;
   }
 
   async loadVerbsIndex(): Promise<VerbsIndex> {
@@ -51,7 +60,8 @@ class DataLoader {
 
     try {
       console.log('Loading main verbs index...');
-      const response = await fetch(`${this.getBasePath()}data/verbs_index.json`);
+      const url = this.addCacheBuster(`${this.getBasePath()}data/verbs_index.json`);
+      const response = await fetch(url, { cache: 'no-store' });
       if (!response.ok) {
         throw new Error('Failed to load verbs index');
       }
@@ -72,7 +82,8 @@ class DataLoader {
     }
 
     try {
-      const response = await fetch(`${this.getBasePath()}data/output/verb_indexes/${folderName}.json`);
+      const url = this.addCacheBuster(`${this.getBasePath()}data/output/verb_indexes/${folderName}.json`);
+      const response = await fetch(url, { cache: 'no-store' });
       if (!response.ok) {
         throw new Error(`Failed to load verb index for ${folderName}`);
       }
@@ -93,7 +104,8 @@ class DataLoader {
     }
 
     try {
-      const response = await fetch(`${this.getBasePath()}data/tense_level_mapping.json`);
+      const url = this.addCacheBuster(`${this.getBasePath()}data/tense_level_mapping.json`);
+      const response = await fetch(url, { cache: 'no-store' });
       if (!response.ok) {
         throw new Error('Failed to load tense level mapping');
       }
@@ -177,8 +189,8 @@ class DataLoader {
         return this.trainingExampleCache.get(cacheKey)!;
       }
 
-      const filePath = `${this.getBasePath()}${example.file_path}`;
-      const response = await fetch(filePath);
+      const filePath = this.addCacheBuster(`${this.getBasePath()}${example.file_path}`);
+      const response = await fetch(filePath, { cache: 'no-store' });
       if (!response.ok) {
         return null;
       }
