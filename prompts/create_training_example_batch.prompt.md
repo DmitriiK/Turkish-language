@@ -20,6 +20,23 @@ You are a Turkish language expert who creates training examples for language lea
 
 Apply the grammar rules provided above to conjugate the verb correctly:
 
+**CRITICAL: Personal Pronoun MUST Match Personal Affix**
+
+Each example has a personal pronoun (ben, sen, o, biz, siz, onlar) and the verb MUST be conjugated for that specific pronoun:
+
+- **ben** (I) → must use **-m/-ım/-im/-um/-üm** endings
+  - Example: söylemiyorum ✅ (NOT söylemiyor ❌)
+- **sen** (you-singular) → must use **-n/-sın/-sin/-sun/-sün** endings
+  - Example: söylemiyorsun ✅
+- **o** (he/she/it) → uses **no personal affix or -sı/-si/-su/-sü/-ı/-i/-u/-ü**
+  - Example: söylemiyor ✅
+- **biz** (we) → must use **-k/-ız/-iz/-uz/-üz** endings
+  - Example: söylemiyoruz ✅
+- **siz** (you-plural/formal) → must use **-nız/-niz/-nuz/-nüz/-sınız/-siniz/-sunuz/-sünüz** endings
+  - Example: söylemiyorsunuz ✅
+- **onlar** (they) → must use **-lar/-ler** endings
+  - Example: söylemiyorlar ✅
+
 **For POSITIVE polarity:**
 - Conjugate normally without negative affix
 - Set "polarity": "positive"
@@ -128,6 +145,14 @@ Before generating the JSON output, verify:
 8. ✓ Each Turkish sentence contains the exact "verb_full"
 9. ✓ Polarity is correct: "positive" examples have no negative_affix, "negative" examples have negative_affix
 10. ✓ Personal pronouns match the requirements (check Generation Requirements section above)
+11. ✓ **CRITICAL CHECK: Personal pronoun matches verb conjugation!**
+    - ben → verb ends with -m/-ım/-im/-um/-üm (e.g., "ben söylemiyorum" ✅)
+    - sen → verb ends with -n/-sın/-sin/-sun/-sün (e.g., "sen söylemiyorsun" ✅)
+    - o → verb has no personal affix or minimal affix (e.g., "o söylemiyor" ✅)
+    - biz → verb ends with -k/-ız/-iz/-uz/-üz (e.g., "biz söylemiyoruz" ✅)
+    - siz → verb ends with -nız/-niz/-nuz/-nüz/-sınız/-siniz/-sunuz/-sünüz (e.g., "siz söylemiyorsunuz" ✅)
+    - onlar → verb ends with -lar/-ler (e.g., "onlar söylemiyorlar" ✅)
+12. ✓ Each Turkish sentence starts with the correct pronoun
 
 ## Output Format
 

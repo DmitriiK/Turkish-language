@@ -21,6 +21,8 @@ export interface TrainingExample {
   russian_example_sentence: string;
   turkish_example_sentence: string;
   turkish_example_sentence_with_blank: string;
+  generated_by_model?: string; // Optional: LLM model that generated this example
+  generated_at?: string; // Optional: ISO 8601 timestamp of generation
 }
 
 export type LearnDirection = 

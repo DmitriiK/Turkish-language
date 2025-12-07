@@ -7,7 +7,7 @@ import atexit
 import signal
 import sys
 import requests
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import List, Tuple, Optional, Any, Dict
 
@@ -915,7 +915,7 @@ def call_dial_api(
     provider: str,
     conversation_history: list[dict] = None,
     claude_model_index: int = 0
-) -> tuple[str, int, int]:
+) -> tuple[str, int, int, str]:
     """Make a request to DIAL API and return the response.
     
     Args:
@@ -926,7 +926,7 @@ def call_dial_api(
         claude_model_index: Index in CLAUDE_MODEL_ROTATION list (for rotation)
     
     Returns:
-        Tuple of (response_text, prompt_tokens, completion_tokens)
+        Tuple of (response_text, prompt_tokens, completion_tokens, model_name)
     
     Raises:
         ValueError: If API request fails or configuration is invalid
@@ -1019,6 +1019,14 @@ def call_dial_api(
         
         response_text = data['choices'][0]['message']['content']
         
+        # Post-process DeepSeek R1 responses to remove reasoning tags
+        if 'deepseek' in model_name.lower() and 'r1' in model_name.lower():
+            import re
+            # Remove <think>...</think> tags and their content
+            response_text = re.sub(r'<think>.*?</think>', '', response_text, flags=re.DOTALL)
+            # Clean up extra whitespace
+            response_text = response_text.strip()
+        
         # Extract token usage
         usage = data.get('usage', {})
         prompt_tokens = usage.get('prompt_tokens', 0)
@@ -1036,7 +1044,7 @@ def call_dial_api(
         # Log successful call
         llm_call_logger.log_call(model_name, prompt_tokens, completion_tokens, duration)
         
-        return response_text, prompt_tokens, completion_tokens
+        return response_text, prompt_tokens, completion_tokens, model_name
     
     except Exception as e:
         # Log failed call if we haven't already
@@ -1198,7 +1206,7 @@ def generate_training_example(
             try:
                 global CLAUDE_MODEL_INDEX, CLAUDE_ROTATION_ENABLED
                 
-                response_text, prompt_tokens, completion_tokens = call_dial_api(
+                response_text, prompt_tokens, completion_tokens, model_name = call_dial_api(
                     prompt_text if conversation_history is None else None,
                     config,
                     provider,
@@ -1365,16 +1373,24 @@ def generate_training_example(
                             f"+ tense '{tense.value}': {completeness_error}"
                         )
                 
-                # Success! Override verb_rank and verb_russian in all examples
+                # Success! Override verb_rank, verb_russian, and add metadata in all examples
+                generation_timestamp = datetime.now(timezone.utc).isoformat()
+                
                 for example in result.examples:
                     example.verb_rank = verb.rank
                     example.verb_russian = verb.russian
+                    example.generated_by_model = model_name
+                    example.generated_at = generation_timestamp
                 
                 return result.examples, total_prompt_tokens, total_completion_tokens
             else:
                 # Single mode: return list with one example
+                generation_timestamp = datetime.now(timezone.utc).isoformat()
+                
                 result.verb_rank = verb.rank
                 result.verb_russian = verb.russian
+                result.generated_by_model = model_name
+                result.generated_at = generation_timestamp
                 
                 return [result], total_prompt_tokens, total_completion_tokens
             
@@ -1425,7 +1441,21 @@ def save_training_example(example: TrainingExample, output_dir: Path, polarity: 
 
     Returns:
         Path: The path to the saved file
+        
+    Raises:
+        ValueError: If the example fails validation
     """
+    # Validate the example before saving
+    is_valid, errors = example.validate()
+    if not is_valid:
+        error_msg = f"Training example validation failed:\n" + "\n".join(f"  - {err}" for err in errors)
+        error_msg += f"\n\nExample data:\n"
+        error_msg += f"  Pronoun: {example.turkish_verb.personal_pronoun}\n"
+        error_msg += f"  Verb full: {example.turkish_verb.verb_full}\n"
+        error_msg += f"  Personal affix: {example.turkish_verb.personal_affix}\n"
+        error_msg += f"  Turkish sentence: {example.turkish_example_sentence}\n"
+        raise ValueError(error_msg)
+    
     # Create folder structure: verb_english/ (without "to " prefix at the beginning)
     # Use verb.english if provided (from CSV) for consistency, otherwise fall back to example
     verb_name = verb.english if verb else example.verb_english
@@ -1740,35 +1770,69 @@ def main(
                 # Track time for this batch generation
                 batch_start_time = time.time()
                 
-                # Generate batch (pronoun=None, polarity=None triggers batch mode)
-                examples_list, prompt_tokens, completion_tokens = generate_training_example(
-                    verb, tense,
-                    pronoun=None,  # Batch mode
-                    polarity=None,  # Batch mode
-                    language_level=level,
-                    config=config,
-                    provider=provider,
-                    rate_limiter=rate_limiter
-                )
+                # Retry logic for validation failures
+                max_batch_retries = 2
+                batch_attempt = 0
+                batch_generated = 0
+                
+                while batch_attempt <= max_batch_retries:
+                    # Generate batch (pronoun=None, polarity=None triggers batch mode)
+                    examples_list, prompt_tokens, completion_tokens = generate_training_example(
+                        verb, tense,
+                        pronoun=None,  # Batch mode
+                        polarity=None,  # Batch mode
+                        language_level=level,
+                        config=config,
+                        provider=provider,
+                        rate_limiter=rate_limiter
+                    )
+                    
+                    # Track token usage (total and per-verb)
+                    total_prompt_tokens += prompt_tokens
+                    total_completion_tokens += completion_tokens
+                    verb_prompt_tokens += prompt_tokens
+                    verb_completion_tokens += completion_tokens
+                    
+                    # Save each example from the batch
+                    batch_generated = 0
+                    batch_failed = []
+                    for example in examples_list:
+                        # Determine polarity for filename
+                        polarity = example.turkish_verb.polarity
+
+                        try:
+                            file_path = save_training_example(example, output_dir, polarity, verb)
+                            print(f"   📝 Saved: {file_path}")
+                            batch_generated += 1
+                            verb_example_count += 1
+                        except ValueError as e:
+                            # Validation failed - collect for retry
+                            batch_failed.append((example, polarity, str(e)))
+                    
+                    # Check if we should retry
+                    expected_count = len(examples_list)
+                    failure_rate = len(batch_failed) / expected_count if expected_count > 0 else 0
+                    
+                    if len(batch_failed) > 0 and failure_rate > 0.5 and batch_attempt < max_batch_retries:
+                        # More than 50% failed and we have retries left
+                        print(f"   ⚠️  {len(batch_failed)}/{expected_count} examples failed validation")
+                        print(f"   🔄 Retrying batch (attempt {batch_attempt + 2}/{max_batch_retries + 1})...")
+                        batch_attempt += 1
+                        # Reset counters for this batch (we'll regenerate)
+                        verb_example_count -= batch_generated
+                        continue
+                    else:
+                        # Either success or acceptable failure rate or out of retries
+                        if batch_failed:
+                            print(f"   ⚠️  {len(batch_failed)} examples failed validation (will be skipped)")
+                            for _, _, error in batch_failed[:3]:  # Show first 3 errors only
+                                error_line = error.split('\n')[0]
+                                print(f"      - {error_line}")
+                            if len(batch_failed) > 3:
+                                print(f"      ... and {len(batch_failed) - 3} more")
+                        break
                 
                 batch_duration = time.time() - batch_start_time
-                
-                # Track token usage (total and per-verb)
-                total_prompt_tokens += prompt_tokens
-                total_completion_tokens += completion_tokens
-                verb_prompt_tokens += prompt_tokens
-                verb_completion_tokens += completion_tokens
-                
-                # Save each example from the batch
-                batch_generated = 0
-                for example in examples_list:
-                    # Determine polarity for filename
-                    polarity = example.turkish_verb.polarity
-
-                    file_path = save_training_example(example, output_dir, polarity, verb)
-                    batch_generated += 1
-                    verb_example_count += 1
-                
                 generated_count += batch_generated
                 
                 # Update logger
@@ -1837,18 +1901,25 @@ def main(
                 # Save the example (list should have 1 item)
                 if examples_list and len(examples_list) > 0:
                     example = examples_list[0]
-                    file_path = save_training_example(example, output_dir, polarity, verb)
-                    total_tokens = prompt_tokens + completion_tokens
-                    cumulative = total_prompt_tokens + total_completion_tokens
-                    print(f"   ✅ Saved to: {file_path}")
-                    print(f"      ({total_tokens:,} tokens | {file_duration:.2f}s | "
-                          f"cumulative: {cumulative:,} tokens)")
-                    generated_count += 1
-                    verb_example_count += 1
-                    
-                    # Update logger with token usage, duration, and verb info
-                    pipeline_logger.update_stats(prompt_tokens, completion_tokens, verb.english,
-                                                 file_duration, generated=True)
+                    try:
+                        file_path = save_training_example(example, output_dir, polarity, verb)
+                        total_tokens = prompt_tokens + completion_tokens
+                        cumulative = total_prompt_tokens + total_completion_tokens
+                        print(f"   📝 Saved: {file_path}")
+                        print(f"      ({total_tokens:,} tokens | {file_duration:.2f}s | "
+                              f"cumulative: {cumulative:,} tokens)")
+                        generated_count += 1
+                        verb_example_count += 1
+                        
+                        # Update logger with token usage, duration, and verb info
+                        pipeline_logger.update_stats(prompt_tokens, completion_tokens, verb.english,
+                                                     file_duration, generated=True)
+                    except ValueError as e:
+                        # Validation failed - log and skip
+                        error_line = str(e).split('\n')[0]
+                        print(f"   ⚠️  Validation failed: {error_line}")
+                        skipped_count += 1
+                        pipeline_logger.increment_skipped()
                 else:
                     print("❌ Unexpected: got empty examples list")
                     skipped_count += 1

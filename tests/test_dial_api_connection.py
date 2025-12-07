@@ -19,6 +19,91 @@ def config():
     return toml.load(config_path)
 
 
+def get_available_models():
+    """Get list of available models from DIAL API"""
+    api_key = os.getenv('DIAL_API_KEY')
+    if not api_key:
+        return []
+    
+    api_url = "https://ai-proxy.lab.epam.com/openai/models"
+    headers = {
+        "Api-Key": api_key,
+        "Content-Type": "application/json"
+    }
+    
+    try:
+        response = requests.get(api_url, headers=headers, timeout=10)
+        if response.status_code == 200:
+            data = response.json()
+            return [m['id'] for m in data.get("data", [])]
+    except:
+        pass
+    
+    return []
+
+
+def check_model_availability(model_id: str) -> tuple[bool, str]:
+    """Check if a specific model is available (listed in API)
+    
+    Returns:
+        (is_available, message)
+    """
+    available_models = get_available_models()
+    if not available_models:
+        return False, "⚠️  Could not retrieve available models"
+    
+    if model_id in available_models:
+        return True, f"📋 Model '{model_id}' is listed"
+    else:
+        # Try to find similar models
+        similar = [m for m in available_models if model_id.split('-')[0] in m]
+        if similar:
+            suggestions = ", ".join(similar[:3])
+            return False, f"❌ Model '{model_id}' not listed. Similar: {suggestions}"
+        return False, f"❌ Model '{model_id}' not listed"
+
+
+def check_model_access(model_id: str) -> tuple[bool, str]:
+    """Check if you actually have access to use the model (not just listed)
+    
+    Returns:
+        (has_access, message)
+    """
+    api_key = os.getenv('DIAL_API_KEY')
+    if not api_key:
+        return False, "⚠️  No API key"
+    
+    # Check if model is listed first
+    is_listed, _ = check_model_availability(model_id)
+    if not is_listed:
+        return False, "❌ Not listed"
+    
+    # Try to make an actual API call with minimal tokens
+    api_url = f"https://ai-proxy.lab.epam.com/openai/deployments/{model_id}/chat/completions"
+    headers = {
+        "Api-Key": api_key,
+        "Content-Type": "application/json"
+    }
+    payload = {
+        "messages": [{"role": "user", "content": "Hi"}],
+        "max_tokens": 5,
+        "temperature": 0
+    }
+    
+    try:
+        response = requests.post(api_url, headers=headers, json=payload, timeout=10)
+        if response.status_code == 200:
+            return True, "✅ Access granted"
+        elif response.status_code == 403:
+            return False, "🔒 Listed but access denied (403)"
+        elif response.status_code == 429:
+            return True, "⏳ Rate limited (but accessible)"
+        else:
+            return False, f"❓ Status {response.status_code}"
+    except Exception as e:
+        return False, f"⚠️  Error: {str(e)[:50]}"
+
+
 def test_list_available_models():
     """Test listing available models from DIAL API"""
     print("\n🔍 Listing Available Models...")
@@ -53,23 +138,32 @@ def test_list_available_models():
     
     print(f"   ✅ Successfully retrieved {len(models)} models")
     
-    # Check for GPT-5.1
-    gpt51_models = [m for m in models if '5.1' in m['id'] or 'gpt-5' in m['id'].lower()]
-    if gpt51_models:
-        print(f"\n   🎉 Found GPT-5.1 models:")
-        for model in gpt51_models:
+    # Check for GPT-5 variants
+    gpt5_models = [m for m in models if 'gpt-5' in m['id'].lower()]
+    if gpt5_models:
+        print(f"\n   📊 Found {len(gpt5_models)} GPT-5 models:")
+        for model in gpt5_models:
             print(f"      • {model['id']}")
     else:
-        print(f"\n   ⚠️  No GPT-5.1 models found")
+        print(f"\n   ⚠️  No GPT-5 models found")
     
-    # Show all models
-    print(f"\n   All {len(models)} available models:")
-    for model in models:
-        print(f"      • {model['id']}")
+    # Check for Claude 4.5 variants
+    claude_models = [m for m in models if 'claude' in m['id'].lower() and ('4.5' in m['id'] or '4-5' in m['id'])]
+    if claude_models:
+        print(f"\n   🤖 Found {len(claude_models)} Claude 4.5 models:")
+        for model in claude_models:
+            print(f"      • {model['id']}")
+    
+    # Check for Gemini models
+    gemini_models = [m for m in models if 'gemini' in m['id'].lower()]
+    if gemini_models:
+        print(f"\n   💎 Found {len(gemini_models)} Gemini models:")
+        for model in gemini_models:
+            print(f"      • {model['id']}")
     
     assert len(models) > 0, "No models returned from API"
     
-    return gpt51_models
+    return models
 
 
 def test_claude_haiku_4_5_connection(config):
@@ -124,9 +218,72 @@ def test_gpt5_connection(config):
     test_dial_connection(model_id=model_id, config=config)
 
 
+def test_all_configured_models(config):
+    """Test availability AND access for all models configured in config.toml"""
+    print("\n🔍 Checking all configured models (listing + access test)...")
+    
+    # Get model names from config
+    dial_config = config.get("DIAL_API", {})
+    models_to_check = {
+        "OpenAI": dial_config.get("OPENAI_MODEL_NAME"),
+        "GPT-4.1": dial_config.get("GPT41_MODEL_NAME"),
+        "GPT-5": dial_config.get("GPT5_MODEL_NAME"),
+        "Gemini": dial_config.get("GEMINI_MODEL_NAME"),
+        "DeepSeek": dial_config.get("DEEP_SEEK_MODEL_NAME"),
+        "Claude (AWS)": dial_config.get("CLOUD_MODEL_NAME"),
+    }
+    
+    # Check Claude rotation models
+    claude_rotation = dial_config.get("CLAUDE_MODEL_ROTATION", [])
+    for i, model in enumerate(claude_rotation, 1):
+        models_to_check[f"Claude Rotation {i}"] = model
+    
+    results = {}
+    print("\n   Model Status (Listed | Access):")
+    print("   " + "=" * 90)
+    
+    for name, model_id in models_to_check.items():
+        if not model_id:
+            continue
+        
+        # Check both listing and access
+        has_access, access_msg = check_model_access(model_id)
+        results[name] = has_access
+        
+        # Truncate model_id if too long
+        display_id = model_id if len(model_id) <= 45 else model_id[:42] + "..."
+        print(f"   {name:20s} -> {display_id:45s} | {access_msg}")
+    
+    print("   " + "=" * 90)
+    
+    # Summary
+    accessible_count = sum(results.values())
+    total_count = len(results)
+    print(f"\n   Summary: {accessible_count}/{total_count} models are accessible")
+    
+    # Show accessible models for easy copy-paste
+    if accessible_count > 0:
+        print(f"\n   ✅ Accessible models:")
+        for name, has_access in results.items():
+            if has_access:
+                print(f"      • {name}")
+    
+    if accessible_count == 0:
+        pytest.fail("No configured models are accessible!")
+    
+    return results
+
+
 def test_dial_connection(config, model_id: str = "gpt-4"):
     """Test DIAL API chat completion"""
-    print("\n🔍 Testing DIAL API Connection...")
+    print(f"\n🔍 Testing DIAL API Connection with {model_id}...")
+    
+    # Check model availability first
+    is_available, msg = check_model_availability(model_id)
+    print(f"   {msg}")
+    
+    if not is_available:
+        pytest.skip(f"Model {model_id} is not available")
     
     # Get credentials from environment
     api_key = os.getenv('DIAL_API_KEY')

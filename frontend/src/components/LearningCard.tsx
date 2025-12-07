@@ -763,7 +763,7 @@ export const LearningCard: React.FC<LearningCardProps> = ({
   };
 
   return (
-    <div className="card max-w-full mx-auto animate-fade-in">
+    <div className="card max-w-full mx-auto animate-fade-in relative">
       <div className="mb-6">
         <div className="flex items-center justify-between mb-4">
           <div className="flex items-center gap-4">
@@ -1013,7 +1013,85 @@ export const LearningCard: React.FC<LearningCardProps> = ({
         onGoToPronoun={onGoToPronoun}
         onGoToPolarity={onGoToPolarity}
       />
+
+      {/* Model Badge - Top Center */}
+      {example.generated_by_model && (
+        <div className="absolute top-0 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
+          <div className="relative group/model">
+            <div className="flex items-center gap-2 px-3 py-2 bg-white border-2 border-gray-200 rounded-full shadow-md hover:shadow-lg transition-shadow cursor-help">
+              {getModelIcon(example.generated_by_model)}
+              <span className="text-xs font-medium text-gray-700">
+                {getModelDisplayName(example.generated_by_model)}
+              </span>
+            </div>
+            {/* Tooltip showing generation date if available */}
+            {example.generated_at && (
+              <div className="invisible group-hover/model:visible absolute left-1/2 transform -translate-x-1/2 top-full mt-2 px-3 py-2 bg-gray-900 text-white text-sm rounded-lg shadow-lg z-50 whitespace-nowrap pointer-events-none">
+                Generated: {new Date(example.generated_at).toLocaleString()}
+                <div className="absolute -top-1 left-1/2 transform -translate-x-1/2 w-2 h-2 bg-gray-900 rotate-45"></div>
+              </div>
+            )}
+          </div>
+        </div>
+      )}
     </div>
+  );
+};
+
+// Helper function to extract model provider from full model name
+const getModelProvider = (modelName: string): string => {
+  const lower = modelName.toLowerCase();
+  if (lower.includes('claude') || lower.includes('anthropic')) return 'claude';
+  if (lower.includes('gpt') || lower.includes('openai')) return 'openai';
+  if (lower.includes('gemini') || lower.includes('google')) return 'gemini';
+  if (lower.includes('deepseek')) return 'deepseek';
+  return 'unknown';
+};
+
+// Helper function to get display name
+const getModelDisplayName = (modelName: string): string => {
+  const provider = getModelProvider(modelName);
+  const providerNames: Record<string, string> = {
+    'claude': 'Claude',
+    'openai': 'OpenAI',
+    'gemini': 'Gemini',
+    'deepseek': 'DeepSeek'
+  };
+  return providerNames[provider] || 'AI Model';
+};
+
+// Helper function to get model icon
+const getModelIcon = (modelName: string): JSX.Element => {
+  const provider = getModelProvider(modelName);
+  const iconSize = 20;
+  
+  const logoMap: Record<string, string> = {
+    'claude': '/graphics/llm_logo/claude-logo.svg',
+    'openai': '/graphics/llm_logo/openai-2.svg',
+    'gemini': '/graphics/llm_logo/gemini-icon-logo.svg',
+    'deepseek': '/graphics/llm_logo/deepseek-2.svg'
+  };
+
+  const logoPath = logoMap[provider];
+  
+  if (logoPath) {
+    return (
+      <img 
+        src={logoPath} 
+        alt={`${provider} logo`} 
+        width={iconSize} 
+        height={iconSize}
+        className="object-contain"
+      />
+    );
+  }
+  
+  // Fallback icon for unknown providers
+  return (
+    <svg width={iconSize} height={iconSize} viewBox="0 0 24 24" fill="none">
+      <circle cx="12" cy="12" r="10" stroke="#9CA3AF" strokeWidth="2"/>
+      <path d="M12 8V16M8 12H16" stroke="#9CA3AF" strokeWidth="2" strokeLinecap="round"/>
+    </svg>
   );
 };
 

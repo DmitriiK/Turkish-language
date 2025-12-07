@@ -456,21 +456,127 @@ class TrainingExample(BaseModel):
         description="Complete Turkish verb conjugation with all grammatical components"
     )
 
+    turkish_example_sentence: str = Field(
+        description="Turkish sentence (4-8 words) using the conjugated verb with natural word order (SOV preferred)"
+    )
+    
     # Example sentences
     english_example_sentence: str = Field(
-        description="Natural English sentence using the verb (4-8 words) appropriate for the language level"
+        description="Tranlation of turkish_example_sentence"
     )
     russian_example_sentence: str = Field(
-        description="Russian equivalent of the English sentence with simple vocabulary"
+        description="Russian equivalent turkish_example_sentence"
     )
-    turkish_example_sentence: str = Field(
-        description="Turkish sentence using the conjugated verb with natural word order (SOV preferred)"
+    # Metadata (added after LLM generation, excluded from JSON schema for prompts)
+    generated_by_model: Optional[str] = Field(
+        default=None,
+        exclude=False,  # Include in model_dump() for saving to JSON files
+        json_schema_extra={"readOnly": True}  # Mark as read-only in schema
+    )
+    generated_at: Optional[str] = Field(
+        default=None,
+        exclude=False,  # Include in model_dump() for saving to JSON files
+        json_schema_extra={"readOnly": True}  # Mark as read-only in schema
     )
     
     @property
     def turkish_example_sentence_with_blank(self) -> str:
         """Generate the Turkish sentence with blank where the conjugated verb should be"""
         return self.turkish_example_sentence.replace(self.turkish_verb.verb_full, "______")
+    
+    def validate_pronoun_verb_consistency(self) -> tuple[bool, str]:
+        """Validate that the pronoun in the sentence matches the verb conjugation.
+        
+        Returns:
+            tuple[bool, str]: (is_valid, error_message)
+        """
+        pronoun = self.turkish_verb.personal_pronoun
+        if pronoun is None:
+            # No pronoun required (participles, etc.)
+            return True, ""
+        
+        sentence_lower = self.turkish_example_sentence.lower()
+        pronoun_str = pronoun.value.lower()
+        
+        # Check if sentence starts with the expected pronoun (Turkish typically starts with subject)
+        if not sentence_lower.startswith(pronoun_str):
+            return False, f"Sentence should start with pronoun '{pronoun_str}' but starts with '{self.turkish_example_sentence.split()[0]}'"
+        
+        # Mapping of pronouns to expected personal affix patterns
+        # This is a simplified check - real affixes vary by vowel harmony
+        personal_affix = self.turkish_verb.personal_affix or ""
+        verb_tense = self.turkish_verb.verb_tense
+        
+        # Special cases for different verb moods
+        
+        # 1. Imperative forms (emir_kipi) - specific affixes for commands
+        if verb_tense == VerbTense.EmirKipi:
+            if pronoun == PersonalPronoun.Sen and personal_affix == "":
+                return True, ""  # Empty affix is valid for sen imperative
+            if pronoun == PersonalPronoun.Siz and personal_affix in ["in", "ın", "un", "ün", "iniz", "ınız", "unuz", "ünüz"]:
+                return True, ""
+            if pronoun == PersonalPronoun.O_Third and personal_affix in ["sin", "sın", "sun", "sün"]:
+                return True, ""
+            if pronoun == PersonalPronoun.Onlar and personal_affix in ["sinler", "sınlar", "sunlar", "sünler"]:
+                return True, ""
+        
+        # 2. Ability/Necessity moods use compound verbs - skip strict validation
+        # These moods (imkan_kipi, zorunluluk_kipi, gereklilik_kipi) have complex patterns
+        if verb_tense in [VerbTense.İmkanKipi, VerbTense.ZorunlulukKipi, VerbTense.GereklilikKipi]:
+            # For compound verbs, we can't reliably validate affixes
+            # Just check that the verb is in the sentence (done in separate validation)
+            return True, ""
+        
+        # 3. Optative mood (istek_kipi) - "let me/us" forms
+        if verb_tense == VerbTense.IstekKipi:
+            # Optative has special affixes: -(y)ayım/-(y)eyim for ben, -(y)alım/-(y)elim for biz, etc.
+            return True, ""  # Skip strict validation for optative
+        
+        affix_patterns = {
+            PersonalPronoun.Ben: ["m", "ım", "im", "um", "üm"],
+            PersonalPronoun.Sen: ["", "n", "sın", "sin", "sun", "sün"],  # Added "" for imperatives
+            PersonalPronoun.O_Third: ["", "sı", "si", "su", "sü", "ı", "i", "u", "ü"],
+            PersonalPronoun.Biz: ["k", "ız", "iz", "uz", "üz", "mız", "miz", "muz", "müz"],
+            PersonalPronoun.Siz: ["nız", "niz", "nuz", "nüz", "sınız", "siniz", "sunuz", "sünüz"],
+            PersonalPronoun.Onlar: ["lar", "ler", "ları", "leri"]
+        }
+        
+        expected_affixes = affix_patterns.get(pronoun, [])
+        if personal_affix not in expected_affixes:
+            return False, f"Personal affix '{personal_affix}' doesn't match pronoun '{pronoun_str}'. Expected one of: {expected_affixes}"
+        
+        return True, ""
+    
+    def validate_verb_in_sentence(self) -> tuple[bool, str]:
+        """Validate that the conjugated verb appears in the Turkish sentence.
+        
+        Returns:
+            tuple[bool, str]: (is_valid, error_message)
+        """
+        verb_full = self.turkish_verb.verb_full
+        if verb_full not in self.turkish_example_sentence:
+            return False, f"Conjugated verb '{verb_full}' not found in Turkish sentence: '{self.turkish_example_sentence}'"
+        return True, ""
+    
+    def validate(self) -> tuple[bool, list[str]]:
+        """Run all validation checks.
+        
+        Returns:
+            tuple[bool, list[str]]: (is_valid, list_of_error_messages)
+        """
+        errors = []
+        
+        # Check pronoun-verb consistency
+        is_valid, error = self.validate_pronoun_verb_consistency()
+        if not is_valid:
+            errors.append(error)
+        
+        # Check verb appears in sentence
+        is_valid, error = self.validate_verb_in_sentence()
+        if not is_valid:
+            errors.append(error)
+        
+        return len(errors) == 0, errors
 
 
 class BatchTrainingExamples(BaseModel):
