@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "söylediğimde",
     "root": "söyle",
-    "tense_affix": "diğ",
+    "tense_affix": "dik",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "ben",
-    "personal_affix": "imde",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When I say important words, everyone listens carefully",
-  "russian_example_sentence": "Когда я говорю важные слова, все слушают внимательно",
-  "turkish_example_sentence": "Ben önemli sözleri söylediğimde, herkes dikkatle dinliyor",
-  "turkish_example_sentence_with_blank": "Ben önemli sözleri ______, herkes dikkatle dinliyor"
+  "turkish_example_sentence": "Ben önemli sözleri dikkatle söylediğimde, herkes sessizce dinledi.",
+  "english_example_sentence": "When I said important words carefully, everyone listened silently.",
+  "russian_example_sentence": "Когда я внимательно произнёс важные слова, все молча слушали.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T08:19:53.521231+00:00",
+  "turkish_example_sentence_with_blank": "Ben önemli sözleri dikkatle ______, herkes sessizce dinledi."
 }

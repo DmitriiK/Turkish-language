@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "söylemişsen",
     "root": "söyle",
-    "tense_affix": "mişse",
+    "tense_affix": "miş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you had said your honest opinion at the meeting",
-  "russian_example_sentence": "Если бы ты сказал свое честное мнение на встречу",
-  "turkish_example_sentence": "Sen toplantıda dürüst fikirlerini söylemişsen, karar değişebilirdi",
-  "turkish_example_sentence_with_blank": "Sen toplantıda dürüst fikirlerini ______, karar değişebilirdi"
+  "turkish_example_sentence": "Sen o kızıl çiçekli bahçede güzel sözler söylemişsen, hepimiz mutlu olurduk.",
+  "english_example_sentence": "If you had said beautiful words in that red flower garden, we would all have been happy.",
+  "russian_example_sentence": "Если бы ты сказал красивые слова в том саду с красными цветами, мы все были бы счастливы.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T08:19:16.838159+00:00",
+  "turkish_example_sentence_with_blank": "Sen o kızıl çiçekli bahçede güzel sözler ______, hepimiz mutlu olurduk."
 }

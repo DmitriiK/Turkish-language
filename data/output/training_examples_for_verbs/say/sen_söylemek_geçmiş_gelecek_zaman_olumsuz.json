@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "söylemeyecektin",
     "root": "söyle",
-    "tense_affix": "ecekti",
+    "tense_affix": "yecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You were not going to say harsh criticism",
-  "russian_example_sentence": "Ты не собирался говорить резкую критику",
-  "turkish_example_sentence": "Sen sert eleştiriyi söylemeyecektin",
-  "turkish_example_sentence_with_blank": "Sen sert eleştiriyi ______"
+  "turkish_example_sentence": "Sen o kızlı sözleri söylemeyecektin ama öfkelendin.",
+  "english_example_sentence": "You were not going to say those harsh words but you got angry.",
+  "russian_example_sentence": "Ты не собирался говорить эти жесткие слова, но рассердился.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T08:18:38.268999+00:00",
+  "turkish_example_sentence_with_blank": "Sen o kızlı sözleri ______ ama öfkelendin."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "söylemişlerse",
     "root": "söyle",
-    "tense_affix": "mişse",
+    "tense_affix": "miş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "ler",
+    "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they had said the beautiful compliments to their mother",
-  "russian_example_sentence": "Если бы они сказали красивые комплименты своей матери",
-  "turkish_example_sentence": "Onlar annesine o güzel iltifatları söylemişlerse, anne çok mutlu olabilirdi",
-  "turkish_example_sentence_with_blank": "Onlar annesine o güzel iltifatları ______, anne çok mutlu olabilirdi"
+  "turkish_example_sentence": "Onlar radyoda harita haber söylemişlerse, halk daha iyi hazırlanmış olurdu.",
+  "english_example_sentence": "If they had said important news on the radio, the public would have been better prepared.",
+  "russian_example_sentence": "Если бы они сказали важные новости по радио, общественность была бы лучше подготовлена.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T08:19:16.838159+00:00",
+  "turkish_example_sentence_with_blank": "Onlar radyoda harita haber ______, halk daha iyi hazırlanmış olurdu."
 }

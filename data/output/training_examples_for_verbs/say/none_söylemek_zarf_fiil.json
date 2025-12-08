@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "söyleyerek",
     "root": "söyle",
-    "tense_affix": "erek",
+    "tense_affix": "yerek",
     "verb_tense": "zarf_fiil",
     "personal_pronoun": null,
     "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Speaking kind words, she comforted the sad child",
-  "russian_example_sentence": "Говоря добрые слова, она утешила грустного ребенка",
-  "turkish_example_sentence": "Nazik sözler söyleyerek, o üzgün çocuğu teselli etti",
-  "turkish_example_sentence_with_blank": "Nazik sözler ______, o üzgün çocuğu teselli etti"
+  "turkish_example_sentence": "Güzel sözler söyleyerek genç kız arkadaşını teselli etti.",
+  "english_example_sentence": "By saying beautiful words, the young girl comforted her friend.",
+  "russian_example_sentence": "Говоря красивые слова, молодая девушка утешила свою подругу.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T08:19:29.557587+00:00",
+  "turkish_example_sentence_with_blank": "Güzel sözler ______ genç kız arkadaşını teselli etti."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "söylemeyecektim",
     "root": "söyle",
-    "tense_affix": "ecekti",
+    "tense_affix": "yecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "I was not going to say anything about that",
-  "russian_example_sentence": "Я не собирался ничего говорить об этом",
-  "turkish_example_sentence": "Ben o konuda hiçbir şey söylemeyecektim",
-  "turkish_example_sentence_with_blank": "Ben o konuda hiçbir şey ______"
+  "turkish_example_sentence": "Ben hiçbir şey söylemeyecektim ama arkadaşım beni zorladı.",
+  "english_example_sentence": "I was not going to say anything but my friend forced me.",
+  "russian_example_sentence": "Я не собирался ничего говорить, но мой друг меня заставил.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T08:18:38.268999+00:00",
+  "turkish_example_sentence_with_blank": "Ben hiçbir şey ______ ama arkadaşım beni zorladı."
 }

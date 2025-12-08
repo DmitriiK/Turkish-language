@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "söylemişsek",
     "root": "söyle",
-    "tense_affix": "mişse",
+    "tense_affix": "miş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we had said our sincere feelings to them long ago",
-  "russian_example_sentence": "Если бы мы сказали наши искренние чувства им давно",
-  "turkish_example_sentence": "Biz samimi duygularımızı onlara çok zaman önce söylemişsek, ilişki kurtulabilirdi",
-  "turkish_example_sentence_with_blank": "Biz samimi duygularımızı onlara çok zaman önce ______, ilişki kurtulabilirdi"
+  "turkish_example_sentence": "Biz toplantıda dürüst görüşler söylemişsek, yönetim kararını değiştirmiş olurdu.",
+  "english_example_sentence": "If we had said honest opinions at the meeting, the management would have changed its decision.",
+  "russian_example_sentence": "Если бы мы сказали честные мнения на встрече, руководство изменило бы свое решение.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T08:19:16.838159+00:00",
+  "turkish_example_sentence_with_blank": "Biz toplantıda dürüst görüşler ______, yönetim kararını değiştirmiş olurdu."
 }

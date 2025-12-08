@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "söylemeyecektiniz",
     "root": "söyle",
-    "tense_affix": "ecekti",
+    "tense_affix": "yecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "niz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You were not going to say rude remarks",
-  "russian_example_sentence": "Вы не собирались говорить грубые замечания",
-  "turkish_example_sentence": "Siz kaba yorumları söylemeyecektiniz",
-  "turkish_example_sentence_with_blank": "Siz kaba yorumları ______"
+  "turkish_example_sentence": "Siz o yanlış bilgiyi söylemeyecektiniz ama yanlışlıkla söylediniz.",
+  "english_example_sentence": "You were not going to say that wrong information but you said it by mistake.",
+  "russian_example_sentence": "Вы не собирались говорить эту неправильную информацию, но сказали по ошибке.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T08:18:38.268999+00:00",
+  "turkish_example_sentence_with_blank": "Siz o yanlış bilgiyi ______ ama yanlışlıkla söylediniz."
 }

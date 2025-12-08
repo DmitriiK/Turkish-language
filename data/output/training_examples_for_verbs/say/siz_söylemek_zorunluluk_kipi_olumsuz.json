@@ -4,7 +4,7 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylememeli",
+    "verb_full": "söylememelisi",
     "root": "söyle",
     "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
@@ -13,10 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Siz kıdemli avukatlar müvekkilin kişisel bilgilerini mahkemede söylememeli.",
-  "english_example_sentence": "You must not say the client's personal information in court.",
-  "russian_example_sentence": "Вы не должны говорить личную информацию клиента в суде.",
+  "turkish_example_sentence": "Siz bu rahatsız edici sözleri hastanede söylememelisi.",
+  "english_example_sentence": "You must not say these disturbing words at the hospital.",
+  "russian_example_sentence": "Вы не должны говорить эти беспокойные слова в больнице.",
   "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-08T07:39:00.946435+00:00",
-  "turkish_example_sentence_with_blank": "Siz kıdemli avukatlar müvekkilin kişisel bilgilerini mahkemede ______."
+  "generated_at": "2025-12-08T08:18:01.113252+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu rahatsız edici sözleri hastanede ______."
 }

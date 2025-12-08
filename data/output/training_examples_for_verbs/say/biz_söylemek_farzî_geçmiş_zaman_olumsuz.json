@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "söylememişsek",
     "root": "söyle",
-    "tense_affix": "mişse",
+    "tense_affix": "miş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If we had not said those negative things about the project",
-  "russian_example_sentence": "Если бы мы не сказали те отрицательные вещи о проекте",
-  "turkish_example_sentence": "Biz proje hakkında o olumsuz şeyleri söylememişsek, başkan bize güvenebilirdi",
-  "turkish_example_sentence_with_blank": "Biz proje hakkında o olumsuz şeyleri ______, başkan bize güvenebilirdi"
+  "turkish_example_sentence": "Biz o gizli planları söylememişsek, proje başarılı olmuş olurdu.",
+  "english_example_sentence": "If we had not said those secret plans, the project would have been successful.",
+  "russian_example_sentence": "Если бы мы не сказали эти секретные планы, проект был бы успешным.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T08:19:16.838159+00:00",
+  "turkish_example_sentence_with_blank": "Biz o gizli planları ______, proje başarılı olmuş olurdu."
 }

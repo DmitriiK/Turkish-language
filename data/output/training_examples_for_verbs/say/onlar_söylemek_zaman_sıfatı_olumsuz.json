@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "söylemediklerinde",
     "root": "söyle",
-    "tense_affix": "medikleri",
+    "tense_affix": "dik",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "onlar",
-    "personal_affix": "nde",
+    "personal_affix": "leri",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "When they don't say goodbye, we feel sad and disappointed",
-  "russian_example_sentence": "Когда они не говорят до свидания, мы чувствуем себя грустными и разочарованными",
-  "turkish_example_sentence": "Onlar hoşça kalın söylemediklerinde, biz üzgün ve hayal kırıklığına uğramış hissediyoruz",
-  "turkish_example_sentence_with_blank": "Onlar hoşça kalın ______, biz üzgün ve hayal kırıklığına uğramış hissediyoruz"
+  "turkish_example_sentence": "Onlar mutsuz haberlerini söylemediklerinde, herkes rahat bir nefes aldı.",
+  "english_example_sentence": "When they did not say their sad news, everyone took a relieved breath.",
+  "russian_example_sentence": "Когда они не сообщили свои грустные новости, все вздохнули с облегчением.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T08:19:53.521231+00:00",
+  "turkish_example_sentence_with_blank": "Onlar mutsuz haberlerini ______, herkes rahat bir nefes aldı."
 }

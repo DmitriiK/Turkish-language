@@ -4,17 +4,19 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylemediğimde",
+    "verb_full": "söylememediğimde",
     "root": "söyle",
-    "tense_affix": "mediğ",
+    "tense_affix": "dik",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "ben",
-    "personal_affix": "imde",
+    "personal_affix": "im",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "When I don't say anything, my friends feel confused",
-  "russian_example_sentence": "Когда я ничего не говорю, мои друзья чувствуют себя растерянными",
-  "turkish_example_sentence": "Ben hiçbir şey söylemediğimde, arkadaşlarım kafa karışıklığı hissediyor",
-  "turkish_example_sentence_with_blank": "Ben hiçbir şey ______, arkadaşlarım kafa karışıklığı hissediyor"
+  "turkish_example_sentence": "Ben gerçek düşüncelerimi söylememediğimde, arkadaşlar beni yanlış anladı.",
+  "english_example_sentence": "When I did not say my true thoughts, friends misunderstood me.",
+  "russian_example_sentence": "Когда я не высказал свои истинные мысли, друзья неправильно меня поняли.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T08:19:53.521231+00:00",
+  "turkish_example_sentence_with_blank": "Ben gerçek düşüncelerimi ______, arkadaşlar beni yanlış anladı."
 }

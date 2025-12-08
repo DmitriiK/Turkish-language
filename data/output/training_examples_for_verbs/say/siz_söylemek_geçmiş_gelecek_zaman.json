@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "söyleyecektiniz",
     "root": "söyle",
-    "tense_affix": "ecekti",
+    "tense_affix": "yecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "niz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You were going to say interesting stories",
-  "russian_example_sentence": "Вы собирались рассказать интересные истории",
-  "turkish_example_sentence": "Siz ilginç hikayeleri söyleyecektiniz",
-  "turkish_example_sentence_with_blank": "Siz ilginç hikayeleri ______"
+  "turkish_example_sentence": "Siz öğrencilere değerli bir tavsiye söyleyecektiniz fakat zamanınız kalmadı.",
+  "english_example_sentence": "You were going to give valuable advice to the students but you ran out of time.",
+  "russian_example_sentence": "Вы собирались дать ценный совет студентам, но не хватило времени.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T08:18:38.268999+00:00",
+  "turkish_example_sentence_with_blank": "Siz öğrencilere değerli bir tavsiye ______ fakat zamanınız kalmadı."
 }

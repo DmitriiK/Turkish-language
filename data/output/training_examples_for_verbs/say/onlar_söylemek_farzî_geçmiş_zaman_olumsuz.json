@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "söylememişlerse",
     "root": "söyle",
-    "tense_affix": "mişse",
+    "tense_affix": "miş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "ler",
+    "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If they had not said the terrible lies about their colleague",
-  "russian_example_sentence": "Если бы они не сказали ужасную ложь о своем коллеге",
-  "turkish_example_sentence": "Onlar meslektaşları hakkında o korkunç yalanları söylememişlerse, itibarı kurtulabilirdi",
-  "turkish_example_sentence_with_blank": "Onlar meslektaşları hakkında o korkunç yalanları ______, itibarı kurtulabilirdi"
+  "turkish_example_sentence": "Onlar o tehlikeli sözleri söylememişlerse, kriz çıkmamış olurdu.",
+  "english_example_sentence": "If they had not said those dangerous words, the crisis would not have occurred.",
+  "russian_example_sentence": "Если бы они не сказали эти опасные слова, кризис не произошел бы.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T08:19:16.838159+00:00",
+  "turkish_example_sentence_with_blank": "Onlar o tehlikeli sözleri ______, kriz çıkmamış olurdu."
 }

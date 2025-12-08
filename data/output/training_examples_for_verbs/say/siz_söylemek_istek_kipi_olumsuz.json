@@ -4,19 +4,19 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylemeyeyiniz",
+    "verb_full": "söylemesiniz",
     "root": "söyle",
     "tense_affix": "ye",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "yiniz",
+    "personal_affix": "ysiniz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Siz lütfen bu rahatsız edici sözleri söylemeyeyiniz.",
-  "english_example_sentence": "May you please not say these disturbing words.",
-  "russian_example_sentence": "Пусть вы пожалуйста не скажете эти беспокойные слова.",
+  "turkish_example_sentence": "Siz bu gizli bilgiyi başkalarına söylemesiniz.",
+  "english_example_sentence": "May you not tell this secret information to others.",
+  "russian_example_sentence": "Пусть вы не расскажете эту секретную информацию другим.",
   "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-08T07:37:36.200464+00:00",
-  "turkish_example_sentence_with_blank": "Siz lütfen bu rahatsız edici sözleri ______."
+  "generated_at": "2025-12-08T08:16:27.702390+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu gizli bilgiyi başkalarına ______."
 }

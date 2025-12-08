@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "söylemişsiniz",
     "root": "söyle",
-    "tense_affix": "mişse",
+    "tense_affix": "miş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "nız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you had said your valuable suggestions during the presentation",
-  "russian_example_sentence": "Если бы вы сказали ваши ценные предложения во время презентации",
-  "turkish_example_sentence": "Siz sunumda değerli önerilerinizi söylemişsiniz, plan başarılı olabilirdi",
-  "turkish_example_sentence_with_blank": "Siz sunumda değerli önerilerinizi ______, plan başarılı olabilirdi"
+  "turkish_example_sentence": "Siz konferansta ilginç araştırma sonuçları söylemişsiniz, akademisyenler çok etkilenmiş olurdu.",
+  "english_example_sentence": "If you had said interesting research results at the conference, academics would have been very impressed.",
+  "russian_example_sentence": "Если бы вы сказали интересные результаты исследований на конференции, ученые были бы очень впечатлены.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T08:19:16.838159+00:00",
+  "turkish_example_sentence_with_blank": "Siz konferansta ilginç araştırma sonuçları ______, akademisyenler çok etkilenmiş olurdu."
 }

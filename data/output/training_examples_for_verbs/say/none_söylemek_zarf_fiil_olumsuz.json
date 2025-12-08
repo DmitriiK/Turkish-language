@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "söylememeyerek",
     "root": "söyle",
-    "tense_affix": "erek",
+    "tense_affix": "yerek",
     "verb_tense": "zarf_fiil",
     "personal_pronoun": null,
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "By not saying anything, the old man avoided the difficult conversation",
-  "russian_example_sentence": "Ничего не говоря, старый человек избежал трудного разговора",
-  "turkish_example_sentence": "Hiçbir şey söylememeyerek, yaşlı adam zor konuşmayı önledi",
-  "turkish_example_sentence_with_blank": "Hiçbir şey ______, yaşlı adam zor konuşmayı önledi"
+  "turkish_example_sentence": "Gerçek düşüncelerini söylememeyerek yaşlı adam sessiz kaldı.",
+  "english_example_sentence": "By not saying his true thoughts, the old man remained silent.",
+  "russian_example_sentence": "Не говоря своих истинных мыслей, старик остался молчаливым.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T08:19:29.557587+00:00",
+  "turkish_example_sentence_with_blank": "Gerçek düşüncelerini ______ yaşlı adam sessiz kaldı."
 }

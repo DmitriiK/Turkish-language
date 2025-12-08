@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "söyleyeceklerdi",
     "root": "söyle",
-    "tense_affix": "ecekti",
+    "tense_affix": "yecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They were going to say encouraging messages",
-  "russian_example_sentence": "Они собирались сказать ободряющие сообщения",
-  "turkish_example_sentence": "Onlar cesaret verici mesajları söyleyeceklerdi",
-  "turkish_example_sentence_with_blank": "Onlar cesaret verici mesajları ______"
+  "turkish_example_sentence": "Onlar sahne üzerinde duygusal bir şarkı söyleyeceklerdi.",
+  "english_example_sentence": "They were going to sing an emotional song on the stage.",
+  "russian_example_sentence": "Они собирались спеть эмоциональную песню на сцене.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T08:18:38.268999+00:00",
+  "turkish_example_sentence_with_blank": "Onlar sahne üzerinde duygusal bir şarkı ______."
 }

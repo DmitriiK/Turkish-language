@@ -4,7 +4,7 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylemezse",
+    "verb_full": "söylemezek",
     "root": "söyle",
     "tense_affix": "mez",
     "verb_tense": "şartlı_kipi",
@@ -13,10 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Biz gizli planları söylemezse, proje başarılı olur.",
-  "english_example_sentence": "If we don't say the secret plans, the project will be successful.",
-  "russian_example_sentence": "Если мы не скажем секретные планы, проект будет успешным.",
+  "turkish_example_sentence": "Biz yalan sözleri söylemezek, güven oluşur.",
+  "english_example_sentence": "If we don't say false words, trust is created.",
+  "russian_example_sentence": "Если мы не скажем ложные слова, создается доверие.",
   "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-08T07:39:18.716036+00:00",
-  "turkish_example_sentence_with_blank": "Biz gizli planları ______, proje başarılı olur."
+  "generated_at": "2025-12-08T08:18:56.301407+00:00",
+  "turkish_example_sentence_with_blank": "Biz yalan sözleri ______, güven oluşur."
 }

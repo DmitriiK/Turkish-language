@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "söylesinler",
     "root": "söyle",
-    "tense_affix": "sinler",
+    "tense_affix": "",
     "verb_tense": "emir_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "sinler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Let them say their creative ideas boldly",
-  "russian_example_sentence": "Пусть они скажут свои творческие идеи смело",
-  "turkish_example_sentence": "Talentli sanatçılar kendi yaratıcı fikirlerini cesurca söylesinler",
-  "turkish_example_sentence_with_blank": "Talentli sanatçılar kendi yaratıcı fikirlerini cesurca ______"
+  "turkish_example_sentence": "Onlar başarılı ve ünlü sanatçılar kendi yaratıcı fikirlerini açıkça söylesinler.",
+  "english_example_sentence": "Let them successful and famous artists say their creative ideas clearly.",
+  "russian_example_sentence": "Пусть они успешные и известные художники ясно скажут свои творческие идеи.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T08:16:41.408045+00:00",
+  "turkish_example_sentence_with_blank": "Onlar başarılı ve ünlü sanatçılar kendi yaratıcı fikirlerini açıkça ______."
 }

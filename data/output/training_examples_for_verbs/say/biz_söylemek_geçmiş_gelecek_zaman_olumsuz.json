@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "söylemeyecektik",
     "root": "söyle",
-    "tense_affix": "ecekti",
+    "tense_affix": "yecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "We were not going to say anything negative",
-  "russian_example_sentence": "Мы не собирались говорить ничего отрицательного",
-  "turkish_example_sentence": "Biz olumsuz bir şey söylemeyecektik",
-  "turkish_example_sentence_with_blank": "Biz olumsuz bir şey ______"
+  "turkish_example_sentence": "Biz o hassas konuyu söylemeyecektik ama durumu açıklamak zorunda kaldık.",
+  "english_example_sentence": "We were not going to mention that sensitive topic but we had to explain the situation.",
+  "russian_example_sentence": "Мы не собирались упоминать эту деликатную тему, но пришлось объяснить ситуацию.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T08:18:38.268999+00:00",
+  "turkish_example_sentence_with_blank": "Biz o hassas konuyu ______ ama durumu açıklamak zorunda kaldık."
 }
