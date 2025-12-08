@@ -4,17 +4,19 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahibim",
-    "root": "sahip",
-    "tense_affix": "ip",
+    "verb_full": "sahip olurum",
+    "root": "ol",
+    "tense_affix": "ur",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "im",
+    "personal_affix": "um",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I have a red book",
-  "russian_example_sentence": "У меня есть красная книга",
-  "turkish_example_sentence": "Ben kırmızı bir kitaba sahibim",
-  "turkish_example_sentence_with_blank": "Ben kırmızı bir kitaba ______"
+  "turkish_example_sentence": "Ben güzel bir ev ve bahçeye sahip olurum.",
+  "english_example_sentence": "I have a beautiful house and garden.",
+  "russian_example_sentence": "Я имею красивый дом и сад.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:07:32.068119+00:00",
+  "turkish_example_sentence_with_blank": "Ben güzel bir ev ve bahçeye ______."
 }

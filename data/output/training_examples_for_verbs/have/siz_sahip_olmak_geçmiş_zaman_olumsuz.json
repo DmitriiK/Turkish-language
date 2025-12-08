@@ -4,17 +4,19 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip değildiniz",
-    "root": "sahip",
-    "tense_affix": "ti",
+    "verb_full": "sahip olmadınız",
+    "root": "sahip ol",
+    "tense_affix": "du",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "nız",
     "polarity": "negative",
-    "negative_affix": "değil"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "You did not have proper shoes for hiking",
-  "russian_example_sentence": "У вас не было подходящей обуви для похода",
-  "turkish_example_sentence": "Siz yürüyüş için uygun ayakkabılara sahip değildiniz",
-  "turkish_example_sentence_with_blank": "Siz yürüyüş için uygun ayakkabılara ______"
+  "turkish_example_sentence": "Siz dün gece lezzetli bir kırmızı şarap şişesi sahip olmadınız.",
+  "english_example_sentence": "You did not have a delicious red wine bottle last night.",
+  "russian_example_sentence": "Вчера ночью вы не имели бутылку вкусного красного вина.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:06:44.456696+00:00",
+  "turkish_example_sentence_with_blank": "Siz dün gece lezzetli bir kırmızı şarap şişesi ______."
 }

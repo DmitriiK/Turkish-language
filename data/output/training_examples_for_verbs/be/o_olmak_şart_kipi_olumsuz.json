@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If he weren't hungry, he wouldn't eat.",
-  "russian_example_sentence": "Если бы он не был голодным, он бы не ел.",
-  "turkish_example_sentence": "Aç olmasa, yemek yemezdi.",
-  "turkish_example_sentence_with_blank": "Aç ______, yemek yemezdi."
+  "turkish_example_sentence": "O uzun bir yolculuk olmasa, hemen eve dönerdik.",
+  "english_example_sentence": "If it were not a long journey, we would return home immediately.",
+  "russian_example_sentence": "Если бы это не было долгое путешествие, мы бы сразу вернулись домой.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T06:52:19.399045+00:00",
+  "turkish_example_sentence_with_blank": "O uzun bir yolculuk ______, hemen eve dönerdik."
 }

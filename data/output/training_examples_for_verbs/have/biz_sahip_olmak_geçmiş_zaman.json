@@ -4,17 +4,19 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahiptik",
-    "root": "sahip",
-    "tense_affix": "ti",
+    "verb_full": "sahip olduk",
+    "root": "sahip ol",
+    "tense_affix": "du",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We had two dogs when we were children",
-  "russian_example_sentence": "У нас были две собаки, когда мы были детьми",
-  "turkish_example_sentence": "Biz çocukken iki köpeğe sahiptik",
-  "turkish_example_sentence_with_blank": "Biz çocukken iki köpeğe ______"
+  "turkish_example_sentence": "Biz geçen ay güzel bir beyaz ev sahip olduk.",
+  "english_example_sentence": "We had a beautiful white house last month.",
+  "russian_example_sentence": "В прошлом месяце мы имели красивый белый дом.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:06:44.456696+00:00",
+  "turkish_example_sentence_with_blank": "Biz geçen ay güzel bir beyaz ev ______."
 }

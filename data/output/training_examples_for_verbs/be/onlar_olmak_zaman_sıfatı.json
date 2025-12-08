@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "olduklarında",
     "root": "ol",
-    "tense_affix": "duk",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "onlar",
     "personal_affix": "ları",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When they are hungry, they cook food",
-  "russian_example_sentence": "Когда они голодные, они готовят еду",
-  "turkish_example_sentence": "Onlar aç olduklarında yemek yaparlar",
-  "turkish_example_sentence_with_blank": "Onlar aç ______ yemek yaparlar"
+  "turkish_example_sentence": "Onlar mutlu çiftler olduklarında, düğün töreninde herkes gözyaşı döktü.",
+  "english_example_sentence": "When they were happy couples, everyone cried at the wedding ceremony.",
+  "russian_example_sentence": "Когда они были счастливыми парами, все плакали на свадебной церемонии.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T06:55:28.812876+00:00",
+  "turkish_example_sentence_with_blank": "Onlar mutlu çiftler ______, düğün töreninde herkes gözyaşı döktü."
 }

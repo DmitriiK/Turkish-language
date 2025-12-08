@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "olmayacaksın",
     "root": "ol",
-    "tense_affix": "acağ",
+    "tense_affix": "acak",
     "verb_tense": "yaracağım",
     "personal_pronoun": "sen",
     "personal_affix": "sın",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You will not be scared next time",
-  "russian_example_sentence": "Ты не будешь напуган в следующий раз",
-  "turkish_example_sentence": "Sen bir dahaki sefer korkmuş olmayacaksın",
-  "turkish_example_sentence_with_blank": "Sen bir dahaki sefer korkmuş ______"
+  "turkish_example_sentence": "Sen hiçbir zaman tembel bir çalışan olmayacaksın.",
+  "english_example_sentence": "You will never be a lazy worker.",
+  "russian_example_sentence": "Ты никогда не будешь ленивым работником.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T06:51:11.119497+00:00",
+  "turkish_example_sentence_with_blank": "Sen hiçbir zaman tembel bir çalışan ______."
 }

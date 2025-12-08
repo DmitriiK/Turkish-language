@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yaparsa",
     "root": "yap",
-    "tense_affix": "arsa",
+    "tense_affix": "ar",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If he does the work, everyone wins.",
-  "russian_example_sentence": "Если он сделает работу, все выиграют.",
-  "turkish_example_sentence": "O işi yaparsa herkes kazanır.",
-  "turkish_example_sentence_with_blank": "O işi ______ herkes kazanır."
+  "turkish_example_sentence": "O yeni iş planını dikkatli bir şekilde yaparsa, şirket büyüyecek.",
+  "english_example_sentence": "If he does the new business plan carefully, the company will grow.",
+  "russian_example_sentence": "Если он внимательно выполнит новый бизнес-план, компания будет расти.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:23:18.501832+00:00",
+  "turkish_example_sentence_with_blank": "O yeni iş planını dikkatli bir şekilde ______, şirket büyüyecek."
 }

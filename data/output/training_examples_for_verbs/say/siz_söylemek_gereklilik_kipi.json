@@ -4,17 +4,19 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylemeniz lazım",
+    "verb_full": "söylemeniz",
     "root": "söyle",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "niz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You all need to say your beautiful thoughts loudly",
-  "russian_example_sentence": "Вы все должны громко сказать ваши красивые мысли",
-  "turkish_example_sentence": "Siz güzel düşüncelerinizi yüksek sesle söylemeniz lazım",
-  "turkish_example_sentence_with_blank": "Siz güzel düşüncelerinizi yüksek sesle ______"
+  "turkish_example_sentence": "Siz müdür huzurunda açık fikirlerinizi söylemeniz lazım.",
+  "english_example_sentence": "You need to say your honest opinions in front of the director.",
+  "russian_example_sentence": "Вы должны сказать ваши честные мнения перед директором.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:38:23.551902+00:00",
+  "turkish_example_sentence_with_blank": "Siz müdür huzurunda açık fikirlerinizi ______ lazım."
 }

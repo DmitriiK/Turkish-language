@@ -4,17 +4,19 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylemememeları lazım",
+    "verb_full": "söylememeleri",
     "root": "söyle",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ları",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "They need to not say any false information",
-  "russian_example_sentence": "Они не должны говорить никакую ложную информацию",
-  "turkish_example_sentence": "Onlar yanlış bilgileri hiç söylemememeları lazım",
-  "turkish_example_sentence_with_blank": "Onlar yanlış bilgileri hiç ______"
+  "turkish_example_sentence": "Onlar mahkemede yalan ifadeleri söylememeleri gerek.",
+  "english_example_sentence": "They need to not say false statements in court.",
+  "russian_example_sentence": "Они не должны давать ложные показания в суде.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:38:23.551902+00:00",
+  "turkish_example_sentence_with_blank": "Onlar mahkemede yalan ifadeleri ______ gerek."
 }

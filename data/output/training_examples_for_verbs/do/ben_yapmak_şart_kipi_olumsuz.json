@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If I didn’t do the dishes, it would get dirty",
-  "russian_example_sentence": "Если бы я не помыл посуду, она бы испачкалась",
-  "turkish_example_sentence": "Bulaşıkları yapmasam, kirlenirdi",
-  "turkish_example_sentence_with_blank": "Bulaşıkları ______, kirlenirdi"
+  "turkish_example_sentence": "Ben bu önemli işi yapmasam, proje başarısız olacak.",
+  "english_example_sentence": "If I were not to do this important work, the project would fail.",
+  "russian_example_sentence": "Если бы я не сделал эту важную работу, проект потерпел бы неудачу.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:21:41.221434+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu önemli işi ______, proje başarısız olacak."
 }

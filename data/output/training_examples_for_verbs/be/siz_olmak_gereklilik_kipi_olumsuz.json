@@ -4,17 +4,19 @@
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmamanız lazım",
+    "verb_full": "olmammanız",
     "root": "ol",
-    "tense_affix": "lazım",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You must not be impatient in meetings",
-  "russian_example_sentence": "Вам нельзя быть нетерпеливыми на встречах",
-  "turkish_example_sentence": "Sizin toplantılarda sabırsız olmamanız lazım",
-  "turkish_example_sentence_with_blank": "Sizin toplantılarda sabırsız ______"
+  "turkish_example_sentence": "Siz bu önemli kararı alan sorumlu kişi olmammanız gerek.",
+  "english_example_sentence": "You need to not be the responsible person who made this important decision.",
+  "russian_example_sentence": "Вам не нужно быть ответственным человеком, принявшим это важное решение.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T06:52:36.067594+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu önemli kararı alan sorumlu kişi ______ gerek."
 }

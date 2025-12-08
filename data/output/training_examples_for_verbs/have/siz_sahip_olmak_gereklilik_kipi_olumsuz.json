@@ -4,17 +4,19 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olmamanız lazım",
+    "verb_full": "sahip olmanız",
     "root": "sahip ol",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You don’t need to have old habits.",
-  "russian_example_sentence": "Вам не нужно иметь старые привычки.",
-  "turkish_example_sentence": "Sizin eski alışkanlıklara sahip olmamanız lazım.",
-  "turkish_example_sentence_with_blank": "Sizin eski alışkanlıklara ______."
+  "turkish_example_sentence": "Siz bu hafta sonu planları sahip olmanız gerek değil kesinlikle.",
+  "english_example_sentence": "You don't need to have weekend plans definitely.",
+  "russian_example_sentence": "Вам не нужно иметь планы на выходные определенно.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:04:54.993328+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu hafta sonu planları ______ gerek değil kesinlikle."
 }

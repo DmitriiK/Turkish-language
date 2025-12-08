@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "olmazsan",
     "root": "ol",
-    "tense_affix": "sa",
+    "tense_affix": "maz",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If you are not careful, you will fall.",
-  "russian_example_sentence": "Если ты будешь невнимательным, то упадёшь.",
-  "turkish_example_sentence": "Dikkatli olmazsan düşeceksin.",
-  "turkish_example_sentence_with_blank": "Dikkatli ______ düşeceksin."
+  "turkish_example_sentence": "Sen dürüst ve güvenilir olmazsan, kimse sana inanmaz.",
+  "english_example_sentence": "If you are not honest and reliable, nobody will believe you.",
+  "russian_example_sentence": "Если ты не будешь честным и надежным, никто тебе не поверит.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T06:54:31.569104+00:00",
+  "turkish_example_sentence_with_blank": "Sen dürüst ve güvenilir ______, kimse sana inanmaz."
 }

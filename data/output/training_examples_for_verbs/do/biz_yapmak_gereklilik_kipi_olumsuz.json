@@ -4,17 +4,19 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmaması lazım",
+    "verb_full": "yapmamamız",
     "root": "yap",
-    "tense_affix": "lazım",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "mız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "We should not do that expensive purchase",
-  "russian_example_sentence": "Нам не нужно делать эту дорогую покупку",
-  "turkish_example_sentence": "Biz bu pahalı alışverişi şimdi yapmaması lazım",
-  "turkish_example_sentence_with_blank": "Biz bu pahalı alışverişi şimdi ______"
+  "turkish_example_sentence": "Biz bu çevre kirliliğine neden olan faaliyeti yapmamamız lazım.",
+  "english_example_sentence": "We need to not do this activity that causes environmental pollution.",
+  "russian_example_sentence": "Нам нужно не делать эту деятельность, вызывающую загрязнение окружающей среды.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:22:00.956255+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu çevre kirliliğine neden olan faaliyeti ______ lazım."
 }

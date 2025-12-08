@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "olmuşsa",
     "root": "ol",
-    "tense_affix": "muşsa",
+    "tense_affix": "muş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If he had been at the meeting, things would change.",
-  "russian_example_sentence": "Если бы он был на собрании, всё изменилось бы.",
-  "turkish_example_sentence": "Toplantıda olmuşsa, işler değişirdi.",
-  "turkish_example_sentence_with_blank": "Toplantıda ______, işler değişirdi."
+  "turkish_example_sentence": "O güvenilir bir arkadaş olmuşsa, seni hiç yalnız bırakmazdı.",
+  "english_example_sentence": "If he/she had been a reliable friend, he/she would never have left you alone.",
+  "russian_example_sentence": "Если бы он/она был надежным другом, он/она никогда бы не оставил тебя одного.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T06:54:49.641174+00:00",
+  "turkish_example_sentence_with_blank": "O güvenilir bir arkadaş ______, seni hiç yalnız bırakmazdı."
 }

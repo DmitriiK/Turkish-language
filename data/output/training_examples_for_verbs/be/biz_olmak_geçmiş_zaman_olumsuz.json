@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "olmadık",
     "root": "ol",
-    "tense_affix": "duk",
+    "tense_affix": "du",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "We were not happy about the results.",
-  "russian_example_sentence": "Мы не были довольны результатами.",
-  "turkish_example_sentence": "Biz sonuçlardan memnun olmadık.",
-  "turkish_example_sentence_with_blank": "Biz sonuçlardan memnun ______."
+  "turkish_example_sentence": "Biz o zor sınavda hazırlıklı ve kendinden emin adaylar olmadık.",
+  "english_example_sentence": "We were not prepared and confident candidates in that difficult exam.",
+  "russian_example_sentence": "Мы не были подготовленными и уверенными кандидатами на том сложном экзамене.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T06:50:37.028219+00:00",
+  "turkish_example_sentence_with_blank": "Biz o zor sınavda hazırlıklı ve kendinden emin adaylar ______."
 }

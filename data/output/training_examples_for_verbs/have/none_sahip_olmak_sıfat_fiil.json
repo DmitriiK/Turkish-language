@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The person who owns a red car",
-  "russian_example_sentence": "Человек, у которого есть красная машина",
-  "turkish_example_sentence": "Kırmızı bir arabaya sahip olan kişi",
-  "turkish_example_sentence_with_blank": "Kırmızı bir arabaya ______ kişi"
+  "turkish_example_sentence": "Güzel bahçeye sahip olan yaşlı kadın her gün orada oturur.",
+  "english_example_sentence": "The elderly woman who has a beautiful garden sits there every day.",
+  "russian_example_sentence": "Пожилая женщина, имеющая красивый сад, каждый день там сидит.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:10:19.076857+00:00",
+  "turkish_example_sentence_with_blank": "Güzel bahçeye ______ yaşlı kadın her gün orada oturur."
 }

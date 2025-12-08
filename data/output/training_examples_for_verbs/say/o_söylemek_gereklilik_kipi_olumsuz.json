@@ -4,17 +4,19 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylememesi lazım",
+    "verb_full": "söylememesi",
     "root": "söyle",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
     "personal_affix": "si",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "She needs to not say anything rude to them",
-  "russian_example_sentence": "Она не должна говорить ничего грубого им",
-  "turkish_example_sentence": "O onlara kaba hiçbir şey söylememesi lazım",
-  "turkish_example_sentence_with_blank": "O onlara kaba hiçbir şey ______"
+  "turkish_example_sentence": "O genç öğretmen sınıfta olumsuz yorumları söylememesi gerek.",
+  "english_example_sentence": "She the young teacher needs to not say negative comments in the classroom.",
+  "russian_example_sentence": "Она молодая учительница не должна говорить негативные комментарии в классе.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:38:23.551902+00:00",
+  "turkish_example_sentence_with_blank": "O genç öğretmen sınıfta olumsuz yorumları ______ gerek."
 }

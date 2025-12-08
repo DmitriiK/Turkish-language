@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "söylemezsin",
     "root": "söyle",
-    "tense_affix": "z",
+    "tense_affix": "r",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "sin",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You never say your real opinions in public",
-  "russian_example_sentence": "Ты никогда не говоришь свои настоящие мнения публично",
-  "turkish_example_sentence": "Sen kalabalık ortamda gerçek fikirlerini asla söylemezsin",
-  "turkish_example_sentence_with_blank": "Sen kalabalık ortamda gerçek fikirlerini asla ______"
+  "turkish_example_sentence": "Sen kişisel sırları hiç söylemezsin.",
+  "english_example_sentence": "You never say personal secrets.",
+  "russian_example_sentence": "Ты никогда не говоришь личные секреты.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:37:16.704919+00:00",
+  "turkish_example_sentence_with_blank": "Sen kişisel sırları hiç ______."
 }

@@ -4,17 +4,19 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olmazsan",
+    "verb_full": "sahip olmursan",
     "root": "sahip ol",
-    "tense_affix": "mazsa",
+    "tense_affix": "ur",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If you don't have a solution, we can't move forward",
-  "russian_example_sentence": "Если у тебя нет решения, мы не сможем двигаться вперёд",
-  "turkish_example_sentence": "Eğer bir çözüme sahip olmazsan, ilerleyemeyiz",
-  "turkish_example_sentence_with_blank": "Eğer bir çözüme ______, ilerleyemeyiz"
+  "turkish_example_sentence": "Sen yeterli deneyim sahip olmursan, bu zor işi yapamayacaksın.",
+  "english_example_sentence": "If you don't have sufficient experience, you won't be able to do this difficult job.",
+  "russian_example_sentence": "Если у тебя не будет достаточного опыта, ты не сможешь выполнить эту сложную работу.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:09:52.963141+00:00",
+  "turkish_example_sentence_with_blank": "Sen yeterli deneyim ______, bu zor işi yapamayacaksın."
 }

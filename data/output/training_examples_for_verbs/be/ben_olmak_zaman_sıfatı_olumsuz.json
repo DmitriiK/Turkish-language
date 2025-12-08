@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "olmadığımda",
     "root": "ol",
-    "tense_affix": "duğ",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "ben",
     "personal_affix": "um",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "When I am not organized, I forget everything",
-  "russian_example_sentence": "Когда я не организован, я всё забываю",
-  "turkish_example_sentence": "Ben düzenli olmadığımda her şeyi unuturum",
-  "turkish_example_sentence_with_blank": "Ben düzenli ______ her şeyi unuturum"
+  "turkish_example_sentence": "Ben evde olmadığımda, kedi pencereden dışarı bakıyor.",
+  "english_example_sentence": "When I am not at home, the cat looks out the window.",
+  "russian_example_sentence": "Когда я не дома, кошка смотрит в окно.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T06:55:28.812876+00:00",
+  "turkish_example_sentence_with_blank": "Ben evde ______, kedi pencereden dışarı bakıyor."
 }

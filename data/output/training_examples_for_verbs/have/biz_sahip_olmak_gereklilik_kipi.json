@@ -4,17 +4,19 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olmamız lazım",
+    "verb_full": "sahip olmamız",
     "root": "sahip ol",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "mız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We need to have a clear strategy.",
-  "russian_example_sentence": "Нам нужно иметь чёткую стратегию.",
-  "turkish_example_sentence": "Bizim net bir stratejiye sahip olmamız lazım.",
-  "turkish_example_sentence_with_blank": "Bizim net bir stratejiye ______."
+  "turkish_example_sentence": "Biz bu önemli toplantıda açık bir iletişim stratejisi sahip olmamız lazım.",
+  "english_example_sentence": "We need to have a clear communication strategy for this important meeting.",
+  "russian_example_sentence": "Нам нужно иметь четкую стратегию коммуникации для этого важного совещания.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:08:38.475473+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu önemli toplantıda açık bir iletişim stratejisi ______ lazım."
 }

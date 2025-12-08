@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sahip olmasalar",
     "root": "sahip ol",
-    "tense_affix": "masa",
+    "tense_affix": "sa",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If they didn’t have guidance, they couldn’t succeed",
-  "russian_example_sentence": "Если бы у них не было наставлений, они бы не смогли добиться успеха",
-  "turkish_example_sentence": "Rehberliğe sahip olmasalar, başarılı olamazlardı",
-  "turkish_example_sentence_with_blank": "Rehberliğe ______, başarılı olamazlardı"
+  "turkish_example_sentence": "Onlar bu kapsamlı eğitim programına sahip olmasalar, gençler beceri kazanamayacaklardı.",
+  "english_example_sentence": "If they did not have this comprehensive training program, young people would not be able to acquire skills.",
+  "russian_example_sentence": "Если бы у них не было этой комплексной программы обучения, молодые люди не смогли бы приобрести навыки.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:08:20.364534+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu kapsamlı eğitim programına ______, gençler beceri kazanamayacaklardı."
 }

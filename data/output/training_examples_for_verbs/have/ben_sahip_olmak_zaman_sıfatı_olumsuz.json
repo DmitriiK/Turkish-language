@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sahip olmadığımda",
     "root": "sahip ol",
-    "tense_affix": "madığım",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "ben",
-    "personal_affix": "da",
+    "personal_affix": "um",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "When I do not have my own car",
-  "russian_example_sentence": "Когда у меня нет своей машины",
-  "turkish_example_sentence": "Ben kendi arabama sahip olmadığımda",
-  "turkish_example_sentence_with_blank": "Ben kendi arabama ______"
+  "turkish_example_sentence": "Ben para sahip olmadığımda, evde kalmak zorunda kaldım.",
+  "english_example_sentence": "When I didn't have money, I had to stay home.",
+  "russian_example_sentence": "Когда я не имел денег, я был вынужден остаться дома.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:10:47.581790+00:00",
+  "turkish_example_sentence_with_blank": "Ben para ______, evde kalmak zorunda kaldım."
 }

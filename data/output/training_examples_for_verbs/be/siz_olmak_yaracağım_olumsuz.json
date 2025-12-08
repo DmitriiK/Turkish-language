@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "olmayacaksınız",
     "root": "ol",
-    "tense_affix": "acağ",
+    "tense_affix": "acak",
     "verb_tense": "yaracağım",
     "personal_pronoun": "siz",
     "personal_affix": "sınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You will not be upset after seeing her",
-  "russian_example_sentence": "Вы не будете расстроены после встречи с ней",
-  "turkish_example_sentence": "Siz onu gördükten sonra üzgün olmayacaksınız",
-  "turkish_example_sentence_with_blank": "Siz onu gördükten sonra üzgün ______"
+  "turkish_example_sentence": "Siz bu projedeki sorunlu ve yetersiz yöneticiler olmayacaksınız.",
+  "english_example_sentence": "You will not be problematic and insufficient managers in this project.",
+  "russian_example_sentence": "Вы не будете проблемными и недостаточными менеджерами в этом проекте.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T06:51:11.119497+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu projedeki sorunlu ve yetersiz yöneticiler ______."
 }

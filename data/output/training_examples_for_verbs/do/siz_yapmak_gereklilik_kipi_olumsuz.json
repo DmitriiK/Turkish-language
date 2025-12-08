@@ -4,17 +4,19 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmaması lazım",
+    "verb_full": "yapmamanız",
     "root": "yap",
-    "tense_affix": "lazım",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You should not do that rude behavior",
-  "russian_example_sentence": "Вам не нужно делать это грубое поведение",
-  "turkish_example_sentence": "Siz bu kabalık davranışı yapmaması lazım",
-  "turkish_example_sentence_with_blank": "Siz bu kabalık davranışı ______"
+  "turkish_example_sentence": "Siz bu gizli bilgiyi açıklaması yapmamanız gerek.",
+  "english_example_sentence": "You need to not do this secret information disclosure.",
+  "russian_example_sentence": "Вам нужно не делать раскрытие этой секретной информации.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:22:00.956255+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu gizli bilgiyi açıklaması ______ gerek."
 }

@@ -4,17 +4,19 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olmayasınız",
+    "verb_full": "sahip olmasınız",
     "root": "sahip ol",
-    "tense_affix": "aya",
+    "tense_affix": "a",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "sınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "May you not have bad feelings for anyone.",
-  "russian_example_sentence": "Пусть у вас не будет плохих чувств ни к кому.",
-  "turkish_example_sentence": "Siz kimseye kötü hislere sahip olmayasınız.",
-  "turkish_example_sentence_with_blank": "Siz kimseye kötü hislere ______."
+  "turkish_example_sentence": "Siz hiçbir finansal zorluk sahip olmasınız.",
+  "english_example_sentence": "May you not have any financial difficulties.",
+  "russian_example_sentence": "Пусть вы не имеете никаких финансовых трудностей.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:07:48.065423+00:00",
+  "turkish_example_sentence_with_blank": "Siz hiçbir finansal zorluk ______."
 }

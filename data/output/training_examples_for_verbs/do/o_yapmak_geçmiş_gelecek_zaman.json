@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He was going to travel abroad.",
-  "russian_example_sentence": "Он собирался поехать за границу.",
-  "turkish_example_sentence": "O gelecek yaz yurt dışına seyahat edecekti",
-  "turkish_example_sentence_with_blank": "O gelecek yaz yurt dışına seyahat edecekti"
+  "turkish_example_sentence": "O cumartesi sabahı lezzetli bir yemek yapacaktı fakat malzemeleri unuttu.",
+  "english_example_sentence": "He/She was going to do a delicious meal on Saturday morning but forgot the ingredients.",
+  "russian_example_sentence": "Он/Она собирался делать вкусное блюдо в субботу утром, но забыл ингредиенты.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:22:56.431175+00:00",
+  "turkish_example_sentence_with_blank": "O cumartesi sabahı lezzetli bir yemek ______ fakat malzemeleri unuttu."
 }

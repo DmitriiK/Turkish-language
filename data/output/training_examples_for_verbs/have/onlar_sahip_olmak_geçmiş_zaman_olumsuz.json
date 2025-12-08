@@ -4,17 +4,19 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip değillerdi",
-    "root": "sahip",
-    "tense_affix": "ti",
+    "verb_full": "sahip olmadılar",
+    "root": "sahip ol",
+    "tense_affix": "du",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lerdi",
+    "personal_affix": "lar",
     "polarity": "negative",
-    "negative_affix": "değil"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "They did not have enough food for the party",
-  "russian_example_sentence": "У них не было достаточно еды для вечеринки",
-  "turkish_example_sentence": "Onlar parti için yeterli yiyeceğe sahip değillerdi",
-  "turkish_example_sentence_with_blank": "Onlar parti için yeterli yiyeceğe ______"
+  "turkish_example_sentence": "Onlar geçen hafta küçük bir pembe çiçek vazosu sahip olmadılar.",
+  "english_example_sentence": "They did not have a small pink flower vase last week.",
+  "russian_example_sentence": "На прошлой неделе они не имели маленькую розовую вазу для цветов.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:06:44.456696+00:00",
+  "turkish_example_sentence_with_blank": "Onlar geçen hafta küçük bir pembe çiçek vazosu ______."
 }

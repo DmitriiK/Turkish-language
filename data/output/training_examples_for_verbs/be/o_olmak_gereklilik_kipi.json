@@ -4,17 +4,19 @@
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olması lazım",
+    "verb_full": "olması",
     "root": "ol",
-    "tense_affix": "lazım",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
     "personal_affix": "sı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He needs to be ready now",
-  "russian_example_sentence": "Ему нужно быть готовым сейчас",
-  "turkish_example_sentence": "Onun şimdi hazır olması lazım",
-  "turkish_example_sentence_with_blank": "Onun şimdi hazır ______"
+  "turkish_example_sentence": "O genç ve dinamik bir lider olması lazım.",
+  "english_example_sentence": "He/She needs to be a young and dynamic leader.",
+  "russian_example_sentence": "Ему/Ей нужно быть молодым и динамичным лидером.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T06:52:36.067594+00:00",
+  "turkish_example_sentence_with_blank": "O genç ve dinamik bir lider ______ lazım."
 }

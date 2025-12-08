@@ -4,17 +4,19 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmazsınız",
+    "verb_full": "yapmıyorsunuz",
     "root": "yap",
     "tense_affix": "ar",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "sınız",
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "mı"
   },
-  "english_example_sentence": "You do not do careless work",
-  "russian_example_sentence": "Вы не делаете небрежную работу",
-  "turkish_example_sentence": "Siz asla dikkatsiz ve kalitesiz işleri yapmazsınız",
-  "turkish_example_sentence_with_blank": "Siz asla dikkatsiz ve kalitesiz işleri ______"
+  "turkish_example_sentence": "Siz riskli finansal yatırımları hiçbir zaman yapmıyorsunuz.",
+  "english_example_sentence": "You never do risky financial investments.",
+  "russian_example_sentence": "Вы никогда не делаете рискованные финансовые инвестиции.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:20:55.065231+00:00",
+  "turkish_example_sentence_with_blank": "Siz riskli finansal yatırımları hiçbir zaman ______."
 }

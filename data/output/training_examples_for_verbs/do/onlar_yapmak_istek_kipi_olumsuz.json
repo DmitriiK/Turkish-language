@@ -4,17 +4,19 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmayalar",
+    "verb_full": "yapmasınlar",
     "root": "yap",
-    "tense_affix": "mayalar",
+    "tense_affix": "a",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "May they not do anything wrong",
-  "russian_example_sentence": "Пусть они ничего не делают неправильно",
-  "turkish_example_sentence": "Yanlış hiçbir şey yapmayalar",
-  "turkish_example_sentence_with_blank": "Yanlış hiçbir şey ______"
+  "turkish_example_sentence": "Onlar bu aptalca hata yapmasınlar.",
+  "english_example_sentence": "May they not do this silly mistake.",
+  "russian_example_sentence": "Пусть они не совершают эту глупую ошибку.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:21:11.842277+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu aptalca hata ______."
 }

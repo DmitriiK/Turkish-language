@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sahip olmuşsam",
     "root": "sahip ol",
-    "tense_affix": "muşsa",
+    "tense_affix": "muş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I had had an umbrella, I wouldn't have gotten wet.",
-  "russian_example_sentence": "Если бы у меня был зонтик, я бы не промокла.",
-  "turkish_example_sentence": "Ben bir şemsiyeye sahip olmuşsam, ıslanmazdım.",
-  "turkish_example_sentence_with_blank": "Ben bir şemsiyeye ______, ıslanmazdım."
+  "turkish_example_sentence": "Ben o değerli antika koleksiyonuna sahip olmuşsam, onu müzeye bağışlardım.",
+  "english_example_sentence": "If I had owned that valuable antique collection, I would have donated it to the museum.",
+  "russian_example_sentence": "Если бы я владел той ценной коллекцией антиквариата, я бы пожертвовал её музею.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:10:13.532795+00:00",
+  "turkish_example_sentence_with_blank": "Ben o değerli antika koleksiyonuna ______, onu müzeye bağışlardım."
 }

@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If they didn’t do anything, it would be useless",
-  "russian_example_sentence": "Если бы они ничего не сделали, это было бы бесполезно",
-  "turkish_example_sentence": "Onlar bir şey yapmasalar işe yaramaz olurdu",
-  "turkish_example_sentence_with_blank": "Onlar bir şey ______ işe yaramaz olurdu"
+  "turkish_example_sentence": "Onlar bu acil tıbbi müdahaleyi yapmasalar, hasta hayatını kaybedebilir.",
+  "english_example_sentence": "If they were not to do this emergency medical intervention, the patient could lose his life.",
+  "russian_example_sentence": "Если бы они не сделали это экстренное медицинское вмешательство, пациент мог бы потерять жизнь.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:21:41.221434+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu acil tıbbi müdahaleyi ______, hasta hayatını kaybedebilir."
 }

@@ -4,17 +4,19 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip",
-    "root": "sahip",
-    "tense_affix": "ip",
+    "verb_full": "sahip olur",
+    "root": "ol",
+    "tense_affix": "ur",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He has an old bike",
-  "russian_example_sentence": "У него есть старый велосипед",
-  "turkish_example_sentence": "O eski bir bisiklete sahip",
-  "turkish_example_sentence_with_blank": "O eski bir bisiklete ______"
+  "turkish_example_sentence": "O genç ve dinamik bir kişilik ile sahip olur.",
+  "english_example_sentence": "He/She has a young and dynamic personality.",
+  "russian_example_sentence": "Он/Она имеет молодую и динамичную личность.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:07:32.068119+00:00",
+  "turkish_example_sentence_with_blank": "O genç ve dinamik bir kişilik ile ______."
 }

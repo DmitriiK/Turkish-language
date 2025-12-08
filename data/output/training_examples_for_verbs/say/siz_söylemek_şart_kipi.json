@@ -4,17 +4,19 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylesanız",
+    "verb_full": "söyleseniz",
     "root": "söyle",
     "tense_affix": "se",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "niz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you say your experience, we will learn much",
-  "russian_example_sentence": "Если вы скажете свой опыт, мы многому научимся",
-  "turkish_example_sentence": "Siz değerli deneyiminizi söylesanız, çok şey öğreneceğiz",
-  "turkish_example_sentence_with_blank": "Siz değerli deneyiminizi ______, çok şey öğreneceğiz"
+  "turkish_example_sentence": "Siz deneyimli tavsiyelerinizi söyleseniz, genç öğrenciler fayda görür.",
+  "english_example_sentence": "If you were to say your experienced advice, young students would benefit.",
+  "russian_example_sentence": "Если бы вы сказали свой опытный совет, молодые студенты получили бы пользу.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:38:06.190807+00:00",
+  "turkish_example_sentence_with_blank": "Siz deneyimli tavsiyelerinizi ______, genç öğrenciler fayda görür."
 }

@@ -11,10 +11,12 @@
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "mama"
   },
-  "english_example_sentence": "They must not have any conflicts with neighbors",
-  "russian_example_sentence": "У них не должно быть конфликтов с соседями",
-  "turkish_example_sentence": "Onlar komşularıyla herhangi bir soruna sahip olmamalılar",
-  "turkish_example_sentence_with_blank": "Onlar komşularıyla herhangi bir soruna ______"
+  "turkish_example_sentence": "Onlar bu tehlikeli kimyasal maddeler için sahip olmamalılar.",
+  "english_example_sentence": "They must not have these dangerous chemical substances.",
+  "russian_example_sentence": "Они не должны иметь эти опасные химические вещества.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:09:14.470776+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu tehlikeli kimyasal maddeler için ______."
 }

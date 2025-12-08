@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "söylememeli",
     "root": "söyle",
-    "tense_affix": "memeli",
+    "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "She must not say negative comments about anyone",
-  "russian_example_sentence": "Она не должна говорить негативные комментарии о ком-либо",
-  "turkish_example_sentence": "O kimse hakkında olumsuz yorumlar söylememeli",
-  "turkish_example_sentence_with_blank": "O kimse hakkında olumsuz yorumlar ______"
+  "turkish_example_sentence": "O yaşlı kadın olumsuz yorumları komşulara söylememeli.",
+  "english_example_sentence": "She must not say negative comments to the neighbors.",
+  "russian_example_sentence": "Она не должна говорить негативные комментарии соседям.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:39:00.946435+00:00",
+  "turkish_example_sentence_with_blank": "O yaşlı kadın olumsuz yorumları komşulara ______."
 }

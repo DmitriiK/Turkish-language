@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "olmazlarsa",
     "root": "ol",
-    "tense_affix": "sa",
+    "tense_affix": "maz",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If they are not ready, we will wait.",
-  "russian_example_sentence": "Если они не будут готовы, мы подождём.",
-  "turkish_example_sentence": "Eğer hazır olmazlarsa biz bekleyeceğiz.",
-  "turkish_example_sentence_with_blank": "Eğer hazır ______ biz bekleyeceğiz."
+  "turkish_example_sentence": "Onlar sorumlu ve güvenilir olmazlarsa, ekip içinde güven sorunu yaşanır.",
+  "english_example_sentence": "If they are not responsible and reliable, there will be trust issues within the team.",
+  "russian_example_sentence": "Если они не будут ответственными и надежными, в команде возникнут проблемы с доверием.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T06:54:31.569104+00:00",
+  "turkish_example_sentence_with_blank": "Onlar sorumlu ve güvenilir ______, ekip içinde güven sorunu yaşanır."
 }

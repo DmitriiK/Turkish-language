@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yapmazsam",
     "root": "yap",
-    "tense_affix": "arsa",
+    "tense_affix": "maz",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If I don't do my homework, I fail.",
-  "russian_example_sentence": "Если я не делаю домашнее задание, я проваливаюсь.",
-  "turkish_example_sentence": "Ödevimi yapmazsam başarısız olurum.",
-  "turkish_example_sentence_with_blank": "Ödevimi ______ başarısız olurum."
+  "turkish_example_sentence": "Ben bu zor matematik ödevini yapmazsam, sınavda başarısız olacağım.",
+  "english_example_sentence": "If I do not do this difficult math homework, I will fail the exam.",
+  "russian_example_sentence": "Если я не выполню это сложное домашнее задание по математике, я не пройду экзамен.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:23:18.501832+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu zor matematik ödevini ______, sınavda başarısız olacağım."
 }

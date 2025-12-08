@@ -4,17 +4,19 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapması lazım",
+    "verb_full": "yapması",
     "root": "yap",
-    "tense_affix": "lazım",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
     "personal_affix": "sı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He needs to do his morning exercise",
-  "russian_example_sentence": "Ему нужно делать утреннюю зарядку",
-  "turkish_example_sentence": "O her sabah sağlıklı spor hareketini yapması lazım",
-  "turkish_example_sentence_with_blank": "O her sabah sağlıklı spor hareketini ______"
+  "turkish_example_sentence": "O genç doktor acil tıbbi müdahaleyi yapması lazım.",
+  "english_example_sentence": "He needs to do this urgent medical intervention.",
+  "russian_example_sentence": "Ему нужно делать это срочное медицинское вмешательство.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:22:00.956255+00:00",
+  "turkish_example_sentence_with_blank": "O genç doktor acil tıbbi müdahaleyi ______ lazım."
 }

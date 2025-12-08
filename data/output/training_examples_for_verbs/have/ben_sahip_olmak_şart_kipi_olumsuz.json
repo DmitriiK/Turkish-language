@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sahip olmasam",
     "root": "sahip ol",
-    "tense_affix": "masa",
+    "tense_affix": "sa",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If I didn’t have a car, I would take the bus",
-  "russian_example_sentence": "Если бы у меня не было машины, я бы поехал на автобусе",
-  "turkish_example_sentence": "Bir arabaya sahip olmasam, otobüse binerdim",
-  "turkish_example_sentence_with_blank": "Bir arabaya ______, otobüse binerdim"
+  "turkish_example_sentence": "Ben bu pahalı bilgisayara sahip olmasam, üniversitede zorluk çekerdim.",
+  "english_example_sentence": "If I did not have this expensive computer, I would struggle at university.",
+  "russian_example_sentence": "Если бы у меня не было этого дорогого компьютера, я бы испытывал трудности в университете.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:08:20.364534+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu pahalı bilgisayara ______, üniversitede zorluk çekerdim."
 }

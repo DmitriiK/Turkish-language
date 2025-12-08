@@ -4,17 +4,19 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olmayasın",
+    "verb_full": "sahip olmasın",
     "root": "sahip ol",
-    "tense_affix": "aya",
+    "tense_affix": "a",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "sın",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "May you not have any stress.",
-  "russian_example_sentence": "Пусть у тебя не будет стресса.",
-  "turkish_example_sentence": "Sen hiç strese sahip olmayasın.",
-  "turkish_example_sentence_with_blank": "Sen hiç strese ______."
+  "turkish_example_sentence": "Sen kötü bir deneyim sahip olmasın lütfen.",
+  "english_example_sentence": "Please may you not have a bad experience.",
+  "russian_example_sentence": "Пожалуйста, пусть ты не имеешь плохой опыт.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:07:48.065423+00:00",
+  "turkish_example_sentence_with_blank": "Sen kötü bir deneyim ______ lütfen."
 }

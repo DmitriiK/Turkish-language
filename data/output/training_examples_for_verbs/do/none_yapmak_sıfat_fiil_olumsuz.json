@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yapmayan",
     "root": "yap",
-    "tense_affix": "yan",
+    "tense_affix": "an",
     "verb_tense": "sıfat_fiil",
     "personal_pronoun": null,
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "The one not doing the assignment is nervous",
-  "russian_example_sentence": "Тот, кто не делает задание, нервничает",
-  "turkish_example_sentence": "Görevi yapmayan kişi gergin",
-  "turkish_example_sentence_with_blank": "Görevi ______ kişi gergin"
+  "turkish_example_sentence": "Ödevini hiç yapmayan tembel öğrenci sınıfta başarısız kalıyor.",
+  "english_example_sentence": "The lazy student who does not do his homework fails in class.",
+  "russian_example_sentence": "Ленивый студент, который не делает домашнее задание, не успевает в классе.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:24:01.110104+00:00",
+  "turkish_example_sentence_with_blank": "Ödevini hiç ______ tembel öğrenci sınıfta başarısız kalıyor."
 }

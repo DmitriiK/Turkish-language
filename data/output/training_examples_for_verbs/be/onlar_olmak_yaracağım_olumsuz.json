@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "olmayacaklar",
     "root": "ol",
-    "tense_affix": "acağ",
+    "tense_affix": "acak",
     "verb_tense": "yaracağım",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "They will not be late for the meeting",
-  "russian_example_sentence": "Они не опоздают на встречу",
-  "turkish_example_sentence": "Onlar toplantıya geç olmayacaklar",
-  "turkish_example_sentence_with_blank": "Onlar toplantıya geç ______"
+  "turkish_example_sentence": "Onlar asla kötü ve dürüst olmayan insanlar olmayacaklar.",
+  "english_example_sentence": "They will never be bad and dishonest people.",
+  "russian_example_sentence": "Они никогда не будут плохими и нечестными людьми.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T06:51:11.119497+00:00",
+  "turkish_example_sentence_with_blank": "Onlar asla kötü ve dürüst olmayan insanlar ______."
 }

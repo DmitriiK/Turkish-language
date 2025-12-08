@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "olmuşsak",
     "root": "ol",
-    "tense_affix": "muşsa",
+    "tense_affix": "muş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we had been friends, we would have been happy.",
-  "russian_example_sentence": "Если бы мы были друзьями, мы были бы счастливы.",
-  "turkish_example_sentence": "Arkadaş olmuşsak mutlu olurduk.",
-  "turkish_example_sentence_with_blank": "Arkadaş ______ mutlu olurduk."
+  "turkish_example_sentence": "Biz zamanında hazır olmuşsak, uzun yolculuğu rahat tamamlayabilirdik.",
+  "english_example_sentence": "If we had been ready on time, we could have completed the long journey comfortably.",
+  "russian_example_sentence": "Если бы мы были готовы вовремя, мы могли бы удобно завершить долгое путешествие.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T06:54:49.641174+00:00",
+  "turkish_example_sentence_with_blank": "Biz zamanında hazır ______, uzun yolculuğu rahat tamamlayabilirdik."
 }

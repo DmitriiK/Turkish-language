@@ -4,7 +4,7 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylemiyor",
+    "verb_full": "söylümüyorsunuz",
     "root": "söyle",
     "tense_affix": "üyor",
     "verb_tense": "şimdiki_zaman",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "m"
   },
-  "english_example_sentence": "You are not saying your concerns about the project",
-  "russian_example_sentence": "Вы не говорите свои опасения по поводу проекта",
-  "turkish_example_sentence": "Siz büyük projenin riskli yönlerini açıkça söylemiyor",
-  "turkish_example_sentence_with_blank": "Siz büyük projenin riskli yönlerini açıkça ______"
+  "turkish_example_sentence": "Siz boş ve anlamsız sözleri derste söylümüyorsunuz.",
+  "english_example_sentence": "You are not saying empty and meaningless words in class.",
+  "russian_example_sentence": "Вы не говорите пустые и бессмысленные слова на уроке.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:36:02.081539+00:00",
+  "turkish_example_sentence_with_blank": "Siz boş ve anlamsız sözleri derste ______."
 }

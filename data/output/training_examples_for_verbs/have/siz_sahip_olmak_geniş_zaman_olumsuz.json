@@ -4,17 +4,19 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip değilsiniz",
-    "root": "sahip",
-    "tense_affix": "ip",
+    "verb_full": "sahip olmazsınız",
+    "root": "ol",
+    "tense_affix": "ur",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "siniz",
+    "personal_affix": "sunuz",
     "polarity": "negative",
-    "negative_affix": "değil"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "You do not have enough money",
-  "russian_example_sentence": "У вас нет достаточно денег",
-  "turkish_example_sentence": "Siz yeterli paraya sahip değilsiniz",
-  "turkish_example_sentence_with_blank": "Siz yeterli paraya ______"
+  "turkish_example_sentence": "Siz bu tür bir uzman ve danışman ile sahip olmazsınız.",
+  "english_example_sentence": "You do not have such an expert and consultant.",
+  "russian_example_sentence": "Вы не имеете такого эксперта и консультанта.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:07:32.068119+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu tür bir uzman ve danışman ile ______."
 }

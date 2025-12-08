@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yapmazsak",
     "root": "yap",
-    "tense_affix": "arsak",
+    "tense_affix": "maz",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If we don't do our research, nothing will change.",
-  "russian_example_sentence": "Если мы не проведем наше исследование, ничего не изменится.",
-  "turkish_example_sentence": "Araştırmamızı yapmazsak hiçbir şey değişmez.",
-  "turkish_example_sentence_with_blank": "Araştırmamızı ______ hiçbir şey değişmez."
+  "turkish_example_sentence": "Biz bu özel antrenmanı yapmazsak, spor müsabakasında zayıf olacağız.",
+  "english_example_sentence": "If we do not do this special training, we will be weak in the sports competition.",
+  "russian_example_sentence": "Если мы не проведем эту специальную тренировку, мы будем слабы на спортивных соревнованиях.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:23:18.501832+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu özel antrenmanı ______, spor müsabakasında zayıf olacağız."
 }

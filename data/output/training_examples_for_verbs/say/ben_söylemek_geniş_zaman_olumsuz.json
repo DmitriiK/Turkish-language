@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "söylemem",
     "root": "söyle",
-    "tense_affix": "z",
+    "tense_affix": "r",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "im",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "I do not say harsh words to anyone",
-  "russian_example_sentence": "Я не говорю резкие слова никому",
-  "turkish_example_sentence": "Ben kimseye sert ve kırıcı sözleri söylemem",
-  "turkish_example_sentence_with_blank": "Ben kimseye sert ve kırıcı sözleri ______"
+  "turkish_example_sentence": "Ben asla yalan sözler söylemem.",
+  "english_example_sentence": "I never say false words.",
+  "russian_example_sentence": "Я никогда не говорю ложные слова.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:37:16.704919+00:00",
+  "turkish_example_sentence_with_blank": "Ben asla yalan sözler ______."
 }

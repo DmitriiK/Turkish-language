@@ -4,17 +4,19 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahipsin",
-    "root": "sahip",
-    "tense_affix": "ip",
+    "verb_full": "sahip olursun",
+    "root": "ol",
+    "tense_affix": "ur",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "sin",
+    "personal_affix": "sun",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You have a beautiful house",
-  "russian_example_sentence": "У тебя есть красивый дом",
-  "turkish_example_sentence": "Sen güzel bir eve sahipsin",
-  "turkish_example_sentence_with_blank": "Sen güzel bir eve ______"
+  "turkish_example_sentence": "Sen yetenekli bir müzisyen ve sanatçı olarak sahip olursun.",
+  "english_example_sentence": "You have talents as a talented musician and artist.",
+  "russian_example_sentence": "Ты имеешь таланты как талантливый музыкант и художник.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:07:32.068119+00:00",
+  "turkish_example_sentence_with_blank": "Sen yetenekli bir müzisyen ve sanatçı olarak ______."
 }

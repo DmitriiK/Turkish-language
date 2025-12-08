@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "olsunlar",
     "root": "ol",
-    "tense_affix": "sun",
+    "tense_affix": "",
     "verb_tense": "emir_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "sunlar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Let them be careful on the road",
-  "russian_example_sentence": "Пусть они будут осторожны на дороге",
-  "turkish_example_sentence": "Yolda dikkatli olsunlar",
-  "turkish_example_sentence_with_blank": "Yolda dikkatli ______"
+  "turkish_example_sentence": "Onlar yaşlı ve bilge insanlar olsunlar toplumda!",
+  "english_example_sentence": "Let them be old and wise people in society!",
+  "russian_example_sentence": "Пусть они будут старыми и мудрыми людьми в обществе!",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T06:52:00.095870+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yaşlı ve bilge insanlar ______ toplumda!"
 }

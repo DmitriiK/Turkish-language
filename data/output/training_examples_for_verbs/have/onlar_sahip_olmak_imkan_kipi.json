@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sahip olabilirler",
     "root": "sahip ol",
-    "tense_affix": "abilir",
+    "tense_affix": "abil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "ler",
+    "personal_affix": "irler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They can have a good career in law.",
-  "russian_example_sentence": "Они могут иметь хорошую карьеру в юриспруденции.",
-  "turkish_example_sentence": "Onlar iyi bir hukuk kariyerine sahip olabilirler.",
-  "turkish_example_sentence_with_blank": "Onlar iyi bir hukuk kariyerine ______."
+  "turkish_example_sentence": "Onlar iyi bir eğitim alarak parlak bir meslek sahip olabilirler.",
+  "english_example_sentence": "They can have a brilliant profession by receiving a good education.",
+  "russian_example_sentence": "Они могут иметь блестящую профессию, получив хорошее образование.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:08:58.536014+00:00",
+  "turkish_example_sentence_with_blank": "Onlar iyi bir eğitim alarak parlak bir meslek ______."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "olmamışsanız",
     "root": "ol",
-    "tense_affix": "muşsa",
+    "tense_affix": "muş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If you hadn't been kind, I wouldn't call.",
-  "russian_example_sentence": "Если бы вы не были добрыми, я бы не позвонил.",
-  "turkish_example_sentence": "Nazik olmamışsanız aramazdım.",
-  "turkish_example_sentence_with_blank": "Nazik ______ aramazdım."
+  "turkish_example_sentence": "Siz konferansta olmamışsanız, önemli duyuruları duymamışsınız.",
+  "english_example_sentence": "If you had not been at the conference, you would not have heard the important announcements.",
+  "russian_example_sentence": "Если бы вы не были на конференции, вы бы не услышали важные объявления.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T06:54:49.641174+00:00",
+  "turkish_example_sentence_with_blank": "Siz konferansta ______, önemli duyuruları duymamışsınız."
 }

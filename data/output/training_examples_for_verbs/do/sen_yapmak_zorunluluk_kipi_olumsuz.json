@@ -11,10 +11,12 @@
     "personal_pronoun": "sen",
     "personal_affix": "sın",
     "polarity": "negative",
-    "negative_affix": "mama"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "You must not do such careless work here",
-  "russian_example_sentence": "Ты не должен делать такую небрежную работу здесь",
-  "turkish_example_sentence": "Sen burada bu dikkatsiz işi yapmamalısın",
-  "turkish_example_sentence_with_blank": "Sen burada bu dikkatsiz işi ______"
+  "turkish_example_sentence": "Sen bu tehlikeli spor faaliyetini yapmamalısın.",
+  "english_example_sentence": "You must not do this dangerous sports activity.",
+  "russian_example_sentence": "Ты не должен заниматься этой опасной спортивной деятельностью.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:22:37.207911+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu tehlikeli spor faaliyetini ______."
 }

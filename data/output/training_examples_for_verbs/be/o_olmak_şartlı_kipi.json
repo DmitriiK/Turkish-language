@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "olursa",
     "root": "ol",
-    "tense_affix": "ursa",
+    "tense_affix": "ur",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If she is ready, we will leave.",
-  "russian_example_sentence": "Если она будет готова, мы уйдём.",
-  "turkish_example_sentence": "Eğer o hazır olursa gideceğiz.",
-  "turkish_example_sentence_with_blank": "Eğer o hazır ______ gideceğiz."
+  "turkish_example_sentence": "O genç ve dinamik olursa, şirkette hızlı ilerleme yapabilir.",
+  "english_example_sentence": "If he/she is young and dynamic, he/she can advance quickly in the company.",
+  "russian_example_sentence": "Если он/она будет молодым и динамичным, он/она может быстро продвигаться в компании.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T06:54:31.569104+00:00",
+  "turkish_example_sentence_with_blank": "O genç ve dinamik ______, şirkette hızlı ilerleme yapabilir."
 }

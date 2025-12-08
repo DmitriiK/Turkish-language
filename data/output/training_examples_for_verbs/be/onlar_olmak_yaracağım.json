@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "olacaklar",
     "root": "ol",
-    "tense_affix": "acağ",
+    "tense_affix": "acak",
     "verb_tense": "yaracağım",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They will be great team members soon",
-  "russian_example_sentence": "Они скоро станут отличными членами команды",
-  "turkish_example_sentence": "Onlar yakında harika takım üyeleri olacaklar",
-  "turkish_example_sentence_with_blank": "Onlar yakında harika takım üyeleri ______"
+  "turkish_example_sentence": "Onlar gelecek hafta ünlü ve saygıdeğer bilim insanları olacaklar.",
+  "english_example_sentence": "They will be famous and respected scientists next week.",
+  "russian_example_sentence": "Они будут известными и уважаемыми учеными на следующей неделе.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T06:51:11.119497+00:00",
+  "turkish_example_sentence_with_blank": "Onlar gelecek hafta ünlü ve saygıdeğer bilim insanları ______."
 }

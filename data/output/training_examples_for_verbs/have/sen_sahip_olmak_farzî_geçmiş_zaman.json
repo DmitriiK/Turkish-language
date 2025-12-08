@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sahip olmuşsan",
     "root": "sahip ol",
-    "tense_affix": "muşsa",
+    "tense_affix": "muş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you had had the keys, we wouldn’t wait.",
-  "russian_example_sentence": "Если бы у тебя были ключи, нам не пришлось бы ждать.",
-  "turkish_example_sentence": "Eğer anahtarlara sahip olmuşsan, beklemezdik.",
-  "turkish_example_sentence_with_blank": "Eğer anahtarlara ______, beklemezdik."
+  "turkish_example_sentence": "Sen o güzel bahçeye sahip olmuşsan, orada çiçek yetiştirirdin.",
+  "english_example_sentence": "If you had owned that beautiful garden, you would have grown flowers there.",
+  "russian_example_sentence": "Если бы ты владел тем красивым садом, ты бы выращивал там цветы.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:10:13.532795+00:00",
+  "turkish_example_sentence_with_blank": "Sen o güzel bahçeye ______, orada çiçek yetiştirirdin."
 }

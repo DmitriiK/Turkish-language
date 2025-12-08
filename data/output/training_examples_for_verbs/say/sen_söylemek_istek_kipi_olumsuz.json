@@ -4,7 +4,7 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylemesin",
+    "verb_full": "söylemeyesin",
     "root": "söyle",
     "tense_affix": "ye",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "May you not say hurtful things here",
-  "russian_example_sentence": "Пусть ты не говоришь обидные вещи здесь",
-  "turkish_example_sentence": "Sen burada kırıcı şeyler söylemesin",
-  "turkish_example_sentence_with_blank": "Sen burada kırıcı şeyler ______"
+  "turkish_example_sentence": "Sen yalan sözleri hiç söylemeyesin.",
+  "english_example_sentence": "May you not say false words ever.",
+  "russian_example_sentence": "Пусть ты никогда не скажешь ложные слова.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:37:36.200464+00:00",
+  "turkish_example_sentence_with_blank": "Sen yalan sözleri hiç ______."
 }

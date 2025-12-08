@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If you all didn’t do this job, we couldn’t finish",
-  "russian_example_sentence": "Если бы вы все не сделали бы эту работу, мы бы не смогли закончить",
-  "turkish_example_sentence": "Siz bu işi yapmasanız biz bitiremeyiz",
-  "turkish_example_sentence_with_blank": "Siz bu işi ______ biz bitiremeyiz"
+  "turkish_example_sentence": "Siz bu önemli toplantı notlarını yapmasanız, bilgi kaybolacak.",
+  "english_example_sentence": "If you were not to do these important meeting notes, the information would be lost.",
+  "russian_example_sentence": "Если бы вы не сделали эти важные заметки встречи, информация была бы потеряна.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:21:41.221434+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu önemli toplantı notlarını ______, bilgi kaybolacak."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sahip olmayıp",
     "root": "sahip ol",
-    "tense_affix": "yıp",
+    "tense_affix": "up",
     "verb_tense": "ulak_fiil",
     "personal_pronoun": null,
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "Not having resources, they sought help",
-  "russian_example_sentence": "Не имея ресурсов, они обратились за помощью",
-  "turkish_example_sentence": "Kaynaklara sahip olmayıp yardım aradılar",
-  "turkish_example_sentence_with_blank": "Kaynaklara ______ yardım aradılar"
+  "turkish_example_sentence": "Yeterli kaynağa sahip olmayıp, genç girişimci projesini erteledi.",
+  "english_example_sentence": "Not having sufficient resources, the young entrepreneur postponed his project.",
+  "russian_example_sentence": "Не имея достаточных ресурсов, молодой предприниматель отложил свой проект.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:10:30.135111+00:00",
+  "turkish_example_sentence_with_blank": "Yeterli kaynağa ______, genç girişimci projesini erteledi."
 }

@@ -4,17 +4,19 @@
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmamalaları lazım",
+    "verb_full": "olmamları",
     "root": "ol",
-    "tense_affix": "lazım",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ları",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "They must not be careless outside",
-  "russian_example_sentence": "Им нельзя быть неосторожными на улице",
-  "turkish_example_sentence": "Onların dışarıda dikkatsiz olmamaları lazım",
-  "turkish_example_sentence_with_blank": "Onların dışarıda dikkatsiz olmamaları lazım"
+  "turkish_example_sentence": "Onlar kıskanç ve bencil insanlar olmamları gerek.",
+  "english_example_sentence": "They need to not be jealous and selfish people.",
+  "russian_example_sentence": "Им не нужно быть завистливыми и эгоистичными людьми.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T06:52:36.067594+00:00",
+  "turkish_example_sentence_with_blank": "Onlar kıskanç ve bencil insanlar ______ gerek."
 }

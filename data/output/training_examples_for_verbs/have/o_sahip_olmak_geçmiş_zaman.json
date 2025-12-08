@@ -4,17 +4,19 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahipti",
-    "root": "sahip",
-    "tense_affix": "ti",
+    "verb_full": "sahip oldu",
+    "root": "sahip ol",
+    "tense_affix": "du",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He had a big garden at his old house",
-  "russian_example_sentence": "У него был большой сад в старом доме",
-  "turkish_example_sentence": "O eski evinde büyük bir bahçeye sahipti",
-  "turkish_example_sentence_with_blank": "O eski evinde büyük bir bahçeye ______"
+  "turkish_example_sentence": "O geçen yıl uzun bir yeşil elbise sahip oldu.",
+  "english_example_sentence": "She had a long green dress last year.",
+  "russian_example_sentence": "Она имела длинное зеленое платье в прошлом году.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:06:44.456696+00:00",
+  "turkish_example_sentence_with_blank": "O geçen yıl uzun bir yeşil elbise ______."
 }

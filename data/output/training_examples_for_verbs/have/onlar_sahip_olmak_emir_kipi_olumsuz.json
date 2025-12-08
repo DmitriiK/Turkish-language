@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sahip olmasınlar",
     "root": "sahip ol",
-    "tense_affix": "masınlar",
+    "tense_affix": "",
     "verb_tense": "emir_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "sınlar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "Do not let them have bad habits.",
-  "russian_example_sentence": "Не позволяйте им иметь плохие привычки.",
-  "turkish_example_sentence": "Onlar kötü alışkanlıklara sahip olmasınlar.",
-  "turkish_example_sentence_with_blank": "Onlar kötü alışkanlıklara ______."
+  "turkish_example_sentence": "Onlar bu ağır finansal borçlar sahip olmasınlar!",
+  "english_example_sentence": "Let them not have these heavy financial debts!",
+  "russian_example_sentence": "Пусть они не имеют эти тяжелые финансовые долги!",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:08:00.282958+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu ağır finansal borçlar ______!"
 }

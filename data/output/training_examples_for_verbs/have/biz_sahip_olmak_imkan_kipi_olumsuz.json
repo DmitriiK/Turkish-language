@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sahip olamayız",
     "root": "sahip ol",
-    "tense_affix": "a",
+    "tense_affix": "abil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "yız",
+    "personal_affix": "iriz",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "We cannot have a better option.",
-  "russian_example_sentence": "Мы не можем иметь лучшее предложение.",
-  "turkish_example_sentence": "Biz daha iyi bir seçeneğe sahip olamayız.",
-  "turkish_example_sentence_with_blank": "Biz daha iyi bir seçeneğe ______."
+  "turkish_example_sentence": "Biz sınırlı bir bütçe ile lüks bir tatil sahip olamayız.",
+  "english_example_sentence": "We cannot have a luxury vacation with a limited budget.",
+  "russian_example_sentence": "Мы не можем иметь роскошный отпуск с ограниченным бюджетом.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:08:58.536014+00:00",
+  "turkish_example_sentence_with_blank": "Biz sınırlı bir bütçe ile lüks bir tatil ______."
 }

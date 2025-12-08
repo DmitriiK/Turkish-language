@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "olmayan",
     "root": "ol",
-    "tense_affix": "yan",
+    "tense_affix": "an",
     "verb_tense": "sıfat_fiil",
     "personal_pronoun": null,
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "The man who is not honest is here.",
-  "russian_example_sentence": "Мужчина, который не честный, здесь.",
-  "turkish_example_sentence": "Dürüst olmayan adam burada.",
-  "turkish_example_sentence_with_blank": "Dürüst ______ adam burada."
+  "turkish_example_sentence": "Dün gece uyuyan küçük köpek bugün olmayan hayvan değildir.",
+  "english_example_sentence": "The small dog that slept last night is not an animal that is not.",
+  "russian_example_sentence": "Маленькая собака, которая спала прошлой ночью, не является животным, которое не существует.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T06:54:56.043071+00:00",
+  "turkish_example_sentence_with_blank": "Dün gece uyuyan küçük köpek bugün ______ hayvan değildir."
 }

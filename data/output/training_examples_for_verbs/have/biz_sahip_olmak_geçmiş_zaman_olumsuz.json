@@ -4,17 +4,19 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip değildik",
-    "root": "sahip",
-    "tense_affix": "ti",
+    "verb_full": "sahip olmadık",
+    "root": "sahip ol",
+    "tense_affix": "du",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
-    "negative_affix": "değil"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "We did not have time to visit the museum",
-  "russian_example_sentence": "У нас не было времени на посещение музея",
-  "turkish_example_sentence": "Biz müzeyi ziyaret etmek için zamana sahip değildik",
-  "turkish_example_sentence_with_blank": "Biz müzeyi ziyaret etmek için zamana ______"
+  "turkish_example_sentence": "Biz iki hafta önce yeni bir siyah telefon sahip olmadık.",
+  "english_example_sentence": "We did not have a new black phone two weeks ago.",
+  "russian_example_sentence": "Две недели назад мы не имели новый черный телефон.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:06:44.456696+00:00",
+  "turkish_example_sentence_with_blank": "Biz iki hafta önce yeni bir siyah telefon ______."
 }

@@ -4,17 +4,19 @@
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmamam lazım",
+    "verb_full": "olmamam",
     "root": "ol",
-    "tense_affix": "lazım",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I must not be late again",
-  "russian_example_sentence": "Мне нельзя снова опоздать",
-  "turkish_example_sentence": "Ben tekrar geç olmamam lazım",
-  "turkish_example_sentence_with_blank": "Ben tekrar geç ______"
+  "turkish_example_sentence": "Ben bu proje için sorumlı olmamam gerek.",
+  "english_example_sentence": "I need to not be responsible for this project.",
+  "russian_example_sentence": "Мне не нужно быть ответственным за этот проект.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T06:52:36.067594+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu proje için sorumlı ______ gerek."
 }

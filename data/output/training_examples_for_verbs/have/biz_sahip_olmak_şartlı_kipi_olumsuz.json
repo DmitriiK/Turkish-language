@@ -4,17 +4,19 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olmazsak",
+    "verb_full": "sahip olmursak",
     "root": "sahip ol",
-    "tense_affix": "mazsa",
+    "tense_affix": "ur",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If we don't have the money, we can't buy it",
-  "russian_example_sentence": "Если у нас не будет денег, мы не сможем купить это",
-  "turkish_example_sentence": "Eğer paraya sahip olmazsak, bunu satın alamayız",
-  "turkish_example_sentence_with_blank": "Eğer paraya ______, bunu satın alamayız"
+  "turkish_example_sentence": "Biz güvenilir bir ortağı sahip olmursak, işletmeyi genişletemeyiz.",
+  "english_example_sentence": "If we don't have a reliable partner, we cannot expand the business.",
+  "russian_example_sentence": "Если у нас не будет надежного партнера, мы не сможем расширить бизнес.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:09:52.963141+00:00",
+  "turkish_example_sentence_with_blank": "Biz güvenilir bir ortağı ______, işletmeyi genişletemeyiz."
 }

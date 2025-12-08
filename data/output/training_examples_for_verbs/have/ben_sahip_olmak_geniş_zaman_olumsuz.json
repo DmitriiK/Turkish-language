@@ -4,17 +4,19 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip değilim",
-    "root": "sahip",
-    "tense_affix": "ip",
+    "verb_full": "sahip olmam",
+    "root": "ol",
+    "tense_affix": "ur",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "im",
+    "personal_affix": "um",
     "polarity": "negative",
-    "negative_affix": "değil"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "I do not have a car",
-  "russian_example_sentence": "У меня нет машины",
-  "turkish_example_sentence": "Ben bir arabaya sahip değilim",
-  "turkish_example_sentence_with_blank": "Ben bir arabaya ______"
+  "turkish_example_sentence": "Ben yeterli paraya ve imkana sahip olmam.",
+  "english_example_sentence": "I do not have enough money and opportunity.",
+  "russian_example_sentence": "Я не имею достаточно денег и возможности.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:07:32.068119+00:00",
+  "turkish_example_sentence_with_blank": "Ben yeterli paraya ve imkana ______."
 }

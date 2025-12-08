@@ -4,17 +4,19 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olmazsanız",
+    "verb_full": "sahip olmursanız",
     "root": "sahip ol",
-    "tense_affix": "mazsa",
+    "tense_affix": "ur",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If you don't have experience, you won't be hired",
-  "russian_example_sentence": "Если у вас нет опыта, вас не возьмут на работу",
-  "turkish_example_sentence": "Eğer tecrübeye sahip olmazsanız, işe alınmazsınız",
-  "turkish_example_sentence_with_blank": "Eğer tecrübeye ______, işe alınmazsınız"
+  "turkish_example_sentence": "Siz yasal bir ruhsat sahip olmursanız, bu işi yürütemeyeceksiniz.",
+  "english_example_sentence": "If you don't have a legal license, you will not be able to conduct this business.",
+  "russian_example_sentence": "Если у вас не будет юридической лицензии, вы не сможете вести этот бизнес.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:09:52.963141+00:00",
+  "turkish_example_sentence_with_blank": "Siz yasal bir ruhsat ______, bu işi yürütemeyeceksiniz."
 }

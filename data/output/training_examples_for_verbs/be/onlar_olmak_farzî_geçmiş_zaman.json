@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "olmuşlarsa",
     "root": "ol",
-    "tense_affix": "muşsa",
+    "tense_affix": "muş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they had been ready, we’d leave earlier.",
-  "russian_example_sentence": "Если бы они были готовы, мы бы уехали пораньше.",
-  "turkish_example_sentence": "Eğer hazır olmuşlarsa, daha erken ayrılırdık.",
-  "turkish_example_sentence_with_blank": "Eğer hazır ______, daha erken ayrılırdık."
+  "turkish_example_sentence": "Onlar dürüst insanlar olmuşlarsa, bu skandalı asla yaşanmamış olurdu.",
+  "english_example_sentence": "If they had been honest people, this scandal would never have happened.",
+  "russian_example_sentence": "Если бы они были честными людьми, этот скандал никогда бы не произошел.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T06:54:49.641174+00:00",
+  "turkish_example_sentence_with_blank": "Onlar dürüst insanlar ______, bu skandalı asla yaşanmamış olurdu."
 }

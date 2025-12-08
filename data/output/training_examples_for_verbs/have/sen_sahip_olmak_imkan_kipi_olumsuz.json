@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sahip olamazsın",
     "root": "sahip ol",
-    "tense_affix": "a",
+    "tense_affix": "abil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "sın",
+    "personal_affix": "irsin",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "You cannot have a new bicycle.",
-  "russian_example_sentence": "Ты не можешь иметь новый велосипед.",
-  "turkish_example_sentence": "Sen yeni bir bisiklete sahip olamazsın.",
-  "turkish_example_sentence_with_blank": "Sen yeni bir bisiklete ______."
+  "turkish_example_sentence": "Sen bu kısa sürede profesyonel bir deneyim sahip olamazsın.",
+  "english_example_sentence": "You cannot have professional experience in such a short time.",
+  "russian_example_sentence": "Ты не можешь иметь профессиональный опыт в такой короткий срок.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:08:58.536014+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu kısa sürede profesyonel bir deneyim ______."
 }

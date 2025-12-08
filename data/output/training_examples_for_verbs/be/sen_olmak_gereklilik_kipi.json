@@ -4,17 +4,19 @@
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olman lazım",
+    "verb_full": "olman",
     "root": "ol",
-    "tense_affix": "lazım",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to be more careful",
-  "russian_example_sentence": "Тебе нужно быть более осторожным",
-  "turkish_example_sentence": "Sen daha dikkatli olman lazım",
-  "turkish_example_sentence_with_blank": "Sen daha dikkatli ______"
+  "turkish_example_sentence": "Sen dikkatli ve sabırlı bir öğretmen olman lazım.",
+  "english_example_sentence": "You need to be a careful and patient teacher.",
+  "russian_example_sentence": "Тебе нужно быть внимательным и терпеливым учителем.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T06:52:36.067594+00:00",
+  "turkish_example_sentence_with_blank": "Sen dikkatli ve sabırlı bir öğretmen ______ lazım."
 }

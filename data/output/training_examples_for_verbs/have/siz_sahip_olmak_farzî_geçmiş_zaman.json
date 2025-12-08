@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sahip olmuşsanız",
     "root": "sahip ol",
-    "tense_affix": "muşsa",
+    "tense_affix": "muş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you had had books, you would have learned quickly.",
-  "russian_example_sentence": "Если бы у вас были книги, вы бы быстро научились.",
-  "turkish_example_sentence": "Eğer kitaplara sahip olmuşsanız, hızlı öğrenirdiniz.",
-  "turkish_example_sentence_with_blank": "Eğer kitaplara ______, hızlı öğrenirdiniz."
+  "turkish_example_sentence": "Siz o prestijli sanat galerisiyle sahip olmuşsanız, uluslararası sergiler düzenlerdiniz.",
+  "english_example_sentence": "If you had owned that prestigious art gallery, you would have organized international exhibitions.",
+  "russian_example_sentence": "Если бы вы владели той престижной художественной галереей, вы бы организовали международные выставки.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:10:13.532795+00:00",
+  "turkish_example_sentence_with_blank": "Siz o prestijli sanat galerisiyle ______, uluslararası sergiler düzenlerdiniz."
 }

@@ -4,7 +4,7 @@
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmamalılar",
+    "verb_full": "olmasınlar",
     "root": "ol",
     "tense_affix": "a",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "May they not be lazy at school",
-  "russian_example_sentence": "Пусть они не будут ленивыми в школе",
-  "turkish_example_sentence": "Onlar okulda tembel olmamalılar",
-  "turkish_example_sentence_with_blank": "Onlar okulda tembel ______"
+  "turkish_example_sentence": "Onlar uzak ülkelerde hiçbir zaman yalnız olmasınlar.",
+  "english_example_sentence": "May those people in distant countries never be lonely.",
+  "russian_example_sentence": "Пусть те люди в далеких странах никогда не будут одинокими.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T06:51:47.909430+00:00",
+  "turkish_example_sentence_with_blank": "Onlar uzak ülkelerde hiçbir zaman yalnız ______."
 }

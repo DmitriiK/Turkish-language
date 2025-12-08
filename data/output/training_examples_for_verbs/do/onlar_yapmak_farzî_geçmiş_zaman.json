@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yapmışlarsa",
     "root": "yap",
-    "tense_affix": "mışlarsa",
+    "tense_affix": "mışsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they had done the translation...",
-  "russian_example_sentence": "Если бы они сделали перевод...",
-  "turkish_example_sentence": "Onlar uzun çeviriyi yapmışlarsa, yayıncı mutlu olurdu.",
-  "turkish_example_sentence_with_blank": "Onlar uzun çeviriyi ______, yayıncı mutlu olurdu."
+  "turkish_example_sentence": "Onlar yaratıcı bir çözüm yapmışlarsa, şirket büyük başarı kazanırdı.",
+  "english_example_sentence": "If they had made a creative solution, the company would have achieved great success.",
+  "russian_example_sentence": "Если бы они нашли творческое решение, компания достигла бы большого успеха.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:23:55.464634+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yaratıcı bir çözüm ______, şirket büyük başarı kazanırdı."
 }

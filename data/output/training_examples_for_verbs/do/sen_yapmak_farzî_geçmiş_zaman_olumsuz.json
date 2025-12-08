@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yapmamışsan",
     "root": "yap",
-    "tense_affix": "mamışsa",
+    "tense_affix": "mışsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If you hadn't done that action...",
-  "russian_example_sentence": "Если бы ты не совершил это действие...",
-  "turkish_example_sentence": "Sen bu kötü eylemi yapmamışsan, polis seni tutuklamazdı.",
-  "turkish_example_sentence_with_blank": "Sen bu kötü eylemi ______, polis seni tutuklamazdı."
+  "turkish_example_sentence": "Sen gerekli hazırlıkları yapmamışsan, sınavda başarısız olurdun.",
+  "english_example_sentence": "If you had not done the necessary preparations, you would have failed the exam.",
+  "russian_example_sentence": "Если бы ты не сделал необходимые подготовки, ты бы провалил экзамен.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:23:55.464634+00:00",
+  "turkish_example_sentence_with_blank": "Sen gerekli hazırlıkları ______, sınavda başarısız olurdun."
 }

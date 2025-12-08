@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "söylememeli",
     "root": "söyle",
-    "tense_affix": "memeli",
+    "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "ler",
+    "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "They must not say rude remarks to customers",
-  "russian_example_sentence": "Они не должны говорить грубые замечания клиентам",
-  "turkish_example_sentence": "Onlar müşterilere kaba sözler söylememeli",
-  "turkish_example_sentence_with_blank": "Onlar müşterilere kaba sözler ______"
+  "turkish_example_sentence": "Onlar genç çocuklar korkunç hikayelerini uyku saatinde söylememeli.",
+  "english_example_sentence": "They must not say scary stories at bedtime.",
+  "russian_example_sentence": "Они не должны говорить страшные истории перед сном.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:39:00.946435+00:00",
+  "turkish_example_sentence_with_blank": "Onlar genç çocuklar korkunç hikayelerini uyku saatinde ______."
 }

@@ -11,10 +11,12 @@
     "personal_pronoun": "ben",
     "personal_affix": "yım",
     "polarity": "negative",
-    "negative_affix": "mama"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "I must not do this terrible mistake again",
-  "russian_example_sentence": "Я не должен делать эту ужасную ошибку снова",
-  "turkish_example_sentence": "Ben bu korkunç hatayı tekrar yapmamalıyım",
-  "turkish_example_sentence_with_blank": "Ben bu korkunç hatayı tekrar ______"
+  "turkish_example_sentence": "Ben bu hatalı kararı hiçbir zaman yapmamalıyım.",
+  "english_example_sentence": "I must not make this wrong decision ever.",
+  "russian_example_sentence": "Я не должен никогда принимать это неправильное решение.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:22:37.207911+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu hatalı kararı hiçbir zaman ______."
 }

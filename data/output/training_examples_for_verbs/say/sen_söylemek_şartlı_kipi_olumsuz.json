@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If you do not say the secret, nobody will discover it",
-  "russian_example_sentence": "Если ты не скажешь секрет, никто его не откроет",
-  "turkish_example_sentence": "Sen gizli bilgiyi söylemezsen, hiç kimse onu keşfetmeyecek",
-  "turkish_example_sentence_with_blank": "Sen gizli bilgiyi ______, hiç kimse onu keşfetmeyecek"
+  "turkish_example_sentence": "Sen önemli haberi söylemezsen, kimse bilmeyecek.",
+  "english_example_sentence": "If you don't say the important news, nobody will know.",
+  "russian_example_sentence": "Если ты не скажешь важные новости, никто не узнает.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:39:18.716036+00:00",
+  "turkish_example_sentence_with_blank": "Sen önemli haberi ______, kimse bilmeyecek."
 }

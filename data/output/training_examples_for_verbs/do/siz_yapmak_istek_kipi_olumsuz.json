@@ -4,17 +4,19 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmayasınız",
+    "verb_full": "yapmasınız",
     "root": "yap",
-    "tense_affix": "mayasınız",
+    "tense_affix": "a",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "sınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "May you not do this error anymore",
-  "russian_example_sentence": "Пусть вы больше не допускаете эту ошибку",
-  "turkish_example_sentence": "Bu hatayı bir daha yapmayasınız",
-  "turkish_example_sentence_with_blank": "Bu hatayı bir daha ______"
+  "turkish_example_sentence": "Siz bu hatalı karar yapmasınız.",
+  "english_example_sentence": "Do not do this wrong decision.",
+  "russian_example_sentence": "Не принимайте это неправильное решение.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:21:11.842277+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu hatalı karar ______."
 }

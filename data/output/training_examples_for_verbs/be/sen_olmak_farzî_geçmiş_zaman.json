@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "olmuşsan",
     "root": "ol",
-    "tense_affix": "muşsa",
+    "tense_affix": "muş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you had been honest, it'd be better.",
-  "russian_example_sentence": "Если бы ты был честным, всё было бы лучше.",
-  "turkish_example_sentence": "Dürüst olmuşsan, her şey daha iyi olurdu.",
-  "turkish_example_sentence_with_blank": "Dürüst ______, her şey daha iyi olurdu."
+  "turkish_example_sentence": "Sen dikkatli bir öğrenci olmuşsan, sınavı başarıyla geçebilirdin.",
+  "english_example_sentence": "If you had been a careful student, you could have passed the exam successfully.",
+  "russian_example_sentence": "Если бы ты был внимательным студентом, ты мог бы успешно сдать экзамен.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T06:54:49.641174+00:00",
+  "turkish_example_sentence_with_blank": "Sen dikkatli bir öğrenci ______, sınavı başarıyla geçebilirdin."
 }

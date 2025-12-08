@@ -4,17 +4,19 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylememem lazım",
+    "verb_full": "söylememem",
     "root": "söyle",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "I need to not say those hurtful words",
-  "russian_example_sentence": "Я не должен говорить эти обидные слова",
-  "turkish_example_sentence": "Ben o kırıcı sözleri söylememem lazım",
-  "turkish_example_sentence_with_blank": "Ben o kırıcı sözleri ______"
+  "turkish_example_sentence": "Ben bu gizli bilgiyi kimseye söylememem gerek.",
+  "english_example_sentence": "I need to not say this secret information to anyone.",
+  "russian_example_sentence": "Я не должен говорить эту секретную информацию никому.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:38:23.551902+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu gizli bilgiyi kimseye ______ gerek."
 }

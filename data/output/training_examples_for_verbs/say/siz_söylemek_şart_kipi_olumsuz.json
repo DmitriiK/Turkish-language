@@ -4,17 +4,19 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylemesanız",
+    "verb_full": "söylemeseniz",
     "root": "söyle",
     "tense_affix": "se",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "niz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If you don't say the truth, we will be disappointed",
-  "russian_example_sentence": "Если вы не скажете правду, мы будем разочарованы",
-  "turkish_example_sentence": "Siz açık gerçeği söylemesanız, biz hayal kırıklığına uğrayacağız",
-  "turkish_example_sentence_with_blank": "Siz açık gerçeği ______, biz hayal kırıklığına uğrayacağız"
+  "turkish_example_sentence": "Siz gizli bilgileri söylemeseniz, proje başarılı olacak.",
+  "english_example_sentence": "If you do not say secret information, the project will be successful.",
+  "russian_example_sentence": "Если вы не скажете секретную информацию, проект будет успешным.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:38:06.190807+00:00",
+  "turkish_example_sentence_with_blank": "Siz gizli bilgileri ______, proje başarılı olacak."
 }

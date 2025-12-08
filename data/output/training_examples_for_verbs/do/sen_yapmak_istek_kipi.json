@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yapasın",
     "root": "yap",
-    "tense_affix": "asın",
+    "tense_affix": "a",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "sın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "May you do the cleaning carefully",
-  "russian_example_sentence": "Ты сделаешь уборку осторожно",
-  "turkish_example_sentence": "Temizliği dikkatlice yapasın",
-  "turkish_example_sentence_with_blank": "Temizliği dikkatlice ______"
+  "turkish_example_sentence": "Sen bu güzel resmi sanat sınıfında yapasın.",
+  "english_example_sentence": "May you do this beautiful picture in art class.",
+  "russian_example_sentence": "Пусть ты создашь эту красивую картину на уроке искусства.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:21:11.842277+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu güzel resmi sanat sınıfında ______."
 }

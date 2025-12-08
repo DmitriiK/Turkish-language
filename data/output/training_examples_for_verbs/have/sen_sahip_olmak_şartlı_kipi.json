@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sahip olursan",
     "root": "sahip ol",
-    "tense_affix": "ursa",
+    "tense_affix": "ur",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you have a car, you can drive us there",
-  "russian_example_sentence": "Если у тебя есть машина, ты можешь нас довезти",
-  "turkish_example_sentence": "Eğer bir arabaya sahip olursan, bizi oraya götürebilirsin",
-  "turkish_example_sentence_with_blank": "Eğer bir arabaya ______, bizi oraya götürebilirsin"
+  "turkish_example_sentence": "Sen güçlü bir irade sahip olursan, zor hedefleri başarabilirsin.",
+  "english_example_sentence": "If you have a strong will, you can achieve difficult goals.",
+  "russian_example_sentence": "Если у тебя будет сильная воля, ты сможешь достичь сложных целей.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:09:52.963141+00:00",
+  "turkish_example_sentence_with_blank": "Sen güçlü bir irade ______, zor hedefleri başarabilirsin."
 }

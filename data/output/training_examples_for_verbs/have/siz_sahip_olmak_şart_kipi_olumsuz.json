@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sahip olmasanız",
     "root": "sahip ol",
-    "tense_affix": "masa",
+    "tense_affix": "sa",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If you didn’t have a ticket, you couldn’t enter",
-  "russian_example_sentence": "Если бы у вас не было билета, вы бы не смогли войти",
-  "turkish_example_sentence": "Bilete sahip olmasanız, içeri giremezdiniz",
-  "turkish_example_sentence_with_blank": "Bilete ______, içeri giremezdiniz"
+  "turkish_example_sentence": "Siz bu önemli sertifikaya sahip olmasanız, uluslararası pazarda rekabet edemezsiniz.",
+  "english_example_sentence": "If you did not have this important certificate, you could not compete in the international market.",
+  "russian_example_sentence": "Если бы у вас не было этого важного сертификата, вы не смогли бы конкурировать на международном рынке.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:08:20.364534+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu önemli sertifikaya ______, uluslararası pazarda rekabet edemezsiniz."
 }

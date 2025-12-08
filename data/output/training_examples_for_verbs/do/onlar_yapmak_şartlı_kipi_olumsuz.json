@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yapmazlarsa",
     "root": "yap",
-    "tense_affix": "arsa",
+    "tense_affix": "maz",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If they don't help, we won't finish.",
-  "russian_example_sentence": "Если они не помогут, мы не закончим.",
-  "turkish_example_sentence": "Eğer yardım yapmazlarsa işi bitiremeyiz.",
-  "turkish_example_sentence_with_blank": "Eğer yardım ______ işi bitiremeyiz."
+  "turkish_example_sentence": "Onlar gerekli çalışmaları yapmazlarsa, proje iptal olur.",
+  "english_example_sentence": "If they do not do the necessary work, the project will be cancelled.",
+  "russian_example_sentence": "Если они не выполнят необходимую работу, проект будет отменён.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:18:38.588110+00:00",
+  "turkish_example_sentence_with_blank": "Onlar gerekli çalışmaları ______, proje iptal olur."
 }

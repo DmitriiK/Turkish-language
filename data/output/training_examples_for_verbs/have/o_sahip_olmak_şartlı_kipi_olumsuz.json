@@ -4,17 +4,19 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olmazsa",
+    "verb_full": "sahip olmursa",
     "root": "sahip ol",
-    "tense_affix": "mazsa",
+    "tense_affix": "ur",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If he doesn't have his ID, he can't enter",
-  "russian_example_sentence": "Если у него нет удостоверения личности, он не сможет войти",
-  "turkish_example_sentence": "Eğer kimliğine sahip olmazsa, içeri giremez",
-  "turkish_example_sentence_with_blank": "Eğer kimliğine ______, içeri giremez"
+  "turkish_example_sentence": "O gerekli tıbbi sertifikası sahip olmursa, hastanede çalışamaz.",
+  "english_example_sentence": "If he doesn't have the required medical certificate, he cannot work at the hospital.",
+  "russian_example_sentence": "Если у него не будет необходимого медицинского сертификата, он не сможет работать в больнице.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:09:52.963141+00:00",
+  "turkish_example_sentence_with_blank": "O gerekli tıbbi sertifikası ______, hastanede çalışamaz."
 }

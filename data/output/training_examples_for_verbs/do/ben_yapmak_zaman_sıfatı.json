@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yaptığımda",
     "root": "yap",
-    "tense_affix": "tık",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "ben",
     "personal_affix": "ım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When I do my homework, I relax.",
-  "russian_example_sentence": "Когда я делаю домашнее задание, я отдыхаю.",
-  "turkish_example_sentence": "Ben ödevimi yaptığımda, rahatlarım.",
-  "turkish_example_sentence_with_blank": "Ben ödevimi ______, rahatlarım."
+  "turkish_example_sentence": "Ben önemli projeyi yaptığımda, herkesi mutlu ettim.",
+  "english_example_sentence": "When I did the important project, I made everyone happy.",
+  "russian_example_sentence": "Когда я делал важный проект, я всех обрадовал.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:24:34.992344+00:00",
+  "turkish_example_sentence_with_blank": "Ben önemli projeyi ______, herkesi mutlu ettim."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "olmuşsanız",
     "root": "ol",
-    "tense_affix": "muşsa",
+    "tense_affix": "muş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you had been on time, it would be different.",
-  "russian_example_sentence": "Если бы вы пришли вовремя, всё было бы иначе.",
-  "turkish_example_sentence": "Zamanında olmuşsanız durum farklı olurdu.",
-  "turkish_example_sentence_with_blank": "Zamanında ______ durum farklı olurdu."
+  "turkish_example_sentence": "Siz sabırlı bir yönetici olmuşsanız, şirket daha başarılı olabilirdi.",
+  "english_example_sentence": "If you had been a patient manager, the company could have been more successful.",
+  "russian_example_sentence": "Если бы вы были терпеливым менеджером, компания могла бы быть более успешной.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T06:54:49.641174+00:00",
+  "turkish_example_sentence_with_blank": "Siz sabırlı bir yönetici ______, şirket daha başarılı olabilirdi."
 }

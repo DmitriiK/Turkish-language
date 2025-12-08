@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sahip olmadıklarında",
     "root": "sahip ol",
-    "tense_affix": "madıkları",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "onlar",
-    "personal_affix": "nda",
+    "personal_affix": "ları",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "When they do not have a good plan",
-  "russian_example_sentence": "Когда у них нет хорошего плана",
-  "turkish_example_sentence": "Onlar iyi bir plana sahip olmadıklarında",
-  "turkish_example_sentence_with_blank": "Onlar iyi bir plana ______"
+  "turkish_example_sentence": "Onlar yeterli hazırlık sahip olmadıklarında, sınav sonuçları kötü oldu.",
+  "english_example_sentence": "When they didn't have sufficient preparation, the exam results were bad.",
+  "russian_example_sentence": "Когда они не имели достаточной подготовки, результаты экзамена были плохими.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:10:47.581790+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yeterli hazırlık ______, sınav sonuçları kötü oldu."
 }

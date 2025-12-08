@@ -4,17 +4,19 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylemememeniz lazım",
+    "verb_full": "söylememiz",
     "root": "söyle",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "niz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You all need to not say anything negative today",
-  "russian_example_sentence": "Вы все не должны говорить ничего отрицательного сегодня",
-  "turkish_example_sentence": "Siz bugün olumsuz hiçbir şey söylemememeniz lazım",
-  "turkish_example_sentence_with_blank": "Siz bugün olumsuz hiçbir şey ______"
+  "turkish_example_sentence": "Siz bu özel bilgiyi dış dünyaya söylememiz gerek.",
+  "english_example_sentence": "You need to not say this private information to the outside world.",
+  "russian_example_sentence": "Вы не должны говорить эту приватную информацию внешнему миру.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:38:23.551902+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu özel bilgiyi dış dünyaya ______ gerek."
 }

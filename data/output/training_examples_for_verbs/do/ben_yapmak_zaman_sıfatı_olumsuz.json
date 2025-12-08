@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yapmadığımda",
     "root": "yap",
-    "tense_affix": "tık",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "ben",
     "personal_affix": "ım",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "When I don't do exercise, I feel tired.",
-  "russian_example_sentence": "Когда я не делаю упражнения, я чувствую усталость.",
-  "turkish_example_sentence": "Ben spor yapmadığımda, yorgun hissediyorum.",
-  "turkish_example_sentence_with_blank": "Ben spor ______, yorgun hissediyorum."
+  "turkish_example_sentence": "Ben ev işlerini yapmadığımda, annem kızıyor.",
+  "english_example_sentence": "When I don't do the housework, my mother gets angry.",
+  "russian_example_sentence": "Когда я не делаю домашние дела, моя мать сердится.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:24:34.992344+00:00",
+  "turkish_example_sentence_with_blank": "Ben ev işlerini ______, annem kızıyor."
 }

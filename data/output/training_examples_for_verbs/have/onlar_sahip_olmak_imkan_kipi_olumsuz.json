@@ -4,17 +4,19 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olamazlar",
+    "verb_full": "sahip olamayacaklar",
     "root": "sahip ol",
-    "tense_affix": "a",
+    "tense_affix": "abil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "irler",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "They cannot have free tickets for the match.",
-  "russian_example_sentence": "Они не могут получить бесплатные билеты на матч.",
-  "turkish_example_sentence": "Onlar maç için ücretsiz biletlerine sahip olamazlar.",
-  "turkish_example_sentence_with_blank": "Onlar maç için ücretsiz biletlerine ______."
+  "turkish_example_sentence": "Onlar finansal destek olmadan kendi işletme sahip olamayacaklar.",
+  "english_example_sentence": "They cannot have their own business without financial support.",
+  "russian_example_sentence": "Они не смогут иметь свой бизнес без финансовой поддержки.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:08:58.536014+00:00",
+  "turkish_example_sentence_with_blank": "Onlar finansal destek olmadan kendi işletme ______."
 }

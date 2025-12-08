@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sahip olmasan",
     "root": "sahip ol",
-    "tense_affix": "masa",
+    "tense_affix": "sa",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If you didn’t have help, you would struggle",
-  "russian_example_sentence": "Если бы у тебя не было помощи, ты бы страдал",
-  "turkish_example_sentence": "Yardıma sahip olmasan, zorlanırdın",
-  "turkish_example_sentence_with_blank": "Yardıma ______, zorlanırdın"
+  "turkish_example_sentence": "Sen güvenilir bir arkadaşa sahip olmasan, hayatında çok yalnız hissederdim.",
+  "english_example_sentence": "If you did not have a reliable friend, I would feel very lonely in your life.",
+  "russian_example_sentence": "Если бы у тебя не было надежного друга, я бы чувствовал себя очень одиноким в твоей жизни.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:08:20.364534+00:00",
+  "turkish_example_sentence_with_blank": "Sen güvenilir bir arkadaşa ______, hayatında çok yalnız hissederdim."
 }

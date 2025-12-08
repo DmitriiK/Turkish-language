@@ -4,17 +4,19 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söyleyeysiniz",
+    "verb_full": "söyleyeyiniz",
     "root": "söyle",
     "tense_affix": "ye",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "siniz",
+    "personal_affix": "yiniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "May you say the correct answer confidently",
-  "russian_example_sentence": "Пусть вы скажете правильный ответ уверенно",
-  "turkish_example_sentence": "Siz doğru cevabı güvenle söyleyeysiniz",
-  "turkish_example_sentence_with_blank": "Siz doğru cevabı güvenle ______"
+  "turkish_example_sentence": "Siz değerli müdürler lütfen görüşlerinizi söyleyeyiniz.",
+  "english_example_sentence": "May you respected managers please say your opinions.",
+  "russian_example_sentence": "Пусть вы уважаемые менеджеры скажете свои мнения пожалуйста.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:37:36.200464+00:00",
+  "turkish_example_sentence_with_blank": "Siz değerli müdürler lütfen görüşlerinizi ______."
 }

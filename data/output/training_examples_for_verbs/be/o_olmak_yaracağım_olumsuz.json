@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "olmayacak",
     "root": "ol",
-    "tense_affix": "acağ",
+    "tense_affix": "acak",
     "verb_tense": "yaracağım",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "He will not be ready for the presentation",
-  "russian_example_sentence": "Он не будет готов к презентации",
-  "turkish_example_sentence": "O sunum için hazır olmayacak",
-  "turkish_example_sentence_with_blank": "O sunum için hazır ______"
+  "turkish_example_sentence": "O yaşlı adam asla hasta olmayacak.",
+  "english_example_sentence": "That old man will never be sick.",
+  "russian_example_sentence": "Тот пожилой мужчина никогда не будет больным.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T06:51:11.119497+00:00",
+  "turkish_example_sentence_with_blank": "O yaşlı adam asla hasta ______."
 }

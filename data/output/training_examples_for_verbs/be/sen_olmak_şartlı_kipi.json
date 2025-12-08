@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "olursan",
     "root": "ol",
-    "tense_affix": "ursa",
+    "tense_affix": "ur",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you are tired, you can rest.",
-  "russian_example_sentence": "Если ты устал, можешь отдохнуть.",
-  "turkish_example_sentence": "Eğer yorgun olursan dinlenebilirsin.",
-  "turkish_example_sentence_with_blank": "Eğer yorgun ______ dinlenebilirsin."
+  "turkish_example_sentence": "Sen sabırlı ve anlayışlı olursan, iyi bir arkadaş olursun.",
+  "english_example_sentence": "If you are patient and understanding, you will be a good friend.",
+  "russian_example_sentence": "Если ты будешь терпеливым и понимающим, ты будешь хорошим другом.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T06:54:31.569104+00:00",
+  "turkish_example_sentence_with_blank": "Sen sabırlı ve anlayışlı ______, iyi bir arkadaş olursun."
 }

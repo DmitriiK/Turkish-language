@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "olmamışsa",
     "root": "ol",
-    "tense_affix": "muşsa",
+    "tense_affix": "muş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If she hadn't been there, they would be late.",
-  "russian_example_sentence": "Если бы её не было там, они бы опоздали.",
-  "turkish_example_sentence": "Orada olmamışsa, geç kalırlardı.",
-  "turkish_example_sentence_with_blank": "Orada ______, geç kalırlardı."
+  "turkish_example_sentence": "O evde olmamışsa, kapıyı açan kim olabilir?",
+  "english_example_sentence": "If he/she had not been at home, who could have opened the door?",
+  "russian_example_sentence": "Если бы он/она не был дома, кто мог бы открыть дверь?",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T06:54:49.641174+00:00",
+  "turkish_example_sentence_with_blank": "O evde ______, kapıyı açan kim olabilir?"
 }

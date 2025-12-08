@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "olursanız",
     "root": "ol",
-    "tense_affix": "ursa",
+    "tense_affix": "ur",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you are ready, we will start.",
-  "russian_example_sentence": "Если вы готовы, мы начнем.",
-  "turkish_example_sentence": "Eğer hazır olursanız başlayacağız.",
-  "turkish_example_sentence_with_blank": "Eğer hazır ______ başlayacağız."
+  "turkish_example_sentence": "Siz açık fikirli ve toleranslı olursanız, farklı kültürleri anlayabilirsiniz.",
+  "english_example_sentence": "If you are open-minded and tolerant, you can understand different cultures.",
+  "russian_example_sentence": "Если вы будете открытыми и толерантными, вы сможете понять разные культуры.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T06:54:31.569104+00:00",
+  "turkish_example_sentence_with_blank": "Siz açık fikirli ve toleranslı ______, farklı kültürleri anlayabilirsiniz."
 }

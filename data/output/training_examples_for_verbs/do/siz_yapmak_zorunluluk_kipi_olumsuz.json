@@ -11,10 +11,12 @@
     "personal_pronoun": "siz",
     "personal_affix": "sınız",
     "polarity": "negative",
-    "negative_affix": "mama"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "You must not do any illegal activities here",
-  "russian_example_sentence": "Вы не должны делать никаких незаконных действий здесь",
-  "turkish_example_sentence": "Siz burada hiçbir yasa dışı faaliyet yapmamalısınız",
-  "turkish_example_sentence_with_blank": "Siz burada hiçbir yasa dışı faaliyet ______"
+  "turkish_example_sentence": "Siz bu gizli bilgiyi başka kişilere açıklama yapmamalısınız.",
+  "english_example_sentence": "You must not do disclosure of this secret information to other people.",
+  "russian_example_sentence": "Вы не должны раскрывать эту секретную информацию другим людям.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:22:37.207911+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu gizli bilgiyi başka kişilere açıklama ______."
 }

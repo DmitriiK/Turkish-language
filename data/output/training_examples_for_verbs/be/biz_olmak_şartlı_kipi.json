@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "olursak",
     "root": "ol",
-    "tense_affix": "ursa",
+    "tense_affix": "ur",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we are happy, we will sing.",
-  "russian_example_sentence": "Если мы будем счастливы, мы будем петь.",
-  "turkish_example_sentence": "Eğer mutlu olursak şarkı söyleyeceğiz.",
-  "turkish_example_sentence_with_blank": "Eğer mutlu ______ şarkı söyleyeceğiz."
+  "turkish_example_sentence": "Biz birleşik ve güçlü olursak, hiçbir zorluk bizi yenebilmez.",
+  "english_example_sentence": "If we are united and strong, no difficulty can defeat us.",
+  "russian_example_sentence": "Если мы будем объединены и сильны, никакие трудности не смогут нас победить.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T06:54:31.569104+00:00",
+  "turkish_example_sentence_with_blank": "Biz birleşik ve güçlü ______, hiçbir zorluk bizi yenebilmez."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sahip olmamışsam",
     "root": "sahip ol",
-    "tense_affix": "muşsa",
+    "tense_affix": "muş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If I hadn’t had the time, I couldn’t have helped.",
-  "russian_example_sentence": "Если бы у меня не было времени, я не смог бы помочь.",
-  "turkish_example_sentence": "Ben zamana sahip olmamışsam, yardım edemezdim.",
-  "turkish_example_sentence_with_blank": "Ben zamana ______, yardım edemezdim."
+  "turkish_example_sentence": "Ben bu nadir kitapları sahip olmamışsam, hiç okuyamazdım.",
+  "english_example_sentence": "If I had not owned these rare books, I could never have read them.",
+  "russian_example_sentence": "Если бы я не владел этими редкими книгами, я никогда не смог бы их прочитать.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:10:13.532795+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu nadir kitapları ______, hiç okuyamazdım."
 }

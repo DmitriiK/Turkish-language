@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "söylemeyin",
     "root": "söyle",
-    "tense_affix": "yin",
+    "tense_affix": "in",
     "verb_tense": "emir_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "yin",
+    "personal_affix": "in",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "Do not say such negative comments during meetings",
-  "russian_example_sentence": "Не говорите такие негативные комментарии во время встреч",
-  "turkish_example_sentence": "Toplantı sırasında bu kadar olumsuz yorumları söylemeyin",
-  "turkish_example_sentence_with_blank": "Toplantı sırasında bu kadar olumsuz yorumları ______"
+  "turkish_example_sentence": "Siz bu gizli bilgileri söylemeyin.",
+  "english_example_sentence": "You don't say these secret information.",
+  "russian_example_sentence": "Вы не говорите эту секретную информацию.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:37:48.089938+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu gizli bilgileri ______."
 }

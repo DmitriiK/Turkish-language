@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yapmayarak",
     "root": "yap",
-    "tense_affix": "mayarak",
+    "tense_affix": "arak",
     "verb_tense": "zarf_fiil",
     "personal_pronoun": null,
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You fail by not doing homework.",
-  "russian_example_sentence": "Вы провалитесь, не делая домашнее задание.",
-  "turkish_example_sentence": "Ödevini yapmayarak başarısız olursun.",
-  "turkish_example_sentence_with_blank": "Ödevini ______ başarısız olursun."
+  "turkish_example_sentence": "Hata yapmayarak dikkatli bir mühendis olabilirsin.",
+  "english_example_sentence": "By not making mistakes, you can be a careful engineer.",
+  "russian_example_sentence": "Не делая ошибок, ты можешь быть внимательным инженером.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:24:11.100543+00:00",
+  "turkish_example_sentence_with_blank": "Hata ______ dikkatli bir mühendis olabilirsin."
 }

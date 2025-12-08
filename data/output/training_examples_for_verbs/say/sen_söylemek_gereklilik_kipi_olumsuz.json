@@ -4,17 +4,19 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylememem lazım",
+    "verb_full": "söylememem",
     "root": "söyle",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You need to not say anything about the secret",
-  "russian_example_sentence": "Ты не должен ничего говорить о секрете",
-  "turkish_example_sentence": "Sen gizli konuyu hiç söylemememen lazım",
-  "turkish_example_sentence_with_blank": "Sen gizli konuyu hiç söylemememen lazım"
+  "turkish_example_sentence": "Sen bu korkutucu hikayeyi küçük çocuklara söylememem gerek.",
+  "english_example_sentence": "You need to not say this scary story to small children.",
+  "russian_example_sentence": "Ты не должен рассказывать эту страшную историю маленьким детям.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:38:23.551902+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu korkutucu hikayeyi küçük çocuklara ______ gerek."
 }

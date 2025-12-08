@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sahip olursam",
     "root": "sahip ol",
-    "tense_affix": "ursa",
+    "tense_affix": "ur",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I have enough time, I will finish the project",
-  "russian_example_sentence": "Если у меня будет достаточно времени, я закончу проект",
-  "turkish_example_sentence": "Eğer yeterince zamana sahip olursam, projeyi bitireceğim",
-  "turkish_example_sentence_with_blank": "Eğer yeterince zamana ______, projeyi bitireceğim"
+  "turkish_example_sentence": "Ben yeterli parası sahip olursam, lüks bir ev satın alırım.",
+  "english_example_sentence": "If I have enough money, I will buy a luxury house.",
+  "russian_example_sentence": "Если у меня будет достаточно денег, я куплю роскошный дом.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:09:52.963141+00:00",
+  "turkish_example_sentence_with_blank": "Ben yeterli parası ______, lüks bir ev satın alırım."
 }

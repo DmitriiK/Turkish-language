@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yapalar",
     "root": "yap",
-    "tense_affix": "alar",
+    "tense_affix": "a",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "May they do the work efficiently",
-  "russian_example_sentence": "Пусть они выполняют работу эффективно",
-  "turkish_example_sentence": "İşi verimli şekilde yapalar",
-  "turkish_example_sentence_with_blank": "İşi verimli şekilde ______"
+  "turkish_example_sentence": "Onlar bu yeni müzik festivali başarılı yapalar.",
+  "english_example_sentence": "May they do this new music festival successfully.",
+  "russian_example_sentence": "Пусть они успешно проведут этот новый музыкальный фестиваль.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:21:11.842277+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu yeni müzik festivali başarılı ______."
 }

@@ -4,17 +4,19 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip değiliz",
-    "root": "sahip",
-    "tense_affix": "ip",
+    "verb_full": "sahip olmayız",
+    "root": "ol",
+    "tense_affix": "ur",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "iz",
+    "personal_affix": "uz",
     "polarity": "negative",
-    "negative_affix": "değil"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "We do not have free time",
-  "russian_example_sentence": "У нас нет свободного времени",
-  "turkish_example_sentence": "Biz boş bir zamana sahip değiliz",
-  "turkish_example_sentence_with_blank": "Biz boş bir zamana ______"
+  "turkish_example_sentence": "Biz sınırlı bir bütçe ve kaynakla sahip olmayız.",
+  "english_example_sentence": "We do not have a limited budget and resources.",
+  "russian_example_sentence": "Мы не имеем ограниченный бюджет и ресурсы.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:07:32.068119+00:00",
+  "turkish_example_sentence_with_blank": "Biz sınırlı bir bütçe ve kaynakla ______."
 }

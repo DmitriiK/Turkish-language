@@ -4,7 +4,7 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylemeseniz",
+    "verb_full": "söylemezseniz",
     "root": "söyle",
     "tense_affix": "mez",
     "verb_tense": "şartlı_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If you do not say the right words, misunderstanding will happen",
-  "russian_example_sentence": "Если вы не скажете правильные слова, произойдёт недопонимание",
-  "turkish_example_sentence": "Siz doğru sözleri söylemeseniz, yanlış anlaşılma meydana gelecek",
-  "turkish_example_sentence_with_blank": "Siz doğru sözleri ______, yanlış anlaşılma meydana gelecek"
+  "turkish_example_sentence": "Siz yanlış bilgileri söylemezseniz, müşteri güvenecek.",
+  "english_example_sentence": "If you don't say the wrong information, the customer will trust.",
+  "russian_example_sentence": "Если вы не скажете неправильную информацию, клиент будет доверять.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:39:18.716036+00:00",
+  "turkish_example_sentence_with_blank": "Siz yanlış bilgileri ______, müşteri güvenecek."
 }

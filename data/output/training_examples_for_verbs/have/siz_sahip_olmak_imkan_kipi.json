@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sahip olabilirsiniz",
     "root": "sahip ol",
-    "tense_affix": "abilir",
+    "tense_affix": "abil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "siniz",
+    "personal_affix": "irsiniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can have an interesting vacation.",
-  "russian_example_sentence": "Вы можете провести интересный отпуск.",
-  "turkish_example_sentence": "Siz ilginç bir tatil fırsatına sahip olabilirsiniz.",
-  "turkish_example_sentence_with_blank": "Siz ilginç bir tatil fırsatına ______."
+  "turkish_example_sentence": "Siz deneyimli bir danışman olarak değerli bir ağ sahip olabilirsiniz.",
+  "english_example_sentence": "You can have a valuable network as an experienced consultant.",
+  "russian_example_sentence": "Вы можете иметь ценную сеть как опытный консультант.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:08:58.536014+00:00",
+  "turkish_example_sentence_with_blank": "Siz deneyimli bir danışman olarak değerli bir ağ ______."
 }

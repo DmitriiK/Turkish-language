@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sahip olmamışsan",
     "root": "sahip ol",
-    "tense_affix": "muşsa",
+    "tense_affix": "muş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If you hadn’t had the book, you couldn’t have studied.",
-  "russian_example_sentence": "Если бы у тебя не было книги, ты бы не смог учиться.",
-  "turkish_example_sentence": "Eğer kitaba sahip olmamışsan, ders çalışamazdın.",
-  "turkish_example_sentence_with_blank": "Eğer kitaba ______, ders çalışamazdın."
+  "turkish_example_sentence": "Sen o pahalı yazlık evi sahip olmamışsan, tatil yapmazdın.",
+  "english_example_sentence": "If you had not owned that expensive summer house, you would not have vacationed.",
+  "russian_example_sentence": "Если бы ты не владел тем дорогим летним домом, ты бы не отдыхал.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:10:13.532795+00:00",
+  "turkish_example_sentence_with_blank": "Sen o pahalı yazlık evi ______, tatil yapmazdın."
 }

@@ -4,17 +4,19 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmam",
+    "verb_full": "yapmıyorum",
     "root": "yap",
     "tense_affix": "ar",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "ım",
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "mı"
   },
-  "english_example_sentence": "I do not make mistakes often",
-  "russian_example_sentence": "Я не делаю ошибки часто",
-  "turkish_example_sentence": "Ben genellikle aptalca hataları yapmam",
-  "turkish_example_sentence_with_blank": "Ben genellikle aptalca hataları ______"
+  "turkish_example_sentence": "Ben asla ev işlerini hızlı bir şekilde yapmıyorum.",
+  "english_example_sentence": "I never do housework in a quick manner.",
+  "russian_example_sentence": "Я никогда не делаю домашнюю работу быстро.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:20:55.065231+00:00",
+  "turkish_example_sentence_with_blank": "Ben asla ev işlerini hızlı bir şekilde ______."
 }

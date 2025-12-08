@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "olmadıklarında",
     "root": "ol",
-    "tense_affix": "duk",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "onlar",
     "personal_affix": "ları",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "When they are not careful, they lose things",
-  "russian_example_sentence": "Когда они невнимательны, они теряют вещи",
-  "turkish_example_sentence": "Onlar dikkatli olmadıklarında eşyalarını kaybederler",
-  "turkish_example_sentence_with_blank": "Onlar dikkatli ______ eşyalarını kaybederler"
+  "turkish_example_sentence": "Onlar evde olmadıklarında, güvenlik sistemi otomatik olarak etkinleşti.",
+  "english_example_sentence": "When they were not at home, the security system automatically activated.",
+  "russian_example_sentence": "Когда их не было дома, система безопасности автоматически активировалась.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T06:55:28.812876+00:00",
+  "turkish_example_sentence_with_blank": "Onlar evde ______, güvenlik sistemi otomatik olarak etkinleşti."
 }

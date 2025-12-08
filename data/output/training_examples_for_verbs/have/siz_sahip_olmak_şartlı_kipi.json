@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sahip olursanız",
     "root": "sahip ol",
-    "tense_affix": "ursa",
+    "tense_affix": "ur",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you have the documents, you can apply",
-  "russian_example_sentence": "Если у вас есть документы, вы можете подать заявку",
-  "turkish_example_sentence": "Eğer belgelere sahip olursanız, başvurabilirsiniz",
-  "turkish_example_sentence_with_blank": "Eğer belgelere ______, başvurabilirsiniz"
+  "turkish_example_sentence": "Siz modern teknoloji ekipmanı sahip olursanız, verimli bir fabrika kurabilirsiniz.",
+  "english_example_sentence": "If you have modern technology equipment, you can establish an efficient factory.",
+  "russian_example_sentence": "Если у вас будет современное технологическое оборудование, вы сможете создать эффективный завод.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:09:52.963141+00:00",
+  "turkish_example_sentence_with_blank": "Siz modern teknoloji ekipmanı ______, verimli bir fabrika kurabilirsiniz."
 }

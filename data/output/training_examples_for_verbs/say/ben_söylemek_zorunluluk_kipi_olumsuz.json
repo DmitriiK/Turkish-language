@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "söylememeli",
     "root": "söyle",
-    "tense_affix": "memeli",
+    "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": null,
+    "personal_affix": "yim",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "I must not say those harsh words",
-  "russian_example_sentence": "Я не должен говорить эти жесткие слова",
-  "turkish_example_sentence": "Ben o kırıcı sözleri söylememeli",
-  "turkish_example_sentence_with_blank": "Ben o kırıcı sözleri ______"
+  "turkish_example_sentence": "Ben gizli sırları asla kimseye söylememeli.",
+  "english_example_sentence": "I must not say secret secrets to anyone ever.",
+  "russian_example_sentence": "Я не должен говорить секретные тайны никому никогда.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:39:00.946435+00:00",
+  "turkish_example_sentence_with_blank": "Ben gizli sırları asla kimseye ______."
 }

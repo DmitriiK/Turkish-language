@@ -4,17 +4,19 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmaya",
+    "verb_full": "yapmasın",
     "root": "yap",
-    "tense_affix": "maya",
+    "tense_affix": "a",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "May he/she not do unnecessary work",
-  "russian_example_sentence": "Пусть он/она не сделает ненужную работу",
-  "turkish_example_sentence": "Gereksiz işleri yapmaya",
-  "turkish_example_sentence_with_blank": "Gereksiz işleri ______"
+  "turkish_example_sentence": "O çocuk kötü davranış yapmasın.",
+  "english_example_sentence": "May that child not do bad behavior.",
+  "russian_example_sentence": "Пусть то дитя не ведет себя плохо.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:21:11.842277+00:00",
+  "turkish_example_sentence_with_blank": "O çocuk kötü davranış ______."
 }

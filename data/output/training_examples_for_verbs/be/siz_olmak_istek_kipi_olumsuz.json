@@ -4,17 +4,19 @@
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmıyasınız",
+    "verb_full": "olmasınız",
     "root": "ol",
-    "tense_affix": "ya",
+    "tense_affix": "a",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "sınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "May you not be ungrateful to others",
-  "russian_example_sentence": "Пусть вы не будете неблагодарными другим",
-  "turkish_example_sentence": "Siz başkalarına karşı nankör olmıyasınız",
-  "turkish_example_sentence_with_blank": "Siz başkalarına karşı nankör ______"
+  "turkish_example_sentence": "Siz saygıdeğer profesörler asla haksız olmasınız.",
+  "english_example_sentence": "May you respected professors never be wrong.",
+  "russian_example_sentence": "Пусть вы, уважаемые профессора, никогда не будете неправы.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T06:51:47.909430+00:00",
+  "turkish_example_sentence_with_blank": "Siz saygıdeğer profesörler asla haksız ______."
 }

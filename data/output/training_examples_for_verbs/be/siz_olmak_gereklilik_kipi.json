@@ -4,17 +4,19 @@
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmanız lazım",
+    "verb_full": "olmanız",
     "root": "ol",
-    "tense_affix": "lazım",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to be understanding and kind",
-  "russian_example_sentence": "Вам нужно быть понимающими и добрыми",
-  "turkish_example_sentence": "Sizin anlayışlı ve nazik olmanız lazım",
-  "turkish_example_sentence_with_blank": "Sizin anlayışlı ve nazik ______"
+  "turkish_example_sentence": "Siz deneyimli ve bilgili bir danışman olmanız lazım.",
+  "english_example_sentence": "You need to be an experienced and knowledgeable consultant.",
+  "russian_example_sentence": "Вам нужно быть опытным и знающим консультантом.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T06:52:36.067594+00:00",
+  "turkish_example_sentence_with_blank": "Siz deneyimli ve bilgili bir danışman ______ lazım."
 }

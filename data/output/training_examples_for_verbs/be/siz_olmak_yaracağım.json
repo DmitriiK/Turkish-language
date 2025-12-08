@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "olacaksınız",
     "root": "ol",
-    "tense_affix": "acağ",
+    "tense_affix": "acak",
     "verb_tense": "yaracağım",
     "personal_pronoun": "siz",
     "personal_affix": "sınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You will be very successful soon",
-  "russian_example_sentence": "Вы скоро будете очень успешны",
-  "turkish_example_sentence": "Siz yakında çok başarılı olacaksınız",
-  "turkish_example_sentence_with_blank": "Siz yakında çok başarılı ______"
+  "turkish_example_sentence": "Siz kısa sürede başarılı ve zengin iş insanları olacaksınız.",
+  "english_example_sentence": "You will be successful and rich businesspeople in a short time.",
+  "russian_example_sentence": "Вы будете успешными и богатыми бизнесменами в короткое время.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T06:51:11.119497+00:00",
+  "turkish_example_sentence_with_blank": "Siz kısa sürede başarılı ve zengin iş insanları ______."
 }

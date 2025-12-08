@@ -4,17 +4,19 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olman lazım",
+    "verb_full": "sahip olman",
     "root": "sahip ol",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to have enough experience.",
-  "russian_example_sentence": "Вам нужно иметь достаточно опыта.",
-  "turkish_example_sentence": "Senin yeterince deneyime sahip olman lazım.",
-  "turkish_example_sentence_with_blank": "Senin yeterince deneyime ______."
+  "turkish_example_sentence": "Sen yeni bir ev için güvenilir bir banka kredisi sahip olman gerek.",
+  "english_example_sentence": "You need to have a reliable bank loan for a new house.",
+  "russian_example_sentence": "Тебе нужно иметь надежный банковский кредит для нового дома.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:08:38.475473+00:00",
+  "turkish_example_sentence_with_blank": "Sen yeni bir ev için güvenilir bir banka kredisi ______ gerek."
 }

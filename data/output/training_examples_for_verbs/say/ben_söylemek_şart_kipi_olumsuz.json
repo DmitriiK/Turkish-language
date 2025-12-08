@@ -4,17 +4,19 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylemeseм",
+    "verb_full": "söylemezsem",
     "root": "söyle",
     "tense_affix": "se",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "mez"
   },
-  "english_example_sentence": "If I don't say anything, the situation will worsen",
-  "russian_example_sentence": "Если я ничего не скажу, ситуация ухудшится",
-  "turkish_example_sentence": "Ben hiçbir şey söylemeseм, durum kötüleşecek",
-  "turkish_example_sentence_with_blank": "Ben hiçbir şey ______, durum kötüleşecek"
+  "turkish_example_sentence": "Ben gerçeği söylemezsem, arkadaşlarım beni suçlayacak.",
+  "english_example_sentence": "If I do not say the truth, my friends will blame me.",
+  "russian_example_sentence": "Если я не скажу правду, мои друзья будут меня винить.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:38:06.190807+00:00",
+  "turkish_example_sentence_with_blank": "Ben gerçeği ______, arkadaşlarım beni suçlayacak."
 }

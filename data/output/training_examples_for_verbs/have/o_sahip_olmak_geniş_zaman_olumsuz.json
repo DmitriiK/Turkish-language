@@ -4,17 +4,19 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip değil",
-    "root": "sahip",
-    "tense_affix": "ip",
+    "verb_full": "sahip olmaz",
+    "root": "ol",
+    "tense_affix": "ur",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "değil"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "She doesn't have a big house",
-  "russian_example_sentence": "У неё нет большого дома",
-  "turkish_example_sentence": "O büyük bir eve sahip değil",
-  "turkish_example_sentence_with_blank": "O büyük bir eve ______"
+  "turkish_example_sentence": "O çocuk hiç bir oyuncak ve eğlence aracına sahip olmaz.",
+  "english_example_sentence": "That child does not have any toy and entertainment device.",
+  "russian_example_sentence": "Это дитя не имеет никакую игрушку и развлекательное устройство.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:07:32.068119+00:00",
+  "turkish_example_sentence_with_blank": "O çocuk hiç bir oyuncak ve eğlence aracına ______."
 }

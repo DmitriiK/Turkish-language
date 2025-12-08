@@ -11,10 +11,12 @@
     "personal_pronoun": "siz",
     "personal_affix": "sınız",
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "mama"
   },
-  "english_example_sentence": "You must not have expired products at home",
-  "russian_example_sentence": "У вас не должно быть просроченных продуктов дома",
-  "turkish_example_sentence": "Evinizde tarihi geçmiş ürünlere sahip olmamalısınız",
-  "turkish_example_sentence_with_blank": "Evinizde tarihi geçmiş ürünlere ______"
+  "turkish_example_sentence": "Siz bu hassas kişisel veriler için sahip olmamalısınız.",
+  "english_example_sentence": "You must not have this sensitive personal data.",
+  "russian_example_sentence": "Вы не должны иметь эти чувствительные личные данные.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:09:14.470776+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu hassas kişisel veriler için ______."
 }

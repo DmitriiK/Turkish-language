@@ -4,17 +4,19 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmazsın",
+    "verb_full": "yapmıyorsun",
     "root": "yap",
     "tense_affix": "ar",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "sın",
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "mı"
   },
-  "english_example_sentence": "You do not do unnecessary things",
-  "russian_example_sentence": "Ты не делаешь ненужные вещи",
-  "turkish_example_sentence": "Sen hiçbir zaman gereksiz şeyleri yapmazsın",
-  "turkish_example_sentence_with_blank": "Sen hiçbir zaman gereksiz şeyleri ______"
+  "turkish_example_sentence": "Sen önemli spor antrenmanlarını düzenli olarak yapmıyorsun.",
+  "english_example_sentence": "You don't do important sports training regularly.",
+  "russian_example_sentence": "Ты не делаешь важные спортивные тренировки регулярно.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:20:55.065231+00:00",
+  "turkish_example_sentence_with_blank": "Sen önemli spor antrenmanlarını düzenli olarak ______."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sahip olmamışsa",
     "root": "sahip ol",
-    "tense_affix": "muşsa",
+    "tense_affix": "muş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If she hadn’t had the map, she would get lost.",
-  "russian_example_sentence": "Если бы у неё не было карты, она бы потерялась.",
-  "turkish_example_sentence": "O haritaya sahip olmamışsa, kaybolurdu.",
-  "turkish_example_sentence_with_blank": "O haritaya ______, kaybolurdu."
+  "turkish_example_sentence": "O ünlü ressam o değerli sanat eserlerine sahip olmamışsa, sergisini açamazdı.",
+  "english_example_sentence": "If that famous painter had not owned those valuable artworks, he could not have opened his exhibition.",
+  "russian_example_sentence": "Если бы тот известный художник не владел теми ценными произведениями искусства, он не смог бы открыть свою выставку.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:10:13.532795+00:00",
+  "turkish_example_sentence_with_blank": "O ünlü ressam o değerli sanat eserlerine ______, sergisini açamazdı."
 }

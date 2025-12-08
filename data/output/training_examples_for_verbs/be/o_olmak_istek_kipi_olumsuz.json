@@ -4,17 +4,19 @@
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmıya",
+    "verb_full": "olmasın",
     "root": "ol",
-    "tense_affix": "ya",
+    "tense_affix": "a",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "May he not be a reason for trouble",
-  "russian_example_sentence": "Пусть он не будет причиной беды",
-  "turkish_example_sentence": "O bir sorun sebebi olmıya",
-  "turkish_example_sentence_with_blank": "O bir sorun sebebi ______"
+  "turkish_example_sentence": "O yaşlı öğretmen hiçbir zaman hasta olmasın.",
+  "english_example_sentence": "May that elderly teacher never be sick.",
+  "russian_example_sentence": "Пусть этот пожилой учитель никогда не будет больным.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T06:51:47.909430+00:00",
+  "turkish_example_sentence_with_blank": "O yaşlı öğretmen hiçbir zaman hasta ______."
 }

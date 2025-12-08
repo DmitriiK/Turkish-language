@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yapmayalım",
     "root": "yap",
-    "tense_affix": "mayalım",
+    "tense_affix": "a",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "lım",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "Let's not do this work today",
-  "russian_example_sentence": "Давайте не делать эту работу сегодня",
-  "turkish_example_sentence": "Bugün bu işi yapmayalım",
-  "turkish_example_sentence_with_blank": "Bugün bu işi ______"
+  "turkish_example_sentence": "Biz bu tartışmalı konuyu yapmayalım.",
+  "english_example_sentence": "Let us not do this controversial topic.",
+  "russian_example_sentence": "Давайте не будем заниматься этой спорной темой.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:21:11.842277+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu tartışmalı konuyu ______."
 }

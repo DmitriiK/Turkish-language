@@ -4,17 +4,19 @@
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmam lazım",
+    "verb_full": "olmam",
     "root": "ol",
-    "tense_affix": "lazım",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I need to be confident today",
-  "russian_example_sentence": "Мне нужно быть уверенным сегодня",
-  "turkish_example_sentence": "Ben bugün kendine güvenli olmam lazım",
-  "turkish_example_sentence_with_blank": "Ben bugün kendine güvenli ______"
+  "turkish_example_sentence": "Ben başarılı bir mühendis olmam lazım.",
+  "english_example_sentence": "I need to be a successful engineer.",
+  "russian_example_sentence": "Мне нужно быть успешным инженером.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T06:52:36.067594+00:00",
+  "turkish_example_sentence_with_blank": "Ben başarılı bir mühendis ______ lazım."
 }

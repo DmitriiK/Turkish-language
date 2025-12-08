@@ -4,17 +4,19 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahipler",
-    "root": "sahip",
-    "tense_affix": "ip",
+    "verb_full": "sahip olurlar",
+    "root": "ol",
+    "tense_affix": "ur",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "ler",
+    "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They have a big family",
-  "russian_example_sentence": "У них есть большая семья",
-  "turkish_example_sentence": "Onlar büyük bir aileye sahipler",
-  "turkish_example_sentence_with_blank": "Onlar büyük bir aileye ______"
+  "turkish_example_sentence": "Onlar güçlü bir aile bağı ve sevgi ile sahip olurlar.",
+  "english_example_sentence": "They have a strong family bond and love.",
+  "russian_example_sentence": "Они имеют сильную семейную связь и любовь.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:07:32.068119+00:00",
+  "turkish_example_sentence_with_blank": "Onlar güçlü bir aile bağı ve sevgi ile ______."
 }

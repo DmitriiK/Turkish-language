@@ -4,17 +4,19 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olmayalar",
+    "verb_full": "sahip olmasınlar",
     "root": "sahip ol",
-    "tense_affix": "aya",
+    "tense_affix": "a",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "May they not have any bad luck.",
-  "russian_example_sentence": "Пусть у них не будет несчастья.",
-  "turkish_example_sentence": "Onlar hiç kötü şansa sahip olmayalar.",
-  "turkish_example_sentence_with_blank": "Onlar hiç kötü şansa ______."
+  "turkish_example_sentence": "Onlar ciddi bir hastalık sahip olmasınlar hiçbir zaman.",
+  "english_example_sentence": "May they never have a serious disease.",
+  "russian_example_sentence": "Пусть они никогда не имеют серьезное заболевание.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:07:48.065423+00:00",
+  "turkish_example_sentence_with_blank": "Onlar ciddi bir hastalık ______ hiçbir zaman."
 }

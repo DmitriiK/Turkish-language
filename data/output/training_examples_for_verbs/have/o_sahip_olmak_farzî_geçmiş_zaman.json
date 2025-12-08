@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sahip olmuşsa",
     "root": "sahip ol",
-    "tense_affix": "muşsa",
+    "tense_affix": "muş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If he had had courage, he would have spoken.",
-  "russian_example_sentence": "Если бы у него хватило смелости, он бы заговорил.",
-  "turkish_example_sentence": "O cesarete sahip olmuşsa, konuşurdu.",
-  "turkish_example_sentence_with_blank": "O cesarete ______, konuşurdu."
+  "turkish_example_sentence": "O genç mühendis o ileri teknoloji şirketine sahip olmuşsa, başarılı olurdu.",
+  "english_example_sentence": "If that young engineer had owned that advanced technology company, he would have succeeded.",
+  "russian_example_sentence": "Если бы тот молодой инженер владел той компанией передовых технологий, он бы преуспел.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:10:13.532795+00:00",
+  "turkish_example_sentence_with_blank": "O genç mühendis o ileri teknoloji şirketine ______, başarılı olurdu."
 }

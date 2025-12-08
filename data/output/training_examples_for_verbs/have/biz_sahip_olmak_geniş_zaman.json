@@ -4,17 +4,19 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahibiz",
-    "root": "sahip",
-    "tense_affix": "ip",
+    "verb_full": "sahip oluruz",
+    "root": "ol",
+    "tense_affix": "ur",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "iz",
+    "personal_affix": "uz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We have fresh vegetables",
-  "russian_example_sentence": "У нас есть свежие овощи",
-  "turkish_example_sentence": "Biz taze sebzelere sahibiz",
-  "turkish_example_sentence_with_blank": "Biz taze sebzelere ______"
+  "turkish_example_sentence": "Biz ortak bir hedef ve vizyon ile sahip oluruz.",
+  "english_example_sentence": "We have a common goal and vision.",
+  "russian_example_sentence": "Мы имеем общую цель и видение.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:07:32.068119+00:00",
+  "turkish_example_sentence_with_blank": "Biz ortak bir hedef ve vizyon ile ______."
 }

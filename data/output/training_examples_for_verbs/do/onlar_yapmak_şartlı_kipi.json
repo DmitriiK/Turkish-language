@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yaparlarsa",
     "root": "yap",
-    "tense_affix": "arsa",
+    "tense_affix": "ar",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they do their job, we will succeed.",
-  "russian_example_sentence": "Если они выполнят свою работу, мы добьемся успеха.",
-  "turkish_example_sentence": "Görevlerini yaparlarsa başarılı oluruz.",
-  "turkish_example_sentence_with_blank": "Görevlerini ______ başarılı oluruz."
+  "turkish_example_sentence": "Onlar bu yaratıcı projeyi birlikte yaparlarsa, harika sonuçlar ortaya çıkacak.",
+  "english_example_sentence": "If they do this creative project together, amazing results will emerge.",
+  "russian_example_sentence": "Если они вместе выполнят этот творческий проект, получатся удивительные результаты.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:23:18.501832+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu yaratıcı projeyi birlikte ______, harika sonuçlar ortaya çıkacak."
 }

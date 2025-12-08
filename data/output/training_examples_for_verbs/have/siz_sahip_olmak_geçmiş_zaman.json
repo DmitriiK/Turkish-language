@@ -4,17 +4,19 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahiptiniz",
-    "root": "sahip",
-    "tense_affix": "ti",
+    "verb_full": "sahip oldunuz",
+    "root": "sahip ol",
+    "tense_affix": "du",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "nız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You had a comfortable hotel room in Istanbul",
-  "russian_example_sentence": "У вас был комфортный номер в отеле в Стамбуле",
-  "turkish_example_sentence": "Siz İstanbul'da rahat bir otel odasına sahiptiniz",
-  "turkish_example_sentence_with_blank": "Siz İstanbul'da rahat bir otel odasına ______"
+  "turkish_example_sentence": "Siz geçen yaz güzel bir sarı plaj şemsiyesi sahip oldunuz.",
+  "english_example_sentence": "You had a beautiful yellow beach umbrella last summer.",
+  "russian_example_sentence": "Прошлым летом вы имели красивый желтый пляжный зонт.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:06:44.456696+00:00",
+  "turkish_example_sentence_with_blank": "Siz geçen yaz güzel bir sarı plaj şemsiyesi ______."
 }

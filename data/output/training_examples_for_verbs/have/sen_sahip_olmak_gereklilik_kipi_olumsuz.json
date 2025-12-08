@@ -4,17 +4,19 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olmaman lazım",
+    "verb_full": "sahip olman",
     "root": "sahip ol",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You don’t need to have unnecessary worries.",
-  "russian_example_sentence": "Тебе не нужно иметь ненужных беспокойств.",
-  "turkish_example_sentence": "Senin gereksiz endişelere sahip olmaman lazım.",
-  "turkish_example_sentence_with_blank": "Senin gereksiz endişelere ______."
+  "turkish_example_sentence": "Sen bu basit görevde fazla endişe sahip olmanman lazım.",
+  "english_example_sentence": "You don't need to have too much worry about this simple task.",
+  "russian_example_sentence": "Тебе не нужно иметь слишком много беспокойства об этой простой задаче.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:08:38.475473+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu basit görevde fazla endişe ______man lazım."
 }

@@ -4,17 +4,19 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylemesi lazım",
+    "verb_full": "söylemesi",
     "root": "söyle",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
     "personal_affix": "si",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He needs to say something about the situation",
-  "russian_example_sentence": "Он должен что-то сказать о ситуации",
-  "turkish_example_sentence": "O zor durumla ilgili bazı sözler söylemesi lazım",
-  "turkish_example_sentence_with_blank": "O zor durumla ilgili bazı sözler ______"
+  "turkish_example_sentence": "O başkan konferansta yeni ekonomik planı söylemesi lazım.",
+  "english_example_sentence": "He the president needs to say the new economic plan at the conference.",
+  "russian_example_sentence": "Он президент должен сказать новый экономический план на конференции.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:38:23.551902+00:00",
+  "turkish_example_sentence_with_blank": "O başkan konferansta yeni ekonomik planı ______ lazım."
 }

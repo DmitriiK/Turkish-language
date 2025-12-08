@@ -4,7 +4,7 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmasa",
+    "verb_full": "yapmazsa",
     "root": "yap",
     "tense_affix": "sa",
     "verb_tense": "şart_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If he didn’t do his homework, the teacher would be angry",
-  "russian_example_sentence": "Если бы он не сделал домашнее задание, учитель бы рассердился",
-  "turkish_example_sentence": "Ödevini yapmasa öğretmen kızardı",
-  "turkish_example_sentence_with_blank": "Ödevini ______ öğretmen kızardı"
+  "turkish_example_sentence": "O bu sağlık taramasını yapmazsa, hastalık erken fark edilemez.",
+  "english_example_sentence": "If she were not to do this health screening, the disease could not be detected early.",
+  "russian_example_sentence": "Если бы она не сделала этот медицинский осмотр, болезнь не могла бы быть обнаружена рано.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:21:41.221434+00:00",
+  "turkish_example_sentence_with_blank": "O bu sağlık taramasını ______, hastalık erken fark edilemez."
 }

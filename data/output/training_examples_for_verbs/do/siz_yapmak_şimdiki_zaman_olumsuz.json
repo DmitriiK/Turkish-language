@@ -11,10 +11,12 @@
     "personal_pronoun": "siz",
     "personal_affix": "sunuz",
     "polarity": "negative",
-    "negative_affix": "mı"
+    "negative_affix": "m"
   },
-  "english_example_sentence": "You are not doing the right thing",
-  "russian_example_sentence": "Вы не делаете правильное дело",
-  "turkish_example_sentence": "Siz ofiste doğru kararı yapmıyorsunuz",
-  "turkish_example_sentence_with_blank": "Siz ofiste doğru kararı ______"
+  "turkish_example_sentence": "Siz bu hafta önemli toplantı için hazırlık yapmıyorsunuz.",
+  "english_example_sentence": "You are not doing preparation for an important meeting this week.",
+  "russian_example_sentence": "Вы не делаете подготовку к важному совещанию на этой неделе.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:19:23.276497+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu hafta önemli toplantı için hazırlık ______."
 }

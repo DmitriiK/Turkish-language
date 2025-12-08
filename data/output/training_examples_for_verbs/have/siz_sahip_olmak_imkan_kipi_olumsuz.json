@@ -4,17 +4,19 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olamazsınız",
+    "verb_full": "sahip olamayacaksınız",
     "root": "sahip ol",
-    "tense_affix": "a",
+    "tense_affix": "abil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "sınız",
+    "personal_affix": "irsiniz",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "You cannot have that delicious dessert.",
-  "russian_example_sentence": "Вы не можете съесть этот вкусный десерт.",
-  "turkish_example_sentence": "Hazır tatlıya sahip olamazsınız.",
-  "turkish_example_sentence_with_blank": "Hazır tatlıya ______."
+  "turkish_example_sentence": "Siz bu zor şartlarda rahat bir yaşam sahip olamayacaksınız.",
+  "english_example_sentence": "You cannot have a comfortable life under these difficult conditions.",
+  "russian_example_sentence": "Вы не сможете иметь комфортную жизнь в этих сложных условиях.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:08:58.536014+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu zor şartlarda rahat bir yaşam ______."
 }

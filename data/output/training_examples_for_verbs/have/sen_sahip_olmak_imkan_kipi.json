@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sahip olabilirsin",
     "root": "sahip ol",
-    "tense_affix": "abilir",
+    "tense_affix": "abil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "sin",
+    "personal_affix": "irsin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can have a beautiful painting.",
-  "russian_example_sentence": "Ты можешь иметь красивую картину.",
-  "turkish_example_sentence": "Sen güzel bir tabloya sahip olabilirsin.",
-  "turkish_example_sentence_with_blank": "Sen güzel bir tabloya ______."
+  "turkish_example_sentence": "Sen çalışkan bir öğrenci olarak parlak bir gelecek sahip olabilirsin.",
+  "english_example_sentence": "You can have a bright future as a hardworking student.",
+  "russian_example_sentence": "Ты можешь иметь светлое будущее как прилежный студент.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:08:58.536014+00:00",
+  "turkish_example_sentence_with_blank": "Sen çalışkan bir öğrenci olarak parlak bir gelecek ______."
 }

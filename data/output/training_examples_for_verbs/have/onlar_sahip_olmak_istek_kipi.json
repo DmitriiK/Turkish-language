@@ -4,7 +4,7 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olalar",
+    "verb_full": "sahip olsunlar",
     "root": "sahip ol",
     "tense_affix": "a",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "May they have a bright future.",
-  "russian_example_sentence": "Пусть у них будет светлое будущее.",
-  "turkish_example_sentence": "Onlar parlak bir geleceğe sahip olalar.",
-  "turkish_example_sentence_with_blank": "Onlar parlak bir geleceğe ______."
+  "turkish_example_sentence": "Onlar güzel bir evlilik hayatı sahip olsunlar.",
+  "english_example_sentence": "May they have a beautiful married life.",
+  "russian_example_sentence": "Пусть они имеют красивую семейную жизнь.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:07:48.065423+00:00",
+  "turkish_example_sentence_with_blank": "Onlar güzel bir evlilik hayatı ______."
 }

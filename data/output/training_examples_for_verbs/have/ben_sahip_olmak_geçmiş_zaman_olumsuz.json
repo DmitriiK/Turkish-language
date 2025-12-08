@@ -4,17 +4,19 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip değildim",
-    "root": "sahip",
-    "tense_affix": "ti",
+    "verb_full": "sahip olmadım",
+    "root": "sahip ol",
+    "tense_affix": "du",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
-    "negative_affix": "değil"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "I did not have a new phone yesterday",
-  "russian_example_sentence": "У меня не было нового телефона вчера",
-  "turkish_example_sentence": "Ben dün yeni bir telefona sahip değildim",
-  "turkish_example_sentence_with_blank": "Ben dün yeni bir telefona ______"
+  "turkish_example_sentence": "Ben geçen hafta pahalı bir elmas yüzük sahip olmadım.",
+  "english_example_sentence": "I did not have an expensive diamond ring last week.",
+  "russian_example_sentence": "На прошлой неделе я не имел дорогое алмазное кольцо.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:06:44.456696+00:00",
+  "turkish_example_sentence_with_blank": "Ben geçen hafta pahalı bir elmas yüzük ______."
 }

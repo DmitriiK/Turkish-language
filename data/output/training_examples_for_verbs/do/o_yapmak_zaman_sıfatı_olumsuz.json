@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yapmadığında",
     "root": "yap",
-    "tense_affix": "tık",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "o",
     "personal_affix": "ı",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "When she doesn't do her chores, she's scolded.",
-  "russian_example_sentence": "Когда она не делает свою работу по дому, ее ругают.",
-  "turkish_example_sentence": "O ev işlerini yapmadığında, azarlanır.",
-  "turkish_example_sentence_with_blank": "O ev işlerini ______, azarlanır."
+  "turkish_example_sentence": "O yeni görevini yapmadığında, müdür ona uyarı verdi.",
+  "english_example_sentence": "When he/she didn't do the new task, the manager warned him/her.",
+  "russian_example_sentence": "Когда он/она не выполнил/выполнила новое задание, менеджер его/ее предупредил.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:24:34.992344+00:00",
+  "turkish_example_sentence_with_blank": "O yeni görevini ______, müdür ona uyarı verdi."
 }

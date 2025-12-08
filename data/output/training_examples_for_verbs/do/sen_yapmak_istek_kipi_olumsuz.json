@@ -4,17 +4,19 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmayasın",
+    "verb_full": "yapmasın",
     "root": "yap",
-    "tense_affix": "mayasın",
+    "tense_affix": "a",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "sın",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "May you not do the same mistake again",
-  "russian_example_sentence": "Ты не сделаешь ту же ошибку снова",
-  "turkish_example_sentence": "Aynı hatayı tekrar yapmayasın",
-  "turkish_example_sentence_with_blank": "Aynı hatayı tekrar ______"
+  "turkish_example_sentence": "Sen bu tehlikeli işi yapmasın lütfen.",
+  "english_example_sentence": "Please do not do this dangerous work.",
+  "russian_example_sentence": "Пожалуйста, не делай эту опасную работу.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:21:11.842277+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu tehlikeli işi ______ lütfen."
 }

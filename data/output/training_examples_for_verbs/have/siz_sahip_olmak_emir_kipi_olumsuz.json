@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sahip olmayın",
     "root": "sahip ol",
-    "tense_affix": "mayın",
+    "tense_affix": "",
     "verb_tense": "emir_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "mayın",
+    "personal_affix": "ın",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "Do not have distractions while working.",
-  "russian_example_sentence": "Не отвлекайтесь во время работы.",
-  "turkish_example_sentence": "İş yaparken dikkat dağıtıcılara sahip olmayın.",
-  "turkish_example_sentence_with_blank": "İş yaparken dikkat dağıtıcılara ______."
+  "turkish_example_sentence": "Siz bu kaybedilmiş eşyaları asla sahip olmayın!",
+  "english_example_sentence": "Don't have these lost items!",
+  "russian_example_sentence": "Никогда не имейте эти потерянные вещи!",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:08:00.282958+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu kaybedilmiş eşyaları asla ______!"
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sahip olursa",
     "root": "sahip ol",
-    "tense_affix": "ursa",
+    "tense_affix": "ur",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If she has experience, she will succeed",
-  "russian_example_sentence": "Если у неё есть опыт, то она добьётся успеха",
-  "turkish_example_sentence": "Eğer tecrübeye sahip olursa, başarılı olacak",
-  "turkish_example_sentence_with_blank": "Eğer tecrübeye ______, başarılı olacak"
+  "turkish_example_sentence": "O çok yetenekli bir müzik sanatçısı sahip olursa, konser turnesine çıkabilir.",
+  "english_example_sentence": "If he has a very talented music artist, he can go on a concert tour.",
+  "russian_example_sentence": "Если у него будет очень талантливый музыкальный артист, он сможет отправиться в концертный тур.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:09:52.963141+00:00",
+  "turkish_example_sentence_with_blank": "O çok yetenekli bir müzik sanatçısı ______, konser turnesine çıkabilir."
 }

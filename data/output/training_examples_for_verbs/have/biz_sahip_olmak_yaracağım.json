@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sahip olacağız",
     "root": "sahip ol",
-    "tense_affix": "acak",
+    "tense_affix": "acağ",
     "verb_tense": "yaracağım",
     "personal_pronoun": "biz",
     "personal_affix": "ız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We will have a picnic at the park",
-  "russian_example_sentence": "Мы будем устроить пикник в парке",
-  "turkish_example_sentence": "Biz parkta bir piknik sahip olacağız",
-  "turkish_example_sentence_with_blank": "Biz parkta bir piknik ______"
+  "turkish_example_sentence": "Biz haftaya uzun bir tatil sahip olacağız.",
+  "english_example_sentence": "We will have a long vacation next week.",
+  "russian_example_sentence": "У нас будет долгий отпуск на следующей неделе.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:07:16.113166+00:00",
+  "turkish_example_sentence_with_blank": "Biz haftaya uzun bir tatil ______."
 }

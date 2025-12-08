@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sahip olmamışlarsa",
     "root": "sahip ol",
-    "tense_affix": "muşsa",
+    "tense_affix": "muş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If they hadn’t had the opportunity, they couldn’t contribute.",
-  "russian_example_sentence": "Если бы у них не было возможности, они не смогли бы внести вклад.",
-  "turkish_example_sentence": "Onlar bir fırsata sahip olmamışlarsa, katkıda bulunamazlardı.",
-  "turkish_example_sentence_with_blank": "Onlar bir fırsata ______, katkıda bulunamazlardı."
+  "turkish_example_sentence": "Onlar o kıymetli mücevher koleksiyonuna sahip olmamışlarsa, müzayedede satış yapamazlardı.",
+  "english_example_sentence": "If they had not owned that precious jewelry collection, they could not have sold it at auction.",
+  "russian_example_sentence": "Если бы они не владели той драгоценной коллекцией украшений, они не смогли бы продать её на аукционе.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:10:13.532795+00:00",
+  "turkish_example_sentence_with_blank": "Onlar o kıymetli mücevher koleksiyonuna ______, müzayedede satış yapamazlardı."
 }

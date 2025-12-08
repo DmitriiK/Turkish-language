@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sahip olursak",
     "root": "sahip ol",
-    "tense_affix": "ursa",
+    "tense_affix": "ur",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we have good ideas, we will share them",
-  "russian_example_sentence": "Если у нас есть хорошие идеи, мы их поделимся",
-  "turkish_example_sentence": "Eğer güzel fikirlere sahip olursak, paylaşacağız",
-  "turkish_example_sentence_with_blank": "Eğer güzel fikirlere ______, paylaşacağız"
+  "turkish_example_sentence": "Biz iyi bir proje planı sahip olursak, başarılı bir ürün geliştirebiliriz.",
+  "english_example_sentence": "If we have a good project plan, we can develop a successful product.",
+  "russian_example_sentence": "Если у нас будет хороший план проекта, мы сможем разработать успешный продукт.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:09:52.963141+00:00",
+  "turkish_example_sentence_with_blank": "Biz iyi bir proje planı ______, başarılı bir ürün geliştirebiliriz."
 }

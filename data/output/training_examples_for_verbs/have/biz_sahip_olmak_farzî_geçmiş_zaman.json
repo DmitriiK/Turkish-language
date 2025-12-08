@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sahip olmuşsak",
     "root": "sahip ol",
-    "tense_affix": "muşsa",
+    "tense_affix": "muş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we had had bikes, we could go further.",
-  "russian_example_sentence": "Если бы у нас были велосипеды, мы могли бы доехать дальше.",
-  "turkish_example_sentence": "Eğer bisikletlere sahip olmuşsak, daha ileri gidebilirdik.",
-  "turkish_example_sentence_with_blank": "Eğer bisikletlere ______, daha ileri gidebilirdik."
+  "turkish_example_sentence": "Biz o geniş araziye sahip olmuşsak, modern çiftlik kurarız.",
+  "english_example_sentence": "If we had owned that vast land, we would have built a modern farm.",
+  "russian_example_sentence": "Если бы мы владели той обширной землёй, мы бы построили современную ферму.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:10:13.532795+00:00",
+  "turkish_example_sentence_with_blank": "Biz o geniş araziye ______, modern çiftlik kurarız."
 }

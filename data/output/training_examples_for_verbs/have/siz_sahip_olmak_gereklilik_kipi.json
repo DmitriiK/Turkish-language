@@ -4,17 +4,19 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olmanız lazım",
+    "verb_full": "sahip olmanız",
     "root": "sahip ol",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to have fresh ideas.",
-  "russian_example_sentence": "Вам нужно иметь свежие идеи.",
-  "turkish_example_sentence": "Sizin yeni fikirlere sahip olmanız lazım.",
-  "turkish_example_sentence_with_blank": "Sizin yeni fikirlere ______."
+  "turkish_example_sentence": "Siz bu uluslararası konferansta profesyonel bir sunum materyali sahip olmanız lazım.",
+  "english_example_sentence": "You need to have professional presentation materials for this international conference.",
+  "russian_example_sentence": "Вам нужно иметь профессиональные материалы для презентации на этой международной конференции.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:08:38.475473+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu uluslararası konferansta profesyonel bir sunum materyali ______ lazım."
 }

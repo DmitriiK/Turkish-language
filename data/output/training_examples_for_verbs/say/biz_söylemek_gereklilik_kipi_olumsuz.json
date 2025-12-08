@@ -4,17 +4,19 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylememememiz lazım",
+    "verb_full": "söylememiz",
     "root": "söyle",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "mız",
+    "personal_affix": "miz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "We need to not say anything about the plan",
-  "russian_example_sentence": "Мы не должны ничего говорить о плане",
-  "turkish_example_sentence": "Biz gizli planı hiç söylememememiz lazım",
-  "turkish_example_sentence_with_blank": "Biz gizli planı hiç ______"
+  "turkish_example_sentence": "Biz bu hassas konu hakkında yanlış sözleri söylememiz gerek.",
+  "english_example_sentence": "We need to not say wrong words about this sensitive topic.",
+  "russian_example_sentence": "Мы не должны говорить неправильные слова об этой чувствительной теме.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:38:23.551902+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu hassas konu hakkında yanlış sözleri ______ gerek."
 }

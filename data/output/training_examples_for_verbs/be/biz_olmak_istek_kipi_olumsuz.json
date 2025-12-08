@@ -4,17 +4,19 @@
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmıyalım",
+    "verb_full": "olmasalım",
     "root": "ol",
-    "tense_affix": "ya",
+    "tense_affix": "a",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "lım",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "Let’s not be the cause of this problem",
-  "russian_example_sentence": "Давайте не будем причиной этой проблемы",
-  "turkish_example_sentence": "Biz bu sorunun sebebi olmıyalım",
-  "turkish_example_sentence_with_blank": "Biz bu sorunun sebebi ______"
+  "turkish_example_sentence": "Biz bu konuda hiçbir zaman yanılmış insanlar olmasalım.",
+  "english_example_sentence": "Let us not be mistaken people on this subject.",
+  "russian_example_sentence": "Давайте не будем ошибающимися людьми по этому вопросу.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T06:51:47.909430+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu konuda hiçbir zaman yanılmış insanlar ______."
 }

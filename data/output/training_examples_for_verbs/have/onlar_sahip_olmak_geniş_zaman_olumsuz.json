@@ -4,17 +4,19 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip değiller",
-    "root": "sahip",
-    "tense_affix": "ip",
+    "verb_full": "sahip olmazlar",
+    "root": "ol",
+    "tense_affix": "ur",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "ler",
+    "personal_affix": "lar",
     "polarity": "negative",
-    "negative_affix": "değil"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "They do not have any pets",
-  "russian_example_sentence": "У них нет домашних животных",
-  "turkish_example_sentence": "Onlar hiç hayvana sahip değiller",
-  "turkish_example_sentence_with_blank": "Onlar hiç hayvana ______"
+  "turkish_example_sentence": "Onlar modern bir teknoloji ve iletişim aracı ile sahip olmazlar.",
+  "english_example_sentence": "They do not have modern technology and communication device.",
+  "russian_example_sentence": "Они не имеют современную технологию и средство связи.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:07:32.068119+00:00",
+  "turkish_example_sentence_with_blank": "Onlar modern bir teknoloji ve iletişim aracı ile ______."
 }

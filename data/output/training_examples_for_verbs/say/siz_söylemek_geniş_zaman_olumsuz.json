@@ -4,17 +4,19 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylemezsiz",
+    "verb_full": "söylemezsiniz",
     "root": "söyle",
-    "tense_affix": "z",
+    "tense_affix": "r",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "siniz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You do not say inappropriate comments in formal settings",
-  "russian_example_sentence": "Вы не говорите неуместные комментарии в официальных обстановках",
-  "turkish_example_sentence": "Siz resmi ortamlarda uygunsuz ve tatsız yorumları söylemezsiz",
-  "turkish_example_sentence_with_blank": "Siz resmi ortamlarda uygunsuz ve tatsız yorumları ______"
+  "turkish_example_sentence": "Siz resmi ortamlarda uygunsuz şakalar söylemezsiniz.",
+  "english_example_sentence": "You do not say inappropriate jokes in formal settings.",
+  "russian_example_sentence": "Вы не говорите неуместные шутки в официальной обстановке.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:37:16.704919+00:00",
+  "turkish_example_sentence_with_blank": "Siz resmi ortamlarda uygunsuz şakalar ______."
 }

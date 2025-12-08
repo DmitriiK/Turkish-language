@@ -4,17 +4,19 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olmazsam",
+    "verb_full": "sahip olmursam",
     "root": "sahip ol",
-    "tense_affix": "mazsa",
+    "tense_affix": "ur",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If I don't have a good book, I will feel bored",
-  "russian_example_sentence": "Если у меня не будет хорошей книги, мне будет скучно",
-  "turkish_example_sentence": "Eğer güzel bir kitaba sahip olmazsam, sıkılacağım",
-  "turkish_example_sentence_with_blank": "Eğer güzel bir kitaba ______, sıkılacağım"
+  "turkish_example_sentence": "Ben geçerli bir kimlik belgesi sahip olmursam, uçağa binemem.",
+  "english_example_sentence": "If I don't have a valid identity document, I cannot board the plane.",
+  "russian_example_sentence": "Если у меня не будет действительного удостоверения личности, я не смогу сесть в самолет.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:09:52.963141+00:00",
+  "turkish_example_sentence_with_blank": "Ben geçerli bir kimlik belgesi ______, uçağa binemem."
 }

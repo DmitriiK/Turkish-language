@@ -4,17 +4,19 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmaması lazım",
+    "verb_full": "yapmamları",
     "root": "yap",
-    "tense_affix": "lazım",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ları",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "They should not do that careless mistake",
-  "russian_example_sentence": "Им не нужно делать эту небрежную ошибку",
-  "turkish_example_sentence": "Onlar bu dikkatsiz hatayı yapmaması lazım",
-  "turkish_example_sentence_with_blank": "Onlar bu dikkatsiz hatayı ______"
+  "turkish_example_sentence": "Onlar bu yanlış finansal kararı yapmamları gerek.",
+  "english_example_sentence": "They need to not do this wrong financial decision.",
+  "russian_example_sentence": "Им нужно не делать это неправильное финансовое решение.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:22:00.956255+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu yanlış finansal kararı ______ gerek."
 }

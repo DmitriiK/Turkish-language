@@ -11,10 +11,12 @@
     "personal_pronoun": "sen",
     "personal_affix": "sın",
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "mama"
   },
-  "english_example_sentence": "You must not be ungrateful to your parents",
-  "russian_example_sentence": "Ты не должен быть неблагодарным к своим родителям",
-  "turkish_example_sentence": "Sen ailene karşı nankör olmamalısın",
-  "turkish_example_sentence_with_blank": "Sen ailene karşı nankör ______"
+  "turkish_example_sentence": "Sen bu sınavda hatalı cevaplar veren öğrenci olmamalısın.",
+  "english_example_sentence": "You must not be a student who gives wrong answers on this exam.",
+  "russian_example_sentence": "Ты не должен быть студентом, который дает неправильные ответы на этом экзамене.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T06:53:13.497764+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu sınavda hatalı cevaplar veren öğrenci ______."
 }

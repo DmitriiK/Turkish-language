@@ -4,17 +4,19 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olmamam lazım",
+    "verb_full": "sahip olmam",
     "root": "sahip ol",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I don’t need to have a pet.",
-  "russian_example_sentence": "Мне не нужно иметь домашнее животное.",
-  "turkish_example_sentence": "Benim bir evcil hayvana sahip olmamam lazım.",
-  "turkish_example_sentence_with_blank": "Benim bir evcil hayvana ______."
+  "turkish_example_sentence": "Ben bu zor projede hiçbir şüphe sahip olmamam lazım.",
+  "english_example_sentence": "I don't need to have any doubt about this difficult project.",
+  "russian_example_sentence": "Мне не нужно иметь никаких сомнений в этом сложном проекте.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:08:38.475473+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu zor projede hiçbir şüphe ______am lazım."
 }

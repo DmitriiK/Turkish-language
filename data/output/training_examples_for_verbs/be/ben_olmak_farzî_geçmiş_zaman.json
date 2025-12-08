@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "olmuşsam",
     "root": "ol",
-    "tense_affix": "muşsa",
+    "tense_affix": "muş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I had been careful, I'd succeed.",
-  "russian_example_sentence": "Если бы я был осторожным, я бы добился успеха.",
-  "turkish_example_sentence": "Eğer dikkatli olmuşsam başarılı olurdum.",
-  "turkish_example_sentence_with_blank": "Eğer dikkatli ______ başarılı olurdum."
+  "turkish_example_sentence": "Ben erken saatte hazır olmuşsam, toplantıya katılabilirdim.",
+  "english_example_sentence": "If I had been ready at an early hour, I could have attended the meeting.",
+  "russian_example_sentence": "Если бы я был готов в ранний час, я мог бы присутствовать на встречу.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T06:54:49.641174+00:00",
+  "turkish_example_sentence_with_blank": "Ben erken saatte hazır ______, toplantıya katılabilirdim."
 }

@@ -4,17 +4,19 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olmaması lazım",
+    "verb_full": "sahip olması",
     "root": "sahip ol",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
     "personal_affix": "sı",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "She doesn’t need to have many problems.",
-  "russian_example_sentence": "Ей не нужно иметь много проблем.",
-  "turkish_example_sentence": "Onun çok probleme sahip olmaması lazım.",
-  "turkish_example_sentence_with_blank": "Onun çok probleme ______."
+  "turkish_example_sentence": "O yaşlı adam ağır bir hastalık sahip olmasıması gerek.",
+  "english_example_sentence": "That elderly man doesn't need to have a serious illness.",
+  "russian_example_sentence": "Тому пожилому мужчине не нужно иметь серьезное заболевание.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:08:38.475473+00:00",
+  "turkish_example_sentence_with_blank": "O yaşlı adam ağır bir hastalık ______ması gerek."
 }

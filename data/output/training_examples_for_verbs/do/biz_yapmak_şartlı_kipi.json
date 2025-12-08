@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yaparsak",
     "root": "yap",
-    "tense_affix": "arsak",
+    "tense_affix": "ar",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we do our research, we will learn.",
-  "russian_example_sentence": "Если мы проведем наше исследование, мы узнаем.",
-  "turkish_example_sentence": "Araştırmamızı yaparsak öğreniriz.",
-  "turkish_example_sentence_with_blank": "Araştırmamızı ______ öğreniriz."
+  "turkish_example_sentence": "Biz bu uzun yolculuğu erken saatlerde yaparsak, akşam evde olabiliriz.",
+  "english_example_sentence": "If we do this long journey in the early hours, we can be home in the evening.",
+  "russian_example_sentence": "Если мы совершим это долгое путешествие в ранние часы, мы сможем быть дома вечером.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:23:18.501832+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu uzun yolculuğu erken saatlerde ______, akşam evde olabiliriz."
 }

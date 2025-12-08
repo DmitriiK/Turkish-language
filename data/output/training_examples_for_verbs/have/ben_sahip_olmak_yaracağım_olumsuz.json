@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sahip olmayacağım",
     "root": "sahip ol",
-    "tense_affix": "acak",
+    "tense_affix": "acağ",
     "verb_tense": "yaracağım",
     "personal_pronoun": "ben",
     "personal_affix": "ım",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I will not have any free time",
-  "russian_example_sentence": "У меня не будет свободного времени",
-  "turkish_example_sentence": "Ben hiç boş zaman sahip olmayacağım",
-  "turkish_example_sentence_with_blank": "Ben hiç boş zaman ______"
+  "turkish_example_sentence": "Ben bu zor projede başarı sahip olmayacağım.",
+  "english_example_sentence": "I will not have success in this difficult project.",
+  "russian_example_sentence": "Я не буду иметь успех в этом сложном проекте.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:07:16.113166+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu zor projede başarı ______."
 }

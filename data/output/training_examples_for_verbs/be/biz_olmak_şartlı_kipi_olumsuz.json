@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "olmazsak",
     "root": "ol",
-    "tense_affix": "sa",
+    "tense_affix": "maz",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If we are not careful, the glass will break.",
-  "russian_example_sentence": "Если мы не будем осторожны, стакан разобьётся.",
-  "turkish_example_sentence": "Dikkatli olmazsak bardak kırılacak.",
-  "turkish_example_sentence_with_blank": "Dikkatli ______ bardak kırılacak."
+  "turkish_example_sentence": "Biz uyumlu ve işbirlikçi olmazsak, proje başarısız olacaktır.",
+  "english_example_sentence": "If we are not harmonious and cooperative, the project will fail.",
+  "russian_example_sentence": "Если мы не будем согласованными и кооперативными, проект потерпит неудачу.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T06:54:31.569104+00:00",
+  "turkish_example_sentence_with_blank": "Biz uyumlu ve işbirlikçi ______, proje başarısız olacaktır."
 }

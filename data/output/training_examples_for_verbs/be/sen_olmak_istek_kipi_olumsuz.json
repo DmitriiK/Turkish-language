@@ -4,17 +4,19 @@
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmıyasan",
+    "verb_full": "olmasın",
     "root": "ol",
-    "tense_affix": "ya",
+    "tense_affix": "a",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "sın",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "May you not be upset by anything",
-  "russian_example_sentence": "Пусть ты не будешь расстроен ни из-за чего",
-  "turkish_example_sentence": "Sen hiçbir şeyden üzgün olmıyasan",
-  "turkish_example_sentence_with_blank": "Sen hiçbir şeyden üzgün ______"
+  "turkish_example_sentence": "Sen asla kötü bir arkadaş olmasın.",
+  "english_example_sentence": "May you never be a bad friend.",
+  "russian_example_sentence": "Пусть ты никогда не будешь плохим другом.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T06:51:47.909430+00:00",
+  "turkish_example_sentence_with_blank": "Sen asla kötü bir arkadaş ______."
 }

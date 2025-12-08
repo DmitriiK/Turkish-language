@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yapayım",
     "root": "yap",
-    "tense_affix": "ayım",
+    "tense_affix": "a",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "yım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Let me do this homework now",
-  "russian_example_sentence": "Дайте я сделаю эту домашнюю работу сейчас",
-  "turkish_example_sentence": "Şimdi bu ödevi yapayım",
-  "turkish_example_sentence_with_blank": "Şimdi bu ödevi ______"
+  "turkish_example_sentence": "Ben bu zor matematik problemini hızlı yapayım.",
+  "english_example_sentence": "Let me do this difficult math problem quickly.",
+  "russian_example_sentence": "Позвольте мне быстро решить эту сложную математическую задачу.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:21:11.842277+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu zor matematik problemini hızlı ______."
 }

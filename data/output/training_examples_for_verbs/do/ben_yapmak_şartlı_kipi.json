@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yaparsam",
     "root": "yap",
-    "tense_affix": "arsa",
+    "tense_affix": "ar",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I do my homework, I succeed.",
-  "russian_example_sentence": "Если я делаю домашнее задание, я добиваюсь успеха.",
-  "turkish_example_sentence": "Ödevimi yaparsam başarılı olurum.",
-  "turkish_example_sentence_with_blank": "Ödevimi ______ başarılı olurum."
+  "turkish_example_sentence": "Ben önemli projeyi başarıyla yaparsam, müdür beni tebrik edecek.",
+  "english_example_sentence": "If I do the important project successfully, the manager will praise me.",
+  "russian_example_sentence": "Если я успешно выполню важный проект, директор похвалит меня.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:23:18.501832+00:00",
+  "turkish_example_sentence_with_blank": "Ben önemli projeyi başarıyla ______, müdür beni tebrik edecek."
 }

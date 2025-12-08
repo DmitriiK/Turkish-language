@@ -4,17 +4,19 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olmazlarsa",
+    "verb_full": "sahip olmurlarsa",
     "root": "sahip ol",
-    "tense_affix": "mazsa",
+    "tense_affix": "ur",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If they don't have enough resources, they won't finish",
-  "russian_example_sentence": "Если у них не будет достаточно ресурсов, они не смогут завершить",
-  "turkish_example_sentence": "Eğer yeterli kaynağa sahip olmazlarsa, bitiremeyecekler",
-  "turkish_example_sentence_with_blank": "Eğer yeterli kaynağa ______, bitiremeyecekler"
+  "turkish_example_sentence": "Onlar güçlü bir finansal kaynak sahip olmurlarsa, yeni bir proje başlatamayacaklar.",
+  "english_example_sentence": "If they don't have a strong financial resource, they will not be able to start a new project.",
+  "russian_example_sentence": "Если у них не будет сильного финансового ресурса, они не смогут начать новый проект.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:09:52.963141+00:00",
+  "turkish_example_sentence_with_blank": "Onlar güçlü bir finansal kaynak ______, yeni bir proje başlatamayacaklar."
 }

@@ -4,17 +4,19 @@
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmaman lazım",
+    "verb_full": "olmaman",
     "root": "ol",
-    "tense_affix": "lazım",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You must not be rude here",
-  "russian_example_sentence": "Ты не должен быть грубым здесь",
-  "turkish_example_sentence": "Sen burada kaba olmaman lazım",
-  "turkish_example_sentence_with_blank": "Sen burada kaba ______"
+  "turkish_example_sentence": "Sen bu toplantıda geç kalan bir kişi olmaman gerek.",
+  "english_example_sentence": "You need to not be a late person at this meeting.",
+  "russian_example_sentence": "Тебе не нужно быть опоздавшим человеком на этом собрании.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T06:52:36.067594+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu toplantıda geç kalan bir kişi ______ gerek."
 }

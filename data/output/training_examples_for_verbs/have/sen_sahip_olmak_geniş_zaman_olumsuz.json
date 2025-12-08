@@ -4,17 +4,19 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip değilsin",
-    "root": "sahip",
-    "tense_affix": "ip",
+    "verb_full": "sahip olmazsın",
+    "root": "ol",
+    "tense_affix": "ur",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "sin",
+    "personal_affix": "sun",
     "polarity": "negative",
-    "negative_affix": "değil"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "You don't have a new computer",
-  "russian_example_sentence": "У тебя нет нового компьютера",
-  "turkish_example_sentence": "Sen yeni bir bilgisayara sahip değilsin",
-  "turkish_example_sentence_with_blank": "Sen yeni bir bilgisayara ______"
+  "turkish_example_sentence": "Sen bu kadar büyük bir sorumluluğa sahip olmazsın.",
+  "english_example_sentence": "You do not have such a big responsibility.",
+  "russian_example_sentence": "Ты не имеешь такую большую ответственность.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:07:32.068119+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu kadar büyük bir sorumluluğa ______."
 }

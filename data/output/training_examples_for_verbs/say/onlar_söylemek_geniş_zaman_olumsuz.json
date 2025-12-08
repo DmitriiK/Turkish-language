@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "söylemezler",
     "root": "söyle",
-    "tense_affix": "z",
+    "tense_affix": "r",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "They do not say their true feelings easily",
-  "russian_example_sentence": "Они не говорят свои настоящие чувства легко",
-  "turkish_example_sentence": "Onlar derin ve samimi duygularını kolayca söylemezler",
-  "turkish_example_sentence_with_blank": "Onlar derin ve samimi duygularını kolayca ______"
+  "turkish_example_sentence": "Onlar çalışma saatlerinde kişisel problemler söylemezler.",
+  "english_example_sentence": "They do not say personal problems during working hours.",
+  "russian_example_sentence": "Они не говорят личные проблемы во время рабочих часов.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:37:16.704919+00:00",
+  "turkish_example_sentence_with_blank": "Onlar çalışma saatlerinde kişisel problemler ______."
 }

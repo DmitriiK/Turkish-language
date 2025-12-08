@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "olmazlar",
     "root": "ol",
-    "tense_affix": "maz",
+    "tense_affix": "ur",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "m"
   },
-  "english_example_sentence": "They are never selfish in their actions",
-  "russian_example_sentence": "Они никогда не бывают эгоистами в своих поступках",
-  "turkish_example_sentence": "Onlar davranışlarında asla bencil olmazlar",
-  "turkish_example_sentence_with_blank": "Onlar davranışlarında asla bencil ______"
+  "turkish_example_sentence": "Onlar bu soğuk kış günlerinde dışarıda aktif ve enerjik olmazlar çoğu zaman.",
+  "english_example_sentence": "They are not active and energetic outside on these cold winter days most of the time.",
+  "russian_example_sentence": "Они не активны и не энергичны на улице в эти холодные зимние дни большую часть времени.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T06:51:30.350055+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu soğuk kış günlerinde dışarıda aktif ve enerjik ______ çoğu zaman."
 }

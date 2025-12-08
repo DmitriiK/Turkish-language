@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "olmamışsak",
     "root": "ol",
-    "tense_affix": "muşsa",
+    "tense_affix": "muş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If we hadn't been there, who'd help?",
-  "russian_example_sentence": "Если бы мы не были там, кто бы помог?",
-  "turkish_example_sentence": "Orada olmamışsak, kim yardım ederdi?",
-  "turkish_example_sentence_with_blank": "Orada ______, kim yardım ederdi?"
+  "turkish_example_sentence": "Biz orada olmamışsak, o kötü durumdan kurtulmuş olurduk.",
+  "english_example_sentence": "If we had not been there, we would have escaped that bad situation.",
+  "russian_example_sentence": "Если бы мы не были там, мы бы избежали той плохой ситуации.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T06:54:49.641174+00:00",
+  "turkish_example_sentence_with_blank": "Biz orada ______, o kötü durumdan kurtulmuş olurduk."
 }

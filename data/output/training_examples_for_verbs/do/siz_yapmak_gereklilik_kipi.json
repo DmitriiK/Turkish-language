@@ -4,17 +4,19 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmanız lazım",
+    "verb_full": "yapmanız",
     "root": "yap",
-    "tense_affix": "lazım",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You all need to do your best work",
-  "russian_example_sentence": "Вам нужно делать вашу лучшую работу",
-  "turkish_example_sentence": "Siz bu güzel görevleri başarıyla yapmanız lazım",
-  "turkish_example_sentence_with_blank": "Siz bu güzel görevleri başarıyla ______"
+  "turkish_example_sentence": "Siz bu resmi belge imzalamasını yapmanız lazım.",
+  "english_example_sentence": "You need to do this official document signing.",
+  "russian_example_sentence": "Вам нужно делать подписание этого официального документа.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:22:00.956255+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu resmi belge imzalamasını ______ lazım."
 }

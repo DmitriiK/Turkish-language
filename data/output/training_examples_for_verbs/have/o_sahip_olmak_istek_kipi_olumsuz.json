@@ -4,17 +4,19 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olmayaya",
+    "verb_full": "sahip olmasın",
     "root": "sahip ol",
-    "tense_affix": "aya",
+    "tense_affix": "a",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "May he not have regrets.",
-  "russian_example_sentence": "Пусть у него не будет сожалений.",
-  "turkish_example_sentence": "O pişmanlığa sahip olmayaya.",
-  "turkish_example_sentence_with_blank": "O pişmanlığa ______."
+  "turkish_example_sentence": "O yaşlı adam ağır bir hastalık sahip olmasın.",
+  "english_example_sentence": "May that elderly man not have a serious illness.",
+  "russian_example_sentence": "Пусть этот пожилой человек не имеет серьезное заболевание.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:07:48.065423+00:00",
+  "turkish_example_sentence_with_blank": "O yaşlı adam ağır bir hastalık ______."
 }

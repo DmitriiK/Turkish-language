@@ -4,17 +4,19 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahipsiniz",
-    "root": "sahip",
-    "tense_affix": "ip",
+    "verb_full": "sahip olursunuz",
+    "root": "ol",
+    "tense_affix": "ur",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "siniz",
+    "personal_affix": "sunuz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You have expensive jewelry",
-  "russian_example_sentence": "У вас есть дорогие украшения",
-  "turkish_example_sentence": "Siz pahalı mücevherlere sahipsiniz",
-  "turkish_example_sentence_with_blank": "Siz pahalı mücevherlere ______"
+  "turkish_example_sentence": "Siz değerli bir deneyim ve bilgi birikimi ile sahip olursunuz.",
+  "english_example_sentence": "You have valuable experience and knowledge accumulation.",
+  "russian_example_sentence": "Вы имеете ценный опыт и накопление знаний.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:07:32.068119+00:00",
+  "turkish_example_sentence_with_blank": "Siz değerli bir deneyim ve bilgi birikimi ile ______."
 }

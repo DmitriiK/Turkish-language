@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sahip olmamışsanız",
     "root": "sahip ol",
-    "tense_affix": "muşsa",
+    "tense_affix": "muş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If you hadn’t had the address, you wouldn’t have found the house.",
-  "russian_example_sentence": "Если бы у вас не было адреса, вы бы не нашли дом.",
-  "turkish_example_sentence": "Siz adrese sahip olmamışsanız, evi bulamazdınız.",
-  "turkish_example_sentence_with_blank": "Siz adrese ______, evi bulamazdınız."
+  "turkish_example_sentence": "Siz o lüks yatla sahip olmamışsanız, Akdeniz'de seyranedemezdiniz.",
+  "english_example_sentence": "If you had not owned that luxury yacht, you could not have sailed in the Mediterranean.",
+  "russian_example_sentence": "Если бы вы не владели тем роскошным яхтом, вы не смогли бы плавать в Средиземном море.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-08T07:10:13.532795+00:00",
+  "turkish_example_sentence_with_blank": "Siz o lüks yatla ______, Akdeniz'de seyranedemezdiniz."
 }
