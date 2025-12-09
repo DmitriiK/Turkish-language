@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If I had not made that serious mistake before",
-  "russian_example_sentence": "Если бы я не сделал ту серьёзную ошибку раньше",
-  "turkish_example_sentence": "Ben o ciddi hatayı yapmamışsam, başarılı olabilirdim",
-  "turkish_example_sentence_with_blank": "Ben o ciddi hatayı ______, başarılı olabilirdim"
+  "turkish_example_sentence": "Ben bu önemli hata yapmamışsam, proje başarılı olabilirdi.",
+  "english_example_sentence": "If I had not made this important mistake, the project could have been successful.",
+  "russian_example_sentence": "Если бы я не совершил эту важную ошибку, проект мог бы быть успешным.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T09:07:50.910335+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu önemli hata ______, proje başarılı olabilirdi."
 }

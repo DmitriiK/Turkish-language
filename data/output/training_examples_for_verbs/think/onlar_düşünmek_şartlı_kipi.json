@@ -4,17 +4,19 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünürlerse",
+    "verb_full": "düşünürlersa",
     "root": "düşün",
     "tense_affix": "ürse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "ler",
+    "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they think about the innovative technology carefully",
-  "russian_example_sentence": "Если они будут думать об инновационной технологии внимательно",
-  "turkish_example_sentence": "Eğer onlar yenilikçi teknolojiyi dikkatle düşünürlerse, ilerleme yapabilirler",
-  "turkish_example_sentence_with_blank": "Eğer onlar yenilikçi teknolojiyi dikkatle ______, ilerleme yapabilirler"
+  "turkish_example_sentence": "Onlar bu eğlenceli oyunun kurallarını düşünürlersa, daha iyi oynayabilirler.",
+  "english_example_sentence": "If they think about the rules of this fun game, they can play better.",
+  "russian_example_sentence": "Если они подумают о правилах этой забавной игры, они смогут играть лучше.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:59:27.571483+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu eğlenceli oyunun kurallarını ______, daha iyi oynayabilirler."
 }

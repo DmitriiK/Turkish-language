@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "söylediğinde",
     "root": "söyle",
-    "tense_affix": "diğ",
+    "tense_affix": "dik",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "sen",
-    "personal_affix": "inde",
+    "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When you say beautiful compliments, people smile happily",
-  "russian_example_sentence": "Когда ты говоришь красивые комплименты, люди улыбаются счастливо",
-  "turkish_example_sentence": "Sen güzel iltifatları söylediğinde, insanlar mutlu bir şekilde gülümsüyor",
-  "turkish_example_sentence_with_blank": "Sen güzel iltifatları ______, insanlar mutlu bir şekilde gülümsüyor"
+  "turkish_example_sentence": "Sen güzel şarkı sözlerini söylediğinde, bütün sınıf hayranlıkla izledi.",
+  "english_example_sentence": "When you said beautiful song lyrics, the whole class watched in admiration.",
+  "russian_example_sentence": "Когда ты сказал красивые слова песни, весь класс смотрел с восхищением.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:52:48.523620+00:00",
+  "turkish_example_sentence_with_blank": "Sen güzel şarkı sözlerini ______, bütün sınıf hayranlıkla izledi."
 }

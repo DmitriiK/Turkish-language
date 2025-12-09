@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yapacak",
     "root": "yap",
-    "tense_affix": "acak",
+    "tense_affix": "acağ",
     "verb_tense": "yaracağım",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He will make important business decisions next week",
-  "russian_example_sentence": "Он сделает важные деловые решения на следующей неделе",
-  "turkish_example_sentence": "O gelecek hafta önemli ticari kararları yapacak",
-  "turkish_example_sentence_with_blank": "O gelecek hafta önemli ticari kararları ______"
+  "turkish_example_sentence": "O genç mimar yeni bir modern bina yapacak.",
+  "english_example_sentence": "He will make a new modern building.",
+  "russian_example_sentence": "Он будет делать новое современное здание.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T09:04:29.018408+00:00",
+  "turkish_example_sentence_with_blank": "O genç mimar yeni bir modern bina ______."
 }

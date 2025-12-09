@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "gideceksiniz",
     "root": "git",
-    "tense_affix": "ecek",
+    "tense_affix": "eceğ",
     "verb_tense": "yaracağım",
     "personal_pronoun": "siz",
     "personal_affix": "siniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You will go to the modern art gallery",
-  "russian_example_sentence": "Вы пойдете в современную художественную галерею",
-  "turkish_example_sentence": "Siz modern sanat galerisine gideceksiniz",
-  "turkish_example_sentence_with_blank": "Siz modern sanat galerisine ______"
+  "turkish_example_sentence": "Siz gelecek hafta renkli Bodrum limanına gideceksiniz.",
+  "english_example_sentence": "You will go to the colorful Bodrum harbor next week.",
+  "russian_example_sentence": "Вы поедете в красочную гавань Бодрума на следующей неделе.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T08:51:03.687257+00:00",
+  "turkish_example_sentence_with_blank": "Siz gelecek hafta renkli Bodrum limanına ______."
 }

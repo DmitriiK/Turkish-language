@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "düşünmüşsek",
     "root": "düşün",
-    "tense_affix": "müşse",
+    "tense_affix": "müş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we had thought about the innovative project idea deeply",
-  "russian_example_sentence": "Если бы мы глубоко подумали об инновационной идее проекта",
-  "turkish_example_sentence": "Biz yenilikçi proje fikri hakkında derinlemesine düşünmüşsek, kazanırdık",
-  "turkish_example_sentence_with_blank": "Biz yenilikçi proje fikri hakkında derinlemesine ______, kazanırdık"
+  "turkish_example_sentence": "Biz bu karmaşık sorunu düşünmüşsek, daha iyi bir çözüm bulabilirdik.",
+  "english_example_sentence": "If we had thought about this complicated problem, we could have found a better solution.",
+  "russian_example_sentence": "Если бы мы подумали об этой сложной проблеме, мы могли бы найти лучшее решение.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:00:45.542184+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu karmaşık sorunu ______, daha iyi bir çözüm bulabilirdik."
 }

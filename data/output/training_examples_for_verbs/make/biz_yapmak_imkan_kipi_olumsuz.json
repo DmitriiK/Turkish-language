@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yapamayız",
     "root": "yap",
-    "tense_affix": "ama",
+    "tense_affix": "abil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "yız",
+    "personal_affix": "iriz",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "We cannot make such expensive luxury wedding plans",
-  "russian_example_sentence": "Мы не можем делать такие дорогие роскошные свадебные планы",
-  "turkish_example_sentence": "Biz bu kadar pahalı lüks düğün planlarını yapamayız",
-  "turkish_example_sentence_with_blank": "Biz bu kadar pahalı lüks düğün planlarını ______"
+  "turkish_example_sentence": "Biz bu pahalı ev tadilatını yapamayız.",
+  "english_example_sentence": "We cannot make this expensive house renovation.",
+  "russian_example_sentence": "Мы не можем сделать этот дорогой ремонт дома.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T09:06:16.014015+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu pahalı ev tadilatını ______."
 }

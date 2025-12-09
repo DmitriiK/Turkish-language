@@ -4,7 +4,7 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünessiniz",
+    "verb_full": "düşünesiniz",
     "root": "düşün",
     "tense_affix": "e",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "May you think about the excellent opportunity seriously",
-  "russian_example_sentence": "Пусть вы подумаете об отличной возможности серьезно",
-  "turkish_example_sentence": "Siz harika fırsatı ciddi şekilde düşünessiniz",
-  "turkish_example_sentence_with_blank": "Siz harika fırsatı ciddi şekilde ______"
+  "turkish_example_sentence": "Siz bu yeni iş stratejisini detaylı olarak düşünesiniz.",
+  "english_example_sentence": "May you think about this new business strategy in detail.",
+  "russian_example_sentence": "Пусть вы подробно подумаете об этой новой бизнес-стратегии.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:58:48.961870+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu yeni iş stratejisini detaylı olarak ______."
 }

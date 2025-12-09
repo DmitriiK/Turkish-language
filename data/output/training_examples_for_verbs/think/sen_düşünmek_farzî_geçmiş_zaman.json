@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "düşünmüşsün",
     "root": "düşün",
-    "tense_affix": "müşse",
+    "tense_affix": "müş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you had thought about the beautiful future plan",
-  "russian_example_sentence": "Если бы ты подумал о красивом плане будущего",
-  "turkish_example_sentence": "Sen güzel gelecek planı hakkında düşünmüşsün, başarılı olurdun",
-  "turkish_example_sentence_with_blank": "Sen güzel gelecek planı hakkında ______, başarılı olurdun"
+  "turkish_example_sentence": "Sen bu güzel şarkı hakkında düşünmüşsün, bana da söyleyebilirdin.",
+  "english_example_sentence": "If you had thought about this beautiful song, you could have told me too.",
+  "russian_example_sentence": "Если бы ты подумал об этой красивой песне, ты мог бы мне тоже рассказать.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:00:45.542184+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu güzel şarkı hakkında ______, bana da söyleyebilirdin."
 }

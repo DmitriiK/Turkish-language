@@ -4,7 +4,7 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almamalı",
+    "verb_full": "almamam lazım",
     "root": "al",
     "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I should not take the expensive jewelry",
-  "russian_example_sentence": "Я не должен брать дорогие украшения",
-  "turkish_example_sentence": "Ben pahalı mücevherleri almamalı lazım",
-  "turkish_example_sentence_with_blank": "Ben pahalı mücevherleri ______ lazım"
+  "turkish_example_sentence": "Ben hiçbir şekilde o tehlikeli kırmızı kutunun içindeki eşyaları almamam lazım.",
+  "english_example_sentence": "I must not take the items inside that dangerous red box in any way.",
+  "russian_example_sentence": "Я не должен ни в коем случае брать предметы из этого опасного красного ящика.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:04:49.882947+00:00",
+  "turkish_example_sentence_with_blank": "Ben hiçbir şekilde o tehlikeli kırmızı kutunun içindeki eşyaları ______."
 }

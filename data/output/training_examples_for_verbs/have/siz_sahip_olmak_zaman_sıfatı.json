@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sahip olduğunuzda",
     "root": "sahip ol",
-    "tense_affix": "duğunuz",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "siz",
-    "personal_affix": "da",
+    "personal_affix": "nuz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When you have a big dream",
-  "russian_example_sentence": "Когда у вас большая мечта",
-  "turkish_example_sentence": "Siz büyük bir hayale sahip olduğunuzda",
-  "turkish_example_sentence_with_blank": "Siz büyük bir hayale ______"
+  "turkish_example_sentence": "Siz değerli bir koleksiyon sahip olduğunuzda, müze ziyaretçileri etkilendi.",
+  "english_example_sentence": "When you had a valuable collection, museum visitors were impressed.",
+  "russian_example_sentence": "Когда вы имели ценную коллекцию, посетители музея были впечатлены.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:51:15.231591+00:00",
+  "turkish_example_sentence_with_blank": "Siz değerli bir koleksiyon ______, müze ziyaretçileri etkilendi."
 }

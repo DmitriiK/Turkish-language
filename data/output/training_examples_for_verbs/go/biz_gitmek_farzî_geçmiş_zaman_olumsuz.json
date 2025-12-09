@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "gitmemişsek",
     "root": "git",
-    "tense_affix": "mişse",
+    "tense_affix": "miş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If we had not gone to the large modern shopping mall downtown",
-  "russian_example_sentence": "Если бы мы не пошли в большой современный торговый центр в центре",
-  "turkish_example_sentence": "Eğer biz büyük modern alışveriş merkezine gitmemişsek, daha az harcardık",
-  "turkish_example_sentence_with_blank": "Eğer biz büyük modern alışveriş merkezine ______, daha az harcardık"
+  "turkish_example_sentence": "Biz hastaneye gitmemişsek, hasta arkadaşımızı ziyaret edemezdik.",
+  "english_example_sentence": "If we had not gone to the hospital, we could not have visited our sick friend.",
+  "russian_example_sentence": "Если бы мы не пошли в больницу, мы не смогли бы посетить нашего больного друга.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T08:54:46.064127+00:00",
+  "turkish_example_sentence_with_blank": "Biz hastaneye ______, hasta arkadaşımızı ziyaret edemezdik."
 }

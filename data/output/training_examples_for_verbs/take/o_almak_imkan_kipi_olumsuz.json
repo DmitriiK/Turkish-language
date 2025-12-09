@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "alamaz",
     "root": "al",
-    "tense_affix": "ama",
+    "tense_affix": "abil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "z",
+    "personal_affix": "ir",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "She cannot take the long blue scarf in this weather",
-  "russian_example_sentence": "Она не может взять длинный синий шарф в такую погоду",
-  "turkish_example_sentence": "O bu havada uzun mavi şalı alamaz",
-  "turkish_example_sentence_with_blank": "O bu havada uzun mavi şalı ______"
+  "turkish_example_sentence": "O küçük çocuk yüksek raftan oyuncağı alamaz.",
+  "english_example_sentence": "He cannot take the toy from the high shelf.",
+  "russian_example_sentence": "Он не может взять игрушку с высокой полки.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:03:33.964900+00:00",
+  "turkish_example_sentence_with_blank": "O küçük çocuk yüksek raftan oyuncağı ______."
 }

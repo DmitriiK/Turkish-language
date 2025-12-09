@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "bilirsem",
     "root": "bil",
-    "tense_affix": "irse",
+    "tense_affix": "ir",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I know the difficult answer, I will help my friend",
-  "russian_example_sentence": "Если я знаю сложный ответ, я помогу своему другу",
-  "turkish_example_sentence": "Zor cevabı bilirsem, arkadaşıma yardım edeceğim",
-  "turkish_example_sentence_with_blank": "Zor cevabı ______, arkadaşıma yardım edeceğim"
+  "turkish_example_sentence": "Ben bu zor matematik problemini bilirsem, sana yardım edebilirim.",
+  "english_example_sentence": "If I know this difficult math problem, I can help you.",
+  "russian_example_sentence": "Если я знаю эту сложную математическую задачу, я могу тебе помочь.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:54:11.273011+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu zor matematik problemini ______, sana yardım edebilirim."
 }

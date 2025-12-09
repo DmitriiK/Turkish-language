@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "gitmişsek",
     "root": "git",
-    "tense_affix": "mişse",
+    "tense_affix": "miş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we had gone to the exotic tropical island vacation destination",
-  "russian_example_sentence": "Если бы мы пошли на экзотический тропический остров отпуска",
-  "turkish_example_sentence": "Eğer biz egzotik tropik ada tatil yerine gitmişsek, harika anılar yapardık",
-  "turkish_example_sentence_with_blank": "Eğer biz egzotik tropik ada tatil yerine ______, harika anılar yapardık"
+  "turkish_example_sentence": "Biz dağ tepesine gitmişsek, muhteşem manzarayı seyrederebilirdik.",
+  "english_example_sentence": "If we had gone to the mountain peak, we could have watched the magnificent landscape.",
+  "russian_example_sentence": "Если бы мы пошли на вершину горы, мы смогли бы смотреть на великолепный пейзаж.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T08:54:46.064127+00:00",
+  "turkish_example_sentence_with_blank": "Biz dağ tepesine ______, muhteşem manzarayı seyrederebilirdik."
 }

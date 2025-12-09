@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If she does not take the white coat, she will be cold",
-  "russian_example_sentence": "Если она не возьмет белое пальто, ей будет холодно",
-  "turkish_example_sentence": "O beyaz paltoyu almazsa, üşüyecek",
-  "turkish_example_sentence_with_blank": "O beyaz paltoyu ______, üşüyecek"
+  "turkish_example_sentence": "O beyaz peyniri almazsa, kahvaltı eksik kalır.",
+  "english_example_sentence": "If she doesn't take the white cheese, breakfast will be incomplete.",
+  "russian_example_sentence": "Если она не возьмет белый сыр, завтрак будет неполным.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:05:09.933337+00:00",
+  "turkish_example_sentence_with_blank": "O beyaz peyniri ______, kahvaltı eksik kalır."
 }

@@ -11,10 +11,12 @@
     "personal_pronoun": "siz",
     "personal_affix": "sınız",
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "mama"
   },
-  "english_example_sentence": "You must not make any critical errors in the financial documents",
-  "russian_example_sentence": "Вы не должны делать никаких критических ошибок в финансовых документах",
-  "turkish_example_sentence": "Siz mali belgelerde hiçbir ciddi hata yapmamalısınız",
-  "turkish_example_sentence_with_blank": "Siz mali belgelerde hiçbir ciddi hata ______"
+  "turkish_example_sentence": "Siz tehlikeli bir deney yapmamalısınız.",
+  "english_example_sentence": "You must not make a dangerous experiment.",
+  "russian_example_sentence": "Вы не должны проводить опасный эксперимент.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T09:06:30.800391+00:00",
+  "turkish_example_sentence_with_blank": "Siz tehlikeli bir deney ______."
 }

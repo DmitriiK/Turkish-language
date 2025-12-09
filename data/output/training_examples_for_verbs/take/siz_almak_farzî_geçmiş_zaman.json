@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you had taken the black pen from the office",
-  "russian_example_sentence": "Если бы вы взяли черную ручку из офиса",
-  "turkish_example_sentence": "Ofisten siyah kalemi almışsanız, imza atabilirdiniz",
-  "turkish_example_sentence_with_blank": "Ofisten siyah kalemi ______, imza atabilirdiniz"
+  "turkish_example_sentence": "Siz hastaneden güçlü ilaçları almışsanız, hastalığınızdan çabuk iyileşebilirdiniz.",
+  "english_example_sentence": "If you had taken the strong medicines from the hospital, you could have recovered quickly from your illness.",
+  "russian_example_sentence": "Если бы вы взяли сильные лекарства из больницы, вы могли бы быстро выздороветь от болезни.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:06:10.571933+00:00",
+  "turkish_example_sentence_with_blank": "Siz hastaneden güçlü ilaçları ______, hastalığınızdan çabuk iyileşebilirdiniz."
 }

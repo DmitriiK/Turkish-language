@@ -4,7 +4,7 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "alabilirsin",
+    "verb_full": "alabilirssin",
     "root": "al",
     "tense_affix": "abil",
     "verb_tense": "imkan_kipi",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can take the fresh green apple from the table",
-  "russian_example_sentence": "Ты можешь взять свежее зеленое яблоко со стола",
-  "turkish_example_sentence": "Sen masadan taze yeşil elmayı alabilirsin",
-  "turkish_example_sentence_with_blank": "Sen masadan taze yeşil elmayı ______"
+  "turkish_example_sentence": "Sen bu güzel çiçekleri bahçeden alabilirssin.",
+  "english_example_sentence": "You can take these beautiful flowers from the garden.",
+  "russian_example_sentence": "Ты можешь взять эти красивые цветы из сада.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:03:33.964900+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu güzel çiçekleri bahçeden ______."
 }

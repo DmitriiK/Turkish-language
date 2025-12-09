@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "gitmemişse",
     "root": "git",
-    "tense_affix": "mişse",
+    "tense_affix": "miş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If she had not gone to the important business conference last month",
-  "russian_example_sentence": "Если бы она в прошлом месяце не пошла на важную деловую конференцию",
-  "turkish_example_sentence": "Eğer o geçen ay önemli iş konferansına gitmemişse, fırsat kaçırırdı",
-  "turkish_example_sentence_with_blank": "Eğer o geçen ay önemli iş konferansına ______, fırsat kaçırırdı"
+  "turkish_example_sentence": "O konser salonuna gitmemişse, harika müzik performansını kaçırmış olurdu.",
+  "english_example_sentence": "If she had not gone to the concert hall, she would have missed the wonderful music performance.",
+  "russian_example_sentence": "Если бы она не пошла в концертный зал, она бы пропустила чудесное музыкальное представление.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T08:54:46.064127+00:00",
+  "turkish_example_sentence_with_blank": "O konser salonuna ______, harika müzik performansını kaçırmış olurdu."
 }

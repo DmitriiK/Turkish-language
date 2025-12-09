@@ -4,7 +4,7 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmelissin",
+    "verb_full": "gitmelisin",
     "root": "git",
     "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You must go to the dentist for your painful tooth",
-  "russian_example_sentence": "Ты должен идти к стоматологу для своего больного зуба",
-  "turkish_example_sentence": "Sen ağrıyan diş için diş hekimine gitmelissin",
-  "turkish_example_sentence_with_blank": "Sen ağrıyan diş için diş hekimine ______"
+  "turkish_example_sentence": "Sen önemli toplantıya hemen gitmelisin.",
+  "english_example_sentence": "You must go to the important meeting immediately.",
+  "russian_example_sentence": "Ты должен пойти на важное совещание немедленно.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T08:53:20.212603+00:00",
+  "turkish_example_sentence_with_blank": "Sen önemli toplantıya hemen ______."
 }

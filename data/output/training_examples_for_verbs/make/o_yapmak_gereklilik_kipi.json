@@ -4,17 +4,19 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapması lazım",
+    "verb_full": "yapması",
     "root": "yap",
-    "tense_affix": "lazım",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
     "personal_affix": "sı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He needs to make a beautiful garden in his spacious backyard",
-  "russian_example_sentence": "Ему нужно делать красивый сад на его просторном заднем дворе",
-  "turkish_example_sentence": "O geniş arka bahçesinde güzel bir bahçe yapması lazım",
-  "turkish_example_sentence_with_blank": "O geniş arka bahçesinde güzel bir bahçe ______"
+  "turkish_example_sentence": "O genç mühendis bu karmaşık yapıyı doğru şekilde yapması lazım.",
+  "english_example_sentence": "That young engineer needs to make this complex structure correctly.",
+  "russian_example_sentence": "Этот молодой инженер должен правильно сделать эту сложную конструкцию.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T09:05:58.879967+00:00",
+  "turkish_example_sentence_with_blank": "O genç mühendis bu karmaşık yapıyı doğru şekilde ______ lazım."
 }

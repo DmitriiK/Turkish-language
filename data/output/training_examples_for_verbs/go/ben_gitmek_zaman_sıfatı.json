@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "gittiğimde",
     "root": "git",
-    "tense_affix": "dığ",
+    "tense_affix": "dik",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "ben",
-    "personal_affix": "imde",
+    "personal_affix": "ım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When I went to the beautiful seaside town yesterday",
-  "russian_example_sentence": "Когда я пошел в красивый приморский город вчера",
-  "turkish_example_sentence": "Ben dün güzel sahil kasabasına gittiğimde, orada birçok turist gördüm",
-  "turkish_example_sentence_with_blank": "Ben dün güzel sahil kasabasına ______, orada birçok turist gördüm"
+  "turkish_example_sentence": "Ben hastaneye gittiğimde doktor beni muayene etti.",
+  "english_example_sentence": "When I went to the hospital, the doctor examined me.",
+  "russian_example_sentence": "Когда я пошел в больницу, врач меня осмотрел.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:53:09.105493+00:00",
+  "turkish_example_sentence_with_blank": "Ben hastaneye ______ doktor beni muayene etti."
 }

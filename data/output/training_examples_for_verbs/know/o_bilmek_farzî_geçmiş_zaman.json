@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If he had known the beautiful city well",
-  "russian_example_sentence": "Если бы он хорошо знал красивый город",
-  "turkish_example_sentence": "O güzel şehri iyi bilmiş olsa",
-  "turkish_example_sentence_with_blank": "O güzel şehri iyi ______"
+  "turkish_example_sentence": "O genç kız bu eski şehrin tarihi bilmiş olsa, müze turunda daha çok keyif alırdı.",
+  "english_example_sentence": "If that young girl had known the history of this old city, she would have enjoyed the museum tour more.",
+  "russian_example_sentence": "Если бы та молодая девушка знала историю этого старого города, она бы больше наслаждалась экскурсией по музею.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:55:04.203098+00:00",
+  "turkish_example_sentence_with_blank": "O genç kız bu eski şehrin tarihi ______, müze turunda daha çok keyif alırdı."
 }

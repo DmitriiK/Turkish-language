@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sahip olmadığınızda",
     "root": "sahip ol",
-    "tense_affix": "madığınız",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "siz",
-    "personal_affix": "da",
+    "personal_affix": "nuz",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "When you do not have a computer",
-  "russian_example_sentence": "Когда у вас нет компьютера",
-  "turkish_example_sentence": "Siz bir bilgisayara sahip olmadığınızda",
-  "turkish_example_sentence_with_blank": "Siz bir bilgisayara ______"
+  "turkish_example_sentence": "Siz bilgisayar sahip olmadığınızda, kütüphanede araştırma yaptınız.",
+  "english_example_sentence": "When you didn't have a computer, you did research in the library.",
+  "russian_example_sentence": "Когда вы не имели компьютер, вы проводили исследования в библиотеке.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:51:15.231591+00:00",
+  "turkish_example_sentence_with_blank": "Siz bilgisayar ______, kütüphanede araştırma yaptınız."
 }

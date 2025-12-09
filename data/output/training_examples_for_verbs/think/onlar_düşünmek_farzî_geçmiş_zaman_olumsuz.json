@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "düşünmemişlerse",
     "root": "düşün",
-    "tense_affix": "müşse",
+    "tense_affix": "müş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If they had not thought about the medical advice seriously",
-  "russian_example_sentence": "Если бы они серьёзно не подумали о медицинском совете",
-  "turkish_example_sentence": "Onlar tıbbi tavsiye hakkında ciddi şekilde düşünmemişlerse, hasta olacaklardı",
-  "turkish_example_sentence_with_blank": "Onlar tıbbi tavsiye hakkında ciddi şekilde ______, hasta olacaklardı"
+  "turkish_example_sentence": "Onlar bu uyarıyı düşünmemişlerse, korkunç bir kaza yaşamış olabilirlerdi.",
+  "english_example_sentence": "If they had not thought about this warning, they could have experienced a terrible accident.",
+  "russian_example_sentence": "Если бы они не подумали об этом предупреждении, они могли бы пережить ужасную аварию.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:00:45.542184+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu uyarıyı ______, korkunç bir kaza yaşamış olabilirlerdi."
 }

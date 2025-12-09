@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "düşünmemişse",
     "root": "düşün",
-    "tense_affix": "müşse",
+    "tense_affix": "müş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If he had not thought about the risky business opportunity",
-  "russian_example_sentence": "Если бы он не подумал о рискованной деловой возможности",
-  "turkish_example_sentence": "O riskli iş fırsatı hakkında düşünmemişse, zarar görecekti",
-  "turkish_example_sentence_with_blank": "O riskli iş fırsatı hakkında ______, zarar görecekti"
+  "turkish_example_sentence": "O yeni iş teklifini düşünmemişse, fırsat kaçırmış olurdu.",
+  "english_example_sentence": "If she had not thought about the new job offer, she would have missed the opportunity.",
+  "russian_example_sentence": "Если бы она не подумала о новом предложении работы, она бы упустила возможность.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:00:45.542184+00:00",
+  "turkish_example_sentence_with_blank": "O yeni iş teklifini ______, fırsat kaçırmış olurdu."
 }

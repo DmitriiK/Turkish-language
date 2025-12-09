@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "mama"
   },
-  "english_example_sentence": "You must not take the confidential files from the office",
-  "russian_example_sentence": "Вы не должны брать конфиденциальные файлы из офиса",
-  "turkish_example_sentence": "Siz ofisten gizli dosyaları almamalısınız",
-  "turkish_example_sentence_with_blank": "Siz ofisten gizli dosyaları ______"
+  "turkish_example_sentence": "Siz hastanede hasta kişinin kişisel eşyalarını almamalısınız.",
+  "english_example_sentence": "You must not take the sick person's personal belongings from the hospital.",
+  "russian_example_sentence": "Вы не должны брать личные вещи больного человека из больницы.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:03:52.464288+00:00",
+  "turkish_example_sentence_with_blank": "Siz hastanede hasta kişinin kişisel eşyalarını ______."
 }

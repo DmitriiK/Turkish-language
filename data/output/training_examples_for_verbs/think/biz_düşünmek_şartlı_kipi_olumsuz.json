@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "düşünmezsek",
     "root": "düşün",
-    "tense_affix": "ürse",
+    "tense_affix": "mezse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "mez"
   },
-  "english_example_sentence": "If we don't think about the environmental consequences carefully",
-  "russian_example_sentence": "Если мы не будем думать об экологических последствиях внимательно",
-  "turkish_example_sentence": "Eğer biz çevre sonuçlarını dikkatle düşünmezsek, doğa zarar görür",
-  "turkish_example_sentence_with_blank": "Eğer biz çevre sonuçlarını dikkatle ______, doğa zarar görür"
+  "turkish_example_sentence": "Biz çevre sorunlarının ciddi sonuçlarını düşünmezsek, gelecek nesil zarar görecek.",
+  "english_example_sentence": "If we don't think about the serious consequences of environmental problems, the next generation will suffer.",
+  "russian_example_sentence": "Если мы не подумаем о серьезных последствиях экологических проблем, будущее поколение пострадает.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:59:27.571483+00:00",
+  "turkish_example_sentence_with_blank": "Biz çevre sorunlarının ciddi sonuçlarını ______, gelecek nesil zarar görecek."
 }

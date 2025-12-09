@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "gidersin",
     "root": "git",
-    "tense_affix": "erse",
+    "tense_affix": "er",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you go to the market, you will buy fresh vegetables",
-  "russian_example_sentence": "Если ты пойдешь на рынок, ты купишь свежие овощи",
-  "turkish_example_sentence": "Sen pazara gidersin, yeşil organik sebzeleri satın alırsın",
-  "turkish_example_sentence_with_blank": "Sen pazara ______, yeşil organik sebzeleri satın alırsın"
+  "turkish_example_sentence": "Sen kalabalık pazara cumartesi sabahı gidersin, taze sebze alırsın.",
+  "english_example_sentence": "If you go to the crowded market on Saturday morning, you will buy fresh vegetables.",
+  "russian_example_sentence": "Если ты пойдешь на многолюдный рынок в субботу утром, ты купишь свежие овощи.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T08:54:26.281241+00:00",
+  "turkish_example_sentence_with_blank": "Sen kalabalık pazara cumartesi sabahı ______, taze sebze alırsın."
 }

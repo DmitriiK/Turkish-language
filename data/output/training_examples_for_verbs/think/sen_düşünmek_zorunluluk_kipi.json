@@ -4,7 +4,7 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmelissin",
+    "verb_full": "düşünmelsin",
     "root": "düşün",
     "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You must think about your bright future carefully",
-  "russian_example_sentence": "Ты должен думать о своем светлом будущем внимательно",
-  "turkish_example_sentence": "Sen parlak geleceğin hakkında ciddi düşünmelissin",
-  "turkish_example_sentence_with_blank": "Sen parlak geleceğin hakkında ciddi ______"
+  "turkish_example_sentence": "Sen gelecek hafta önemli kariyer kararını mantıklı düşünmelsin.",
+  "english_example_sentence": "You must think about the important career decision logically next week.",
+  "russian_example_sentence": "Ты должен логически думать о важном решении карьеры на следующей неделе.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:58:13.868037+00:00",
+  "turkish_example_sentence_with_blank": "Sen gelecek hafta önemli kariyer kararını mantıklı ______."
 }

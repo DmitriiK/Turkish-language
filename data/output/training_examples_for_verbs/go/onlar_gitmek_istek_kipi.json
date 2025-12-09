@@ -4,7 +4,7 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitsinler",
+    "verb_full": "gideler",
     "root": "git",
     "tense_affix": "e",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "May they go to the tropical sunny island vacation",
-  "russian_example_sentence": "Пусть они пойдут на тропический солнечный остров в отпуск",
-  "turkish_example_sentence": "Onlar tropikal güneşli ada tatillerine gitsinler",
-  "turkish_example_sentence_with_blank": "Onlar tropikal güneşli ada tatillerine ______"
+  "turkish_example_sentence": "Onlar meraklı öğrenciler ilginç arkeoloji müzesine gideler.",
+  "english_example_sentence": "May those curious students go to the interesting archaeology museum.",
+  "russian_example_sentence": "Пусть те любознательные студенты поедят в интересный музей археологии.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T08:51:39.364264+00:00",
+  "turkish_example_sentence_with_blank": "Onlar meraklı öğrenciler ilginç arkeoloji müzesine ______."
 }

@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "The young student who does not know English grammar struggles with difficult texts",
-  "russian_example_sentence": "Молодой студент, который не знает английскую грамматику, борется с трудными текстами",
-  "turkish_example_sentence": "İngilizce dilbilgisini bilmeyen genç öğrenci zor metinlerle mücadele ediyor",
-  "turkish_example_sentence_with_blank": "İngilizce dilbilgisini ______ genç öğrenci zor metinlerle mücadele ediyor"
+  "turkish_example_sentence": "Matematik kurallarını bilmeyen öğrenciler sınavda başarısız oldu.",
+  "english_example_sentence": "The students who do not know mathematics rules failed the exam.",
+  "russian_example_sentence": "Студенты, которые не знают правила математики, провалили экзамен.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:54:17.008771+00:00",
+  "turkish_example_sentence_with_blank": "Matematik kurallarını ______ öğrenciler sınavda başarısız oldu."
 }

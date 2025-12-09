@@ -4,17 +4,19 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gidemezsiniz",
+    "verb_full": "gidememsiniz",
     "root": "git",
-    "tense_affix": "eme",
+    "tense_affix": "ebil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "zsiniz",
+    "personal_affix": "irsiniz",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "You cannot go to the strict formal ceremony without invitation",
-  "russian_example_sentence": "Вы не можете пойти на строгую формальную церемонию без приглашения",
-  "turkish_example_sentence": "Siz davet olmadan katı resmi törenine gidemezsiniz",
-  "turkish_example_sentence_with_blank": "Siz davet olmadan katı resmi törenine ______"
+  "turkish_example_sentence": "Siz iş yoğunluğu nedeniyle hafta ortası piknik alanına gidememsiniz.",
+  "english_example_sentence": "You cannot go to the picnic area on a midweek due to work intensity.",
+  "russian_example_sentence": "Вы не можете пойти на пикник в середине недели из-за интенсивности работы.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T08:53:00.662293+00:00",
+  "turkish_example_sentence_with_blank": "Siz iş yoğunluğu nedeniyle hafta ortası piknik alanına ______."
 }

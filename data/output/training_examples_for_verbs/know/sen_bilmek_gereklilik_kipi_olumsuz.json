@@ -4,17 +4,19 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilmemen lazım",
+    "verb_full": "bilmemen",
     "root": "bil",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You do not need to know the private information",
-  "russian_example_sentence": "Тебе не нужно знать личную информацию",
-  "turkish_example_sentence": "Sen kişisel bilgileri bilmemen lazım",
-  "turkish_example_sentence_with_blank": "Sen kişisel bilgileri ______"
+  "turkish_example_sentence": "Sen bu gizli bilgiyi bilmemen lazım.",
+  "english_example_sentence": "You don't need to know this secret information.",
+  "russian_example_sentence": "Тебе не нужно знать эту секретную информацию.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T09:11:35.794699+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu gizli bilgiyi ______ lazım."
 }

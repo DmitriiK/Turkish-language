@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yapacaklar",
     "root": "yap",
-    "tense_affix": "acak",
+    "tense_affix": "acağ",
     "verb_tense": "yaracağım",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They will make significant contributions to the research project",
-  "russian_example_sentence": "Они внесут значительный вклад в исследовательский проект",
-  "turkish_example_sentence": "Onlar bilimsel araştırma projesine önemli katkılar yapacaklar",
-  "turkish_example_sentence_with_blank": "Onlar bilimsel araştırma projesine önemli katkılar ______"
+  "turkish_example_sentence": "Onlar gelecek hafta yeni bir mavi ev yapacaklar.",
+  "english_example_sentence": "They will make a new blue house next week.",
+  "russian_example_sentence": "Они будут делать новый синий дом на следующей неделе.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T09:04:29.018408+00:00",
+  "turkish_example_sentence_with_blank": "Onlar gelecek hafta yeni bir mavi ev ______."
 }

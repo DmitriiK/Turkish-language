@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "söylediğinizde",
     "root": "söyle",
-    "tense_affix": "diğ",
+    "tense_affix": "dik",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "siz",
-    "personal_affix": "inizde",
+    "personal_affix": "nız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When you say kind words, people feel deeply appreciated",
-  "russian_example_sentence": "Когда вы говорите добрые слова, люди чувствуют себя глубоко ценными",
-  "turkish_example_sentence": "Siz nazik sözleri söylediğinizde, insanlar kendilerini derinden değerli hissediyor",
-  "turkish_example_sentence_with_blank": "Siz nazik sözleri ______, insanlar kendilerini derinden değerli hissediyor"
+  "turkish_example_sentence": "Siz değerli tavsiyelerinizi söylediğinizde, genç öğrenciler not aldı.",
+  "english_example_sentence": "When you said your valuable advice, young students took notes.",
+  "russian_example_sentence": "Когда вы сказали свой ценный совет, молодые студенты записали.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:52:48.523620+00:00",
+  "turkish_example_sentence_with_blank": "Siz değerli tavsiyelerinizi ______, genç öğrenciler not aldı."
 }

@@ -4,7 +4,7 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almamanız lazım",
+    "verb_full": "almamız lazım",
     "root": "al",
     "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You should not take the delicate fragile porcelain dishes",
-  "russian_example_sentence": "Вам не нужно брать хрупкие фарфоровые тарелки",
-  "turkish_example_sentence": "Siz hassas kırılgan porselen tabakları almamanız lazım",
-  "turkish_example_sentence_with_blank": "Siz hassas kırılgan porselen tabakları ______"
+  "turkish_example_sentence": "Siz resepsiyon masasından müşteri gizli belgelerini almamız lazım.",
+  "english_example_sentence": "You must not take the client's confidential documents from the reception desk.",
+  "russian_example_sentence": "Вы не должны брать конфиденциальные документы клиента со стола рецепции.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:04:49.882947+00:00",
+  "turkish_example_sentence_with_blank": "Siz resepsiyon masasından müşteri gizli belgelerini ______."
 }

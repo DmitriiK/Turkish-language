@@ -4,17 +4,19 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilmemiz lazım",
+    "verb_full": "bilmemiz",
     "root": "bil",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "mız",
+    "personal_affix": "miz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We need to know the traditional Turkish customs",
-  "russian_example_sentence": "Нам нужно знать традиционные турецкие обычаи",
-  "turkish_example_sentence": "Biz eski Türk geleneklerini bilmemiz lazım",
-  "turkish_example_sentence_with_blank": "Biz eski Türk geleneklerini ______"
+  "turkish_example_sentence": "Biz bu proje için gerekli teknik bilgileri bilmemiz lazım.",
+  "english_example_sentence": "We need to know the necessary technical information for this project.",
+  "russian_example_sentence": "Нам нужно знать необходимую техническую информацию для этого проекта.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T09:11:35.794699+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu proje için gerekli teknik bilgileri ______ lazım."
 }

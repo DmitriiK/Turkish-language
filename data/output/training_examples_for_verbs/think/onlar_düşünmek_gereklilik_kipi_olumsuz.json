@@ -4,17 +4,19 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmmeleri lazım",
+    "verb_full": "düşünmemeleri",
     "root": "düşün",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "ları",
+    "personal_affix": "leri",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "They should not think about the complicated mathematical formulas right now",
-  "russian_example_sentence": "Они не должны думать о сложных математических формулах прямо сейчас",
-  "turkish_example_sentence": "Onlar karmaşık matematiksel formülleri şu anda düşünmmeleri lazım",
-  "turkish_example_sentence_with_blank": "Onlar karmaşık matematiksel formülleri şu anda ______"
+  "turkish_example_sentence": "Onlar bu başarısız projeleri düşünmemeleri gerek.",
+  "english_example_sentence": "They don't need to think about these failed projects.",
+  "russian_example_sentence": "Им не нужно думать об этих неудачных проектах.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:57:38.344983+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu başarısız projeleri ______ gerek."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "düşünmemişsek",
     "root": "düşün",
-    "tense_affix": "müşse",
+    "tense_affix": "müş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If we had not thought about the environmental impact seriously",
-  "russian_example_sentence": "Если бы мы серьёзно не подумали об экологическом воздействии",
-  "turkish_example_sentence": "Biz çevre etkisi hakkında ciddi şekilde düşünmemişsek, sorun yaratırdık",
-  "turkish_example_sentence_with_blank": "Biz çevre etkisi hakkında ciddi şekilde ______, sorun yaratırdık"
+  "turkish_example_sentence": "Biz bu önemli konuyu düşünmemişsek, sonuçlar çok kötü olabilirdi.",
+  "english_example_sentence": "If we had not thought about this important matter, the consequences could have been very bad.",
+  "russian_example_sentence": "Если бы мы не подумали об этом важном вопросе, последствия могли бы быть очень плохими.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:00:45.542184+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu önemli konuyu ______, sonuçlar çok kötü olabilirdi."
 }

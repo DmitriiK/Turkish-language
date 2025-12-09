@@ -9,12 +9,14 @@
     "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "o",
-    "personal_affix": "ında",
+    "personal_affix": "ı",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "When she does not take the necessary medicine from the pharmacy",
-  "russian_example_sentence": "Когда она не берет необходимое лекарство из аптеки",
-  "turkish_example_sentence": "O gerekli ilacı eczaneden almadığında, hastalığı kötüleşiyor",
-  "turkish_example_sentence_with_blank": "O gerekli ilacı eczaneden ______, hastalığı kötüleşiyor"
+  "turkish_example_sentence": "O kırmızı çiçekleri almadığında, bahçıvan üzüldü.",
+  "english_example_sentence": "When she didn't take the red flowers, the gardener was sad.",
+  "russian_example_sentence": "Когда она не взяла красные цветы, садовник огорчился.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:06:36.052811+00:00",
+  "turkish_example_sentence_with_blank": "O kırmızı çiçekleri ______, bahçıvan üzüldü."
 }

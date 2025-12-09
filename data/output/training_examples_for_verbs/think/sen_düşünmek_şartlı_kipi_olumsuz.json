@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "düşünmezsen",
     "root": "düşün",
-    "tense_affix": "ürse",
+    "tense_affix": "mezse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "mez"
   },
-  "english_example_sentence": "If you don't think about the important decision seriously",
-  "russian_example_sentence": "Если ты не будешь думать о важном решении серьёзно",
-  "turkish_example_sentence": "Eğer sen önemli kararı ciddi şekilde düşünmezsen, pişman olursun",
-  "turkish_example_sentence_with_blank": "Eğer sen önemli kararı ciddi şekilde ______, pişman olursun"
+  "turkish_example_sentence": "Sen bu tehlikeli durumu düşünmezsen, sorun yaşayabilirsin.",
+  "english_example_sentence": "If you don't think about this dangerous situation, you can have trouble.",
+  "russian_example_sentence": "Если ты не подумаешь об этой опасной ситуации, у тебя могут быть проблемы.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:59:27.571483+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu tehlikeli durumu ______, sorun yaşayabilirsin."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "bildiklerinde",
     "root": "bil",
-    "tense_affix": "diğ",
+    "tense_affix": "dik",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "onlar",
-    "personal_affix": "lerinde",
+    "personal_affix": "leri",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When they know the exciting news, they celebrate loudly",
-  "russian_example_sentence": "Когда они знают волнующие новости, они громко празднуют",
-  "turkish_example_sentence": "Heyecan verici haberi bildiklerinde, gürültülü bir şekilde kutluyorlar",
-  "turkish_example_sentence_with_blank": "Heyecan verici haberi ______, gürültülü bir şekilde kutluyorlar"
+  "turkish_example_sentence": "Onlar bu önemli haberi bildiklerinde, hemen sosyal medyada paylaştılar.",
+  "english_example_sentence": "When they knew this important news, they immediately shared it on social media.",
+  "russian_example_sentence": "Когда они узнали эту важную новость, они сразу же поделились ею в социальных сетях.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:55:34.290994+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu önemli haberi ______, hemen sosyal medyada paylaştılar."
 }

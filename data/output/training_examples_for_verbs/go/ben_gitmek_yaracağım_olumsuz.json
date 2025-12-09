@@ -4,17 +4,19 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmeyecegim",
+    "verb_full": "gitmeyeceğim",
     "root": "git",
-    "tense_affix": "eceg",
+    "tense_affix": "eceğ",
     "verb_tense": "yaracağım",
     "personal_pronoun": "ben",
     "personal_affix": "im",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "I will not go to that crowded marketplace",
-  "russian_example_sentence": "Я не пойду на тот переполненный рынок",
-  "turkish_example_sentence": "Ben o kalabalık pazara gitmeyecegim",
-  "turkish_example_sentence_with_blank": "Ben o kalabalık pazara ______"
+  "turkish_example_sentence": "Ben bu hafta sonu kalabalık pazara gitmeyeceğim.",
+  "english_example_sentence": "I will not go to the crowded market this weekend.",
+  "russian_example_sentence": "Я не поеду на переполненный рынок на этих выходных.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T08:51:03.687257+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu hafta sonu kalabalık pazara ______."
 }

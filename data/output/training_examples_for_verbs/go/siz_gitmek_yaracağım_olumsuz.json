@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "gitmeyeceksiniz",
     "root": "git",
-    "tense_affix": "ecek",
+    "tense_affix": "eceğ",
     "verb_tense": "yaracağım",
     "personal_pronoun": "siz",
     "personal_affix": "siniz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You will not go to the noisy construction site",
-  "russian_example_sentence": "Вы не пойдете на шумную строительную площадку",
-  "turkish_example_sentence": "Siz gürültülü inşaat alanına gitmeyeceksiniz",
-  "turkish_example_sentence_with_blank": "Siz gürültülü inşaat alanına ______"
+  "turkish_example_sentence": "Siz asla o küçük köy pazarına gitmeyeceksiniz.",
+  "english_example_sentence": "You will never go to that small village market.",
+  "russian_example_sentence": "Вы никогда не поедете на этот маленький деревенский рынок.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T08:51:03.687257+00:00",
+  "turkish_example_sentence_with_blank": "Siz asla o küçük köy pazarına ______."
 }

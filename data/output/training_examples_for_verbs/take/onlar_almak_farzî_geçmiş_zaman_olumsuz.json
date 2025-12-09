@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If they had not taken the heavy boxes from the warehouse",
-  "russian_example_sentence": "Если бы они не взяли тяжелые коробки со склада",
-  "turkish_example_sentence": "Depodan ağır kutuları almamışlarsa, taşıma işi başarısız olurdu",
-  "turkish_example_sentence_with_blank": "Depodan ağır kutuları ______, taşıma işi başarısız olurdu"
+  "turkish_example_sentence": "Onlar restorandan lezzetli yemek almamışlarsa, evde sıkıcı akşam yemeği yiyeceklerdi.",
+  "english_example_sentence": "If they had not taken the delicious food from the restaurant, they would have eaten a boring dinner at home.",
+  "russian_example_sentence": "Если бы они не взяли вкусную еду из ресторана, они бы ели скучный ужин дома.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:06:10.571933+00:00",
+  "turkish_example_sentence_with_blank": "Onlar restorandan lezzetli yemek ______, evde sıkıcı akşam yemeği yiyeceklerdi."
 }

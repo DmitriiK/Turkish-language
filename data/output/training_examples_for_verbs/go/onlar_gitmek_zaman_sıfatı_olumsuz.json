@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "gitmediklerinde",
     "root": "git",
-    "tense_affix": "dığ",
+    "tense_affix": "dik",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "onlar",
-    "personal_affix": "lerinde",
+    "personal_affix": "leri",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "When they did not go to the urgent emergency meeting yesterday",
-  "russian_example_sentence": "Когда они не пошли на срочное чрезвычайное совещание вчера",
-  "turkish_example_sentence": "Onlar dün acil kriz toplantısına gitmediklerinde, şirket ciddi sorunlarla karşılaştı",
-  "turkish_example_sentence_with_blank": "Onlar dün acil kriz toplantısına ______, şirket ciddi sorunlarla karşılaştı"
+  "turkish_example_sentence": "Onlar sinemayla gitmediklerinde evde eski filmleri izleyerek eğlendiler.",
+  "english_example_sentence": "When they didn't go to the cinema, they entertained themselves by watching old movies at home.",
+  "russian_example_sentence": "Когда они не пошли в кинотеатр, они развлекались, смотря старые фильмы дома.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:53:09.105493+00:00",
+  "turkish_example_sentence_with_blank": "Onlar sinemayla ______ evde eski filmleri izleyerek eğlendiler."
 }

@@ -4,17 +4,19 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmeseniz",
+    "verb_full": "gitmezseniz",
     "root": "git",
     "tense_affix": "mez",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "niz",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "mez"
   },
-  "english_example_sentence": "If you do not go to the meeting, you will miss important news",
-  "russian_example_sentence": "Если вы не пойдете на встречу, вы пропустите важные новости",
-  "turkish_example_sentence": "Siz toplantıya gitmeseniz, kritik iş haberlerini kaçıracaksınız",
-  "turkish_example_sentence_with_blank": "Siz toplantıya ______, kritik iş haberlerini kaçıracaksınız"
+  "turkish_example_sentence": "Siz özel tıbbi tedavi merkezine gitmezseniz, ciddi hastalığınız iyileşmeyecek.",
+  "english_example_sentence": "If you don't go to the special medical treatment center, your serious illness will not improve.",
+  "russian_example_sentence": "Если вы не пойдете в специальный медицинский центр лечения, ваше серьезное заболевание не улучшится.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T08:54:26.281241+00:00",
+  "turkish_example_sentence_with_blank": "Siz özel tıbbi tedavi merkezine ______, ciddi hastalığınız iyileşmeyecek."
 }

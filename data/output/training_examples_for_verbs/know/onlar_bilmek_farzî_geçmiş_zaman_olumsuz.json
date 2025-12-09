@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If they had not known the strange story",
-  "russian_example_sentence": "Если бы они не знали странную историю",
-  "turkish_example_sentence": "Onlar garip hikayeyi bilmemiş olsalar",
-  "turkish_example_sentence_with_blank": "Onlar garip hikayeyi ______"
+  "turkish_example_sentence": "Onlar bu gizli formülü bilmemiş olsalar, rakip şirket onları geçemezdi.",
+  "english_example_sentence": "If they had not known this secret formula, the rival company could not have surpassed them.",
+  "russian_example_sentence": "Если бы они не знали эту секретную формулу, конкурирующая компания не смогла бы их превзойти.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:55:04.203098+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu gizli formülü ______, rakip şirket onları geçemezdi."
 }

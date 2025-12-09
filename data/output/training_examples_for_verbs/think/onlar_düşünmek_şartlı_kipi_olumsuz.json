@@ -4,17 +4,19 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmezlerse",
+    "verb_full": "düşünmezlersa",
     "root": "düşün",
-    "tense_affix": "ürse",
+    "tense_affix": "mezse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "ler",
+    "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "mez"
   },
-  "english_example_sentence": "If they don't think about the cultural differences respectfully",
-  "russian_example_sentence": "Если они не будут думать о культурных различиях уважительно",
-  "turkish_example_sentence": "Eğer onlar kültürel farklılıkları saygıyla düşünmezlerse, çatışma çıkabilir",
-  "turkish_example_sentence_with_blank": "Eğer onlar kültürel farklılıkları saygıyla ______, çatışma çıkabilir"
+  "turkish_example_sentence": "Onlar kültürel mirasın değerli önemini düşünmezlersa, unutulup gidebilir.",
+  "english_example_sentence": "If they don't think about the valuable importance of cultural heritage, it can be forgotten.",
+  "russian_example_sentence": "Если они не подумают о ценной важности культурного наследия, оно может быть забыто.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:59:27.571483+00:00",
+  "turkish_example_sentence_with_blank": "Onlar kültürel mirasın değerli önemini ______, unutulup gidebilir."
 }

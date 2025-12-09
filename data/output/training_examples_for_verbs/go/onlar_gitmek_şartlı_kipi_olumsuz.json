@@ -11,10 +11,12 @@
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "mez"
   },
-  "english_example_sentence": "If they do not go to the wedding, they will regret it",
-  "russian_example_sentence": "Если они не пойдут на свадьбу, они будут сожалеть",
-  "turkish_example_sentence": "Onlar düğüne gitmezlerse, güzel anıları kaçıracaklar",
-  "turkish_example_sentence_with_blank": "Onlar düğüne ______, güzel anıları kaçıracaklar"
+  "turkish_example_sentence": "Onlar zorunlu askerlik eğitim kampına gitmezlerse, yasal cezayla karşılaşacaklar.",
+  "english_example_sentence": "If they don't go to the mandatory military training camp, they will face legal penalties.",
+  "russian_example_sentence": "Если они не пойдут в обязательный военный учебный лагерь, они столкнутся с судебными штрафами.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T08:54:26.281241+00:00",
+  "turkish_example_sentence_with_blank": "Onlar zorunlu askerlik eğitim kampına ______, yasal cezayla karşılaşacaklar."
 }

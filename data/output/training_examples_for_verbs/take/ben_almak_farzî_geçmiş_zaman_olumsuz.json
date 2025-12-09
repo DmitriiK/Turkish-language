@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If I had not taken the important documents",
-  "russian_example_sentence": "Если бы я не взял важные документы",
-  "turkish_example_sentence": "Önemli evrakları almamışsam, toplantıda sorun yaşardık",
-  "turkish_example_sentence_with_blank": "Önemli evrakları ______, toplantıda sorun yaşardık"
+  "turkish_example_sentence": "Ben sabah erkenden sıcak kahveyi almamışsam, gün boyunca yorgun kalırdım.",
+  "english_example_sentence": "If I had not taken the hot coffee early in the morning, I would have remained tired throughout the day.",
+  "russian_example_sentence": "Если бы я не взял горячий кофе рано утром, я бы остался усталым весь день.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:06:10.571933+00:00",
+  "turkish_example_sentence_with_blank": "Ben sabah erkenden sıcak kahveyi ______, gün boyunca yorgun kalırdım."
 }

@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "The lazy student not making any effort in class",
-  "russian_example_sentence": "Ленивый студент, не делающий никаких усилий на уроке",
-  "turkish_example_sentence": "Derste hiçbir çaba yapmayan tembel öğrenci",
-  "turkish_example_sentence_with_blank": "Derste hiçbir çaba ______ tembel öğrenci"
+  "turkish_example_sentence": "Ev ödevini yapmayan tembel öğrenci sınıfta kaldı",
+  "english_example_sentence": "The lazy student who does not make homework stayed in the class",
+  "russian_example_sentence": "Ленивый студент, который не делает домашнее задание, остался в классе",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T09:07:56.560008+00:00",
+  "turkish_example_sentence_with_blank": "Ev ödevini ______ tembel öğrenci sınıfta kaldı"
 }

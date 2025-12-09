@@ -11,10 +11,12 @@
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "mı"
+    "negative_affix": "m"
   },
-  "english_example_sentence": "She is not making any contribution to the community volunteer program",
-  "russian_example_sentence": "Она не вносит никакого вклада в программу волонтеров сообщества",
-  "turkish_example_sentence": "O toplum gönüllü programına hiçbir katkı yapmıyor",
-  "turkish_example_sentence_with_blank": "O toplum gönüllü programına hiçbir katkı ______"
+  "turkish_example_sentence": "O hızlı kahvaltı hazırlaması yapmıyor.",
+  "english_example_sentence": "She is not making a quick breakfast preparation.",
+  "russian_example_sentence": "Она не делает быструю подготовку завтрака.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T09:03:23.197899+00:00",
+  "turkish_example_sentence_with_blank": "O hızlı kahvaltı hazırlaması ______."
 }

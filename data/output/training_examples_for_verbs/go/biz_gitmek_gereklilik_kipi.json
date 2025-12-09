@@ -4,17 +4,19 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmemiz lazım",
+    "verb_full": "gitmemiz",
     "root": "git",
     "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "mız",
+    "personal_affix": "miz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We need to go to the small quiet village soon",
-  "russian_example_sentence": "Нам нужно идти в маленькую тихую деревню скоро",
-  "turkish_example_sentence": "Biz yakında küçük sakin köye gitmemiz lazım",
-  "turkish_example_sentence_with_blank": "Biz yakında küçük sakin köye ______"
+  "turkish_example_sentence": "Biz kültür merkezi etkinliğine gitmemiz lazım.",
+  "english_example_sentence": "We need to go to the cultural center event.",
+  "russian_example_sentence": "Нам нужно идти на мероприятие культурного центра.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T08:52:39.982434+00:00",
+  "turkish_example_sentence_with_blank": "Biz kültür merkezi etkinliğine ______ lazım."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "düşünmüşsünüz",
     "root": "düşün",
-    "tense_affix": "müşse",
+    "tense_affix": "müş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "nüz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you had thought about the cultural differences carefully",
-  "russian_example_sentence": "Если бы вы тщательно подумали о культурных различиях",
-  "turkish_example_sentence": "Siz kültürel farklılıklar hakkında dikkatle düşünmüşsünüz, anlaşmazlık olmazdı",
-  "turkish_example_sentence_with_blank": "Siz kültürel farklılıklar hakkında dikkatle ______, anlaşmazlık olmazdı"
+  "turkish_example_sentence": "Siz bu ilginç sanat projesini düşünmüşsünüz, çok başarılı olabilirdi.",
+  "english_example_sentence": "If you had thought about this interesting art project, it could have been very successful.",
+  "russian_example_sentence": "Если бы вы подумали об этом интересном художественном проекте, он мог бы быть очень успешным.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:00:45.542184+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu ilginç sanat projesini ______, çok başarılı olabilirdi."
 }

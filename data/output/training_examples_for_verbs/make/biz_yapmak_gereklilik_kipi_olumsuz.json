@@ -4,17 +4,19 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmamamız lazım",
+    "verb_full": "yapmamamız",
     "root": "yap",
-    "tense_affix": "lazım",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "mız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "We must not make unnecessary changes to the original ancient manuscript",
-  "russian_example_sentence": "Мы не должны делать ненужные изменения в оригинальном древнем манускрипте",
-  "turkish_example_sentence": "Biz orijinal antik el yazmasına gereksiz değişiklikler yapmamamız lazım",
-  "turkish_example_sentence_with_blank": "Biz orijinal antik el yazmasına gereksiz değişiklikler ______"
+  "turkish_example_sentence": "Biz bu hassas konuda hiçbir yanlış açıklama yapmamamız gerek.",
+  "english_example_sentence": "We must not make any wrong statement about this sensitive issue.",
+  "russian_example_sentence": "Мы не должны делать никаких неправильных заявлений по этому чувствительному вопросу.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T09:05:58.879967+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu hassas konuda hiçbir yanlış açıklama ______ gerek."
 }

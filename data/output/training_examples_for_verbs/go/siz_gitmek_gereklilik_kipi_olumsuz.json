@@ -4,17 +4,19 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmemeniz lazım",
+    "verb_full": "gitmeniz",
     "root": "git",
     "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "niz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You all do not need to go to the long boring conference",
-  "russian_example_sentence": "Вам всем не нужно идти на долгую скучную конференцию",
-  "turkish_example_sentence": "Siz uzun sıkıcı konferansa gitmemeniz lazım",
-  "turkish_example_sentence_with_blank": "Siz uzun sıkıcı konferansa ______"
+  "turkish_example_sentence": "Siz kırsal köy pazarına gitmeniz lazım değil.",
+  "english_example_sentence": "You don't need to go to the rural village market.",
+  "russian_example_sentence": "Вам не нужно идти на рынок сельской деревни.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T08:52:39.982434+00:00",
+  "turkish_example_sentence_with_blank": "Siz kırsal köy pazarına ______ lazım değil."
 }

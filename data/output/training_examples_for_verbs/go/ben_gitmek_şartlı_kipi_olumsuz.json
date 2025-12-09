@@ -4,17 +4,19 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmezsem",
+    "verb_full": "gitmezsen",
     "root": "git",
     "tense_affix": "mez",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "mez"
   },
-  "english_example_sentence": "If I do not go to the beach, I will stay home",
-  "russian_example_sentence": "Если я не пойду на пляж, я останусь дома",
-  "turkish_example_sentence": "Ben kumlu sahile gitmezsem, rahat evde kalırım",
-  "turkish_example_sentence_with_blank": "Ben kumlu sahile ______, rahat evde kalırım"
+  "turkish_example_sentence": "Ben önemli toplantıya gitmezsen, herkesi hayal kırıklığına uğratırım.",
+  "english_example_sentence": "If I don't go to the important meeting, I will disappoint everyone.",
+  "russian_example_sentence": "Если я не пойду на важное совещание, я разочарую всех.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T08:54:26.281241+00:00",
+  "turkish_example_sentence_with_blank": "Ben önemli toplantıya ______, herkesi hayal kırıklığına uğratırım."
 }

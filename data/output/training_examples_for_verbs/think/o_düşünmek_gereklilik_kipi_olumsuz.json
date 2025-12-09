@@ -4,17 +4,19 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmemesi lazım",
+    "verb_full": "düşünmemesi",
     "root": "düşün",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "sı",
+    "personal_affix": "si",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "She should not think about the painful childhood experience anymore",
-  "russian_example_sentence": "Она не должна больше думать о болезненном детском опыте",
-  "turkish_example_sentence": "O acılı çocukluk deneyimini artık düşünmemesi lazım",
-  "turkish_example_sentence_with_blank": "O acılı çocukluk deneyimini artık ______"
+  "turkish_example_sentence": "O mutsuz adamın negatif düşüncelerini düşünmemesi gerek.",
+  "english_example_sentence": "That sad man doesn't need to think about negative thoughts.",
+  "russian_example_sentence": "Тому грустному мужчине не нужно думать о негативных мыслях.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:57:38.344983+00:00",
+  "turkish_example_sentence_with_blank": "O mutsuz adamın negatif düşüncelerini ______ gerek."
 }

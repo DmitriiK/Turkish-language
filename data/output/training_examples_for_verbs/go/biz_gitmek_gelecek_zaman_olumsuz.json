@@ -4,7 +4,7 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmeyeceğiz",
+    "verb_full": "gitmeyecegiz",
     "root": "git",
     "tense_affix": "ecek",
     "verb_tense": "gelecek_zaman",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "We will not go to the expensive luxury resort",
-  "russian_example_sentence": "Мы не пойдем на дорогой люксовый курорт",
-  "turkish_example_sentence": "Biz pahalı lüks tatil köyüne gitmeyeceğiz",
-  "turkish_example_sentence_with_blank": "Biz pahalı lüks tatil köyüne ______"
+  "turkish_example_sentence": "Biz bu yil dis ülkeye gitmeyecegiz.",
+  "english_example_sentence": "We will not go abroad this year.",
+  "russian_example_sentence": "Мы не поедем за границу в этом году.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T08:50:45.819464+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu yil dis ülkeye ______."
 }

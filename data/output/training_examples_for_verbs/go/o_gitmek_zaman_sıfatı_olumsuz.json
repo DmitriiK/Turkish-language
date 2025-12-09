@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "gitmediğinde",
     "root": "git",
-    "tense_affix": "dığ",
+    "tense_affix": "dik",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "o",
-    "personal_affix": "inde",
+    "personal_affix": "i",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "When she did not go to the annual family reunion last summer",
-  "russian_example_sentence": "Когда она не пошла на ежегодное семейное воссоединение прошлым летом",
-  "turkish_example_sentence": "O geçen yaz yıllık aile buluşmasına gitmediğinde, herkes onu çok özledi",
-  "turkish_example_sentence_with_blank": "O geçen yaz yıllık aile buluşmasına ______, herkes onu çok özledi"
+  "turkish_example_sentence": "O işe gitmediğinde boş zamanını spor yaparak geçirdi.",
+  "english_example_sentence": "When he didn't go to work, he spent his free time doing sports.",
+  "russian_example_sentence": "Когда он не пошел на работу, он провел свободное время занимаясь спортом.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:53:09.105493+00:00",
+  "turkish_example_sentence_with_blank": "O işe ______ boş zamanını spor yaparak geçirdi."
 }

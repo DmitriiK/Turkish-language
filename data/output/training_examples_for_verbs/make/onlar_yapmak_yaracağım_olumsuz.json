@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yapmayacaklar",
     "root": "yap",
-    "tense_affix": "acak",
+    "tense_affix": "acağ",
     "verb_tense": "yaracağım",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "They will not make any radical changes to the traditional recipe",
-  "russian_example_sentence": "Они не будут делать никаких радикальных изменений в традиционном рецепте",
-  "turkish_example_sentence": "Onlar eski aile yemek tarifinde radikal değişiklikler yapmayacaklar",
-  "turkish_example_sentence_with_blank": "Onlar eski aile yemek tarifinde radikal değişiklikler ______"
+  "turkish_example_sentence": "Onlar bu pahalı hatayı yapmayacaklar hiçbir zaman.",
+  "english_example_sentence": "They will never make this expensive mistake.",
+  "russian_example_sentence": "Они никогда не будут делать эту дорогую ошибку.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T09:04:29.018408+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu pahalı hatayı ______ hiçbir zaman."
 }

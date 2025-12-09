@@ -4,17 +4,19 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "alamazsınız",
+    "verb_full": "alamazssiniz",
     "root": "al",
-    "tense_affix": "ama",
+    "tense_affix": "abil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "zsınız",
+    "personal_affix": "irsiniz",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "You cannot take the fragile glass vase to the moving truck",
-  "russian_example_sentence": "Вы не можете взять хрупкую стеклянную вазу на грузовик",
-  "turkish_example_sentence": "Siz kırılgan cam vazoyu taşıma kamyonuna alamazsınız",
-  "turkish_example_sentence_with_blank": "Siz kırılgan cam vazoyu taşıma kamyonuna ______"
+  "turkish_example_sentence": "Siz bu gizli belgeleri ofisten alamazssiniz.",
+  "english_example_sentence": "You cannot take these secret documents from the office.",
+  "russian_example_sentence": "Вы не можете взять эти секретные документы из офиса.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:03:33.964900+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu gizli belgeleri ofisten ______."
 }

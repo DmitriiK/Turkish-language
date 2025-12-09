@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "gitmemişsem",
     "root": "git",
-    "tense_affix": "mişse",
+    "tense_affix": "miş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If I had not gone to the crowded downtown market yesterday",
-  "russian_example_sentence": "Если бы я вчера не пошел на переполненный центральный рынок",
-  "turkish_example_sentence": "Eğer ben dün kalabalık şehir merkezi pazarına gitmemişsem, daha rahat olurdu",
-  "turkish_example_sentence_with_blank": "Eğer ben dün kalabalık şehir merkezi pazarına ______, daha rahat olurdu"
+  "turkish_example_sentence": "Ben pazarlamaya gitmemişsem, önemli toplantıyı kaçırmış olurdum.",
+  "english_example_sentence": "If I had not gone to the market, I would have missed the important meeting.",
+  "russian_example_sentence": "Если бы я не пошел на рынок, я бы пропустил важное совещание.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T08:54:46.064127+00:00",
+  "turkish_example_sentence_with_blank": "Ben pazarlamaya ______, önemli toplantıyı kaçırmış olurdum."
 }

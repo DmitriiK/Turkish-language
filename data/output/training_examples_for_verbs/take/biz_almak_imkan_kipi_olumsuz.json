@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "alamayız",
     "root": "al",
-    "tense_affix": "ama",
+    "tense_affix": "abil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "yız",
+    "personal_affix": "iriz",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "We cannot take the old broken bicycle to the park",
-  "russian_example_sentence": "Мы не можем взять старый сломанный велосипед в парк",
-  "turkish_example_sentence": "Biz parka eski kırık bisikleti alamayız",
-  "turkish_example_sentence_with_blank": "Biz parka eski kırık bisikleti ______"
+  "turkish_example_sentence": "Biz bu kısıtlı bütçeyle lüks ürünleri alamayız.",
+  "english_example_sentence": "We cannot take luxury products with this limited budget.",
+  "russian_example_sentence": "Мы не можем взять предметы роскоши с этим ограниченным бюджетом.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:03:33.964900+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu kısıtlı bütçeyle lüks ürünleri ______."
 }

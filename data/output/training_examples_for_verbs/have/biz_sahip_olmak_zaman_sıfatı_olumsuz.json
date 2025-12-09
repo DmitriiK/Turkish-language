@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sahip olmadığımızda",
     "root": "sahip ol",
-    "tense_affix": "madığımız",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "biz",
-    "personal_affix": "da",
+    "personal_affix": "uz",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "When we do not have knowledge",
-  "russian_example_sentence": "Когда у нас нет знаний",
-  "turkish_example_sentence": "Biz bilgiye sahip olmadığımızda",
-  "turkish_example_sentence_with_blank": "Biz bilgiye ______"
+  "turkish_example_sentence": "Biz yeterli kaynak sahip olmadığımızda, yaratıcı çözümler buldum.",
+  "english_example_sentence": "When we didn't have sufficient resources, we found creative solutions.",
+  "russian_example_sentence": "Когда мы не имели достаточных ресурсов, мы нашли творческие решения.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:51:15.231591+00:00",
+  "turkish_example_sentence_with_blank": "Biz yeterli kaynak ______, yaratıcı çözümler buldum."
 }

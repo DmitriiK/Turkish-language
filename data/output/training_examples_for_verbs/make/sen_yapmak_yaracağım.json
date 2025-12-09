@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yapacaksın",
     "root": "yap",
-    "tense_affix": "acak",
+    "tense_affix": "acağ",
     "verb_tense": "yaracağım",
     "personal_pronoun": "sen",
     "personal_affix": "sın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You will make a beautiful handmade necklace",
-  "russian_example_sentence": "Ты сделаешь красивое ручное ожерелье",
-  "turkish_example_sentence": "Sen güzel el yapımı bir kolye yapacaksın",
-  "turkish_example_sentence_with_blank": "Sen güzel el yapımı bir kolye ______"
+  "turkish_example_sentence": "Sen bu hafta sonu önemli bir karar yapacaksın.",
+  "english_example_sentence": "You will make an important decision this weekend.",
+  "russian_example_sentence": "Ты примешь важное решение на выходных.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T09:04:29.018408+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu hafta sonu önemli bir karar ______."
 }

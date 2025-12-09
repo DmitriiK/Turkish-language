@@ -4,17 +4,19 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmeniz lazım",
+    "verb_full": "düşünmeniz",
     "root": "düşün",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "niz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You all need to think about the creative solutions for this challenge",
-  "russian_example_sentence": "Вы все должны думать о творческих решениях для этого вызова",
-  "turkish_example_sentence": "Siz bu zorluk için yaratıcı çözümleri düşünmeniz lazım",
-  "turkish_example_sentence_with_blank": "Siz bu zorluk için yaratıcı çözümleri ______"
+  "turkish_example_sentence": "Siz bu karmaşık bilimsel teorileri düşünmeniz gerek.",
+  "english_example_sentence": "You need to think about these complex scientific theories.",
+  "russian_example_sentence": "Вам нужно думать об этих сложных научных теориях.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:57:38.344983+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu karmaşık bilimsel teorileri ______ gerek."
 }

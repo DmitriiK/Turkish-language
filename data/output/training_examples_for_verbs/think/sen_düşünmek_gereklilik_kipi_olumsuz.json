@@ -4,17 +4,19 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmemen lazım",
+    "verb_full": "düşünmemen",
     "root": "düşün",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You should not think about negative comments from others",
-  "russian_example_sentence": "Ты не должен думать об отрицательных комментариях других людей",
-  "turkish_example_sentence": "Sen başkalarının olumsuz eleştirilerini düşünmemen lazım",
-  "turkish_example_sentence_with_blank": "Sen başkalarının olumsuz eleştirilerini ______"
+  "turkish_example_sentence": "Sen bu eski hatıralardan düşünmemen gerek.",
+  "english_example_sentence": "You don't need to think about these old memories.",
+  "russian_example_sentence": "Тебе не нужно думать об этих старых воспоминаниях.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:57:38.344983+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu eski hatıralardan ______ gerek."
 }

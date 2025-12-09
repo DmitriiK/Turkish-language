@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If I do not make an effort today",
-  "russian_example_sentence": "Если я сегодня не приложу усилия",
-  "turkish_example_sentence": "Eğer ben bugün ciddi bir çaba yapmazsam, sınavı geçemeyeceğim",
-  "turkish_example_sentence_with_blank": "Eğer ben bugün ciddi bir çaba ______, sınavı geçemeyeceğim"
+  "turkish_example_sentence": "Ben önemli kararı yapmazsam, sorun yaşayacağız.",
+  "english_example_sentence": "If I do not make an important decision, we will have problems.",
+  "russian_example_sentence": "Если я не сделаю важное решение, у нас будут проблемы.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T09:07:12.100872+00:00",
+  "turkish_example_sentence_with_blank": "Ben önemli kararı ______, sorun yaşayacağız."
 }

@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He will know the ancient history well",
-  "russian_example_sentence": "Он будет знать древнюю историю хорошо",
-  "turkish_example_sentence": "O eski tarihi iyi bilecek",
-  "turkish_example_sentence_with_blank": "O eski tarihi iyi ______"
+  "turkish_example_sentence": "O akıllı doktor hastanın nadir hastalığını bilecek.",
+  "english_example_sentence": "He will know the patient's rare disease.",
+  "russian_example_sentence": "Он будет знать редкую болезнь пациента.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T09:13:06.575694+00:00",
+  "turkish_example_sentence_with_blank": "O akıllı doktor hastanın nadir hastalığını ______."
 }

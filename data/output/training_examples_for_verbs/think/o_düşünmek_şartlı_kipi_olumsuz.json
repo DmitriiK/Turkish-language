@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "düşünmezse",
     "root": "düşün",
-    "tense_affix": "ürse",
+    "tense_affix": "mezse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "mez"
   },
-  "english_example_sentence": "If she doesn't think about the complex situation logically",
-  "russian_example_sentence": "Если она не будет думать о сложной ситуации логически",
-  "turkish_example_sentence": "Eğer o karmaşık durumu mantıklı şekilde düşünmezse, hata yapabilir",
-  "turkish_example_sentence_with_blank": "Eğer o karmaşık durumu mantıklı şekilde ______, hata yapabilir"
+  "turkish_example_sentence": "O başarılı kariyerinin uzun yolunu düşünmezse, motivasyonunu kaybeder.",
+  "english_example_sentence": "If she doesn't think about the long road of her successful career, she loses her motivation.",
+  "russian_example_sentence": "Если она не подумает о долгом пути своей успешной карьеры, она потеряет мотивацию.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:59:27.571483+00:00",
+  "turkish_example_sentence_with_blank": "O başarılı kariyerinin uzun yolunu ______, motivasyonunu kaybeder."
 }

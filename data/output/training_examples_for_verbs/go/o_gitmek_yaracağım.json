@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "gidecek",
     "root": "git",
-    "tense_affix": "ecek",
+    "tense_affix": "eceğ",
     "verb_tense": "yaracağım",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He will go to the old historical museum",
-  "russian_example_sentence": "Он пойдет в старый исторический музей",
-  "turkish_example_sentence": "O eski tarihi müzeye gidecek",
-  "turkish_example_sentence_with_blank": "O eski tarihi müzeye ______"
+  "turkish_example_sentence": "O akşam saatinde eski arkadaşının evine gidecek.",
+  "english_example_sentence": "He will go to his old friend's house in the evening.",
+  "russian_example_sentence": "Он поедет в дом своего старого друга вечером.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T08:51:03.687257+00:00",
+  "turkish_example_sentence_with_blank": "O akşam saatinde eski arkadaşının evine ______."
 }

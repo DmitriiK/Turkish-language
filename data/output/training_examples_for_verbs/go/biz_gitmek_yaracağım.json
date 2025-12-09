@@ -4,17 +4,19 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gidecegiz",
+    "verb_full": "gideceğiz",
     "root": "git",
-    "tense_affix": "eceg",
+    "tense_affix": "eceğ",
     "verb_tense": "yaracağım",
     "personal_pronoun": "biz",
     "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We will go to the green national forest park",
-  "russian_example_sentence": "Мы пойдем в зеленый национальный лесной парк",
-  "turkish_example_sentence": "Biz yeşil ulusal orman parkına gidecegiz",
-  "turkish_example_sentence_with_blank": "Biz yeşil ulusal orman parkına ______"
+  "turkish_example_sentence": "Biz kış tatilinde snowy Kapadokya'ya gideceğiz.",
+  "english_example_sentence": "We will go to snowy Cappadocia during winter vacation.",
+  "russian_example_sentence": "Мы поедем в снежную Каппадокию на зимних каникулах.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T08:51:03.687257+00:00",
+  "turkish_example_sentence_with_blank": "Biz kış tatilinde snowy Kapadokya'ya ______."
 }

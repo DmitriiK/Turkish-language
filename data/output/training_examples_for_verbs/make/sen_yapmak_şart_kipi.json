@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you were to make delicious chocolate cake",
-  "russian_example_sentence": "Если бы ты сделал вкусный шоколадный торт",
-  "turkish_example_sentence": "Sen lezzetli çikolatalı kek yapsan, çocuklar çok sevinir",
-  "turkish_example_sentence_with_blank": "Sen lezzetli çikolatalı kek ______, çocuklar çok sevinir"
+  "turkish_example_sentence": "Sen lezzetli bir yemek yapsan, misafirlerimiz çok mutlu olurlar.",
+  "english_example_sentence": "If you were to make a delicious meal, our guests would be very happy.",
+  "russian_example_sentence": "Если бы ты сделал вкусное блюдо, наши гости были бы очень счастливы.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T09:05:38.860822+00:00",
+  "turkish_example_sentence_with_blank": "Sen lezzetli bir yemek ______, misafirlerimiz çok mutlu olurlar."
 }

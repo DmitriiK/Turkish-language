@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If she had not taken the expensive necklace",
-  "russian_example_sentence": "Если бы она не взяла дорогое ожерелье",
-  "turkish_example_sentence": "Pahalı kolyeyi almamışsa, kayıp olmayacaktı",
-  "turkish_example_sentence_with_blank": "Pahalı kolyeyi ______, kayıp olmayacaktı"
+  "turkish_example_sentence": "O dükkantan yeni mavi elbiseyi almamışsa, partiye güzel giyinmiş gitmezdi.",
+  "english_example_sentence": "If she had not taken the new blue dress from the store, she would not have gone to the party well-dressed.",
+  "russian_example_sentence": "Если бы она не взяла новое синее платье из магазина, она бы не пошла на вечеринку хорошо одетой.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:06:10.571933+00:00",
+  "turkish_example_sentence_with_blank": "O dükkantan yeni mavi elbiseyi ______, partiye güzel giyinmiş gitmezdi."
 }

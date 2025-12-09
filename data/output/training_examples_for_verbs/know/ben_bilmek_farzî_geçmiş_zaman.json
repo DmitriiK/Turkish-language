@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I had known the difficult answer earlier",
-  "russian_example_sentence": "Если бы я знал сложный ответ раньше",
-  "turkish_example_sentence": "Ben zor sorunun cevabını daha erken bilmiş olsaydım",
-  "turkish_example_sentence_with_blank": "Ben zor sorunun cevabını daha erken ______"
+  "turkish_example_sentence": "Ben o gizli planı önceden bilmiş olsaydım, seni uyarabilirdim.",
+  "english_example_sentence": "If I had known that secret plan beforehand, I could have warned you.",
+  "russian_example_sentence": "Если бы я знал этот секретный план заранее, я мог бы тебя предупредить.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:55:04.203098+00:00",
+  "turkish_example_sentence_with_blank": "Ben o gizli planı önceden ______, seni uyarabilirdim."
 }

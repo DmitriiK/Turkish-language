@@ -4,17 +4,19 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilmezlerse",
+    "verb_full": "bilmezlersa",
     "root": "bil",
-    "tense_affix": "mez",
+    "tense_affix": "ir",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "ler",
+    "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "mez"
   },
-  "english_example_sentence": "If they don't know the emergency number, they should call the helpful operator",
-  "russian_example_sentence": "Если они не знают номер скорой помощи, они должны позвонить полезному оператору",
-  "turkish_example_sentence": "Acil numarayı bilmezlerse, yardımcı operatöre çağırmalılar",
-  "turkish_example_sentence_with_blank": "Acil numarayı ______, yardımcı operatöre çağırmalılar"
+  "turkish_example_sentence": "Onlar bu yerel kültürün ilginç geleneklerini bilmezlersa, rehberi dinlemelidirler.",
+  "english_example_sentence": "If they don't know the interesting traditions of this local culture, they must listen to the guide.",
+  "russian_example_sentence": "Если они не знают интересные традиции этой местной культуры, они должны слушать гида.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:54:11.273011+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu yerel kültürün ilginç geleneklerini ______, rehberi dinlemelidirler."
 }

@@ -4,17 +4,19 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "alamazsın",
+    "verb_full": "alamazssin",
     "root": "al",
-    "tense_affix": "ama",
+    "tense_affix": "abil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "zsın",
+    "personal_affix": "irsin",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "You cannot take the expensive golden necklace without permission",
-  "russian_example_sentence": "Ты не можешь взять дорогое золотое ожерелье без разрешения",
-  "turkish_example_sentence": "Sen izin olmadan pahalı altın kolyeyi alamazsın",
-  "turkish_example_sentence_with_blank": "Sen izin olmadan pahalı altın kolyeyi ______"
+  "turkish_example_sentence": "Sen bu sıcak tencereyi çıplak elinle alamazssin.",
+  "english_example_sentence": "You cannot take this hot pot with your bare hand.",
+  "russian_example_sentence": "Ты не можешь взять эту горячую кастрюлю голой рукой.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:03:33.964900+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu sıcak tencereyi çıplak elinle ______."
 }

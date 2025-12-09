@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "alamazlar",
     "root": "al",
-    "tense_affix": "ama",
+    "tense_affix": "abil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "zlar",
+    "personal_affix": "irler",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "They cannot take the dangerous sharp knife from the kitchen",
-  "russian_example_sentence": "Они не могут взять опасный острый нож из кухни",
-  "turkish_example_sentence": "Onlar mutfaktan tehlikeli keskin bıçağı alamazlar",
-  "turkish_example_sentence_with_blank": "Onlar mutfaktan tehlikeli keskin bıçağı ______"
+  "turkish_example_sentence": "Onlar bu kuru mevsimde bahçedeki çiçekleri alamazlar.",
+  "english_example_sentence": "They cannot take the flowers from the garden in this dry season.",
+  "russian_example_sentence": "Они не могут взять цветы из сада в этот сухой сезон.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:03:33.964900+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu kuru mevsimde bahçedeki çiçekleri ______."
 }

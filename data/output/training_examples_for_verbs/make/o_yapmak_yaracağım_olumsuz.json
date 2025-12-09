@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yapmayacak",
     "root": "yap",
-    "tense_affix": "acak",
+    "tense_affix": "acağ",
     "verb_tense": "yaracağım",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "She will not make excuses for her poor performance",
-  "russian_example_sentence": "Она не будет делать оправдания за свое плохое выступление",
-  "turkish_example_sentence": "O kötü performansı için zayıf bahaneler yapmayacak",
-  "turkish_example_sentence_with_blank": "O kötü performansı için zayıf bahaneler ______"
+  "turkish_example_sentence": "O kızıl saçlı kız asla böyle bir şey yapmayacak.",
+  "english_example_sentence": "She will never make such a thing.",
+  "russian_example_sentence": "Она никогда не будет делать такое.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T09:04:29.018408+00:00",
+  "turkish_example_sentence_with_blank": "O kızıl saçlı kız asla böyle bir şey ______."
 }

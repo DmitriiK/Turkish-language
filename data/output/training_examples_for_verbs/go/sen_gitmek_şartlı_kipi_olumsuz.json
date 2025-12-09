@@ -4,17 +4,19 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmezsen",
+    "verb_full": "gitmezsin",
     "root": "git",
     "tense_affix": "mez",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "mez"
   },
-  "english_example_sentence": "If you do not go to school, you will miss the important exam",
-  "russian_example_sentence": "Если ты не пойдешь в школу, ты пропустишь важный экзамен",
-  "turkish_example_sentence": "Sen okula gitmezsen, kritik matematik sınavını kaçırırsın",
-  "turkish_example_sentence_with_blank": "Sen okula ______, kritik matematik sınavını kaçırırsın"
+  "turkish_example_sentence": "Sen uzak dağlı bölgeye kış mevsiminde gitmezsin, tehlikeli yollardan kaçınırsın.",
+  "english_example_sentence": "If you don't go to the distant mountainous region in winter, you will avoid dangerous roads.",
+  "russian_example_sentence": "Если ты не пойдешь в отдаленный горный регион зимой, ты избежишь опасных дорог.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T08:54:26.281241+00:00",
+  "turkish_example_sentence_with_blank": "Sen uzak dağlı bölgeye kış mevsiminde ______, tehlikeli yollardan kaçınırsın."
 }

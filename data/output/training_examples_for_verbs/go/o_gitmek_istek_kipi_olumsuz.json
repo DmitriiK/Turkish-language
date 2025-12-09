@@ -4,7 +4,7 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmesin",
+    "verb_full": "gitme",
     "root": "git",
     "tense_affix": "e",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "May she not go to the late night party on Friday",
-  "russian_example_sentence": "Пусть она не пойдет на позднюю вечеринку в пятницу",
-  "turkish_example_sentence": "O cuma gecesi geç saatlerde yapılan partiye gitmesin",
-  "turkish_example_sentence_with_blank": "O cuma gecesi geç saatlerde yapılan partiye ______"
+  "turkish_example_sentence": "O yaşlı kadın kış aylarında uzak köye gitme.",
+  "english_example_sentence": "May that elderly woman not go to the distant village in winter months.",
+  "russian_example_sentence": "Пусть та пожилая женщина не ездит в отдаленную деревню в зимние месяцы.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T08:51:39.364264+00:00",
+  "turkish_example_sentence_with_blank": "O yaşlı kadın kış aylarında uzak köye ______."
 }

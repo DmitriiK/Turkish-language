@@ -4,17 +4,19 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmememiz lazım",
+    "verb_full": "gitmemiz",
     "root": "git",
     "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "mız",
+    "personal_affix": "miz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "We do not need to go to the dark dangerous forest",
-  "russian_example_sentence": "Нам не нужно идти в темный опасный лес",
-  "turkish_example_sentence": "Biz karanlık tehlikeli ormana gitmememiz lazım",
-  "turkish_example_sentence_with_blank": "Biz karanlık tehlikeli ormana ______"
+  "turkish_example_sentence": "Biz pazarlamacı konferansına gitmemiz lazım değil.",
+  "english_example_sentence": "We don't need to go to the marketing conference.",
+  "russian_example_sentence": "Нам не нужно идти на конференцию по маркетингу.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T08:52:39.982434+00:00",
+  "turkish_example_sentence_with_blank": "Biz pazarlamacı konferansına ______ lazım değil."
 }

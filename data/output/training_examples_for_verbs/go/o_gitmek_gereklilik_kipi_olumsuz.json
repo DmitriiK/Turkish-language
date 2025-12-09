@@ -4,17 +4,19 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmemesi lazım",
+    "verb_full": "gitmesi",
     "root": "git",
     "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "sı",
+    "personal_affix": "si",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "She does not need to go to the expensive luxury resort",
-  "russian_example_sentence": "Ей не нужно идти на дорогой роскошный курорт",
-  "turkish_example_sentence": "O pahalı lüks tatil köyüne gitmemesi lazım",
-  "turkish_example_sentence_with_blank": "O pahalı lüks tatil köyüne ______"
+  "turkish_example_sentence": "O yaşlı adam hastaneye gitmesi lazım değil.",
+  "english_example_sentence": "He doesn't need to go to the hospital.",
+  "russian_example_sentence": "Ему не нужно идти в больницу.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T08:52:39.982434+00:00",
+  "turkish_example_sentence_with_blank": "O yaşlı adam hastaneye ______ lazım değil."
 }

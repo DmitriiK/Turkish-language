@@ -4,7 +4,7 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmazsanız",
+    "verb_full": "gitmasanız",
     "root": "git",
     "tense_affix": "se",
     "verb_tense": "şart_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If you were not to go to the crowded football stadium",
-  "russian_example_sentence": "Если бы вы не пошли на переполненный футбольный стадион",
-  "turkish_example_sentence": "Siz kalabalık futbol stadyumuna gitmazsanız daha güvenli hissedebilirsiniz",
-  "turkish_example_sentence_with_blank": "Siz kalabalık futbol stadyumuna ______ daha güvenli hissedebilirsiniz"
+  "turkish_example_sentence": "Siz tiyatroya gitmasanız, oyunu kaçıracaksınız.",
+  "english_example_sentence": "If you were not to go to the theater, you would miss the play.",
+  "russian_example_sentence": "Если бы вы не пошли в театр, вы пропустили бы спектакль.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T08:52:09.758960+00:00",
+  "turkish_example_sentence_with_blank": "Siz tiyatroya ______, oyunu kaçıracaksınız."
 }

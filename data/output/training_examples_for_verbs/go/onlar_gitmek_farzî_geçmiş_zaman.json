@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "gitmişlerse",
     "root": "git",
-    "tense_affix": "mişse",
+    "tense_affix": "miş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "ler",
+    "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they had gone to the spectacular colorful carnival festival celebration",
-  "russian_example_sentence": "Если бы они пошли на спектакулярный красочный карнавальный фестиваль",
-  "turkish_example_sentence": "Eğer onlar muhteşem renkli karnaval festivali kutlamasına gitmişlerse, çok sevinirlerdi",
-  "turkish_example_sentence_with_blank": "Eğer onlar muhteşem renkli karnaval festivali kutlamasına ______, çok sevinirlerdi"
+  "turkish_example_sentence": "Onlar orman yoluna gitmişlerse, nadir hayvanları gözlemleyebilirlerdi.",
+  "english_example_sentence": "If they had gone to the forest path, they could have observed rare animals.",
+  "russian_example_sentence": "Если бы они пошли по лесной тропе, они смогли бы наблюдать редких животных.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T08:54:46.064127+00:00",
+  "turkish_example_sentence_with_blank": "Onlar orman yoluna ______, nadir hayvanları gözlemleyebilirlerdi."
 }

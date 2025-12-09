@@ -4,17 +4,19 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmemeniz lazım",
+    "verb_full": "düşünmemeniz",
     "root": "düşün",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "niz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You should not think about the controversial political opinions today",
-  "russian_example_sentence": "Вы не должны думать о спорных политических мнениях сегодня",
-  "turkish_example_sentence": "Siz tartışmalı siyasi görüşleri düşünmemeniz lazım",
-  "turkish_example_sentence_with_blank": "Siz tartışmalı siyasi görüşleri ______"
+  "turkish_example_sentence": "Siz bu rahatsız edici konuları düşünmemeniz lazım.",
+  "english_example_sentence": "You don't need to think about these disturbing topics.",
+  "russian_example_sentence": "Вам не нужно думать об этих беспокойных темах.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:57:38.344983+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu rahatsız edici konuları ______ lazım."
 }

@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I were to go to Istanbul tomorrow",
-  "russian_example_sentence": "Если бы я поехал в Стамбул завтра",
-  "turkish_example_sentence": "Ben yarın güzel İstanbul şehrine gitsem çok mutlu olurdum",
-  "turkish_example_sentence_with_blank": "Ben yarın güzel İstanbul şehrine ______ çok mutlu olurdum"
+  "turkish_example_sentence": "Ben yarın İstanbul'a gitsem, eski sarayı ziyaret edebilirim.",
+  "english_example_sentence": "If I were to go to Istanbul tomorrow, I could visit the old palace.",
+  "russian_example_sentence": "Если бы я пошел в Стамбул завтра, я мог бы посетить старый дворец.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T08:52:09.758960+00:00",
+  "turkish_example_sentence_with_blank": "Ben yarın İstanbul'a ______, eski sarayı ziyaret edebilirim."
 }

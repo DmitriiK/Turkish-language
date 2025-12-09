@@ -4,17 +4,19 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmesi lazım",
+    "verb_full": "düşünmesi",
     "root": "düşün",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "sı",
+    "personal_affix": "si",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He needs to think about the important business decision today",
-  "russian_example_sentence": "Он должен думать о важном деловом решении сегодня",
-  "turkish_example_sentence": "O bugün önemli iş kararını düşünmesi lazım",
-  "turkish_example_sentence_with_blank": "O bugün önemli iş kararını ______"
+  "turkish_example_sentence": "O akıllı genç kız önemli kararı düşünmesi lazım.",
+  "english_example_sentence": "That intelligent young girl needs to think about the important decision.",
+  "russian_example_sentence": "Та умная молодая девушка должна думать о важном решении.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:57:38.344983+00:00",
+  "turkish_example_sentence_with_blank": "O akıllı genç kız önemli kararı ______ lazım."
 }

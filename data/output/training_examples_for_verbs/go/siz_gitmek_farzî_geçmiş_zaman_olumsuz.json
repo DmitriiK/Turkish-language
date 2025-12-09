@@ -4,17 +4,19 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmemişsiniz",
+    "verb_full": "gitmemişsanız",
     "root": "git",
-    "tense_affix": "mişse",
+    "tense_affix": "miş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If you had not gone to the challenging difficult hiking trail adventure",
-  "russian_example_sentence": "Если бы вы не пошли на сложный трудный поход приключение",
-  "turkish_example_sentence": "Eğer siz zor dağ tırmanışı macerası yoluna gitmemişsiniz, yorulmayacaktınız",
-  "turkish_example_sentence_with_blank": "Eğer siz zor dağ tırmanışı macerası yoluna ______, yorulmayacaktınız"
+  "turkish_example_sentence": "Siz tiyatroya gitmemişsanız, ünlü oyuncuların performansını göremezdiniz.",
+  "english_example_sentence": "If you had not gone to the theatre, you could not have seen the famous actors' performance.",
+  "russian_example_sentence": "Если бы вы не пошли в театр, вы не смогли бы увидеть представление известных актеров.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T08:54:46.064127+00:00",
+  "turkish_example_sentence_with_blank": "Siz tiyatroya ______, ünlü oyuncuların performansını göremezdiniz."
 }

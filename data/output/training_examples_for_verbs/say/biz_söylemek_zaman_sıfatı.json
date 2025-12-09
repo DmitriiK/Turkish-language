@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "söylediğimizde",
     "root": "söyle",
-    "tense_affix": "diğ",
+    "tense_affix": "dik",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "biz",
-    "personal_affix": "imizde",
+    "personal_affix": "mız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When we say our dreams together, hope fills our hearts",
-  "russian_example_sentence": "Когда мы вместе говорим о наших мечтах, надежда наполняет наши сердца",
-  "turkish_example_sentence": "Biz hayallerimizi söylediğimizde, umut kalbimizi dolduruyor",
-  "turkish_example_sentence_with_blank": "Biz hayallerimizi ______, umut kalbimizi dolduruyor"
+  "turkish_example_sentence": "Biz yeni proje fikirlerini söylediğimizde, müdür hemen onayladı.",
+  "english_example_sentence": "When we said new project ideas, the manager immediately approved.",
+  "russian_example_sentence": "Когда мы сказали новые идеи проекта, менеджер сразу одобрил.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:52:48.523620+00:00",
+  "turkish_example_sentence_with_blank": "Biz yeni proje fikirlerini ______, müdür hemen onayladı."
 }

@@ -4,17 +4,19 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gidemezsin",
+    "verb_full": "gidemesin",
     "root": "git",
-    "tense_affix": "eme",
+    "tense_affix": "ebil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "zsin",
+    "personal_affix": "irsin",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "You cannot go to the expensive fancy restaurant alone",
-  "russian_example_sentence": "Ты не можешь пойти в дорогой модный ресторан один",
-  "turkish_example_sentence": "Sen pahalı şık restorana yalnız gidemezsin",
-  "turkish_example_sentence_with_blank": "Sen pahalı şık restorana yalnız ______"
+  "turkish_example_sentence": "Sen hasta olduğun için hastaneye gidemesin.",
+  "english_example_sentence": "You cannot go to the hospital because you are sick.",
+  "russian_example_sentence": "Ты не можешь пойти в больницу, потому что ты болен.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T08:53:00.662293+00:00",
+  "turkish_example_sentence_with_blank": "Sen hasta olduğun için hastaneye ______."
 }

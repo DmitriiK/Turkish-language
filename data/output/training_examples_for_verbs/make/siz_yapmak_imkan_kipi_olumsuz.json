@@ -4,17 +4,19 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapamayasınız",
+    "verb_full": "yapamayınız",
     "root": "yap",
-    "tense_affix": "ama",
+    "tense_affix": "abil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "yasınız",
+    "personal_affix": "irsiniz",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "You cannot make rapid professional career changes easily",
-  "russian_example_sentence": "Вы не можете делать быстрые профессиональные карьерные изменения легко",
-  "turkish_example_sentence": "Siz hızlı profesyonel kariyer değişikliklerini yapamayasınız",
-  "turkish_example_sentence_with_blank": "Siz hızlı profesyonel kariyer değişikliklerini ______"
+  "turkish_example_sentence": "Siz bu karışık kararı yapamayınız.",
+  "english_example_sentence": "You cannot make this complicated decision.",
+  "russian_example_sentence": "Вы не можете сделать это сложное решение.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T09:06:16.014015+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu karışık kararı ______."
 }

@@ -4,17 +4,19 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmememiz lazım",
+    "verb_full": "düşünmememiz",
     "root": "düşün",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "mız",
+    "personal_affix": "miz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "We should not think about the failed project from last year",
-  "russian_example_sentence": "Мы не должны думать о неудачном проекте прошлого года",
-  "turkish_example_sentence": "Biz geçen yıldaki başarısız projeyi düşünmememiz lazım",
-  "turkish_example_sentence_with_blank": "Biz geçen yıldaki başarısız projeyi ______"
+  "turkish_example_sentence": "Biz bu kötü olayları düşünmememiz gerek.",
+  "english_example_sentence": "We don't need to think about these bad events.",
+  "russian_example_sentence": "Нам не нужно думать об этих плохих событиях.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:57:38.344983+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu kötü olayları ______ gerek."
 }

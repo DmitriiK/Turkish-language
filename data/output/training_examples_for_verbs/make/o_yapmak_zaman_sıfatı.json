@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When he made the colorful painting, the gallery owner was delighted",
-  "russian_example_sentence": "Когда он сделал красочную картину, владелец галереи был в восторге",
-  "turkish_example_sentence": "Yaptığında renkli tabloyu, galeri sahibi sevinçli oldu",
-  "turkish_example_sentence_with_blank": "Yaptığında renkli tabloyu, galeri sahibi sevinçli oldu"
+  "turkish_example_sentence": "O önemli kararı yaptığında, herkes sessiz kaldı.",
+  "english_example_sentence": "When he made the important decision, everyone remained silent.",
+  "russian_example_sentence": "Когда он принял важное решение, все молчали.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:53:27.567009+00:00",
+  "turkish_example_sentence_with_blank": "O önemli kararı ______, herkes sessiz kaldı."
 }

@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If you do not take the important documents, you will regret it",
-  "russian_example_sentence": "Если вы не возьмете важные документы, вы пожалеете",
-  "turkish_example_sentence": "Siz önemli belgeleri almazsanız, pişman olacaksınız",
-  "turkish_example_sentence_with_blank": "Siz önemli belgeleri ______, pişman olacaksınız"
+  "turkish_example_sentence": "Siz önemli kırmızı dosyayı almazsanız, toplantı iptal edilecek.",
+  "english_example_sentence": "If you don't take the important red file, the meeting will be cancelled.",
+  "russian_example_sentence": "Если вы не возьмете важный красный файл, встреча будет отменена.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:05:09.933337+00:00",
+  "turkish_example_sentence_with_blank": "Siz önemli kırmızı dosyayı ______, toplantı iptal edilecek."
 }

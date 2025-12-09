@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I were to make a beautiful wooden table",
-  "russian_example_sentence": "Если бы я сделал красивый деревянный стол",
-  "turkish_example_sentence": "Ben güzel ahşap bir masa yapsam, herkes beğenirdi",
-  "turkish_example_sentence_with_blank": "Ben güzel ahşap bir masa ______, herkes beğenirdi"
+  "turkish_example_sentence": "Ben güzel bir resim yapsam, sergiyi kazanabilirim.",
+  "english_example_sentence": "If I were to make a beautiful painting, I could win the exhibition.",
+  "russian_example_sentence": "Если бы я сделал красивую картину, я мог бы выиграть выставку.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T09:05:38.860822+00:00",
+  "turkish_example_sentence_with_blank": "Ben güzel bir resim ______, sergiyi kazanabilirim."
 }

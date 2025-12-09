@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "Without knowing the secret plan, the old man walked forward",
-  "russian_example_sentence": "Не зная секретный план, старик шел вперед",
-  "turkish_example_sentence": "Gizli planı bilmeyerek, yaşlı adam öne doğru yürüdü",
-  "turkish_example_sentence_with_blank": "Gizli planı ______, yaşlı adam öne doğru yürüdü"
+  "turkish_example_sentence": "Tehlikeli durumu bilmeyerek genç turist tehlikeli bölgeye girdi.",
+  "english_example_sentence": "Not knowing the dangerous situation, the young tourist entered the dangerous area.",
+  "russian_example_sentence": "Не зная об опасной ситуации, молодой турист вошел в опасный район.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:55:15.153718+00:00",
+  "turkish_example_sentence_with_blank": "Tehlikeli durumu ______ genç turist tehlikeli bölgeye girdi."
 }

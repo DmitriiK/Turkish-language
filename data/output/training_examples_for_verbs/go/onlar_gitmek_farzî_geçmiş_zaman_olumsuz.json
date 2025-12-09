@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "gitmemişlerse",
     "root": "git",
-    "tense_affix": "mişse",
+    "tense_affix": "miş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "ler",
+    "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If they had not gone to the popular trendy nightclub party event",
-  "russian_example_sentence": "Если бы они не пошли на популярный модный ночной клуб вечеринку",
-  "turkish_example_sentence": "Eğer onlar popüler trendy gece kulübü partisi etkinliğine gitmemişlerse, erken uyuyacaklardı",
-  "turkish_example_sentence_with_blank": "Eğer onlar popüler trendy gece kulübü partisi etkinliğine ______, erken uyuyacaklardı"
+  "turkish_example_sentence": "Onlar resepsiyon salonuna gitmemişlerse, düğün törenini kaçırmış olurlar.",
+  "english_example_sentence": "If they had not gone to the reception hall, they would have missed the wedding ceremony.",
+  "russian_example_sentence": "Если бы они не пошли в приемный зал, они бы пропустили свадебную церемонию.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T08:54:46.064127+00:00",
+  "turkish_example_sentence_with_blank": "Onlar resepsiyon salonuna ______, düğün törenini kaçırmış olurlar."
 }

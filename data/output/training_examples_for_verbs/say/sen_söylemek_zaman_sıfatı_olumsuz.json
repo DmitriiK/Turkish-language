@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "söylemediğinde",
     "root": "söyle",
-    "tense_affix": "mediğ",
+    "tense_affix": "dik",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "sen",
-    "personal_affix": "inde",
+    "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "When you don't say the truth, problems arise quickly",
-  "russian_example_sentence": "Когда ты не говоришь правду, проблемы возникают быстро",
-  "turkish_example_sentence": "Sen gerçeği söylemediğinde, sorunlar hızlı bir şekilde ortaya çıkıyor",
-  "turkish_example_sentence_with_blank": "Sen gerçeği ______, sorunlar hızlı bir şekilde ortaya çıkıyor"
+  "turkish_example_sentence": "Sen mühim kararları söylemediğinde, toplantı sessiz kaldı.",
+  "english_example_sentence": "When you did not say important decisions, the meeting remained silent.",
+  "russian_example_sentence": "Когда ты не сказал важные решения, встреча осталась молчаливой.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:52:48.523620+00:00",
+  "turkish_example_sentence_with_blank": "Sen mühim kararları ______, toplantı sessiz kaldı."
 }

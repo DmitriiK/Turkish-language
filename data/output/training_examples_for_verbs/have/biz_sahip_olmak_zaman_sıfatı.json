@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sahip olduğumuzda",
     "root": "sahip ol",
-    "tense_affix": "duğumuz",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "biz",
-    "personal_affix": "da",
+    "personal_affix": "uz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When we have free time",
-  "russian_example_sentence": "Когда у нас есть свободное время",
-  "turkish_example_sentence": "Biz boş zamana sahip olduğumuzda",
-  "turkish_example_sentence_with_blank": "Biz boş zamana ______"
+  "turkish_example_sentence": "Biz modern bir ofis sahip olduğumuzda, verimlilik önemli ölçüde arttı.",
+  "english_example_sentence": "When we had a modern office, productivity increased significantly.",
+  "russian_example_sentence": "Когда мы имели современный офис, производительность значительно возросла.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:51:15.231591+00:00",
+  "turkish_example_sentence_with_blank": "Biz modern bir ofis ______, verimlilik önemli ölçüde arttı."
 }

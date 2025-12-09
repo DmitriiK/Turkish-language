@@ -4,7 +4,7 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmezsiniz",
+    "verb_full": "gitmesiniz",
     "root": "git",
     "tense_affix": "er",
     "verb_tense": "geniş_zaman",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You all do not go to the cold snowy mountains in winter",
-  "russian_example_sentence": "Вы все не ходите в холодные снежные горы зимой",
-  "turkish_example_sentence": "Siz kış aylarında soğuk karlı dağlara gitmezsiniz",
-  "turkish_example_sentence_with_blank": "Siz kış aylarında soğuk karlı dağlara ______"
+  "turkish_example_sentence": "Siz genellikle tehlikeli endüstriyel bölgeye gitmesiniz.",
+  "english_example_sentence": "You generally do not go to the dangerous industrial area.",
+  "russian_example_sentence": "Вы обычно не ходите в опасный промышленный район.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T08:51:21.507880+00:00",
+  "turkish_example_sentence_with_blank": "Siz genellikle tehlikeli endüstriyel bölgeye ______."
 }

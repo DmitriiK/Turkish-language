@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yapamassın",
     "root": "yap",
-    "tense_affix": "ama",
+    "tense_affix": "abil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "ssın",
+    "personal_affix": "irsin",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "You cannot make such important business decisions alone",
-  "russian_example_sentence": "Ты не можешь делать такие важные деловые решения один",
-  "turkish_example_sentence": "Sen bu kadar önemli iş kararlarını yapamassın",
-  "turkish_example_sentence_with_blank": "Sen bu kadar önemli iş kararlarını ______"
+  "turkish_example_sentence": "Sen bu karmaşık bilgisayar programını yapamassın.",
+  "english_example_sentence": "You cannot make this complex computer program.",
+  "russian_example_sentence": "Ты не можешь сделать эту сложную компьютерную программу.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T09:06:16.014015+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu karmaşık bilgisayar programını ______."
 }

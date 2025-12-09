@@ -4,17 +4,19 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapman lazım",
+    "verb_full": "yapman",
     "root": "yap",
-    "tense_affix": "lazım",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to make a quick decision about your bright future",
-  "russian_example_sentence": "Тебе нужно делать быстрое решение о твоем светлом будущем",
-  "turkish_example_sentence": "Sen parlak geleceğin hakkında hızlı bir karar yapman lazım",
-  "turkish_example_sentence_with_blank": "Sen parlak geleceğin hakkında hızlı bir karar ______"
+  "turkish_example_sentence": "Sen bu güzel tasarımı sanat sergisine yapman gerek.",
+  "english_example_sentence": "You need to make this beautiful design for the art exhibition.",
+  "russian_example_sentence": "Тебе нужно сделать этот красивый дизайн для художественной выставки.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T09:05:58.879967+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu güzel tasarımı sanat sergisine ______ gerek."
 }

@@ -4,17 +4,19 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmam lazım",
+    "verb_full": "yapmam",
     "root": "yap",
-    "tense_affix": "lazım",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I need to make a delicious chocolate cake tomorrow",
-  "russian_example_sentence": "Мне нужно делать вкусный шоколадный торт завтра",
-  "turkish_example_sentence": "Ben yarın lezzetli çikolatalı kek yapmam lazım",
-  "turkish_example_sentence_with_blank": "Ben yarın lezzetli çikolatalı kek ______"
+  "turkish_example_sentence": "Ben bu önemli proje için hemen hazırlık yapmam lazım.",
+  "english_example_sentence": "I need to make preparations for this important project right away.",
+  "russian_example_sentence": "Мне нужно сделать подготовку для этого важного проекта прямо сейчас.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T09:05:58.879967+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu önemli proje için hemen hazırlık ______ lazım."
 }

@@ -4,7 +4,7 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmeyelim",
+    "verb_full": "düşünmeyeyim",
     "root": "düşün",
     "tense_affix": "e",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "Let me not think about the sad memories today",
-  "russian_example_sentence": "Позвольте мне не думать о грустных воспоминаниях сегодня",
-  "turkish_example_sentence": "Ben bugün üzücü anıları düşünmeyelim",
-  "turkish_example_sentence_with_blank": "Ben bugün üzücü anıları ______"
+  "turkish_example_sentence": "Ben bu üzücü olayı fazla düşünmeyeyim.",
+  "english_example_sentence": "Let me not think too much about this sad event.",
+  "russian_example_sentence": "Позвольте мне не думать слишком много об этом печальном событии.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:58:48.961870+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu üzücü olayı fazla ______."
 }

@@ -4,7 +4,7 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilmelim",
+    "verb_full": "bilmiyalım",
     "root": "bil",
     "tense_affix": "e",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "Let us not know the embarrassing details",
-  "russian_example_sentence": "Позвольте нам не узнавать смущающие детали",
-  "turkish_example_sentence": "Biz bu utanç verici olayları bilmelim",
-  "turkish_example_sentence_with_blank": "Biz bu utanç verici olayları ______"
+  "turkish_example_sentence": "Biz bu rahatsız edici gerçekleri bilmiyalım.",
+  "english_example_sentence": "Let's not know these disturbing facts.",
+  "russian_example_sentence": "Давайте не знать эти беспокоящие факты.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T09:14:00.388781+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu rahatsız edici gerçekleri ______."
 }

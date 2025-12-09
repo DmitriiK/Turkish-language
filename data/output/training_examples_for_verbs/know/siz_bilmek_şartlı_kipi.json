@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "bilirseniz",
     "root": "bil",
-    "tense_affix": "irse",
+    "tense_affix": "ir",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "niz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you know the professional technique, please teach us carefully",
-  "russian_example_sentence": "Если вы знаете профессиональный метод, пожалуйста, учите нас внимательно",
-  "turkish_example_sentence": "Profesyonel tekniği bilirseniz, lütfen bizi dikkatle öğretin",
-  "turkish_example_sentence_with_blank": "Profesyonel tekniği ______, lütfen bizi dikkatle öğretin"
+  "turkish_example_sentence": "Siz bu değerli antika eşyanın fiyatını bilirseniz, satabilirsiniz.",
+  "english_example_sentence": "If you know the price of this valuable antique item, you can sell it.",
+  "russian_example_sentence": "Если вы знаете цену этого ценного антикварного предмета, вы можете его продать.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:54:11.273011+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu değerli antika eşyanın fiyatını ______, satabilirsiniz."
 }

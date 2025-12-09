@@ -11,10 +11,12 @@
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "mama"
   },
-  "english_example_sentence": "She must not make any promises she cannot keep",
-  "russian_example_sentence": "Она не должна делать никаких обещаний, которые не может сдержать",
-  "turkish_example_sentence": "O tutamayacağı hiçbir vaadi yapmamalı",
-  "turkish_example_sentence_with_blank": "O tutamayacağı hiçbir vaadi ______"
+  "turkish_example_sentence": "O gürültülü bir ortam yapmamalı.",
+  "english_example_sentence": "He/She must not make a noisy environment.",
+  "russian_example_sentence": "Он/Она не должен/должна создавать шумную обстановку.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T09:06:30.800391+00:00",
+  "turkish_example_sentence_with_blank": "O gürültülü bir ortam ______."
 }

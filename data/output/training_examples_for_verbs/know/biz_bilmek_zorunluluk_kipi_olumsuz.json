@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "We must not know the confidential business information",
-  "russian_example_sentence": "Мы не должны знать конфиденциальную деловую информацию",
-  "turkish_example_sentence": "Biz gizli iş bilgilerini bilmemelyiz",
-  "turkish_example_sentence_with_blank": "Biz gizli iş bilgilerini ______"
+  "turkish_example_sentence": "Biz bu gizli proje detaylarını bilmemelyiz.",
+  "english_example_sentence": "We must not know these secret project details.",
+  "russian_example_sentence": "Мы не должны знать эти детали секретного проекта.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T09:12:13.032525+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu gizli proje detaylarını ______."
 }

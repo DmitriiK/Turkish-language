@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "gittiğinde",
     "root": "git",
-    "tense_affix": "dığ",
+    "tense_affix": "dik",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "o",
-    "personal_affix": "inde",
+    "personal_affix": "i",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When he went to the modern art gallery this morning",
-  "russian_example_sentence": "Когда он пошел в современную художественную галерею этим утром",
-  "turkish_example_sentence": "O bu sabah modern sanat galerisine gittiğinde, harika yeni sergiler gördü",
-  "turkish_example_sentence_with_blank": "O bu sabah modern sanat galerisine ______, harika yeni sergiler gördü"
+  "turkish_example_sentence": "O kütüphaneye gittiğinde sessiz ortamda çalışmayı sevdi.",
+  "english_example_sentence": "When he went to the library, he enjoyed studying in the quiet environment.",
+  "russian_example_sentence": "Когда он пошел в библиотеку, ему понравилось учиться в тихой обстановке.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:53:09.105493+00:00",
+  "turkish_example_sentence_with_blank": "O kütüphaneye ______ sessiz ortamda çalışmayı sevdi."
 }

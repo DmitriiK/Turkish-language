@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "gitmediğimde",
     "root": "git",
-    "tense_affix": "dığ",
+    "tense_affix": "dik",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "ben",
-    "personal_affix": "imde",
+    "personal_affix": "ım",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "When I did not go to the important business meeting today",
-  "russian_example_sentence": "Когда я не пошел на важное деловое совещание сегодня",
-  "turkish_example_sentence": "Ben bugün önemli iş toplantısına gitmediğimde, müdür çok kızgın oldu",
-  "turkish_example_sentence_with_blank": "Ben bugün önemli iş toplantısına ______, müdür çok kızgın oldu"
+  "turkish_example_sentence": "Ben okula gitmediğimde arkadaşlarım beni aradı.",
+  "english_example_sentence": "When I didn't go to school, my friends called me.",
+  "russian_example_sentence": "Когда я не пошел в школу, мои друзья позвонили мне.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:53:09.105493+00:00",
+  "turkish_example_sentence_with_blank": "Ben okula ______ arkadaşlarım beni aradı."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yapmadığında",
     "root": "yap",
-    "tense_affix": "tığ",
+    "tense_affix": "madığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "o",
     "personal_affix": "ı",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "When she did not make the promised phone call, he felt sad",
-  "russian_example_sentence": "Когда она не сделала обещанный звонок, он чувствовал себя грустно",
-  "turkish_example_sentence": "Yapmadığında söz verilen telefon aramasını, o üzüldü",
-  "turkish_example_sentence_with_blank": "Yapmadığında söz verilen telefon aramasını, o üzüldü"
+  "turkish_example_sentence": "O çalışmayı yapmadığında, sınıfta kaldı.",
+  "english_example_sentence": "When she did not make the work, she failed the class.",
+  "russian_example_sentence": "Когда она не выполнила работу, она не прошла класс.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:53:27.567009+00:00",
+  "turkish_example_sentence_with_blank": "O çalışmayı ______, sınıfta kaldı."
 }

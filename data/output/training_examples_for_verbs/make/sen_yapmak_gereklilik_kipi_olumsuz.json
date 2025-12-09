@@ -4,17 +4,19 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmaman lazım",
+    "verb_full": "yapmaman",
     "root": "yap",
-    "tense_affix": "lazım",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You should not make loud noises during the peaceful night",
-  "russian_example_sentence": "Тебе не нужно делать громкие звуки во время спокойной ночи",
-  "turkish_example_sentence": "Sen sakin gece boyunca gürültülü sesler yapmaman lazım",
-  "turkish_example_sentence_with_blank": "Sen sakin gece boyunca gürültülü sesler ______"
+  "turkish_example_sentence": "Sen bu tehlikeli deney sırasında böyle aptalca hareketleri yapmaman gerek.",
+  "english_example_sentence": "You must not make such foolish movements during this dangerous experiment.",
+  "russian_example_sentence": "Ты не должен делать такие глупые движения во время этого опасного эксперимента.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T09:05:58.879967+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu tehlikeli deney sırasında böyle aptalca hareketleri ______ gerek."
 }

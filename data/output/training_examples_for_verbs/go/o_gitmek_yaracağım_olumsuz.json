@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "gitmeyecek",
     "root": "git",
-    "tense_affix": "ecek",
+    "tense_affix": "eceğ",
     "verb_tense": "yaracağım",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "She will not go to the expensive restaurant",
-  "russian_example_sentence": "Она не пойдет в дорогой ресторан",
-  "turkish_example_sentence": "O pahalı restoranda gitmeyecek",
-  "turkish_example_sentence_with_blank": "O pahalı restoranda ______"
+  "turkish_example_sentence": "O sıcak yaz günlerinde uzak orman kampına gitmeyecek.",
+  "english_example_sentence": "She will not go to the distant forest camp on hot summer days.",
+  "russian_example_sentence": "Она не поедет в отдаленный лесной лагерь в жаркие летние дни.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T08:51:03.687257+00:00",
+  "turkish_example_sentence_with_blank": "O sıcak yaz günlerinde uzak orman kampına ______."
 }

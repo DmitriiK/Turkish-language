@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "Without thinking about the serious consequences, the young man made a hasty decision",
-  "russian_example_sentence": "Не думая о серьёзных последствиях, молодой человек принял поспешное решение",
-  "turkish_example_sentence": "Ciddi sonuçları düşünmeyerek, genç adam acele bir karar verdi",
-  "turkish_example_sentence_with_blank": "Ciddi sonuçları ______, genç adam acele bir karar verdi"
+  "turkish_example_sentence": "Sonuçları düşünmeyerek, hatalı kararı verdi ve işletme büyük zarara uğradı.",
+  "english_example_sentence": "By not thinking about the consequences, he made a wrong decision and the business suffered great loss.",
+  "russian_example_sentence": "Не думая о последствиях, он принял неправильное решение, и бизнес понес большие убытки.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:00:52.109551+00:00",
+  "turkish_example_sentence_with_blank": "Sonuçları ______, hatalı kararı verdi ve işletme büyük zarara uğradı."
 }

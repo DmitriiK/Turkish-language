@@ -4,17 +4,19 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmaları lazım",
+    "verb_full": "yapmaları",
     "root": "yap",
-    "tense_affix": "lazım",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ları",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They need to make important renovations to their old family house",
-  "russian_example_sentence": "Им нужно делать важные ремонты в их старом семейном доме",
-  "turkish_example_sentence": "Onlar eski aile evlerine önemli tadilat yapmaları lazım",
-  "turkish_example_sentence_with_blank": "Onlar eski aile evlerine önemli tadilat ______"
+  "turkish_example_sentence": "Onlar bu büyük etkinlik için kapsamlı bir planlama yapmaları lazım.",
+  "english_example_sentence": "They need to make comprehensive planning for this major event.",
+  "russian_example_sentence": "Им нужно сделать комплексное планирование для этого крупного события.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T09:05:58.879967+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu büyük etkinlik için kapsamlı bir planlama ______ lazım."
 }

@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If we had not taken the fresh bread from the bakery",
-  "russian_example_sentence": "Если бы мы не взяли свежий хлеб из пекарни",
-  "turkish_example_sentence": "Fırından taze ekmeği almamışsak, kahvaltı yapamayacaktık",
-  "turkish_example_sentence_with_blank": "Fırından taze ekmeği ______, kahvaltı yapamayacaktık"
+  "turkish_example_sentence": "Biz otelden eski harita almamışsak, şehirde kaybolup dolaşırdık.",
+  "english_example_sentence": "If we had not taken the old map from the hotel, we would have gotten lost and wandered in the city.",
+  "russian_example_sentence": "Если бы мы не взяли старую карту из отеля, мы бы заблудились и бродили по городу.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:06:10.571933+00:00",
+  "turkish_example_sentence_with_blank": "Biz otelden eski harita ______, şehirde kaybolup dolaşırdık."
 }

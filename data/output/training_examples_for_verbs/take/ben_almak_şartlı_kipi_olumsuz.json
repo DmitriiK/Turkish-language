@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If I do not take the medicine, I will feel worse",
-  "russian_example_sentence": "Если я не возьму лекарство, я буду чувствовать себя хуже",
-  "turkish_example_sentence": "Ben ilaçları almazsam, daha kötü hissedecek miyim",
-  "turkish_example_sentence_with_blank": "Ben ilaçları ______, daha kötü hissedecek miyim"
+  "turkish_example_sentence": "Ben sıcak kahveyi almazsam, sabah uyanamam.",
+  "english_example_sentence": "If I don't take hot coffee, I cannot wake up in the morning.",
+  "russian_example_sentence": "Если я не возьму горячий кофе, я не смогу проснуться утром.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:05:09.933337+00:00",
+  "turkish_example_sentence_with_blank": "Ben sıcak kahveyi ______, sabah uyanamam."
 }

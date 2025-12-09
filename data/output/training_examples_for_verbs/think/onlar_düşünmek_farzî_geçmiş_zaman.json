@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "düşünmüşlerse",
     "root": "düşün",
-    "tense_affix": "müşse",
+    "tense_affix": "müş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they had thought about the historical events thoroughly",
-  "russian_example_sentence": "Если бы они тщательно подумали об исторических событиях",
-  "turkish_example_sentence": "Onlar tarihi olaylar hakkında tamamen düşünmüşlerse, ders alırlardı",
-  "turkish_example_sentence_with_blank": "Onlar tarihi olaylar hakkında tamamen ______, ders alırlardı"
+  "turkish_example_sentence": "Onlar bu yeni ticari fırsatı düşünmüşlerse, kârlı bir işletme kurabilirlerdi.",
+  "english_example_sentence": "If they had thought about this new business opportunity, they could have established a profitable business.",
+  "russian_example_sentence": "Если бы они подумали об этой новой деловой возможности, они могли бы создать прибыльный бизнес.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:00:45.542184+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu yeni ticari fırsatı ______, kârlı bir işletme kurabilirlerdi."
 }

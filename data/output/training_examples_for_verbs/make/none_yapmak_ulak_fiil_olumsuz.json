@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "Without making any mistakes, the careful student succeeded",
-  "russian_example_sentence": "Не делая никаких ошибок, внимательный студент преуспел",
-  "turkish_example_sentence": "Hiçbir hata yapmayıp, dikkatli öğrenci sınavda başarılı oldu",
-  "turkish_example_sentence_with_blank": "Hiçbir hata ______, dikkatli öğrenci sınavda başarılı oldu"
+  "turkish_example_sentence": "Ödev yapmayıp okula gitti.",
+  "english_example_sentence": "Without making homework, he went to school.",
+  "russian_example_sentence": "Не сделав домашнее задание, он пошёл в школу.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T09:08:09.135817+00:00",
+  "turkish_example_sentence_with_blank": "Ödev ______ okula gitti."
 }

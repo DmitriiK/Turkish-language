@@ -11,10 +11,12 @@
     "personal_pronoun": "sen",
     "personal_affix": "sun",
     "polarity": "negative",
-    "negative_affix": "mı"
+    "negative_affix": "m"
   },
-  "english_example_sentence": "You are not making enough effort for your summer job",
-  "russian_example_sentence": "Ты не прилагаешь достаточно усилий для своей летней работы",
-  "turkish_example_sentence": "Sen yaz işi için yeterli çaba yapmıyorsun",
-  "turkish_example_sentence_with_blank": "Sen yaz işi için yeterli çaba ______"
+  "turkish_example_sentence": "Sen önemli iş raporunu yapmıyorsun.",
+  "english_example_sentence": "You are not making the important business report.",
+  "russian_example_sentence": "Ты не делаешь важный деловой отчет.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T09:03:23.197899+00:00",
+  "turkish_example_sentence_with_blank": "Sen önemli iş raporunu ______."
 }

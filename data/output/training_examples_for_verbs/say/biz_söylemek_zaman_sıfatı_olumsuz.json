@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "söylemediğimizde",
     "root": "söyle",
-    "tense_affix": "mediğ",
+    "tense_affix": "dik",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "biz",
-    "personal_affix": "imizde",
+    "personal_affix": "mız",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "When we don't say our feelings, misunderstandings develop slowly",
-  "russian_example_sentence": "Когда мы не говорим о наших чувствах, недопонимание развивается медленно",
-  "turkish_example_sentence": "Biz duygularımızı söylemediğimizde, yanlış anlamalar yavaş yavaş gelişiyor",
-  "turkish_example_sentence_with_blank": "Biz duygularımızı ______, yanlış anlamalar yavaş yavaş gelişiyor"
+  "turkish_example_sentence": "Biz gizli planları söylemediğimizde, rakipler şaşırdı.",
+  "english_example_sentence": "When we did not say secret plans, competitors were surprised.",
+  "russian_example_sentence": "Когда мы не сказали секретные планы, конкуренты были удивлены.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:52:48.523620+00:00",
+  "turkish_example_sentence_with_blank": "Biz gizli planları ______, rakipler şaşırdı."
 }

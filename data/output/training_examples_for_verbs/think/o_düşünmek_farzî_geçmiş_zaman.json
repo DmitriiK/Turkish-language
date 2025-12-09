@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "düşünmüşse",
     "root": "düşün",
-    "tense_affix": "müşse",
+    "tense_affix": "müş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If she had thought about the creative solution thoroughly",
-  "russian_example_sentence": "Если бы она тщательно подумала о творческом решении",
-  "turkish_example_sentence": "O yaratıcı çözüm hakkında tamamen düşünmüşse, başarı elde ederdi",
-  "turkish_example_sentence_with_blank": "O yaratıcı çözüm hakkında tamamen ______, başarı elde ederdi"
+  "turkish_example_sentence": "O uzun yolculuk hakkında düşünmüşse, hazırlıklarını yapabilirdi.",
+  "english_example_sentence": "If he had thought about the long journey, he could have made his preparations.",
+  "russian_example_sentence": "Если бы он подумал о долгом путешествии, он мог бы сделать свои приготовления.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:00:45.542184+00:00",
+  "turkish_example_sentence_with_blank": "O uzun yolculuk hakkında ______, hazırlıklarını yapabilirdi."
 }

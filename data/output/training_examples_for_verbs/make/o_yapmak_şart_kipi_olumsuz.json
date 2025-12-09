@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If she were not to make any effort tomorrow",
-  "russian_example_sentence": "Если бы она не прилагала никаких усилий завтра",
-  "turkish_example_sentence": "O yarın ciddi bir çaba yapmasa, proje başarısız kalır",
-  "turkish_example_sentence_with_blank": "O yarın ciddi bir çaba ______, proje başarısız kalır"
+  "turkish_example_sentence": "O bu ciddi hatayı yapmasa, şirket büyük kayıp yaşamayacak.",
+  "english_example_sentence": "If she were not to make this serious mistake, the company would not suffer a great loss.",
+  "russian_example_sentence": "Если бы она не допустила эту серьезную ошибку, компания не понесла бы большие убытки.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T09:05:38.860822+00:00",
+  "turkish_example_sentence_with_blank": "O bu ciddi hatayı ______, şirket büyük kayıp yaşamayacak."
 }

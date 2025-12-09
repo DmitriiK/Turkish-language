@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I was not going to make any mistakes in that important project",
-  "russian_example_sentence": "Я не собирался делать ошибки в том важном проекте",
-  "turkish_example_sentence": "Ben o önemli projede hiç hata yapmayacaktım",
-  "turkish_example_sentence_with_blank": "Ben o önemli projede hiç hata ______"
+  "turkish_example_sentence": "Ben hiçbir hata yapmayacaktım ama dikkat etmedim.",
+  "english_example_sentence": "I was not going to make any mistake but I was not careful.",
+  "russian_example_sentence": "Я не собирался делать никакую ошибку, но я не был внимателен.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T09:06:51.581197+00:00",
+  "turkish_example_sentence_with_blank": "Ben hiçbir hata ______ ama dikkat etmedim."
 }

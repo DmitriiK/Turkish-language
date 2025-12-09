@@ -4,17 +4,19 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilmen lazım",
+    "verb_full": "bilmen",
     "root": "bil",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to know the new computer program",
-  "russian_example_sentence": "Тебе нужно знать новую компьютерную программу",
-  "turkish_example_sentence": "Sen yeni bilgisayar programını bilmen lazım",
-  "turkish_example_sentence_with_blank": "Sen yeni bilgisayar programını ______"
+  "turkish_example_sentence": "Sen bu önemli İngilizce kelimeleri bilmen gerek.",
+  "english_example_sentence": "You need to know these important English words.",
+  "russian_example_sentence": "Тебе нужно знать эти важные английские слова.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T09:11:35.794699+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu önemli İngilizce kelimeleri ______ gerek."
 }

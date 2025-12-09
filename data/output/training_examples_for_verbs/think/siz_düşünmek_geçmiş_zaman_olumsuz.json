@@ -4,17 +4,19 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmediğiniz",
+    "verb_full": "düşünmediiniz",
     "root": "düşün",
     "tense_affix": "dü",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "nüz",
+    "personal_affix": "niz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You did not think about the delicious homemade meal",
-  "russian_example_sentence": "Вы не думали о вкусном домашнем блюде",
-  "turkish_example_sentence": "Siz lezzetli ev yemeğini düşünmediğiniz",
-  "turkish_example_sentence_with_blank": "Siz lezzetli ev yemeğini ______"
+  "turkish_example_sentence": "Siz denizde mavi balıkları düşünmediiniz.",
+  "english_example_sentence": "You did not think about the blue fish in the sea.",
+  "russian_example_sentence": "Вы не думали о синих рыбах в море.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:56:12.282519+00:00",
+  "turkish_example_sentence_with_blank": "Siz denizde mavi balıkları ______."
 }

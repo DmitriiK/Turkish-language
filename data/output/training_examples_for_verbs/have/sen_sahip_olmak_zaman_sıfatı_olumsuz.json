@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sahip olmadığında",
     "root": "sahip ol",
-    "tense_affix": "madığın",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "sen",
-    "personal_affix": "da",
+    "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "When you do not have time",
-  "russian_example_sentence": "Когда у тебя нет времени",
-  "turkish_example_sentence": "Sen zamana sahip olmadığında",
-  "turkish_example_sentence_with_blank": "Sen zamana ______"
+  "turkish_example_sentence": "Sen iş sahip olmadığında, serbest zaman aktiviteleriyle meşgul oldun.",
+  "english_example_sentence": "When you didn't have a job, you were busy with free time activities.",
+  "russian_example_sentence": "Когда ты не имел работу, ты был занят деятельностью в свободное время.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:51:15.231591+00:00",
+  "turkish_example_sentence_with_blank": "Sen iş ______, serbest zaman aktiviteleriyle meşgul oldun."
 }

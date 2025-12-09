@@ -4,17 +4,19 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilemezsiniz",
+    "verb_full": "bilememezsiniz",
     "root": "bil",
     "tense_affix": "eme",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "zsiniz",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "You cannot know the private family secrets",
-  "russian_example_sentence": "Вы не можете знать приватные семейные секреты",
-  "turkish_example_sentence": "Siz özel aile sırlarını bilemezsiniz",
-  "turkish_example_sentence_with_blank": "Siz özel aile sırlarını ______"
+  "turkish_example_sentence": "Siz bu yerel kültürün tüm geleneklerini bilememezsiniz.",
+  "english_example_sentence": "You cannot know all the traditions of this local culture.",
+  "russian_example_sentence": "Вы не можете знать все традиции этой местной культуры.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T09:11:51.214607+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu yerel kültürün tüm geleneklerini ______."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yapacaksınız",
     "root": "yap",
-    "tense_affix": "acak",
+    "tense_affix": "acağ",
     "verb_tense": "yaracağım",
     "personal_pronoun": "siz",
     "personal_affix": "sınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You will make excellent progress in your professional career",
-  "russian_example_sentence": "Вы добьетесь отличного прогресса в вашей профессиональной карьере",
-  "turkish_example_sentence": "Siz profesyonel kariyer hayatınızda harika ilerleme yapacaksınız",
-  "turkish_example_sentence_with_blank": "Siz profesyonel kariyer hayatınızda harika ilerleme ______"
+  "turkish_example_sentence": "Siz bu yıl harika bir düğün yapacaksınız.",
+  "english_example_sentence": "You will make a wonderful wedding this year.",
+  "russian_example_sentence": "Вы будете делать чудесную свадьбу в этом году.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T09:04:29.018408+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu yıl harika bir düğün ______."
 }

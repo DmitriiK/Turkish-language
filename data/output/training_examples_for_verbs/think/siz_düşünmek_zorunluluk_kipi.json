@@ -4,7 +4,7 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmelisiniz",
+    "verb_full": "düşünmelsiniz",
     "root": "düşün",
     "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You must think about the creative solutions carefully",
-  "russian_example_sentence": "Вы должны внимательно думать о творческих решениях",
-  "turkish_example_sentence": "Siz yaratıcı çözümleri dikkatlice düşünmelisiniz",
-  "turkish_example_sentence_with_blank": "Siz yaratıcı çözümleri dikkatlice ______"
+  "turkish_example_sentence": "Siz bu önemli toplantıda tüm detayları özenle düşünmelsiniz.",
+  "english_example_sentence": "You must think about all details carefully in this important meeting.",
+  "russian_example_sentence": "Вы должны внимательно думать о всех деталях на этом важном совещании.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:58:13.868037+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu önemli toplantıda tüm detayları özenle ______."
 }

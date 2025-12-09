@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yapmadığımda",
     "root": "yap",
-    "tense_affix": "tığ",
+    "tense_affix": "madığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "ben",
     "personal_affix": "ım",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "When I did not make the important decision, problems increased",
-  "russian_example_sentence": "Когда я не сделал важное решение, проблемы увеличились",
-  "turkish_example_sentence": "Yapmadığımda önemli kararı, sorunlar arttı",
-  "turkish_example_sentence_with_blank": "Yapmadığımda önemli kararı, sorunlar arttı"
+  "turkish_example_sentence": "Ben ödevimi yapmadığımda, öğretmen beni uyardı.",
+  "english_example_sentence": "When I did not make my homework, the teacher warned me.",
+  "russian_example_sentence": "Когда я не сделал домашнее задание, учитель меня предупредил.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:53:27.567009+00:00",
+  "turkish_example_sentence_with_blank": "Ben ödevimi ______, öğretmen beni uyardı."
 }

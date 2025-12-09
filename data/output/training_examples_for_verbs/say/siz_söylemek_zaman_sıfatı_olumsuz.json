@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "söylemediğinizde",
     "root": "söyle",
-    "tense_affix": "mediğ",
+    "tense_affix": "dik",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "siz",
-    "personal_affix": "inizde",
+    "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "When you don't say your concerns, problems become bigger",
-  "russian_example_sentence": "Когда вы не говорите о своих проблемах, проблемы становятся больше",
-  "turkish_example_sentence": "Siz endişelerinizi söylemediğinizde, sorunlar daha da büyüyor",
-  "turkish_example_sentence_with_blank": "Siz endişelerinizi ______, sorunlar daha da büyüyor"
+  "turkish_example_sentence": "Siz olumsuz görüşlerinizi söylemediğinizde, toplantı verimli geçti.",
+  "english_example_sentence": "When you did not say your negative opinions, the meeting went productively.",
+  "russian_example_sentence": "Когда вы не сказали свои отрицательные мнения, встреча прошла продуктивно.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:52:48.523620+00:00",
+  "turkish_example_sentence_with_blank": "Siz olumsuz görüşlerinizi ______, toplantı verimli geçti."
 }

@@ -4,17 +4,19 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmaması lazım",
+    "verb_full": "yapmaması",
     "root": "yap",
-    "tense_affix": "lazım",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
     "personal_affix": "sı",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "She should not make careless comments about sensitive topics",
-  "russian_example_sentence": "Ей не нужно делать небрежные комментарии о чувствительных темах",
-  "turkish_example_sentence": "O hassas konular hakkında dikkatsiz yorumlar yapmaması lazım",
-  "turkish_example_sentence_with_blank": "O hassas konular hakkında dikkatsiz yorumlar ______"
+  "turkish_example_sentence": "O çalışkan öğrenci sınav sırasında kopya yapmaması gerek.",
+  "english_example_sentence": "That diligent student must not make cheating during the exam.",
+  "russian_example_sentence": "Этот прилежный студент не должен делать списывание во время экзамена.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T09:05:58.879967+00:00",
+  "turkish_example_sentence_with_blank": "O çalışkan öğrenci sınav sırasında kopya ______ gerek."
 }

@@ -4,7 +4,7 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilmeyeceğiz",
+    "verb_full": "bilmeyecegiz",
     "root": "bil",
     "tense_affix": "ecek",
     "verb_tense": "gelecek_zaman",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "We will not know the mysterious forest's secrets",
-  "russian_example_sentence": "Мы не будем знать секреты таинственного леса",
-  "turkish_example_sentence": "Biz gizemli ormanın sırlarını bilmeyeceğiz",
-  "turkish_example_sentence_with_blank": "Biz gizemli ormanın sırlarını ______"
+  "turkish_example_sentence": "Biz o uzak galaksinin gizemli sırlarını bilmeyecegiz.",
+  "english_example_sentence": "We will not know the mysterious secrets of that distant galaxy.",
+  "russian_example_sentence": "Мы не будем знать таинственные секреты той далекой галактики.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T09:10:33.581548+00:00",
+  "turkish_example_sentence_with_blank": "Biz o uzak galaksinin gizemli sırlarını ______."
 }

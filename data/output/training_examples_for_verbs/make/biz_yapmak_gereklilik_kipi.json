@@ -4,17 +4,19 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmamız lazım",
+    "verb_full": "yapmamız",
     "root": "yap",
-    "tense_affix": "lazım",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "mız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We need to make serious preparations for the challenging winter season",
-  "russian_example_sentence": "Нам нужно делать серьезные приготовления к сложному зимнему сезону",
-  "turkish_example_sentence": "Biz zorlayıcı kış mevsimi için ciddi hazırlıklar yapmamız lazım",
-  "turkish_example_sentence_with_blank": "Biz zorlayıcı kış mevsimi için ciddi hazırlıklar ______"
+  "turkish_example_sentence": "Biz bu yıl için yeni pazarlama stratejisini dikkatli bir şekilde yapmamız lazım.",
+  "english_example_sentence": "We need to make a new marketing strategy for this year carefully.",
+  "russian_example_sentence": "Нам нужно сделать новую маркетинговую стратегию на этот год внимательно.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T09:05:58.879967+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu yıl için yeni pazarlama stratejisini dikkatli bir şekilde ______ lazım."
 }

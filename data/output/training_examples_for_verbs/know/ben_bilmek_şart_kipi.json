@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I knew the secret address, I would visit the old mansion",
-  "russian_example_sentence": "Если бы я знал секретный адрес, я бы посетил старый особняк",
-  "turkish_example_sentence": "Ben gizli adresi bilsem, eski konağı ziyaret ederdim",
-  "turkish_example_sentence_with_blank": "Ben gizli adresi ______, eski konağı ziyaret ederdim"
+  "turkish_example_sentence": "Ben Türkçeyi iyi bilsem, İstanbul'da yaşardım.",
+  "english_example_sentence": "If I knew Turkish well, I would live in Istanbul.",
+  "russian_example_sentence": "Если бы я хорошо знал турецкий язык, я бы жил в Стамбуле.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:53:51.775169+00:00",
+  "turkish_example_sentence_with_blank": "Ben Türkçeyi iyi ______, İstanbul'da yaşardım."
 }

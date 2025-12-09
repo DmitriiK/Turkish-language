@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sahip olduğunda",
     "root": "sahip ol",
-    "tense_affix": "duğun",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "sen",
-    "personal_affix": "da",
+    "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When you have a new book",
-  "russian_example_sentence": "Когда у тебя есть новая книга",
-  "turkish_example_sentence": "Sen yeni bir kitaba sahip olduğunda",
-  "turkish_example_sentence_with_blank": "Sen yeni bir kitaba ______"
+  "turkish_example_sentence": "Sen güzel bir bahçe sahip olduğunda, orada çiçek yetiştirdin.",
+  "english_example_sentence": "When you had a beautiful garden, you grew flowers there.",
+  "russian_example_sentence": "Когда ты имел красивый сад, ты выращивал там цветы.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:51:15.231591+00:00",
+  "turkish_example_sentence_with_blank": "Sen güzel bir bahçe ______, orada çiçek yetiştirdin."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "gitmişsen",
     "root": "git",
-    "tense_affix": "mişse",
+    "tense_affix": "miş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you had gone to the ancient historical museum last week",
-  "russian_example_sentence": "Если бы ты на прошлой неделе пошел в древний исторический музей",
-  "turkish_example_sentence": "Eğer sen geçen hafta eski tarihi müzeye gitmişsen, çok şey öğrenirdin",
-  "turkish_example_sentence_with_blank": "Eğer sen geçen hafta eski tarihi müzeye ______, çok şey öğrenirdin"
+  "turkish_example_sentence": "Sen erken sabah plajına gitmişsen, güzel deniz dalgalarını görebilirdin.",
+  "english_example_sentence": "If you had gone to the beach early in the morning, you could have seen the beautiful sea waves.",
+  "russian_example_sentence": "Если бы ты пошел на пляж рано утром, ты смог бы увидеть красивые морские волны.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T08:54:46.064127+00:00",
+  "turkish_example_sentence_with_blank": "Sen erken sabah plajına ______, güzel deniz dalgalarını görebilirdin."
 }

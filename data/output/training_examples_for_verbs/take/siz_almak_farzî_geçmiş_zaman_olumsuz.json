@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If you had not taken the warm coat yesterday",
-  "russian_example_sentence": "Если бы вы не взяли теплое пальто вчера",
-  "turkish_example_sentence": "Dün sıcak paltoyu almamışsanız, soğukta titremişsiniz",
-  "turkish_example_sentence_with_blank": "Dün sıcak paltoyu ______, soğukta titremişsiniz"
+  "turkish_example_sentence": "Siz okuldan gerekli belgeler almamışsanız, üniversiteye başvuru yapamayacaktınız.",
+  "english_example_sentence": "If you had not taken the necessary documents from the school, you would not have been able to apply to the university.",
+  "russian_example_sentence": "Если бы вы не взяли необходимые документы из школы, вы не смогли бы подать заявку в университет.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:06:10.571933+00:00",
+  "turkish_example_sentence_with_blank": "Siz okuldan gerekli belgeler ______, üniversiteye başvuru yapamayacaktınız."
 }

@@ -4,17 +4,19 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmemiz lazım",
+    "verb_full": "düşünmemiz",
     "root": "düşün",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "mız",
+    "personal_affix": "miz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We need to think about the environmental consequences of our actions",
-  "russian_example_sentence": "Мы должны думать об экологических последствиях наших действий",
-  "turkish_example_sentence": "Biz çevre dostu çözümleri dikkatle düşünmemiz lazım",
-  "turkish_example_sentence_with_blank": "Biz çevre dostu çözümleri dikkatle ______"
+  "turkish_example_sentence": "Biz çevre sorunları hakkında ciddi düşünmemiz lazım.",
+  "english_example_sentence": "We need to think seriously about environmental problems.",
+  "russian_example_sentence": "Нам нужно серьезно думать об экологических проблемах.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T11:57:38.344983+00:00",
+  "turkish_example_sentence_with_blank": "Biz çevre sorunları hakkında ciddi ______ lazım."
 }

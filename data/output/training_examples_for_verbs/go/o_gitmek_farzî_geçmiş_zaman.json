@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "gitmişse",
     "root": "git",
-    "tense_affix": "mişse",
+    "tense_affix": "miş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If he had gone to the quiet peaceful village in the mountains",
-  "russian_example_sentence": "Если бы он пошел в тихую спокойную деревню в горах",
-  "turkish_example_sentence": "Eğer o sakin huzurlu dağ köyüne gitmişse, orada kalabilirdi",
-  "turkish_example_sentence_with_blank": "Eğer o sakin huzurlu dağ köyüne ______, orada kalabilirdi"
+  "turkish_example_sentence": "O çiftliğe gitmişse, taze sebzeleri satın alabilirdi.",
+  "english_example_sentence": "If he had gone to the farm, he could have bought fresh vegetables.",
+  "russian_example_sentence": "Если бы он пошел на ферму, он смог бы купить свежие овощи.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T08:54:46.064127+00:00",
+  "turkish_example_sentence_with_blank": "O çiftliğe ______, taze sebzeleri satın alabilirdi."
 }
