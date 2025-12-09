@@ -4,7 +4,7 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "göreler",
+    "verb_full": "görseler",
     "root": "gör",
     "tense_affix": "e",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "May they see the shining star",
-  "russian_example_sentence": "Пусть они увидят сияющую звезду",
-  "turkish_example_sentence": "Onlar parlayan yıldızı göreler",
-  "turkish_example_sentence_with_blank": "Onlar parlayan yıldızı ______"
+  "turkish_example_sentence": "Onlar bu yıl Avrupa'nın tarihi şehirlerini görseler.",
+  "english_example_sentence": "May they see the historical cities of Europe this year.",
+  "russian_example_sentence": "Пусть они видят исторические города Европы в этом году.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:47:55.802675+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu yıl Avrupa'nın tarihi şehirlerini ______."
 }

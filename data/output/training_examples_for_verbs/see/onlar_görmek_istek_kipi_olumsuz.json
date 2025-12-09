@@ -4,7 +4,7 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görmeyeler",
+    "verb_full": "görmeseeler",
     "root": "gör",
     "tense_affix": "e",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "May they not see the broken lamp",
-  "russian_example_sentence": "Пусть они не увидят разбитую лампу",
-  "turkish_example_sentence": "Onlar kırık lambayı görmeyeler",
-  "turkish_example_sentence_with_blank": "Onlar kırık lambayı ______"
+  "turkish_example_sentence": "Onlar bu acı haber hiç görmeseeler.",
+  "english_example_sentence": "May they never see this bitter news.",
+  "russian_example_sentence": "Пусть они никогда не видят эту горькую новость.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:47:55.802675+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu acı haber hiç ______."
 }

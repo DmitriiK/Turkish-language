@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "görmezsiniz",
     "root": "gör",
-    "tense_affix": "ür",
+    "tense_affix": "mez",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "siniz",
     "polarity": "negative",
-    "negative_affix": "mez"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "You don't see the obvious solution",
-  "russian_example_sentence": "Вы не видите очевидное решение",
-  "turkish_example_sentence": "Siz açık çözümü görmezsiniz",
-  "turkish_example_sentence_with_blank": "Siz açık çözümü ______"
+  "turkish_example_sentence": "Siz sisli havada uzak beyaz tepeleri görmezsiniz",
+  "english_example_sentence": "You don't see the distant white hills in foggy weather",
+  "russian_example_sentence": "Вы не видите далекие белые холмы в туманную погоду",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:47:39.180123+00:00",
+  "turkish_example_sentence_with_blank": "Siz sisli havada uzak beyaz tepeleri ______"
 }

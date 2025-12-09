@@ -4,7 +4,7 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görmemeiler",
+    "verb_full": "görmemeliler",
     "root": "gör",
     "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "They must not see the disturbing horror film",
-  "russian_example_sentence": "Они не должны смотреть тревожный фильм ужасов",
-  "turkish_example_sentence": "Onlar rahatsız edici korku filmini görmemeiler",
-  "turkish_example_sentence_with_blank": "Onlar rahatsız edici korku filmini ______"
+  "turkish_example_sentence": "Onlar bu tehlikeli inşaat alanını görmemeliler güvenlik nedeniyle.",
+  "english_example_sentence": "They must not see this dangerous construction site for safety reasons.",
+  "russian_example_sentence": "Они не должны смотреть эту опасную строительную площадку по соображениям безопасности.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:45:43.204960+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu tehlikeli inşaat alanını ______ güvenlik nedeniyle."
 }

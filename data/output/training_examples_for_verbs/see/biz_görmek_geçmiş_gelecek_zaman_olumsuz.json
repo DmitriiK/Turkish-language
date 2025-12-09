@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "görmeyecektik",
     "root": "gör",
-    "tense_affix": "ecek",
+    "tense_affix": "ecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "tik",
+    "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "We weren't going to see the sunset.",
-  "russian_example_sentence": "Мы не собирались видеть закат.",
-  "turkish_example_sentence": "Biz bu akşam o romantik günbatımını görmeyecektik.",
-  "turkish_example_sentence_with_blank": "Biz bu akşam o romantik günbatımını ______."
+  "turkish_example_sentence": "Biz o kış soğuk dağlarda beyaz kar manzarasını görmeyecektik.",
+  "english_example_sentence": "We were not going to see the white snow landscape in the cold mountains that winter.",
+  "russian_example_sentence": "Мы не собирались видеть белый снежный пейзаж в холодных горах той зимой.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:36:01.630236+00:00",
+  "turkish_example_sentence_with_blank": "Biz o kış soğuk dağlarda beyaz kar manzarasını ______."
 }

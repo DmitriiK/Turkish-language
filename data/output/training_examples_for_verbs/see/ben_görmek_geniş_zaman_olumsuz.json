@@ -4,17 +4,19 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görmem",
+    "verb_full": "görmezim",
     "root": "gör",
-    "tense_affix": "ür",
+    "tense_affix": "mez",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "im",
     "polarity": "negative",
-    "negative_affix": "mez"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "I don't see the tiny insects on the leaf",
-  "russian_example_sentence": "Я не вижу крошечных насекомых на листе",
-  "turkish_example_sentence": "Ben yaprağın üzerindeki minik böcekleri görmem",
-  "turkish_example_sentence_with_blank": "Ben yaprağın üzerindeki minik böcekleri ______"
+  "turkish_example_sentence": "Ben gece karanlık sokakta hiçbir şey görmezim",
+  "english_example_sentence": "I don't see anything on the dark street at night",
+  "russian_example_sentence": "Я не вижу ничего на темной улице ночью",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:47:39.180123+00:00",
+  "turkish_example_sentence_with_blank": "Ben gece karanlık sokakta hiçbir şey ______"
 }

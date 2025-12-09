@@ -4,17 +4,19 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görmemiz lazım",
+    "verb_full": "görmemiz",
     "root": "gör",
-    "tense_affix": "lazım",
+    "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "mız",
+    "personal_affix": "miz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We need to see the impressive mountain landscape",
-  "russian_example_sentence": "Нам нужно увидеть впечатляющий горный пейзаж",
-  "turkish_example_sentence": "Biz etkileyici dağ manzarasını görmemiz lazım",
-  "turkish_example_sentence_with_blank": "Biz etkileyici dağ manzarasını ______"
+  "turkish_example_sentence": "Biz muhteşem dağ manzarasını görmemiz lazım.",
+  "english_example_sentence": "We need to see the magnificent mountain view.",
+  "russian_example_sentence": "Нам нужно посмотреть на великолепный горный пейзаж.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:44:59.426722+00:00",
+  "turkish_example_sentence_with_blank": "Biz muhteşem dağ manzarasını ______ lazım."
 }

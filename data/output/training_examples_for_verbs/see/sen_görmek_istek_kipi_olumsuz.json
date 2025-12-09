@@ -4,7 +4,7 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görmeyesin",
+    "verb_full": "görmesin",
     "root": "gör",
     "tense_affix": "e",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "May you not see the cloudy sky",
-  "russian_example_sentence": "Пусть ты не увидишь облачное небо",
-  "turkish_example_sentence": "Sen bulutlu gökyüzünü görmeyesin",
-  "turkish_example_sentence_with_blank": "Sen bulutlu gökyüzünü ______"
+  "turkish_example_sentence": "Sen bu üzücü acı gerçeği görmesin diye seni koruyorum.",
+  "english_example_sentence": "May you not see this sad bitter truth as I protect you.",
+  "russian_example_sentence": "Пусть ты не видишь эту грустную горькую правду, так как я защищаю тебя.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:47:55.802675+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu üzücü acı gerçeği ______ diye seni koruyorum."
 }

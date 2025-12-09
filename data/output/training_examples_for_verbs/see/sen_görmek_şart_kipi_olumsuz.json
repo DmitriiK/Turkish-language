@@ -4,17 +4,19 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görmesen",
+    "verb_full": "görmezsen",
     "root": "gör",
     "tense_affix": "se",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "mez"
   },
-  "english_example_sentence": "If you don't see the small park",
-  "russian_example_sentence": "Если ты не увидишь маленький парк",
-  "turkish_example_sentence": "Sen küçük parkı görmesen",
-  "turkish_example_sentence_with_blank": "Sen küçük parkı ______"
+  "turkish_example_sentence": "Sen yeni sanat sergisini görmezsen pişman olursun.",
+  "english_example_sentence": "If you were not to see the new art exhibition, you would regret it.",
+  "russian_example_sentence": "Если ты не увидишь новую художественную выставку, ты пожалеешь.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:35:41.072152+00:00",
+  "turkish_example_sentence_with_blank": "Sen yeni sanat sergisini ______ pişman olursun."
 }

@@ -4,17 +4,19 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görürseniz",
+    "verb_full": "görrersanız",
     "root": "gör",
-    "tense_affix": "ürse",
+    "tense_affix": "erse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "siniz",
+    "personal_affix": "nız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you see the train, catch it quickly",
-  "russian_example_sentence": "Если вы увидите поезд, быстро садитесь",
-  "turkish_example_sentence": "Eğer treni görürseniz hemen binin",
-  "turkish_example_sentence_with_blank": "Eğer treni ______ hemen binin"
+  "turkish_example_sentence": "Siz beyaz kar örtüsünü görrersanız, kış mevsiminin geldiğini anlarsınız.",
+  "english_example_sentence": "If you see the white snow cover, you will understand that winter has arrived.",
+  "russian_example_sentence": "Если вы видите белое снежное покрывало, вы поймёте, что пришла зима.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:19:27.705177+00:00",
+  "turkish_example_sentence_with_blank": "Siz beyaz kar örtüsünü ______, kış mevsiminin geldiğini anlarsınız."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "görmeyerek",
     "root": "gör",
-    "tense_affix": "meyerek",
+    "tense_affix": "erek",
     "verb_tense": "zarf_fiil",
     "personal_pronoun": null,
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "She ignored him by not looking.",
-  "russian_example_sentence": "Она игнорировала его, не глядя.",
-  "turkish_example_sentence": "O, bakmayarak onu görmeyerek umursamadı.",
-  "turkish_example_sentence_with_blank": "O, bakmayarak onu ______ umursamadı."
+  "turkish_example_sentence": "Tehlikeli durumu görmeyerek hata yaptığını anladı.",
+  "english_example_sentence": "By not seeing the dangerous situation, he realized he made a mistake.",
+  "russian_example_sentence": "Не увидев опасную ситуацию, он понял, что совершил ошибку.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:36:41.557025+00:00",
+  "turkish_example_sentence_with_blank": "Tehlikeli durumu ______ hata yaptığını anladı."
 }

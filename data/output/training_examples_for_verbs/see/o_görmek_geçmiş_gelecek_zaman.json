@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "görecekti",
     "root": "gör",
-    "tense_affix": "ecek",
+    "tense_affix": "ecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He was going to see his family.",
-  "russian_example_sentence": "Он собирался увидеть свою семью.",
-  "turkish_example_sentence": "O, gelecek hafta sonu ailesini görecekti.",
-  "turkish_example_sentence_with_blank": "O, gelecek hafta sonu ailesini ______."
+  "turkish_example_sentence": "O çarşamba günü uzun sarı plajda güzel deniz manzarasını görecekti.",
+  "english_example_sentence": "He was going to see the beautiful sea view on the long yellow beach on Wednesday.",
+  "russian_example_sentence": "Он собирался увидеть красивый вид на море на длинном жёлтом пляже в среду.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:36:01.630236+00:00",
+  "turkish_example_sentence_with_blank": "O çarşamba günü uzun sarı plajda güzel deniz manzarasını ______."
 }

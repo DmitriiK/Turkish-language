@@ -4,17 +4,19 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görmeseniz",
+    "verb_full": "görmezsünüz",
     "root": "gör",
     "tense_affix": "se",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "niz",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "mez"
   },
-  "english_example_sentence": "If you don’t see the dark cave",
-  "russian_example_sentence": "Если вы не увидите тёмную пещеру",
-  "turkish_example_sentence": "Siz karanlık mağarayı görmeseniz",
-  "turkish_example_sentence_with_blank": "Siz karanlık mağarayı ______"
+  "turkish_example_sentence": "Siz muhteşem şehir ışıklarını görmezsünüz fırsat kaçırırsınız.",
+  "english_example_sentence": "If you were not to see the magnificent city lights, you would miss an opportunity.",
+  "russian_example_sentence": "Если вы не увидите великолепные городские огни, вы упустите возможность.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:35:41.072152+00:00",
+  "turkish_example_sentence_with_blank": "Siz muhteşem şehir ışıklarını ______ fırsat kaçırırsınız."
 }

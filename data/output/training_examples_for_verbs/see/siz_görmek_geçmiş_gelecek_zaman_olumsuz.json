@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "görmeyecektiniz",
     "root": "gör",
-    "tense_affix": "ecek",
+    "tense_affix": "ecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "tiniz",
+    "personal_affix": "niz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You weren't going to see the show.",
-  "russian_example_sentence": "Вы не собирались смотреть шоу.",
-  "turkish_example_sentence": "Siz bu gece o popüler gösteriyi görmeyecektiniz.",
-  "turkish_example_sentence_with_blank": "Siz bu gece o popüler gösteriyi ______."
+  "turkish_example_sentence": "Siz o gün yeşil orman içindeki gizli şelaleyi görmeyecektiniz.",
+  "english_example_sentence": "You were not going to see the hidden waterfall inside the green forest that day.",
+  "russian_example_sentence": "Вы не собирались видеть скрытый водопад внутри зелёного леса в тот день.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:36:01.630236+00:00",
+  "turkish_example_sentence_with_blank": "Siz o gün yeşil orman içindeki gizli şelaleyi ______."
 }

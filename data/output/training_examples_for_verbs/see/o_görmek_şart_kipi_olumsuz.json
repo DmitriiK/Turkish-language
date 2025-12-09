@@ -4,17 +4,19 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görmese",
+    "verb_full": "görmezse",
     "root": "gör",
     "tense_affix": "se",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "mez"
   },
-  "english_example_sentence": "If she doesn’t see the tall tree",
-  "russian_example_sentence": "Если она не увидит высокое дерево",
-  "turkish_example_sentence": "O uzun ağacı görmese",
-  "turkish_example_sentence_with_blank": "O uzun ağacı ______"
+  "turkish_example_sentence": "O beyaz kar dağını görmezse hayal kırıklığına uğrar.",
+  "english_example_sentence": "If she were not to see the white snowy mountain, she would be disappointed.",
+  "russian_example_sentence": "Если она не увидит белую снежную гору, она будет разочарована.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:35:41.072152+00:00",
+  "turkish_example_sentence_with_blank": "O beyaz kar dağını ______ hayal kırıklığına uğrar."
 }

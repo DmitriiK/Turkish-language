@@ -4,17 +4,19 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görürsen",
+    "verb_full": "görrersen",
     "root": "gör",
-    "tense_affix": "ürse",
+    "tense_affix": "erse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you see the sunset, you'll be happy",
-  "russian_example_sentence": "Если ты увидишь закат, ты будешь счастлив",
-  "turkish_example_sentence": "Eğer gün batımını görürsen, mutlu olursun",
-  "turkish_example_sentence_with_blank": "Eğer gün batımını ______, mutlu olursun"
+  "turkish_example_sentence": "Sen parlak yıldızları görrersen, bir dilek tutabilirsin.",
+  "english_example_sentence": "If you see bright stars, you can make a wish.",
+  "russian_example_sentence": "Если ты видишь яркие звёзды, ты можешь загадать желание.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:19:27.705177+00:00",
+  "turkish_example_sentence_with_blank": "Sen parlak yıldızları ______, bir dilek tutabilirsin."
 }

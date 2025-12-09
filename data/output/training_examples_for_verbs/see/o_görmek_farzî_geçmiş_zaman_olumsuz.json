@@ -4,17 +4,19 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görmemişse",
+    "verb_full": "görmemiş olsaydı",
     "root": "gör",
-    "tense_affix": "memişse",
+    "tense_affix": "müş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If she hadn't seen the falling star...",
-  "russian_example_sentence": "Если бы она не увидела падающую звезду...",
-  "turkish_example_sentence": "O kayan yıldızı görmemişse, dilek tutamamış demektir.",
-  "turkish_example_sentence_with_blank": "O kayan yıldızı ______, dilek tutamamış demektir."
+  "turkish_example_sentence": "O uzun yeşil yılanı bahçede görmemiş olsaydı, korkmayacaktı.",
+  "english_example_sentence": "If she had not seen that long green snake in the garden, she would not have been afraid.",
+  "russian_example_sentence": "Если бы она не видела ту длинную зеленую змею в саду, она бы не испугалась.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:36:36.226630+00:00",
+  "turkish_example_sentence_with_blank": "O uzun yeşil yılanı bahçede ______, korkmayacaktı."
 }

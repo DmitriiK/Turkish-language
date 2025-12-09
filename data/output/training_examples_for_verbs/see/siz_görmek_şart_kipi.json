@@ -4,7 +4,7 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görseniz",
+    "verb_full": "görsünüz",
     "root": "gör",
     "tense_affix": "se",
     "verb_tense": "şart_kipi",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you see the beautiful lake",
-  "russian_example_sentence": "Если вы увидите красивое озеро",
-  "turkish_example_sentence": "Siz güzel gölü görseniz",
-  "turkish_example_sentence_with_blank": "Siz güzel gölü ______"
+  "turkish_example_sentence": "Siz modern sanat müzesini görsünüz yeni perspektif kazanırsınız.",
+  "english_example_sentence": "If you were to see the modern art museum, you would gain a new perspective.",
+  "russian_example_sentence": "Если вы увидите музей современного искусства, вы получите новую перспективу.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:35:41.072152+00:00",
+  "turkish_example_sentence_with_blank": "Siz modern sanat müzesini ______ yeni perspektif kazanırsınız."
 }

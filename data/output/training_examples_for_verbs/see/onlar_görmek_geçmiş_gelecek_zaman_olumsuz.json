@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "görmeyeceklerdi",
     "root": "gör",
-    "tense_affix": "ecek",
+    "tense_affix": "ecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lerdi",
+    "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "They weren't going to see the damage.",
-  "russian_example_sentence": "Они не собирались видеть ущерб.",
-  "turkish_example_sentence": "Onlar bu büyük hasarı görmeyeceklerdi.",
-  "turkish_example_sentence_with_blank": "Onlar bu büyük hasarı ______."
+  "turkish_example_sentence": "Onlar pazar sabahı küçük köyde yaşlı insanları görmeyeceklerdi.",
+  "english_example_sentence": "They were not going to see the elderly people in the small village on Sunday morning.",
+  "russian_example_sentence": "Они не собирались видеть пожилых людей в маленькой деревне в воскресенье утром.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:36:01.630236+00:00",
+  "turkish_example_sentence_with_blank": "Onlar pazar sabahı küçük köyde yaşlı insanları ______."
 }

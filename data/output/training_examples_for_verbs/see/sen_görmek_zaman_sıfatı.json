@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "gördüğünde",
     "root": "gör",
-    "tense_affix": "düğ",
+    "tense_affix": "dü",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "sen",
-    "personal_affix": "ün",
+    "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When you see the blue ocean",
-  "russian_example_sentence": "Когда ты видишь синий океан",
-  "turkish_example_sentence": "Sen masmavi okyanusu gördüğünde, rahatlıyorsun.",
-  "turkish_example_sentence_with_blank": "Sen masmavi okyanusu ______, rahatlıyorsun."
+  "turkish_example_sentence": "Sen parlak yıldızları gördüğünde, gökyüzüne hayran kaldın ve dilediğini tuttun.",
+  "english_example_sentence": "When you saw the bright stars, you were amazed by the sky and made a wish.",
+  "russian_example_sentence": "Когда ты увидел яркие звезды, ты был поражен небом и загадал желание.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:37:28.053501+00:00",
+  "turkish_example_sentence_with_blank": "Sen parlak yıldızları ______, gökyüzüne hayran kaldın ve dilediğini tuttun."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "görmezler",
     "root": "gör",
-    "tense_affix": "ür",
+    "tense_affix": "mez",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "negative",
-    "negative_affix": "mez"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "They don't see the danger ahead",
-  "russian_example_sentence": "Они не видят опасность впереди",
-  "turkish_example_sentence": "Onlar öncesindeki tehlikeyi görmezler",
-  "turkish_example_sentence_with_blank": "Onlar öncesindeki tehlikeyi ______"
+  "turkish_example_sentence": "Onlar yoğun ormanda küçük gizli hayvanları görmezler",
+  "english_example_sentence": "They don't see the small hidden animals in the dense forest",
+  "russian_example_sentence": "Они не видят маленьких скрытых животных в густом лесу",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:47:39.180123+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yoğun ormanda küçük gizli hayvanları ______"
 }

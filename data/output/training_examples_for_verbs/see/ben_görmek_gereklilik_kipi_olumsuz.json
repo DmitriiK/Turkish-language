@@ -4,17 +4,19 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görmemem lazım",
+    "verb_full": "görmemem",
     "root": "gör",
-    "tense_affix": "lazım",
+    "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "I should not see that violent movie",
-  "russian_example_sentence": "Я не должен смотреть этот жестокий фильм",
-  "turkish_example_sentence": "Ben o şiddetli filmi görmemem lazım",
-  "turkish_example_sentence_with_blank": "Ben o şiddetli filmi ______"
+  "turkish_example_sentence": "Ben bu korkutucu filmi görmemem gerek.",
+  "english_example_sentence": "I don't need to see this scary movie.",
+  "russian_example_sentence": "Мне не нужно смотреть этот страшный фильм.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:44:59.426722+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu korkutucu filmi ______ gerek."
 }

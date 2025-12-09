@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "I cannot see without my glasses",
-  "russian_example_sentence": "Я не могу видеть без моих очков",
-  "turkish_example_sentence": "Ben gözlüksüz hiçbir şey göremem",
-  "turkish_example_sentence_with_blank": "Ben gözlüksüz hiçbir şey ______"
+  "turkish_example_sentence": "Ben gözlüksüz küçük yazıyı göremem.",
+  "english_example_sentence": "I cannot see the small text without glasses.",
+  "russian_example_sentence": "Я не могу видеть маленький текст без очков.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:45:24.011414+00:00",
+  "turkish_example_sentence_with_blank": "Ben gözlüksüz küçük yazıyı ______."
 }

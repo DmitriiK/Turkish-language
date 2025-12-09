@@ -4,17 +4,19 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görürsem",
+    "verb_full": "görrersem",
     "root": "gör",
-    "tense_affix": "ürse",
+    "tense_affix": "erse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I see him, I'll tell him",
-  "russian_example_sentence": "Если я его увижу, я скажу ему",
-  "turkish_example_sentence": "Eğer onu görürsem, ona söylerim",
-  "turkish_example_sentence_with_blank": "Eğer onu ______, ona söylerim"
+  "turkish_example_sentence": "Ben güzel kırmızı çiçekleri görrersem, hemen fotoğraf çekerim.",
+  "english_example_sentence": "If I see beautiful red flowers, I immediately take a photo.",
+  "russian_example_sentence": "Если я вижу красивые красные цветы, я сразу же фотографирую.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:19:27.705177+00:00",
+  "turkish_example_sentence_with_blank": "Ben güzel kırmızı çiçekleri ______, hemen fotoğraf çekerim."
 }

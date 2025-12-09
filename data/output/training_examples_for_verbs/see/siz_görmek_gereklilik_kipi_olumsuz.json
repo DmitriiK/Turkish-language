@@ -4,17 +4,19 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görmeniz gerek",
+    "verb_full": "görmeniz",
     "root": "gör",
-    "tense_affix": "gerek",
+    "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "niz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You must not see the restricted medical records",
-  "russian_example_sentence": "Вы не должны видеть ограниченные медицинские записи",
-  "turkish_example_sentence": "Siz kısıtlı tıbbi kayıtları görmeniz gerek",
-  "turkish_example_sentence_with_blank": "Siz kısıtlı tıbbi kayıtları ______"
+  "turkish_example_sentence": "Siz bu rahatsız edici resim koleksiyonunu görmeniz gerek.",
+  "english_example_sentence": "You don't need to see this disturbing picture collection.",
+  "russian_example_sentence": "Вам не нужно смотреть эту беспокойную коллекцию картин.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:44:59.426722+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu rahatsız edici resim koleksiyonunu ______ gerek."
 }

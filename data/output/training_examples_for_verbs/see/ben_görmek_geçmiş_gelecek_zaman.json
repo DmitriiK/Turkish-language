@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "görecektim",
     "root": "gör",
-    "tense_affix": "ecek",
+    "tense_affix": "ecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "tim",
+    "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I was going to see him.",
-  "russian_example_sentence": "Я собирался увидеть его.",
-  "turkish_example_sentence": "Ben onu yarın havaalanında görecektim.",
-  "turkish_example_sentence_with_blank": "Ben onu yarın havaalanında ______."
+  "turkish_example_sentence": "Ben dün akşam eski arkadaşımı şehir merkezinde görecektim.",
+  "english_example_sentence": "I was going to see my old friend in the city center yesterday evening.",
+  "russian_example_sentence": "Я собирался увидеть моего старого друга в центре города вчера вечером.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:36:01.630236+00:00",
+  "turkish_example_sentence_with_blank": "Ben dün akşam eski arkadaşımı şehir merkezinde ______."
 }

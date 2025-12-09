@@ -4,17 +4,19 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görürlerse",
+    "verb_full": "görrerlerse",
     "root": "gör",
-    "tense_affix": "ürse",
+    "tense_affix": "erse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they see the flower, they will pick it",
-  "russian_example_sentence": "Если они увидят цветок, они его сорвут",
-  "turkish_example_sentence": "Eğer çiçeği görürlerse koparacaklar",
-  "turkish_example_sentence_with_blank": "Eğer çiçeği ______ koparacaklar"
+  "turkish_example_sentence": "Onlar sarı ayçiçeklerini görrerlerse, fotoğraf albümüne ekleyecekler.",
+  "english_example_sentence": "If they see the yellow sunflowers, they will add them to their photo album.",
+  "russian_example_sentence": "Если они видят жёлтые подсолнухи, они добавят их в свой фотоальбом.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:19:27.705177+00:00",
+  "turkish_example_sentence_with_blank": "Onlar sarı ayçiçeklerini ______, fotoğraf albümüne ekleyecekler."
 }

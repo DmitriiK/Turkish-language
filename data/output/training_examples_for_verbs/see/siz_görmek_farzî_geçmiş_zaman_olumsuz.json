@@ -4,17 +4,19 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görmemişseniz",
+    "verb_full": "görmemiş olsaydınız",
     "root": "gör",
-    "tense_affix": "memişse",
+    "tense_affix": "müş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If you hadn't seen the hidden message...",
-  "russian_example_sentence": "Если бы вы не увидели скрытое сообщение...",
-  "turkish_example_sentence": "Siz gizli mesajı görmemişseniz, ipucunu kaçırmış olabilirsiniz.",
-  "turkish_example_sentence_with_blank": "Siz gizli mesajı ______, ipucunu kaçırmış olabilirsiniz."
+  "turkish_example_sentence": "Siz o inanılmaz turuncu gün batımını sahilde görmemiş olsaydınız, romantik anı kaçırırdınız.",
+  "english_example_sentence": "If you had not seen that incredible orange sunset on the beach, you would have missed the romantic moment.",
+  "russian_example_sentence": "Если бы вы не видели тот невероятный оранжевый закат на пляже, вы бы пропустили романтический момент.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:36:36.226630+00:00",
+  "turkish_example_sentence_with_blank": "Siz o inanılmaz turuncu gün batımını sahilde ______, romantik anı kaçırırdınız."
 }

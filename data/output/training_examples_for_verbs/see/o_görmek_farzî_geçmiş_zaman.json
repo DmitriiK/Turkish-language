@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "görmüşse",
     "root": "gör",
-    "tense_affix": "müşse",
+    "tense_affix": "müş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If he had seen the rare bird...",
-  "russian_example_sentence": "Если бы он увидел редкую птицу...",
-  "turkish_example_sentence": "O nadir kuşu görmüşse, fotoğrafını çekmiş olurdu.",
-  "turkish_example_sentence_with_blank": "O nadir kuşu ______, fotoğrafını çekmiş olurdu."
+  "turkish_example_sentence": "O genç sarı kuşu ağaçta görmüşse, fotoğraf çekerdi.",
+  "english_example_sentence": "If he had seen that young yellow bird in the tree, he would have taken a photo.",
+  "russian_example_sentence": "Если бы он видел ту молодую желтую птицу на дереве, он бы сфотографировал.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:36:36.226630+00:00",
+  "turkish_example_sentence_with_blank": "O genç sarı kuşu ağaçta ______, fotoğraf çekerdi."
 }

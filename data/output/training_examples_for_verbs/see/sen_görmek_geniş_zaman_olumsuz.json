@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "görmezsin",
     "root": "gör",
-    "tense_affix": "ür",
+    "tense_affix": "mez",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "sin",
     "polarity": "negative",
-    "negative_affix": "mez"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "You don't see the fine details easily",
-  "russian_example_sentence": "Ты не видишь тонкие детали легко",
-  "turkish_example_sentence": "Sen ince ayrıntıları kolayca görmezsin",
-  "turkish_example_sentence_with_blank": "Sen ince ayrıntıları kolayca ______"
+  "turkish_example_sentence": "Sen kapalı odada küçük yazılı notu görmezsin",
+  "english_example_sentence": "You don't see the small written note in the closed room",
+  "russian_example_sentence": "Ты не видишь маленькую написанную записку в закрытой комнате",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:47:39.180123+00:00",
+  "turkish_example_sentence_with_blank": "Sen kapalı odada küçük yazılı notu ______"
 }

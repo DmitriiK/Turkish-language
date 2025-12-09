@@ -4,17 +4,19 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görmemişsem",
+    "verb_full": "görmemiş olsaydım",
     "root": "gör",
-    "tense_affix": "memişse",
+    "tense_affix": "müş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If I hadn't seen the evidence...",
-  "russian_example_sentence": "Если бы я не видел доказательства...",
-  "turkish_example_sentence": "Ben kanıtı görmemişsem, suçsuz olduğumu kanıtlayamam.",
-  "turkish_example_sentence_with_blank": "Ben kanıtı ______, suçsuz olduğumu kanıtlayamam."
+  "turkish_example_sentence": "Ben o eski şehri hiç görmemiş olsaydım, tarihini öğrenemezdim.",
+  "english_example_sentence": "If I had not seen that old city, I could not have learned its history.",
+  "russian_example_sentence": "Если бы я не видел тот старый город, я не смог бы узнать его историю.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:36:36.226630+00:00",
+  "turkish_example_sentence_with_blank": "Ben o eski şehri hiç ______, tarihini öğrenemezdim."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "görmezlerse",
     "root": "gör",
-    "tense_affix": "mezse",
+    "tense_affix": "erse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "mez"
   },
-  "english_example_sentence": "If they don't see the sign, they will get lost",
-  "russian_example_sentence": "Если они не увидят знак, они потеряются",
-  "turkish_example_sentence": "Eğer tabelayı görmezlerse kaybolacaklar",
-  "turkish_example_sentence_with_blank": "Eğer tabelayı ______ kaybolacaklar"
+  "turkish_example_sentence": "Onlar siyah kedi görmezlerse, evin en gizli köşesinde uyuyacak.",
+  "english_example_sentence": "If they don't see the black cat, it will sleep in the house's most hidden corner.",
+  "russian_example_sentence": "Если они не видят чёрную кошку, она будет спать в самом скрытом углу дома.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:19:27.705177+00:00",
+  "turkish_example_sentence_with_blank": "Onlar siyah kedi ______, evin en gizli köşesinde uyuyacak."
 }

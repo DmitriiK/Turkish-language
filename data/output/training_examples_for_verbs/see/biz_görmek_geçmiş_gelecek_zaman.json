@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "görecektik",
     "root": "gör",
-    "tense_affix": "ecek",
+    "tense_affix": "ecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "tik",
+    "personal_affix": "k",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We were going to see the ocean.",
-  "russian_example_sentence": "Мы собирались увидеть океан.",
-  "turkish_example_sentence": "Biz yazın güzel okyanusu görecektik.",
-  "turkish_example_sentence_with_blank": "Biz yazın güzel okyanusu ______."
+  "turkish_example_sentence": "Biz geçen yaz sıcak Antalya'da antik tarihi kalıntıları görecektik.",
+  "english_example_sentence": "We were going to see the ancient historical ruins in hot Antalya last summer.",
+  "russian_example_sentence": "Мы собирались увидеть древние исторические руины в жарком Анталье прошлым летом.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:36:01.630236+00:00",
+  "turkish_example_sentence_with_blank": "Biz geçen yaz sıcak Antalya'da antik tarihi kalıntıları ______."
 }

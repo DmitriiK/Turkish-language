@@ -4,17 +4,19 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görmeniz lazım",
+    "verb_full": "görmeniz",
     "root": "gör",
-    "tense_affix": "lazım",
+    "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "niz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You all need to see the famous cultural performance",
-  "russian_example_sentence": "Вам всем нужно увидеть знаменитое культурное представление",
-  "turkish_example_sentence": "Siz ünlü kültürel gösteriyi görmeniz lazım",
-  "turkish_example_sentence_with_blank": "Siz ünlü kültürel gösteriyi ______"
+  "turkish_example_sentence": "Siz önemli tarihî anıtı görmeniz lazım.",
+  "english_example_sentence": "You need to see the important historical monument.",
+  "russian_example_sentence": "Вам нужно посмотреть на важный исторический памятник.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:44:59.426722+00:00",
+  "turkish_example_sentence_with_blank": "Siz önemli tarihî anıtı ______ lazım."
 }

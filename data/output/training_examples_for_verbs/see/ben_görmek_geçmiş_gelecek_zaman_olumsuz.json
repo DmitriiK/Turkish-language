@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "görmeyecektim",
     "root": "gör",
-    "tense_affix": "ecek",
+    "tense_affix": "ecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "tim",
+    "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "I wasn't going to see that movie.",
-  "russian_example_sentence": "Я не собирался смотреть этот фильм.",
-  "turkish_example_sentence": "Ben bu akşam o korkunç filmi görmeyecektim.",
-  "turkish_example_sentence_with_blank": "Ben bu akşam o korkunç filmi ______."
+  "turkish_example_sentence": "Ben bu hafta sonu güzel mavi gökyüzünü görmeyecektim.",
+  "english_example_sentence": "I was not going to see the beautiful blue sky this weekend.",
+  "russian_example_sentence": "Я не собирался видеть красивое голубое небо на этих выходных.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:36:01.630236+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu hafta sonu güzel mavi gökyüzünü ______."
 }

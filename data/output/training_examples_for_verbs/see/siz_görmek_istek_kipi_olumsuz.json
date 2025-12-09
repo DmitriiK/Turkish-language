@@ -4,17 +4,19 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görmeyesiniz",
+    "verb_full": "görmeyesiz",
     "root": "gör",
     "tense_affix": "e",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "siniz",
+    "personal_affix": "siz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "May you not see the messy streets",
-  "russian_example_sentence": "Пусть вы не увидите грязные улицы",
-  "turkish_example_sentence": "Siz dağınık sokakları görmeyesiniz",
-  "turkish_example_sentence_with_blank": "Siz dağınık sokakları ______"
+  "turkish_example_sentence": "Siz bu rahatsız edici durumu görmeyesiz.",
+  "english_example_sentence": "May you not see this disturbing situation.",
+  "russian_example_sentence": "Пусть вы не видите эту беспокойную ситуацию.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:47:55.802675+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu rahatsız edici durumu ______."
 }

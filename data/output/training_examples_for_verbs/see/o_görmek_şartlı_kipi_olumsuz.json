@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "görmezse",
     "root": "gör",
-    "tense_affix": "mezse",
+    "tense_affix": "erse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "mez"
   },
-  "english_example_sentence": "If he doesn't see the bird, he won't believe it",
-  "russian_example_sentence": "Если он не увидит птицу, он не поверит",
-  "turkish_example_sentence": "Eğer kuşu görmezse, inanmayacak",
-  "turkish_example_sentence_with_blank": "Eğer kuşu ______, inanmayacak"
+  "turkish_example_sentence": "O mavi denizi görmezse, tatil planlarını değiştirecek.",
+  "english_example_sentence": "If she doesn't see the blue sea, she will change her vacation plans.",
+  "russian_example_sentence": "Если она не видит синее море, она изменит свои планы отпуска.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:19:27.705177+00:00",
+  "turkish_example_sentence_with_blank": "O mavi denizi ______, tatil planlarını değiştirecek."
 }

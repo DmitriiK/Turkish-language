@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "görmeyecekti",
     "root": "gör",
-    "tense_affix": "ecek",
+    "tense_affix": "ecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "She wasn't going to see the secret.",
-  "russian_example_sentence": "Она не должна была увидеть секрет.",
-  "turkish_example_sentence": "O bu gizli bilgiyi görmeyecekti.",
-  "turkish_example_sentence_with_blank": "O bu gizli bilgiyi ______."
+  "turkish_example_sentence": "O perşembe akşamı ünlü ressam sergisini görmeyecekti.",
+  "english_example_sentence": "She was not going to see the famous painter's exhibition on Thursday evening.",
+  "russian_example_sentence": "Она не собиралась видеть выставку знаменитого художника в четверг вечером.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:36:01.630236+00:00",
+  "turkish_example_sentence_with_blank": "O perşembe akşamı ünlü ressam sergisini ______."
 }

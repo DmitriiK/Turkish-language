@@ -4,17 +4,19 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görmemesi lazım",
+    "verb_full": "görmemesi",
     "root": "gör",
-    "tense_affix": "lazım",
+    "tense_affix": "si",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "sı",
+    "personal_affix": "si",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "She should not see that disturbing accident scene",
-  "russian_example_sentence": "Она не должна видеть эту беспокойную сцену аварии",
-  "turkish_example_sentence": "O rahatsız edici kaza sahnasını görmemesi lazım",
-  "turkish_example_sentence_with_blank": "O rahatsız edici kaza sahnasını ______"
+  "turkish_example_sentence": "O çok hassas konu hakkında bu eski fotoğrafları görmemesi gerek.",
+  "english_example_sentence": "He/She needs to not see these old photographs about the very sensitive topic.",
+  "russian_example_sentence": "Ему/Ей нужно не смотреть эти старые фотографии о очень чувствительной теме.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:18:31.666371+00:00",
+  "turkish_example_sentence_with_blank": "O çok hassas konu hakkında bu eski fotoğrafları ______ gerek."
 }

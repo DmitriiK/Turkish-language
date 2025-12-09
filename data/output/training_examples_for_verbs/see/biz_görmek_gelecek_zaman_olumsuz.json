@@ -4,7 +4,7 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görmeyecğiz",
+    "verb_full": "görmeyecegiz",
     "root": "gör",
     "tense_affix": "ecek",
     "verb_tense": "gelecek_zaman",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "We will not see the rare animals in the forest",
-  "russian_example_sentence": "Мы не увидим редких животных в лесу",
-  "turkish_example_sentence": "Biz ormanda nadir hayvanları görmeyecğiz",
-  "turkish_example_sentence_with_blank": "Biz ormanda nadir hayvanları ______"
+  "turkish_example_sentence": "Biz bu yıl Avrupa'nın eski tarihi kalelerini görmeyecegiz.",
+  "english_example_sentence": "We will not see the old historical castles of Europe this year.",
+  "russian_example_sentence": "Мы не увидим старые исторические замки Европы в этом году.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:46:38.724642+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu yıl Avrupa'nın eski tarihi kalelerini ______."
 }

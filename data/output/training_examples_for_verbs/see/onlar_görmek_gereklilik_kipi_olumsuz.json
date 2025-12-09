@@ -4,17 +4,19 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görmemeleri lazım",
+    "verb_full": "görmeleri",
     "root": "gör",
-    "tense_affix": "lazım",
+    "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "ları",
+    "personal_affix": "leri",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "They should not see the explicit adult content",
-  "russian_example_sentence": "Они не должны видеть откровенный взрослый контент",
-  "turkish_example_sentence": "Onlar açık yetişkin içeriğini görmemeleri lazım",
-  "turkish_example_sentence_with_blank": "Onlar açık yetişkin içeriğini ______"
+  "turkish_example_sentence": "Onlar bu acı gerçeği görmeleri gerek.",
+  "english_example_sentence": "They don't need to see this bitter truth.",
+  "russian_example_sentence": "Им не нужно видеть эту горькую правду.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:44:59.426722+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu acı gerçeği ______ gerek."
 }

@@ -4,17 +4,19 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görürsek",
+    "verb_full": "görrersek",
     "root": "gör",
-    "tense_affix": "ürse",
+    "tense_affix": "erse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we see the mountain, we'll rest there",
-  "russian_example_sentence": "Если мы увидим гору, мы там отдохнем",
-  "turkish_example_sentence": "Eğer dağı görürsek orada dinleniriz",
-  "turkish_example_sentence_with_blank": "Eğer dağı ______ orada dinleniriz"
+  "turkish_example_sentence": "Biz ilginç sanat sergisini görrersek, saatler boyunca kalırız.",
+  "english_example_sentence": "If we see the interesting art exhibition, we will stay for hours.",
+  "russian_example_sentence": "Если мы видим интересную художественную выставку, мы останемся на часы.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:19:27.705177+00:00",
+  "turkish_example_sentence_with_blank": "Biz ilginç sanat sergisini ______, saatler boyunca kalırız."
 }

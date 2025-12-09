@@ -4,7 +4,7 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görmemeliiz",
+    "verb_full": "görmemeliyiz",
     "root": "gör",
     "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "We must not see the dangerous accident scene",
-  "russian_example_sentence": "Мы не должны видеть место опасной аварии",
-  "turkish_example_sentence": "Biz tehlikeli kaza yerini görmemeliiz",
-  "turkish_example_sentence_with_blank": "Biz tehlikeli kaza yerini ______"
+  "turkish_example_sentence": "Biz bu gizli belgeleri görmemeliyiz çünkü çok gizli.",
+  "english_example_sentence": "We must not see these secret documents because they are very confidential.",
+  "russian_example_sentence": "Мы не должны смотреть эти секретные документы, потому что они очень конфиденциальны.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:45:43.204960+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu gizli belgeleri ______ çünkü çok gizli."
 }

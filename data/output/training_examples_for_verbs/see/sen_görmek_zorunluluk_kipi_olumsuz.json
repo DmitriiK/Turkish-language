@@ -4,7 +4,7 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görmemelisin",
+    "verb_full": "görmemelissin",
     "root": "gör",
     "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You must not see those confidential documents",
-  "russian_example_sentence": "Ты не должен смотреть эти конфиденциальные документы",
-  "turkish_example_sentence": "Sen o gizli belgeleri görmemelisin",
-  "turkish_example_sentence_with_blank": "Sen o gizli belgeleri ______"
+  "turkish_example_sentence": "Sen bu rahatsız edici manzarayı görmemelissin çünkü çok üzücü.",
+  "english_example_sentence": "You must not see this disturbing scene because it is very sad.",
+  "russian_example_sentence": "Ты не должен смотреть эту тревожную сцену, потому что она очень грустная.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:45:43.204960+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu rahatsız edici manzarayı ______ çünkü çok üzücü."
 }

@@ -4,7 +4,7 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görmeye",
+    "verb_full": "görmesin",
     "root": "gör",
     "tense_affix": "e",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "May she not see the old house",
-  "russian_example_sentence": "Пусть она не увидит старый дом",
-  "turkish_example_sentence": "O eski evi görmeye",
-  "turkish_example_sentence_with_blank": "O eski evi ______"
+  "turkish_example_sentence": "O yaşlı adam bu korkunç kazayı görmesin.",
+  "english_example_sentence": "May he not see this terrible accident.",
+  "russian_example_sentence": "Пусть он не видит эту ужасную аварию.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:47:55.802675+00:00",
+  "turkish_example_sentence_with_blank": "O yaşlı adam bu korkunç kazayı ______."
 }

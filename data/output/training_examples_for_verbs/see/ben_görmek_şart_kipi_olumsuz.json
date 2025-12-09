@@ -4,17 +4,19 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görmesem",
+    "verb_full": "görmezsem",
     "root": "gör",
     "tense_affix": "se",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "mez"
   },
-  "english_example_sentence": "If I don't see the green leaf",
-  "russian_example_sentence": "Если я не увижу зелёный лист",
-  "turkish_example_sentence": "Ben yeşil yaprağı görmesem",
-  "turkish_example_sentence_with_blank": "Ben yeşil yaprağı ______"
+  "turkish_example_sentence": "Ben eski arkadaşımı görmezsem çok üzülürüm.",
+  "english_example_sentence": "If I were not to see my old friend, I would be very sad.",
+  "russian_example_sentence": "Если я не увижу моего старого друга, я очень расстроюсь.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:35:41.072152+00:00",
+  "turkish_example_sentence_with_blank": "Ben eski arkadaşımı ______ çok üzülürüm."
 }

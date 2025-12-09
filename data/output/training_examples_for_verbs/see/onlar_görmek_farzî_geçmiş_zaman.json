@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "görmüşlerse",
     "root": "gör",
-    "tense_affix": "müşlerse",
+    "tense_affix": "müş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they had seen the ancient ruins...",
-  "russian_example_sentence": "Если бы они увидели древние руины...",
-  "turkish_example_sentence": "Onlar antik kalıntıları görmüşlerse, çok şaşırmışlardır.",
-  "turkish_example_sentence_with_blank": "Onlar antik kalıntıları ______, çok şaşırmışlardır."
+  "turkish_example_sentence": "Onlar o muazzam mor orkide çiçeklerini sera bahçesinde görmüşlerse, doğanın güzelliğine hayran kalırlardı.",
+  "english_example_sentence": "If they had seen those magnificent purple orchid flowers in the greenhouse garden, they would have been amazed by nature's beauty.",
+  "russian_example_sentence": "Если бы они видели те величественные фиолетовые орхидеи в оранжерее, они были бы поражены красотой природы.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:36:36.226630+00:00",
+  "turkish_example_sentence_with_blank": "Onlar o muazzam mor orkide çiçeklerini sera bahçesinde ______, doğanın güzelliğine hayran kalırlardı."
 }

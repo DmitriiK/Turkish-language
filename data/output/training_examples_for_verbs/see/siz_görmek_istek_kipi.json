@@ -4,17 +4,19 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "göresiniz",
+    "verb_full": "göresiz",
     "root": "gör",
     "tense_affix": "e",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "siniz",
+    "personal_affix": "siz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "May you see the colorful flowers",
-  "russian_example_sentence": "Пусть вы увидите разноцветные цветы",
-  "turkish_example_sentence": "Siz renkli çiçekleri göresiniz",
-  "turkish_example_sentence_with_blank": "Siz renkli çiçekleri ______"
+  "turkish_example_sentence": "Siz bu hafta sonu uzak dağları göresiz.",
+  "english_example_sentence": "May you see the distant mountains this weekend.",
+  "russian_example_sentence": "Пусть вы видите далекие горы на выходных.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:47:55.802675+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu hafta sonu uzak dağları ______."
 }

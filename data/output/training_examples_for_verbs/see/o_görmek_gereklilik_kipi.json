@@ -4,17 +4,19 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görmesi lazım",
+    "verb_full": "görmesi",
     "root": "gör",
-    "tense_affix": "lazım",
+    "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "sı",
+    "personal_affix": "si",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He needs to see the ancient historical ruins",
-  "russian_example_sentence": "Ему нужно увидеть древние исторические руины",
-  "turkish_example_sentence": "O eski tarihi kalıntıları görmesi lazım",
-  "turkish_example_sentence_with_blank": "O eski tarihi kalıntıları ______"
+  "turkish_example_sentence": "O yeni tiyatro oyununu görmesi lazım.",
+  "english_example_sentence": "He/She needs to see the new theater play.",
+  "russian_example_sentence": "Ему/Ей нужно посмотреть новую театральную постановку.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:44:59.426722+00:00",
+  "turkish_example_sentence_with_blank": "O yeni tiyatro oyununu ______ lazım."
 }

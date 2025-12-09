@@ -4,7 +4,7 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görmeyecğim",
+    "verb_full": "görmeyecegim",
     "root": "gör",
     "tense_affix": "ecek",
     "verb_tense": "gelecek_zaman",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "I will not see that old movie next week",
-  "russian_example_sentence": "Я не буду смотреть тот старый фильм на следующей неделе",
-  "turkish_example_sentence": "Ben gelecek hafta eski filmi görmeyecğim",
-  "turkish_example_sentence_with_blank": "Ben gelecek hafta eski filmi ______"
+  "turkish_example_sentence": "Ben bu hafta eski arkadaşımı şehirde görmeyecegim.",
+  "english_example_sentence": "I will not see my old friend in the city this week.",
+  "russian_example_sentence": "Я не увижу моего старого друга в городе на этой неделе.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:46:38.724642+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu hafta eski arkadaşımı şehirde ______."
 }

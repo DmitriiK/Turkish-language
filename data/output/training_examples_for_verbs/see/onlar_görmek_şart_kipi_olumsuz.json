@@ -4,17 +4,19 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görmeseler",
+    "verb_full": "görmezseler",
     "root": "gör",
     "tense_affix": "se",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "mez"
   },
-  "english_example_sentence": "If they don’t see the strange creature",
-  "russian_example_sentence": "Если они не увидят странное существо",
-  "turkish_example_sentence": "Onlar garip yaratığı görmeseler",
-  "turkish_example_sentence_with_blank": "Onlar garip yaratığı ______"
+  "turkish_example_sentence": "Onlar güzel göl manzarasını görmezseler çok şey kaybederler.",
+  "english_example_sentence": "If they were not to see the beautiful lake view, they would lose a lot.",
+  "russian_example_sentence": "Если они не увидят красивый вид озера, они многое потеряют.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:35:41.072152+00:00",
+  "turkish_example_sentence_with_blank": "Onlar güzel göl manzarasını ______ çok şey kaybederler."
 }

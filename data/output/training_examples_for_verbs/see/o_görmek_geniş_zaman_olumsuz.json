@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "görmez",
     "root": "gör",
-    "tense_affix": "ür",
+    "tense_affix": "mez",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "mez"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "She doesn't see the problem at all",
-  "russian_example_sentence": "Она вообще не видит проблему",
-  "turkish_example_sentence": "O sorunu hiç görmez",
-  "turkish_example_sentence_with_blank": "O sorunu hiç ______"
+  "turkish_example_sentence": "O yoğun trafikte hızlı kırmızı arabayı görmez",
+  "english_example_sentence": "She doesn't see the fast red car in heavy traffic",
+  "russian_example_sentence": "Она не видит быстрый красный автомобиль в интенсивном движении",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:47:39.180123+00:00",
+  "turkish_example_sentence_with_blank": "O yoğun trafikte hızlı kırmızı arabayı ______"
 }

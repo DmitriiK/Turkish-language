@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "görecektiniz",
     "root": "gör",
-    "tense_affix": "ecek",
+    "tense_affix": "ecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "tiniz",
+    "personal_affix": "niz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You were going to see the parade.",
-  "russian_example_sentence": "Вы собирались увидеть парад.",
-  "turkish_example_sentence": "Siz bu hafta sonu o renkli geçit törenini görecektiniz.",
-  "turkish_example_sentence_with_blank": "Siz bu hafta sonu o renkli geçit törenini ______."
+  "turkish_example_sentence": "Siz cuma günü modern sanat müzesinde ilginç heykelleri görecektiniz.",
+  "english_example_sentence": "You were going to see the interesting sculptures in the modern art museum on Friday.",
+  "russian_example_sentence": "Вы собирались увидеть интересные скульптуры в музее современного искусства в пятницу.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:36:01.630236+00:00",
+  "turkish_example_sentence_with_blank": "Siz cuma günü modern sanat müzesinde ilginç heykelleri ______."
 }

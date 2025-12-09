@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "görmeyip",
     "root": "gör",
-    "tense_affix": "üp",
+    "tense_affix": "yip",
     "verb_tense": "ulak_fiil",
     "personal_pronoun": null,
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "Without seeing the distant mountain",
-  "russian_example_sentence": "Не увидев далёкую гору",
-  "turkish_example_sentence": "Uzaktaki dağı görmeyip geri döndü",
-  "turkish_example_sentence_with_blank": "Uzaktaki dağı ______ geri döndü"
+  "turkish_example_sentence": "Eski arkadaşını görmeyip hemen eve gitti.",
+  "english_example_sentence": "Without seeing his old friend, he went home immediately.",
+  "russian_example_sentence": "Не увидев старого друга, он сразу пошёл домой.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-09T12:19:39.123111+00:00",
+  "turkish_example_sentence_with_blank": "Eski arkadaşını ______ hemen eve gitti."
 }
