@@ -1065,11 +1065,12 @@ const getModelIcon = (modelName: string): JSX.Element => {
   const provider = getModelProvider(modelName);
   const iconSize = 20;
   
+  // Use relative paths from public folder - Vite will handle the base path
   const logoMap: Record<string, string> = {
-    'claude': '/graphics/llm_logo/claude-logo.svg',
-    'openai': '/graphics/llm_logo/openai-2.svg',
-    'gemini': '/graphics/llm_logo/gemini-icon-logo.svg',
-    'deepseek': '/graphics/llm_logo/deepseek-2.svg'
+    'claude': `${import.meta.env.BASE_URL}graphics/llm_logo/claude-logo.svg`,
+    'openai': `${import.meta.env.BASE_URL}graphics/llm_logo/openai-2.svg`,
+    'gemini': `${import.meta.env.BASE_URL}graphics/llm_logo/gemini-icon-logo.svg`,
+    'deepseek': `${import.meta.env.BASE_URL}graphics/llm_logo/deepseek-2.svg`
   };
 
   const logoPath = logoMap[provider];
