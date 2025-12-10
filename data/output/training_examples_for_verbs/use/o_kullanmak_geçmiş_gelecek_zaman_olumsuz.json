@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "kullanmayacaktı",
     "root": "kullan",
-    "tense_affix": "mayacaktı",
+    "tense_affix": "acak",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "tı",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "She wasn't going to use that software.",
-  "russian_example_sentence": "Она не собиралась использовать это программное обеспечение.",
-  "turkish_example_sentence": "O bu yazılımı kullanmayacaktı, başka bir alternatif buldu.",
-  "turkish_example_sentence_with_blank": "O bu yazılımı ______, başka bir alternatif buldu."
+  "turkish_example_sentence": "O pahalı malzemeleri ev dekorasyonunda kullanmayacaktı.",
+  "english_example_sentence": "She was not going to use the expensive materials in the home decoration.",
+  "russian_example_sentence": "Она не собиралась использовать дорогие материалы в домашнем декоре.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:29:57.806955+00:00",
+  "turkish_example_sentence_with_blank": "O pahalı malzemeleri ev dekorasyonunda ______."
 }

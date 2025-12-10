@@ -4,17 +4,19 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemişsem",
+    "verb_full": "istemiş olsaydım",
     "root": "iste",
-    "tense_affix": "mişse",
+    "tense_affix": "miş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I had wanted, I could travel",
-  "russian_example_sentence": "Если бы я захотел, я мог бы путешествовать",
-  "turkish_example_sentence": "İstemişsem, farklı ülkelere seyahat edebilirdim",
-  "turkish_example_sentence_with_blank": "İstemişsem, farklı ülkelere seyahat edebilirdim"
+  "turkish_example_sentence": "Ben yeni arabayı istemiş olsaydım, babam bana yardım ederdi.",
+  "english_example_sentence": "If I had wanted the new car, my father would have helped me.",
+  "russian_example_sentence": "Если бы я хотел новую машину, отец бы мне помог.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:51:43.434169+00:00",
+  "turkish_example_sentence_with_blank": "Ben yeni arabayı ______, babam bana yardım ederdi."
 }

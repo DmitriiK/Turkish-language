@@ -1,20 +1,22 @@
 {
   "verb_rank": 20,
-  "verb_english": "call (phone)",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "arayacaktınız",
+    "verb_full": "aracaktınız",
     "root": "ara",
-    "tense_affix": "yacaktı",
+    "tense_affix": "caktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You were going to call the agency.",
-  "russian_example_sentence": "Вы собирались позвонить в агентство.",
-  "turkish_example_sentence": "Siz ajansı arayacaktınız.",
-  "turkish_example_sentence_with_blank": "Siz ajansı ______."
+  "turkish_example_sentence": "Siz çarşamba akşamı başarılı proje yöneticisini aracaktınız ama acil durum ortaya çıktı.",
+  "english_example_sentence": "You were going to call the successful project manager Wednesday evening but an emergency came up.",
+  "russian_example_sentence": "Вы собирались позвонить успешному руководителю проекта в среду вечером, но возникла чрезвычайная ситуация.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:18:20.101796+00:00",
+  "turkish_example_sentence_with_blank": "Siz çarşamba akşamı başarılı proje yöneticisini ______ ama acil durum ortaya çıktı."
 }

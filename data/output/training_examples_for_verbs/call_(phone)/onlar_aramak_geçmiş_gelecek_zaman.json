@@ -1,20 +1,22 @@
 {
   "verb_rank": 20,
-  "verb_english": "call (phone)",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "arayacaklardı",
+    "verb_full": "aracaklardı",
     "root": "ara",
-    "tense_affix": "yacaktı",
+    "tense_affix": "caktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lardı",
+    "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They were going to call the manager.",
-  "russian_example_sentence": "Они собирались позвонить менеджеру.",
-  "turkish_example_sentence": "Onlar müdürü arayacaklardı.",
-  "turkish_example_sentence_with_blank": "Onlar müdürü ______."
+  "turkish_example_sentence": "Onlar perşembe öğleden sonra uzun yolculuk yapan akrabalarını aracaklardı ama yol kapalıydı.",
+  "english_example_sentence": "They were going to call their relatives who were taking a long trip Thursday afternoon but the road was closed.",
+  "russian_example_sentence": "Они собирались позвонить своим родственникам, которые совершали дальнее путешествие в четверг днем, но дорога была закрыта.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:18:20.101796+00:00",
+  "turkish_example_sentence_with_blank": "Onlar perşembe öğleden sonra uzun yolculuk yapan akrabalarını ______ ama yol kapalıydı."
 }

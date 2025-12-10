@@ -4,7 +4,7 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "vermemişseniz",
+    "verb_full": "vermemişsiniz",
     "root": "ver",
     "tense_affix": "mişse",
     "verb_tense": "farzî_geçmiş_zaman",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If you hadn't given the false testimony...",
-  "russian_example_sentence": "Если бы вы не дали ложные показания...",
-  "turkish_example_sentence": "Siz yanlış ifadeyi vermemişseniz, dava kazanılırdı.",
-  "turkish_example_sentence_with_blank": "Siz yanlış ifadeyi ______, dava kazanılırdı."
+  "turkish_example_sentence": "Siz müşteriye doğru fatura bilgisi vermemişsiniz, sorun çıkar.",
+  "english_example_sentence": "If you had not given the customer the correct invoice information, a problem would arise.",
+  "russian_example_sentence": "Если бы вы не дали клиенту правильную информацию счёта, возникла бы проблема.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:57:30.709961+00:00",
+  "turkish_example_sentence_with_blank": "Siz müşteriye doğru fatura bilgisi ______, sorun çıkar."
 }

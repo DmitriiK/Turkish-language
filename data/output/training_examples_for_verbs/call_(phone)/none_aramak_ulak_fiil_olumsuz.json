@@ -1,20 +1,22 @@
 {
   "verb_rank": 20,
-  "verb_english": "call (phone)",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
     "verb_full": "aramayıp",
     "root": "ara",
-    "tense_affix": "mayıp",
+    "tense_affix": "yıp",
     "verb_tense": "ulak_fiil",
     "personal_pronoun": null,
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "Without calling, he sent a message.",
-  "russian_example_sentence": "Не позвонив, он отправил сообщение.",
-  "turkish_example_sentence": "Aramayıp mesaj gönderdi.",
-  "turkish_example_sentence_with_blank": "Aramayıp mesaj gönderdi."
+  "turkish_example_sentence": "Eski arkadaşını aramayıp sessiz kaldı.",
+  "english_example_sentence": "Without calling his old friend, he remained silent.",
+  "russian_example_sentence": "Не позвонив своему старому другу, он остался молчаливым.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:19:22.947999+00:00",
+  "turkish_example_sentence_with_blank": "Eski arkadaşını ______ sessiz kaldı."
 }

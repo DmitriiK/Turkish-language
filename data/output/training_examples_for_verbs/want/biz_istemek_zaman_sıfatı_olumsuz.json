@@ -4,17 +4,19 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemediğimizde",
+    "verb_full": "istememdiğimizde",
     "root": "iste",
     "tense_affix": "diğ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "biz",
-    "personal_affix": "imiz",
+    "personal_affix": "imizde",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "When we don't want rain, we stay inside.",
-  "russian_example_sentence": "Когда мы не хотим дождя, мы остаемся дома.",
-  "turkish_example_sentence": "Biz yağmur istemediğimizde, içeride kalırız.",
-  "turkish_example_sentence_with_blank": "Biz yağmur ______, içeride kalırız."
+  "turkish_example_sentence": "Biz fazla gürültü istememdiğimizde, komşular sessiz kalıyor.",
+  "english_example_sentence": "When we don't want too much noise, the neighbors stay quiet.",
+  "russian_example_sentence": "Когда мы не хотим слишком много шума, соседи остаются тихими.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T13:34:15.066001+00:00",
+  "turkish_example_sentence_with_blank": "Biz fazla gürültü ______, komşular sessiz kalıyor."
 }

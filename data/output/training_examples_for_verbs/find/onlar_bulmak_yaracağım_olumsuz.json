@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "bulamayacaklar",
     "root": "bul",
-    "tense_affix": "acak",
+    "tense_affix": "acağ",
     "verb_tense": "yaracağım",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "They will not find the correct answer to the complex question",
-  "russian_example_sentence": "Они не найдут правильный ответ на сложный вопрос",
-  "turkish_example_sentence": "Onlar karmaşık soruya doğru cevabı bulamayacaklar",
-  "turkish_example_sentence_with_blank": "Onlar karmaşık soruya doğru cevabı ______"
+  "turkish_example_sentence": "Onlar evde saklanmış değerli altın koliyeyi bulamayacaklar.",
+  "english_example_sentence": "They will not find the hidden valuable gold necklace at home.",
+  "russian_example_sentence": "Они не найдут спрятанное ценное золотое ожерелье дома.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:32:50.390583+00:00",
+  "turkish_example_sentence_with_blank": "Onlar evde saklanmış değerli altın koliyeyi ______."
 }

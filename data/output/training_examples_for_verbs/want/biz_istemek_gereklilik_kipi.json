@@ -4,17 +4,19 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istememiz lazım",
+    "verb_full": "istemememiz",
     "root": "iste",
-    "tense_affix": "lazım",
+    "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "mız",
+    "personal_affix": "miz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We need to want that wonderful summer vacation",
-  "russian_example_sentence": "Мы должны хотеть этот чудесный летний отпуск",
-  "turkish_example_sentence": "Biz o harika yaz tatilini istememiz lazım",
-  "turkish_example_sentence_with_blank": "Biz o harika yaz tatilini ______"
+  "turkish_example_sentence": "Biz yeşil bir bahçe istemememiz lazım.",
+  "english_example_sentence": "We need to want a green garden.",
+  "russian_example_sentence": "Нам нужно хотеть зеленый сад.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:48:51.452213+00:00",
+  "turkish_example_sentence_with_blank": "Biz yeşil bir bahçe ______ lazım."
 }

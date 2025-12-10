@@ -11,10 +11,12 @@
     "personal_pronoun": "biz",
     "personal_affix": "yız",
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "mama"
   },
-  "english_example_sentence": "We must not ask the elderly couple sensitive questions",
-  "russian_example_sentence": "Мы не должны спрашивать пожилую пару чувствительные вопросы",
-  "turkish_example_sentence": "Biz yaşlı çiftten hassas sorular sormamalıyız",
-  "turkish_example_sentence_with_blank": "Biz yaşlı çiftten hassas sorular ______"
+  "turkish_example_sentence": "Biz özel aile meselelerini sormamalıyız.",
+  "english_example_sentence": "We must not ask private family matters.",
+  "russian_example_sentence": "Мы не должны спрашивать о личных семейных делах.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:46:11.426101+00:00",
+  "turkish_example_sentence_with_blank": "Biz özel aile meselelerini ______."
 }

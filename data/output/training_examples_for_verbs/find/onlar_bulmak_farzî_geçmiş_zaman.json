@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "bulmuşlarsa",
     "root": "bul",
-    "tense_affix": "muşlarsa",
+    "tense_affix": "muş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": null,
+    "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they had found a good job",
-  "russian_example_sentence": "Если бы они нашли хорошую работу",
-  "turkish_example_sentence": "Onlar şehirde iyi bir iş bulmuşlarsa, çok mutlu olurlar.",
-  "turkish_example_sentence_with_blank": "Onlar şehirde iyi bir iş ______, çok mutlu olurlar."
+  "turkish_example_sentence": "Onlar sahilde değerli mercan bulmuşlarsa, müze için satın alabilirlerdi.",
+  "english_example_sentence": "If they had found the valuable coral on the beach, they could have bought it for the museum.",
+  "russian_example_sentence": "Если бы они нашли ценный коралл на пляже, они смогли бы купить его для музея.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:36:55.470944+00:00",
+  "turkish_example_sentence_with_blank": "Onlar sahilde değerli mercan ______, müze için satın alabilirlerdi."
 }

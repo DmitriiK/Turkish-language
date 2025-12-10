@@ -4,17 +4,19 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "vermemesi lazım",
+    "verb_full": "vermemesi",
     "root": "ver",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "sı",
+    "personal_affix": "si",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "She should not give her phone number to unknown callers",
-  "russian_example_sentence": "Она не должна давать свой номер телефона неизвестным звонящим",
-  "turkish_example_sentence": "O bilinmeyen arayanların telefon numarasını vermemesi lazım",
-  "turkish_example_sentence_with_blank": "O bilinmeyen arayanların telefon numarasını ______"
+  "turkish_example_sentence": "O yaşlı adamın fazla tatlı vermemesi lazım.",
+  "english_example_sentence": "The old man needs to not give too much candy.",
+  "russian_example_sentence": "Пожилому мужчине нужно не давать слишком много конфет.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:54:51.652413+00:00",
+  "turkish_example_sentence_with_blank": "O yaşlı adamın fazla tatlı ______ lazım."
 }

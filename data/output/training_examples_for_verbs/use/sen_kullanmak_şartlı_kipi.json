@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "kullanırsan",
     "root": "kullan",
-    "tense_affix": "ırsan",
+    "tense_affix": "ar",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you use this map, you won't get lost.",
-  "russian_example_sentence": "Если ты используешь эту карту, ты не потеряешься.",
-  "turkish_example_sentence": "Bu haritayı kullanırsan, kaybolmazsın.",
-  "turkish_example_sentence_with_blank": "Bu haritayı ______, kaybolmazsın."
+  "turkish_example_sentence": "Sen bu güçlü yazılımı kullanırsan, proje başarılı olur.",
+  "english_example_sentence": "If you use this powerful software, the project will be successful.",
+  "russian_example_sentence": "Если ты будешь использовать это мощное программное обеспечение, проект будет успешным.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:29:26.273192+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu güçlü yazılımı ______, proje başarılı olur."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "anlatmamışsa",
     "root": "anlat",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If she hadn't told the personal detail...",
-  "russian_example_sentence": "Если бы она не рассказала личную деталь...",
-  "turkish_example_sentence": "O özel detayı anlatmamışsa, kimse bilmezdi.",
-  "turkish_example_sentence_with_blank": "O özel detayı ______, kimse bilmezdi."
+  "turkish_example_sentence": "Eğer o bu üzücü gerçeği hiç anlatmamışsa, insanlar yanılmış olurdu.",
+  "english_example_sentence": "If he/she had not told this sad truth at all, people would have been mistaken.",
+  "russian_example_sentence": "Если бы он/она вообще не рассказал(а) эту грустную правду, люди бы ошиблись.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:42:43.841974+00:00",
+  "turkish_example_sentence_with_blank": "Eğer o bu üzücü gerçeği hiç ______, insanlar yanılmış olurdu."
 }

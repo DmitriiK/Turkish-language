@@ -4,17 +4,19 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "vermeniz lazım",
+    "verb_full": "vermeniz",
     "root": "ver",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "niz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You must give the detailed report to the experienced director",
-  "russian_example_sentence": "Вы должны дать подробный отчет опытному директору",
-  "turkish_example_sentence": "Siz ayrıntılı raporları tecrübeli müdüre vermeniz lazım",
-  "turkish_example_sentence_with_blank": "Siz ayrıntılı raporları tecrübeli müdüre ______"
+  "turkish_example_sentence": "Siz hastaneye acil tıbbi yardım vermeniz lazım.",
+  "english_example_sentence": "You need to give emergency medical help to the hospital.",
+  "russian_example_sentence": "Вам нужно оказать экстренную медицинскую помощь больнице.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:54:51.652413+00:00",
+  "turkish_example_sentence_with_blank": "Siz hastaneye acil tıbbi yardım ______ lazım."
 }

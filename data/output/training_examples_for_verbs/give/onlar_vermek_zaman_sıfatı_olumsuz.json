@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "When they don't give appropriate support,",
-  "russian_example_sentence": "Когда они не дают надлежащей поддержки,",
-  "turkish_example_sentence": "Onlar uygun desteği vermediklerinde, takım başarısız oluyor.",
-  "turkish_example_sentence_with_blank": "Onlar uygun desteği ______, takım başarısız oluyor."
+  "turkish_example_sentence": "Onlar gerekli belgeleyi hastaneye vermediklerinde, tedavi ertelendi.",
+  "english_example_sentence": "When they did not give the necessary documents to the hospital, the treatment was postponed.",
+  "russian_example_sentence": "Когда они не дали необходимые документы в больницу, лечение было отложено.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T13:53:11.839552+00:00",
+  "turkish_example_sentence_with_blank": "Onlar gerekli belgeleyi hastaneye ______, tedavi ertelendi."
 }

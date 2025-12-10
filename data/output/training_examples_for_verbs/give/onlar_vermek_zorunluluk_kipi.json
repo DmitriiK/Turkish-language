@@ -4,17 +4,19 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "vermeliler",
+    "verb_full": "vermelilar",
     "root": "ver",
     "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "ler",
+    "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They must give their parents a phone call today",
-  "russian_example_sentence": "Они должны позвонить своим родителям сегодня",
-  "turkish_example_sentence": "Onlar sevgili ailelerine bugün telefon görüşmesi vermeliler",
-  "turkish_example_sentence_with_blank": "Onlar sevgili ailelerine bugün telefon görüşmesi ______"
+  "turkish_example_sentence": "Onlar yaşlı insanlara saygılı davranış vermelilar.",
+  "english_example_sentence": "They must give respectful treatment to elderly people.",
+  "russian_example_sentence": "Они должны оказывать уважительное отношение пожилым людям.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:55:26.020061+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yaşlı insanlara saygılı davranış ______."
 }

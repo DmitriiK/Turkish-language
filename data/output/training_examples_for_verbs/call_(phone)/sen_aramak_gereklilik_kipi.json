@@ -4,17 +4,19 @@
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "araman lazım",
+    "verb_full": "araman",
     "root": "ara",
-    "tense_affix": " ",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to call your boss",
-  "russian_example_sentence": "Тебе нужно позвонить своему боссу",
-  "turkish_example_sentence": "Sen patronunu şimdi araman lazım",
-  "turkish_example_sentence_with_blank": "Sen patronunu şimdi ______"
+  "turkish_example_sentence": "Sen önemli müşteri temsilcisini pazartesi sabahı araman lazım.",
+  "english_example_sentence": "You need to call the important customer representative on Monday morning.",
+  "russian_example_sentence": "Тебе нужно звонить важному представителю клиента в понедельник утром.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:17:21.028205+00:00",
+  "turkish_example_sentence_with_blank": "Sen önemli müşteri temsilcisini pazartesi sabahı ______ lazım."
 }

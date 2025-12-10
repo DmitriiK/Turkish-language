@@ -1,6 +1,6 @@
 {
   "verb_rank": 20,
-  "verb_english": "call (phone)",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
@@ -11,10 +11,12 @@
     "personal_pronoun": "ben",
     "personal_affix": "yım",
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "mama"
   },
-  "english_example_sentence": "I must not call my boss late at night.",
-  "russian_example_sentence": "Я не должен звонить своему начальнику поздно ночью.",
-  "turkish_example_sentence": "Ben patronumu gece geç saatte aramamalıyım.",
-  "turkish_example_sentence_with_blank": "Ben patronumu gece geç saatte ______."
+  "turkish_example_sentence": "Ben gece yarısında eski arkadaşı aramamalıyım.",
+  "english_example_sentence": "I must not call my old friend at midnight.",
+  "russian_example_sentence": "Я не должен звонить старому другу в полночь.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:17:57.968182+00:00",
+  "turkish_example_sentence_with_blank": "Ben gece yarısında eski arkadaşı ______."
 }

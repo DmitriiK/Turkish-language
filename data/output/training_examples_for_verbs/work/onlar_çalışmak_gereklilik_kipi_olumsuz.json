@@ -4,17 +4,19 @@
   "verb_russian": "работать",
   "verb_infinitive": "çalışmak",
   "turkish_verb": {
-    "verb_full": "çalışmamaları lazım",
+    "verb_full": "çalışmamaları",
     "root": "çalış",
-    "tense_affix": "ma",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ları",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "They don't need to work late tonight",
-  "russian_example_sentence": "Им не нужно работать поздно ночью",
-  "turkish_example_sentence": "Onlar bu akşam kütüphanede çalışmamaları lazım",
-  "turkish_example_sentence_with_blank": "Onlar bu akşam kütüphanede ______"
+  "turkish_example_sentence": "Onlar kötü hava koşullarında çalışmamaları gerek.",
+  "english_example_sentence": "They don't need to work in bad weather conditions.",
+  "russian_example_sentence": "Им не нужно работать в плохих погодных условиях.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:51:16.573007+00:00",
+  "turkish_example_sentence_with_blank": "Onlar kötü hava koşullarında ______ gerek."
 }

@@ -4,7 +4,7 @@
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "arayasın",
+    "verb_full": "arasın",
     "root": "ara",
     "tense_affix": "ya",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "May you call your cheerful friend",
-  "russian_example_sentence": "Может быть, ты позвонишь своему веселому другу",
-  "turkish_example_sentence": "Sen yarın neşeli arkadaşını arayasın",
-  "turkish_example_sentence_with_blank": "Sen yarın neşeli arkadaşını ______"
+  "turkish_example_sentence": "Sen acil durumlarda güvenilir polis memurunu arasın.",
+  "english_example_sentence": "May you call the reliable police officer in emergencies.",
+  "russian_example_sentence": "Ты звони надежному полицейскому в чрезвычайных ситуациях.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:16:24.775875+00:00",
+  "turkish_example_sentence_with_blank": "Sen acil durumlarda güvenilir polis memurunu ______."
 }

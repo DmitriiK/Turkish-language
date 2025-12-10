@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "aradığımızda",
     "root": "ara",
-    "tense_affix": "dık",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "biz",
     "personal_affix": "ımız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When we call, they are always busy.",
-  "russian_example_sentence": "Когда мы звоним, они всегда заняты.",
-  "turkish_example_sentence": "Biz onu ofisten aradığımızda, onlar her zaman meşguldür.",
-  "turkish_example_sentence_with_blank": "Biz onu ofisten ______, onlar her zaman meşguldür."
+  "turkish_example_sentence": "Biz yerel polis aradığımızda, hızlı bir şekilde geldi.",
+  "english_example_sentence": "When we called the local police, they came quickly.",
+  "russian_example_sentence": "Когда мы позвонили местной полиции, они быстро приехали.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:19:45.005061+00:00",
+  "turkish_example_sentence_with_blank": "Biz yerel polis ______, hızlı bir şekilde geldi."
 }

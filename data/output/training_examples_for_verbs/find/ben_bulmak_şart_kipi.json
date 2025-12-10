@@ -4,7 +4,7 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulsam",
+    "verb_full": "bulursam",
     "root": "bul",
     "tense_affix": "sa",
     "verb_tense": "şart_kipi",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I find my keys, I will leave.",
-  "russian_example_sentence": "Если я найду ключи, я уйду.",
-  "turkish_example_sentence": "Anahtarlarımı bulsam, ayrılırım.",
-  "turkish_example_sentence_with_blank": "Anahtarlarımı ______, ayrılırım."
+  "turkish_example_sentence": "Ben eski haritada hazineyi bulursam, hemen sana haber veririm.",
+  "english_example_sentence": "If I find the treasure on the old map, I will immediately tell you.",
+  "russian_example_sentence": "Если я найду сокровище на старой карте, я сразу тебе скажу.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:35:00.980425+00:00",
+  "turkish_example_sentence_with_blank": "Ben eski haritada hazineyi ______, hemen sana haber veririm."
 }

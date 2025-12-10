@@ -4,7 +4,7 @@
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "arsam",
+    "verb_full": "ararsam",
     "root": "ara",
     "tense_affix": "rsa",
     "verb_tense": "şartlı_kipi",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I call, answer the phone.",
-  "russian_example_sentence": "Если я позвоню, ответь на телефон.",
-  "turkish_example_sentence": "Ben seni yarın ararsam, lütfen telefonu aç.",
-  "turkish_example_sentence_with_blank": "Ben seni yarın ar______, lütfen telefonu aç."
+  "turkish_example_sentence": "Ben önemli müşteri sabah erkenden ararsam, hemen cevap verir.",
+  "english_example_sentence": "If I call the important customer early in the morning, he will answer immediately.",
+  "russian_example_sentence": "Если я позвоню важному клиенту рано утром, он сразу ответит.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:18:40.638216+00:00",
+  "turkish_example_sentence_with_blank": "Ben önemli müşteri sabah erkenden ______, hemen cevap verir."
 }

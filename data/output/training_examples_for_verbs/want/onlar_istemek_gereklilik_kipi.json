@@ -4,17 +4,19 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istememeleri lazım",
+    "verb_full": "istemeları",
     "root": "iste",
-    "tense_affix": "lazım",
+    "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "leri",
+    "personal_affix": "ları",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They need to want that peaceful quiet garden",
-  "russian_example_sentence": "Они должны хотеть этот спокойный тихий сад",
-  "turkish_example_sentence": "Onlar o sakin sessiz bahçeyi istememeleri lazım",
-  "turkish_example_sentence_with_blank": "Onlar o sakin sessiz bahçeyi ______"
+  "turkish_example_sentence": "Onlar beyaz bir köpek istemeları lazım.",
+  "english_example_sentence": "They need to want a white dog.",
+  "russian_example_sentence": "Им нужно хотеть белую собаку.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:48:51.452213+00:00",
+  "turkish_example_sentence_with_blank": "Onlar beyaz bir köpek ______ lazım."
 }

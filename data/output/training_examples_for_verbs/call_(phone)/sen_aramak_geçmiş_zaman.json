@@ -1,6 +1,6 @@
 {
   "verb_rank": 20,
-  "verb_english": "call (phone)",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You called your mother this morning.",
-  "russian_example_sentence": "Ты звонил своей маме этим утром.",
-  "turkish_example_sentence": "Sen bu sabah anneni aradın.",
-  "turkish_example_sentence_with_blank": "Sen bu sabah anneni ______."
+  "turkish_example_sentence": "Sen geçen hafta önemli müşteri temsilcisini iş ofisinden aradın.",
+  "english_example_sentence": "You called the important customer representative from the business office last week.",
+  "russian_example_sentence": "Ты позвонил важному представителю клиента из офиса на прошлой неделе.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:14:51.844132+00:00",
+  "turkish_example_sentence_with_blank": "Sen geçen hafta önemli müşteri temsilcisini iş ofisinden ______."
 }

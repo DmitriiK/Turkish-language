@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "istemeyiz",
     "root": "iste",
-    "tense_affix": "r",
+    "tense_affix": "mez",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "iz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "We do not want loud noisy neighbors",
-  "russian_example_sentence": "Мы не хотим громких шумных соседей",
-  "turkish_example_sentence": "Biz gürültülü komşuları istemeyiz",
-  "turkish_example_sentence_with_blank": "Biz gürültülü komşuları ______"
+  "turkish_example_sentence": "Biz soğuk acı kahveyi istemeyiz.",
+  "english_example_sentence": "We don't want cold bitter coffee.",
+  "russian_example_sentence": "Мы не хотим холодный горький кофе.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:15:23.808062+00:00",
+  "turkish_example_sentence_with_blank": "Biz soğuk acı kahveyi ______."
 }

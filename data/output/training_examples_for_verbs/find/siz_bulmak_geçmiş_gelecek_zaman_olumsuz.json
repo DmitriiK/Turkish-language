@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "bulmayacaktınız",
     "root": "bul",
-    "tense_affix": "mayacaktı",
+    "tense_affix": "acaktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You weren't going to find time for vacation",
-  "russian_example_sentence": "Вы не собирались найти время для отпуска",
-  "turkish_example_sentence": "Siz yoğun programınızda tatil için fırsat bulmayacaktınız",
-  "turkish_example_sentence_with_blank": "Siz yoğun programınızda tatil için fırsat ______"
+  "turkish_example_sentence": "Siz hastanede deneyimli doktor bulmayacaktınız o gün.",
+  "english_example_sentence": "You were not going to find an experienced doctor at the hospital that day.",
+  "russian_example_sentence": "Вы не собирались найти опытного врача в больнице в тот день.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:36:33.270046+00:00",
+  "turkish_example_sentence_with_blank": "Siz hastanede deneyimli doktor ______ o gün."
 }

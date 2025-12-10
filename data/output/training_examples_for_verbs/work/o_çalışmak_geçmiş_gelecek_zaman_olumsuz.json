@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "çalışmayacaktı",
     "root": "çalış",
-    "tense_affix": "mayacaktı",
+    "tense_affix": "acak",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "tı",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "He was not going to work Saturday.",
-  "russian_example_sentence": "Он не собирался работать в субботу.",
-  "turkish_example_sentence": "O cumartesi günü sıkıcı işte çalışmayacaktı",
-  "turkish_example_sentence_with_blank": "O cumartesi günü sıkıcı işte ______"
+  "turkish_example_sentence": "O hastalık nedeniyle uzun ofis saatlerinde çalışmayacaktı.",
+  "english_example_sentence": "He/She was not going to work long office hours due to illness.",
+  "russian_example_sentence": "Он/Она не собирался/собиралась работать долгие часы в офисе из-за болезни.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:53:28.826640+00:00",
+  "turkish_example_sentence_with_blank": "O hastalık nedeniyle uzun ofis saatlerinde ______."
 }

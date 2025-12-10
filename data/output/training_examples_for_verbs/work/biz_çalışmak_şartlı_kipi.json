@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "çalışırsak",
     "root": "çalış",
-    "tense_affix": "ırsak",
+    "tense_affix": "ır",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we work together, we will succeed",
-  "russian_example_sentence": "Если мы будем работать вместе, мы добьемся успеха",
-  "turkish_example_sentence": "Eğer birlikte çalışırsak, başarılı oluruz",
-  "turkish_example_sentence_with_blank": "Eğer birlikte ______, başarılı oluruz"
+  "turkish_example_sentence": "Biz birlikte çalışırsak, bu büyük projeyi tamamlayabiliriz.",
+  "english_example_sentence": "If we work together, we can complete this big project.",
+  "russian_example_sentence": "Если мы будем работать вместе, мы сможем завершить этот большой проект.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:52:54.426093+00:00",
+  "turkish_example_sentence_with_blank": "Biz birlikte ______, bu büyük projeyi tamamlayabiliriz."
 }

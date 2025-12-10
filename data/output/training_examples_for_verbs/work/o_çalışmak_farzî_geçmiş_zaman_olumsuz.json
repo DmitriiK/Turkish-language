@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If she hadn't worked, she'd be different.",
-  "russian_example_sentence": "Если бы она не работала, она была бы другой.",
-  "turkish_example_sentence": "O hiç çalışmamışsa, bambaşka bir insan olurdu.",
-  "turkish_example_sentence_with_blank": "O hiç ______, bambaşka bir insan olurdu."
+  "turkish_example_sentence": "O ekim ayında bu küçük ofiste çalışmamışsa, hiç bilgisayar programı öğrenmemiş olurdu.",
+  "english_example_sentence": "If she had not worked at this small office in October, she would never have learned computer programs.",
+  "russian_example_sentence": "Если бы она не работала в этом маленьком офисе в октябре, она бы никогда не выучила компьютерные программы.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:56:53.426849+00:00",
+  "turkish_example_sentence_with_blank": "O ekim ayında bu küçük ofiste ______, hiç bilgisayar programı öğrenmemiş olurdu."
 }

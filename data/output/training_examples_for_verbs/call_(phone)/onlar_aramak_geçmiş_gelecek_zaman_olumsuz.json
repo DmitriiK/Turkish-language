@@ -1,20 +1,22 @@
 {
   "verb_rank": 20,
-  "verb_english": "call (phone)",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
     "verb_full": "aramayacaklardı",
     "root": "ara",
-    "tense_affix": "mayacaktı",
+    "tense_affix": "caktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lardı",
+    "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "They weren't going to call the owner.",
-  "russian_example_sentence": "Они не собирались звонить владельцу.",
-  "turkish_example_sentence": "Onlar sahibi aramayacaklardı.",
-  "turkish_example_sentence_with_blank": "Onlar sahibi ______."
+  "turkish_example_sentence": "Onlar ünlü doktor aramayacaklardı çünkü özel sağlık sigortası yoktu.",
+  "english_example_sentence": "They were not going to call the famous doctor because they did not have private health insurance.",
+  "russian_example_sentence": "Они не собирались звонить известному врачу, потому что у них не было частной медицинской страховки.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:18:20.101796+00:00",
+  "turkish_example_sentence_with_blank": "Onlar ünlü doktor ______ çünkü özel sağlık sigortası yoktu."
 }

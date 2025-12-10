@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "anlatmasa",
     "root": "anlat",
-    "tense_affix": "masa",
+    "tense_affix": "sa",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If she didn't tell the bad news",
-  "russian_example_sentence": "Если бы она не рассказала плохую новость",
-  "turkish_example_sentence": "Eğer kötü haberi anlatmasa",
-  "turkish_example_sentence_with_blank": "Eğer kötü haberi ______"
+  "turkish_example_sentence": "O bu korkutucu filmin sonunu anlatmasa, sürpriz kalır.",
+  "english_example_sentence": "If she were not to tell the end of this scary movie, it would remain a surprise.",
+  "russian_example_sentence": "Если бы она не рассказала конец этого страшного фильма, это осталось бы сюрпризом.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:41:30.759279+00:00",
+  "turkish_example_sentence_with_blank": "O bu korkutucu filmin sonunu ______, sürpriz kalır."
 }

@@ -4,7 +4,7 @@
   "verb_russian": "использовать",
   "verb_infinitive": "kullanmak",
   "turkish_verb": {
-    "verb_full": "kullanamassın",
+    "verb_full": "kullanamıyorsun",
     "root": "kullan",
     "tense_affix": "abil",
     "verb_tense": "imkan_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "You cannot use those old tools here",
-  "russian_example_sentence": "Ты не можешь использовать эти старые инструменты здесь",
-  "turkish_example_sentence": "Sen burada eski aletleri kullanamassın",
-  "turkish_example_sentence_with_blank": "Sen burada eski aletleri ______"
+  "turkish_example_sentence": "Sen bu eski telefonu artık düzgün kullanamıyorsun.",
+  "english_example_sentence": "You cannot use this old phone properly anymore.",
+  "russian_example_sentence": "Ты больше не можешь правильно использовать этот старый телефон.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T14:15:01.155710+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu eski telefonu artık düzgün ______."
 }

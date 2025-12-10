@@ -4,17 +4,19 @@
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "aramamaları lazım",
+    "verb_full": "aramamaları",
     "root": "ara",
-    "tense_affix": " ",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ları",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "They don't need to call often",
-  "russian_example_sentence": "Им не нужно звонить часто",
-  "turkish_example_sentence": "Onlar annelerini sık sık aramamaları lazım",
-  "turkish_example_sentence_with_blank": "Onlar annelerini sık sık ______"
+  "turkish_example_sentence": "Onlar hırçın müdürü erken sabah aramamaları gerek.",
+  "english_example_sentence": "They should not call the grumpy director early in the morning.",
+  "russian_example_sentence": "Им не нужно звонить ворчливому директору рано утром.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:17:21.028205+00:00",
+  "turkish_example_sentence_with_blank": "Onlar hırçın müdürü erken sabah ______ gerek."
 }

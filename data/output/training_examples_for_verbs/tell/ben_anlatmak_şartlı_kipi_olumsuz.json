@@ -4,17 +4,19 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatmazsam",
+    "verb_full": "anlatmazsan",
     "root": "anlat",
-    "tense_affix": "mazsa",
+    "tense_affix": "maz",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If I don't tell the long story",
-  "russian_example_sentence": "Если я не расскажу длинную историю",
-  "turkish_example_sentence": "Eğer uzun hikâyeyi anlatmazsam",
-  "turkish_example_sentence_with_blank": "Eğer uzun hikâyeyi ______"
+  "turkish_example_sentence": "Ben gerçeği anlatmazsan, kimse sana güvenmez.",
+  "english_example_sentence": "If I don't tell the truth, no one will trust you.",
+  "russian_example_sentence": "Если я не расскажу правду, никто тебе не поверит.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:41:50.428993+00:00",
+  "turkish_example_sentence_with_blank": "Ben gerçeği ______, kimse sana güvenmez."
 }

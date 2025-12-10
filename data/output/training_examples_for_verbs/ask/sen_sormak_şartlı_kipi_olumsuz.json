@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sormazsan",
     "root": "sor",
-    "tense_affix": "sa",
+    "tense_affix": "maz",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If you don’t ask questions",
-  "russian_example_sentence": "Если ты не задаешь вопросов",
-  "turkish_example_sentence": "Sen hiç soru sormazsan, öğrenemezsin",
-  "turkish_example_sentence_with_blank": "Sen hiç soru ______, öğrenemezsin"
+  "turkish_example_sentence": "Sen rehbere yol hakkında sormazsan, kaybolmuş bir turist olarak kalacaksın.",
+  "english_example_sentence": "If you don't ask the guide about the way, you will remain a lost tourist.",
+  "russian_example_sentence": "Если ты не спросишь гида о дороге, ты останешься потерянным туристом.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:47:28.102471+00:00",
+  "turkish_example_sentence_with_blank": "Sen rehbere yol hakkında ______, kaybolmuş bir turist olarak kalacaksın."
 }

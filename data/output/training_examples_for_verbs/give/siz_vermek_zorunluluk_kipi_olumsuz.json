@@ -4,7 +4,7 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "vermemelisiniz",
+    "verb_full": "vermemesiniz",
     "root": "ver",
     "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "meme"
   },
-  "english_example_sentence": "You must not give your credit card details online",
-  "russian_example_sentence": "Вы не должны давать данные вашей кредитной карты в интернете",
-  "turkish_example_sentence": "Siz internet üzerinden banka kartı numaralarını vermemelisiniz",
-  "turkish_example_sentence_with_blank": "Siz internet üzerinden banka kartı numaralarını ______"
+  "turkish_example_sentence": "Siz gizli dosyaları yetkisiz kişilere vermemesiniz.",
+  "english_example_sentence": "You must not give confidential files to unauthorized people.",
+  "russian_example_sentence": "Вы не должны давать конфиденциальные файлы неавторизованным лицам.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:55:26.020061+00:00",
+  "turkish_example_sentence_with_blank": "Siz gizli dosyaları yetkisiz kişilere ______."
 }

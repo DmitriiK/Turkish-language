@@ -4,17 +4,19 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istememeleri lazım değil",
+    "verb_full": "istemememeları",
     "root": "iste",
-    "tense_affix": "lazım",
+    "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "leri",
+    "personal_affix": "ları",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "They should not want that complicated confusing project",
-  "russian_example_sentence": "Они не должны хотеть этот сложный запутанный проект",
-  "turkish_example_sentence": "Onlar o karmaşık kafa karıştırıcı projeyi istememeleri lazım değil",
-  "turkish_example_sentence_with_blank": "Onlar o karmaşık kafa karıştırıcı projeyi ______"
+  "turkish_example_sentence": "Onlar siyah bir kedi istemememeları gerek.",
+  "english_example_sentence": "They need to not want a black cat.",
+  "russian_example_sentence": "Им нужно не хотеть черную кошку.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:48:51.452213+00:00",
+  "turkish_example_sentence_with_blank": "Onlar siyah bir kedi ______ gerek."
 }

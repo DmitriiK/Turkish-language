@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "isteyecektik",
     "root": "iste",
-    "tense_affix": "yecek",
+    "tense_affix": "yecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "tik",
+    "personal_affix": "k",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We were going to build a house.",
-  "russian_example_sentence": "Мы собирались построить дом.",
-  "turkish_example_sentence": "Biz kırsalda büyük bir ev inşa edecektik.",
-  "turkish_example_sentence_with_blank": "Biz kırsalda büyük bir ev inşa edecektik."
+  "turkish_example_sentence": "Biz hafta sonunda dağlı bölgede doğal yürüyüş yapmak isteyecektik.",
+  "english_example_sentence": "We were going to go hiking in the mountainous region on the weekend.",
+  "russian_example_sentence": "Мы собирались совершить пеший поход в горной местности на выходных.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:51:14.770211+00:00",
+  "turkish_example_sentence_with_blank": "Biz hafta sonunda dağlı bölgede doğal yürüyüş yapmak ______."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sorduğumda",
     "root": "sor",
-    "tense_affix": "duk",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "ben",
     "personal_affix": "um",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When I ask, I need answers",
-  "russian_example_sentence": "Когда я спрашиваю, мне нужны ответы",
-  "turkish_example_sentence": "Ben önemli soruları sorduğumda, net cevaplar beklerim.",
-  "turkish_example_sentence_with_blank": "Ben önemli soruları ______, net cevaplar beklerim."
+  "turkish_example_sentence": "Ben öğretmene zor matematik sorusunu sorduğumda, hemen cevap verdi.",
+  "english_example_sentence": "When I asked the teacher the difficult math question, she answered immediately.",
+  "russian_example_sentence": "Когда я спросил учителя о сложной математической задаче, она сразу ответила.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:49:03.430239+00:00",
+  "turkish_example_sentence_with_blank": "Ben öğretmene zor matematik sorusunu ______, hemen cevap verdi."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "çalışacaklardı",
     "root": "çalış",
-    "tense_affix": "acaktı",
+    "tense_affix": "acak",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lardı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They were going to design website.",
-  "russian_example_sentence": "Они собирались разработать веб-сайт.",
-  "turkish_example_sentence": "Onlar yeni şirket web sitesini tasarlayacaklardı",
-  "turkish_example_sentence_with_blank": "Onlar yeni şirket web sitesini tasarlayacaklardı"
+  "turkish_example_sentence": "Onlar geçen ay çevre koruma araştırma merkezinde çalışacaklardı.",
+  "english_example_sentence": "They were going to work at an environmental protection research center last month.",
+  "russian_example_sentence": "Они собирались работать в центре исследований охраны окружающей среды в прошлом месяце.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:53:28.826640+00:00",
+  "turkish_example_sentence_with_blank": "Onlar geçen ay çevre koruma araştırma merkezinde ______."
 }

@@ -4,7 +4,7 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "vermemeliyin",
+    "verb_full": "vermemeliyi",
     "root": "ver",
     "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "meme"
   },
-  "english_example_sentence": "I must not give my savings to unreliable people",
-  "russian_example_sentence": "Я не должен давать свои сбережения ненадежным людям",
-  "turkish_example_sentence": "Ben kendi birikimlerimi güvenilmez insanlara vermemeliyin",
-  "turkish_example_sentence_with_blank": "Ben kendi birikimlerimi güvenilmez insanlara ______"
+  "turkish_example_sentence": "Ben özel sırları hiç kimseye vermemeliyi.",
+  "english_example_sentence": "I must not give secret information to anyone.",
+  "russian_example_sentence": "Я не должен давать секретную информацию никому.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:55:26.020061+00:00",
+  "turkish_example_sentence_with_blank": "Ben özel sırları hiç kimseye ______."
 }

@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You must tell the truth to your parents",
-  "russian_example_sentence": "Ты должен рассказать правду своим родителям",
-  "turkish_example_sentence": "Sen ailene gerçek olayları anlatmalısın",
-  "turkish_example_sentence_with_blank": "Sen ailene gerçek olayları ______"
+  "turkish_example_sentence": "Sen doktora tüm semptomlarını detaylı anlatmalısın.",
+  "english_example_sentence": "You must tell the doctor all your symptoms in detail.",
+  "russian_example_sentence": "Ты должен рассказать врачу все свои симптомы подробно.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:40:53.520346+00:00",
+  "turkish_example_sentence_with_blank": "Sen doktora tüm semptomlarını detaylı ______."
 }

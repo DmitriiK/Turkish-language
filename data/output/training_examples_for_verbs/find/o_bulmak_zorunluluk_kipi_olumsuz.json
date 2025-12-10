@@ -11,10 +11,12 @@
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "mama"
   },
-  "english_example_sentence": "She must not find the small yellow toy box",
-  "russian_example_sentence": "Она не должна найти маленькую желтую коробку с игрушками",
-  "turkish_example_sentence": "O küçük sarı oyuncak kutusunu bulmamalı",
-  "turkish_example_sentence_with_blank": "O küçük sarı oyuncak kutusunu ______"
+  "turkish_example_sentence": "O parkta kayıp çocuğu bulmamalı.",
+  "english_example_sentence": "He/She must not find the lost child in the park.",
+  "russian_example_sentence": "Он/Она не должен найти потерянного ребенка в парке.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:34:00.104365+00:00",
+  "turkish_example_sentence_with_blank": "O parkta kayıp çocuğu ______."
 }

@@ -4,17 +4,19 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istediklerinde",
+    "verb_full": "istediğinde",
     "root": "iste",
     "tense_affix": "diğ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "onlar",
-    "personal_affix": "leri",
+    "personal_affix": "inde",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When they want adventure, they travel abroad.",
-  "russian_example_sentence": "Когда они хотят приключений, они путешествуют за границу.",
-  "turkish_example_sentence": "Onlar macera istediklerinde, yurt dışına seyahat ederler.",
-  "turkish_example_sentence_with_blank": "Onlar macera ______, yurt dışına seyahat ederler."
+  "turkish_example_sentence": "Onlar yeni bilgisayar oyunu istediğinde, internet hızı düşüyor.",
+  "english_example_sentence": "When they want a new computer game, the internet speed drops.",
+  "russian_example_sentence": "Когда они хотят новую компьютерную игру, скорость интернета падает.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T13:34:15.066001+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yeni bilgisayar oyunu ______, internet hızı düşüyor."
 }

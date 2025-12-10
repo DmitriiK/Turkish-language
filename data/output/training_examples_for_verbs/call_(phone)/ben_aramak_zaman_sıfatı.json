@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "aradığımda",
     "root": "ara",
-    "tense_affix": "dık",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "ben",
     "personal_affix": "ım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When I call, he always answers.",
-  "russian_example_sentence": "Когда я звоню, он всегда отвечает.",
-  "turkish_example_sentence": "Ben seni her sabah aradığımda, hemen cevap veriyorsun.",
-  "turkish_example_sentence_with_blank": "Ben seni her sabah ______, hemen cevap veriyorsun."
+  "turkish_example_sentence": "Ben eski arkadaşımı aradığımda, çok mutlu oldu.",
+  "english_example_sentence": "When I called my old friend, she became very happy.",
+  "russian_example_sentence": "Когда я позвонил своей старой подруге, она очень обрадовалась.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:19:45.005061+00:00",
+  "turkish_example_sentence_with_blank": "Ben eski arkadaşımı ______, çok mutlu oldu."
 }

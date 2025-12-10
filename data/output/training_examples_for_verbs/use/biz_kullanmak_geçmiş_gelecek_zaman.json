@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "kullanacaktık",
     "root": "kullan",
-    "tense_affix": "acaktı",
+    "tense_affix": "acak",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "tık",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We were going to use the library.",
-  "russian_example_sentence": "Мы собирались использовать библиотеку.",
-  "turkish_example_sentence": "Biz kütüphaneyi kullanacaktık, ama kapalıydı.",
-  "turkish_example_sentence_with_blank": "Biz kütüphaneyi ______, ama kapalıydı."
+  "turkish_example_sentence": "Biz piknikte taşınabilir ızgarayı bahçede kullanacaktık.",
+  "english_example_sentence": "We were going to use the portable grill in the garden at the picnic.",
+  "russian_example_sentence": "Мы собирались использовать портативный гриль в саду на пикнике.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:29:57.806955+00:00",
+  "turkish_example_sentence_with_blank": "Biz piknikte taşınabilir ızgarayı bahçede ______."
 }

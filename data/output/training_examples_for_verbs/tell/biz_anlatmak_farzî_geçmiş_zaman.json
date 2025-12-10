@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "anlatmışsak",
     "root": "anlat",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we had told the entire experience...",
-  "russian_example_sentence": "Если бы мы рассказали весь опыт...",
-  "turkish_example_sentence": "Biz bütün tecrübeyi anlatmışsak, herkes anlamıştır.",
-  "turkish_example_sentence_with_blank": "Biz bütün tecrübeyi ______, herkes anlamıştır."
+  "turkish_example_sentence": "Eğer biz bu uzun maceraya dair her şeyi anlatmışsak, dinleyiciler çok etkilenmiş olurdu.",
+  "english_example_sentence": "If we had told everything about this long adventure, the listeners would have been very impressed.",
+  "russian_example_sentence": "Если бы мы рассказали всё об этом долгом приключении, слушатели бы очень впечатлились.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:42:43.841974+00:00",
+  "turkish_example_sentence_with_blank": "Eğer biz bu uzun maceraya dair her şeyi ______, dinleyiciler çok etkilenmiş olurdu."
 }

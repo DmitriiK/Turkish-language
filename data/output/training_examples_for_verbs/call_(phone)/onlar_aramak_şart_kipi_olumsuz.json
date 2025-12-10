@@ -1,20 +1,22 @@
 {
   "verb_rank": 20,
-  "verb_english": "call (phone)",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
     "verb_full": "aramasalar",
     "root": "ara",
-    "tense_affix": "masa",
+    "tense_affix": "sa",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If they didn't call the doctor, worry.",
-  "russian_example_sentence": "Если бы они не позвонили врачу, волнуйтесь.",
-  "turkish_example_sentence": "Onlar doktoru aramasalar, endişelenirim.",
-  "turkish_example_sentence_with_blank": "Onlar doktoru ______, endişelenirim."
+  "turkish_example_sentence": "Onlar veterineri aramasalar hasta köpek iyileşmeyecek.",
+  "english_example_sentence": "If they don't call the veterinarian, the sick dog won't recover.",
+  "russian_example_sentence": "Если они не позвонят ветеринару, больная собака не выздоровеет.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:17:02.138721+00:00",
+  "turkish_example_sentence_with_blank": "Onlar veterineri ______ hasta köpek iyileşmeyecek."
 }

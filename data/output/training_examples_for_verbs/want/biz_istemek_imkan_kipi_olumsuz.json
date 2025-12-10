@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "isteyemeyiz",
     "root": "iste",
-    "tense_affix": "yeme",
+    "tense_affix": "ye",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yiz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "We cannot want noisy crowded shopping mall experience",
-  "russian_example_sentence": "Мы не можем хотеть шумный переполненный опыт торгового центра",
-  "turkish_example_sentence": "Biz gürültülü kalabalık alışveriş merkezi deneyimini isteyemeyiz",
-  "turkish_example_sentence_with_blank": "Biz gürültülü kalabalık alışveriş merkezi deneyimini ______"
+  "turkish_example_sentence": "Biz zor ve karmaşık matematik problemini bugün isteyemeyiz.",
+  "english_example_sentence": "We cannot want the difficult and complex math problem today.",
+  "russian_example_sentence": "Мы не можем хотеть сложную и запутанную математическую задачу сегодня.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:49:09.633607+00:00",
+  "turkish_example_sentence_with_blank": "Biz zor ve karmaşık matematik problemini bugün ______."
 }

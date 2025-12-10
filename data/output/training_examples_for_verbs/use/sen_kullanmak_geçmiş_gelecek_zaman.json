@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "kullanacaktın",
     "root": "kullan",
-    "tense_affix": "acaktı",
+    "tense_affix": "acak",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "tın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You were going to use the coupon.",
-  "russian_example_sentence": "Ты собирался использовать купон.",
-  "turkish_example_sentence": "Sen indirim kuponunu kullanacaktın, ne oldu?",
-  "turkish_example_sentence_with_blank": "Sen indirim kuponunu ______, ne oldu?"
+  "turkish_example_sentence": "Sen güzel kırmızı kalem projenin tasarımında kullanacaktın.",
+  "english_example_sentence": "You were going to use the beautiful red pen in your project design.",
+  "russian_example_sentence": "Ты собирался использовать красивую красную ручку в дизайне своего проекта.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:29:57.806955+00:00",
+  "turkish_example_sentence_with_blank": "Sen güzel kırmızı kalem projenin tasarımında ______."
 }

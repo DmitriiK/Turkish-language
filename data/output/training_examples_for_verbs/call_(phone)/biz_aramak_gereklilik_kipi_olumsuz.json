@@ -4,17 +4,19 @@
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "aramamamız lazım",
+    "verb_full": "aramamız",
     "root": "ara",
-    "tense_affix": " ",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "mız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "We don't need to call often",
-  "russian_example_sentence": "Нам не нужно звонить часто",
-  "turkish_example_sentence": "Biz onları sık sık aramamamız lazım",
-  "turkish_example_sentence_with_blank": "Biz onları sık sık ______"
+  "turkish_example_sentence": "Biz kırgın komşuyu hafta sonunda aramamız gerek.",
+  "english_example_sentence": "We should not call the upset neighbor on the weekend.",
+  "russian_example_sentence": "Нам не нужно звонить расстроенному соседу на выходных.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:17:21.028205+00:00",
+  "turkish_example_sentence_with_blank": "Biz kırgın komşuyu hafta sonunda ______ gerek."
 }

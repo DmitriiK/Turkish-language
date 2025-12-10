@@ -4,17 +4,19 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatmamız lazım",
+    "verb_full": "anlatmamız",
     "root": "anlat",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "mız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We need to tell the beautiful experience together",
-  "russian_example_sentence": "Мы должны рассказать прекрасный опыт вместе",
-  "turkish_example_sentence": "Biz güzel deneyimi birlikte anlatmamız lazım",
-  "turkish_example_sentence_with_blank": "Biz güzel deneyimi birlikte ______"
+  "turkish_example_sentence": "Biz ailemize uzun yolculuğumuzun heyecan verici maceralarını anlatmamız lazım.",
+  "english_example_sentence": "We need to tell our family about the exciting adventures of our long journey.",
+  "russian_example_sentence": "Мы должны рассказать нашей семье о захватывающих приключениях нашего долгого путешествия.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:40:14.516997+00:00",
+  "turkish_example_sentence_with_blank": "Biz ailemize uzun yolculuğumuzun heyecan verici maceralarını ______ lazım."
 }

@@ -1,6 +1,6 @@
 {
   "verb_rank": 20,
-  "verb_english": "call (phone)",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they called their friends, party?",
-  "russian_example_sentence": "Если бы они позвонили своим друзьям, вечеринка?",
-  "turkish_example_sentence": "Onlar arkadaşlarını arasalar, parti mi yapsak?",
-  "turkish_example_sentence_with_blank": "Onlar arkadaşlarını ______, parti mi yapsak?"
+  "turkish_example_sentence": "Onlar itfaiyeyi arasalar yangın söndürülecek.",
+  "english_example_sentence": "If they call the fire department, the fire will be extinguished.",
+  "russian_example_sentence": "Если они позвонят в пожарную часть, огонь будет потушен.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:17:02.138721+00:00",
+  "turkish_example_sentence_with_blank": "Onlar itfaiyeyi ______ yangın söndürülecek."
 }

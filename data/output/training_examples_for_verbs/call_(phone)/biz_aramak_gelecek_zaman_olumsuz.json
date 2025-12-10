@@ -1,20 +1,22 @@
 {
   "verb_rank": 20,
-  "verb_english": "call (phone)",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
     "verb_full": "aramayacağız",
     "root": "ara",
-    "tense_affix": "yacağ",
+    "tense_affix": "yacak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "ız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "We will not call them during their quiet dinner time.",
-  "russian_example_sentence": "Мы не позвоним им во время их тихого ужина.",
-  "turkish_example_sentence": "Biz onların sessiz yemek saatinde aramayacağız.",
-  "turkish_example_sentence_with_blank": "Biz onların sessiz yemek saatinde ______."
+  "turkish_example_sentence": "Biz bu ay pahalı otel resepsiyonunu aramayacağız.",
+  "english_example_sentence": "We will not call the expensive hotel reception this month.",
+  "russian_example_sentence": "Мы не позвоним в дорогую гостиницу на этот месяц.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:15:21.109892+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu ay pahalı otel resepsiyonunu ______."
 }

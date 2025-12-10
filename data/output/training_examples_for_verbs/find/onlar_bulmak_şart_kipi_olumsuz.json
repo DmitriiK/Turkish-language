@@ -4,7 +4,7 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulmasalar",
+    "verb_full": "bulmazlarsa",
     "root": "bul",
     "tense_affix": "sa",
     "verb_tense": "şart_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If they don't find the car, they'll get lost.",
-  "russian_example_sentence": "Если они не найдут машину, они потеряются.",
-  "turkish_example_sentence": "Arabayı bulmasalar, kaybolurlar.",
-  "turkish_example_sentence_with_blank": "Arabayı ______, kaybolurlar."
+  "turkish_example_sentence": "Onlar yeterli kanıt bulmazlarsa, davayı kaybedecekler.",
+  "english_example_sentence": "If they do not find sufficient evidence, they will lose the case.",
+  "russian_example_sentence": "Если они не найдут достаточные доказательства, они проиграют дело.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:35:00.980425+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yeterli kanıt ______, davayı kaybedecekler."
 }

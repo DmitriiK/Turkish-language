@@ -1,6 +1,6 @@
 {
   "verb_rank": 20,
-  "verb_english": "call (phone)",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you called a taxi, it'd arrive.",
-  "russian_example_sentence": "Если бы вы вызвали такси, оно бы приехало.",
-  "turkish_example_sentence": "Siz taksi arasaydınız, taksi gelirdi.",
-  "turkish_example_sentence_with_blank": "Siz taksi arasaydınız, taksi gelirdi."
+  "turkish_example_sentence": "Siz üniversite kayıt ofisini arasanız öğrenci danışmanı size yardımcı olabilir.",
+  "english_example_sentence": "If you call the university registration office, the student advisor can help you.",
+  "russian_example_sentence": "Если вы позвоните в офис регистрации университета, студенческий советник может вам помочь.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:17:02.138721+00:00",
+  "turkish_example_sentence_with_blank": "Siz üniversite kayıt ofisini ______ öğrenci danışmanı size yardımcı olabilir."
 }

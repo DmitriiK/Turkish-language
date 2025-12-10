@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Let him give the important letter to the manager",
-  "russian_example_sentence": "Пусть он даст важное письмо менеджеру",
-  "turkish_example_sentence": "Önemli mektubu müdüre versin",
-  "turkish_example_sentence_with_blank": "Önemli mektubu müdüre ______"
+  "turkish_example_sentence": "O doktor hastaya ilaç versin.",
+  "english_example_sentence": "Let him/her the doctor give medicine to the patient.",
+  "russian_example_sentence": "Пусть врач даст лекарство пациенту.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:54:34.122361+00:00",
+  "turkish_example_sentence_with_blank": "O doktor hastaya ilaç ______."
 }

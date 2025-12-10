@@ -4,17 +4,19 @@
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "aramamışsak",
+    "verb_full": "aramamamışsak",
     "root": "ara",
-    "tense_affix": "mamışsa",
+    "tense_affix": "mışsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If we hadn't called the fire department...",
-  "russian_example_sentence": "Если бы мы не позвонили в пожарную службу...",
-  "turkish_example_sentence": "Biz itfaiyeyi aramamışsak, yangın büyürdü.",
-  "turkish_example_sentence_with_blank": "Biz itfaiyeyi ______, yangın büyürdü."
+  "turkish_example_sentence": "Biz pazar günü elektrikçiyi aramamamışsak, ışıklar kapalı kalırdı.",
+  "english_example_sentence": "If we had not called the electrician on Sunday, the lights would have remained off.",
+  "russian_example_sentence": "Если бы мы не позвонили электрику в воскресенье, свет остался бы выключенным.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:19:05.698775+00:00",
+  "turkish_example_sentence_with_blank": "Biz pazar günü elektrikçiyi ______, ışıklar kapalı kalırdı."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "bulmayacaklardı",
     "root": "bul",
-    "tense_affix": "mayacaklardı",
+    "tense_affix": "acaktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "They weren't going to find a solution quickly",
-  "russian_example_sentence": "Они не собирались быстро найти решение",
-  "turkish_example_sentence": "Onlar karmaşık problem için kolay bir cevap bulmayacaklardı",
-  "turkish_example_sentence_with_blank": "Onlar karmaşık problem için kolay bir cevap ______"
+  "turkish_example_sentence": "Onlar arkeolojik kazıda antik gümüş eserler bulmayacaklardı.",
+  "english_example_sentence": "They were not going to find ancient silver artifacts in the archaeological excavation.",
+  "russian_example_sentence": "Они не собирались найти древние серебряные артефакты при археологических раскопках.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:36:33.270046+00:00",
+  "turkish_example_sentence_with_blank": "Onlar arkeolojik kazıda antik gümüş eserler ______."
 }

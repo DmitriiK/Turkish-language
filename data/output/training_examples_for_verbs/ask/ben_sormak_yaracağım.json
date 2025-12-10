@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I will ask the experienced teacher tomorrow morning",
-  "russian_example_sentence": "Я завтра утром спрошу опытного учителя",
-  "turkish_example_sentence": "Ben yarın sabah deneyimli öğretmene soracağım",
-  "turkish_example_sentence_with_blank": "Ben yarın sabah deneyimli öğretmene ______"
+  "turkish_example_sentence": "Ben yarın öğretmene zor matematik sorusunu soracağım.",
+  "english_example_sentence": "I will ask the teacher a difficult math question tomorrow.",
+  "russian_example_sentence": "Я завтра спрошу учителя сложный вопрос по математике.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:44:51.983013+00:00",
+  "turkish_example_sentence_with_blank": "Ben yarın öğretmene zor matematik sorusunu ______."
 }

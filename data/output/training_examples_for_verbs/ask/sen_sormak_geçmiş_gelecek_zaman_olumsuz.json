@@ -4,7 +4,7 @@
   "verb_russian": "спрашивать",
   "verb_infinitive": "sormak",
   "turkish_verb": {
-    "verb_full": "sormayacaktın",
+    "verb_full": "sormaacaktın",
     "root": "sor",
     "tense_affix": "acaktı",
     "verb_tense": "geçmiş_gelecek_zaman",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You weren't going to ask questions",
-  "russian_example_sentence": "Ты не собирался задавать вопросы",
-  "turkish_example_sentence": "Sen zor sorular sormayacaktın toplantıda",
-  "turkish_example_sentence_with_blank": "Sen zor sorular ______ toplantıda"
+  "turkish_example_sentence": "Sen arkadaşına kişisel soruları sormaacaktın.",
+  "english_example_sentence": "You were not going to ask your friend personal questions.",
+  "russian_example_sentence": "Ты не собирался спрашивать своего друга личные вопросы.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:48:04.243239+00:00",
+  "turkish_example_sentence_with_blank": "Sen arkadaşına kişisel soruları ______."
 }

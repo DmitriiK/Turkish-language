@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "bulursak",
     "root": "bul",
-    "tense_affix": "ursa",
+    "tense_affix": "ur",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we find the perfect gift",
-  "russian_example_sentence": "Если мы найдем идеальный подарок",
-  "turkish_example_sentence": "Mükemmel hediyeyi bulursak",
-  "turkish_example_sentence_with_blank": "Mükemmel hediyeyi ______"
+  "turkish_example_sentence": "Biz denizde değerli mercan bulursak, bilim insanlarına haber vereceğiz.",
+  "english_example_sentence": "If we find valuable coral in the sea, we will inform the scientists.",
+  "russian_example_sentence": "Если мы найдем ценный коралл в море, мы сообщим ученым.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:35:44.232218+00:00",
+  "turkish_example_sentence_with_blank": "Biz denizde değerli mercan ______, bilim insanlarına haber vereceğiz."
 }

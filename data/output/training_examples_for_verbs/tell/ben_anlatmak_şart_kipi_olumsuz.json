@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "anlatmasam",
     "root": "anlat",
-    "tense_affix": "masa",
+    "tense_affix": "sa",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If I didn't tell you this story",
-  "russian_example_sentence": "Если бы я не рассказал тебе эту историю",
-  "turkish_example_sentence": "Eğer sana bu hikâyeyi anlatmasam",
-  "turkish_example_sentence_with_blank": "Eğer sana bu hikâyeyi ______"
+  "turkish_example_sentence": "Ben bu önemli haberi anlatmasam, kimse bilmeyecek.",
+  "english_example_sentence": "If I were not to tell this important news, nobody would know.",
+  "russian_example_sentence": "Если бы я не рассказал эту важную новость, никто бы не узнал.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:41:30.759279+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu önemli haberi ______, kimse bilmeyecek."
 }

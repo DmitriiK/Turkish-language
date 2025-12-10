@@ -4,7 +4,7 @@
   "verb_russian": "спрашивать",
   "verb_infinitive": "sormak",
   "turkish_verb": {
-    "verb_full": "sormayacaktınız",
+    "verb_full": "sormaacaktınız",
     "root": "sor",
     "tense_affix": "acaktı",
     "verb_tense": "geçmiş_gelecek_zaman",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You weren't going to ask anything sensitive",
-  "russian_example_sentence": "Вы не собирались спрашивать ничего деликатного",
-  "turkish_example_sentence": "Siz arkadaşlarınızdan hassas konular sormayacaktınız partide",
-  "turkish_example_sentence_with_blank": "Siz arkadaşlarınızdan hassas konular ______ partide"
+  "turkish_example_sentence": "Siz hemşireye tıbbi tavsiye sormaacaktınız.",
+  "english_example_sentence": "You were not going to ask the nurse for medical advice.",
+  "russian_example_sentence": "Вы не собирались спрашивать медсестру о медицинском совете.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:48:04.243239+00:00",
+  "turkish_example_sentence_with_blank": "Siz hemşireye tıbbi tavsiye ______."
 }

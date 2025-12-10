@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sormadığınızda",
     "root": "sor",
-    "tense_affix": "dık",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "siz",
-    "personal_affix": "ınız",
+    "personal_affix": "uz",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "When you don't ask, things break",
-  "russian_example_sentence": "Когда вы не спрашиваете, вещи ломаются",
-  "turkish_example_sentence": "Siz doktora sağlık tavsiyelerini sormadığınızda, durum kötüleşebilir.",
-  "turkish_example_sentence_with_blank": "Siz doktora sağlık tavsiyelerini ______, durum kötüleşebilir."
+  "turkish_example_sentence": "Siz önemli konuda hiç sormadığınızda, yanlış anlaşılma meydana geldi.",
+  "english_example_sentence": "When you didn't ask about the important matter, a misunderstanding occurred.",
+  "russian_example_sentence": "Когда вы не спросили о важном вопросе, произошло недоразумение.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:49:03.430239+00:00",
+  "turkish_example_sentence_with_blank": "Siz önemli konuda hiç ______, yanlış anlaşılma meydana geldi."
 }

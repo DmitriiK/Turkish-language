@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "çalışırsan",
     "root": "çalış",
-    "tense_affix": "ırsan",
+    "tense_affix": "ır",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you work quickly, you will finish early",
-  "russian_example_sentence": "Если ты быстро работаешь, ты закончишь рано",
-  "turkish_example_sentence": "Eğer hızlı çalışırsan, erken bitirirsin",
-  "turkish_example_sentence_with_blank": "Eğer hızlı ______, erken bitirirsin"
+  "turkish_example_sentence": "Sen yeni şirkette çalışırsan, iyi maaş kazanabilirsin.",
+  "english_example_sentence": "If you work at the new company, you can earn good salary.",
+  "russian_example_sentence": "Если ты будешь работать в новой компании, ты сможешь получать хорошую зарплату.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:52:54.426093+00:00",
+  "turkish_example_sentence_with_blank": "Sen yeni şirkette ______, iyi maaş kazanabilirsin."
 }

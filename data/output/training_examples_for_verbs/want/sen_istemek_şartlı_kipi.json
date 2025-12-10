@@ -4,17 +4,19 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istersen",
+    "verb_full": "istesen",
     "root": "iste",
-    "tense_affix": "ersen",
+    "tense_affix": "se",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you want to join, let me know.",
-  "russian_example_sentence": "Если ты захочешь присоединиться, дай знать.",
-  "turkish_example_sentence": "Eğer katılmak istersen bana haber ver.",
-  "turkish_example_sentence_with_blank": "Eğer katılmak ______ bana haber ver."
+  "turkish_example_sentence": "Sen güzel bir tatil istesen, Akdeniz'e gidebiliriz.",
+  "english_example_sentence": "If you want a beautiful vacation, we can go to the Mediterranean.",
+  "russian_example_sentence": "Если ты захочешь красивый отпуск, мы можем поехать на Средиземное море.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:50:42.908812+00:00",
+  "turkish_example_sentence_with_blank": "Sen güzel bir tatil ______, Akdeniz'e gidebiliriz."
 }

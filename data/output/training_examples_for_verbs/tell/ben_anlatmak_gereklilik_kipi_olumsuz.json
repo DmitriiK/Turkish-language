@@ -4,17 +4,19 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatmamam lazım",
+    "verb_full": "anlatmaman",
     "root": "anlat",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I should not tell the secret to anyone",
-  "russian_example_sentence": "Я не должен рассказывать секрет никому",
-  "turkish_example_sentence": "Ben bu gizli bilgiyi kimseye anlatmamam lazım",
-  "turkish_example_sentence_with_blank": "Ben bu gizli bilgiyi kimseye ______"
+  "turkish_example_sentence": "Ben bu gizli bilgiyi kimseye anlatmaman lazım.",
+  "english_example_sentence": "I should not tell this secret information to anyone.",
+  "russian_example_sentence": "Я не должен рассказывать эту секретную информацию никому.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:40:14.516997+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu gizli bilgiyi kimseye ______ lazım."
 }

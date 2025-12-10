@@ -4,7 +4,7 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemesem",
+    "verb_full": "istemeseм",
     "root": "iste",
     "tense_affix": "se",
     "verb_tense": "şart_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If I don't want to sleep, I will read",
-  "russian_example_sentence": "Если я не захочу спать, я почитаю",
-  "turkish_example_sentence": "Uyumak istemesem, okurum",
-  "turkish_example_sentence_with_blank": "Uyumak ______, okurum"
+  "turkish_example_sentence": "Ben bu zor görevleri istemeseм, başka seçeneğim yoktur.",
+  "english_example_sentence": "If I were not to want these difficult tasks, I have no other choice.",
+  "russian_example_sentence": "Если бы я не захотел эти сложные задачи, у меня нет другого выбора.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:50:23.824484+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu zor görevleri ______, başka seçeneğim yoktur."
 }

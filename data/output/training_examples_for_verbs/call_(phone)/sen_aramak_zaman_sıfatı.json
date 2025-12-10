@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "aradığında",
     "root": "ara",
-    "tense_affix": "dık",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "sen",
     "personal_affix": "ın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When you call, I'm usually available.",
-  "russian_example_sentence": "Когда ты звонишь, я обычно доступен.",
-  "turkish_example_sentence": "Sen beni öğlen aradığında, genellikle müsait oluyorum.",
-  "turkish_example_sentence_with_blank": "Sen beni öğlen ______, genellikle müsait oluyorum."
+  "turkish_example_sentence": "Sen önemli müdürü aradığında, hemen cevap verdi.",
+  "english_example_sentence": "When you called the important manager, he answered immediately.",
+  "russian_example_sentence": "Когда ты позвонил важному менеджеру, он сразу ответил.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:19:45.005061+00:00",
+  "turkish_example_sentence_with_blank": "Sen önemli müdürü ______, hemen cevap verdi."
 }

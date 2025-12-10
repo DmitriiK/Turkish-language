@@ -4,17 +4,19 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istememişlerse",
+    "verb_full": "istememişolsalar",
     "root": "iste",
-    "tense_affix": "mişlerse",
+    "tense_affix": "miş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "ler",
+    "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If they hadn't wanted, they'd refuse",
-  "russian_example_sentence": "Если бы они не захотели, они бы отказались",
-  "turkish_example_sentence": "İstememişlerse, teklifi reddetmekte özgürlerdi",
-  "turkish_example_sentence_with_blank": "İstememişlerse, teklifi reddetmekte özgürlerdi"
+  "turkish_example_sentence": "Onlar o sıkıcı akademik konferansı istememişolsalar, katılmazlardı.",
+  "english_example_sentence": "If they had not wanted that boring academic conference, they would not have attended.",
+  "russian_example_sentence": "Если бы они не хотели то скучную академическую конференцию, они бы не участвовали.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:51:43.434169+00:00",
+  "turkish_example_sentence_with_blank": "Onlar o sıkıcı akademik konferansı ______, katılmazlardı."
 }

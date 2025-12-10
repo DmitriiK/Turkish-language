@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "bulmuşsan",
     "root": "bul",
-    "tense_affix": "muşsa",
+    "tense_affix": "muş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you had found the error",
-  "russian_example_sentence": "Если бы ты нашел ошибку",
-  "turkish_example_sentence": "Sen programdaki hatayı bulmuşsan, lütfen bana söyle.",
-  "turkish_example_sentence_with_blank": "Sen programdaki hatayı ______, lütfen bana söyle."
+  "turkish_example_sentence": "Sen kayıp anahtarı bahçede bulmuşsan, kapıyı açabilirdin.",
+  "english_example_sentence": "If you had found the lost key in the garden, you could have opened the door.",
+  "russian_example_sentence": "Если бы ты нашел потерянный ключ в саду, ты бы смог открыть дверь.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:36:55.470944+00:00",
+  "turkish_example_sentence_with_blank": "Sen kayıp anahtarı bahçede ______, kapıyı açabilirdin."
 }

@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I did not tell the teacher about the broken window",
-  "russian_example_sentence": "Я не рассказал учителю о разбитом окне",
-  "turkish_example_sentence": "Ben öğretmene kırılmış pencere hakkında anlatmadım",
-  "turkish_example_sentence_with_blank": "Ben öğretmene kırılmış pencere hakkında ______"
+  "turkish_example_sentence": "Ben bu sabah öğretmene önemli bir şey anlatmadım.",
+  "english_example_sentence": "I did not tell the teacher an important thing this morning.",
+  "russian_example_sentence": "Я не рассказал учителю важное дело этим утром.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:38:23.518492+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu sabah öğretmene önemli bir şey ______."
 }

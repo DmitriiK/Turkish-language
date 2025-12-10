@@ -4,7 +4,7 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemiyor",
+    "verb_full": "istemiyorum",
     "root": "iste",
     "tense_affix": "iyor",
     "verb_tense": "şimdiki_zaman",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "m"
   },
-  "english_example_sentence": "I do not want cold bitter coffee today",
-  "russian_example_sentence": "Я не хочу холодный горький кофе сегодня",
-  "turkish_example_sentence": "Ben bugün soğuk acı kahveyi istemiyor",
-  "turkish_example_sentence_with_blank": "Ben bugün soğuk acı kahveyi ______"
+  "turkish_example_sentence": "Ben bu sabah sıcak kahveyi istemiyorum.",
+  "english_example_sentence": "I do not want hot coffee this morning.",
+  "russian_example_sentence": "Я не хочу горячий кофе этим утром.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:14:46.661819+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu sabah sıcak kahveyi ______."
 }

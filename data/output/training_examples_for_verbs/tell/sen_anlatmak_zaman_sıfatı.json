@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "anlattığında",
     "root": "anlat",
-    "tense_affix": "tığı",
+    "tense_affix": "tığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "ında",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When you tell the true story",
-  "russian_example_sentence": "Когда ты рассказываешь правдивую историю",
-  "turkish_example_sentence": "Sen gerçeği anlattığında, herkes sana inanıyor",
-  "turkish_example_sentence_with_blank": "Sen gerçeği ______, herkes sana inanıyor"
+  "turkish_example_sentence": "Sen komik bir fıkrayı sınıfta anlattığında, herkes gülüp eğlendi.",
+  "english_example_sentence": "When you told a funny joke in class, everyone laughed and had fun.",
+  "russian_example_sentence": "Когда ты рассказал смешную шутку в классе, все смеялись и веселились.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:43:12.535980+00:00",
+  "turkish_example_sentence_with_blank": "Sen komik bir fıkrayı sınıfta ______, herkes gülüp eğlendi."
 }

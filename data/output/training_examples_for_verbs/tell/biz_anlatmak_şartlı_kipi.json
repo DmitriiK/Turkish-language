@@ -4,17 +4,19 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatırsak",
+    "verb_full": "anlatirsak",
     "root": "anlat",
-    "tense_affix": "arsa",
+    "tense_affix": "ırsa",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we tell the interesting plan",
-  "russian_example_sentence": "Если мы расскажем интересный план",
-  "turkish_example_sentence": "Eğer ilginç planı anlatırsak",
-  "turkish_example_sentence_with_blank": "Eğer ilginç planı ______"
+  "turkish_example_sentence": "Biz eski bir efsaneyi anlatirsak, çocuklar meraklanır.",
+  "english_example_sentence": "If we tell an old legend, the children will become curious.",
+  "russian_example_sentence": "Если мы расскажем старую легенду, дети заинтересуются.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:41:50.428993+00:00",
+  "turkish_example_sentence_with_blank": "Biz eski bir efsaneyi ______, çocuklar meraklanır."
 }

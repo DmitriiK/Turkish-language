@@ -4,7 +4,7 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemiyor",
+    "verb_full": "istemiyorsunuz",
     "root": "iste",
     "tense_affix": "iyor",
     "verb_tense": "şimdiki_zaman",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "m"
   },
-  "english_example_sentence": "You do not want spicy hot Indian food",
-  "russian_example_sentence": "Вы не хотите острую горячую индийскую еду",
-  "turkish_example_sentence": "Siz acı sıcak Hint yemeğini istemiyor",
-  "turkish_example_sentence_with_blank": "Siz acı sıcak Hint yemeğini ______"
+  "turkish_example_sentence": "Siz kalabalık pazarı istemiyorsunuz.",
+  "english_example_sentence": "You do not want crowded market.",
+  "russian_example_sentence": "Вы не хотите переполненный рынок.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:14:46.661819+00:00",
+  "turkish_example_sentence_with_blank": "Siz kalabalık pazarı ______."
 }

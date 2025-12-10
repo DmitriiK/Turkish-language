@@ -4,17 +4,19 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemeniz lazım değil",
+    "verb_full": "istemememeniz",
     "root": "iste",
-    "tense_affix": "lazım",
+    "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "niz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You all should not want that unhealthy junk food",
-  "russian_example_sentence": "Вы не должны хотеть эту нездоровую вредную еду",
-  "turkish_example_sentence": "Siz o sağlıksız zararlı yiyeceği istemeniz lazım değil",
-  "turkish_example_sentence_with_blank": "Siz o sağlıksız zararlı yiyeceği ______"
+  "turkish_example_sentence": "Siz sarı bir çanta istemememeniz gerek.",
+  "english_example_sentence": "You (formal/plural) need to not want a yellow bag.",
+  "russian_example_sentence": "Вам нужно не хотеть желтую сумку.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:48:51.452213+00:00",
+  "turkish_example_sentence_with_blank": "Siz sarı bir çanta ______ gerek."
 }

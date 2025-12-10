@@ -4,17 +4,19 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatmamanız lazım",
+    "verb_full": "anlatmamanız",
     "root": "anlat",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You must not tell the false rumors here",
-  "russian_example_sentence": "Вы не должны рассказывать ложные слухи здесь",
-  "turkish_example_sentence": "Siz yanlış söylentileri burada anlatmamanız lazım",
-  "turkish_example_sentence_with_blank": "Siz yanlış söylentileri burada ______"
+  "turkish_example_sentence": "Siz bu hassas konuyu sosyal medyada anlatmamanız gerek.",
+  "english_example_sentence": "You should not tell this sensitive topic on social media.",
+  "russian_example_sentence": "Вы не должны рассказывать об этой чувствительной теме в социальных сетях.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:40:14.516997+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu hassas konuyu sosyal medyada ______ gerek."
 }

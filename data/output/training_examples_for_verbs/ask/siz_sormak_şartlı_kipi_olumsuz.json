@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sormazsanız",
     "root": "sor",
-    "tense_affix": "sa",
+    "tense_affix": "maz",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If you don’t ask now",
-  "russian_example_sentence": "Если вы не спросите сейчас",
-  "turkish_example_sentence": "Siz şimdi sormazsanız, bilgi alamasınız",
-  "turkish_example_sentence_with_blank": "Siz şimdi ______, bilgi alamasınız"
+  "turkish_example_sentence": "Siz rehbere turda neler olacağını sormazsanız, sürprizlerle karşılaşacaksınız.",
+  "english_example_sentence": "If you don't ask the guide what will happen on the tour, you will face surprises.",
+  "russian_example_sentence": "Если вы не спросите гида, что произойдёт на экскурсии, вы столкнётесь с сюрпризами.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:47:28.102471+00:00",
+  "turkish_example_sentence_with_blank": "Siz rehbere turda neler olacağını ______, sürprizlerle karşılaşacaksınız."
 }

@@ -4,7 +4,7 @@
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "arsanız",
+    "verb_full": "ararsanız",
     "root": "ara",
     "tense_affix": "rsa",
     "verb_tense": "şartlı_kipi",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you call, I'll give you directions.",
-  "russian_example_sentence": "Если вы позвоните, я дам вам указания.",
-  "turkish_example_sentence": "Siz beni otelden ararsanız, size yol tarifi veririm.",
-  "turkish_example_sentence_with_blank": "Siz beni otelden ar______, size yol tarifi veririm."
+  "turkish_example_sentence": "Siz profesyonel danışmanı öğleden sonra ararsanız, tavsiye alabilirsiniz.",
+  "english_example_sentence": "If you call the professional consultant in the afternoon, you can get advice.",
+  "russian_example_sentence": "Если вы позвоните профессиональному консультанту днем, вы сможете получить совет.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:18:40.638216+00:00",
+  "turkish_example_sentence_with_blank": "Siz profesyonel danışmanı öğleden sonra ______, tavsiye alabilirsiniz."
 }

@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I am asking the friendly teacher a difficult question",
-  "russian_example_sentence": "Я спрашиваю у дружелюбного учителя сложный вопрос",
-  "turkish_example_sentence": "Ben dostça öğretmene zor bir soru soruyorum",
-  "turkish_example_sentence_with_blank": "Ben dostça öğretmene zor bir soru ______"
+  "turkish_example_sentence": "Ben öğretmene zor matematik sorusunu soruyorum.",
+  "english_example_sentence": "I am asking the teacher a difficult math question.",
+  "russian_example_sentence": "Я спрашиваю у учителя сложный математический вопрос.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:43:30.462515+00:00",
+  "turkish_example_sentence_with_blank": "Ben öğretmene zor matematik sorusunu ______."
 }

@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If he had called his lawyer...",
-  "russian_example_sentence": "Если бы он позвонил своему адвокату...",
-  "turkish_example_sentence": "O avukatını aramışsa, daha iyi bir anlaşma yapardı.",
-  "turkish_example_sentence_with_blank": "O avukatını ______, daha iyi bir anlaşma yapardı."
+  "turkish_example_sentence": "O cuma öğleden sonra önemli müşteri aramışsa, sözleşme imzalanırdı.",
+  "english_example_sentence": "If he had called the important client on Friday afternoon, the contract would have been signed.",
+  "russian_example_sentence": "Если бы он позвонил важному клиенту в пятницу после полудня, контракт был бы подписан.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:19:05.698775+00:00",
+  "turkish_example_sentence_with_blank": "O cuma öğleden sonra önemli müşteri ______, sözleşme imzalanırdı."
 }

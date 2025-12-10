@@ -4,17 +4,19 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "vermemeniz lazım",
+    "verb_full": "vermemeniz",
     "root": "ver",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "niz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You should not give extra money to the suspicious beggar",
-  "russian_example_sentence": "Вы не должны давать дополнительные деньги подозрительному нищему",
-  "turkish_example_sentence": "Siz fazla parayı şüpheli dilenciye vermemeniz lazım",
-  "turkish_example_sentence_with_blank": "Siz fazla parayı şüpheli dilenciye ______"
+  "turkish_example_sentence": "Siz müşteriye eksik ürün vermemeniz gerek.",
+  "english_example_sentence": "You need to not give incomplete products to the customer.",
+  "russian_example_sentence": "Вам нужно не давать неполные товары клиенту.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:54:51.652413+00:00",
+  "turkish_example_sentence_with_blank": "Siz müşteriye eksik ürün ______ gerek."
 }

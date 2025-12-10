@@ -4,7 +4,7 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemeyeler",
+    "verb_full": "istememeler",
     "root": "iste",
     "tense_affix": "ye",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "May they not want sadness",
-  "russian_example_sentence": "Пусть они не захотят грусти",
-  "turkish_example_sentence": "Onlar üzüntü istemeyeler",
-  "turkish_example_sentence_with_blank": "Onlar üzüntü ______"
+  "turkish_example_sentence": "Onlar eski hastalıklı arabaları tamir ettirmek istememeler.",
+  "english_example_sentence": "May they not want to have this old broken car repaired.",
+  "russian_example_sentence": "Пусть они не захотят чинить эту старую неисправную машину.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:50:04.940687+00:00",
+  "turkish_example_sentence_with_blank": "Onlar eski hastalıklı arabaları tamir ettirmek ______."
 }

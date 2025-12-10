@@ -1,20 +1,22 @@
 {
   "verb_rank": 20,
-  "verb_english": "call (phone)",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
     "verb_full": "aramayan",
     "root": "ara",
-    "tense_affix": "mayan",
+    "tense_affix": "yan",
     "verb_tense": "sıfat_fiil",
     "personal_pronoun": null,
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "The non-calling friend felt guilty.",
-  "russian_example_sentence": "Не звонящий друг чувствовал себя виноватым.",
-  "turkish_example_sentence": "Aramayan arkadaş suçlu hissetti.",
-  "turkish_example_sentence_with_blank": "Aramayan arkadaş suçlu hissetti."
+  "turkish_example_sentence": "Beni hiç aramayan eski arkadaşım şimdi başka şehirde yaşıyor.",
+  "english_example_sentence": "My old friend who never calls me is now living in another city.",
+  "russian_example_sentence": "Мой старый друг, который никогда мне не звонит, теперь живет в другом городе.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:19:11.642290+00:00",
+  "turkish_example_sentence_with_blank": "Beni hiç ______ eski arkadaşım şimdi başka şehirde yaşıyor."
 }

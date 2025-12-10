@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sormazsak",
     "root": "sor",
-    "tense_affix": "sa",
+    "tense_affix": "maz",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If we don’t ask now",
-  "russian_example_sentence": "Если мы не спросим сейчас",
-  "turkish_example_sentence": "Biz şimdi sormazsak, sonuçları öğrenemeyeceğiz",
-  "turkish_example_sentence_with_blank": "Biz şimdi ______, sonuçları öğrenemeyeceğiz"
+  "turkish_example_sentence": "Biz danışmandan kariyer planı sormazsak, belirsiz bir gelecek yaşayacağız.",
+  "english_example_sentence": "If we don't ask the consultant about career plan, we will live an uncertain future.",
+  "russian_example_sentence": "Если мы не спросим консультанта о плане карьеры, мы будем жить неопределённым будущим.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:47:28.102471+00:00",
+  "turkish_example_sentence_with_blank": "Biz danışmandan kariyer planı ______, belirsiz bir gelecek yaşayacağız."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "verirseniz",
     "root": "ver",
-    "tense_affix": "ir",
+    "tense_affix": "irse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "siniz",
+    "personal_affix": "niz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you give your opinion clearly",
-  "russian_example_sentence": "Если вы ясно выскажете свое мнение",
-  "turkish_example_sentence": "Fikriniz açık verirseniz",
-  "turkish_example_sentence_with_blank": "Fikriniz açık ______"
+  "turkish_example_sentence": "Siz bana değerli tavsiye verirseniz, kariyerimde ilerleme yapacağım.",
+  "english_example_sentence": "If you give me valuable advice, I will make progress in my career.",
+  "russian_example_sentence": "Если вы дадите мне ценный совет, я добьюсь прогресса в своей карьере.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:56:39.122780+00:00",
+  "turkish_example_sentence_with_blank": "Siz bana değerli tavsiye ______, kariyerimde ilerleme yapacağım."
 }

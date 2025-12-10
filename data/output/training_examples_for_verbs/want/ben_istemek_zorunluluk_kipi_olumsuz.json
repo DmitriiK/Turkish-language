@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "istememeli",
     "root": "iste",
-    "tense_affix": "memeli",
+    "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "yim",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "I must not want unnecessary expensive gifts",
-  "russian_example_sentence": "Я не должен хотеть ненужные дорогие подарки",
-  "turkish_example_sentence": "Ben gereksiz pahalı hediyeler istememeli",
-  "turkish_example_sentence_with_blank": "Ben gereksiz pahalı hediyeler ______"
+  "turkish_example_sentence": "Ben pahalı hediye istememeli.",
+  "english_example_sentence": "I must not want an expensive gift.",
+  "russian_example_sentence": "Я не должен хотеть дорогой подарок.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:49:24.210864+00:00",
+  "turkish_example_sentence_with_blank": "Ben pahalı hediye ______."
 }

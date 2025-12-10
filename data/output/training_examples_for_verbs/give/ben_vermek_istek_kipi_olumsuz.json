@@ -4,7 +4,7 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "vermeyeyim",
+    "verb_full": "vermeyelim",
     "root": "ver",
     "tense_affix": "e",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "Let me not give false information.",
-  "russian_example_sentence": "Позвольте мне не давать ложную информацию.",
-  "turkish_example_sentence": "Yanlış bilgi vermeyeyim.",
-  "turkish_example_sentence_with_blank": "Yanlış bilgi ______."
+  "turkish_example_sentence": "Ben bu önemli bilgiyi ona vermeyelim.",
+  "english_example_sentence": "Let me not give this important information to him.",
+  "russian_example_sentence": "Позволь мне не давать ему эту важную информацию.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:55:44.826068+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu önemli bilgiyi ona ______."
 }

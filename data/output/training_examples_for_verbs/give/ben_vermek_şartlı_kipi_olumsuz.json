@@ -4,7 +4,7 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "vermezsem",
+    "verb_full": "vermezsen",
     "root": "ver",
     "tense_affix": "mez",
     "verb_tense": "şartlı_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "mez"
   },
-  "english_example_sentence": "If I don't give my keys",
-  "russian_example_sentence": "Если я не отдам свои ключи",
-  "turkish_example_sentence": "Anahtarlarımı vermezsem",
-  "turkish_example_sentence_with_blank": "Anahtarlarımı ______"
+  "turkish_example_sentence": "Ben ona yardım vermezsen, proje başarısız olacak.",
+  "english_example_sentence": "If I don't give him help, the project will fail.",
+  "russian_example_sentence": "Если я не дам ему помощь, проект потерпит неудачу.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:56:39.122780+00:00",
+  "turkish_example_sentence_with_blank": "Ben ona yardım ______, proje başarısız olacak."
 }

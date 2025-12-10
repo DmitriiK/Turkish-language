@@ -11,10 +11,12 @@
     "personal_pronoun": "sen",
     "personal_affix": "sın",
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "mama"
   },
-  "english_example_sentence": "You must not work during your vacation days",
-  "russian_example_sentence": "Ты не должен работать в дни отпуска",
-  "turkish_example_sentence": "Sen tatil günlerinde hiç çalışmamalısın",
-  "turkish_example_sentence_with_blank": "Sen tatil günlerinde hiç ______"
+  "turkish_example_sentence": "Sen gece yarısından sonra bu zor görevde çalışmamalısın.",
+  "english_example_sentence": "You must not work on this difficult task after midnight.",
+  "russian_example_sentence": "Ты не должен работать над этой сложной задачей после полуночи.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:51:57.650989+00:00",
+  "turkish_example_sentence_with_blank": "Sen gece yarısından sonra bu zor görevde ______."
 }

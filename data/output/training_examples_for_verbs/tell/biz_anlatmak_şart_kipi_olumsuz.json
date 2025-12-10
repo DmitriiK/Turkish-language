@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "anlatmasak",
     "root": "anlat",
-    "tense_affix": "masa",
+    "tense_affix": "sa",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If we didn't tell her the truth",
-  "russian_example_sentence": "Если бы мы не рассказали ей правду",
-  "turkish_example_sentence": "Eğer ona doğruyu anlatmasak",
-  "turkish_example_sentence_with_blank": "Eğer ona doğruyu ______"
+  "turkish_example_sentence": "Biz bu üzücü haberi anlatmasak, onlar rahat uyuyabilirler.",
+  "english_example_sentence": "If we were not to tell this sad news, they could sleep peacefully.",
+  "russian_example_sentence": "Если бы мы не рассказали эту печальную новость, они смогли бы спать спокойно.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:41:30.759279+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu üzücü haberi ______, onlar rahat uyuyabilirler."
 }

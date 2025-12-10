@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sorduğunda",
     "root": "sor",
-    "tense_affix": "duk",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "sen",
     "personal_affix": "un",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When you ask, be polite",
-  "russian_example_sentence": "Когда ты спрашиваешь, будь вежлив",
-  "turkish_example_sentence": "Sen garip konuları sorduğunda, insanlar şaşırabilirler.",
-  "turkish_example_sentence_with_blank": "Sen garip konuları ______, insanlar şaşırabilirler."
+  "turkish_example_sentence": "Sen doktor hakkında önemli sağlık sorusunu sorduğunda, profesyonel bir açıklama aldın.",
+  "english_example_sentence": "When you asked the important health question about the doctor, you received a professional explanation.",
+  "russian_example_sentence": "Когда ты спросил важный вопрос о здоровье врача, ты получил профессиональное объяснение.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:49:03.430239+00:00",
+  "turkish_example_sentence_with_blank": "Sen doktor hakkında önemli sağlık sorusunu ______, profesyonel bir açıklama aldın."
 }

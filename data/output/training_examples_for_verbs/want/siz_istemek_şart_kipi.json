@@ -4,7 +4,7 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "isteseniz",
+    "verb_full": "istesенiz",
     "root": "iste",
     "tense_affix": "se",
     "verb_tense": "şart_kipi",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you want to join us, let me know",
-  "russian_example_sentence": "Если вы хотите присоединиться к нам, дайте мне знать",
-  "turkish_example_sentence": "Bize katılmak isterseniz, bana haber verin",
-  "turkish_example_sentence_with_blank": "Bize katılmak isterseniz, bana haber verin"
+  "turkish_example_sentence": "Siz özel bir eğitim istesенiz, en iyi öğretmenleri bulabiliriz.",
+  "english_example_sentence": "If you were to want a special education, we could find the best teachers.",
+  "russian_example_sentence": "Если бы вы захотели специальное образование, мы могли бы найти лучших учителей.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:50:23.824484+00:00",
+  "turkish_example_sentence_with_blank": "Siz özel bir eğitim ______, en iyi öğretmenleri bulabiliriz."
 }

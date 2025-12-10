@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you give your suggestions",
-  "russian_example_sentence": "Если ты дашь свои предложения",
-  "turkish_example_sentence": "Eğer önerilerini versen",
-  "turkish_example_sentence_with_blank": "Eğer önerilerini ______"
+  "turkish_example_sentence": "Sen bana güzel çiçek versen, ben de sana kitap veririm.",
+  "english_example_sentence": "If you were to give me a beautiful flower, I would give you a book.",
+  "russian_example_sentence": "Если бы ты дал мне красивый цветок, я бы дал тебе книгу.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:56:19.767319+00:00",
+  "turkish_example_sentence_with_blank": "Sen bana güzel çiçek ______, ben de sana kitap veririm."
 }

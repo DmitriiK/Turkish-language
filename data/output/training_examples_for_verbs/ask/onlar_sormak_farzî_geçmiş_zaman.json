@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sormuşlarsa",
     "root": "sor",
-    "tense_affix": "muşlarsa",
+    "tense_affix": "muşsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": null,
+    "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they had asked for help",
-  "russian_example_sentence": "Если бы они попросили помощи",
-  "turkish_example_sentence": "Yardım sormuşlarsa, kesinlikle bulurlardı.",
-  "turkish_example_sentence_with_blank": "Yardım ______, kesinlikle bulurlardı."
+  "turkish_example_sentence": "Onlar profesöre sınav soruları sormuşlarsa, daha iyi not alabilirlerdi.",
+  "english_example_sentence": "If they had asked the professor about the exam questions, they could have gotten better grades.",
+  "russian_example_sentence": "Если бы они спросили профессора о вопросах экзамена, они бы могли получить лучшие оценки.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:48:25.856154+00:00",
+  "turkish_example_sentence_with_blank": "Onlar profesöre sınav soruları ______, daha iyi not alabilirlerdi."
 }

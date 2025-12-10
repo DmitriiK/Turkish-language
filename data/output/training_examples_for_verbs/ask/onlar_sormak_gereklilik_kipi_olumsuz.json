@@ -4,17 +4,19 @@
   "verb_russian": "спрашивать",
   "verb_infinitive": "sormak",
   "turkish_verb": {
-    "verb_full": "sormamaları lazım",
+    "verb_full": "sormaması",
     "root": "sor",
-    "tense_affix": "lazım",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ları",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "They should not ask the tired nurse about complicated medical procedures",
-  "russian_example_sentence": "Они не должны спрашивать уставшую медсестру о сложных медицинских процедурах",
-  "turkish_example_sentence": "Onlar yorgun hemşireden karmaşık tıbbi prosedürleri sormamaları lazım",
-  "turkish_example_sentence_with_blank": "Onlar yorgun hemşireden karmaşık tıbbi prosedürleri ______"
+  "turkish_example_sentence": "Onlar yönetim kurulundan gizli strateji kararları sormaması gerek.",
+  "english_example_sentence": "They need to not ask the board members secret strategy decisions.",
+  "russian_example_sentence": "Им нужно не спрашивать у членов совета секретные стратегические решения.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:45:33.629390+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yönetim kurulundan gizli strateji kararları ______ gerek."
 }

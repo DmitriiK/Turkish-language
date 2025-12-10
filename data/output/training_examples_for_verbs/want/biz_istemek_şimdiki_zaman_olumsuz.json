@@ -4,7 +4,7 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemiyor",
+    "verb_full": "istemiyoruz",
     "root": "iste",
     "tense_affix": "iyor",
     "verb_tense": "şimdiki_zaman",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "m"
   },
-  "english_example_sentence": "We do not want noisy crowded public places",
-  "russian_example_sentence": "Мы не хотим шумные переполненные общественные места",
-  "turkish_example_sentence": "Biz gürültülü kalabalık halka açık yerleri istemiyor",
-  "turkish_example_sentence_with_blank": "Biz gürültülü kalabalık halka açık yerleri ______"
+  "turkish_example_sentence": "Biz zor matematik problemini istemiyoruz.",
+  "english_example_sentence": "We do not want difficult math problem.",
+  "russian_example_sentence": "Мы не хотим сложную математическую задачу.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:14:46.661819+00:00",
+  "turkish_example_sentence_with_blank": "Biz zor matematik problemini ______."
 }

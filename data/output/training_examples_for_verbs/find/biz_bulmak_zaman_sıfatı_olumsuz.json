@@ -9,12 +9,14 @@
     "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "biz",
-    "personal_affix": "ımızda",
+    "personal_affix": "uz",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "When we don't find cheap tickets,",
-  "russian_example_sentence": "Когда мы не находим дешевые билеты,",
-  "turkish_example_sentence": "Ucuz biletler bulmadığımızda, seyahat etmiyoruz.",
-  "turkish_example_sentence_with_blank": "Ucuz biletler ______, seyahat etmiyoruz."
+  "turkish_example_sentence": "Biz otelde ucuz oda bulmadığımızda, başka bir konaklamayı tercih ettik.",
+  "english_example_sentence": "When we did not find a cheap room at the hotel, we preferred another accommodation.",
+  "russian_example_sentence": "Когда мы не нашли дешевый номер в отеле, мы предпочли другое размещение.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:37:40.911188+00:00",
+  "turkish_example_sentence_with_blank": "Biz otelde ucuz oda ______, başka bir konaklamayı tercih ettik."
 }

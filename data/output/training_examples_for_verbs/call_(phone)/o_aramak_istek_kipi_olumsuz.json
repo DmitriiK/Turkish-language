@@ -4,7 +4,7 @@
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "aramaya",
+    "verb_full": "aramasın",
     "root": "ara",
     "tense_affix": "ya",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "May she not call her jealous ex-boyfriend",
-  "russian_example_sentence": "Пусть она не звонит своему ревнивому бывшему парню",
-  "turkish_example_sentence": "O kesinlikle kıskanç eski erkek arkadaşını aramaya",
-  "turkish_example_sentence_with_blank": "O kesinlikle kıskanç eski erkek arkadaşını ______"
+  "turkish_example_sentence": "O sinir bozucu komşuyu sabah erken saatlerde aramasın.",
+  "english_example_sentence": "May he not call the annoying neighbor in the early morning hours.",
+  "russian_example_sentence": "Пусть он не звонит раздражающему соседу в ранние утренние часы.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:16:24.775875+00:00",
+  "turkish_example_sentence_with_blank": "O sinir bozucu komşuyu sabah erken saatlerde ______."
 }

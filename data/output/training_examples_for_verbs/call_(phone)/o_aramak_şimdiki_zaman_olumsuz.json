@@ -1,6 +1,6 @@
 {
   "verb_rank": 20,
-  "verb_english": "call (phone)",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
@@ -11,10 +11,12 @@
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "mı"
+    "negative_affix": "m"
   },
-  "english_example_sentence": "She is not calling her busy boss today.",
-  "russian_example_sentence": "Она не звонит своему занятому начальнику сегодня.",
-  "turkish_example_sentence": "O bugün meşgul patronunu aramıyor.",
-  "turkish_example_sentence_with_blank": "O bugün meşgul patronunu ______."
+  "turkish_example_sentence": "O uzak akrabasını bu hafta aramıyor.",
+  "english_example_sentence": "He is not calling his distant relative this week.",
+  "russian_example_sentence": "Он не звонит своему дальнему родственнику на этой неделе.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:14:30.920100+00:00",
+  "turkish_example_sentence_with_blank": "O uzak akrabasını bu hafta ______."
 }

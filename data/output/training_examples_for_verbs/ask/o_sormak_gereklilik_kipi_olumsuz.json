@@ -4,17 +4,19 @@
   "verb_russian": "спрашивать",
   "verb_infinitive": "sormak",
   "turkish_verb": {
-    "verb_full": "sormaması lazım",
+    "verb_full": "sormaması",
     "root": "sor",
-    "tense_affix": "lazım",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
     "personal_affix": "sı",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "She should not ask the angry manager about the confidential project",
-  "russian_example_sentence": "Она не должна спрашивать сердитого менеджера о конфиденциальном проекте",
-  "turkish_example_sentence": "O kızgın müdürden gizli proje hakkında sormaması lazım",
-  "turkish_example_sentence_with_blank": "O kızgın müdürden gizli proje hakkında ______"
+  "turkish_example_sentence": "O müşteri hizmet temsilcisinden gizli bilgiler sormaması gerek.",
+  "english_example_sentence": "She needs to not ask the customer service representative secret information.",
+  "russian_example_sentence": "Ей нужно не спрашивать у представителя службы поддержки секретную информацию.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:45:33.629390+00:00",
+  "turkish_example_sentence_with_blank": "O müşteri hizmet temsilcisinden gizli bilgiler ______ gerek."
 }

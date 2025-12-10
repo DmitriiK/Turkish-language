@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "çalıştığında",
     "root": "çalış",
-    "tense_affix": "tık",
+    "tense_affix": "tığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "sen",
-    "personal_affix": "ın",
+    "personal_affix": "ında",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When you work hard, you succeed.",
-  "russian_example_sentence": "Когда ты усердно работаешь, ты преуспеваешь.",
-  "turkish_example_sentence": "Sen çok çalıştığında, sonunda başarıya ulaşırsın.",
-  "turkish_example_sentence_with_blank": "Sen çok ______, sonunda başarıya ulaşırsın."
+  "turkish_example_sentence": "Sen fabrikada çalıştığında, ağır metal makineleri kontrol ediyorsun.",
+  "english_example_sentence": "When you work at the factory, you control heavy metal machines.",
+  "russian_example_sentence": "Когда ты работаешь на фабрике, ты контролируешь тяжелые металлические машины.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:57:18.574901+00:00",
+  "turkish_example_sentence_with_blank": "Sen fabrikada ______, ağır metal makineleri kontrol ediyorsun."
 }

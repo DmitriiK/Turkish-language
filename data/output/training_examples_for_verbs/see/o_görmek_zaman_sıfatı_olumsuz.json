@@ -4,19 +4,19 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görmedikçe",
+    "verb_full": "görmediğinde",
     "root": "gör",
     "tense_affix": "di",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "O uzak dağları görmedikçe, harita üzerinde yolculuğunu planlıyor ve notlar alıyor.",
-  "english_example_sentence": "While he/she doesn't see the distant mountains, he/she plans his/her journey on the map and takes notes.",
-  "russian_example_sentence": "Пока он/она не видит далекие горы, он/она планирует свое путешествие на карте и делает заметки.",
+  "turkish_example_sentence": "O tatlı küçük kediyi bahçede görmediğinde endişelendi.",
+  "english_example_sentence": "When she didn't see the sweet little cat in the garden, she worried.",
+  "russian_example_sentence": "Когда она не увидела милого маленького кота в саду, она беспокоилась.",
   "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T12:37:28.053501+00:00",
-  "turkish_example_sentence_with_blank": "O uzak dağları ______, harita üzerinde yolculuğunu planlıyor ve notlar alıyor."
+  "generated_at": "2025-12-10T16:51:54.722625+00:00",
+  "turkish_example_sentence_with_blank": "O tatlı küçük kediyi bahçede ______ endişelendi."
 }

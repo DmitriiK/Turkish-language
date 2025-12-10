@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "anlatacak",
     "root": "anlat",
-    "tense_affix": "acak",
+    "tense_affix": "acağ",
     "verb_tense": "yaracağım",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He will tell us about his exciting adventure",
-  "russian_example_sentence": "Он расскажет нам о своем захватывающем приключении",
-  "turkish_example_sentence": "O bize heyecan verici macerası hakkında anlatacak",
-  "turkish_example_sentence_with_blank": "O bize heyecan verici macerası hakkında ______"
+  "turkish_example_sentence": "O genç kız sınıfta heyecan verici bir deneyim anlatacak.",
+  "english_example_sentence": "She will tell an exciting experience in the class.",
+  "russian_example_sentence": "Она расскажет захватывающий опыт в классе.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:39:32.196458+00:00",
+  "turkish_example_sentence_with_blank": "O genç kız sınıfta heyecan verici bir deneyim ______."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "çalışsınlar",
     "root": "çalış",
-    "tense_affix": "sınlar",
+    "tense_affix": "",
     "verb_tense": "emir_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "sınlar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Let them work efficiently in the modern laboratory",
-  "russian_example_sentence": "Пусть они работают эффективно в современной лаборатории",
-  "turkish_example_sentence": "Onlar modern laboratuvarda verimli bir şekilde çalışsınlar",
-  "turkish_example_sentence_with_blank": "Onlar modern laboratuvarda verimli bir şekilde ______"
+  "turkish_example_sentence": "Onlar yetenekli sanatçılar yeni tiyatro oyununda çalışsınlar.",
+  "english_example_sentence": "Let those talented artists work on the new theater play.",
+  "russian_example_sentence": "Пусть те талантливые артисты работают над новой театральной пьесой.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:50:58.488435+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yetenekli sanatçılar yeni tiyatro oyununda ______."
 }

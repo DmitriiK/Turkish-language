@@ -4,7 +4,7 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "vermemeliyin",
+    "verb_full": "vermemelyiz",
     "root": "ver",
     "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "meme"
   },
-  "english_example_sentence": "We must not give up on our environmental goals",
-  "russian_example_sentence": "Мы не должны сдаваться в наших экологических целях",
-  "turkish_example_sentence": "Biz çevre koruma hedeflerimiz için ümidi vermemeliyin",
-  "turkish_example_sentence_with_blank": "Biz çevre koruma hedeflerimiz için ümidi ______"
+  "turkish_example_sentence": "Biz yanlış bilgiyi müşterilere vermemelyiz.",
+  "english_example_sentence": "We must not give false information to customers.",
+  "russian_example_sentence": "Мы не должны давать ложную информацию клиентам.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:55:26.020061+00:00",
+  "turkish_example_sentence_with_blank": "Biz yanlış bilgiyi müşterilere ______."
 }

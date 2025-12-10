@@ -4,17 +4,19 @@
   "verb_russian": "использовать",
   "verb_infinitive": "kullanmak",
   "turkish_verb": {
-    "verb_full": "kullanmamız lazım",
+    "verb_full": "kullanmamız",
     "root": "kullan",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "mız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We need to use renewable energy sources",
-  "russian_example_sentence": "Нам нужно использовать возобновляемые источники энергии",
-  "turkish_example_sentence": "Biz çevre dostu enerji kaynaklarını kullanmamız lazım",
-  "turkish_example_sentence_with_blank": "Biz çevre dostu enerji kaynaklarını ______"
+  "turkish_example_sentence": "Biz bu değerli doğal kaynakları sürdürülebilir şekilde kullanmamız lazım.",
+  "english_example_sentence": "We need to use these valuable natural resources sustainably.",
+  "russian_example_sentence": "Нам нужно использовать эти ценные природные ресурсы устойчиво.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T13:55:52.070989+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu değerli doğal kaynakları sürdürülebilir şekilde ______ lazım."
 }

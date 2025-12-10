@@ -4,7 +4,7 @@
   "verb_russian": "спрашивать",
   "verb_infinitive": "sormak",
   "turkish_verb": {
-    "verb_full": "sormayalım",
+    "verb_full": "sormayelim",
     "root": "sor",
     "tense_affix": "a",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "Let's not ask the manager today",
-  "russian_example_sentence": "Давайте не будем спрашивать начальника сегодня",
-  "turkish_example_sentence": "Bugün müdüre sormayalım",
-  "turkish_example_sentence_with_blank": "Bugün müdüre ______"
+  "turkish_example_sentence": "Biz komşu ailesinden mahrem konuları sormayelim.",
+  "english_example_sentence": "Let's not ask the neighbor family about intimate topics.",
+  "russian_example_sentence": "Давайте не спросим соседнюю семью об интимных темах.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:46:30.952377+00:00",
+  "turkish_example_sentence_with_blank": "Biz komşu ailesinden mahrem konuları ______."
 }

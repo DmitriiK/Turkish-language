@@ -4,17 +4,19 @@
   "verb_russian": "использовать",
   "verb_infinitive": "kullanmak",
   "turkish_verb": {
-    "verb_full": "kullanmam lazım",
+    "verb_full": "kullanmam",
     "root": "kullan",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I need to use the new computer software",
-  "russian_example_sentence": "Мне нужно использовать новое программное обеспечение",
-  "turkish_example_sentence": "Ben yeni bilgisayar yazılımını kullanmam lazım",
-  "turkish_example_sentence_with_blank": "Ben yeni bilgisayar yazılımını ______"
+  "turkish_example_sentence": "Ben bu yeni bilgisayar programını öğrenmek için kullanmam lazım.",
+  "english_example_sentence": "I need to use this new computer program to learn.",
+  "russian_example_sentence": "Мне нужно использовать эту новую компьютерную программу для обучения.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T13:55:52.070989+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu yeni bilgisayar programını öğrenmek için ______ lazım."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "çalışacaktın",
     "root": "çalış",
-    "tense_affix": "acaktı",
+    "tense_affix": "acak",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "tın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You were going to complete project.",
-  "russian_example_sentence": "Ты собирался завершить проект.",
-  "turkish_example_sentence": "Sen karmaşık mühendislik projesini tamamlayacaktın",
-  "turkish_example_sentence_with_blank": "Sen karmaşık mühendislik projesini tamamlayacaktın"
+  "turkish_example_sentence": "Sen pazartesi sabahı yeni müşteri dosyalarıyla çalışacaktın.",
+  "english_example_sentence": "You were going to work with new customer files on Monday morning.",
+  "russian_example_sentence": "Ты собирался работать с новыми файлами клиентов в понедельник утром.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:53:28.826640+00:00",
+  "turkish_example_sentence_with_blank": "Sen pazartesi sabahı yeni müşteri dosyalarıyla ______."
 }

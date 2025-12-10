@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He will give fresh warm bread to the hungry children",
-  "russian_example_sentence": "Он даст свежий теплый хлеб голодным детям",
-  "turkish_example_sentence": "O aç çocuklara taze sıcak ekmek verecek",
-  "turkish_example_sentence_with_blank": "O aç çocuklara taze sıcak ekmek ______"
+  "turkish_example_sentence": "O doktor hastaya etkili bir ilaç verecek.",
+  "english_example_sentence": "The doctor will give the patient an effective medicine.",
+  "russian_example_sentence": "Врач даст пациенту эффективное лекарство.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:54:02.530357+00:00",
+  "turkish_example_sentence_with_blank": "O doktor hastaya etkili bir ilaç ______."
 }

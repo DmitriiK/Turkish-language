@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "anlatmazsak",
     "root": "anlat",
-    "tense_affix": "mazsa",
+    "tense_affix": "maz",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If we don't tell the new idea",
-  "russian_example_sentence": "Если мы не расскажем новую идею",
-  "turkish_example_sentence": "Eğer yeni fikri anlatmazsak",
-  "turkish_example_sentence_with_blank": "Eğer yeni fikri ______"
+  "turkish_example_sentence": "Biz bu önemli bilgiyi anlatmazsak, hata yapılabilir.",
+  "english_example_sentence": "If we don't tell this important information, a mistake can be made.",
+  "russian_example_sentence": "Если мы не расскажем эту важную информацию, может быть допущена ошибка.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:41:50.428993+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu önemli bilgiyi ______, hata yapılabilir."
 }

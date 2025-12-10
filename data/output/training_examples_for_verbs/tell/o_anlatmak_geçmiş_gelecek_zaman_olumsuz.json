@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "anlatmayacaktı",
     "root": "anlat",
-    "tense_affix": "acak",
+    "tense_affix": "acaktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "She wasn't going to reveal the plan.",
-  "russian_example_sentence": "Она не собиралась раскрывать план.",
-  "turkish_example_sentence": "O gizli planı kimseye anlatmayacaktı.",
-  "turkish_example_sentence_with_blank": "O gizli planı kimseye ______."
+  "turkish_example_sentence": "O öğrencilere karmaşık matematik problemlerini anlatmayacaktı.",
+  "english_example_sentence": "She was not going to tell the students the complicated math problems.",
+  "russian_example_sentence": "Она не собиралась рассказывать студентам сложные математические задачи.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:42:23.402294+00:00",
+  "turkish_example_sentence_with_blank": "O öğrencilere karmaşık matematik problemlerini ______."
 }

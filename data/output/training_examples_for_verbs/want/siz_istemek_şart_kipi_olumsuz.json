@@ -4,7 +4,7 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemeseniz",
+    "verb_full": "istemesенiz",
     "root": "iste",
     "tense_affix": "se",
     "verb_tense": "şart_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If you do not want to talk, I will leave",
-  "russian_example_sentence": "Если вы не хотите говорить, я уйду",
-  "turkish_example_sentence": "Konuşmak istemeseniz, giderim",
-  "turkish_example_sentence_with_blank": "Konuşmak ______, giderim"
+  "turkish_example_sentence": "Siz bu ağır sorumluluğu istemesенiz, kimse sizi suçlayamaz.",
+  "english_example_sentence": "If you were not to want this heavy responsibility, no one could blame you.",
+  "russian_example_sentence": "Если бы вы не захотели эту тяжелую ответственность, никто не смог бы вас винить.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:50:23.824484+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu ağır sorumluluğu ______, kimse sizi suçlayamaz."
 }

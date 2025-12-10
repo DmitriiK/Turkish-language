@@ -1,11 +1,11 @@
 {
   "verb_rank": 20,
-  "verb_english": "call (phone)",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
     "verb_full": "arıyorsun",
-    "root": "ar",
+    "root": "ara",
     "tense_affix": "ıyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "sen",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You are searching for your lost car keys.",
-  "russian_example_sentence": "Ты ищешь свои потерянные автомобильные ключи.",
-  "turkish_example_sentence": "Sen kayıp araba anahtarlarını arıyorsun.",
-  "turkish_example_sentence_with_blank": "Sen kayıp araba anahtarlarını ______."
+  "turkish_example_sentence": "Sen eski arkadaşını merakla arıyorsun.",
+  "english_example_sentence": "You are calling your old friend curiously.",
+  "russian_example_sentence": "Ты звонишь своему старому другу с любопытством.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:14:30.920100+00:00",
+  "turkish_example_sentence_with_blank": "Sen eski arkadaşını merakla ______."
 }

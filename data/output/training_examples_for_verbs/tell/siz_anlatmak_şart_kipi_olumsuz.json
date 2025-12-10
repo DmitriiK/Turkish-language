@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "anlatmasanız",
     "root": "anlat",
-    "tense_affix": "masa",
+    "tense_affix": "sa",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If you didn't tell us the plan",
-  "russian_example_sentence": "Если бы вы не рассказали план",
-  "turkish_example_sentence": "Eğer bize planı anlatmasanız",
-  "turkish_example_sentence_with_blank": "Eğer bize planı ______"
+  "turkish_example_sentence": "Siz bu gizli planı anlatmasanız, proje başarılı olabilir.",
+  "english_example_sentence": "If you were not to tell this secret plan, the project could succeed.",
+  "russian_example_sentence": "Если бы вы не рассказали этот секретный план, проект мог бы преуспеть.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:41:30.759279+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu gizli planı ______, proje başarılı olabilir."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "çalışmayacaklardı",
     "root": "çalış",
-    "tense_affix": "mayacaktı",
+    "tense_affix": "acak",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lardı",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "They were not going to work.",
-  "russian_example_sentence": "Они не собирались работать.",
-  "turkish_example_sentence": "Onlar o gün yoğun projede çalışmayacaklardı",
-  "turkish_example_sentence_with_blank": "Onlar o gün yoğun projede ______"
+  "turkish_example_sentence": "Onlar kış mevsiminde açık hava inşaat projelerinde çalışmayacaklardı.",
+  "english_example_sentence": "They were not going to work on outdoor construction projects during winter season.",
+  "russian_example_sentence": "Они не собирались работать над проектами строительства на открытом воздухе в зимний сезон.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:53:28.826640+00:00",
+  "turkish_example_sentence_with_blank": "Onlar kış mevsiminde açık hava inşaat projelerinde ______."
 }

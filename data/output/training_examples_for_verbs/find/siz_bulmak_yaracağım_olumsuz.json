@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "bulamayacaksınız",
     "root": "bul",
-    "tense_affix": "acak",
+    "tense_affix": "acağ",
     "verb_tense": "yaracağım",
     "personal_pronoun": "siz",
     "personal_affix": "sınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You will not find the cheap comfortable shoes in this store",
-  "russian_example_sentence": "Вы не найдёте дешёвые удобные туфли в этом магазине",
-  "turkish_example_sentence": "Siz bu mağazada ucuz rahat ayakkabıları bulamayacaksınız",
-  "turkish_example_sentence_with_blank": "Siz bu mağazada ucuz rahat ayakkabıları ______"
+  "turkish_example_sentence": "Siz bu karanlık ormanında güvenli yolu bulamayacaksınız.",
+  "english_example_sentence": "You will not find the safe path in this dark forest.",
+  "russian_example_sentence": "Вы не найдете безопасный путь в этом темном лесу.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:32:50.390583+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu karanlık ormanında güvenli yolu ______."
 }

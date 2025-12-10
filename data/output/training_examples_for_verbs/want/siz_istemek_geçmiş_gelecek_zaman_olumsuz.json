@@ -4,17 +4,19 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemeyecektiniz",
+    "verb_full": "istememeyecektiniz",
     "root": "iste",
-    "tense_affix": "yecek",
+    "tense_affix": "yecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "tiniz",
+    "personal_affix": "niz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You weren't going to sell the car.",
-  "russian_example_sentence": "Вы не собирались продавать машину.",
-  "turkish_example_sentence": "Siz bu eski ama değerli arabayı satmayacaktınız.",
-  "turkish_example_sentence_with_blank": "Siz bu eski ama değerli arabayı satmayacaktınız."
+  "turkish_example_sentence": "Siz o sıkıcı toplantıya erken saatte katılmak istememeyecektiniz.",
+  "english_example_sentence": "You were not going to attend that boring meeting early.",
+  "russian_example_sentence": "Вы не собирались посещать то скучное совещание рано.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:51:14.770211+00:00",
+  "turkish_example_sentence_with_blank": "Siz o sıkıcı toplantıya erken saatte katılmak ______."
 }

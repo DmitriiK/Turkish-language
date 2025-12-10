@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "verecektim",
     "root": "ver",
-    "tense_affix": "ecek",
+    "tense_affix": "ecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "tim",
+    "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I was going to give a present",
-  "russian_example_sentence": "Я собирался подарить подарок",
-  "turkish_example_sentence": "Ben ona doğum günü için pahalı bir hediye verecektim.",
-  "turkish_example_sentence_with_blank": "Ben ona doğum günü için pahalı bir hediye ______."
+  "turkish_example_sentence": "Ben doğum günü hediyesi olarak güzel kırmızı çiçek verecektim.",
+  "english_example_sentence": "I was going to give a beautiful red flower as a birthday gift.",
+  "russian_example_sentence": "Я собирался подарить красивый красный цветок в качестве подарка на день рождения.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:57:11.033125+00:00",
+  "turkish_example_sentence_with_blank": "Ben doğum günü hediyesi olarak güzel kırmızı çiçek ______."
 }

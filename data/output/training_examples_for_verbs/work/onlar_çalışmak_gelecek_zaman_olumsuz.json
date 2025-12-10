@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "They will not work at the crowded market",
-  "russian_example_sentence": "Они не будут работать на переполненном рынке",
-  "turkish_example_sentence": "Onlar kalabalık pazarda çalışmayacaklar",
-  "turkish_example_sentence_with_blank": "Onlar kalabalık pazarda ______"
+  "turkish_example_sentence": "Onlar hasta çocuklar hastanede ağır fiziksel çalışmayacaklar.",
+  "english_example_sentence": "Those sick children will not work in heavy physical labor at the hospital.",
+  "russian_example_sentence": "Те больные дети не будут работать на тяжелых физических работах в больнице.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:50:23.500480+00:00",
+  "turkish_example_sentence_with_blank": "Onlar hasta çocuklar hastanede ağır fiziksel ______."
 }

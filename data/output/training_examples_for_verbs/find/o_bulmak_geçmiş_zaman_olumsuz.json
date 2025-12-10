@@ -4,7 +4,7 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulmadı",
+    "verb_full": "bulamadı",
     "root": "bul",
     "tense_affix": "du",
     "verb_tense": "geçmiş_zaman",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "He did not find the thick brown notebook",
-  "russian_example_sentence": "Он не нашел толстую коричневую тетрадь",
-  "turkish_example_sentence": "O kalın kahverengi defteri bulmadı",
-  "turkish_example_sentence_with_blank": "O kalın kahverengi defteri ______"
+  "turkish_example_sentence": "O okulda kayıp siyah çantasını bulamadı.",
+  "english_example_sentence": "She did not find her lost black bag at school.",
+  "russian_example_sentence": "Она не нашла свою потерянную черную сумку в школе.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:36:13.463647+00:00",
+  "turkish_example_sentence_with_blank": "O okulda kayıp siyah çantasını ______."
 }

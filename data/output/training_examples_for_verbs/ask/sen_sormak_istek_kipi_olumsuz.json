@@ -4,7 +4,7 @@
   "verb_russian": "спрашивать",
   "verb_infinitive": "sormak",
   "turkish_verb": {
-    "verb_full": "sormayasın",
+    "verb_full": "sormasın",
     "root": "sor",
     "tense_affix": "a",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "May you not ask unnecessary questions",
-  "russian_example_sentence": "Пусть ты не спрашиваешь ненужные вопросы",
-  "turkish_example_sentence": "Gereksiz sorular sormayasın",
-  "turkish_example_sentence_with_blank": "Gereksiz sorular ______"
+  "turkish_example_sentence": "Sen müdürden kişisel soruları sormasın.",
+  "english_example_sentence": "May you not ask the manager personal questions.",
+  "russian_example_sentence": "Пусть ты не спросишь менеджера о личных вопросах.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:46:30.952377+00:00",
+  "turkish_example_sentence_with_blank": "Sen müdürden kişisel soruları ______."
 }

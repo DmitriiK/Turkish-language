@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you had called your mother...",
-  "russian_example_sentence": "Если бы ты позвонил своей маме...",
-  "turkish_example_sentence": "Sen anneni aramışsan, haberi duyardın.",
-  "turkish_example_sentence_with_blank": "Sen anneni ______, haberi duyardın."
+  "turkish_example_sentence": "Sen pazartesi günü müdürü aramışsan, toplantı erken başlardı.",
+  "english_example_sentence": "If you had called the manager on Monday, the meeting would have started early.",
+  "russian_example_sentence": "Если бы ты позвонил менеджеру в понедельник, встреча началась бы рано.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:19:05.698775+00:00",
+  "turkish_example_sentence_with_blank": "Sen pazartesi günü müdürü ______, toplantı erken başlardı."
 }

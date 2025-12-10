@@ -4,7 +4,7 @@
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "arsak",
+    "verb_full": "ararsak",
     "root": "ara",
     "tense_affix": "rsa",
     "verb_tense": "şartlı_kipi",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we call, please answer quickly.",
-  "russian_example_sentence": "Если мы позвоним, пожалуйста, ответьте быстро.",
-  "turkish_example_sentence": "Biz seni ofisten ararsak, lütfen çabuk cevap ver.",
-  "turkish_example_sentence_with_blank": "Biz seni ofisten ar______, lütfen çabuk cevap ver."
+  "turkish_example_sentence": "Biz uzak akrabaları haftasonunda ararsak, sohbet etmek güzel olur.",
+  "english_example_sentence": "If we call our distant relatives on the weekend, chatting will be nice.",
+  "russian_example_sentence": "Если мы позвоним нашим дальним родственникам на выходных, разговор будет приятным.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:18:40.638216+00:00",
+  "turkish_example_sentence_with_blank": "Biz uzak akrabaları haftasonunda ______, sohbet etmek güzel olur."
 }

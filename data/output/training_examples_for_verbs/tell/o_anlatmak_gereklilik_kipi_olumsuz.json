@@ -4,17 +4,19 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatmaması lazım",
+    "verb_full": "anlatmaması",
     "root": "anlat",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
     "personal_affix": "sı",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "She should not tell the personal information",
-  "russian_example_sentence": "Она не должна рассказывать личную информацию",
-  "turkish_example_sentence": "O özel kişisel bilgileri anlatmaması lazım",
-  "turkish_example_sentence_with_blank": "O özel kişisel bilgileri ______"
+  "turkish_example_sentence": "O genç doktor hastasının kişisel sorunlarını başkalarına anlatmaması gerek.",
+  "english_example_sentence": "That young doctor should not tell other people about his patient's personal problems.",
+  "russian_example_sentence": "Тот молодой врач не должен рассказывать другим людям о личных проблемах своего пациента.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:40:14.516997+00:00",
+  "turkish_example_sentence_with_blank": "O genç doktor hastasının kişisel sorunlarını başkalarına ______ gerek."
 }

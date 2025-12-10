@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "istemezsem",
     "root": "iste",
-    "tense_affix": "mezse",
+    "tense_affix": "se",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "mez"
   },
-  "english_example_sentence": "If I don't want to go, I will stay home.",
-  "russian_example_sentence": "Если я не захочу идти, я останусь дома.",
-  "turkish_example_sentence": "Eğer gitmek istemezsem, evde kalırım.",
-  "turkish_example_sentence_with_blank": "Eğer gitmek ______, evde kalırım."
+  "turkish_example_sentence": "Ben bu zor işi istemezsem, kimse beni zorlayamaz.",
+  "english_example_sentence": "If I don't want this difficult job, nobody can force me.",
+  "russian_example_sentence": "Если я не захочу эту сложную работу, никто не сможет меня заставить.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:50:42.908812+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu zor işi ______, kimse beni zorlayamaz."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sorduklarında",
     "root": "sor",
-    "tense_affix": "duk",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "onlar",
     "personal_affix": "ları",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When they ask, they get help",
-  "russian_example_sentence": "Когда они спрашивают, они получают помощь",
-  "turkish_example_sentence": "Onlar rehbere yol tarifini sorduklarında, doğru adresi bulurlar.",
-  "turkish_example_sentence_with_blank": "Onlar rehbere yol tarifini ______, doğru adresi bulurlar."
+  "turkish_example_sentence": "Onlar polis memuruna şüpheli olay hakkında sorduklarında, kapsamlı bir soruşturma başladı.",
+  "english_example_sentence": "When they asked the police officer about the suspicious incident, a comprehensive investigation started.",
+  "russian_example_sentence": "Когда они спросили полицейского о подозрительном происшествии, началось комплексное расследование.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:49:03.430239+00:00",
+  "turkish_example_sentence_with_blank": "Onlar polis memuruna şüpheli olay hakkında ______, kapsamlı bir soruşturma başladı."
 }

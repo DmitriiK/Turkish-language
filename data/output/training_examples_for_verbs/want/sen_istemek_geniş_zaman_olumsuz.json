@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "istemezsin",
     "root": "iste",
-    "tense_affix": "r",
+    "tense_affix": "mez",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "sin",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You do not want spicy red pepper sauce",
-  "russian_example_sentence": "Ты не хочешь острый красный перечный соус",
-  "turkish_example_sentence": "Sen acı kırmızı biber sosunu istemezsin",
-  "turkish_example_sentence_with_blank": "Sen acı kırmızı biber sosunu ______"
+  "turkish_example_sentence": "Sen yeni sarı elbiseyi istemezsin.",
+  "english_example_sentence": "You don't want the new yellow dress.",
+  "russian_example_sentence": "Ты не хочешь новое жёлтое платье.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:15:23.808062+00:00",
+  "turkish_example_sentence_with_blank": "Sen yeni sarı elbiseyi ______."
 }

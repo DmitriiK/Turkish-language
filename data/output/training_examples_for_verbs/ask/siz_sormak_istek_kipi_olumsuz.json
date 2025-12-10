@@ -4,7 +4,7 @@
   "verb_russian": "спрашивать",
   "verb_infinitive": "sormak",
   "turkish_verb": {
-    "verb_full": "sormayasınız",
+    "verb_full": "sormasınız",
     "root": "sor",
     "tense_affix": "a",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "May you not ask anything personal",
-  "russian_example_sentence": "Пусть вы не спрашиваете личные вопросы",
-  "turkish_example_sentence": "Özel bir şey sormayasınız",
-  "turkish_example_sentence_with_blank": "Özel bir şey ______"
+  "turkish_example_sentence": "Siz müşteri temsilcisinden ücret artışı nedenini sormasınız.",
+  "english_example_sentence": "May you not ask the customer representative about the reason for the price increase.",
+  "russian_example_sentence": "Пусть вы не спросите представителя клиента о причине повышения цены.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:46:30.952377+00:00",
+  "turkish_example_sentence_with_blank": "Siz müşteri temsilcisinden ücret artışı nedenini ______."
 }

@@ -4,17 +4,19 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "vermemen lazım",
+    "verb_full": "vermemen",
     "root": "ver",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You should not give your personal documents to anyone",
-  "russian_example_sentence": "Ты не должен давать свои личные документы никому",
-  "turkish_example_sentence": "Sen kişisel önemli belgelerinizi kimseye vermemen lazım",
-  "turkish_example_sentence_with_blank": "Sen kişisel önemli belgelerinizi kimseye ______"
+  "turkish_example_sentence": "Sen küçük çocuğa sert oyuncak vermemen gerek.",
+  "english_example_sentence": "You need to not give the hard toy to the small child.",
+  "russian_example_sentence": "Тебе нужно не давать твердую игрушку маленькому ребенку.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:54:51.652413+00:00",
+  "turkish_example_sentence_with_blank": "Sen küçük çocuğa sert oyuncak ______ gerek."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "bulmadıklarında",
     "root": "bul",
-    "tense_affix": "dık",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "onlar",
-    "personal_affix": "larında",
+    "personal_affix": "ları",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "When they don't find empty seats,",
-  "russian_example_sentence": "Когда они не находят пустые места,",
-  "turkish_example_sentence": "Boş koltuklar bulmadıklarında, ayakta duruyorlar.",
-  "turkish_example_sentence_with_blank": "Boş koltuklar ______, ayakta duruyorlar."
+  "turkish_example_sentence": "Onlar kütüphanede istenen tarihi belgeyi bulmadıklarında, araştırmalarını ertelediler.",
+  "english_example_sentence": "When they did not find the desired historical document in the library, they postponed their research.",
+  "russian_example_sentence": "Когда они не нашли желаемый исторический документ в библиотеке, они отложили свое исследование.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:37:40.911188+00:00",
+  "turkish_example_sentence_with_blank": "Onlar kütüphanede istenen tarihi belgeyi ______, araştırmalarını ertelediler."
 }

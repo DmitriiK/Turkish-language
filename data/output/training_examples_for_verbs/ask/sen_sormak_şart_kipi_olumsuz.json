@@ -4,17 +4,19 @@
   "verb_russian": "спрашивать",
   "verb_infinitive": "sormak",
   "turkish_verb": {
-    "verb_full": "sormasan",
+    "verb_full": "sormassan",
     "root": "sor",
-    "tense_affix": "ma",
+    "tense_affix": "sa",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If you didn't ask for help from strangers",
-  "russian_example_sentence": "Если бы ты не просил помощи у незнакомцев",
-  "turkish_example_sentence": "Eğer yabancılardan yardım sormasan",
-  "turkish_example_sentence_with_blank": "Eğer yabancılardan yardım ______"
+  "turkish_example_sentence": "Sen müdürden izin sormassan, tatile gidemezssin.",
+  "english_example_sentence": "If you were not to ask the manager for permission, you would not be able to go on vacation.",
+  "russian_example_sentence": "Если бы ты не спросил начальника о разрешении, ты бы не смог пойти в отпуск.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:47:05.259598+00:00",
+  "turkish_example_sentence_with_blank": "Sen müdürden izin ______, tatile gidemezssin."
 }

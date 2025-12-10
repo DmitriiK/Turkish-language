@@ -4,7 +4,7 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "vermişseniz",
+    "verb_full": "vermişsiniz",
     "root": "ver",
     "tense_affix": "mişse",
     "verb_tense": "farzî_geçmiş_zaman",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you had given the clear instructions...",
-  "russian_example_sentence": "Если бы вы дали четкие инструкции...",
-  "turkish_example_sentence": "Siz açık talimatları vermişseniz, herkes anlardı.",
-  "turkish_example_sentence_with_blank": "Siz açık talimatları ______, herkes anlardı."
+  "turkish_example_sentence": "Siz öğrencilere kapsamlı ders notları vermişsiniz, sınav başarılı olur.",
+  "english_example_sentence": "If you had given the students comprehensive lecture notes, the exam would be successful.",
+  "russian_example_sentence": "Если бы вы дали студентам подробные конспекты лекций, экзамен был бы успешным.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:57:30.709961+00:00",
+  "turkish_example_sentence_with_blank": "Siz öğrencilere kapsamlı ders notları ______, sınav başarılı olur."
 }

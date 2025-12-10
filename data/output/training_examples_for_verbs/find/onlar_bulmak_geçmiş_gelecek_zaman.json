@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "bulacaklardı",
     "root": "bul",
-    "tense_affix": "acaklardı",
+    "tense_affix": "acaktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They were going to find a treasure",
-  "russian_example_sentence": "Они собирались найти сокровище",
-  "turkish_example_sentence": "Onlar gizli adada değerli bir hazine bulacaklardı",
-  "turkish_example_sentence_with_blank": "Onlar gizli adada değerli bir hazine ______"
+  "turkish_example_sentence": "Onlar dağda taze organik mantarları bulacaklardı ama kar yağdı.",
+  "english_example_sentence": "They were going to find fresh organic mushrooms in the mountains but it snowed.",
+  "russian_example_sentence": "Они собирались найти свежие органические грибы в горах, но пошёл снег.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:36:33.270046+00:00",
+  "turkish_example_sentence_with_blank": "Onlar dağda taze organik mantarları ______ ama kar yağdı."
 }

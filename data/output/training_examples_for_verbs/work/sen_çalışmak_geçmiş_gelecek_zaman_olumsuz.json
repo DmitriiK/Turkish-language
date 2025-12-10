@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "çalışmayacaktın",
     "root": "çalış",
-    "tense_affix": "mayacaktı",
+    "tense_affix": "acak",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "tın",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You were not going to work today.",
-  "russian_example_sentence": "Ты не собирался работать сегодня.",
-  "turkish_example_sentence": "Sen bugün yoğun ofiste çalışmayacaktın",
-  "turkish_example_sentence_with_blank": "Sen bugün yoğun ofiste ______"
+  "turkish_example_sentence": "Sen tatil günlerinde ek saatlerde çalışmayacaktın.",
+  "english_example_sentence": "You were not going to work extra hours on holiday days.",
+  "russian_example_sentence": "Ты не собирался работать дополнительные часы в праздничные дни.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:53:28.826640+00:00",
+  "turkish_example_sentence_with_blank": "Sen tatil günlerinde ek saatlerde ______."
 }

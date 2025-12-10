@@ -1,20 +1,22 @@
 {
   "verb_rank": 20,
-  "verb_english": "call (phone)",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
     "verb_full": "arayacağım",
     "root": "ara",
-    "tense_affix": "yacağım",
+    "tense_affix": "yacağ",
     "verb_tense": "yaracağım",
     "personal_pronoun": "ben",
     "personal_affix": "ım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I will call my mother tonight.",
-  "russian_example_sentence": "Я позвоню своей маме сегодня вечером.",
-  "turkish_example_sentence": "Ben bu akşam annemi arayacağım.",
-  "turkish_example_sentence_with_blank": "Ben bu akşam annemi ______."
+  "turkish_example_sentence": "Ben yarın sabah eski arkadaşımı arayacağım.",
+  "english_example_sentence": "I will call my old friend tomorrow morning.",
+  "russian_example_sentence": "Я позвоню своему старому другу завтра утром.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:15:38.334274+00:00",
+  "turkish_example_sentence_with_blank": "Ben yarın sabah eski arkadaşımı ______."
 }

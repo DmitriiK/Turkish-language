@@ -4,17 +4,19 @@
   "verb_russian": "использовать",
   "verb_infinitive": "kullanmak",
   "turkish_verb": {
-    "verb_full": "kullanmaları lazım",
+    "verb_full": "kullanmaları",
     "root": "kullan",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ları",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They need to use the advanced laboratory equipment",
-  "russian_example_sentence": "Им нужно использовать продвинутое лабораторное оборудование",
-  "turkish_example_sentence": "Onlar ileri teknoloji laboratuvar aletlerini kullanmaları lazım",
-  "turkish_example_sentence_with_blank": "Onlar ileri teknoloji laboratuvar aletlerini ______"
+  "turkish_example_sentence": "Onlar bu eğitim materyallerini sınıf içinde etkili bir şekilde kullanmaları lazım.",
+  "english_example_sentence": "They need to use these educational materials effectively in the classroom.",
+  "russian_example_sentence": "Им нужно эффективно использовать эти учебные материалы в классе.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T13:55:52.070989+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu eğitim materyallerini sınıf içinde etkili bir şekilde ______ lazım."
 }

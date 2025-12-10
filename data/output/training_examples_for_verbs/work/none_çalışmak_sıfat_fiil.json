@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The employee working at the new office",
-  "russian_example_sentence": "Сотрудник, работающий в новом офисе",
-  "turkish_example_sentence": "Yeni ofiste çalışan çalışan",
-  "turkish_example_sentence_with_blank": "Yeni ofiste ______ ______"
+  "turkish_example_sentence": "Hastanede gece vardiyasında çalışan doktor çok yorgun görünüyor.",
+  "english_example_sentence": "The doctor who works the night shift at the hospital looks very tired.",
+  "russian_example_sentence": "Врач, работающий в ночную смену в больнице, выглядит очень усталым.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:52:59.694450+00:00",
+  "turkish_example_sentence_with_blank": "Hastanede gece vardiyasında ______ doktor çok yorgun görünüyor."
 }

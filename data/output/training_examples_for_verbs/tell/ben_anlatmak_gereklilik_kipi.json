@@ -4,17 +4,19 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatmam lazım",
+    "verb_full": "anlatmam",
     "root": "anlat",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I need to tell the important story today",
-  "russian_example_sentence": "Мне нужно рассказать важную историю сегодня",
-  "turkish_example_sentence": "Ben bugün önemli hikayeyi anlatmam lazım",
-  "turkish_example_sentence_with_blank": "Ben bugün önemli hikayeyi ______"
+  "turkish_example_sentence": "Ben öğretmene kırmızı çantanın hikayesini anlatmam lazım.",
+  "english_example_sentence": "I need to tell the teacher the story of the red bag.",
+  "russian_example_sentence": "Я должен рассказать учителю историю красной сумки.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:40:14.516997+00:00",
+  "turkish_example_sentence_with_blank": "Ben öğretmene kırmızı çantanın hikayesini ______ lazım."
 }

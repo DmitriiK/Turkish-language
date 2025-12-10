@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "anlatmayarak",
     "root": "anlat",
-    "tense_affix": "mayarak",
+    "tense_affix": "arak",
     "verb_tense": "zarf_fiil",
     "personal_pronoun": null,
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "She avoided conflict by not telling everything.",
-  "russian_example_sentence": "Она избежала конфликта, не рассказывая всего.",
-  "turkish_example_sentence": "O, her şeyi anlatmayarak çatışmayı önledi.",
-  "turkish_example_sentence_with_blank": "O, her şeyi ______ çatışmayı önledi."
+  "turkish_example_sentence": "Genç kız gerçeği anlatmayarak tehlikeli bir yalan oluşturdu.",
+  "english_example_sentence": "The young girl created a dangerous lie by not telling the truth.",
+  "russian_example_sentence": "Молодая девушка создала опасную ложь, не рассказывая правду.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:42:49.748018+00:00",
+  "turkish_example_sentence_with_blank": "Genç kız gerçeği ______ tehlikeli bir yalan oluşturdu."
 }

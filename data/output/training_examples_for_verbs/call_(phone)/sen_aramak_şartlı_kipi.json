@@ -4,7 +4,7 @@
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "arsan",
+    "verb_full": "ararsan",
     "root": "ara",
     "tense_affix": "rsa",
     "verb_tense": "şartlı_kipi",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you call, I will be happy.",
-  "russian_example_sentence": "Если ты позвонишь, я буду рад.",
-  "turkish_example_sentence": "Sen beni yakında ararsan, çok mutlu olurum.",
-  "turkish_example_sentence_with_blank": "Sen beni yakında ar______, çok mutlu olurum."
+  "turkish_example_sentence": "Sen genç kardeşini akşam ararsan, mutlu olacak.",
+  "english_example_sentence": "If you call your young brother in the evening, he will be happy.",
+  "russian_example_sentence": "Если ты позвонишь своему младшему брату вечером, он будет счастлив.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:18:40.638216+00:00",
+  "turkish_example_sentence_with_blank": "Sen genç kardeşini akşam ______, mutlu olacak."
 }

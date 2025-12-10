@@ -4,17 +4,19 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatırsam",
+    "verb_full": "anlatirsam",
     "root": "anlat",
-    "tense_affix": "arsa",
+    "tense_affix": "ırsa",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I tell the big story",
-  "russian_example_sentence": "Если я расскажу большую историю",
-  "turkish_example_sentence": "Eğer büyük hikâyeyi anlatırsam",
-  "turkish_example_sentence_with_blank": "Eğer büyük hikâyeyi ______"
+  "turkish_example_sentence": "Ben güzel bir hikaye anlatirsam, çocuklar mutlu olur.",
+  "english_example_sentence": "If I tell a beautiful story, the children will be happy.",
+  "russian_example_sentence": "Если я расскажу красивую историю, дети будут счастливы.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:41:50.428993+00:00",
+  "turkish_example_sentence_with_blank": "Ben güzel bir hikaye ______, çocuklar mutlu olur."
 }

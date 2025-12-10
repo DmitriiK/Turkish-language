@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "isteyemezsin",
     "root": "iste",
-    "tense_affix": "yeme",
+    "tense_affix": "ye",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "zsin",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You cannot want difficult challenging mathematics homework",
-  "russian_example_sentence": "Ты не можешь хотеть сложное сложное домашнее задание по математике",
-  "turkish_example_sentence": "Sen zor matematik ödevini isteyemezsin",
-  "turkish_example_sentence_with_blank": "Sen zor matematik ödevini ______"
+  "turkish_example_sentence": "Sen bu eski ve kırık oyuncağı hiç isteyemezsin.",
+  "english_example_sentence": "You cannot want this old and broken toy at all.",
+  "russian_example_sentence": "Ты не можешь хотеть эту старую и сломанную игрушку вообще.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:49:09.633607+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu eski ve kırık oyuncağı hiç ______."
 }

@@ -1,6 +1,6 @@
 {
   "verb_rank": 20,
-  "verb_english": "call (phone)",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He can call his friend from the new cafeteria.",
-  "russian_example_sentence": "Он может позвонить своему другу из новой столовой.",
-  "turkish_example_sentence": "O, yeni kafeteryadan arkadaşını arayabilir.",
-  "turkish_example_sentence_with_blank": "O, yeni kafeteryadan arkadaşını ______."
+  "turkish_example_sentence": "O sabah erken saatlerde güvenlik görevlisini arayabilir.",
+  "english_example_sentence": "He can call the security guard in the early morning hours.",
+  "russian_example_sentence": "Он может звонить охраннику в ранние утренние часы.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:17:39.720677+00:00",
+  "turkish_example_sentence_with_blank": "O sabah erken saatlerde güvenlik görevlisini ______."
 }

@@ -4,7 +4,7 @@
   "verb_russian": "использовать",
   "verb_infinitive": "kullanmak",
   "turkish_verb": {
-    "verb_full": "kullanamaysiniz",
+    "verb_full": "kullanamıyorsunuz",
     "root": "kullan",
     "tense_affix": "abil",
     "verb_tense": "imkan_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "You cannot use the restricted parking area",
-  "russian_example_sentence": "Вы не можете использовать ограниченную парковку",
-  "turkish_example_sentence": "Siz kısıtlı otopark alanını kullanamaysiniz",
-  "turkish_example_sentence_with_blank": "Siz kısıtlı otopark alanını ______"
+  "turkish_example_sentence": "Siz bu özel resepsiyon salonundaki pahalı dekoratif eşyaları kullanamıyorsunuz.",
+  "english_example_sentence": "You cannot use the expensive decorative items in this special reception hall.",
+  "russian_example_sentence": "Вы не можете использовать дорогие декоративные предметы в этом специальном зале приема.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T14:15:01.155710+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu özel resepsiyon salonundaki pahalı dekoratif eşyaları ______."
 }

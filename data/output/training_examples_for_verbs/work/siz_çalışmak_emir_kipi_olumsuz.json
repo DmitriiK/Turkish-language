@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "çalışmayın",
     "root": "çalış",
-    "tense_affix": "ın",
+    "tense_affix": "",
     "verb_tense": "emir_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "ın",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "Don't work late at the crowded factory tonight",
-  "russian_example_sentence": "Не работайте поздно на переполненном заводе сегодня вечером",
-  "turkish_example_sentence": "Siz kalabalık fabrikada geç saatlerde çalışmayın",
-  "turkish_example_sentence_with_blank": "Siz kalabalık fabrikada geç saatlerde ______"
+  "turkish_example_sentence": "Siz yorgun işçiler uzun gece vardiyasında çalışmayın.",
+  "english_example_sentence": "You tired workers don't work in the long night shift.",
+  "russian_example_sentence": "Вы усталые рабочие не работайте в длинную ночную смену.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:50:58.488435+00:00",
+  "turkish_example_sentence_with_blank": "Siz yorgun işçiler uzun gece vardiyasında ______."
 }

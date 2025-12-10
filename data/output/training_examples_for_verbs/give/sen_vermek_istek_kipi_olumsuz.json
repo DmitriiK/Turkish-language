@@ -4,17 +4,19 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "vermeyesin",
+    "verb_full": "vermessin",
     "root": "ver",
     "tense_affix": "e",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "sin",
+    "personal_affix": "ssin",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "Don't give the wrong answer.",
-  "russian_example_sentence": "Не давай неправильный ответ.",
-  "turkish_example_sentence": "Yanlış cevap vermeyesin.",
-  "turkish_example_sentence_with_blank": "Yanlış cevap ______."
+  "turkish_example_sentence": "Sen küçük çocuğa tehlikeli oyuncağı vermessin.",
+  "english_example_sentence": "May you not give the dangerous toy to the small child.",
+  "russian_example_sentence": "Пусть ты не дашь опасную игрушку маленькому ребенку.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:55:44.826068+00:00",
+  "turkish_example_sentence_with_blank": "Sen küçük çocuğa tehlikeli oyuncağı ______."
 }

@@ -4,17 +4,19 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulmam lazım",
+    "verb_full": "bulmam",
     "root": "bul",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I need to find my lost red wallet today",
-  "russian_example_sentence": "Мне нужно найти мой потерянный красный кошелек сегодня",
-  "turkish_example_sentence": "Ben bugün kayıp kırmızı cüzdanımı bulmam lazım",
-  "turkish_example_sentence_with_blank": "Ben bugün kayıp kırmızı cüzdanımı ______"
+  "turkish_example_sentence": "Ben kayıp kırmızı çantayı hemen bulmam lazım.",
+  "english_example_sentence": "I need to find the lost red bag immediately.",
+  "russian_example_sentence": "Мне нужно найти потерянную красную сумку сразу.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:35:24.826021+00:00",
+  "turkish_example_sentence_with_blank": "Ben kayıp kırmızı çantayı hemen ______ lazım."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "anlatmayacak",
     "root": "anlat",
-    "tense_affix": "acak",
+    "tense_affix": "acağ",
     "verb_tense": "yaracağım",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "She will not tell the dark secret anymore",
-  "russian_example_sentence": "Она больше не будет рассказывать этот темный секрет",
-  "turkish_example_sentence": "O artık bu karanlık sırrı kimseye anlatmayacak",
-  "turkish_example_sentence_with_blank": "O artık bu karanlık sırrı kimseye ______"
+  "turkish_example_sentence": "O yaşlı adam bu acı gerçeği çocuklara anlatmayacak.",
+  "english_example_sentence": "He will not tell this painful truth to the children.",
+  "russian_example_sentence": "Он не расскажет эту болезненную правду детям.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:39:32.196458+00:00",
+  "turkish_example_sentence_with_blank": "O yaşlı adam bu acı gerçeği çocuklara ______."
 }

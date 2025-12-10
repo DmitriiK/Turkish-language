@@ -1,20 +1,22 @@
 {
   "verb_rank": 20,
-  "verb_english": "call (phone)",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
     "verb_full": "arayacaksınız",
     "root": "ara",
-    "tense_affix": "yacaksınız",
+    "tense_affix": "yacağ",
     "verb_tense": "yaracağım",
     "personal_pronoun": "siz",
-    "personal_affix": null,
+    "personal_affix": "sınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You will call the insurance company later.",
-  "russian_example_sentence": "Вы позвоните в страховую компанию позже.",
-  "turkish_example_sentence": "Siz daha sonra sigorta şirketini arayacaksınız.",
-  "turkish_example_sentence_with_blank": "Siz daha sonra sigorta şirketini ______."
+  "turkish_example_sentence": "Siz yarın öğleden sonra meşgul mühendisi arayacaksınız.",
+  "english_example_sentence": "You will call the busy engineer tomorrow afternoon.",
+  "russian_example_sentence": "Вы позвоните занятому инженеру завтра днем.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:15:38.334274+00:00",
+  "turkish_example_sentence_with_blank": "Siz yarın öğleden sonra meşgul mühendisi ______."
 }

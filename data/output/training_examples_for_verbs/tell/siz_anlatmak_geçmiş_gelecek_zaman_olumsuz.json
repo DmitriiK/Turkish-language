@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "anlatmayacaktınız",
     "root": "anlat",
-    "tense_affix": "acak",
+    "tense_affix": "acaktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "tınız",
+    "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You weren't going to tell your boss.",
-  "russian_example_sentence": "Вы не собирались рассказывать своему боссу.",
-  "turkish_example_sentence": "Siz patronunuza bu yanlış bilgileri anlatmayacaktınız.",
-  "turkish_example_sentence_with_blank": "Siz patronunuza bu yanlış bilgileri ______."
+  "turkish_example_sentence": "Siz müdüre gerçek nedenleri anlatmayacaktınız.",
+  "english_example_sentence": "You were not going to tell the manager the real reasons.",
+  "russian_example_sentence": "Вы не собирались рассказывать менеджеру настоящие причины.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:42:23.402294+00:00",
+  "turkish_example_sentence_with_blank": "Siz müdüre gerçek nedenleri ______."
 }

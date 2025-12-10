@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "aramadığımızda",
     "root": "ara",
-    "tense_affix": "dık",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "biz",
     "personal_affix": "ımız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "When we don't call, they get surprised.",
-  "russian_example_sentence": "Когда мы не звоним, они удивляются.",
-  "turkish_example_sentence": "Biz seni tatildeyken aramadığımızda, onlar çok şaşırırlar.",
-  "turkish_example_sentence_with_blank": "Biz seni tatildeyken ______, onlar çok şaşırırlar."
+  "turkish_example_sentence": "Biz deneyimli elektrikçi aramadığımızda, yangın çıktı.",
+  "english_example_sentence": "When we didn't call the experienced electrician, a fire broke out.",
+  "russian_example_sentence": "Когда мы не позвонили опытному электрику, произошёл пожар.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:19:45.005061+00:00",
+  "turkish_example_sentence_with_blank": "Biz deneyimli elektrikçi ______, yangın çıktı."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "verecekti",
     "root": "ver",
-    "tense_affix": "ecek",
+    "tense_affix": "ecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He was going to give advice",
-  "russian_example_sentence": "Он собирался дать совет",
-  "turkish_example_sentence": "O, yeni mezunlara kariyer konusunda önemli tavsiyeler verecekti.",
-  "turkish_example_sentence_with_blank": "O, yeni mezunlara kariyer konusunda önemli tavsiyeler ______."
+  "turkish_example_sentence": "O hastaya tatlı mavi ilaç şişesini verecekti.",
+  "english_example_sentence": "He/She was going to give the sweet blue medicine bottle to the patient.",
+  "russian_example_sentence": "Он/Она собирался дать сладкий голубой флакон лекарства пациенту.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:57:11.033125+00:00",
+  "turkish_example_sentence_with_blank": "O hastaya tatlı mavi ilaç şişesini ______."
 }

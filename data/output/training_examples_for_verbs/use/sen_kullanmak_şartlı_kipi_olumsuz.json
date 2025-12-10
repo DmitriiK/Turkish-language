@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "kullanmazsan",
     "root": "kullan",
-    "tense_affix": "zsan",
+    "tense_affix": "maz",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If you don't use this medicine, you won't recover.",
-  "russian_example_sentence": "Если ты не используешь это лекарство, ты не выздоровеешь.",
-  "turkish_example_sentence": "Bu ilacı kullanmazsan, iyileşmezsin.",
-  "turkish_example_sentence_with_blank": "Bu ilacı ______, iyileşmezsin."
+  "turkish_example_sentence": "Sen bu talimatları kullanmazsan, hata yaparsın.",
+  "english_example_sentence": "If you do not use these instructions, you will make a mistake.",
+  "russian_example_sentence": "Если ты не будешь использовать эти инструкции, ты ошибешься.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:29:26.273192+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu talimatları ______, hata yaparsın."
 }

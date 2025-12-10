@@ -1,10 +1,10 @@
 {
   "verb_rank": 20,
-  "verb_english": "call (phone)",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "arasam",
+    "verb_full": "ararsam",
     "root": "ara",
     "tense_affix": "sa",
     "verb_tense": "şart_kipi",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I called, would you answer?",
-  "russian_example_sentence": "Если бы я позвонил, ты бы ответил?",
-  "turkish_example_sentence": "Ben seni arasam, cevap verir miydin?",
-  "turkish_example_sentence_with_blank": "Ben seni ______, cevap verir miydin?"
+  "turkish_example_sentence": "Ben sabah erken doktor muayenehanesini ararsam randevu alabilirim.",
+  "english_example_sentence": "If I call the doctor's clinic early in the morning, I can get an appointment.",
+  "russian_example_sentence": "Если я позвоню в кабинет врача рано утром, я смогу получить прием.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:17:02.138721+00:00",
+  "turkish_example_sentence_with_blank": "Ben sabah erken doktor muayenehanesini ______ randevu alabilirim."
 }

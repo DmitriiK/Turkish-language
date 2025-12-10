@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "anlatmamışsanız",
     "root": "anlat",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If you hadn't told the embarrassing event...",
-  "russian_example_sentence": "Если бы вы не рассказали неловкое событие...",
-  "turkish_example_sentence": "Siz utanç verici olayı anlatmamışsanız, daha iyi olurdu.",
-  "turkish_example_sentence_with_blank": "Siz utanç verici olayı ______, daha iyi olurdu."
+  "turkish_example_sentence": "Eğer siz bu tehlikeli durumu hiç anlatmamışsanız, herkes farkında olmamış olurdu.",
+  "english_example_sentence": "If you had not told this dangerous situation at all, no one would have been aware.",
+  "russian_example_sentence": "Если бы вы вообще не рассказали об этой опасной ситуации, никто бы не знал.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:42:43.841974+00:00",
+  "turkish_example_sentence_with_blank": "Eğer siz bu tehlikeli durumu hiç ______, herkes farkında olmamış olurdu."
 }

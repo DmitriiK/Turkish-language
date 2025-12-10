@@ -4,17 +4,19 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "vermememiz lazım",
+    "verb_full": "vermememiz",
     "root": "ver",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "mız",
+    "personal_affix": "miz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "We should not give false promises to our loyal customers",
-  "russian_example_sentence": "Мы не должны давать ложные обещания нашим верным клиентам",
-  "turkish_example_sentence": "Biz yanlış boş vaatleri sadık müşterilerimize vermememiz lazım",
-  "turkish_example_sentence_with_blank": "Biz yanlış boş vaatleri sadık müşterilerimize ______"
+  "turkish_example_sentence": "Biz yeni öğrencilere yanlış bilgi vermememiz lazım.",
+  "english_example_sentence": "We need to not give wrong information to the new students.",
+  "russian_example_sentence": "Нам нужно не давать неправильную информацию новым студентам.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:54:51.652413+00:00",
+  "turkish_example_sentence_with_blank": "Biz yeni öğrencilere yanlış bilgi ______ lazım."
 }

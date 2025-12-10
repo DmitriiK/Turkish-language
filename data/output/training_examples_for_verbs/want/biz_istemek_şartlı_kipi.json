@@ -4,17 +4,19 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istersek",
+    "verb_full": "istesek",
     "root": "iste",
-    "tense_affix": "erse",
+    "tense_affix": "se",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we want to leave, we need to hurry.",
-  "russian_example_sentence": "Если мы хотим уехать, нам нужно поторопиться.",
-  "turkish_example_sentence": "Eğer ayrılmak istersek, acele etmeliyiz.",
-  "turkish_example_sentence_with_blank": "Eğer ayrılmak ______, acele etmeliyiz."
+  "turkish_example_sentence": "Biz yeni bir proje istesek, yönetici bize destek verebilir.",
+  "english_example_sentence": "If we want a new project, the manager can support us.",
+  "russian_example_sentence": "Если мы захотим новый проект, менеджер может нас поддержать.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:50:42.908812+00:00",
+  "turkish_example_sentence_with_blank": "Biz yeni bir proje ______, yönetici bize destek verebilir."
 }

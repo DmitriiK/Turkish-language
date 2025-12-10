@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "verirsek",
     "root": "ver",
-    "tense_affix": "ir",
+    "tense_affix": "irse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we give all our effort",
-  "russian_example_sentence": "Если мы приложим все усилия",
-  "turkish_example_sentence": "Tüm çabamızı verirsek",
-  "turkish_example_sentence_with_blank": "Tüm çabamızı ______"
+  "turkish_example_sentence": "Biz çocuklara eğlenceli oyuncak verirsek, gülüp oynayacaklar.",
+  "english_example_sentence": "If we give children fun toys, they will laugh and play.",
+  "russian_example_sentence": "Если мы дадим детям забавные игрушки, они будут смеяться и играть.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:56:39.122780+00:00",
+  "turkish_example_sentence_with_blank": "Biz çocuklara eğlenceli oyuncak ______, gülüp oynayacaklar."
 }

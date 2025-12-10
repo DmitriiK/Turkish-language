@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "When I don't give enough attention,",
-  "russian_example_sentence": "Когда я не уделяю достаточно внимания,",
-  "turkish_example_sentence": "Ben yeterli ilgiyi vermediğimde, bitkiler soluyor.",
-  "turkish_example_sentence_with_blank": "Ben yeterli ilgiyi ______, bitkiler soluyor."
+  "turkish_example_sentence": "Ben gerekli bilgiyi müdüre vermediğimde, proje gecikti.",
+  "english_example_sentence": "When I did not give the necessary information to the manager, the project was delayed.",
+  "russian_example_sentence": "Когда я не дал необходимую информацию менеджеру, проект задержался.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T13:53:11.839552+00:00",
+  "turkish_example_sentence_with_blank": "Ben gerekli bilgiyi müdüre ______, proje gecikti."
 }

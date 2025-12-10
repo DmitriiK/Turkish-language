@@ -4,7 +4,7 @@
   "verb_russian": "спрашивать",
   "verb_infinitive": "sormak",
   "turkish_verb": {
-    "verb_full": "sormadı",
+    "verb_full": "sormadu",
     "root": "sor",
     "tense_affix": "du",
     "verb_tense": "geçmiş_zaman",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "She did not ask the busy manager about the important project",
-  "russian_example_sentence": "Она не спросила у занятого менеджера о важном проекте",
-  "turkish_example_sentence": "O meşgul müdürden önemli proje hakkında sormadı",
-  "turkish_example_sentence_with_blank": "O meşgul müdürden önemli proje hakkında ______"
+  "turkish_example_sentence": "O garson müşteriye yemek tercihlerini sormadu.",
+  "english_example_sentence": "She did not ask the customer about food preferences.",
+  "russian_example_sentence": "Она не спросила клиента о предпочтениях в еде.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:43:51.597683+00:00",
+  "turkish_example_sentence_with_blank": "O garson müşteriye yemek tercihlerini ______."
 }

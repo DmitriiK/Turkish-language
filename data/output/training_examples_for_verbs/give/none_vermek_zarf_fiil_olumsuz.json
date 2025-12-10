@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "vermeyerek",
     "root": "ver",
-    "tense_affix": "eyerek",
+    "tense_affix": "erek",
     "verb_tense": "zarf_fiil",
     "personal_pronoun": null,
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "She failed by not giving effort.",
-  "russian_example_sentence": "Она потерпела неудачу, не прикладывая усилий.",
-  "turkish_example_sentence": "O, çaba vermeyerek başarısız oldu.",
-  "turkish_example_sentence_with_blank": "O, çaba ______ başarısız oldu."
+  "turkish_example_sentence": "Zengin adamlar yoksul insanlara para vermeyerek toplumda eşitsizlik yarattılar.",
+  "english_example_sentence": "Rich men created inequality in society by not giving money to poor people.",
+  "russian_example_sentence": "Богатые люди создали неравенство в обществе, не давая деньги бедным людям.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T12:13:56.634154+00:00",
+  "turkish_example_sentence_with_blank": "Zengin adamlar yoksul insanlara para ______ toplumda eşitsizlik yarattılar."
 }

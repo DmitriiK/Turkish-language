@@ -4,7 +4,7 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatmayasın",
+    "verb_full": "anlatmasın",
     "root": "anlat",
     "tense_affix": "a",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "May you not tell that joke",
-  "russian_example_sentence": "Пусть ты не расскажешь эту шутку",
-  "turkish_example_sentence": "Sen o şakayı anlatmayasın",
-  "turkish_example_sentence_with_blank": "Sen o şakayı ______"
+  "turkish_example_sentence": "Sen bu konuyu başkalarına anlatmasın.",
+  "english_example_sentence": "Don't tell others about this topic.",
+  "russian_example_sentence": "Не рассказывай другим об этой теме.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:41:10.722045+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu konuyu başkalarına ______."
 }

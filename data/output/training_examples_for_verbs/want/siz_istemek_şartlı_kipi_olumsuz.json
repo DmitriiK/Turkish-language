@@ -4,17 +4,19 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemezseniz",
+    "verb_full": "istemezsanız",
     "root": "iste",
-    "tense_affix": "mezse",
+    "tense_affix": "se",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "mez"
   },
-  "english_example_sentence": "If you don't want to wait, you can leave.",
-  "russian_example_sentence": "Если вы не хотите ждать, вы можете уехать.",
-  "turkish_example_sentence": "Eğer beklemek istemezseniz, gidebilirsiniz.",
-  "turkish_example_sentence_with_blank": "Eğer beklemek ______, gidebilirsiniz."
+  "turkish_example_sentence": "Siz ağır bir spor istemezsanız, hafif bir yoga yapabilirsiniz.",
+  "english_example_sentence": "If you don't want heavy exercise, you can do light yoga.",
+  "russian_example_sentence": "Если вы не захотите тяжелый спорт, вы можете заниматься легкой йогой.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:50:42.908812+00:00",
+  "turkish_example_sentence_with_blank": "Siz ağır bir spor ______, hafif bir yoga yapabilirsiniz."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "bulmayacaktı",
     "root": "bul",
-    "tense_affix": "mayacaktı",
+    "tense_affix": "acaktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "She wasn't going to find her glasses",
-  "russian_example_sentence": "Она не собиралась находить свои очки",
-  "turkish_example_sentence": "O küçük odada kayıp gözlüklerini bulmayacaktı",
-  "turkish_example_sentence_with_blank": "O küçük odada kayıp gözlüklerini ______"
+  "turkish_example_sentence": "O ormanda kayıp köpeği bulmayacaktı çünkü çok karanlıktı.",
+  "english_example_sentence": "She was not going to find the lost dog in the forest because it was very dark.",
+  "russian_example_sentence": "Она не собиралась найти потерянную собаку в лесу, потому что было очень темно.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:36:33.270046+00:00",
+  "turkish_example_sentence_with_blank": "O ormanda kayıp köpeği ______ çünkü çok karanlıktı."
 }

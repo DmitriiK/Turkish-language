@@ -4,17 +4,19 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "isteyin",
+    "verb_full": "isteyın",
     "root": "iste",
-    "tense_affix": "yin",
+    "tense_affix": "y",
     "verb_tense": "emir_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "yin",
+    "personal_affix": "ın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Please want the beautiful red roses today",
-  "russian_example_sentence": "Пожалуйста, хотите красивые красные розы сегодня",
-  "turkish_example_sentence": "Siz bugün güzel kırmızı gülleri isteyin",
-  "turkish_example_sentence_with_blank": "Siz bugün güzel kırmızı gülleri ______"
+  "turkish_example_sentence": "Siz lezzetli sıcak çikolata isteyın.",
+  "english_example_sentence": "You (plural/formal) want the delicious hot chocolate.",
+  "russian_example_sentence": "Вы хотите вкусный горячий шоколад.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:48:35.074553+00:00",
+  "turkish_example_sentence_with_blank": "Siz lezzetli sıcak çikolata ______."
 }

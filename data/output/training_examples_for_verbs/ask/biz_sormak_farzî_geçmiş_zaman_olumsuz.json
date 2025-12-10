@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sormamışsak",
     "root": "sor",
-    "tense_affix": "mamışsa",
+    "tense_affix": "muşsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If we hadn't asked for a refund",
-  "russian_example_sentence": "Если бы мы не попросили возврат денег",
-  "turkish_example_sentence": "Para iadesi sormamışsak, memnun kalmazdık.",
-  "turkish_example_sentence_with_blank": "Para iadesi ______, memnun kalmazdık."
+  "turkish_example_sentence": "Biz mühendise proje detaylarını sormamışsak, hata yapabilirdik.",
+  "english_example_sentence": "If we had not asked the engineer about the project details, we could have made mistakes.",
+  "russian_example_sentence": "Если бы мы не спросили инженера о деталях проекта, мы бы могли допустить ошибки.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:48:25.856154+00:00",
+  "turkish_example_sentence_with_blank": "Biz mühendise proje detaylarını ______, hata yapabilirdik."
 }

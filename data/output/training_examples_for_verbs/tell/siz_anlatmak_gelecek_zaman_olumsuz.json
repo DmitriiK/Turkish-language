@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You will not tell anyone about the confidential information",
-  "russian_example_sentence": "Вы не расскажете никому о конфиденциальной информации",
-  "turkish_example_sentence": "Siz gizli bilgiyi hiç kimseye anlatmayacaksınız",
-  "turkish_example_sentence_with_blank": "Siz gizli bilgiyi hiç kimseye ______"
+  "turkish_example_sentence": "Siz bu hassas konuyu halkla anlatmayacaksınız.",
+  "english_example_sentence": "You will not tell this sensitive issue to the public.",
+  "russian_example_sentence": "Вы не расскажете об этом деликатном вопросе публике.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:39:12.517568+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu hassas konuyu halkla ______."
 }

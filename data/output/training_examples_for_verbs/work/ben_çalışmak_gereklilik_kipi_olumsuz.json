@@ -4,17 +4,19 @@
   "verb_russian": "работать",
   "verb_infinitive": "çalışmak",
   "turkish_verb": {
-    "verb_full": "çalışmamam lazım",
+    "verb_full": "çalışmamam",
     "root": "çalış",
-    "tense_affix": "ma",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I don't need to work on weekends",
-  "russian_example_sentence": "Мне не нужно работать в выходные",
-  "turkish_example_sentence": "Ben hafta sonunda çalışmamam lazım",
-  "turkish_example_sentence_with_blank": "Ben hafta sonunda ______"
+  "turkish_example_sentence": "Ben hafta sonunda çalışmamam lazım.",
+  "english_example_sentence": "I don't need to work on the weekend.",
+  "russian_example_sentence": "Мне не нужно работать в выходные.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:51:16.573007+00:00",
+  "turkish_example_sentence_with_blank": "Ben hafta sonunda ______ lazım."
 }

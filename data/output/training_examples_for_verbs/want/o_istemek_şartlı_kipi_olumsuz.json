@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "istemezse",
     "root": "iste",
-    "tense_affix": "mezse",
+    "tense_affix": "se",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "mez"
   },
-  "english_example_sentence": "If she doesn't want to study, she won't pass.",
-  "russian_example_sentence": "Если она не захочет учиться, она не сдаст экзамен.",
-  "turkish_example_sentence": "Eğer çalışmak istemezse sınavı geçemez.",
-  "turkish_example_sentence_with_blank": "Eğer çalışmak ______ sınavı geçemez."
+  "turkish_example_sentence": "O tatlı bir pasta istemezse, meyve salatası hazırlayabilirim.",
+  "english_example_sentence": "If she doesn't want a sweet cake, I can prepare a fruit salad.",
+  "russian_example_sentence": "Если она не захочет сладкий торт, я смогу приготовить фруктовый салат.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:50:42.908812+00:00",
+  "turkish_example_sentence_with_blank": "O tatlı bir pasta ______, meyve salatası hazırlayabilirim."
 }

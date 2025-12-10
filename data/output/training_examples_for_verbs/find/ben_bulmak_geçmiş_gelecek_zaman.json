@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I was going to find a solution",
-  "russian_example_sentence": "Я собирался найти решение",
-  "turkish_example_sentence": "Ben karmaşık soruna hızlı çözüm bulacaktım",
-  "turkish_example_sentence_with_blank": "Ben karmaşık soruna hızlı çözüm ______"
+  "turkish_example_sentence": "Ben dün akşam kayıp anahtarı bulacaktım ama unutmuşum.",
+  "english_example_sentence": "I was going to find the lost key yesterday evening but I forgot.",
+  "russian_example_sentence": "Я должен был найти потерянный ключ вчера вечером, но забыл.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:36:33.270046+00:00",
+  "turkish_example_sentence_with_blank": "Ben dün akşam kayıp anahtarı ______ ama unutmuşum."
 }

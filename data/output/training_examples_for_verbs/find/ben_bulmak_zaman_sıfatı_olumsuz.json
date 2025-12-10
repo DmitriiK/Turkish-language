@@ -9,12 +9,14 @@
     "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "ben",
-    "personal_affix": "ımda",
+    "personal_affix": "um",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "When I don't find my glasses,",
-  "russian_example_sentence": "Когда я не нахожу свои очки,",
-  "turkish_example_sentence": "Gözlüklerimi bulmadığımda, ders çalışmak zor oluyor.",
-  "turkish_example_sentence_with_blank": "Gözlüklerimi ______, ders çalışmak zor oluyor."
+  "turkish_example_sentence": "Ben kütüphanede gerekli bilimsel makaleyi bulmadığımda, hayal kırıklığına uğradım.",
+  "english_example_sentence": "When I did not find the necessary scientific article in the library, I was disappointed.",
+  "russian_example_sentence": "Когда я не нашел необходимую научную статью в библиотеке, я был разочарован.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:37:40.911188+00:00",
+  "turkish_example_sentence_with_blank": "Ben kütüphanede gerekli bilimsel makaleyi ______, hayal kırıklığına uğradım."
 }

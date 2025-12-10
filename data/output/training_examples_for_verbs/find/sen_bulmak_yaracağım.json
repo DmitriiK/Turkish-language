@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "bulacaksın",
     "root": "bul",
-    "tense_affix": "acak",
+    "tense_affix": "acağ",
     "verb_tense": "yaracağım",
     "personal_pronoun": "sen",
     "personal_affix": "sın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You will find the beautiful blue flower in the garden",
-  "russian_example_sentence": "Ты найдёшь красивый синий цветок в саду",
-  "turkish_example_sentence": "Sen bahçede güzel mavi çiçeği bulacaksın",
-  "turkish_example_sentence_with_blank": "Sen bahçede güzel mavi çiçeği ______"
+  "turkish_example_sentence": "Sen parkta eski gümüş halkanı bulacaksın.",
+  "english_example_sentence": "You will find your old silver ring in the park.",
+  "russian_example_sentence": "Ты найдешь свое старое серебряное кольцо в парке.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:32:50.390583+00:00",
+  "turkish_example_sentence_with_blank": "Sen parkta eski gümüş halkanı ______."
 }

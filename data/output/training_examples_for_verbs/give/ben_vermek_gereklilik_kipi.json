@@ -4,17 +4,19 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "vermem lazım",
+    "verb_full": "vermem",
     "root": "ver",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I need to give my old red bicycle to my cousin",
-  "russian_example_sentence": "Мне нужно отдать мой старый красный велосипед моему кузену",
-  "turkish_example_sentence": "Ben eski kırmızı bisikletimi kuzenime vermem lazım",
-  "turkish_example_sentence_with_blank": "Ben eski kırmızı bisikletimi kuzenime ______"
+  "turkish_example_sentence": "Ben arkadaşıma güzel doğum günü hediyesi vermem lazım.",
+  "english_example_sentence": "I need to give my friend a beautiful birthday gift.",
+  "russian_example_sentence": "Мне нужно подарить моему другу красивый подарок на день рождения.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:54:51.652413+00:00",
+  "turkish_example_sentence_with_blank": "Ben arkadaşıma güzel doğum günü hediyesi ______ lazım."
 }

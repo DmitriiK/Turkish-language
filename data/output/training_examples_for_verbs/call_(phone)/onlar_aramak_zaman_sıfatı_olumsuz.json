@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "aramadıklarında",
     "root": "ara",
-    "tense_affix": "dık",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "onlar",
     "personal_affix": "ları",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "When they don't call, everything is fine.",
-  "russian_example_sentence": "Когда они не звонят, все в порядке.",
-  "turkish_example_sentence": "Onlar seni konsolosluktan aramadıklarında, her şey yolundadır.",
-  "turkish_example_sentence_with_blank": "Onlar seni konsolosluktan ______, her şey yolundadır."
+  "turkish_example_sentence": "Onlar başarılı mühendisi aramadıklarında, proje başarısız oldu.",
+  "english_example_sentence": "When they didn't call the successful engineer, the project failed.",
+  "russian_example_sentence": "Когда они не позвонили успешному инженеру, проект провалился.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:19:45.005061+00:00",
+  "turkish_example_sentence_with_blank": "Onlar başarılı mühendisi ______, proje başarısız oldu."
 }

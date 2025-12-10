@@ -4,17 +4,19 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "vermesi lazım",
+    "verb_full": "vermesi",
     "root": "ver",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "sı",
+    "personal_affix": "si",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He needs to give the expensive gift to his girlfriend",
-  "russian_example_sentence": "Он должен подарить дорогой подарок своей подруге",
-  "turkish_example_sentence": "O pahalı hediyeyi sevgilisine vermesi lazım",
-  "turkish_example_sentence_with_blank": "O pahalı hediyeyi sevgilisine ______"
+  "turkish_example_sentence": "O hastaya sıcak çorba vermesi lazım.",
+  "english_example_sentence": "He/She needs to give hot soup to the patient.",
+  "russian_example_sentence": "Ему/Ей нужно дать горячий суп пациенту.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:54:51.652413+00:00",
+  "turkish_example_sentence_with_blank": "O hastaya sıcak çorba ______ lazım."
 }

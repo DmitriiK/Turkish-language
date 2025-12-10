@@ -1,6 +1,6 @@
 {
   "verb_rank": 20,
-  "verb_english": "call (phone)",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Having called, I understood the situation.",
-  "russian_example_sentence": "Позвонив, я понял ситуацию.",
-  "turkish_example_sentence": "Arayıp durumu anladım.",
-  "turkish_example_sentence_with_blank": "Arayıp durumu anladım."
+  "turkish_example_sentence": "Doktor hastayı arayıp randevu verdi.",
+  "english_example_sentence": "The doctor called the patient and gave an appointment.",
+  "russian_example_sentence": "Врач позвонил пациенту и дал назначение.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:19:22.947999+00:00",
+  "turkish_example_sentence_with_blank": "Doktor hastayı ______ randevu verdi."
 }

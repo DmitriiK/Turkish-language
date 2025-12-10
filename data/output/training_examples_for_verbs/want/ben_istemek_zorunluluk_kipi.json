@@ -4,7 +4,7 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemeliyi",
+    "verb_full": "istemeliim",
     "root": "iste",
     "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I must want to help my elderly grandmother today",
-  "russian_example_sentence": "Я должен хотеть помочь моей пожилой бабушке сегодня",
-  "turkish_example_sentence": "Ben yaşlı büyükannem için bugün yardım istemeliyi",
-  "turkish_example_sentence_with_blank": "Ben yaşlı büyükannem için bugün yardım ______"
+  "turkish_example_sentence": "Ben yeni bir araba istemeliim.",
+  "english_example_sentence": "I must want a new car.",
+  "russian_example_sentence": "Я должен хотеть новую машину.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:49:24.210864+00:00",
+  "turkish_example_sentence_with_blank": "Ben yeni bir araba ______."
 }

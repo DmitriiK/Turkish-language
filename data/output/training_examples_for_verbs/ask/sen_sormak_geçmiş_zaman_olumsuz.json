@@ -4,7 +4,7 @@
   "verb_russian": "спрашивать",
   "verb_infinitive": "sormak",
   "turkish_verb": {
-    "verb_full": "sormadın",
+    "verb_full": "sormadn",
     "root": "sor",
     "tense_affix": "du",
     "verb_tense": "geçmiş_zaman",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You did not ask the shopkeeper about the expensive item",
-  "russian_example_sentence": "Ты не спросил у продавца о дорогом товаре",
-  "turkish_example_sentence": "Sen dükkan sahibinden pahalı ürün hakkında sormadın",
-  "turkish_example_sentence_with_blank": "Sen dükkan sahibinden pahalı ürün hakkında ______"
+  "turkish_example_sentence": "Sen arkadaşına hafta sonu planları sormadn.",
+  "english_example_sentence": "You did not ask your friend about weekend plans.",
+  "russian_example_sentence": "Ты не спросил своего друга о планах на выходные.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:43:51.597683+00:00",
+  "turkish_example_sentence_with_blank": "Sen arkadaşına hafta sonu planları ______."
 }

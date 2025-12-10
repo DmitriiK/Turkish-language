@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "aramazsanız",
     "root": "ara",
-    "tense_affix": "mazsa",
+    "tense_affix": "rsa",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If you don't call, I'll assume you arrived.",
-  "russian_example_sentence": "Если вы не позвоните, я предположу, что вы приехали.",
-  "turkish_example_sentence": "Siz beni istasyondan aramazsanız, vardığınızı düşünürüm.",
-  "turkish_example_sentence_with_blank": "Siz beni istasyondan ______, vardığınızı düşünürüm."
+  "turkish_example_sentence": "Siz merkezi ofisi aramazsanız, proje bilgisi alamayacaksınız.",
+  "english_example_sentence": "If you do not call the central office, you will not get project information.",
+  "russian_example_sentence": "Если вы не позвоните в центральный офис, вы не получите информацию о проекте.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:18:40.638216+00:00",
+  "turkish_example_sentence_with_blank": "Siz merkezi ofisi ______, proje bilgisi alamayacaksınız."
 }

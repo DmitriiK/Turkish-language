@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "anlatmışsam",
     "root": "anlat",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I had told the whole truth...",
-  "russian_example_sentence": "Если бы я рассказал всю правду...",
-  "turkish_example_sentence": "Ben bütün gerçeği anlatmışsam, her şey değişirdi.",
-  "turkish_example_sentence_with_blank": "Ben bütün gerçeği ______, her şey değişirdi."
+  "turkish_example_sentence": "Eğer ben bu ilginç hikayeyi detaylı anlatmışsam, herkes dinlemiş olurdu.",
+  "english_example_sentence": "If I had told this interesting story in detail, everyone would have listened.",
+  "russian_example_sentence": "Если бы я рассказал эту интересную историю подробно, все бы слушали.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:42:43.841974+00:00",
+  "turkish_example_sentence_with_blank": "Eğer ben bu ilginç hikayeyi detaylı ______, herkes dinlemiş olurdu."
 }

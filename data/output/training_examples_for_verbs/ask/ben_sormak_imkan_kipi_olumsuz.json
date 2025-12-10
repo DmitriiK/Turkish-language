@@ -4,7 +4,7 @@
   "verb_russian": "спрашивать",
   "verb_infinitive": "sormak",
   "turkish_verb": {
-    "verb_full": "soramamam",
+    "verb_full": "soramam",
     "root": "sor",
     "tense_affix": "ama",
     "verb_tense": "imkan_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "I cannot ask the shy boy anything today",
-  "russian_example_sentence": "Я не могу ничего спросить у застенчивого мальчика сегодня",
-  "turkish_example_sentence": "Ben bugün utangaç çocuğa hiçbir şey soramamam",
-  "turkish_example_sentence_with_blank": "Ben bugün utangaç çocuğa hiçbir şey ______"
+  "turkish_example_sentence": "Ben bu özel konuyu dostuma soramam.",
+  "english_example_sentence": "I cannot ask my friend about this private topic.",
+  "russian_example_sentence": "Я не могу спросить своего друга об этой личной теме.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:45:53.655773+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu özel konuyu dostuma ______."
 }

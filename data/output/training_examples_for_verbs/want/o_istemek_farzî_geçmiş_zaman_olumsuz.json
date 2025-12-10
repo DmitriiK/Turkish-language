@@ -4,17 +4,19 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istememişse",
+    "verb_full": "istememişolsa",
     "root": "iste",
-    "tense_affix": "memişse",
+    "tense_affix": "miş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If she hadn't wanted, she'd stay",
-  "russian_example_sentence": "Если бы она не захотела, она бы осталась",
-  "turkish_example_sentence": "İstememişse, evde kalıp dinlenecekti",
-  "turkish_example_sentence_with_blank": "İstememişse, evde kalıp dinlenecekti"
+  "turkish_example_sentence": "O pahalı yeşil saati istememişolsa, satın almazdı.",
+  "english_example_sentence": "If she had not wanted that expensive green watch, she would not have bought it.",
+  "russian_example_sentence": "Если бы она не хотела то дорогие зеленые часы, она бы их не купила.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:51:43.434169+00:00",
+  "turkish_example_sentence_with_blank": "O pahalı yeşil saati ______, satın almazdı."
 }

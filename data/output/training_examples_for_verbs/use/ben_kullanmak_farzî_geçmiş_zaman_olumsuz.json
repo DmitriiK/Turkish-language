@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If I hadn't used that old method",
-  "russian_example_sentence": "Если бы я не использовал этот старый метод",
-  "turkish_example_sentence": "Ben o eski yöntemi kullanmamışsam, sonuçlar farklı olabilirdi.",
-  "turkish_example_sentence_with_blank": "Ben o eski yöntemi ______, sonuçlar farklı olabilirdi."
+  "turkish_example_sentence": "Ben bu eski telefonu hiç kullanmamışsam, nasıl çalıştığını bilmem.",
+  "english_example_sentence": "If I had never used this old phone, I wouldn't know how it works.",
+  "russian_example_sentence": "Если бы я никогда не использовал этот старый телефон, я не знал бы, как он работает.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:30:20.115390+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu eski telefonu hiç ______, nasıl çalıştığını bilmem."
 }

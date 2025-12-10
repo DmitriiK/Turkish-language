@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "bulmuşsanız",
     "root": "bul",
-    "tense_affix": "muşsa",
+    "tense_affix": "muş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you had found the mistake",
-  "russian_example_sentence": "Если бы вы нашли ошибку",
-  "turkish_example_sentence": "Siz raporda bir hata bulmuşsanız, lütfen hemen düzeltin.",
-  "turkish_example_sentence_with_blank": "Siz raporda bir hata ______, lütfen hemen düzeltin."
+  "turkish_example_sentence": "Siz kütüphanede nadir kitabı bulmuşsanız, akademik çalışmanız başarılı olurdu.",
+  "english_example_sentence": "If you had found the rare book in the library, your academic work would have been successful.",
+  "russian_example_sentence": "Если бы вы нашли редкую книгу в библиотеке, ваша академическая работа была бы успешной.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:36:55.470944+00:00",
+  "turkish_example_sentence_with_blank": "Siz kütüphanede nadir kitabı ______, akademik çalışmanız başarılı olurdu."
 }

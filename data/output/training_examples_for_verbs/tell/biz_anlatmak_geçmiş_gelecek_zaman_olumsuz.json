@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "anlatmayacaktık",
     "root": "anlat",
-    "tense_affix": "acak",
+    "tense_affix": "acaktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "tık",
+    "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "We were not going to tell the authorities.",
-  "russian_example_sentence": "Мы не собирались рассказывать властям.",
-  "turkish_example_sentence": "Biz polise bu durumu asla anlatmayacaktık.",
-  "turkish_example_sentence_with_blank": "Biz polise bu durumu asla ______."
+  "turkish_example_sentence": "Biz ailenin eski sırlarını kimseye anlatmayacaktık.",
+  "english_example_sentence": "We were not going to tell the family's old secrets to anyone.",
+  "russian_example_sentence": "Мы не собирались рассказывать старые семейные секреты никому.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:42:23.402294+00:00",
+  "turkish_example_sentence_with_blank": "Biz ailenin eski sırlarını kimseye ______."
 }

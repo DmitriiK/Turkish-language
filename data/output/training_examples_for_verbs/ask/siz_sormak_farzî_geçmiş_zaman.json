@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you had asked the shopkeeper",
-  "russian_example_sentence": "Если бы вы спросили продавца",
-  "turkish_example_sentence": "Dükkan sahibine sormuşsanız, indirim alabilirdiniz.",
-  "turkish_example_sentence_with_blank": "Dükkan sahibine ______, indirim alabilirdiniz."
+  "turkish_example_sentence": "Siz avukata yasal konular sormuşsanız, dava kazanabilirdiniz.",
+  "english_example_sentence": "If you had asked the lawyer about legal matters, you could have won the case.",
+  "russian_example_sentence": "Если бы вы спросили адвоката о юридических вопросах, вы бы могли выиграть дело.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:48:25.856154+00:00",
+  "turkish_example_sentence_with_blank": "Siz avukata yasal konular ______, dava kazanabilirdiniz."
 }

@@ -4,17 +4,19 @@
   "verb_russian": "использовать",
   "verb_infinitive": "kullanmak",
   "turkish_verb": {
-    "verb_full": "kullanmamanız lazım",
+    "verb_full": "kullanmamanız",
     "root": "kullan",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You must not use personal devices in the office",
-  "russian_example_sentence": "Вы не должны использовать личные устройства в офисе",
-  "turkish_example_sentence": "Siz ofiste kişisel elektronik cihazları kullanmamanız lazım",
-  "turkish_example_sentence_with_blank": "Siz ofiste kişisel elektronik cihazları ______"
+  "turkish_example_sentence": "Siz bu kütüphane bilgisayarlarını kişisel sosyal medya hesapları için kullanmamanız gerek.",
+  "english_example_sentence": "You need to not use these library computers for personal social media accounts.",
+  "russian_example_sentence": "Вам нужно не использовать эти библиотечные компьютеры для личных учетных записей в социальных сетях.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T13:55:52.070989+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu kütüphane bilgisayarlarını kişisel sosyal medya hesapları için ______ gerek."
 }

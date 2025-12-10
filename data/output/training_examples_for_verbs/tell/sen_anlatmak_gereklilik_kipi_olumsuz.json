@@ -4,17 +4,19 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatmaman lazım",
+    "verb_full": "anlatmaman",
     "root": "anlat",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You must not tell the embarrassing details",
-  "russian_example_sentence": "Ты не должен рассказывать неловкие подробности",
-  "turkish_example_sentence": "Sen utanç verici detayları anlatmaman lazım",
-  "turkish_example_sentence_with_blank": "Sen utanç verici detayları ______"
+  "turkish_example_sentence": "Sen bu üzücü olayı küçük kardeşine anlatmaman lazım.",
+  "english_example_sentence": "You should not tell your little brother about this sad event.",
+  "russian_example_sentence": "Ты не должен рассказывать своему младшему брату об этом грустном событии.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:40:14.516997+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu üzücü olayı küçük kardeşine ______ lazım."
 }

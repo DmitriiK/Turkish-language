@@ -1,6 +1,6 @@
 {
   "verb_rank": 20,
-  "verb_english": "call (phone)",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He called his sister from work.",
-  "russian_example_sentence": "Он звонил своей сестре с работы.",
-  "turkish_example_sentence": "O işten kız kardeşini aradı.",
-  "turkish_example_sentence_with_blank": "O işten kız kardeşini ______."
+  "turkish_example_sentence": "O saat sekizde yerel polis merkezini ciddi suçu bildirmek için aradı.",
+  "english_example_sentence": "He called the local police station at eight o'clock to report the serious crime.",
+  "russian_example_sentence": "Он позвонил в местное отделение полиции в восемь часов, чтобы сообщить о серьезном преступлении.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:14:51.844132+00:00",
+  "turkish_example_sentence_with_blank": "O saat sekizde yerel polis merkezini ciddi suçu bildirmek için ______."
 }

@@ -4,17 +4,19 @@
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "arlarsa",
+    "verb_full": "ararlarsa",
     "root": "ara",
-    "tense_affix": "rlarsa",
+    "tense_affix": "rsa",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they call, tell them I'm out.",
-  "russian_example_sentence": "Если они позвонят, скажи им, что меня нет.",
-  "turkish_example_sentence": "Onlar beni ofisten ararlarsa, onlara dışarıda olduğumu söyleyin.",
-  "turkish_example_sentence_with_blank": "Onlar beni ofisten ar______, onlara dışarıda olduğumu söyleyin."
+  "turkish_example_sentence": "Onlar yerel polis merkezini gece ararlarsa, yardım gelecek.",
+  "english_example_sentence": "If they call the local police station at night, help will come.",
+  "russian_example_sentence": "Если они позвонят в местное отделение полиции ночью, придет помощь.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:18:40.638216+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yerel polis merkezini gece ______, yardım gelecek."
 }

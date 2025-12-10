@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "verecektik",
     "root": "ver",
-    "tense_affix": "ecek",
+    "tense_affix": "ecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "tik",
+    "personal_affix": "k",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We were going to give support",
-  "russian_example_sentence": "Мы собирались оказать поддержку",
-  "turkish_example_sentence": "Biz, depremzedelere battaniye ve yiyecek yardımı verecektik.",
-  "turkish_example_sentence_with_blank": "Biz, depremzedelere battaniye ve yiyecek yardımı ______."
+  "turkish_example_sentence": "Biz yoksul aileye sıcak kahverengi battaniye verecektik.",
+  "english_example_sentence": "We were going to give a warm brown blanket to the poor family.",
+  "russian_example_sentence": "Мы собирались дать теплое коричневое одеяло бедной семье.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:57:11.033125+00:00",
+  "turkish_example_sentence_with_blank": "Biz yoksul aileye sıcak kahverengi battaniye ______."
 }

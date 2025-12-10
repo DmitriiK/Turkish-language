@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "anlatmadığınızda",
     "root": "anlat",
-    "tense_affix": "madığı",
+    "tense_affix": "madığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "ınızda",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "When you don't tell the personal opinion",
-  "russian_example_sentence": "Когда вы не выражаете личное мнение",
-  "turkish_example_sentence": "Siz kişisel görüşü anlatmadığınızda, tartışmadan kaçınıyorsunuz",
-  "turkish_example_sentence_with_blank": "Siz kişisel görüşü ______, tartışmadan kaçınıyorsunuz"
+  "turkish_example_sentence": "Siz talimatları doğru şekilde anlatmadığınızda, çalışanlar hata yaptı ve karışıklık oluştu.",
+  "english_example_sentence": "When you didn't explain the instructions correctly, the employees made mistakes and confusion arose.",
+  "russian_example_sentence": "Когда вы не объяснили инструкции правильно, сотрудники допустили ошибки и возникла путаница.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:43:12.535980+00:00",
+  "turkish_example_sentence_with_blank": "Siz talimatları doğru şekilde ______, çalışanlar hata yaptı ve karışıklık oluştu."
 }

@@ -1,6 +1,6 @@
 {
   "verb_rank": 20,
-  "verb_english": "call (phone)",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He found success by calling clients.",
-  "russian_example_sentence": "Он добился успеха, обзванивая клиентов.",
-  "turkish_example_sentence": "Müşterileri arayarak başarıyı buldu.",
-  "turkish_example_sentence_with_blank": "Müşterileri ______ başarıyı buldu."
+  "turkish_example_sentence": "Acı çeken yaşlı anneyi arayarak ona destek verdim.",
+  "english_example_sentence": "By calling the suffering elderly mother, I gave her support.",
+  "russian_example_sentence": "Позвонив страдающей пожилой матери, я оказал ей поддержку.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:19:17.281042+00:00",
+  "turkish_example_sentence_with_blank": "Acı çeken yaşlı anneyi ______ ona destek verdim."
 }

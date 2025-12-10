@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "istemezsiniz",
     "root": "iste",
-    "tense_affix": "r",
+    "tense_affix": "mez",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "siniz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You do not want difficult complicated mathematics problems",
-  "russian_example_sentence": "Вы не хотите сложные запутанные математические задачи",
-  "turkish_example_sentence": "Siz zor karmaşık matematik problemlerini istemezsiniz",
-  "turkish_example_sentence_with_blank": "Siz zor karmaşık matematik problemlerini ______"
+  "turkish_example_sentence": "Siz pahalı siyah ayakkabı istemezsiniz.",
+  "english_example_sentence": "You (plural/formal) don't want expensive black shoes.",
+  "russian_example_sentence": "Вы не хотите дорогие чёрные туфли.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:15:23.808062+00:00",
+  "turkish_example_sentence_with_blank": "Siz pahalı siyah ayakkabı ______."
 }

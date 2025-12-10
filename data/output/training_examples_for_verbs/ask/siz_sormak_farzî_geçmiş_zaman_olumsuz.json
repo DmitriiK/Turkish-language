@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sormamışsanız",
     "root": "sor",
-    "tense_affix": "mamışsa",
+    "tense_affix": "muşsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If you hadn't asked so many questions",
-  "russian_example_sentence": "Если бы вы не задавали столько вопросов",
-  "turkish_example_sentence": "Bu kadar çok soru sormamışsanız, sıkılmazdım.",
-  "turkish_example_sentence_with_blank": "Bu kadar çok soru ______, sıkılmazdım."
+  "turkish_example_sentence": "Siz aşçıya yemek tarifini sormamışsanız, lezzetli yemek yapabilirdiniz.",
+  "english_example_sentence": "If you had not asked the chef about the food recipe, you could have made a delicious meal.",
+  "russian_example_sentence": "Если бы вы не спросили шефа о рецепте блюда, вы бы могли приготовить вкусное блюдо.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:48:25.856154+00:00",
+  "turkish_example_sentence_with_blank": "Siz aşçıya yemek tarifini ______, lezzetli yemek yapabilirdiniz."
 }

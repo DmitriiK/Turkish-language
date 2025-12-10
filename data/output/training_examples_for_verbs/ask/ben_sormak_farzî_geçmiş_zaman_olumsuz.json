@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sormamışsam",
     "root": "sor",
-    "tense_affix": "mamışsa",
+    "tense_affix": "muşsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If I hadn't asked that silly question",
-  "russian_example_sentence": "Если бы я не задал этот глупый вопрос",
-  "turkish_example_sentence": "O aptalca soruyu sormamışsam, rahatlardım.",
-  "turkish_example_sentence_with_blank": "O aptalca soruyu ______, rahatlardım."
+  "turkish_example_sentence": "Ben doktor hakkında hiçbir şey sormamışsam, hastalığım daha kötü olurdu.",
+  "english_example_sentence": "If I had not asked anything about the doctor, my illness would have gotten worse.",
+  "russian_example_sentence": "Если бы я не спросил ничего о враче, моя болезнь бы ухудшилась.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:48:25.856154+00:00",
+  "turkish_example_sentence_with_blank": "Ben doktor hakkında hiçbir şey ______, hastalığım daha kötü olurdu."
 }

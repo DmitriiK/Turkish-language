@@ -4,17 +4,19 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "veresiniz",
+    "verb_full": "veressiniz",
     "root": "ver",
     "tense_affix": "e",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "siniz",
+    "personal_affix": "ssiniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "May you give useful advice.",
-  "russian_example_sentence": "Дайте полезный совет.",
-  "turkish_example_sentence": "Faydalı tavsiyeler veresiniz.",
-  "turkish_example_sentence_with_blank": "Faydalı tavsiyeler ______."
+  "turkish_example_sentence": "Siz öğrencilere zor matematik problemlerinin çözümünü veressiniz.",
+  "english_example_sentence": "May you give the students the solution to difficult math problems.",
+  "russian_example_sentence": "Пусть вы дадите студентам решение сложных математических задач.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:55:44.826068+00:00",
+  "turkish_example_sentence_with_blank": "Siz öğrencilere zor matematik problemlerinin çözümünü ______."
 }

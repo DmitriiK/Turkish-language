@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "çalışırsam",
     "root": "çalış",
-    "tense_affix": "ırsa",
+    "tense_affix": "ır",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I work hard, I will succeed",
-  "russian_example_sentence": "Если я буду усердно работать, я добьюсь успеха",
-  "turkish_example_sentence": "Eğer çok çalışırsam, başarılı olurum",
-  "turkish_example_sentence_with_blank": "Eğer çok ______, başarılı olurum"
+  "turkish_example_sentence": "Ben sabah erken çalışırsam, akşam dinlenebilirim.",
+  "english_example_sentence": "If I work early in the morning, I can rest in the evening.",
+  "russian_example_sentence": "Если я буду работать рано утром, я смогу отдохнуть вечером.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:52:54.426093+00:00",
+  "turkish_example_sentence_with_blank": "Ben sabah erken ______, akşam dinlenebilirim."
 }

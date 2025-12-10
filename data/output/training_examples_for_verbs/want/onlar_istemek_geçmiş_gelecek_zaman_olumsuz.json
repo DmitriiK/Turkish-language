@@ -4,17 +4,19 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemeyeceklerdi",
+    "verb_full": "istememeyeceklerdi",
     "root": "iste",
-    "tense_affix": "yecek",
+    "tense_affix": "yecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lerdi",
+    "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "They weren't going to change jobs.",
-  "russian_example_sentence": "Они не собирались менять работу.",
-  "turkish_example_sentence": "Onlar bu yıl içinde işlerini değiştirmeyeceklerdi.",
-  "turkish_example_sentence_with_blank": "Onlar bu yıl içinde işlerini değiştirmeyeceklerdi."
+  "turkish_example_sentence": "Onlar o tehlikeli dağ tırmanışında riskli bir macera yaşamak istememeyeceklerdi.",
+  "english_example_sentence": "They were not going to experience a risky adventure in that dangerous mountain climbing.",
+  "russian_example_sentence": "Они не собирались испытывать рискованное приключение в том опасном альпинизме.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:51:14.770211+00:00",
+  "turkish_example_sentence_with_blank": "Onlar o tehlikeli dağ tırmanışında riskli bir macera yaşamak ______."
 }

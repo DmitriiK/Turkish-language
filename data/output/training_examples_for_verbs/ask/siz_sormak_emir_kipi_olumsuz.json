@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sormayın",
     "root": "sor",
-    "tense_affix": "un",
+    "tense_affix": "ma",
     "verb_tense": "emir_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "n",
+    "personal_affix": "yın",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "Don't ask the tired manager unnecessary questions today",
-  "russian_example_sentence": "Не спрашивайте усталого менеджера ненужные вопросы сегодня",
-  "turkish_example_sentence": "Yorgun müdürden gereksiz sorular sormayın",
-  "turkish_example_sentence_with_blank": "Yorgun müdürden gereksiz sorular ______"
+  "turkish_example_sentence": "Siz yabancı misafirlere rahatsız edici konuları sormayın.",
+  "english_example_sentence": "You don't ask foreign guests about disturbing topics.",
+  "russian_example_sentence": "Вы не спрашивайте иностранных гостей о беспокойных темах.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:46:44.841343+00:00",
+  "turkish_example_sentence_with_blank": "Siz yabancı misafirlere rahatsız edici konuları ______."
 }

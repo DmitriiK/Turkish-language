@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I ask my teacher for advice",
-  "russian_example_sentence": "Если я спрошу совета у учителя",
-  "turkish_example_sentence": "Eğer öğretmenime fikir sorsam",
-  "turkish_example_sentence_with_blank": "Eğer öğretmenime fikir ______"
+  "turkish_example_sentence": "Ben öğretmene zor matematik sorusunu sorsam, bana yardım eder.",
+  "english_example_sentence": "If I were to ask the teacher a difficult math question, he would help me.",
+  "russian_example_sentence": "Если бы я спросил учителя о сложном вопросе математики, он бы мне помог.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:47:05.259598+00:00",
+  "turkish_example_sentence_with_blank": "Ben öğretmene zor matematik sorusunu ______, bana yardım eder."
 }

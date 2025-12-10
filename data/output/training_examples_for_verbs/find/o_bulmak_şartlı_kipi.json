@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "bulursa",
     "root": "bul",
-    "tense_affix": "ursa",
+    "tense_affix": "ur",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If he finds the lost cat",
-  "russian_example_sentence": "Если он найдет пропавшую кошку",
-  "turkish_example_sentence": "Kaybolan kediyi bulursa",
-  "turkish_example_sentence_with_blank": "Kaybolan kediyi ______"
+  "turkish_example_sentence": "O kütüphanede nadir bir kitap bulursa, bize gösterecektir.",
+  "english_example_sentence": "If he finds a rare book in the library, he will show it to us.",
+  "russian_example_sentence": "Если он найдет редкую книгу в библиотеке, он покажет ее нам.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:35:44.232218+00:00",
+  "turkish_example_sentence_with_blank": "O kütüphanede nadir bir kitap ______, bize gösterecektir."
 }

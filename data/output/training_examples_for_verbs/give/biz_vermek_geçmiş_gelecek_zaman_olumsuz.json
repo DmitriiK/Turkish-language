@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "vermeyecektik",
     "root": "ver",
-    "tense_affix": "eyecek",
+    "tense_affix": "ecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "tik",
+    "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "We weren't going to give up",
-  "russian_example_sentence": "Мы не собирались сдаваться",
-  "turkish_example_sentence": "Biz, zorlu projeden asla vazgeçmeyecektik.",
-  "turkish_example_sentence_with_blank": "Biz, zorlu projeden asla vazgeçmeyecektik."
+  "turkish_example_sentence": "Biz kötü hava koşullarında uzun yolculuk ipuçlarını vermeyecektik.",
+  "english_example_sentence": "We were not going to give long journey tips in bad weather conditions.",
+  "russian_example_sentence": "Мы не собирались давать советы долгого путешествия в плохих погодных условиях.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:57:11.033125+00:00",
+  "turkish_example_sentence_with_blank": "Biz kötü hava koşullarında uzun yolculuk ipuçlarını ______."
 }

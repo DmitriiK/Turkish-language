@@ -4,17 +4,19 @@
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "armazlarsa",
+    "verb_full": "aramazlarsa",
     "root": "ara",
-    "tense_affix": "mazlarsa",
+    "tense_affix": "rsa",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If they don't call, we'll cancel the trip.",
-  "russian_example_sentence": "Если они не позвонят, мы отменим поездку.",
-  "turkish_example_sentence": "Onlar bizi otelden aramazlarsa, seyahati iptal edeceğiz.",
-  "turkish_example_sentence_with_blank": "Onlar bizi otelden aramazlarsa, seyahati iptal edeceğiz."
+  "turkish_example_sentence": "Onlar deneyimli öğretmenleri aramazlarsa, sınav hazırlığı zor olacak.",
+  "english_example_sentence": "If they do not call the experienced teachers, exam preparation will be difficult.",
+  "russian_example_sentence": "Если они не позвонят опытным учителям, подготовка к экзамену будет сложной.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:18:40.638216+00:00",
+  "turkish_example_sentence_with_blank": "Onlar deneyimli öğretmenleri ______, sınav hazırlığı zor olacak."
 }

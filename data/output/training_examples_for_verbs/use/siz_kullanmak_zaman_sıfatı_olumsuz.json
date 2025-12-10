@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "kullanmadığınızda",
     "root": "kullan",
-    "tense_affix": "dık",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "siz",
-    "personal_affix": "ınız",
+    "personal_affix": "ınızda",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "When you don't use chemical fertilizers.",
-  "russian_example_sentence": "Когда вы не используете химические удобрения.",
-  "turkish_example_sentence": "Siz kimyasal gübreleri kullanmadığınızda, organik tarım yapıyorsunuz.",
-  "turkish_example_sentence_with_blank": "Siz kimyasal gübreleri ______, organik tarım yapıyorsunuz."
+  "turkish_example_sentence": "Siz güçlü temizlik ürünü kullanmadığınızda, kirli halı temizlenmiyor.",
+  "english_example_sentence": "When you don't use the strong cleaning product, the dirty carpet doesn't get cleaned.",
+  "russian_example_sentence": "Когда вы не используете сильное чистящее средство, грязный ковер не чистится.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:30:48.340980+00:00",
+  "turkish_example_sentence_with_blank": "Siz güçlü temizlik ürünü ______, kirli halı temizlenmiyor."
 }

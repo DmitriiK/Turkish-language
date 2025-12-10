@@ -4,17 +4,19 @@
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "araması lazım",
+    "verb_full": "araması",
     "root": "ara",
-    "tense_affix": " ",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
     "personal_affix": "sı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He needs to call the plumber",
-  "russian_example_sentence": "Ему нужно позвонить сантехнику",
-  "turkish_example_sentence": "O tesisatçıyı hemen araması lazım",
-  "turkish_example_sentence_with_blank": "O tesisatçıyı hemen ______"
+  "turkish_example_sentence": "O genç öğretmen velileri cuma akşamı araması lazım.",
+  "english_example_sentence": "She needs to call the parents on Friday evening.",
+  "russian_example_sentence": "Ей нужно звонить родителям в пятницу вечером.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:17:21.028205+00:00",
+  "turkish_example_sentence_with_blank": "O genç öğretmen velileri cuma akşamı ______ lazım."
 }

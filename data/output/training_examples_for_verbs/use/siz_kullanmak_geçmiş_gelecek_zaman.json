@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "kullanacaktınız",
     "root": "kullan",
-    "tense_affix": "acaktı",
+    "tense_affix": "acak",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "tınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You were going to use the opportunity.",
-  "russian_example_sentence": "Вы собирались использовать эту возможность.",
-  "turkish_example_sentence": "Siz bu fırsatı kullanacaktınız, neden vazgeçtiniz?",
-  "turkish_example_sentence_with_blank": "Siz bu fırsatı ______, neden vazgeçtiniz?"
+  "turkish_example_sentence": "Siz konferansta yeni sunum aracını kullanacaktınız.",
+  "english_example_sentence": "You were going to use the new presentation tool at the conference.",
+  "russian_example_sentence": "Вы собирались использовать новый инструмент презентации на конференции.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:29:57.806955+00:00",
+  "turkish_example_sentence_with_blank": "Siz konferansta yeni sunum aracını ______."
 }

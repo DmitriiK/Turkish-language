@@ -4,17 +4,19 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istememelisi",
+    "verb_full": "istememeli",
     "root": "iste",
-    "tense_affix": "memeli",
+    "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "siniz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You must not want to ignore serious health problems",
-  "russian_example_sentence": "Вы не должны хотеть игнорировать серьезные проблемы со здоровьем",
-  "turkish_example_sentence": "Siz ciddi sağlık sorunlarını görmezden gelmek istememelisi",
-  "turkish_example_sentence_with_blank": "Siz ciddi sağlık sorunlarını görmezden gelmek ______"
+  "turkish_example_sentence": "Siz yanlış bir karar istememeli.",
+  "english_example_sentence": "You must not want a wrong decision.",
+  "russian_example_sentence": "Вы не должны хотеть неправильное решение.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:49:24.210864+00:00",
+  "turkish_example_sentence_with_blank": "Siz yanlış bir karar ______."
 }

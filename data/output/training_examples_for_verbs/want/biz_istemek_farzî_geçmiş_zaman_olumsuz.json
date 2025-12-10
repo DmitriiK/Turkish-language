@@ -4,17 +4,19 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istememişsek",
+    "verb_full": "istememişolsak",
     "root": "iste",
-    "tense_affix": "memişse",
+    "tense_affix": "miş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If we hadn't wanted, we wouldn't care",
-  "russian_example_sentence": "Если бы мы не захотели, нам было бы все равно",
-  "turkish_example_sentence": "İstememişsek, bu konuda endişelenmezdik",
-  "turkish_example_sentence_with_blank": "İstememişsek, bu konuda endişelenmezdik"
+  "turkish_example_sentence": "Biz o karmaşık matematik problemini istememişolsak, çözmezdik.",
+  "english_example_sentence": "If we had not wanted that complicated math problem, we would not have solved it.",
+  "russian_example_sentence": "Если бы мы не хотели то сложную математическую задачу, мы бы её не решили.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:51:43.434169+00:00",
+  "turkish_example_sentence_with_blank": "Biz o karmaşık matematik problemini ______, çözmezdik."
 }

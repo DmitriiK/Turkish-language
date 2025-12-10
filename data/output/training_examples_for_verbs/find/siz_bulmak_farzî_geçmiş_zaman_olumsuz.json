@@ -4,17 +4,19 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulmamışsanız",
+    "verb_full": "bulamamışsanız",
     "root": "bul",
-    "tense_affix": "mamışsa",
+    "tense_affix": "muş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If you hadn't found the right direction",
-  "russian_example_sentence": "Если бы вы не нашли правильное направление",
-  "turkish_example_sentence": "Siz doğru yönü bulmamışsanız, kaybolmuş olurdunuz.",
-  "turkish_example_sentence_with_blank": "Siz doğru yönü ______, kaybolmuş olurdunuz."
+  "turkish_example_sentence": "Siz hastanede iyi doktor bulamamışsanız, başka şehre gitmek gerekecekti.",
+  "english_example_sentence": "If you had not found the good doctor at the hospital, you would have had to go to another city.",
+  "russian_example_sentence": "Если бы вы не нашли хорошего врача в больнице, вам пришлось бы ехать в другой город.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:36:55.470944+00:00",
+  "turkish_example_sentence_with_blank": "Siz hastanede iyi doktor ______, başka şehre gitmek gerekecekti."
 }

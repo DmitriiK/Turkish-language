@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "çalışmazlarsa",
     "root": "çalış",
-    "tense_affix": "mazlarsa",
+    "tense_affix": "maz",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If they don't work hard, they will lose",
-  "russian_example_sentence": "Если они не будут усердно работать, они проиграют",
-  "turkish_example_sentence": "Eğer çok çalışmazlarsa, kaybederler",
-  "turkish_example_sentence_with_blank": "Eğer çok ______, kaybederler"
+  "turkish_example_sentence": "Onlar düzenli çalışmazlarsa, işi kaybedecekler.",
+  "english_example_sentence": "If they do not work regularly, they will lose the job.",
+  "russian_example_sentence": "Если они не будут работать регулярно, они потеряют работу.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:52:54.426093+00:00",
+  "turkish_example_sentence_with_blank": "Onlar düzenli ______, işi kaybedecekler."
 }

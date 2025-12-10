@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "anlatmasalar",
     "root": "anlat",
-    "tense_affix": "masa",
+    "tense_affix": "sa",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If they didn't tell their friends",
-  "russian_example_sentence": "Если бы они не рассказали своим друзьям",
-  "turkish_example_sentence": "Eğer arkadaşlarına anlatmasalar",
-  "turkish_example_sentence_with_blank": "Eğer arkadaşlarına ______"
+  "turkish_example_sentence": "Onlar bu acı gerçeği anlatmasalar, herkes mutlu kalır.",
+  "english_example_sentence": "If they were not to tell this bitter truth, everyone would remain happy.",
+  "russian_example_sentence": "Если бы они не рассказали эту горькую правду, все бы остались счастливы.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:41:30.759279+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu acı gerçeği ______, herkes mutlu kalır."
 }

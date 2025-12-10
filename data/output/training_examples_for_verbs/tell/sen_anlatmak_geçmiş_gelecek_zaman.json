@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "anlatacaktın",
     "root": "anlat",
-    "tense_affix": "acak",
+    "tense_affix": "acaktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "tın",
+    "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You were going to tell the truth.",
-  "russian_example_sentence": "Ты собирался рассказать правду.",
-  "turkish_example_sentence": "Sen sonunda gerçeği anlatacaktın.",
-  "turkish_example_sentence_with_blank": "Sen sonunda gerçeği ______."
+  "turkish_example_sentence": "Sen bana önemli haberler anlatacaktın ama unutun.",
+  "english_example_sentence": "You were going to tell me important news but you forgot.",
+  "russian_example_sentence": "Ты собирался рассказать мне важные новости, но забыл.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:42:23.402294+00:00",
+  "turkish_example_sentence_with_blank": "Sen bana önemli haberler ______ ama unutun."
 }

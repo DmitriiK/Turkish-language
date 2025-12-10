@@ -4,7 +4,7 @@
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "aramayasın",
+    "verb_full": "aramasın",
     "root": "ara",
     "tense_affix": "ya",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "May you not call that rude customer",
-  "russian_example_sentence": "Может быть, ты не будешь звонить этому грубому клиенту",
-  "turkish_example_sentence": "Sen asla o kaba müşteriyi aramayasın",
-  "turkish_example_sentence_with_blank": "Sen asla o kaba müşteriyi ______"
+  "turkish_example_sentence": "Sen önemli toplantı sırasında yabancı müşteri temsilcisini aramasın.",
+  "english_example_sentence": "Do not call the foreign customer representative during the important meeting.",
+  "russian_example_sentence": "Не звони иностранному представителю клиента во время важного совещания.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:16:24.775875+00:00",
+  "turkish_example_sentence_with_blank": "Sen önemli toplantı sırasında yabancı müşteri temsilcisini ______."
 }

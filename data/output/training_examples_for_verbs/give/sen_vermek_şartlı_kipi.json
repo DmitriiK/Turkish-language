@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "verirsen",
     "root": "ver",
-    "tense_affix": "ir",
+    "tense_affix": "irse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you give me your phone",
-  "russian_example_sentence": "Если ты дашь мне телефон",
-  "turkish_example_sentence": "Bana telefonunu verirsen",
-  "turkish_example_sentence_with_blank": "Bana telefonunu ______"
+  "turkish_example_sentence": "Sen bana doğru cevap verirsen, sınıfta başarılı olacaksın.",
+  "english_example_sentence": "If you give me the correct answer, you will succeed in class.",
+  "russian_example_sentence": "Если ты дашь мне правильный ответ, ты добьешься успеха в классе.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:56:39.122780+00:00",
+  "turkish_example_sentence_with_blank": "Sen bana doğru cevap ______, sınıfta başarılı olacaksın."
 }

@@ -11,10 +11,12 @@
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "mama"
   },
-  "english_example_sentence": "She must not ask the busy manager unnecessary questions",
-  "russian_example_sentence": "Она не должна спрашивать занятого менеджера ненужные вопросы",
-  "turkish_example_sentence": "O meşgul müdürden gereksiz sorular sormamalı",
-  "turkish_example_sentence_with_blank": "O meşgul müdürden gereksiz sorular ______"
+  "turkish_example_sentence": "O hasta kişiye rahatsız edici sorular sormamalı.",
+  "english_example_sentence": "He/She must not ask disturbing questions to the sick person.",
+  "russian_example_sentence": "Он/Она не должен/должна задавать беспокойные вопросы больному человеку.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:46:11.426101+00:00",
+  "turkish_example_sentence_with_blank": "O hasta kişiye rahatsız edici sorular ______."
 }

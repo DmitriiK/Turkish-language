@@ -4,17 +4,19 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemeyin",
+    "verb_full": "istemeyın",
     "root": "iste",
-    "tense_affix": "meyin",
+    "tense_affix": "y",
     "verb_tense": "emir_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "yin",
+    "personal_affix": "ın",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "Don't want the old broken bicycle here",
-  "russian_example_sentence": "Не хотите старый сломанный велосипед здесь",
-  "turkish_example_sentence": "Siz burada eski kırık bisikleti istemeyin",
-  "turkish_example_sentence_with_blank": "Siz burada eski kırık bisikleti ______"
+  "turkish_example_sentence": "Siz zor karmaşık matematik problemini istemeyın.",
+  "english_example_sentence": "You (plural/formal) don't want the difficult complex math problem.",
+  "russian_example_sentence": "Вы не хотите сложную задачу по математике.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:48:35.074553+00:00",
+  "turkish_example_sentence_with_blank": "Siz zor karmaşık matematik problemini ______."
 }

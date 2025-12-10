@@ -4,17 +4,19 @@
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "aramazsam",
+    "verb_full": "aramazsan",
     "root": "ara",
-    "tense_affix": "mazsa",
+    "tense_affix": "rsa",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If I don't call, assume everything's fine.",
-  "russian_example_sentence": "Если я не позвоню, считай, что все в порядке.",
-  "turkish_example_sentence": "Ben seni hiç aramazsam, her şey yolunda demektir.",
-  "turkish_example_sentence_with_blank": "Ben seni hiç ______, her şey yolunda demektir."
+  "turkish_example_sentence": "Ben doktor aramazsan, hastalık daha da kötüleşir.",
+  "english_example_sentence": "If I do not call the doctor, the illness will get worse.",
+  "russian_example_sentence": "Если я не позвоню врачу, болезнь еще больше ухудшится.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:18:40.638216+00:00",
+  "turkish_example_sentence_with_blank": "Ben doktor ______, hastalık daha da kötüleşir."
 }

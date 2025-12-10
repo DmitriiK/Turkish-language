@@ -1,6 +1,6 @@
 {
   "verb_rank": 20,
-  "verb_english": "call (phone)",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
@@ -11,10 +11,12 @@
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
-    "negative_affix": null
+    "negative_affix": "yama"
   },
-  "english_example_sentence": "I cannot call you during this important meeting.",
-  "russian_example_sentence": "Я не могу позвонить тебе во время этой важной встречи.",
-  "turkish_example_sentence": "Ben bu önemli toplantı sırasında seni arayamam.",
-  "turkish_example_sentence_with_blank": "Ben bu önemli toplantı sırasında seni ______."
+  "turkish_example_sentence": "Ben gürültülü fabrika ortamında müdürü arayamam.",
+  "english_example_sentence": "I cannot call the manager in the noisy factory environment.",
+  "russian_example_sentence": "Я не могу звонить менеджеру в шумной фабричной среде.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:17:39.720677+00:00",
+  "turkish_example_sentence_with_blank": "Ben gürültülü fabrika ortamında müdürü ______."
 }

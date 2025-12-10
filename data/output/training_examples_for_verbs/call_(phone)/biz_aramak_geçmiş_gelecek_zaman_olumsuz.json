@@ -1,20 +1,22 @@
 {
   "verb_rank": 20,
-  "verb_english": "call (phone)",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
     "verb_full": "aramayacaktık",
     "root": "ara",
-    "tense_affix": "mayacaktı",
+    "tense_affix": "caktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "We weren't going to call the taxi.",
-  "russian_example_sentence": "Мы не собирались вызывать такси.",
-  "turkish_example_sentence": "Biz taksiyi aramayacaktık.",
-  "turkish_example_sentence_with_blank": "Biz taksiyi ______."
+  "turkish_example_sentence": "Biz resepsiyonist kızı aramayacaktık çünkü e-posta ile iletişim kurmak daha hızlıydı.",
+  "english_example_sentence": "We were not going to call the receptionist girl because communicating by email was faster.",
+  "russian_example_sentence": "Мы не собирались звонить девушке-администратору, потому что общение по электронной почте было быстрее.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:18:20.101796+00:00",
+  "turkish_example_sentence_with_blank": "Biz resepsiyonist kızı ______ çünkü e-posta ile iletişim kurmak daha hızlıydı."
 }

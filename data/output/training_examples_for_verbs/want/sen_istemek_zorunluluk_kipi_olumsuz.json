@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "istememeli",
     "root": "iste",
-    "tense_affix": "memeli",
+    "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "sin",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You must not want to skip important meetings",
-  "russian_example_sentence": "Ты не должен хотеть пропускать важные встречи",
-  "turkish_example_sentence": "Sen önemli toplantıları atlamak istememeli",
-  "turkish_example_sentence_with_blank": "Sen önemli toplantıları atlamak ______"
+  "turkish_example_sentence": "Sen zararlı bir şey istememeli.",
+  "english_example_sentence": "You must not want a harmful thing.",
+  "russian_example_sentence": "Ты не должен хотеть вредную вещь.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:49:24.210864+00:00",
+  "turkish_example_sentence_with_blank": "Sen zararlı bir şey ______."
 }

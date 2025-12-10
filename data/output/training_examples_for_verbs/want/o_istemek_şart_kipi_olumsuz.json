@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If she doesn’t want to go, she can stay home",
-  "russian_example_sentence": "Если она не хочет идти, она может остаться дома",
-  "turkish_example_sentence": "Gitmek istemese, evde kalabilir",
-  "turkish_example_sentence_with_blank": "Gitmek ______, evde kalabilir"
+  "turkish_example_sentence": "O yeni bir ev istemese, şimdiki dairede kalabilir.",
+  "english_example_sentence": "If she were not to want a new house, she could stay in her current apartment.",
+  "russian_example_sentence": "Если бы она не захотела новый дом, она могла бы остаться в своей нынешней квартире.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:50:23.824484+00:00",
+  "turkish_example_sentence_with_blank": "O yeni bir ev ______, şimdiki dairede kalabilir."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sormamışsan",
     "root": "sor",
-    "tense_affix": "mamışsa",
+    "tense_affix": "muşsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If you hadn't asked the price",
-  "russian_example_sentence": "Если бы ты не спросил цену",
-  "turkish_example_sentence": "Eğer fiyatı sormamışsan, pahalı bir şey alırdın.",
-  "turkish_example_sentence_with_blank": "Eğer fiyatı ______, pahalı bir şey alırdın."
+  "turkish_example_sentence": "Sen rehbere yol hakkında sormamışsan, kaybolup giderdin.",
+  "english_example_sentence": "If you had not asked the guide about the road, you would have gotten lost.",
+  "russian_example_sentence": "Если бы ты не спросил гида о дороге, ты бы заблудился.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:48:25.856154+00:00",
+  "turkish_example_sentence_with_blank": "Sen rehbere yol hakkında ______, kaybolup giderdin."
 }

@@ -4,17 +4,19 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatmamaları lazım",
+    "verb_full": "anlatmamaları",
     "root": "anlat",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ları",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "They should not tell the complicated technical details",
-  "russian_example_sentence": "Они не должны рассказывать сложные технические детали",
-  "turkish_example_sentence": "Onlar karmaşık teknik ayrıntıları anlatmamaları lazım",
-  "turkish_example_sentence_with_blank": "Onlar karmaşık teknik ayrıntıları ______"
+  "turkish_example_sentence": "Onlar bu olumsuz haberi halkın panik yapmasını önlemek için anlatmamaları gerek.",
+  "english_example_sentence": "They should not tell this negative news to prevent people from panicking.",
+  "russian_example_sentence": "Они не должны рассказывать эту негативную новость, чтобы предотвратить панику людей.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:40:14.516997+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu olumsuz haberi halkın panik yapmasını önlemek için ______ gerek."
 }

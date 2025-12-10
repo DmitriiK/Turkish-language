@@ -4,17 +4,19 @@
   "verb_russian": "использовать",
   "verb_infinitive": "kullanmak",
   "turkish_verb": {
-    "verb_full": "kullanmanız lazım",
+    "verb_full": "kullanmanız",
     "root": "kullan",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You all need to use the updated training manual",
-  "russian_example_sentence": "Вам нужно использовать обновленное руководство обучения",
-  "turkish_example_sentence": "Siz güncellenmiş eğitim kitapçığını kullanmanız lazım",
-  "turkish_example_sentence_with_blank": "Siz güncellenmiş eğitim kitapçığını ______"
+  "turkish_example_sentence": "Siz bu profesyonel yazılım uygulamasını iş ortamında düzgün şekilde kullanmanız lazım.",
+  "english_example_sentence": "You need to use this professional software application properly in the work environment.",
+  "russian_example_sentence": "Вам нужно правильно использовать это профессиональное программное приложение в рабочей среде.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T13:55:52.070989+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu profesyonel yazılım uygulamasını iş ortamında düzgün şekilde ______ lazım."
 }

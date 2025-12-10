@@ -4,17 +4,19 @@
   "verb_russian": "спрашивать",
   "verb_infinitive": "sormak",
   "turkish_verb": {
-    "verb_full": "sorman lazım",
+    "verb_full": "sorman",
     "root": "sor",
-    "tense_affix": "lazım",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to ask the helpful librarian for book recommendations",
-  "russian_example_sentence": "Тебе нужно спросить полезного библиотекаря о рекомендациях книг",
-  "turkish_example_sentence": "Sen yardımcı kütüphaneciye kitap önerileri sorman lazım",
-  "turkish_example_sentence_with_blank": "Sen yardımcı kütüphaneciye kitap önerileri ______"
+  "turkish_example_sentence": "Sen doktor hakkında tıbbi tavsiye sorman gerek.",
+  "english_example_sentence": "You need to ask the doctor about medical advice.",
+  "russian_example_sentence": "Тебе нужно спросить врача о медицинском совете.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:45:33.629390+00:00",
+  "turkish_example_sentence_with_blank": "Sen doktor hakkında tıbbi tavsiye ______ gerek."
 }

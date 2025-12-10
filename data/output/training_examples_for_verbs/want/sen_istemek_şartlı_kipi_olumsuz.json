@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "istemezsen",
     "root": "iste",
-    "tense_affix": "mezse",
+    "tense_affix": "se",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "mez"
   },
-  "english_example_sentence": "If you don't want help, just say so.",
-  "russian_example_sentence": "Если ты не захочешь помощи, просто скажи об этом.",
-  "turkish_example_sentence": "Yardım istemezsen sadece söyle.",
-  "turkish_example_sentence_with_blank": "Yardım ______ sadece söyle."
+  "turkish_example_sentence": "Sen pahalı bir hediye istemezsen, basit bir kitap alabilirim.",
+  "english_example_sentence": "If you don't want an expensive gift, I can buy a simple book.",
+  "russian_example_sentence": "Если ты не захочешь дорогой подарок, я смогу купить простую книгу.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:50:42.908812+00:00",
+  "turkish_example_sentence_with_blank": "Sen pahalı bir hediye ______, basit bir kitap alabilirim."
 }

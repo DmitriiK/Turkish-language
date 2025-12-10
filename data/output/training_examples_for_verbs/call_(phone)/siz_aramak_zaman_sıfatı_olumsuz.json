@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "aramadığınızda",
     "root": "ara",
-    "tense_affix": "dık",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "siz",
     "personal_affix": "ınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "When you don't call, we assume busy.",
-  "russian_example_sentence": "Когда вы не звоните, мы предполагаем, что заняты.",
-  "turkish_example_sentence": "Siz beni seminerden aramadığınızda, biz meşgul olduğunuzu sanıyoruz.",
-  "turkish_example_sentence_with_blank": "Siz beni seminerden ______, biz meşgul olduğunuzu sanıyoruz."
+  "turkish_example_sentence": "Siz acil ambulansı aramadığınızda, hasta durumu kötüleşti.",
+  "english_example_sentence": "When you didn't call the emergency ambulance, the patient's condition worsened.",
+  "russian_example_sentence": "Когда вы не позвонили скорой помощи, состояние пациента ухудшилось.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:19:45.005061+00:00",
+  "turkish_example_sentence_with_blank": "Siz acil ambulansı ______, hasta durumu kötüleşti."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sormadığında",
     "root": "sor",
-    "tense_affix": "dık",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "o",
-    "personal_affix": "ı",
+    "personal_affix": "u",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "When she doesn't ask, she assumes",
-  "russian_example_sentence": "Когда она не спрашивает, она предполагает",
-  "turkish_example_sentence": "O yeni tarifleri sormadığında, yemeği yanlış yapar.",
-  "turkish_example_sentence_with_blank": "O yeni tarifleri ______, yemeği yanlış yapar."
+  "turkish_example_sentence": "O kardeşine yardım sormadığında, zorlukla kendi başına işi bitirdi.",
+  "english_example_sentence": "When he didn't ask his brother for help, he finished the work with difficulty on his own.",
+  "russian_example_sentence": "Когда он не попросил помощь у своего брата, он с трудом закончил работу самостоятельно.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:49:03.430239+00:00",
+  "turkish_example_sentence_with_blank": "O kardeşine yardım ______, zorlukla kendi başına işi bitirdi."
 }

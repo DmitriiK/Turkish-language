@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "kullanmadığımızda",
     "root": "kullan",
-    "tense_affix": "dık",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "biz",
-    "personal_affix": "ımız",
+    "personal_affix": "ımızda",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "When we don't use plastic bags.",
-  "russian_example_sentence": "Когда мы не используем пластиковые пакеты.",
-  "turkish_example_sentence": "Biz plastik poşetleri kullanmadığımızda, bez çantaları tercih ediyoruz.",
-  "turkish_example_sentence_with_blank": "Biz plastik poşetleri ______, bez çantaları tercih ediyoruz."
+  "turkish_example_sentence": "Biz eski ışık ampulü kullanmadığımızda, elektrik faturası daha düşük oluyor.",
+  "english_example_sentence": "When we don't use the old light bulb, the electricity bill becomes lower.",
+  "russian_example_sentence": "Когда мы не используем старую лампочку, счет за электричество становится ниже.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:30:48.340980+00:00",
+  "turkish_example_sentence_with_blank": "Biz eski ışık ampulü ______, elektrik faturası daha düşük oluyor."
 }

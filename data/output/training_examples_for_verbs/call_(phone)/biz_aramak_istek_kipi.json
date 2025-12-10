@@ -4,7 +4,7 @@
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "arayalım",
+    "verb_full": "aralım",
     "root": "ara",
     "tense_affix": "ya",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Let's call the responsible project manager",
-  "russian_example_sentence": "Давайте позвоним ответственному менеджеру проекта",
-  "turkish_example_sentence": "Biz hemen sorumlu proje yöneticisini arayalım",
-  "turkish_example_sentence_with_blank": "Biz hemen sorumlu proje yöneticisini ______"
+  "turkish_example_sentence": "Biz tatil zamanında uzak akrabaları selamlamak için aralım.",
+  "english_example_sentence": "Let us call our distant relatives during vacation to greet them.",
+  "russian_example_sentence": "Давайте позвоним нашим дальним родственникам во время отпуска, чтобы их поприветствовать.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:16:24.775875+00:00",
+  "turkish_example_sentence_with_blank": "Biz tatil zamanında uzak akrabaları selamlamak için ______."
 }

@@ -4,7 +4,7 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemiyor",
+    "verb_full": "istemiyorsun",
     "root": "iste",
     "tense_affix": "iyor",
     "verb_tense": "şimdiki_zaman",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "m"
   },
-  "english_example_sentence": "You do not want expensive leather shoes",
-  "russian_example_sentence": "Ты не хочешь дорогие кожаные туфли",
-  "turkish_example_sentence": "Sen pahalı deri ayakkabıları istemiyor",
-  "turkish_example_sentence_with_blank": "Sen pahalı deri ayakkabıları ______"
+  "turkish_example_sentence": "Sen eski oyuncakları istemiyorsun.",
+  "english_example_sentence": "You do not want old toys.",
+  "russian_example_sentence": "Ты не хочешь старые игрушки.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:14:46.661819+00:00",
+  "turkish_example_sentence_with_blank": "Sen eski oyuncakları ______."
 }

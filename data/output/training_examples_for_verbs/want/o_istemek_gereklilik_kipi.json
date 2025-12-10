@@ -4,17 +4,19 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemesi lazım",
+    "verb_full": "istemesi",
     "root": "iste",
-    "tense_affix": "lazım",
+    "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
     "personal_affix": "si",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He needs to want that important promotion",
-  "russian_example_sentence": "Он должен хотеть это важное повышение",
-  "turkish_example_sentence": "O bu önemli terfiyi istemesi lazım",
-  "turkish_example_sentence_with_blank": "O bu önemli terfiyi ______"
+  "turkish_example_sentence": "O sıcak bir çay istemesi lazım.",
+  "english_example_sentence": "He/She needs to want a hot tea.",
+  "russian_example_sentence": "Ему/Ей нужно хотеть горячий чай.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:48:51.452213+00:00",
+  "turkish_example_sentence_with_blank": "O sıcak bir çay ______ lazım."
 }

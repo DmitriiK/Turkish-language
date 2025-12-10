@@ -4,7 +4,7 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatalım",
+    "verb_full": "anlatılım",
     "root": "anlat",
     "tense_affix": "a",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Let us tell the neighbors",
-  "russian_example_sentence": "Давайте расскажем соседям",
-  "turkish_example_sentence": "Biz komşulara anlatalım",
-  "turkish_example_sentence_with_blank": "Biz komşulara ______"
+  "turkish_example_sentence": "Biz öğretmene bu önemli bulguları anlatılım.",
+  "english_example_sentence": "Let's tell the teacher about these important findings.",
+  "russian_example_sentence": "Давайте расскажем учителю об этих важных открытиях.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:41:10.722045+00:00",
+  "turkish_example_sentence_with_blank": "Biz öğretmene bu önemli bulguları ______."
 }

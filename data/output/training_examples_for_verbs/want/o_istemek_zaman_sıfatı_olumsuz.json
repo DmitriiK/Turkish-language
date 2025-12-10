@@ -4,17 +4,19 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemediğinde",
+    "verb_full": "istememdiğinde",
     "root": "iste",
     "tense_affix": "diğ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "o",
-    "personal_affix": "i",
+    "personal_affix": "inde",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "When she doesn't want trouble, she avoids conflict.",
-  "russian_example_sentence": "Когда она не хочет неприятностей, она избегает конфликтов.",
-  "turkish_example_sentence": "O sorun istemediğinde, anlaşmazlıktan kaçınır.",
-  "turkish_example_sentence_with_blank": "O sorun ______, anlaşmazlıktan kaçınır."
+  "turkish_example_sentence": "O ziyaretçi istememdiğinde, kapıyı kapalı tutuyor.",
+  "english_example_sentence": "When he doesn't want visitors, he keeps the door closed.",
+  "russian_example_sentence": "Когда он не хочет посетителей, он держит дверь закрытой.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T13:34:15.066001+00:00",
+  "turkish_example_sentence_with_blank": "O ziyaretçi ______, kapıyı kapalı tutuyor."
 }

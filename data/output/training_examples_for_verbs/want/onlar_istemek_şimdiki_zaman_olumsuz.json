@@ -4,7 +4,7 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemiyor",
+    "verb_full": "istemiyorlar",
     "root": "iste",
     "tense_affix": "iyor",
     "verb_tense": "şimdiki_zaman",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "m"
   },
-  "english_example_sentence": "They do not want small narrow dark rooms",
-  "russian_example_sentence": "Они не хотят маленькие узкие темные комнаты",
-  "turkish_example_sentence": "Onlar küçük dar koyu odaları istemiyor",
-  "turkish_example_sentence_with_blank": "Onlar küçük dar koyu odaları ______"
+  "turkish_example_sentence": "Onlar kirli çamaşırları istemiyorlar.",
+  "english_example_sentence": "They do not want dirty laundry.",
+  "russian_example_sentence": "Они не хотят грязное белье.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:14:46.661819+00:00",
+  "turkish_example_sentence_with_blank": "Onlar kirli çamaşırları ______."
 }

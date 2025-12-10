@@ -4,7 +4,7 @@
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "arayalar",
+    "verb_full": "aralar",
     "root": "ara",
     "tense_affix": "ya",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "May they call the supportive family members",
-  "russian_example_sentence": "Пусть они позвонят поддерживающим членам семьи",
-  "turkish_example_sentence": "Onlar belki yardımsever aile üyelerini arayalar",
-  "turkish_example_sentence_with_blank": "Onlar belki yardımsever aile üyelerini ______"
+  "turkish_example_sentence": "Onlar yeni iş ortağını cuma öğleden sonra aralar.",
+  "english_example_sentence": "May they call the new business partner on Friday afternoon.",
+  "russian_example_sentence": "Пусть они позвонят новому деловому партнеру в пятницу после полудня.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:16:24.775875+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yeni iş ortağını cuma öğleden sonra ______."
 }

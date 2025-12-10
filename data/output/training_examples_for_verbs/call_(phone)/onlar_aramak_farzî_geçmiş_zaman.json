@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "aramışlarsa",
     "root": "ara",
-    "tense_affix": "mışlarsa",
+    "tense_affix": "mışsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they had called the agency...",
-  "russian_example_sentence": "Если бы они позвонили в агентство...",
-  "turkish_example_sentence": "Onlar seyahat acentesini aramışlarsa, tatili ayarlayabilirlerdi.",
-  "turkish_example_sentence_with_blank": "Onlar seyahat acentesini ______, tatili ayarlayabilirlerdi."
+  "turkish_example_sentence": "Onlar cumartesi sabahı ambulansı aramışlarsa, hasta kurtulurdu.",
+  "english_example_sentence": "If they had called the ambulance on Saturday morning, the patient would have been saved.",
+  "russian_example_sentence": "Если бы они позвонили скорой помощи в субботу утром, пациент был бы спасен.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:19:05.698775+00:00",
+  "turkish_example_sentence_with_blank": "Onlar cumartesi sabahı ambulansı ______, hasta kurtulurdu."
 }

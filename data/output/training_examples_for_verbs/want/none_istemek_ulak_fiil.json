@@ -4,7 +4,7 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istiyip",
+    "verb_full": "isteyip",
     "root": "iste",
     "tense_affix": "yip",
     "verb_tense": "ulak_fiil",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Wanting more, they planned ahead",
-  "russian_example_sentence": "Желая большего, они запланировали всё заранее",
-  "turkish_example_sentence": "Daha fazla istiyip plan yaptılar",
-  "turkish_example_sentence_with_blank": "Daha fazla ______ plan yaptılar"
+  "turkish_example_sentence": "Güzel bir hediye isteyip arkadaşına verdi.",
+  "english_example_sentence": "Having wanted a beautiful gift, he gave it to his friend.",
+  "russian_example_sentence": "Захотев красивый подарок, он отдал его своему другу.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:50:53.776392+00:00",
+  "turkish_example_sentence_with_blank": "Güzel bir hediye ______ arkadaşına verdi."
 }

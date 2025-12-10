@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "anlatacaktım",
     "root": "anlat",
-    "tense_affix": "acak",
+    "tense_affix": "acaktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "tım",
+    "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I was going to tell you everything.",
-  "russian_example_sentence": "Я собирался рассказать тебе все.",
-  "turkish_example_sentence": "Ben sana her şeyi anlatacaktım.",
-  "turkish_example_sentence_with_blank": "Ben sana her şeyi ______."
+  "turkish_example_sentence": "Ben dün akşam sana ilginç bir hikaye anlatacaktım.",
+  "english_example_sentence": "I was going to tell you an interesting story yesterday evening.",
+  "russian_example_sentence": "Я собирался рассказать тебе интересную историю вчера вечером.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:42:23.402294+00:00",
+  "turkish_example_sentence_with_blank": "Ben dün akşam sana ilginç bir hikaye ______."
 }

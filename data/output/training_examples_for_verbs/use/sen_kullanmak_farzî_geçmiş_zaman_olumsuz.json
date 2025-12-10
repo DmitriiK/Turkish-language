@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If you hadn't used too much sugar",
-  "russian_example_sentence": "Если бы ты не использовал слишком много сахара",
-  "turkish_example_sentence": "Sen çok fazla şeker kullanmamışsan, tatlı daha lezzetli olurdu.",
-  "turkish_example_sentence_with_blank": "Sen çok fazla şeker ______, tatlı daha lezzetli olurdu."
+  "turkish_example_sentence": "Sen bu karmaşık yazılımı asla kullanmamışsan, öğrenmen zor olur.",
+  "english_example_sentence": "If you had never used this complex software, learning it would be difficult.",
+  "russian_example_sentence": "Если бы ты никогда не использовал это сложное программное обеспечение, учиться было бы сложно.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:30:20.115390+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu karmaşık yazılımı asla ______, öğrenmen zor olur."
 }

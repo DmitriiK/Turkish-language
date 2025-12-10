@@ -4,7 +4,7 @@
   "verb_russian": "спрашивать",
   "verb_infinitive": "sormak",
   "turkish_verb": {
-    "verb_full": "sormayayım",
+    "verb_full": "sormasın",
     "root": "sor",
     "tense_affix": "a",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "Let me not ask about the situation",
-  "russian_example_sentence": "Позволь мне не спрашивать о ситуации",
-  "turkish_example_sentence": "Durumu sormayayım",
-  "turkish_example_sentence_with_blank": "Durumu ______"
+  "turkish_example_sentence": "Ben sınıf arkadaşlarından gizli bilgiyi sormasın.",
+  "english_example_sentence": "Let me not ask the classmates about the secret information.",
+  "russian_example_sentence": "Позвольте мне не спрашивать одноклассников о секретной информации.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:46:30.952377+00:00",
+  "turkish_example_sentence_with_blank": "Ben sınıf arkadaşlarından gizli bilgiyi ______."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "bulamayacak",
     "root": "bul",
-    "tense_affix": "acak",
+    "tense_affix": "acağ",
     "verb_tense": "yaracağım",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "She will not find the small silver key anywhere",
-  "russian_example_sentence": "Она не найдёт маленький серебряный ключ нигде",
-  "turkish_example_sentence": "O hiçbir yerde küçük gümüş anahtarı bulamayacak",
-  "turkish_example_sentence_with_blank": "O hiçbir yerde küçük gümüş anahtarı ______"
+  "turkish_example_sentence": "O denizde küçük mavi balığı bulamayacak.",
+  "english_example_sentence": "She will not find the small blue fish in the sea.",
+  "russian_example_sentence": "Она не найдет маленькую синюю рыбку в море.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:32:50.390583+00:00",
+  "turkish_example_sentence_with_blank": "O denizde küçük mavi balığı ______."
 }

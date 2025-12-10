@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "bulduğunda",
     "root": "bul",
-    "tense_affix": "duğ",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "sen",
-    "personal_affix": "unda",
+    "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When you find a good job,",
-  "russian_example_sentence": "Когда ты найдешь хорошую работу,",
-  "turkish_example_sentence": "İyi bir iş bulduğunda, hayatın değişecek.",
-  "turkish_example_sentence_with_blank": "İyi bir iş ______, hayatın değişecek."
+  "turkish_example_sentence": "Sen kayıp cüzdanı sokakta bulduğunda, hemen polise haber verdin.",
+  "english_example_sentence": "When you found the lost wallet on the street, you immediately informed the police.",
+  "russian_example_sentence": "Когда ты нашел потерянный кошелек на улице, ты сразу же сообщил полиции.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:37:40.911188+00:00",
+  "turkish_example_sentence_with_blank": "Sen kayıp cüzdanı sokakta ______, hemen polise haber verdin."
 }

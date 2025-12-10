@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "kullanacaktı",
     "root": "kullan",
-    "tense_affix": "acaktı",
+    "tense_affix": "acak",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "tı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He was going to use his savings.",
-  "russian_example_sentence": "Он собирался использовать свои сбережения.",
-  "turkish_example_sentence": "O, tüm birikimini kullanacaktı fakat vazgeçti.",
-  "turkish_example_sentence_with_blank": "O, tüm birikimini ______ fakat vazgeçti."
+  "turkish_example_sentence": "O modern yazılımı şirkette kullanacaktı fakat lisans süresi doldu.",
+  "english_example_sentence": "He was going to use the modern software at the company but the license expired.",
+  "russian_example_sentence": "Он собирался использовать современное программное обеспечение в компании, но лицензия истекла.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:29:57.806955+00:00",
+  "turkish_example_sentence_with_blank": "O modern yazılımı şirkette ______ fakat lisans süresi doldu."
 }

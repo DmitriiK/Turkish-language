@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "kullanırlarsa",
     "root": "kullan",
-    "tense_affix": "ırlarsa",
+    "tense_affix": "ar",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they use our idea, we will both win.",
-  "russian_example_sentence": "Если они используют нашу идею, то мы оба выиграем.",
-  "turkish_example_sentence": "Bizim fikrimizi kullanırlarsa, ikimiz de kazanırız.",
-  "turkish_example_sentence_with_blank": "Bizim fikrimizi ______, ikimiz de kazanırız."
+  "turkish_example_sentence": "Onlar bu yenilikçi fikri kullanırlarsa, şirket büyüyecek.",
+  "english_example_sentence": "If they use this innovative idea, the company will grow.",
+  "russian_example_sentence": "Если они будут использовать эту инновационную идею, компания будет расти.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:29:26.273192+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu yenilikçi fikri ______, şirket büyüyecek."
 }

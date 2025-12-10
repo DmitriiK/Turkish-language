@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "aramadığımda",
     "root": "ara",
-    "tense_affix": "dık",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "ben",
     "personal_affix": "ım",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "When I don't call, she gets worried.",
-  "russian_example_sentence": "Когда я не звоню, она беспокоится.",
-  "turkish_example_sentence": "Ben seni akşamları aramadığımda, çok endişeleniyorsun.",
-  "turkish_example_sentence_with_blank": "Ben seni akşamları ______, çok endişeleniyorsun."
+  "turkish_example_sentence": "Ben uzun süre aramadığımda, annesi endişeli hale geldi.",
+  "english_example_sentence": "When I didn't call for a long time, his mother became worried.",
+  "russian_example_sentence": "Когда я долго не звонил, его мать стала беспокойной.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:19:45.005061+00:00",
+  "turkish_example_sentence_with_blank": "Ben uzun süre ______, annesi endişeli hale geldi."
 }

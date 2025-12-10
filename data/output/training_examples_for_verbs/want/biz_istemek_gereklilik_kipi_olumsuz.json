@@ -4,17 +4,19 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istememiz lazım değil",
+    "verb_full": "istememememiz",
     "root": "iste",
-    "tense_affix": "lazım",
+    "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "mız",
+    "personal_affix": "miz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "We should not want that dangerous risky adventure",
-  "russian_example_sentence": "Мы не должны хотеть это опасное рискованное приключение",
-  "turkish_example_sentence": "Biz o tehlikeli riskli maceraya istememiz lazım değil",
-  "turkish_example_sentence_with_blank": "Biz o tehlikeli riskli maceraya ______"
+  "turkish_example_sentence": "Biz kırmızı bir ev istememememiz gerek.",
+  "english_example_sentence": "We need to not want a red house.",
+  "russian_example_sentence": "Нам нужно не хотеть красный дом.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:48:51.452213+00:00",
+  "turkish_example_sentence_with_blank": "Biz kırmızı bir ev ______ gerek."
 }

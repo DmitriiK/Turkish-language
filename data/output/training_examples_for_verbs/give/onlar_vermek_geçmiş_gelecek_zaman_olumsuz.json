@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "vermeyeceklerdi",
     "root": "ver",
-    "tense_affix": "eyecek",
+    "tense_affix": "ecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lerdi",
+    "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "They weren't going to give answers",
-  "russian_example_sentence": "Они не собирались давать ответы",
-  "turkish_example_sentence": "Onlar, karmaşık sorulara hemen cevap vermeyeceklerdi.",
-  "turkish_example_sentence_with_blank": "Onlar, karmaşık sorulara hemen cevap ______."
+  "turkish_example_sentence": "Onlar hastanede hasta ziyaretçilerine ağır kısıtlı beslenme tavsiyesi vermeyeceklerdi.",
+  "english_example_sentence": "They were not going to give strict diet advice to hospital visitors.",
+  "russian_example_sentence": "Они не собирались давать строгие рекомендации по диете посетителям больницы.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:57:11.033125+00:00",
+  "turkish_example_sentence_with_blank": "Onlar hastanede hasta ziyaretçilerine ağır kısıtlı beslenme tavsiyesi ______."
 }

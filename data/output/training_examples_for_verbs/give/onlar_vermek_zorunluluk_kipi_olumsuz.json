@@ -4,17 +4,19 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "vermemelidirler",
+    "verb_full": "vermemelilar",
     "root": "ver",
     "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "ler",
+    "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "meme"
   },
-  "english_example_sentence": "They must not give up on their difficult dreams",
-  "russian_example_sentence": "Они не должны сдаваться в своих трудных мечтах",
-  "turkish_example_sentence": "Onlar zor hedefleri için ümidi asla vermemelidirler",
-  "turkish_example_sentence_with_blank": "Onlar zor hedefleri için ümidi asla ______"
+  "turkish_example_sentence": "Onlar çocuklara zararlı madde vermemelilar.",
+  "english_example_sentence": "They must not give harmful substances to children.",
+  "russian_example_sentence": "Они не должны давать вредные вещества детям.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:55:26.020061+00:00",
+  "turkish_example_sentence_with_blank": "Onlar çocuklara zararlı madde ______."
 }

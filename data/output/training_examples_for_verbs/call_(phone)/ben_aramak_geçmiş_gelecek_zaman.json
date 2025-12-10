@@ -1,20 +1,22 @@
 {
   "verb_rank": 20,
-  "verb_english": "call (phone)",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "arayacaktım",
+    "verb_full": "aracaktım",
     "root": "ara",
-    "tense_affix": "yacaktı",
+    "tense_affix": "caktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I was going to call you yesterday.",
-  "russian_example_sentence": "Я собирался позвонить тебе вчера.",
-  "turkish_example_sentence": "Ben seni dün arayacaktım.",
-  "turkish_example_sentence_with_blank": "Ben seni dün ______."
+  "turkish_example_sentence": "Ben dün akşam eski arkadaşımı aracaktım ama telefon bataryası bitti.",
+  "english_example_sentence": "I was going to call my old friend yesterday evening but the phone battery died.",
+  "russian_example_sentence": "Я собирался позвонить моему старому другу вчера вечером, но батарея телефона разрядилась.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:18:20.101796+00:00",
+  "turkish_example_sentence_with_blank": "Ben dün akşam eski arkadaşımı ______ ama telefon bataryası bitti."
 }

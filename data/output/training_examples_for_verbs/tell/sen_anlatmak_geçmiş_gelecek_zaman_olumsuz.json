@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "anlatmayacaktın",
     "root": "anlat",
-    "tense_affix": "acak",
+    "tense_affix": "acaktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "tın",
+    "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You were not going to share secrets.",
-  "russian_example_sentence": "Ты не собирался делиться секретами.",
-  "turkish_example_sentence": "Sen aile sırlarını asla anlatmayacaktın.",
-  "turkish_example_sentence_with_blank": "Sen aile sırlarını asla ______."
+  "turkish_example_sentence": "Sen hiç kimseye bu kişisel deneyimi anlatmayacaktın.",
+  "english_example_sentence": "You were not going to tell this personal experience to anyone.",
+  "russian_example_sentence": "Ты не собирался рассказывать этот личный опыт никому.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:42:23.402294+00:00",
+  "turkish_example_sentence_with_blank": "Sen hiç kimseye bu kişisel deneyimi ______."
 }

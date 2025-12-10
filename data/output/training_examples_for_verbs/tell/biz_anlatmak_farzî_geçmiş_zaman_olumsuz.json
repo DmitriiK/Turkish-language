@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "anlatmamışsak",
     "root": "anlat",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If we hadn't told the complicated problem...",
-  "russian_example_sentence": "Если бы мы не рассказали сложную проблему...",
-  "turkish_example_sentence": "Biz karmaşık sorunu anlatmamışsak, çözüm bulamazdık.",
-  "turkish_example_sentence_with_blank": "Biz karmaşık sorunu ______, çözüm bulamazdık."
+  "turkish_example_sentence": "Eğer biz bu acı deneyimi asla anlatmamışsak, başkaları aynı hatayı yapmış olurdu.",
+  "english_example_sentence": "If we had never told this bitter experience, others would have made the same mistake.",
+  "russian_example_sentence": "Если бы мы никогда не рассказали об этом горьком опыте, другие бы сделали ту же ошибку.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:42:43.841974+00:00",
+  "turkish_example_sentence_with_blank": "Eğer biz bu acı deneyimi asla ______, başkaları aynı hatayı yapmış olurdu."
 }

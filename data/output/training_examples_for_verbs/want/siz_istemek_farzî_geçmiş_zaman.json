@@ -4,17 +4,19 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemişseniz",
+    "verb_full": "istemiş olsanız",
     "root": "iste",
-    "tense_affix": "mişse",
+    "tense_affix": "miş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "nız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you had wanted, you could speak",
-  "russian_example_sentence": "Если бы вы захотели, вы могли бы говорить",
-  "turkish_example_sentence": "İstemişseniz, yabancı dilde konuşabilirdiniz",
-  "turkish_example_sentence_with_blank": "İstemişseniz, yabancı dilde konuşabilirdiniz"
+  "turkish_example_sentence": "Siz o değerli antika koleksiyonunu istemiş olsanız, müze müdürü size izin verirdi.",
+  "english_example_sentence": "If you had wanted that valuable antique collection, the museum director would have given you permission.",
+  "russian_example_sentence": "Если бы вы хотели то ценную коллекцию антиквариата, директор музея бы вам разрешил.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:51:43.434169+00:00",
+  "turkish_example_sentence_with_blank": "Siz o değerli antika koleksiyonunu ______, müze müdürü size izin verirdi."
 }

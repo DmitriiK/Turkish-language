@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "isteyecekti",
     "root": "iste",
-    "tense_affix": "yecek",
+    "tense_affix": "yecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He was going to climb the mountain.",
-  "russian_example_sentence": "Он собирался подняться на гору.",
-  "turkish_example_sentence": "O yazın yüksek dağa tırmanış yapacaktı.",
-  "turkish_example_sentence_with_blank": "O yazın yüksek dağa tırmanış yapacaktı."
+  "turkish_example_sentence": "O sabah erkenden kütüphanede sessizce kitap okumak isteyecekti.",
+  "english_example_sentence": "He was going to read a book quietly in the library early in the morning.",
+  "russian_example_sentence": "Он собирался читать книгу тихо в библиотеке рано утром.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:51:14.770211+00:00",
+  "turkish_example_sentence_with_blank": "O sabah erkenden kütüphanede sessizce kitap okumak ______."
 }

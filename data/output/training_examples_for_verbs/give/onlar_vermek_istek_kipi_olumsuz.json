@@ -4,7 +4,7 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "vermeyeler",
+    "verb_full": "vermeseler",
     "root": "ver",
     "tense_affix": "e",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "May they not give into pressure.",
-  "russian_example_sentence": "Пусть они не поддаются давлению.",
-  "turkish_example_sentence": "Baskıya vermeyeler.",
-  "turkish_example_sentence_with_blank": "Baskıya ______."
+  "turkish_example_sentence": "Onlar çalınan değerli eşyaları polis memurlarına vermeseler.",
+  "english_example_sentence": "May they not give the stolen valuable items to the police officers.",
+  "russian_example_sentence": "Пусть они не дают украденные ценные вещи полицейским.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:55:44.826068+00:00",
+  "turkish_example_sentence_with_blank": "Onlar çalınan değerli eşyaları polis memurlarına ______."
 }

@@ -1,6 +1,6 @@
 {
   "verb_rank": 20,
-  "verb_english": "call (phone)",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He will call the doctor for an important appointment.",
-  "russian_example_sentence": "Он позвонит врачу для важной записи.",
-  "turkish_example_sentence": "O önemli bir randevu için doktoru arayacak.",
-  "turkish_example_sentence_with_blank": "O önemli bir randevu için doktoru ______."
+  "turkish_example_sentence": "O gelecek pazartesi önemli hastane danışmanını arayacak.",
+  "english_example_sentence": "He will call the important hospital consultant next Monday.",
+  "russian_example_sentence": "Он позвонит важному консультанту больницы в следующий понедельник.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:15:21.109892+00:00",
+  "turkish_example_sentence_with_blank": "O gelecek pazartesi önemli hastane danışmanını ______."
 }

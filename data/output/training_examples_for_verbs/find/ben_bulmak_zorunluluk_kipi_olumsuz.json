@@ -11,10 +11,12 @@
     "personal_pronoun": "ben",
     "personal_affix": "yım",
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "mama"
   },
-  "english_example_sentence": "I must not find the secret hidden letter",
-  "russian_example_sentence": "Я не должен найти секретное письмо",
-  "turkish_example_sentence": "Ben gizli mektupları bulmamalıyım",
-  "turkish_example_sentence_with_blank": "Ben gizli mektupları ______"
+  "turkish_example_sentence": "Ben bu zor matematik probleminin yanıt ipuçlarını bulmamalıyım.",
+  "english_example_sentence": "I must not find the answer clues to this difficult math problem.",
+  "russian_example_sentence": "Я не должен найти подсказки ответа к этой сложной математической задаче.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:34:00.104365+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu zor matematik probleminin yanıt ipuçlarını ______."
 }

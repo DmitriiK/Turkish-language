@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "isteyeyim",
     "root": "iste",
-    "tense_affix": "yey",
+    "tense_affix": "ye",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "im",
+    "personal_affix": "yim",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Let me want something new",
-  "russian_example_sentence": "Пусть я захочу что-то новое",
-  "turkish_example_sentence": "Ben yeni bir şey isteyeyim",
-  "turkish_example_sentence_with_blank": "Ben yeni bir şey ______"
+  "turkish_example_sentence": "Ben bu güzel sarı elbiseyi satın almak isteyeyim.",
+  "english_example_sentence": "Let me want to buy this beautiful yellow dress.",
+  "russian_example_sentence": "Позвольте мне захотеть купить это красивое жёлтое платье.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:50:04.940687+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu güzel sarı elbiseyi satın almak ______."
 }

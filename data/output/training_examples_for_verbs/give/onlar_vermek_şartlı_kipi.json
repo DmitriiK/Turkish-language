@@ -4,17 +4,19 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "verirlerse",
+    "verb_full": "verirlersa",
     "root": "ver",
-    "tense_affix": "ir",
+    "tense_affix": "irse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "lerse",
+    "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they give the documents on time",
-  "russian_example_sentence": "Если они дадут документы вовремя",
-  "turkish_example_sentence": "Belgeleri zamanında verirlerse",
-  "turkish_example_sentence_with_blank": "Belgeleri zamanında ______"
+  "turkish_example_sentence": "Onlar bize kaliteli hizmet verirlersa, memnun kalacağız.",
+  "english_example_sentence": "If they give us quality service, we will be satisfied.",
+  "russian_example_sentence": "Если они дадут нам качественное обслуживание, мы будем довольны.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:56:39.122780+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bize kaliteli hizmet ______, memnun kalacağız."
 }

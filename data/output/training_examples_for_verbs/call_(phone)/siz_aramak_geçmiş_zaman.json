@@ -1,6 +1,6 @@
 {
   "verb_rank": 20,
-  "verb_english": "call (phone)",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When did you call customer support?",
-  "russian_example_sentence": "Когда вы звонили в службу поддержки клиентов?",
-  "turkish_example_sentence": "Siz ne zaman müşteri hizmetlerini aradınız?",
-  "turkish_example_sentence_with_blank": "Siz ne zaman müşteri hizmetlerini ______?"
+  "turkish_example_sentence": "Siz cuma sabahı merkezi kütüphaneyi nadir kitap araştırması için aradınız.",
+  "english_example_sentence": "You called the central library on Friday morning to research rare books.",
+  "russian_example_sentence": "Вы позвонили в центральную библиотеку в пятницу утром для исследования редких книг.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:14:51.844132+00:00",
+  "turkish_example_sentence_with_blank": "Siz cuma sabahı merkezi kütüphaneyi nadir kitap araştırması için ______."
 }

@@ -4,17 +4,19 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatırsanız",
+    "verb_full": "anlatirsaniz",
     "root": "anlat",
-    "tense_affix": "arsa",
+    "tense_affix": "ırsa",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you tell the important message",
-  "russian_example_sentence": "Если вы расскажете важное сообщение",
-  "turkish_example_sentence": "Eğer önemli mesajı anlatırsanız",
-  "turkish_example_sentence_with_blank": "Eğer önemli mesajı ______"
+  "turkish_example_sentence": "Siz bu macera hikayesini anlatirsaniz, herkes dinler.",
+  "english_example_sentence": "If you tell this adventure story, everyone will listen.",
+  "russian_example_sentence": "Если вы расскажете эту историю приключений, все будут слушать.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:41:50.428993+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu macera hikayesini ______, herkes dinler."
 }

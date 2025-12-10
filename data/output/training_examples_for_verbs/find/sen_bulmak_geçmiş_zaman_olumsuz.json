@@ -4,7 +4,7 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulmadın",
+    "verb_full": "bulamadın",
     "root": "bul",
     "tense_affix": "du",
     "verb_tense": "geçmiş_zaman",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You did not find the small silver ring",
-  "russian_example_sentence": "Ты не нашел маленькое серебряное кольцо",
-  "turkish_example_sentence": "Sen küçük gümüş yüzüğü bulmadın",
-  "turkish_example_sentence_with_blank": "Sen küçük gümüş yüzüğü ______"
+  "turkish_example_sentence": "Sen akşam evde mavi anahtarı bulamadın.",
+  "english_example_sentence": "You did not find the blue key at home in the evening.",
+  "russian_example_sentence": "Ты не нашел синий ключ дома вечером.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:36:13.463647+00:00",
+  "turkish_example_sentence_with_blank": "Sen akşam evde mavi anahtarı ______."
 }

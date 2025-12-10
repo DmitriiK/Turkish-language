@@ -4,7 +4,7 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatırsınız",
+    "verb_full": "anlatasınız",
     "root": "anlat",
     "tense_affix": "ır",
     "verb_tense": "geniş_zaman",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You tell wonderful stories about your adventures",
-  "russian_example_sentence": "Вы рассказываете чудесные истории о своих приключениях",
-  "turkish_example_sentence": "Siz harika maceralarınızı herkese anlatırsınız",
-  "turkish_example_sentence_with_blank": "Siz harika maceralarınızı herkese ______"
+  "turkish_example_sentence": "Siz konferansta akademik araştırmaların sonuçlarını anlatasınız.",
+  "english_example_sentence": "You tell the results of academic research at the conference.",
+  "russian_example_sentence": "Вы рассказываете результаты академических исследований на конференции.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:38:53.200563+00:00",
+  "turkish_example_sentence_with_blank": "Siz konferansta akademik araştırmaların sonuçlarını ______."
 }

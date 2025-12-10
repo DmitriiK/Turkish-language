@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "kullanmayacaktım",
     "root": "kullan",
-    "tense_affix": "mayacaktı",
+    "tense_affix": "acak",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "tım",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I wasn't going to use that excuse.",
-  "russian_example_sentence": "Я не собирался использовать это оправдание.",
-  "turkish_example_sentence": "Ben bu bahaneyi kullanmayacaktım, ama mecbur kaldım.",
-  "turkish_example_sentence_with_blank": "Ben bu bahaneyi ______, ama mecbur kaldım."
+  "turkish_example_sentence": "Ben bu eski telefonu artık kullanmayacaktım çünkü çok yavaştı.",
+  "english_example_sentence": "I was not going to use this old phone anymore because it was very slow.",
+  "russian_example_sentence": "Я не собирался больше использовать этот старый телефон, потому что он был очень медленным.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:29:57.806955+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu eski telefonu artık ______ çünkü çok yavaştı."
 }

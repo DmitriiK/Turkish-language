@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "bulduğumuzda",
     "root": "bul",
-    "tense_affix": "duğ",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "biz",
-    "personal_affix": "umuzda",
+    "personal_affix": "uz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When we find a nice restaurant,",
-  "russian_example_sentence": "Когда мы найдем хороший ресторан,",
-  "turkish_example_sentence": "Güzel bir restoran bulduğumuzda, orada yemek yiyeceğiz.",
-  "turkish_example_sentence_with_blank": "Güzel bir restoran ______, orada yemek yiyeceğiz."
+  "turkish_example_sentence": "Biz ormanda kayıp köpeği bulduğumuzda, sahibine telefon ettik.",
+  "english_example_sentence": "When we found the lost dog in the forest, we called its owner.",
+  "russian_example_sentence": "Когда мы нашли потерянную собаку в лесу, мы позвонили ее хозяину.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:37:40.911188+00:00",
+  "turkish_example_sentence_with_blank": "Biz ormanda kayıp köpeği ______, sahibine telefon ettik."
 }

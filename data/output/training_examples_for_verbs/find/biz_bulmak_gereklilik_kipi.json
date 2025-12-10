@@ -4,17 +4,19 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulmalıyız",
+    "verb_full": "bulmamız",
     "root": "bul",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "mız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We need to find the old yellow house near the river",
-  "russian_example_sentence": "Нам нужно найти старый желтый дом рядом с рекой",
-  "turkish_example_sentence": "Biz nehir yakınında eski sarı evi bulmalıyız",
-  "turkish_example_sentence_with_blank": "Biz nehir yakınında eski sarı evi ______"
+  "turkish_example_sentence": "Biz bu ayın sonunda ucuz apartman dairesini bulmamız lazım.",
+  "english_example_sentence": "We need to find an affordable apartment by the end of this month.",
+  "russian_example_sentence": "Нам нужно найти доступную квартиру к концу этого месяца.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:35:24.826021+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu ayın sonunda ucuz apartman dairesini ______ lazım."
 }

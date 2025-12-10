@@ -4,7 +4,7 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemeddin",
+    "verb_full": "istemedín",
     "root": "iste",
     "tense_affix": "di",
     "verb_tense": "geçmiş_zaman",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You did not want the expensive leather jacket",
-  "russian_example_sentence": "Ты не хотел дорогую кожаную куртку",
-  "turkish_example_sentence": "Sen pahalı deri ceketi istemeddin",
-  "turkish_example_sentence_with_blank": "Sen pahalı deri ceketi ______"
+  "turkish_example_sentence": "Sen öğle vakti sıcak çorbayı istemedín.",
+  "english_example_sentence": "You did not want the hot soup at noon.",
+  "russian_example_sentence": "Ты не хотел горячий суп в полдень.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:15:07.943108+00:00",
+  "turkish_example_sentence_with_blank": "Sen öğle vakti sıcak çorbayı ______."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "anlatacaksın",
     "root": "anlat",
-    "tense_affix": "acak",
+    "tense_affix": "acağ",
     "verb_tense": "yaracağım",
     "personal_pronoun": "sen",
     "personal_affix": "sın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You will tell the teacher about the project",
-  "russian_example_sentence": "Ты расскажешь учителю о проекте",
-  "turkish_example_sentence": "Sen öğretmene yeni proje hakkında anlatacaksın",
-  "turkish_example_sentence_with_blank": "Sen öğretmene yeni proje hakkında ______"
+  "turkish_example_sentence": "Sen bu akşam arkadaşlarına komik bir anekdot anlatacaksın.",
+  "english_example_sentence": "You will tell your friends a funny anecdote this evening.",
+  "russian_example_sentence": "Ты расскажешь своим друзьям смешной анекдот сегодня вечером.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:39:32.196458+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu akşam arkadaşlarına komik bir anekdot ______."
 }

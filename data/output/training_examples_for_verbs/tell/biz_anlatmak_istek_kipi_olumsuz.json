@@ -4,7 +4,7 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatmayalım",
+    "verb_full": "anlatmalım",
     "root": "anlat",
     "tense_affix": "a",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "Let us not tell this secret",
-  "russian_example_sentence": "Давайте не расскажем этот секрет",
-  "turkish_example_sentence": "Biz bu sırrı anlatmayalım",
-  "turkish_example_sentence_with_blank": "Biz bu sırrı ______"
+  "turkish_example_sentence": "Biz bu yanlış bilgiyi halka anlatmalım.",
+  "english_example_sentence": "Let's not tell this wrong information to the public.",
+  "russian_example_sentence": "Давайте не рассказывать эту неправильную информацию публике.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:41:10.722045+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu yanlış bilgiyi halka ______."
 }

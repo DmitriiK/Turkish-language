@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "bulalım",
     "root": "bul",
-    "tense_affix": "al",
+    "tense_affix": "a",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "ım",
+    "personal_affix": "lım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Let’s find a good restaurant tonight",
-  "russian_example_sentence": "Давайте найдём хороший ресторан сегодня вечером",
-  "turkish_example_sentence": "Biz bu akşam iyi bir restoran bulalım",
-  "turkish_example_sentence_with_blank": "Biz bu akşam iyi bir restoran ______"
+  "turkish_example_sentence": "Biz plajda güzel deniz kabuklarını birlikte bulalım.",
+  "english_example_sentence": "Let us find beautiful seashells on the beach together.",
+  "russian_example_sentence": "Давайте вместе найдем красивые морские раковины на пляже.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:34:42.618357+00:00",
+  "turkish_example_sentence_with_blank": "Biz plajda güzel deniz kabuklarını birlikte ______."
 }

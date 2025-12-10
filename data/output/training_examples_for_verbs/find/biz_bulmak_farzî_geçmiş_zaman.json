@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "bulmuşsak",
     "root": "bul",
-    "tense_affix": "muşsa",
+    "tense_affix": "muş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we had found a better price",
-  "russian_example_sentence": "Если бы мы нашли лучшую цену",
-  "turkish_example_sentence": "Biz daha uygun bir fiyat bulmuşsak, hemen satın alırdık.",
-  "turkish_example_sentence_with_blank": "Biz daha uygun bir fiyat ______, hemen satın alırdık."
+  "turkish_example_sentence": "Biz ormanda değerli mantar bulmuşsak, pazarda satabilirdik.",
+  "english_example_sentence": "If we had found the valuable mushroom in the forest, we could have sold it at the market.",
+  "russian_example_sentence": "Если бы мы нашли ценный гриб в лесу, мы бы смогли продать его на рынке.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:36:55.470944+00:00",
+  "turkish_example_sentence_with_blank": "Biz ormanda değerli mantar ______, pazarda satabilirdik."
 }

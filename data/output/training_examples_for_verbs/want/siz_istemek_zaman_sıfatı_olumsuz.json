@@ -4,17 +4,19 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemediğinizde",
+    "verb_full": "istememdiğinizde",
     "root": "iste",
     "tense_affix": "diğ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "siz",
-    "personal_affix": "iniz",
+    "personal_affix": "inizde",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "When you don't want stress, you should relax.",
-  "russian_example_sentence": "Когда вы не хотите стресса, вам следует расслабиться.",
-  "turkish_example_sentence": "Siz stres istemediğinizde, rahatlamanız gerekir.",
-  "turkish_example_sentence_with_blank": "Siz stres ______, rahatlamanız gerekir."
+  "turkish_example_sentence": "Siz sosyal etkinlik istememdiğinizde, evde rahat kalabilirsiniz.",
+  "english_example_sentence": "When you don't want social events, you can stay comfortable at home.",
+  "russian_example_sentence": "Когда вы не хотите социальные мероприятия, вы можете остаться дома в комфорте.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T13:34:15.066001+00:00",
+  "turkish_example_sentence_with_blank": "Siz sosyal etkinlik ______, evde rahat kalabilirsiniz."
 }

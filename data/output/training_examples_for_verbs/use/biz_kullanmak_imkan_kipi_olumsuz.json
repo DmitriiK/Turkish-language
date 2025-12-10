@@ -4,7 +4,7 @@
   "verb_russian": "использовать",
   "verb_infinitive": "kullanmak",
   "turkish_verb": {
-    "verb_full": "kullanamayız",
+    "verb_full": "kullanamıyoruz",
     "root": "kullan",
     "tense_affix": "abil",
     "verb_tense": "imkan_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "We cannot use the expensive laboratory equipment",
-  "russian_example_sentence": "Мы не можем использовать дорогое лабораторное оборудование",
-  "turkish_example_sentence": "Biz pahalı laboratuvar ekipmanını kullanamayız",
-  "turkish_example_sentence_with_blank": "Biz pahalı laboratuvar ekipmanını ______"
+  "turkish_example_sentence": "Biz bu kırık mutfak cihazlarını güvenli bir şekilde kullanamıyoruz.",
+  "english_example_sentence": "We cannot use these broken kitchen appliances safely.",
+  "russian_example_sentence": "Мы не можем безопасно использовать эти сломанные кухонные приборы.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T14:15:01.155710+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu kırık mutfak cihazlarını güvenli bir şekilde ______."
 }

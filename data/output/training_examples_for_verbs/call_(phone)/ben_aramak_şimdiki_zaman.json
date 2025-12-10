@@ -1,11 +1,11 @@
 {
   "verb_rank": 20,
-  "verb_english": "call (phone)",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
     "verb_full": "arıyorum",
-    "root": "ar",
+    "root": "ara",
     "tense_affix": "ıyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "ben",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I am calling my old friend now.",
-  "russian_example_sentence": "Я сейчас звоню моему старому другу.",
-  "turkish_example_sentence": "Ben şimdi eski arkadaşımı arıyorum.",
-  "turkish_example_sentence_with_blank": "Ben şimdi eski arkadaşımı ______."
+  "turkish_example_sentence": "Ben eski arkadaşımı sabah erken arıyorum.",
+  "english_example_sentence": "I am calling my old friend early in the morning.",
+  "russian_example_sentence": "Я звоню своему старому другу рано утром.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:09:45.621564+00:00",
+  "turkish_example_sentence_with_blank": "Ben eski arkadaşımı sabah erken ______."
 }

@@ -4,17 +4,19 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulman lazım",
+    "verb_full": "bulman",
     "root": "bul",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to find the important blue document quickly",
-  "russian_example_sentence": "Тебе нужно найти важный синий документ быстро",
-  "turkish_example_sentence": "Sen hızlı bir şekilde önemli mavi belgeyi bulman lazım",
-  "turkish_example_sentence_with_blank": "Sen hızlı bir şekilde önemli mavi belgeyi ______"
+  "turkish_example_sentence": "Sen eski antika saatini pazarda bulman gerek.",
+  "english_example_sentence": "You need to find your old antique watch at the market.",
+  "russian_example_sentence": "Тебе нужно найти свои старые антикварные часы на рынке.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:35:24.826021+00:00",
+  "turkish_example_sentence_with_blank": "Sen eski antika saatini pazarda ______ gerek."
 }

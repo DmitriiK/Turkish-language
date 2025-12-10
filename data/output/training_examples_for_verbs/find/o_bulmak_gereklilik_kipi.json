@@ -4,17 +4,19 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulması lazım",
+    "verb_full": "bulması",
     "root": "bul",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
     "personal_affix": "sı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "She needs to find the beautiful green garden entrance",
-  "russian_example_sentence": "Ей нужно найти вход в красивый зеленый сад",
-  "turkish_example_sentence": "O güzel yeşil bahçenin giriş kapısını bulması lazım",
-  "turkish_example_sentence_with_blank": "O güzel yeşil bahçenin giriş kapısını ______"
+  "turkish_example_sentence": "O genç öğrenci kütüphanede nadir tarih kitabını bulması lazım.",
+  "english_example_sentence": "That young student needs to find a rare history book in the library.",
+  "russian_example_sentence": "Этот молодой студент должен найти редкую историческую книгу в библиотеке.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:35:24.826021+00:00",
+  "turkish_example_sentence_with_blank": "O genç öğrenci kütüphanede nadir tarih kitabını ______ lazım."
 }

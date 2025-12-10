@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "çalıştığımda",
     "root": "çalış",
-    "tense_affix": "tık",
+    "tense_affix": "tığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "ben",
-    "personal_affix": "ım",
+    "personal_affix": "ımda",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When I work late, I get tired.",
-  "russian_example_sentence": "Когда я работаю допоздна, я устаю.",
-  "turkish_example_sentence": "Ben geç saatlere kadar çalıştığımda, yorgun hissediyorum.",
-  "turkish_example_sentence_with_blank": "Ben geç saatlere kadar ______, yorgun hissediyorum."
+  "turkish_example_sentence": "Ben ofiste çalıştığımda, yoğun raporlar hazırlıyorum.",
+  "english_example_sentence": "When I work in the office, I prepare intensive reports.",
+  "russian_example_sentence": "Когда я работаю в офисе, я готовлю интенсивные отчеты.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:57:18.574901+00:00",
+  "turkish_example_sentence_with_blank": "Ben ofiste ______, yoğun raporlar hazırlıyorum."
 }

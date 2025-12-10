@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sorarsan",
     "root": "sor",
-    "tense_affix": "arsa",
+    "tense_affix": "ar",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you ask the teacher",
-  "russian_example_sentence": "Если ты спросишь учителя",
-  "turkish_example_sentence": "Sen öğretmene bir soru sorarsan, cevabı öğrenirsin",
-  "turkish_example_sentence_with_blank": "Sen öğretmene bir soru ______, cevabı öğrenirsin"
+  "turkish_example_sentence": "Sen doktor hakkında tıbbi tavsiye sorarsan, o sana detaylı cevap verecek.",
+  "english_example_sentence": "If you ask the doctor about medical advice, he will give you a detailed answer.",
+  "russian_example_sentence": "Если ты спросишь врача о медицинском совете, он даст тебе подробный ответ.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:47:28.102471+00:00",
+  "turkish_example_sentence_with_blank": "Sen doktor hakkında tıbbi tavsiye ______, o sana detaylı cevap verecek."
 }

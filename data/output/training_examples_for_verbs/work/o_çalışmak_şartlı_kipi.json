@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "çalışırsa",
     "root": "çalış",
-    "tense_affix": "ırsa",
+    "tense_affix": "ır",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If he works overtime, he will earn more",
-  "russian_example_sentence": "Если он будет работать сверхурочно, он заработает больше",
-  "turkish_example_sentence": "Eğer fazla mesai yaparsa, daha fazla kazanır",
-  "turkish_example_sentence_with_blank": "Eğer fazla mesai yaparsa, daha fazla kazanır"
+  "turkish_example_sentence": "O uzun saatler çalışırsa, hedefine ulaşabilir.",
+  "english_example_sentence": "If he works long hours, he can reach his goal.",
+  "russian_example_sentence": "Если он будет работать долгие часы, он сможет достичь своей цели.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:52:54.426093+00:00",
+  "turkish_example_sentence_with_blank": "O uzun saatler ______, hedefine ulaşabilir."
 }

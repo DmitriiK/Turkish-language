@@ -4,17 +4,19 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istersem",
+    "verb_full": "istesem",
     "root": "iste",
-    "tense_affix": "erse",
+    "tense_affix": "se",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I want to sleep, I will rest.",
-  "russian_example_sentence": "Если я захочу спать, я отдохну.",
-  "turkish_example_sentence": "Eğer uyumak istersem, dinlenirim.",
-  "turkish_example_sentence_with_blank": "Eğer uyumak ______, dinlenirim."
+  "turkish_example_sentence": "Ben yeni bir araba istesem, babam bana yardım edebilir.",
+  "english_example_sentence": "If I want a new car, my father can help me.",
+  "russian_example_sentence": "Если я захочу новую машину, мой отец может мне помочь.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:50:42.908812+00:00",
+  "turkish_example_sentence_with_blank": "Ben yeni bir araba ______, babam bana yardım edebilir."
 }

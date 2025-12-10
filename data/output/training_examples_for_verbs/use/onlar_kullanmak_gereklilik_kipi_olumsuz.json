@@ -4,17 +4,19 @@
   "verb_russian": "использовать",
   "verb_infinitive": "kullanmak",
   "turkish_verb": {
-    "verb_full": "kullanmamaları lazım",
+    "verb_full": "kullanmamaları",
     "root": "kullan",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ları",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "They should not use counterfeit products",
-  "russian_example_sentence": "Они не должны использовать поддельные товары",
-  "turkish_example_sentence": "Onlar sahte ürünleri kullanmamaları lazım",
-  "turkish_example_sentence_with_blank": "Onlar sahte ürünleri ______"
+  "turkish_example_sentence": "Onlar bu hassas tıbbi cihazları eğitim almadan kesinlikle kullanmamaları gerek.",
+  "english_example_sentence": "They need to not use these sensitive medical devices without training at all.",
+  "russian_example_sentence": "Им нужно не использовать эти чувствительные медицинские устройства без подготовки ни в коем случае.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T13:55:52.070989+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu hassas tıbbi cihazları eğitim almadan kesinlikle ______ gerek."
 }

@@ -4,17 +4,19 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulmadınız",
+    "verb_full": "bulamadınız",
     "root": "bul",
     "tense_affix": "du",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "nuz",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You did not find the fresh orange juice",
-  "russian_example_sentence": "Вы не нашли свежий апельсиновый сок",
-  "turkish_example_sentence": "Siz taze portakal suyunu bulmadınız",
-  "turkish_example_sentence_with_blank": "Siz taze portakal suyunu ______"
+  "turkish_example_sentence": "Siz şehir'de uygun modern daire bulamadınız.",
+  "english_example_sentence": "You did not find a suitable modern apartment in the city.",
+  "russian_example_sentence": "Вы не нашли подходящую современную квартиру в городе.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:36:13.463647+00:00",
+  "turkish_example_sentence_with_blank": "Siz şehir'de uygun modern daire ______."
 }

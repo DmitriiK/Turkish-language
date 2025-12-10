@@ -9,12 +9,14 @@
     "tense_affix": "acaktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lardı",
+    "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They were going to ask questions",
-  "russian_example_sentence": "Они собирались задать вопросы",
-  "turkish_example_sentence": "Onlar öğretmenlerine zor sorular soracaklardı derste",
-  "turkish_example_sentence_with_blank": "Onlar öğretmenlerine zor sorular ______ derste"
+  "turkish_example_sentence": "Onlar aşçıya lezzetli yemek tarifini soracaklardı.",
+  "english_example_sentence": "They were going to ask the chef about the delicious recipe.",
+  "russian_example_sentence": "Они собирались спросить повара о вкусном рецепте.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:48:04.243239+00:00",
+  "turkish_example_sentence_with_blank": "Onlar aşçıya lezzetli yemek tarifini ______."
 }

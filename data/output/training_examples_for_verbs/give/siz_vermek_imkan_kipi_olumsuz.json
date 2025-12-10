@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "veremezsiniz",
     "root": "ver",
-    "tense_affix": "eme",
+    "tense_affix": "ebil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "zsiniz",
+    "personal_affix": "irsiniz",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "You cannot give the expensive jewelry to anyone",
-  "russian_example_sentence": "Вы не можете дать дорогие украшения никому",
-  "turkish_example_sentence": "Siz kimseye değerli mücevherleri veremezsiniz",
-  "turkish_example_sentence_with_blank": "Siz kimseye değerli mücevherleri ______"
+  "turkish_example_sentence": "Siz bu gizli belgeyi veremezsiniz.",
+  "english_example_sentence": "You cannot give this secret document.",
+  "russian_example_sentence": "Вы не можете дать этот секретный документ.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:55:09.277653+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu gizli belgeyi ______."
 }

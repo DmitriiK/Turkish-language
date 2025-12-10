@@ -1,20 +1,22 @@
 {
   "verb_rank": 20,
-  "verb_english": "call (phone)",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "arayacaktı",
+    "verb_full": "aracaktı",
     "root": "ara",
-    "tense_affix": "yacaktı",
+    "tense_affix": "caktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He was going to call the company.",
-  "russian_example_sentence": "Он собирался позвонить в компанию.",
-  "turkish_example_sentence": "O şirketi arayacaktı.",
-  "turkish_example_sentence_with_blank": "O şirketi ______."
+  "turkish_example_sentence": "O cuma öğleden sonra genç kız kardeşini aracaktı fakat internet bağlantısı koptu.",
+  "english_example_sentence": "She was going to call her young sister Friday afternoon but the internet connection dropped.",
+  "russian_example_sentence": "Она собиралась позвонить своей молодой сестре в пятницу днем, но интернет отключился.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:18:20.101796+00:00",
+  "turkish_example_sentence_with_blank": "O cuma öğleden sonra genç kız kardeşini ______ fakat internet bağlantısı koptu."
 }

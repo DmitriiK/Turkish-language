@@ -1,20 +1,22 @@
 {
   "verb_rank": 20,
-  "verb_english": "call (phone)",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "arayacaktın",
+    "verb_full": "aracaktın",
     "root": "ara",
-    "tense_affix": "yacaktı",
+    "tense_affix": "caktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You were going to call your mother.",
-  "russian_example_sentence": "Ты собирался позвонить своей маме.",
-  "turkish_example_sentence": "Sen anneni arayacaktın.",
-  "turkish_example_sentence_with_blank": "Sen anneni ______."
+  "turkish_example_sentence": "Sen pazartesi sabahı önemli müşterini aracaktın ama toplantı iptal oldu.",
+  "english_example_sentence": "You were going to call your important client Monday morning but the meeting was cancelled.",
+  "russian_example_sentence": "Ты собирался позвонить своему важному клиенту в понедельник утром, но встреча была отменена.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:18:20.101796+00:00",
+  "turkish_example_sentence_with_blank": "Sen pazartesi sabahı önemli müşterini ______ ama toplantı iptal oldu."
 }

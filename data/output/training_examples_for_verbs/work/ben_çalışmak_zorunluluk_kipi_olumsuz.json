@@ -11,10 +11,12 @@
     "personal_pronoun": "ben",
     "personal_affix": "yım",
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "mama"
   },
-  "english_example_sentence": "I must not work too many hours weekly",
-  "russian_example_sentence": "Я не должен работать слишком много часов в неделю",
-  "turkish_example_sentence": "Ben haftada çok fazla saat çalışmamalıyım",
-  "turkish_example_sentence_with_blank": "Ben haftada çok fazla saat ______"
+  "turkish_example_sentence": "Ben hafta sonunda uzun saatler çalışmamalıyım.",
+  "english_example_sentence": "I must not work long hours on the weekend.",
+  "russian_example_sentence": "Я не должен работать долгие часы в выходные.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:51:57.650989+00:00",
+  "turkish_example_sentence_with_blank": "Ben hafta sonunda uzun saatler ______."
 }

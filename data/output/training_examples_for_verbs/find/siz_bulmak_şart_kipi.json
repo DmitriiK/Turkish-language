@@ -4,7 +4,7 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulsanız",
+    "verb_full": "bulursanız",
     "root": "bul",
     "tense_affix": "sa",
     "verb_tense": "şart_kipi",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you find cheap tickets, inform everyone.",
-  "russian_example_sentence": "Если вы найдете дешевые билеты, скажите всем.",
-  "turkish_example_sentence": "Ucuz biletleri bulsanız, herkesi haberdar edin.",
-  "turkish_example_sentence_with_blank": "Ucuz biletleri ______, herkesi haberdar edin."
+  "turkish_example_sentence": "Siz yeni bir müze bulursanız, lütfen bana adresini söyleyin.",
+  "english_example_sentence": "If you find a new museum, please tell me its address.",
+  "russian_example_sentence": "Если вы найдете новый музей, пожалуйста, скажите мне его адрес.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:35:00.980425+00:00",
+  "turkish_example_sentence_with_blank": "Siz yeni bir müze ______, lütfen bana adresini söyleyin."
 }

@@ -1,6 +1,6 @@
 {
   "verb_rank": 20,
-  "verb_english": "call (phone)",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
@@ -11,10 +11,12 @@
     "personal_pronoun": "siz",
     "personal_affix": "sunuz",
     "polarity": "negative",
-    "negative_affix": "mı"
+    "negative_affix": "m"
   },
-  "english_example_sentence": "You are not calling your parents often.",
-  "russian_example_sentence": "Вы не звоните своим родителям часто.",
-  "turkish_example_sentence": "Siz anne babanızı sık sık aramıyorsunuz.",
-  "turkish_example_sentence_with_blank": "Siz anne babanızı sık sık ______."
+  "turkish_example_sentence": "Siz üniversite danışmanını bu ayda aramıyorsunuz.",
+  "english_example_sentence": "You are not calling the university advisor this month.",
+  "russian_example_sentence": "Вы не звоните консультанту университета в этом месяце.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:14:30.920100+00:00",
+  "turkish_example_sentence_with_blank": "Siz üniversite danışmanını bu ayda ______."
 }

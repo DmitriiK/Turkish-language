@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "anlatmışsa",
     "root": "anlat",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If he had told the interesting story...",
-  "russian_example_sentence": "Если бы он рассказал интересную историю...",
-  "turkish_example_sentence": "O ilginç masalı anlatmışsa, çocuklar sevinmiştir.",
-  "turkish_example_sentence_with_blank": "O ilginç masalı ______, çocuklar sevinmiştir."
+  "turkish_example_sentence": "Eğer o bu dramatik olayı tam olarak anlatmışsa, herkes şaşırmış olurdu.",
+  "english_example_sentence": "If he/she had told this dramatic event exactly, everyone would have been surprised.",
+  "russian_example_sentence": "Если бы он/она рассказал(а) это драматическое событие точно, все бы удивились.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:42:43.841974+00:00",
+  "turkish_example_sentence_with_blank": "Eğer o bu dramatik olayı tam olarak ______, herkes şaşırmış olurdu."
 }

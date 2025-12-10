@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "çalışmazsan",
     "root": "çalış",
-    "tense_affix": "mazsan",
+    "tense_affix": "maz",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If you don't work quickly, you will be late",
-  "russian_example_sentence": "Если ты не будешь быстро работать, ты опоздаешь",
-  "turkish_example_sentence": "Eğer hızlı çalışmazsan, geç kalırsın",
-  "turkish_example_sentence_with_blank": "Eğer hızlı ______, geç kalırsın"
+  "turkish_example_sentence": "Sen sınavlara çalışmazsan, kötü notlar alacaksın.",
+  "english_example_sentence": "If you do not work for the exams, you will get bad grades.",
+  "russian_example_sentence": "Если ты не будешь работать к экзаменам, ты получишь плохие оценки.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:52:54.426093+00:00",
+  "turkish_example_sentence_with_blank": "Sen sınavlara ______, kötü notlar alacaksın."
 }

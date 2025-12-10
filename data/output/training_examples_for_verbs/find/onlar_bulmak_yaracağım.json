@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "bulacaklar",
     "root": "bul",
-    "tense_affix": "acak",
+    "tense_affix": "acağ",
     "verb_tense": "yaracağım",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They will find the hidden treasure in the mysterious forest",
-  "russian_example_sentence": "Они найдут спрятанное сокровище в таинственном лесу",
-  "turkish_example_sentence": "Onlar gizemli ormanda gizli hazineyi bulacaklar",
-  "turkish_example_sentence_with_blank": "Onlar gizemli ormanda gizli hazineyi ______"
+  "turkish_example_sentence": "Onlar sahilde parlak seramik çanak bulacaklar.",
+  "english_example_sentence": "They will find the shiny ceramic bowl on the beach.",
+  "russian_example_sentence": "Они найдут блестящую керамическую миску на пляже.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:32:50.390583+00:00",
+  "turkish_example_sentence_with_blank": "Onlar sahilde parlak seramik çanak ______."
 }

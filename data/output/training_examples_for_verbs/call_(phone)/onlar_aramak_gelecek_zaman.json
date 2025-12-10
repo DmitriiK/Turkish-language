@@ -1,6 +1,6 @@
 {
   "verb_rank": 20,
-  "verb_english": "call (phone)",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They will call their children after a long workday.",
-  "russian_example_sentence": "Они позвонят своим детям после долгого рабочего дня.",
-  "turkish_example_sentence": "Onlar uzun bir iş gününden sonra çocuklarını arayacaklar.",
-  "turkish_example_sentence_with_blank": "Onlar uzun bir iş gününden sonra çocuklarını ______."
+  "turkish_example_sentence": "Onlar gelecek hafta güzel kütüphanedeki kibar kütüphanecileri arayacaklar.",
+  "english_example_sentence": "They will call the polite librarians at the beautiful library next week.",
+  "russian_example_sentence": "Они позвонят вежливым библиотекарям в красивой библиотеке на следующей неделе.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:15:21.109892+00:00",
+  "turkish_example_sentence_with_blank": "Onlar gelecek hafta güzel kütüphanedeki kibar kütüphanecileri ______."
 }

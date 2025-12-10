@@ -4,17 +4,19 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "isterseniz",
+    "verb_full": "istesanız",
     "root": "iste",
-    "tense_affix": "ersen",
+    "tense_affix": "se",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "nız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you want advice, I can help.",
-  "russian_example_sentence": "Если вы хотите совет, я могу помочь.",
-  "turkish_example_sentence": "Eğer tavsiye isterseniz yardımcı olabilirim.",
-  "turkish_example_sentence_with_blank": "Eğer tavsiye ______ yardımcı olabilirim."
+  "turkish_example_sentence": "Siz özel bir eğitim istesanız, üniversite size kurs sunabilir.",
+  "english_example_sentence": "If you want special training, the university can offer you a course.",
+  "russian_example_sentence": "Если вы захотите специальное обучение, университет может предложить вам курс.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:50:42.908812+00:00",
+  "turkish_example_sentence_with_blank": "Siz özel bir eğitim ______, üniversite size kurs sunabilir."
 }

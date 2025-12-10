@@ -4,17 +4,19 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatmaları lazım",
+    "verb_full": "anlatmaları",
     "root": "anlat",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ları",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They need to tell the funny jokes tonight",
-  "russian_example_sentence": "Они должны рассказать смешные шутки сегодня вечером",
-  "turkish_example_sentence": "Onlar komik fıkraları bu gece anlatmaları lazım",
-  "turkish_example_sentence_with_blank": "Onlar komik fıkraları bu gece ______"
+  "turkish_example_sentence": "Onlar konferansta kendi başarılı deneyimlerini anlatmaları lazım.",
+  "english_example_sentence": "They need to tell about their successful experiences at the conference.",
+  "russian_example_sentence": "Они должны рассказать о своём успешном опыте на конференции.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:40:14.516997+00:00",
+  "turkish_example_sentence_with_blank": "Onlar konferansta kendi başarılı deneyimlerini ______ lazım."
 }

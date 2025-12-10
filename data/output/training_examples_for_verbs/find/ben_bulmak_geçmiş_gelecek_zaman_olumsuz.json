@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "bulmayacaktım",
     "root": "bul",
-    "tense_affix": "mayacaktı",
+    "tense_affix": "acaktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I wasn't going to find the keys",
-  "russian_example_sentence": "Я не собирался находить ключи",
-  "turkish_example_sentence": "Ben eski arabanın anahtarlarını bulmayacaktım",
-  "turkish_example_sentence_with_blank": "Ben eski arabanın anahtarlarını ______"
+  "turkish_example_sentence": "Ben o güzel kırmızı çantayı hiçbir yerde bulmayacaktım.",
+  "english_example_sentence": "I was not going to find that beautiful red bag anywhere.",
+  "russian_example_sentence": "Я не собирался найти ту красивую сумку нигде.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:36:33.270046+00:00",
+  "turkish_example_sentence_with_blank": "Ben o güzel kırmızı çantayı hiçbir yerde ______."
 }

@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If he had asked his father",
-  "russian_example_sentence": "Если бы он спросил своего отца",
-  "turkish_example_sentence": "Babasına sormuşsa, doğru cevabı bilirdi.",
-  "turkish_example_sentence_with_blank": "Babasına ______, doğru cevabı bilirdi."
+  "turkish_example_sentence": "O müdürden maaş artışı sormuşsa, başarılı olabilirdi.",
+  "english_example_sentence": "If he had asked the manager about the salary increase, he could have succeeded.",
+  "russian_example_sentence": "Если бы он спросил начальника о повышении зарплаты, он бы мог добиться успеха.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:48:25.856154+00:00",
+  "turkish_example_sentence_with_blank": "O müdürden maaş artışı ______, başarılı olabilirdi."
 }

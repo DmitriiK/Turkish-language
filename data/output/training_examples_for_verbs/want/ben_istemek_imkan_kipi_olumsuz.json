@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "isteyemem",
     "root": "iste",
-    "tense_affix": "yeme",
+    "tense_affix": "ye",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "I cannot want expensive luxury vacation packages",
-  "russian_example_sentence": "Я не могу хотеть дорогие роскошные пакеты отпуска",
-  "turkish_example_sentence": "Ben pahalı lüks tatil paketlerini isteyemem",
-  "turkish_example_sentence_with_blank": "Ben pahalı lüks tatil paketlerini ______"
+  "turkish_example_sentence": "Ben soğuk ve acı kahveyi sabah erken isteyemem.",
+  "english_example_sentence": "I cannot want cold and bitter coffee early in the morning.",
+  "russian_example_sentence": "Я не могу хотеть холодный и горький кофе рано утром.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:49:09.633607+00:00",
+  "turkish_example_sentence_with_blank": "Ben soğuk ve acı kahveyi sabah erken ______."
 }

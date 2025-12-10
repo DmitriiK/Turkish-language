@@ -4,7 +4,7 @@
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "aramayasınız",
+    "verb_full": "aramasınız",
     "root": "ara",
     "tense_affix": "ya",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "May you not call the dishonest insurance agent",
-  "russian_example_sentence": "Может быть, вы не будете звонить нечестному страховому агенту",
-  "turkish_example_sentence": "Siz asla dürüst olmayan sigorta acentesini aramayasınız",
-  "turkish_example_sentence_with_blank": "Siz asla dürüst olmayan sigorta acentesini ______"
+  "turkish_example_sentence": "Siz özel gizli bilgileri hakkında meraklı gazeteci muhabiri aramasınız.",
+  "english_example_sentence": "Do not call the curious journalist reporter about confidential secret information.",
+  "russian_example_sentence": "Не звоните любопытному журналисту о конфиденциальной секретной информации.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:16:24.775875+00:00",
+  "turkish_example_sentence_with_blank": "Siz özel gizli bilgileri hakkında meraklı gazeteci muhabiri ______."
 }

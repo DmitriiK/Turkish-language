@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "anlatmadığımızda",
     "root": "anlat",
-    "tense_affix": "madığı",
+    "tense_affix": "madığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "biz",
-    "personal_affix": "mız",
+    "personal_affix": "ımızda",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "When we don't tell the difficult situation",
-  "russian_example_sentence": "Когда мы не рассказываем о сложной ситуации",
-  "turkish_example_sentence": "Biz zor durumu anlatmadığımızda, kendimizi koruyoruz",
-  "turkish_example_sentence_with_blank": "Biz zor durumu ______, kendimizi koruyoruz"
+  "turkish_example_sentence": "Biz planları tam olarak anlatmadığımızda, proje başarısız oldu ve kayıp yaşandı.",
+  "english_example_sentence": "When we didn't tell the plans completely, the project failed and losses occurred.",
+  "russian_example_sentence": "Когда мы не рассказали планы полностью, проект провалился и произошли убытки.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:43:12.535980+00:00",
+  "turkish_example_sentence_with_blank": "Biz planları tam olarak ______, proje başarısız oldu ve kayıp yaşandı."
 }

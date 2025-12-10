@@ -1,20 +1,22 @@
 {
   "verb_rank": 20,
-  "verb_english": "call (phone)",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
     "verb_full": "aramayacaktınız",
     "root": "ara",
-    "tense_affix": "mayacaktı",
+    "tense_affix": "caktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You weren't going to call the firefighters.",
-  "russian_example_sentence": "Вы не собирались звонить пожарным.",
-  "turkish_example_sentence": "Siz itfaiyecileri aramayacaktınız.",
-  "turkish_example_sentence_with_blank": "Siz itfaiyecileri ______."
+  "turkish_example_sentence": "Siz güzel öğretmeni aramayacaktınız çünkü onun cep telefonu numarasını bilmiyordunuz.",
+  "english_example_sentence": "You were not going to call the beautiful teacher because you did not know her cell phone number.",
+  "russian_example_sentence": "Вы не собирались звонить красивой учительнице, потому что не знали ее номер мобильного телефона.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:18:20.101796+00:00",
+  "turkish_example_sentence_with_blank": "Siz güzel öğretmeni ______ çünkü onun cep telefonu numarasını bilmiyordunuz."
 }

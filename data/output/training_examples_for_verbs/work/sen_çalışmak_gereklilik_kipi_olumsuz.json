@@ -4,17 +4,19 @@
   "verb_russian": "работать",
   "verb_infinitive": "çalışmak",
   "turkish_verb": {
-    "verb_full": "çalışmaman lazım",
+    "verb_full": "çalışmaman",
     "root": "çalış",
-    "tense_affix": "ma",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You don't need to work tonight",
-  "russian_example_sentence": "Тебе не нужно работать сегодня вечером",
-  "turkish_example_sentence": "Sen bu gece ofiste çalışmaman lazım",
-  "turkish_example_sentence_with_blank": "Sen bu gece ofiste ______"
+  "turkish_example_sentence": "Sen hastalık nedeniyle çalışmaman lazım.",
+  "english_example_sentence": "You don't need to work because of illness.",
+  "russian_example_sentence": "Тебе не нужно работать из-за болезни.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:51:16.573007+00:00",
+  "turkish_example_sentence_with_blank": "Sen hastalık nedeniyle ______ lazım."
 }

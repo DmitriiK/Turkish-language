@@ -4,17 +4,19 @@
   "verb_russian": "использовать",
   "verb_infinitive": "kullanmak",
   "turkish_verb": {
-    "verb_full": "kullanmamam lazım",
+    "verb_full": "kullanmaman",
     "root": "kullan",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I should not use expired medicine",
-  "russian_example_sentence": "Я не должен использовать просроченное лекарство",
-  "turkish_example_sentence": "Ben eski ilaçları kullanmamam lazım",
-  "turkish_example_sentence_with_blank": "Ben eski ilaçları ______"
+  "turkish_example_sentence": "Ben bu tehlikeli kimyasal maddeyi hiçbir şekilde kullanmaman lazım.",
+  "english_example_sentence": "I need to not use this dangerous chemical substance at all.",
+  "russian_example_sentence": "Мне нужно не использовать это опасное химическое вещество ни в коем случае.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T13:55:52.070989+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu tehlikeli kimyasal maddeyi hiçbir şekilde ______ lazım."
 }

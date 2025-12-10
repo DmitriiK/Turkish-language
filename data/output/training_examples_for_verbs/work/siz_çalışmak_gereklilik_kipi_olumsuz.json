@@ -4,17 +4,19 @@
   "verb_russian": "работать",
   "verb_infinitive": "çalışmak",
   "turkish_verb": {
-    "verb_full": "çalışmamanız lazım",
+    "verb_full": "çalışmamanız",
     "root": "çalış",
-    "tense_affix": "ma",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You don't need to work on Sunday",
-  "russian_example_sentence": "Вам не нужно работать в воскресенье",
-  "turkish_example_sentence": "Siz pazar günü mağazada çalışmamanız lazım",
-  "turkish_example_sentence_with_blank": "Siz pazar günü mağazada ______"
+  "turkish_example_sentence": "Siz emekli olduktan sonra çalışmamanız gerek.",
+  "english_example_sentence": "You don't need to work after retirement.",
+  "russian_example_sentence": "Вам не нужно работать после выхода на пенсию.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:51:16.573007+00:00",
+  "turkish_example_sentence_with_blank": "Siz emekli olduktan sonra ______ gerek."
 }

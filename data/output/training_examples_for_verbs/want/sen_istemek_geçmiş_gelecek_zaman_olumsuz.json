@@ -4,17 +4,19 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemeyecektin",
+    "verb_full": "istememeyecektin",
     "root": "iste",
-    "tense_affix": "yecek",
+    "tense_affix": "yecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "tin",
+    "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You weren't going to tell anyone.",
-  "russian_example_sentence": "Ты никому не собирался рассказывать.",
-  "turkish_example_sentence": "Sen bu önemli sırrı hiç kimseye söylemeyecektin.",
-  "turkish_example_sentence_with_blank": "Sen bu önemli sırrı hiç kimseye söylemeyecektin."
+  "turkish_example_sentence": "Sen o güzel resepsiyon davetine katılmak istememeyecektin.",
+  "english_example_sentence": "You were not going to attend that beautiful reception party.",
+  "russian_example_sentence": "Ты не собирался посещать тот красивый прием.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:51:14.770211+00:00",
+  "turkish_example_sentence_with_blank": "Sen o güzel resepsiyon davetine katılmak ______."
 }

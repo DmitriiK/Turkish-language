@@ -4,17 +4,19 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemez",
+    "verb_full": "istemiyor",
     "root": "iste",
-    "tense_affix": "r",
+    "tense_affix": "miyor",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "She does not want heavy dark chocolate cake",
-  "russian_example_sentence": "Она не хочет тяжелый темный шоколадный торт",
-  "turkish_example_sentence": "O ağır koyu çikolatalı pastayı istemez",
-  "turkish_example_sentence_with_blank": "O ağır koyu çikolatalı pastayı ______"
+  "turkish_example_sentence": "O eski mavi kitabı istemiyor.",
+  "english_example_sentence": "He/She doesn't want the old blue book.",
+  "russian_example_sentence": "Он/Она не хочет старую синюю книгу.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:15:23.808062+00:00",
+  "turkish_example_sentence_with_blank": "O eski mavi kitabı ______."
 }

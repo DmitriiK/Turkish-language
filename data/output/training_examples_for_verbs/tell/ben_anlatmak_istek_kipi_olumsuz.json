@@ -4,7 +4,7 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatmayayım",
+    "verb_full": "anlatmayım",
     "root": "anlat",
     "tense_affix": "a",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "Let me not tell that lie",
-  "russian_example_sentence": "Позволь мне не говорить эту ложь",
-  "turkish_example_sentence": "Ben o yalanı anlatmayayım",
-  "turkish_example_sentence_with_blank": "Ben o yalanı ______"
+  "turkish_example_sentence": "Ben bu sırrı kimseye anlatmayım.",
+  "english_example_sentence": "Let me not tell this secret to anyone.",
+  "russian_example_sentence": "Позвольте мне не рассказывать этот секрет никому.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:41:10.722045+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu sırrı kimseye ______."
 }

@@ -1,6 +1,6 @@
 {
   "verb_rank": 20,
-  "verb_english": "call (phone)",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We can call the restaurant for a dinner reservation.",
-  "russian_example_sentence": "Мы можем позвонить в ресторан для бронирования ужина.",
-  "turkish_example_sentence": "Biz akşam yemeği rezervasyonu için restoranı arayabiliriz.",
-  "turkish_example_sentence_with_blank": "Biz akşam yemeği rezervasyonu için restoranı ______."
+  "turkish_example_sentence": "Biz akşam geç saatlerde müşteri temsilcisini arayabiliriz.",
+  "english_example_sentence": "We can call the customer representative in the late evening hours.",
+  "russian_example_sentence": "Мы можем звонить представителю клиента в поздние вечерние часы.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:17:39.720677+00:00",
+  "turkish_example_sentence_with_blank": "Biz akşam geç saatlerde müşteri temsilcisini ______."
 }

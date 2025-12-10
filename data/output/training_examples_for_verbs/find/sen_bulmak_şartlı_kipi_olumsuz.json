@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "bulmazsan",
     "root": "bul",
-    "tense_affix": "mazsa",
+    "tense_affix": "maz",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If you don't find the right place",
-  "russian_example_sentence": "Если ты не найдешь правильное место",
-  "turkish_example_sentence": "Doğru yeri bulmazsan",
-  "turkish_example_sentence_with_blank": "Doğru yeri ______"
+  "turkish_example_sentence": "Sen doğru cevabı bu zor sınavda bulmazsan, tekrar çalışman gerekecek.",
+  "english_example_sentence": "If you do not find the correct answer in this difficult exam, you will need to study again.",
+  "russian_example_sentence": "Если ты не найдешь правильный ответ на этом сложном экзамене, тебе нужно будет учиться снова.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:35:44.232218+00:00",
+  "turkish_example_sentence_with_blank": "Sen doğru cevabı bu zor sınavda ______, tekrar çalışman gerekecek."
 }

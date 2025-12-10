@@ -4,17 +4,19 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "vermemiz lazım",
+    "verb_full": "vermemiz",
     "root": "ver",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "mız",
+    "personal_affix": "miz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We need to give our honest feedback to the young manager",
-  "russian_example_sentence": "Мы должны дать честный отзыв молодому менеджеру",
-  "turkish_example_sentence": "Biz dürüst gerçek görüşlerimizi genç müdüre vermemiz lazım",
-  "turkish_example_sentence_with_blank": "Biz dürüst gerçek görüşlerimizi genç müdüre ______"
+  "turkish_example_sentence": "Biz toplantıda müdüre detaylı proje sunumu vermemiz gerek.",
+  "english_example_sentence": "We need to give the manager a detailed project presentation at the meeting.",
+  "russian_example_sentence": "Нам нужно дать менеджеру подробную презентацию проекта на встрече.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:54:51.652413+00:00",
+  "turkish_example_sentence_with_blank": "Biz toplantıda müdüre detaylı proje sunumu ______ gerek."
 }

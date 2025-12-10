@@ -4,7 +4,7 @@
   "verb_russian": "спрашивать",
   "verb_infinitive": "sormak",
   "turkish_verb": {
-    "verb_full": "sormayacaktık",
+    "verb_full": "sormaacaktık",
     "root": "sor",
     "tense_affix": "acaktı",
     "verb_tense": "geçmiş_gelecek_zaman",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "We weren't going to ask again",
-  "russian_example_sentence": "Мы не собирались спрашивать снова",
-  "turkish_example_sentence": "Biz onlardan tekrar ödünç para sormayacaktık",
-  "turkish_example_sentence_with_blank": "Biz onlardan tekrar ödünç para ______"
+  "turkish_example_sentence": "Biz müze görevlisine nadir eserleri sormaacaktık.",
+  "english_example_sentence": "We were not going to ask the museum staff about rare artifacts.",
+  "russian_example_sentence": "Мы не собирались спрашивать сотрудников музея о редких артефактах.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:48:04.243239+00:00",
+  "turkish_example_sentence_with_blank": "Biz müze görevlisine nadir eserleri ______."
 }

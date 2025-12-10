@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If he works well, he will become successful",
-  "russian_example_sentence": "Если он будет стараться, он будет успешным",
-  "turkish_example_sentence": "Eğer o iyi çalışsa başarılı olur",
-  "turkish_example_sentence_with_blank": "Eğer o iyi ______ başarılı olur"
+  "turkish_example_sentence": "O modern bir yazılım şirketinde çalışsa başarılı bir mühendis olur.",
+  "english_example_sentence": "If he were to work at a modern software company, he would become a successful engineer.",
+  "russian_example_sentence": "Если бы он работал в современной компании по разработке программного обеспечения, он бы стал успешным инженером.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:52:35.807549+00:00",
+  "turkish_example_sentence_with_blank": "O modern bir yazılım şirketinde ______ başarılı bir mühendis olur."
 }

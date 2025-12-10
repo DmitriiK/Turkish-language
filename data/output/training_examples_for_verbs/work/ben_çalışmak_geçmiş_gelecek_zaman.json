@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "çalışacaktım",
     "root": "çalış",
-    "tense_affix": "acaktı",
+    "tense_affix": "acak",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "tım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I was going to finish paperwork.",
-  "russian_example_sentence": "Я собирался закончить оформление документов.",
-  "turkish_example_sentence": "Ben önemli ofis evraklarını bitirecektim",
-  "turkish_example_sentence_with_blank": "Ben önemli ofis evraklarını bitirecektim"
+  "turkish_example_sentence": "Ben dün gece önemli proje üzerinde çalışacaktım.",
+  "english_example_sentence": "I was going to work on an important project last night.",
+  "russian_example_sentence": "Я собирался работать над важным проектом вчера ночью.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:53:28.826640+00:00",
+  "turkish_example_sentence_with_blank": "Ben dün gece önemli proje üzerinde ______."
 }

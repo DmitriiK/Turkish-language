@@ -4,7 +4,7 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatasınız",
+    "verb_full": "anlatası",
     "root": "anlat",
     "tense_affix": "a",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "May you tell us your idea",
-  "russian_example_sentence": "Пусть вы расскажете нам свою идею",
-  "turkish_example_sentence": "Siz bize fikrinizi anlatasınız",
-  "turkish_example_sentence_with_blank": "Siz bize fikrinizi ______"
+  "turkish_example_sentence": "Siz bize bu güzel deneyiminizi anlatası mısınız?",
+  "english_example_sentence": "Would you tell us about this beautiful experience of yours?",
+  "russian_example_sentence": "Расскажете ли вы нам об этом прекрасном опыте?",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:41:10.722045+00:00",
+  "turkish_example_sentence_with_blank": "Siz bize bu güzel deneyiminizi ______ mısınız?"
 }

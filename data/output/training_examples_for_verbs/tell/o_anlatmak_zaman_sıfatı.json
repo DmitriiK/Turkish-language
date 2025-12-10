@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "anlattığında",
     "root": "anlat",
-    "tense_affix": "tığı",
+    "tense_affix": "tığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "o",
-    "personal_affix": "ı",
+    "personal_affix": "ında",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When he tells the old joke",
-  "russian_example_sentence": "Когда он рассказывает старую шутку",
-  "turkish_example_sentence": "O eski fıkrayı anlattığında, herkes kahkaha atıyor",
-  "turkish_example_sentence_with_blank": "O eski fıkrayı ______, herkes kahkaha atıyor"
+  "turkish_example_sentence": "O seyahat deneyimlerini detaylı şekilde anlattığında, biz hayran kalıp dinledik.",
+  "english_example_sentence": "When he told his travel experiences in detail, we listened in amazement.",
+  "russian_example_sentence": "Когда он рассказал свой опыт путешествий подробно, мы слушали в восхищении.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:43:12.535980+00:00",
+  "turkish_example_sentence_with_blank": "O seyahat deneyimlerini detaylı şekilde ______, biz hayran kalıp dinledik."
 }

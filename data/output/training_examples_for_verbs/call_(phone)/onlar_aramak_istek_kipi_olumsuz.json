@@ -4,7 +4,7 @@
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "aramayalar",
+    "verb_full": "aramasınlar",
     "root": "ara",
     "tense_affix": "ya",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "May they not call the problematic debt collector",
-  "russian_example_sentence": "Пусть они не звонят проблемному коллектору долгов",
-  "turkish_example_sentence": "Onlar kesinlikle sorunlu tahsilat memurunu aramayalar",
-  "turkish_example_sentence_with_blank": "Onlar kesinlikle sorunlu tahsilat memurunu ______"
+  "turkish_example_sentence": "Onlar kızgın müşteri hizmetleri müdürünü geç saatlerde aramasınlar.",
+  "english_example_sentence": "May they not call the angry customer service manager at late hours.",
+  "russian_example_sentence": "Пусть они не звонят разгневанному руководителю службы поддержки клиентов в поздние часы.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:16:24.775875+00:00",
+  "turkish_example_sentence_with_blank": "Onlar kızgın müşteri hizmetleri müdürünü geç saatlerde ______."
 }

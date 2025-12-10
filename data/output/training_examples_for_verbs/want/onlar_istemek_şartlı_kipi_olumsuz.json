@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "istemezlerse",
     "root": "iste",
-    "tense_affix": "mezse",
+    "tense_affix": "se",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "mez"
   },
-  "english_example_sentence": "If they don't want to cook, I can order food.",
-  "russian_example_sentence": "Если они не захотят готовить, я могу заказать еду.",
-  "turkish_example_sentence": "Yemek yapmak istemezlerse yemek sipariş edebilirim.",
-  "turkish_example_sentence_with_blank": "Yemek yapmak ______ yemek sipariş edebilirim."
+  "turkish_example_sentence": "Onlar geç bir akşam yemeği istemezlerse, erken bir öğle yemeği yiyebiliriz.",
+  "english_example_sentence": "If they don't want a late dinner, we can eat an early lunch.",
+  "russian_example_sentence": "Если они не захотят позднего ужина, мы можем поесть рано в полдень.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:50:42.908812+00:00",
+  "turkish_example_sentence_with_blank": "Onlar geç bir akşam yemeği ______, erken bir öğle yemeği yiyebiliriz."
 }

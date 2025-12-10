@@ -4,7 +4,7 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatmayalar",
+    "verb_full": "anlatmasınlar",
     "root": "anlat",
     "tense_affix": "a",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "May they not tell lies",
-  "russian_example_sentence": "Пусть они не расскажут лжи",
-  "turkish_example_sentence": "Onlar yalan anlatmayalar",
-  "turkish_example_sentence_with_blank": "Onlar yalan ______"
+  "turkish_example_sentence": "Onlar bu hassas konuyu medyaya anlatmasınlar.",
+  "english_example_sentence": "May they not tell this sensitive topic to the media.",
+  "russian_example_sentence": "Пусть они не рассказывают эту деликатную тему средствам массовой информации.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:41:10.722045+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu hassas konuyu medyaya ______."
 }

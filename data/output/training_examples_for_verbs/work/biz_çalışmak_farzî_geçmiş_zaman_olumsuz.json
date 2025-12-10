@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If we hadn't worked, we'd be behind.",
-  "russian_example_sentence": "Если бы мы не работали, мы бы отстали.",
-  "turkish_example_sentence": "Biz çok çalışmamışsak, şimdi geride kalmış olurduk.",
-  "turkish_example_sentence_with_blank": "Biz çok ______, şimdi geride kalmış olurduk."
+  "turkish_example_sentence": "Biz aralık ayında bu karmaşık tasarım görevinde çalışmamışsak, müşteri hiç memnun olmamış olurdu.",
+  "english_example_sentence": "If we had not worked on this complex design task in December, the customer would not have been satisfied at all.",
+  "russian_example_sentence": "Если бы мы не работали над этой сложной задачей проектирования в декабре, клиент бы вообще не был доволен.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:56:53.426849+00:00",
+  "turkish_example_sentence_with_blank": "Biz aralık ayında bu karmaşık tasarım görevinde ______, müşteri hiç memnun olmamış olurdu."
 }

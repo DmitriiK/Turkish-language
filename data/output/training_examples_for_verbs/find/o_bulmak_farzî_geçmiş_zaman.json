@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "bulmuşsa",
     "root": "bul",
-    "tense_affix": "muşsa",
+    "tense_affix": "muş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If he had found the solution",
-  "russian_example_sentence": "Если бы он нашел решение",
-  "turkish_example_sentence": "O karmaşık denklemin çözümünü bulmuşsa, çok zekidir.",
-  "turkish_example_sentence_with_blank": "O karmaşık denklemin çözümünü ______, çok zekidir."
+  "turkish_example_sentence": "O müzede nadir antika eseri bulmuşsa, müdür çok sevinirdi.",
+  "english_example_sentence": "If he had found the rare antique artifact in the museum, the director would have been very happy.",
+  "russian_example_sentence": "Если бы он нашел редкий антикварный артефакт в музее, директор был бы очень счастлив.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:36:55.470944+00:00",
+  "turkish_example_sentence_with_blank": "O müzede nadir antika eseri ______, müdür çok sevinirdi."
 }

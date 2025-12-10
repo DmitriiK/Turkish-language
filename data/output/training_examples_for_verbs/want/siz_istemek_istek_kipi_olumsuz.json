@@ -4,17 +4,19 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemeyesiniz",
+    "verb_full": "istememeyesiniz",
     "root": "iste",
-    "tense_affix": "yes",
+    "tense_affix": "ye",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "siniz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "May you not want failure",
-  "russian_example_sentence": "Пусть вы не захотите неудачи",
-  "turkish_example_sentence": "Siz başarısızlık istemeyesiniz",
-  "turkish_example_sentence_with_blank": "Siz başarısızlık ______"
+  "turkish_example_sentence": "Siz tehlikeli riskli spor aktivitesi yapmak istememeyesiniz.",
+  "english_example_sentence": "May you not want to do this dangerous risky sports activity.",
+  "russian_example_sentence": "Пусть вы не захотите заниматься этой опасной рискованной спортивной деятельностью.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:50:04.940687+00:00",
+  "turkish_example_sentence_with_blank": "Siz tehlikeli riskli spor aktivitesi yapmak ______."
 }

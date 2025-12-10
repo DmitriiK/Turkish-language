@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sormadığımda",
     "root": "sor",
-    "tense_affix": "dık",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "ben",
     "personal_affix": "um",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "When I don't ask, I guess",
-  "russian_example_sentence": "Когда я не спрашиваю, я угадываю",
-  "turkish_example_sentence": "Ben yabancı insanlara yolu sormadığımda, kaybolurum.",
-  "turkish_example_sentence_with_blank": "Ben yabancı insanlara yolu ______, kaybolurum."
+  "turkish_example_sentence": "Ben hiçbir şey sormadığımda, arkadaşım bana gülümsedi.",
+  "english_example_sentence": "When I didn't ask anything, my friend smiled at me.",
+  "russian_example_sentence": "Когда я ничего не спросил, мой друг улыбнулся мне.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:49:03.430239+00:00",
+  "turkish_example_sentence_with_blank": "Ben hiçbir şey ______, arkadaşım bana gülümsedi."
 }

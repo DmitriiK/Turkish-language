@@ -1,6 +1,6 @@
 {
   "verb_rank": 20,
-  "verb_english": "call (phone)",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You often call your colleagues for important meetings.",
-  "russian_example_sentence": "Вы часто звоните своим коллегам для важных встреч.",
-  "turkish_example_sentence": "Siz önemli toplantılar için meslektaşlarınızı sıkça ararsınız.",
-  "turkish_example_sentence_with_blank": "Siz önemli toplantılar için meslektaşlarınızı sıkça ______."
+  "turkish_example_sentence": "Siz değerli müşteri hizmetleri temsilcisini sabah erken saatlerde ararsınız.",
+  "english_example_sentence": "You call the valued customer service representative early in the morning.",
+  "russian_example_sentence": "Вы звоните уважаемому представителю службы поддержки клиентов рано утром.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:15:56.891346+00:00",
+  "turkish_example_sentence_with_blank": "Siz değerli müşteri hizmetleri temsilcisini sabah erken saatlerde ______."
 }

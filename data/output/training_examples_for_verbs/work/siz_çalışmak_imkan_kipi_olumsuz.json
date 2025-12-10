@@ -4,17 +4,19 @@
   "verb_russian": "работать",
   "verb_infinitive": "çalışmak",
   "turkish_verb": {
-    "verb_full": "çalışamazsınız",
+    "verb_full": "çalışamayız",
     "root": "çalış",
     "tense_affix": "ama",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "zsınız",
+    "personal_affix": "yız",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "You cannot work without valid professional certification documents",
-  "russian_example_sentence": "Вы не можете работать без действительных документов профессиональной сертификации",
-  "turkish_example_sentence": "Siz geçerli mesleki sertifikasyon belgeleri olmadan çalışamazsınız",
-  "turkish_example_sentence_with_blank": "Siz geçerli mesleki sertifikasyon belgeleri olmadan ______"
+  "turkish_example_sentence": "Siz bu dar ofiste birlikte uzun saatler çalışamayız.",
+  "english_example_sentence": "You cannot work together for long hours in this narrow office.",
+  "russian_example_sentence": "Вы не можете работать вместе долгие часы в этом узком офисе.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:51:37.282238+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu dar ofiste birlikte uzun saatler ______."
 }

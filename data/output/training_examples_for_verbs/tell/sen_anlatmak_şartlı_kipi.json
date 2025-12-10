@@ -4,17 +4,19 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatırsan",
+    "verb_full": "anlatirsan",
     "root": "anlat",
-    "tense_affix": "arsa",
+    "tense_affix": "ırsa",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you tell the exciting news",
-  "russian_example_sentence": "Если ты расскажешь увлекательные новости",
-  "turkish_example_sentence": "Eğer heyecan verici haberleri anlatırsan",
-  "turkish_example_sentence_with_blank": "Eğer heyecan verici haberleri ______"
+  "turkish_example_sentence": "Sen önemli bir sırrı anlatirsan, herkes şaşırır.",
+  "english_example_sentence": "If you tell an important secret, everyone will be surprised.",
+  "russian_example_sentence": "Если ты расскажешь важный секрет, все будут удивлены.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:41:50.428993+00:00",
+  "turkish_example_sentence_with_blank": "Sen önemli bir sırrı ______, herkes şaşırır."
 }

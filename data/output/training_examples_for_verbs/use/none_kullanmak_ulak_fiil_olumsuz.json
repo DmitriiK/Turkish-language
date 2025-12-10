@@ -4,17 +4,19 @@
   "verb_russian": "использовать",
   "verb_infinitive": "kullanmak",
   "turkish_verb": {
-    "verb_full": "kullanmıyıp",
+    "verb_full": "kullanmayıp",
     "root": "kullan",
     "tense_affix": "ıp",
     "verb_tense": "ulak_fiil",
     "personal_pronoun": null,
     "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "mı"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "Without using an umbrella, she walked",
-  "russian_example_sentence": "Не воспользовавшись зонтом, она пошла",
-  "turkish_example_sentence": "Şemsiyeyi kullanmıyıp yürüdü",
-  "turkish_example_sentence_with_blank": "Şemsiyeyi ______ yürüdü"
+  "turkish_example_sentence": "Eski araçları kullanmayıp modern teknoloji tercih ettiler.",
+  "english_example_sentence": "Without using the old tools, they preferred modern technology.",
+  "russian_example_sentence": "Не используя старые инструменты, они предпочли современные технологии.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:29:37.402545+00:00",
+  "turkish_example_sentence_with_blank": "Eski araçları ______ modern teknoloji tercih ettiler."
 }

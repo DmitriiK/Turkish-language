@@ -4,17 +4,19 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulmayayım",
+    "verb_full": "bulmasın",
     "root": "bul",
-    "tense_affix": "ay",
+    "tense_affix": "a",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "ım",
+    "personal_affix": "yım",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "Let me not find bad news today",
-  "russian_example_sentence": "Позволь мне не найти плохие новости сегодня",
-  "turkish_example_sentence": "Ben bugün kötü haberleri bulmayayım",
-  "turkish_example_sentence_with_blank": "Ben bugün kötü haberleri ______"
+  "turkish_example_sentence": "Ben bu zor matematik problemini bulmasın diye endişeleniyorum.",
+  "english_example_sentence": "I am worried that I should not find this difficult math problem.",
+  "russian_example_sentence": "Я беспокоюсь, что не должен найти эту сложную математическую задачу.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:34:42.618357+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu zor matematik problemini ______ diye endişeleniyorum."
 }

@@ -4,17 +4,19 @@
   "verb_russian": "спрашивать",
   "verb_infinitive": "sormak",
   "turkish_verb": {
-    "verb_full": "sormam lazım",
+    "verb_full": "sormam",
     "root": "sor",
-    "tense_affix": "lazım",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I need to ask the experienced teacher a difficult question",
-  "russian_example_sentence": "Мне нужно спросить опытного учителя сложный вопрос",
-  "turkish_example_sentence": "Ben deneyimli öğretmene zor bir soru sormam lazım",
-  "turkish_example_sentence_with_blank": "Ben deneyimli öğretmene zor bir soru ______"
+  "turkish_example_sentence": "Ben öğretmene önemli matematik sorusu sormam lazım.",
+  "english_example_sentence": "I need to ask the teacher an important math question.",
+  "russian_example_sentence": "Мне нужно спросить у учителя важный вопрос по математике.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:45:33.629390+00:00",
+  "turkish_example_sentence_with_blank": "Ben öğretmene önemli matematik sorusu ______ lazım."
 }

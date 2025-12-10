@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "bulmazlarsa",
     "root": "bul",
-    "tense_affix": "mazsa",
+    "tense_affix": "maz",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If they don't find the meeting room",
-  "russian_example_sentence": "Если они не найдут зал для встреч",
-  "turkish_example_sentence": "Toplantı odasını bulmazlarsa",
-  "turkish_example_sentence_with_blank": "Toplantı odasını ______"
+  "turkish_example_sentence": "Onlar sahilde kayıp çantayı bulmazlarsa, tatil planları bozulacak.",
+  "english_example_sentence": "If they do not find the lost bag on the beach, their vacation plans will be ruined.",
+  "russian_example_sentence": "Если они не найдут потерянную сумку на пляже, их планы отпуска будут испорчены.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:35:44.232218+00:00",
+  "turkish_example_sentence_with_blank": "Onlar sahilde kayıp çantayı ______, tatil planları bozulacak."
 }

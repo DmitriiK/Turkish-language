@@ -4,17 +4,19 @@
   "verb_russian": "спрашивать",
   "verb_infinitive": "sormak",
   "turkish_verb": {
-    "verb_full": "sorup",
+    "verb_full": "soruyup",
     "root": "sor",
-    "tense_affix": "up",
+    "tense_affix": "uyup",
     "verb_tense": "ulak_fiil",
     "personal_pronoun": null,
     "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Having asked about the directions, she left.",
-  "russian_example_sentence": "Спросив о направлении, она ушла.",
-  "turkish_example_sentence": "Yönleri sorup oradan ayrıldı.",
-  "turkish_example_sentence_with_blank": "Yönleri ______ oradan ayrıldı."
+  "turkish_example_sentence": "Öğretmene zor matematik sorusunu soruyup cevap aldı.",
+  "english_example_sentence": "Having asked the teacher a difficult math question, he got an answer.",
+  "russian_example_sentence": "Спросив у учителя сложный вопрос по математике, он получил ответ.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:47:42.407141+00:00",
+  "turkish_example_sentence_with_blank": "Öğretmene zor matematik sorusunu ______ cevap aldı."
 }

@@ -4,17 +4,19 @@
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "aramamışsa",
+    "verb_full": "aramamamışsa",
     "root": "ara",
-    "tense_affix": "mamışsa",
+    "tense_affix": "mışsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If she hadn't called her friend...",
-  "russian_example_sentence": "Если бы она не позвонила своей подруге...",
-  "turkish_example_sentence": "O arkadaşını aramamışsa, partiyi kaçırırdı.",
-  "turkish_example_sentence_with_blank": "O arkadaşını ______, partiyi kaçırırdı."
+  "turkish_example_sentence": "O gece yarısı itfaiyeyi aramamamışsa, yangın daha da büyürürdü.",
+  "english_example_sentence": "If he had not called the fire department at midnight, the fire would have spread further.",
+  "russian_example_sentence": "Если бы он не позвонил пожарной службе в полночь, пожар распространился бы дальше.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:19:05.698775+00:00",
+  "turkish_example_sentence_with_blank": "O gece yarısı itfaiyeyi ______, yangın daha da büyürürdü."
 }

@@ -4,7 +4,7 @@
   "verb_russian": "работать",
   "verb_infinitive": "çalışmak",
   "turkish_verb": {
-    "verb_full": "çalışmayalar",
+    "verb_full": "çalışmalar",
     "root": "çalış",
     "tense_affix": "a",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I hope they do not work carelessly",
-  "russian_example_sentence": "Я надеюсь, что они не будут работать небрежно",
-  "turkish_example_sentence": "Onlar dikkatsiz çalışmayalar",
-  "turkish_example_sentence_with_blank": "Onlar dikkatsiz ______"
+  "turkish_example_sentence": "Onlar genç stajyerler bu ay zor projelerde çalışmalar.",
+  "english_example_sentence": "May those young interns not work on difficult projects this month.",
+  "russian_example_sentence": "Пусть те молодые стажеры не работают над сложными проектами в этом месяце.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:52:15.750331+00:00",
+  "turkish_example_sentence_with_blank": "Onlar genç stajyerler bu ay zor projelerde ______."
 }

@@ -4,17 +4,19 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulmamışsam",
+    "verb_full": "bulamamışsam",
     "root": "bul",
-    "tense_affix": "mamışsa",
+    "tense_affix": "muş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If I hadn't found the address",
-  "russian_example_sentence": "Если бы я не нашел адрес",
-  "turkish_example_sentence": "Ben doğru adresi bulmamışsam, toplantıya geç kalırdım.",
-  "turkish_example_sentence_with_blank": "Ben doğru adresi ______, toplantıya geç kalırdım."
+  "turkish_example_sentence": "Ben kütüphanede önemli belgeyi bulamamışsam, araştırma başarısız olurdu.",
+  "english_example_sentence": "If I had not found the important document in the library, the research would have failed.",
+  "russian_example_sentence": "Если бы я не нашел важный документ в библиотеке, исследование бы провалилось.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:36:55.470944+00:00",
+  "turkish_example_sentence_with_blank": "Ben kütüphanede önemli belgeyi ______, araştırma başarısız olurdu."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "kullanmayacaktık",
     "root": "kullan",
-    "tense_affix": "mayacaktı",
+    "tense_affix": "acak",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "tık",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "We weren't going to use your tools.",
-  "russian_example_sentence": "Мы не собирались использовать ваши инструменты.",
-  "turkish_example_sentence": "Biz senin aletlerini kullanmayacaktık, teşekkürler.",
-  "turkish_example_sentence_with_blank": "Biz senin aletlerini ______, teşekkürler."
+  "turkish_example_sentence": "Biz eski çamaşır makinesini daha fazla kullanmayacaktık.",
+  "english_example_sentence": "We were not going to use the old washing machine anymore.",
+  "russian_example_sentence": "Мы не собирались больше использовать старую стиральную машину.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:29:57.806955+00:00",
+  "turkish_example_sentence_with_blank": "Biz eski çamaşır makinesini daha fazla ______."
 }

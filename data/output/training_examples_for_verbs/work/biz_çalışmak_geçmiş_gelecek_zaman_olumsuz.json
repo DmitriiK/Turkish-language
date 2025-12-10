@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "çalışmayacaktık",
     "root": "çalış",
-    "tense_affix": "mayacaktı",
+    "tense_affix": "acak",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "tık",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "We were not going to work tonight.",
-  "russian_example_sentence": "Мы не собирались работать сегодня вечером.",
-  "turkish_example_sentence": "Biz bu gece geç saatlere kadar çalışmayacaktık",
-  "turkish_example_sentence_with_blank": "Biz bu gece geç saatlere kadar ______"
+  "turkish_example_sentence": "Biz yaz aylarında ağır fiziksel işlerde çalışmayacaktık.",
+  "english_example_sentence": "We were not going to work on heavy physical tasks during summer months.",
+  "russian_example_sentence": "Мы не собирались работать над тяжелыми физическими работами в летние месяцы.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:53:28.826640+00:00",
+  "turkish_example_sentence_with_blank": "Biz yaz aylarında ağır fiziksel işlerde ______."
 }

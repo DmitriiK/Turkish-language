@@ -1,6 +1,6 @@
 {
   "verb_rank": 20,
-  "verb_english": "call (phone)",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If he called his mother, she'd worry.",
-  "russian_example_sentence": "Если бы он позвонил своей матери, она бы волновалась.",
-  "turkish_example_sentence": "O annesini arasa, annesi endişelenirdi.",
-  "turkish_example_sentence_with_blank": "O annesini ______, annesi endişelenirdi."
+  "turkish_example_sentence": "O güvenilir elektrikçiyi arasa elektrik sorunu çabuk bitecek.",
+  "english_example_sentence": "If he calls the reliable electrician, the electrical problem will end quickly.",
+  "russian_example_sentence": "Если он позвонит надежному электрику, электрическая проблема закончится быстро.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:17:02.138721+00:00",
+  "turkish_example_sentence_with_blank": "O güvenilir elektrikçiyi ______ elektrik sorunu çabuk bitecek."
 }

@@ -4,17 +4,19 @@
   "verb_russian": "использовать",
   "verb_infinitive": "kullanmak",
   "turkish_verb": {
-    "verb_full": "kullanmamamız lazım",
+    "verb_full": "kullanmamamız",
     "root": "kullan",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "mız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "We should not use plastic bags anymore",
-  "russian_example_sentence": "Мы больше не должны использовать пластиковые пакеты",
-  "turkish_example_sentence": "Biz artık tek kullanımlık plastik poşetleri kullanmamamız lazım",
-  "turkish_example_sentence_with_blank": "Biz artık tek kullanımlık plastik poşetleri ______"
+  "turkish_example_sentence": "Biz bu zararlı plastik poşetleri alışveriş sırasında kullanmamamız gerek.",
+  "english_example_sentence": "We need to not use these harmful plastic bags during shopping.",
+  "russian_example_sentence": "Нам нужно не использовать эти вредные пластиковые пакеты во время покупок.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T13:55:52.070989+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu zararlı plastik poşetleri alışveriş sırasında ______ gerek."
 }

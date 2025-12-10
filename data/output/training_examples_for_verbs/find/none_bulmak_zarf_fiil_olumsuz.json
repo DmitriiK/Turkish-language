@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "bulmayarak",
     "root": "bul",
-    "tense_affix": "mayarak",
+    "tense_affix": "arak",
     "verb_tense": "zarf_fiil",
     "personal_pronoun": null,
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "They failed by not finding common ground.",
-  "russian_example_sentence": "Они потерпели неудачу, не найдя общей точки соприкосновения.",
-  "turkish_example_sentence": "Onlar, ortak bir zemin bulmayarak başarısız oldular.",
-  "turkish_example_sentence_with_blank": "Onlar, ortak bir zemin ______ başarısız oldular."
+  "turkish_example_sentence": "Kütüphanede hiçbir yararlı kaynak bulmayarak araştırmasını tamamlayamadı.",
+  "english_example_sentence": "By not finding any useful resources in the library, he could not complete his research.",
+  "russian_example_sentence": "Не найдя никаких полезных ресурсов в библиотеке, он не смог завершить своё исследование.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:37:08.241652+00:00",
+  "turkish_example_sentence_with_blank": "Kütüphanede hiçbir yararlı kaynak ______ araştırmasını tamamlayamadı."
 }

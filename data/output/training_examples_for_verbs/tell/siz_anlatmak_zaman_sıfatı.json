@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "anlattığınızda",
     "root": "anlat",
-    "tense_affix": "tığı",
+    "tense_affix": "tığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "ınızda",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When you tell the interesting event",
-  "russian_example_sentence": "Когда вы рассказываете об интересном событии",
-  "turkish_example_sentence": "Siz ilginç olayı anlattığınızda, herkes merak ediyor",
-  "turkish_example_sentence_with_blank": "Siz ilginç olayı ______, herkes merak ediyor"
+  "turkish_example_sentence": "Siz bilimsel araştırmaları açık şekilde anlattığınızda, öğrenciler çok iyi anladı.",
+  "english_example_sentence": "When you explained the scientific research clearly, the students understood very well.",
+  "russian_example_sentence": "Когда вы объяснили научные исследования ясно, студенты очень хорошо поняли.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:43:12.535980+00:00",
+  "turkish_example_sentence_with_blank": "Siz bilimsel araştırmaları açık şekilde ______, öğrenciler çok iyi anladı."
 }

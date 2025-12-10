@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "kullanmazsa",
     "root": "kullan",
-    "tense_affix": "zsa",
+    "tense_affix": "maz",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If she doesn't use her glasses, she can't see clearly.",
-  "russian_example_sentence": "Если она не использует свои очки, она не сможет хорошо видеть.",
-  "turkish_example_sentence": "Gözlüklerini kullanmazsa, net göremez.",
-  "turkish_example_sentence_with_blank": "Gözlüklerini ______, net göremez."
+  "turkish_example_sentence": "O bu değerli kaynakları kullanmazsa, fırsat kaybeder.",
+  "english_example_sentence": "If she does not use these valuable resources, she will miss the opportunity.",
+  "russian_example_sentence": "Если она не будет использовать эти ценные ресурсы, она упустит возможность.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:29:26.273192+00:00",
+  "turkish_example_sentence_with_blank": "O bu değerli kaynakları ______, fırsat kaybeder."
 }

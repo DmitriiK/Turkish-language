@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "çalışmazsak",
     "root": "çalış",
-    "tense_affix": "mazsak",
+    "tense_affix": "maz",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If we don't work together, we will fail",
-  "russian_example_sentence": "Если мы не будем работать вместе, мы потерпим неудачу",
-  "turkish_example_sentence": "Eğer birlikte çalışmazsak, başarısız oluruz",
-  "turkish_example_sentence_with_blank": "Eğer birlikte ______, başarısız oluruz"
+  "turkish_example_sentence": "Biz bu hafta çalışmazsak, pazartesi çok geç kalacağız.",
+  "english_example_sentence": "If we do not work this week, we will be very late on Monday.",
+  "russian_example_sentence": "Если мы не будем работать на этой неделе, мы будем очень опаздывать в понедельник.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:52:54.426093+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu hafta ______, pazartesi çok geç kalacağız."
 }

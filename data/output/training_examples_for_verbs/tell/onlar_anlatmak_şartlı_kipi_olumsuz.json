@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "anlatmazlarsa",
     "root": "anlat",
-    "tense_affix": "mazsa",
+    "tense_affix": "maz",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If they don't tell the surprising fact",
-  "russian_example_sentence": "Если они не расскажут удивительный факт",
-  "turkish_example_sentence": "Eğer şaşırtıcı gerçeği anlatmazlarsa",
-  "turkish_example_sentence_with_blank": "Eğer şaşırtıcı gerçeği ______"
+  "turkish_example_sentence": "Onlar bu acı gerçeği anlatmazlarsa, sorun büyüyecek.",
+  "english_example_sentence": "If they don't tell this bitter truth, the problem will grow.",
+  "russian_example_sentence": "Если они не расскажут эту горькую правду, проблема будет расти.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:41:50.428993+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu acı gerçeği ______, sorun büyüyecek."
 }

@@ -4,7 +4,7 @@
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "arayasınız",
+    "verb_full": "arasınız",
     "root": "ara",
     "tense_affix": "ya",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "May you call the diligent customer service",
-  "russian_example_sentence": "Может быть, вы позвоните в усердную службу поддержки клиентов",
-  "turkish_example_sentence": "Siz belki çalışkan müşteri hizmetlerini arayasınız",
-  "turkish_example_sentence_with_blank": "Siz belki çalışkan müşteri hizmetlerini ______"
+  "turkish_example_sentence": "Siz başarılı proje yöneticisini pazartesi sabahı arasınız.",
+  "english_example_sentence": "May you call the successful project manager on Monday morning.",
+  "russian_example_sentence": "Позвоните успешному руководителю проекта в понедельник утром.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:16:24.775875+00:00",
+  "turkish_example_sentence_with_blank": "Siz başarılı proje yöneticisini pazartesi sabahı ______."
 }

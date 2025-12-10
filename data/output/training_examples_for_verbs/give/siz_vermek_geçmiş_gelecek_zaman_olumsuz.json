@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "vermeyecektiniz",
     "root": "ver",
-    "tense_affix": "eyecek",
+    "tense_affix": "ecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "tiniz",
+    "personal_affix": "niz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You weren't going to give permission",
-  "russian_example_sentence": "Вы не собирались давать разрешение",
-  "turkish_example_sentence": "Siz, gençlere bu tehlikeli aktivite için izin vermeyecektiniz.",
-  "turkish_example_sentence_with_blank": "Siz, gençlere bu tehlikeli aktivite için izin ______."
+  "turkish_example_sentence": "Siz özel davetiye kartlarını komşulara vermeyecektiniz.",
+  "english_example_sentence": "You were not going to give the special invitation cards to the neighbors.",
+  "russian_example_sentence": "Вы не собирались давать специальные пригласительные карточки соседям.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:57:11.033125+00:00",
+  "turkish_example_sentence_with_blank": "Siz özel davetiye kartlarını komşulara ______."
 }

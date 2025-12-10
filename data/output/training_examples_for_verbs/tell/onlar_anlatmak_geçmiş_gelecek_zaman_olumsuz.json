@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "anlatmayacaklardı",
     "root": "anlat",
-    "tense_affix": "acak",
+    "tense_affix": "acaktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lardı",
+    "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "They were not going to tell the children.",
-  "russian_example_sentence": "Они не собирались рассказывать детям.",
-  "turkish_example_sentence": "Onlar küçüklere bu korkunç hikayeyi anlatmayacaklardı.",
-  "turkish_example_sentence_with_blank": "Onlar küçüklere bu korkunç hikayeyi ______."
+  "turkish_example_sentence": "Onlar gazetecilere hassas bilgiler anlatmayacaklardı.",
+  "english_example_sentence": "They were not going to tell the journalists sensitive information.",
+  "russian_example_sentence": "Они не собирались рассказывать журналистам чувствительную информацию.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:42:23.402294+00:00",
+  "turkish_example_sentence_with_blank": "Onlar gazetecilere hassas bilgiler ______."
 }

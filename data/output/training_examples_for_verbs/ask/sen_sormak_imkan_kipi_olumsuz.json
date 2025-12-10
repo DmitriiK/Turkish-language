@@ -4,17 +4,19 @@
   "verb_russian": "спрашивать",
   "verb_infinitive": "sormak",
   "turkish_verb": {
-    "verb_full": "soramamasın",
+    "verb_full": "soramazsın",
     "root": "sor",
     "tense_affix": "ama",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "sın",
+    "personal_affix": "zsın",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "You cannot ask the angry manager personal questions now",
-  "russian_example_sentence": "Ты не можешь задать личные вопросы сердитому менеджеру сейчас",
-  "turkish_example_sentence": "Sen şu anda kızgın müdüre kişisel sorular soramamasın",
-  "turkish_example_sentence_with_blank": "Sen şu anda kızgın müdüre kişisel sorular ______"
+  "turkish_example_sentence": "Sen kütüphaneciye kişisel bilgisini soramazsın.",
+  "english_example_sentence": "You cannot ask the librarian for her personal information.",
+  "russian_example_sentence": "Ты не можешь спросить библиотекаря о его личной информации.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:45:53.655773+00:00",
+  "turkish_example_sentence_with_blank": "Sen kütüphaneciye kişisel bilgisini ______."
 }

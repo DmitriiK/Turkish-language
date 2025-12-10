@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "kullanırsam",
     "root": "kullan",
-    "tense_affix": "ırsam",
+    "tense_affix": "ar",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I use this computer, it will work.",
-  "russian_example_sentence": "Если я использую этот компьютер, он будет работать.",
-  "turkish_example_sentence": "Bu bilgisayarı kullanırsam, çalışır.",
-  "turkish_example_sentence_with_blank": "Bu bilgisayarı ______, çalışır."
+  "turkish_example_sentence": "Ben bu yeni bilgisayarı kullanırsam, işim daha hızlı biter.",
+  "english_example_sentence": "If I use this new computer, my work will finish faster.",
+  "russian_example_sentence": "Если я буду использовать этот новый компьютер, моя работа закончится быстрее.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:29:26.273192+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu yeni bilgisayarı ______, işim daha hızlı biter."
 }

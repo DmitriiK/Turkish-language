@@ -4,7 +4,7 @@
   "verb_russian": "работать",
   "verb_infinitive": "çalışmak",
   "turkish_verb": {
-    "verb_full": "çalışmayasın",
+    "verb_full": "çalışmasın",
     "root": "çalış",
     "tense_affix": "a",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I hope you don’t work so hard",
-  "russian_example_sentence": "Надеюсь, ты не будешь так много работать",
-  "turkish_example_sentence": "Sen bu kadar çalışmayasın",
-  "turkish_example_sentence_with_blank": "Sen bu kadar ______"
+  "turkish_example_sentence": "Sen hastalıklı olduğun için ağır işlerde çalışmasın.",
+  "english_example_sentence": "Since you are sick, may you not work on heavy tasks.",
+  "russian_example_sentence": "Поскольку ты болен, пусть ты не работаешь на тяжелых работах.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:52:15.750331+00:00",
+  "turkish_example_sentence_with_blank": "Sen hastalıklı olduğun için ağır işlerde ______."
 }

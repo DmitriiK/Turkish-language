@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "isteyemezsiniz",
     "root": "iste",
-    "tense_affix": "yeme",
+    "tense_affix": "ye",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "zsiniz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You cannot want spicy hot Indian curry dinner",
-  "russian_example_sentence": "Вы не можете хотеть острый горячий индийский ужин карри",
-  "turkish_example_sentence": "Siz acılı sıcak Hint curry akşam yemeğini isteyemezsiniz",
-  "turkish_example_sentence_with_blank": "Siz acılı sıcak Hint curry akşam yemeğini ______"
+  "turkish_example_sentence": "Siz pahalı ve lüks yachtı kişisel bütçeyle isteyemezsiniz.",
+  "english_example_sentence": "You cannot want the expensive and luxury yacht with personal budget.",
+  "russian_example_sentence": "Вы не можете хотеть дорогую и люксовую яхту с личным бюджетом.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:49:09.633607+00:00",
+  "turkish_example_sentence_with_blank": "Siz pahalı ve lüks yachtı kişisel bütçeyle ______."
 }

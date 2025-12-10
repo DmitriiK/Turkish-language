@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "verecektiniz",
     "root": "ver",
-    "tense_affix": "ecek",
+    "tense_affix": "ecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "tiniz",
+    "personal_affix": "niz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You were going to give feedback",
-  "russian_example_sentence": "Вы собирались дать обратную связь",
-  "turkish_example_sentence": "Siz, öğrencilere ödevleri hakkında detaylı geri bildirim verecektiniz.",
-  "turkish_example_sentence_with_blank": "Siz, öğrencilere ödevleri hakkında detaylı geri bildirim ______."
+  "turkish_example_sentence": "Siz müdüre önemli proje raporunu verecektiniz.",
+  "english_example_sentence": "You were going to give the important project report to the director.",
+  "russian_example_sentence": "Вы собирались дать важный отчет о проекте директору.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:57:11.033125+00:00",
+  "turkish_example_sentence_with_blank": "Siz müdüre önemli proje raporunu ______."
 }

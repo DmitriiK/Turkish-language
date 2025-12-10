@@ -4,17 +4,19 @@
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "aramaman lazım",
+    "verb_full": "aramamanız",
     "root": "ara",
-    "tense_affix": " ",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You don't need to call him back",
-  "russian_example_sentence": "Тебе не нужно ему перезванивать",
-  "turkish_example_sentence": "Sen onu sonra aramaman lazım",
-  "turkish_example_sentence_with_blank": "Sen onu sonra ______"
+  "turkish_example_sentence": "Sen rahatsız edici reklam şirketini aramamanız gerek.",
+  "english_example_sentence": "You should not call the annoying advertising company.",
+  "russian_example_sentence": "Тебе не нужно звонить надоедливой рекламной компании.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:17:21.028205+00:00",
+  "turkish_example_sentence_with_blank": "Sen rahatsız edici reklam şirketini ______ gerek."
 }

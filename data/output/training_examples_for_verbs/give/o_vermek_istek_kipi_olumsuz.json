@@ -4,7 +4,7 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "vermeye",
+    "verb_full": "vermese",
     "root": "ver",
     "tense_affix": "e",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "Let her not give them the book.",
-  "russian_example_sentence": "Пусть она не отдаёт им книгу.",
-  "turkish_example_sentence": "Onlara kitabı vermeye.",
-  "turkish_example_sentence_with_blank": "Onlara kitabı ______."
+  "turkish_example_sentence": "O zengin adam fakir insanlara para vermese.",
+  "english_example_sentence": "May the rich man not give money to poor people.",
+  "russian_example_sentence": "Пусть богатый человек не дает деньги бедным людям.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:55:44.826068+00:00",
+  "turkish_example_sentence_with_blank": "O zengin adam fakir insanlara para ______."
 }

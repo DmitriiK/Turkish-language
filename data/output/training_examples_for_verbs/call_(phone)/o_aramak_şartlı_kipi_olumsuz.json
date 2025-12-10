@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "aramazsa",
     "root": "ara",
-    "tense_affix": "mazsa",
+    "tense_affix": "rsa",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If he doesn't call, we leave.",
-  "russian_example_sentence": "Если он не позвонит, мы уходим.",
-  "turkish_example_sentence": "O bizi bu akşam aramazsa, biz gideceğiz.",
-  "turkish_example_sentence_with_blank": "O bizi bu akşam ______, biz gideceğiz."
+  "turkish_example_sentence": "O başkan aramazsa, toplantı iptal edilecek.",
+  "english_example_sentence": "If the president does not call, the meeting will be cancelled.",
+  "russian_example_sentence": "Если президент не позвонит, встреча будет отменена.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:18:40.638216+00:00",
+  "turkish_example_sentence_with_blank": "O başkan ______, toplantı iptal edilecek."
 }

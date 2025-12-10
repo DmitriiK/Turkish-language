@@ -4,17 +4,19 @@
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "aramamışsanız",
+    "verb_full": "aramamamışsanız",
     "root": "ara",
-    "tense_affix": "mamışsa",
+    "tense_affix": "mışsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If you hadn't called the ambulance...",
-  "russian_example_sentence": "Если бы вы не позвонили в скорую помощь...",
-  "turkish_example_sentence": "Siz ambulansı aramamışsanız, hasta kötüleşirdi.",
-  "turkish_example_sentence_with_blank": "Siz ambulansı ______, hasta kötüleşirdi."
+  "turkish_example_sentence": "Siz salı öğleden sonra polis aramamamışsanız, hırsız kaçardı.",
+  "english_example_sentence": "If you had not called the police on Tuesday afternoon, the thief would have escaped.",
+  "russian_example_sentence": "Если бы вы не позвонили полиции во вторник после полудня, вор бы убежал.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:19:05.698775+00:00",
+  "turkish_example_sentence_with_blank": "Siz salı öğleden sonra polis ______, hırsız kaçardı."
 }

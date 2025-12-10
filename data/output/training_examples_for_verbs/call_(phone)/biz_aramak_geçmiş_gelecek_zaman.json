@@ -1,20 +1,22 @@
 {
   "verb_rank": 20,
-  "verb_english": "call (phone)",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "arayacaktık",
+    "verb_full": "aracaktık",
     "root": "ara",
-    "tense_affix": "yacaktı",
+    "tense_affix": "caktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We were going to call the restaurant.",
-  "russian_example_sentence": "Мы собирались позвонить в ресторан.",
-  "turkish_example_sentence": "Biz lokantayı arayacaktık.",
-  "turkish_example_sentence_with_blank": "Biz lokantayı ______."
+  "turkish_example_sentence": "Biz salı sabahı deneyimli elektrikçiyi aracaktık ama o zaten başka işte meşguldü.",
+  "english_example_sentence": "We were going to call the experienced electrician Tuesday morning but he was already busy with another job.",
+  "russian_example_sentence": "Мы собирались позвонить опытному электрику во вторник утром, но он уже был занят другой работой.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:18:20.101796+00:00",
+  "turkish_example_sentence_with_blank": "Biz salı sabahı deneyimli elektrikçiyi ______ ama o zaten başka işte meşguldü."
 }

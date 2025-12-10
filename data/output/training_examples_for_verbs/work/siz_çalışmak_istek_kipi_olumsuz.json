@@ -4,7 +4,7 @@
   "verb_russian": "работать",
   "verb_infinitive": "çalışmak",
   "turkish_verb": {
-    "verb_full": "çalışmayasınız",
+    "verb_full": "çalışmasınız",
     "root": "çalış",
     "tense_affix": "a",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I hope you do not work too fast",
-  "russian_example_sentence": "Я надеюсь, что вы не будете работать слишком быстро",
-  "turkish_example_sentence": "Siz çok hızlı çalışmayasınız",
-  "turkish_example_sentence_with_blank": "Siz çok hızlı ______"
+  "turkish_example_sentence": "Siz kıdemli doktorlar gece vardiyasında çalışmasınız.",
+  "english_example_sentence": "May you senior doctors not work on the night shift.",
+  "russian_example_sentence": "Пусть вы старшие врачи не работаете в ночную смену.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:52:15.750331+00:00",
+  "turkish_example_sentence_with_blank": "Siz kıdemli doktorlar gece vardiyasında ______."
 }

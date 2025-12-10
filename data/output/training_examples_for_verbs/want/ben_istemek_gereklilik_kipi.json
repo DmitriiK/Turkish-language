@@ -4,17 +4,19 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istememiz lazım",
+    "verb_full": "istemem",
     "root": "iste",
-    "tense_affix": "lazım",
+    "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I need to want this beautiful opportunity",
-  "russian_example_sentence": "Мне нужно хотеть эту красивую возможность",
-  "turkish_example_sentence": "Ben bu harika fırsatı istemem lazım",
-  "turkish_example_sentence_with_blank": "Ben bu harika fırsatı istemem lazım"
+  "turkish_example_sentence": "Ben yeni bir bisiklet istemem lazım.",
+  "english_example_sentence": "I need to want a new bicycle.",
+  "russian_example_sentence": "Мне нужно хотеть новый велосипед.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:48:51.452213+00:00",
+  "turkish_example_sentence_with_blank": "Ben yeni bir bisiklet ______ lazım."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "bulurlarsa",
     "root": "bul",
-    "tense_affix": "ursa",
+    "tense_affix": "ur",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they find the key to success",
-  "russian_example_sentence": "Если они найдут ключ к успеху",
-  "turkish_example_sentence": "Başarıya giden anahtarı bulurlarsa",
-  "turkish_example_sentence_with_blank": "Başarıya giden anahtarı ______"
+  "turkish_example_sentence": "Onlar ormanda taze mantar bulurlarsa, lezzetli bir yemek pişirecekler.",
+  "english_example_sentence": "If they find fresh mushrooms in the forest, they will cook a delicious meal.",
+  "russian_example_sentence": "Если они найдут свежие грибы в лесу, они приготовят вкусное блюдо.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:35:44.232218+00:00",
+  "turkish_example_sentence_with_blank": "Onlar ormanda taze mantar ______, lezzetli bir yemek pişirecekler."
 }

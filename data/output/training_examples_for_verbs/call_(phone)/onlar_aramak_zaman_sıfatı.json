@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "aradıklarında",
     "root": "ara",
-    "tense_affix": "dık",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "onlar",
     "personal_affix": "ları",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When they call, something important happened.",
-  "russian_example_sentence": "Когда они звонят, что-то важное произошло.",
-  "turkish_example_sentence": "Onlar seni okuldan aradıklarında, önemli bir şey olmuştur.",
-  "turkish_example_sentence_with_blank": "Onlar seni okuldan ______, önemli bir şey olmuştur."
+  "turkish_example_sentence": "Onlar sevgili öğretmeni aradıklarında, hemen yardım etmeyi kabul etti.",
+  "english_example_sentence": "When they called the beloved teacher, she immediately agreed to help.",
+  "russian_example_sentence": "Когда они позвонили любимой учительнице, она сразу согласилась помочь.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:19:45.005061+00:00",
+  "turkish_example_sentence_with_blank": "Onlar sevgili öğretmeni ______, hemen yardım etmeyi kabul etti."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "kullanmayacaklardı",
     "root": "kullan",
-    "tense_affix": "mayacaktı",
+    "tense_affix": "acak",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lardı",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "They weren't going to use all the resources.",
-  "russian_example_sentence": "Они не собирались использовать все ресурсы.",
-  "turkish_example_sentence": "Onlar bütün kaynakları kullanmayacaklardı, bazılarını saklayacaklardı.",
-  "turkish_example_sentence_with_blank": "Onlar bütün kaynakları ______, bazılarını saklayacaklardı."
+  "turkish_example_sentence": "Onlar çevre dostu ambalajı üretimde kullanmayacaklardı.",
+  "english_example_sentence": "They were not going to use eco-friendly packaging in production.",
+  "russian_example_sentence": "Они не собирались использовать экологичную упаковку в производстве.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:29:57.806955+00:00",
+  "turkish_example_sentence_with_blank": "Onlar çevre dostu ambalajı üretimde ______."
 }

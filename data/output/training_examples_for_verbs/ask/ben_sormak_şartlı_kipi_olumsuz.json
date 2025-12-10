@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sormazsam",
     "root": "sor",
-    "tense_affix": "sa",
+    "tense_affix": "maz",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If I don’t ask her",
-  "russian_example_sentence": "Если я не спрошу её",
-  "turkish_example_sentence": "Ben ondan sormazsam, eksik bilgiyle kalırım",
-  "turkish_example_sentence_with_blank": "Ben ondan ______, eksik bilgiyle kalırım"
+  "turkish_example_sentence": "Ben hiç kimseye kişisel soruları sormazsam, asla gerçeği öğrenemem.",
+  "english_example_sentence": "If I don't ask anyone personal questions, I will never learn the truth.",
+  "russian_example_sentence": "Если я никого не спрошу личные вопросы, я никогда не узнаю правду.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:47:28.102471+00:00",
+  "turkish_example_sentence_with_blank": "Ben hiç kimseye kişisel soruları ______, asla gerçeği öğrenemem."
 }

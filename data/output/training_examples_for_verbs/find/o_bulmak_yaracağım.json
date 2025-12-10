@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "bulacak",
     "root": "bul",
-    "tense_affix": "acak",
+    "tense_affix": "acağ",
     "verb_tense": "yaracağım",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He will find the important document at the office",
-  "russian_example_sentence": "Он найдёт важный документ в офисе",
-  "turkish_example_sentence": "O ofiste önemli belgeyi bulacak",
-  "turkish_example_sentence_with_blank": "O ofiste önemli belgeyi ______"
+  "turkish_example_sentence": "O kütüphanede nadir antika kitabı bulacak.",
+  "english_example_sentence": "He will find the rare antique book in the library.",
+  "russian_example_sentence": "Он найдет редкую антикварную книгу в библиотеке.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:32:50.390583+00:00",
+  "turkish_example_sentence_with_blank": "O kütüphanede nadir antika kitabı ______."
 }

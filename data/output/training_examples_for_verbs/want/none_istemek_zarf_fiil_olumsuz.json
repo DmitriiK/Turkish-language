@@ -4,17 +4,19 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemeyerek",
+    "verb_full": "istememeyerek",
     "root": "iste",
-    "tense_affix": "meyerek",
+    "tense_affix": "yerek",
     "verb_tense": "zarf_fiil",
     "personal_pronoun": null,
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "She hurt his feelings unintentionally.",
-  "russian_example_sentence": "Она задела его чувства непреднамеренно.",
-  "turkish_example_sentence": "O, onun hislerini istemeyerek incitti.",
-  "turkish_example_sentence_with_blank": "O, onun hislerini ______ incitti."
+  "turkish_example_sentence": "Sorumluluk istememeyerek, tembel çalışan kişi projesini hiçbir zaman bitiremiyor.",
+  "english_example_sentence": "By not wanting responsibility, the lazy working person never finishes their project.",
+  "russian_example_sentence": "Не желая ответственности, ленивый работающий человек никогда не заканчивает свой проект.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:51:49.312937+00:00",
+  "turkish_example_sentence_with_blank": "Sorumluluk ______, tembel çalışan kişi projesini hiçbir zaman bitiremiyor."
 }

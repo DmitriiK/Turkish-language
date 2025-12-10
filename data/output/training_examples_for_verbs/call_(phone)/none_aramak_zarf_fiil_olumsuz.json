@@ -1,20 +1,22 @@
 {
   "verb_rank": 20,
-  "verb_english": "call (phone)",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
     "verb_full": "aramayarak",
     "root": "ara",
-    "tense_affix": "mayarak",
+    "tense_affix": "yarak",
     "verb_tense": "zarf_fiil",
     "personal_pronoun": null,
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "She lost the deal by not calling.",
-  "russian_example_sentence": "Она потеряла сделку, не позвонив.",
-  "turkish_example_sentence": "O, şirketi aramayarak anlaşmayı kaybetti.",
-  "turkish_example_sentence_with_blank": "O, şirketi ______ anlaşmayı kaybetti."
+  "turkish_example_sentence": "Meşgul başkanı aramayarak toplantıyı erteledik.",
+  "english_example_sentence": "By not calling the busy president, we postponed the meeting.",
+  "russian_example_sentence": "Не позвонив занятому президенту, мы отложили встречу.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:19:17.281042+00:00",
+  "turkish_example_sentence_with_blank": "Meşgul başkanı ______ toplantıyı erteledik."
 }

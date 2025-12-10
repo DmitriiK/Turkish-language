@@ -1,6 +1,6 @@
 {
   "verb_rank": 20,
-  "verb_english": "call (phone)",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we called the company, what happens?",
-  "russian_example_sentence": "Если бы мы позвонили в компанию, что произойдет?",
-  "turkish_example_sentence": "Biz şirketi arasak, ne olur acaba?",
-  "turkish_example_sentence_with_blank": "Biz şirketi ______, ne olur acaba?"
+  "turkish_example_sentence": "Biz yerel pizzeriayı arasak akşam yemeğine lezzetli yemek getirebilirler.",
+  "english_example_sentence": "If we call the local pizzeria, they can bring delicious food for dinner.",
+  "russian_example_sentence": "Если мы позвоним в местную пиццерию, они могут доставить вкусную еду на ужин.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:17:02.138721+00:00",
+  "turkish_example_sentence_with_blank": "Biz yerel pizzeriayı ______ akşam yemeğine lezzetli yemek getirebilirler."
 }

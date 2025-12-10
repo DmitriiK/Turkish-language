@@ -4,7 +4,7 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "vermelisiniz",
+    "verb_full": "vermelsiniz",
     "root": "ver",
     "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You must give your employees fair compensation and benefits",
-  "russian_example_sentence": "Вы должны давать своим сотрудникам справедливую зарплату и льготы",
-  "turkish_example_sentence": "Siz çalışanlarınıza adil maaş ve sosyal yardımlar vermelisiniz",
-  "turkish_example_sentence_with_blank": "Siz çalışanlarınıza adil maaş ve sosyal yardımlar ______"
+  "turkish_example_sentence": "Siz öğrencilere adil puanlar vermelsiniz.",
+  "english_example_sentence": "You must give fair grades to students.",
+  "russian_example_sentence": "Вы должны дать справедливые оценки студентам.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:55:26.020061+00:00",
+  "turkish_example_sentence_with_blank": "Siz öğrencilere adil puanlar ______."
 }

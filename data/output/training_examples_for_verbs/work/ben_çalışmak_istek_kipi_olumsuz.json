@@ -4,7 +4,7 @@
   "verb_russian": "работать",
   "verb_infinitive": "çalışmak",
   "turkish_verb": {
-    "verb_full": "çalışmayayım",
+    "verb_full": "çalışmayım",
     "root": "çalış",
     "tense_affix": "a",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "Let me not work late today",
-  "russian_example_sentence": "Позвольте мне не работать допоздна сегодня",
-  "turkish_example_sentence": "Ben bugün geç çalışmayayım",
-  "turkish_example_sentence_with_blank": "Ben bugün geç ______"
+  "turkish_example_sentence": "Ben bu hafta sonu uzun saatler çalışmayım.",
+  "english_example_sentence": "Let me not work long hours this weekend.",
+  "russian_example_sentence": "Позвольте мне не работать долгие часы на этих выходных.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:52:15.750331+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu hafta sonu uzun saatler ______."
 }

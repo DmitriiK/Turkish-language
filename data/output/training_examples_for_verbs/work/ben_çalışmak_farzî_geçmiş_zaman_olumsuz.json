@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If I hadn't worked, I'd be broke.",
-  "russian_example_sentence": "Если бы я не работал, я был бы на мели.",
-  "turkish_example_sentence": "Ben hiç çalışmamışsam, şimdi parasız kalırdım.",
-  "turkish_example_sentence_with_blank": "Ben hiç ______, şimdi parasız kalırdım."
+  "turkish_example_sentence": "Ben pazartesi sabahı o önemli raporta çalışmamışsam, müdür beni azarlamış olurdu.",
+  "english_example_sentence": "If I had not worked on that important report Monday morning, the manager would have scolded me.",
+  "russian_example_sentence": "Если бы я не работал над тем важным отчетом в понедельник утром, менеджер бы меня отругал.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:56:53.426849+00:00",
+  "turkish_example_sentence_with_blank": "Ben pazartesi sabahı o önemli raporta ______, müdür beni azarlamış olurdu."
 }

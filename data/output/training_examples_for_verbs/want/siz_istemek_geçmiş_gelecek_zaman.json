@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "isteyecektiniz",
     "root": "iste",
-    "tense_affix": "yecek",
+    "tense_affix": "yecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "tiniz",
+    "personal_affix": "niz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You were going to learn Spanish.",
-  "russian_example_sentence": "Вы собирались учить испанский.",
-  "turkish_example_sentence": "Siz gelecek sene İspanyolca dil kursuna başlayacaktınız.",
-  "turkish_example_sentence_with_blank": "Siz gelecek sene İspanyolca dil kursuna başlayacaktınız."
+  "turkish_example_sentence": "Siz geçen ay lezzetli Türk mutfağında yemek yemek isteyecektiniz.",
+  "english_example_sentence": "You were going to eat delicious Turkish cuisine last month.",
+  "russian_example_sentence": "Вы собирались есть вкусную турецкую кухню в прошлом месяце.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:51:14.770211+00:00",
+  "turkish_example_sentence_with_blank": "Siz geçen ay lezzetli Türk mutfağında yemek yemek ______."
 }

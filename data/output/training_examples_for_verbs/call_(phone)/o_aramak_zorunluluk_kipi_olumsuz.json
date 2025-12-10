@@ -1,6 +1,6 @@
 {
   "verb_rank": 20,
-  "verb_english": "call (phone)",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
@@ -11,10 +11,12 @@
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "mama"
   },
-  "english_example_sentence": "She must not call her ex-boyfriend again.",
-  "russian_example_sentence": "Она не должна звонить своему бывшему парню снова.",
-  "turkish_example_sentence": "O eski erkek arkadaşını bir daha aramamalı.",
-  "turkish_example_sentence_with_blank": "O eski erkek arkadaşını bir daha ______."
+  "turkish_example_sentence": "O kızgın müşteri hakkında şikayeti aramamalı.",
+  "english_example_sentence": "She must not call about the angry customer complaint.",
+  "russian_example_sentence": "Она не должна звонить по поводу жалобы разгневанного клиента.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:17:57.968182+00:00",
+  "turkish_example_sentence_with_blank": "O kızgın müşteri hakkında şikayeti ______."
 }

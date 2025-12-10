@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "bulursanız",
     "root": "bul",
-    "tense_affix": "ursa",
+    "tense_affix": "ur",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you find the hidden treasure",
-  "russian_example_sentence": "Если вы найдете спрятанное сокровище",
-  "turkish_example_sentence": "Gizli hazineyi bulursanız",
-  "turkish_example_sentence_with_blank": "Gizli hazineyi ______"
+  "turkish_example_sentence": "Siz şehirde ucuz bir ev bulursanız, hemen taşınabilirsiniz.",
+  "english_example_sentence": "If you find a cheap house in the city, you can move immediately.",
+  "russian_example_sentence": "Если вы найдете дешевый дом в городе, вы можете сразу переехать.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:35:44.232218+00:00",
+  "turkish_example_sentence_with_blank": "Siz şehirde ucuz bir ev ______, hemen taşınabilirsiniz."
 }

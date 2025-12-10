@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "kullanacaktım",
     "root": "kullan",
-    "tense_affix": "acaktı",
+    "tense_affix": "acak",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "tım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I was going to use public transport",
-  "russian_example_sentence": "Я собирался использовать общественный транспорт",
-  "turkish_example_sentence": "Ben toplu taşıma kullanacaktım fakat taksiye bindim.",
-  "turkish_example_sentence_with_blank": "Ben toplu taşıma ______ fakat taksiye bindim."
+  "turkish_example_sentence": "Ben yeni bilgisayarı ofiste kullanacaktım ama arızalandı.",
+  "english_example_sentence": "I was going to use the new computer in the office but it broke down.",
+  "russian_example_sentence": "Я собирался использовать новый компьютер в офисе, но он сломался.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:29:57.806955+00:00",
+  "turkish_example_sentence_with_blank": "Ben yeni bilgisayarı ofiste ______ ama arızalandı."
 }

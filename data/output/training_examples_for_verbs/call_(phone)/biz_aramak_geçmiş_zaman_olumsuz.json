@@ -1,6 +1,6 @@
 {
   "verb_rank": 20,
-  "verb_english": "call (phone)",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "We did not call the repair service yet.",
-  "russian_example_sentence": "Мы еще не звонили в ремонтную службу.",
-  "turkish_example_sentence": "Biz henüz tamir servisini aramadık.",
-  "turkish_example_sentence_with_blank": "Biz henüz tamir servisini ______."
+  "turkish_example_sentence": "Biz temmuz ayında deniz kıyısındaki küçük oteli rezervasyon için aramadık.",
+  "english_example_sentence": "We did not call the small hotel by the seaside in July to make a reservation.",
+  "russian_example_sentence": "Мы не позвонили в маленький отель у моря в июле, чтобы забронировать номер.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:14:51.844132+00:00",
+  "turkish_example_sentence_with_blank": "Biz temmuz ayında deniz kıyısındaki küçük oteli rezervasyon için ______."
 }

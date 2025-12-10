@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "kullanmayan",
     "root": "kullan",
-    "tense_affix": "ayan",
+    "tense_affix": "yan",
     "verb_tense": "sıfat_fiil",
     "personal_pronoun": null,
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "The teacher not using the blackboard is quiet",
-  "russian_example_sentence": "Учитель, не использующий доску, спокоен",
-  "turkish_example_sentence": "Tahtayı kullanmayan öğretmen sessiz",
-  "turkish_example_sentence_with_blank": "Tahtayı ______ öğretmen sessiz"
+  "turkish_example_sentence": "Teknoloji kullanmayan yaşlı adam geleneksel yöntemleri tercih ediyor",
+  "english_example_sentence": "The elderly man who does not use technology prefers traditional methods",
+  "russian_example_sentence": "Пожилой мужчина, не использующий технологию, предпочитает традиционные методы",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:29:31.906701+00:00",
+  "turkish_example_sentence_with_blank": "Teknoloji ______ yaşlı adam geleneksel yöntemleri tercih ediyor"
 }

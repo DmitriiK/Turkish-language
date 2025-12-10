@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "verirse",
     "root": "ver",
-    "tense_affix": "ir",
+    "tense_affix": "irse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If he gives the right address",
-  "russian_example_sentence": "Если он даст правильный адрес",
-  "turkish_example_sentence": "Doğru adresi verirse",
-  "turkish_example_sentence_with_blank": "Doğru adresi ______"
+  "turkish_example_sentence": "O bize güzel müzik albümü verirse, çok sevinç duyarız.",
+  "english_example_sentence": "If he gives us a beautiful music album, we will feel great joy.",
+  "russian_example_sentence": "Если он даст нам красивый музыкальный альбом, мы почувствуем большую радость.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:56:39.122780+00:00",
+  "turkish_example_sentence_with_blank": "O bize güzel müzik albümü ______, çok sevinç duyarız."
 }

@@ -1,6 +1,6 @@
 {
   "verb_rank": 20,
-  "verb_english": "call (phone)",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You will call your mother tomorrow morning.",
-  "russian_example_sentence": "Ты позвонишь своей маме завтра утром.",
-  "turkish_example_sentence": "Sen yarın sabah anneni arayacaksın.",
-  "turkish_example_sentence_with_blank": "Sen yarın sabah anneni ______."
+  "turkish_example_sentence": "Sen akşam geç saatte yeni iş müdürünü arayacaksın.",
+  "english_example_sentence": "You will call the new business manager late in the evening.",
+  "russian_example_sentence": "Ты позвонишь новому начальнику поздно вечером.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:15:21.109892+00:00",
+  "turkish_example_sentence_with_blank": "Sen akşam geç saatte yeni iş müdürünü ______."
 }

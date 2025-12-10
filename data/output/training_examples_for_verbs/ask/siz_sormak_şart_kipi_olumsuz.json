@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sormasanız",
     "root": "sor",
-    "tense_affix": "ma",
+    "tense_affix": "sa",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If you didn't ask personal questions",
-  "russian_example_sentence": "Если бы вы не задавали личные вопросы",
-  "turkish_example_sentence": "Kişisel sorular sormasanız",
-  "turkish_example_sentence_with_blank": "Kişisel sorular ______"
+  "turkish_example_sentence": "Siz muhasebeciye vergi sorularını sormasanız, mali sorunlar yaşayabilirsiniz.",
+  "english_example_sentence": "If you were not to ask the accountant about tax questions, you could face financial problems.",
+  "russian_example_sentence": "Если бы вы не спросили бухгалтера о налоговых вопросах, вы могли бы столкнуться с финансовыми проблемами.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:47:05.259598+00:00",
+  "turkish_example_sentence_with_blank": "Siz muhasebeciye vergi sorularını ______, mali sorunlar yaşayabilirsiniz."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "kullanmazlarsa",
     "root": "kullan",
-    "tense_affix": "zlarsa",
+    "tense_affix": "maz",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If they don't use the washing machine, it will break.",
-  "russian_example_sentence": "Если они не будут пользоваться стиральной машиной, она сломается.",
-  "turkish_example_sentence": "Çamaşır makinesini kullanmazlarsa, bozulur.",
-  "turkish_example_sentence_with_blank": "Çamaşır makinesini ______, bozulur."
+  "turkish_example_sentence": "Onlar bu önemli araştırma verilerini kullanmazlarsa, bilim ilerlemez.",
+  "english_example_sentence": "If they do not use this important research data, science will not progress.",
+  "russian_example_sentence": "Если они не будут использовать эти важные данные исследования, наука не будет прогрессировать.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:29:26.273192+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu önemli araştırma verilerini ______, bilim ilerlemez."
 }

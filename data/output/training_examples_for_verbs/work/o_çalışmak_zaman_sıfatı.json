@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "çalıştığında",
     "root": "çalış",
-    "tense_affix": "tık",
+    "tense_affix": "tığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "o",
-    "personal_affix": "ı",
+    "personal_affix": "ında",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When he works, he listens to music.",
-  "russian_example_sentence": "Когда он работает, он слушает музыку.",
-  "turkish_example_sentence": "O ofiste çalıştığında, genellikle yüksek sesle müzik dinliyor.",
-  "turkish_example_sentence_with_blank": "O ofiste ______, genellikle yüksek sesle müzik dinliyor."
+  "turkish_example_sentence": "O hastanede çalıştığında, hasta insanları dikkatle tedavi ediyor.",
+  "english_example_sentence": "When he/she works at the hospital, he/she carefully treats sick people.",
+  "russian_example_sentence": "Когда он/она работает в больнице, он/она внимательно лечит больных людей.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:57:18.574901+00:00",
+  "turkish_example_sentence_with_blank": "O hastanede ______, hasta insanları dikkatle tedavi ediyor."
 }

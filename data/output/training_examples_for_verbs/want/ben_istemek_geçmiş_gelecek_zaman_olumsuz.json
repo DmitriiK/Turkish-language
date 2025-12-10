@@ -4,17 +4,19 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemeyecektim",
+    "verb_full": "istememeyecektim",
     "root": "iste",
-    "tense_affix": "yecek",
+    "tense_affix": "yecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "tim",
+    "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "I wasn't going to eat that.",
-  "russian_example_sentence": "Я не собирался это есть.",
-  "turkish_example_sentence": "Ben o restoranda akşam yemeği yemeyecektim.",
-  "turkish_example_sentence_with_blank": "Ben o restoranda akşam yemeği yemeyecektim."
+  "turkish_example_sentence": "Ben bu zor matematiksel problemi çözmek istememeyecektim.",
+  "english_example_sentence": "I was not going to solve this difficult mathematical problem.",
+  "russian_example_sentence": "Я не собирался решать эту сложную математическую задачу.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:51:14.770211+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu zor matematiksel problemi çözmek ______."
 }

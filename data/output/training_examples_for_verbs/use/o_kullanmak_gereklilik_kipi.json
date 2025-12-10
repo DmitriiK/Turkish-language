@@ -4,17 +4,19 @@
   "verb_russian": "использовать",
   "verb_infinitive": "kullanmak",
   "turkish_verb": {
-    "verb_full": "kullanması lazım",
+    "verb_full": "kullanması",
     "root": "kullan",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
     "personal_affix": "sı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He needs to use the public transportation system",
-  "russian_example_sentence": "Ему нужно использовать систему общественного транспорта",
-  "turkish_example_sentence": "O şehir otobüs ağını kullanması lazım",
-  "turkish_example_sentence_with_blank": "O şehir otobüs ağını ______"
+  "turkish_example_sentence": "O genç mühendis bu modern teknolojik cihazı akıllıca kullanması lazım.",
+  "english_example_sentence": "He/she needs to use this modern technological device wisely.",
+  "russian_example_sentence": "Он/она должен использовать это современное технологическое устройство мудро.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T13:55:52.070989+00:00",
+  "turkish_example_sentence_with_blank": "O genç mühendis bu modern teknolojik cihazı akıllıca ______ lazım."
 }

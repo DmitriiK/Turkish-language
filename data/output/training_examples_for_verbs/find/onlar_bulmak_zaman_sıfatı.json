@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "bulduklarında",
     "root": "bul",
-    "tense_affix": "duk",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "onlar",
-    "personal_affix": "larında",
+    "personal_affix": "ları",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When they find lost animals,",
-  "russian_example_sentence": "Когда они находят потерянных животных,",
-  "turkish_example_sentence": "Onlar kayıp hayvanları bulduklarında, sahiplerine veriyorlar.",
-  "turkish_example_sentence_with_blank": "Onlar kayıp hayvanları ______, sahiplerine veriyorlar."
+  "turkish_example_sentence": "Onlar antika dükkânda değerli porselen bulduklarında, müzayedede satmaya karar verdiler.",
+  "english_example_sentence": "When they found the valuable porcelain in the antique shop, they decided to sell it at an auction.",
+  "russian_example_sentence": "Когда они нашли ценный фарфор в антикварном магазине, они решили продать его на аукционе.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:37:40.911188+00:00",
+  "turkish_example_sentence_with_blank": "Onlar antika dükkânda değerli porselen ______, müzayedede satmaya karar verdiler."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sormasınlar",
     "root": "sor",
-    "tense_affix": "sun",
+    "tense_affix": "ma",
     "verb_tense": "emir_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "sınlar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "Don't let them ask the famous chef about secret recipes",
-  "russian_example_sentence": "Не позволяй им спрашивать знаменитого шефа о секретных рецептах",
-  "turkish_example_sentence": "Ünlü şeften gizli tarifler hakkında sormasınlar",
-  "turkish_example_sentence_with_blank": "Ünlü şeften gizli tarifler hakkında ______"
+  "turkish_example_sentence": "Onlar pazarlama müdüründen rakip şirket stratejilerini sormasınlar.",
+  "english_example_sentence": "Let them not ask the marketing manager about competitor company strategies.",
+  "russian_example_sentence": "Пусть они не спрашивают у менеджера по маркетингу о стратегиях конкурирующих компаний.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:46:44.841343+00:00",
+  "turkish_example_sentence_with_blank": "Onlar pazarlama müdüründen rakip şirket stratejilerini ______."
 }

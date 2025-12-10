@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sormasak",
     "root": "sor",
-    "tense_affix": "ma",
+    "tense_affix": "sa",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If we didn't ask difficult questions",
-  "russian_example_sentence": "Если бы мы не задали сложные вопросы",
-  "turkish_example_sentence": "Zor soruları hiç sormasak",
-  "turkish_example_sentence_with_blank": "Zor soruları hiç ______"
+  "turkish_example_sentence": "Biz mimardan bina tasarımını sormasak, yapı hataları olabilir.",
+  "english_example_sentence": "If we were not to ask the architect about the building design, there could be construction errors.",
+  "russian_example_sentence": "Если бы мы не спросили архитектора о дизайне здания, могли бы быть ошибки строительства.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:47:05.259598+00:00",
+  "turkish_example_sentence_with_blank": "Biz mimardan bina tasarımını ______, yapı hataları olabilir."
 }

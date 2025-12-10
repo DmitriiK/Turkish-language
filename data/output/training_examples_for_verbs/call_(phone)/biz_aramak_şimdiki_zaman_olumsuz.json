@@ -1,6 +1,6 @@
 {
   "verb_rank": 20,
-  "verb_english": "call (phone)",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
@@ -11,10 +11,12 @@
     "personal_pronoun": "biz",
     "personal_affix": "uz",
     "polarity": "negative",
-    "negative_affix": "mı"
+    "negative_affix": "m"
   },
-  "english_example_sentence": "We are not searching for unnecessary trouble.",
-  "russian_example_sentence": "Мы не ищем ненужных проблем.",
-  "turkish_example_sentence": "Biz gereksiz yere bela aramıyoruz.",
-  "turkish_example_sentence_with_blank": "Biz gereksiz yere bela ______."
+  "turkish_example_sentence": "Biz yeni iş ortağını bugün aramıyoruz.",
+  "english_example_sentence": "We are not calling the new business partner today.",
+  "russian_example_sentence": "Мы не звоним новому деловому партнеру сегодня.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:14:30.920100+00:00",
+  "turkish_example_sentence_with_blank": "Biz yeni iş ortağını bugün ______."
 }

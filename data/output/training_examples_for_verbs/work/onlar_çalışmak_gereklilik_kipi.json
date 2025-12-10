@@ -4,17 +4,19 @@
   "verb_russian": "работать",
   "verb_infinitive": "çalışmak",
   "turkish_verb": {
-    "verb_full": "çalışmaları lazım",
+    "verb_full": "çalışmaları",
     "root": "çalış",
-    "tense_affix": "ma",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ları",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They need to work in the kitchen today",
-  "russian_example_sentence": "Им нужно работать на кухне сегодня",
-  "turkish_example_sentence": "Onlar bugün restoranda hızlı çalışmaları lazım",
-  "turkish_example_sentence_with_blank": "Onlar bugün restoranda hızlı ______"
+  "turkish_example_sentence": "Onlar uzun araştırma projesi için çalışmaları lazım.",
+  "english_example_sentence": "They need to work for the long research project.",
+  "russian_example_sentence": "Им нужно работать над долгосрочным исследовательским проектом.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:51:16.573007+00:00",
+  "turkish_example_sentence_with_blank": "Onlar uzun araştırma projesi için ______ lazım."
 }

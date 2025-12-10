@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "bulamayacaksın",
     "root": "bul",
-    "tense_affix": "acak",
+    "tense_affix": "acağ",
     "verb_tense": "yaracağım",
     "personal_pronoun": "sen",
     "personal_affix": "sın",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You will not find the old book in the library",
-  "russian_example_sentence": "Ты не найдёшь старую книгу в библиотеке",
-  "turkish_example_sentence": "Sen kütüphanede eski kitabı bulamayacaksın",
-  "turkish_example_sentence_with_blank": "Sen kütüphanede eski kitabı ______"
+  "turkish_example_sentence": "Sen bu zor matematik probleminin doğru cevabını bulamayacaksın.",
+  "english_example_sentence": "You will not find the correct answer to this difficult math problem.",
+  "russian_example_sentence": "Ты не найдешь правильный ответ на эту сложную математическую задачу.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:32:50.390583+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu zor matematik probleminin doğru cevabını ______."
 }

@@ -4,17 +4,19 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "isteyelim",
+    "verb_full": "istelim",
     "root": "iste",
-    "tense_affix": "yel",
+    "tense_affix": "ye",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "im",
+    "personal_affix": "lim",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Let us want peace",
-  "russian_example_sentence": "Пусть мы захотим мира",
-  "turkish_example_sentence": "Biz barış isteyelim",
-  "turkish_example_sentence_with_blank": "Biz barış ______"
+  "turkish_example_sentence": "Biz bu hafta sonu güzel park ta piknik yapmak istelim.",
+  "english_example_sentence": "Let us want to have a picnic in this beautiful park this weekend.",
+  "russian_example_sentence": "Давайте захотим устроить пикник в этом красивом парке на выходных.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:50:04.940687+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu hafta sonu güzel park ta piknik yapmak ______."
 }

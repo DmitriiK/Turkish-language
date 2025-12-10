@@ -4,17 +4,19 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulmamışsan",
+    "verb_full": "bulamamışsan",
     "root": "bul",
-    "tense_affix": "mamışsa",
+    "tense_affix": "muş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If you hadn't found my glasses",
-  "russian_example_sentence": "Если бы ты не нашел мои очки",
-  "turkish_example_sentence": "Sen benim güneş gözlüğümü bulmamışsan, yenisini almam gerekecek.",
-  "turkish_example_sentence_with_blank": "Sen benim güneş gözlüğümü ______, yenisini almam gerekecek."
+  "turkish_example_sentence": "Sen pazarda taze meyveyi bulamamışsan, sağlıklı yemek yiyemezdin.",
+  "english_example_sentence": "If you had not found the fresh fruit at the market, you could not have eaten healthy food.",
+  "russian_example_sentence": "Если бы ты не нашел свежие фрукты на рынке, ты не смог бы есть здоровую пищу.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:36:55.470944+00:00",
+  "turkish_example_sentence_with_blank": "Sen pazarda taze meyveyi ______, sağlıklı yemek yiyemezdin."
 }

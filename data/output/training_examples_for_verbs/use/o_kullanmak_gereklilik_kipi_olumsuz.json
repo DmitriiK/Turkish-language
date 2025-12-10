@@ -4,17 +4,19 @@
   "verb_russian": "использовать",
   "verb_infinitive": "kullanmak",
   "turkish_verb": {
-    "verb_full": "kullanmaması lazım",
+    "verb_full": "kullanmaması",
     "root": "kullan",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
     "personal_affix": "sı",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "She should not use too much salt",
-  "russian_example_sentence": "Она не должна использовать слишком много соли",
-  "turkish_example_sentence": "O yemekte fazla tuz kullanmaması lazım",
-  "turkish_example_sentence_with_blank": "O yemekte fazla tuz ______"
+  "turkish_example_sentence": "O çocuk bu keskin metal bıçağı oyun sırasında kullanmaması gerek.",
+  "english_example_sentence": "He/she needs to not use this sharp metal knife during play.",
+  "russian_example_sentence": "Он/она должен не использовать этот острый металлический нож во время игры.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T13:55:52.070989+00:00",
+  "turkish_example_sentence_with_blank": "O çocuk bu keskin metal bıçağı oyun sırasında ______ gerek."
 }

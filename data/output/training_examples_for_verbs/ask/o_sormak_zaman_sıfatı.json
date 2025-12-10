@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sorduğunda",
     "root": "sor",
-    "tense_affix": "duk",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "o",
     "personal_affix": "u",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When he asks, I always answer",
-  "russian_example_sentence": "Когда он спрашивает, я всегда отвечаю",
-  "turkish_example_sentence": "O meraklı sorular sorduğunda, herkes dikkatle dinler.",
-  "turkish_example_sentence_with_blank": "O meraklı sorular ______, herkes dikkatle dinler."
+  "turkish_example_sentence": "O müdürden yeni proje hakkında detaylı bilgi sorduğunda, uzun bir toplantı başladı.",
+  "english_example_sentence": "When he asked the manager detailed information about the new project, a long meeting started.",
+  "russian_example_sentence": "Когда он спросил у менеджера подробную информацию о новом проекте, началось долгое совещание.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:49:03.430239+00:00",
+  "turkish_example_sentence_with_blank": "O müdürden yeni proje hakkında detaylı bilgi ______, uzun bir toplantı başladı."
 }

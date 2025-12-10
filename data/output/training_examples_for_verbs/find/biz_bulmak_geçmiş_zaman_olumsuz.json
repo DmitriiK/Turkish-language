@@ -4,7 +4,7 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulmadık",
+    "verb_full": "bulamadık",
     "root": "bul",
     "tense_affix": "du",
     "verb_tense": "geçmiş_zaman",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "We did not find the mysterious black box",
-  "russian_example_sentence": "Мы не нашли таинственный черный ящик",
-  "turkish_example_sentence": "Biz gizemli siyah kutuyu bulmadık",
-  "turkish_example_sentence_with_blank": "Biz gizemli siyah kutuyu ______"
+  "turkish_example_sentence": "Biz restoran'da iyi ucuz masayı bulamadık.",
+  "english_example_sentence": "We did not find a good cheap table at the restaurant.",
+  "russian_example_sentence": "Мы не нашли хороший дешевый стол в ресторане.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:36:13.463647+00:00",
+  "turkish_example_sentence_with_blank": "Biz restoran'da iyi ucuz masayı ______."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "bulduğunuzda",
     "root": "bul",
-    "tense_affix": "duğ",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "siz",
-    "personal_affix": "unuzda",
+    "personal_affix": "uz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When you find interesting books,",
-  "russian_example_sentence": "Когда вы находите интересные книги,",
-  "turkish_example_sentence": "İlginç kitaplar bulduğunuzda, hemen okuyorsunuz.",
-  "turkish_example_sentence_with_blank": "İlginç kitaplar ______, hemen okuyorsunuz."
+  "turkish_example_sentence": "Siz pazarda taze meyveyi bulduğunuzda, pazarcıya iyi fiyat sormuşsunuz.",
+  "english_example_sentence": "When you found the fresh fruit at the market, you asked the vendor for a good price.",
+  "russian_example_sentence": "Когда вы нашли свежий фрукт на рынке, вы попросили у продавца хорошую цену.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:37:40.911188+00:00",
+  "turkish_example_sentence_with_blank": "Siz pazarda taze meyveyi ______, pazarcıya iyi fiyat sormuşsunuz."
 }

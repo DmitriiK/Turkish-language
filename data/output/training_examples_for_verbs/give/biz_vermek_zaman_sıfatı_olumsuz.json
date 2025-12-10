@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "When we do not give precise answers,",
-  "russian_example_sentence": "Когда мы не даем точных ответов,",
-  "turkish_example_sentence": "Biz kesin cevaplar vermediğimizde, öğrenciler kafası karışıyor.",
-  "turkish_example_sentence_with_blank": "Biz kesin cevaplar ______, öğrenciler kafası karışıyor."
+  "turkish_example_sentence": "Biz doğru yönergeyi işçilere vermediğimizde, hata yapıldı.",
+  "english_example_sentence": "When we did not give the correct instructions to the workers, an error was made.",
+  "russian_example_sentence": "Когда мы не дали правильные инструкции рабочим, была допущена ошибка.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T13:53:11.839552+00:00",
+  "turkish_example_sentence_with_blank": "Biz doğru yönergeyi işçilere ______, hata yapıldı."
 }

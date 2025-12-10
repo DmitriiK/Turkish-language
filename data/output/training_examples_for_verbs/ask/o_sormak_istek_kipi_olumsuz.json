@@ -4,7 +4,7 @@
   "verb_russian": "спрашивать",
   "verb_infinitive": "sormak",
   "turkish_verb": {
-    "verb_full": "sormaya",
+    "verb_full": "sormasın",
     "root": "sor",
     "tense_affix": "a",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "Let her not ask unnecessary questions",
-  "russian_example_sentence": "Пусть она не спрашивает ничего лишнего",
-  "turkish_example_sentence": "O gereksiz şeyleri sormaya",
-  "turkish_example_sentence_with_blank": "O gereksiz şeyleri ______"
+  "turkish_example_sentence": "O yabancı turist rehbere yanlış yolu sormasın.",
+  "english_example_sentence": "May he not ask the foreign tourist guide about the wrong way.",
+  "russian_example_sentence": "Пусть он не спросит иностранного туристического гида о неправильном пути.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:46:30.952377+00:00",
+  "turkish_example_sentence_with_blank": "O yabancı turist rehbere yanlış yolu ______."
 }

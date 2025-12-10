@@ -4,7 +4,7 @@
   "verb_russian": "использовать",
   "verb_infinitive": "kullanmak",
   "turkish_verb": {
-    "verb_full": "kullanasınız",
+    "verb_full": "kullansınız",
     "root": "kullan",
     "tense_affix": "a",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "May you use useful techniques.",
-  "russian_example_sentence": "Пусть вы используете полезные техники.",
-  "turkish_example_sentence": "Faydalı teknikleri kullanasınız.",
-  "turkish_example_sentence_with_blank": "Faydalı teknikleri ______."
+  "turkish_example_sentence": "Siz bu değerli kaynağı akıllıca kullansınız.",
+  "english_example_sentence": "May you use this valuable resource wisely.",
+  "russian_example_sentence": "Пусть вы используете этот ценный ресурс разумно.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T14:15:43.722376+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu değerli kaynağı akıllıca ______."
 }

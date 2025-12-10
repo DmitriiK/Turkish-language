@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "kullanırsak",
     "root": "kullan",
-    "tense_affix": "ırsak",
+    "tense_affix": "ar",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we use organic fertilizer, the plants will grow faster.",
-  "russian_example_sentence": "Если мы используем органическое удобрение, растения будут расти быстрее.",
-  "turkish_example_sentence": "Organik gübre kullanırsak, bitkiler daha hızlı büyür.",
-  "turkish_example_sentence_with_blank": "Organik gübre ______, bitkiler daha hızlı büyür."
+  "turkish_example_sentence": "Biz bu modern ekipmanı kullanırsak, üretim hızı artacak.",
+  "english_example_sentence": "If we use this modern equipment, production speed will increase.",
+  "russian_example_sentence": "Если мы будем использовать это современное оборудование, скорость производства увеличится.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:29:26.273192+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu modern ekipmanı ______, üretim hızı artacak."
 }

@@ -4,17 +4,19 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatması lazım",
+    "verb_full": "anlatması",
     "root": "anlat",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
     "personal_affix": "sı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He needs to tell the exciting adventure story",
-  "russian_example_sentence": "Он должен рассказать захватывающую историю приключений",
-  "turkish_example_sentence": "O heyecan verici macera hikayesini anlatması lazım",
-  "turkish_example_sentence_with_blank": "O heyecan verici macera hikayesini ______"
+  "turkish_example_sentence": "O eski profesör öğrencilere ilginç arkeoloji keşiflerini anlatması lazım.",
+  "english_example_sentence": "That old professor needs to tell the students about interesting archaeological discoveries.",
+  "russian_example_sentence": "Тот старый профессор должен рассказать студентам об интересных археологических открытиях.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:40:14.516997+00:00",
+  "turkish_example_sentence_with_blank": "O eski profesör öğrencilere ilginç arkeoloji keşiflerini ______ lazım."
 }

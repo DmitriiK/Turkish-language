@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "çalışmayan",
     "root": "çalış",
-    "tense_affix": "yan",
+    "tense_affix": "an",
     "verb_tense": "sıfat_fiil",
     "personal_pronoun": null,
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "The student not working this summer",
-  "russian_example_sentence": "Студент, не работающий этим летом",
-  "turkish_example_sentence": "Bu yaz çalışmayan öğrenci",
-  "turkish_example_sentence_with_blank": "Bu yaz ______ öğrenci"
+  "turkish_example_sentence": "Yazın tatilde çalışmayan genç öğrenciler plajda eğleniyorlar.",
+  "english_example_sentence": "The young students who don't work during summer vacation are having fun at the beach.",
+  "russian_example_sentence": "Молодые студенты, которые не работают летом на каникулах, развлекаются на пляже.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:52:59.694450+00:00",
+  "turkish_example_sentence_with_blank": "Yazın tatilde ______ genç öğrenciler plajda eğleniyorlar."
 }

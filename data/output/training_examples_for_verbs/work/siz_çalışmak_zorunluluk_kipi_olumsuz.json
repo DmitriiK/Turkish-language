@@ -11,10 +11,12 @@
     "personal_pronoun": "siz",
     "personal_affix": "sınız",
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "mama"
   },
-  "english_example_sentence": "You must not work beyond your contracted hours",
-  "russian_example_sentence": "Вы не должны работать сверх ваших договорных часов",
-  "turkish_example_sentence": "Siz sözleşmeli saatlerinizin ötesinde çalışmamalısınız",
-  "turkish_example_sentence_with_blank": "Siz sözleşmeli saatlerinizin ötesinde ______"
+  "turkish_example_sentence": "Siz hasta olduğunuzda tehlikeli fabrika ortamında çalışmamalısınız.",
+  "english_example_sentence": "You must not work in a dangerous factory environment when you are sick.",
+  "russian_example_sentence": "Вы не должны работать в опасной фабричной среде, когда вы больны.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:51:57.650989+00:00",
+  "turkish_example_sentence_with_blank": "Siz hasta olduğunuzda tehlikeli fabrika ortamında ______."
 }

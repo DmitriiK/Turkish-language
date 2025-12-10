@@ -4,17 +4,19 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemeniz lazım",
+    "verb_full": "istemeniz",
     "root": "iste",
-    "tense_affix": "lazım",
+    "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "niz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You all need to want that successful business opportunity",
-  "russian_example_sentence": "Вы должны хотеть эту успешную деловую возможность",
-  "turkish_example_sentence": "Siz bu başarılı iş fırsatını istemeniz lazım",
-  "turkish_example_sentence_with_blank": "Siz bu başarılı iş fırsatını ______"
+  "turkish_example_sentence": "Siz mavi bir elbise istemeniz lazım.",
+  "english_example_sentence": "You (formal/plural) need to want a blue dress.",
+  "russian_example_sentence": "Вам нужно хотеть синее платье.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:48:51.452213+00:00",
+  "turkish_example_sentence_with_blank": "Siz mavi bir elbise ______ lazım."
 }

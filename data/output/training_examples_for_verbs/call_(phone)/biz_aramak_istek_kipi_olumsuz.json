@@ -4,7 +4,7 @@
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "aramayalım",
+    "verb_full": "aramalım",
     "root": "ara",
     "tense_affix": "ya",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "Let's not call the annoying telemarketer",
-  "russian_example_sentence": "Давайте не будем звонить надоедливому телемаркетологу",
-  "turkish_example_sentence": "Biz o sinir bozucu tele pazarlamacıyı aramayalım",
-  "turkish_example_sentence_with_blank": "Biz o sinir bozucu tele pazarlamacıyı ______"
+  "turkish_example_sentence": "Biz kötü hava koşullarında tehlikeli dağ rehberisini aramalım mı?",
+  "english_example_sentence": "Should we not call the dangerous mountain guide in bad weather conditions?",
+  "russian_example_sentence": "Не должны ли мы звонить опасному горному гиду в плохих погодных условиях?",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:16:24.775875+00:00",
+  "turkish_example_sentence_with_blank": "Biz kötü hava koşullarında tehlikeli dağ rehberisini ______ mı?"
 }

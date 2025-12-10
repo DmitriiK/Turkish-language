@@ -1,6 +1,6 @@
 {
   "verb_rank": 20,
-  "verb_english": "call (phone)",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I did not call the new doctor yet.",
-  "russian_example_sentence": "Я еще не звонил новому врачу.",
-  "turkish_example_sentence": "Ben henüz yeni doktoru aramadım.",
-  "turkish_example_sentence_with_blank": "Ben henüz yeni doktoru ______."
+  "turkish_example_sentence": "Ben sabah erken saatte doktor muayenehanesini aramadım.",
+  "english_example_sentence": "I did not call the doctor's clinic early in the morning.",
+  "russian_example_sentence": "Я не позвонил в кабинет врача рано утром.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:14:51.844132+00:00",
+  "turkish_example_sentence_with_blank": "Ben sabah erken saatte doktor muayenehanesini ______."
 }

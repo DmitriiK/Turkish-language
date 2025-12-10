@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "istemezler",
     "root": "iste",
-    "tense_affix": "r",
+    "tense_affix": "mez",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "They do not want early morning boring lectures",
-  "russian_example_sentence": "Они не хотят ранние утренние скучные лекции",
-  "turkish_example_sentence": "Onlar erken sabah sıkıcı dersleri istemezler",
-  "turkish_example_sentence_with_blank": "Onlar erken sabah sıkıcı dersleri ______"
+  "turkish_example_sentence": "Onlar uzun ağır işi istemezler.",
+  "english_example_sentence": "They don't want the long heavy work.",
+  "russian_example_sentence": "Они не хотят долгую тяжёлую работу.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:15:23.808062+00:00",
+  "turkish_example_sentence_with_blank": "Onlar uzun ağır işi ______."
 }

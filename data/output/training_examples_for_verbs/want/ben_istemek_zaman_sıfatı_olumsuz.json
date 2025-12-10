@@ -4,17 +4,19 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemediğimde",
+    "verb_full": "istememdiğimde",
     "root": "iste",
     "tense_affix": "diğ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "ben",
-    "personal_affix": "im",
+    "personal_affix": "imde",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "When I don't want coffee, I drink tea.",
-  "russian_example_sentence": "Когда я не хочу кофе, я пью чай.",
-  "turkish_example_sentence": "Ben kahve istemediğimde, çay içerim.",
-  "turkish_example_sentence_with_blank": "Ben kahve ______, çay içerim."
+  "turkish_example_sentence": "Ben ek iş istememdiğimde, patronum beni rahat bıraktı.",
+  "english_example_sentence": "When I didn't want extra work, my boss left me alone.",
+  "russian_example_sentence": "Когда я не хотел дополнительную работу, мой начальник оставил меня в покое.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T13:34:15.066001+00:00",
+  "turkish_example_sentence_with_blank": "Ben ek iş ______, patronum beni rahat bıraktı."
 }

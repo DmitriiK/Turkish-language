@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "kullanırsa",
     "root": "kullan",
-    "tense_affix": "ırsa",
+    "tense_affix": "ar",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If he uses that pen, he will write neatly.",
-  "russian_example_sentence": "Если он использует эту ручку, он будет писать аккуратно.",
-  "turkish_example_sentence": "O kalemi kullanırsa, düzgün yazar.",
-  "turkish_example_sentence_with_blank": "O kalemi ______, düzgün yazar."
+  "turkish_example_sentence": "O bu etkili yöntemi kullanırsa, sonuçlar çok iyi olacak.",
+  "english_example_sentence": "If he uses this effective method, the results will be very good.",
+  "russian_example_sentence": "Если он будет использовать этот эффективный метод, результаты будут очень хорошими.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:29:26.273192+00:00",
+  "turkish_example_sentence_with_blank": "O bu etkili yöntemi ______, sonuçlar çok iyi olacak."
 }

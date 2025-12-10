@@ -4,17 +4,19 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatmanız lazım",
+    "verb_full": "anlatmanız",
     "root": "anlat",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to tell the interesting cultural traditions",
-  "russian_example_sentence": "Вы должны рассказать интересные культурные традиции",
-  "turkish_example_sentence": "Siz ilginç kültürel gelenekleri anlatmanız lazım",
-  "turkish_example_sentence_with_blank": "Siz ilginç kültürel gelenekleri ______"
+  "turkish_example_sentence": "Siz müdüre yeni proje hakkında detaylı bilgileri anlatmanız lazım.",
+  "english_example_sentence": "You need to tell the manager detailed information about the new project.",
+  "russian_example_sentence": "Вы должны рассказать менеджеру подробную информацию о новом проекте.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:40:14.516997+00:00",
+  "turkish_example_sentence_with_blank": "Siz müdüre yeni proje hakkında detaylı bilgileri ______ lazım."
 }

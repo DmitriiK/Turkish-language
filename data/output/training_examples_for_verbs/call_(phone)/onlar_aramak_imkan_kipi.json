@@ -1,6 +1,6 @@
 {
   "verb_rank": 20,
-  "verb_english": "call (phone)",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They can call their relatives from the public phone.",
-  "russian_example_sentence": "Они могут позвонить своим родственникам с общественного телефона.",
-  "turkish_example_sentence": "Onlar akrabalarını ankesörlü telefondan arayabilirler.",
-  "turkish_example_sentence_with_blank": "Onlar akrabalarını ankesörlü telefondan ______."
+  "turkish_example_sentence": "Onlar öğleden sonra kütüphaneden kıdemli öğretmeni arayabilirler.",
+  "english_example_sentence": "They can call the senior teacher from the library in the afternoon.",
+  "russian_example_sentence": "Они могут звонить старшему учителю из библиотеки днем.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:17:39.720677+00:00",
+  "turkish_example_sentence_with_blank": "Onlar öğleden sonra kütüphaneden kıdemli öğretmeni ______."
 }

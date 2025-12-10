@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "anlatmayacaktım",
     "root": "anlat",
-    "tense_affix": "acak",
+    "tense_affix": "acaktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "tım",
+    "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I was not going to tell anyone.",
-  "russian_example_sentence": "Я никому не собирался рассказывать.",
-  "turkish_example_sentence": "Ben kimseye hiçbir şey anlatmayacaktım.",
-  "turkish_example_sentence_with_blank": "Ben kimseye hiçbir şey ______."
+  "turkish_example_sentence": "Ben o gizli bilgiyi kimseye anlatmayacaktım.",
+  "english_example_sentence": "I was not going to tell that secret information to anyone.",
+  "russian_example_sentence": "Я не собирался рассказывать эту секретную информацию никому.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:42:23.402294+00:00",
+  "turkish_example_sentence_with_blank": "Ben o gizli bilgiyi kimseye ______."
 }

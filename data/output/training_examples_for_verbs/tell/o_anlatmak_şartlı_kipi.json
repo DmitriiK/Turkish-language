@@ -4,17 +4,19 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatırsa",
+    "verb_full": "anlatirsa",
     "root": "anlat",
-    "tense_affix": "arsa",
+    "tense_affix": "ırsa",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If he tells the small secret",
-  "russian_example_sentence": "Если он расскажет маленький секрет",
-  "turkish_example_sentence": "Eğer küçük sırrı anlatırsa",
-  "turkish_example_sentence_with_blank": "Eğer küçük sırrı ______"
+  "turkish_example_sentence": "O ilginç bir deneyim anlatirsa, dinleyiciler büyülenecek.",
+  "english_example_sentence": "If he tells an interesting experience, the listeners will be fascinated.",
+  "russian_example_sentence": "Если он расскажет интересный опыт, слушатели будут очарованы.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:41:50.428993+00:00",
+  "turkish_example_sentence_with_blank": "O ilginç bir deneyim ______, dinleyiciler büyülenecek."
 }

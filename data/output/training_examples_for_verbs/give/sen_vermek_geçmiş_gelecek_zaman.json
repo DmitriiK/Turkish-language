@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "verecektin",
     "root": "ver",
-    "tense_affix": "ecek",
+    "tense_affix": "ecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "tin",
+    "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You were going to give help",
-  "russian_example_sentence": "Ты собирался оказать помощь",
-  "turkish_example_sentence": "Sen arkadaşına zor zamanında destek verecektin.",
-  "turkish_example_sentence_with_blank": "Sen arkadaşına zor zamanında destek ______."
+  "turkish_example_sentence": "Sen önemli sınav sonuçlarını öğretmene verecektin.",
+  "english_example_sentence": "You were going to give the important exam results to the teacher.",
+  "russian_example_sentence": "Ты собирался дать важные результаты экзамена учителю.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:57:11.033125+00:00",
+  "turkish_example_sentence_with_blank": "Sen önemli sınav sonuçlarını öğretmene ______."
 }

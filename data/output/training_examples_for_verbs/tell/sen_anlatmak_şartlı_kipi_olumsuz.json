@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "anlatmazsan",
     "root": "anlat",
-    "tense_affix": "mazsa",
+    "tense_affix": "maz",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If you don't tell the funny joke",
-  "russian_example_sentence": "Если ты не расскажешь смешную шутку",
-  "turkish_example_sentence": "Eğer komik espriyi anlatmazsan",
-  "turkish_example_sentence_with_blank": "Eğer komik espriyi ______"
+  "turkish_example_sentence": "Sen bize yalan anlatmazsan, dostluğumuz devam eder.",
+  "english_example_sentence": "If you don't tell us a lie, our friendship will continue.",
+  "russian_example_sentence": "Если ты нам не соврешь, наша дружба продолжится.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:41:50.428993+00:00",
+  "turkish_example_sentence_with_blank": "Sen bize yalan ______, dostluğumuz devam eder."
 }

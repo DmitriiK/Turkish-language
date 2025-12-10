@@ -4,17 +4,19 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemediğinde",
+    "verb_full": "istememdiğinde",
     "root": "iste",
     "tense_affix": "diğ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "sen",
-    "personal_affix": "in",
+    "personal_affix": "inde",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "When you don't want attention, stay quiet.",
-  "russian_example_sentence": "Когда ты не хочешь внимания, молчи.",
-  "turkish_example_sentence": "Sen dikkat istemediğinde, sessiz kal.",
-  "turkish_example_sentence_with_blank": "Sen dikkat ______, sessiz kal."
+  "turkish_example_sentence": "Sen uzun konuşma istememdiğinde, toplantı çabuk biter.",
+  "english_example_sentence": "When you don't want long conversations, the meeting ends quickly.",
+  "russian_example_sentence": "Когда ты не хочешь долгих разговоров, встреча заканчивается быстро.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T13:34:15.066001+00:00",
+  "turkish_example_sentence_with_blank": "Sen uzun konuşma ______, toplantı çabuk biter."
 }

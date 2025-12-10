@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "bulduğunda",
     "root": "bul",
-    "tense_affix": "duğ",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "o",
-    "personal_affix": "unda",
+    "personal_affix": "ı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When he finds new opportunities,",
-  "russian_example_sentence": "Когда он находит новые возможности,",
-  "turkish_example_sentence": "O yeni fırsatlar bulduğunda, çok mutlu oluyor.",
-  "turkish_example_sentence_with_blank": "O yeni fırsatlar ______, çok mutlu oluyor."
+  "turkish_example_sentence": "O bahçede nadir çiçek bulduğunda, botanikçiye göstermek istedi.",
+  "english_example_sentence": "When he found the rare flower in the garden, he wanted to show it to the botanist.",
+  "russian_example_sentence": "Когда он нашел редкий цветок в саду, он захотел показать его ботанику.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:37:40.911188+00:00",
+  "turkish_example_sentence_with_blank": "O bahçede nadir çiçek ______, botanikçiye göstermek istedi."
 }

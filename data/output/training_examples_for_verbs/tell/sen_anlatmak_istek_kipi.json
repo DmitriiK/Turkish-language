@@ -4,7 +4,7 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatasın",
+    "verb_full": "anlatası",
     "root": "anlat",
     "tense_affix": "a",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "May you tell the truth",
-  "russian_example_sentence": "Пусть ты расскажешь правду",
-  "turkish_example_sentence": "Sen doğruyu anlatasın",
-  "turkish_example_sentence_with_blank": "Sen doğruyu ______"
+  "turkish_example_sentence": "Sen bana yeni projeni anlatası mı?",
+  "english_example_sentence": "Will you tell me about your new project?",
+  "russian_example_sentence": "Расскажешь ли ты мне о своем новом проекте?",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:41:10.722045+00:00",
+  "turkish_example_sentence_with_blank": "Sen bana yeni projeni ______ mı?"
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "veremezsin",
     "root": "ver",
-    "tense_affix": "eme",
+    "tense_affix": "ebil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "zsin",
+    "personal_affix": "irsin",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "You cannot give him the secret information",
-  "russian_example_sentence": "Ты не можешь дать ему секретную информацию",
-  "turkish_example_sentence": "Sen ona gizli bilgiyi veremezsin",
-  "turkish_example_sentence_with_blank": "Sen ona gizli bilgiyi ______"
+  "turkish_example_sentence": "Sen bu pahalı antika tabağı veremezsin.",
+  "english_example_sentence": "You cannot give this expensive antique plate.",
+  "russian_example_sentence": "Ты не можешь дать эту дорогую антикварную тарелку.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:55:09.277653+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu pahalı antika tabağı ______."
 }

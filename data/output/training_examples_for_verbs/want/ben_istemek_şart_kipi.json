@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I want to go, I will",
-  "russian_example_sentence": "Если я захочу, я пойду",
-  "turkish_example_sentence": "Gitmek istesem, giderim",
-  "turkish_example_sentence_with_blank": "Gitmek ______, giderim"
+  "turkish_example_sentence": "Ben yeni bir araba istesem, ailem bana yardım eder.",
+  "english_example_sentence": "If I were to want a new car, my family would help me.",
+  "russian_example_sentence": "Если бы я захотел новую машину, моя семья мне помогла бы.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:50:23.824484+00:00",
+  "turkish_example_sentence_with_blank": "Ben yeni bir araba ______, ailem bana yardım eder."
 }

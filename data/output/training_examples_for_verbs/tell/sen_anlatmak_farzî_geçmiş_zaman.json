@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "anlatmışsan",
     "root": "anlat",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you had told that funny joke...",
-  "russian_example_sentence": "Если бы ты рассказал эту смешную шутку...",
-  "turkish_example_sentence": "Sen o komik fıkrayı anlatmışsan, herkes gülmüştür.",
-  "turkish_example_sentence_with_blank": "Sen o komik fıkrayı ______, herkes gülmüştür."
+  "turkish_example_sentence": "Eğer sen bu komik anekdotu arkadaşlarına anlatmışsan, hepsi gülmüş olurdu.",
+  "english_example_sentence": "If you had told this funny anecdote to your friends, they would have all laughed.",
+  "russian_example_sentence": "Если бы ты рассказал этот смешной анекдот своим друзьям, они бы все смеялись.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:42:43.841974+00:00",
+  "turkish_example_sentence_with_blank": "Eğer sen bu komik anekdotu arkadaşlarına ______, hepsi gülmüş olurdu."
 }

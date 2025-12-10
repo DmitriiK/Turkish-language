@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "vermeyecektim",
     "root": "ver",
-    "tense_affix": "eyecek",
+    "tense_affix": "ecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "tim",
+    "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "I wasn't going to give money",
-  "russian_example_sentence": "Я не собирался давать деньги",
-  "turkish_example_sentence": "Ben bankaya bu ayki kira parasını vermeyecektim.",
-  "turkish_example_sentence_with_blank": "Ben bankaya bu ayki kira parasını ______."
+  "turkish_example_sentence": "Ben hiçbir zaman gizli bilgiyi düşmana vermeyecektim.",
+  "english_example_sentence": "I was not going to give any secret information to the enemy.",
+  "russian_example_sentence": "Я не собирался давать никакую секретную информацию врагу.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:57:11.033125+00:00",
+  "turkish_example_sentence_with_blank": "Ben hiçbir zaman gizli bilgiyi düşmana ______."
 }

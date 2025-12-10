@@ -4,7 +4,7 @@
   "verb_russian": "спрашивать",
   "verb_infinitive": "sormak",
   "turkish_verb": {
-    "verb_full": "sormayacaktım",
+    "verb_full": "sormaacaktım",
     "root": "sor",
     "tense_affix": "acaktı",
     "verb_tense": "geçmiş_gelecek_zaman",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I wasn't going to ask her",
-  "russian_example_sentence": "Я не собирался спрашивать её",
-  "turkish_example_sentence": "Ben ona bir şey sormayacaktım",
-  "turkish_example_sentence_with_blank": "Ben ona bir şey ______"
+  "turkish_example_sentence": "Ben hiçbir şey sormaacaktım ama cesaret bulamadım.",
+  "english_example_sentence": "I was not going to ask anything but I could not find courage.",
+  "russian_example_sentence": "Я не собирался ничего спрашивать, но я не нашел смелости.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:48:04.243239+00:00",
+  "turkish_example_sentence_with_blank": "Ben hiçbir şey ______ ama cesaret bulamadım."
 }

@@ -4,17 +4,19 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulmuyor",
+    "verb_full": "bulamıyorlar",
     "root": "bul",
     "tense_affix": "uyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
-    "negative_affix": "m"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "They are not finding the fresh organic vegetables at the market",
-  "russian_example_sentence": "Они не находят свежие органические овощи на рынке",
-  "turkish_example_sentence": "Onlar pazarda taze organik sebzeleri bulmuyor",
-  "turkish_example_sentence_with_blank": "Onlar pazarda taze organik sebzeleri ______"
+  "turkish_example_sentence": "Onlar evde gizli değerli mücevheri bulamıyorlar.",
+  "english_example_sentence": "They are not finding the hidden valuable jewelry at home.",
+  "russian_example_sentence": "Они не находят спрятанное ценное украшение дома.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:31:07.552027+00:00",
+  "turkish_example_sentence_with_blank": "Onlar evde gizli değerli mücevheri ______."
 }

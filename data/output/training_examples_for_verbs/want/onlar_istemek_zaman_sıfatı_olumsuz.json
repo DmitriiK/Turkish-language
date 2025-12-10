@@ -4,17 +4,19 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemediklerinde",
+    "verb_full": "istememdiğinde",
     "root": "iste",
     "tense_affix": "diğ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "onlar",
-    "personal_affix": "leri",
+    "personal_affix": "inde",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "When they don't want problems, they listen carefully.",
-  "russian_example_sentence": "Когда они не хотят проблем, они внимательно слушают.",
-  "turkish_example_sentence": "Onlar sorun istemediklerinde, dikkatlice dinlerler.",
-  "turkish_example_sentence_with_blank": "Onlar sorun ______, dikkatlice dinlerler."
+  "turkish_example_sentence": "Onlar ağır spor antrenmanı istememdiğinde, hafif yoga yapıyorlar.",
+  "english_example_sentence": "When they don't want intense sports training, they do light yoga.",
+  "russian_example_sentence": "Когда они не хотят интенсивную спортивную тренировку, они занимаются лёгкой йогой.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T13:34:15.066001+00:00",
+  "turkish_example_sentence_with_blank": "Onlar ağır spor antrenmanı ______, hafif yoga yapıyorlar."
 }

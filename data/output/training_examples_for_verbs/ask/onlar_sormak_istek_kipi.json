@@ -4,7 +4,7 @@
   "verb_russian": "спрашивать",
   "verb_infinitive": "sormak",
   "turkish_verb": {
-    "verb_full": "soralar",
+    "verb_full": "sorasınlar",
     "root": "sor",
     "tense_affix": "a",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "May they ask about the project quickly",
-  "russian_example_sentence": "Пусть они быстро спрашивают о проекте",
-  "turkish_example_sentence": "Onlar projeyi hızlıca soralar",
-  "turkish_example_sentence_with_blank": "Onlar projeyi hızlıca ______"
+  "turkish_example_sentence": "Onlar üniversite rektöründen burs programı hakkında sorasınlar.",
+  "english_example_sentence": "May they ask the university rector about the scholarship program.",
+  "russian_example_sentence": "Пусть они спросят ректора университета о программе стипендий.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:46:30.952377+00:00",
+  "turkish_example_sentence_with_blank": "Onlar üniversite rektöründen burs programı hakkında ______."
 }

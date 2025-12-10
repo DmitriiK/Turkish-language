@@ -1,11 +1,11 @@
 {
   "verb_rank": 20,
-  "verb_english": "call (phone)",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
     "verb_full": "arıyoruz",
-    "root": "ar",
+    "root": "ara",
     "tense_affix": "ıyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "biz",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We are looking for a new, bigger apartment.",
-  "russian_example_sentence": "Мы ищем новую, большую квартиру.",
-  "turkish_example_sentence": "Biz yeni ve daha büyük bir daire arıyoruz.",
-  "turkish_example_sentence_with_blank": "Biz yeni ve daha büyük bir daire ______."
+  "turkish_example_sentence": "Biz güvenilir elektrikçi sabah erken arıyoruz.",
+  "english_example_sentence": "We are calling the reliable electrician early in the morning.",
+  "russian_example_sentence": "Мы звоним надежному электрику рано утром.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:14:30.920100+00:00",
+  "turkish_example_sentence_with_blank": "Biz güvenilir elektrikçi sabah erken ______."
 }

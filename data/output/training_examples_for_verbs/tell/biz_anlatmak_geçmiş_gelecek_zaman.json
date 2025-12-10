@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "anlatacaktık",
     "root": "anlat",
-    "tense_affix": "acak",
+    "tense_affix": "acaktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "tık",
+    "personal_affix": "k",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We were going to tell our parents.",
-  "russian_example_sentence": "Мы собирались рассказать родителям.",
-  "turkish_example_sentence": "Biz ebeveynlerimize bu haberi anlatacaktık.",
-  "turkish_example_sentence_with_blank": "Biz ebeveynlerimize bu haberi ______."
+  "turkish_example_sentence": "Biz konferansta yeni araştırma sonuçlarını anlatacaktık.",
+  "english_example_sentence": "We were going to tell the new research results at the conference.",
+  "russian_example_sentence": "Мы собирались рассказать новые результаты исследований на конференции.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:42:23.402294+00:00",
+  "turkish_example_sentence_with_blank": "Biz konferansta yeni araştırma sonuçlarını ______."
 }

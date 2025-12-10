@@ -11,10 +11,12 @@
     "personal_pronoun": "biz",
     "personal_affix": "yız",
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "mama"
   },
-  "english_example_sentence": "We must not work on weekends without compensation",
-  "russian_example_sentence": "Мы не должны работать по выходным без компенсации",
-  "turkish_example_sentence": "Biz hafta sonlarında ücret olmadan çalışmamalıyız",
-  "turkish_example_sentence_with_blank": "Biz hafta sonlarında ücret olmadan ______"
+  "turkish_example_sentence": "Biz tatil döneminde ofiste aşırı çalışmamalıyız.",
+  "english_example_sentence": "We must not work excessively in the office during vacation.",
+  "russian_example_sentence": "Мы не должны чрезмерно работать в офисе во время отпуска.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:51:57.650989+00:00",
+  "turkish_example_sentence_with_blank": "Biz tatil döneminde ofiste aşırı ______."
 }

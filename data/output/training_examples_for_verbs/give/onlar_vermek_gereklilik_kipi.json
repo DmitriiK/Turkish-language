@@ -4,17 +4,19 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "vermeleri lazım",
+    "verb_full": "vermeleri",
     "root": "ver",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "ları",
+    "personal_affix": "leri",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They need to give their complete answers to the strict teacher",
-  "russian_example_sentence": "Они должны дать полные ответы строгому учителю",
-  "turkish_example_sentence": "Onlar tam cevaplarını katı öğretmene vermeleri lazım",
-  "turkish_example_sentence_with_blank": "Onlar tam cevaplarını katı öğretmene ______"
+  "turkish_example_sentence": "Onlar kütüphaneciye eski kitapları vermeleri lazım.",
+  "english_example_sentence": "They need to give the old books to the librarian.",
+  "russian_example_sentence": "Им нужно отдать старые книги библиотекарю.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:54:51.652413+00:00",
+  "turkish_example_sentence_with_blank": "Onlar kütüphaneciye eski kitapları ______ lazım."
 }

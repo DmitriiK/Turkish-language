@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "bulmayacaktın",
     "root": "bul",
-    "tense_affix": "mayacaktı",
+    "tense_affix": "acaktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You weren't going to find a parking spot",
-  "russian_example_sentence": "Ты не собирался найти место для парковки",
-  "turkish_example_sentence": "Sen kalabalık caddede uygun park yeri bulmayacaktın",
-  "turkish_example_sentence_with_blank": "Sen kalabalık caddede uygun park yeri ______"
+  "turkish_example_sentence": "Sen kütüphanede yeni bilimsel makaleleri bulmayacaktın.",
+  "english_example_sentence": "You were not going to find new scientific articles in the library.",
+  "russian_example_sentence": "Ты не собирался найти новые научные статьи в библиотеке.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:36:33.270046+00:00",
+  "turkish_example_sentence_with_blank": "Sen kütüphanede yeni bilimsel makaleleri ______."
 }

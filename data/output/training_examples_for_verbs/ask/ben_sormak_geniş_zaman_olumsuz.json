@@ -4,17 +4,19 @@
   "verb_russian": "спрашивать",
   "verb_infinitive": "sormak",
   "turkish_verb": {
-    "verb_full": "sormazım",
+    "verb_full": "sormam",
     "root": "sor",
     "tense_affix": "ar",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "ım",
     "polarity": "negative",
-    "negative_affix": "maz"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "I never ask for help from anyone",
-  "russian_example_sentence": "Я никогда не прошу помощь у кого-то",
-  "turkish_example_sentence": "Ben kimseye hiçbir zaman yardım sormazım",
-  "turkish_example_sentence_with_blank": "Ben kimseye hiçbir zaman yardım ______"
+  "turkish_example_sentence": "Ben hiçbir şey hakkında sormam çünkü çok utangaçım.",
+  "english_example_sentence": "I don't ask anything because I am very shy.",
+  "russian_example_sentence": "Я ничего не спрашиваю, потому что я очень застенчивый.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:44:11.937428+00:00",
+  "turkish_example_sentence_with_blank": "Ben hiçbir şey hakkında ______ çünkü çok utangaçım."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "çalışırlarsa",
     "root": "çalış",
-    "tense_affix": "ırlarsa",
+    "tense_affix": "ır",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they work hard, they will win",
-  "russian_example_sentence": "Если они будут усердно работать, они победят",
-  "turkish_example_sentence": "Eğer çok çalışırlarsa, kazanırlar",
-  "turkish_example_sentence_with_blank": "Eğer çok ______, kazanırlar"
+  "turkish_example_sentence": "Onlar hızlı çalışırlarsa, akşama bitireceğiz.",
+  "english_example_sentence": "If they work fast, we will finish by evening.",
+  "russian_example_sentence": "Если они будут работать быстро, мы закончим к вечеру.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:52:54.426093+00:00",
+  "turkish_example_sentence_with_blank": "Onlar hızlı ______, akşama bitireceğiz."
 }

@@ -4,7 +4,7 @@
   "verb_russian": "спрашивать",
   "verb_infinitive": "sormak",
   "turkish_verb": {
-    "verb_full": "sormuyor",
+    "verb_full": "sormuyorsun",
     "root": "sor",
     "tense_affix": "uyor",
     "verb_tense": "şimdiki_zaman",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "m"
   },
-  "english_example_sentence": "You are not asking the experienced doctor about your health",
-  "russian_example_sentence": "Ты не спрашиваешь у опытного врача о своем здоровье",
-  "turkish_example_sentence": "Sen tecrübeli doktordan sağlık hakkında sormuyor",
-  "turkish_example_sentence_with_blank": "Sen tecrübeli doktordan sağlık hakkında ______"
+  "turkish_example_sentence": "Sen doktor hakkında endişeli sorular sormuyorsun.",
+  "english_example_sentence": "You are not asking worried questions about the doctor.",
+  "russian_example_sentence": "Ты не спрашиваешь беспокойные вопросы о враче.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:43:30.462515+00:00",
+  "turkish_example_sentence_with_blank": "Sen doktor hakkında endişeli sorular ______."
 }

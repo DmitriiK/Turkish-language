@@ -4,17 +4,19 @@
   "verb_russian": "спрашивать",
   "verb_infinitive": "sormak",
   "turkish_verb": {
-    "verb_full": "soramamaları",
+    "verb_full": "soramazlar",
     "root": "sor",
     "tense_affix": "ama",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "ları",
+    "personal_affix": "zlar",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "They cannot ask the serious judge controversial legal questions",
-  "russian_example_sentence": "Они не могут задать спорные юридические вопросы серьёзному судье",
-  "turkish_example_sentence": "Onlar ciddi hakime tartışmalı hukuki sorular soramamaları",
-  "turkish_example_sentence_with_blank": "Onlar ciddi hakime tartışmalı hukuki sorular ______"
+  "turkish_example_sentence": "Onlar avukatın gizli müvekkilini soramazlar.",
+  "english_example_sentence": "They cannot ask the lawyer about his confidential client.",
+  "russian_example_sentence": "Они не могут спросить адвоката о его конфиденциальном клиенте.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:45:53.655773+00:00",
+  "turkish_example_sentence_with_blank": "Onlar avukatın gizli müvekkilini ______."
 }

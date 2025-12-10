@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "bulmuşsam",
     "root": "bul",
-    "tense_affix": "muşsa",
+    "tense_affix": "muş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I had found the lost key",
-  "russian_example_sentence": "Если бы я нашел потерянный ключ",
-  "turkish_example_sentence": "Ben kayıp anahtarı bulmuşsam, sana verirdim.",
-  "turkish_example_sentence_with_blank": "Ben kayıp anahtarı ______, sana verirdim."
+  "turkish_example_sentence": "Ben eski haritada hazineyi bulmuşsam, zengin olurdum.",
+  "english_example_sentence": "If I had found the treasure on the old map, I would have been rich.",
+  "russian_example_sentence": "Если бы я нашел сокровище на старой карте, я бы был богат.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:36:55.470944+00:00",
+  "turkish_example_sentence_with_blank": "Ben eski haritada hazineyi ______, zengin olurdum."
 }

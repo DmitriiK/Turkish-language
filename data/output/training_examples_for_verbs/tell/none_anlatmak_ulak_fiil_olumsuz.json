@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "anlatmayıp",
     "root": "anlat",
-    "tense_affix": "ıp",
+    "tense_affix": "yıp",
     "verb_tense": "ulak_fiil",
     "personal_pronoun": null,
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "Not telling the truth, she avoided trouble.",
-  "russian_example_sentence": "Не рассказывая правду, она избегала неприятностей.",
-  "turkish_example_sentence": "Gerçeği anlatmayıp sorundan kaçındı.",
-  "turkish_example_sentence_with_blank": "Gerçeği ______ sorundan kaçındı."
+  "turkish_example_sentence": "Önemli haberi anlatmayıp, hemen ayrıldı.",
+  "english_example_sentence": "Without telling the important news, he left immediately.",
+  "russian_example_sentence": "Не рассказав важную новость, он сразу ушел.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:42:04.639581+00:00",
+  "turkish_example_sentence_with_blank": "Önemli haberi ______, hemen ayrıldı."
 }

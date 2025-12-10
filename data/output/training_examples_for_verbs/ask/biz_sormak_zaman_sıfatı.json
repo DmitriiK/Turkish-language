@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "sorduğumuzda",
     "root": "sor",
-    "tense_affix": "duk",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "biz",
-    "personal_affix": "umuz",
+    "personal_affix": "uz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When we ask, we collaborate",
-  "russian_example_sentence": "Когда мы спрашиваем, мы сотрудничаем",
-  "turkish_example_sentence": "Biz karmaşık problemleri sorduğumuzda, birlikte çözüm ararız.",
-  "turkish_example_sentence_with_blank": "Biz karmaşık problemleri ______, birlikte çözüm ararız."
+  "turkish_example_sentence": "Biz rehbere antik şehir hakkında meraklı sorularımızı sorduğumuzda, ilginç hikayeler anlattı.",
+  "english_example_sentence": "When we asked the guide our curious questions about the ancient city, he told interesting stories.",
+  "russian_example_sentence": "Когда мы спросили гида наши любопытные вопросы о древнем городе, он рассказал интересные истории.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:49:03.430239+00:00",
+  "turkish_example_sentence_with_blank": "Biz rehbere antik şehir hakkında meraklı sorularımızı ______, ilginç hikayeler anlattı."
 }

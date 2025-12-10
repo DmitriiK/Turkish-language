@@ -9,12 +9,14 @@
     "tense_affix": "abil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iyoruz",
+    "personal_affix": "iyor",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "We cannot tell the entire historical event clearly",
-  "russian_example_sentence": "Мы не можем ясно рассказать все историческое событие",
-  "turkish_example_sentence": "Biz tüm tarihi olayı açıkça anlatamıyoruz",
-  "turkish_example_sentence_with_blank": "Biz tüm tarihi olayı açıkça ______"
+  "turkish_example_sentence": "Biz bu teknik konuyu basit bir dille anlatamıyoruz.",
+  "english_example_sentence": "We cannot tell this technical subject in simple language.",
+  "russian_example_sentence": "Мы не можем рассказать эту техническую тему простым языком.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:40:32.121669+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu teknik konuyu basit bir dille ______."
 }

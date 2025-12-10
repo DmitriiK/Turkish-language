@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "kullanacaklardı",
     "root": "kullan",
-    "tense_affix": "acaktı",
+    "tense_affix": "acak",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lardı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They were going to use the new equipment.",
-  "russian_example_sentence": "Они собирались использовать новое оборудование.",
-  "turkish_example_sentence": "Onlar yeni ekipmanı kullanacaklardı, ancak izin verilmedi.",
-  "turkish_example_sentence_with_blank": "Onlar yeni ekipmanı ______, ancak izin verilmedi."
+  "turkish_example_sentence": "Onlar spor salonunda ağır dumbelleri antrenmanlarında kullanacaklardı.",
+  "english_example_sentence": "They were going to use the heavy dumbbells in their workouts at the gym.",
+  "russian_example_sentence": "Они собирались использовать тяжелые гантели в своих тренировках в спортзале.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:29:57.806955+00:00",
+  "turkish_example_sentence_with_blank": "Onlar spor salonunda ağır dumbelleri antrenmanlarında ______."
 }

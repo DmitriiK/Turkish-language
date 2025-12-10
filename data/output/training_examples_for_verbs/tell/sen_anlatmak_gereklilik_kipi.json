@@ -4,17 +4,19 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatman lazım",
+    "verb_full": "anlatman",
     "root": "anlat",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to tell the truth immediately",
-  "russian_example_sentence": "Ты должен рассказать правду сразу",
-  "turkish_example_sentence": "Sen hemen gerçek olayları anlatman lazım",
-  "turkish_example_sentence_with_blank": "Sen hemen gerçek olayları ______"
+  "turkish_example_sentence": "Sen doktoruna yeşil ilaçların yan etkilerini anlatman gerek.",
+  "english_example_sentence": "You need to tell your doctor about the side effects of the green medicines.",
+  "russian_example_sentence": "Ты должен рассказать своему врачу о побочных эффектах зелёных лекарств.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:40:14.516997+00:00",
+  "turkish_example_sentence_with_blank": "Sen doktoruna yeşil ilaçların yan etkilerini ______ gerek."
 }

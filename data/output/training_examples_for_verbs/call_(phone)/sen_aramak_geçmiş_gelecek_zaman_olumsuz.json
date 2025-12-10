@@ -1,20 +1,22 @@
 {
   "verb_rank": 20,
-  "verb_english": "call (phone)",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
     "verb_full": "aramayacaktın",
     "root": "ara",
-    "tense_affix": "mayacaktı",
+    "tense_affix": "caktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You weren't going to call the ambulance.",
-  "russian_example_sentence": "Ты не собирался звонить в скорую помощь.",
-  "turkish_example_sentence": "Sen ambulansı aramayacaktın.",
-  "turkish_example_sentence_with_blank": "Sen ambulansı ______."
+  "turkish_example_sentence": "Sen doktor randevusu için hastaneyi aramayacaktın çünkü çevrimiçi kayıt yaptın.",
+  "english_example_sentence": "You were not going to call the hospital for a doctor's appointment because you registered online.",
+  "russian_example_sentence": "Ты не собирался звонить в больницу для записи к врачу, потому что ты зарегистрировался онлайн.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:18:20.101796+00:00",
+  "turkish_example_sentence_with_blank": "Sen doktor randevusu için hastaneyi ______ çünkü çevrimiçi kayıt yaptın."
 }

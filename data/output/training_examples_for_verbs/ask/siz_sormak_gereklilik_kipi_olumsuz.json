@@ -4,17 +4,19 @@
   "verb_russian": "спрашивать",
   "verb_infinitive": "sormak",
   "turkish_verb": {
-    "verb_full": "sormamanız lazım",
+    "verb_full": "sormaması",
     "root": "sor",
-    "tense_affix": "lazım",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You should not ask the strict principal about the sensitive school policy",
-  "russian_example_sentence": "Вы не должны спрашивать строгого директора о чувствительной школьной политике",
-  "turkish_example_sentence": "Siz katı müdürden hassas okul politikasını sormamanız lazım",
-  "turkish_example_sentence_with_blank": "Siz katı müdürden hassas okul politikasını ______"
+  "turkish_example_sentence": "Siz mühendisten teknik şartname detayları sormaması gerek.",
+  "english_example_sentence": "You need to not ask the engineer technical specification details.",
+  "russian_example_sentence": "Вам нужно не спрашивать у инженера детали технических спецификаций.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:45:33.629390+00:00",
+  "turkish_example_sentence_with_blank": "Siz mühendisten teknik şartname detayları ______ gerek."
 }

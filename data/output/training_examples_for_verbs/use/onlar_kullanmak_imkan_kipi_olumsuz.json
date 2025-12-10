@@ -4,7 +4,7 @@
   "verb_russian": "использовать",
   "verb_infinitive": "kullanmak",
   "turkish_verb": {
-    "verb_full": "kullanamaylar",
+    "verb_full": "kullanamıyorlar",
     "root": "kullan",
     "tense_affix": "abil",
     "verb_tense": "imkan_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "They cannot use the dangerous chemical products",
-  "russian_example_sentence": "Они не могут использовать опасные химические продукты",
-  "turkish_example_sentence": "Onlar tehlikeli kimyasal ürünleri kullanamaylar",
-  "turkish_example_sentence_with_blank": "Onlar tehlikeli kimyasal ürünleri ______"
+  "turkish_example_sentence": "Onlar bu hassas tıbbi cihazları eğitim almadan kullanamıyorlar.",
+  "english_example_sentence": "They cannot use these sensitive medical devices without training.",
+  "russian_example_sentence": "Они не могут использовать эти чувствительные медицинские приборы без обучения.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T14:15:01.155710+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu hassas tıbbi cihazları eğitim almadan ______."
 }

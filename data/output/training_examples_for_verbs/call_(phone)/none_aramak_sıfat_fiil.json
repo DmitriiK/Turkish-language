@@ -1,6 +1,6 @@
 {
   "verb_rank": 20,
-  "verb_english": "call (phone)",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The calling person seemed very anxious.",
-  "russian_example_sentence": "Звонящий человек казался очень взволнованным.",
-  "turkish_example_sentence": "Arayan kişi çok endişeli görünüyordu.",
-  "turkish_example_sentence_with_blank": "Arayan kişi çok endişeli görünüyordu."
+  "turkish_example_sentence": "Sabah erken saatte beni arayan genç doktor çok kibar bir insandı.",
+  "english_example_sentence": "The young doctor who called me early in the morning was a very polite person.",
+  "russian_example_sentence": "Молодой врач, который позвонил мне рано утром, был очень вежливым человеком.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:19:11.642290+00:00",
+  "turkish_example_sentence_with_blank": "Sabah erken saatte beni ______ genç doktor çok kibar bir insandı."
 }

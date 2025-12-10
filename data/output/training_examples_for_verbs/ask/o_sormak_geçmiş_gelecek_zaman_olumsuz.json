@@ -4,7 +4,7 @@
   "verb_russian": "спрашивать",
   "verb_infinitive": "sormak",
   "turkish_verb": {
-    "verb_full": "sormayacaktı",
+    "verb_full": "sormaacaktı",
     "root": "sor",
     "tense_affix": "acaktı",
     "verb_tense": "geçmiş_gelecek_zaman",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "She wasn't going to ask anything",
-  "russian_example_sentence": "Она не собиралась ничего спрашивать",
-  "turkish_example_sentence": "O patronuna önemli bir şey sormayacaktı aslında",
-  "turkish_example_sentence_with_blank": "O patronuna önemli bir şey ______ aslında"
+  "turkish_example_sentence": "O kütüphaneciden yardım sormaacaktı.",
+  "english_example_sentence": "She was not going to ask the librarian for help.",
+  "russian_example_sentence": "Она не собиралась спрашивать библиотекаря о помощи.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:48:04.243239+00:00",
+  "turkish_example_sentence_with_blank": "O kütüphaneciden yardım ______."
 }

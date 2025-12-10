@@ -4,17 +4,19 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemeyecekti",
+    "verb_full": "istememeyecekti",
     "root": "iste",
-    "tense_affix": "yecek",
+    "tense_affix": "yecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "She wasn't going to accept help.",
-  "russian_example_sentence": "Она не собиралась принимать помощь.",
-  "turkish_example_sentence": "O bu zor durumda kimseden yardım istemeyecekti.",
-  "turkish_example_sentence_with_blank": "O bu zor durumda kimseden yardım ______."
+  "turkish_example_sentence": "O akşam yoğun trafikte uzun bir yolculuk yapmak istememeyecekti.",
+  "english_example_sentence": "She was not going to make a long journey in heavy traffic in the evening.",
+  "russian_example_sentence": "Она не собиралась совершать долгое путешествие в плотном трафике вечером.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:51:14.770211+00:00",
+  "turkish_example_sentence_with_blank": "O akşam yoğun trafikte uzun bir yolculuk yapmak ______."
 }

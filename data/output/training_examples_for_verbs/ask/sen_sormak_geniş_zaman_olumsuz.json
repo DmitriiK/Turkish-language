@@ -4,17 +4,19 @@
   "verb_russian": "спрашивать",
   "verb_infinitive": "sormak",
   "turkish_verb": {
-    "verb_full": "sormazsın",
+    "verb_full": "sormazsin",
     "root": "sor",
     "tense_affix": "ar",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "sın",
     "polarity": "negative",
-    "negative_affix": "maz"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "You don't ask the doctor about your health",
-  "russian_example_sentence": "Ты не спрашиваешь врача о своём здоровье",
-  "turkish_example_sentence": "Sen doktora sağlığın hakkında sormazsın",
-  "turkish_example_sentence_with_blank": "Sen doktora sağlığın hakkında ______"
+  "turkish_example_sentence": "Sen asla kütüphaneci kadından kitap konusunda sormazsin.",
+  "english_example_sentence": "You never ask the librarian woman about the book topic.",
+  "russian_example_sentence": "Ты никогда не спрашиваешь библиотекаршу о теме книги.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:44:11.937428+00:00",
+  "turkish_example_sentence_with_blank": "Sen asla kütüphaneci kadından kitap konusunda ______."
 }

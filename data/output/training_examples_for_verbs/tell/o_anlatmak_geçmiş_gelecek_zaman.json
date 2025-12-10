@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "anlatacaktı",
     "root": "anlat",
-    "tense_affix": "acak",
+    "tense_affix": "acaktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He was going to tell his story.",
-  "russian_example_sentence": "Он собирался рассказать свою историю.",
-  "turkish_example_sentence": "O kendi hayat hikayesini anlatacaktı.",
-  "turkish_example_sentence_with_blank": "O kendi hayat hikayesini ______."
+  "turkish_example_sentence": "O çocuklara eğlenceli masallar anlatacaktı.",
+  "english_example_sentence": "He was going to tell the children entertaining fairy tales.",
+  "russian_example_sentence": "Он собирался рассказать детям забавные сказки.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:42:23.402294+00:00",
+  "turkish_example_sentence_with_blank": "O çocuklara eğlenceli masallar ______."
 }

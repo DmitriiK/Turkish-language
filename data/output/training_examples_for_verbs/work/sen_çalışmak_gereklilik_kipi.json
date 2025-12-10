@@ -4,17 +4,19 @@
   "verb_russian": "работать",
   "verb_infinitive": "çalışmak",
   "turkish_verb": {
-    "verb_full": "çalışman lazım",
+    "verb_full": "çalışman",
     "root": "çalış",
-    "tense_affix": "ma",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to work harder at school",
-  "russian_example_sentence": "Тебе нужно усерднее работать в школе",
-  "turkish_example_sentence": "Sen okulda daha sıkı çalışman lazım",
-  "turkish_example_sentence_with_blank": "Sen okulda daha sıkı ______"
+  "turkish_example_sentence": "Sen önemli sınav için çalışman gerek.",
+  "english_example_sentence": "You need to work for the important exam.",
+  "russian_example_sentence": "Тебе нужно работать для важного экзамена.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:51:16.573007+00:00",
+  "turkish_example_sentence_with_blank": "Sen önemli sınav için ______ gerek."
 }

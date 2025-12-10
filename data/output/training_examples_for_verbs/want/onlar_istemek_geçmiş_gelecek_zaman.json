@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "isteyeceklerdi",
     "root": "iste",
-    "tense_affix": "yecek",
+    "tense_affix": "yecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lerdi",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They were going to travel abroad.",
-  "russian_example_sentence": "Они собирались поехать за границу.",
-  "turkish_example_sentence": "Onlar gelecek ay Avrupa'ya uzun bir seyahat yapacaklardı.",
-  "turkish_example_sentence_with_blank": "Onlar gelecek ay Avrupa'ya uzun bir seyahat yapacaklardı."
+  "turkish_example_sentence": "Onlar o güzel yazlık evde rahat bir tatil geçirmek isteyeceklerdi.",
+  "english_example_sentence": "They were going to spend a comfortable vacation in that beautiful summer house.",
+  "russian_example_sentence": "Они собирались провести комфортный отпуск в том красивом летнем доме.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T11:51:14.770211+00:00",
+  "turkish_example_sentence_with_blank": "Onlar o güzel yazlık evde rahat bir tatil geçirmek ______."
 }

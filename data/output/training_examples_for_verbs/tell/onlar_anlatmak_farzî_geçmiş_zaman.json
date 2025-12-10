@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "anlatmışlarsa",
     "root": "anlat",
-    "tense_affix": "mışlarsa",
+    "tense_affix": "mış",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they had told the unbelievable story...",
-  "russian_example_sentence": "Если бы они рассказали невероятную историю...",
-  "turkish_example_sentence": "Onlar inanılmaz hikayeyi anlatmışlarsa, herkes şaşırmıştır.",
-  "turkish_example_sentence_with_blank": "Onlar inanılmaz hikayeyi ______, herkes şaşırmıştır."
+  "turkish_example_sentence": "Eğer onlar bu heyecan verici keşfi bilim camiasına anlatmışlarsa, ünlü olmuş olurdu.",
+  "english_example_sentence": "If they had told this exciting discovery to the scientific community, it would have become famous.",
+  "russian_example_sentence": "Если бы они рассказали об этом волнующем открытии научному сообществу, оно бы стало известным.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T15:42:43.841974+00:00",
+  "turkish_example_sentence_with_blank": "Eğer onlar bu heyecan verici keşfi bilim camiasına ______, ünlü olmuş olurdu."
 }
