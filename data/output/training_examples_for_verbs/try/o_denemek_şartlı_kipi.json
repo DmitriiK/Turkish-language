@@ -4,17 +4,19 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "denerse",
+    "verb_full": "denersa",
     "root": "dene",
-    "tense_affix": "erse",
+    "tense_affix": "rse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If she tries her best, she’ll succeed.",
-  "russian_example_sentence": "Если она постарается, она добьётся успеха.",
-  "turkish_example_sentence": "Eğer elinden geleni yaparsa, başarılı olur.",
-  "turkish_example_sentence_with_blank": "Eğer elinden geleni yaparsa, başarılı olur."
+  "turkish_example_sentence": "O genç ressam yaratıcı sanat projesini denersa, başarılı olabilir.",
+  "english_example_sentence": "If he tries the creative art project, he can be successful.",
+  "russian_example_sentence": "Если он попытается реализовать творческий художественный проект, он может быть успешным.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:08:53.258631+00:00",
+  "turkish_example_sentence_with_blank": "O genç ressam yaratıcı sanat projesini ______, başarılı olabilir."
 }

@@ -4,17 +4,19 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "denemeyesiniz",
+    "verb_full": "denemesiniz",
     "root": "dene",
-    "tense_affix": "meyesiniz",
+    "tense_affix": "ye",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "siniz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "May you not try the dangerous jump.",
-  "russian_example_sentence": "Пусть вы не попробуете этот опасный прыжок.",
-  "turkish_example_sentence": "Siz bu tehlikeli atlayışı denemeyesiniz.",
-  "turkish_example_sentence_with_blank": "Siz bu tehlikeli atlayışı ______."
+  "turkish_example_sentence": "Siz bu bilinmeyen kimyasal maddeyi denemesiniz çünkü çok tehlikeli.",
+  "english_example_sentence": "Do not try this unknown chemical substance because it is very dangerous.",
+  "russian_example_sentence": "Не пробуйте это неизвестное химическое вещество потому что оно очень опасно.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:06:51.575213+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu bilinmeyen kimyasal maddeyi ______ çünkü çok tehlikeli."
 }

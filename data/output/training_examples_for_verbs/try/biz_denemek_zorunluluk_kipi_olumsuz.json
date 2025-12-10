@@ -4,17 +4,19 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "denememeli",
+    "verb_full": "denememeliyiz",
     "root": "dene",
-    "tense_affix": "memeli",
+    "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yiz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "We must not try to swim in the frozen lake",
-  "russian_example_sentence": "Мы не должны пытаться плавать в замерзшем озере",
-  "turkish_example_sentence": "Biz donmuş göl suyunda yüzmeyi denememeli",
-  "turkish_example_sentence_with_blank": "Biz donmuş göl suyunda yüzmeyi ______"
+  "turkish_example_sentence": "Biz bu hızlı akıntılı ırmakta yüzmek için denememeliyiz.",
+  "english_example_sentence": "We must not try to swim in this fast flowing river.",
+  "russian_example_sentence": "Мы не должны пытаться плавать в этой быстротекущей реке.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:08:23.901905+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu hızlı akıntılı ırmakta yüzmek için ______."
 }

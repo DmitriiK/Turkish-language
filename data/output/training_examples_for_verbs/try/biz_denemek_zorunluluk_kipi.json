@@ -4,7 +4,7 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "denemeliyin",
+    "verb_full": "denemeliyiz",
     "root": "dene",
     "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We must try the traditional homemade pasta recipe",
-  "russian_example_sentence": "Мы должны попробовать традиционный рецепт домашней пасты",
-  "turkish_example_sentence": "Biz geleneksel ev yapımı makarna tarifini denemeliyin",
-  "turkish_example_sentence_with_blank": "Biz geleneksel ev yapımı makarna tarifini ______"
+  "turkish_example_sentence": "Biz bu önemli bilimsel araştırmayı başarıyla tamamlamak için denemeliyiz.",
+  "english_example_sentence": "We must try to complete this important scientific research successfully.",
+  "russian_example_sentence": "Мы должны попытаться успешно завершить это важное научное исследование.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:08:23.901905+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu önemli bilimsel araştırmayı başarıyla tamamlamak için ______."
 }

@@ -4,7 +4,7 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "denemesin",
+    "verb_full": "denesin",
     "root": "dene",
     "tense_affix": "",
     "verb_tense": "emir_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "Let her not try the expensive exotic seafood dish",
-  "russian_example_sentence": "Пусть она не пробует дорогое экзотическое морское блюдо",
-  "turkish_example_sentence": "O pahalı egzotik deniz ürünleri yemeğini denemesin",
-  "turkish_example_sentence_with_blank": "O pahalı egzotik deniz ürünleri yemeğini ______"
+  "turkish_example_sentence": "O korkak çocuk bu tehlikeli oyunu denesin.",
+  "english_example_sentence": "Let him not try this dangerous game.",
+  "russian_example_sentence": "Пусть он не пытается эту опасную игру.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:07:06.046216+00:00",
+  "turkish_example_sentence_with_blank": "O korkak çocuk bu tehlikeli oyunu ______."
 }

@@ -4,17 +4,19 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "denemezlerse",
+    "verb_full": "denmezlerse",
     "root": "dene",
-    "tense_affix": "se",
+    "tense_affix": "rse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "mez"
   },
-  "english_example_sentence": "If they don’t try, they’ll lose.",
-  "russian_example_sentence": "Если они не попробуют, то проиграют.",
-  "turkish_example_sentence": "Eğer denemezlerse, kaybederler.",
-  "turkish_example_sentence_with_blank": "Eğer ______, kaybederler."
+  "turkish_example_sentence": "Onlar bu önemli sosyal projesi denmezlerse, toplum gelişemeyecek.",
+  "english_example_sentence": "If they don't try this important social project, the community will not develop.",
+  "russian_example_sentence": "Если они не попытаются реализовать этот важный социальный проект, сообщество не сможет развиваться.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:08:53.258631+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu önemli sosyal projesi ______, toplum gelişemeyecek."
 }

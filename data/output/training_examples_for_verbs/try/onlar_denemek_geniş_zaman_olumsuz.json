@@ -4,7 +4,7 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "denemezler",
+    "verb_full": "demezler",
     "root": "dene",
     "tense_affix": "mez",
     "verb_tense": "geniş_zaman",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "They don't try dangerous wild animal encounters",
-  "russian_example_sentence": "Они не пытаются опасные встречи с дикими животными",
-  "turkish_example_sentence": "Onlar tehlikeli vahşi hayvan karşılaşmalarını denemezler",
-  "turkish_example_sentence_with_blank": "Onlar tehlikeli vahşi hayvan karşılaşmalarını ______"
+  "turkish_example_sentence": "Onlar asla tehlikeli uçak sporlarını demezler.",
+  "english_example_sentence": "They never try dangerous air sports.",
+  "russian_example_sentence": "Они никогда не пытаются опасные воздушные виды спорта.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:06:32.131581+00:00",
+  "turkish_example_sentence_with_blank": "Onlar asla tehlikeli uçak sporlarını ______."
 }

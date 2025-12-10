@@ -4,7 +4,7 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "denemeyeceğiz",
+    "verb_full": "denememeyeceğiz",
     "root": "dene",
     "tense_affix": "yeceğ",
     "verb_tense": "yaracağım",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "We will not try the risky experimental procedure",
-  "russian_example_sentence": "Мы не будем пробовать рискованную экспериментальную процедуру",
-  "turkish_example_sentence": "Biz riskli deneysel prosedürü denemeyeceğiz",
-  "turkish_example_sentence_with_blank": "Biz riskli deneysel prosedürü ______"
+  "turkish_example_sentence": "Biz bu pahalı lüks oteli denememeyeceğiz",
+  "english_example_sentence": "We will not try this expensive luxury hotel",
+  "russian_example_sentence": "Мы не будем пробовать этот дорогой люксовый отель",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:06:10.320407+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu pahalı lüks oteli ______"
 }

@@ -4,17 +4,19 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "denerlerse",
+    "verb_full": "denerlersa",
     "root": "dene",
-    "tense_affix": "erse",
+    "tense_affix": "rse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they try teamwork, they’ll succeed.",
-  "russian_example_sentence": "Если они попробуют работать вместе, они добьются успеха.",
-  "turkish_example_sentence": "Eğer ekip çalışmasını denerlerse, başarılı olurlar.",
-  "turkish_example_sentence_with_blank": "Eğer ekip çalışmasını ______, başarılı olurlar."
+  "turkish_example_sentence": "Onlar bu eğlenceli oyun aktivitesini denerlersa, çok mutlu olacaklar.",
+  "english_example_sentence": "If they try this fun game activity, they will be very happy.",
+  "russian_example_sentence": "Если они попытаются заняться этой весёлой игровой деятельностью, они будут очень счастливы.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:08:53.258631+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu eğlenceli oyun aktivitesini ______, çok mutlu olacaklar."
 }

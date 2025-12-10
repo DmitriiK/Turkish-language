@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "denersek",
     "root": "dene",
-    "tense_affix": "erse",
+    "tense_affix": "rse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we try a new place, we’ll have fun.",
-  "russian_example_sentence": "Если мы попробуем новое место, будет весело.",
-  "turkish_example_sentence": "Eğer yeni bir yeri denersek, eğleniriz.",
-  "turkish_example_sentence_with_blank": "Eğer yeni bir yeri ______, eğleniriz."
+  "turkish_example_sentence": "Biz yeni iş stratejisini denersek, şirket daha hızlı büyüyebilir.",
+  "english_example_sentence": "If we try the new business strategy, the company can grow faster.",
+  "russian_example_sentence": "Если мы попытаемся применить новую бизнес-стратегию, компания сможет расти быстрее.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:08:53.258631+00:00",
+  "turkish_example_sentence_with_blank": "Biz yeni iş stratejisini ______, şirket daha hızlı büyüyebilir."
 }

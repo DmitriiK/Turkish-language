@@ -4,17 +4,19 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "denememesi lazım",
+    "verb_full": "denememesi",
     "root": "dene",
-    "tense_affix": "lazım",
+    "tense_affix": "si",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
     "personal_affix": "si",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "She should not try that expensive complicated hairstyle",
-  "russian_example_sentence": "Ей не нужно пробовать эту дорогую сложную прическу",
-  "turkish_example_sentence": "O pahalı karmaşık saç stilini denememesi lazım",
-  "turkish_example_sentence_with_blank": "O pahalı karmaşık saç stilini ______"
+  "turkish_example_sentence": "O kızıl saçlı kız tehlikeli ekstrem sporu denememesi lazım.",
+  "english_example_sentence": "She doesn't need to try the dangerous extreme sport.",
+  "russian_example_sentence": "Ей не нужно пробовать опасный экстремальный спорт.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:07:45.035775+00:00",
+  "turkish_example_sentence_with_blank": "O kızıl saçlı kız tehlikeli ekstrem sporu ______ lazım."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "denememeli",
     "root": "dene",
-    "tense_affix": "memeli",
+    "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "She must not try to lift heavy boxes carelessly",
-  "russian_example_sentence": "Она не должна пытаться поднимать тяжелые коробки небрежно",
-  "turkish_example_sentence": "O ağır kutuları dikkatsizce denememeli",
-  "turkish_example_sentence_with_blank": "O ağır kutuları dikkatsizce ______"
+  "turkish_example_sentence": "O eski kırılgan antika vazoyu taşımak için denememeli.",
+  "english_example_sentence": "She must not try to carry this old fragile antique vase.",
+  "russian_example_sentence": "Она не должна пытаться переносить эту старую хрупкую антикварную вазу.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:08:23.901905+00:00",
+  "turkish_example_sentence_with_blank": "O eski kırılgan antika vazoyu taşımak için ______."
 }

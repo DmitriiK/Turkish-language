@@ -4,17 +4,19 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "denemesi lazım",
+    "verb_full": "denemesi",
     "root": "dene",
-    "tense_affix": "lazım",
+    "tense_affix": "si",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
     "personal_affix": "si",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He needs to try the challenging mountain climbing adventure",
-  "russian_example_sentence": "Ему нужно попробовать сложное приключение альпинизма в горах",
-  "turkish_example_sentence": "O zorlu dağ tırmanışı macerası denemesi lazım",
-  "turkish_example_sentence_with_blank": "O zorlu dağ tırmanışı macerası ______"
+  "turkish_example_sentence": "O genç sporcu hızlı yeni antrenmanı denemesi lazım.",
+  "english_example_sentence": "He needs to try the fast new training.",
+  "russian_example_sentence": "Ему нужно попробовать быструю новую тренировку.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:07:45.035775+00:00",
+  "turkish_example_sentence_with_blank": "O genç sporcu hızlı yeni antrenmanı ______ lazım."
 }

@@ -4,17 +4,19 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "denemememeları lazım",
+    "verb_full": "denememeleri",
     "root": "dene",
-    "tense_affix": "lazım",
+    "tense_affix": "leri",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "ları",
+    "personal_affix": "leri",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "They should not try those spicy hot pepper dishes",
-  "russian_example_sentence": "Им не нужно пробовать эти острые горячие блюда с перцем",
-  "turkish_example_sentence": "Onlar o acı sıcak biber yemeklerini denemememeları lazım",
-  "turkish_example_sentence_with_blank": "Onlar o acı sıcak biber yemeklerini ______"
+  "turkish_example_sentence": "Onlar bu beyaz şeker tatlısını denememeleri gerek.",
+  "english_example_sentence": "They don't need to try this white sugar dessert.",
+  "russian_example_sentence": "Им не нужно пробовать этот белый сахарный десерт.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:07:45.035775+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu beyaz şeker tatlısını ______ gerek."
 }

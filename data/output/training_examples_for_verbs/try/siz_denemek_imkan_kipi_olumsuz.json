@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "deneyemezsiniz",
     "root": "dene",
-    "tense_affix": "yeme",
+    "tense_affix": "yebil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "zsiniz",
+    "personal_affix": "siniz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You cannot try that dangerous extreme rock climbing activity today",
-  "russian_example_sentence": "Вы не можете попробовать эту опасную экстремальную деятельность скалолазания сегодня",
-  "turkish_example_sentence": "Siz bugün o tehlikeli aşırı kaya tırmanışı aktivitesini deneyemezsiniz",
-  "turkish_example_sentence_with_blank": "Siz bugün o tehlikeli aşırı kaya tırmanışı aktivitesini ______"
+  "turkish_example_sentence": "Siz bu tehlikeli motor bisiklet sporunu burada deneyemezsiniz.",
+  "english_example_sentence": "You cannot try this dangerous motorcycle sport here.",
+  "russian_example_sentence": "Вы не можете попробовать этот опасный мотоциклетный спорт здесь.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:08:03.248772+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu tehlikeli motor bisiklet sporunu burada ______."
 }

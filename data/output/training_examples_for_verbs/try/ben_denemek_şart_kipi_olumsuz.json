@@ -4,17 +4,19 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "denemesem",
+    "verb_full": "denemeseydin",
     "root": "dene",
-    "tense_affix": "mese",
+    "tense_affix": "se",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If I don’t try, I will never know.",
-  "russian_example_sentence": "Если я не попробую, я никогда не узнаю.",
-  "turkish_example_sentence": "Denemesem asla bilemem.",
-  "turkish_example_sentence_with_blank": "Denemesem asla bilemem."
+  "turkish_example_sentence": "Ben zor matematik problemini denemeseydin başarısız kalırdım.",
+  "english_example_sentence": "If I were not to try the difficult math problem, I would fail.",
+  "russian_example_sentence": "Если бы я не попробовал сложную математическую задачу, я бы не справился.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:07:26.292133+00:00",
+  "turkish_example_sentence_with_blank": "Ben zor matematik problemini ______ başarısız kalırdım."
 }

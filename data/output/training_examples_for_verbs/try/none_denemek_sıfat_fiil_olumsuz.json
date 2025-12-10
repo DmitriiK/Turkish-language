@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "denemeyen",
     "root": "dene",
-    "tense_affix": "yen",
+    "tense_affix": "yan",
     "verb_tense": "sıfat_fiil",
     "personal_pronoun": null,
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "The student not trying to solve the problem",
-  "russian_example_sentence": "Студент, не пытающийся решить задачу",
-  "turkish_example_sentence": "Sorunu çözmeyi denemeyen öğrenci",
-  "turkish_example_sentence_with_blank": "Sorunu çözmeyi ______ öğrenci"
+  "turkish_example_sentence": "Zor matematik problemini denemeyen başarısız öğrenci sınıfta kaldı.",
+  "english_example_sentence": "The unsuccessful student who does not try the difficult mathematics problem failed the class.",
+  "russian_example_sentence": "Неудачный студент, который не пробует сложную математическую задачу, остался в классе.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:08:59.167925+00:00",
+  "turkish_example_sentence_with_blank": "Zor matematik problemini ______ başarısız öğrenci sınıfta kaldı."
 }

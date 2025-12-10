@@ -4,17 +4,19 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "denemezsen",
+    "verb_full": "denmezsen",
     "root": "dene",
-    "tense_affix": "se",
+    "tense_affix": "rse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "mez"
   },
-  "english_example_sentence": "If you don’t try hard, you won’t win.",
-  "russian_example_sentence": "Если ты не постараешься, ты не победишь.",
-  "turkish_example_sentence": "Eğer çok çaba göstermezsen, kazanamazsın.",
-  "turkish_example_sentence_with_blank": "Eğer çok çaba göstermezsen, kazanamazsın."
+  "turkish_example_sentence": "Sen bu zor müzik enstrümanını denmezsen, asla ustalaşamazsın.",
+  "english_example_sentence": "If you don't try this difficult musical instrument, you will never master it.",
+  "russian_example_sentence": "Если ты не попытаешься играть на этом сложном музыкальном инструменте, ты никогда не овладеешь им.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:08:53.258631+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu zor müzik enstrümanını ______, asla ustalaşamazsın."
 }

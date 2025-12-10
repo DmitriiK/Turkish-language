@@ -4,7 +4,7 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "denemeyecekler",
+    "verb_full": "denememeyecekler",
     "root": "dene",
     "tense_affix": "yecek",
     "verb_tense": "gelecek_zaman",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "They will not try the dangerous extreme sport",
-  "russian_example_sentence": "Они не будут пытаться опасный экстремальный спорт",
-  "turkish_example_sentence": "Onlar tehlikeli ekstrem sporu denemeyecekler",
-  "turkish_example_sentence_with_blank": "Onlar tehlikeli ekstrem sporu ______"
+  "turkish_example_sentence": "Onlar bu sıcak çöl ortamında ağır fiziksel çalışmayı denememeyecekler",
+  "english_example_sentence": "They will not try heavy physical work in this hot desert environment",
+  "russian_example_sentence": "Они не будут пытаться выполнять тяжелую физическую работу в этой жаркой пустынной среде",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:10:01.490998+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu sıcak çöl ortamında ağır fiziksel çalışmayı ______"
 }

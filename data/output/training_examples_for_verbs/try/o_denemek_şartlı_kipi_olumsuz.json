@@ -4,17 +4,19 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "denemezse",
+    "verb_full": "denmezse",
     "root": "dene",
-    "tense_affix": "se",
+    "tense_affix": "rse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "mez"
   },
-  "english_example_sentence": "If he doesn’t try now, he’ll regret it.",
-  "russian_example_sentence": "Если он не попробует сейчас, он пожалеет.",
-  "turkish_example_sentence": "Eğer şimdi denemezse, pişman olur.",
-  "turkish_example_sentence_with_blank": "Eğer şimdi ______, pişman olur."
+  "turkish_example_sentence": "O hızlı koşu yarışmasını denmezse, asla birinci olmayacak.",
+  "english_example_sentence": "If she doesn't try the fast running race, she will never come first.",
+  "russian_example_sentence": "Если она не попытается участвовать в быстром беговом забеге, она никогда не займёт первое место.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:08:53.258631+00:00",
+  "turkish_example_sentence_with_blank": "O hızlı koşu yarışmasını ______, asla birinci olmayacak."
 }

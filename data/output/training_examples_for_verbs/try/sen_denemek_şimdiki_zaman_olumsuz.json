@@ -4,7 +4,7 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "demiyorsun",
+    "verb_full": "denmiyorsun",
     "root": "dene",
     "tense_affix": "iyor",
     "verb_tense": "şimdiki_zaman",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "m"
   },
-  "english_example_sentence": "You are not trying the difficult French grammar exercise",
-  "russian_example_sentence": "Ты не пробуешь сложное упражнение по французской грамматике",
-  "turkish_example_sentence": "Sen zor Fransızca dilbilgisi alıştırmasını demiyorsun",
-  "turkish_example_sentence_with_blank": "Sen zor Fransızca dilbilgisi alıştırmasını ______"
+  "turkish_example_sentence": "Sen kırmızı spor ayakkabıları bu sezon denmiyorsun.",
+  "english_example_sentence": "You are not trying the red sports shoes this season.",
+  "russian_example_sentence": "Ты не пытаешься красные спортивные туфли в этом сезоне.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:09:23.682050+00:00",
+  "turkish_example_sentence_with_blank": "Sen kırmızı spor ayakkabıları bu sezon ______."
 }

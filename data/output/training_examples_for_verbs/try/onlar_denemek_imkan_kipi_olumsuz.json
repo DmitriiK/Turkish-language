@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "deneyemezler",
     "root": "dene",
-    "tense_affix": "yeme",
+    "tense_affix": "yebil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "zler",
+    "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "They cannot try that mysterious ancient Egyptian archaeological artifact without permission",
-  "russian_example_sentence": "Они не могут попробовать этот таинственный древнеегипетский археологический артефакт без разрешения",
-  "turkish_example_sentence": "Onlar izin olmadan o gizemli eski Mısır arkeolojik eserini deneyemezler",
-  "turkish_example_sentence_with_blank": "Onlar izin olmadan o gizemli eski Mısır arkeolojik eserini ______"
+  "turkish_example_sentence": "Onlar bu ağır endüstriyel makineyi güvenli olmadan deneyemezler.",
+  "english_example_sentence": "They cannot try this heavy industrial machine without safety.",
+  "russian_example_sentence": "Они не могут попробовать эту тяжелую промышленную машину без безопасности.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:08:03.248772+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu ağır endüstriyel makineyi güvenli olmadan ______."
 }

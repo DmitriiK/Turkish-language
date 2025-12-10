@@ -4,7 +4,7 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "denemeyeceksin",
+    "verb_full": "denememeyeceksin",
     "root": "dene",
     "tense_affix": "yeceğ",
     "verb_tense": "yaracağım",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You will not try that expensive designer brand",
-  "russian_example_sentence": "Ты не будешь пробовать этот дорогой дизайнерский бренд",
-  "turkish_example_sentence": "Sen o pahalı tasarımcı markasını denemeyeceksin",
-  "turkish_example_sentence_with_blank": "Sen o pahalı tasarımcı markasını ______"
+  "turkish_example_sentence": "Sen bu acı çiğ balığı denememeyeceksin",
+  "english_example_sentence": "You will not try this spicy raw fish",
+  "russian_example_sentence": "Ты не будешь пробовать эту острую сырую рыбу",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:06:10.320407+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu acı çiğ balığı ______"
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "denerseniz",
     "root": "dene",
-    "tense_affix": "erse",
+    "tense_affix": "rse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "niz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you try this dessert, you’ll love it.",
-  "russian_example_sentence": "Если вы попробуете этот десерт, вам он понравится.",
-  "turkish_example_sentence": "Eğer bu tatlıyı denerseniz, bayılacaksınız.",
-  "turkish_example_sentence_with_blank": "Eğer bu tatlıyı ______, bayılacaksınız."
+  "turkish_example_sentence": "Siz bu ilginç yazılım programını denerseniz, çok faydalı bulacaksınız.",
+  "english_example_sentence": "If you try this interesting software program, you will find it very useful.",
+  "russian_example_sentence": "Если вы попытаетесь использовать эту интересную программу, вы найдёте её очень полезной.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:08:53.258631+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu ilginç yazılım programını ______, çok faydalı bulacaksınız."
 }

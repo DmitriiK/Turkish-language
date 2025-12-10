@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "deneyeyim",
     "root": "dene",
-    "tense_affix": "yeyim",
+    "tense_affix": "ye",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "yim",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Let me try this spicy soup.",
-  "russian_example_sentence": "Дайте мне попробовать этот острый суп.",
-  "turkish_example_sentence": "Ben bu acı çorbayı deneyeyim.",
-  "turkish_example_sentence_with_blank": "Ben bu acı çorbayı ______."
+  "turkish_example_sentence": "Ben bu yeni İtalyan pizzasını deneyeyim lütfen.",
+  "english_example_sentence": "Let me try this new Italian pizza please.",
+  "russian_example_sentence": "Позвольте мне попробовать эту новую итальянскую пиццу пожалуйста.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:06:51.575213+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu yeni İtalyan pizzasını ______ lütfen."
 }

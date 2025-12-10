@@ -4,17 +4,19 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "denemezseniz",
+    "verb_full": "denmezseniz",
     "root": "dene",
-    "tense_affix": "se",
+    "tense_affix": "rse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "niz",
     "polarity": "negative",
     "negative_affix": "mez"
   },
-  "english_example_sentence": "If you don’t try now, you’ll forget later.",
-  "russian_example_sentence": "Если вы не попробуете сейчас, вы забудете позже.",
-  "turkish_example_sentence": "Eğer şimdi denemezseniz, sonra unutursunuz.",
-  "turkish_example_sentence_with_blank": "Eğer şimdi ______, sonra unutursunuz."
+  "turkish_example_sentence": "Siz bu uzun yolculuk rotasını denmezseniz, güzel doğal manzaraları göremeyeceksiniz.",
+  "english_example_sentence": "If you don't try this long journey route, you will not see the beautiful natural scenery.",
+  "russian_example_sentence": "Если вы не попытаетесь пройти этот долгий маршрут путешествия, вы не увидите красивые природные пейзажи.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:08:53.258631+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu uzun yolculuk rotasını ______, güzel doğal manzaraları göremeyeceksiniz."
 }

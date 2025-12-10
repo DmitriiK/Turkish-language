@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "denememeliler",
     "root": "dene",
-    "tense_affix": "memeli",
+    "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "They must not try to repair the broken expensive equipment",
-  "russian_example_sentence": "Они не должны пытаться починить сломанное дорогое оборудование",
-  "turkish_example_sentence": "Onlar kırık pahalı ekipmanı tamir etmeyi denememeliler",
-  "turkish_example_sentence_with_blank": "Onlar kırık pahalı ekipmanı tamir etmeyi ______"
+  "turkish_example_sentence": "Onlar bu gizli özel bilgiyi açıklamak için denememeliler.",
+  "english_example_sentence": "They must not try to reveal this secret private information.",
+  "russian_example_sentence": "Они не должны пытаться раскрывать эту секретную приватную информацию.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:08:23.901905+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu gizli özel bilgiyi açıklamak için ______."
 }

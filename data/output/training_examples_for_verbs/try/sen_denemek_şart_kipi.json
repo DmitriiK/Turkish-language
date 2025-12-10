@@ -4,7 +4,7 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "denesen",
+    "verb_full": "deneseyin",
     "root": "dene",
     "tense_affix": "se",
     "verb_tense": "şart_kipi",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you try harder, you will succeed.",
-  "russian_example_sentence": "Если ты постараешься, у тебя все получится.",
-  "turkish_example_sentence": "Daha çok denesen başarılı olursun.",
-  "turkish_example_sentence_with_blank": "Daha çok ______ başarılı olursun."
+  "turkish_example_sentence": "Sen bu harika Türk kahvesini deneseyin kesinlikle beğenirsin.",
+  "english_example_sentence": "If you were to try this wonderful Turkish coffee, you would definitely like it.",
+  "russian_example_sentence": "Если бы ты попробовал этот замечательный турецкий кофе, тебе бы он точно понравился.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:07:26.292133+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu harika Türk kahvesini ______ kesinlikle beğenirsin."
 }

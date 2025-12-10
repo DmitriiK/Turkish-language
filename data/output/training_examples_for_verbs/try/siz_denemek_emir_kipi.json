@@ -4,17 +4,19 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "deneyin",
+    "verb_full": "deneyın",
     "root": "dene",
     "tense_affix": "",
     "verb_tense": "emir_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "yin",
+    "personal_affix": "yın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Please try the traditional Turkish homemade yogurt",
-  "russian_example_sentence": "Пожалуйста, попробуйте традиционный турецкий домашний йогурт",
-  "turkish_example_sentence": "Lütfen geleneksel Türk ev yapımı yoğurdunu deneyin",
-  "turkish_example_sentence_with_blank": "Lütfen geleneksel Türk ev yapımı yoğurdunu ______"
+  "turkish_example_sentence": "Siz bu harika İtalyan restoranının özel pizzasını deneyın.",
+  "english_example_sentence": "You all try this wonderful Italian restaurant's special pizza.",
+  "russian_example_sentence": "Вы все попробуйте специальную пиццу этого чудесного итальянского ресторана.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:07:06.046216+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu harika İtalyan restoranının özel pizzasını ______."
 }

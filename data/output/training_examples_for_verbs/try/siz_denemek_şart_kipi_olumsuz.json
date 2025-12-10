@@ -4,17 +4,19 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "denemeseniz",
+    "verb_full": "denemeseyiniz",
     "root": "dene",
-    "tense_affix": "mese",
+    "tense_affix": "se",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "niz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If you don’t try, you won’t achieve much.",
-  "russian_example_sentence": "Если вы не попробуете, вы мало чего добьетесь.",
-  "turkish_example_sentence": "Denemeseniz fazla bir şey başaramazsınız.",
-  "turkish_example_sentence_with_blank": "Denemeseniz fazla bir şey başaramazsınız."
+  "turkish_example_sentence": "Siz bu önemli iş fırsatını denemeseyiniz büyük bir hata yaparsınız.",
+  "english_example_sentence": "If you were not to try this important business opportunity, you would make a big mistake.",
+  "russian_example_sentence": "Если бы вы не попробовали эту важную деловую возможность, вы бы совершили большую ошибку.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:07:26.292133+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu önemli iş fırsatını ______ büyük bir hata yaparsınız."
 }

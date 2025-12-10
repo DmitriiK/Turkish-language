@@ -4,7 +4,7 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "denemeyeceğim",
+    "verb_full": "denememeyeceğim",
     "root": "dene",
     "tense_affix": "yecek",
     "verb_tense": "gelecek_zaman",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "I will not try that difficult exercise today",
-  "russian_example_sentence": "Я не буду пытаться это сложное упражнение сегодня",
-  "turkish_example_sentence": "Ben bugün o zor egzersizi denemeyeceğim",
-  "turkish_example_sentence_with_blank": "Ben bugün o zor egzersizi ______"
+  "turkish_example_sentence": "Ben bu zor matematiksel problemi denememeyeceğim",
+  "english_example_sentence": "I will not try this difficult mathematical problem",
+  "russian_example_sentence": "Я не буду пытаться решить эту сложную математическую задачу",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:10:01.490998+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu zor matematiksel problemi ______"
 }

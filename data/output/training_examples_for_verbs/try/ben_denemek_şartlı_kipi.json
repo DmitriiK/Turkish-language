@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "denersem",
     "root": "dene",
-    "tense_affix": "erse",
+    "tense_affix": "rse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I try to study, I will focus.",
-  "russian_example_sentence": "Если я попытаюсь учиться, я сосредоточусь.",
-  "turkish_example_sentence": "Eğer çalışmayı denersem, odaklanırım.",
-  "turkish_example_sentence_with_blank": "Eğer çalışmayı ______, odaklanırım."
+  "turkish_example_sentence": "Ben zor matematik problemini denersem, çözebilirim.",
+  "english_example_sentence": "If I try the difficult math problem, I can solve it.",
+  "russian_example_sentence": "Если я попытаюсь решить сложную математическую задачу, я смогу её решить.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:08:53.258631+00:00",
+  "turkish_example_sentence_with_blank": "Ben zor matematik problemini ______, çözebilirim."
 }

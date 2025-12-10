@@ -4,7 +4,7 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "deneyip",
+    "verb_full": "deneyelip",
     "root": "dene",
     "tense_affix": "yip",
     "verb_tense": "ulak_fiil",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Having tried, she succeeded.",
-  "russian_example_sentence": "Попробовав, она добилась успеха.",
-  "turkish_example_sentence": "Deneyip başardı.",
-  "turkish_example_sentence_with_blank": "Deneyip başardı."
+  "turkish_example_sentence": "Yeni spor ayakkabılarını deneyelip çok beğendi.",
+  "english_example_sentence": "Having tried the new sports shoes, she liked them very much.",
+  "russian_example_sentence": "Попробовав новые спортивные туфли, ей они очень понравились.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:09:04.982636+00:00",
+  "turkish_example_sentence_with_blank": "Yeni spor ayakkabılarını ______ çok beğendi."
 }

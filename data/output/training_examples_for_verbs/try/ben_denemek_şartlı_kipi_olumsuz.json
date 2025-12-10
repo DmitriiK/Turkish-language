@@ -4,17 +4,19 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "denemezsem",
+    "verb_full": "denmezse",
     "root": "dene",
-    "tense_affix": "se",
+    "tense_affix": "rse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "mez"
   },
-  "english_example_sentence": "If I don't try harder, I will fail.",
-  "russian_example_sentence": "Если я не постараюсь больше, я провалюсь.",
-  "turkish_example_sentence": "Eğer daha fazla denemezsem, başarısız olurum.",
-  "turkish_example_sentence_with_blank": "Eğer daha fazla ______, başarısız olurum."
+  "turkish_example_sentence": "Ben yeni spor aktivitesini denmezse, hiçbir şey öğrenemem.",
+  "english_example_sentence": "If I don't try the new sport activity, I cannot learn anything.",
+  "russian_example_sentence": "Если я не попытаюсь заниматься новым видом спорта, я ничему не научусь.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:08:53.258631+00:00",
+  "turkish_example_sentence_with_blank": "Ben yeni spor aktivitesini ______, hiçbir şey öğrenemem."
 }

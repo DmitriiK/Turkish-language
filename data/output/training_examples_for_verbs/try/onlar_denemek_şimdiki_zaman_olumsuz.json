@@ -4,7 +4,7 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "demiyorlar",
+    "verb_full": "denmiyorlar",
     "root": "dene",
     "tense_affix": "iyor",
     "verb_tense": "şimdiki_zaman",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "m"
   },
-  "english_example_sentence": "They are not trying the cold white ice cream in winter",
-  "russian_example_sentence": "Они не пробуют холодное белое мороженое зимой",
-  "turkish_example_sentence": "Onlar kış mevsiminde soğuk beyaz dondurmasını demiyorlar",
-  "turkish_example_sentence_with_blank": "Onlar kış mevsiminde soğuk beyaz dondurmasını ______"
+  "turkish_example_sentence": "Onlar bu mevsimde yeni moda tasarımlarını denmiyorlar.",
+  "english_example_sentence": "They are not trying the new fashion designs this season.",
+  "russian_example_sentence": "Они не пытаются новые модные дизайны в этом сезоне.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:09:23.682050+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu mevsimde yeni moda tasarımlarını ______."
 }

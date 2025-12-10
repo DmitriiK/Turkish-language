@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "denememelsiniz",
     "root": "dene",
-    "tense_affix": "memeli",
+    "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "siniz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You must not try to open the locked antique cabinet",
-  "russian_example_sentence": "Вы не должны пытаться открыть запертый антикварный шкаф",
-  "turkish_example_sentence": "Siz kilitli antika dolabını açmayı denememelsiniz",
-  "turkish_example_sentence_with_blank": "Siz kilitli antika dolabını açmayı ______"
+  "turkish_example_sentence": "Siz bu sıcak yazlık günlerde ağır spor yapmak için denememelsiniz.",
+  "english_example_sentence": "You must not try to do heavy exercise during these hot summer days.",
+  "russian_example_sentence": "Вы не должны пытаться заниматься тяжелыми упражнениями в эти жаркие летние дни.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:08:23.901905+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu sıcak yazlık günlerde ağır spor yapmak için ______."
 }

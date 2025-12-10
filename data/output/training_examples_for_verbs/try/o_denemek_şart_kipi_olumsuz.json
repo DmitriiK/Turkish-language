@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "denemese",
     "root": "dene",
-    "tense_affix": "mese",
+    "tense_affix": "se",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If he doesn’t try, he will miss the opportunity.",
-  "russian_example_sentence": "Если он не попробует, он упустит эту возможность.",
-  "turkish_example_sentence": "Denemese fırsatı kaçırır.",
-  "turkish_example_sentence_with_blank": "Denemese fırsatı kaçırır."
+  "turkish_example_sentence": "O eski müzik enstrümanını denemese hiç ilerleme yapamaz.",
+  "english_example_sentence": "If she were not to try the old musical instrument, she could not make any progress.",
+  "russian_example_sentence": "Если бы она не попробовала старый музыкальный инструмент, она не смогла бы добиться прогресса.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:07:26.292133+00:00",
+  "turkish_example_sentence_with_blank": "O eski müzik enstrümanını ______ hiç ilerleme yapamaz."
 }

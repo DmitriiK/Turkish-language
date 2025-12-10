@@ -4,17 +4,19 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "denersen",
+    "verb_full": "denersin",
     "root": "dene",
-    "tense_affix": "erse",
+    "tense_affix": "rse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you try cooking, you’ll enjoy it.",
-  "russian_example_sentence": "Если ты попробуешь готовить, тебе понравится.",
-  "turkish_example_sentence": "Eğer yemek yapmayı denersen, keyif alırsın.",
-  "turkish_example_sentence_with_blank": "Eğer yemek yapmayı ______, keyif alırsın."
+  "turkish_example_sentence": "Sen lezzetli Türk yemeklerini denersin, çok beğenirsin.",
+  "english_example_sentence": "If you try the delicious Turkish dishes, you will like them very much.",
+  "russian_example_sentence": "Если ты попытаешься готовить вкусные турецкие блюда, тебе они очень понравятся.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:08:53.258631+00:00",
+  "turkish_example_sentence_with_blank": "Sen lezzetli Türk yemeklerini ______, çok beğenirsin."
 }

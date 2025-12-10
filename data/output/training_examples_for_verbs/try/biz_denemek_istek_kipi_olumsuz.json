@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "denemeyelim",
     "root": "dene",
-    "tense_affix": "meyelim",
+    "tense_affix": "ye",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "lim",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "Let’s not try this dangerous shortcut.",
-  "russian_example_sentence": "Давайте не попробуем этот опасный короткий путь.",
-  "turkish_example_sentence": "Biz bu tehlikeli kestirmeyi denemeyelim.",
-  "turkish_example_sentence_with_blank": "Biz bu tehlikeli kestirmeyi ______."
+  "turkish_example_sentence": "Biz bu pahalı lüks oteli denemeyelim ve daha ucuz yeri seçelim.",
+  "english_example_sentence": "Let us not try this expensive luxury hotel and choose a cheaper place.",
+  "russian_example_sentence": "Давайте не пробовать этот дорогой люксовый отель и выберем более дешевое место.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:06:51.575213+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu pahalı lüks oteli ______ ve daha ucuz yeri seçelim."
 }

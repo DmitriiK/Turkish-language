@@ -4,17 +4,19 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "deneman lazım",
+    "verb_full": "denemen",
     "root": "dene",
-    "tense_affix": "lazım",
+    "tense_affix": "n",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to try the new Italian restaurant downtown",
-  "russian_example_sentence": "Тебе нужно попробовать новый итальянский ресторан в центре",
-  "turkish_example_sentence": "Sen şehir merkezindeki yeni İtalyan restoranını deneman lazım",
-  "turkish_example_sentence_with_blank": "Sen şehir merkezindeki yeni İtalyan restoranını ______"
+  "turkish_example_sentence": "Sen bu güzel mavi elbiseyi denemen gerek.",
+  "english_example_sentence": "You need to try this beautiful blue dress.",
+  "russian_example_sentence": "Тебе нужно попробовать это красивое синее платье.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:07:45.035775+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu güzel mavi elbiseyi ______ gerek."
 }

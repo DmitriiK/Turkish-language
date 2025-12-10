@@ -4,17 +4,19 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "deneyelim",
+    "verb_full": "deneyalım",
     "root": "dene",
-    "tense_affix": "yelim",
+    "tense_affix": "ye",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "lim",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Let’s try cooking dinner together.",
-  "russian_example_sentence": "Давайте попробуем приготовить ужин вместе.",
-  "turkish_example_sentence": "Biz birlikte akşam yemeği yapmayı deneyelim.",
-  "turkish_example_sentence_with_blank": "Biz birlikte akşam yemeği yapmayı ______."
+  "turkish_example_sentence": "Biz bu heyecan verici yeni oyunu deneyalım ve eğlenelim.",
+  "english_example_sentence": "Let us try this exciting new game and have fun.",
+  "russian_example_sentence": "Давайте попробуем эту захватывающую новую игру и повеселимся.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:06:51.575213+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu heyecan verici yeni oyunu ______ ve eğlenelim."
 }

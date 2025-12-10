@@ -4,7 +4,7 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "denemesinler",
+    "verb_full": "denesinler",
     "root": "dene",
     "tense_affix": "",
     "verb_tense": "emir_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "Let them not try the bitter sour lemon juice",
-  "russian_example_sentence": "Пусть они не пробуют горький кислый лимонный сок",
-  "turkish_example_sentence": "Onlar acı ekşi limon suyunu denemesinler",
-  "turkish_example_sentence_with_blank": "Onlar acı ekşi limon suyunu ______"
+  "turkish_example_sentence": "Onlar bu eski hasarlı bisikleti denesinler.",
+  "english_example_sentence": "Let them not try this old broken bicycle.",
+  "russian_example_sentence": "Пусть они не пытаются этот старый сломанный велосипед.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:07:06.046216+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu eski hasarlı bisikleti ______."
 }

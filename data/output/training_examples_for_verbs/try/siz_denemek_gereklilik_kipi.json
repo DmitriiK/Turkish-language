@@ -4,17 +4,19 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "denemeniz lazım",
+    "verb_full": "denemeniz",
     "root": "dene",
-    "tense_affix": "lazım",
+    "tense_affix": "niz",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "niz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You all need to try the beautiful scenic hiking trail",
-  "russian_example_sentence": "Вам всем нужно попробовать красивую живописную пешеходную тропу",
-  "turkish_example_sentence": "Siz güzel manzaralı yürüyüş patikasını denemeniz lazım",
-  "turkish_example_sentence_with_blank": "Siz güzel manzaralı yürüyüş patikasını ______"
+  "turkish_example_sentence": "Siz bu yeşil organik sebzeyi denemeniz lazım.",
+  "english_example_sentence": "You need to try this green organic vegetable.",
+  "russian_example_sentence": "Вам нужно попробовать этот зеленый органический овощ.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:07:45.035775+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu yeşil organik sebzeyi ______ lazım."
 }

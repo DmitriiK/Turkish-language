@@ -4,7 +4,7 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "denemeyecekler",
+    "verb_full": "denememeyecekler",
     "root": "dene",
     "tense_affix": "yeceğ",
     "verb_tense": "yaracağım",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "They will not try the complicated advanced programming language",
-  "russian_example_sentence": "Они не будут пробовать сложный продвинутый язык программирования",
-  "turkish_example_sentence": "Onlar karmaşık ileri programlama dilini denemeyecekler",
-  "turkish_example_sentence_with_blank": "Onlar karmaşık ileri programlama dilini ______"
+  "turkish_example_sentence": "Onlar bu garip deniz ürünlerini denememeyecekler",
+  "english_example_sentence": "They will not try these strange seafood",
+  "russian_example_sentence": "Они не будут пробовать эти странные морепродукты",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:06:10.320407+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu garip deniz ürünlerini ______"
 }

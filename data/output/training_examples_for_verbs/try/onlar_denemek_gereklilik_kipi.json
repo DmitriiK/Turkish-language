@@ -4,17 +4,19 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "denemeları lazım",
+    "verb_full": "denemeleri",
     "root": "dene",
-    "tense_affix": "lazım",
+    "tense_affix": "leri",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "ları",
+    "personal_affix": "leri",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They need to try the popular traditional Turkish coffee",
-  "russian_example_sentence": "Им нужно попробовать популярный традиционный турецкий кофе",
-  "turkish_example_sentence": "Onlar popüler geleneksel Türk kahvesini denemeları lazım",
-  "turkish_example_sentence_with_blank": "Onlar popüler geleneksel Türk kahvesini ______"
+  "turkish_example_sentence": "Onlar bu sarı tropikal meyvesini denemeleri lazım.",
+  "english_example_sentence": "They need to try this yellow tropical fruit.",
+  "russian_example_sentence": "Им нужно попробовать этот желтый тропический фрукт.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:07:45.035775+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu sarı tropikal meyvesini ______ lazım."
 }

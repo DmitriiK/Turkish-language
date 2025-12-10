@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "deneyeler",
     "root": "dene",
-    "tense_affix": "yeler",
+    "tense_affix": "ye",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "May they try to learn Turkish.",
-  "russian_example_sentence": "Пусть они попробуют выучить турецкий.",
-  "turkish_example_sentence": "Onlar Türkçe öğrenmeyi deneyeler.",
-  "turkish_example_sentence_with_blank": "Onlar Türkçe öğrenmeyi ______."
+  "turkish_example_sentence": "Onlar bu ilginç sanat sergisini deneyeler ve sanat hakkında konuşsunlar.",
+  "english_example_sentence": "May they try this interesting art exhibition and talk about art.",
+  "russian_example_sentence": "Пусть они попробуют эту интересную художественную выставку и поговорят об искусстве.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:06:51.575213+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu ilginç sanat sergisini ______ ve sanat hakkında konuşsunlar."
 }

@@ -4,17 +4,19 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "denememean lazım",
+    "verb_full": "denememem",
     "root": "dene",
-    "tense_affix": "lazım",
+    "tense_affix": "n",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You should not try those old broken skates",
-  "russian_example_sentence": "Тебе не нужно пробовать те старые сломанные коньки",
-  "turkish_example_sentence": "Sen o eski kırık patenleri denememean lazım",
-  "turkish_example_sentence_with_blank": "Sen o eski kırık patenleri ______"
+  "turkish_example_sentence": "Sen bu eski bilgisayarı denememem gerek.",
+  "english_example_sentence": "You don't need to try this old computer.",
+  "russian_example_sentence": "Тебе не нужно пробовать этот старый компьютер.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:07:45.035775+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu eski bilgisayarı ______ gerek."
 }

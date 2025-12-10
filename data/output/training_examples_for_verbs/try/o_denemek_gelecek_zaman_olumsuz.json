@@ -4,7 +4,7 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "denemeyecek",
+    "verb_full": "denememeyecek",
     "root": "dene",
     "tense_affix": "yecek",
     "verb_tense": "gelecek_zaman",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "She will not try the spicy Indian curry dish",
-  "russian_example_sentence": "Она не будет пытаться острое индийское карри",
-  "turkish_example_sentence": "O acı Hint köri yemeğini denemeyecek",
-  "turkish_example_sentence_with_blank": "O acı Hint köri yemeğini ______"
+  "turkish_example_sentence": "O hiçbir zaman karmaşık Çin dilini denememeyecek",
+  "english_example_sentence": "He will never try the complex Chinese language",
+  "russian_example_sentence": "Он никогда не будет пытаться изучать сложный китайский язык",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:10:01.490998+00:00",
+  "turkish_example_sentence_with_blank": "O hiçbir zaman karmaşık Çin dilini ______"
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "deneyesin",
     "root": "dene",
-    "tense_affix": "yesin",
+    "tense_affix": "ye",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "May you try a new sport today.",
-  "russian_example_sentence": "Пусть ты попробуешь новый спорт сегодня.",
-  "turkish_example_sentence": "Sen bugün yeni bir sporu deneyesin.",
-  "turkish_example_sentence_with_blank": "Sen bugün yeni bir sporu ______."
+  "turkish_example_sentence": "Sen bu güzel Türk kahvesini deneyesin ve tadını al.",
+  "english_example_sentence": "May you try this beautiful Turkish coffee and enjoy its taste.",
+  "russian_example_sentence": "Пусть ты попробуешь этот прекрасный турецкий кофе и насладишься его вкусом.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:06:51.575213+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu güzel Türk kahvesini ______ ve tadını al."
 }

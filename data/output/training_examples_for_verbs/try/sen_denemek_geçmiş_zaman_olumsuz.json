@@ -4,7 +4,7 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "denemeddin",
+    "verb_full": "denedin",
     "root": "dene",
     "tense_affix": "di",
     "verb_tense": "geçmiş_zaman",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You did not try the spicy Indian curry",
-  "russian_example_sentence": "Ты не пробовал острое индийское карри",
-  "turkish_example_sentence": "Sen acı Hint körisini denemeddin",
-  "turkish_example_sentence_with_blank": "Sen acı Hint körisini ______"
+  "turkish_example_sentence": "Sen parkta yeni spor aktivitesini denedin mi?",
+  "english_example_sentence": "Did you not try the new sport activity in the park?",
+  "russian_example_sentence": "Ты не попробовал новое спортивное занятие в парке?",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:09:41.460771+00:00",
+  "turkish_example_sentence_with_blank": "Sen parkta yeni spor aktivitesini ______ mi?"
 }

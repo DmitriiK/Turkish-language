@@ -4,17 +4,19 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "denemeyeyim",
+    "verb_full": "denemeyelim",
     "root": "dene",
-    "tense_affix": "meyeyim",
+    "tense_affix": "ye",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "yim",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "Let me not try this chair.",
-  "russian_example_sentence": "Позвольте мне не пробовать этот стул.",
-  "turkish_example_sentence": "Ben bu sandalyeyi denemeyeyim.",
-  "turkish_example_sentence_with_blank": "Ben bu sandalyeyi ______."
+  "turkish_example_sentence": "Ben bu tehlikeli deneyimi denemeyelim çünkü çok riskli.",
+  "english_example_sentence": "Let me not try this dangerous experiment because it is very risky.",
+  "russian_example_sentence": "Позвольте мне не пробовать этот опасный эксперимент потому что это очень рискованно.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:06:51.575213+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu tehlikeli deneyimi ______ çünkü çok riskli."
 }

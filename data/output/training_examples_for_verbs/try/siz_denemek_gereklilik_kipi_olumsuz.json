@@ -4,17 +4,19 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "denemememeniz lazım",
+    "verb_full": "denememiz",
     "root": "dene",
-    "tense_affix": "lazım",
+    "tense_affix": "niz",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "niz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You should not try those heavy difficult academic courses",
-  "russian_example_sentence": "Вам не нужно пробовать эти тяжелые сложные академические курсы",
-  "turkish_example_sentence": "Siz o ağır zor akademik dersleri denemememeniz lazım",
-  "turkish_example_sentence_with_blank": "Siz o ağır zor akademik dersleri ______"
+  "turkish_example_sentence": "Siz bu acı Meksika sosunu denememiz gerek.",
+  "english_example_sentence": "You don't need to try this spicy Mexican sauce.",
+  "russian_example_sentence": "Вам не нужно пробовать этот острый мексиканский соус.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:07:45.035775+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu acı Meksika sosunu ______ gerek."
 }

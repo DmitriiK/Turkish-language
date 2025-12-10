@@ -4,17 +4,19 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "denemeyesin",
+    "verb_full": "denemesin",
     "root": "dene",
-    "tense_affix": "meyesin",
+    "tense_affix": "ye",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "sin",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "May you not try anything dangerous.",
-  "russian_example_sentence": "Пусть ты не пробуешь ничего опасного.",
-  "turkish_example_sentence": "Sen tehlikeli bir şeyi denemeyesin.",
-  "turkish_example_sentence_with_blank": "Sen tehlikeli bir şeyi ______."
+  "turkish_example_sentence": "Sen bu acı biber sosunu denemesin çünkü çok ateşli.",
+  "english_example_sentence": "Don't try this spicy chili sauce because it is very hot.",
+  "russian_example_sentence": "Не пробуй этот острый соус чили потому что он очень горячий.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:06:51.575213+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu acı biber sosunu ______ çünkü çok ateşli."
 }

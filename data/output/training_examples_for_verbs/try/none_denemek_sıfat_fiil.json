@@ -4,17 +4,19 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "deneyen",
+    "verb_full": "denemeyen",
     "root": "dene",
-    "tense_affix": "yen",
+    "tense_affix": "yan",
     "verb_tense": "sıfat_fiil",
     "personal_pronoun": null,
     "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The person trying a new recipe",
-  "russian_example_sentence": "Человек, пытающийся приготовить новый рецепт",
-  "turkish_example_sentence": "Yeni bir tarif deneyen kişi",
-  "turkish_example_sentence_with_blank": "Yeni bir tarif ______ kişi"
+  "turkish_example_sentence": "Yeni spor aktivitesini denemeyen genç kız arkadaşlarından utanıyor.",
+  "english_example_sentence": "The young girl who does not try the new sports activity is ashamed of her friends.",
+  "russian_example_sentence": "Молодая девушка, которая пробует новую спортивную активность, стыдится своих друзей.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:08:59.167925+00:00",
+  "turkish_example_sentence_with_blank": "Yeni spor aktivitesini ______ genç kız arkadaşlarından utanıyor."
 }

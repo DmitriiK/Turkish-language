@@ -4,17 +4,19 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "denemem lazım",
+    "verb_full": "denemem",
     "root": "dene",
-    "tense_affix": "lazım",
+    "tense_affix": "m",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I need to try this delicious Turkish dessert",
-  "russian_example_sentence": "Мне нужно попробовать этот вкусный турецкий десерт",
-  "turkish_example_sentence": "Ben bu lezzetli Türk tatlısını denemem lazım",
-  "turkish_example_sentence_with_blank": "Ben bu lezzetli Türk tatlısını ______"
+  "turkish_example_sentence": "Ben yeni İtalyan restoranında lezzetli pasta denemem lazım.",
+  "english_example_sentence": "I need to try delicious pasta at the new Italian restaurant.",
+  "russian_example_sentence": "Мне нужно попробовать вкусную пасту в новом итальянском ресторане.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T17:07:45.035775+00:00",
+  "turkish_example_sentence_with_blank": "Ben yeni İtalyan restoranında lezzetli pasta ______ lazım."
 }
