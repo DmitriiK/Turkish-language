@@ -1,0 +1,20 @@
+{
+  "verb_rank": 6,
+  "verb_english": "get",
+  "verb_russian": "получать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "alırsam",
+    "root": "al",
+    "tense_affix": "ırsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "english_example_sentence": "If I receive the package, I will be happy",
+  "russian_example_sentence": "Если я получу посылку, я буду счастлив",
+  "turkish_example_sentence": "Paketi alırsam, mutlu olurum",
+  "turkish_example_sentence_with_blank": "Paketi ______, mutlu olurum"
+}

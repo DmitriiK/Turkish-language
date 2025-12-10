@@ -1,0 +1,20 @@
+{
+  "verb_rank": 6,
+  "verb_english": "get",
+  "verb_russian": "получать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almamalıyım",
+    "root": "al",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "yım",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "I must not receive any more notifications.",
+  "russian_example_sentence": "Я не должен больше получать уведомления.",
+  "turkish_example_sentence": "Ben artık başka bildirim almamalıyım.",
+  "turkish_example_sentence_with_blank": "Ben artık başka bildirim ______."
+}

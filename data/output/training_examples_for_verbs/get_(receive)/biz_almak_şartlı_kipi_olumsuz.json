@@ -1,0 +1,20 @@
+{
+  "verb_rank": 6,
+  "verb_english": "get",
+  "verb_russian": "получать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almazsak",
+    "root": "al",
+    "tense_affix": "mazsa",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "maz"
+  },
+  "english_example_sentence": "If we don’t receive the package, we will contact the seller",
+  "russian_example_sentence": "Если мы не получим посылку, мы свяжемся с продавцом",
+  "turkish_example_sentence": "Paketi almazsak, satıcıyla iletişime geçeriz",
+  "turkish_example_sentence_with_blank": "Paketi ______, satıcıyla iletişime geçeriz"
+}

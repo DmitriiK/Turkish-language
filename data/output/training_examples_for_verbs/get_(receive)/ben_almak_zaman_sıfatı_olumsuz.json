@@ -1,0 +1,20 @@
+{
+  "verb_rank": 6,
+  "verb_english": "get",
+  "verb_russian": "получать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almadığımda",
+    "root": "al",
+    "tense_affix": "dık",
+    "verb_tense": "zaman_sıfatı",
+    "personal_pronoun": "ben",
+    "personal_affix": "ım",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "When I don't receive news, I feel worried.",
+  "russian_example_sentence": "Когда я не получаю новости, я чувствую беспокойство.",
+  "turkish_example_sentence": "Ben haber almadığımda, endişeli hissediyorum.",
+  "turkish_example_sentence_with_blank": "Ben haber ______, endişeli hissediyorum."
+}

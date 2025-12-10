@@ -1,0 +1,20 @@
+{
+  "verb_rank": 6,
+  "verb_english": "get",
+  "verb_russian": "получать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almasın",
+    "root": "al",
+    "tense_affix": "sın",
+    "verb_tense": "emir_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": "sın",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "english_example_sentence": "Let him not take this bag from the car.",
+  "russian_example_sentence": "Пусть он не берет эту сумку из машины.",
+  "turkish_example_sentence": "Bu çantayı arabadan almasın.",
+  "turkish_example_sentence_with_blank": "Bu çantayı arabadan ______."
+}
