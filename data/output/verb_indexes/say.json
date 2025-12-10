@@ -1069,6 +1069,12 @@
     },
     {
       "tense": "şimdiki_zaman",
+      "pronoun": "ben",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/say/ben_söylemek_şimdiki_zaman_test.json"
+    },
+    {
+      "tense": "şimdiki_zaman",
       "pronoun": "biz",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/say/biz_söylemek_şimdiki_zaman.json"

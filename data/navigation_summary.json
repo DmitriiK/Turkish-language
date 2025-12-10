@@ -1,6 +1,6 @@
 {
-  "total_verbs": 104,
-  "total_indexes": 104,
+  "total_verbs": 103,
+  "total_indexes": 103,
   "verbs": [
     {
       "rank": 1,
@@ -14,7 +14,6 @@
         "gelecek_zaman",
         "geniş_zaman",
         "gereklilik_kipi",
-        "geçmiş_gelecek_zaman",
         "geçmiş_zaman",
         "imkan_kipi",
         "istek_kipi",
@@ -28,7 +27,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 182
+      "total_examples": 166
     },
     {
       "rank": 2,
@@ -84,7 +83,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 182
+      "total_examples": 176
     },
     {
       "rank": 4,
@@ -112,7 +111,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 182
+      "total_examples": 183
     },
     {
       "rank": 5,
@@ -140,35 +139,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 182
-    },
-    {
-      "rank": 6,
-      "english": "get",
-      "russian": "получать",
-      "turkish": "almak",
-      "folder": "get_(receive)",
-      "tenses": [
-        "emir_kipi",
-        "farzî_geçmiş_zaman",
-        "gelecek_zaman",
-        "geniş_zaman",
-        "gereklilik_kipi",
-        "geçmiş_gelecek_zaman",
-        "geçmiş_zaman",
-        "imkan_kipi",
-        "istek_kipi",
-        "sıfat_fiil",
-        "ulak_fiil",
-        "yaracağım",
-        "zaman_sıfatı",
-        "zarf_fiil",
-        "zorunluluk_kipi",
-        "şart_kipi",
-        "şartlı_kipi",
-        "şimdiki_zaman"
-      ],
-      "total_examples": 182
+      "total_examples": 176
     },
     {
       "rank": 7,
@@ -196,7 +167,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 182
+      "total_examples": 176
     },
     {
       "rank": 8,
@@ -224,7 +195,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 182
+      "total_examples": 176
     },
     {
       "rank": 9,
@@ -252,7 +223,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 182
+      "total_examples": 174
     },
     {
       "rank": 10,
@@ -280,7 +251,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 182
+      "total_examples": 176
     },
     {
       "rank": 11,
@@ -448,7 +419,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 182
+      "total_examples": 180
     },
     {
       "rank": 17,
@@ -532,11 +503,11 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 182
+      "total_examples": 181
     },
     {
       "rank": 20,
-      "english": "call (phone)",
+      "english": "call",
       "russian": "звонить",
       "turkish": "aramak",
       "folder": "call_(phone)",
@@ -627,7 +598,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 182
+      "total_examples": 181
     },
     {
       "rank": 23,
@@ -1402,7 +1373,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 182
+      "total_examples": 181
     },
     {
       "rank": 50,

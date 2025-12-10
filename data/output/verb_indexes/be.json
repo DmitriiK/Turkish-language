@@ -342,78 +342,6 @@
       "file_path": "data/output/training_examples_for_verbs/be/siz_olmak_gereklilik_kipi.json"
     },
     {
-      "tense": "geçmiş_gelecek_zaman",
-      "pronoun": "ben",
-      "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/be/ben_olmak_geçmiş_gelecek_zaman_olumsuz.json"
-    },
-    {
-      "tense": "geçmiş_gelecek_zaman",
-      "pronoun": "biz",
-      "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/be/biz_olmak_geçmiş_gelecek_zaman_olumsuz.json"
-    },
-    {
-      "tense": "geçmiş_gelecek_zaman",
-      "pronoun": "o",
-      "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/be/o_olmak_geçmiş_gelecek_zaman_olumsuz.json"
-    },
-    {
-      "tense": "geçmiş_gelecek_zaman",
-      "pronoun": "onlar",
-      "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/be/onlar_olmak_geçmiş_gelecek_zaman_olumsuz.json"
-    },
-    {
-      "tense": "geçmiş_gelecek_zaman",
-      "pronoun": "sen",
-      "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/be/sen_olmak_geçmiş_gelecek_zaman_olumsuz.json"
-    },
-    {
-      "tense": "geçmiş_gelecek_zaman",
-      "pronoun": "siz",
-      "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/be/siz_olmak_geçmiş_gelecek_zaman_olumsuz.json"
-    },
-    {
-      "tense": "geçmiş_gelecek_zaman",
-      "pronoun": "ben",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/be/ben_olmak_geçmiş_gelecek_zaman.json"
-    },
-    {
-      "tense": "geçmiş_gelecek_zaman",
-      "pronoun": "biz",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/be/biz_olmak_geçmiş_gelecek_zaman.json"
-    },
-    {
-      "tense": "geçmiş_gelecek_zaman",
-      "pronoun": "o",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/be/o_olmak_geçmiş_gelecek_zaman.json"
-    },
-    {
-      "tense": "geçmiş_gelecek_zaman",
-      "pronoun": "onlar",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/be/onlar_olmak_geçmiş_gelecek_zaman.json"
-    },
-    {
-      "tense": "geçmiş_gelecek_zaman",
-      "pronoun": "sen",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/be/sen_olmak_geçmiş_gelecek_zaman.json"
-    },
-    {
-      "tense": "geçmiş_gelecek_zaman",
-      "pronoun": "siz",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/be/siz_olmak_geçmiş_gelecek_zaman.json"
-    },
-    {
       "tense": "geçmiş_zaman",
       "pronoun": "ben",
       "polarity": "negative",
@@ -751,18 +679,6 @@
     },
     {
       "tense": "zaman_sıfatı",
-      "pronoun": "sen",
-      "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/be/sen_olmak_zaman_sıfatı_olumsuz.json"
-    },
-    {
-      "tense": "zaman_sıfatı",
-      "pronoun": "siz",
-      "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/be/siz_olmak_zaman_sıfatı_olumsuz.json"
-    },
-    {
-      "tense": "zaman_sıfatı",
       "pronoun": "ben",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/be/ben_olmak_zaman_sıfatı.json"
@@ -784,18 +700,6 @@
       "pronoun": "onlar",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/be/onlar_olmak_zaman_sıfatı.json"
-    },
-    {
-      "tense": "zaman_sıfatı",
-      "pronoun": "sen",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/be/sen_olmak_zaman_sıfatı.json"
-    },
-    {
-      "tense": "zaman_sıfatı",
-      "pronoun": "siz",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/be/siz_olmak_zaman_sıfatı.json"
     },
     {
       "tense": "zarf_fiil",
