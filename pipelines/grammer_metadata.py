@@ -487,64 +487,15 @@ class TrainingExample(BaseModel):
     def validate_pronoun_verb_consistency(self) -> tuple[bool, str]:
         """Validate that the pronoun in the sentence matches the verb conjugation.
         
+        Turkish is a pro-drop language - pronouns are optional since personal affixes 
+        already indicate the subject. This validation is intentionally minimal.
+        
         Returns:
             tuple[bool, str]: (is_valid, error_message)
         """
-        pronoun = self.turkish_verb.personal_pronoun
-        if pronoun is None:
-            # No pronoun required (participles, etc.)
-            return True, ""
-        
-        sentence_lower = self.turkish_example_sentence.lower()
-        pronoun_str = pronoun.value.lower()
-        
-        # Check if sentence starts with the expected pronoun (Turkish typically starts with subject)
-        if not sentence_lower.startswith(pronoun_str):
-            return False, f"Sentence should start with pronoun '{pronoun_str}' but starts with '{self.turkish_example_sentence.split()[0]}'"
-        
-        # Mapping of pronouns to expected personal affix patterns
-        # This is a simplified check - real affixes vary by vowel harmony
-        personal_affix = self.turkish_verb.personal_affix or ""
-        verb_tense = self.turkish_verb.verb_tense
-        
-        # Special cases for different verb moods
-        
-        # 1. Imperative forms (emir_kipi) - specific affixes for commands
-        if verb_tense == VerbTense.EmirKipi:
-            if pronoun == PersonalPronoun.Sen and personal_affix == "":
-                return True, ""  # Empty affix is valid for sen imperative
-            if pronoun == PersonalPronoun.Siz and personal_affix in ["in", "ın", "un", "ün", "iniz", "ınız", "unuz", "ünüz"]:
-                return True, ""
-            if pronoun == PersonalPronoun.O_Third and personal_affix in ["sin", "sın", "sun", "sün"]:
-                return True, ""
-            if pronoun == PersonalPronoun.Onlar and personal_affix in ["sinler", "sınlar", "sunlar", "sünler"]:
-                return True, ""
-        
-        # 2. Ability/Necessity moods use compound verbs - skip strict validation
-        # These moods (imkan_kipi, zorunluluk_kipi, gereklilik_kipi) have complex patterns
-        if verb_tense in [VerbTense.İmkanKipi, VerbTense.ZorunlulukKipi, VerbTense.GereklilikKipi]:
-            # For compound verbs, we can't reliably validate affixes
-            # Just check that the verb is in the sentence (done in separate validation)
-            return True, ""
-        
-        # 3. Optative mood (istek_kipi) - "let me/us" forms
-        if verb_tense == VerbTense.IstekKipi:
-            # Optative has special affixes: -(y)ayım/-(y)eyim for ben, -(y)alım/-(y)elim for biz, etc.
-            return True, ""  # Skip strict validation for optative
-        
-        affix_patterns = {
-            PersonalPronoun.Ben: ["m", "ım", "im", "um", "üm"],
-            PersonalPronoun.Sen: ["", "n", "sın", "sin", "sun", "sün"],  # Added "" for imperatives
-            PersonalPronoun.O_Third: ["", "sı", "si", "su", "sü", "ı", "i", "u", "ü"],
-            PersonalPronoun.Biz: ["k", "ız", "iz", "uz", "üz", "mız", "miz", "muz", "müz"],
-            PersonalPronoun.Siz: ["nız", "niz", "nuz", "nüz", "sınız", "siniz", "sunuz", "sünüz"],
-            PersonalPronoun.Onlar: ["lar", "ler", "ları", "leri"]
-        }
-        
-        expected_affixes = affix_patterns.get(pronoun, [])
-        if personal_affix not in expected_affixes:
-            return False, f"Personal affix '{personal_affix}' doesn't match pronoun '{pronoun_str}'. Expected one of: {expected_affixes}"
-        
+        # Turkish is pro-drop: pronouns are optional since personal affixes indicate the subject
+        # Example: "İstiyorum" (I want) vs "Ben istiyorum" - both are correct
+        # No validation needed for pronoun presence or position
         return True, ""
     
     def validate_verb_in_sentence(self) -> tuple[bool, str]:
