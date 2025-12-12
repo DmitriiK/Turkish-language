@@ -789,6 +789,17 @@ def validate_and_parse_response(
     except json.JSONDecodeError as e:
         return None, f"Failed to parse JSON. Error: {e}\nResponse text: {response_text[:500]}"
     
+    # Fix common null value issues in turkish_verb fields
+    # Sometimes AI models return null for tense_affix in negative forms, fix it to empty string
+    if batch_mode and "examples" in json_data:
+        for example in json_data["examples"]:
+            if "turkish_verb" in example and isinstance(example["turkish_verb"], dict):
+                if example["turkish_verb"].get("tense_affix") is None:
+                    example["turkish_verb"]["tense_affix"] = ""
+    elif "turkish_verb" in json_data and isinstance(json_data["turkish_verb"], dict):
+        if json_data["turkish_verb"].get("tense_affix") is None:
+            json_data["turkish_verb"]["tense_affix"] = ""
+    
     # Validate against Pydantic model
     try:
         if batch_mode:
@@ -914,7 +925,8 @@ def call_dial_api(
     config: dict,
     provider: str,
     conversation_history: list[dict] = None,
-    claude_model_index: int = 0
+    claude_model_index: int = 0,
+    timeout_retries: int = 1
 ) -> tuple[str, int, int, str]:
     """Make a request to DIAL API and return the response.
     
@@ -924,6 +936,7 @@ def call_dial_api(
         provider: Provider name (openai, claude, gemini, deepseek)
         conversation_history: Optional conversation history for retry logic
         claude_model_index: Index in CLAUDE_MODEL_ROTATION list (for rotation)
+        timeout_retries: Number of times to retry on timeout errors (default: 1)
     
     Returns:
         Tuple of (response_text, prompt_tokens, completion_tokens, model_name)
@@ -993,23 +1006,65 @@ def call_dial_api(
     prompt_tokens = 0
     completion_tokens = 0
     
+    # Retry loop for timeout and 502 errors
+    for attempt in range(timeout_retries + 1):
+        try:
+            # Make API request
+            response = requests.post(api_url, headers=headers, json=payload, timeout=300)
+            
+            # Calculate duration
+            duration = time.time() - start_time
+            
+            # Check for 502 errors (retryable)
+            if response.status_code == 502:
+                if attempt < timeout_retries:
+                    wait_time = 10 * (attempt + 1)  # 10s, 20s, 30s...
+                    print(f"   ⚠️  502 error: {response.text} (attempt {attempt + 1}/{timeout_retries + 1})")
+                    print(f"   🔄 Retrying in {wait_time}s...")
+                    time.sleep(wait_time)
+                    start_time = time.time()  # Reset timer for retry
+                    continue
+                else:
+                    # Final 502 - log and raise
+                    error_msg = f"502 error after {timeout_retries + 1} attempts: {response.text}"
+                    llm_call_logger.log_call(model_name, 0, 0, duration, error_msg)
+                    raise ValueError(
+                        f"DIAL API request failed after {timeout_retries + 1} attempts. "
+                        f"Status: 502, Response: {response.text}"
+                    )
+            
+            # Check for other non-200 responses (not retryable)
+            if response.status_code != 200:
+                error_msg = f"Status {response.status_code}: {response.text}"
+                llm_call_logger.log_call(model_name, 0, 0, duration, error_msg)
+                raise ValueError(
+                    f"DIAL API request failed. Status: {response.status_code}, "
+                    f"Response: {response.text}"
+                )
+            
+            data = response.json()
+            break  # Success, exit retry loop
+            
+        except (requests.exceptions.Timeout, requests.exceptions.ConnectTimeout, requests.exceptions.ReadTimeout) as timeout_error:
+            duration = time.time() - start_time
+            timeout_type = type(timeout_error).__name__
+            if attempt < timeout_retries:
+                wait_time = 10 * (attempt + 1)  # 10s, 20s, 30s...
+                print(f"   ⚠️  {timeout_type} after {duration:.1f}s (attempt {attempt + 1}/{timeout_retries + 1})")
+                print(f"   🔄 Retrying in {wait_time}s...")
+                time.sleep(wait_time)
+                start_time = time.time()  # Reset timer for retry
+                continue
+            else:
+                # Final timeout - log and raise
+                error_msg = f"{timeout_type} after {duration:.1f}s (all {timeout_retries + 1} attempts failed)"
+                llm_call_logger.log_call(model_name, 0, 0, duration, error_msg)
+                raise
+    
+    # Process successful response
     try:
-        # Make API request
-        response = requests.post(api_url, headers=headers, json=payload, timeout=300)
-        
-        # Calculate duration
+        # Calculate final duration
         duration = time.time() - start_time
-        
-        # Check for successful response
-        if response.status_code != 200:
-            error_msg = f"Status {response.status_code}: {response.text}"
-            llm_call_logger.log_call(model_name, 0, 0, duration, error_msg)
-            raise ValueError(
-                f"DIAL API request failed. Status: {response.status_code}, "
-                f"Response: {response.text}"
-            )
-        
-        data = response.json()
         
         # Extract response content
         if 'choices' not in data or len(data['choices']) == 0:
@@ -1112,7 +1167,8 @@ def generate_training_example(
     config: Optional[dict] = None,
     provider: str = "openai",
     rate_limiter: Optional[RateLimiter] = None,
-    max_retries: int = 3
+    max_retries: int = 3,
+    timeout_retries: int = 1
 ) -> Tuple[List[TrainingExample], int, int]:
     """Generate training examples using DIAL API.
     
@@ -1129,6 +1185,8 @@ def generate_training_example(
         config: Configuration dictionary (will be loaded if None)
         provider: LLM provider to use (openai, claude, gemini, deepseek)
         rate_limiter: Optional rate limiter to control request frequency
+        max_retries: Maximum number of retries on validation errors
+        timeout_retries: Number of times to retry on timeout errors (default: 1)
         max_retries: Maximum number of retries on validation errors
     
     Returns:
@@ -1211,7 +1269,8 @@ def generate_training_example(
                     config,
                     provider,
                     conversation_history,
-                    claude_model_index=CLAUDE_MODEL_INDEX if provider == 'claude' else 0
+                    claude_model_index=CLAUDE_MODEL_INDEX if provider == 'claude' else 0,
+                    timeout_retries=timeout_retries
                 )
                 
                 total_prompt_tokens += prompt_tokens
@@ -1220,7 +1279,20 @@ def generate_training_example(
             except (requests.exceptions.RequestException, ValueError) as req_error:
                 # Handle rate limit errors
                 error_str = str(req_error)
-                is_rate_limit = '429' in error_str or 'rate limit' in error_str.lower() or 'day limit' in error_str.lower()
+                is_rate_limit = '429' in error_str or 'rate limit' in error_str.lower()
+                
+                # Check for daily/quota limits (NOT retryable)
+                is_quota_exceeded = any(phrase in error_str.lower() for phrase in [
+                    'day limit', 'daily limit', 'daily token limit', 
+                    'quota exceeded', 'exceeded your daily'
+                ])
+                
+                if is_quota_exceeded:
+                    print(f"   ❌ DAILY QUOTA EXCEEDED - Cannot retry")
+                    print(f"   📊 Error: {error_str[:200]}")
+                    raise ValueError(
+                        "Daily token quota exceeded. Wait until tomorrow or switch to a different provider."
+                    )
                 
                 if is_rate_limit:
                     # Check if we're using Claude and rotation is enabled
@@ -1398,13 +1470,19 @@ def generate_training_example(
             # Handle fatal errors
             error_str = str(outer_error)
             
-            # Check for daily quota limit
-            if 'GenerateRequestsPerDayPerProjectPerModel' in error_str or \
-               'generate_requests_per_model_per_day' in error_str.lower():
+            # Check for daily quota limit (more comprehensive patterns)
+            is_daily_quota_exceeded = any(phrase in error_str.lower() for phrase in [
+                'day limit', 'daily limit', 'daily token limit',
+                'quota exceeded', 'exceeded your daily',
+                'generate_requests_per_day', 'generaterequestsperday'
+            ])
+            
+            if is_daily_quota_exceeded:
                 print("   ❌ FATAL: Daily quota limit reached!")
+                print(f"   📊 Error: {error_str[:300]}")
                 raise RuntimeError("Daily quota limit reached. Cannot continue.") from outer_error
             
-            # Check for rate limit during setup
+            # Check for per-minute rate limit (retryable)
             if '429' in error_str or 'RateLimitReached' in error_str or 'rate limit' in error_str.lower():
                 if attempt < max_retries:
                     retry_delay = extract_retry_delay(error_str)
@@ -1514,7 +1592,8 @@ def main(
     pronouns: Optional[List[str]] = None,
     polarities: Optional[List[str]] = None,
     provider: Optional[str] = None,
-    skip_existing: bool = False
+    skip_existing: bool = False,
+    timeout_retries: int = 1
 ):
     """Main pipeline function
     
@@ -1528,6 +1607,7 @@ def main(
         polarities: List of specific polarities to generate (None = all). Values: positive, negative
         provider: LLM provider to use ("gemini" or "azure"). If None, uses default from config
         skip_existing: If True, skip combinations that already have generated files
+        timeout_retries: Number of times to retry on timeout errors (default: 1)
     """
     # Load configuration
     config = load_config()
@@ -1784,7 +1864,8 @@ def main(
                         language_level=level,
                         config=config,
                         provider=provider,
-                        rate_limiter=rate_limiter
+                        rate_limiter=rate_limiter,
+                        timeout_retries=timeout_retries
                     )
                     
                     # Track token usage (total and per-verb)
@@ -1887,7 +1968,8 @@ def main(
                     language_level=level,
                     config=config,
                     provider=provider,
-                    rate_limiter=rate_limiter
+                    rate_limiter=rate_limiter,
+                    timeout_retries=timeout_retries
                 )
                 
                 file_duration = time.time() - file_start_time
@@ -2038,6 +2120,12 @@ if __name__ == "__main__":
         action="store_true",
         help="Skip generating files that already exist"
     )
+    parser.add_argument(
+        "--timeout-retries",
+        type=int,
+        default=1,
+        help="Number of times to retry on timeout errors (default: 1)"
+    )
     
     args = parser.parse_args()
     
@@ -2102,7 +2190,8 @@ if __name__ == "__main__":
                     pronouns=args.pronouns,
                     polarities=args.polarities,
                     provider=args.provider,
-                    skip_existing=args.skip_existing
+                    skip_existing=args.skip_existing,
+                    timeout_retries=args.timeout_retries
                 )
             
             print(f"\n  ✅ Completed '{verb_name}' across all {len(levels)} levels")
@@ -2128,7 +2217,8 @@ if __name__ == "__main__":
                     pronouns=args.pronouns,
                     polarities=args.polarities,
                     provider=args.provider,
-                    skip_existing=args.skip_existing
+                    skip_existing=args.skip_existing,
+                    timeout_retries=args.timeout_retries
                 )
             else:
                 top_n = args.top_n_verbs if args.top_n_verbs else 10
@@ -2140,5 +2230,6 @@ if __name__ == "__main__":
                     pronouns=args.pronouns,
                     polarities=args.polarities,
                     provider=args.provider,
-                    skip_existing=args.skip_existing
+                    skip_existing=args.skip_existing,
+                    timeout_retries=args.timeout_retries
                 )
