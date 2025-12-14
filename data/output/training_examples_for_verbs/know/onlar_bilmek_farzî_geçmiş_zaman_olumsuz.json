@@ -4,19 +4,19 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilmemiş olsalar",
+    "verb_full": "bilmemişlerse",
     "root": "bil",
-    "tense_affix": "miş",
+    "tense_affix": "mişlerse",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Onlar bu gizli formülü bilmemiş olsalar, rakip şirket onları geçemezdi.",
-  "english_example_sentence": "If they had not known this secret formula, the rival company could not have surpassed them.",
-  "russian_example_sentence": "Если бы они не знали эту секретную формулу, конкурирующая компания не смогла бы их превзойти.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T11:55:04.203098+00:00",
-  "turkish_example_sentence_with_blank": "Onlar bu gizli formülü ______, rakip şirket onları geçemezdi."
+  "turkish_example_sentence": "Onlar doğru yolu bilmemişlerse, ormanda kaybolurlardı.",
+  "english_example_sentence": "If they hadn't known the correct path, they would have gotten lost in the forest.",
+  "russian_example_sentence": "Если бы они не знали правильного пути, они бы заблудились в лесу.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:32:10.923988+00:00",
+  "turkish_example_sentence_with_blank": "Onlar doğru yolu ______, ormanda kaybolurlardı."
 }

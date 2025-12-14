@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "düşünmedin",
     "root": "düşün",
-    "tense_affix": "dü",
+    "tense_affix": "di",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Sen arkadaşının kızgın tepkisini düşünmedin.",
-  "english_example_sentence": "You did not think about your friend's angry reaction.",
-  "russian_example_sentence": "Ты не думал о злой реакции твоего друга.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T11:56:12.282519+00:00",
-  "turkish_example_sentence_with_blank": "Sen arkadaşının kızgın tepkisini ______."
+  "turkish_example_sentence": "Sen onun sözlerini dikkatlice düşünmedin mi?",
+  "english_example_sentence": "Didn't you carefully consider his words?",
+  "russian_example_sentence": "Разве ты не обдумал его слова внимательно?",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:53:20.432292+00:00",
+  "turkish_example_sentence_with_blank": "Sen onun sözlerini dikkatlice ______ mi?"
 }

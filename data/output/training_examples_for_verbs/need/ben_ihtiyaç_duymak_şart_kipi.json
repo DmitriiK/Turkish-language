@@ -5,7 +5,7 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duysam",
-    "root": "ihtiyaç duy",
+    "root": "duy",
     "tense_affix": "sa",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "ben",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I needed your help, I would call you",
-  "russian_example_sentence": "Если бы мне понадобилась твоя помощь, я бы позвонил тебе",
-  "turkish_example_sentence": "Senin yardımına ihtiyaç duysam, seni ararım",
-  "turkish_example_sentence_with_blank": "Senin yardımına ______, seni ararım"
+  "turkish_example_sentence": "Ben acil yardım ihtiyaç duysam, hemen ararım.",
+  "english_example_sentence": "If I needed urgent help, I would call immediately.",
+  "russian_example_sentence": "Если бы мне нужна была срочная помощь, я бы сразу позвонил.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:29:56.590821+00:00",
+  "turkish_example_sentence_with_blank": "Ben acil yardım ______, hemen ararım."
 }

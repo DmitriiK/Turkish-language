@@ -4,7 +4,7 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmemesiniz",
+    "verb_full": "düşünmemelisiniz",
     "root": "düşün",
     "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
@@ -13,10 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Siz başkalarının kişisel hayatlarını merak ederek düşünmemesiniz.",
-  "english_example_sentence": "You must not think about other people's personal lives out of curiosity.",
-  "russian_example_sentence": "Вы не должны думать о личной жизни других людей из любопытства.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T11:58:13.868037+00:00",
-  "turkish_example_sentence_with_blank": "Siz başkalarının kişisel hayatlarını merak ederek ______."
+  "turkish_example_sentence": "Siz geçmişteki sorunları tekrar düşünmemelisiniz.",
+  "english_example_sentence": "You must not think about past problems again.",
+  "russian_example_sentence": "Вы не должны снова думать о прошлых проблемах.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:51:09.159375+00:00",
+  "turkish_example_sentence_with_blank": "Siz geçmişteki sorunları tekrar ______."
 }

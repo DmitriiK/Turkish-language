@@ -4,19 +4,19 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünürsünüz",
+    "verb_full": "düşünürseniz",
     "root": "düşün",
-    "tense_affix": "ürse",
+    "tense_affix": "ür",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "nüz",
+    "personal_affix": "seniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Siz bu karmaşık bilimsel teorileri düşünürsünüz, daha iyi anlayabilirsiniz.",
-  "english_example_sentence": "If you think about these complex scientific theories, you can understand better.",
-  "russian_example_sentence": "Если вы подумаете об этих сложных научных теориях, вы сможете лучше понять.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T11:59:27.571483+00:00",
-  "turkish_example_sentence_with_blank": "Siz bu karmaşık bilimsel teorileri ______, daha iyi anlayabilirsiniz."
+  "turkish_example_sentence": "Siz bu önemli meseleyi dikkatlice düşünürseniz, en iyi kararı verirsiniz.",
+  "english_example_sentence": "If you think about this important matter carefully, you will make the best decision.",
+  "russian_example_sentence": "Если вы внимательно подумаете об этом важном вопросе, вы примете лучшее решение.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:52:08.756474+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu önemli meseleyi dikkatlice ______, en iyi kararı verirsiniz."
 }

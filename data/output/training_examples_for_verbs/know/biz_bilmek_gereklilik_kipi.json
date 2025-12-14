@@ -4,19 +4,19 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilmemiz",
+    "verb_full": "bilmemiz lazım",
     "root": "bil",
-    "tense_affix": "",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "miz",
+    "personal_affix": "memiz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Biz bu proje için gerekli teknik bilgileri bilmemiz lazım.",
-  "english_example_sentence": "We need to know the necessary technical information for this project.",
-  "russian_example_sentence": "Нам нужно знать необходимую техническую информацию для этого проекта.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T09:11:35.794699+00:00",
-  "turkish_example_sentence_with_blank": "Biz bu proje için gerekli teknik bilgileri ______ lazım."
+  "turkish_example_sentence": "Biz bu zorlu görevi iyi bilmemiz lazım.",
+  "english_example_sentence": "We need to know this challenging task well.",
+  "russian_example_sentence": "Нам нужно хорошо знать это сложное задание.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:29:43.009727+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu zorlu görevi iyi ______."
 }

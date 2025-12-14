@@ -4,17 +4,19 @@
   "verb_russian": "нуждаться",
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
-    "verb_full": "ihtiyaç duymayin",
-    "root": "ihtiyaç du",
-    "tense_affix": "un",
+    "verb_full": "ihtiyaç duymayın",
+    "root": "duy",
+    "tense_affix": "",
     "verb_tense": "emir_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "un",
+    "personal_affix": "yın",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "Please don't need complicated technical equipment today",
-  "russian_example_sentence": "Пожалуйста, не нужно сложное техническое оборудование",
-  "turkish_example_sentence": "Siz bugün karmaşık teknik ekipman ihtiyaç duymayin",
-  "turkish_example_sentence_with_blank": "Siz bugün karmaşık teknik ekipman ______"
+  "turkish_example_sentence": "Siz gereksiz harcamalara ihtiyaç duymayın.",
+  "english_example_sentence": "You (plural/formal) don't need unnecessary expenses.",
+  "russian_example_sentence": "Вам не нужны лишние расходы.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:29:23.279928+00:00",
+  "turkish_example_sentence_with_blank": "Siz gereksiz harcamalara ______."
 }

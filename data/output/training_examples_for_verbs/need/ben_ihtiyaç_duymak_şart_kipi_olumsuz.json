@@ -5,16 +5,18 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duymasam",
-    "root": "ihtiyaç duy",
-    "tense_affix": "masa",
+    "root": "duy",
+    "tense_affix": "sa",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If I didn’t need money, I wouldn’t work",
-  "russian_example_sentence": "Если бы мне не нужны были деньги, я бы не работал",
-  "turkish_example_sentence": "Paraya ihtiyaç duymasam çalışmazdım",
-  "turkish_example_sentence_with_blank": "Paraya ______ çalışmazdım"
+  "turkish_example_sentence": "Ben o eski kitaba ihtiyaç duymasam, onu bağışlardım.",
+  "english_example_sentence": "If I didn't need that old book, I would donate it.",
+  "russian_example_sentence": "Если бы мне не нужна была та старая книга, я бы ее пожертвовал.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:29:56.590821+00:00",
+  "turkish_example_sentence_with_blank": "Ben o eski kitaba ______, onu bağışlardım."
 }

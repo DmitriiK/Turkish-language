@@ -1,0 +1,22 @@
+{
+  "verb_rank": 1,
+  "verb_english": "be",
+  "verb_russian": "быть",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olmayacaktınız",
+    "root": "ol",
+    "tense_affix": "yacaktı",
+    "verb_tense": "geçmiş_gelecek_zaman",
+    "personal_pronoun": "siz",
+    "personal_affix": "nız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "turkish_example_sentence": "Siz bu projede olmayacaktınız, nasıl dahil oldunuz?",
+  "english_example_sentence": "You were not going to be in this project, how did you get involved?",
+  "russian_example_sentence": "Вы не собирались участвовать в этом проекте, как вы в него вошли?",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T15:19:46.538545+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu projede ______, nasıl dahil oldunuz?"
+}

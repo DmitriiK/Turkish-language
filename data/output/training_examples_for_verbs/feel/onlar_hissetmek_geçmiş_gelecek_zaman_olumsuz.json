@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissetmeyeceklerdi",
     "root": "hisset",
-    "tense_affix": "ecekti",
+    "tense_affix": "yecek",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lerdi",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "They were not going to feel envy.",
-  "russian_example_sentence": "Они не собирались чувствовать зависть.",
-  "turkish_example_sentence": "Onlar o başarılı arkadaşlarına karşı kıskançlık hissetmeyeceklerdi.",
-  "turkish_example_sentence_with_blank": "Onlar o başarılı arkadaşlarına karşı kıskançlık ______."
+  "turkish_example_sentence": "Onlar bu gürültülü şehirde doğanın dinginliğini hissetmeyeceklerdi.",
+  "english_example_sentence": "They were not going to feel the tranquility of nature in this noisy city.",
+  "russian_example_sentence": "Они не собирались чувствовать спокойствие природы в этом шумном городе.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T15:05:07.778173+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu gürültülü şehirde doğanın dinginliğini ______."
 }

@@ -4,17 +4,19 @@
   "verb_russian": "нуждаться",
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
-    "verb_full": "ihtiyaç duymazlar",
-    "root": "duymak",
-    "tense_affix": "du",
+    "verb_full": "ihtiyaç duymadılar",
+    "root": "duy",
+    "tense_affix": "dı",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "They did not need expensive luxury items for their happy simple life",
-  "russian_example_sentence": "Им не нужны были дорогие предметы роскоши для их счастливой простой жизни",
-  "turkish_example_sentence": "Onlar mutlu basit yaşamları için pahalı lüks eşyalara ihtiyaç duymazlar",
-  "turkish_example_sentence_with_blank": "Onlar mutlu basit yaşamları için pahalı lüks eşyalara ______"
+  "turkish_example_sentence": "Onlar bu kuralı anlamak için uzun bir açıklamaya ihtiyaç duymadılar.",
+  "english_example_sentence": "They didn't need a long explanation to understand this rule.",
+  "russian_example_sentence": "Им не понадобилось долгое объяснение, чтобы понять это правило.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:25:51.162260+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu kuralı anlamak için uzun bir açıklamaya ______."
 }

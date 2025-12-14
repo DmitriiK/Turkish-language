@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yapmayıp",
     "root": "yap",
-    "tense_affix": "ıp",
+    "tense_affix": "yıp",
     "verb_tense": "ulak_fiil",
     "personal_pronoun": null,
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Ödev yapmayıp okula gitti.",
-  "english_example_sentence": "Without making homework, he went to school.",
-  "russian_example_sentence": "Не сделав домашнее задание, он пошёл в школу.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T09:08:09.135817+00:00",
-  "turkish_example_sentence_with_blank": "Ödev ______ okula gitti."
+  "turkish_example_sentence": "Hiç hata yapmayıp bu zor görevi tamamladı.",
+  "english_example_sentence": "Without making any mistakes, he completed this difficult task.",
+  "russian_example_sentence": "Не совершив ни одной ошибки, он выполнил это сложное задание.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:11:47.196524+00:00",
+  "turkish_example_sentence_with_blank": "Hiç hata ______ bu zor görevi tamamladı."
 }

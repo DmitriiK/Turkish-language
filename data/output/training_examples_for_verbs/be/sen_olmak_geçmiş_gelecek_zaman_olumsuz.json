@@ -1,0 +1,22 @@
+{
+  "verb_rank": 1,
+  "verb_english": "be",
+  "verb_russian": "быть",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olmayacaktın",
+    "root": "ol",
+    "tense_affix": "yacaktı",
+    "verb_tense": "geçmiş_gelecek_zaman",
+    "personal_pronoun": "sen",
+    "personal_affix": "n",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "turkish_example_sentence": "Sen bu partide olmayacaktın, bizi şaşırttın.",
+  "english_example_sentence": "You were not going to be at this party, you surprised us.",
+  "russian_example_sentence": "Ты не собирался быть на этой вечеринке, ты нас удивил.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T15:19:46.538545+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu partide ______, bizi şaşırttın."
+}

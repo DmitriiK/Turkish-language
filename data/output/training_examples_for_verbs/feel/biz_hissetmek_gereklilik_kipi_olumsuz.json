@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissetmememiz lazım",
     "root": "hisset",
-    "tense_affix": "",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "memiz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "We shouldn't feel any regret.",
-  "russian_example_sentence": "Мы не должны чувствовать никакого сожаления.",
-  "turkish_example_sentence": "Biz herhangi bir pişmanlık hissetmememiz lazım.",
-  "turkish_example_sentence_with_blank": "Biz herhangi bir pişmanlık ______."
+  "turkish_example_sentence": "Biz bu haksızlığa karşı çaresizlik hissetmememiz lazım.",
+  "english_example_sentence": "We don't need to feel helplessness against this injustice.",
+  "russian_example_sentence": "Нам не нужно чувствовать беспомощность перед этой несправедливостью.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T13:09:21.913464+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu haksızlığa karşı çaresizlik ______."
 }

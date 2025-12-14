@@ -5,16 +5,18 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duymadınız",
-    "root": "duymak",
-    "tense_affix": "du",
+    "root": "duy",
+    "tense_affix": "dı",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You did not need special permission for the casual neighborhood gathering",
-  "russian_example_sentence": "Вам не нужно было специальное разрешение для случайной встречи в соседстве",
-  "turkish_example_sentence": "Siz rahat mahalle toplantısı için özel izne ihtiyaç duymadınız",
-  "turkish_example_sentence_with_blank": "Siz rahat mahalle toplantısı için özel izne ______"
+  "turkish_example_sentence": "Siz bu karmaşık sorunu çözmek için ek yardıma ihtiyaç duymadınız.",
+  "english_example_sentence": "You (plural/formal) didn't need additional help to solve this complex problem.",
+  "russian_example_sentence": "Вам не понадобилась дополнительная помощь, чтобы решить эту сложную проблему.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:25:51.162260+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu karmaşık sorunu çözmek için ek yardıma ______."
 }

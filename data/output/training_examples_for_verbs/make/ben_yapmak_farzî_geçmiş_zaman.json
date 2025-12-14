@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yapmışsam",
     "root": "yap",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "sam",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Ben o zor kararı erken yapmışsam, işler daha iyi olurdu.",
-  "english_example_sentence": "If I had made that difficult decision earlier, things would have been better.",
-  "russian_example_sentence": "Если бы я принял то сложное решение раньше, дела пошли бы лучше.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T09:07:50.910335+00:00",
-  "turkish_example_sentence_with_blank": "Ben o zor kararı erken ______, işler daha iyi olurdu."
+  "turkish_example_sentence": "Ben o önemli kararı yapmışsam, şimdi sonuçlar farklı olurdu.",
+  "english_example_sentence": "If I had made that important decision, the results would be different now.",
+  "russian_example_sentence": "Если бы я принял то важное решение, результаты сейчас были бы другими.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:11:07.969865+00:00",
+  "turkish_example_sentence_with_blank": "Ben o önemli kararı ______, şimdi sonuçlar farklı olurdu."
 }

@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "düşünmezsiniz",
     "root": "düşün",
-    "tense_affix": "ür",
+    "tense_affix": "z",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "sünüz",
+    "personal_affix": "siniz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Siz meşgul doktorlar hiçbir zaman gereksiz endişeler hakkında düşünmezsiniz.",
-  "english_example_sentence": "You busy doctors never think about unnecessary worries.",
-  "russian_example_sentence": "Вы занятые врачи никогда не думаете о ненужных беспокойствах.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T11:56:30.231677+00:00",
-  "turkish_example_sentence_with_blank": "Siz meşgul doktorlar hiçbir zaman gereksiz endişeler hakkında ______."
+  "turkish_example_sentence": "Siz basit detaylar üzerinde fazla düşünmezsiniz.",
+  "english_example_sentence": "You (plural/formal) don't overthink simple details.",
+  "russian_example_sentence": "Вы не слишком много думаете о простых деталях.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T09:00:07.663907+00:00",
+  "turkish_example_sentence_with_blank": "Siz basit detaylar üzerinde fazla ______."
 }

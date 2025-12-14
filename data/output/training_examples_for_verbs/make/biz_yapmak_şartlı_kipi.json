@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yaparsak",
     "root": "yap",
-    "tense_affix": "ar",
+    "tense_affix": "arsa",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Biz ortak bir plan yaparsak, bu büyük projeyi tamamlayabiliriz.",
-  "english_example_sentence": "If we make a joint plan, we can complete this big project.",
-  "russian_example_sentence": "Если мы составим совместный план, мы сможем завершить этот большой проект.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T09:07:12.100872+00:00",
-  "turkish_example_sentence_with_blank": "Biz ortak bir plan ______, bu büyük projeyi tamamlayabiliriz."
+  "turkish_example_sentence": "Biz doğru bir seçim yaparsak, geleceğimiz parlak olur.",
+  "english_example_sentence": "If we make the right choice, our future will be bright.",
+  "russian_example_sentence": "Если мы сделаем правильный выбор, наше будущее будет светлым.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:09:58.982577+00:00",
+  "turkish_example_sentence_with_blank": "Biz doğru bir seçim ______, geleceğimiz parlak olur."
 }

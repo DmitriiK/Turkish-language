@@ -1,0 +1,22 @@
+{
+  "verb_rank": 1,
+  "verb_english": "be",
+  "verb_russian": "быть",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olmayacaktı",
+    "root": "ol",
+    "tense_affix": "yacaktı",
+    "verb_tense": "geçmiş_gelecek_zaman",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "turkish_example_sentence": "O toplantıda olmayacaktı, yerine başkası katıldı.",
+  "english_example_sentence": "He/She was not going to be at the meeting, someone else attended in his/her place.",
+  "russian_example_sentence": "Он/Она не собирался(лась) быть на собрании, вместо него/неё присутствовал(а) другой(ая).",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T15:19:46.538545+00:00",
+  "turkish_example_sentence_with_blank": "O toplantıda ______, yerine başkası katıldı."
+}

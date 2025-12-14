@@ -9,12 +9,14 @@
     "tense_affix": "di",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "She did not feel any discomfort in the new shoes.",
-  "russian_example_sentence": "Она не почувствовала дискомфорта в новой обуви.",
-  "turkish_example_sentence": "O yeni ayakkabılarda hiçbir rahatsızlık hissetmedi.",
-  "turkish_example_sentence_with_blank": "O yeni ayakkabılarda hiçbir rahatsızlık ______."
+  "turkish_example_sentence": "O, karanlıkta hiçbir korku hissetmedi.",
+  "english_example_sentence": "She didn't feel any fear in the dark.",
+  "russian_example_sentence": "Она не почувствовала никакого страха в темноте.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T09:00:38.758226+00:00",
+  "turkish_example_sentence_with_blank": "O, karanlıkta hiçbir korku ______."
 }

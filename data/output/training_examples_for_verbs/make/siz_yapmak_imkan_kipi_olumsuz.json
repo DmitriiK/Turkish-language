@@ -4,19 +4,19 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapamayınız",
+    "verb_full": "yapamazsınız",
     "root": "yap",
-    "tense_affix": "abil",
+    "tense_affix": "a",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "irsiniz",
+    "personal_affix": "zsınız",
     "polarity": "negative",
-    "negative_affix": "ama"
+    "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Siz bu karışık kararı yapamayınız.",
-  "english_example_sentence": "You cannot make this complicated decision.",
-  "russian_example_sentence": "Вы не можете сделать это сложное решение.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T09:06:16.014015+00:00",
-  "turkish_example_sentence_with_blank": "Siz bu karışık kararı ______."
+  "turkish_example_sentence": "Siz, bu kadar gürültülü bir ortamda doğru karar yapamazsınız.",
+  "english_example_sentence": "You cannot make a correct decision in such a noisy environment.",
+  "russian_example_sentence": "Вы не сможете принять правильное решение в такой шумной обстановке.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:08:32.763414+00:00",
+  "turkish_example_sentence_with_blank": "Siz, bu kadar gürültülü bir ortamda doğru karar ______."
 }

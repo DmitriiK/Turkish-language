@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissetmesi lazım",
     "root": "hisset",
-    "tense_affix": "",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
     "personal_affix": "mesi",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He needs to feel the strong wind.",
-  "russian_example_sentence": "Ему нужно почувствовать сильный ветер.",
-  "turkish_example_sentence": "O kuvvetli rüzgarı hissetmesi lazım.",
-  "turkish_example_sentence_with_blank": "O kuvvetli rüzgarı ______."
+  "turkish_example_sentence": "O yeni işinde kendini rahat hissetmesi lazım.",
+  "english_example_sentence": "He/She needs to feel comfortable in his/her new job.",
+  "russian_example_sentence": "Ему/Ей нужно чувствовать себя комфортно на новой работе.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T13:09:21.913464+00:00",
+  "turkish_example_sentence_with_blank": "O yeni işinde kendini rahat ______."
 }

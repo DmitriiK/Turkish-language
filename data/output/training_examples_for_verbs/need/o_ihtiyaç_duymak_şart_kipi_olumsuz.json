@@ -5,16 +5,18 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duymasa",
-    "root": "ihtiyaç duy",
-    "tense_affix": "masa",
+    "root": "duy",
+    "tense_affix": "sa",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If she didn’t need help, she wouldn’t ask",
-  "russian_example_sentence": "Если бы ей не нужна была помощь, она бы не спрашивала",
-  "turkish_example_sentence": "O yardıma ihtiyaç duymasa, istemezdi",
-  "turkish_example_sentence_with_blank": "O yardıma ______, istemezdi"
+  "turkish_example_sentence": "O senin tavsiyene ihtiyaç duymasa, sana sormazdı.",
+  "english_example_sentence": "If he didn't need your advice, he wouldn't ask you.",
+  "russian_example_sentence": "Если бы ему не нужен был твой совет, он бы тебя не спросил.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:29:56.590821+00:00",
+  "turkish_example_sentence_with_blank": "O senin tavsiyene ______, sana sormazdı."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "ihtiyaç duymaman lazım",
     "root": "ihtiyaç duy",
-    "tense_affix": "lazım",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You don't need to apologize for that small, silly mistake.",
-  "russian_example_sentence": "Тебе не нужно извиняться за эту маленькую глупую ошибку.",
-  "turkish_example_sentence": "Sen o küçük, aptalca hata için özür dilememen lazım.",
-  "turkish_example_sentence_with_blank": "Sen o küçük, aptalca hata için özür dilememen lazım."
+  "turkish_example_sentence": "Sen bu kadar çok şekerli yiyeceğe ihtiyaç duymaman lazım.",
+  "english_example_sentence": "You don't need so much sugary food.",
+  "russian_example_sentence": "Тебе не нужно столько сладкой еды.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:30:40.808877+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu kadar çok şekerli yiyeceğe ______."
 }

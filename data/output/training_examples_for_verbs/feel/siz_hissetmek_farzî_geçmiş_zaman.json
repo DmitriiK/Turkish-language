@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissetmişseniz",
     "root": "hisset",
-    "tense_affix": "mişse",
+    "tense_affix": "miş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "seniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you had felt a strong vibration.",
-  "russian_example_sentence": "Если бы вы почувствовали сильную вибрацию.",
-  "turkish_example_sentence": "Siz güçlü bir titreşim hissetmişseniz, endişelenmelisiniz.",
-  "turkish_example_sentence_with_blank": "Siz güçlü bir titreşim ______, endişelenmelisiniz."
+  "turkish_example_sentence": "Siz bu sıcak dostluğu hissetmişseniz, neden geri durdunuz?",
+  "english_example_sentence": "If you had felt this warm friendship, why did you hold back?",
+  "russian_example_sentence": "Если бы вы почувствовали эту тёплую дружбу, почему вы отступили?",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T15:07:57.119239+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu sıcak dostluğu ______, neden geri durdunuz?"
 }

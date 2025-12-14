@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissetmemeleri lazım",
     "root": "hisset",
-    "tense_affix": "",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "meleri",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "They shouldn't feel any sadness.",
-  "russian_example_sentence": "Им не следует чувствовать никакой грусти.",
-  "turkish_example_sentence": "Onlar hiç üzüntü hissetmemeleri lazım.",
-  "turkish_example_sentence_with_blank": "Onlar hiç üzüntü ______."
+  "turkish_example_sentence": "Onlar bu durumda kendilerini yalnız hissetmemeleri lazım.",
+  "english_example_sentence": "They don't need to feel alone in this situation.",
+  "russian_example_sentence": "Им не нужно чувствовать себя одинокими в этой ситуации.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T13:09:21.913464+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu durumda kendilerini yalnız ______."
 }

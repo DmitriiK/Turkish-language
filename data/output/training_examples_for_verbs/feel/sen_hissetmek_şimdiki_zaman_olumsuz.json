@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissetmiyorsun",
     "root": "hisset",
-    "tense_affix": "iyor",
+    "tense_affix": "yor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "sun",
     "polarity": "negative",
     "negative_affix": "mi"
   },
-  "english_example_sentence": "You are not feeling well in this cold weather.",
-  "russian_example_sentence": "Ты неважно себя чувствуешь в такую холодную погоду.",
-  "turkish_example_sentence": "Sen bu soğuk havada kendini iyi hissetmiyorsun.",
-  "turkish_example_sentence_with_blank": "Sen bu soğuk havada kendini iyi ______."
+  "turkish_example_sentence": "Sen o kötü haberin etkisini henüz hissetmiyorsun.",
+  "english_example_sentence": "You are not feeling the effect of that bad news yet.",
+  "russian_example_sentence": "Ты еще не чувствуешь влияния той плохой новости.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T09:00:08.182021+00:00",
+  "turkish_example_sentence_with_blank": "Sen o kötü haberin etkisini henüz ______."
 }

@@ -5,7 +5,7 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duysak",
-    "root": "ihtiyaç duy",
+    "root": "duy",
     "tense_affix": "sa",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "biz",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we needed food, we would go shopping",
-  "russian_example_sentence": "Если бы нам понадобилась еда, мы бы пошли за покупками",
-  "turkish_example_sentence": "Yemeğe ihtiyaç duysak alışverişe giderdik",
-  "turkish_example_sentence_with_blank": "Yemeğe ______ alışverişe giderdik"
+  "turkish_example_sentence": "Biz tatlı için daha fazla şeker ihtiyaç duysak, marketten alırdık.",
+  "english_example_sentence": "If we needed more sugar for dessert, we would buy it from the market.",
+  "russian_example_sentence": "Если бы нам нужно было больше сахара для десерта, мы бы купили его в магазине.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:29:56.590821+00:00",
+  "turkish_example_sentence_with_blank": "Biz tatlı için daha fazla şeker ______, marketten alırdık."
 }

@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "düşünmeyeceksiniz",
     "root": "düşün",
-    "tense_affix": "eceğ",
+    "tense_affix": "yecek",
     "verb_tense": "yaracağım",
     "personal_pronoun": "siz",
     "personal_affix": "siniz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Siz bu karmaşık matematiksel formülleri asla düşünmeyeceksiniz.",
-  "english_example_sentence": "You will never think about these complex mathematical formulas.",
-  "russian_example_sentence": "Вы никогда не будете думать об этих сложных математических формулах.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T11:58:30.807376+00:00",
-  "turkish_example_sentence_with_blank": "Siz bu karmaşık matematiksel formülleri asla ______."
+  "turkish_example_sentence": "Siz o gereksiz tartışmayı boşuna düşünmeyeceksiniz.",
+  "english_example_sentence": "You (plural/formal) will not think about that unnecessary argument in vain.",
+  "russian_example_sentence": "Вы не будете напрасно думать об этом ненужном споре.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:42:17.937242+00:00",
+  "turkish_example_sentence_with_blank": "Siz o gereksiz tartışmayı boşuna ______."
 }

@@ -1,0 +1,22 @@
+{
+  "verb_rank": 5,
+  "verb_english": "go",
+  "verb_russian": "идти",
+  "verb_infinitive": "gitmek",
+  "turkish_verb": {
+    "verb_full": "gitmediğimizde",
+    "root": "git",
+    "tense_affix": "dik",
+    "verb_tense": "zaman_sıfatı",
+    "personal_pronoun": "biz",
+    "personal_affix": "imiz",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "turkish_example_sentence": "Biz pikniğe gitmediğimizde, evde film izliyoruz.",
+  "english_example_sentence": "When we don't go on a picnic, we watch a movie at home.",
+  "russian_example_sentence": "Когда мы не идем на пикник, мы смотрим фильм дома.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-14T07:36:30.932521+00:00",
+  "turkish_example_sentence_with_blank": "Biz pikniğe ______, evde film izliyoruz."
+}

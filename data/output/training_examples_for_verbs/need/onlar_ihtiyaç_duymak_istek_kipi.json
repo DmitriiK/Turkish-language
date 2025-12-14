@@ -4,8 +4,8 @@
   "verb_russian": "нуждаться",
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
-    "verb_full": "ihtiyaç duya",
-    "root": "ihtiyaç duy",
+    "verb_full": "ihtiyaç duyalar",
+    "root": "duy",
     "tense_affix": "a",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "onlar",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "May they need new books.",
-  "russian_example_sentence": "Пусть им понадобятся новые книги.",
-  "turkish_example_sentence": "Onlar yeni kitaplara ihtiyaç duya.",
-  "turkish_example_sentence_with_blank": "Onlar yeni kitaplara ______."
+  "turkish_example_sentence": "Onlar yeni evleri için birçok mobilyaya ihtiyaç duyalar.",
+  "english_example_sentence": "May they need a lot of furniture for their new home.",
+  "russian_example_sentence": "Пусть им понадобится много мебели для их нового дома.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:28:58.067042+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yeni evleri için birçok mobilyaya ______."
 }

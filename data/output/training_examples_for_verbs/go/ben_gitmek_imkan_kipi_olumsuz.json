@@ -4,19 +4,19 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gidemem",
+    "verb_full": "gidememiyorum",
     "root": "git",
-    "tense_affix": "ebil",
+    "tense_affix": "eme",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "irim",
+    "personal_affix": "m",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": "m"
   },
-  "turkish_example_sentence": "Ben bu hafta sonu uzak dağlara gidemem.",
-  "english_example_sentence": "I cannot go to the distant mountains this weekend.",
-  "russian_example_sentence": "Я не могу поехать в далекие горы на этих выходных.",
+  "turkish_example_sentence": "Ben bu hafta sonu uzak dağ köyüne gidememiyorum.",
+  "english_example_sentence": "I cannot go to the remote mountain village this weekend.",
+  "russian_example_sentence": "Я не могу пойти в отдалённую горную деревню на этих выходных.",
   "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T08:53:00.662293+00:00",
-  "turkish_example_sentence_with_blank": "Ben bu hafta sonu uzak dağlara ______."
+  "generated_at": "2025-12-14T07:34:22.682535+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu hafta sonu uzak dağ köyüne ______."
 }

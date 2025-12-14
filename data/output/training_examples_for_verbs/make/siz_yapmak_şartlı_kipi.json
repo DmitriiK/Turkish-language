@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yaparsanız",
     "root": "yap",
-    "tense_affix": "ar",
+    "tense_affix": "arsa",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Siz düzenli bir antrenman programı yaparsanız, sağlıklı bir yaşam sürdürebilirsiniz.",
-  "english_example_sentence": "If you make a regular training program, you can maintain a healthy life.",
-  "russian_example_sentence": "Если вы составите регулярную программу тренировок, вы сможете вести здоровый образ жизни.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T09:07:12.100872+00:00",
-  "turkish_example_sentence_with_blank": "Siz düzenli bir antrenman programı ______, sağlıklı bir yaşam sürdürebilirsiniz."
+  "turkish_example_sentence": "Siz erken bir rezervasyon yaparsanız, güzel bir oda bulursunuz.",
+  "english_example_sentence": "If you make an early reservation, you will find a nice room.",
+  "russian_example_sentence": "Если вы сделаете раннее бронирование, вы найдете хороший номер.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:09:58.982577+00:00",
+  "turkish_example_sentence_with_blank": "Siz erken bir rezervasyon ______, güzel bir oda bulursunuz."
 }

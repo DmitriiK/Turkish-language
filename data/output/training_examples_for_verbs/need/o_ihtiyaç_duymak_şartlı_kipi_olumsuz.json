@@ -5,16 +5,18 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duymazsa",
-    "root": "ihtiyaç du",
+    "root": "ihtiyaç duy",
     "tense_affix": "sa",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If he doesn't need your help, he won't call.",
-  "russian_example_sentence": "Если ему не нужна твоя помощь, он не позвонит.",
-  "turkish_example_sentence": "Eğer senin yardımına ihtiyaç duymazsa, o aramaz.",
-  "turkish_example_sentence_with_blank": "Eğer senin yardımına ______, o aramaz."
+  "turkish_example_sentence": "O bu projede ek bilgiye ihtiyaç duymazsa, çalışmaya devam eder.",
+  "english_example_sentence": "If he/she doesn't need additional information for this project, he/she continues working.",
+  "russian_example_sentence": "Если ему/ей не понадобится дополнительная информация для этого проекта, он/она продолжит работать.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:07:56.519587+00:00",
+  "turkish_example_sentence_with_blank": "O bu projede ek bilgiye ______, çalışmaya devam eder."
 }

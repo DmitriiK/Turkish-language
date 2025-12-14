@@ -5,7 +5,7 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duymuyorsunuz",
-    "root": "duyu",
+    "root": "ihtiyaç duy",
     "tense_affix": "uyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "siz",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "m"
   },
-  "english_example_sentence": "You do not need special permission right now",
-  "russian_example_sentence": "Вам не нужно специальное разрешение прямо сейчас",
-  "turkish_example_sentence": "Siz şu anda özel izne ihtiyaç duymuyorsunuz",
-  "turkish_example_sentence_with_blank": "Siz şu anda özel izne ______"
+  "turkish_example_sentence": "Siz bu küçük ofis için daha büyük bir masaya kesinlikle ihtiyaç duymuyorsunuz.",
+  "english_example_sentence": "You definitely are not needing a bigger desk for this small office.",
+  "russian_example_sentence": "Вам определенно не нужен больший стол для этого маленького офиса.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:25:20.416365+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu küçük ofis için daha büyük bir masaya kesinlikle ______."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissetmeyen",
     "root": "hisset",
-    "tense_affix": "en",
+    "tense_affix": "yen",
     "verb_tense": "sıfat_fiil",
     "personal_pronoun": null,
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "The people who don’t feel cold are walking.",
-  "russian_example_sentence": "Люди, которые не чувствуют холода, идут.",
-  "turkish_example_sentence": "Soğuk hissetmeyen insanlar yürüyor.",
-  "turkish_example_sentence_with_blank": "Soğuk ______ insanlar yürüyor."
+  "turkish_example_sentence": "Hiçbir şey hissetmeyen bir kaya gibi soğuk davranış sergiledi.",
+  "english_example_sentence": "He/She displayed cold behavior like a rock feeling nothing.",
+  "russian_example_sentence": "Он/Она проявил(а) холодное поведение, как камень, ничего не чувствующий.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T15:08:22.379593+00:00",
+  "turkish_example_sentence_with_blank": "Hiçbir şey ______ bir kaya gibi soğuk davranış sergiledi."
 }

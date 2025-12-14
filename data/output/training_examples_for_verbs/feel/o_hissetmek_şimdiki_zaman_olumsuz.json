@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissetmiyor",
     "root": "hisset",
-    "tense_affix": "iyor",
+    "tense_affix": "yor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "o",
     "personal_affix": "",
     "polarity": "negative",
     "negative_affix": "mi"
   },
-  "english_example_sentence": "She is not feeling happy about the decision.",
-  "russian_example_sentence": "Она не чувствует себя счастливой по поводу решения.",
-  "turkish_example_sentence": "O karar hakkında mutluluk hissetmiyor.",
-  "turkish_example_sentence_with_blank": "O karar hakkında mutluluk ______."
+  "turkish_example_sentence": "O, kalabalık ortamda kendini güvende hissetmiyor.",
+  "english_example_sentence": "He/She is not feeling safe in a crowded environment.",
+  "russian_example_sentence": "Он/Она не чувствует себя в безопасности в толпе.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T09:00:08.182021+00:00",
+  "turkish_example_sentence_with_blank": "O, kalabalık ortamda kendini güvende ______."
 }

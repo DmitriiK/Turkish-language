@@ -4,17 +4,19 @@
   "verb_russian": "чувствовать",
   "verb_infinitive": "hissetmek",
   "turkish_verb": {
-    "verb_full": "hissetseler",
+    "verb_full": "hissederlerse",
     "root": "hisset",
-    "tense_affix": "se",
+    "tense_affix": "erse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they feel tired, they sleep earlier",
-  "russian_example_sentence": "Если они чувствуют усталость, они ложатся раньше",
-  "turkish_example_sentence": "Eğer yorgun hissetseler, daha erken uyurlar",
-  "turkish_example_sentence_with_blank": "Eğer yorgun ______, daha erken uyurlar"
+  "turkish_example_sentence": "Onlar bu ortamda huzur hissederlerse, daha uzun kalırlar.",
+  "english_example_sentence": "If they feel peace in this environment, they will stay longer.",
+  "russian_example_sentence": "Если они почувствуют покой в этой обстановке, они останутся дольше.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T15:06:41.166472+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu ortamda huzur ______, daha uzun kalırlar."
 }

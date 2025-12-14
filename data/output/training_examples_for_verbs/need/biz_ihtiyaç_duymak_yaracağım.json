@@ -5,16 +5,18 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duyacağız",
-    "root": "duymak",
-    "tense_affix": "acağ",
+    "root": "duy",
+    "tense_affix": "yacağ",
     "verb_tense": "yaracağım",
     "personal_pronoun": "biz",
     "personal_affix": "ız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We will need reliable transportation for the mountain expedition",
-  "russian_example_sentence": "Нам понадобится надежный транспорт для горной экспедиции",
-  "turkish_example_sentence": "Biz dağ gezisinde güvenilir araç ihtiyaç duyacağız",
-  "turkish_example_sentence_with_blank": "Biz dağ gezisinde güvenilir araç ______"
+  "turkish_example_sentence": "Biz bu karmaşık problem için yaratıcı bir çözüme ihtiyaç duyacağız.",
+  "english_example_sentence": "We will need a creative solution for this complex problem.",
+  "russian_example_sentence": "Нам понадобится креативное решение для этой сложной проблемы.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:53:44.840836+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu karmaşık problem için yaratıcı bir çözüme ______."
 }

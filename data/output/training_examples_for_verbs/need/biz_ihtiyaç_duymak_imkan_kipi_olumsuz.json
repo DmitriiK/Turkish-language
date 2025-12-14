@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "ihtiyaç duyamayız",
     "root": "duy",
-    "tense_affix": "yama",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yız",
     "polarity": "negative",
-    "negative_affix": null
+    "negative_affix": "yama"
   },
-  "english_example_sentence": "We cannot need an expensive car for daily commute.",
-  "russian_example_sentence": "Нам не нужен дорогой автомобиль для ежедневных поездок.",
-  "turkish_example_sentence": "Biz günlük işe gidip gelmek için pahalı bir arabaya ihtiyaç duyamayız.",
-  "turkish_example_sentence_with_blank": "Biz günlük işe gidip gelmek için pahalı bir arabaya ______."
+  "turkish_example_sentence": "Biz bu kadar gereksiz harcamalara kesinlikle ihtiyaç duyamayız.",
+  "english_example_sentence": "We definitely cannot need such unnecessary expenses.",
+  "russian_example_sentence": "Нам определённо не могут понадобиться такие ненужные расходы.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:32:11.346954+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu kadar gereksiz harcamalara kesinlikle ______."
 }

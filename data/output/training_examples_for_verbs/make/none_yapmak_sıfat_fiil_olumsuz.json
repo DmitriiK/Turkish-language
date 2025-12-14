@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yapmayan",
     "root": "yap",
-    "tense_affix": "an",
+    "tense_affix": "yan",
     "verb_tense": "sıfat_fiil",
     "personal_pronoun": null,
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Ev ödevini yapmayan tembel öğrenci sınıfta kaldı",
-  "english_example_sentence": "The lazy student who does not make homework stayed in the class",
-  "russian_example_sentence": "Ленивый студент, который не делает домашнее задание, остался в классе",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T09:07:56.560008+00:00",
-  "turkish_example_sentence_with_blank": "Ev ödevini ______ tembel öğrenci sınıfta kaldı"
+  "turkish_example_sentence": "Hiç spor yapmayan insanlar çabuk yorulur.",
+  "english_example_sentence": "People who never do sports get tired quickly.",
+  "russian_example_sentence": "Люди, которые никогда не занимаются спортом, быстро устают.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:11:22.817983+00:00",
+  "turkish_example_sentence_with_blank": "Hiç spor ______ insanlar çabuk yorulur."
 }

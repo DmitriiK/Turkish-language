@@ -5,16 +5,18 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duymadım",
-    "root": "duymak",
-    "tense_affix": "du",
+    "root": "duy",
+    "tense_affix": "dı",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I did not need expensive new clothes last week",
-  "russian_example_sentence": "Мне не нужна была дорогая новая одежда на прошлой неделе",
-  "turkish_example_sentence": "Ben geçen hafta pahalı yeni giysilere ihtiyaç duymadım",
-  "turkish_example_sentence_with_blank": "Ben geçen hafta pahalı yeni giysilere ______"
+  "turkish_example_sentence": "Ben yeni araba almak için o kadar paraya ihtiyaç duymadım.",
+  "english_example_sentence": "I didn't need that much money to buy a new car.",
+  "russian_example_sentence": "Мне не понадобилось столько денег, чтобы купить новую машину.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:25:51.162260+00:00",
+  "turkish_example_sentence_with_blank": "Ben yeni araba almak için o kadar paraya ______."
 }

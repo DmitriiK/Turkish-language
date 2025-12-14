@@ -4,17 +4,19 @@
   "verb_russian": "нуждаться",
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
-    "verb_full": "ihtiyaç duymuyuyor",
-    "root": "duyu",
+    "verb_full": "ihtiyaç duymuyor",
+    "root": "ihtiyaç duy",
     "tense_affix": "uyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "negative",
     "negative_affix": "m"
   },
-  "english_example_sentence": "She does not need additional support currently",
-  "russian_example_sentence": "Ей не нужна дополнительная поддержка в настоящее время",
-  "turkish_example_sentence": "O şu anda ek destek ihtiyaç duymuyuyor",
-  "turkish_example_sentence_with_blank": "O şu anda ek destek ______"
+  "turkish_example_sentence": "O bu önemli proje için dışarıdan herhangi bir desteğe ihtiyaç duymuyor.",
+  "english_example_sentence": "He/She is not needing any external support for this important project.",
+  "russian_example_sentence": "Ему/Ей не нужна никакая внешняя поддержка для этого важного проекта.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:25:20.416365+00:00",
+  "turkish_example_sentence_with_blank": "O bu önemli proje için dışarıdan herhangi bir desteğe ______."
 }

@@ -4,19 +4,19 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmam",
+    "verb_full": "yapmam lazım",
     "root": "yap",
-    "tense_affix": "ma",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "mam",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Ben bu önemli proje için hemen hazırlık yapmam lazım.",
-  "english_example_sentence": "I need to make preparations for this important project right away.",
-  "russian_example_sentence": "Мне нужно сделать подготовку для этого важного проекта прямо сейчас.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T09:05:58.879967+00:00",
-  "turkish_example_sentence_with_blank": "Ben bu önemli proje için hemen hazırlık ______ lazım."
+  "turkish_example_sentence": "Ben bu önemli ödevi bugün yapmam lazım.",
+  "english_example_sentence": "I need to do this important assignment today.",
+  "russian_example_sentence": "Мне нужно сделать это важное задание сегодня.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:07:24.531142+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu önemli ödevi bugün ______."
 }

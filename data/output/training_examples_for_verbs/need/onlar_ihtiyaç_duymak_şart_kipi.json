@@ -5,7 +5,7 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duysalar",
-    "root": "ihtiyaç duy",
+    "root": "duy",
     "tense_affix": "sa",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "onlar",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they needed somebody, they would call her",
-  "russian_example_sentence": "Если бы они нуждались в ком-то, они бы позвонили ей",
-  "turkish_example_sentence": "Birine ihtiyaç duysalar, onu ararlardı",
-  "turkish_example_sentence_with_blank": "Birine ______, onu ararlardı"
+  "turkish_example_sentence": "Onlar yeni spor ekipmanlarına ihtiyaç duysalar, hemen alırlar.",
+  "english_example_sentence": "If they needed new sports equipment, they would buy it immediately.",
+  "russian_example_sentence": "Если бы им нужно было новое спортивное оборудование, они бы сразу его купили.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:29:56.590821+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yeni spor ekipmanlarına ______, hemen alırlar."
 }

@@ -4,17 +4,19 @@
   "verb_russian": "чувствовать",
   "verb_infinitive": "hissetmek",
   "turkish_verb": {
-    "verb_full": "hissetmeyesen",
+    "verb_full": "hissetmeyesin",
     "root": "hisset",
-    "tense_affix": "e",
+    "tense_affix": "ye",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "sen",
+    "personal_affix": "sin",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "May you not feel sorrow anymore.",
-  "russian_example_sentence": "Пусть ты больше не чувствуешь печали.",
-  "turkish_example_sentence": "Sen artık üzüntü hissetmeyesin.",
-  "turkish_example_sentence_with_blank": "Sen artık üzüntü hissetmeyesin."
+  "turkish_example_sentence": "Sen bu soğuk havada üşüme hissetmeyesin.",
+  "english_example_sentence": "May you not feel cold in this chilly weather.",
+  "russian_example_sentence": "Пусть ты не почувствуешь холода в эту морозную погоду.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T14:57:18.820309+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu soğuk havada üşüme ______."
 }

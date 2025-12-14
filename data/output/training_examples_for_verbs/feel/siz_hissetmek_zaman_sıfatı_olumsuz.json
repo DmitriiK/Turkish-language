@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissetmediğinizde",
     "root": "hisset",
-    "tense_affix": "mediğ",
+    "tense_affix": "dik",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "siz",
-    "personal_affix": "iniz",
+    "personal_affix": "inizde",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "When you don't feel understood, communicate clearly",
-  "russian_example_sentence": "Когда вы не чувствуете, что вас понимают, общайтесь ясно",
-  "turkish_example_sentence": "Siz anlaşılmış hissetmediğinizde, açıkça iletişim kurun",
-  "turkish_example_sentence_with_blank": "Siz anlaşılmış ______, açıkça iletişim kurun"
+  "turkish_example_sentence": "Siz samimi bir anlayış hissetmediğinizde, fikrinizi söylemeyin.",
+  "english_example_sentence": "When you don't feel sincere understanding, don't state your opinion.",
+  "russian_example_sentence": "Когда вы не чувствуете искреннего понимания, не высказывайте своего мнения.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T15:09:37.888445+00:00",
+  "turkish_example_sentence_with_blank": "Siz samimi bir anlayış ______, fikrinizi söylemeyin."
 }

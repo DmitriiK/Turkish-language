@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yapmayacaktın",
     "root": "yap",
-    "tense_affix": "acaktı",
+    "tense_affix": "yacaktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Sen asla bu kötü kararı yapmayacaktın ama arkadaşın seni etkiledi.",
-  "english_example_sentence": "You were not going to make this bad decision but your friend influenced you.",
-  "russian_example_sentence": "Ты не собирался принимать это плохое решение, но твой друг повлиял на тебя.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T09:06:51.581197+00:00",
-  "turkish_example_sentence_with_blank": "Sen asla bu kötü kararı ______ ama arkadaşın seni etkiledi."
+  "turkish_example_sentence": "Sen sınav sırasında hiç gürültü yapmayacaktın.",
+  "english_example_sentence": "You were not going to make any noise during the exam.",
+  "russian_example_sentence": "Ты не собирался шуметь во время экзамена.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:09:29.219642+00:00",
+  "turkish_example_sentence_with_blank": "Sen sınav sırasında hiç gürültü ______."
 }

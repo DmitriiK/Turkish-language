@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "ihtiyaç duymanız lazım",
     "root": "ihtiyaç duy",
-    "tense_affix": "lazım",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You (pl) need to rest well after a very long trip.",
-  "russian_example_sentence": "Вам нужно хорошо отдохнуть после очень долгой поездки.",
-  "turkish_example_sentence": "Siz çok uzun bir yolculuktan sonra iyi dinlenmeniz lazım.",
-  "turkish_example_sentence_with_blank": "Siz çok uzun bir yolculuktan sonra iyi dinlenmeniz lazım."
+  "turkish_example_sentence": "Siz yeni bir eve taşınmaya ihtiyaç duymanız lazım.",
+  "english_example_sentence": "You need to move to a new house.",
+  "russian_example_sentence": "Вам нужно переехать в новый дом.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:30:40.808877+00:00",
+  "turkish_example_sentence_with_blank": "Siz yeni bir eve taşınmaya ______."
 }

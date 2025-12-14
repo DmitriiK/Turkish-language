@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yapacaklardı",
     "root": "yap",
-    "tense_affix": "acaktı",
+    "tense_affix": "acak",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "lardı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Onlar çocuklar için renkli bir oyuncak yapacaklardı ama malzeme bitti.",
-  "english_example_sentence": "They were going to make a colorful toy for the children but the materials ran out.",
-  "russian_example_sentence": "Они собирались сделать красочную игрушку для детей, но материалы закончились.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T09:06:51.581197+00:00",
-  "turkish_example_sentence_with_blank": "Onlar çocuklar için renkli bir oyuncak ______ ama malzeme bitti."
+  "turkish_example_sentence": "Onlar yaklaşan etkinlik için yeni bir plan yapacaklardı.",
+  "english_example_sentence": "They were going to make a new plan for the upcoming event.",
+  "russian_example_sentence": "Они собирались составить новый план для предстоящего мероприятия.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:09:29.219642+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yaklaşan etkinlik için yeni bir plan ______."
 }

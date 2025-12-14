@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissetmem",
     "root": "hisset",
-    "tense_affix": "z",
+    "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "I don't usually feel tired in the morning.",
-  "russian_example_sentence": "Я обычно не чувствую усталости по утрам.",
-  "turkish_example_sentence": "Ben sabahları genellikle yorgun hissetmem.",
-  "turkish_example_sentence_with_blank": "Ben sabahları genellikle yorgun ______."
+  "turkish_example_sentence": "Ben asla soğuk havayı hissetmem.",
+  "english_example_sentence": "I never feel cold weather.",
+  "russian_example_sentence": "Я никогда не чувствую холодную погоду.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T09:04:42.852373+00:00",
+  "turkish_example_sentence_with_blank": "Ben asla soğuk havayı ______."
 }

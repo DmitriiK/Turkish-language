@@ -1,0 +1,22 @@
+{
+  "verb_rank": 7,
+  "verb_english": "make",
+  "verb_russian": "делать (создавать)",
+  "verb_infinitive": "yapmak",
+  "turkish_verb": {
+    "verb_full": "yapmadığınızda",
+    "root": "yap",
+    "tense_affix": "dık",
+    "verb_tense": "zaman_sıfatı",
+    "personal_pronoun": "siz",
+    "personal_affix": "ınızda",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "turkish_example_sentence": "Siz acele bir seçim yapmadığınızda, sonuçlar daha iyi olur.",
+  "english_example_sentence": "When you don't make a hasty choice, the results are better.",
+  "russian_example_sentence": "Когда вы не делаете поспешного выбора, результаты лучше.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:12:23.981930+00:00",
+  "turkish_example_sentence_with_blank": "Siz acele bir seçim ______, sonuçlar daha iyi olur."
+}

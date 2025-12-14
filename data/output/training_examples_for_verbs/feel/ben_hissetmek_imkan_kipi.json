@@ -5,16 +5,18 @@
   "verb_infinitive": "hissetmek",
   "turkish_verb": {
     "verb_full": "hissedebilirim",
-    "root": "hisse",
-    "tense_affix": "ebil",
+    "root": "hisset",
+    "tense_affix": "ebilir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "irim",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I can feel the warm summer breeze today",
-  "russian_example_sentence": "Я могу почувствовать теплый летний ветер сегодня",
-  "turkish_example_sentence": "Ben bugün sıcak yaz rüzgarını hissedebilirim",
-  "turkish_example_sentence_with_blank": "Ben bugün sıcak yaz rüzgarını ______"
+  "turkish_example_sentence": "Ben soğuk rüzgarı yüzümde hissedebilirim.",
+  "english_example_sentence": "I can feel the cold wind on my face.",
+  "russian_example_sentence": "Я могу чувствовать холодный ветер на своем лице.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T13:12:20.306171+00:00",
+  "turkish_example_sentence_with_blank": "Ben soğuk rüzgarı yüzümde ______."
 }

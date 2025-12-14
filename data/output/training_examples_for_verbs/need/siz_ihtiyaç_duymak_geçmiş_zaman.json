@@ -5,16 +5,18 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duydunuz",
-    "root": "duymak",
+    "root": "duy",
     "tense_affix": "du",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "nuz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You needed reliable transportation to reach the distant mountain village",
-  "russian_example_sentence": "Вам нужен был надёжный транспорт, чтобы добраться до далёкой горной деревни",
-  "turkish_example_sentence": "Siz uzak dağ köyüne ulaşmak için güvenilir ulaşım hizmetine ihtiyaç duydunuz",
-  "turkish_example_sentence_with_blank": "Siz uzak dağ köyüne ulaşmak için güvenilir ulaşım hizmetine ______"
+  "turkish_example_sentence": "Siz bu acil durum için hızlı bir çözüme ihtiyaç duydunuz.",
+  "english_example_sentence": "You (plural/formal) needed a quick solution for this emergency.",
+  "russian_example_sentence": "Вам понадобилось быстрое решение для этой чрезвычайной ситуации.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:25:51.162260+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu acil durum için hızlı bir çözüme ______."
 }

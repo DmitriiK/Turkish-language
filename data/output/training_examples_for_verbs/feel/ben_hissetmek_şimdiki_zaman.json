@@ -5,7 +5,7 @@
   "verb_infinitive": "hissetmek",
   "turkish_verb": {
     "verb_full": "hissediyorum",
-    "root": "hissed",
+    "root": "hisset",
     "tense_affix": "iyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "ben",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I am feeling a strong headache today.",
-  "russian_example_sentence": "Я чувствую сильную головную боль сегодня.",
-  "turkish_example_sentence": "Ben bugün şiddetli bir baş ağrısı hissediyorum.",
-  "turkish_example_sentence_with_blank": "Ben bugün şiddetli bir baş ağrısı ______."
+  "turkish_example_sentence": "Ben şu an büyük bir mutluluk hissediyorum.",
+  "english_example_sentence": "I am feeling great happiness right now.",
+  "russian_example_sentence": "Я сейчас чувствую большое счастье.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T09:00:08.182021+00:00",
+  "turkish_example_sentence_with_blank": "Ben şu an büyük bir mutluluk ______."
 }

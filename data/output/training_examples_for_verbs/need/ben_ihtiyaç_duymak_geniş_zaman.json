@@ -4,8 +4,8 @@
   "verb_russian": "нуждаться",
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
-    "verb_full": "ihtiyaç duyarım",
-    "root": "duymak",
+    "verb_full": "duyarım",
+    "root": "duy",
     "tense_affix": "ar",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "ben",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I need fresh water every morning",
-  "russian_example_sentence": "Мне нужна свежая вода каждое утро",
-  "turkish_example_sentence": "Ben her sabah taze su ihtiyaç duyarım",
-  "turkish_example_sentence_with_blank": "Ben her sabah taze su ______"
+  "turkish_example_sentence": "Ben her zaman yeni bir kitaba ihtiyaç duyarım.",
+  "english_example_sentence": "I always need a new book.",
+  "russian_example_sentence": "Мне всегда нужна новая книга.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:28:18.633508+00:00",
+  "turkish_example_sentence_with_blank": "Ben her zaman yeni bir kitaba ihtiyaç ______."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissettiniz",
     "root": "hisset",
-    "tense_affix": "ti",
+    "tense_affix": "tiniz",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "niz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You felt great excitement before the big concert.",
-  "russian_example_sentence": "Вы почувствовали большое волнение перед большим концертом.",
-  "turkish_example_sentence": "Siz büyük konserden önce büyük bir heyecan hissettiniz.",
-  "turkish_example_sentence_with_blank": "Siz büyük konserden önce büyük bir heyecan ______."
+  "turkish_example_sentence": "Siz sınav sonuçlarını görünce büyük bir rahatlama hissettiniz.",
+  "english_example_sentence": "You felt a great relief when you saw the exam results.",
+  "russian_example_sentence": "Вы почувствовали большое облегчение, когда увидели результаты экзамена.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T09:00:38.758226+00:00",
+  "turkish_example_sentence_with_blank": "Siz sınav sonuçlarını görünce büyük bir rahatlama ______."
 }

@@ -1,0 +1,22 @@
+{
+  "verb_rank": 3,
+  "verb_english": "do",
+  "verb_russian": "делать",
+  "verb_infinitive": "yapmak",
+  "turkish_verb": {
+    "verb_full": "yapmadığında",
+    "root": "yap",
+    "tense_affix": "dığ",
+    "verb_tense": "zaman_sıfatı",
+    "personal_pronoun": "sen",
+    "personal_affix": "ın",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "turkish_example_sentence": "Sen spor antrenmanını yapmadığında, antrenör seni uyarıyor.",
+  "english_example_sentence": "When you don't do sports training, the coach warns you.",
+  "russian_example_sentence": "Когда ты не делаешь спортивную тренировку, тренер тебя предупреждает.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-14T07:22:41.653028+00:00",
+  "turkish_example_sentence_with_blank": "Sen spor antrenmanını ______, antrenör seni uyarıyor."
+}

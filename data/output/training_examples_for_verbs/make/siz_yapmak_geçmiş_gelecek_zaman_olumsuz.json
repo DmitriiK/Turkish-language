@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yapmayacaktınız",
     "root": "yap",
-    "tense_affix": "acaktı",
+    "tense_affix": "yacaktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Siz böyle bir ciddi hata yapmayacaktınız ama acele ettiniz.",
-  "english_example_sentence": "You were not going to make such a serious mistake but you hurried.",
-  "russian_example_sentence": "Вы не собирались делать такую серьезную ошибку, но вы спешили.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T09:06:51.581197+00:00",
-  "turkish_example_sentence_with_blank": "Siz böyle bir ciddi hata ______ ama acele ettiniz."
+  "turkish_example_sentence": "Siz düşünmeden acele bir karar yapmayacaktınız.",
+  "english_example_sentence": "You were not going to make a quick decision without thinking.",
+  "russian_example_sentence": "Вы не собирались принимать быстрое решение, не подумав.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:09:29.219642+00:00",
+  "turkish_example_sentence_with_blank": "Siz düşünmeden acele bir karar ______."
 }

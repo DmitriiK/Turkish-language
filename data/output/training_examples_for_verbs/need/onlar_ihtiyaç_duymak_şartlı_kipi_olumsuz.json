@@ -5,7 +5,7 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duymazlarsa",
-    "root": "ihtiyaç du",
+    "root": "ihtiyaç duy",
     "tense_affix": "sa",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "onlar",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If they don't need to cook, they will rest.",
-  "russian_example_sentence": "Если им не нужно готовить, они отдохнут.",
-  "turkish_example_sentence": "Eğer yemek pişirmeye ihtiyaç duymazlarsa, dinlenirler.",
-  "turkish_example_sentence_with_blank": "Eğer yemek pişirmeye ______, dinlenirler."
+  "turkish_example_sentence": "Onlar bu pahalı arabaya ihtiyaç duymazlarsa, daha ucuz bir model alırlar.",
+  "english_example_sentence": "If they don't need this expensive car, they buy a cheaper model.",
+  "russian_example_sentence": "Если им не нужна эта дорогая машина, они купят более дешёвую модель.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:07:56.519587+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu pahalı arabaya ______, daha ucuz bir model alırlar."
 }

@@ -5,16 +5,18 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duyarsanız",
-    "root": "ihtiyaç du",
-    "tense_affix": "sa",
+    "root": "ihtiyaç duy",
+    "tense_affix": "arsa",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you need directions, ask the locals.",
-  "russian_example_sentence": "Если вам нужны указания, спросите местных.",
-  "turkish_example_sentence": "Eğer tarife ihtiyaç duyarsanız, yerlilere sorabilirsiniz.",
-  "turkish_example_sentence_with_blank": "Eğer tarife ______, yerlilere sorabilirsiniz."
+  "turkish_example_sentence": "Siz daha fazla zamana ihtiyaç duyarsanız, lütfen yöneticinize bildirin.",
+  "english_example_sentence": "If you need more time, please inform your manager.",
+  "russian_example_sentence": "Если вам понадобится больше времени, пожалуйста, сообщите своему менеджеру.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:07:56.519587+00:00",
+  "turkish_example_sentence_with_blank": "Siz daha fazla zamana ______, lütfen yöneticinize bildirin."
 }

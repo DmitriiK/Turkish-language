@@ -5,7 +5,7 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duymuyoruz",
-    "root": "duyu",
+    "root": "ihtiyaç duy",
     "tense_affix": "uyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "biz",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "m"
   },
-  "english_example_sentence": "We do not need expensive equipment today",
-  "russian_example_sentence": "Нам не нужно дорогое оборудование сегодня",
-  "turkish_example_sentence": "Biz bugün pahalı ekipmana ihtiyaç duymuyoruz",
-  "turkish_example_sentence_with_blank": "Biz bugün pahalı ekipmana ______"
+  "turkish_example_sentence": "Biz bu eski arabayı tamir etmek için yeni parçalara ihtiyaç duymuyoruz.",
+  "english_example_sentence": "We are not needing new parts to repair this old car.",
+  "russian_example_sentence": "Нам не нужны новые детали для ремонта этой старой машины.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:25:20.416365+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu eski arabayı tamir etmek için yeni parçalara ______."
 }

@@ -5,7 +5,7 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duysan",
-    "root": "ihtiyaç duy",
+    "root": "duy",
     "tense_affix": "sa",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "sen",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you needed peace, you could meditate",
-  "russian_example_sentence": "Если бы вам понадобился покой, вы могли бы медитировать",
-  "turkish_example_sentence": "Huzura ihtiyaç duysan meditasyon yapabilirsin",
-  "turkish_example_sentence_with_blank": "Huzura ______ meditasyon yapabilirsin"
+  "turkish_example_sentence": "Sen bu projeye daha fazla zaman ihtiyaç duysan, söylesen iyi olur.",
+  "english_example_sentence": "If you needed more time for this project, it would be good if you said so.",
+  "russian_example_sentence": "Если бы тебе нужно было больше времени на этот проект, было бы хорошо, если бы ты сказал.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:29:56.590821+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu projeye daha fazla zaman ______, söylesen iyi olur."
 }

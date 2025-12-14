@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissetmiyoruz",
     "root": "hisset",
-    "tense_affix": "iyor",
+    "tense_affix": "yor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "uz",
     "polarity": "negative",
     "negative_affix": "mi"
   },
-  "english_example_sentence": "We are not feeling any pressure from the boss.",
-  "russian_example_sentence": "Мы не чувствуем никакого давления со стороны начальника.",
-  "turkish_example_sentence": "Biz patrondan herhangi bir baskı hissetmiyoruz.",
-  "turkish_example_sentence_with_blank": "Biz patrondan herhangi bir baskı ______."
+  "turkish_example_sentence": "Biz, bu zorlu projenin baskısını hissetmiyoruz.",
+  "english_example_sentence": "We are not feeling the pressure of this challenging project.",
+  "russian_example_sentence": "Мы не чувствуем давления этого сложного проекта.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T09:00:08.182021+00:00",
+  "turkish_example_sentence_with_blank": "Biz, bu zorlu projenin baskısını ______."
 }

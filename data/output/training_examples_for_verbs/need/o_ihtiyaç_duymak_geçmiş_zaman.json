@@ -5,16 +5,18 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duydu",
-    "root": "duymak",
+    "root": "duy",
     "tense_affix": "du",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "She needed professional medical advice for her serious illness",
-  "russian_example_sentence": "Ей нужна была профессиональная медицинская консультация для её серьёзной болезни",
-  "turkish_example_sentence": "O ciddi hastalığı için uzman doktor tavsiyesine ihtiyaç duydu",
-  "turkish_example_sentence_with_blank": "O ciddi hastalığı için uzman doktor tavsiyesine ______"
+  "turkish_example_sentence": "O, zor görevi tamamlamak için ekstra zamana ihtiyaç duydu.",
+  "english_example_sentence": "He/She needed extra time to complete the difficult task.",
+  "russian_example_sentence": "Ему/Ей понадобилось дополнительное время, чтобы выполнить сложное задание.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:25:51.162260+00:00",
+  "turkish_example_sentence_with_blank": "O, zor görevi tamamlamak için ekstra zamana ______."
 }

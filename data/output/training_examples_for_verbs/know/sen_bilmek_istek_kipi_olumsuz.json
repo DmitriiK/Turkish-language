@@ -4,19 +4,19 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilmiyesin",
+    "verb_full": "bilmeyesin",
     "root": "bil",
-    "tense_affix": "e",
+    "tense_affix": "ye",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "sin",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Sen bu üzücü haberi bilmiyesin diye umuyorum.",
-  "english_example_sentence": "I hope you may not know this sad news.",
-  "russian_example_sentence": "Я надеюсь, что ты не узнаешь эту грустную новость.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T09:14:00.388781+00:00",
-  "turkish_example_sentence_with_blank": "Sen bu üzücü haberi ______ diye umuyorum."
+  "turkish_example_sentence": "Sen bu zorlu görevin detaylarını bilmeyesin.",
+  "english_example_sentence": "May you not know the details of this difficult task.",
+  "russian_example_sentence": "Пусть ты не узнаешь подробностей этого сложного задания.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:28:03.744930+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu zorlu görevin detaylarını ______."
 }

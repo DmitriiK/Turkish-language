@@ -5,16 +5,18 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duymasalar",
-    "root": "ihtiyaç duy",
-    "tense_affix": "masa",
+    "root": "duy",
+    "tense_affix": "sa",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If they didn’t need support, they wouldn’t ask",
-  "russian_example_sentence": "Если бы им не нужна была поддержка, они бы не просили",
-  "turkish_example_sentence": "Desteğe ihtiyaç duymasalar istemezlerdi",
-  "turkish_example_sentence_with_blank": "Desteğe ______ istemezlerdi"
+  "turkish_example_sentence": "Onlar finansal desteğe ihtiyaç duymasalar, bu programa başvurmazlardı.",
+  "english_example_sentence": "If they didn't need financial support, they wouldn't apply for this program.",
+  "russian_example_sentence": "Если бы им не нужна была финансовая поддержка, они бы не подали заявку на эту программу.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:29:56.590821+00:00",
+  "turkish_example_sentence_with_blank": "Onlar finansal desteğe ______, bu programa başvurmazlardı."
 }

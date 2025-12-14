@@ -4,8 +4,8 @@
   "verb_russian": "нуждаться",
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
-    "verb_full": "ihtiyaç duyar",
-    "root": "duymak",
+    "verb_full": "duyar",
+    "root": "duy",
     "tense_affix": "ar",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He needs medical help urgently now",
-  "russian_example_sentence": "Ему срочно нужна медицинская помощь",
-  "turkish_example_sentence": "O acil tıbbi yardım ihtiyaç duyar",
-  "turkish_example_sentence_with_blank": "O acil tıbbi yardım ______"
+  "turkish_example_sentence": "O, zor zamanlarda güçlü bir desteğe ihtiyaç duyar.",
+  "english_example_sentence": "He/She needs strong support in difficult times.",
+  "russian_example_sentence": "Ему/Ей нужна сильная поддержка в трудные времена.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:28:18.633508+00:00",
+  "turkish_example_sentence_with_blank": "O, zor zamanlarda güçlü bir desteğe ihtiyaç ______."
 }

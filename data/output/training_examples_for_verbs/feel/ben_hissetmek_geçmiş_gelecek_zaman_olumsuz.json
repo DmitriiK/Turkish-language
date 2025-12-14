@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissetmeyecektim",
     "root": "hisset",
-    "tense_affix": "ecekti",
+    "tense_affix": "yecek",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "tim",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "I was not going to feel anger.",
-  "russian_example_sentence": "Я не собирался чувствовать злость.",
-  "turkish_example_sentence": "Ben o kötü olaydan sonra öfke hissetmeyecektim.",
-  "turkish_example_sentence_with_blank": "Ben o kötü olaydan sonra öfke ______."
+  "turkish_example_sentence": "Ben bu durumdan dolayı kesinlikle bir pişmanlık hissetmeyecektim.",
+  "english_example_sentence": "I was definitely not going to feel any regret because of this situation.",
+  "russian_example_sentence": "Я определенно не собирался чувствовать никакого сожаления из-за этой ситуации.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T15:05:07.778173+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu durumdan dolayı kesinlikle bir pişmanlık ______."
 }

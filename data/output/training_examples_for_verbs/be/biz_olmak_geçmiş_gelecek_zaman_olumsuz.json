@@ -1,0 +1,22 @@
+{
+  "verb_rank": 1,
+  "verb_english": "be",
+  "verb_russian": "быть",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olmayacaktık",
+    "root": "ol",
+    "tense_affix": "yacaktı",
+    "verb_tense": "geçmiş_gelecek_zaman",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "turkish_example_sentence": "Biz tatilde olmayacaktık, son anda plan yaptık.",
+  "english_example_sentence": "We were not going to be on vacation, we made plans at the last minute.",
+  "russian_example_sentence": "Мы не собирались быть в отпуске, мы составили планы в последнюю минуту.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T15:19:46.538545+00:00",
+  "turkish_example_sentence_with_blank": "Biz tatilde ______, son anda plan yaptık."
+}

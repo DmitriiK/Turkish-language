@@ -4,19 +4,19 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmemelisin",
+    "verb_full": "gitmemelsin",
     "root": "git",
-    "tense_affix": "meli",
+    "tense_affix": "memeli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "sin",
     "polarity": "negative",
-    "negative_affix": "meme"
+    "negative_affix": "me"
   },
-  "turkish_example_sentence": "Sen hasta olduğun için uzun yolculuğa gitmemelisin.",
-  "english_example_sentence": "You must not go on a long journey because you are sick.",
-  "russian_example_sentence": "Ты не должен идти в долгое путешествие, потому что ты болен.",
+  "turkish_example_sentence": "Sen bu geç saatte yalnız sokağa gitmemelsin.",
+  "english_example_sentence": "You must not go to this late street alone.",
+  "russian_example_sentence": "Ты не должен идти на эту позднюю улицу один.",
   "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T08:53:20.212603+00:00",
-  "turkish_example_sentence_with_blank": "Sen hasta olduğun için uzun yolculuğa ______."
+  "generated_at": "2025-12-14T07:34:42.998512+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu geç saatte yalnız sokağa ______."
 }

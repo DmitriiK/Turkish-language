@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissetmemişlerse",
     "root": "hisset",
-    "tense_affix": "mişlerse",
+    "tense_affix": "miş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "ler",
+    "personal_affix": "lerse",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If they hadn't felt any cultural differences.",
-  "russian_example_sentence": "Если бы они не почувствовали никаких культурных различий.",
-  "turkish_example_sentence": "Onlar hiçbir kültürel farklılık hissetmemişlerse, kolayca uyum sağlamışlardır.",
-  "turkish_example_sentence_with_blank": "Onlar hiçbir kültürel farklılık ______, kolayca uyum sağlamışlardır."
+  "turkish_example_sentence": "Onlar bu kötü kokuyu hissetmemişlerse, yemek bozuk değildi.",
+  "english_example_sentence": "If they had not felt this bad smell, the food was not spoiled.",
+  "russian_example_sentence": "Если бы они не почувствовали этот плохой запах, еда не была испорчена.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T15:07:57.119239+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu kötü kokuyu ______, yemek bozuk değildi."
 }

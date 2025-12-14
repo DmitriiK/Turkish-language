@@ -4,7 +4,7 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmamanız",
+    "verb_full": "yapmaması",
     "root": "yap",
     "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
@@ -13,10 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Siz bu gizli bilgiyi açıklaması yapmamanız gerek.",
-  "english_example_sentence": "You need to not do this secret information disclosure.",
-  "russian_example_sentence": "Вам нужно не делать раскрытие этой секретной информации.",
+  "turkish_example_sentence": "Siz bu gizli bilgileri başkalarına açıklamak yapmaması gerek.",
+  "english_example_sentence": "You need to not do disclose this secret information to others.",
+  "russian_example_sentence": "Вам нужно не раскрывать эту секретную информацию другим.",
   "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-08T07:22:00.956255+00:00",
-  "turkish_example_sentence_with_blank": "Siz bu gizli bilgiyi açıklaması ______ gerek."
+  "generated_at": "2025-12-14T07:19:55.874528+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu gizli bilgileri başkalarına açıklamak ______ gerek."
 }

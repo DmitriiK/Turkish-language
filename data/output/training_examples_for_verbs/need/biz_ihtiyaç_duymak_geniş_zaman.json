@@ -4,8 +4,8 @@
   "verb_russian": "нуждаться",
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
-    "verb_full": "ihtiyaç duyarız",
-    "root": "duymak",
+    "verb_full": "duyarız",
+    "root": "duy",
     "tense_affix": "ar",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "biz",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We need reliable transportation for work",
-  "russian_example_sentence": "Нам нужен надёжный транспорт для работы",
-  "turkish_example_sentence": "Biz iş için güvenilir ulaşım ihtiyaç duyarız",
-  "turkish_example_sentence_with_blank": "Biz iş için güvenilir ulaşım ______"
+  "turkish_example_sentence": "Biz sakin bir tatil için biraz paraya ihtiyaç duyarız.",
+  "english_example_sentence": "We need some money for a quiet vacation.",
+  "russian_example_sentence": "Нам нужны немного денег для спокойного отпуска.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:28:18.633508+00:00",
+  "turkish_example_sentence_with_blank": "Biz sakin bir tatil için biraz paraya ihtiyaç ______."
 }

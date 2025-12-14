@@ -4,19 +4,19 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilmemiş olsanız",
+    "verb_full": "bilmemişseniz",
     "root": "bil",
-    "tense_affix": "miş",
+    "tense_affix": "mişse",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "niz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Siz bu önemli hukuki bilgiyi bilmemiş olsanız, dava kaybetmezdiniz.",
-  "english_example_sentence": "If you had not known this important legal information, you would not have lost the case.",
-  "russian_example_sentence": "Если бы вы не знали эту важную юридическую информацию, вы бы не проиграли дело.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T11:55:04.203098+00:00",
-  "turkish_example_sentence_with_blank": "Siz bu önemli hukuki bilgiyi ______, dava kaybetmezdiniz."
+  "turkish_example_sentence": "Siz önemli kuralları bilmemişseniz, hata yapardınız.",
+  "english_example_sentence": "If you hadn't known the important rules, you would have made a mistake.",
+  "russian_example_sentence": "Если бы вы не знали важных правил, вы бы совершили ошибку.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:32:10.923988+00:00",
+  "turkish_example_sentence_with_blank": "Siz önemli kuralları ______, hata yapardınız."
 }

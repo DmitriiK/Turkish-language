@@ -5,16 +5,18 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duyuyor",
-    "root": "duyu",
+    "root": "ihtiyaç duy",
     "tense_affix": "uyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He needs strong coffee this morning",
-  "russian_example_sentence": "Ему нужен крепкий кофе этим утром",
-  "turkish_example_sentence": "O bu sabah güçlü kahveye ihtiyaç duyuyor",
-  "turkish_example_sentence_with_blank": "O bu sabah güçlü kahveye ______"
+  "turkish_example_sentence": "O yorucu bir günün sonunda derin bir uykuya ihtiyaç duyuyor.",
+  "english_example_sentence": "He/She is needing a deep sleep at the end of a tiring day.",
+  "russian_example_sentence": "Ему/Ей нужен глубокий сон в конце утомительного дня.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:25:20.416365+00:00",
+  "turkish_example_sentence_with_blank": "O yorucu bir günün sonunda derin bir uykuya ______."
 }

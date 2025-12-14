@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "bilmeyecektik",
     "root": "bil",
-    "tense_affix": "ecekti",
+    "tense_affix": "yecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Biz o karmaşık bilgisayar programının kodunu bilmeyecektik çünkü çok teknikti.",
-  "english_example_sentence": "We were not going to know that complex computer program's code because it was very technical.",
-  "russian_example_sentence": "Мы не должны были знать код той сложной компьютерной программы, потому что это было очень техническое.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T11:54:43.015641+00:00",
-  "turkish_example_sentence_with_blank": "Biz o karmaşık bilgisayar programının kodunu ______ çünkü çok teknikti."
+  "turkish_example_sentence": "Biz bu karmaşık denklemin çözümünü asla bilmeyecektik.",
+  "english_example_sentence": "We were never going to know the solution to this complex equation.",
+  "russian_example_sentence": "Мы никогда не узнаем решение этого сложного уравнения.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:31:16.397978+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu karmaşık denklemin çözümünü asla ______."
 }

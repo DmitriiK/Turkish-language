@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "bilirse",
     "root": "bil",
-    "tense_affix": "ir",
+    "tense_affix": "irse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "O bu uzun roman hikayesini bilirse, bize anlatabilir.",
-  "english_example_sentence": "If he/she knows this long novel story, he/she can tell us.",
-  "russian_example_sentence": "Если он/она знает эту длинную историю романа, он/она может нам рассказать.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T11:54:11.273011+00:00",
-  "turkish_example_sentence_with_blank": "O bu uzun roman hikayesini ______, bize anlatabilir."
+  "turkish_example_sentence": "O acı gerçeği bilirse, çok üzülür.",
+  "english_example_sentence": "If he knows the bitter truth, he will be very sad.",
+  "russian_example_sentence": "Если он будет знать горькую правду, он очень расстроится.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:31:44.679048+00:00",
+  "turkish_example_sentence_with_blank": "O acı gerçeği ______, çok üzülür."
 }

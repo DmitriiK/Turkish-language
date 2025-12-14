@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissetmediğimde",
     "root": "hisset",
-    "tense_affix": "mediğ",
+    "tense_affix": "dik",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "ben",
-    "personal_affix": "im",
+    "personal_affix": "imde",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "When I don't feel well, I rest",
-  "russian_example_sentence": "Когда я не чувствую себя хорошо, я отдыхаю",
-  "turkish_example_sentence": "Ben iyi hissetmediğimde, dinleniyorum",
-  "turkish_example_sentence_with_blank": "Ben iyi ______, dinleniyorum"
+  "turkish_example_sentence": "Ben içten bir sevinç hissetmediğimde, hiçbir şey yapmak istemem.",
+  "english_example_sentence": "When I don't feel an inner joy, I don't want to do anything.",
+  "russian_example_sentence": "Когда я не чувствую внутренней радости, я ничего не хочу делать.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T15:09:37.888445+00:00",
+  "turkish_example_sentence_with_blank": "Ben içten bir sevinç ______, hiçbir şey yapmak istemem."
 }

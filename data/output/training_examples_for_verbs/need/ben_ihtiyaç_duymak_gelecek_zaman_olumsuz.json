@@ -5,16 +5,18 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duymayacağım",
-    "root": "duymak",
-    "tense_affix": "acak",
+    "root": "duy",
+    "tense_affix": "yacak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "ım",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I will not need expensive medical equipment",
-  "russian_example_sentence": "Мне не понадобится дорогое медицинское оборудование",
-  "turkish_example_sentence": "Ben pahalı tıbbi ekipman ihtiyaç duymayacağım",
-  "turkish_example_sentence_with_blank": "Ben pahalı tıbbi ekipman ______"
+  "turkish_example_sentence": "Ben bu iş için fazla paraya ihtiyaç duymayacağım.",
+  "english_example_sentence": "I will not need much money for this job.",
+  "russian_example_sentence": "Мне не понадобится много денег для этой работы.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:26:33.297077+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu iş için fazla paraya ______."
 }

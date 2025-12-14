@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissetmeyelim",
     "root": "hisset",
-    "tense_affix": "e",
+    "tense_affix": "ye",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "lim",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "Let us not feel any discomfort.",
-  "russian_example_sentence": "Давайте не будем чувствовать дискомфорт.",
-  "turkish_example_sentence": "Biz rahatsızlık hissetmeyelim.",
-  "turkish_example_sentence_with_blank": "Biz rahatsızlık ______."
+  "turkish_example_sentence": "Biz bu kadar yoğun stresi bir daha hissetmeyelim.",
+  "english_example_sentence": "Let us not feel such intense stress again.",
+  "russian_example_sentence": "Давайте больше не будем чувствовать такой сильный стресс.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T14:57:18.820309+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu kadar yoğun stresi bir daha ______."
 }

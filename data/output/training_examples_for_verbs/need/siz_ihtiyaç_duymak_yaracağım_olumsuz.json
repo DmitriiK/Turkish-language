@@ -5,16 +5,18 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duymayacaksınız",
-    "root": "duymak",
-    "tense_affix": "acağ",
+    "root": "duy",
+    "tense_affix": "yacak",
     "verb_tense": "yaracağım",
     "personal_pronoun": "siz",
     "personal_affix": "sınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You will not need complicated instructions for the modern device",
-  "russian_example_sentence": "Вам не понадобятся сложные инструкции для современного устройства",
-  "turkish_example_sentence": "Siz modern cihaz için karmaşık talimat ihtiyaç duymayacaksınız",
-  "turkish_example_sentence_with_blank": "Siz modern cihaz için karmaşık talimat ______"
+  "turkish_example_sentence": "Siz bu kısa yürüyüş için özel bir ekipmana ihtiyaç duymayacaksınız.",
+  "english_example_sentence": "You will not need special equipment for this short walk.",
+  "russian_example_sentence": "Вам не понадобится специальное снаряжение для этой короткой прогулки.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:53:44.840836+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu kısa yürüyüş için özel bir ekipmana ______."
 }

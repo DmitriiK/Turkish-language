@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissetmemen lazım",
     "root": "hisset",
-    "tense_affix": "",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "men",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You shouldn't feel any pain.",
-  "russian_example_sentence": "Ты не должен чувствовать никакой боли.",
-  "turkish_example_sentence": "Sen hiçbir acı hissetmemen lazım.",
-  "turkish_example_sentence_with_blank": "Sen hiçbir acı ______."
+  "turkish_example_sentence": "Sen bu kadar stresli hissetmemen lazım, sakin ol.",
+  "english_example_sentence": "You don't need to feel this stressed, calm down.",
+  "russian_example_sentence": "Тебе не нужно так сильно нервничать, успокойся.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T13:09:21.913464+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu kadar stresli ______, sakin ol."
 }

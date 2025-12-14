@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissetmemiz lazım",
     "root": "hisset",
-    "tense_affix": "",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "memiz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We need to feel true happiness.",
-  "russian_example_sentence": "Нам нужно почувствовать истинное счастье.",
-  "turkish_example_sentence": "Biz gerçek mutluluğu hissetmemiz lazım.",
-  "turkish_example_sentence_with_blank": "Biz gerçek mutluluğu ______."
+  "turkish_example_sentence": "Biz bu zorlu süreçte birbirimize destek hissetmemiz lazım.",
+  "english_example_sentence": "We need to feel support for each other in this difficult process.",
+  "russian_example_sentence": "Нам нужно чувствовать поддержку друг друга в этом трудном процессе.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T13:09:21.913464+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu zorlu süreçte birbirimize destek ______."
 }

@@ -4,7 +4,7 @@
   "verb_russian": "нуждаться",
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
-    "verb_full": "duyup",
+    "verb_full": "ihtiyaç duyup",
     "root": "duy",
     "tense_affix": "up",
     "verb_tense": "ulak_fiil",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "After realizing, they asked for help",
-  "russian_example_sentence": "Осознав, они попросили помощи",
-  "turkish_example_sentence": "Farkına varıp yardım istediler",
-  "turkish_example_sentence_with_blank": "Farkına varıp yardım istediler"
+  "turkish_example_sentence": "Yardıma ihtiyaç duyup yardım istedi.",
+  "english_example_sentence": "Having needed help, he asked for help.",
+  "russian_example_sentence": "Почувствовав необходимость в помощи, он попросил помощи.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:08:26.147325+00:00",
+  "turkish_example_sentence_with_blank": "Yardıma ______ yardım istedi."
 }

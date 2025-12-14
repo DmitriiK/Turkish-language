@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissetmemeniz lazım",
     "root": "hisset",
-    "tense_affix": "",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "meniz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You shouldn't feel any pressure.",
-  "russian_example_sentence": "Вам не следует чувствовать никакого давления.",
-  "turkish_example_sentence": "Siz hiçbir baskı hissetmemeniz lazım.",
-  "turkish_example_sentence_with_blank": "Siz hiçbir baskı ______."
+  "turkish_example_sentence": "Siz bu tür olumsuz düşünceler hissetmemeniz lazım.",
+  "english_example_sentence": "You don't need to feel these kinds of negative thoughts.",
+  "russian_example_sentence": "Вам не нужно испытывать такие негативные мысли.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T13:09:21.913464+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu tür olumsuz düşünceler ______."
 }

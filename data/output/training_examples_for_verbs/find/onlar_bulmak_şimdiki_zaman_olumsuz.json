@@ -4,19 +4,19 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulamıyorlar",
+    "verb_full": "bulmuyorlar",
     "root": "bul",
     "tense_affix": "uyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "m"
   },
-  "turkish_example_sentence": "Onlar evde gizli değerli mücevheri bulamıyorlar.",
-  "english_example_sentence": "They are not finding the hidden valuable jewelry at home.",
-  "russian_example_sentence": "Они не находят спрятанное ценное украшение дома.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:31:07.552027+00:00",
-  "turkish_example_sentence_with_blank": "Onlar evde gizli değerli mücevheri ______."
+  "turkish_example_sentence": "Onlar kütüphanede o eski tarihi kitabı bulmuyorlar.",
+  "english_example_sentence": "They are not finding that old historical book in the library.",
+  "russian_example_sentence": "Они не находят ту старую историческую книгу в библиотеке.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T09:26:16.097204+00:00",
+  "turkish_example_sentence_with_blank": "Onlar kütüphanede o eski tarihi kitabı ______."
 }

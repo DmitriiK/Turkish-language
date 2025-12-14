@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yapmayalım",
     "root": "yap",
-    "tense_affix": "a",
+    "tense_affix": "ya",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "lım",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Biz bu konuyu tartışmalı yapmayalım, barış içinde yaşayalım.",
-  "english_example_sentence": "Let's not make this topic controversial, let's live in peace.",
-  "russian_example_sentence": "Давайте не будем делать эту тему спорной, давайте жить в мире.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T09:05:08.448662+00:00",
-  "turkish_example_sentence_with_blank": "Biz bu konuyu tartışmalı ______, barış içinde yaşayalım."
+  "turkish_example_sentence": "Biz bu gereksiz harcamaları asla yapmayalım.",
+  "english_example_sentence": "Let's never make these unnecessary expenses.",
+  "russian_example_sentence": "Давайте никогда не делать эти ненужные траты.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:05:00.152757+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu gereksiz harcamaları asla ______."
 }

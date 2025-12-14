@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissetmemesi lazım",
     "root": "hisset",
-    "tense_affix": "",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
     "personal_affix": "mesi",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "She shouldn't feel any fear.",
-  "russian_example_sentence": "Она не должна чувствовать никакого страха.",
-  "turkish_example_sentence": "O hiç korku hissetmemesi lazım.",
-  "turkish_example_sentence_with_blank": "O hiç korku ______."
+  "turkish_example_sentence": "O başarısızlıktan korku hissetmemesi lazım, denemeli.",
+  "english_example_sentence": "He/She doesn't need to feel fear from failure, he/she should try.",
+  "russian_example_sentence": "Ему/Ей не нужно чувствовать страх перед неудачей, он/она должен(на) попробовать.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T13:09:21.913464+00:00",
+  "turkish_example_sentence_with_blank": "O başarısızlıktan korku ______, denemeli."
 }

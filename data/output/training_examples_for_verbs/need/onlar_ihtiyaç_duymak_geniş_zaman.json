@@ -4,8 +4,8 @@
   "verb_russian": "нуждаться",
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
-    "verb_full": "ihtiyaç duyarlar",
-    "root": "duymak",
+    "verb_full": "duyarlar",
+    "root": "duy",
     "tense_affix": "ar",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "onlar",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They need warm blankets during winter",
-  "russian_example_sentence": "Им нужны тёплые одеяла зимой",
-  "turkish_example_sentence": "Onlar kış boyunca sıcak battaniye ihtiyaç duyarlar",
-  "turkish_example_sentence_with_blank": "Onlar kış boyunca sıcak battaniye ______"
+  "turkish_example_sentence": "Onlar yeni bir proje için ek kaynaklara ihtiyaç duyarlar.",
+  "english_example_sentence": "They need additional resources for a new project.",
+  "russian_example_sentence": "Им нужны дополнительные ресурсы для нового проекта.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:28:18.633508+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yeni bir proje için ek kaynaklara ihtiyaç ______."
 }

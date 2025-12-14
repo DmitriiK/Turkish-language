@@ -5,7 +5,7 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duyacaksınız",
-    "root": "duymak",
+    "root": "duy",
     "tense_affix": "acak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "siz",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You will need valuable business experience in the future",
-  "russian_example_sentence": "Вам понадобится ценный деловой опыт в будущем",
-  "turkish_example_sentence": "Siz gelecekte değerli iş deneyimi ihtiyaç duyacaksınız",
-  "turkish_example_sentence_with_blank": "Siz gelecekte değerli iş deneyimi ______"
+  "turkish_example_sentence": "Siz bu zorlu görevi tamamlamak için özel araçlara ihtiyaç duyacaksınız.",
+  "english_example_sentence": "You will need special tools to complete this challenging task.",
+  "russian_example_sentence": "Вам понадобятся специальные инструменты для выполнения этой сложной задачи.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:26:33.297077+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu zorlu görevi tamamlamak için özel araçlara ______."
 }

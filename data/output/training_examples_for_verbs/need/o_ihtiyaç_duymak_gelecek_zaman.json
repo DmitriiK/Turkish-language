@@ -5,7 +5,7 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duyacak",
-    "root": "duymak",
+    "root": "duy",
     "tense_affix": "acak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "o",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "She will need special artistic training next year",
-  "russian_example_sentence": "Ей понадобится специальное художественное обучение в следующем году",
-  "turkish_example_sentence": "O gelecek yıl özel sanatsal eğitim ihtiyaç duyacak",
-  "turkish_example_sentence_with_blank": "O gelecek yıl özel sanatsal eğitim ______"
+  "turkish_example_sentence": "O ders çalışmak için sessiz bir ortama ihtiyaç duyacak.",
+  "english_example_sentence": "He/She will need a quiet environment to study.",
+  "russian_example_sentence": "Ему/Ей понадобится тихая обстановка для учебы.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:26:33.297077+00:00",
+  "turkish_example_sentence_with_blank": "O ders çalışmak için sessiz bir ortama ______."
 }

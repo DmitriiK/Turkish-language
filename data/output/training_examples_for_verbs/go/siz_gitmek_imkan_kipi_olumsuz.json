@@ -4,19 +4,19 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gidememsiniz",
+    "verb_full": "gidememeysiniz",
     "root": "git",
-    "tense_affix": "ebil",
+    "tense_affix": "eme",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "irsiniz",
+    "personal_affix": "ysiniz",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": "m"
   },
-  "turkish_example_sentence": "Siz iş yoğunluğu nedeniyle hafta ortası piknik alanına gidememsiniz.",
-  "english_example_sentence": "You cannot go to the picnic area on a midweek due to work intensity.",
-  "russian_example_sentence": "Вы не можете пойти на пикник в середине недели из-за интенсивности работы.",
+  "turkish_example_sentence": "Siz kötü hava koşulları nedeniyle dış bölgeye gidememeysiniz.",
+  "english_example_sentence": "You cannot go to the outer region due to bad weather conditions.",
+  "russian_example_sentence": "Вы не можете пойти во внешний регион из-за плохих погодных условий.",
   "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T08:53:00.662293+00:00",
-  "turkish_example_sentence_with_blank": "Siz iş yoğunluğu nedeniyle hafta ortası piknik alanına ______."
+  "generated_at": "2025-12-14T07:34:22.682535+00:00",
+  "turkish_example_sentence_with_blank": "Siz kötü hava koşulları nedeniyle dış bölgeye ______."
 }

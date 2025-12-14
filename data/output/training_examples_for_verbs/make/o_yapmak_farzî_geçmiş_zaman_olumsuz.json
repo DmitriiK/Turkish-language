@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yapmamışsa",
     "root": "yap",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "sa",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "O genç mimar bu cesur yapıyı yapmamışsa, şehir daha sıkıcı görünürdü.",
-  "english_example_sentence": "If that young architect had not made this bold building, the city would look more boring.",
-  "russian_example_sentence": "Если бы тот молодой архитектор не создал это смелое здание, город выглядел бы скучнее.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T09:07:50.910335+00:00",
-  "turkish_example_sentence_with_blank": "O genç mimar bu cesur yapıyı ______, şehir daha sıkıcı görünürdü."
+  "turkish_example_sentence": "O bu hatayı yapmamışsa, kimse onu suçlamazdı.",
+  "english_example_sentence": "If he/she had not made this mistake, no one would blame him/her.",
+  "russian_example_sentence": "Если бы он/она не совершил(а) эту ошибку, никто бы его/ее не винил.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:11:07.969865+00:00",
+  "turkish_example_sentence_with_blank": "O bu hatayı ______, kimse onu suçlamazdı."
 }

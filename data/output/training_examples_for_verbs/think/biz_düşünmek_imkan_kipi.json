@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "düşünebiliriz",
     "root": "düşün",
-    "tense_affix": "ebil",
+    "tense_affix": "ebilir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iriz",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Biz bu önemli proje hakkında birlikte düşünebiliriz.",
-  "english_example_sentence": "We can think about this important project together.",
-  "russian_example_sentence": "Мы можем думать об этом важном проекте вместе.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T11:57:55.651230+00:00",
-  "turkish_example_sentence_with_blank": "Biz bu önemli proje hakkında birlikte ______."
+  "turkish_example_sentence": "Biz, bu önemli konuyu birlikte daha iyi düşünebiliriz.",
+  "english_example_sentence": "We can think about this important issue better together.",
+  "russian_example_sentence": "Мы можем лучше обдумать этот важный вопрос вместе.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:50:41.039735+00:00",
+  "turkish_example_sentence_with_blank": "Biz, bu önemli konuyu birlikte daha iyi ______."
 }

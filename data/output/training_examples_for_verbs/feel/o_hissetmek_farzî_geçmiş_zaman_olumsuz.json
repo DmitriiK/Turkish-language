@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissetmemişse",
     "root": "hisset",
-    "tense_affix": "mişse",
+    "tense_affix": "miş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "se",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If she hadn't felt any pressure.",
-  "russian_example_sentence": "Если бы она не почувствовала никакого давления.",
-  "turkish_example_sentence": "O hiçbir baskı hissetmemişse, rahatlamıştır.",
-  "turkish_example_sentence_with_blank": "O hiçbir baskı ______, rahatlamıştır."
+  "turkish_example_sentence": "O bu ani acıyı hissetmemişse, normal şekilde yürürdü.",
+  "english_example_sentence": "If he/she had not felt this sudden pain, he/she would have walked normally.",
+  "russian_example_sentence": "Если бы он/она не почувствовал(а) эту внезапную боль, он/она ходил(а) бы нормально.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T15:07:57.119239+00:00",
+  "turkish_example_sentence_with_blank": "O bu ani acıyı ______, normal şekilde yürürdü."
 }

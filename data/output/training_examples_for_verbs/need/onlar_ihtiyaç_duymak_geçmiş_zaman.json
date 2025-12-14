@@ -5,7 +5,7 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duydular",
-    "root": "duymak",
+    "root": "duy",
     "tense_affix": "du",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "onlar",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They needed urgent shelter from the terrible winter storm",
-  "russian_example_sentence": "Им нужно было срочное убежище от ужасной зимней бури",
-  "turkish_example_sentence": "Onlar korkunç kış fırtınasından acil barınağa ihtiyaç duydular",
-  "turkish_example_sentence_with_blank": "Onlar korkunç kış fırtınasından acil barınağa ______"
+  "turkish_example_sentence": "Onlar yeni bir eve taşınmak için büyük bir kamyona ihtiyaç duydular.",
+  "english_example_sentence": "They needed a large truck to move to a new house.",
+  "russian_example_sentence": "Им понадобился большой грузовик, чтобы переехать в новый дом.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:25:51.162260+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yeni bir eve taşınmak için büyük bir kamyona ______."
 }

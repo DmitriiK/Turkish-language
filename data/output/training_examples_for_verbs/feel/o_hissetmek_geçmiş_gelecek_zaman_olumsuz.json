@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissetmeyecekti",
     "root": "hisset",
-    "tense_affix": "ecekti",
+    "tense_affix": "yecek",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "ti",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "She was not going to feel lonely.",
-  "russian_example_sentence": "Она не собиралась чувствовать себя одинокой.",
-  "turkish_example_sentence": "O, kalabalık şehirde yalnızlık hissetmeyecekti.",
-  "turkish_example_sentence_with_blank": "O, kalabalık şehirde yalnızlık ______."
+  "turkish_example_sentence": "O, bu soğuk havada dışarıda asla üşüme hissetmeyecekti.",
+  "english_example_sentence": "He/She was never going to feel cold outside in this cold weather.",
+  "russian_example_sentence": "Он/Она никогда не собирался(лась) чувствовать холода на улице в такую холодную погоду.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T15:05:07.778173+00:00",
+  "turkish_example_sentence_with_blank": "O, bu soğuk havada dışarıda asla üşüme ______."
 }

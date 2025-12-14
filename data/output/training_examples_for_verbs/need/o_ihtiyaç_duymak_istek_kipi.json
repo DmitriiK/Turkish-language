@@ -5,7 +5,7 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duya",
-    "root": "ihtiyaç duy",
+    "root": "duy",
     "tense_affix": "a",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "o",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "May she need your support.",
-  "russian_example_sentence": "Пусть ей понадобится твоя поддержка.",
-  "turkish_example_sentence": "O sizin desteğinize ihtiyaç duya.",
-  "turkish_example_sentence_with_blank": "O sizin desteğinize ______."
+  "turkish_example_sentence": "O bu önemli karar için biraz daha bilgiye ihtiyaç duya.",
+  "english_example_sentence": "May he/she need a little more information for this important decision.",
+  "russian_example_sentence": "Пусть ему/ей понадобится немного больше информации для этого важного решения.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:28:58.067042+00:00",
+  "turkish_example_sentence_with_blank": "O bu önemli karar için biraz daha bilgiye ______."
 }

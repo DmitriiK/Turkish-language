@@ -4,7 +4,7 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gide",
+    "verb_full": "gitsin",
     "root": "git",
     "tense_affix": "e",
     "verb_tense": "istek_kipi",
@@ -13,10 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "O genç doktor hastaneye hemen gide.",
-  "english_example_sentence": "May that young doctor go to the hospital immediately.",
-  "russian_example_sentence": "Пусть молодой врач поедет в больницу немедленно.",
+  "turkish_example_sentence": "O genç öğrenci hemen üniversiteye gitsin ve önemli derslere katılsın.",
+  "english_example_sentence": "May that young student go to university immediately and attend important classes.",
+  "russian_example_sentence": "Пусть тот молодой студент сразу поедет в университет и посетит важные занятия.",
   "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T08:51:39.364264+00:00",
-  "turkish_example_sentence_with_blank": "O genç doktor hastaneye hemen ______."
+  "generated_at": "2025-12-14T07:33:07.747269+00:00",
+  "turkish_example_sentence_with_blank": "O genç öğrenci hemen üniversiteye ______ ve önemli derslere katılsın."
 }

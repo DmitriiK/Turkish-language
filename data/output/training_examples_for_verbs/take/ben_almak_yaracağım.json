@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "alacağım",
     "root": "al",
-    "tense_affix": "acağ",
+    "tense_affix": "acak",
     "verb_tense": "yaracağım",
     "personal_pronoun": "ben",
     "personal_affix": "ım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Ben yarın kütüphaneden yeni bir İngilizce kitabı alacağım.",
-  "english_example_sentence": "I will take a new English book from the library tomorrow.",
-  "russian_example_sentence": "Завтра я возьму новую английскую книгу из библиотеки.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T12:02:42.906012+00:00",
-  "turkish_example_sentence_with_blank": "Ben yarın kütüphaneden yeni bir İngilizce kitabı ______."
+  "turkish_example_sentence": "Ben yarın yeni bir kitap alacağım.",
+  "english_example_sentence": "I will buy a new book tomorrow.",
+  "russian_example_sentence": "Я куплю новую книгу завтра.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T09:07:25.255523+00:00",
+  "turkish_example_sentence_with_blank": "Ben yarın yeni bir kitap ______."
 }

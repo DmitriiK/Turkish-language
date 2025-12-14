@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissederiz",
     "root": "hisset",
-    "tense_affix": "er",
+    "tense_affix": "der",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We feel a strong connection to nature here.",
-  "russian_example_sentence": "Мы чувствуем сильную связь с природой здесь.",
-  "turkish_example_sentence": "Biz burada doğayla güçlü bir bağ hissederiz.",
-  "turkish_example_sentence_with_blank": "Biz burada doğayla güçlü bir bağ ______."
+  "turkish_example_sentence": "Biz akşamları huzur dolu bir ortam hissederiz.",
+  "english_example_sentence": "We feel a peaceful environment in the evenings.",
+  "russian_example_sentence": "Мы чувствуем мирную обстановку по вечерам.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T09:04:42.852373+00:00",
+  "turkish_example_sentence_with_blank": "Biz akşamları huzur dolu bir ortam ______."
 }

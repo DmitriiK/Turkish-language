@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "düşünmeyesiniz",
     "root": "düşün",
-    "tense_affix": "e",
+    "tense_affix": "ye",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "siniz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Siz bu tartışmalı siyasi konuyu düşünmeyesiniz.",
-  "english_example_sentence": "May you not think about this controversial political topic.",
-  "russian_example_sentence": "Пусть вы не думаете об этой спорной политической теме.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T11:58:48.961870+00:00",
-  "turkish_example_sentence_with_blank": "Siz bu tartışmalı siyasi konuyu ______."
+  "turkish_example_sentence": "Siz gereksiz endişeleri hiç düşünmeyesiniz.",
+  "english_example_sentence": "May you never think about unnecessary worries.",
+  "russian_example_sentence": "Пусть вы никогда не думаете о ненужных беспокойствах.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T09:00:34.839369+00:00",
+  "turkish_example_sentence_with_blank": "Siz gereksiz endişeleri hiç ______."
 }

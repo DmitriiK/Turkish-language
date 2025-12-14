@@ -5,7 +5,7 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duymayan",
-    "root": "ihtiyaç duymak",
+    "root": "duy",
     "tense_affix": "yan",
     "verb_tense": "sıfat_fiil",
     "personal_pronoun": null,
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "The child who does not need food is full",
-  "russian_example_sentence": "Ребенок, который не нуждается в еде, сыт",
-  "turkish_example_sentence": "Yiyeceğe ihtiyaç duymayan çocuk tok",
-  "turkish_example_sentence_with_blank": "Yiyeceğe ______ çocuk tok"
+  "turkish_example_sentence": "Kitaba ihtiyaç duymayan öğrenci kütüphaneden ayrıldı.",
+  "english_example_sentence": "The student who doesn't need a book left the library.",
+  "russian_example_sentence": "Студент, который не нуждается в книге, покинул библиотеку.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:08:09.832188+00:00",
+  "turkish_example_sentence_with_blank": "Kitaba ______ öğrenci kütüphaneden ayrıldı."
 }

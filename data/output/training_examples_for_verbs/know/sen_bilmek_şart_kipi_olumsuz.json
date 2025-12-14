@@ -13,10 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Sen bu antik tarihi yapıyı bilmesen, rehber sana anlatır.",
-  "english_example_sentence": "If you don't know this ancient historical building, the guide will explain it to you.",
-  "russian_example_sentence": "Если ты не знаешь это древнее историческое здание, гид объяснит его тебе.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T11:53:51.775169+00:00",
-  "turkish_example_sentence_with_blank": "Sen bu antik tarihi yapıyı ______, rehber sana anlatır."
+  "turkish_example_sentence": "Sen yolu bilmesen, navigasyon kullanır mıydın?",
+  "english_example_sentence": "If you didn't know the way, would you use navigation?",
+  "russian_example_sentence": "Если бы ты не знал дорогу, ты бы воспользовался навигатором?",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:28:49.625046+00:00",
+  "turkish_example_sentence_with_blank": "Sen yolu ______, navigasyon kullanır mıydın?"
 }

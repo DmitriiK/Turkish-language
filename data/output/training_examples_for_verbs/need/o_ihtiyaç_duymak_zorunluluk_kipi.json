@@ -9,12 +9,14 @@
     "tense_affix": "malı",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He must feel the need for true friendship.",
-  "russian_example_sentence": "Ему нужна настоящая дружба.",
-  "turkish_example_sentence": "O gerçek dostluğa ihtiyaç duymalı.",
-  "turkish_example_sentence_with_blank": "O gerçek dostluğa ______."
+  "turkish_example_sentence": "O, soğuk hava koşullarında sıcak bir paltoya ihtiyaç duymalı.",
+  "english_example_sentence": "He/She must need a warm coat in cold weather conditions.",
+  "russian_example_sentence": "Ему/Ей нужно теплое пальто в холодных погодных условиях.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:33:15.538583+00:00",
+  "turkish_example_sentence_with_blank": "O, soğuk hava koşullarında sıcak bir paltoya ______."
 }

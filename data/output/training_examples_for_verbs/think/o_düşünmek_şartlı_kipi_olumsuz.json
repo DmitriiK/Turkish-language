@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "düşünmezse",
     "root": "düşün",
-    "tense_affix": "mezse",
+    "tense_affix": "se",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "negative",
     "negative_affix": "mez"
   },
-  "turkish_example_sentence": "O başarılı kariyerinin uzun yolunu düşünmezse, motivasyonunu kaybeder.",
-  "english_example_sentence": "If she doesn't think about the long road of her successful career, she loses her motivation.",
-  "russian_example_sentence": "Если она не подумает о долгом пути своей успешной карьеры, она потеряет мотивацию.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T11:59:27.571483+00:00",
-  "turkish_example_sentence_with_blank": "O başarılı kariyerinin uzun yolunu ______, motivasyonunu kaybeder."
+  "turkish_example_sentence": "O arkadaşlarının fikirlerini hiç düşünmezse, yalnız kalır.",
+  "english_example_sentence": "If he/she doesn't think about his/her friends' opinions at all, he/she will be left alone.",
+  "russian_example_sentence": "Если он/она совсем не подумает о мнениях своих друзей, он/она останется один/одна.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:52:08.756474+00:00",
+  "turkish_example_sentence_with_blank": "O arkadaşlarının fikirlerini hiç ______, yalnız kalır."
 }

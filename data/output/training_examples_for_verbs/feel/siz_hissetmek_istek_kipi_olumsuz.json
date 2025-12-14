@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissetmeyesiniz",
     "root": "hisset",
-    "tense_affix": "e",
+    "tense_affix": "ye",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "siniz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "May you not feel sadness anymore.",
-  "russian_example_sentence": "Пусть вы больше не чувствуете себя грустно.",
-  "turkish_example_sentence": "Siz artık üzüntü hissetmeyesiniz.",
-  "turkish_example_sentence_with_blank": "Siz artık üzüntü ______."
+  "turkish_example_sentence": "Siz böyle tatsız olayları bir daha hissetmeyesiniz.",
+  "english_example_sentence": "May you not feel such unpleasant events again.",
+  "russian_example_sentence": "Пусть вы больше не почувствуете таких неприятных событий.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T14:57:18.820309+00:00",
+  "turkish_example_sentence_with_blank": "Siz böyle tatsız olayları bir daha ______."
 }

@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yapmadıklarında",
     "root": "yap",
-    "tense_affix": "madığ",
+    "tense_affix": "dık",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "onlar",
-    "personal_affix": "ları",
+    "personal_affix": "larında",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Onlar gerekli düzeltmeleri yapmadıklarında, sistem çöktü.",
-  "english_example_sentence": "When they did not make the necessary corrections, the system crashed.",
-  "russian_example_sentence": "Когда они не внесли необходимые исправления, система вышла из строя.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T11:53:27.567009+00:00",
-  "turkish_example_sentence_with_blank": "Onlar gerekli düzeltmeleri ______, sistem çöktü."
+  "turkish_example_sentence": "Onlar hata yapmadıklarında, her zaman güvenilir olurlar.",
+  "english_example_sentence": "When they don't make mistakes, they are always reliable.",
+  "russian_example_sentence": "Когда они не делают ошибок, они всегда надежны.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:12:23.981930+00:00",
+  "turkish_example_sentence_with_blank": "Onlar hata ______, her zaman güvenilir olurlar."
 }

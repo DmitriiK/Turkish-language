@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "gitmemelidir",
     "root": "git",
-    "tense_affix": "meli",
+    "tense_affix": "memeli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "dir",
+    "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "meme"
+    "negative_affix": "me"
   },
-  "turkish_example_sentence": "O yaşlı adam kış ayında dağlık bölgeye gitmemelidir.",
-  "english_example_sentence": "He must not go to the mountainous region in winter.",
-  "russian_example_sentence": "Он не должен идти в горный регион зимой.",
+  "turkish_example_sentence": "O hasta kız soğuk dışarıya gitmemelidir.",
+  "english_example_sentence": "She must not go outside in the cold.",
+  "russian_example_sentence": "Она не должна идти на холод на улицу.",
   "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T08:53:20.212603+00:00",
-  "turkish_example_sentence_with_blank": "O yaşlı adam kış ayında dağlık bölgeye ______."
+  "generated_at": "2025-12-14T07:34:42.998512+00:00",
+  "turkish_example_sentence_with_blank": "O hasta kız soğuk dışarıya ______."
 }

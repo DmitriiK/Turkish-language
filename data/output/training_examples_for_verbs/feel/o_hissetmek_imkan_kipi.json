@@ -5,16 +5,18 @@
   "verb_infinitive": "hissetmek",
   "turkish_verb": {
     "verb_full": "hissedebilir",
-    "root": "hisse",
-    "tense_affix": "ebil",
+    "root": "hisset",
+    "tense_affix": "ebilir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "ir",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "She can feel the deep ocean currents perfectly",
-  "russian_example_sentence": "Она может почувствовать глубокие морские течения идеально",
-  "turkish_example_sentence": "O derin okyanus akıntılarını mükemmel şekilde hissedebilir",
-  "turkish_example_sentence_with_blank": "O derin okyanus akıntılarını mükemmel şekilde ______"
+  "turkish_example_sentence": "O bu odadaki garip enerjiyi hissedebilir.",
+  "english_example_sentence": "He/She can feel the strange energy in this room.",
+  "russian_example_sentence": "Он/Она может чувствовать странную энергию в этой комнате.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T13:12:20.306171+00:00",
+  "turkish_example_sentence_with_blank": "O bu odadaki garip enerjiyi ______."
 }

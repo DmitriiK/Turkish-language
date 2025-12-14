@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "ihtiyaç duyamam",
     "root": "duy",
-    "tense_affix": "yama",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
-    "negative_affix": null
+    "negative_affix": "yama"
   },
-  "english_example_sentence": "I cannot need any more sugar in my coffee.",
-  "russian_example_sentence": "Я не могу больше нуждаться в сахаре в своем кофе.",
-  "turkish_example_sentence": "Ben kahveme daha fazla şekere ihtiyaç duyamam.",
-  "turkish_example_sentence_with_blank": "Ben kahveme daha fazla şekere ______."
+  "turkish_example_sentence": "Ben bu kadar kısa sürede o büyük siparişe ihtiyaç duyamam.",
+  "english_example_sentence": "I cannot need that large order in such a short time.",
+  "russian_example_sentence": "Мне не может понадобиться такой большой заказ за столь короткое время.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:32:11.346954+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu kadar kısa sürede o büyük siparişe ______."
 }

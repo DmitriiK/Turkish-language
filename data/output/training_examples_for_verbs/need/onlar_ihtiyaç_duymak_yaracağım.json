@@ -5,16 +5,18 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duyacaklar",
-    "root": "duymak",
-    "tense_affix": "acağ",
+    "root": "duy",
+    "tense_affix": "yacak",
     "verb_tense": "yaracağım",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They will need skilled workers for the construction project",
-  "russian_example_sentence": "Им понадобятся квалифицированные рабочие для строительного проекта",
-  "turkish_example_sentence": "Onlar inşaat projesi için yetenekli işçi ihtiyaç duyacaklar",
-  "turkish_example_sentence_with_blank": "Onlar inşaat projesi için yetenekli işçi ______"
+  "turkish_example_sentence": "Onlar bahçedeki çiçekler için düzenli suya ihtiyaç duyacaklar.",
+  "english_example_sentence": "They will need regular water for the flowers in the garden.",
+  "russian_example_sentence": "Им понадобится регулярная вода для цветов в саду.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:53:44.840836+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bahçedeki çiçekler için düzenli suya ______."
 }

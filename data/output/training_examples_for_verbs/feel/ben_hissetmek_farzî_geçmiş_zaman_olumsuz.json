@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissetmemişsem",
     "root": "hisset",
-    "tense_affix": "mişse",
+    "tense_affix": "miş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "sem",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If I hadn't felt any empathy.",
-  "russian_example_sentence": "Если бы я не чувствовал никакого сочувствия.",
-  "turkish_example_sentence": "Ben hiç empati hissetmemişsem, çok üzgünüm.",
-  "turkish_example_sentence_with_blank": "Ben hiç empati ______, çok üzgünüm."
+  "turkish_example_sentence": "Ben o büyük korkuyu hissetmemişsem, cesurca ileri atılırdım.",
+  "english_example_sentence": "If I had not felt that great fear, I would have bravely rushed forward.",
+  "russian_example_sentence": "Если бы я не почувствовал того большого страха, я бы смело ринулся вперёд.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T15:07:57.119239+00:00",
+  "turkish_example_sentence_with_blank": "Ben o büyük korkuyu ______, cesurca ileri atılırdım."
 }

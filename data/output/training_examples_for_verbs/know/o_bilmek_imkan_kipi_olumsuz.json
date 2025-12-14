@@ -4,19 +4,19 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilememez",
+    "verb_full": "bilemez",
     "root": "bil",
-    "tense_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
     "personal_affix": "z",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "eme"
   },
-  "turkish_example_sentence": "O küçük çocuk bu bilimsel konsepti bilememez.",
-  "english_example_sentence": "He/She cannot know this scientific concept.",
-  "russian_example_sentence": "Он/Она не может знать эту научную концепцию.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T09:11:51.214607+00:00",
-  "turkish_example_sentence_with_blank": "O küçük çocuk bu bilimsel konsepti ______."
+  "turkish_example_sentence": "O, gelecekteki hava durumunu tahmin bilemez.",
+  "english_example_sentence": "He/She cannot even know the future weather forecast.",
+  "russian_example_sentence": "Он/Она даже не может знать прогноз погоды на будущее.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:30:17.374081+00:00",
+  "turkish_example_sentence_with_blank": "O, gelecekteki hava durumunu tahmin ______."
 }

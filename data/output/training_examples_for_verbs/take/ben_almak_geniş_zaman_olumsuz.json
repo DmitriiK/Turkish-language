@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "almam",
     "root": "al",
-    "tense_affix": "ır",
+    "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "ım",
+    "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Ben asla tatlı şekerli çikolatayı almam",
-  "english_example_sentence": "I never take sweet sugary chocolate",
-  "russian_example_sentence": "Я никогда не беру сладкий сахарный шоколад",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T12:02:06.551899+00:00",
-  "turkish_example_sentence_with_blank": "Ben asla tatlı şekerli çikolatayı ______"
+  "turkish_example_sentence": "Ben asla pahalı hediyeler almam.",
+  "english_example_sentence": "I never take expensive gifts.",
+  "russian_example_sentence": "Я никогда не беру дорогие подарки.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T09:19:01.805027+00:00",
+  "turkish_example_sentence_with_blank": "Ben asla pahalı hediyeler ______."
 }

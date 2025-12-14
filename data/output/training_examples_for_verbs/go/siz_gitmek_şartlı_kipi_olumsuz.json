@@ -4,19 +4,19 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmezseniz",
+    "verb_full": "gitmezsiniz",
     "root": "git",
     "tense_affix": "mez",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "mez"
   },
-  "turkish_example_sentence": "Siz özel tıbbi tedavi merkezine gitmezseniz, ciddi hastalığınız iyileşmeyecek.",
-  "english_example_sentence": "If you don't go to the special medical treatment center, your serious illness will not improve.",
-  "russian_example_sentence": "Если вы не пойдете в специальный медицинский центр лечения, ваше серьезное заболевание не улучшится.",
+  "turkish_example_sentence": "Siz özel konsertin açılış törenine gitmezsiniz, eğlenceli akşamı kaçırırsınız.",
+  "english_example_sentence": "If you don't go to the special concert opening ceremony, you will miss the fun evening.",
+  "russian_example_sentence": "Если вы не пойдете на церемонию открытия специального концерта, вы пропустите веселый вечер.",
   "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T08:54:26.281241+00:00",
-  "turkish_example_sentence_with_blank": "Siz özel tıbbi tedavi merkezine ______, ciddi hastalığınız iyileşmeyecek."
+  "generated_at": "2025-12-14T07:35:28.784846+00:00",
+  "turkish_example_sentence_with_blank": "Siz özel konsertin açılış törenine ______, eğlenceli akşamı kaçırırsınız."
 }

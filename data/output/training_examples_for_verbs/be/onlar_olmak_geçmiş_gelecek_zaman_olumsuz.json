@@ -1,0 +1,22 @@
+{
+  "verb_rank": 1,
+  "verb_english": "be",
+  "verb_russian": "быть",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olmayacaklardı",
+    "root": "ol",
+    "tense_affix": "yacak",
+    "verb_tense": "geçmiş_gelecek_zaman",
+    "personal_pronoun": "onlar",
+    "personal_affix": "lardı",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "turkish_example_sentence": "Onlar bu kadar yorgun olmayacaklardı eğer dinlenselerdi.",
+  "english_example_sentence": "They were not going to be this tired if they had rested.",
+  "russian_example_sentence": "Они не были бы такими уставшими, если бы отдохнули.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T15:19:46.538545+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu kadar yorgun ______ eğer dinlenselerdi."
+}

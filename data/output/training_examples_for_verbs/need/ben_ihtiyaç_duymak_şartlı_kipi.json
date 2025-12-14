@@ -4,17 +4,19 @@
   "verb_russian": "нуждаться",
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
-    "verb_full": "ihtiyaç duysam",
-    "root": "ihtiyaç du",
-    "tense_affix": "sa",
+    "verb_full": "ihtiyaç duyarsam",
+    "root": "ihtiyaç duy",
+    "tense_affix": "arsa",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I need help, I will ask.",
-  "russian_example_sentence": "Если я нуждаюсь в помощи, я попрошу.",
-  "turkish_example_sentence": "Ben yardım ihtiyaç duysam, rica ederim.",
-  "turkish_example_sentence_with_blank": "Ben yardım ______, rica ederim."
+  "turkish_example_sentence": "Ben büyük bir desteğe ihtiyaç duyarsam, ailemi hemen ararım.",
+  "english_example_sentence": "If I need great support, I call my family immediately.",
+  "russian_example_sentence": "Если мне понадобится большая поддержка, я немедленно позвоню своей семье.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:07:56.519587+00:00",
+  "turkish_example_sentence_with_blank": "Ben büyük bir desteğe ______, ailemi hemen ararım."
 }

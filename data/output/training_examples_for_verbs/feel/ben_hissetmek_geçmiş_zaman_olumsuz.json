@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissetmedim",
     "root": "hisset",
-    "tense_affix": "di",
+    "tense_affix": "dim",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "I did not feel any cold in the warm room.",
-  "russian_example_sentence": "Я не почувствовал холода в теплой комнате.",
-  "turkish_example_sentence": "Ben sıcak odada hiç soğuk hissetmedim.",
-  "turkish_example_sentence_with_blank": "Ben sıcak odada hiç soğuk ______."
+  "turkish_example_sentence": "Ben dün hiçbir acı hissetmedim.",
+  "english_example_sentence": "I didn't feel any pain yesterday.",
+  "russian_example_sentence": "Я вчера не почувствовал никакой боли.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T09:00:38.758226+00:00",
+  "turkish_example_sentence_with_blank": "Ben dün hiçbir acı ______."
 }

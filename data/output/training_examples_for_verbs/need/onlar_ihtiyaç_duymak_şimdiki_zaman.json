@@ -5,7 +5,7 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duyuyorlar",
-    "root": "duyu",
+    "root": "ihtiyaç duy",
     "tense_affix": "uyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "onlar",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They need qualified teachers for summer camp",
-  "russian_example_sentence": "Им нужны квалифицированные учителя для летнего лагеря",
-  "turkish_example_sentence": "Onlar yaz kampı için nitelikli öğretmenlere ihtiyaç duyuyorlar",
-  "turkish_example_sentence_with_blank": "Onlar yaz kampı için nitelikli öğretmenlere ______"
+  "turkish_example_sentence": "Onlar uzun bir yürüyüşten sonra biraz dinlenmeye ihtiyaç duyuyorlar.",
+  "english_example_sentence": "They are needing some rest after a long walk.",
+  "russian_example_sentence": "Им нужен небольшой отдых после долгой прогулки.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:25:20.416365+00:00",
+  "turkish_example_sentence_with_blank": "Onlar uzun bir yürüyüşten sonra biraz dinlenmeye ______."
 }

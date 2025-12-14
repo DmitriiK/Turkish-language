@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "bilmeyeceksiniz",
     "root": "bil",
-    "tense_affix": "ecek",
+    "tense_affix": "yecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "siniz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Siz bu özel etkinliğin tam saatini bilmeyeceksiniz.",
-  "english_example_sentence": "You will not know the exact time of this special event.",
-  "russian_example_sentence": "Вы не будете знать точное время этого специального события.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T09:13:06.575694+00:00",
-  "turkish_example_sentence_with_blank": "Siz bu özel etkinliğin tam saatini ______."
+  "turkish_example_sentence": "Siz bu karmaşık bilimsel teoriyi tam olarak bilmeyeceksiniz.",
+  "english_example_sentence": "You will not fully know this complex scientific theory.",
+  "russian_example_sentence": "Вы не будете полностью знать эту сложную научную теорию.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:26:31.741930+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu karmaşık bilimsel teoriyi tam olarak ______."
 }

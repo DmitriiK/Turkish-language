@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yaparsam",
     "root": "yap",
-    "tense_affix": "ar",
+    "tense_affix": "arsa",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Ben güzel bir resim yaparsam, sergilemek istiyorum.",
-  "english_example_sentence": "If I make a beautiful painting, I want to exhibit it.",
-  "russian_example_sentence": "Если я сделаю красивую картину, я хочу её выставить.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T09:07:12.100872+00:00",
-  "turkish_example_sentence_with_blank": "Ben güzel bir resim ______, sergilemek istiyorum."
+  "turkish_example_sentence": "Ben bu zorlu görevi yaparsam, çok mutlu olurum.",
+  "english_example_sentence": "If I do this challenging task, I will be very happy.",
+  "russian_example_sentence": "Если я выполню это сложное задание, я буду очень счастлив.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:09:58.982577+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu zorlu görevi ______, çok mutlu olurum."
 }

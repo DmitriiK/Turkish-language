@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissetmedik",
     "root": "hisset",
-    "tense_affix": "di",
+    "tense_affix": "dik",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "We did not feel any pressure from the difficult task.",
-  "russian_example_sentence": "Мы не почувствовали никакого давления от сложной задачи.",
-  "turkish_example_sentence": "Biz zor görevden hiçbir baskı hissetmedik.",
-  "turkish_example_sentence_with_blank": "Biz zor görevden hiçbir baskı ______."
+  "turkish_example_sentence": "Biz bu karardan sonra pişmanlık hissetmedik.",
+  "english_example_sentence": "We didn't feel any regret after this decision.",
+  "russian_example_sentence": "Мы не почувствовали никакого сожаления после этого решения.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T09:00:38.758226+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu karardan sonra pişmanlık ______."
 }

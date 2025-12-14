@@ -4,19 +4,19 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almasınlar",
+    "verb_full": "almayalar",
     "root": "al",
-    "tense_affix": "a",
+    "tense_affix": "ya",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Onlar kötü kaliteli ürünleri mağazadan almasınlar.",
-  "english_example_sentence": "May they not take the poor quality products from the store.",
-  "russian_example_sentence": "Пусть они не возьмут некачественные товары из магазина.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T12:04:10.251126+00:00",
-  "turkish_example_sentence_with_blank": "Onlar kötü kaliteli ürünleri mağazadan ______."
+  "turkish_example_sentence": "Onlar bu gereksiz riskleri asla almayalar.",
+  "english_example_sentence": "May they never take these unnecessary risks.",
+  "russian_example_sentence": "Пусть они никогда не пойдут на эти ненужные риски.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T09:19:43.434449+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu gereksiz riskleri asla ______."
 }

@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "almayacak",
     "root": "al",
-    "tense_affix": "acak",
+    "tense_affix": "yacak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "O hiçbir zaman bu zor sınıfı almayacak.",
-  "english_example_sentence": "He will never take this difficult class.",
-  "russian_example_sentence": "Он никогда не возьмет этот сложный класс.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T12:02:23.177230+00:00",
-  "turkish_example_sentence_with_blank": "O hiçbir zaman bu zor sınıfı ______."
+  "turkish_example_sentence": "O bu zorlu görevi kesinlikle almayacak.",
+  "english_example_sentence": "He/She will definitely not take this difficult task.",
+  "russian_example_sentence": "Он/Она точно не возьмет это сложное задание.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T09:18:38.467233+00:00",
+  "turkish_example_sentence_with_blank": "O bu zorlu görevi kesinlikle ______."
 }

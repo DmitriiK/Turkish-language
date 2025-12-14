@@ -4,17 +4,19 @@
   "verb_russian": "чувствовать",
   "verb_infinitive": "hissetmek",
   "turkish_verb": {
-    "verb_full": "hissetseniz",
+    "verb_full": "hissederseniz",
     "root": "hisset",
-    "tense_affix": "se",
+    "tense_affix": "erse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "niz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you feel curious, you ask questions",
-  "russian_example_sentence": "Если вы чувствуете любопытство, вы задаете вопросы",
-  "turkish_example_sentence": "Eğer meraklı hissetseniz, sorular sorarsınız",
-  "turkish_example_sentence_with_blank": "Eğer meraklı ______, sorular sorarsınız"
+  "turkish_example_sentence": "Siz bir değişiklik hissederseniz, lütfen bize bildirin.",
+  "english_example_sentence": "If you feel a change, please let us know.",
+  "russian_example_sentence": "Если вы почувствуете изменение, пожалуйста, сообщите нам.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T15:06:41.166472+00:00",
+  "turkish_example_sentence_with_blank": "Siz bir değişiklik ______, lütfen bize bildirin."
 }

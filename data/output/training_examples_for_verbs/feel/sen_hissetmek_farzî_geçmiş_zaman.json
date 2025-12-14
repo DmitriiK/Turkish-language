@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissetmişsen",
     "root": "hisset",
-    "tense_affix": "mişse",
+    "tense_affix": "miş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "sen",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you had felt a deep connection.",
-  "russian_example_sentence": "Если бы ты почувствовал глубокую связь.",
-  "turkish_example_sentence": "Sen derin bir bağ hissetmişsen, çok şanslısın.",
-  "turkish_example_sentence_with_blank": "Sen derin bir bağ ______, çok şanslısın."
+  "turkish_example_sentence": "Sen o derin üzüntüyü hissetmişsen, neden bize söylemedin?",
+  "english_example_sentence": "If you had felt that deep sorrow, why didn't you tell us?",
+  "russian_example_sentence": "Если бы ты почувствовал ту глубокую печаль, почему ты нам не сказал?",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T15:07:57.119239+00:00",
+  "turkish_example_sentence_with_blank": "Sen o derin üzüntüyü ______, neden bize söylemedin?"
 }

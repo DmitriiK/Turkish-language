@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissetmeleri lazım",
     "root": "hisset",
-    "tense_affix": "",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "meleri",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They need to feel the fresh air.",
-  "russian_example_sentence": "Им нужно почувствовать свежий воздух.",
-  "turkish_example_sentence": "Onlar temiz havayı hissetmeleri lazım.",
-  "turkish_example_sentence_with_blank": "Onlar temiz havayı ______."
+  "turkish_example_sentence": "Onlar takım olarak güçlü bir birlik hissetmeleri lazım.",
+  "english_example_sentence": "They need to feel a strong unity as a team.",
+  "russian_example_sentence": "Им нужно почувствовать сильное единство как команда.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T13:09:21.913464+00:00",
+  "turkish_example_sentence_with_blank": "Onlar takım olarak güçlü bir birlik ______."
 }

@@ -4,19 +4,19 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilmemeniz",
+    "verb_full": "bilmemeniz lazım",
     "root": "bil",
-    "tense_affix": "",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "meniz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Siz bu kişisel aile sırlarını bilmemeniz gerek.",
-  "english_example_sentence": "You don't need to know these personal family secrets.",
-  "russian_example_sentence": "Вам не нужно знать эти личные семейные секреты.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T09:11:35.794699+00:00",
-  "turkish_example_sentence_with_blank": "Siz bu kişisel aile sırlarını ______ gerek."
+  "turkish_example_sentence": "Siz bu kötü haberi erkenden bilmemeniz lazım.",
+  "english_example_sentence": "You don't need to know this bad news early.",
+  "russian_example_sentence": "Вам не нужно знать эту плохую новость рано.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:29:43.009727+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu kötü haberi erkenden ______."
 }

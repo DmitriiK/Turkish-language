@@ -1,0 +1,22 @@
+{
+  "verb_rank": 7,
+  "verb_english": "make",
+  "verb_russian": "делать (создавать)",
+  "verb_infinitive": "yapmak",
+  "turkish_verb": {
+    "verb_full": "yapmadığımızda",
+    "root": "yap",
+    "tense_affix": "dık",
+    "verb_tense": "zaman_sıfatı",
+    "personal_pronoun": "biz",
+    "personal_affix": "ımızda",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "turkish_example_sentence": "Biz gereksiz harcama yapmadığımızda, para biriktiririz.",
+  "english_example_sentence": "When we don't make unnecessary expenses, we save money.",
+  "russian_example_sentence": "Когда мы не делаем ненужных трат, мы экономим деньги.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:12:23.981930+00:00",
+  "turkish_example_sentence_with_blank": "Biz gereksiz harcama ______, para biriktiririz."
+}

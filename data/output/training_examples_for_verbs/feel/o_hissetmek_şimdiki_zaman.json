@@ -5,7 +5,7 @@
   "verb_infinitive": "hissetmek",
   "turkish_verb": {
     "verb_full": "hissediyor",
-    "root": "hissed",
+    "root": "hisset",
     "tense_affix": "iyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "o",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He is feeling great joy about the news.",
-  "russian_example_sentence": "Он чувствует большую радость по поводу новостей.",
-  "turkish_example_sentence": "O haberler hakkında büyük bir sevinç hissediyor.",
-  "turkish_example_sentence_with_blank": "O haberler hakkında büyük bir sevinç ______."
+  "turkish_example_sentence": "O, yeni evinde tarifsiz bir rahatlık hissediyor.",
+  "english_example_sentence": "He/She is feeling an indescribable comfort in his/her new home.",
+  "russian_example_sentence": "Он/Она чувствует неописуемый комфорт в своем новом доме.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T09:00:08.182021+00:00",
+  "turkish_example_sentence_with_blank": "O, yeni evinde tarifsiz bir rahatlık ______."
 }

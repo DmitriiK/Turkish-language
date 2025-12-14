@@ -5,16 +5,18 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duyarlarsa",
-    "root": "ihtiyaç du",
-    "tense_affix": "sa",
+    "root": "ihtiyaç duy",
+    "tense_affix": "arsa",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they need money, they will call.",
-  "russian_example_sentence": "Если им нужны деньги, они позвонят.",
-  "turkish_example_sentence": "Eğer paraya ihtiyaç duyarlarsa, ararlar.",
-  "turkish_example_sentence_with_blank": "Eğer paraya ______, ararlar."
+  "turkish_example_sentence": "Onlar yeni bir eve ihtiyaç duyarlarsa, emlakçıyla hemen görüşürler.",
+  "english_example_sentence": "If they need a new house, they immediately meet with the real estate agent.",
+  "russian_example_sentence": "Если им понадобится новый дом, они немедленно встретятся с риелтором.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:07:56.519587+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yeni bir eve ______, emlakçıyla hemen görüşürler."
 }

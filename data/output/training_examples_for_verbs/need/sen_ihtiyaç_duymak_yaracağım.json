@@ -5,16 +5,18 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duyacaksın",
-    "root": "duymak",
-    "tense_affix": "acağ",
+    "root": "duy",
+    "tense_affix": "yacak",
     "verb_tense": "yaracağım",
     "personal_pronoun": "sen",
     "personal_affix": "sın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You will need strong coffee after the long meeting",
-  "russian_example_sentence": "Тебе понадобится крепкий кофе после долгого совещания",
-  "turkish_example_sentence": "Sen uzun toplantıdan sonra güçlü kahve ihtiyaç duyacaksın",
-  "turkish_example_sentence_with_blank": "Sen uzun toplantıdan sonra güçlü kahve ______"
+  "turkish_example_sentence": "Sen bu zorlu görev için yeni bir stratejiye ihtiyaç duyacaksın.",
+  "english_example_sentence": "You will need a new strategy for this challenging task.",
+  "russian_example_sentence": "Тебе понадобится новая стратегия для этой сложной задачи.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:53:44.840836+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu zorlu görev için yeni bir stratejiye ______."
 }

@@ -1,0 +1,22 @@
+{
+  "verb_rank": 1,
+  "verb_english": "be",
+  "verb_russian": "быть",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olmayacaktım",
+    "root": "ol",
+    "tense_affix": "yacaktı",
+    "verb_tense": "geçmiş_gelecek_zaman",
+    "personal_pronoun": "ben",
+    "personal_affix": "m",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "turkish_example_sentence": "Ben bugün işte olmayacaktım ama acil bir durum çıktı.",
+  "english_example_sentence": "I was not going to be at work today but an emergency came up.",
+  "russian_example_sentence": "Я не собирался быть сегодня на работе, но возникла чрезвычайная ситуация.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T15:19:46.538545+00:00",
+  "turkish_example_sentence_with_blank": "Ben bugün işte ______ ama acil bir durum çıktı."
+}

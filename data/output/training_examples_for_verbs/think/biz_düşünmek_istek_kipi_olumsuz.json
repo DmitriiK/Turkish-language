@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "düşünmeyelim",
     "root": "düşün",
-    "tense_affix": "e",
+    "tense_affix": "ye",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "lim",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Biz bu rahatsız edici konuyu daha fazla düşünmeyelim.",
-  "english_example_sentence": "Let's not think about this disturbing topic anymore.",
-  "russian_example_sentence": "Давайте больше не будем думать об этой беспокоящей теме.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T11:58:48.961870+00:00",
-  "turkish_example_sentence_with_blank": "Biz bu rahatsız edici konuyu daha fazla ______."
+  "turkish_example_sentence": "Biz olumsuz olasılıkları boş yere düşünmeyelim.",
+  "english_example_sentence": "Let's not think about negative possibilities in vain.",
+  "russian_example_sentence": "Давайте не будем напрасно думать об отрицательных возможностях.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T09:00:34.839369+00:00",
+  "turkish_example_sentence_with_blank": "Biz olumsuz olasılıkları boş yere ______."
 }

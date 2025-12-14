@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissedersin",
     "root": "hisset",
-    "tense_affix": "er",
+    "tense_affix": "der",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You always feel happy when you see your dog.",
-  "russian_example_sentence": "Ты всегда чувствуешь себя счастливым, когда видишь свою собаку.",
-  "turkish_example_sentence": "Sen köpeğini gördüğünde her zaman mutlu hissedersin.",
-  "turkish_example_sentence_with_blank": "Sen köpeğini gördüğünde her zaman mutlu ______."
+  "turkish_example_sentence": "Sen bazen büyük bir mutluluk hissedersin.",
+  "english_example_sentence": "You sometimes feel great happiness.",
+  "russian_example_sentence": "Ты иногда чувствуешь большое счастье.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T09:04:42.852373+00:00",
+  "turkish_example_sentence_with_blank": "Sen bazen büyük bir mutluluk ______."
 }

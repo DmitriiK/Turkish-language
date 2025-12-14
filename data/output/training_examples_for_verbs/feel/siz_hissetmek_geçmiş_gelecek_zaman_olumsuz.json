@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissetmeyecektiniz",
     "root": "hisset",
-    "tense_affix": "ecekti",
+    "tense_affix": "yecek",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "tiniz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You were not going to feel boredom.",
-  "russian_example_sentence": "Вы не собирались чувствовать скуку.",
-  "turkish_example_sentence": "Siz o eğlenceli partide sıkıntı hissetmeyecektiniz.",
-  "turkish_example_sentence_with_blank": "Siz o eğlenceli partide sıkıntı ______."
+  "turkish_example_sentence": "Siz bu eski ve rahatsız sandalyelerde hiçbir konfor hissetmeyecektiniz.",
+  "english_example_sentence": "You (plural/formal) were not going to feel any comfort in these old and uncomfortable chairs.",
+  "russian_example_sentence": "Вы не собирались чувствовать никакого комфорта в этих старых и неудобных стульях.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T15:05:07.778173+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu eski ve rahatsız sandalyelerde hiçbir konfor ______."
 }

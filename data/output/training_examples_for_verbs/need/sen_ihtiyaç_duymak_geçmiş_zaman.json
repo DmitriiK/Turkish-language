@@ -4,8 +4,8 @@
   "verb_russian": "нуждаться",
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
-    "verb_full": "ihtiyaç duydu",
-    "root": "duymak",
+    "verb_full": "ihtiyaç duydun",
+    "root": "duy",
     "tense_affix": "du",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "sen",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You needed fresh water during the hot summer day",
-  "russian_example_sentence": "Тебе нужна была свежая вода в жаркий летний день",
-  "turkish_example_sentence": "Sen sıcak yaz gününde temiz soğuk suya ihtiyaç duydu",
-  "turkish_example_sentence_with_blank": "Sen sıcak yaz gününde temiz soğuk suya ______"
+  "turkish_example_sentence": "Sen geçen hafta bu eski anahtara gerçekten ihtiyaç duydun.",
+  "english_example_sentence": "You really needed this old key last week.",
+  "russian_example_sentence": "Тебе действительно понадобился этот старый ключ на прошлой неделе.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:25:51.162260+00:00",
+  "turkish_example_sentence_with_blank": "Sen geçen hafta bu eski anahtara gerçekten ______."
 }

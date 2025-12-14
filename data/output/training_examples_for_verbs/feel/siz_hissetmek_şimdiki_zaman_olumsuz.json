@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissetmiyorsunuz",
     "root": "hisset",
-    "tense_affix": "iyor",
+    "tense_affix": "yor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "sunuz",
     "polarity": "negative",
     "negative_affix": "mi"
   },
-  "english_example_sentence": "You (plural) are not feeling the cold wind blowing outside.",
-  "russian_example_sentence": "Вы не чувствуете холодного ветра, дующего снаружи.",
-  "turkish_example_sentence": "Siz dışarıda esen soğuk rüzgarı hissetmiyorsunuz.",
-  "turkish_example_sentence_with_blank": "Siz dışarıda esen soğuk rüzgarı ______."
+  "turkish_example_sentence": "Siz, bu adaletsiz durumun ağırlığını hissetmiyorsunuz.",
+  "english_example_sentence": "You are not feeling the weight of this unjust situation.",
+  "russian_example_sentence": "Вы не чувствуете тяжести этой несправедливой ситуации.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T09:00:08.182021+00:00",
+  "turkish_example_sentence_with_blank": "Siz, bu adaletsiz durumun ağırlığını ______."
 }

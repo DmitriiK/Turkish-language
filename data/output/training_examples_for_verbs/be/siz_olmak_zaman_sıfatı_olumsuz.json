@@ -1,0 +1,22 @@
+{
+  "verb_rank": 1,
+  "verb_english": "be",
+  "verb_russian": "быть",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olmadığınızda",
+    "root": "ol",
+    "tense_affix": "dığ",
+    "verb_tense": "zaman_sıfatı",
+    "personal_pronoun": "siz",
+    "personal_affix": "unuzda",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "turkish_example_sentence": "Siz ofiste olmadığınızda, sekreter önemli dosyaları düzenler.",
+  "english_example_sentence": "When you are not at the office, the secretary organizes important files.",
+  "russian_example_sentence": "Когда вы не в офисе, секретарь организует важные файлы.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-13T17:16:00.362354+00:00",
+  "turkish_example_sentence_with_blank": "Siz ofiste ______, sekreter önemli dosyaları düzenler."
+}

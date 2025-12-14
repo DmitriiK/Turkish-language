@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "bulmaz",
     "root": "bul",
-    "tense_affix": "ur",
+    "tense_affix": "z",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "O adam mağazada ucuz kırmızı gömleği bulmaz.",
-  "english_example_sentence": "That man does not find the cheap red shirt in the store.",
-  "russian_example_sentence": "Этот мужчина не находит дешёвую красную рубашку в магазине.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:31:48.520118+00:00",
-  "turkish_example_sentence_with_blank": "O adam mağazada ucuz kırmızı gömleği ______."
+  "turkish_example_sentence": "O, evde hiçbir zaman anahtarlarını bulmaz.",
+  "english_example_sentence": "He/She never finds his/her keys at home.",
+  "russian_example_sentence": "Он/Она никогда не находит свои ключи дома.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T09:25:49.616698+00:00",
+  "turkish_example_sentence_with_blank": "O, evde hiçbir zaman anahtarlarını ______."
 }

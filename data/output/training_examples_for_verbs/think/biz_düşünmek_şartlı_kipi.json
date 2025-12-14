@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "düşünürsek",
     "root": "düşün",
-    "tense_affix": "ürse",
+    "tense_affix": "ür",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "sek",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Biz bu yeni proje hakkında dikkatlice düşünürsek, harika fikirler ortaya çıkabilir.",
-  "english_example_sentence": "If we think carefully about this new project, great ideas can emerge.",
-  "russian_example_sentence": "Если мы внимательно подумаем об этом новом проекте, могут появиться отличные идеи.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T11:59:27.571483+00:00",
-  "turkish_example_sentence_with_blank": "Biz bu yeni proje hakkında dikkatlice ______, harika fikirler ortaya çıkabilir."
+  "turkish_example_sentence": "Biz bu karmaşık problemi birlikte düşünürsek, kolayca çözüm buluruz.",
+  "english_example_sentence": "If we think about this complex problem together, we will easily find a solution.",
+  "russian_example_sentence": "Если мы вместе подумаем об этой сложной проблеме, мы легко найдем решение.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:52:08.756474+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu karmaşık problemi birlikte ______, kolayca çözüm buluruz."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "ihtiyaç duymamam lazım",
     "root": "ihtiyaç duy",
-    "tense_affix": "lazım",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I don't need to work extra on this important project today.",
-  "russian_example_sentence": "Мне не нужно работать сверхурочно над этим важным проектом сегодня.",
-  "turkish_example_sentence": "Ben bugün ekstradan bu önemli projede çalışmamam lazım.",
-  "turkish_example_sentence_with_blank": "Ben bugün ekstradan bu önemli projede çalışmamam lazım."
+  "turkish_example_sentence": "Ben bu eski kitaba ihtiyaç duymamam lazım.",
+  "english_example_sentence": "I don't need this old book.",
+  "russian_example_sentence": "Мне не нужна эта старая книга.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:30:40.808877+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu eski kitaba ______."
 }

@@ -5,7 +5,7 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duymazsanız",
-    "root": "ihtiyaç du",
+    "root": "ihtiyaç duy",
     "tense_affix": "sa",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "siz",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If you don't need anything, just tell me.",
-  "russian_example_sentence": "Если вам ничего не нужно, просто скажите мне.",
-  "turkish_example_sentence": "Eğer bir şeye ihtiyaç duymazsanız, sadece bana söyleyin.",
-  "turkish_example_sentence_with_blank": "Eğer bir şeye ______, sadece bana söyleyin."
+  "turkish_example_sentence": "Siz bu eski elbiselere ihtiyaç duymazsanız, onları fakirlere verin.",
+  "english_example_sentence": "If you don't need these old clothes, give them to the poor.",
+  "russian_example_sentence": "Если вам не нужны эти старые вещи, отдайте их бедным.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:07:56.519587+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu eski elbiselere ______, onları fakirlere verin."
 }

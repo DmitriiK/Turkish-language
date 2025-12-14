@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "bilecek",
     "root": "bil",
-    "tense_affix": "eceğ",
+    "tense_affix": "ecek",
     "verb_tense": "yaracağım",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "O akıllı genç kız tüm cevapları bilecek.",
-  "english_example_sentence": "That intelligent young girl will know all the answers.",
-  "russian_example_sentence": "Та умная молодая девушка будет знать все ответы.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T09:13:27.604624+00:00",
-  "turkish_example_sentence_with_blank": "O akıllı genç kız tüm cevapları ______."
+  "turkish_example_sentence": "O, yeni müdürün kararlarını haftaya bilecek.",
+  "english_example_sentence": "He/She will know the new manager's decisions next week.",
+  "russian_example_sentence": "Он/Она узнает решения нового директора на следующей неделе.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:27:07.996477+00:00",
+  "turkish_example_sentence_with_blank": "O, yeni müdürün kararlarını haftaya ______."
 }

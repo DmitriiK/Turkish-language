@@ -4,7 +4,7 @@
   "verb_russian": "нуждаться",
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
-    "verb_full": "duymayıp",
+    "verb_full": "ihtiyaç duymayıp",
     "root": "duy",
     "tense_affix": "yıp",
     "verb_tense": "ulak_fiil",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "Without considering, they ignored the warnings",
-  "russian_example_sentence": "Не учитывая, они проигнорировали предупреждения",
-  "turkish_example_sentence": "Düşünmeyip uyarıları görmezden geldiler",
-  "turkish_example_sentence_with_blank": "Düşünmeyip uyarıları görmezden geldiler"
+  "turkish_example_sentence": "Arabaya ihtiyaç duymayıp yürüdü.",
+  "english_example_sentence": "Not having needed a car, he walked.",
+  "russian_example_sentence": "Не нуждаясь в машине, он пошёл пешком.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:08:26.147325+00:00",
+  "turkish_example_sentence_with_blank": "Arabaya ______ yürüdü."
 }

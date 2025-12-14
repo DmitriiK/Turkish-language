@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissetmeye",
     "root": "hisset",
-    "tense_affix": "e",
+    "tense_affix": "ye",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "May she not feel the burden of guilt.",
-  "russian_example_sentence": "Пусть она не чувствует бремя вины.",
-  "turkish_example_sentence": "O suçluluk duygusu hissetmeye.",
-  "turkish_example_sentence_with_blank": "O suçluluk duygusu ______."
+  "turkish_example_sentence": "O, bu büyük haksızlığı asla hissetmeye.",
+  "english_example_sentence": "May he/she never feel this great injustice.",
+  "russian_example_sentence": "Пусть он/она никогда не почувствует этой большой несправедливости.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T14:57:18.820309+00:00",
+  "turkish_example_sentence_with_blank": "O, bu büyük haksızlığı asla ______."
 }

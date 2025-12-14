@@ -5,7 +5,7 @@
   "verb_infinitive": "hissetmek",
   "turkish_verb": {
     "verb_full": "hissediyorlar",
-    "root": "hissed",
+    "root": "hisset",
     "tense_affix": "iyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "onlar",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They are feeling nervous before the important match.",
-  "russian_example_sentence": "Они чувствуют себя нервно перед важным матчем.",
-  "turkish_example_sentence": "Onlar önemli maçtan önce gergin hissediyorlar.",
-  "turkish_example_sentence_with_blank": "Onlar önemli maçtan önce gergin ______."
+  "turkish_example_sentence": "Onlar, denizin serin esintisini keyifle hissediyorlar.",
+  "english_example_sentence": "They are pleasantly feeling the cool breeze of the sea.",
+  "russian_example_sentence": "Они с удовольствием чувствуют прохладный морской бриз.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T09:00:08.182021+00:00",
+  "turkish_example_sentence_with_blank": "Onlar, denizin serin esintisini keyifle ______."
 }

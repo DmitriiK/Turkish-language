@@ -4,19 +4,19 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmaman",
+    "verb_full": "yapmaman lazım",
     "root": "yap",
-    "tense_affix": "ma",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "man",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Sen bu tehlikeli deney sırasında böyle aptalca hareketleri yapmaman gerek.",
-  "english_example_sentence": "You must not make such foolish movements during this dangerous experiment.",
-  "russian_example_sentence": "Ты не должен делать такие глупые движения во время этого опасного эксперимента.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T09:05:58.879967+00:00",
-  "turkish_example_sentence_with_blank": "Sen bu tehlikeli deney sırasında böyle aptalca hareketleri ______ gerek."
+  "turkish_example_sentence": "Sen her gün aynı hataları tekrar yapmaman lazım.",
+  "english_example_sentence": "You shouldn't make the same mistakes every day.",
+  "russian_example_sentence": "Тебе не следует совершать одни и те же ошибки каждый день.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:07:24.531142+00:00",
+  "turkish_example_sentence_with_blank": "Sen her gün aynı hataları tekrar ______."
 }

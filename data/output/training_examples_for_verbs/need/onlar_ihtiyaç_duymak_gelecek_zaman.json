@@ -5,7 +5,7 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duyacaklar",
-    "root": "duymak",
+    "root": "duy",
     "tense_affix": "acak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "onlar",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They will need creative innovative solutions tomorrow",
-  "russian_example_sentence": "Им понадобятся творческие инновационные решения завтра",
-  "turkish_example_sentence": "Onlar yarın yaratıcı yenilikçi çözümler ihtiyaç duyacaklar",
-  "turkish_example_sentence_with_blank": "Onlar yarın yaratıcı yenilikçi çözümler ______"
+  "turkish_example_sentence": "Onlar yeni evleri için büyük ve rahat mobilyalara ihtiyaç duyacaklar.",
+  "english_example_sentence": "They will need large and comfortable furniture for their new home.",
+  "russian_example_sentence": "Им понадобится большая и удобная мебель для их нового дома.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:26:33.297077+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yeni evleri için büyük ve rahat mobilyalara ______."
 }

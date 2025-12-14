@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "almayacağım",
     "root": "al",
-    "tense_affix": "acağ",
+    "tense_affix": "yacak",
     "verb_tense": "yaracağım",
     "personal_pronoun": "ben",
     "personal_affix": "ım",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Ben bu pahalı kırmızı çantayı almayacağım çünkü çok masraflı.",
-  "english_example_sentence": "I will not take this expensive red bag because it is too costly.",
-  "russian_example_sentence": "Я не возьму эту дорогую красную сумку, потому что она слишком дорогая.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T12:02:42.906012+00:00",
-  "turkish_example_sentence_with_blank": "Ben bu pahalı kırmızı çantayı ______ çünkü çok masraflı."
+  "turkish_example_sentence": "Ben bu eski püskü arabayı asla almayacağım.",
+  "english_example_sentence": "I will never buy this old rickety car.",
+  "russian_example_sentence": "Я не куплю эту старую развалину машину.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T09:07:25.255523+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu eski püskü arabayı asla ______."
 }

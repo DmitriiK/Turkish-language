@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "bilmeyecekler",
     "root": "bil",
-    "tense_affix": "ecek",
+    "tense_affix": "yecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Onlar bu yıl uzun romanın sonucunu bilmeyecekler.",
-  "english_example_sentence": "They will not know the ending of the long novel this year.",
-  "russian_example_sentence": "Они не будут знать конец длинного романа в этом году.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T09:13:06.575694+00:00",
-  "turkish_example_sentence_with_blank": "Onlar bu yıl uzun romanın sonucunu ______."
+  "turkish_example_sentence": "Onlar bu zorlu görev için yeterli bilgiye bilmeyecekler.",
+  "english_example_sentence": "They will not know enough information for this difficult task.",
+  "russian_example_sentence": "Они не будут знать достаточно информации для этой сложной задачи.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:26:31.741930+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu zorlu görev için yeterli bilgiye ______."
 }

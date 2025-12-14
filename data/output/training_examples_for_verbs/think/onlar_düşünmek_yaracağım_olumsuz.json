@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "düşünmeyecekler",
     "root": "düşün",
-    "tense_affix": "eceğ",
+    "tense_affix": "yecek",
     "verb_tense": "yaracağım",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Onlar bu endişeli konular hakkında düşünmeyecekler",
-  "english_example_sentence": "They will not think about these worrying matters",
-  "russian_example_sentence": "Они не будут думать об этих беспокойных вопросах",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T12:00:01.205210+00:00",
-  "turkish_example_sentence_with_blank": "Onlar bu endişeli konular hakkında ______"
+  "turkish_example_sentence": "Onlar bu eski yöntemi bir daha düşünmeyecekler.",
+  "english_example_sentence": "They will not think about this old method again.",
+  "russian_example_sentence": "Они больше не будут думать об этом старом методе.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:42:17.937242+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu eski yöntemi bir daha ______."
 }

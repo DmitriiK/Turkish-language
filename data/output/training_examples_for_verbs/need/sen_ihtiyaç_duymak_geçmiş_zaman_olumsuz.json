@@ -5,16 +5,18 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duymadın",
-    "root": "duymak",
-    "tense_affix": "du",
+    "root": "duy",
+    "tense_affix": "dı",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You did not need my old broken bicycle yesterday",
-  "russian_example_sentence": "Тебе не нужен был мой старый сломанный велосипед вчера",
-  "turkish_example_sentence": "Sen dün benim eski kırık bisikletine ihtiyaç duymadın",
-  "turkish_example_sentence_with_blank": "Sen dün benim eski kırık bisikletine ______"
+  "turkish_example_sentence": "Sen hızlı internet bağlantısı için bu kadar pahalı bir pakete ihtiyaç duymadın.",
+  "english_example_sentence": "You didn't need such an expensive package for a fast internet connection.",
+  "russian_example_sentence": "Тебе не понадобился такой дорогой пакет для быстрого интернет-соединения.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:25:51.162260+00:00",
+  "turkish_example_sentence_with_blank": "Sen hızlı internet bağlantısı için bu kadar pahalı bir pakete ______."
 }

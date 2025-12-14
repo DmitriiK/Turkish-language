@@ -4,17 +4,19 @@
   "verb_russian": "чувствовать",
   "verb_infinitive": "hissetmek",
   "turkish_verb": {
-    "verb_full": "hissetsek",
+    "verb_full": "hissedersek",
     "root": "hisset",
-    "tense_affix": "se",
+    "tense_affix": "erse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we feel energetic, we run in the park",
-  "russian_example_sentence": "Если мы чувствуем себя энергичными, мы бегаем в парке",
-  "turkish_example_sentence": "Eğer enerjik hissetsek, parkta koşarız",
-  "turkish_example_sentence_with_blank": "Eğer enerjik ______, parkta koşarız"
+  "turkish_example_sentence": "Biz yeterince enerji hissedersek, projeyi bitiririz.",
+  "english_example_sentence": "If we feel enough energy, we will finish the project.",
+  "russian_example_sentence": "Если мы почувствуем достаточно энергии, мы закончим проект.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T15:06:41.166472+00:00",
+  "turkish_example_sentence_with_blank": "Biz yeterince enerji ______, projeyi bitiririz."
 }

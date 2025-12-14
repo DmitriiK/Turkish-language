@@ -4,19 +4,19 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almasın",
+    "verb_full": "almaya",
     "root": "al",
-    "tense_affix": "a",
+    "tense_affix": "ya",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "O yaşlı adam komşunun pahalı bisikletini almasın.",
-  "english_example_sentence": "May he not take the neighbor's expensive bicycle.",
-  "russian_example_sentence": "Пусть он не возьмет дорогой велосипед соседа.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T12:04:10.251126+00:00",
-  "turkish_example_sentence_with_blank": "O yaşlı adam komşunun pahalı bisikletini ______."
+  "turkish_example_sentence": "O, bu tehlikeli yolu asla almaya.",
+  "english_example_sentence": "May he/she never take this dangerous path.",
+  "russian_example_sentence": "Пусть он/она никогда не пойдёт по этой опасной дороге.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T09:19:43.434449+00:00",
+  "turkish_example_sentence_with_blank": "O, bu tehlikeli yolu asla ______."
 }

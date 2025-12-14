@@ -4,19 +4,19 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmesünüz",
+    "verb_full": "düşünmeseniz",
     "root": "düşün",
     "tense_affix": "se",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "nüz",
+    "personal_affix": "niz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Siz bu tehlikeli durumu düşünmesünüz, herkes endişeli olur.",
-  "english_example_sentence": "If you were not to think about this dangerous situation, everyone would be worried.",
-  "russian_example_sentence": "Если бы вы не подумали об этой опасной ситуации, все будут беспокойны.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T11:59:06.468198+00:00",
-  "turkish_example_sentence_with_blank": "Siz bu tehlikeli durumu ______, herkes endişeli olur."
+  "turkish_example_sentence": "Siz bu basit cevabı dikkatli düşünmeseniz, sınavda yanlış yaparsınız.",
+  "english_example_sentence": "If you didn't think about this simple answer carefully, you would make a mistake on the exam.",
+  "russian_example_sentence": "Если бы вы не обдумали этот простой ответ внимательно, вы бы допустили ошибку на экзамене.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T09:01:21.325843+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu basit cevabı dikkatli ______, sınavda yanlış yaparsınız."
 }

@@ -4,17 +4,19 @@
   "verb_russian": "нуждаться",
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
-    "verb_full": "ihtiyaç duymaya",
-    "root": "ihtiyaç duy",
-    "tense_affix": "a",
+    "verb_full": "ihtiyaç duymayalar",
+    "root": "duy",
+    "tense_affix": "ya",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
-    "negative_affix": "maya"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "May they not need more resources.",
-  "russian_example_sentence": "Пусть им не нужно больше ресурсов.",
-  "turkish_example_sentence": "Onlar daha fazla kaynağa ihtiyaç duymaya.",
-  "turkish_example_sentence_with_blank": "Onlar daha fazla kaynağa ______."
+  "turkish_example_sentence": "Onlar okul gezisi için fazladan paraya ihtiyaç duymayalar.",
+  "english_example_sentence": "May they not need extra money for the school trip.",
+  "russian_example_sentence": "Пусть им не понадобится лишних денег для школьной поездки.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:28:58.067042+00:00",
+  "turkish_example_sentence_with_blank": "Onlar okul gezisi için fazladan paraya ______."
 }

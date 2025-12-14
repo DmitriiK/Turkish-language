@@ -5,7 +5,7 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duyacaksın",
-    "root": "duymak",
+    "root": "duy",
     "tense_affix": "acak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "sen",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You will need strong professional guidance soon",
-  "russian_example_sentence": "Тебе понадобится сильное профессиональное руководство скоро",
-  "turkish_example_sentence": "Sen yakında güçlü profesyonel rehberlik ihtiyaç duyacaksın",
-  "turkish_example_sentence_with_blank": "Sen yakında güçlü profesyonel rehberlik ______"
+  "turkish_example_sentence": "Sen yarınki toplantı için önemli belgelere ihtiyaç duyacaksın.",
+  "english_example_sentence": "You will need important documents for tomorrow's meeting.",
+  "russian_example_sentence": "Тебе понадобятся важные документы для завтрашней встречи.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:26:33.297077+00:00",
+  "turkish_example_sentence_with_blank": "Sen yarınki toplantı için önemli belgelere ______."
 }

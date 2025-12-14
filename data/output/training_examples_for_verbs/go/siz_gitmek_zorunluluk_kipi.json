@@ -4,19 +4,19 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmelisiniz",
+    "verb_full": "gitmelisiz",
     "root": "git",
     "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "siniz",
+    "personal_affix": "siz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Siz değerli müşteriler yeni fabrikamızı ziyaret etmek için uzak kasabaya gitmelisiniz.",
-  "english_example_sentence": "You must go to the remote town to visit our new factory, valued customers.",
-  "russian_example_sentence": "Вы должны пойти в отдаленный город, чтобы посетить нашу новую фабрику, уважаемые клиенты.",
+  "turkish_example_sentence": "Siz değerli müşteriler yeni şubemize gitmelisiz.",
+  "english_example_sentence": "You must go to our new branch, valued customers.",
+  "russian_example_sentence": "Вы должны идти в наш новый филиал, уважаемые клиенты.",
   "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T08:53:20.212603+00:00",
-  "turkish_example_sentence_with_blank": "Siz değerli müşteriler yeni fabrikamızı ziyaret etmek için uzak kasabaya ______."
+  "generated_at": "2025-12-14T07:34:42.998512+00:00",
+  "turkish_example_sentence_with_blank": "Siz değerli müşteriler yeni şubemize ______."
 }

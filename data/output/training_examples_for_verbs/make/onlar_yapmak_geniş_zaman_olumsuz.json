@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yapmazlar",
     "root": "yap",
-    "tense_affix": "ar",
+    "tense_affix": "z",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Onlar hiçbir zaman saçma ve anlamsız şakalar yapmazlar.",
-  "english_example_sentence": "They never make absurd and meaningless jokes.",
-  "russian_example_sentence": "Они никогда не делают абсурдные и бессмысленные шутки.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T09:04:45.802484+00:00",
-  "turkish_example_sentence_with_blank": "Onlar hiçbir zaman saçma ve anlamsız şakalar ______."
+  "turkish_example_sentence": "Onlar asla kötü niyetli şakalar yapmazlar.",
+  "english_example_sentence": "They never make ill-intentioned jokes.",
+  "russian_example_sentence": "Они никогда не шутят со злым умыслом.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:03:56.507556+00:00",
+  "turkish_example_sentence_with_blank": "Onlar asla kötü niyetli şakalar ______."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissettin",
     "root": "hisset",
-    "tense_affix": "ti",
+    "tense_affix": "tin",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You felt some fear in the dark forest.",
-  "russian_example_sentence": "Ты почувствовал страх в темном лесу.",
-  "turkish_example_sentence": "Sen karanlık ormanda biraz korku hissettin.",
-  "turkish_example_sentence_with_blank": "Sen karanlık ormanda biraz korku ______."
+  "turkish_example_sentence": "Sen o anda garip bir soğukluk hissettin.",
+  "english_example_sentence": "You felt a strange coldness at that moment.",
+  "russian_example_sentence": "Ты почувствовал странный холод в тот момент.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T09:00:38.758226+00:00",
+  "turkish_example_sentence_with_blank": "Sen o anda garip bir soğukluk ______."
 }

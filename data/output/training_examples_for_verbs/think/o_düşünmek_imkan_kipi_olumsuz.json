@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "düşünemez",
     "root": "düşün",
-    "tense_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "z",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "turkish_example_sentence": "O küçük çocuk karmaşık bilimsel konuları düşünemez.",
-  "english_example_sentence": "That small child cannot think about complex scientific topics.",
-  "russian_example_sentence": "Этот маленький ребенок не может думать о сложных научных темах.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T11:57:55.651230+00:00",
-  "turkish_example_sentence_with_blank": "O küçük çocuk karmaşık bilimsel konuları ______."
+  "turkish_example_sentence": "O, bu karmaşık durumu şu an doğru düşünemez.",
+  "english_example_sentence": "He/She cannot think correctly about this complex situation right now.",
+  "russian_example_sentence": "Он/Она не может правильно обдумать эту сложную ситуацию сейчас.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:50:41.039735+00:00",
+  "turkish_example_sentence_with_blank": "O, bu karmaşık durumu şu an doğru ______."
 }

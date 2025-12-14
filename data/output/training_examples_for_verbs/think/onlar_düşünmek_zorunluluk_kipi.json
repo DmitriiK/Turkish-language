@@ -4,19 +4,19 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmelilar",
+    "verb_full": "düşünmeliler",
     "root": "düşün",
     "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Onlar gelecek nesil için çevre sorunlarını sorumlu düşünmelilar.",
-  "english_example_sentence": "They must think responsibly about environmental problems for the future generation.",
-  "russian_example_sentence": "Они должны ответственно думать об экологических проблемах для будущего поколения.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T11:58:13.868037+00:00",
-  "turkish_example_sentence_with_blank": "Onlar gelecek nesil için çevre sorunlarını sorumlu ______."
+  "turkish_example_sentence": "Onlar yeni projeyi mantıklı bir şekilde düşünmeliler.",
+  "english_example_sentence": "They must think about the new project in a logical way.",
+  "russian_example_sentence": "Они должны обдумать новый проект логически.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:51:09.159375+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yeni projeyi mantıklı bir şekilde ______."
 }

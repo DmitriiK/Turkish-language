@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissetmedin",
     "root": "hisset",
-    "tense_affix": "di",
+    "tense_affix": "din",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You did not feel any pain after the small injection.",
-  "russian_example_sentence": "Ты не почувствовал боли после маленького укола.",
-  "turkish_example_sentence": "Sen küçük iğneden sonra hiç ağrı hissetmedin.",
-  "turkish_example_sentence_with_blank": "Sen küçük iğneden sonra hiç ağrı ______."
+  "turkish_example_sentence": "Sen ani değişikliği hiç hissetmedin.",
+  "english_example_sentence": "You didn't feel the sudden change at all.",
+  "russian_example_sentence": "Ты совсем не почувствовал резкого изменения.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T09:00:38.758226+00:00",
+  "turkish_example_sentence_with_blank": "Sen ani değişikliği hiç ______."
 }

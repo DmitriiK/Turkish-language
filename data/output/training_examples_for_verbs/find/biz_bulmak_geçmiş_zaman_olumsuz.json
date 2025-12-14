@@ -4,19 +4,19 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulamadık",
+    "verb_full": "bulmadık",
     "root": "bul",
-    "tense_affix": "du",
+    "tense_affix": "dı",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Biz restoran'da iyi ucuz masayı bulamadık.",
-  "english_example_sentence": "We did not find a good cheap table at the restaurant.",
-  "russian_example_sentence": "Мы не нашли хороший дешевый стол в ресторане.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:36:13.463647+00:00",
-  "turkish_example_sentence_with_blank": "Biz restoran'da iyi ucuz masayı ______."
+  "turkish_example_sentence": "Biz toplantıda boş yer bulmadık.",
+  "english_example_sentence": "We did not find any empty seats at the meeting.",
+  "russian_example_sentence": "Мы не нашли свободных мест на собрании.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T09:24:04.397353+00:00",
+  "turkish_example_sentence_with_blank": "Biz toplantıda boş yer ______."
 }

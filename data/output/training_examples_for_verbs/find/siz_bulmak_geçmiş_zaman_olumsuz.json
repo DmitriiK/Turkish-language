@@ -4,19 +4,19 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulamadınız",
+    "verb_full": "bulmadınız",
     "root": "bul",
-    "tense_affix": "du",
+    "tense_affix": "dı",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "nuz",
+    "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Siz şehir'de uygun modern daire bulamadınız.",
-  "english_example_sentence": "You did not find a suitable modern apartment in the city.",
-  "russian_example_sentence": "Вы не нашли подходящую современную квартиру в городе.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:36:13.463647+00:00",
-  "turkish_example_sentence_with_blank": "Siz şehir'de uygun modern daire ______."
+  "turkish_example_sentence": "Siz pazara yakın park yeri bulmadınız.",
+  "english_example_sentence": "You did not find a parking spot near the market.",
+  "russian_example_sentence": "Вы не нашли парковочное место возле рынка.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T09:24:04.397353+00:00",
+  "turkish_example_sentence_with_blank": "Siz pazara yakın park yeri ______."
 }

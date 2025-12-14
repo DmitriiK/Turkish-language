@@ -4,7 +4,7 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmemesin",
+    "verb_full": "düşünmemelisin",
     "root": "düşün",
     "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
@@ -13,10 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Sen başkalarının eleştirel sözlerini çok fazla düşünmemesin.",
-  "english_example_sentence": "You must not think too much about other people's critical words.",
-  "russian_example_sentence": "Ты не должен слишком много думать о критических словах других людей.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T11:58:13.868037+00:00",
-  "turkish_example_sentence_with_blank": "Sen başkalarının eleştirel sözlerini çok fazla ______."
+  "turkish_example_sentence": "Sen gereksiz endişeleri hiç düşünmemelisin.",
+  "english_example_sentence": "You must never think about unnecessary worries.",
+  "russian_example_sentence": "Ты не должен вообще думать о ненужных беспокойствах.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:51:09.159375+00:00",
+  "turkish_example_sentence_with_blank": "Sen gereksiz endişeleri hiç ______."
 }

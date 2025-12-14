@@ -5,16 +5,18 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duymadık",
-    "root": "duymak",
-    "tense_affix": "du",
+    "root": "duy",
+    "tense_affix": "dı",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "We did not need complicated technical equipment for the simple task",
-  "russian_example_sentence": "Нам не нужно было сложное техническое оборудование для простой задачи",
-  "turkish_example_sentence": "Biz basit görev için karmaşık teknik ekipmana ihtiyaç duymadık",
-  "turkish_example_sentence_with_blank": "Biz basit görev için karmaşık teknik ekipmana ______"
+  "turkish_example_sentence": "Biz piknik için bu kadar çok yiyeceğe ihtiyaç duymadık.",
+  "english_example_sentence": "We didn't need this much food for the picnic.",
+  "russian_example_sentence": "Нам не понадобилось столько еды для пикника.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:25:51.162260+00:00",
+  "turkish_example_sentence_with_blank": "Biz piknik için bu kadar çok yiyeceğe ______."
 }

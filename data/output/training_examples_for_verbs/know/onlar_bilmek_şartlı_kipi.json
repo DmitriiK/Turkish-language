@@ -4,19 +4,19 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilirlersa",
+    "verb_full": "bilirlerse",
     "root": "bil",
-    "tense_affix": "ir",
+    "tense_affix": "irse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Onlar bu tehlikeli dağ yolunun tüm kıvrımlarını bilirlersa, güvenli gidebilirler.",
-  "english_example_sentence": "If they know all the curves of this dangerous mountain road, they can travel safely.",
-  "russian_example_sentence": "Если они знают все повороты этой опасной горной дороги, они могут путешествовать безопасно.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T11:54:11.273011+00:00",
-  "turkish_example_sentence_with_blank": "Onlar bu tehlikeli dağ yolunun tüm kıvrımlarını ______, güvenli gidebilirler."
+  "turkish_example_sentence": "Onlar bizim gizli planlarımızı bilirlerse, her şeyi mahvederler.",
+  "english_example_sentence": "If they know our secret plans, they will ruin everything.",
+  "russian_example_sentence": "Если они будут знать наши секретные планы, они всё испортят.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:31:44.679048+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bizim gizli planlarımızı ______, her şeyi mahvederler."
 }

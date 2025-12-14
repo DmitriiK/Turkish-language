@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yaparsan",
     "root": "yap",
-    "tense_affix": "ar",
+    "tense_affix": "arsa",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Sen lezzetli bir yemek yaparsan, hepimiz çok mutlu oluruz.",
-  "english_example_sentence": "If you make a delicious meal, we will all be very happy.",
-  "russian_example_sentence": "Если ты сделаешь вкусное блюдо, мы все будем очень счастливы.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T09:07:12.100872+00:00",
-  "turkish_example_sentence_with_blank": "Sen lezzetli bir yemek ______, hepimiz çok mutlu oluruz."
+  "turkish_example_sentence": "Sen lezzetli bir yemek yaparsan, misafirler çok beğenir.",
+  "english_example_sentence": "If you make a delicious meal, the guests will like it very much.",
+  "russian_example_sentence": "Если ты приготовишь вкусное блюдо, гостям очень понравится.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:09:58.982577+00:00",
+  "turkish_example_sentence_with_blank": "Sen lezzetli bir yemek ______, misafirler çok beğenir."
 }

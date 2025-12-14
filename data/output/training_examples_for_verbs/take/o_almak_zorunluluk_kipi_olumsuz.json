@@ -9,14 +9,14 @@
     "tense_affix": "malı",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "negative",
-    "negative_affix": "mama"
+    "negative_affix": "ma"
   },
-  "turkish_example_sentence": "O mağazada hiçbir şekilde indirimli eski elektronik ürünleri almamalı.",
-  "english_example_sentence": "She must not take any discounted old electronic products from the store.",
-  "russian_example_sentence": "Она не должна брать никакие дешевые старые электронные товары из магазина.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T12:03:52.464288+00:00",
-  "turkish_example_sentence_with_blank": "O mağazada hiçbir şekilde indirimli eski elektronik ürünleri ______."
+  "turkish_example_sentence": "O, bu akşamki partiye gereksiz hediyeler almamalı.",
+  "english_example_sentence": "He/She must not take unnecessary gifts to tonight's party.",
+  "russian_example_sentence": "Он/Она не должен/должна брать ненужные подарки на сегодняшнюю вечеринку.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T09:11:40.244979+00:00",
+  "turkish_example_sentence_with_blank": "O, bu akşamki partiye gereksiz hediyeler ______."
 }

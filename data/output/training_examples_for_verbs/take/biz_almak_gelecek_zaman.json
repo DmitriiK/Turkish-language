@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "alacağız",
     "root": "al",
-    "tense_affix": "acak",
+    "tense_affix": "acağ",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "ız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Biz gelecek hafta güzel mavi bisikletleri alacağız.",
-  "english_example_sentence": "We will take beautiful blue bicycles next week.",
-  "russian_example_sentence": "На следующей неделе мы возьмем красивые синие велосипеды.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T12:02:23.177230+00:00",
-  "turkish_example_sentence_with_blank": "Biz gelecek hafta güzel mavi bisikletleri ______."
+  "turkish_example_sentence": "Biz akşam yemeği için lezzetli balık alacağız.",
+  "english_example_sentence": "We will take delicious fish for dinner.",
+  "russian_example_sentence": "Мы возьмем вкусную рыбу на ужин.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T09:18:38.467233+00:00",
+  "turkish_example_sentence_with_blank": "Biz akşam yemeği için lezzetli balık ______."
 }

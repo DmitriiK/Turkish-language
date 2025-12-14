@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "mez"
   },
-  "english_example_sentence": "If I do not feel ready, I stay home",
-  "russian_example_sentence": "Если я не чувствую себя готовым, я остаюсь дома",
-  "turkish_example_sentence": "Eğer hazır hissetmezsem, evde kalırım",
-  "turkish_example_sentence_with_blank": "Eğer hazır ______, evde kalırım"
+  "turkish_example_sentence": "Ben bu konuyu doğru hissetmezsem, yorum yapmam.",
+  "english_example_sentence": "If I don't feel this topic is right, I won't comment.",
+  "russian_example_sentence": "Если я не чувствую, что эта тема правильна, я не буду комментировать.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T15:06:41.166472+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu konuyu doğru ______, yorum yapmam."
 }

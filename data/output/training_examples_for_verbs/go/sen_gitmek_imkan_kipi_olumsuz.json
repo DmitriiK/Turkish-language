@@ -4,19 +4,19 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gidemesin",
+    "verb_full": "gidememezsin",
     "root": "git",
-    "tense_affix": "ebil",
+    "tense_affix": "eme",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "irsin",
+    "personal_affix": "zsin",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": "m"
   },
-  "turkish_example_sentence": "Sen hasta olduğun için hastaneye gidemesin.",
+  "turkish_example_sentence": "Sen hasta olduğun için hastaneye gidememezsin.",
   "english_example_sentence": "You cannot go to the hospital because you are sick.",
   "russian_example_sentence": "Ты не можешь пойти в больницу, потому что ты болен.",
   "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T08:53:00.662293+00:00",
+  "generated_at": "2025-12-14T07:34:22.682535+00:00",
   "turkish_example_sentence_with_blank": "Sen hasta olduğun için hastaneye ______."
 }

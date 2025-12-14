@@ -4,17 +4,19 @@
   "verb_russian": "чувствовать",
   "verb_infinitive": "hissetmek",
   "turkish_verb": {
-    "verb_full": "hissedememişler",
-    "root": "hisse",
-    "tense_affix": "eme",
+    "verb_full": "hissedemezler",
+    "root": "hisset",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "ler",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "emez"
   },
-  "english_example_sentence": "They cannot feel the light breeze in the park",
-  "russian_example_sentence": "Они не могут почувствовать легкий ветерок в парке",
-  "turkish_example_sentence": "Onlar parkta hafif rüzgarı hissedememişler",
-  "turkish_example_sentence_with_blank": "Onlar parkta hafif rüzgarı ______"
+  "turkish_example_sentence": "Onlar bu büyük acının derinliğini hissedemezler.",
+  "english_example_sentence": "They cannot feel the depth of this great pain.",
+  "russian_example_sentence": "Они не могут чувствовать глубину этой великой боли.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T13:12:20.306171+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu büyük acının derinliğini ______."
 }

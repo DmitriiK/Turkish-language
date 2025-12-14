@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yapmayacağım",
     "root": "yap",
-    "tense_affix": "acağ",
+    "tense_affix": "yacağ",
     "verb_tense": "yaracağım",
     "personal_pronoun": "ben",
     "personal_affix": "ım",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Ben bu zor projeyi yapmayacağım.",
-  "english_example_sentence": "I will not make this difficult project.",
-  "russian_example_sentence": "Я не буду делать этот сложный проект.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T09:04:29.018408+00:00",
-  "turkish_example_sentence_with_blank": "Ben bu zor projeyi ______."
+  "turkish_example_sentence": "Ben bu zorlu ödevi kesinlikle yapmayacağım.",
+  "english_example_sentence": "I will definitely not do this difficult assignment.",
+  "russian_example_sentence": "Я определенно не буду делать это сложное задание.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:03:21.990960+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu zorlu ödevi kesinlikle ______."
 }

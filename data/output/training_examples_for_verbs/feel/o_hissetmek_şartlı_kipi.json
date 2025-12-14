@@ -4,17 +4,19 @@
   "verb_russian": "чувствовать",
   "verb_infinitive": "hissetmek",
   "turkish_verb": {
-    "verb_full": "hissetse",
+    "verb_full": "hissederse",
     "root": "hisset",
-    "tense_affix": "se",
+    "tense_affix": "erse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If he feels comfortable, he speaks slowly",
-  "russian_example_sentence": "Если он чувствует себя комфортно, он говорит медленно",
-  "turkish_example_sentence": "Eğer rahat hissetse, yavaş konuşur",
-  "turkish_example_sentence_with_blank": "Eğer rahat ______, yavaş konuşur"
+  "turkish_example_sentence": "O kalbinde bir huzur hissederse, hemen döner.",
+  "english_example_sentence": "If he/she feels peace in their heart, they will return immediately.",
+  "russian_example_sentence": "Если он/она почувствует мир в своем сердце, он/она немедленно вернется.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T15:06:41.166472+00:00",
+  "turkish_example_sentence_with_blank": "O kalbinde bir huzur ______, hemen döner."
 }

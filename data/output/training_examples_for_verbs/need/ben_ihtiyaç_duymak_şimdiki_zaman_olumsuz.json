@@ -5,7 +5,7 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duymuyorum",
-    "root": "duyu",
+    "root": "ihtiyaç duy",
     "tense_affix": "uyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "ben",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "m"
   },
-  "english_example_sentence": "I do not need expensive clothes today",
-  "russian_example_sentence": "Мне не нужна дорогая одежда сегодня",
-  "turkish_example_sentence": "Ben bugün pahalı giysilere ihtiyaç duymuyorum",
-  "turkish_example_sentence_with_blank": "Ben bugün pahalı giysilere ______"
+  "turkish_example_sentence": "Ben bu soğuk havada kalın bir paltoya ihtiyaç duymuyorum.",
+  "english_example_sentence": "I am not needing a thick coat in this cold weather.",
+  "russian_example_sentence": "Мне не нужно толстое пальто в такую холодную погоду.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:25:20.416365+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu soğuk havada kalın bir paltoya ______."
 }

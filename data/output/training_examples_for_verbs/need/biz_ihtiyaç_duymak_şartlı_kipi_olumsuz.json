@@ -5,7 +5,7 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duymazsak",
-    "root": "ihtiyaç du",
+    "root": "ihtiyaç duy",
     "tense_affix": "sa",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "biz",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If we don't need more water, we won't go.",
-  "russian_example_sentence": "Если нам не понадобится больше воды, мы не пойдем.",
-  "turkish_example_sentence": "Eğer daha fazla suya ihtiyaç duymazsak, gitmeyiz.",
-  "turkish_example_sentence_with_blank": "Eğer daha fazla suya ______, gitmeyiz."
+  "turkish_example_sentence": "Biz bu kadar çok yemeğe ihtiyaç duymazsak, yarısını bağışlarız.",
+  "english_example_sentence": "If we don't need this much food, we donate half of it.",
+  "russian_example_sentence": "Если нам не понадобится столько еды, мы пожертвуем половину.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:07:56.519587+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu kadar çok yemeğe ______, yarısını bağışlarız."
 }

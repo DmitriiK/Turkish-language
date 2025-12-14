@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "bilmeyip",
     "root": "bil",
-    "tense_affix": "ip",
+    "tense_affix": "yip",
     "verb_tense": "ulak_fiil",
     "personal_pronoun": null,
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Yeni şehrin adresini bilmeyip kayboldum.",
-  "english_example_sentence": "Not knowing the new city's address, I got lost.",
-  "russian_example_sentence": "Не зная адреса нового города, я заблудился.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T11:54:21.720335+00:00",
-  "turkish_example_sentence_with_blank": "Yeni şehrin adresini ______ kayboldum."
+  "turkish_example_sentence": "Kuralları bilmeyip önemli bir hata yaptı.",
+  "english_example_sentence": "Without knowing the rules, he made an important mistake.",
+  "russian_example_sentence": "Не зная правил, он совершил важную ошибку.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:32:47.894446+00:00",
+  "turkish_example_sentence_with_blank": "Kuralları ______ önemli bir hata yaptı."
 }

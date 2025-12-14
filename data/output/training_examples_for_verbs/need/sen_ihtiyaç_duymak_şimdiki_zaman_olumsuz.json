@@ -5,7 +5,7 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duymuyorsun",
-    "root": "duyu",
+    "root": "ihtiyaç duy",
     "tense_affix": "uyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "sen",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "m"
   },
-  "english_example_sentence": "You do not need complicated instructions now",
-  "russian_example_sentence": "Тебе не нужны сложные инструкции сейчас",
-  "turkish_example_sentence": "Sen şimdi karmaşık talimatları ihtiyaç duymuyorsun",
-  "turkish_example_sentence_with_blank": "Sen şimdi karmaşık talimatları ______"
+  "turkish_example_sentence": "Sen bu zorlu görev için ek yardıma hiç ihtiyaç duymuyorsun.",
+  "english_example_sentence": "You are not needing any extra help for this difficult task.",
+  "russian_example_sentence": "Тебе совсем не нужна дополнительная помощь для этой сложной задачи.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:25:20.416365+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu zorlu görev için ek yardıma hiç ______."
 }

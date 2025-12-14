@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yapmadığımda",
     "root": "yap",
-    "tense_affix": "madığ",
+    "tense_affix": "dık",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "ben",
-    "personal_affix": "ım",
+    "personal_affix": "ımda",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Ben ödevimi yapmadığımda, öğretmen beni uyardı.",
-  "english_example_sentence": "When I did not make my homework, the teacher warned me.",
-  "russian_example_sentence": "Когда я не сделал домашнее задание, учитель меня предупредил.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T11:53:27.567009+00:00",
-  "turkish_example_sentence_with_blank": "Ben ödevimi ______, öğretmen beni uyardı."
+  "turkish_example_sentence": "Ben hata yapmadığımda, her şey yolunda gider.",
+  "english_example_sentence": "When I don't make mistakes, everything goes well.",
+  "russian_example_sentence": "Когда я не делаю ошибок, все идет хорошо.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:12:23.981930+00:00",
+  "turkish_example_sentence_with_blank": "Ben hata ______, her şey yolunda gider."
 }

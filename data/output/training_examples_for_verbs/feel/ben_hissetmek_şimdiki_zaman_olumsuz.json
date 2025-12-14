@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissetmiyorum",
     "root": "hisset",
-    "tense_affix": "iyor",
+    "tense_affix": "yor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "um",
     "polarity": "negative",
     "negative_affix": "mi"
   },
-  "english_example_sentence": "I am not feeling any pain in my leg.",
-  "russian_example_sentence": "Я не чувствую никакой боли в ноге.",
-  "turkish_example_sentence": "Ben bacağımda hiç ağrı hissetmiyorum.",
-  "turkish_example_sentence_with_blank": "Ben bacağımda hiç ağrı ______."
+  "turkish_example_sentence": "Ben bu soğuk havayı hiç hissetmiyorum.",
+  "english_example_sentence": "I am not feeling this cold weather at all.",
+  "russian_example_sentence": "Я совсем не чувствую эту холодную погоду.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T09:00:08.182021+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu soğuk havayı hiç ______."
 }

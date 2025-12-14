@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "alamam",
     "root": "al",
-    "tense_affix": "abil",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "irim",
+    "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "turkish_example_sentence": "Ben bu pahalı hediyeyi alamam.",
-  "english_example_sentence": "I cannot take this expensive gift.",
-  "russian_example_sentence": "Я не могу взять этот дорогой подарок.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T12:03:33.964900+00:00",
-  "turkish_example_sentence_with_blank": "Ben bu pahalı hediyeyi ______."
+  "turkish_example_sentence": "Ben bu kadar çok sorumluluğu tek başıma alamam.",
+  "english_example_sentence": "I cannot take on so much responsibility by myself.",
+  "russian_example_sentence": "Я не могу взять на себя столько ответственности в одиночку.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T09:11:13.236956+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu kadar çok sorumluluğu tek başıma ______."
 }

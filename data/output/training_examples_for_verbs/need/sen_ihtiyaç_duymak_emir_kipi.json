@@ -5,7 +5,7 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duy",
-    "root": "ihtiyaç du",
+    "root": "duy",
     "tense_affix": "",
     "verb_tense": "emir_kipi",
     "personal_pronoun": "sen",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need fresh water immediately today",
-  "russian_example_sentence": "Тебе нужна свежая вода сегодня",
-  "turkish_example_sentence": "Sen bugün taze su ihtiyaç duy",
-  "turkish_example_sentence_with_blank": "Sen bugün taze su ______"
+  "turkish_example_sentence": "Sen biraz dinlenmeye ihtiyaç duy.",
+  "english_example_sentence": "You need some rest.",
+  "russian_example_sentence": "Тебе нужен небольшой отдых.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:29:23.279928+00:00",
+  "turkish_example_sentence_with_blank": "Sen biraz dinlenmeye ______."
 }

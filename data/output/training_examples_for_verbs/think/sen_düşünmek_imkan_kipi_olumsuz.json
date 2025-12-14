@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "düşünemezsin",
     "root": "düşün",
-    "tense_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "zsin",
+    "personal_affix": "sin",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "turkish_example_sentence": "Sen yorgun olduğunda açık fikirle düşünemezsin.",
-  "english_example_sentence": "You cannot think clearly when you are tired.",
-  "russian_example_sentence": "Ты не можешь ясно думать, когда ты устал.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T11:57:55.651230+00:00",
-  "turkish_example_sentence_with_blank": "Sen yorgun olduğunda açık fikirle ______."
+  "turkish_example_sentence": "Sen bu kadar kısa sürede mantıklı bir çözüm düşünemezsin.",
+  "english_example_sentence": "You cannot think of a logical solution in such a short time.",
+  "russian_example_sentence": "Ты не можешь придумать логичное решение за такое короткое время.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:50:41.039735+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu kadar kısa sürede mantıklı bir çözüm ______."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissetmem lazım",
     "root": "hisset",
-    "tense_affix": "",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "mem",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I need to feel this warm sun.",
-  "russian_example_sentence": "Мне нужно почувствовать это теплое солнце.",
-  "turkish_example_sentence": "Ben bu sıcak güneşi hissetmem lazım.",
-  "turkish_example_sentence_with_blank": "Ben bu sıcak güneşi ______."
+  "turkish_example_sentence": "Ben gerçek duygularımı açıkça hissetmem lazım.",
+  "english_example_sentence": "I need to feel my true emotions clearly.",
+  "russian_example_sentence": "Мне нужно ясно чувствовать свои истинные эмоции.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T13:09:21.913464+00:00",
+  "turkish_example_sentence_with_blank": "Ben gerçek duygularımı açıkça ______."
 }

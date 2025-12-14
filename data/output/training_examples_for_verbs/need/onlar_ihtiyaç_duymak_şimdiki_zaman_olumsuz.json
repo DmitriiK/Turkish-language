@@ -5,7 +5,7 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duymuyorlar",
-    "root": "duyu",
+    "root": "ihtiyaç duy",
     "tense_affix": "uyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "onlar",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "m"
   },
-  "english_example_sentence": "They do not need additional resources currently",
-  "russian_example_sentence": "Им не нужны дополнительные ресурсы в настоящее время",
-  "turkish_example_sentence": "Onlar şu anda ek kaynakları ihtiyaç duymuyorlar",
-  "turkish_example_sentence_with_blank": "Onlar şu anda ek kaynakları ______"
+  "turkish_example_sentence": "Onlar bu yoğun dönemde ek motivasyona pek ihtiyaç duymuyorlar.",
+  "english_example_sentence": "They are not really needing extra motivation during this busy period.",
+  "russian_example_sentence": "Им не особо нужна дополнительная мотивация в этот напряженный период.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:25:20.416365+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu yoğun dönemde ek motivasyona pek ______."
 }

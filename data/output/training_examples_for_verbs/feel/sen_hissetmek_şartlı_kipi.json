@@ -4,17 +4,19 @@
   "verb_russian": "чувствовать",
   "verb_infinitive": "hissetmek",
   "turkish_verb": {
-    "verb_full": "hissetsen",
+    "verb_full": "hissedersen",
     "root": "hisset",
-    "tense_affix": "se",
+    "tense_affix": "erse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you feel hungry, you eat",
-  "russian_example_sentence": "Если ты чувствуешь голод, ты ешь",
-  "turkish_example_sentence": "Eğer aç hissetsen, yemek yersin",
-  "turkish_example_sentence_with_blank": "Eğer aç ______, yemek yersin"
+  "turkish_example_sentence": "Sen bu yemeğin tadını hissedersen, bana söyle.",
+  "english_example_sentence": "If you feel the taste of this food, tell me.",
+  "russian_example_sentence": "Если ты почувствуешь вкус этой еды, скажи мне.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T15:06:41.166472+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu yemeğin tadını ______, bana söyle."
 }

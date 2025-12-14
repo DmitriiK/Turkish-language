@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yapmayacaktık",
     "root": "yap",
-    "tense_affix": "acaktı",
+    "tense_affix": "yacaktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Biz o pahalı tatili yapmayacaktık ama piyangoda para kazandık.",
-  "english_example_sentence": "We were not going to make that expensive vacation but we won money in the lottery.",
-  "russian_example_sentence": "Мы не собирались делать тот дорогой отпуск, но мы выиграли деньги в лотерее.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T09:06:51.581197+00:00",
-  "turkish_example_sentence_with_blank": "Biz o pahalı tatili ______ ama piyangoda para kazandık."
+  "turkish_example_sentence": "Biz proje sırasında yanlış bir şey yapmayacaktık.",
+  "english_example_sentence": "We were not going to do anything wrong during the project.",
+  "russian_example_sentence": "Мы не собирались делать ничего плохого во время проекта.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:09:29.219642+00:00",
+  "turkish_example_sentence_with_blank": "Biz proje sırasında yanlış bir şey ______."
 }

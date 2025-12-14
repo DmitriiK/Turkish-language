@@ -5,7 +5,7 @@
   "verb_infinitive": "hissetmek",
   "turkish_verb": {
     "verb_full": "hissedecek",
-    "root": "hisset",
+    "root": "hissed",
     "tense_affix": "ecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "o",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He will feel the warm sun soon.",
-  "russian_example_sentence": "Он скоро почувствует теплое солнце.",
-  "turkish_example_sentence": "O, sıcak güneşi yakında hissedecek.",
-  "turkish_example_sentence_with_blank": "O, sıcak güneşi yakında ______."
+  "turkish_example_sentence": "O, uzun yolculuktan sonra yorgunluk hissedecek.",
+  "english_example_sentence": "He/She will feel tired after the long journey.",
+  "russian_example_sentence": "Он/Она почувствует усталость после долгого путешествия.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T09:01:57.332119+00:00",
+  "turkish_example_sentence_with_blank": "O, uzun yolculuktan sonra yorgunluk ______."
 }

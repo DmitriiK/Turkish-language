@@ -4,19 +4,19 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almasınız",
+    "verb_full": "almayasınız",
     "root": "al",
-    "tense_affix": "a",
+    "tense_affix": "ya",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "sınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Siz özel gizli dosyaları ofisten almasınız.",
-  "english_example_sentence": "May you not take the special secret files from the office.",
-  "russian_example_sentence": "Пусть вы не возьмете специальные секретные файлы из офиса.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T12:04:10.251126+00:00",
-  "turkish_example_sentence_with_blank": "Siz özel gizli dosyaları ofisten ______."
+  "turkish_example_sentence": "Siz o küçük çocukların oyuncağını almayasınız.",
+  "english_example_sentence": "May you not take those small children's toy.",
+  "russian_example_sentence": "Пусть вы не возьмёте игрушку тех маленьких детей.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T09:19:43.434449+00:00",
+  "turkish_example_sentence_with_blank": "Siz o küçük çocukların oyuncağını ______."
 }

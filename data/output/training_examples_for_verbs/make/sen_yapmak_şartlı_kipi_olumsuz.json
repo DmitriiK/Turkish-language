@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yapmazsan",
     "root": "yap",
-    "tense_affix": "maz",
+    "tense_affix": "sa",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "turkish_example_sentence": "Sen bu zor egzersizi yapmazsan, güçlü kaslar geliştirmeyeceksin.",
-  "english_example_sentence": "If you do not make this difficult exercise, you will not develop strong muscles.",
-  "russian_example_sentence": "Если ты не будешь делать это сложное упражнение, ты не разовьёшь сильные мышцы.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T09:07:12.100872+00:00",
-  "turkish_example_sentence_with_blank": "Sen bu zor egzersizi ______, güçlü kaslar geliştirmeyeceksin."
+  "turkish_example_sentence": "Sen hiç gürültü yapmazsan, kütüphanede ders çalışabilirsin.",
+  "english_example_sentence": "If you don't make any noise, you can study in the library.",
+  "russian_example_sentence": "Если ты не будешь шуметь, ты сможешь заниматься в библиотеке.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:09:58.982577+00:00",
+  "turkish_example_sentence_with_blank": "Sen hiç gürültü ______, kütüphanede ders çalışabilirsin."
 }

@@ -5,16 +5,18 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duymayacaklar",
-    "root": "duymak",
-    "tense_affix": "acak",
+    "root": "duy",
+    "tense_affix": "yacak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "They will not need constant parental supervision anymore",
-  "russian_example_sentence": "Им больше не понадобится постоянный родительский надзор",
-  "turkish_example_sentence": "Onlar artık sürekli ebeveyn gözetimi ihtiyaç duymayacaklar",
-  "turkish_example_sentence_with_blank": "Onlar artık sürekli ebeveyn gözetimi ______"
+  "turkish_example_sentence": "Onlar bu küçük parti için pahalı hediyelere ihtiyaç duymayacaklar.",
+  "english_example_sentence": "They will not need expensive gifts for this small party.",
+  "russian_example_sentence": "Им не понадобятся дорогие подарки для этой небольшой вечеринки.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:26:33.297077+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu küçük parti için pahalı hediyelere ______."
 }

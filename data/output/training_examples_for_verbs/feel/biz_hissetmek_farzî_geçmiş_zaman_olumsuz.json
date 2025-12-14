@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissetmemişsek",
     "root": "hisset",
-    "tense_affix": "mişse",
+    "tense_affix": "miş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "sek",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If we hadn't felt the earthquake.",
-  "russian_example_sentence": "Если бы мы не почувствовали землетрясение.",
-  "turkish_example_sentence": "Biz depremi hiç hissetmemişsek, şanslıyız demektir.",
-  "turkish_example_sentence_with_blank": "Biz depremi hiç ______, şanslıyız demektir."
+  "turkish_example_sentence": "Biz bu kötü havayı hissetmemişsek, pikniğe giderdik.",
+  "english_example_sentence": "If we had not felt this bad weather, we would have gone for a picnic.",
+  "russian_example_sentence": "Если бы мы не почувствовали эту плохую погоду, мы бы пошли на пикник.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T15:07:57.119239+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu kötü havayı ______, pikniğe giderdik."
 }

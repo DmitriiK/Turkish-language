@@ -5,7 +5,7 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duysanız",
-    "root": "ihtiyaç duy",
+    "root": "duy",
     "tense_affix": "sa",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "siz",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you needed advice, you would ask us",
-  "russian_example_sentence": "Если бы вам понадобился совет, вы бы спросили у нас",
-  "turkish_example_sentence": "Tavsiyeye ihtiyaç duysanız bize sorardınız",
-  "turkish_example_sentence_with_blank": "Tavsiyeye ______ bize sorardınız"
+  "turkish_example_sentence": "Siz şehir merkezine yol tarifi ihtiyaç duysanız, bize sorun.",
+  "english_example_sentence": "If you needed directions to the city center, ask us.",
+  "russian_example_sentence": "Если бы вам нужно было направление к центру города, спросите нас.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:29:56.590821+00:00",
+  "turkish_example_sentence_with_blank": "Siz şehir merkezine yol tarifi ______, bize sorun."
 }

@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "düşünmedi",
     "root": "düşün",
-    "tense_affix": "dü",
+    "tense_affix": "di",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "O eski şarkıyı hiç düşünmedi.",
-  "english_example_sentence": "She did not think about the old song at all.",
-  "russian_example_sentence": "Она не думала о старой песне вообще.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T11:56:12.282519+00:00",
-  "turkish_example_sentence_with_blank": "O eski şarkıyı hiç ______."
+  "turkish_example_sentence": "O arkadaşının tavsiyesini hiç düşünmedi.",
+  "english_example_sentence": "He/She never thought about his/her friend's advice.",
+  "russian_example_sentence": "Он/Она никогда не думал(а) о совете своего друга.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:53:20.432292+00:00",
+  "turkish_example_sentence_with_blank": "O arkadaşının tavsiyesini hiç ______."
 }

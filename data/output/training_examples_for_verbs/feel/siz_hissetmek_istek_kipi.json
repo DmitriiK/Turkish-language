@@ -4,7 +4,7 @@
   "verb_russian": "чувствовать",
   "verb_infinitive": "hissetmek",
   "turkish_verb": {
-    "verb_full": "hissedeseniz",
+    "verb_full": "hissedesiniz",
     "root": "hisset",
     "tense_affix": "e",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "May you all feel proud of yourselves.",
-  "russian_example_sentence": "Пусть вы все будете чувствовать гордость за себя.",
-  "turkish_example_sentence": "Siz kendinizle gurur hissedesiniz.",
-  "turkish_example_sentence_with_blank": "Siz kendinizle gurur hissedesiniz."
+  "turkish_example_sentence": "Siz yeni ortamda hemen rahat hissedesiniz.",
+  "english_example_sentence": "May you immediately feel comfortable in the new environment.",
+  "russian_example_sentence": "Пусть вы сразу почувствуете себя комфортно в новой обстановке.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T14:57:18.820309+00:00",
+  "turkish_example_sentence_with_blank": "Siz yeni ortamda hemen rahat ______."
 }

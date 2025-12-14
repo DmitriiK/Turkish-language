@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "ihtiyaç duymamamız lazım",
     "root": "ihtiyaç duy",
-    "tense_affix": "lazım",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "mız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "We don't need to buy any extra expensive food today.",
-  "russian_example_sentence": "Нам не нужно покупать дополнительную дорогую еду сегодня.",
-  "turkish_example_sentence": "Biz bugün fazladan pahalı yiyecek almamamız lazım.",
-  "turkish_example_sentence_with_blank": "Biz bugün fazladan pahalı yiyecek almamamız lazım."
+  "turkish_example_sentence": "Biz bu kadar gereksiz toplantıya ihtiyaç duymamamız lazım.",
+  "english_example_sentence": "We don't need so many unnecessary meetings.",
+  "russian_example_sentence": "Нам не нужно столько ненужных встреч.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:30:40.808877+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu kadar gereksiz toplantıya ______."
 }

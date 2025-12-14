@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "düşünmez",
     "root": "düşün",
-    "tense_affix": "ür",
+    "tense_affix": "z",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "O tembel çocuk okul ödevleri hakkında düşünmez.",
-  "english_example_sentence": "He doesn't think about school homework.",
-  "russian_example_sentence": "Он не думает о школьном домашнем задании.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T11:56:30.231677+00:00",
-  "turkish_example_sentence_with_blank": "O tembel çocuk okul ödevleri hakkında ______."
+  "turkish_example_sentence": "O başkalarının gereksiz yorumlarını asla düşünmez.",
+  "english_example_sentence": "He/She never thinks about others' unnecessary comments.",
+  "russian_example_sentence": "Он/Она никогда не думает о ненужных комментариях других.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T09:00:07.663907+00:00",
+  "turkish_example_sentence_with_blank": "O başkalarının gereksiz yorumlarını asla ______."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissetmeyecektin",
     "root": "hisset",
-    "tense_affix": "ecekti",
+    "tense_affix": "yecek",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "tin",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You were not going to feel shame.",
-  "russian_example_sentence": "Ты не собирался чувствовать стыд.",
-  "turkish_example_sentence": "Sen o utanç verici olaydan sonra suçluluk hissetmeyecektin.",
-  "turkish_example_sentence_with_blank": "Sen o utanç verici olaydan sonra suçluluk ______."
+  "turkish_example_sentence": "Sen bu ani değişiklikten sonra hiçbir endişe hissetmeyecektin.",
+  "english_example_sentence": "You were not going to feel any anxiety after this sudden change.",
+  "russian_example_sentence": "Ты не собирался чувствовать никакого беспокойства после этого внезапного изменения.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T15:05:07.778173+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu ani değişiklikten sonra hiçbir endişe ______."
 }

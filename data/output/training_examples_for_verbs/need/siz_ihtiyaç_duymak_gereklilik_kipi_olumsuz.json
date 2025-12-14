@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "ihtiyaç duymamanız lazım",
     "root": "ihtiyaç duy",
-    "tense_affix": "lazım",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You (pl) don't need to wait for us in this cold weather.",
-  "russian_example_sentence": "Вам не нужно ждать нас в такую холодную погоду.",
-  "turkish_example_sentence": "Siz bu soğuk havada bizi beklememeniz lazım.",
-  "turkish_example_sentence_with_blank": "Siz bu soğuk havada bizi beklememeniz lazım."
+  "turkish_example_sentence": "Siz bu karmaşık bilgiye şu an ihtiyaç duymamanız lazım.",
+  "english_example_sentence": "You don't need this complex information right now.",
+  "russian_example_sentence": "Вам не нужна эта сложная информация прямо сейчас.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:30:40.808877+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu karmaşık bilgiye şu an ______."
 }

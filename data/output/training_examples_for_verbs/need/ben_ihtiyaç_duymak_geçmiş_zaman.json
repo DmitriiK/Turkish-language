@@ -5,7 +5,7 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duydum",
-    "root": "duymak",
+    "root": "duy",
     "tense_affix": "du",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "ben",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I needed help with my difficult homework yesterday",
-  "russian_example_sentence": "Мне нужна была помощь с трудным домашним заданием вчера",
-  "turkish_example_sentence": "Ben dün zor matematik ödevinde yardıma ihtiyaç duydum",
-  "turkish_example_sentence_with_blank": "Ben dün zor matematik ödevinde yardıma ______"
+  "turkish_example_sentence": "Ben dün bu önemli belgelere ihtiyaç duydum.",
+  "english_example_sentence": "I needed these important documents yesterday.",
+  "russian_example_sentence": "Мне понадобились эти важные документы вчера.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:25:51.162260+00:00",
+  "turkish_example_sentence_with_blank": "Ben dün bu önemli belgelere ______."
 }

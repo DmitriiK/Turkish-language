@@ -5,7 +5,7 @@
   "verb_infinitive": "hissetmek",
   "turkish_verb": {
     "verb_full": "hissediyoruz",
-    "root": "hissed",
+    "root": "hisset",
     "tense_affix": "iyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "biz",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We are feeling a pleasant warmth in the sun.",
-  "russian_example_sentence": "Мы чувствуем приятное тепло на солнце.",
-  "turkish_example_sentence": "Biz güneşte hoş bir sıcaklık hissediyoruz.",
-  "turkish_example_sentence_with_blank": "Biz güneşte hoş bir sıcaklık ______."
+  "turkish_example_sentence": "Biz, bu sıcak arkadaşlık bağını derinden hissediyoruz.",
+  "english_example_sentence": "We are deeply feeling this warm bond of friendship.",
+  "russian_example_sentence": "Мы глубоко чувствуем эту теплую дружескую связь.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T09:00:08.182021+00:00",
+  "turkish_example_sentence_with_blank": "Biz, bu sıcak arkadaşlık bağını derinden ______."
 }

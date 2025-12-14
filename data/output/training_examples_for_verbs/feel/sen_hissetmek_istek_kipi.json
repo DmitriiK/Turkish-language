@@ -4,17 +4,19 @@
   "verb_russian": "чувствовать",
   "verb_infinitive": "hissetmek",
   "turkish_verb": {
-    "verb_full": "hissedesen",
+    "verb_full": "hissedesin",
     "root": "hisset",
     "tense_affix": "e",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "sen",
+    "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "May you feel the beauty around you.",
-  "russian_example_sentence": "Пусть ты почувствуешь красоту вокруг.",
-  "turkish_example_sentence": "Sen etrafındaki güzelliği hissedesin.",
-  "turkish_example_sentence_with_blank": "Sen etrafındaki güzelliği hissedesin."
+  "turkish_example_sentence": "Sen bu zorlu yolculukta güçlü hissedesin.",
+  "english_example_sentence": "May you feel strong on this challenging journey.",
+  "russian_example_sentence": "Пусть ты почувствуешь себя сильным в этом трудном путешествии.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T14:57:18.820309+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu zorlu yolculukta güçlü ______."
 }

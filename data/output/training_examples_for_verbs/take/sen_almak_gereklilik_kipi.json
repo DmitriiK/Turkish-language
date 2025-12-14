@@ -4,7 +4,7 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almanız lazım",
+    "verb_full": "alman lazım",
     "root": "al",
     "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
@@ -13,10 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Sen bu hafta sonu eczaneden yeni ilaçları almanız lazım.",
-  "english_example_sentence": "You need to take the new medicines from the pharmacy this weekend.",
-  "russian_example_sentence": "Тебе нужно взять новые лекарства из аптеки на этих выходных.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T12:04:49.882947+00:00",
-  "turkish_example_sentence_with_blank": "Sen bu hafta sonu eczaneden yeni ilaçları ______."
+  "turkish_example_sentence": "Sen bu önemli mektubu postahaneden alman lazım.",
+  "english_example_sentence": "You need to take this important letter from the post office.",
+  "russian_example_sentence": "Тебе нужно взять это важное письмо с почты.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T09:20:56.822089+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu önemli mektubu postahaneden ______."
 }

@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "düşünmeyeceğiz",
     "root": "düşün",
-    "tense_affix": "eceğ",
+    "tense_affix": "yeceğ",
     "verb_tense": "yaracağım",
     "personal_pronoun": "biz",
     "personal_affix": "iz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Biz bu zor finansal konuları düşünmeyeceğiz",
-  "english_example_sentence": "We will not think about these difficult financial matters",
-  "russian_example_sentence": "Мы не будем думать об этих сложных финансовых вопросах",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T12:00:01.205210+00:00",
-  "turkish_example_sentence_with_blank": "Biz bu zor finansal konuları ______"
+  "turkish_example_sentence": "Biz bu eski çözümü tekrar düşünmeyeceğiz.",
+  "english_example_sentence": "We will not think about this old solution again.",
+  "russian_example_sentence": "Мы не будем снова думать об этом старом решении.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:42:17.937242+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu eski çözümü tekrar ______."
 }

@@ -4,19 +4,19 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulamıyorsun",
+    "verb_full": "bulmuyorsun",
     "root": "bul",
     "tense_affix": "uyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "sun",
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "m"
   },
-  "turkish_example_sentence": "Sen okulda önemli mavi dosyayı bulamıyorsun.",
-  "english_example_sentence": "You are not finding the important blue folder at school.",
-  "russian_example_sentence": "Ты не находишь важную синюю папку в школе.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:31:07.552027+00:00",
-  "turkish_example_sentence_with_blank": "Sen okulda önemli mavi dosyayı ______."
+  "turkish_example_sentence": "Sen o eski haritada gizli hazineyi bulmuyorsun.",
+  "english_example_sentence": "You are not finding the secret treasure on that old map.",
+  "russian_example_sentence": "Ты не находишь секретный клад на той старой карте.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T09:26:16.097204+00:00",
+  "turkish_example_sentence_with_blank": "Sen o eski haritada gizli hazineyi ______."
 }

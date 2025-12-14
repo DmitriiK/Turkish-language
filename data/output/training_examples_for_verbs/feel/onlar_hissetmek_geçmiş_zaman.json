@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissettiler",
     "root": "hisset",
-    "tense_affix": "ti",
+    "tense_affix": "tiler",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They felt immense happiness when their team won the championship.",
-  "russian_example_sentence": "Они почувствовали огромное счастье, когда их команда выиграла чемпионат.",
-  "turkish_example_sentence": "Onlar takımları şampiyonluğu kazanınca çok büyük bir mutluluk hissettiler.",
-  "turkish_example_sentence_with_blank": "Onlar takımları şampiyonluğu kazanınca çok büyük bir mutluluk ______."
+  "turkish_example_sentence": "Onlar plajda sıcak güneşi hissettiler.",
+  "english_example_sentence": "They felt the warm sun on the beach.",
+  "russian_example_sentence": "Они почувствовали теплое солнце на пляже.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T09:00:38.758226+00:00",
+  "turkish_example_sentence_with_blank": "Onlar plajda sıcak güneşi ______."
 }

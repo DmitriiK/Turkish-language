@@ -4,19 +4,19 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmanız",
+    "verb_full": "yapmanız lazım",
     "root": "yap",
-    "tense_affix": "ma",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "manız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Siz bu resmi belgeyi imzalamadan önce dikkatli bir inceleme yapmanız lazım.",
-  "english_example_sentence": "You need to make a careful review before signing this official document.",
-  "russian_example_sentence": "Вам нужно сделать тщательный обзор перед подписанием этого официального документа.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T09:05:58.879967+00:00",
-  "turkish_example_sentence_with_blank": "Siz bu resmi belgeyi imzalamadan önce dikkatli bir inceleme ______ lazım."
+  "turkish_example_sentence": "Siz, bu görevi en iyi şekilde yapmanız lazım.",
+  "english_example_sentence": "You need to do this task in the best way.",
+  "russian_example_sentence": "Вам нужно выполнить эту задачу наилучшим образом.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:07:24.531142+00:00",
+  "turkish_example_sentence_with_blank": "Siz, bu görevi en iyi şekilde ______."
 }

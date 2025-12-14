@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissetmemişseniz",
     "root": "hisset",
-    "tense_affix": "mişse",
+    "tense_affix": "miş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "seniz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If you hadn't felt the biting wind.",
-  "russian_example_sentence": "Если бы вы не почувствовали пронизывающий ветер.",
-  "turkish_example_sentence": "Siz keskin rüzgarı hissetmemişseniz, kalın giyinmişsiniz demektir.",
-  "turkish_example_sentence_with_blank": "Siz keskin rüzgarı ______, kalın giyinmişsiniz demektir."
+  "turkish_example_sentence": "Siz o tatlı yorgunluğu hissetmemişseniz, dinlenmeye ihtiyacınız yoktu.",
+  "english_example_sentence": "If you had not felt that sweet tiredness, you wouldn't have needed rest.",
+  "russian_example_sentence": "Если бы вы не почувствовали ту приятную усталость, вам не нужен был бы отдых.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T15:07:57.119239+00:00",
+  "turkish_example_sentence_with_blank": "Siz o tatlı yorgunluğu ______, dinlenmeye ihtiyacınız yoktu."
 }

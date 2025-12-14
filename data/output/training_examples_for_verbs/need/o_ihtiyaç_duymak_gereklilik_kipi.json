@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "ihtiyaç duyması lazım",
     "root": "ihtiyaç duy",
-    "tense_affix": "lazım",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
     "personal_affix": "sı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He needs to call his distant family immediately.",
-  "russian_example_sentence": "Ему нужно немедленно позвонить своей далекой семье.",
-  "turkish_example_sentence": "O uzaklardaki ailesini hemen araması lazım.",
-  "turkish_example_sentence_with_blank": "O uzaklardaki ailesini hemen araması lazım."
+  "turkish_example_sentence": "O, sağlıklı bir kahvaltıya ihtiyaç duyması lazım.",
+  "english_example_sentence": "He/She needs a healthy breakfast.",
+  "russian_example_sentence": "Ему/Ей нужен здоровый завтрак.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:30:40.808877+00:00",
+  "turkish_example_sentence_with_blank": "O, sağlıklı bir kahvaltıya ______."
 }

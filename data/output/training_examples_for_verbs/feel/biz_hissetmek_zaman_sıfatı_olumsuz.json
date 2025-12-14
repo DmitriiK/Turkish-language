@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissetmediğimizde",
     "root": "hisset",
-    "tense_affix": "mediğ",
+    "tense_affix": "dik",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "biz",
-    "personal_affix": "imiz",
+    "personal_affix": "imizde",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "When we don't feel strong, we ask for help",
-  "russian_example_sentence": "Когда мы не чувствуем себя сильными, мы просим о помощи",
-  "turkish_example_sentence": "Biz güçlü hissetmediğimizde, yardım istiyoruz",
-  "turkish_example_sentence_with_blank": "Biz güçlü ______, yardım istiyoruz"
+  "turkish_example_sentence": "Biz gerçek bir güven hissetmediğimizde, adım atmayız.",
+  "english_example_sentence": "When we don't feel real trust, we don't take a step.",
+  "russian_example_sentence": "Когда мы не чувствуем настоящего доверия, мы не делаем шага.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T15:09:37.888445+00:00",
+  "turkish_example_sentence_with_blank": "Biz gerçek bir güven ______, adım atmayız."
 }

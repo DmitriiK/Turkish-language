@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yapmadınız",
     "root": "yap",
-    "tense_affix": "tı",
+    "tense_affix": "dı",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Siz bu yıl büyük bir yatırım yapmadınız.",
-  "english_example_sentence": "You did not make a large investment this year.",
-  "russian_example_sentence": "Вы не сделали крупные инвестиции в этом году.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T09:03:39.174204+00:00",
-  "turkish_example_sentence_with_blank": "Siz bu yıl büyük bir yatırım ______."
+  "turkish_example_sentence": "Siz bu konuda o zor kararı yapmadınız.",
+  "english_example_sentence": "You didn't make that difficult decision on this matter.",
+  "russian_example_sentence": "Вы не приняли то сложное решение по этому вопросу.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:02:18.426103+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu konuda o zor kararı ______."
 }

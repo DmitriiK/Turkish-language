@@ -4,19 +4,19 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gidememler",
+    "verb_full": "gidememezler",
     "root": "git",
-    "tense_affix": "ebil",
+    "tense_affix": "eme",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "zler",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": "m"
   },
-  "turkish_example_sentence": "Onlar bütçe kısıtlaması nedeniyle pahalı uluslararası konferansına gidememler.",
-  "english_example_sentence": "They cannot go to the expensive international conference due to budget constraints.",
-  "russian_example_sentence": "Они не могут поехать на дорогую международную конференцию из-за ограничений бюджета.",
+  "turkish_example_sentence": "Onlar yoğun iş programı nedeniyle uzak ülkeye gidememezler.",
+  "english_example_sentence": "They cannot go to the distant country due to their busy work schedule.",
+  "russian_example_sentence": "Они не могут пойти в далекую страну из-за их напряженного рабочего графика.",
   "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T08:53:00.662293+00:00",
-  "turkish_example_sentence_with_blank": "Onlar bütçe kısıtlaması nedeniyle pahalı uluslararası konferansına ______."
+  "generated_at": "2025-12-14T07:34:22.682535+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yoğun iş programı nedeniyle uzak ülkeye ______."
 }

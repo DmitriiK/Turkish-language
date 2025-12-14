@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissetmeniz lazım",
     "root": "hisset",
-    "tense_affix": "",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "meniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to feel the joy inside.",
-  "russian_example_sentence": "Вам нужно почувствовать радость внутри.",
-  "turkish_example_sentence": "Siz içinizdeki sevinci hissetmeniz lazım.",
-  "turkish_example_sentence_with_blank": "Siz içinizdeki sevinci ______."
+  "turkish_example_sentence": "Siz bu güzel müzikle huzur hissetmeniz lazım.",
+  "english_example_sentence": "You need to feel peace with this beautiful music.",
+  "russian_example_sentence": "Вам нужно почувствовать покой с этой прекрасной музыкой.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T13:09:21.913464+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu güzel müzikle huzur ______."
 }

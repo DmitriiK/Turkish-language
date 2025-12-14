@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "ihtiyaç duymamaları lazım",
     "root": "ihtiyaç duy",
-    "tense_affix": "lazım",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ları",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "They don't need to explain their complex decision again.",
-  "russian_example_sentence": "Им не нужно объяснять свое сложное решение снова.",
-  "turkish_example_sentence": "Onlar bu karmaşık kararlarını tekrar açıklamaları lazım.",
-  "turkish_example_sentence_with_blank": "Onlar bu karmaşık kararlarını tekrar açıklamaları lazım."
+  "turkish_example_sentence": "Onlar bu zorlu görev için ekstra desteğe ihtiyaç duymamaları lazım.",
+  "english_example_sentence": "They don't need extra support for this challenging task.",
+  "russian_example_sentence": "Им не нужна дополнительная поддержка для этой сложной задачи.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:30:40.808877+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu zorlu görev için ekstra desteğe ______."
 }

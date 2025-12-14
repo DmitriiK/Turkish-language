@@ -4,17 +4,19 @@
   "verb_russian": "чувствовать",
   "verb_infinitive": "hissetmek",
   "turkish_verb": {
-    "verb_full": "hissedememişiz",
-    "root": "hisse",
-    "tense_affix": "eme",
+    "verb_full": "hissedemeyiz",
+    "root": "hisset",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iriz",
+    "personal_affix": "yiz",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "eme"
   },
-  "english_example_sentence": "We cannot feel the tiny insect crawling slowly",
-  "russian_example_sentence": "Мы не можем почувствовать маленькое насекомое, ползущее медленно",
-  "turkish_example_sentence": "Biz yavaş hareket eden küçük böceği hissedememişiz",
-  "turkish_example_sentence_with_blank": "Biz yavaş hareket eden küçük böceği ______"
+  "turkish_example_sentence": "Biz bu şiddetli depremin sarsıntısını hissedemeyiz.",
+  "english_example_sentence": "We cannot feel the tremor of this violent earthquake.",
+  "russian_example_sentence": "Мы не можем чувствовать толчки этого сильного землетрясения.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T13:12:20.306171+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu şiddetli depremin sarsıntısını ______."
 }

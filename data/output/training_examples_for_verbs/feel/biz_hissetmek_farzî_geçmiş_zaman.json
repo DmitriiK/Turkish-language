@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissetmişsek",
     "root": "hisset",
-    "tense_affix": "mişse",
+    "tense_affix": "miş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "sek",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we had felt more confidence.",
-  "russian_example_sentence": "Если бы мы почувствовали больше уверенности.",
-  "turkish_example_sentence": "Biz daha fazla güven hissetmişsek, başarılı olurduk.",
-  "turkish_example_sentence_with_blank": "Biz daha fazla güven ______, başarılı olurduk."
+  "turkish_example_sentence": "Biz o samimi ilgiyi hissetmişsek, ona hemen güvenirdik.",
+  "english_example_sentence": "If we had felt that sincere interest, we would have trusted him/her immediately.",
+  "russian_example_sentence": "Если бы мы почувствовали тот искренний интерес, мы бы сразу ему/ей доверились.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T15:07:57.119239+00:00",
+  "turkish_example_sentence_with_blank": "Biz o samimi ilgiyi ______, ona hemen güvenirdik."
 }

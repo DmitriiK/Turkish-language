@@ -5,7 +5,7 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duyuyorsunuz",
-    "root": "duyu",
+    "root": "ihtiyaç duy",
     "tense_affix": "uyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "siz",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need professional advice for this project",
-  "russian_example_sentence": "Вам нужен профессиональный совет для этого проекта",
-  "turkish_example_sentence": "Siz bu proje için profesyonel tavsiyeye ihtiyaç duyuyorsunuz",
-  "turkish_example_sentence_with_blank": "Siz bu proje için profesyonel tavsiyeye ______"
+  "turkish_example_sentence": "Siz bu yeni şehirde güvenli bir haritaya ihtiyaç duyuyorsunuz.",
+  "english_example_sentence": "You are needing a reliable map in this new city.",
+  "russian_example_sentence": "Вам нужна надежная карта в этом новом городе.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:25:20.416365+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu yeni şehirde güvenli bir haritaya ______."
 }

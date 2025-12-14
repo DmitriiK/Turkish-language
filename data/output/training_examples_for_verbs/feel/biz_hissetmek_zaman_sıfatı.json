@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissettiğimizde",
     "root": "hisset",
-    "tense_affix": "tiğ",
+    "tense_affix": "tik",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "biz",
-    "personal_affix": "imiz",
+    "personal_affix": "imizde",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When we feel grateful, we give thanks",
-  "russian_example_sentence": "Когда мы чувствуем благодарность, мы благодарим",
-  "turkish_example_sentence": "Biz minnettar hissettiğimizde, teşekkür ediyoruz",
-  "turkish_example_sentence_with_blank": "Biz minnettar ______, teşekkür ediyoruz"
+  "turkish_example_sentence": "Biz yoğun bir stres hissettiğimizde, doğada yürüyüş yaparız.",
+  "english_example_sentence": "When we feel intense stress, we take a walk in nature.",
+  "russian_example_sentence": "Когда мы чувствуем сильный стресс, мы гуляем на природе.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T15:09:37.888445+00:00",
+  "turkish_example_sentence_with_blank": "Biz yoğun bir stres ______, doğada yürüyüş yaparız."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "ihtiyaç duyamazlar",
     "root": "duy",
-    "tense_affix": "yamaz",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
-    "negative_affix": null
+    "negative_affix": "yama"
   },
-  "english_example_sentence": "They cannot need a quiet place for concentration.",
-  "russian_example_sentence": "Им не нужно тихое место для концентрации.",
-  "turkish_example_sentence": "Onlar konsantrasyon için sessiz bir yere ihtiyaç duyamazlar.",
-  "turkish_example_sentence_with_blank": "Onlar konsantrasyon için sessiz bir yere ______."
+  "turkish_example_sentence": "Onlar bu kötü durumda yabancı birinin yardımına ihtiyaç duyamazlar.",
+  "english_example_sentence": "They cannot need a stranger's help in this bad situation.",
+  "russian_example_sentence": "Им не может понадобиться помощь незнакомца в этой плохой ситуации.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:32:11.346954+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu kötü durumda yabancı birinin yardımına ______."
 }

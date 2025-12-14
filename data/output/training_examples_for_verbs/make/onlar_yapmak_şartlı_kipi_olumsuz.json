@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yapmazlarsa",
     "root": "yap",
-    "tense_affix": "maz",
+    "tense_affix": "sa",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "turkish_example_sentence": "Onlar ciddi bir çaba yapmazlarsa, proje başarısız olacaktır.",
-  "english_example_sentence": "If they do not make a serious effort, the project will fail.",
-  "russian_example_sentence": "Если они не приложат серьёзные усилия, проект потерпит неудачу.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T09:07:12.100872+00:00",
-  "turkish_example_sentence_with_blank": "Onlar ciddi bir çaba ______, proje başarısız olacaktır."
+  "turkish_example_sentence": "Onlar yeni bir anlaşma yapmazlarsa, sorunlar devam eder.",
+  "english_example_sentence": "If they don't make a new agreement, the problems will continue.",
+  "russian_example_sentence": "Если они не заключат новое соглашение, проблемы продолжатся.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:09:58.982577+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yeni bir anlaşma ______, sorunlar devam eder."
 }

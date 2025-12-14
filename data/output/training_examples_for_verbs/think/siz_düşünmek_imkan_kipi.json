@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "düşünebilirsiniz",
     "root": "düşün",
-    "tense_affix": "ebil",
+    "tense_affix": "ebilir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "irsiniz",
+    "personal_affix": "siniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Siz bu yaratıcı tasarım çözümünü düşünebilirsiniz.",
-  "english_example_sentence": "You can think about this creative design solution.",
-  "russian_example_sentence": "Вы можете думать об этом творческом решении дизайна.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T11:57:55.651230+00:00",
-  "turkish_example_sentence_with_blank": "Siz bu yaratıcı tasarım çözümünü ______."
+  "turkish_example_sentence": "Siz, bu zor kararı sakin bir ortamda düşünebilirsiniz.",
+  "english_example_sentence": "You can think about this difficult decision in a calm environment.",
+  "russian_example_sentence": "Вы можете обдумать это трудное решение в спокойной обстановке.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:50:41.039735+00:00",
+  "turkish_example_sentence_with_blank": "Siz, bu zor kararı sakin bir ortamda ______."
 }

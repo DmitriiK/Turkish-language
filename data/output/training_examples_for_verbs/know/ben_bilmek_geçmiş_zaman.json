@@ -4,7 +4,7 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bildum",
+    "verb_full": "bildim",
     "root": "bil",
     "tense_affix": "di",
     "verb_tense": "geçmiş_zaman",
@@ -13,10 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Ben dün akşam o güzel şarkıyı bildum.",
-  "english_example_sentence": "I knew that beautiful song yesterday evening.",
-  "russian_example_sentence": "Я знал ту красивую песню вчера вечером.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T09:12:48.653058+00:00",
-  "turkish_example_sentence_with_blank": "Ben dün akşam o güzel şarkıyı ______."
+  "turkish_example_sentence": "Ben bu eski hikayeyi dün tam olarak bildim.",
+  "english_example_sentence": "I knew this old story completely yesterday.",
+  "russian_example_sentence": "Я полностью знал эту старую историю вчера.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:26:10.943618+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu eski hikayeyi dün tam olarak ______."
 }

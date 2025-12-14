@@ -4,19 +4,19 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmasınlar",
+    "verb_full": "yapmayalar",
     "root": "yap",
-    "tense_affix": "a",
+    "tense_affix": "ya",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Onlar bu tehlikeli deney yapmasınlar, çok riskli.",
-  "english_example_sentence": "Let them not make this dangerous experiment, it is very risky.",
-  "russian_example_sentence": "Пусть они не делают этот опасный эксперимент, это очень рискованно.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T09:05:08.448662+00:00",
-  "turkish_example_sentence_with_blank": "Onlar bu tehlikeli deney ______, çok riskli."
+  "turkish_example_sentence": "Onlar başkalarına karşı kötü muamele yapmayalar.",
+  "english_example_sentence": "May they not inflict bad treatment on others.",
+  "russian_example_sentence": "Пусть они не обращаются плохо с другими.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:05:00.152757+00:00",
+  "turkish_example_sentence_with_blank": "Onlar başkalarına karşı kötü muamele ______."
 }

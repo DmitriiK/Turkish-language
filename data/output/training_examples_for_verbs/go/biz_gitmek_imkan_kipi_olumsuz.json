@@ -4,19 +4,19 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gidememiz",
+    "verb_full": "gidememeyiz",
     "root": "git",
-    "tense_affix": "ebil",
+    "tense_affix": "eme",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iriz",
+    "personal_affix": "yiz",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": "m"
   },
-  "turkish_example_sentence": "Biz kötü hava koşulları sebebiyle dağ tırmanışına gidememiz.",
-  "english_example_sentence": "We cannot go mountain climbing due to bad weather conditions.",
-  "russian_example_sentence": "Мы не можем пойти в горный поход из-за плохих погодных условий.",
+  "turkish_example_sentence": "Biz mali sorunlar nedeniyle lüks otele gidememeyiz.",
+  "english_example_sentence": "We cannot go to the luxury hotel due to financial problems.",
+  "russian_example_sentence": "Мы не можем пойти в роскошный отель из-за финансовых проблем.",
   "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T08:53:00.662293+00:00",
-  "turkish_example_sentence_with_blank": "Biz kötü hava koşulları sebebiyle dağ tırmanışına ______."
+  "generated_at": "2025-12-14T07:34:22.682535+00:00",
+  "turkish_example_sentence_with_blank": "Biz mali sorunlar nedeniyle lüks otele ______."
 }

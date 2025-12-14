@@ -4,19 +4,19 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulamıyoruz",
+    "verb_full": "bulmuyoruz",
     "root": "bul",
     "tense_affix": "uyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "uz",
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "m"
   },
-  "turkish_example_sentence": "Biz şehirde ucuz iyi oteli bulamıyoruz.",
-  "english_example_sentence": "We are not finding the cheap good hotel in the city.",
-  "russian_example_sentence": "Мы не находим дешёвый хороший отель в городе.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:31:07.552027+00:00",
-  "turkish_example_sentence_with_blank": "Biz şehirde ucuz iyi oteli ______."
+  "turkish_example_sentence": "Biz bu zorlu soruna mantıklı bir cevap bulmuyoruz.",
+  "english_example_sentence": "We are not finding a logical answer to this difficult problem.",
+  "russian_example_sentence": "Мы не находим логичного ответа на эту сложную проблему.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T09:26:16.097204+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu zorlu soruna mantıklı bir cevap ______."
 }

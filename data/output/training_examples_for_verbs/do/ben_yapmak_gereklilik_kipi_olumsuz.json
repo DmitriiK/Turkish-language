@@ -4,7 +4,7 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmamam",
+    "verb_full": "yapmaması",
     "root": "yap",
     "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
@@ -13,10 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Ben bu hatalı işi yapmamam lazım.",
-  "english_example_sentence": "I need to not do this wrong work.",
-  "russian_example_sentence": "Мне нужно не делать эту неправильную работу.",
+  "turkish_example_sentence": "Ben bu hatalı kararı yapmaması gerek çok önemli.",
+  "english_example_sentence": "I need to not do this wrong decision very important.",
+  "russian_example_sentence": "Мне нужно не делать это неправильное решение очень важно.",
   "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-08T07:22:00.956255+00:00",
-  "turkish_example_sentence_with_blank": "Ben bu hatalı işi ______ lazım."
+  "generated_at": "2025-12-14T07:19:55.874528+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu hatalı kararı ______ gerek çok önemli."
 }

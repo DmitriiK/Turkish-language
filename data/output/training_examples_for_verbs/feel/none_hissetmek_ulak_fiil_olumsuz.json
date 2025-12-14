@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissetmeyip",
     "root": "hisset",
-    "tense_affix": "ip",
+    "tense_affix": "yip",
     "verb_tense": "ulak_fiil",
     "personal_pronoun": null,
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "Not feeling well, she stayed in bed",
-  "russian_example_sentence": "Не чувствуя себя хорошо, она осталась в постели",
-  "turkish_example_sentence": "İyi hissetmeyip yatakta kaldı",
-  "turkish_example_sentence_with_blank": "İyi ______ yatakta kaldı"
+  "turkish_example_sentence": "Hiçbir acı hissetmeyip koşmaya devam etti.",
+  "english_example_sentence": "Without feeling any pain, he continued to run.",
+  "russian_example_sentence": "Не чувствуя никакой боли, он продолжал бежать.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T15:08:55.414077+00:00",
+  "turkish_example_sentence_with_blank": "Hiçbir acı ______ koşmaya devam etti."
 }

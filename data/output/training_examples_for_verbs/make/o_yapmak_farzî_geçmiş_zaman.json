@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yapmışsa",
     "root": "yap",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "sa",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "O çalışkan öğrenci tüm ev ödevini yapmışsa, sınıfta başarılı olacaktır.",
-  "english_example_sentence": "If that diligent student had made all the homework, he would succeed in class.",
-  "russian_example_sentence": "Если тот прилежный студент выполнил всю домашнюю работу, он будет успешен в классе.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T09:07:50.910335+00:00",
-  "turkish_example_sentence_with_blank": "O çalışkan öğrenci tüm ev ödevini ______, sınıfta başarılı olacaktır."
+  "turkish_example_sentence": "O daha iyi bir seçim yapmışsa, şimdi mutlu bir hayatı olurdu.",
+  "english_example_sentence": "If he/she had made a better choice, he/she would have a happy life now.",
+  "russian_example_sentence": "Если бы он/она сделал(а) лучший выбор, у него/нее сейчас была бы счастливая жизнь.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:11:07.969865+00:00",
+  "turkish_example_sentence_with_blank": "O daha iyi bir seçim ______, şimdi mutlu bir hayatı olurdu."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissetmediklerinde",
     "root": "hisset",
-    "tense_affix": "medikler",
+    "tense_affix": "dik",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "onlar",
-    "personal_affix": "i",
+    "personal_affix": "lerinde",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "When they don't feel appreciated, they express it",
-  "russian_example_sentence": "Когда они не чувствуют признательности, они выражают это",
-  "turkish_example_sentence": "Onlar takdir edilmemiş hissetmediklerinde, bunu ifade ediyorlar",
-  "turkish_example_sentence_with_blank": "Onlar takdir edilmemiş ______, bunu ifade ediyorlar"
+  "turkish_example_sentence": "Onlar fiziksel bir ağrı hissetmediklerinde, antremana devam ederler.",
+  "english_example_sentence": "When they don't feel physical pain, they continue training.",
+  "russian_example_sentence": "Когда они не чувствуют физической боли, они продолжают тренировку.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T15:09:37.888445+00:00",
+  "turkish_example_sentence_with_blank": "Onlar fiziksel bir ağrı ______, antremana devam ederler."
 }

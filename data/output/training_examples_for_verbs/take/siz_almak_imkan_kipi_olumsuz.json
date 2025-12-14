@@ -4,19 +4,19 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "alamazssiniz",
+    "verb_full": "alamazsınız",
     "root": "al",
-    "tense_affix": "abil",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "irsiniz",
+    "personal_affix": "sınız",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "turkish_example_sentence": "Siz bu gizli belgeleri ofisten alamazssiniz.",
-  "english_example_sentence": "You cannot take these secret documents from the office.",
-  "russian_example_sentence": "Вы не можете взять эти секретные документы из офиса.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T12:03:33.964900+00:00",
-  "turkish_example_sentence_with_blank": "Siz bu gizli belgeleri ofisten ______."
+  "turkish_example_sentence": "Siz bu hassas eşyayı dikkatli olmadan alamazsınız.",
+  "english_example_sentence": "You cannot take this delicate item without being careful.",
+  "russian_example_sentence": "Вы не можете взять этот хрупкий предмет, не будучи осторожным.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T09:11:13.236956+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu hassas eşyayı dikkatli olmadan ______."
 }

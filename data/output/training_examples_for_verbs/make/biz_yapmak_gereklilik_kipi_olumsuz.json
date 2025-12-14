@@ -4,19 +4,19 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmamamız",
+    "verb_full": "yapmamamız lazım",
     "root": "yap",
-    "tense_affix": "ma",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "mız",
+    "personal_affix": "mamız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Biz bu hassas konuda hiçbir yanlış açıklama yapmamamız gerek.",
-  "english_example_sentence": "We must not make any wrong statement about this sensitive issue.",
-  "russian_example_sentence": "Мы не должны делать никаких неправильных заявлений по этому чувствительному вопросу.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T09:05:58.879967+00:00",
-  "turkish_example_sentence_with_blank": "Biz bu hassas konuda hiçbir yanlış açıklama ______ gerek."
+  "turkish_example_sentence": "Biz, bu tür hataları bir daha yapmamamız lazım.",
+  "english_example_sentence": "We shouldn't make these kinds of mistakes again.",
+  "russian_example_sentence": "Нам не следует снова совершать такие ошибки.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:07:24.531142+00:00",
+  "turkish_example_sentence_with_blank": "Biz, bu tür hataları bir daha ______."
 }

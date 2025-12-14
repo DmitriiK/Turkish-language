@@ -4,19 +4,19 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilmen",
+    "verb_full": "bilmen lazım",
     "root": "bil",
-    "tense_affix": "",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "men",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Sen bu önemli İngilizce kelimeleri bilmen gerek.",
-  "english_example_sentence": "You need to know these important English words.",
-  "russian_example_sentence": "Тебе нужно знать эти важные английские слова.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T09:11:35.794699+00:00",
-  "turkish_example_sentence_with_blank": "Sen bu önemli İngilizce kelimeleri ______ gerek."
+  "turkish_example_sentence": "Sen bu karmaşık konuyu detaylı bilmen lazım.",
+  "english_example_sentence": "You need to know this complex subject in detail.",
+  "russian_example_sentence": "Тебе нужно знать эту сложную тему подробно.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:29:43.009727+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu karmaşık konuyu detaylı ______."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissetmeyeler",
     "root": "hisset",
-    "tense_affix": "e",
+    "tense_affix": "ye",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "May they not feel ashamed of failure.",
-  "russian_example_sentence": "Пусть они не чувствуют стыда за провал.",
-  "turkish_example_sentence": "Onlar başarısızlık yüzünden hissetmeyeler.",
-  "turkish_example_sentence_with_blank": "Onlar başarısızlık yüzünden ______."
+  "turkish_example_sentence": "Onlar bu kötü niyetli düşünceleri asla hissetmeyeler.",
+  "english_example_sentence": "May they never feel these ill-intentioned thoughts.",
+  "russian_example_sentence": "Пусть они никогда не почувствуют эти злые мысли.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T14:57:18.820309+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu kötü niyetli düşünceleri asla ______."
 }

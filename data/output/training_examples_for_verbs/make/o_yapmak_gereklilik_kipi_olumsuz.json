@@ -4,19 +4,19 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmaması",
+    "verb_full": "yapmaması lazım",
     "root": "yap",
-    "tense_affix": "ma",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "sı",
+    "personal_affix": "ması",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "O çalışkan öğrenci sınav sırasında kopya yapmaması gerek.",
-  "english_example_sentence": "That diligent student must not make cheating during the exam.",
-  "russian_example_sentence": "Этот прилежный студент не должен делать списывание во время экзамена.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T09:05:58.879967+00:00",
-  "turkish_example_sentence_with_blank": "O çalışkan öğrenci sınav sırasında kopya ______ gerek."
+  "turkish_example_sentence": "O, bu önemli kararı tek başına aceleyle yapmaması lazım.",
+  "english_example_sentence": "He shouldn't make this important decision alone in a hurry.",
+  "russian_example_sentence": "Ему не следует принимать это важное решение в спешке в одиночку.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:07:24.531142+00:00",
+  "turkish_example_sentence_with_blank": "O, bu önemli kararı tek başına aceleyle ______."
 }

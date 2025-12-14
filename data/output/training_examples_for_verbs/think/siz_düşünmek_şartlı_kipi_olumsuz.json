@@ -4,19 +4,19 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmezseiniz",
+    "verb_full": "düşünmezseniz",
     "root": "düşün",
-    "tense_affix": "mezse",
+    "tense_affix": "se",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "niz",
     "polarity": "negative",
     "negative_affix": "mez"
   },
-  "turkish_example_sentence": "Siz sağlıklı yaşam alışkanlıklarının önemini düşünmezseiniz, hastalık riski artar.",
-  "english_example_sentence": "If you don't think about the importance of healthy lifestyle habits, the risk of illness increases.",
-  "russian_example_sentence": "Если вы не подумаете о важности привычек здорового образа жизни, риск заболевания увеличится.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T11:59:27.571483+00:00",
-  "turkish_example_sentence_with_blank": "Siz sağlıklı yaşam alışkanlıklarının önemini ______, hastalık riski artar."
+  "turkish_example_sentence": "Siz bu acil durumu yeterince düşünmezseniz, büyük sorunlar yaşanabilir.",
+  "english_example_sentence": "If you don't think enough about this urgent situation, big problems can occur.",
+  "russian_example_sentence": "Если вы недостаточно подумаете об этой срочной ситуации, могут возникнуть большие проблемы.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:52:08.756474+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu acil durumu yeterince ______, büyük sorunlar yaşanabilir."
 }

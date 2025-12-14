@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "alacağız",
     "root": "al",
-    "tense_affix": "acağ",
+    "tense_affix": "acak",
     "verb_tense": "yaracağım",
     "personal_pronoun": "biz",
     "personal_affix": "ız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Biz bu yaz güzel bir uzun tatili alacağız.",
-  "english_example_sentence": "We will take a beautiful long vacation this summer.",
-  "russian_example_sentence": "Мы возьмем красивый длинный отпуск этим летом.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T12:02:42.906012+00:00",
-  "turkish_example_sentence_with_blank": "Biz bu yaz güzel bir uzun tatili ______."
+  "turkish_example_sentence": "Biz, gelecek ay büyük bir ev alacağız.",
+  "english_example_sentence": "We will buy a big house next month.",
+  "russian_example_sentence": "Мы купим большой дом в следующем месяце.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T09:07:25.255523+00:00",
+  "turkish_example_sentence_with_blank": "Biz, gelecek ay büyük bir ev ______."
 }

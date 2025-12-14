@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissederler",
     "root": "hisset",
-    "tense_affix": "er",
+    "tense_affix": "der",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They usually feel excited about new projects.",
-  "russian_example_sentence": "Они обычно чувствуют волнение по поводу новых проектов.",
-  "turkish_example_sentence": "Onlar yeni projeler için genellikle heyecan hissederler.",
-  "turkish_example_sentence_with_blank": "Onlar yeni projeler için genellikle heyecan ______."
+  "turkish_example_sentence": "Onlar her zaman sıcak bir dostluk hissederler.",
+  "english_example_sentence": "They always feel a warm friendship.",
+  "russian_example_sentence": "Они всегда чувствуют теплую дружбу.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T09:04:42.852373+00:00",
+  "turkish_example_sentence_with_blank": "Onlar her zaman sıcak bir dostluk ______."
 }

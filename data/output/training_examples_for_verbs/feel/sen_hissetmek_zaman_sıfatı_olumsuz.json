@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissetmediğinde",
     "root": "hisset",
-    "tense_affix": "mediğ",
+    "tense_affix": "dik",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "sen",
-    "personal_affix": "in",
+    "personal_affix": "inde",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "When you don't feel motivated, try something new",
-  "russian_example_sentence": "Когда ты не чувствуешь мотивации, попробуй что-нибудь новое",
-  "turkish_example_sentence": "Sen motive hissetmediğinde, yeni bir şey dene",
-  "turkish_example_sentence_with_blank": "Sen motive ______, yeni bir şey dene"
+  "turkish_example_sentence": "Sen yeterli bir destek hissetmediğinde, cesaretin kırılır.",
+  "english_example_sentence": "When you don't feel enough support, your courage breaks.",
+  "russian_example_sentence": "Когда ты не чувствуешь достаточной поддержки, твой дух падает.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T15:09:37.888445+00:00",
+  "turkish_example_sentence_with_blank": "Sen yeterli bir destek ______, cesaretin kırılır."
 }

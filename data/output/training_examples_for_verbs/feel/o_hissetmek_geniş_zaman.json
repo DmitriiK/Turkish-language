@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hisseder",
     "root": "hisset",
-    "tense_affix": "er",
+    "tense_affix": "der",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He often feels nervous before important exams.",
-  "russian_example_sentence": "Он часто нервничает перед важными экзаменами.",
-  "turkish_example_sentence": "O önemli sınavlar öncesinde sık sık gergin hisseder.",
-  "turkish_example_sentence_with_blank": "O önemli sınavlar öncesinde sık sık gergin ______."
+  "turkish_example_sentence": "O genellikle hafif bir rüzgar hisseder.",
+  "english_example_sentence": "He/She usually feels a light breeze.",
+  "russian_example_sentence": "Он/Она обычно чувствует легкий ветерок.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T09:04:42.852373+00:00",
+  "turkish_example_sentence_with_blank": "O genellikle hafif bir rüzgar ______."
 }

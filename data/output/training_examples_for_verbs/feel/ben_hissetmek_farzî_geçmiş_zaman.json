@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissetmişsem",
     "root": "hisset",
-    "tense_affix": "mişse",
+    "tense_affix": "miş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "sem",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I had felt that way then.",
-  "russian_example_sentence": "Если бы я тогда так чувствовал.",
-  "turkish_example_sentence": "Ben o zaman öyle hissetmişsem, hata yapmışım.",
-  "turkish_example_sentence_with_blank": "Ben o zaman öyle ______, hata yapmışım."
+  "turkish_example_sentence": "Ben o keskin rüzgarı hissetmişsem, daha kalın bir palto giyerdim.",
+  "english_example_sentence": "If I had felt that sharp wind, I would have worn a thicker coat.",
+  "russian_example_sentence": "Если бы я почувствовал тот резкий ветер, я бы надел более толстое пальто.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T15:07:57.119239+00:00",
+  "turkish_example_sentence_with_blank": "Ben o keskin rüzgarı ______, daha kalın bir palto giyerdim."
 }

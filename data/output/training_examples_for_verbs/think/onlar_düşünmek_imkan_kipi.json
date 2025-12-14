@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "düşünebilirler",
     "root": "düşün",
-    "tense_affix": "ebil",
+    "tense_affix": "ebilir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Onlar bu yeni teknolojik gelişme hakkında düşünebilirler.",
-  "english_example_sentence": "They can think about this new technological development.",
-  "russian_example_sentence": "Они могут думать об этом новом технологическом развитии.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T11:57:55.651230+00:00",
-  "turkish_example_sentence_with_blank": "Onlar bu yeni teknolojik gelişme hakkında ______."
+  "turkish_example_sentence": "Onlar, tatil rotası için çeşitli seçenekleri düşünebilirler.",
+  "english_example_sentence": "They can think about various options for the vacation route.",
+  "russian_example_sentence": "Они могут рассмотреть различные варианты маршрута для отпуска.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:50:41.039735+00:00",
+  "turkish_example_sentence_with_blank": "Onlar, tatil rotası için çeşitli seçenekleri ______."
 }

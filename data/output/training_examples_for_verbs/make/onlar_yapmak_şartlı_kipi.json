@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yaparlarsa",
     "root": "yap",
-    "tense_affix": "ar",
+    "tense_affix": "arsa",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Onlar iyi bir koordinasyon yaparlarsa, turnuvada kazanabilirler.",
-  "english_example_sentence": "If they make good coordination, they can win in the tournament.",
-  "russian_example_sentence": "Если они обеспечат хорошую координацию, они смогут выиграть турнир.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T09:07:12.100872+00:00",
-  "turkish_example_sentence_with_blank": "Onlar iyi bir koordinasyon ______, turnuvada kazanabilirler."
+  "turkish_example_sentence": "Onlar büyük bir jest yaparlarsa, herkes onları takdir eder.",
+  "english_example_sentence": "If they make a grand gesture, everyone will appreciate them.",
+  "russian_example_sentence": "Если они сделают большой жест, все их оценят.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:09:58.982577+00:00",
+  "turkish_example_sentence_with_blank": "Onlar büyük bir jest ______, herkes onları takdir eder."
 }

@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "almayacaklar",
     "root": "al",
-    "tense_affix": "acağ",
+    "tense_affix": "yacak",
     "verb_tense": "yaracağım",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Onlar asla bu soğuk ve karanlık odayı almayacaklar.",
-  "english_example_sentence": "They will never take this cold and dark room.",
-  "russian_example_sentence": "Они никогда не возьмут эту холодную и темную комнату.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T12:02:42.906012+00:00",
-  "turkish_example_sentence_with_blank": "Onlar asla bu soğuk ve karanlık odayı ______."
+  "turkish_example_sentence": "Onlar, bu pahalı arabayı şimdi almayacaklar.",
+  "english_example_sentence": "They will not buy this expensive car now.",
+  "russian_example_sentence": "Они не купят эту дорогую машину сейчас.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T09:07:25.255523+00:00",
+  "turkish_example_sentence_with_blank": "Onlar, bu pahalı arabayı şimdi ______."
 }

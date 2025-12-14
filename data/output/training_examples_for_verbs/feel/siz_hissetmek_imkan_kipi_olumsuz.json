@@ -4,17 +4,19 @@
   "verb_russian": "чувствовать",
   "verb_infinitive": "hissetmek",
   "turkish_verb": {
-    "verb_full": "hissedememişsiniz",
-    "root": "hisse",
-    "tense_affix": "eme",
+    "verb_full": "hissedemezsiniz",
+    "root": "hisset",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "irsiniz",
+    "personal_affix": "siniz",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "emez"
   },
-  "english_example_sentence": "You cannot feel the delicate silk ribbon texture",
-  "russian_example_sentence": "Вы не можете почувствовать текстуру нежной шелковой ленты",
-  "turkish_example_sentence": "Siz hassas ipek şerit dokusunu hissedememişsiniz",
-  "turkish_example_sentence_with_blank": "Siz hassas ipek şerit dokusunu ______"
+  "turkish_example_sentence": "Siz bu önemli kararın sonuçlarını hissedemezsiniz.",
+  "english_example_sentence": "You (plural/formal) cannot feel the consequences of this important decision.",
+  "russian_example_sentence": "Вы не можете чувствовать последствия этого важного решения.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T13:12:20.306171+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu önemli kararın sonuçlarını ______."
 }

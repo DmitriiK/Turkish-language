@@ -4,17 +4,19 @@
   "verb_russian": "нуждаться",
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
-    "verb_full": "ihtiyaç duymasın",
-    "root": "ihtiyaç duy",
-    "tense_affix": "masa",
+    "verb_full": "ihtiyaç duymasan",
+    "root": "duy",
+    "tense_affix": "sa",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If you didn’t need time, you could go with them",
-  "russian_example_sentence": "Если бы тебе не нужно было времени, ты бы пошел с ними",
-  "turkish_example_sentence": "Zamana ihtiyaç duymasın, onlarla gidebilirsin",
-  "turkish_example_sentence_with_blank": "Zamana ______, onlarla gidebilirsin"
+  "turkish_example_sentence": "Sen yeni kıyafetlere ihtiyaç duymasan, neden alışveriş yapıyorsun?",
+  "english_example_sentence": "If you didn't need new clothes, why are you shopping?",
+  "russian_example_sentence": "Если бы тебе не нужна была новая одежда, почему ты делаешь покупки?",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:29:56.590821+00:00",
+  "turkish_example_sentence_with_blank": "Sen yeni kıyafetlere ______, neden alışveriş yapıyorsun?"
 }

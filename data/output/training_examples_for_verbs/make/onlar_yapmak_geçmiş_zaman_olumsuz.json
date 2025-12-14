@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yapmadılar",
     "root": "yap",
-    "tense_affix": "tı",
+    "tense_affix": "dı",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Onlar bu ay hiçbir hata yapmadılar.",
-  "english_example_sentence": "They did not make any mistakes this month.",
-  "russian_example_sentence": "Они не допустили никаких ошибок в этом месяце.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T09:03:39.174204+00:00",
-  "turkish_example_sentence_with_blank": "Onlar bu ay hiçbir hata ______."
+  "turkish_example_sentence": "Onlar bu olayda kesinlikle yanlış bir şey yapmadılar.",
+  "english_example_sentence": "They definitely didn't do anything wrong in this incident.",
+  "russian_example_sentence": "Они определенно не сделали ничего плохого в этом инциденте.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:02:18.426103+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu olayda kesinlikle yanlış bir şey ______."
 }

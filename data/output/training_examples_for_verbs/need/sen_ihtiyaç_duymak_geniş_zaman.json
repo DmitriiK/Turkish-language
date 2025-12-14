@@ -4,8 +4,8 @@
   "verb_russian": "нуждаться",
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
-    "verb_full": "ihtiyaç duyarsın",
-    "root": "duymak",
+    "verb_full": "duyarsın",
+    "root": "duy",
     "tense_affix": "ar",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need strong coffee in the afternoon",
-  "russian_example_sentence": "Тебе нужен крепкий кофе днём",
-  "turkish_example_sentence": "Sen öğleden sonra güçlü kahve ihtiyaç duyarsın",
-  "turkish_example_sentence_with_blank": "Sen öğleden sonra güçlü kahve ______"
+  "turkish_example_sentence": "Sen sıcak bir çorbaya acil ihtiyaç duyarsın.",
+  "english_example_sentence": "You urgently need a hot soup.",
+  "russian_example_sentence": "Тебе срочно нужен горячий суп.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:28:18.633508+00:00",
+  "turkish_example_sentence_with_blank": "Sen sıcak bir çorbaya acil ihtiyaç ______."
 }

@@ -4,7 +4,7 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmen",
+    "verb_full": "gitmemen",
     "root": "git",
     "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
@@ -13,10 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Sen bu gece eğlence mekanına gitmen lazım değil.",
-  "english_example_sentence": "You don't need to go to the entertainment venue tonight.",
-  "russian_example_sentence": "Тебе не нужно идти в развлекательное заведение сегодня ночью.",
+  "turkish_example_sentence": "Sen bu gece soğuk kütüphaneye gitmemen lazım.",
+  "english_example_sentence": "You don't need to go to the cold library tonight.",
+  "russian_example_sentence": "Тебе не нужно идти в холодную библиотеку сегодня ночью.",
   "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T08:52:39.982434+00:00",
-  "turkish_example_sentence_with_blank": "Sen bu gece eğlence mekanına ______ lazım değil."
+  "generated_at": "2025-12-14T07:34:01.835104+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu gece soğuk kütüphaneye ______ lazım."
 }

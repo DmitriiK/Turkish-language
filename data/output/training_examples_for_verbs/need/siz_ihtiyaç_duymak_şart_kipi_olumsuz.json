@@ -5,16 +5,18 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duymasanız",
-    "root": "ihtiyaç duy",
-    "tense_affix": "masa",
+    "root": "duy",
+    "tense_affix": "sa",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If you didn’t need our help, you wouldn’t call us",
-  "russian_example_sentence": "Если бы вам не понадобилась наша помощь, вы бы нам не звонили",
-  "turkish_example_sentence": "Bizim yardımımıza ihtiyaç duymasanız bizi aramazdınız",
-  "turkish_example_sentence_with_blank": "Bizim yardımımıza ______ bizi aramazdınız"
+  "turkish_example_sentence": "Siz biraz dinlenmeye ihtiyaç duymasanız, çalışmaya devam edebilirsiniz.",
+  "english_example_sentence": "If you didn't need some rest, you could continue working.",
+  "russian_example_sentence": "Если бы вам не нужен был отдых, вы могли бы продолжить работать.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:29:56.590821+00:00",
+  "turkish_example_sentence_with_blank": "Siz biraz dinlenmeye ______, çalışmaya devam edebilirsiniz."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissetmişlerse",
     "root": "hisset",
-    "tense_affix": "mişlerse",
+    "tense_affix": "miş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "ler",
+    "personal_affix": "lerse",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they had felt the weight of responsibility.",
-  "russian_example_sentence": "Если бы они почувствовали тяжесть ответственности.",
-  "turkish_example_sentence": "Onlar sorumluluğun ağırlığını hissetmişlerse, farklı davranırlardı.",
-  "turkish_example_sentence_with_blank": "Onlar sorumluluğun ağırlığını ______, farklı davranırlardı."
+  "turkish_example_sentence": "Onlar o yoğun stresi hissetmişlerse, performansları düşerdi.",
+  "english_example_sentence": "If they had felt that intense stress, their performance would have dropped.",
+  "russian_example_sentence": "Если бы они почувствовали тот сильный стресс, их производительность упала бы.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T15:07:57.119239+00:00",
+  "turkish_example_sentence_with_blank": "Onlar o yoğun stresi ______, performansları düşerdi."
 }

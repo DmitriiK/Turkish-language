@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yapamaz",
     "root": "yap",
-    "tense_affix": "abil",
+    "tense_affix": "a",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "ir",
+    "personal_affix": "z",
     "polarity": "negative",
-    "negative_affix": "ama"
+    "negative_affix": "ma"
   },
-  "turkish_example_sentence": "O küçük çocuk bu tehlikeli işi yapamaz.",
-  "english_example_sentence": "She cannot make this dangerous job.",
-  "russian_example_sentence": "Она не может сделать эту опасную работу.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T09:06:16.014015+00:00",
-  "turkish_example_sentence_with_blank": "O küçük çocuk bu tehlikeli işi ______."
+  "turkish_example_sentence": "O, bu kadar hızlı bir kararı kendi başına yapamaz.",
+  "english_example_sentence": "He/She cannot make such a quick decision on their own.",
+  "russian_example_sentence": "Он/Она не может принять такое быстрое решение самостоятельно.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:08:32.763414+00:00",
+  "turkish_example_sentence_with_blank": "O, bu kadar hızlı bir kararı kendi başına ______."
 }

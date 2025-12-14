@@ -5,7 +5,7 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duymazsam",
-    "root": "ihtiyaç du",
+    "root": "ihtiyaç duy",
     "tense_affix": "sa",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "ben",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If I don't need directions, I won't ask.",
-  "russian_example_sentence": "Если я не нуждаюсь в указаниях, я не спрошу.",
-  "turkish_example_sentence": "Yol tarifi ihtiyaç duymazsam, sormam.",
-  "turkish_example_sentence_with_blank": "Yol tarifi ______, sormam."
+  "turkish_example_sentence": "Ben daha fazla paraya ihtiyaç duymazsam, bu elbiseyi almam.",
+  "english_example_sentence": "If I don't need more money, I won't buy this dress.",
+  "russian_example_sentence": "Если мне не нужны будут дополнительные деньги, я не куплю это платье.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:07:56.519587+00:00",
+  "turkish_example_sentence_with_blank": "Ben daha fazla paraya ______, bu elbiseyi almam."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissettiğinde",
     "root": "hisset",
-    "tense_affix": "tiğ",
+    "tense_affix": "tik",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "sen",
-    "personal_affix": "in",
+    "personal_affix": "inde",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When you feel tired, take a break",
-  "russian_example_sentence": "Когда ты чувствуешь усталость, сделай перерыв",
-  "turkish_example_sentence": "Sen yorgun hissettiğinde, bir mola ver",
-  "turkish_example_sentence_with_blank": "Sen yorgun ______, bir mola ver"
+  "turkish_example_sentence": "Sen büyük bir yorgunluk hissettiğinde, hemen uyumalısın.",
+  "english_example_sentence": "When you feel great tiredness, you should sleep immediately.",
+  "russian_example_sentence": "Когда ты чувствуешь сильную усталость, тебе следует сразу же заснуть.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T15:09:37.888445+00:00",
+  "turkish_example_sentence_with_blank": "Sen büyük bir yorgunluk ______, hemen uyumalısın."
 }

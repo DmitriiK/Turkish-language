@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissederim",
     "root": "hisset",
-    "tense_affix": "er",
+    "tense_affix": "der",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I always feel great after a long walk.",
-  "russian_example_sentence": "Я всегда чувствую себя прекрасно после долгой прогулки.",
-  "turkish_example_sentence": "Ben uzun bir yürüyüşten sonra her zaman harika hissederim.",
-  "turkish_example_sentence_with_blank": "Ben uzun bir yürüyüşten sonra her zaman harika ______."
+  "turkish_example_sentence": "Ben her zaman derin bir sevgi hissederim.",
+  "english_example_sentence": "I always feel a deep love.",
+  "russian_example_sentence": "Я всегда чувствую глубокую любовь.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T09:04:42.852373+00:00",
+  "turkish_example_sentence_with_blank": "Ben her zaman derin bir sevgi ______."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissetmeyiz",
     "root": "hisset",
-    "tense_affix": "z",
+    "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "yiz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "We don't feel comfortable in crowded places.",
-  "russian_example_sentence": "Мы не чувствуем себя комфортно в людных местах.",
-  "turkish_example_sentence": "Biz kalabalık yerlerde kendimizi rahat hissetmeyiz.",
-  "turkish_example_sentence_with_blank": "Biz kalabalık yerlerde kendimizi rahat ______."
+  "turkish_example_sentence": "Biz bu küçük acıyı hissetmeyiz.",
+  "english_example_sentence": "We don't feel this small pain.",
+  "russian_example_sentence": "Мы не чувствуем эту маленькую боль.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T09:04:42.852373+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu küçük acıyı ______."
 }

@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yapmadı",
     "root": "yap",
-    "tense_affix": "tı",
+    "tense_affix": "dı",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "O toplantıda önemli bir karar yapmadı.",
-  "english_example_sentence": "He/She did not make an important decision at the meeting.",
-  "russian_example_sentence": "Он/Она не принял важное решение на встрече.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T09:03:39.174204+00:00",
-  "turkish_example_sentence_with_blank": "O toplantıda önemli bir karar ______."
+  "turkish_example_sentence": "O maalesef verilen işini iyi yapmadı.",
+  "english_example_sentence": "Unfortunately, she didn't do her assigned job well.",
+  "russian_example_sentence": "К сожалению, она не выполнила свою порученную работу хорошо.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:02:18.426103+00:00",
+  "turkish_example_sentence_with_blank": "O maalesef verilen işini iyi ______."
 }

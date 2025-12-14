@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "düşünmeyeceksin",
     "root": "düşün",
-    "tense_affix": "ecek",
+    "tense_affix": "yecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "sin",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Sen kötü geçmiş olayları asla düşünmeyeceksin.",
-  "english_example_sentence": "You will not think about the bad past events ever.",
-  "russian_example_sentence": "Ты никогда не будешь думать о плохих прошлых событиях.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T11:56:48.398112+00:00",
-  "turkish_example_sentence_with_blank": "Sen kötü geçmiş olayları asla ______."
+  "turkish_example_sentence": "Sen bu küçük hatayı asla düşünmeyeceksin.",
+  "english_example_sentence": "You will never think about this small mistake.",
+  "russian_example_sentence": "Ты никогда не будешь думать об этой маленькой ошибке.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:59:34.631509+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu küçük hatayı asla ______."
 }

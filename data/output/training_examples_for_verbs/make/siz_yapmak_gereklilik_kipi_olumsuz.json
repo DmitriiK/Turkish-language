@@ -4,19 +4,19 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmamanız",
+    "verb_full": "yapmamanız lazım",
     "root": "yap",
-    "tense_affix": "ma",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "manız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Siz bu özel müşteri için asla böyle kaba davranış yapmamanız gerek.",
-  "english_example_sentence": "You must not make such rude behavior toward this special customer.",
-  "russian_example_sentence": "Вы не должны делать такое грубое поведение по отношению к этому особому клиенту.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T09:05:58.879967+00:00",
-  "turkish_example_sentence_with_blank": "Siz bu özel müşteri için asla böyle kaba davranış ______ gerek."
+  "turkish_example_sentence": "Siz, bu önemli toplantıda gereksiz yorumlar yapmamanız lazım.",
+  "english_example_sentence": "You shouldn't make unnecessary comments in this important meeting.",
+  "russian_example_sentence": "Вам не следует делать ненужные комментарии на этой важной встрече.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:07:24.531142+00:00",
+  "turkish_example_sentence_with_blank": "Siz, bu önemli toplantıda gereksiz yorumlar ______."
 }

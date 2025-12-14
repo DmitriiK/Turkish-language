@@ -4,19 +4,19 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmen",
+    "verb_full": "düşünmen lazım",
     "root": "düşün",
-    "tense_affix": "",
+    "tense_affix": "me",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Sen gelecekteki güzel hayallerini düşünmen gerek.",
-  "english_example_sentence": "You need to think about your beautiful future dreams.",
-  "russian_example_sentence": "Тебе нужно думать о своих прекрасных будущих мечтах.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T11:57:38.344983+00:00",
-  "turkish_example_sentence_with_blank": "Sen gelecekteki güzel hayallerini ______ gerek."
+  "turkish_example_sentence": "Sen geleceğin için mantıklı adımlar düşünmen lazım.",
+  "english_example_sentence": "You need to think about logical steps for your future.",
+  "russian_example_sentence": "Тебе нужно подумать о логичных шагах для твоего будущего.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T09:01:52.632808+00:00",
+  "turkish_example_sentence_with_blank": "Sen geleceğin için mantıklı adımlar ______."
 }

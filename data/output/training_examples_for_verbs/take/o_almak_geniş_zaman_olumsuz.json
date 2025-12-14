@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "almaz",
     "root": "al",
-    "tense_affix": "ır",
+    "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "maz"
   },
-  "turkish_example_sentence": "O yaşlı adam kara güneşlikleri dışarıya almaz",
-  "english_example_sentence": "He does not take dark sunglasses outside",
-  "russian_example_sentence": "Он не берет темные солнечные очки на улицу",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T12:02:06.551899+00:00",
-  "turkish_example_sentence_with_blank": "O yaşlı adam kara güneşlikleri dışarıya ______"
+  "turkish_example_sentence": "O asla boş yere risk almaz.",
+  "english_example_sentence": "He/She never takes risks for nothing.",
+  "russian_example_sentence": "Он/Она никогда не рискует зря.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T09:19:01.805027+00:00",
+  "turkish_example_sentence_with_blank": "O asla boş yere risk ______."
 }

@@ -4,19 +4,19 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmesiniz",
+    "verb_full": "gitmeyin",
     "root": "git",
     "tense_affix": "e",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "siniz",
+    "personal_affix": "niz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Siz önemli toplantıdan sonra hemen gitmesiniz.",
-  "english_example_sentence": "May you not go immediately after the important meeting.",
-  "russian_example_sentence": "Пусть вы не уходите сразу после важного совещания.",
+  "turkish_example_sentence": "Siz bu karanlık sokağa gitmeyin ve aydınlık caddeyi tercih ediniz.",
+  "english_example_sentence": "May you not go to this dark street and prefer the bright avenue.",
+  "russian_example_sentence": "Пожалуйста, не ходите на эту темную улицу и предпочтите яркий проспект.",
   "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T08:51:39.364264+00:00",
-  "turkish_example_sentence_with_blank": "Siz önemli toplantıdan sonra hemen ______."
+  "generated_at": "2025-12-14T07:33:07.747269+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu karanlık sokağa ______ ve aydınlık caddeyi tercih ediniz."
 }

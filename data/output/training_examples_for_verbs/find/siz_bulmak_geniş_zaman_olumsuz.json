@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "bulmazsınız",
     "root": "bul",
-    "tense_affix": "ur",
+    "tense_affix": "z",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "sunuz",
+    "personal_affix": "sınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Siz bu eski harita kütüphanede bulmazsınız.",
-  "english_example_sentence": "You do not find this old map in the library.",
-  "russian_example_sentence": "Вы не находите эту старую карту в библиотеке.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:31:48.520118+00:00",
-  "turkish_example_sentence_with_blank": "Siz bu eski harita kütüphanede ______."
+  "turkish_example_sentence": "Siz bu eski kütüphanede modern romanlar bulmazsınız.",
+  "english_example_sentence": "You don't find modern novels in this old library.",
+  "russian_example_sentence": "Вы не найдете современных романов в этой старой библиотеке.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T09:25:49.616698+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu eski kütüphanede modern romanlar ______."
 }

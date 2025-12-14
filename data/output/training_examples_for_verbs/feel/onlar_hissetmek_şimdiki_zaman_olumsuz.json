@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissetmiyorlar",
     "root": "hisset",
-    "tense_affix": "iyor",
+    "tense_affix": "yor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "mi"
   },
-  "english_example_sentence": "They are not feeling regret for their actions.",
-  "russian_example_sentence": "Они не чувствуют раскаяния за свои действия.",
-  "turkish_example_sentence": "Onlar eylemleri için pişmanlık hissetmiyorlar.",
-  "turkish_example_sentence_with_blank": "Onlar eylemleri için pişmanlık ______."
+  "turkish_example_sentence": "Onlar, bu büyük şehrin koşuşturmacasını hissetmiyorlar.",
+  "english_example_sentence": "They are not feeling the hustle and bustle of this big city.",
+  "russian_example_sentence": "Они не чувствуют суеты этого большого города.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T09:00:08.182021+00:00",
+  "turkish_example_sentence_with_blank": "Onlar, bu büyük şehrin koşuşturmacasını ______."
 }

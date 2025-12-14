@@ -4,7 +4,7 @@
   "verb_russian": "чувствовать",
   "verb_infinitive": "hissetmek",
   "turkish_verb": {
-    "verb_full": "hissetmemeliyin",
+    "verb_full": "hissetmemeliyim",
     "root": "hisset",
     "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "I must not feel deep sadness anymore",
-  "russian_example_sentence": "Я не должен чувствовать глубокую грусть больше",
-  "turkish_example_sentence": "Ben artık derin üzüntüyü hissetmemeliyin",
-  "turkish_example_sentence_with_blank": "Ben artık derin üzüntüyü ______"
+  "turkish_example_sentence": "Ben bu kötü havayı asla hissetmemeliyim.",
+  "english_example_sentence": "I must never feel this bad weather.",
+  "russian_example_sentence": "Я никогда не должен чувствовать эту плохую погоду.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T15:03:33.775800+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu kötü havayı asla ______."
 }

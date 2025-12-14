@@ -5,7 +5,7 @@
   "verb_infinitive": "hissetmek",
   "turkish_verb": {
     "verb_full": "hissedeceksiniz",
-    "root": "hisset",
+    "root": "hissed",
     "tense_affix": "ecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "siz",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You will feel the true peace here.",
-  "russian_example_sentence": "Вы почувствуете настоящий покой здесь.",
-  "turkish_example_sentence": "Burada gerçek huzuru hissedeceksiniz.",
-  "turkish_example_sentence_with_blank": "Burada gerçek huzuru ______."
+  "turkish_example_sentence": "Siz bu güzel manzarayı görünce huzur hissedeceksiniz.",
+  "english_example_sentence": "You will feel peace when you see this beautiful scenery.",
+  "russian_example_sentence": "Вы почувствуете покой, когда увидите этот красивый пейзаж.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T09:01:57.332119+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu güzel manzarayı görünce huzur ______."
 }

@@ -4,8 +4,8 @@
   "verb_russian": "нуждаться",
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
-    "verb_full": "ihtiyaç duyarsınız",
-    "root": "duymak",
+    "verb_full": "duyarsınız",
+    "root": "duy",
     "tense_affix": "ar",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "siz",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need professional advice for business",
-  "russian_example_sentence": "Вам нужен профессиональный совет для бизнеса",
-  "turkish_example_sentence": "Siz işletme için profesyonel danışmanlık ihtiyaç duyarsınız",
-  "turkish_example_sentence_with_blank": "Siz işletme için profesyonel danışmanlık ______"
+  "turkish_example_sentence": "Siz sağlıklı bir yaşam için düzenli egzersize ihtiyaç duyarsınız.",
+  "english_example_sentence": "You need regular exercise for a healthy life.",
+  "russian_example_sentence": "Вам нужны регулярные упражнения для здоровой жизни.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:28:18.633508+00:00",
+  "turkish_example_sentence_with_blank": "Siz sağlıklı bir yaşam için düzenli egzersize ihtiyaç ______."
 }

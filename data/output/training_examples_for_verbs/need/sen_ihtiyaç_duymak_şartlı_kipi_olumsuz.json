@@ -5,7 +5,7 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duymazsan",
-    "root": "ihtiyaç du",
+    "root": "ihtiyaç duy",
     "tense_affix": "sa",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If you don't need it, give it back.",
-  "russian_example_sentence": "Если тебе это не нужно, отдай обратно.",
-  "turkish_example_sentence": "Eğer buna ihtiyaç duymazsan, geri ver.",
-  "turkish_example_sentence_with_blank": "Eğer buna ______, geri ver."
+  "turkish_example_sentence": "Sen yeni bir kitaba ihtiyaç duymazsan, eski kütüphaneyi ziyaret etme.",
+  "english_example_sentence": "If you don't need a new book, don't visit the old library.",
+  "russian_example_sentence": "Если тебе не нужна новая книга, не посещай старую библиотеку.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:07:56.519587+00:00",
+  "turkish_example_sentence_with_blank": "Sen yeni bir kitaba ______, eski kütüphaneyi ziyaret etme."
 }

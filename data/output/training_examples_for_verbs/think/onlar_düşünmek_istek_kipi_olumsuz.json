@@ -4,19 +4,19 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmeyesinler",
+    "verb_full": "düşünmeyeler",
     "root": "düşün",
-    "tense_affix": "e",
+    "tense_affix": "ye",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "sinler",
+    "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Onlar bu korkutucu gelecek senaryolarını düşünmeyesinler.",
-  "english_example_sentence": "May they not think about these frightening future scenarios.",
-  "russian_example_sentence": "Пусть они не думают об этих пугающих сценариях будущего.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T11:58:48.961870+00:00",
-  "turkish_example_sentence_with_blank": "Onlar bu korkutucu gelecek senaryolarını ______."
+  "turkish_example_sentence": "Onlar gereksiz masrafları asla düşünmeyeler.",
+  "english_example_sentence": "May they never think about unnecessary expenses.",
+  "russian_example_sentence": "Пусть они никогда не думают о ненужных расходах.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T09:00:34.839369+00:00",
+  "turkish_example_sentence_with_blank": "Onlar gereksiz masrafları asla ______."
 }

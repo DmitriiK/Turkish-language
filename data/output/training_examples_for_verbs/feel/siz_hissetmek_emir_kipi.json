@@ -4,7 +4,7 @@
   "verb_russian": "чувствовать",
   "verb_infinitive": "hissetmek",
   "turkish_verb": {
-    "verb_full": "hissedin",
+    "verb_full": "hissetin",
     "root": "hisset",
     "tense_affix": "",
     "verb_tense": "emir_kipi",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Feel the fresh mountain air.",
-  "russian_example_sentence": "Почувствуйте свежий горный воздух.",
-  "turkish_example_sentence": "Temiz dağ havasını hissedin.",
-  "turkish_example_sentence_with_blank": "Temiz dağ havasını ______."
+  "turkish_example_sentence": "Siz bu önemli anı derinden hissetin.",
+  "english_example_sentence": "You (plural/formal) feel this important moment deeply.",
+  "russian_example_sentence": "Вы глубоко почувствуйте этот важный момент.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T09:05:10.692493+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu önemli anı derinden ______."
 }

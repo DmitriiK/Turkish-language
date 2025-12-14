@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissettiğimde",
     "root": "hisset",
-    "tense_affix": "tiğ",
+    "tense_affix": "tik",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "ben",
-    "personal_affix": "im",
+    "personal_affix": "imde",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When I feel happy, I sing",
-  "russian_example_sentence": "Когда я чувствую себя счастливым, я пою",
-  "turkish_example_sentence": "Ben mutlu hissettiğimde, şarkı söylüyorum",
-  "turkish_example_sentence_with_blank": "Ben mutlu ______, şarkı söylüyorum"
+  "turkish_example_sentence": "Ben mutlu bir an hissettiğimde, şarkı söylerim.",
+  "english_example_sentence": "When I feel a happy moment, I sing a song.",
+  "russian_example_sentence": "Когда я чувствую счастливый момент, я пою песню.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T15:09:37.888445+00:00",
+  "turkish_example_sentence_with_blank": "Ben mutlu bir an ______, şarkı söylerim."
 }

@@ -4,17 +4,19 @@
   "verb_russian": "чувствовать",
   "verb_infinitive": "hissetmek",
   "turkish_verb": {
-    "verb_full": "hissedememişi",
-    "root": "hisse",
-    "tense_affix": "eme",
+    "verb_full": "hissedemez",
+    "root": "hisset",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "ir",
+    "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "emez"
   },
-  "english_example_sentence": "He cannot feel the gentle rain on his skin",
-  "russian_example_sentence": "Он не может почувствовать легкий дождь на его коже",
-  "turkish_example_sentence": "O nazik yağmuru teninde hissedememişi",
-  "turkish_example_sentence_with_blank": "O nazik yağmuru teninde ______"
+  "turkish_example_sentence": "O uzaktan gelen hafif sesi hissedemez.",
+  "english_example_sentence": "He/She cannot feel the faint sound coming from afar.",
+  "russian_example_sentence": "Он/Она не может чувствовать слабый звук, идущий издалека.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T13:12:20.306171+00:00",
+  "turkish_example_sentence_with_blank": "O uzaktan gelen hafif sesi ______."
 }

@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yaptığımda",
     "root": "yap",
-    "tense_affix": "tığ",
+    "tense_affix": "tık",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "ben",
-    "personal_affix": "ım",
+    "personal_affix": "ımda",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Ben güzel resmi yaptığımda, arkadaşlarım çok beğendiler.",
-  "english_example_sentence": "When I made the beautiful picture, my friends liked it very much.",
-  "russian_example_sentence": "Когда я сделал красивую картину, мои друзья очень понравилось.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T11:53:27.567009+00:00",
-  "turkish_example_sentence_with_blank": "Ben güzel resmi ______, arkadaşlarım çok beğendiler."
+  "turkish_example_sentence": "Ben ödevimi yaptığımda, annem çok sevinir.",
+  "english_example_sentence": "When I do my homework, my mother gets very happy.",
+  "russian_example_sentence": "Когда я делаю домашнее задание, моя мама очень радуется.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:12:23.981930+00:00",
+  "turkish_example_sentence_with_blank": "Ben ödevimi ______, annem çok sevinir."
 }

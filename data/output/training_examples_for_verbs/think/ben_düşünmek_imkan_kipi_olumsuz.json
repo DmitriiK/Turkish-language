@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "düşünemem",
     "root": "düşün",
-    "tense_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "turkish_example_sentence": "Ben çok gürültülü ortamda düşünemem.",
-  "english_example_sentence": "I cannot think in a very noisy environment.",
-  "russian_example_sentence": "Я не могу думать в очень шумной среде.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T11:57:55.651230+00:00",
-  "turkish_example_sentence_with_blank": "Ben çok gürültülü ortamda ______."
+  "turkish_example_sentence": "Ben bu gürültülü ortamda net düşünemem.",
+  "english_example_sentence": "I cannot think clearly in this noisy environment.",
+  "russian_example_sentence": "Я не могу ясно мыслить в этой шумной обстановке.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:50:41.039735+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu gürültülü ortamda net ______."
 }

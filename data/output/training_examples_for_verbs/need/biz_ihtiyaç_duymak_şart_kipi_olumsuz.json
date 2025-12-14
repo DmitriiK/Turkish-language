@@ -5,16 +5,18 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duymasak",
-    "root": "ihtiyaç duy",
-    "tense_affix": "masa",
+    "root": "duy",
+    "tense_affix": "sa",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If we didn’t need it, we wouldn’t take it",
-  "russian_example_sentence": "Если бы нам это не понадобилось, мы бы это не взяли",
-  "turkish_example_sentence": "Buna ihtiyaç duymasak, almazdık",
-  "turkish_example_sentence_with_blank": "Buna ______, almazdık"
+  "turkish_example_sentence": "Biz bu büyük eve artık ihtiyaç duymasak, onu satardık.",
+  "english_example_sentence": "If we didn't need this big house anymore, we would sell it.",
+  "russian_example_sentence": "Если бы нам больше не нужен был этот большой дом, мы бы его продали.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:29:56.590821+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu büyük eve artık ______, onu satardık."
 }

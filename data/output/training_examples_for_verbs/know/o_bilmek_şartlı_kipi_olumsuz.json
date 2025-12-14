@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "bilmezse",
     "root": "bil",
-    "tense_affix": "ir",
+    "tense_affix": "se",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "mez"
   },
-  "turkish_example_sentence": "O bu eski şehrin adresini bilmezse, harita kullanmalı.",
-  "english_example_sentence": "If he/she doesn't know the address of this old city, he/she must use a map.",
-  "russian_example_sentence": "Если он/она не знает адрес этого старого города, он/она должен использовать карту.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T11:54:11.273011+00:00",
-  "turkish_example_sentence_with_blank": "O bu eski şehrin adresini ______, harita kullanmalı."
+  "turkish_example_sentence": "O yeni adresi bilmezse, partiye gelmez.",
+  "english_example_sentence": "If she doesn't know the new address, she won't come to the party.",
+  "russian_example_sentence": "Если она не будет знать новый адрес, она не придет на вечеринку.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:31:44.679048+00:00",
+  "turkish_example_sentence_with_blank": "O yeni adresi ______, partiye gelmez."
 }

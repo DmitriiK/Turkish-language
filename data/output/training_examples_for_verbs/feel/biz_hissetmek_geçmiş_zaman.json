@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "hissettik",
     "root": "hisset",
-    "tense_affix": "ti",
+    "tense_affix": "tik",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We felt a deep connection with nature in the mountains.",
-  "russian_example_sentence": "Мы почувствовали глубокую связь с природой в горах.",
-  "turkish_example_sentence": "Biz dağlarda doğayla derin bir bağ hissettik.",
-  "turkish_example_sentence_with_blank": "Biz dağlarda doğayla derin bir bağ ______."
+  "turkish_example_sentence": "Biz eski dostlar arasında güçlü bir bağ hissettik.",
+  "english_example_sentence": "We felt a strong bond among old friends.",
+  "russian_example_sentence": "Мы почувствовали крепкую связь между старыми друзьями.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T09:00:38.758226+00:00",
+  "turkish_example_sentence_with_blank": "Biz eski dostlar arasında güçlü bir bağ ______."
 }

@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yapmamışsam",
     "root": "yap",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "sam",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Ben bu önemli hata yapmamışsam, proje başarılı olabilirdi.",
-  "english_example_sentence": "If I had not made this important mistake, the project could have been successful.",
-  "russian_example_sentence": "Если бы я не совершил эту важную ошибку, проект мог бы быть успешным.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T09:07:50.910335+00:00",
-  "turkish_example_sentence_with_blank": "Ben bu önemli hata ______, proje başarılı olabilirdi."
+  "turkish_example_sentence": "Ben o hatayı yapmamışsam, bu kadar pişman olmazdım.",
+  "english_example_sentence": "If I had not made that mistake, I wouldn't be so regretful.",
+  "russian_example_sentence": "Если бы я не совершил эту ошибку, я бы не так сильно сожалел.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:11:07.969865+00:00",
+  "turkish_example_sentence_with_blank": "Ben o hatayı ______, bu kadar pişman olmazdım."
 }

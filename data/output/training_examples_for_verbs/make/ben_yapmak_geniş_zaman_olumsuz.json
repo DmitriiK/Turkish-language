@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yapmam",
     "root": "yap",
-    "tense_affix": "ar",
+    "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "ım",
+    "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Ben asla zor matematiksel hesaplamaları yapmam.",
-  "english_example_sentence": "I never make difficult mathematical calculations.",
-  "russian_example_sentence": "Я никогда не делаю сложные математические расчеты.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T09:04:45.802484+00:00",
-  "turkish_example_sentence_with_blank": "Ben asla zor matematiksel hesaplamaları ______."
+  "turkish_example_sentence": "Ben asla kötü bir plan yapmam.",
+  "english_example_sentence": "I never make a bad plan.",
+  "russian_example_sentence": "Я никогда не строю плохих планов.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T08:03:56.507556+00:00",
+  "turkish_example_sentence_with_blank": "Ben asla kötü bir plan ______."
 }

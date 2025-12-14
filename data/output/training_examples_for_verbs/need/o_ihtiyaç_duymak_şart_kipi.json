@@ -5,16 +5,18 @@
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
     "verb_full": "ihtiyaç duysa",
-    "root": "ihtiyaç duy",
+    "root": "duy",
     "tense_affix": "sa",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If he needed a car, he would buy one",
-  "russian_example_sentence": "Если бы ему понадобилась машина, он бы купил одну",
-  "turkish_example_sentence": "O araba ihtiyaç duysa, bir tane satın alırdı",
-  "turkish_example_sentence_with_blank": "O araba ______, bir tane satın alırdı"
+  "turkish_example_sentence": "O bu akşam bir arabaya ihtiyaç duysa, ben onu bırakırım.",
+  "english_example_sentence": "If she needed a car tonight, I would drop her off.",
+  "russian_example_sentence": "Если бы ей нужна была машина сегодня вечером, я бы ее подвез.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-12T08:29:56.590821+00:00",
+  "turkish_example_sentence_with_blank": "O bu akşam bir arabaya ______, ben onu bırakırım."
 }

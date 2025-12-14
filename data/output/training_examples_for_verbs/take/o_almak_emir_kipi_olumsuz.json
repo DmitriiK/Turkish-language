@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "almasın",
     "root": "al",
-    "tense_affix": "",
+    "tense_affix": "-",
     "verb_tense": "emir_kipi",
     "personal_pronoun": "o",
     "personal_affix": "sın",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "O tembel öğrenci sınıfta başkasının defterini almasın.",
-  "english_example_sentence": "Let him/her, the lazy student, not take someone else's notebook in class.",
-  "russian_example_sentence": "Пусть ленивый студент не берет чужую тетрадь на уроке.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T12:02:58.816281+00:00",
-  "turkish_example_sentence_with_blank": "O tembel öğrenci sınıfta başkasının defterini ______."
+  "turkish_example_sentence": "O, eski şemsiyeyi yanına almasın.",
+  "english_example_sentence": "Let her not take the old umbrella with her.",
+  "russian_example_sentence": "Пусть она не берет старый зонт с собой.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-14T09:20:08.900049+00:00",
+  "turkish_example_sentence_with_blank": "O, eski şemsiyeyi yanına ______."
 }
