@@ -5,7 +5,7 @@
   "verb_infinitive": "göstermek",
   "turkish_verb": {
     "verb_full": "gösteriyorsunuz",
-    "root": "göster",
+    "root": "gösterm",
     "tense_affix": "iyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "siz",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You are showing the detailed map to the lost travelers right now",
-  "russian_example_sentence": "Вы показываете подробную карту потерянным путешественникам прямо сейчас",
-  "turkish_example_sentence": "Siz ayrıntılı haritayı kayıp gezginlere gösteriyorsunuz",
-  "turkish_example_sentence_with_blank": "Siz ayrıntılı haritayı kayıp gezginlere ______"
+  "turkish_example_sentence": "Siz yabancı turistlere şehri gösteriyorsunuz",
+  "english_example_sentence": "You are showing the city to foreign tourists",
+  "russian_example_sentence": "Вы показываете город иностранным туристам",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:10:58.816501+00:00",
+  "turkish_example_sentence_with_blank": "Siz yabancı turistlere şehri ______"
 }

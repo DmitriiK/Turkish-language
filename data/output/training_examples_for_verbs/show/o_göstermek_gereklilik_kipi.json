@@ -4,17 +4,19 @@
   "verb_russian": "показывать",
   "verb_infinitive": "göstermek",
   "turkish_verb": {
-    "verb_full": "göstermesi lazım",
-    "root": "göster",
-    "tense_affix": "lazım",
+    "verb_full": "göstermeli",
+    "root": "göstermek",
+    "tense_affix": "meli",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "sı",
+    "personal_affix": "",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He needs to show the new artistic paintings tomorrow",
-  "russian_example_sentence": "Он должен показать новые художественные картины завтра",
-  "turkish_example_sentence": "O yarın yeni sanat tablolarını göstermesi lazım",
-  "turkish_example_sentence_with_blank": "O yarın yeni sanat tablolarını ______"
+  "turkish_example_sentence": "O eski haritayı göstermeli",
+  "english_example_sentence": "He/She needs to show the old map",
+  "russian_example_sentence": "Ему/Ей нужно показать старую карту",
+  "generated_by_model": "LLAMA - meta.llama4-scout-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T11:35:28.681817+00:00",
+  "turkish_example_sentence_with_blank": "O eski haritayı ______"
 }

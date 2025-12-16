@@ -4,17 +4,19 @@
   "verb_russian": "помогать",
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
-    "verb_full": "yardım etmezlerse",
+    "verb_full": "yardım etmezse",
     "root": "yardım et",
-    "tense_affix": "mezse",
+    "tense_affix": "mez",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "mez"
   },
-  "english_example_sentence": "If they don't help, it will take longer.",
-  "russian_example_sentence": "Если они не помогут, это займет дольше.",
-  "turkish_example_sentence": "Onlar yardım etmezlerse, daha uzun sürer.",
-  "turkish_example_sentence_with_blank": "Onlar ______, daha uzun sürer."
+  "turkish_example_sentence": "Onlar çevreye yardım etmezse, ekosistem yok olur",
+  "english_example_sentence": "If they don't help the environment, the ecosystem disappears",
+  "russian_example_sentence": "Если они не помогут окружающей среде, экосистема исчезнет",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:07:05.419742+00:00",
+  "turkish_example_sentence_with_blank": "Onlar çevreye ______, ekosistem yok olur"
 }

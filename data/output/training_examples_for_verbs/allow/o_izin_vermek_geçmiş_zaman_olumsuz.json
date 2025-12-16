@@ -5,7 +5,7 @@
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
     "verb_full": "izin vermedi",
-    "root": "izin ver",
+    "root": "ver",
     "tense_affix": "di",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "o",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "He did not allow the loud music to continue",
-  "russian_example_sentence": "Он не позволил громкой музыке продолжаться",
-  "turkish_example_sentence": "O gürültülü müziğin devam etmesine izin vermedi",
-  "turkish_example_sentence_with_blank": "O gürültülü müziğin devam etmesine ______"
+  "turkish_example_sentence": "O sıkı öğretmen tembel öğrencilere erken teneffüse çıkmaya izin vermedi",
+  "english_example_sentence": "That strict teacher didn't allow the lazy students to go to early break",
+  "russian_example_sentence": "Тот строгий учитель не разрешил ленивым ученикам выйти на ранний перерыв",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:36:23.694669+00:00",
+  "turkish_example_sentence_with_blank": "O sıkı öğretmen tembel öğrencilere erken teneffüse çıkmaya ______"
 }

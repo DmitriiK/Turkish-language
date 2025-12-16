@@ -4,19 +4,19 @@
   "verb_russian": "работать",
   "verb_infinitive": "çalışmak",
   "turkish_verb": {
-    "verb_full": "çalışmamız",
+    "verb_full": "çalışmamız lazım",
     "root": "çalış",
-    "tense_affix": "",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "mız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Biz büyük ticari anlaşma için çalışmamız lazım.",
-  "english_example_sentence": "We need to work for the big commercial agreement.",
-  "russian_example_sentence": "Нам нужно работать над большим коммерческим соглашением.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:51:16.573007+00:00",
-  "turkish_example_sentence_with_blank": "Biz büyük ticari anlaşma için ______ lazım."
+  "turkish_example_sentence": "Biz güzel bahçeyi temizlemek için birlikte hızlıca çalışmamız lazım",
+  "english_example_sentence": "We need to work together quickly to clean the beautiful garden",
+  "russian_example_sentence": "Нам нужно работать вместе быстро, чтобы убрать красивый сад",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:21:29.461728+00:00",
+  "turkish_example_sentence_with_blank": "Biz güzel bahçeyi temizlemek için birlikte hızlıca ______"
 }

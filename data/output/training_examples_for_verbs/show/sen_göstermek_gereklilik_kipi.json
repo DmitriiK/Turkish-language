@@ -4,17 +4,19 @@
   "verb_russian": "показывать",
   "verb_infinitive": "göstermek",
   "turkish_verb": {
-    "verb_full": "göstermen lazım",
-    "root": "göster",
-    "tense_affix": "lazım",
+    "verb_full": "göstermelisin",
+    "root": "göstermek",
+    "tense_affix": "melisin",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to show the interesting museum exhibits",
-  "russian_example_sentence": "Ты должен показать интересные музейные экспонаты",
-  "turkish_example_sentence": "Sen ilginç müze eserlerini göstermen lazım",
-  "turkish_example_sentence_with_blank": "Sen ilginç müze eserlerini ______"
+  "turkish_example_sentence": "Sen güzel resmi göstermelisin",
+  "english_example_sentence": "You need to show the beautiful picture",
+  "russian_example_sentence": "Тебе нужно показать красивую картину",
+  "generated_by_model": "LLAMA - meta.llama4-scout-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T11:35:28.681817+00:00",
+  "turkish_example_sentence_with_blank": "Sen güzel resmi ______"
 }

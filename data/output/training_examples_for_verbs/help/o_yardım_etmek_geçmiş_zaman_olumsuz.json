@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmedi",
     "root": "yardım et",
-    "tense_affix": "ti",
+    "tense_affix": "di",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "He did not help with the urgent assignment",
-  "russian_example_sentence": "Он не помог со срочным заданием",
-  "turkish_example_sentence": "O acil görevde yardım etmedi",
-  "turkish_example_sentence_with_blank": "O acil görevde ______"
+  "turkish_example_sentence": "O ihtiyacı olan kişiye yardım etmedi",
+  "english_example_sentence": "He didn't help the person in need",
+  "russian_example_sentence": "Он не помог человеку, который нуждался в помощи",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:05:03.857924+00:00",
+  "turkish_example_sentence_with_blank": "O ihtiyacı olan kişiye ______"
 }

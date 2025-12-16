@@ -4,17 +4,19 @@
   "verb_russian": "помогать",
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
-    "verb_full": "yardım ederlerse",
+    "verb_full": "yardım ederse",
     "root": "yardım et",
-    "tense_affix": "erse",
+    "tense_affix": "se",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they help the teacher, he will be happy.",
-  "russian_example_sentence": "Если они помогут учителю, он будет рад.",
-  "turkish_example_sentence": "Onlar öğretmene yardım ederlerse, o mutlu olur.",
-  "turkish_example_sentence_with_blank": "Onlar öğretmene ______, o mutlu olur."
+  "turkish_example_sentence": "Onlar yeni öğrencilere yardım ederse, sınıf daha başarılı olur",
+  "english_example_sentence": "If they help new students, the class is more successful",
+  "russian_example_sentence": "Если они помогут новым студентам, класс будет более успешным",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:07:05.419742+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yeni öğrencilere ______, sınıf daha başarılı olur"
 }

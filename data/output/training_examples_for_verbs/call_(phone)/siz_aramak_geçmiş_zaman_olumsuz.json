@@ -1,6 +1,6 @@
 {
   "verb_rank": 20,
-  "verb_english": "call",
+  "verb_english": "call (phone)",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
@@ -13,10 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Siz kasım ortasında İstanbul'daki ünlü ressam atölyesini sanat sergisi hakkında aramadınız.",
-  "english_example_sentence": "You did not call the famous artist studio in Istanbul in mid-November about the art exhibition.",
-  "russian_example_sentence": "Вы не позвонили в знаменитую студию художника в Стамбуле в середине ноября о художественной выставке.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T16:14:51.844132+00:00",
-  "turkish_example_sentence_with_blank": "Siz kasım ortasında İstanbul'daki ünlü ressam atölyesini sanat sergisi hakkında ______."
+  "turkish_example_sentence": "Siz cumartesi günü küçük bakkalı aramadınız",
+  "english_example_sentence": "You didn't call the small grocery store on Saturday",
+  "russian_example_sentence": "Вы не звонили в маленький продуктовый магазин в субботу",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T10:22:19.781935+00:00",
+  "turkish_example_sentence_with_blank": "Siz cumartesi günü küçük bakkalı ______"
 }

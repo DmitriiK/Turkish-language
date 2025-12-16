@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmeyecek",
+    "verb_full": "görünmüyor",
     "root": "görün",
-    "tense_affix": "eceğ",
+    "tense_affix": "üyor",
     "verb_tense": "yaracağım",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "m"
   },
-  "english_example_sentence": "He will not seem angry about the late dinner",
-  "russian_example_sentence": "Он не будет казаться сердитым из-за позднего ужина",
-  "turkish_example_sentence": "O geç akşam yemeğinden kızgın görünmeyecek",
-  "turkish_example_sentence_with_blank": "O geç akşam yemeğinden kızgın ______"
+  "turkish_example_sentence": "O artık mutsuz görünmüyor",
+  "english_example_sentence": "He doesn't seem unhappy anymore",
+  "russian_example_sentence": "Он больше не кажется несчастным",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:57:56.671732+00:00",
+  "turkish_example_sentence_with_blank": "O artık mutsuz ______"
 }

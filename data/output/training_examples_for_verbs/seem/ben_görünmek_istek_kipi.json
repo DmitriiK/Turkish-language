@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görüneyim",
+    "verb_full": "görünüyorum",
     "root": "görün",
-    "tense_affix": "e",
+    "tense_affix": "üyor",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "yim",
+    "personal_affix": "yım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Let me seem reliable to them",
-  "russian_example_sentence": "Позвольте мне казаться надежным для них",
-  "turkish_example_sentence": "Ben onlara güvenilir görüneyim",
-  "turkish_example_sentence_with_blank": "Ben onlara güvenilir ______"
+  "turkish_example_sentence": "Ben yeni elbise içinde güzel görünüyorum",
+  "english_example_sentence": "I seem beautiful in the new dress",
+  "russian_example_sentence": "Я кажусь красивым в новом платье",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:58:16.660921+00:00",
+  "turkish_example_sentence_with_blank": "Ben yeni elbise içinde güzel ______"
 }

@@ -4,17 +4,19 @@
   "verb_russian": "показывать",
   "verb_infinitive": "göstermek",
   "turkish_verb": {
-    "verb_full": "göstermeyebilirler",
+    "verb_full": "göstermesinler",
     "root": "göster",
-    "tense_affix": "e",
+    "tense_affix": "",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "ler",
+    "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "They might not show their homework.",
-  "russian_example_sentence": "Они могут не показывать свою домашнюю работу.",
-  "turkish_example_sentence": "Onlar ödevlerini göstermeyebilirler.",
-  "turkish_example_sentence_with_blank": "Onlar ödevlerini ______."
+  "turkish_example_sentence": "Onlar kötü filmi kimseye göstermesinler",
+  "english_example_sentence": "May they not show the bad movie to anyone",
+  "russian_example_sentence": "Пусть они не показывают плохой фильм никому",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:11:49.688441+00:00",
+  "turkish_example_sentence_with_blank": "Onlar kötü filmi kimseye ______"
 }

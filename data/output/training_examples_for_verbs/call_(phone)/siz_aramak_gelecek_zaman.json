@@ -1,6 +1,6 @@
 {
   "verb_rank": 20,
-  "verb_english": "call",
+  "verb_english": "call (phone)",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
@@ -13,10 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Siz kış mevsiminde deneyimli elektrikçi ustayı arayacaksınız.",
-  "english_example_sentence": "You will call the experienced electrician master in winter.",
-  "russian_example_sentence": "Вы позвоните опытному мастеру-электрику зимой.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T16:15:21.109892+00:00",
-  "turkish_example_sentence_with_blank": "Siz kış mevsiminde deneyimli elektrikçi ustayı ______."
+  "turkish_example_sentence": "Siz yarın öğlen yetenekli mühendisi arayacaksınız",
+  "english_example_sentence": "You will call the talented engineer tomorrow at noon",
+  "russian_example_sentence": "Вы позвоните талантливому инженеру завтра в полдень",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T10:22:54.822177+00:00",
+  "turkish_example_sentence_with_blank": "Siz yarın öğlen yetenekli mühendisi ______"
 }

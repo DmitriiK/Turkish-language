@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmişsek",
     "root": "yardım et",
-    "tense_affix": "mişse",
+    "tense_affix": "miş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "sek",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we had helped with the fundraising.",
-  "russian_example_sentence": "Если бы мы помогли со сбором средств.",
-  "turkish_example_sentence": "Biz bağış toplama etkinliğine yardım etmişsek, daha çok para toplamış olurduk.",
-  "turkish_example_sentence_with_blank": "Biz bağış toplama etkinliğine ______, daha çok para toplamış olurduk."
+  "turkish_example_sentence": "Biz birbirimize yardım etmişsek, arkadaşız demektir",
+  "english_example_sentence": "If we had helped each other, it means we are friends",
+  "russian_example_sentence": "Если бы мы помогли друг другу, это значит мы друзья",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:07:28.338524+00:00",
+  "turkish_example_sentence_with_blank": "Biz birbirimize ______, arkadaşız demektir"
 }

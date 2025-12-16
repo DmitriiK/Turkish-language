@@ -1,22 +1,22 @@
 {
   "verb_rank": 20,
-  "verb_english": "call",
+  "verb_english": "call (phone)",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "arayamayız",
+    "verb_full": "arayamazsınız",
     "root": "ara",
     "tense_affix": "yama",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "yız",
+    "personal_affix": "zsınız",
     "polarity": "negative",
     "negative_affix": "yama"
   },
-  "turkish_example_sentence": "Siz hava durumu kötü olduğunda dağdaki rehberi arayamayız.",
-  "english_example_sentence": "You cannot call the mountain guide when the weather is bad.",
-  "russian_example_sentence": "Вы не можете звонить горному гиду, когда погода плохая.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T16:17:39.720677+00:00",
-  "turkish_example_sentence_with_blank": "Siz hava durumu kötü olduğunda dağdaki rehberi ______."
+  "turkish_example_sentence": "Siz yurt dışından pahalı uluslararası hattı arayamazsınız",
+  "english_example_sentence": "You cannot call the expensive international line from abroad",
+  "russian_example_sentence": "Вы не можете позвонить на дорогую международную линию из-за границы",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T10:25:46.796768+00:00",
+  "turkish_example_sentence_with_blank": "Siz yurt dışından pahalı uluslararası hattı ______"
 }

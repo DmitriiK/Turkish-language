@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "göstermeseler",
     "root": "göster",
-    "tense_affix": "se",
+    "tense_affix": "mese",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If they don’t show the sign, we will lose.",
-  "russian_example_sentence": "Если они не покажут знак, мы проиграем.",
-  "turkish_example_sentence": "Eğer işareti göstermeseler, kaybederiz.",
-  "turkish_example_sentence_with_blank": "Eğer işareti ______, kaybederiz."
+  "turkish_example_sentence": "Onlar bize zor, çirkin bir anıt göstermeseler",
+  "english_example_sentence": "If they couldn't show us a difficult, ugly monument",
+  "russian_example_sentence": "Если бы они не могли показать нам трудный, некрасивый памятник",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:13:07.838794+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bize zor, çirkin bir anıt ______"
 }

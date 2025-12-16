@@ -4,19 +4,19 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünseniz",
+    "verb_full": "düşünsünüz",
     "root": "düşün",
     "tense_affix": "se",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "nüz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Siz gelecekteki kariyer planlarınızı detaylıca düşünseniz, başarılı olursunuz.",
-  "english_example_sentence": "If you thought about your future career plans in detail, you would be successful.",
-  "russian_example_sentence": "Если бы вы детально обдумали свои будущие карьерные планы, вы бы добились успеха.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T09:01:21.325843+00:00",
-  "turkish_example_sentence_with_blank": "Siz gelecekteki kariyer planlarınızı detaylıca ______, başarılı olursunuz."
+  "turkish_example_sentence": "Siz bu yeni iş fırsatını düşünsünüz, başarılı olabilirsiniz.",
+  "english_example_sentence": "If you were to think about this new business opportunity, you could succeed.",
+  "russian_example_sentence": "Если бы вы подумали об этой новой деловой возможности, вы смогли бы добиться успеха.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:13:20.179389+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu yeni iş fırsatını ______, başarılı olabilirsiniz."
 }

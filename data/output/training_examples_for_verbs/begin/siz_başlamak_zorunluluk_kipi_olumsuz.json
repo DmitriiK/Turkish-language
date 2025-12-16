@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "başlamamalısınız",
     "root": "başla",
-    "tense_affix": "malı",
+    "tense_affix": "mamalı",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "sınız",
     "polarity": "negative",
-    "negative_affix": "mama"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "You must not begin the controversial discussion today",
-  "russian_example_sentence": "Вы не должны начинать спорное обсуждение сегодня",
-  "turkish_example_sentence": "Siz tartışmalı konuşmayı bugün başlamamalısınız",
-  "turkish_example_sentence_with_blank": "Siz tartışmalı konuşmayı bugün ______"
+  "turkish_example_sentence": "Siz pahalı restoranda yemeğe aç karnına başlamamalısınız",
+  "english_example_sentence": "You must not begin the meal at expensive restaurant on empty stomach",
+  "russian_example_sentence": "Вы не должны начинать еду в дорогом ресторане на голодный желудок",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T10:43:52.440340+00:00",
+  "turkish_example_sentence_with_blank": "Siz pahalı restoranda yemeğe aç karnına ______"
 }

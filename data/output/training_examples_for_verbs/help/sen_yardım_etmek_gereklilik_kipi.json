@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmen lazım",
     "root": "yardım et",
-    "tense_affix": "me",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to help your little brother with homework",
-  "russian_example_sentence": "Тебе нужно помочь своему младшему брату с домашним заданием",
-  "turkish_example_sentence": "Sen küçük erkek kardeşine matematik ödevinde yardım etmen lazım",
-  "turkish_example_sentence_with_blank": "Sen küçük erkek kardeşine matematik ödevinde ______"
+  "turkish_example_sentence": "Sen kardeşine yardım etmen lazım",
+  "english_example_sentence": "You need to help your sibling",
+  "russian_example_sentence": "Тебе нужно помочь своему брату или сестре",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:06:23.181506+00:00",
+  "turkish_example_sentence_with_blank": "Sen kardeşine ______"
 }

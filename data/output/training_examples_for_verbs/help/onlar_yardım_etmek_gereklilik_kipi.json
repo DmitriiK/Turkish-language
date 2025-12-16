@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmeleri lazım",
     "root": "yardım et",
-    "tense_affix": "me",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "leri",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They need to help the lost children find their parents",
-  "russian_example_sentence": "Им нужно помочь потерянным детям найти своих родителей",
-  "turkish_example_sentence": "Onlar kayıp çocuklara ebeveynlerini bulma konusunda yardım etmeleri lazım",
-  "turkish_example_sentence_with_blank": "Onlar kayıp çocuklara ebeveynlerini bulma konusunda ______"
+  "turkish_example_sentence": "Onlar ihtiyacı olanlara yardım etmeleri lazım",
+  "english_example_sentence": "They need to help those in need",
+  "russian_example_sentence": "Им нужно помочь тем, кто нуждается",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:06:23.181506+00:00",
+  "turkish_example_sentence_with_blank": "Onlar ihtiyacı olanlara ______"
 }

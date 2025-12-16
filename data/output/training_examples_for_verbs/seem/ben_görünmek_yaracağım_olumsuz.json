@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmeyeceğim",
+    "verb_full": "görünmüyorum",
     "root": "görün",
-    "tense_affix": "eceğ",
+    "tense_affix": "üyor",
     "verb_tense": "yaracağım",
     "personal_pronoun": "ben",
-    "personal_affix": "im",
+    "personal_affix": "um",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "m"
   },
-  "english_example_sentence": "I will not seem worried about the difficult exam",
-  "russian_example_sentence": "Я не буду казаться обеспокоенным о трудном экзамене",
-  "turkish_example_sentence": "Ben zor sınavdan endişeli görünmeyeceğim",
-  "turkish_example_sentence_with_blank": "Ben zor sınavdan endişeli ______"
+  "turkish_example_sentence": "Ben bu fotoğrafta eski görünmüyorum",
+  "english_example_sentence": "I don't seem old in this photo",
+  "russian_example_sentence": "Я не кажусь старым на этой фотографии",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:57:56.671732+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu fotoğrafta eski ______"
 }

@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "alamazsın",
     "root": "al",
-    "tense_affix": "z",
+    "tense_affix": "abil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "sın",
+    "personal_affix": "irsin",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "turkish_example_sentence": "Sen o ağır çantayı merdivenlerden tek başına alamazsın.",
-  "english_example_sentence": "You cannot take that heavy bag up the stairs alone.",
-  "russian_example_sentence": "Ты не сможешь поднять ту тяжелую сумку по лестнице один.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T09:11:13.236956+00:00",
-  "turkish_example_sentence_with_blank": "Sen o ağır çantayı merdivenlerden tek başına ______."
+  "turkish_example_sentence": "Sen kütüphaneden o nadir antika kitabı alamazsın.",
+  "english_example_sentence": "You cannot take that rare antique book from the library.",
+  "russian_example_sentence": "Ты не можешь взять ту редкую антикварную книгу из библиотеки.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:33:22.498721+00:00",
+  "turkish_example_sentence_with_blank": "Sen kütüphaneden o nadir antika kitabı ______."
 }

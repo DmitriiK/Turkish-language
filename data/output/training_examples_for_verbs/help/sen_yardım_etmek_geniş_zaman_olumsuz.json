@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmezsin",
     "root": "yardım et",
-    "tense_affix": "ir",
+    "tense_affix": "me",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "sin",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You do not help with garden maintenance tasks",
-  "russian_example_sentence": "Ты не помогаешь с работами в саду",
-  "turkish_example_sentence": "Sen bahçe bakım işlerinde yardım etmezsin",
-  "turkish_example_sentence_with_blank": "Sen bahçe bakım işlerinde ______"
+  "turkish_example_sentence": "Sen küçük kardeşine yardım etmezsin",
+  "english_example_sentence": "You don't help your younger brother",
+  "russian_example_sentence": "Ты не помогаешь своему младшему брату",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:05:33.984696+00:00",
+  "turkish_example_sentence_with_blank": "Sen küçük kardeşine ______"
 }

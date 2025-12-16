@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmeyecektiniz",
+    "verb_full": "görünmeyeceksiniz",
     "root": "görün",
-    "tense_affix": "ecekti",
+    "tense_affix": "ecek",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "siniz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You weren't going to seem bored.",
-  "russian_example_sentence": "Вы не собирались казаться скучающими.",
-  "turkish_example_sentence": "Siz sıkılmış görünmeyecektiniz.",
-  "turkish_example_sentence_with_blank": "Siz sıkılmış ______."
+  "turkish_example_sentence": "Siz bu kadar zayıf görünmeyeceksiniz",
+  "english_example_sentence": "You won't seem so weak",
+  "russian_example_sentence": "Вы не будете казаться такими слабыми",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:59:16.517282+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu kadar zayıf ______"
 }

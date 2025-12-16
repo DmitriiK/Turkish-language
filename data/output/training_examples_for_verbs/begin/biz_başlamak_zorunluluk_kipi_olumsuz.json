@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "başlamamalıyız",
     "root": "başla",
-    "tense_affix": "malı",
+    "tense_affix": "mamalı",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yız",
     "polarity": "negative",
-    "negative_affix": "mama"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "We must not begin the expensive renovation project yet",
-  "russian_example_sentence": "Мы не должны начинать дорогой проект ремонта еще",
-  "turkish_example_sentence": "Biz pahalı renovasyon projesini henüz başlamamalıyız",
-  "turkish_example_sentence_with_blank": "Biz pahalı renovasyon projesini henüz ______"
+  "turkish_example_sentence": "Biz karanlık ormanda yürüyüşe gece başlamamalıyız",
+  "english_example_sentence": "We must not begin the walk in dark forest at night",
+  "russian_example_sentence": "Мы не должны начинать прогулку в темном лесу ночью",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T10:43:52.440340+00:00",
+  "turkish_example_sentence_with_blank": "Biz karanlık ormanda yürüyüşe gece ______"
 }

@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmezse",
+    "verb_full": "görünmüyor",
     "root": "görün",
-    "tense_affix": "mezse",
+    "tense_affix": "üyor",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "negative",
-    "negative_affix": "mez"
+    "negative_affix": "m"
   },
-  "english_example_sentence": "If he doesn’t seem excited, they won’t ask him.",
-  "russian_example_sentence": "Если он не кажется взволнованным, они его не спросят.",
-  "turkish_example_sentence": "Eğer heyecanlı görünmezse, ona sormazlar.",
-  "turkish_example_sentence_with_blank": "Eğer heyecanlı ______, ona sormazlar."
+  "turkish_example_sentence": "O hasta olduğundan zayıf görünmüyor",
+  "english_example_sentence": "He doesn't seem healthy because he's sick",
+  "russian_example_sentence": "Он не кажется здоровым, потому что болен",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:59:26.904994+00:00",
+  "turkish_example_sentence_with_blank": "O hasta olduğundan zayıf ______"
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "görünmedi",
     "root": "görün",
-    "tense_affix": "dü",
+    "tense_affix": "medi",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "He did not seem surprised by the news",
-  "russian_example_sentence": "Он не казался удивленным новостью",
-  "turkish_example_sentence": "O habere şaşırmış görünmedi",
-  "turkish_example_sentence_with_blank": "O habere şaşırmış ______"
+  "turkish_example_sentence": "O dün hiç iyi görünmedi",
+  "english_example_sentence": "He didn't seem good yesterday",
+  "russian_example_sentence": "Вчера он не казался хорошим",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:57:37.422343+00:00",
+  "turkish_example_sentence_with_blank": "O dün hiç iyi ______"
 }

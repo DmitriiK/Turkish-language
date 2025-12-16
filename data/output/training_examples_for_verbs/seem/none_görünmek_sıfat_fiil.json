@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünen",
+    "verb_full": "görünüyor",
     "root": "görün",
-    "tense_affix": "en",
+    "tense_affix": "üyor",
     "verb_tense": "sıfat_fiil",
     "personal_pronoun": null,
     "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The house that seems big is mine.",
-  "russian_example_sentence": "Дом, который кажется большим, мой.",
-  "turkish_example_sentence": "Büyük görünen ev benim.",
-  "turkish_example_sentence_with_blank": "Büyük ______ ev benim."
+  "turkish_example_sentence": "Yeni gelen misafirler çok yorgun görünüyor",
+  "english_example_sentence": "The newly arrived guests seem very tired",
+  "russian_example_sentence": "Новоприбывшие гости кажутся очень уставшими",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:59:40.924885+00:00",
+  "turkish_example_sentence_with_blank": "Yeni gelen misafirler çok yorgun ______"
 }

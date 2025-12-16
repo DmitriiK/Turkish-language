@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmemişse",
     "root": "yardım et",
-    "tense_affix": "memişse",
+    "tense_affix": "miş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If she hadn't helped with the garden.",
-  "russian_example_sentence": "Если бы она не помогла с садом.",
-  "turkish_example_sentence": "O bahçe işlerinde yardım etmemişse, çiçekler solmuş olurdu.",
-  "turkish_example_sentence_with_blank": "O bahçe işlerinde ______, çiçekler solmuş olurdu."
+  "turkish_example_sentence": "O bana yardım etmemişse, üzgünüm",
+  "english_example_sentence": "If he had not helped me, I am sad",
+  "russian_example_sentence": "Если бы он не помог мне, я расстроен",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:07:28.338524+00:00",
+  "turkish_example_sentence_with_blank": "O bana ______, üzgünüm"
 }

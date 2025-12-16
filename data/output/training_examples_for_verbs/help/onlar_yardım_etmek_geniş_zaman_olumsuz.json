@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmezler",
     "root": "yardım et",
-    "tense_affix": "ir",
+    "tense_affix": "me",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "They do not help with boring administrative paperwork",
-  "russian_example_sentence": "Они не помогают со скучной административной работой",
-  "turkish_example_sentence": "Onlar sıkıcı idari evrak işlerinde yardım etmezler",
-  "turkish_example_sentence_with_blank": "Onlar sıkıcı idari evrak işlerinde ______"
+  "turkish_example_sentence": "Onlar başkalarına yardım etmezler",
+  "english_example_sentence": "They don't help others",
+  "russian_example_sentence": "Они не помогают другим",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:05:33.984696+00:00",
+  "turkish_example_sentence_with_blank": "Onlar başkalarına ______"
 }

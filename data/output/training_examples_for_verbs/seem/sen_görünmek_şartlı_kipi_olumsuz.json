@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmezsen",
+    "verb_full": "görünmüyorsun",
     "root": "görün",
-    "tense_affix": "mezse",
+    "tense_affix": "üyor",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "sun",
     "polarity": "negative",
-    "negative_affix": "mez"
+    "negative_affix": "m"
   },
-  "english_example_sentence": "If you don’t seem tired, they’ll invite you.",
-  "russian_example_sentence": "Если ты не кажешься усталым, они тебя пригласят.",
-  "turkish_example_sentence": "Eğer yorgun görünmezsen, seni davet ederler.",
-  "turkish_example_sentence_with_blank": "Eğer yorgun ______, seni davet ederler."
+  "turkish_example_sentence": "Sen üzgün olduğun için mutsuz görünmüyorsun",
+  "english_example_sentence": "You don't seem happy because you're sad",
+  "russian_example_sentence": "Ты не кажешься счастливым, потому что ты грустный",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:59:26.904994+00:00",
+  "turkish_example_sentence_with_blank": "Sen üzgün olduğun için mutsuz ______"
 }

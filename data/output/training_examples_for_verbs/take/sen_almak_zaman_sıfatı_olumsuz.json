@@ -1,0 +1,22 @@
+{
+  "verb_rank": 10,
+  "verb_english": "take",
+  "verb_russian": "брать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almadığında",
+    "root": "al",
+    "tense_affix": "dığ",
+    "verb_tense": "zaman_sıfatı",
+    "personal_pronoun": "sen",
+    "personal_affix": "ında",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "turkish_example_sentence": "Sen sıcak kahve ve taze pastayı almadığında, kafe müdürü endişelendi.",
+  "english_example_sentence": "When you didn't take the hot coffee and fresh pastry, the café manager worried.",
+  "russian_example_sentence": "Когда ты не взял горячий кофе и свежую выпечку, менеджер кафе забеспокоился.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:35:22.419532+00:00",
+  "turkish_example_sentence_with_blank": "Sen sıcak kahve ve taze pastayı ______, kafe müdürü endişelendi."
+}

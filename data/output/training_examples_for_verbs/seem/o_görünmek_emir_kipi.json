@@ -4,7 +4,7 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünsün",
+    "verb_full": "görsün",
     "root": "görün",
     "tense_affix": "",
     "verb_tense": "emir_kipi",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Let him appear confident in the meeting",
-  "russian_example_sentence": "Пусть он выглядит уверенным на встречу",
-  "turkish_example_sentence": "Toplantıda o güçlü ve kararlı görünsün",
-  "turkish_example_sentence_with_blank": "Toplantıda o güçlü ve kararlı ______"
+  "turkish_example_sentence": "O yeni elbisesiyle çok güzel görsün",
+  "english_example_sentence": "Let him/her look very good with the new dress",
+  "russian_example_sentence": "Пусть он/она выглядит очень хорошо с новым платьем",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:58:23.928796+00:00",
+  "turkish_example_sentence_with_blank": "O yeni elbisesiyle çok güzel ______"
 }

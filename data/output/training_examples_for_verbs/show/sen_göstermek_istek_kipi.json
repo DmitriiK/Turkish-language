@@ -4,7 +4,7 @@
   "verb_russian": "показывать",
   "verb_infinitive": "göstermek",
   "turkish_verb": {
-    "verb_full": "gösterecesin",
+    "verb_full": "göstresin",
     "root": "göster",
     "tense_affix": "e",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You may show the documents.",
-  "russian_example_sentence": "Ты можешь показать документы.",
-  "turkish_example_sentence": "Sen belgeleri gösterecesin.",
-  "turkish_example_sentence_with_blank": "Sen belgeleri ______."
+  "turkish_example_sentence": "Sen büyük resmi arkadaşına göstresin",
+  "english_example_sentence": "May you show the big picture to your friend",
+  "russian_example_sentence": "Пусть ты покажешь большую фотографию своему другу",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:11:49.688441+00:00",
+  "turkish_example_sentence_with_blank": "Sen büyük resmi arkadaşına ______"
 }

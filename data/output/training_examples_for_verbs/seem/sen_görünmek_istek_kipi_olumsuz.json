@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmeyesin",
+    "verb_full": "görünmüyorsun",
     "root": "görün",
-    "tense_affix": "e",
+    "tense_affix": "üyor",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "sin",
+    "personal_affix": "sun",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "May you not seem tired anymore",
-  "russian_example_sentence": "Пусть ты больше не кажешься уставшим",
-  "turkish_example_sentence": "Sen artık yorgun görünmeyesin",
-  "turkish_example_sentence_with_blank": "Sen artık yorgun ______"
+  "turkish_example_sentence": "Sen bu işte başarılı görünmüyorsun",
+  "english_example_sentence": "You don't seem successful in this job",
+  "russian_example_sentence": "Ты не кажешься успешным в этой работе",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:58:16.660921+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu işte başarılı ______"
 }

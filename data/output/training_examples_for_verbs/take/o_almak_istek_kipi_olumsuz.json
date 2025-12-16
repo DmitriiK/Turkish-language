@@ -4,19 +4,19 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almaya",
+    "verb_full": "almasın",
     "root": "al",
-    "tense_affix": "ya",
+    "tense_affix": "a",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "O, bu tehlikeli yolu asla almaya.",
-  "english_example_sentence": "May he/she never take this dangerous path.",
-  "russian_example_sentence": "Пусть он/она никогда не пойдёт по этой опасной дороге.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T09:19:43.434449+00:00",
-  "turkish_example_sentence_with_blank": "O, bu tehlikeli yolu asla ______."
+  "turkish_example_sentence": "O yeni beyaz deri çantayı almasın çünkü çok pahalı.",
+  "english_example_sentence": "May he/she not take the new white leather bag because it is very expensive.",
+  "russian_example_sentence": "Пусть он/она не берет новую белую кожаную сумку, потому что она очень дорогая.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:26:50.229215+00:00",
+  "turkish_example_sentence_with_blank": "O yeni beyaz deri çantayı ______ çünkü çok pahalı."
 }

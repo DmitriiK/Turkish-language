@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmemişse",
-    "root": "gör",
-    "tense_affix": "memişse",
+    "verb_full": "görünmüyor",
+    "root": "görün",
+    "tense_affix": "üyor",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "m"
   },
-  "english_example_sentence": "If she hadn't seemed upset about the news.",
-  "russian_example_sentence": "Если бы она не казалась расстроенной из-за новостей.",
-  "turkish_example_sentence": "Haberlere üzgün görünmemişse, belki biliyordu.",
-  "turkish_example_sentence_with_blank": "Haberlere üzgün ______, belki biliyordu."
+  "turkish_example_sentence": "O eski evinde mutsuz görünmüyor",
+  "english_example_sentence": "He/she doesn't seem unhappy in his/her old home",
+  "russian_example_sentence": "Он/Она не кажется несчастным в его/её старом доме",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:59:38.155169+00:00",
+  "turkish_example_sentence_with_blank": "O eski evinde mutsuz ______"
 }

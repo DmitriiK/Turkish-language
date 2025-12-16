@@ -4,17 +4,19 @@
   "verb_russian": "начинать",
   "verb_infinitive": "başlamak",
   "turkish_verb": {
-    "verb_full": "başlamayalar",
+    "verb_full": "başlamasınlar",
     "root": "başla",
-    "tense_affix": "ya",
+    "tense_affix": "sınlar",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "sınlar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "May they not begin without plans",
-  "russian_example_sentence": "Пусть они не начинают без планов",
-  "turkish_example_sentence": "Onlar plansız başlamayalar",
-  "turkish_example_sentence_with_blank": "Onlar plansız ______"
+  "turkish_example_sentence": "Onlar karmaşık yol inşaat çalışmasına yağmurlu günde başlamasınlar",
+  "english_example_sentence": "May they not begin the complex road construction work on a rainy day",
+  "russian_example_sentence": "Пусть они не начнут сложную работу по строительству дороги в дождливый день",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T10:40:58.559319+00:00",
+  "turkish_example_sentence_with_blank": "Onlar karmaşık yol inşaat çalışmasına yağmurlu günde ______"
 }

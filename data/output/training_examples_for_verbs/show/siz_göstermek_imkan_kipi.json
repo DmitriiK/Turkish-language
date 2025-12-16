@@ -4,17 +4,19 @@
   "verb_russian": "показывать",
   "verb_infinitive": "göstermek",
   "turkish_verb": {
-    "verb_full": "gösterebilirsiniz",
+    "verb_full": "gösteriyorsunuz",
     "root": "göster",
-    "tense_affix": "ebil",
+    "tense_affix": "iyorsunuz",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "irsiniz",
+    "personal_affix": "iyorsunuz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can show the modern technological innovations",
-  "russian_example_sentence": "Вы можете показать современные технологические инновации",
-  "turkish_example_sentence": "Siz modern teknolojik yenilikleri gösterebilirsiniz",
-  "turkish_example_sentence_with_blank": "Siz modern teknolojik yenilikleri ______"
+  "turkish_example_sentence": "Siz misafirlere güzel Türk yemeklerini gösteriyorsunuz",
+  "english_example_sentence": "You are showing nice Turkish dishes to the guests",
+  "russian_example_sentence": "Вы показываете гостям красивые турецкие блюда",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:10:14.597312+00:00",
+  "turkish_example_sentence_with_blank": "Siz misafirlere güzel Türk yemeklerini ______"
 }

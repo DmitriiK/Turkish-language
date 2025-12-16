@@ -1,6 +1,6 @@
 {
   "verb_rank": 20,
-  "verb_english": "call",
+  "verb_english": "call (phone)",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
@@ -13,10 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Sen geçen hafta önemli müşteri temsilcisini iş ofisinden aradın.",
-  "english_example_sentence": "You called the important customer representative from the business office last week.",
-  "russian_example_sentence": "Ты позвонил важному представителю клиента из офиса на прошлой неделе.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T16:14:51.844132+00:00",
-  "turkish_example_sentence_with_blank": "Sen geçen hafta önemli müşteri temsilcisini iş ofisinden ______."
+  "turkish_example_sentence": "Sen geçen hafta yeni müdürü aradın",
+  "english_example_sentence": "You called the new manager last week",
+  "russian_example_sentence": "Ты звонил новому менеджеру на прошлой неделе",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T10:22:19.781935+00:00",
+  "turkish_example_sentence_with_blank": "Sen geçen hafta yeni müdürü ______"
 }

@@ -4,17 +4,19 @@
   "verb_russian": "показывать",
   "verb_infinitive": "göstermek",
   "turkish_verb": {
-    "verb_full": "göstermese",
+    "verb_full": "göstermezse",
     "root": "göster",
-    "tense_affix": "se",
+    "tense_affix": "mez",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "mez"
   },
-  "english_example_sentence": "If he doesn't show the ticket, he won't enter.",
-  "russian_example_sentence": "Если он не покажет билет, он не войдет.",
-  "turkish_example_sentence": "Bileti göstermese içeri giremez.",
-  "turkish_example_sentence_with_blank": "Bileti ______ içeri giremez."
+  "turkish_example_sentence": "O eski eşyaları kimseye göstermezse, onları kaybetmiş olur",
+  "english_example_sentence": "If he doesn't show the old things to anyone, he will have lost them",
+  "russian_example_sentence": "Если он не покажет старые вещи никому, он их потеряет",
+  "generated_by_model": "LLAMA - meta.llama4-scout-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T11:36:14.071177+00:00",
+  "turkish_example_sentence_with_blank": "O eski eşyaları kimseye ______, onları kaybetmiş olur"
 }

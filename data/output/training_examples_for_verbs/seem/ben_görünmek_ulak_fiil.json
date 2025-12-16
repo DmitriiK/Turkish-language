@@ -1,0 +1,22 @@
+{
+  "verb_rank": 32,
+  "verb_english": "seem",
+  "verb_russian": "казаться",
+  "verb_infinitive": "görünmek",
+  "turkish_verb": {
+    "verb_full": "görünüyorum",
+    "root": "görün",
+    "tense_affix": "üyor",
+    "verb_tense": "ulak_fiil",
+    "personal_pronoun": "ben",
+    "personal_affix": null,
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "turkish_example_sentence": "Ben güzel ve mutlu görünüyorum bugün",
+  "english_example_sentence": "I seem beautiful and happy today",
+  "russian_example_sentence": "Я кажусь красивым и счастливым сегодня",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:57:18.493277+00:00",
+  "turkish_example_sentence_with_blank": "Ben güzel ve mutlu ______ bugün"
+}

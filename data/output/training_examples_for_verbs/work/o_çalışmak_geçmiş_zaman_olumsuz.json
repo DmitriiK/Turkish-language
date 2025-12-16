@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "çalışmadı",
     "root": "çalış",
-    "tense_affix": "tı",
+    "tense_affix": "ma",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "dı",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "O kütüphanede dün öğleden sonra çalışmadı.",
-  "english_example_sentence": "He did not work at the library yesterday afternoon.",
-  "russian_example_sentence": "Он не работал в библиотеке вчера днем.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:49:39.864289+00:00",
-  "turkish_example_sentence_with_blank": "O kütüphanede dün öğleden sonra ______."
+  "turkish_example_sentence": "O pazartesi günü sıcak havada bahçede çalışmadı",
+  "english_example_sentence": "He/she did not work in the garden in hot weather on Monday",
+  "russian_example_sentence": "Он/она не работал(а) в саду в жаркую погоду в понедельник",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:18:36.314561+00:00",
+  "turkish_example_sentence_with_blank": "O pazartesi günü sıcak havada bahçede ______"
 }

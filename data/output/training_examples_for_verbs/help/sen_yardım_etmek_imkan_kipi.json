@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım edebilirsin",
     "root": "yardım et",
-    "tense_affix": "ebil",
+    "tense_affix": "ebilir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "irsin",
+    "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can help your sick friend recover quickly",
-  "russian_example_sentence": "Ты можешь помочь своему больному другу быстро выздороветь",
-  "turkish_example_sentence": "Sen hasta arkadaşına hızlı iyileşmekte yardım edebilirsin",
-  "turkish_example_sentence_with_blank": "Sen hasta arkadaşına hızlı iyileşmekte ______"
+  "turkish_example_sentence": "Sen bu projede bana yardım edebilirsin",
+  "english_example_sentence": "You can help me with this project",
+  "russian_example_sentence": "Ты можешь мне помочь с этим проектом",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:06:33.619684+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu projede bana ______"
 }

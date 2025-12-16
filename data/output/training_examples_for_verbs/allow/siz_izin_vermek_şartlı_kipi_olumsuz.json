@@ -1,0 +1,22 @@
+{
+  "verb_rank": 64,
+  "verb_english": "allow",
+  "verb_russian": "разрешать",
+  "verb_infinitive": "izin vermek",
+  "turkish_verb": {
+    "verb_full": "izin vermezseniz",
+    "root": "izin ver",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "seniz",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "turkish_example_sentence": "Siz personele esnek saatlerde çalışmaya izin vermezseniz motivasyonları düşer",
+  "english_example_sentence": "If you don't allow the staff to work flexible hours, their motivation decreases",
+  "russian_example_sentence": "Если вы не разрешите персоналу работать в гибком графике, их мотивация снизится",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:39:50.452019+00:00",
+  "turkish_example_sentence_with_blank": "Siz personele esnek saatlerde çalışmaya ______ motivasyonları düşer"
+}

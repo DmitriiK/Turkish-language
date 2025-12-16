@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "düşünmezsen",
     "root": "düşün",
-    "tense_affix": "se",
+    "tense_affix": "mez",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "mez"
   },
-  "turkish_example_sentence": "Sen bu önemli kararı yeterince düşünmezsen, sonradan pişman olabilirsin.",
-  "english_example_sentence": "If you don't think about this important decision enough, you might regret it later.",
-  "russian_example_sentence": "Если ты недостаточно подумаешь об этом важном решении, ты можешь пожалеть об этом позже.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T08:52:08.756474+00:00",
-  "turkish_example_sentence_with_blank": "Sen bu önemli kararı yeterince ______, sonradan pişman olabilirsin."
+  "turkish_example_sentence": "Sen bu konuyu dikkatlice düşünmezsen, hata yaparsın.",
+  "english_example_sentence": "If you don't think about this topic carefully, you will make a mistake.",
+  "russian_example_sentence": "Если ты не будешь внимательно думать об этой теме, ты совершишь ошибку.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:15:01.555148+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu konuyu dikkatlice ______, hata yaparsın."
 }

@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmediiniz",
+    "verb_full": "görünmediniz",
     "root": "görün",
-    "tense_affix": "dü",
+    "tense_affix": "mediniz",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "nüz",
+    "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You did not seem interested in the proposal",
-  "russian_example_sentence": "Вы не казались заинтересованными в предложении",
-  "turkish_example_sentence": "Siz öneriye ilgili görünmediiniz",
-  "turkish_example_sentence_with_blank": "Siz öneriye ilgili ______"
+  "turkish_example_sentence": "Siz dün hiç güzel görünmediniz",
+  "english_example_sentence": "You didn't seem beautiful yesterday",
+  "russian_example_sentence": "Вчера вы не казались красивыми",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:57:37.422343+00:00",
+  "turkish_example_sentence_with_blank": "Siz dün hiç güzel ______"
 }

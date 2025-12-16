@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmez",
     "root": "yardım et",
-    "tense_affix": "ir",
+    "tense_affix": "me",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "She does not help with evening cooking duties",
-  "russian_example_sentence": "Она не помогает с вечерними кулинарными делами",
-  "turkish_example_sentence": "O akşam yemek hazırlamada yardım etmez",
-  "turkish_example_sentence_with_blank": "O akşam yemek hazırlamada ______"
+  "turkish_example_sentence": "O başkalarına yardım etmez",
+  "english_example_sentence": "He/She doesn't help others",
+  "russian_example_sentence": "Он/Она не помогает другим",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:05:33.984696+00:00",
+  "turkish_example_sentence_with_blank": "O başkalarına ______"
 }

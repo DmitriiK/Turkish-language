@@ -4,17 +4,19 @@
   "verb_russian": "помогать",
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
-    "verb_full": "yardım etmeyecektin",
+    "verb_full": "yardım etmeyeceksin",
     "root": "yardım et",
-    "tense_affix": "ecekti",
+    "tense_affix": "ecek",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "sin",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You were not going to help us.",
-  "russian_example_sentence": "Ты не собирался помогать нам.",
-  "turkish_example_sentence": "Sen bize bu zor durumda yardım etmeyecektin.",
-  "turkish_example_sentence_with_blank": "Sen bize bu zor durumda ______."
+  "turkish_example_sentence": "Sen yarın sabah büyükannene yardım etmeyeceksin",
+  "english_example_sentence": "You were not going to help your grandmother tomorrow morning",
+  "russian_example_sentence": "Ты не собирался помогать своей бабушке завтра утром",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:06:54.201272+00:00",
+  "turkish_example_sentence_with_blank": "Sen yarın sabah büyükannene ______"
 }

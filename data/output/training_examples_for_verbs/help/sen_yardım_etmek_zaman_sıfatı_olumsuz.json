@@ -4,17 +4,19 @@
   "verb_russian": "помогать",
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
-    "verb_full": "yardım etmediğinde",
+    "verb_full": "yardım etmiyorsun",
     "root": "yardım et",
-    "tense_affix": "tiğ",
+    "tense_affix": "iyor",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "sen",
-    "personal_affix": "in",
+    "personal_affix": "sun",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "When you don't help the elderly, they struggle.",
-  "russian_example_sentence": "Когда ты не помогаешь пожилым людям, им трудно.",
-  "turkish_example_sentence": "Sen yaşlılara yardım etmediğinde, onlar zorlanıyorlar.",
-  "turkish_example_sentence_with_blank": "Sen yaşlılara ______, onlar zorlanıyorlar."
+  "turkish_example_sentence": "Sen yaşlı insanlara bazen yardım etmiyorsun",
+  "english_example_sentence": "You sometimes don't help old people",
+  "russian_example_sentence": "Ты иногда не помогаешь старым людям",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:07:48.671678+00:00",
+  "turkish_example_sentence_with_blank": "Sen yaşlı insanlara bazen ______"
 }

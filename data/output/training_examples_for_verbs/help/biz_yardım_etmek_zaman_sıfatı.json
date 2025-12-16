@@ -4,17 +4,19 @@
   "verb_russian": "помогать",
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
-    "verb_full": "yardım ettiğimizde",
+    "verb_full": "yardım ediyoruz",
     "root": "yardım et",
-    "tense_affix": "tiğ",
+    "tense_affix": "iyor",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "biz",
-    "personal_affix": "imiz",
+    "personal_affix": "uz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When we help the community, we are proud.",
-  "russian_example_sentence": "Когда мы помогаем сообществу, мы гордимся.",
-  "turkish_example_sentence": "Biz topluma yardım ettiğimizde, gurur duyuyoruz.",
-  "turkish_example_sentence_with_blank": "Biz topluma ______, gurur duyuyoruz."
+  "turkish_example_sentence": "Biz ihtiyacı olan insanlara her zaman yardım ediyoruz",
+  "english_example_sentence": "We always help those in need",
+  "russian_example_sentence": "Мы всегда помогаем тем, кто в нужде",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:07:48.671678+00:00",
+  "turkish_example_sentence_with_blank": "Biz ihtiyacı olan insanlara her zaman ______"
 }

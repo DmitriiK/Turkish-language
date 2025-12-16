@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmezsek",
     "root": "yardım et",
-    "tense_affix": "mezse",
+    "tense_affix": "mez",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "mez"
   },
-  "english_example_sentence": "If we don't help, it will get worse.",
-  "russian_example_sentence": "Если мы не поможем, всё станет хуже.",
-  "turkish_example_sentence": "Biz yardım etmezsek, her şey daha kötü olur.",
-  "turkish_example_sentence_with_blank": "Biz ______, her şey daha kötü olur."
+  "turkish_example_sentence": "Biz çevreye yardım etmezsek, ekosistem zarar görür",
+  "english_example_sentence": "If we don't help the environment, the ecosystem is damaged",
+  "russian_example_sentence": "Если мы не поможем окружающей среде, экосистема пострадает",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:07:05.419742+00:00",
+  "turkish_example_sentence_with_blank": "Biz çevreye ______, ekosistem zarar görür"
 }

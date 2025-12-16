@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "göstermemelisin",
     "root": "göster",
-    "tense_affix": "meli",
+    "tense_affix": "memeli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "sin",
     "polarity": "negative",
-    "negative_affix": "meme"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "You must not show this old photograph to strangers",
-  "russian_example_sentence": "Ты не должен показывать эту старую фотографию незнакомцам",
-  "turkish_example_sentence": "Sen bu eski fotoğrafı yabancılara göstermemelisin",
-  "turkish_example_sentence_with_blank": "Sen bu eski fotoğrafı yabancılara ______"
+  "turkish_example_sentence": "Sen çirkin resimleri göstermemelisin",
+  "english_example_sentence": "You must not show ugly pictures",
+  "russian_example_sentence": "Ты не должен показывать некрасивые картинки",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:10:38.331485+00:00",
+  "turkish_example_sentence_with_blank": "Sen çirkin resimleri ______"
 }

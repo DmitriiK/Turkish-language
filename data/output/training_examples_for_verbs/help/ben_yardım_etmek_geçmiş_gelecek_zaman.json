@@ -4,17 +4,19 @@
   "verb_russian": "помогать",
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
-    "verb_full": "yardım edecektim",
+    "verb_full": "yardım ediyordum",
     "root": "yardım et",
-    "tense_affix": "ecekti",
+    "tense_affix": "iyor",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "dum",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I was going to help my mother.",
-  "russian_example_sentence": "Я собирался помочь моей маме.",
-  "turkish_example_sentence": "Ben anneme bahçede yardım edecektim.",
-  "turkish_example_sentence_with_blank": "Ben anneme bahçede ______."
+  "turkish_example_sentence": "Ben dün akşam büyük bir sorunla karşılaştım ve yardım ediyordum",
+  "english_example_sentence": "I was going to help with a big problem last night",
+  "russian_example_sentence": "Я собирался помочь с большой проблемой прошлой ночью",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:06:54.201272+00:00",
+  "turkish_example_sentence_with_blank": "Ben dün akşam büyük bir sorunla karşılaştım ve ______"
 }

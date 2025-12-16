@@ -4,19 +4,19 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmeniz lazım",
+    "verb_full": "düşünmeniz",
     "root": "düşün",
-    "tense_affix": "me",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "niz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Siz, bu önemli toplantı için farklı stratejiler düşünmeniz lazım.",
-  "english_example_sentence": "You need to think about different strategies for this important meeting.",
-  "russian_example_sentence": "Вам нужно продумать различные стратегии для этой важной встречи.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T09:01:52.632808+00:00",
-  "turkish_example_sentence_with_blank": "Siz, bu önemli toplantı için farklı stratejiler ______."
+  "turkish_example_sentence": "Siz bu önemli işletme stratejisini düşünmeniz gerek.",
+  "english_example_sentence": "You need to think about this important business strategy.",
+  "russian_example_sentence": "Вам нужно подумать об этой важной бизнес-стратегии.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:13:37.985158+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu önemli işletme stratejisini ______ gerek."
 }

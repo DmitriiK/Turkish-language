@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmesinler",
+    "verb_full": "görünmüyorlar",
     "root": "görün",
-    "tense_affix": "e",
+    "tense_affix": "üyor",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "ler",
+    "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "May they not seem unhappy anymore",
-  "russian_example_sentence": "Пусть больше они не кажутся несчастными",
-  "turkish_example_sentence": "Onlar artık mutsuz görünmesinler",
-  "turkish_example_sentence_with_blank": "Onlar artık mutsuz ______"
+  "turkish_example_sentence": "Onlar artık zengin görünmüyorlar",
+  "english_example_sentence": "They don't seem rich anymore",
+  "russian_example_sentence": "Они больше не кажутся богатыми",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:58:16.660921+00:00",
+  "turkish_example_sentence_with_blank": "Onlar artık zengin ______"
 }

@@ -4,19 +4,19 @@
   "verb_russian": "работать",
   "verb_infinitive": "çalışmak",
   "turkish_verb": {
-    "verb_full": "çalışmanız",
+    "verb_full": "çalışmanız lazım",
     "root": "çalış",
-    "tense_affix": "",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Siz değerli müşteri ilişkileri için çalışmanız lazım.",
-  "english_example_sentence": "You need to work for valuable customer relations.",
-  "russian_example_sentence": "Вам нужно работать над ценными отношениями с клиентами.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:51:16.573007+00:00",
-  "turkish_example_sentence_with_blank": "Siz değerli müşteri ilişkileri için ______ lazım."
+  "turkish_example_sentence": "Siz kırmızı spor arabanızı almak için daha fazla çalışmanız lazım",
+  "english_example_sentence": "You need to work more to buy your red sports car",
+  "russian_example_sentence": "Вам нужно работать больше, чтобы купить вашу красную спортивную машину",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:21:29.461728+00:00",
+  "turkish_example_sentence_with_blank": "Siz kırmızı spor arabanızı almak için daha fazla ______"
 }

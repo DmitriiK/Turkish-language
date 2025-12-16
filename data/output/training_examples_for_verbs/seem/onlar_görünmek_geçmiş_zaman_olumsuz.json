@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "görünmediler",
     "root": "görün",
-    "tense_affix": "dü",
+    "tense_affix": "mediler",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "They did not seem bothered by the noise",
-  "russian_example_sentence": "Они не казались обеспокоенными шумом",
-  "turkish_example_sentence": "Onlar gürültüden rahatsız görünmediler",
-  "turkish_example_sentence_with_blank": "Onlar gürültüden rahatsız ______"
+  "turkish_example_sentence": "Onlar dün hiç iyi görünmediler",
+  "english_example_sentence": "They didn't seem good yesterday",
+  "russian_example_sentence": "Вчера они не казались хорошими",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:57:37.422343+00:00",
+  "turkish_example_sentence_with_blank": "Onlar dün hiç iyi ______"
 }

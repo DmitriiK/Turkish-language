@@ -4,17 +4,19 @@
   "verb_russian": "показывать",
   "verb_infinitive": "göstermek",
   "turkish_verb": {
-    "verb_full": "gösterirseniz",
+    "verb_full": "gösterirsiniz",
     "root": "göster",
-    "tense_affix": "irseniz",
+    "tense_affix": "ir",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "siniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you show the address clearly, we will find the house.",
-  "russian_example_sentence": "Если вы покажете адрес ясно, мы найдём дом.",
-  "turkish_example_sentence": "Adresi açıkça gösterirseniz evi buluruz.",
-  "turkish_example_sentence_with_blank": "Adresi açıkça ______ evi buluruz."
+  "turkish_example_sentence": "Siz yeni teknolojiyi ziyaretçilere gösterirsiniz, onlar çok ilgi duyacaklardır",
+  "english_example_sentence": "If you show the new technology to the visitors, they will be very interested",
+  "russian_example_sentence": "Если вы покажете новую технологию посетителям, они будут очень заинтересованы",
+  "generated_by_model": "LLAMA - meta.llama4-scout-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T11:36:14.071177+00:00",
+  "turkish_example_sentence_with_blank": "Siz yeni teknolojiyi ziyaretçilere ______, onlar çok ilgi duyacaklardır"
 }

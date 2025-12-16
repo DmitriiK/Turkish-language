@@ -1,0 +1,22 @@
+{
+  "verb_rank": 20,
+  "verb_english": "call (phone)",
+  "verb_russian": "звонить",
+  "verb_infinitive": "aramak",
+  "turkish_verb": {
+    "verb_full": "aramadılar",
+    "root": "ara",
+    "tense_affix": "dı",
+    "verb_tense": "geçmiş_zaman",
+    "personal_pronoun": "onlar",
+    "personal_affix": "lar",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "turkish_example_sentence": "Onlar cumartesi gecesi soğuk hastaneyi aramadılar",
+  "english_example_sentence": "They didn't call the cold hospital on Saturday night",
+  "russian_example_sentence": "Они не звонили в холодную больницу в субботу ночью",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T10:20:37.817632+00:00",
+  "turkish_example_sentence_with_blank": "Onlar cumartesi gecesi soğuk hastaneyi ______"
+}

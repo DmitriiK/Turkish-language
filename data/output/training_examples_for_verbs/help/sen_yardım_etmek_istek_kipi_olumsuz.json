@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmeyesin",
     "root": "yardım et",
-    "tense_affix": "meyesin",
+    "tense_affix": "",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "sin",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You may not help with the homework",
-  "russian_example_sentence": "Ты можешь не помогать с домашним заданием",
-  "turkish_example_sentence": "Sen ödevde yardım etmeyesin",
-  "turkish_example_sentence_with_blank": "Sen ödevde ______"
+  "turkish_example_sentence": "Sen bana yardım etmeyesin",
+  "english_example_sentence": "You don't help me",
+  "russian_example_sentence": "Ты мне не помогаешь",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:05:43.743075+00:00",
+  "turkish_example_sentence_with_blank": "Sen bana ______"
 }

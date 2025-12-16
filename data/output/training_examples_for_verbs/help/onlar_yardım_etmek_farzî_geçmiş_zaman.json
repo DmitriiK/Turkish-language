@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmişlerse",
     "root": "yardım et",
-    "tense_affix": "mişlerse",
+    "tense_affix": "miş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "lerse",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they had helped with the disaster relief.",
-  "russian_example_sentence": "Если бы они помогли с ликвидацией последствий стихийных бедствий.",
-  "turkish_example_sentence": "Onlar afet yardım çalışmalarına yardım etmişlerse, birçok hayat kurtarmışlardır.",
-  "turkish_example_sentence_with_blank": "Onlar afet yardım çalışmalarına ______, birçok hayat kurtarmışlardır."
+  "turkish_example_sentence": "Onlar bana yardım etmişlerse, minnettarım",
+  "english_example_sentence": "If they had helped me, I am grateful",
+  "russian_example_sentence": "Если бы они помогли мне, я благодарен",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:07:28.338524+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bana ______, minnettarım"
 }

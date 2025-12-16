@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "almasınlar",
     "root": "al",
-    "tense_affix": "-",
+    "tense_affix": "",
     "verb_tense": "emir_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "sınlar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Onlar hiçbir ek yiyecek almasınlar.",
-  "english_example_sentence": "Let them not take any extra food.",
-  "russian_example_sentence": "Пусть они не берут никакой дополнительной еды.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T09:20:08.900049+00:00",
-  "turkish_example_sentence_with_blank": "Onlar hiçbir ek yiyecek ______."
+  "turkish_example_sentence": "Onlar pazardan taze sebzeleri almasınlar bugün.",
+  "english_example_sentence": "Let them not take the fresh vegetables from the market today.",
+  "russian_example_sentence": "Пусть они не берут свежие овощи с рынка сегодня.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:27:02.819141+00:00",
+  "turkish_example_sentence_with_blank": "Onlar pazardan taze sebzeleri ______ bugün."
 }

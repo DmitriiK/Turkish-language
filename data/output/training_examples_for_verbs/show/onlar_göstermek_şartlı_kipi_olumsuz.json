@@ -4,17 +4,19 @@
   "verb_russian": "показывать",
   "verb_infinitive": "göstermek",
   "turkish_verb": {
-    "verb_full": "göstermeseler",
+    "verb_full": "göstermezlerse",
     "root": "göster",
-    "tense_affix": "se",
+    "tense_affix": "mez",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "mez"
   },
-  "english_example_sentence": "If they don't show interest, the event will fail.",
-  "russian_example_sentence": "Если они не проявят интереса, мероприятие провалится.",
-  "turkish_example_sentence": "İlgi göstermeseler etkinlik başarısız olur.",
-  "turkish_example_sentence_with_blank": "İlgi ______ etkinlik başarısız olur."
+  "turkish_example_sentence": "Onlar önemli bilgileri gizli tutarlarsa, kimseye göstermezlerse daha güvenli olur",
+  "english_example_sentence": "If they keep the important information secret, they won't show it to anyone and it will be safer",
+  "russian_example_sentence": "Если они сохранят важную информацию в секрете и не покажут её никому, это будет безопаснее",
+  "generated_by_model": "LLAMA - meta.llama4-scout-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T11:36:14.071177+00:00",
+  "turkish_example_sentence_with_blank": "Onlar önemli bilgileri gizli tutarlarsa, kimseye ______ daha güvenli olur"
 }

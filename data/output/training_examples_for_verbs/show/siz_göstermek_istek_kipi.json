@@ -4,17 +4,19 @@
   "verb_russian": "показывать",
   "verb_infinitive": "göstermek",
   "turkish_verb": {
-    "verb_full": "gösterebilirsiniz",
+    "verb_full": "göstresiniz",
     "root": "göster",
     "tense_affix": "e",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "siniz",
+    "personal_affix": "sınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You may show your skills to her.",
-  "russian_example_sentence": "Вы можете показать ей свои навыки.",
-  "turkish_example_sentence": "Siz ona yeteneklerinizi gösterebilirsiniz.",
-  "turkish_example_sentence_with_blank": "Siz ona yeteneklerinizi ______."
+  "turkish_example_sentence": "Siz yeni evi misafirlerinize göstresiniz",
+  "english_example_sentence": "May you show the new house to your guests",
+  "russian_example_sentence": "Пусть вы покажете новый дом вашим гостям",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:11:49.688441+00:00",
+  "turkish_example_sentence_with_blank": "Siz yeni evi misafirlerinize ______"
 }

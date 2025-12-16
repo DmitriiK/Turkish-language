@@ -4,17 +4,19 @@
   "verb_russian": "помогать",
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
-    "verb_full": "yardım etmeyeler",
+    "verb_full": "yardım etmesinler",
     "root": "yardım et",
-    "tense_affix": "meyeler",
+    "tense_affix": "",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "They might not help fix the door",
-  "russian_example_sentence": "Они могут не помогать чинить дверь",
-  "turkish_example_sentence": "Onlar kapıyı onarmak için yardım etmeyeler",
-  "turkish_example_sentence_with_blank": "Onlar kapıyı onarmak için ______"
+  "turkish_example_sentence": "Onlar bize yardım etmesinler",
+  "english_example_sentence": "Let them not help us",
+  "russian_example_sentence": "Пусть они нам не помогут",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:05:43.743075+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bize ______"
 }

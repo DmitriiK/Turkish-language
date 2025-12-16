@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım edersem",
     "root": "yardım et",
-    "tense_affix": "erse",
+    "tense_affix": "se",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I help my neighbor, she smiles.",
-  "russian_example_sentence": "Если я помогу своей соседке, она улыбается.",
-  "turkish_example_sentence": "Ben komşuma yardım edersem, o gülümser.",
-  "turkish_example_sentence_with_blank": "Ben komşuma ______, o gülümser."
+  "turkish_example_sentence": "Ben büyük aileme yardım edersem, mutlu olurum",
+  "english_example_sentence": "If I help my big family, I am happy",
+  "russian_example_sentence": "Если я помогу своей большой семье, я счастлив",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:07:05.419742+00:00",
+  "turkish_example_sentence_with_blank": "Ben büyük aileme ______, mutlu olurum"
 }

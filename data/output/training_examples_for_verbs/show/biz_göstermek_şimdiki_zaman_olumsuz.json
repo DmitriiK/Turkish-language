@@ -5,16 +5,18 @@
   "verb_infinitive": "göstermek",
   "turkish_verb": {
     "verb_full": "göstermiyoruz",
-    "root": "göster",
-    "tense_affix": "iyor",
+    "root": "gösterm",
+    "tense_affix": "miyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "uz",
     "polarity": "negative",
-    "negative_affix": "m"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "We are not showing the confidential business plans to external partners",
-  "russian_example_sentence": "Мы не показываем конфиденциальные бизнес-планы внешним партнерам",
-  "turkish_example_sentence": "Biz gizli iş planlarını dış ortaklara göstermiyoruz",
-  "turkish_example_sentence_with_blank": "Biz gizli iş planlarını dış ortaklara ______"
+  "turkish_example_sentence": "Biz küçük çocuklara korkutucu filmleri göstermiyoruz",
+  "english_example_sentence": "We are not showing scary movies to little kids",
+  "russian_example_sentence": "Мы не показываем страшные фильмы маленьким детям",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:10:58.816501+00:00",
+  "turkish_example_sentence_with_blank": "Biz küçük çocuklara korkutucu filmleri ______"
 }

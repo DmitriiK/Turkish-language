@@ -1,0 +1,22 @@
+{
+  "verb_rank": 64,
+  "verb_english": "allow",
+  "verb_russian": "разрешать",
+  "verb_infinitive": "izin vermek",
+  "turkish_verb": {
+    "verb_full": "izin vermezsen",
+    "root": "izin ver",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "sen",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "turkish_example_sentence": "Sen kızına akşam dışarı çıkmaya izin vermezsen üzülüp ağlar",
+  "english_example_sentence": "If you don't allow your daughter to go out in the evening, she gets upset and cries",
+  "russian_example_sentence": "Если ты не разрешишь своей дочери выйти вечером, она расстроится и заплачет",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:39:50.452019+00:00",
+  "turkish_example_sentence_with_blank": "Sen kızına akşam dışarı çıkmaya ______ üzülüp ağlar"
+}

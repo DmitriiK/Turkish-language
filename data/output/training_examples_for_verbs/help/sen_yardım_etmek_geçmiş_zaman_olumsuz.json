@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmedin",
     "root": "yardım et",
-    "tense_affix": "ti",
+    "tense_affix": "di",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "in",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You did not help clean the messy house",
-  "russian_example_sentence": "Ты не помог убраться в грязном доме",
-  "turkish_example_sentence": "Sen karışık evi temizlemede yardım etmedin",
-  "turkish_example_sentence_with_blank": "Sen karışık evi temizlemede ______"
+  "turkish_example_sentence": "Sen kardeşine yardım etmedin mi?",
+  "english_example_sentence": "Didn't you help your brother?",
+  "russian_example_sentence": "Ты не помог брату?",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:05:03.857924+00:00",
+  "turkish_example_sentence_with_blank": "Sen kardeşine ______ mi?"
 }

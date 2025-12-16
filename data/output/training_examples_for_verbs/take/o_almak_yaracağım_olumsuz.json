@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "almayacak",
     "root": "al",
-    "tense_affix": "yacak",
+    "tense_affix": "acak",
     "verb_tense": "yaracağım",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "O, bu akşamki toplantıya yeni bir dosya almayacak.",
-  "english_example_sentence": "He/She will not take a new file to this evening's meeting.",
-  "russian_example_sentence": "Он/Она не возьмет новый файл на сегодняшнее собрание.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T09:07:25.255523+00:00",
-  "turkish_example_sentence_with_blank": "O, bu akşamki toplantıya yeni bir dosya ______."
+  "turkish_example_sentence": "O akşam saat sekizde soğuk mavi dış ceketi almayacak.",
+  "english_example_sentence": "She will not take the cold blue outer jacket in the evening at eight o'clock.",
+  "russian_example_sentence": "Она не возьмет холодную синюю верхнюю куртку вечером в восемь часов.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:26:11.635342+00:00",
+  "turkish_example_sentence_with_blank": "O akşam saat sekizde soğuk mavi dış ceketi ______."
 }

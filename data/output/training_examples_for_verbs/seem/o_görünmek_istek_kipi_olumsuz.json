@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmesin",
+    "verb_full": "görünmüyor",
     "root": "görün",
-    "tense_affix": "e",
+    "tense_affix": "üyor",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "May he not seem arrogant",
-  "russian_example_sentence": "Пусть он не кажется высокомерным",
-  "turkish_example_sentence": "O kibirli görünmesin",
-  "turkish_example_sentence_with_blank": "O kibirli ______"
+  "turkish_example_sentence": "O artık mutlu görünmüyor",
+  "english_example_sentence": "He doesn't seem happy anymore",
+  "russian_example_sentence": "Он больше не кажется счастливым",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:58:16.660921+00:00",
+  "turkish_example_sentence_with_blank": "O artık mutlu ______"
 }

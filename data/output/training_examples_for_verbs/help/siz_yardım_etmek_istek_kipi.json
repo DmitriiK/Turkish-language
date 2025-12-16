@@ -4,17 +4,19 @@
   "verb_russian": "помогать",
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
-    "verb_full": "yardım edesiniz",
+    "verb_full": "yardım edin",
     "root": "yardım et",
-    "tense_affix": "esiniz",
+    "tense_affix": "",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "siniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You should help those in need",
-  "russian_example_sentence": "Вы должны помочь нуждающимся",
-  "turkish_example_sentence": "Siz ihtiyaç sahiplerine yardım edesiniz",
-  "turkish_example_sentence_with_blank": "Siz ihtiyaç sahiplerine ______"
+  "turkish_example_sentence": "Siz bize yardım edin lütfen",
+  "english_example_sentence": "Please help us",
+  "russian_example_sentence": "Пожалуйста, помогите нам",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:05:43.743075+00:00",
+  "turkish_example_sentence_with_blank": "Siz bize ______ lütfen"
 }

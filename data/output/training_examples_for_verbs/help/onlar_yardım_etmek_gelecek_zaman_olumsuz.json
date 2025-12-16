@@ -5,7 +5,7 @@
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
     "verb_full": "yardım etmeyecekler",
-    "root": "et",
+    "root": "yardım et",
     "tense_affix": "ecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "onlar",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "They will not help prepare the traditional Turkish meal",
-  "russian_example_sentence": "Они не помогут готовить традиционную турецкую еду",
-  "turkish_example_sentence": "Onlar geleneksel Türk yemeğini hazırlamak için yardım etmeyecekler",
-  "turkish_example_sentence_with_blank": "Onlar geleneksel Türk yemeğini hazırlamak için ______"
+  "turkish_example_sentence": "Onlar bu zor koşullarda yardım etmeyecekler",
+  "english_example_sentence": "They will not help under these difficult conditions",
+  "russian_example_sentence": "Они не помогут в этих трудных условиях",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:05:14.460370+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu zor koşullarda ______"
 }

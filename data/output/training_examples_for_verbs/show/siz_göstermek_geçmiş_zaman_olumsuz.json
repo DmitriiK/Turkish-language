@@ -9,12 +9,14 @@
     "tense_affix": "di",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You did not show the detailed plans to the team",
-  "russian_example_sentence": "Вы не показали подробные планы команде",
-  "turkish_example_sentence": "Siz ayrıntılı planları takıma göstermediniz",
-  "turkish_example_sentence_with_blank": "Siz ayrıntılı planları takıma ______"
+  "turkish_example_sentence": "Siz güzel resimleri göstermediniz",
+  "english_example_sentence": "You didn't show the beautiful pictures",
+  "russian_example_sentence": "Вы не показали красивые фотографии",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:11:08.795482+00:00",
+  "turkish_example_sentence_with_blank": "Siz güzel resimleri ______"
 }

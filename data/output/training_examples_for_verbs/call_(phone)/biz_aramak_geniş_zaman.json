@@ -1,6 +1,6 @@
 {
   "verb_rank": 20,
-  "verb_english": "call",
+  "verb_english": "call (phone)",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
@@ -13,10 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Biz proje koordinatörünü öğleden sonra toplantı için düzenli olarak ararız.",
-  "english_example_sentence": "We regularly call the project coordinator in the afternoon for the meeting.",
-  "russian_example_sentence": "Мы регулярно звоним координатору проекта днем для встречи.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T16:15:56.891346+00:00",
-  "turkish_example_sentence_with_blank": "Biz proje koordinatörünü öğleden sonra toplantı için düzenli olarak ______."
+  "turkish_example_sentence": "Biz acil durumlarda doktoru hemen ararız",
+  "english_example_sentence": "We call the doctor immediately in emergencies",
+  "russian_example_sentence": "Мы звоним врачу немедленно в экстренных случаях",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T10:24:07.079761+00:00",
+  "turkish_example_sentence_with_blank": "Biz acil durumlarda doktoru hemen ______"
 }

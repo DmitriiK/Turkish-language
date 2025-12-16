@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "çalışmamalıyız",
     "root": "çalış",
-    "tense_affix": "malı",
+    "tense_affix": "mamalı",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yız",
     "polarity": "negative",
-    "negative_affix": "mama"
+    "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Biz tatil döneminde ofiste aşırı çalışmamalıyız.",
-  "english_example_sentence": "We must not work excessively in the office during vacation.",
-  "russian_example_sentence": "Мы не должны чрезмерно работать в офисе во время отпуска.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:51:57.650989+00:00",
-  "turkish_example_sentence_with_blank": "Biz tatil döneminde ofiste aşırı ______."
+  "turkish_example_sentence": "Biz resmi tatil günlerinde şirket binasında çalışmamalıyız",
+  "english_example_sentence": "We must not work at the company building on official holidays",
+  "russian_example_sentence": "Мы не должны работать в здании компании в официальные праздники",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:22:45.392447+00:00",
+  "turkish_example_sentence_with_blank": "Biz resmi tatil günlerinde şirket binasında ______"
 }

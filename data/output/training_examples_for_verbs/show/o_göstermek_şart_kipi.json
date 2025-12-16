@@ -9,12 +9,14 @@
     "tense_affix": "se",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If she shows her talent, she will win.",
-  "russian_example_sentence": "Если она покажет свой талант, она выиграет.",
-  "turkish_example_sentence": "Eğer yeteneğini gösterse, kazanır.",
-  "turkish_example_sentence_with_blank": "Eğer yeteneğini ______, kazanır."
+  "turkish_example_sentence": "O bize güzel, büyük bir bahçe gösterse",
+  "english_example_sentence": "If he/she could show us a beautiful, big garden",
+  "russian_example_sentence": "Если бы он/она мог показать нам красивый, большой сад",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:13:07.838794+00:00",
+  "turkish_example_sentence_with_blank": "O bize güzel, büyük bir bahçe ______"
 }

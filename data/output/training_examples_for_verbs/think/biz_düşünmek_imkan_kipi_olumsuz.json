@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "düşünemeyiz",
     "root": "düşün",
-    "tense_affix": "",
+    "tense_affix": "eme",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yiz",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "turkish_example_sentence": "Biz bu kadar stresli bir durumda sakin düşünemeyiz.",
-  "english_example_sentence": "We cannot think calmly in such a stressful situation.",
-  "russian_example_sentence": "Мы не можем спокойно мыслить в такой стрессовой ситуации.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T08:50:41.039735+00:00",
-  "turkish_example_sentence_with_blank": "Biz bu kadar stresli bir durumda sakin ______."
+  "turkish_example_sentence": "Biz bu kötü hava koşullarında açık havada düşünemeyiz.",
+  "english_example_sentence": "We cannot think outdoors in these bad weather conditions.",
+  "russian_example_sentence": "Мы не можем думать на открытом воздухе в таких плохих погодных условиях.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:13:55.909283+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu kötü hava koşullarında açık havada ______."
 }

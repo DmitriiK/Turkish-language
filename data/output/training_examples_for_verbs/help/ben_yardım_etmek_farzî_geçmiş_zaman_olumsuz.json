@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmemişsem",
     "root": "yardım et",
-    "tense_affix": "memişse",
+    "tense_affix": "miş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "sem",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If I hadn't helped the elderly lady.",
-  "russian_example_sentence": "Если бы я не помог пожилой даме.",
-  "turkish_example_sentence": "Ben yaşlı kadına yardım etmemişsem, düşmüş olabilirdi.",
-  "turkish_example_sentence_with_blank": "Ben yaşlı kadına ______, düşmüş olabilirdi."
+  "turkish_example_sentence": "Ben sana yardım etmemişsem, özür dilerim",
+  "english_example_sentence": "If I had not helped you, I apologize",
+  "russian_example_sentence": "Если бы я не помог тебе, я извиняюсь",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:07:28.338524+00:00",
+  "turkish_example_sentence_with_blank": "Ben sana ______, özür dilerim"
 }

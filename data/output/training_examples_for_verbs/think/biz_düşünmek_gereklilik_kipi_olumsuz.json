@@ -4,19 +4,19 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmememiz lazım",
+    "verb_full": "düşünmememiz",
     "root": "düşün",
-    "tense_affix": "me",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "miz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Biz, bu acil durumda panik yapıp aceleci kararlar düşünmememiz lazım.",
-  "english_example_sentence": "In this emergency, we should not panic and think of hasty decisions.",
-  "russian_example_sentence": "В этой экстренной ситуации нам не следует паниковать и принимать поспешные решения.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T09:01:52.632808+00:00",
-  "turkish_example_sentence_with_blank": "Biz, bu acil durumda panik yapıp aceleci kararlar ______."
+  "turkish_example_sentence": "Biz bu sıkıcı siyasi tartışmaları düşünmememiz lazım.",
+  "english_example_sentence": "We don't need to think about these boring political discussions.",
+  "russian_example_sentence": "Нам не нужно думать об этих скучных политических дискуссиях.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:13:37.985158+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu sıkıcı siyasi tartışmaları ______ lazım."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmemeli",
     "root": "yardım et",
-    "tense_affix": "meli",
+    "tense_affix": "memeli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "She must not help with that dangerous project",
-  "russian_example_sentence": "Она не должна помогать в этом опасном проекте",
-  "turkish_example_sentence": "O tehlikeli projede yardım etmemeli",
-  "turkish_example_sentence_with_blank": "O tehlikeli projede ______"
+  "turkish_example_sentence": "O kimseye yardım etmemeli",
+  "english_example_sentence": "He must not help anyone",
+  "russian_example_sentence": "Он не должен никому помогать",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:06:44.096565+00:00",
+  "turkish_example_sentence_with_blank": "O kimseye ______"
 }

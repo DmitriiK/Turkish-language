@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "düşünmeyeceksiniz",
     "root": "düşün",
-    "tense_affix": "yecek",
+    "tense_affix": "eceğ",
     "verb_tense": "yaracağım",
     "personal_pronoun": "siz",
-    "personal_affix": "siniz",
+    "personal_affix": "iniz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Siz o gereksiz tartışmayı boşuna düşünmeyeceksiniz.",
-  "english_example_sentence": "You (plural/formal) will not think about that unnecessary argument in vain.",
-  "russian_example_sentence": "Вы не будете напрасно думать об этом ненужном споре.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T08:42:17.937242+00:00",
-  "turkish_example_sentence_with_blank": "Siz o gereksiz tartışmayı boşuna ______."
+  "turkish_example_sentence": "Siz bu tehlikeli siyasi konuları düşünmeyeceksiniz",
+  "english_example_sentence": "You will not think about these dangerous political topics",
+  "russian_example_sentence": "Вы не будете думать об этих опасных политических темах",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:12:05.623720+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu tehlikeli siyasi konuları ______"
 }

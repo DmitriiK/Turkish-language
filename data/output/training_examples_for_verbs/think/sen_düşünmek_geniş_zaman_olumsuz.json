@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "düşünmezsin",
     "root": "düşün",
-    "tense_affix": "z",
+    "tense_affix": "ür",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "sin",
+    "personal_affix": "sün",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Sen bu kadar küçük hataları asla düşünmezsin.",
-  "english_example_sentence": "You never think about such small mistakes.",
-  "russian_example_sentence": "Ты никогда не думаешь о таких маленьких ошибках.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T09:00:07.663907+00:00",
-  "turkish_example_sentence_with_blank": "Sen bu kadar küçük hataları asla ______."
+  "turkish_example_sentence": "Sen hiçbir zaman gelecek planları hakkında ciddi düşünmezsin.",
+  "english_example_sentence": "You never think seriously about future plans.",
+  "russian_example_sentence": "Ты никогда не думаешь серьёзно о планах на будущее.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:12:23.985914+00:00",
+  "turkish_example_sentence_with_blank": "Sen hiçbir zaman gelecek planları hakkında ciddi ______."
 }

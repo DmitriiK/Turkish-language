@@ -5,7 +5,7 @@
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
     "verb_full": "izin vermedim",
-    "root": "izin ver",
+    "root": "ver",
     "tense_affix": "di",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "ben",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "I did not allow my son to play outside",
-  "russian_example_sentence": "Я не позволил моему сыну играть снаружи",
-  "turkish_example_sentence": "Ben oğluma dışarıda oynamak izin vermedim",
-  "turkish_example_sentence_with_blank": "Ben oğluma dışarıda oynamak ______"
+  "turkish_example_sentence": "Ben oğluma geç saatte bilgisayar oyunu oynamaya izin vermedim",
+  "english_example_sentence": "I didn't allow my son to play computer games at late hour",
+  "russian_example_sentence": "Я не разрешил моему сыну играть в компьютерные игры поздно вечером",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:36:23.694669+00:00",
+  "turkish_example_sentence_with_blank": "Ben oğluma geç saatte bilgisayar oyunu oynamaya ______"
 }

@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmediklerinde",
+    "verb_full": "görünmüyorlar",
     "root": "görün",
-    "tense_affix": "dik",
+    "tense_affix": "üyor",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "onlar",
-    "personal_affix": "leri",
+    "personal_affix": "lar",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "m"
   },
-  "english_example_sentence": "When they don't seem capable, assist",
-  "russian_example_sentence": "Когда они не кажутся способными, помогайте",
-  "turkish_example_sentence": "Onlar yetenekli görünmediklerinde, yardım et.",
-  "turkish_example_sentence_with_blank": "Onlar yetenekli ______, yardım et."
+  "turkish_example_sentence": "Onlar artık gerçekçi görünmüyorlar",
+  "english_example_sentence": "They don't seem realistic anymore",
+  "russian_example_sentence": "Они больше не кажутся реалистичными",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:00:07.672682+00:00",
+  "turkish_example_sentence_with_blank": "Onlar artık gerçekçi ______"
 }

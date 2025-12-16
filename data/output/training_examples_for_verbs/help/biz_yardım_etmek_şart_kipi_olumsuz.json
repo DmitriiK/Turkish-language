@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmesek",
     "root": "yardım et",
-    "tense_affix": "sek",
+    "tense_affix": "mes",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ek",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If we didn't help, it would take a long time.",
-  "russian_example_sentence": "Если бы мы не помогли, это заняло бы много времени.",
-  "turkish_example_sentence": "Eğer yardım etmesek bu çok zaman alırdı.",
-  "turkish_example_sentence_with_blank": "Eğer ______ bu çok zaman alırdı."
+  "turkish_example_sentence": "Biz hasta arkadaşlarımıza yardım etmesek",
+  "english_example_sentence": "If we were not to help our sick friends",
+  "russian_example_sentence": "Если бы мы не помогли нашим больным друзьям",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:06:00.809632+00:00",
+  "turkish_example_sentence_with_blank": "Biz hasta arkadaşlarımıza ______"
 }

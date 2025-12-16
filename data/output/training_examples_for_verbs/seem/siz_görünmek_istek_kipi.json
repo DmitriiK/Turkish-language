@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünesiniz",
+    "verb_full": "görünüyorsunuz",
     "root": "görün",
-    "tense_affix": "e",
+    "tense_affix": "üyor",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "siniz",
+    "personal_affix": "sünüz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "May you all seem friendly",
-  "russian_example_sentence": "Пусть вы выглядите дружелюбно",
-  "turkish_example_sentence": "Siz dost canlısı görünesiniz",
-  "turkish_example_sentence_with_blank": "Siz dost canlısı ______"
+  "turkish_example_sentence": "Siz burada çok iyi görünüyorsunuz",
+  "english_example_sentence": "You seem very good here",
+  "russian_example_sentence": "Вы кажетесь очень хорошими здесь",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:58:16.660921+00:00",
+  "turkish_example_sentence_with_blank": "Siz burada çok iyi ______"
 }

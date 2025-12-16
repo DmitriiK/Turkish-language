@@ -4,17 +4,19 @@
   "verb_russian": "начинать",
   "verb_infinitive": "başlamak",
   "turkish_verb": {
-    "verb_full": "başlamayasınız",
+    "verb_full": "başlamasınız",
     "root": "başla",
-    "tense_affix": "ya",
+    "tense_affix": "sınız",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "sınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "May you not begin without proper tools",
-  "russian_example_sentence": "Не начинайте без подходящих инструментов",
-  "turkish_example_sentence": "Siz uygun araçlar olmadan başlamayasınız",
-  "turkish_example_sentence_with_blank": "Siz uygun araçlar olmadan ______"
+  "turkish_example_sentence": "Siz yorucu ev tadilatı işine hafta sonu başlamasınız",
+  "english_example_sentence": "May you not begin the tiring house renovation work on the weekend",
+  "russian_example_sentence": "Пусть вы не начнете утомительную работу по ремонту дома в выходные",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T10:40:58.559319+00:00",
+  "turkish_example_sentence_with_blank": "Siz yorucu ev tadilatı işine hafta sonu ______"
 }

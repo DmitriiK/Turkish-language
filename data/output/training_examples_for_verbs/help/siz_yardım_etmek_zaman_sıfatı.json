@@ -4,17 +4,19 @@
   "verb_russian": "помогать",
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
-    "verb_full": "yardım ettiğinizde",
+    "verb_full": "yardım ediyorsunuz",
     "root": "yardım et",
-    "tense_affix": "tiğ",
+    "tense_affix": "iyor",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "siz",
-    "personal_affix": "iniz",
+    "personal_affix": "sunuz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When you help the animals, they are grateful.",
-  "russian_example_sentence": "Когда вы помогаете животным, они благодарны.",
-  "turkish_example_sentence": "Siz hayvanlara yardım ettiğinizde, onlar minnettar oluyorlar.",
-  "turkish_example_sentence_with_blank": "Siz hayvanlara ______, onlar minnettar oluyorlar."
+  "turkish_example_sentence": "Siz yaşlı vatandaşlara sürekli yardım ediyorsunuz",
+  "english_example_sentence": "You constantly help elderly citizens",
+  "russian_example_sentence": "Вы постоянно помогаете пожилым гражданам",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:07:48.671678+00:00",
+  "turkish_example_sentence_with_blank": "Siz yaşlı vatandaşlara sürekli ______"
 }

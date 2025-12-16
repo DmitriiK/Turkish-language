@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "düşünmediler",
     "root": "düşün",
-    "tense_affix": "di",
+    "tense_affix": "dü",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Onlar bu kritik uyarıyı maalesef düşünmediler.",
-  "english_example_sentence": "Unfortunately, they didn't consider this critical warning.",
-  "russian_example_sentence": "К сожалению, они не приняли во внимание это критическое предупреждение.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T08:53:20.432292+00:00",
-  "turkish_example_sentence_with_blank": "Onlar bu kritik uyarıyı maalesef ______."
+  "turkish_example_sentence": "Onlar bu acı gerçeği kabullemek için düşünmediler.",
+  "english_example_sentence": "They did not think to accept this bitter truth.",
+  "russian_example_sentence": "Они не думали о принятии этой горькой правды.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:11:28.984979+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu acı gerçeği kabullemek için ______."
 }

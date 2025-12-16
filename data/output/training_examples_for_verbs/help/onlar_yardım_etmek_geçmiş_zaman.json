@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım ettiler",
     "root": "yardım et",
-    "tense_affix": "ti",
+    "tense_affix": "di",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They helped rescue the injured animal yesterday",
-  "russian_example_sentence": "Они помогли спасти раненое животное вчера",
-  "turkish_example_sentence": "Onlar yaralı hayvanı kurtarmada dün yardım ettiler",
-  "turkish_example_sentence_with_blank": "Onlar yaralı hayvanı kurtarmada dün ______"
+  "turkish_example_sentence": "Onlar ihtiyacı olan insanlara her zaman yardım ettiler",
+  "english_example_sentence": "They always helped people in need",
+  "russian_example_sentence": "Они всегда помогали людям, которые нуждались в помощи",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:05:03.857924+00:00",
+  "turkish_example_sentence_with_blank": "Onlar ihtiyacı olan insanlara her zaman ______"
 }

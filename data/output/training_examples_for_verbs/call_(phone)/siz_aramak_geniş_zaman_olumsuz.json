@@ -1,22 +1,22 @@
 {
   "verb_rank": 20,
-  "verb_english": "call",
+  "verb_english": "call (phone)",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
     "verb_full": "aramazsınız",
     "root": "ara",
-    "tense_affix": "r",
+    "tense_affix": "z",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "sınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Siz resmi tatil günlerinde ofis personelini aramazsınız.",
-  "english_example_sentence": "You don't call the office staff on official holidays.",
-  "russian_example_sentence": "Вы не звоните офисному персоналу в официальные праздничные дни.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T16:15:56.891346+00:00",
-  "turkish_example_sentence_with_blank": "Siz resmi tatil günlerinde ofis personelini ______."
+  "turkish_example_sentence": "Siz gece yarısı komşuları asla aramazsınız",
+  "english_example_sentence": "You never call the neighbors at midnight",
+  "russian_example_sentence": "Вы никогда не звоните соседям в полночь",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T10:24:07.079761+00:00",
+  "turkish_example_sentence_with_blank": "Siz gece yarısı komşuları asla ______"
 }

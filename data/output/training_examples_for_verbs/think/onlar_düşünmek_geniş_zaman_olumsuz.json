@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "düşünmezler",
     "root": "düşün",
-    "tense_affix": "z",
+    "tense_affix": "ür",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Onlar boş ve anlamsız şeyleri asla düşünmezler.",
-  "english_example_sentence": "They never think about empty and meaningless things.",
-  "russian_example_sentence": "Они никогда не думают о пустых и бессмысленных вещах.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T09:00:07.663907+00:00",
-  "turkish_example_sentence_with_blank": "Onlar boş ve anlamsız şeyleri asla ______."
+  "turkish_example_sentence": "Onlar eğlence sırasında karmaşık bilimsel teoriler hakkında düşünmezler.",
+  "english_example_sentence": "They do not think about complex scientific theories during entertainment.",
+  "russian_example_sentence": "Они не думают о сложных научных теориях во время развлечений.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:12:23.985914+00:00",
+  "turkish_example_sentence_with_blank": "Onlar eğlence sırasında karmaşık bilimsel teoriler hakkında ______."
 }

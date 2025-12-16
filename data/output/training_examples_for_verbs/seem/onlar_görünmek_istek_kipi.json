@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görüneler",
+    "verb_full": "görünüyorlar",
     "root": "görün",
-    "tense_affix": "e",
+    "tense_affix": "üyor",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "ler",
+    "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "May they seem ready now",
-  "russian_example_sentence": "Пусть они кажутся готовыми сейчас",
-  "turkish_example_sentence": "Onlar şimdi hazır görüneler",
-  "turkish_example_sentence_with_blank": "Onlar şimdi hazır ______"
+  "turkish_example_sentence": "Onlar her zaman mutlu görünüyorlar",
+  "english_example_sentence": "They always seem happy",
+  "russian_example_sentence": "Они всегда кажутся счастливыми",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:58:16.660921+00:00",
+  "turkish_example_sentence_with_blank": "Onlar her zaman mutlu ______"
 }

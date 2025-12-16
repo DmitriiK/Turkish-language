@@ -4,7 +4,7 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünsünler",
+    "verb_full": "görsünler",
     "root": "görün",
     "tense_affix": "",
     "verb_tense": "emir_kipi",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Let them appear calm and collected at the ceremony",
-  "russian_example_sentence": "Пусть они выглядят спокойными и собранными на церемонии",
-  "turkish_example_sentence": "Düğün töreninde konuklar dingin ve sakin görünsünler",
-  "turkish_example_sentence_with_blank": "Düğün töreninde konuklar dingin ve sakin ______"
+  "turkish_example_sentence": "Onlar yeni işleriyle çok güzel görsünler",
+  "english_example_sentence": "Let them look very good with their new job",
+  "russian_example_sentence": "Пусть они выглядят очень хорошо с их новой работой",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:58:23.928796+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yeni işleriyle çok güzel ______"
 }

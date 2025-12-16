@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmeyecekler",
+    "verb_full": "görünmüyorlar",
     "root": "görün",
-    "tense_affix": "eceğ",
+    "tense_affix": "üyor",
     "verb_tense": "yaracağım",
     "personal_pronoun": "onlar",
-    "personal_affix": "ler",
+    "personal_affix": "lar",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "m"
   },
-  "english_example_sentence": "They will not seem disappointed with the unexpected prize",
-  "russian_example_sentence": "Они не будут казаться разочарованными неожиданным призом",
-  "turkish_example_sentence": "Onlar beklenmedik ödülden hayal kırıklığına uğramış görünmeyecekler",
-  "turkish_example_sentence_with_blank": "Onlar beklenmedik ödülden hayal kırıklığına uğramış ______"
+  "turkish_example_sentence": "Onlar artık zengin görünmüyorlar",
+  "english_example_sentence": "They don't seem rich anymore",
+  "russian_example_sentence": "Они больше не кажутся богатыми",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:57:56.671732+00:00",
+  "turkish_example_sentence_with_blank": "Onlar artık zengin ______"
 }

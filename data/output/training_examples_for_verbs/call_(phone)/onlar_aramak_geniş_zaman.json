@@ -1,6 +1,6 @@
 {
   "verb_rank": 20,
-  "verb_english": "call",
+  "verb_english": "call (phone)",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
@@ -13,10 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Onlar uzak şehirdeki akrabalarını her ay düzenli olarak ararlar.",
-  "english_example_sentence": "They regularly call their distant relatives in the city every month.",
-  "russian_example_sentence": "Они регулярно звонят своим дальним родственникам в городе каждый месяц.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T16:15:56.891346+00:00",
-  "turkish_example_sentence_with_blank": "Onlar uzak şehirdeki akrabalarını her ay düzenli olarak ______."
+  "turkish_example_sentence": "Onlar her cumartesi sevgili büyükannelerini ararlar",
+  "english_example_sentence": "They call their dear grandmother every Saturday",
+  "russian_example_sentence": "Они звонят своей дорогой бабушке каждую субботу",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T10:24:07.079761+00:00",
+  "turkish_example_sentence_with_blank": "Onlar her cumartesi sevgili büyükannelerini ______"
 }

@@ -1,6 +1,6 @@
 {
   "verb_rank": 20,
-  "verb_english": "call",
+  "verb_english": "call (phone)",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
@@ -13,10 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "O asla uzak şehirdeki küçük radyo istasyonunu aramayacak.",
-  "english_example_sentence": "She will never call the small radio station in the distant city.",
-  "russian_example_sentence": "Она никогда не позвонит на маленькую радиостанцию в далеком городе.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T16:15:21.109892+00:00",
-  "turkish_example_sentence_with_blank": "O asla uzak şehirdeki küçük radyo istasyonunu ______."
+  "turkish_example_sentence": "O hafta sonu kızgın patronu aramayacak",
+  "english_example_sentence": "She will not call the angry boss on the weekend",
+  "russian_example_sentence": "Она не будет звонить злому боссу на выходных",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T10:22:54.822177+00:00",
+  "turkish_example_sentence_with_blank": "O hafta sonu kızgın patronu ______"
 }

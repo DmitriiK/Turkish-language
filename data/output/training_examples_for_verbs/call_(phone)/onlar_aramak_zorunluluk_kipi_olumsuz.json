@@ -1,22 +1,22 @@
 {
   "verb_rank": 20,
-  "verb_english": "call",
+  "verb_english": "call (phone)",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
     "verb_full": "aramamalılar",
     "root": "ara",
-    "tense_affix": "malı",
+    "tense_affix": "mamalı",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
-    "negative_affix": "mama"
+    "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Onlar meşgul avukatı önemli karar hakkında aramamalılar.",
-  "english_example_sentence": "They must not call the busy lawyer about the important decision.",
-  "russian_example_sentence": "Они не должны звонить занятому адвокату по поводу важного решения.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T16:17:57.968182+00:00",
-  "turkish_example_sentence_with_blank": "Onlar meşgul avukatı önemli karar hakkında ______."
+  "turkish_example_sentence": "Onlar sessiz kütüphane içinde yabancı turistleri aramamalılar",
+  "english_example_sentence": "They must not call foreign tourists inside quiet library",
+  "russian_example_sentence": "Они не должны звонить иностранным туристам внутри тихой библиотеки",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T10:26:25.637257+00:00",
+  "turkish_example_sentence_with_blank": "Onlar sessiz kütüphane içinde yabancı turistleri ______"
 }

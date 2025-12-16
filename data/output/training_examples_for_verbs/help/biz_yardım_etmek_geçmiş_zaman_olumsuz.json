@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmedik",
     "root": "yardım et",
-    "tense_affix": "ti",
+    "tense_affix": "di",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ik",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "We did not help solve the complicated problem",
-  "russian_example_sentence": "Мы не помогли решить сложную проблему",
-  "turkish_example_sentence": "Biz karmaşık sorunu çözmede yardım etmedik",
-  "turkish_example_sentence_with_blank": "Biz karmaşık sorunu çözmede ______"
+  "turkish_example_sentence": "Biz geçen hafta ona yardım etmedik",
+  "english_example_sentence": "We didn't help him last week",
+  "russian_example_sentence": "Мы не помогли ему на прошлой неделе",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:05:03.857924+00:00",
+  "turkish_example_sentence_with_blank": "Biz geçen hafta ona ______"
 }

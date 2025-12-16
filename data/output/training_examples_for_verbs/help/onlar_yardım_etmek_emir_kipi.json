@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etsinler",
     "root": "yardım et",
-    "tense_affix": "sinler",
+    "tense_affix": "",
     "verb_tense": "emir_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "sinler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Let those experienced volunteers help organize the charity event",
-  "russian_example_sentence": "Пусть те опытные волонтеры помогут организовать благотворительное мероприятие",
-  "turkish_example_sentence": "Onlar deneyimli gönüllü çalışanlar önemli sosyal yardım etkinliğini düzenlemede yardım etsinler",
-  "turkish_example_sentence_with_blank": "Onlar deneyimli gönüllü çalışanlar önemli sosyal yardım etkinliğini düzenlemede ______"
+  "turkish_example_sentence": "Onlar gençlere yardım etsinler",
+  "english_example_sentence": "Let them help the young people",
+  "russian_example_sentence": "Пусть они помогут молодым людям",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:05:50.620399+00:00",
+  "turkish_example_sentence_with_blank": "Onlar gençlere ______"
 }

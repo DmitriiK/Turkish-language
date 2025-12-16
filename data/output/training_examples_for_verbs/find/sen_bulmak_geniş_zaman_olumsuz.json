@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "bulmazsın",
     "root": "bul",
-    "tense_affix": "z",
+    "tense_affix": "ur",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "sın",
+    "personal_affix": "sun",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Sen bu kalabalık pazarda aradığın ürünü asla bulmazsın.",
-  "english_example_sentence": "You never find the product you're looking for in this crowded market.",
-  "russian_example_sentence": "Ты никогда не найдешь нужный товар на этом многолюдном рынке.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T09:25:49.616698+00:00",
-  "turkish_example_sentence_with_blank": "Sen bu kalabalık pazarda aradığın ürünü asla ______."
+  "turkish_example_sentence": "Sen bu zor matematik problemini asla bulmazsın.",
+  "english_example_sentence": "You never find this difficult math problem.",
+  "russian_example_sentence": "Ты никогда не найдешь эту сложную математическую задачу.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:40:01.901910+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu zor matematik problemini asla ______."
 }

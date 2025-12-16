@@ -11,12 +11,12 @@
     "personal_pronoun": "ben",
     "personal_affix": "yım",
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "mama"
   },
-  "turkish_example_sentence": "Ben o eski kırık vazoyu kesinlikle almamalıyım.",
-  "english_example_sentence": "I absolutely must not take that old broken vase.",
-  "russian_example_sentence": "Я категорически не должен брать ту старую разбитую вазу.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T09:11:40.244979+00:00",
-  "turkish_example_sentence_with_blank": "Ben o eski kırık vazoyu kesinlikle ______."
+  "turkish_example_sentence": "Ben bu ağır çantayı almamalıyım çünkü sırt ağrısı var.",
+  "english_example_sentence": "I must not take this heavy bag because I have back pain.",
+  "russian_example_sentence": "Я не должен брать эту тяжелую сумку, потому что у меня болит спина.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:33:43.755381+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu ağır çantayı ______ çünkü sırt ağrısı var."
 }

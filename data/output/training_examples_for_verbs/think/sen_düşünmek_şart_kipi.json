@@ -4,7 +4,7 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünsen",
+    "verb_full": "düşünsün",
     "root": "düşün",
     "tense_affix": "se",
     "verb_tense": "şart_kipi",
@@ -13,10 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Sen bu önemli kararı acele etmeden düşünsen, daha iyi olur.",
-  "english_example_sentence": "If you thought about this important decision without rushing, it would be better.",
-  "russian_example_sentence": "Если бы ты обдумал это важное решение, не торопясь, было бы лучше.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T09:01:21.325843+00:00",
-  "turkish_example_sentence_with_blank": "Sen bu önemli kararı acele etmeden ______, daha iyi olur."
+  "turkish_example_sentence": "Sen bu önemli kararı düşünsün, daha iyi seçim yapabilirsin.",
+  "english_example_sentence": "If you were to think about this important decision, you could make a better choice.",
+  "russian_example_sentence": "Если бы ты подумал об этом важном решении, ты смог бы сделать лучший выбор.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:13:20.179389+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu önemli kararı ______, daha iyi seçim yapabilirsin."
 }

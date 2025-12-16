@@ -5,7 +5,7 @@
   "verb_infinitive": "göstermek",
   "turkish_verb": {
     "verb_full": "gösteriyoruz",
-    "root": "göster",
+    "root": "gösterm",
     "tense_affix": "iyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "biz",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We are showing the modern architectural design to the construction team",
-  "russian_example_sentence": "Мы показываем современный архитектурный дизайн строительной бригаде",
-  "turkish_example_sentence": "Biz modern mimari tasarımı inşaat ekibine gösteriyoruz",
-  "turkish_example_sentence_with_blank": "Biz modern mimari tasarımı inşaat ekibine ______"
+  "turkish_example_sentence": "Biz yeni sergiyi ziyaretçilere gösteriyoruz",
+  "english_example_sentence": "We are showing the new exhibition to visitors",
+  "russian_example_sentence": "Мы показываем новую выставку посетителям",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:10:58.816501+00:00",
+  "turkish_example_sentence_with_blank": "Biz yeni sergiyi ziyaretçilere ______"
 }

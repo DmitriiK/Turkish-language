@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmemişsem",
-    "root": "gör",
-    "tense_affix": "memişse",
+    "verb_full": "görünmüyorum",
+    "root": "görün",
+    "tense_affix": "üyor",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "um",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "m"
   },
-  "english_example_sentence": "If I hadn't seemed interested in art.",
-  "russian_example_sentence": "Если бы я не казался заинтересованным в искусстве.",
-  "turkish_example_sentence": "Sanata ilgili görünmemişsem, yorgundum.",
-  "turkish_example_sentence_with_blank": "Sanata ilgili ______, yorgundum."
+  "turkish_example_sentence": "Ben eski evimde mutsuz görünmüyorum",
+  "english_example_sentence": "I don't seem unhappy in my old home",
+  "russian_example_sentence": "Я не кажусь несчастным в моем старом доме",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:59:38.155169+00:00",
+  "turkish_example_sentence_with_blank": "Ben eski evimde mutsuz ______"
 }

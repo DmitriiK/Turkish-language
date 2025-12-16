@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmeyecekti",
     "root": "yardım et",
-    "tense_affix": "ecekti",
+    "tense_affix": "ecek",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "She was not going to help me.",
-  "russian_example_sentence": "Она не собиралась помогать мне.",
-  "turkish_example_sentence": "O bana bu konuda kesinlikle yardım etmeyecekti.",
-  "turkish_example_sentence_with_blank": "O bana bu konuda kesinlikle ______."
+  "turkish_example_sentence": "O dün akşam arkadaşına yardım etmeyecekti",
+  "english_example_sentence": "He/She was not going to help his/her friend last night",
+  "russian_example_sentence": "Он/Она не собирался помочь своему другу прошлой ночью",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:06:54.201272+00:00",
+  "turkish_example_sentence_with_blank": "O dün akşam arkadaşına ______"
 }

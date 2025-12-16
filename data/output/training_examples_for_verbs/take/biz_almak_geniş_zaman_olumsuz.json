@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "almayız",
     "root": "al",
-    "tense_affix": "",
+    "tense_affix": "ır",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "yız",
+    "personal_affix": "ız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Biz asla acele kararlar almayız.",
-  "english_example_sentence": "We never take hasty decisions.",
-  "russian_example_sentence": "Мы никогда не принимаем поспешных решений.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T09:19:01.805027+00:00",
-  "turkish_example_sentence_with_blank": "Biz asla acele kararlar ______."
+  "turkish_example_sentence": "Biz zararlı ilaçları hiçbir zaman almayız.",
+  "english_example_sentence": "We never take harmful medicines.",
+  "russian_example_sentence": "Мы никогда не берем вредные лекарства.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:26:29.601455+00:00",
+  "turkish_example_sentence_with_blank": "Biz zararlı ilaçları hiçbir zaman ______."
 }

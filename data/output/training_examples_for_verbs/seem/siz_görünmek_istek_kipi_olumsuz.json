@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmeyesiniz",
+    "verb_full": "görünmüyorsunuz",
     "root": "görün",
-    "tense_affix": "e",
+    "tense_affix": "üyor",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "siniz",
+    "personal_affix": "sünüz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "May you all not seem worried",
-  "russian_example_sentence": "Пусть вы не выглядите обеспокоенными",
-  "turkish_example_sentence": "Siz endişeli görünmeyesiniz",
-  "turkish_example_sentence_with_blank": "Siz endişeli ______"
+  "turkish_example_sentence": "Siz bu durumda iyi görünmüyorsunuz",
+  "english_example_sentence": "You don't seem good in this situation",
+  "russian_example_sentence": "Вы не кажетесь хорошими в этой ситуации",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:58:16.660921+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu durumda iyi ______"
 }

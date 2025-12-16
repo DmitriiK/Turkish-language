@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmemişsek",
     "root": "yardım et",
-    "tense_affix": "memişse",
+    "tense_affix": "miş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "sek",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If we hadn't helped with the research.",
-  "russian_example_sentence": "Если бы мы не помогли с исследованием.",
-  "turkish_example_sentence": "Biz araştırma konusunda yardım etmemişsek, sonuçlar gecikmiş olurdu.",
-  "turkish_example_sentence_with_blank": "Biz araştırma konusunda ______, sonuçlar gecikmiş olurdu."
+  "turkish_example_sentence": "Biz birbirimize yardım etmemişsek, sorunlarımız olur",
+  "english_example_sentence": "If we had not helped each other, we would have problems",
+  "russian_example_sentence": "Если бы мы не помогли друг другу, у нас бы были проблемы",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:07:28.338524+00:00",
+  "turkish_example_sentence_with_blank": "Biz birbirimize ______, sorunlarımız olur"
 }

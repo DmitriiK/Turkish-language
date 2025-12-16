@@ -1,6 +1,6 @@
 {
   "verb_rank": 20,
-  "verb_english": "call",
+  "verb_english": "call (phone)",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
@@ -13,10 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Sen hiç kızgın öğretmeni sınıfta aramayacaksın.",
-  "english_example_sentence": "You will not call the angry teacher in the classroom.",
-  "russian_example_sentence": "Ты не позвонишь сердитому учителю в классе.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T16:15:21.109892+00:00",
-  "turkish_example_sentence_with_blank": "Sen hiç kızgın öğretmeni sınıfta ______."
+  "turkish_example_sentence": "Sen geç saatte komşu kadını aramayacaksın",
+  "english_example_sentence": "You will not call the neighbor woman at a late hour",
+  "russian_example_sentence": "Ты не будешь звонить соседке поздно",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T10:22:54.822177+00:00",
+  "turkish_example_sentence_with_blank": "Sen geç saatte komşu kadını ______"
 }

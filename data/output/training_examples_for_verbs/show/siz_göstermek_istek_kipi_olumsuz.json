@@ -4,17 +4,19 @@
   "verb_russian": "показывать",
   "verb_infinitive": "göstermek",
   "turkish_verb": {
-    "verb_full": "göstermeyebilirsiniz",
+    "verb_full": "göstermeyesiniz",
     "root": "göster",
     "tense_affix": "e",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "siniz",
+    "personal_affix": "sınız",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You may not show the results today.",
-  "russian_example_sentence": "Вы можете не показывать результаты сегодня.",
-  "turkish_example_sentence": "Siz bugün sonuçları göstermeyebilirsiniz.",
-  "turkish_example_sentence_with_blank": "Siz bugün sonuçları ______."
+  "turkish_example_sentence": "Siz eski filmi çocuklara göstermeyesiniz",
+  "english_example_sentence": "May you not show the old movie to the children",
+  "russian_example_sentence": "Пусть вы не показываете старый фильм детям",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:11:49.688441+00:00",
+  "turkish_example_sentence_with_blank": "Siz eski filmi çocuklara ______"
 }

@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmeleri lazım",
+    "verb_full": "görünüyorlar",
     "root": "görün",
-    "tense_affix": "lazım",
+    "tense_affix": "üyor",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "ları",
+    "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They need to seem enthusiastic about the new project",
-  "russian_example_sentence": "Они должны казаться энтузиастичными по поводу нового проекта",
-  "turkish_example_sentence": "Onlar yeni iş projesine heyecanlı ve istekli görünmeleri lazım",
-  "turkish_example_sentence_with_blank": "Onlar yeni iş projesine heyecanlı ve istekli ______"
+  "turkish_example_sentence": "Onlar yeni evleriyle çok mutlu görünüyorlar",
+  "english_example_sentence": "They seem very happy with their new home",
+  "russian_example_sentence": "Они кажутся очень счастливыми с их новым домом",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:58:44.893556+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yeni evleriyle çok mutlu ______"
 }

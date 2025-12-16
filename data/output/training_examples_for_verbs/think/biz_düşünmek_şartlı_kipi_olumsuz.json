@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "düşünmezsek",
     "root": "düşün",
-    "tense_affix": "se",
+    "tense_affix": "mez",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "mez"
   },
-  "turkish_example_sentence": "Biz çevresel sorunları derinden düşünmezsek, gelecek nesiller zorlanır.",
-  "english_example_sentence": "If we don't think deeply about environmental problems, future generations will struggle.",
-  "russian_example_sentence": "Если мы глубоко не подумаем об экологических проблемах, будущие поколения столкнутся с трудностями.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T08:52:08.756474+00:00",
-  "turkish_example_sentence_with_blank": "Biz çevresel sorunları derinden ______, gelecek nesiller zorlanır."
+  "turkish_example_sentence": "Biz çevre sorunlarını ciddi şekilde düşünmezsek, felaket yaşayacağız.",
+  "english_example_sentence": "If we don't think about environmental problems seriously, we will experience disaster.",
+  "russian_example_sentence": "Если мы не будем серьёзно думать об экологических проблемах, мы столкнёмся с катастрофой.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:15:01.555148+00:00",
+  "turkish_example_sentence_with_blank": "Biz çevre sorunlarını ciddi şekilde ______, felaket yaşayacağız."
 }

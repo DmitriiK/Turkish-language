@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmeyecektiniz",
     "root": "yardım et",
-    "tense_affix": "ecekti",
+    "tense_affix": "ecek",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "ktiniz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You were not going to help the elderly.",
-  "russian_example_sentence": "Вы не собирались помогать пожилым людям.",
-  "turkish_example_sentence": "Siz yaşlı insanlara bu ağır çantaları taşımakta yardım etmeyecektiniz.",
-  "turkish_example_sentence_with_blank": "Siz yaşlı insanlara bu ağır çantaları taşımakta ______."
+  "turkish_example_sentence": "Siz dün akşam arkadaşlarınıza yardım etmeyecektiniz",
+  "english_example_sentence": "You were not going to help your friends last night",
+  "russian_example_sentence": "Вы не собирались помочь своим друзьям прошлой ночью",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:06:54.201272+00:00",
+  "turkish_example_sentence_with_blank": "Siz dün akşam arkadaşlarınıza ______"
 }

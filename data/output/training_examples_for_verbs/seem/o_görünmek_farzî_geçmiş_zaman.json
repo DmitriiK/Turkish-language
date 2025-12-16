@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmüşse",
-    "root": "gör",
-    "tense_affix": "müşse",
+    "verb_full": "görünüyor",
+    "root": "görün",
+    "tense_affix": "üyor",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If he had seemed more enthusiastic.",
-  "russian_example_sentence": "Если бы он казался более восторженным.",
-  "turkish_example_sentence": "Daha hevesli görünmüşse, kesinlikle başarılı olurdu.",
-  "turkish_example_sentence_with_blank": "Daha hevesli ______, kesinlikle başarılı olurdu."
+  "turkish_example_sentence": "O yeni işinde çok yetenekli görünüyor",
+  "english_example_sentence": "He/she seems very talented in his/her new job",
+  "russian_example_sentence": "Он/Она кажется очень талантливым в своей новой работе",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:59:38.155169+00:00",
+  "turkish_example_sentence_with_blank": "O yeni işinde çok yetenekli ______"
 }

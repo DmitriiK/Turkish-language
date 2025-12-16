@@ -5,16 +5,18 @@
   "verb_infinitive": "göstermek",
   "turkish_verb": {
     "verb_full": "göstermiyorlar",
-    "root": "göster",
-    "tense_affix": "iyor",
+    "root": "gösterm",
+    "tense_affix": "miyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
-    "negative_affix": "m"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "They are not showing the valuable historical artifacts to the public museum",
-  "russian_example_sentence": "Они не показывают ценные исторические артефакты государственному музею",
-  "turkish_example_sentence": "Onlar değerli tarihî eserleri devlet müzesine göstermiyorlar",
-  "turkish_example_sentence_with_blank": "Onlar değerli tarihî eserleri devlet müzesine ______"
+  "turkish_example_sentence": "Onlar eski fotoğrafları göstermiyorlar",
+  "english_example_sentence": "They are not showing old photos",
+  "russian_example_sentence": "Они не показывают старые фотографии",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:10:58.816501+00:00",
+  "turkish_example_sentence_with_blank": "Onlar eski fotoğrafları ______"
 }

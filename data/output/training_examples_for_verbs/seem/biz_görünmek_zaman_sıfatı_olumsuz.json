@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmediğimizde",
+    "verb_full": "görünmüyoruz",
     "root": "görün",
-    "tense_affix": "düğ",
+    "tense_affix": "üyor",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "biz",
-    "personal_affix": "ğimiz",
+    "personal_affix": "uz",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "m"
   },
-  "english_example_sentence": "When we don't seem prepared, panic",
-  "russian_example_sentence": "Когда мы не кажемся подготовленными, паникуйте",
-  "turkish_example_sentence": "Hazır görünmediğimizde, panik yapıyoruz.",
-  "turkish_example_sentence_with_blank": "Hazır ______, panik yapıyoruz."
+  "turkish_example_sentence": "Biz bu durumda zayıf görünmüyoruz",
+  "english_example_sentence": "We don't seem weak in this situation",
+  "russian_example_sentence": "Мы не кажемся слабыми в этой ситуации",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:00:07.672682+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu durumda zayıf ______"
 }

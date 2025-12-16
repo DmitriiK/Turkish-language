@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "almayacaksınız",
     "root": "al",
-    "tense_affix": "yacak",
+    "tense_affix": "acak",
     "verb_tense": "yaracağım",
     "personal_pronoun": "siz",
     "personal_affix": "sınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Siz, bu hızlı kararı aceleyle almayacaksınız.",
-  "english_example_sentence": "You will not make this quick decision hastily.",
-  "russian_example_sentence": "Вы не примете это быстрое решение поспешно.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T09:07:25.255523+00:00",
-  "turkish_example_sentence_with_blank": "Siz, bu hızlı kararı aceleyle ______."
+  "turkish_example_sentence": "Siz kütüphanede eski değerli kitapları almayacaksınız.",
+  "english_example_sentence": "You will not take the old valuable books at the library.",
+  "russian_example_sentence": "Вы не возьмете старые ценные книги в библиотеке.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:26:11.635342+00:00",
+  "turkish_example_sentence_with_blank": "Siz kütüphanede eski değerli kitapları ______."
 }

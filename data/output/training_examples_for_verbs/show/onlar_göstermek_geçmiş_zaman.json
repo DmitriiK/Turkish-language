@@ -4,17 +4,19 @@
   "verb_russian": "показывать",
   "verb_infinitive": "göstermek",
   "turkish_verb": {
-    "verb_full": "gösterdiler",
+    "verb_full": "göstürdüler",
     "root": "göster",
-    "tense_affix": "di",
+    "tense_affix": "dü",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They showed the colorful paintings at the gallery",
-  "russian_example_sentence": "Они показали красочные картины в галерее",
-  "turkish_example_sentence": "Onlar renkli tabloları galeride gösterdiler",
-  "turkish_example_sentence_with_blank": "Onlar renkli tabloları galeride ______"
+  "turkish_example_sentence": "Onlar dün eski kasabayı turistlere göstürdüler",
+  "english_example_sentence": "They showed the old town to the tourists yesterday",
+  "russian_example_sentence": "Они показали старый город туристам вчера",
+  "generated_by_model": "LLAMA - meta.llama4-scout-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T11:31:06.398300+00:00",
+  "turkish_example_sentence_with_blank": "Onlar dün eski kasabayı turistlere ______"
 }

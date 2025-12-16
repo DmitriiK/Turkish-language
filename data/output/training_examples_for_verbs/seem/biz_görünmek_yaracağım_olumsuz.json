@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmeyeceğiz",
+    "verb_full": "görünmüyoruz",
     "root": "görün",
-    "tense_affix": "eceğ",
+    "tense_affix": "üyor",
     "verb_tense": "yaracağım",
     "personal_pronoun": "biz",
-    "personal_affix": "iz",
+    "personal_affix": "uz",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "m"
   },
-  "english_example_sentence": "We will not seem nervous during the concert performance",
-  "russian_example_sentence": "Мы не будем казаться нервными во время концертного выступления",
-  "turkish_example_sentence": "Biz konser performansında endişeli görünmeyeceğiz",
-  "turkish_example_sentence_with_blank": "Biz konser performansında endişeli ______"
+  "turkish_example_sentence": "Biz bu projede başarılı görünmüyoruz",
+  "english_example_sentence": "We don't seem successful in this project",
+  "russian_example_sentence": "Мы не кажемся успешными в этом проекте",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:57:56.671732+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu projede başarılı ______"
 }

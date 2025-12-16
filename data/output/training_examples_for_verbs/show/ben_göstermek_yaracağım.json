@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "göstereceğim",
     "root": "göster",
-    "tense_affix": "eceğ",
+    "tense_affix": "eceğim",
     "verb_tense": "yaracağım",
     "personal_pronoun": "ben",
     "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I will show you my beautiful new paintings tomorrow",
-  "russian_example_sentence": "Я покажу тебе мои красивые новые картины завтра",
-  "turkish_example_sentence": "Ben yarın sana güzel yeni tablolarımı göstereceğim",
-  "turkish_example_sentence_with_blank": "Ben yarın sana güzel yeni tablolarımı ______"
+  "turkish_example_sentence": "Ben yarın büyük resimi göstereceğim",
+  "english_example_sentence": "I will show my big picture tomorrow",
+  "russian_example_sentence": "Я покажу свою большую картину завтра",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:11:28.919466+00:00",
+  "turkish_example_sentence_with_blank": "Ben yarın büyük resimi ______"
 }

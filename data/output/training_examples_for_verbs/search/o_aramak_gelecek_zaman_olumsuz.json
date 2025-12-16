@@ -1,0 +1,22 @@
+{
+  "verb_rank": 20,
+  "verb_english": "call",
+  "verb_russian": "звонить",
+  "verb_infinitive": "aramak",
+  "turkish_verb": {
+    "verb_full": "aramayacak",
+    "root": "ara",
+    "tense_affix": "yacak",
+    "verb_tense": "gelecek_zaman",
+    "personal_pronoun": "o",
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "turkish_example_sentence": "O asla uzak şehirdeki küçük radyo istasyonunu aramayacak.",
+  "english_example_sentence": "She will never call the small radio station in the distant city.",
+  "russian_example_sentence": "Она никогда не позвонит на маленькую радиостанцию в далеком городе.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:15:21.109892+00:00",
+  "turkish_example_sentence_with_blank": "O asla uzak şehirdeki küçük radyo istasyonunu ______."
+}

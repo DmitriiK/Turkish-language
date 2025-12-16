@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etsin",
     "root": "yardım et",
-    "tense_affix": "sin",
+    "tense_affix": "",
     "verb_tense": "emir_kipi",
     "personal_pronoun": "o",
     "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Let him help the injured accident victim immediately",
-  "russian_example_sentence": "Пусть он поможет пострадавшей жертве аварии немедленно",
-  "turkish_example_sentence": "O genç doktor ciddi trafik kazasının yaralı kurbanına yardım etsin",
-  "turkish_example_sentence_with_blank": "O genç doktor ciddi trafik kazasının yaralı kurbanına ______"
+  "turkish_example_sentence": "O hasta çocuğa yardım etsin",
+  "english_example_sentence": "Let him help the sick child",
+  "russian_example_sentence": "Пусть он поможет больному ребёнку",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:05:50.620399+00:00",
+  "turkish_example_sentence_with_blank": "O hasta çocuğa ______"
 }

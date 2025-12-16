@@ -4,17 +4,19 @@
   "verb_russian": "помогать",
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
-    "verb_full": "yardım ede",
+    "verb_full": "yardım etsin",
     "root": "yardım et",
-    "tense_affix": "e",
+    "tense_affix": "",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "May he help everyone in need",
-  "russian_example_sentence": "Пусть он поможет всем нуждающимся",
-  "turkish_example_sentence": "O, ihtiyacı olan herkese yardım ede",
-  "turkish_example_sentence_with_blank": "O, ihtiyacı olan herkese ______"
+  "turkish_example_sentence": "O hasta çocuğa yardım etsin",
+  "english_example_sentence": "Let him help the sick child",
+  "russian_example_sentence": "Пусть он поможет больному ребёнку",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:05:43.743075+00:00",
+  "turkish_example_sentence_with_blank": "O hasta çocuğa ______"
 }

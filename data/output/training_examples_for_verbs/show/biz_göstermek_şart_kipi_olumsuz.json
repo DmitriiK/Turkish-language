@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "göstermesek",
     "root": "göster",
-    "tense_affix": "se",
+    "tense_affix": "mese",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If we don’t show it, they might hesitate.",
-  "russian_example_sentence": "Если мы не покажем это, они могут колебаться.",
-  "turkish_example_sentence": "Eğer göstermesek, tereddüt edebilirler.",
-  "turkish_example_sentence_with_blank": "Eğer ______, tereddüt edebilirler."
+  "turkish_example_sentence": "Biz size zor, çirkin bir anıt göstermesek",
+  "english_example_sentence": "If we couldn't show you a difficult, ugly monument",
+  "russian_example_sentence": "Если бы мы не могли показать вам трудный, некрасивый памятник",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:13:07.838794+00:00",
+  "turkish_example_sentence_with_blank": "Biz size zor, çirkin bir anıt ______"
 }

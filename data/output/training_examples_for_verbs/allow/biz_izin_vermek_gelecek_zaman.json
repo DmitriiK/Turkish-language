@@ -5,7 +5,7 @@
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
     "verb_full": "izin vereceğiz",
-    "root": "izin ver",
+    "root": "ver",
     "tense_affix": "ecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "biz",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We will allow the new employees to work remotely",
-  "russian_example_sentence": "Мы позволим новым сотрудникам работать удаленно",
-  "turkish_example_sentence": "Biz yeni çalışanlara evden çalışmak izin vereceğiz",
-  "turkish_example_sentence_with_blank": "Biz yeni çalışanlara evden çalışmak ______"
+  "turkish_example_sentence": "Biz önümüzdeki ay komşulara bahçemizde büyük düğün partisi yapmalarına izin vereceğiz",
+  "english_example_sentence": "We will allow the neighbors to have a big wedding party in our garden next month",
+  "russian_example_sentence": "Мы разрешим соседям устроить большую свадебную вечеринку в нашем саду в следующем месяце",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:37:05.180039+00:00",
+  "turkish_example_sentence_with_blank": "Biz önümüzdeki ay komşulara bahçemizde büyük düğün partisi yapmalarına ______"
 }

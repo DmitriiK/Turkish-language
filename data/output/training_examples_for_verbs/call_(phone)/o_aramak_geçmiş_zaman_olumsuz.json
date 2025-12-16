@@ -1,6 +1,6 @@
 {
   "verb_rank": 20,
-  "verb_english": "call",
+  "verb_english": "call (phone)",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
@@ -13,10 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "O akşam yemeğinden sonra uzak akrabası Aydın şehrinden aramadı.",
-  "english_example_sentence": "She did not call her distant relative from Aydın city after dinner.",
-  "russian_example_sentence": "Она не позвонила своему дальнему родственнику из города Айдын после ужина.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T16:14:51.844132+00:00",
-  "turkish_example_sentence_with_blank": "O akşam yemeğinden sonra uzak akrabası Aydın şehrinden ______."
+  "turkish_example_sentence": "O gece meşgul doktoru aramadı",
+  "english_example_sentence": "He/she didn't call the busy doctor at night",
+  "russian_example_sentence": "Он/она не звонил занятому доктору ночью",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T10:22:19.781935+00:00",
+  "turkish_example_sentence_with_blank": "O gece meşgul doktoru ______"
 }

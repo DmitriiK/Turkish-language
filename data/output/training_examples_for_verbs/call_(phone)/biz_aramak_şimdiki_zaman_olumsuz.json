@@ -1,6 +1,6 @@
 {
   "verb_rank": 20,
-  "verb_english": "call",
+  "verb_english": "call (phone)",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
@@ -11,12 +11,12 @@
     "personal_pronoun": "biz",
     "personal_affix": "uz",
     "polarity": "negative",
-    "negative_affix": "m"
+    "negative_affix": "mı"
   },
-  "turkish_example_sentence": "Biz yeni iş ortağını bugün aramıyoruz.",
-  "english_example_sentence": "We are not calling the new business partner today.",
-  "russian_example_sentence": "Мы не звоним новому деловому партнеру сегодня.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T16:14:30.920100+00:00",
-  "turkish_example_sentence_with_blank": "Biz yeni iş ortağını bugün ______."
+  "turkish_example_sentence": "Biz tatilde iş yerindeki patronu aramıyoruz",
+  "english_example_sentence": "We are not calling the boss at work during vacation",
+  "russian_example_sentence": "Мы не звоним начальнику на работе во время отпуска",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T10:21:45.881681+00:00",
+  "turkish_example_sentence_with_blank": "Biz tatilde iş yerindeki patronu ______"
 }

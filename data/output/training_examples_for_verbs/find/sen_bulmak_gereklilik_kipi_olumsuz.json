@@ -4,19 +4,19 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulmaması",
+    "verb_full": "bulmanması",
     "root": "bul",
-    "tense_affix": "",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Sen bu hafta yeni iş fırsatını bulmaması gerek değil.",
-  "english_example_sentence": "You don't need to find a new job opportunity this week.",
-  "russian_example_sentence": "Тебе не нужно находить новую возможность работы на этой неделе.",
+  "turkish_example_sentence": "Sen eski şarkı albümünü bulmanması gerek.",
+  "english_example_sentence": "You need to not find the old song album.",
+  "russian_example_sentence": "Тебе нужно не найти старый музыкальный альбом.",
   "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:35:24.826021+00:00",
-  "turkish_example_sentence_with_blank": "Sen bu hafta yeni iş fırsatını ______ gerek değil."
+  "generated_at": "2025-12-15T12:39:10.674543+00:00",
+  "turkish_example_sentence_with_blank": "Sen eski şarkı albümünü ______ gerek."
 }

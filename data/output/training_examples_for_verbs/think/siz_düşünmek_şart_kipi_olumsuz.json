@@ -4,19 +4,19 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmeseniz",
+    "verb_full": "düşünmesünüz",
     "root": "düşün",
     "tense_affix": "se",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "nüz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Siz bu basit cevabı dikkatli düşünmeseniz, sınavda yanlış yaparsınız.",
-  "english_example_sentence": "If you didn't think about this simple answer carefully, you would make a mistake on the exam.",
-  "russian_example_sentence": "Если бы вы не обдумали этот простой ответ внимательно, вы бы допустили ошибку на экзамене.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T09:01:21.325843+00:00",
-  "turkish_example_sentence_with_blank": "Siz bu basit cevabı dikkatli ______, sınavda yanlış yaparsınız."
+  "turkish_example_sentence": "Siz bu olumsuz yorumları düşünmesünüz, özgüven kaybetmeyeceksiniz.",
+  "english_example_sentence": "If you were not to think about these negative comments, you would not lose confidence.",
+  "russian_example_sentence": "Если бы вы не думали об этих негативных комментариях, вы бы не потеряли уверенность.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:13:20.179389+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu olumsuz yorumları ______, özgüven kaybetmeyeceksiniz."
 }

@@ -4,17 +4,19 @@
   "verb_russian": "показывать",
   "verb_infinitive": "göstermek",
   "turkish_verb": {
-    "verb_full": "gösteremezler",
+    "verb_full": "gösteremiyorlar",
     "root": "göster",
-    "tense_affix": "eme",
+    "tense_affix": "emiyorlar",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "zler",
+    "personal_affix": "emiyorlar",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "They cannot show the fragile delicate crystal items",
-  "russian_example_sentence": "Они не могут показать хрупкие деликатные хрустальные предметы",
-  "turkish_example_sentence": "Onlar kırılgan hassas kristal eşyaları gösteremezler",
-  "turkish_example_sentence_with_blank": "Onlar kırılgan hassas kristal eşyaları ______"
+  "turkish_example_sentence": "Onlar eski belgeleri gösteremiyorlar çünkü kaybolmuş",
+  "english_example_sentence": "They are unable to show old documents because they are lost",
+  "russian_example_sentence": "Они не могут показать старые документы, потому что они потеряны",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:10:14.597312+00:00",
+  "turkish_example_sentence_with_blank": "Onlar eski belgeleri ______ çünkü kaybolmuş"
 }

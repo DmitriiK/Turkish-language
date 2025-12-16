@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "bulmam",
     "root": "bul",
-    "tense_affix": "",
+    "tense_affix": "ur",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "um",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Ben genellikle gereksiz sorunlar bulmam.",
-  "english_example_sentence": "I usually don't find unnecessary problems.",
-  "russian_example_sentence": "Я обычно не нахожу ненужных проблем.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T09:25:49.616698+00:00",
-  "turkish_example_sentence_with_blank": "Ben genellikle gereksiz sorunlar ______."
+  "turkish_example_sentence": "Ben o eski mavi kitabı kütüphanede bulmam.",
+  "english_example_sentence": "I do not find that old blue book in the library.",
+  "russian_example_sentence": "Я не нахожу ту старую синюю книгу в библиотеке.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:40:01.901910+00:00",
+  "turkish_example_sentence_with_blank": "Ben o eski mavi kitabı kütüphanede ______."
 }

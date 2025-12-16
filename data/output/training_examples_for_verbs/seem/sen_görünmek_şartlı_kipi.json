@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünürsen",
+    "verb_full": "görünüyorsun",
     "root": "görün",
-    "tense_affix": "ürse",
+    "tense_affix": "üyor",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "sun",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you seem happy, they smile.",
-  "russian_example_sentence": "Если ты кажешься счастливым, они улыбаются.",
-  "turkish_example_sentence": "Eğer mutlu görünürsen, onlar gülümser.",
-  "turkish_example_sentence_with_blank": "Eğer mutlu ______, onlar gülümser."
+  "turkish_example_sentence": "Sen yeni saçınla çok güzel görünüyorsun",
+  "english_example_sentence": "You seem very beautiful with your new hair",
+  "russian_example_sentence": "Ты кажешься очень красивой с новыми волосами",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:59:26.904994+00:00",
+  "turkish_example_sentence_with_blank": "Sen yeni saçınla çok güzel ______"
 }

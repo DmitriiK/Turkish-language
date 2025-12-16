@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "almayacağız",
     "root": "al",
-    "tense_affix": "yacak",
+    "tense_affix": "acağ",
     "verb_tense": "yaracağım",
     "personal_pronoun": "biz",
     "personal_affix": "ız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Biz, bu gereksiz sorumluluğu üzerimize almayacağız.",
-  "english_example_sentence": "We will not take this unnecessary responsibility upon ourselves.",
-  "russian_example_sentence": "Мы не возьмем эту ненужную ответственность на себя.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T09:07:25.255523+00:00",
-  "turkish_example_sentence_with_blank": "Biz, bu gereksiz sorumluluğu üzerimize ______."
+  "turkish_example_sentence": "Biz bu yıl uzun yorucu yolculuğu almayacağız.",
+  "english_example_sentence": "We will not take this long tiring journey this year.",
+  "russian_example_sentence": "Мы не возьмем это долгое утомительное путешествие в этом году.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:26:11.635342+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu yıl uzun yorucu yolculuğu ______."
 }

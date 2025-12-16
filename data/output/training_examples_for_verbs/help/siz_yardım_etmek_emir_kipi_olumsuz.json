@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmeyin",
     "root": "yardım et",
-    "tense_affix": "yin",
+    "tense_affix": "",
     "verb_tense": "emir_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "in",
+    "personal_affix": "meyin",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "Don't help those dishonest businessmen with their fraud scheme",
-  "russian_example_sentence": "Не помогайте этим нечестным бизнесменам с их мошенническим планом",
-  "turkish_example_sentence": "Siz o hileci iş adamlarına yasa dışı para kazanma planında yardım etmeyin",
-  "turkish_example_sentence_with_blank": "Siz o hileci iş adamlarına yasa dışı para kazanma planında ______"
+  "turkish_example_sentence": "Siz başkalarına yardım etmeyin",
+  "english_example_sentence": "You do not help others",
+  "russian_example_sentence": "Вы не помогите другим",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:05:50.620399+00:00",
+  "turkish_example_sentence_with_blank": "Siz başkalarına ______"
 }

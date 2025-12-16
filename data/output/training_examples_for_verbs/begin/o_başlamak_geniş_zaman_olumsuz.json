@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "başlamaz",
     "root": "başla",
-    "tense_affix": "r",
+    "tense_affix": "maz",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "He doesn't begin his training session",
-  "russian_example_sentence": "Он не начинает свою тренировочную сессию",
-  "turkish_example_sentence": "O egzersiz seansına başlamaz",
-  "turkish_example_sentence_with_blank": "O egzersiz seansına ______"
+  "turkish_example_sentence": "O soğuk havada uzun yürüyüş gezisine başlamaz",
+  "english_example_sentence": "He/she doesn't begin a long walking trip in cold weather",
+  "russian_example_sentence": "Он/она не начинает длинную пешую прогулку в холодную погоду",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T10:47:59.729328+00:00",
+  "turkish_example_sentence_with_blank": "O soğuk havada uzun yürüyüş gezisine ______"
 }

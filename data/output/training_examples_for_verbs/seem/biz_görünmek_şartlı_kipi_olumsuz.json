@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmezsek",
+    "verb_full": "görünmüyoruz",
     "root": "görün",
-    "tense_affix": "mezse",
+    "tense_affix": "üyor",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "uz",
     "polarity": "negative",
-    "negative_affix": "mez"
+    "negative_affix": "m"
   },
-  "english_example_sentence": "If we don’t seem ready, they won’t wait.",
-  "russian_example_sentence": "Если мы не кажемся готовыми, они не будут ждать.",
-  "turkish_example_sentence": "Eğer hazır görünmezsek, beklemezler.",
-  "turkish_example_sentence_with_blank": "Eğer hazır ______, beklemezler."
+  "turkish_example_sentence": "Biz yorgun olduğumuzdan zayıf görünmüyoruz",
+  "english_example_sentence": "We don't seem strong because we're tired",
+  "russian_example_sentence": "Мы не кажемся сильными, потому что устали",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:59:26.904994+00:00",
+  "turkish_example_sentence_with_blank": "Biz yorgun olduğumuzdan zayıf ______"
 }

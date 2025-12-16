@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmezsen",
     "root": "yardım et",
-    "tense_affix": "mezse",
+    "tense_affix": "mez",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "mez"
   },
-  "english_example_sentence": "If you don't help him, he will fail.",
-  "russian_example_sentence": "Если ты ему не поможешь, он провалится.",
-  "turkish_example_sentence": "Sen ona yardım etmezsen, o başarısız olur.",
-  "turkish_example_sentence_with_blank": "Sen ona ______, o başarısız olur."
+  "turkish_example_sentence": "Sen hasta arkadaşına yardım etmezsen, iyileşemez",
+  "english_example_sentence": "If you don't help your sick friend, they can't recover",
+  "russian_example_sentence": "Если ты не поможешь своему больному другу, он не выздоровеет",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:07:05.419742+00:00",
+  "turkish_example_sentence_with_blank": "Sen hasta arkadaşına ______, iyileşemez"
 }

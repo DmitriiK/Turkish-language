@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmişsen",
     "root": "yardım et",
-    "tense_affix": "mişse",
+    "tense_affix": "miş",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "sen",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you had helped with the cooking.",
-  "russian_example_sentence": "Если бы ты помог с готовкой.",
-  "turkish_example_sentence": "Sen yemek pişirme konusunda yardım etmişsen, şimdi aç olmazdık.",
-  "turkish_example_sentence_with_blank": "Sen yemek pişirme konusunda ______, şimdi aç olmazdık."
+  "turkish_example_sentence": "Sen bana yardım etmişsen, ben de sana ederim",
+  "english_example_sentence": "If you had helped me, I would help you too",
+  "russian_example_sentence": "Если бы ты помог мне, я бы тоже помог тебе",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:07:28.338524+00:00",
+  "turkish_example_sentence_with_blank": "Sen bana ______, ben de sana ederim"
 }

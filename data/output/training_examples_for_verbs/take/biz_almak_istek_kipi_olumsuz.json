@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "almayalım",
     "root": "al",
-    "tense_affix": "ya",
+    "tense_affix": "a",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "lım",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Biz o pahalı biletleri şimdi almayalım.",
-  "english_example_sentence": "Let's not take those expensive tickets now.",
-  "russian_example_sentence": "Давайте не будем брать те дорогие билеты сейчас.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T09:19:43.434449+00:00",
-  "turkish_example_sentence_with_blank": "Biz o pahalı biletleri şimdi ______."
+  "turkish_example_sentence": "Biz bu soğuk kış günlerinde ağır siyah montları almayalım.",
+  "english_example_sentence": "Let's not take the heavy black coats on these cold winter days.",
+  "russian_example_sentence": "Давайте не будем брать тяжелые черные пальто в эти холодные зимние дни.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:26:50.229215+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu soğuk kış günlerinde ağır siyah montları ______."
 }

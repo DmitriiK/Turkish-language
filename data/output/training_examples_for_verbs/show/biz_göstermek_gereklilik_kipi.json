@@ -4,17 +4,19 @@
   "verb_russian": "показывать",
   "verb_infinitive": "göstermek",
   "turkish_verb": {
-    "verb_full": "göstermemiz lazım",
-    "root": "göster",
-    "tense_affix": "lazım",
+    "verb_full": "göstermeliyiz",
+    "root": "göstermek",
+    "tense_affix": "meliyiz",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "mız",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We need to show the wonderful historical monuments",
-  "russian_example_sentence": "Мы должны показать замечательные исторические памятники",
-  "turkish_example_sentence": "Biz harika tarihi anıtları göstermemiz lazım",
-  "turkish_example_sentence_with_blank": "Biz harika tarihi anıtları ______"
+  "turkish_example_sentence": "Biz ilginç belgeseli göstermeliyiz",
+  "english_example_sentence": "We need to show the interesting documentary",
+  "russian_example_sentence": "Нам нужно показать интересный документальный фильм",
+  "generated_by_model": "LLAMA - meta.llama4-scout-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T11:35:28.681817+00:00",
+  "turkish_example_sentence_with_blank": "Biz ilginç belgeseli ______"
 }

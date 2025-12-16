@@ -4,19 +4,19 @@
   "verb_russian": "работать",
   "verb_infinitive": "çalışmak",
   "turkish_verb": {
-    "verb_full": "çalışmaları",
+    "verb_full": "çalışmaları lazım",
     "root": "çalış",
-    "tense_affix": "",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ları",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Onlar uzun araştırma projesi için çalışmaları lazım.",
-  "english_example_sentence": "They need to work for the long research project.",
-  "russian_example_sentence": "Им нужно работать над долгосрочным исследовательским проектом.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:51:16.573007+00:00",
-  "turkish_example_sentence_with_blank": "Onlar uzun araştırma projesi için ______ lazım."
+  "turkish_example_sentence": "Onlar eski tarihi binayı restore etmek için dikkatle çalışmaları lazım",
+  "english_example_sentence": "They need to work carefully to restore the old historical building",
+  "russian_example_sentence": "Им нужно работать внимательно, чтобы восстановить старое историческое здание",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:21:29.461728+00:00",
+  "turkish_example_sentence_with_blank": "Onlar eski tarihi binayı restore etmek için dikkatle ______"
 }

@@ -4,7 +4,7 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmemelisin",
+    "verb_full": "düşünmemesin",
     "root": "düşün",
     "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
@@ -13,10 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Sen gereksiz endişeleri hiç düşünmemelisin.",
-  "english_example_sentence": "You must never think about unnecessary worries.",
-  "russian_example_sentence": "Ты не должен вообще думать о ненужных беспокойствах.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T08:51:09.159375+00:00",
-  "turkish_example_sentence_with_blank": "Sen gereksiz endişeleri hiç ______."
+  "turkish_example_sentence": "Sen başkasının kişisel kararlarını düşünmemesin.",
+  "english_example_sentence": "You must not think about other people's personal decisions.",
+  "russian_example_sentence": "Ты не должен думать о личных решениях других людей.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:14:16.616264+00:00",
+  "turkish_example_sentence_with_blank": "Sen başkasının kişisel kararlarını ______."
 }

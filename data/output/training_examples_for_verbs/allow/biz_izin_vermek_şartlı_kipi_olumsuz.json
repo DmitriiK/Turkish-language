@@ -1,0 +1,22 @@
+{
+  "verb_rank": 64,
+  "verb_english": "allow",
+  "verb_russian": "разрешать",
+  "verb_infinitive": "izin vermek",
+  "turkish_verb": {
+    "verb_full": "izin vermezsek",
+    "root": "izin ver",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "sek",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "turkish_example_sentence": "Biz çocuklara sokakta top oynamaya izin vermezsek güvenli kalırlar",
+  "english_example_sentence": "If we don't allow the children to play ball in the street, they remain safe",
+  "russian_example_sentence": "Если мы не разрешим детям играть в мяч на улице, они останутся в безопасности",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:39:50.452019+00:00",
+  "turkish_example_sentence_with_blank": "Biz çocuklara sokakta top oynamaya ______ güvenli kalırlar"
+}

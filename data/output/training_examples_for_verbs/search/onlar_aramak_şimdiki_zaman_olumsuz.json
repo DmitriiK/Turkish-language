@@ -1,0 +1,22 @@
+{
+  "verb_rank": 20,
+  "verb_english": "call (phone)",
+  "verb_russian": "звонить",
+  "verb_infinitive": "aramak",
+  "turkish_verb": {
+    "verb_full": "aramıyorlar",
+    "root": "ara",
+    "tense_affix": "ıyor",
+    "verb_tense": "şimdiki_zaman",
+    "personal_pronoun": "onlar",
+    "personal_affix": "lar",
+    "polarity": "negative",
+    "negative_affix": "m"
+  },
+  "turkish_example_sentence": "Onlar pazartesi günü sıcak kahve dükkanını aramıyorlar",
+  "english_example_sentence": "They are not calling the warm coffee shop on Monday",
+  "russian_example_sentence": "Они не звонят в тёплую кофейню в понедельник",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T10:20:03.109179+00:00",
+  "turkish_example_sentence_with_blank": "Onlar pazartesi günü sıcak kahve dükkanını ______"
+}

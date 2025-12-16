@@ -5,7 +5,7 @@
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
     "verb_full": "yardım edeceğiz",
-    "root": "et",
+    "root": "yardım et",
     "tense_affix": "ecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "biz",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We will help paint the colorful school walls",
-  "russian_example_sentence": "Мы поможем раскрасить стены школы",
-  "turkish_example_sentence": "Biz renkli okul duvarlarını boyamak için yardım edeceğiz",
-  "turkish_example_sentence_with_blank": "Biz renkli okul duvarlarını boyamak için ______"
+  "turkish_example_sentence": "Biz gelecek hafta büyük projede yardım edeceğiz",
+  "english_example_sentence": "We will help with the big project next week",
+  "russian_example_sentence": "Мы поможем с большим проектом на следующей неделе",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:05:14.460370+00:00",
+  "turkish_example_sentence_with_blank": "Biz gelecek hafta büyük projede ______"
 }

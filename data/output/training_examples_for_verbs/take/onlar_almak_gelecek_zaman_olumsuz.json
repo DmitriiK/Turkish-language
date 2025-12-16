@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "almayacaklar",
     "root": "al",
-    "tense_affix": "yacak",
+    "tense_affix": "acak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Onlar o gereksiz riski asla almayacaklar.",
-  "english_example_sentence": "They will never take that unnecessary risk.",
-  "russian_example_sentence": "Они никогда не пойдут на тот ненужный риск.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T09:18:38.467233+00:00",
-  "turkish_example_sentence_with_blank": "Onlar o gereksiz riski asla ______."
+  "turkish_example_sentence": "Onlar spor merkezinde ağır bir antrenman ekipmanı almayacaklar.",
+  "english_example_sentence": "They will not take heavy training equipment at the sports center.",
+  "russian_example_sentence": "Они не возьмут тяжелое тренировочное оборудование в спортивном центре.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:25:53.411326+00:00",
+  "turkish_example_sentence_with_blank": "Onlar spor merkezinde ağır bir antrenman ekipmanı ______."
 }

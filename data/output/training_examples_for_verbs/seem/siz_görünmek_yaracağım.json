@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görüneceksiniz",
+    "verb_full": "görünüyorsunuz",
     "root": "görün",
-    "tense_affix": "eceğ",
+    "tense_affix": "üyor",
     "verb_tense": "yaracağım",
     "personal_pronoun": "siz",
-    "personal_affix": "iniz",
+    "personal_affix": "sunuz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You will seem knowledgeable about the ancient history topic",
-  "russian_example_sentence": "Вы будете казаться знающими о теме древней истории",
-  "turkish_example_sentence": "Siz antik tarih konusu hakkında bilgili görüneceksiniz",
-  "turkish_example_sentence_with_blank": "Siz antik tarih konusu hakkında bilgili ______"
+  "turkish_example_sentence": "Siz burada çok profesyonel görünüyorsunuz",
+  "english_example_sentence": "You seem very professional here",
+  "russian_example_sentence": "Вы кажетесь очень профессиональными здесь",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:57:56.671732+00:00",
+  "turkish_example_sentence_with_blank": "Siz burada çok profesyonel ______"
 }

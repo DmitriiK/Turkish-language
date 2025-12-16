@@ -1,6 +1,6 @@
 {
   "verb_rank": 20,
-  "verb_english": "call",
+  "verb_english": "call (phone)",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
@@ -13,10 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Biz çarşamba öğleden sonra üniversite rektörlüğünü resmi konuda aradık.",
-  "english_example_sentence": "We called the university rectorate on Wednesday afternoon regarding an official matter.",
-  "russian_example_sentence": "Мы позвонили в ректорат университета в среду днем по официальному вопросу.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T16:14:51.844132+00:00",
-  "turkish_example_sentence_with_blank": "Biz çarşamba öğleden sonra üniversite rektörlüğünü resmi konuda ______."
+  "turkish_example_sentence": "Biz pazartesi günü yeşil taksiciyi aradık",
+  "english_example_sentence": "We called the green taxi driver on Monday",
+  "russian_example_sentence": "Мы звонили зеленому таксисту в понедельник",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T10:22:19.781935+00:00",
+  "turkish_example_sentence_with_blank": "Biz pazartesi günü yeşil taksiciyi ______"
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmeyecek",
     "root": "yardım et",
-    "tense_affix": "eceğ",
+    "tense_affix": "edeceğ",
     "verb_tense": "yaracağım",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "She will not help organize the community event",
-  "russian_example_sentence": "Она не поможет организовать общественное мероприятие",
-  "turkish_example_sentence": "O büyük topluluk etkinliğini düzenlemekte yardım etmeyecek",
-  "turkish_example_sentence_with_blank": "O büyük topluluk etkinliğini düzenlemekte ______"
+  "turkish_example_sentence": "O zor durumda yardım etmeyecek",
+  "english_example_sentence": "He/She will not help in a difficult situation",
+  "russian_example_sentence": "Он/Она не поможет в трудной ситуации",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:05:24.596938+00:00",
+  "turkish_example_sentence_with_blank": "O zor durumda ______"
 }

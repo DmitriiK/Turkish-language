@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "almayacağız",
     "root": "al",
-    "tense_affix": "yacağ",
+    "tense_affix": "acak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "ız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Biz o tehlikeli yolu bir daha almayacağız.",
-  "english_example_sentence": "We will not take that dangerous road again.",
-  "russian_example_sentence": "Мы не пойдем по той опасной дороге снова.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T09:18:38.467233+00:00",
-  "turkish_example_sentence_with_blank": "Biz o tehlikeli yolu bir daha ______."
+  "turkish_example_sentence": "Biz bu yıl uzun bir Avrupa seyahatinde pahalı bir otel almayacağız.",
+  "english_example_sentence": "We will not take an expensive hotel on a long European trip this year.",
+  "russian_example_sentence": "Мы не возьмем дорогой отель в долгом европейском путешествии в этом году.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:25:53.411326+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu yıl uzun bir Avrupa seyahatinde pahalı bir otel ______."
 }

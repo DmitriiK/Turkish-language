@@ -1,6 +1,6 @@
 {
   "verb_rank": 20,
-  "verb_english": "call",
+  "verb_english": "call (phone)",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
@@ -13,10 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "O gelecek pazartesi önemli hastane danışmanını arayacak.",
-  "english_example_sentence": "He will call the important hospital consultant next Monday.",
-  "russian_example_sentence": "Он позвонит важному консультанту больницы в следующий понедельник.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T16:15:21.109892+00:00",
-  "turkish_example_sentence_with_blank": "O gelecek pazartesi önemli hastane danışmanını ______."
+  "turkish_example_sentence": "O pazartesi günü önemli avukatı arayacak",
+  "english_example_sentence": "He will call the important lawyer on Monday",
+  "russian_example_sentence": "Он позвонит важному адвокату в понедельник",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T10:22:54.822177+00:00",
+  "turkish_example_sentence_with_blank": "O pazartesi günü önemli avukatı ______"
 }

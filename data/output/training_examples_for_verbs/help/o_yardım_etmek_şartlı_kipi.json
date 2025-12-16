@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım ederse",
     "root": "yardım et",
-    "tense_affix": "erse",
+    "tense_affix": "se",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If she helps the team, we will win.",
-  "russian_example_sentence": "Если она поможет команде, мы победим.",
-  "turkish_example_sentence": "O takıma yardım ederse, kazanırız.",
-  "turkish_example_sentence_with_blank": "O takıma ______, kazanırız."
+  "turkish_example_sentence": "O yaşlı kadına yardım ederse, herkes beğenir",
+  "english_example_sentence": "If he helps the old woman, everyone likes it",
+  "russian_example_sentence": "Если он поможет старой женщине, всем это нравится",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:07:05.419742+00:00",
+  "turkish_example_sentence_with_blank": "O yaşlı kadına ______, herkes beğenir"
 }

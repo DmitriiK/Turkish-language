@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "göstermeyeceğiz",
     "root": "göster",
-    "tense_affix": "eceğ",
+    "tense_affix": "eceğiz",
     "verb_tense": "yaracağım",
     "personal_pronoun": "biz",
     "personal_affix": "iz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "We will not show the broken equipment to the inspectors",
-  "russian_example_sentence": "Мы не покажем поломанное оборудование инспекторам",
-  "turkish_example_sentence": "Biz kırık ekipmanları denetçilere göstermeyeceğiz",
-  "turkish_example_sentence_with_blank": "Biz kırık ekipmanları denetçilere ______"
+  "turkish_example_sentence": "Biz bu karmaşık planı göstermeyeceğiz",
+  "english_example_sentence": "We will not show this complex plan",
+  "russian_example_sentence": "Мы не покажем этот сложный план",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:11:28.919466+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu karmaşık planı ______"
 }

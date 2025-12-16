@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmediniz",
     "root": "yardım et",
-    "tense_affix": "ti",
+    "tense_affix": "di",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "iniz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You did not help carry the heavy boxes",
-  "russian_example_sentence": "Вы не помогли нести тяжелые коробки",
-  "turkish_example_sentence": "Siz ağır kutuları taşımada yardım etmediniz",
-  "turkish_example_sentence_with_blank": "Siz ağır kutuları taşımada ______"
+  "turkish_example_sentence": "Siz geçen yıl bize yardım etmediniz",
+  "english_example_sentence": "You didn't help us last year",
+  "russian_example_sentence": "Вы не помогли нам в прошлом году",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:05:03.857924+00:00",
+  "turkish_example_sentence_with_blank": "Siz geçen yıl bize ______"
 }

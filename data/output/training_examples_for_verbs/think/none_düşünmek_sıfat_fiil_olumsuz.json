@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "düşünmeyen",
     "root": "düşün",
-    "tense_affix": "yen",
+    "tense_affix": "en",
     "verb_tense": "sıfat_fiil",
     "personal_pronoun": null,
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Hiçbir şeyi düşünmeyen bir çocuk hayatı zor yaşar.",
-  "english_example_sentence": "A child who thinks about nothing lives a difficult life.",
-  "russian_example_sentence": "Ребенок, который ни о чем не думает, живет трудной жизнью.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T08:52:20.833508+00:00",
-  "turkish_example_sentence_with_blank": "Hiçbir şeyi ______ bir çocuk hayatı zor yaşar."
+  "turkish_example_sentence": "Sonuçları düşünmeyen genç girişimci hızlı kararlar aldı.",
+  "english_example_sentence": "The young entrepreneur not thinking about consequences made quick decisions.",
+  "russian_example_sentence": "Молодой предприниматель, не думающий о последствиях, принял быстрые решения.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:15:35.017470+00:00",
+  "turkish_example_sentence_with_blank": "Sonuçları ______ genç girişimci hızlı kararlar aldı."
 }

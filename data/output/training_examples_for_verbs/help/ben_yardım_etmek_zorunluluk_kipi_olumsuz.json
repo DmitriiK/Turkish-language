@@ -4,17 +4,19 @@
   "verb_russian": "помогать",
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
-    "verb_full": "yardım etmemeliym",
+    "verb_full": "yardım etmemeliyim",
     "root": "yardım et",
-    "tense_affix": "meli",
+    "tense_affix": "memeli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "yim",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "I must not help with that illegal business venture",
-  "russian_example_sentence": "Я не должен помогать в этом незаконном деловом предприятии",
-  "turkish_example_sentence": "Ben o yasadışı ticari girişime yardım etmemeliym",
-  "turkish_example_sentence_with_blank": "Ben o yasadışı ticari girişime ______"
+  "turkish_example_sentence": "Ben ona yardım etmemeliyim çünkü o bağımsız",
+  "english_example_sentence": "I must not help him because he is independent",
+  "russian_example_sentence": "Я не должен ему помогать, потому что он независим",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:06:44.096565+00:00",
+  "turkish_example_sentence_with_blank": "Ben ona ______ çünkü o bağımsız"
 }

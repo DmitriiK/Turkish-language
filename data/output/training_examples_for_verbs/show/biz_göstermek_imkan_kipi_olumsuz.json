@@ -4,17 +4,19 @@
   "verb_russian": "показывать",
   "verb_infinitive": "göstermek",
   "turkish_verb": {
-    "verb_full": "gösteremeyiz",
+    "verb_full": "gösteremiyoruz",
     "root": "göster",
-    "tense_affix": "eme",
+    "tense_affix": "emiyoruz",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "yiz",
+    "personal_affix": "emiyoruz",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "We cannot show the private family photographs today",
-  "russian_example_sentence": "Мы не можем показать личные семейные фотографии сегодня",
-  "turkish_example_sentence": "Biz bugün özel aile fotoğraflarını gösteremeyiz",
-  "turkish_example_sentence_with_blank": "Biz bugün özel aile fotoğraflarını ______"
+  "turkish_example_sentence": "Biz bu karmaşık sistemi gösteremiyoruz",
+  "english_example_sentence": "We are unable to show this complex system",
+  "russian_example_sentence": "Мы не можем показать эту сложную систему",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:10:14.597312+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu karmaşık sistemi ______"
 }

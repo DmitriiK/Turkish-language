@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "almayacaksın",
     "root": "al",
-    "tense_affix": "yacak",
+    "tense_affix": "acak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "sın",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Sen o pahalı arabayı asla almayacaksın.",
-  "english_example_sentence": "You will never take that expensive car.",
-  "russian_example_sentence": "Ты никогда не возьмешь ту дорогую машину.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T09:18:38.467233+00:00",
-  "turkish_example_sentence_with_blank": "Sen o pahalı arabayı asla ______."
+  "turkish_example_sentence": "Sen bugün okul öncesi çocuğunun oyuncağını almayacaksın.",
+  "english_example_sentence": "You will not take your preschool child's toy today.",
+  "russian_example_sentence": "Ты не возьмешь игрушку своего дошкольного ребенка сегодня.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:25:53.411326+00:00",
+  "turkish_example_sentence_with_blank": "Sen bugün okul öncesi çocuğunun oyuncağını ______."
 }

@@ -4,19 +4,19 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünürseniz",
+    "verb_full": "düşünürsünüz",
     "root": "düşün",
     "tense_affix": "ür",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "seniz",
+    "personal_affix": "nüz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Siz bu önemli meseleyi dikkatlice düşünürseniz, en iyi kararı verirsiniz.",
-  "english_example_sentence": "If you think about this important matter carefully, you will make the best decision.",
-  "russian_example_sentence": "Если вы внимательно подумаете об этом важном вопросе, вы примете лучшее решение.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T08:52:08.756474+00:00",
-  "turkish_example_sentence_with_blank": "Siz bu önemli meseleyi dikkatlice ______, en iyi kararı verirsiniz."
+  "turkish_example_sentence": "Siz bu ilginç tarihsel olayı dikkatle düşünürsünüz, gerçeği bulursunuz.",
+  "english_example_sentence": "If you think carefully about this interesting historical event, you will find the truth.",
+  "russian_example_sentence": "Если вы внимательно подумаете об этом интересном историческом событии, вы найдёте истину.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:15:01.555148+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu ilginç tarihsel olayı dikkatle ______, gerçeği bulursunuz."
 }

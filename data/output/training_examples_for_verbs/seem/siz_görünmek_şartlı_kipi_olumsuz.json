@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmezseniz",
+    "verb_full": "görünmüyorsunuz",
     "root": "görün",
-    "tense_affix": "mezse",
+    "tense_affix": "üyor",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "sunuz",
     "polarity": "negative",
-    "negative_affix": "mez"
+    "negative_affix": "m"
   },
-  "english_example_sentence": "If you don’t seem kind, kids won’t like you.",
-  "russian_example_sentence": "Если вы не кажетесь добрыми, дети вас не полюбят.",
-  "turkish_example_sentence": "Eğer nazik görünmezseniz, çocuklar sizi sevmez.",
-  "turkish_example_sentence_with_blank": "Eğer nazik ______, çocuklar sizi sevmez."
+  "turkish_example_sentence": "Siz zor durumda görünmüyorsunuz",
+  "english_example_sentence": "You don't seem to be in a difficult situation",
+  "russian_example_sentence": "Вы не кажетесь в трудном положении",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:59:26.904994+00:00",
+  "turkish_example_sentence_with_blank": "Siz zor durumda ______"
 }

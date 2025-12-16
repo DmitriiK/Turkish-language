@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmemelisiniz",
     "root": "yardım et",
-    "tense_affix": "meli",
+    "tense_affix": "memeli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "siniz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You must not help him escape from prison",
-  "russian_example_sentence": "Вы не должны помочь ему убежать из тюрьмы",
-  "turkish_example_sentence": "Siz o suçluyu cezaevinden kaçmakta yardım etmemelisiniz",
-  "turkish_example_sentence_with_blank": "Siz o suçluyu cezaevinden kaçmakta ______"
+  "turkish_example_sentence": "Siz ona yardım etmemelisiniz, o sorumlu",
+  "english_example_sentence": "You must not help him, he is responsible",
+  "russian_example_sentence": "Вы не должны ему помогать, он ответственный",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:06:44.096565+00:00",
+  "turkish_example_sentence_with_blank": "Siz ona ______, o sorumlu"
 }

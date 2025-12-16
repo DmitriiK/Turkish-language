@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we show this, it will be enough.",
-  "russian_example_sentence": "Если мы покажем это, этого будет достаточно.",
-  "turkish_example_sentence": "Eğer bunu göstersek, yeter.",
-  "turkish_example_sentence_with_blank": "Eğer bunu ______, yeter."
+  "turkish_example_sentence": "Biz size yeni, ilginç bir müze göstersek",
+  "english_example_sentence": "If we could show you a new, interesting museum",
+  "russian_example_sentence": "Если бы мы могли показать вам новый, интересный музей",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:13:07.838794+00:00",
+  "turkish_example_sentence_with_blank": "Biz size yeni, ilginç bir müze ______"
 }

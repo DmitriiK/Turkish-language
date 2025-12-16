@@ -4,17 +4,19 @@
   "verb_russian": "показывать",
   "verb_infinitive": "göstermek",
   "turkish_verb": {
-    "verb_full": "göstermeseniz",
+    "verb_full": "göstermezsiniz",
     "root": "göster",
-    "tense_affix": "se",
+    "tense_affix": "mez",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "siniz",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "mez"
   },
-  "english_example_sentence": "If you don't show us the way, we’ll get lost.",
-  "russian_example_sentence": "Если вы не покажете нам дорогу, мы заблудимся.",
-  "turkish_example_sentence": "Bize yolu göstermeseniz kayboluruz.",
-  "turkish_example_sentence_with_blank": "Bize yolu ______ kayboluruz."
+  "turkish_example_sentence": "Siz eski fotoğrafları kimseye göstermezsiniz, onlar kaybolur",
+  "english_example_sentence": "If you don't show the old photos to anyone, they will get lost",
+  "russian_example_sentence": "Если вы не покажете старые фотографии никому, они потеряются",
+  "generated_by_model": "LLAMA - meta.llama4-scout-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T11:36:14.071177+00:00",
+  "turkish_example_sentence_with_blank": "Siz eski fotoğrafları kimseye ______, onlar kaybolur"
 }

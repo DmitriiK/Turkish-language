@@ -5,7 +5,7 @@
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
     "verb_full": "izin vereceksiniz",
-    "root": "izin ver",
+    "root": "ver",
     "tense_affix": "ecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "siz",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You will allow the guests to enjoy the garden",
-  "russian_example_sentence": "Вы позволите гостям наслаждаться садом",
-  "turkish_example_sentence": "Siz misafirlerine güzel bahçede gezinmek izin vereceksiniz",
-  "turkish_example_sentence_with_blank": "Siz misafirlerine güzel bahçede gezinmek ______"
+  "turkish_example_sentence": "Siz öğretmen olarak öğrencilere sınavda elektronik sözlük kullanmalarına izin vereceksiniz",
+  "english_example_sentence": "You as a teacher will allow the students to use electronic dictionaries in the exam",
+  "russian_example_sentence": "Вы как учитель разрешите студентам использовать электронные словари на экзамене",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:37:05.180039+00:00",
+  "turkish_example_sentence_with_blank": "Siz öğretmen olarak öğrencilere sınavda elektronik sözlük kullanmalarına ______"
 }

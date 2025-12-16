@@ -11,12 +11,12 @@
     "personal_pronoun": "biz",
     "personal_affix": "uz",
     "polarity": "negative",
-    "negative_affix": "mü"
+    "negative_affix": "m"
   },
-  "turkish_example_sentence": "Biz bu tehlikeli durumu asla düşünmüyoruz.",
-  "english_example_sentence": "We are never thinking about this dangerous situation.",
-  "russian_example_sentence": "Мы никогда не думаем об этой опасной ситуации.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T08:52:58.855757+00:00",
-  "turkish_example_sentence_with_blank": "Biz bu tehlikeli durumu asla ______."
+  "turkish_example_sentence": "Biz bu olumsuz haberleri şimdi düşünmüyoruz.",
+  "english_example_sentence": "We are not thinking about this negative news right now.",
+  "russian_example_sentence": "Мы не думаем об этих плохих новостях прямо сейчас.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:11:02.837643+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu olumsuz haberleri şimdi ______."
 }

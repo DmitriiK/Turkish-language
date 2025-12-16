@@ -4,17 +4,19 @@
   "verb_russian": "показывать",
   "verb_infinitive": "göstermek",
   "turkish_verb": {
-    "verb_full": "göstermeleri lazım",
-    "root": "göster",
-    "tense_affix": "lazım",
+    "verb_full": "göstermeliler",
+    "root": "göstermek",
+    "tense_affix": "meliler",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "ları",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They need to show the colorful traditional handicrafts",
-  "russian_example_sentence": "Они должны показать красочные традиционные ремесла",
-  "turkish_example_sentence": "Onlar renkli geleneksel el sanatlarını göstermeleri lazım",
-  "turkish_example_sentence_with_blank": "Onlar renkli geleneksel el sanatlarını ______"
+  "turkish_example_sentence": "Onlar eski fotoğrafları göstermeliler",
+  "english_example_sentence": "They need to show the old photos",
+  "russian_example_sentence": "Им нужно показать старые фотографии",
+  "generated_by_model": "LLAMA - meta.llama4-scout-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T11:35:28.681817+00:00",
+  "turkish_example_sentence_with_blank": "Onlar eski fotoğrafları ______"
 }

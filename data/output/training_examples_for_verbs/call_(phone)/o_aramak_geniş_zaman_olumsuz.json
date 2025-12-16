@@ -1,22 +1,22 @@
 {
   "verb_rank": 20,
-  "verb_english": "call",
+  "verb_english": "call (phone)",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
     "verb_full": "aramaz",
     "root": "ara",
-    "tense_affix": "r",
+    "tense_affix": "z",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "O sessiz kütüphanede kimseyi rahatsız etmek için aramaz.",
-  "english_example_sentence": "He doesn't call anyone in the quiet library to disturb them.",
-  "russian_example_sentence": "Он не звонит никому в тихой библиотеке, чтобы их не беспокоить.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T16:15:56.891346+00:00",
-  "turkish_example_sentence_with_blank": "O sessiz kütüphanede kimseyi rahatsız etmek için ______."
+  "turkish_example_sentence": "O yabancı numaraları hiçbir zaman aramaz",
+  "english_example_sentence": "He/she never calls unknown numbers",
+  "russian_example_sentence": "Он/она никогда не звонит на незнакомые номера",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T10:24:07.079761+00:00",
+  "turkish_example_sentence_with_blank": "O yabancı numaraları hiçbir zaman ______"
 }

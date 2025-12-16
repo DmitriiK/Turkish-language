@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "It would be nice if you seemed confident.",
-  "russian_example_sentence": "Было бы здорово, если бы ты казался уверенным.",
-  "turkish_example_sentence": "Kendine güvenen görünsen güzel olurdu.",
-  "turkish_example_sentence_with_blank": "Kendine güvenen ______ güzel olurdu."
+  "turkish_example_sentence": "Sen güzel görünsen, herkes sana güler",
+  "english_example_sentence": "If you seem beautiful, everyone laughs at you",
+  "russian_example_sentence": "Если ты кажешься красивой, все смеются над тобой",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:58:34.681314+00:00",
+  "turkish_example_sentence_with_blank": "Sen güzel ______, herkes sana güler"
 }

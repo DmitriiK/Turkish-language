@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "almazsın",
     "root": "al",
-    "tense_affix": "",
+    "tense_affix": "ır",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "sın",
     "polarity": "negative",
-    "negative_affix": "maz"
+    "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Sen bu önemli görevi asla almazsın.",
-  "english_example_sentence": "You never take this important task.",
-  "russian_example_sentence": "Ты никогда не берешь эту важную задачу.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T09:19:01.805027+00:00",
-  "turkish_example_sentence_with_blank": "Sen bu önemli görevi asla ______."
+  "turkish_example_sentence": "Sen hiçbir zaman ağır çantayı almazsın.",
+  "english_example_sentence": "You never take the heavy bag.",
+  "russian_example_sentence": "Ты никогда не берешь тяжелую сумку.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:26:29.601455+00:00",
+  "turkish_example_sentence_with_blank": "Sen hiçbir zaman ağır çantayı ______."
 }

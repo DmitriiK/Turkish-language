@@ -4,17 +4,19 @@
   "verb_russian": "помогать",
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
-    "verb_full": "yardım etmediklerinde",
+    "verb_full": "yardım etmiyorlar",
     "root": "yardım et",
-    "tense_affix": "tik",
+    "tense_affix": "iyor",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "onlar",
-    "personal_affix": "leri",
+    "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "When they don't help the injured, it's upsetting.",
-  "russian_example_sentence": "Когда они не помогают раненым, это расстраивает.",
-  "turkish_example_sentence": "Onlar yaralılara yardım etmediklerinde, bu üzücü oluyor.",
-  "turkish_example_sentence_with_blank": "Onlar yaralılara ______, bu üzücü oluyor."
+  "turkish_example_sentence": "Onlar uzak bölgelerdeki insanlara nadiren yardım etmiyorlar",
+  "english_example_sentence": "They rarely don't help people in remote areas",
+  "russian_example_sentence": "Они редко не помогают людям в отдалённых районах",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:07:48.671678+00:00",
+  "turkish_example_sentence_with_blank": "Onlar uzak bölgelerdeki insanlara nadiren ______"
 }

@@ -4,19 +4,19 @@
   "verb_russian": "работать",
   "verb_infinitive": "çalışmak",
   "turkish_verb": {
-    "verb_full": "çalışmaması",
+    "verb_full": "çalışmaması lazım",
     "root": "çalış",
-    "tense_affix": "",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
     "personal_affix": "sı",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "O yaşlı doktor artık çalışmaması gerek.",
-  "english_example_sentence": "That elderly doctor doesn't need to work anymore.",
-  "russian_example_sentence": "Этот пожилой врач больше не должен работать.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:51:16.573007+00:00",
-  "turkish_example_sentence_with_blank": "O yaşlı doktor artık ______ gerek."
+  "turkish_example_sentence": "O kırık kolunu iyileştirmek için ağır fabrika işinde çalışmaması lazım",
+  "english_example_sentence": "He/she needs to not work at the heavy factory job to heal his/her broken arm",
+  "russian_example_sentence": "Ему/ей не нужно работать на тяжёлой фабричной работе, чтобы вылечить сломанную руку",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:21:29.461728+00:00",
+  "turkish_example_sentence_with_blank": "O kırık kolunu iyileştirmek için ağır fabrika işinde ______"
 }

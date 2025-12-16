@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım edebiliriz",
     "root": "yardım et",
-    "tense_affix": "ebil",
+    "tense_affix": "ebilir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iriz",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We can help build the new school library together",
-  "russian_example_sentence": "Мы можем помочь построить новую школьную библиотеку вместе",
-  "turkish_example_sentence": "Biz yeni okul kütüphanesini birlikte inşa etmekte yardım edebiliriz",
-  "turkish_example_sentence_with_blank": "Biz yeni okul kütüphanesini birlikte inşa etmekte ______"
+  "turkish_example_sentence": "Biz bu topluma kesinlikle yardım edebiliriz",
+  "english_example_sentence": "We can definitely help this community",
+  "russian_example_sentence": "Мы точно можем помочь этому сообществу",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:06:33.619684+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu topluma kesinlikle ______"
 }

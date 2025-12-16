@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünürlerse",
+    "verb_full": "görünüyorlar",
     "root": "görün",
-    "tense_affix": "ürlerse",
+    "tense_affix": "üyor",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "ler",
+    "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they seem helpful, many will visit them.",
-  "russian_example_sentence": "Если они кажутся полезными, многие их навестят.",
-  "turkish_example_sentence": "Eğer yardımsever görünürlerse, birçok kişi onları ziyaret eder.",
-  "turkish_example_sentence_with_blank": "Eğer yardımsever ______, birçok kişi onları ziyaret eder."
+  "turkish_example_sentence": "Onlar büyük bir aile olarak mutlu görünüyorlar",
+  "english_example_sentence": "They seem happy as a big family",
+  "russian_example_sentence": "Они кажутся счастливыми как большая семья",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:59:26.904994+00:00",
+  "turkish_example_sentence_with_blank": "Onlar büyük bir aile olarak mutlu ______"
 }

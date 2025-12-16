@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmemeliim",
+    "verb_full": "görünmemeliyim",
     "root": "görün",
-    "tense_affix": "meli",
+    "tense_affix": "memeli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "yim",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "I must not seem nervous about the presentation",
-  "russian_example_sentence": "Я не должен казаться нервным по поводу презентации",
-  "turkish_example_sentence": "Ben bu önemli sunumda endişeli ve tedirgin görünmemeliim",
-  "turkish_example_sentence_with_blank": "Ben bu önemli sunumda endişeli ve tedirgin ______"
+  "turkish_example_sentence": "Ben bu kötü havada hasta görünmemeliyim",
+  "english_example_sentence": "I must not look sick in this bad weather",
+  "russian_example_sentence": "Я не должен выглядеть больным в такую плохую погоду",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:59:05.164192+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu kötü havada hasta ______"
 }

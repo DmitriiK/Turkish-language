@@ -4,19 +4,19 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almayasınız",
+    "verb_full": "almasınız",
     "root": "al",
-    "tense_affix": "ya",
+    "tense_affix": "a",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "sınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Siz o küçük çocukların oyuncağını almayasınız.",
-  "english_example_sentence": "May you not take those small children's toy.",
-  "russian_example_sentence": "Пусть вы не возьмёте игрушку тех маленьких детей.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T09:19:43.434449+00:00",
-  "turkish_example_sentence_with_blank": "Siz o küçük çocukların oyuncağını ______."
+  "turkish_example_sentence": "Siz bu tehlikeli keskin bıçakları mutfaktan almasınız lütfen.",
+  "english_example_sentence": "Please don't take these dangerous sharp knives from the kitchen.",
+  "russian_example_sentence": "Пожалуйста, не берите эти опасные острые ножи из кухни.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:26:50.229215+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu tehlikeli keskin bıçakları mutfaktan ______ lütfen."
 }

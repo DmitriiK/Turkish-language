@@ -5,7 +5,7 @@
   "verb_infinitive": "göstermek",
   "turkish_verb": {
     "verb_full": "gösteriyorlar",
-    "root": "göster",
+    "root": "gösterm",
     "tense_affix": "iyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "onlar",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They are showing the spectacular nature documentary to the entire school",
-  "russian_example_sentence": "Они показывают зрелищный природный документальный фильм всей школе",
-  "turkish_example_sentence": "Onlar harika doğa belgeselini tüm okula gösteriyorlar",
-  "turkish_example_sentence_with_blank": "Onlar harika doğa belgeselini tüm okula ______"
+  "turkish_example_sentence": "Onlar güzel manzaraları gösteriyorlar",
+  "english_example_sentence": "They are showing beautiful landscapes",
+  "russian_example_sentence": "Они показывают красивые пейзажи",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:10:58.816501+00:00",
+  "turkish_example_sentence_with_blank": "Onlar güzel manzaraları ______"
 }

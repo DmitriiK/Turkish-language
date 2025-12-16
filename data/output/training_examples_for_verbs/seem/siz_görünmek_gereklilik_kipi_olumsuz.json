@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmemeniz lazım",
+    "verb_full": "görünmüyorsunuz",
     "root": "görün",
-    "tense_affix": "lazım",
+    "tense_affix": "üyor",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "sünüz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You must not appear indifferent to this serious problem",
-  "russian_example_sentence": "Вы не должны казаться безразличными к этой серьезной проблеме",
-  "turkish_example_sentence": "Siz bu ciddi sosyal konuya kayıtsız görünmemeniz lazım",
-  "turkish_example_sentence_with_blank": "Siz bu ciddi sosyal konuya kayıtsız ______"
+  "turkish_example_sentence": "Siz küçük kasabada mutsuz görünmüyorsunuz",
+  "english_example_sentence": "You don't seem unhappy in the small town",
+  "russian_example_sentence": "Вы не кажетесь несчастными в маленьком городе",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:58:44.893556+00:00",
+  "turkish_example_sentence_with_blank": "Siz küçük kasabada mutsuz ______"
 }

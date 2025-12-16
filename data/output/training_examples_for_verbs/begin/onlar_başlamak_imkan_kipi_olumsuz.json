@@ -4,17 +4,19 @@
   "verb_russian": "начинать",
   "verb_infinitive": "başlamak",
   "turkish_verb": {
-    "verb_full": "başlayamayız",
+    "verb_full": "başlayamazlar",
     "root": "başla",
     "tense_affix": "yama",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "yız",
+    "personal_affix": "zlar",
     "polarity": "negative",
     "negative_affix": "yama"
   },
-  "english_example_sentence": "They cannot begin the research without funding",
-  "russian_example_sentence": "Они не могут начать исследование без финансирования",
-  "turkish_example_sentence": "Onlar finansman olmadan bilimsel araştırmayı başlayamayız",
-  "turkish_example_sentence_with_blank": "Onlar finansman olmadan bilimsel araştırmayı ______"
+  "turkish_example_sentence": "Onlar geç saat olduğu için gece yarısı gürültülü inşaat faaliyetine başlayamazlar",
+  "english_example_sentence": "They cannot begin noisy construction activity at midnight because it is late hour",
+  "russian_example_sentence": "Они не могут начать шумную строительную деятельность в полночь, потому что поздний час",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T10:43:15.978221+00:00",
+  "turkish_example_sentence_with_blank": "Onlar geç saat olduğu için gece yarısı gürültülü inşaat faaliyetine ______"
 }

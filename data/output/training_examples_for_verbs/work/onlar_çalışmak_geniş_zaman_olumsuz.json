@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "çalışmazlar",
     "root": "çalış",
-    "tense_affix": "ır",
+    "tense_affix": "maz",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Onlar rahat yaşam için kırmızı restoranda çalışmazlar",
-  "english_example_sentence": "They don't work in the red restaurant for an easy life",
-  "russian_example_sentence": "Они не работают в красном ресторане для легкой жизни",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:50:03.460891+00:00",
-  "turkish_example_sentence_with_blank": "Onlar rahat yaşam için kırmızı restoranda ______"
+  "turkish_example_sentence": "Onlar gürültülü kalabalık restoranda rahat şekilde çalışmazlar",
+  "english_example_sentence": "They don't work comfortably in the noisy crowded restaurant",
+  "russian_example_sentence": "Они не работают комфортно в шумном переполненном ресторане",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:20:25.491450+00:00",
+  "turkish_example_sentence_with_blank": "Onlar gürültülü kalabalık restoranda rahat şekilde ______"
 }

@@ -1,22 +1,22 @@
 {
   "verb_rank": 20,
-  "verb_english": "call",
+  "verb_english": "call (phone)",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "aramamanız",
+    "verb_full": "aramaman lazım",
     "root": "ara",
-    "tense_affix": "ma",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Sen rahatsız edici reklam şirketini aramamanız gerek.",
-  "english_example_sentence": "You should not call the annoying advertising company.",
-  "russian_example_sentence": "Тебе не нужно звонить надоедливой рекламной компании.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T16:17:21.028205+00:00",
-  "turkish_example_sentence_with_blank": "Sen rahatsız edici reklam şirketini ______ gerek."
+  "turkish_example_sentence": "Sen geç saatte komşu yaşlı kadını aramaman lazım",
+  "english_example_sentence": "You need to not call the neighbor old woman at late hour",
+  "russian_example_sentence": "Тебе не нужно звонить соседке старой женщине в поздний час",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T10:25:09.620486+00:00",
+  "turkish_example_sentence_with_blank": "Sen geç saatte komşu yaşlı kadını ______"
 }

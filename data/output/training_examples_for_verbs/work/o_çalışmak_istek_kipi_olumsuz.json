@@ -4,7 +4,7 @@
   "verb_russian": "работать",
   "verb_infinitive": "çalışmak",
   "turkish_verb": {
-    "verb_full": "çalışmasa",
+    "verb_full": "çalışmaya",
     "root": "çalış",
     "tense_affix": "a",
     "verb_tense": "istek_kipi",
@@ -13,10 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "O genç öğrenci tatil döneminde hiç çalışmasa.",
-  "english_example_sentence": "May that young student not work at all during the holiday period.",
-  "russian_example_sentence": "Пусть тот молодой студент вообще не работает в период отпуска.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:52:15.750331+00:00",
-  "turkish_example_sentence_with_blank": "O genç öğrenci tatil döneminde hiç ______."
+  "turkish_example_sentence": "O soğuk kış günlerinde açık havada çalışmaya",
+  "english_example_sentence": "May he/she not work in open air during cold winter days",
+  "russian_example_sentence": "Пусть он/она не работает на открытом воздухе в холодные зимние дни",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:14:09.856182+00:00",
+  "turkish_example_sentence_with_blank": "O soğuk kış günlerinde açık havada ______"
 }

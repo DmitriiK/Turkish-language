@@ -4,7 +4,7 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almamanız lazım",
+    "verb_full": "almammanız lazım",
     "root": "al",
     "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
@@ -13,10 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Siz bu tehlikeli ilacı doktor tavsiyesi olmadan almamanız lazım.",
-  "english_example_sentence": "You should not take this dangerous medicine without a doctor's recommendation.",
-  "russian_example_sentence": "Вам не следует принимать это опасное лекарство без рекомендации врача.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T09:20:56.822089+00:00",
-  "turkish_example_sentence_with_blank": "Siz bu tehlikeli ilacı doktor tavsiyesi olmadan ______."
+  "turkish_example_sentence": "Siz bu eski mobilyaları almammanız lazım.",
+  "english_example_sentence": "You (formal/plural) need to not take these old furniture pieces.",
+  "russian_example_sentence": "Вам не нужно брать эту старую мебель.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:33:03.334350+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu eski mobilyaları ______."
 }

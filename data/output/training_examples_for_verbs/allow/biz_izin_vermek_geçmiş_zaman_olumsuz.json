@@ -5,7 +5,7 @@
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
     "verb_full": "izin vermedik",
-    "root": "izin ver",
+    "root": "ver",
     "tense_affix": "di",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "biz",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "We did not allow the dangerous activity to happen",
-  "russian_example_sentence": "Мы не позволили опасной деятельности произойти",
-  "turkish_example_sentence": "Biz tehlikeli spor faaliyetinin yapılmasına izin vermedik",
-  "turkish_example_sentence_with_blank": "Biz tehlikeli spor faaliyetinin yapılmasına ______"
+  "turkish_example_sentence": "Biz yabancı turistlere eski tarihi binaya fotoğraf çekmeye izin vermedik",
+  "english_example_sentence": "We didn't allow the foreign tourists to take photos in the old historical building",
+  "russian_example_sentence": "Мы не разрешили иностранным туристам фотографировать в старом историческом здании",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:36:23.694669+00:00",
+  "turkish_example_sentence_with_blank": "Biz yabancı turistlere eski tarihi binaya fotoğraf çekmeye ______"
 }

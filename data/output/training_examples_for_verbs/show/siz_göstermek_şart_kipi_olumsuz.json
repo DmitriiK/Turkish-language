@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "göstermeseniz",
     "root": "göster",
-    "tense_affix": "se",
+    "tense_affix": "mese",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "niz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If you don’t show him, he will get lost.",
-  "russian_example_sentence": "Если вы не показываете ему, он потеряется.",
-  "turkish_example_sentence": "Eğer ona göstermeseniz, kaybeder.",
-  "turkish_example_sentence_with_blank": "Eğer ona ______, kaybeder."
+  "turkish_example_sentence": "Siz bize küçük, eski bir restoran göstermeseniz",
+  "english_example_sentence": "If you couldn't show us a small, old restaurant",
+  "russian_example_sentence": "Если бы вы не могли показать нам маленький, старый ресторан",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:13:07.838794+00:00",
+  "turkish_example_sentence_with_blank": "Siz bize küçük, eski bir restoran ______"
 }

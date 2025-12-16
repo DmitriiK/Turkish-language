@@ -4,17 +4,19 @@
   "verb_russian": "показывать",
   "verb_infinitive": "göstermek",
   "turkish_verb": {
-    "verb_full": "göstermememeliyiz",
+    "verb_full": "göstermemeliyiz",
     "root": "göster",
-    "tense_affix": "meli",
+    "tense_affix": "memeli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yiz",
     "polarity": "negative",
-    "negative_affix": "meme"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "We must not show the expensive jewelry to the children",
-  "russian_example_sentence": "Мы не должны показывать дорогие украшения детям",
-  "turkish_example_sentence": "Biz pahalı mücevherleri küçük çocuklara göstermememeliyiz",
-  "turkish_example_sentence_with_blank": "Biz pahalı mücevherleri küçük çocuklara ______"
+  "turkish_example_sentence": "Biz bu tür filmleri göstermemeliyiz",
+  "english_example_sentence": "We must not show this kind of movies",
+  "russian_example_sentence": "Мы не должны показывать такие фильмы",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:10:38.331485+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu tür filmleri ______"
 }

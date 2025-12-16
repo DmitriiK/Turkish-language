@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmem lazım",
+    "verb_full": "görünüyorum",
     "root": "görün",
-    "tense_affix": "lazım",
+    "tense_affix": "üyor",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "um",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I need to appear confident at the job interview",
-  "russian_example_sentence": "Мне нужно казаться уверенным на собеседовании",
-  "turkish_example_sentence": "Ben iş görüşmesinde güvenli görünmem lazım",
-  "turkish_example_sentence_with_blank": "Ben iş görüşmesinde güvenli ______"
+  "turkish_example_sentence": "Ben yeni arabayla mutlu görünüyorum",
+  "english_example_sentence": "I seem happy with my new car",
+  "russian_example_sentence": "Я кажусь счастливым с моей новой машиной",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:58:44.893556+00:00",
+  "turkish_example_sentence_with_blank": "Ben yeni arabayla mutlu ______"
 }

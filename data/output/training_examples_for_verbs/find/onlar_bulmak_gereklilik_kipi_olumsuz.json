@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "bulmaması",
     "root": "bul",
-    "tense_affix": "",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ları",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Onlar bu mevsimde dağda nadir bitki türünü bulmaması gerek değil.",
-  "english_example_sentence": "They don't need to find a rare plant species on the mountain this season.",
-  "russian_example_sentence": "Им не нужно находить редкий вид растения на горе в этот сезон.",
+  "turkish_example_sentence": "Onlar müzik konserinde bilet fiyatını bulmaması gerek.",
+  "english_example_sentence": "They need to not find the ticket price at the music concert.",
+  "russian_example_sentence": "Им нужно не найти цену билета на музыкальном концерте.",
   "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:35:24.826021+00:00",
-  "turkish_example_sentence_with_blank": "Onlar bu mevsimde dağda nadir bitki türünü ______ gerek değil."
+  "generated_at": "2025-12-15T12:39:10.674543+00:00",
+  "turkish_example_sentence_with_blank": "Onlar müzik konserinde bilet fiyatını ______ gerek."
 }

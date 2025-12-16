@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmesen",
     "root": "yardım et",
-    "tense_affix": "se",
+    "tense_affix": "mes",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "en",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If you don't help, I will fail.",
-  "russian_example_sentence": "Если ты не поможешь, я провалюсь.",
-  "turkish_example_sentence": "Yardım etmesen başarısız olurum.",
-  "turkish_example_sentence_with_blank": "Yardım etmesen başarısız olurum."
+  "turkish_example_sentence": "Sen kardeşine yardım etmesen",
+  "english_example_sentence": "If you were not to help your brother",
+  "russian_example_sentence": "Если бы ты не помог своему брату",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:06:00.809632+00:00",
+  "turkish_example_sentence_with_blank": "Sen kardeşine ______"
 }

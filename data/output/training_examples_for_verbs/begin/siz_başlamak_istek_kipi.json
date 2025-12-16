@@ -4,17 +4,19 @@
   "verb_russian": "начинать",
   "verb_infinitive": "başlamak",
   "turkish_verb": {
-    "verb_full": "başlayasınız",
+    "verb_full": "başlasınız",
     "root": "başla",
-    "tense_affix": "ya",
+    "tense_affix": "sınız",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "sınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "May you all begin with better plans",
-  "russian_example_sentence": "Начните с лучших планов",
-  "turkish_example_sentence": "Siz daha iyi planlarla başlayasınız",
-  "turkish_example_sentence_with_blank": "Siz daha iyi planlarla ______"
+  "turkish_example_sentence": "Siz sağlıklı beslenme alışkanlığına mutlaka yarından başlasınız",
+  "english_example_sentence": "May you begin the healthy eating habit definitely from tomorrow",
+  "russian_example_sentence": "Пусть вы начнете привычку здорового питания обязательно с завтрашнего дня",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T10:40:58.559319+00:00",
+  "turkish_example_sentence_with_blank": "Siz sağlıklı beslenme alışkanlığına mutlaka yarından ______"
 }

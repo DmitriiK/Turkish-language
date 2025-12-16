@@ -1,6 +1,6 @@
 {
   "verb_rank": 20,
-  "verb_english": "call",
+  "verb_english": "call (phone)",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
@@ -13,10 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Onlar geçen yıl Ankara'daki büyük hastaneyi acil tıp danışması için aradılar.",
-  "english_example_sentence": "They called the large hospital in Ankara last year to consult about emergency medicine.",
-  "russian_example_sentence": "Они позвонили в большую больницу в Анкаре в прошлом году для консультации по неотложной медицине.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T16:14:51.844132+00:00",
-  "turkish_example_sentence_with_blank": "Onlar geçen yıl Ankara'daki büyük hastaneyi acil tıp danışması için ______."
+  "turkish_example_sentence": "Onlar önceki gün sakin öğretmeni aradılar",
+  "english_example_sentence": "They called the calm teacher the day before yesterday",
+  "russian_example_sentence": "Они звонили спокойному учителю позавчера",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T10:22:19.781935+00:00",
+  "turkish_example_sentence_with_blank": "Onlar önceki gün sakin öğretmeni ______"
 }

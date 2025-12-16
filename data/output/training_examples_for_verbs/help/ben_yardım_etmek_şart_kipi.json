@@ -4,17 +4,19 @@
   "verb_russian": "помогать",
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
-    "verb_full": "yardım etsem",
+    "verb_full": "yardım edeyim",
     "root": "yardım et",
-    "tense_affix": "se",
+    "tense_affix": "sa",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I could help her, I would.",
-  "russian_example_sentence": "Если бы я мог ей помочь, я бы помог.",
-  "turkish_example_sentence": "Eğer ona yardım etsem, ederdim.",
-  "turkish_example_sentence_with_blank": "Eğer ona ______, ederdim."
+  "turkish_example_sentence": "Ben büyükanneme yardım edeyim",
+  "english_example_sentence": "I wish I could help my grandmother",
+  "russian_example_sentence": "Я желаю помочь своей бабушке",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:06:00.809632+00:00",
+  "turkish_example_sentence_with_blank": "Ben büyükanneme ______"
 }

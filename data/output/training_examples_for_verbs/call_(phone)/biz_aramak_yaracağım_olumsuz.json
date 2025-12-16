@@ -1,6 +1,6 @@
 {
   "verb_rank": 20,
-  "verb_english": "call",
+  "verb_english": "call (phone)",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
@@ -13,10 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Biz bu ay hızlı satıcıyı aramayacağız.",
-  "english_example_sentence": "We will not call the fast seller this month.",
-  "russian_example_sentence": "Мы не позвоним быстрому продавцу в этом месяце.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T16:15:38.334274+00:00",
-  "turkish_example_sentence_with_blank": "Biz bu ay hızlı satıcıyı ______."
+  "turkish_example_sentence": "Biz tatilde pahalı otel rezervasyon merkezini aramayacağız",
+  "english_example_sentence": "We will not call the expensive hotel reservation center on vacation",
+  "russian_example_sentence": "Мы не будем звонить в дорогой центр бронирования отелей на каникулах",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T10:23:33.258543+00:00",
+  "turkish_example_sentence_with_blank": "Biz tatilde pahalı otel rezervasyon merkezini ______"
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım edeceklerdi",
     "root": "yardım et",
-    "tense_affix": "ecekti",
+    "tense_affix": "ecek",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lerdi",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They were going to help the refugees.",
-  "russian_example_sentence": "Они собирались помочь беженцам.",
-  "turkish_example_sentence": "Onlar savaştan kaçan mültecilere yiyecek ve giyecek yardımı edeceklerdi.",
-  "turkish_example_sentence_with_blank": "Onlar savaştan kaçan mültecilere yiyecek ve giyecek yardımı edeceklerdi."
+  "turkish_example_sentence": "Onlar dün akşam komşularına yardım edeceklerdi",
+  "english_example_sentence": "They were going to help their neighbors last night",
+  "russian_example_sentence": "Они собирались помочь своим соседям прошлой ночью",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:06:54.201272+00:00",
+  "turkish_example_sentence_with_blank": "Onlar dün akşam komşularına ______"
 }

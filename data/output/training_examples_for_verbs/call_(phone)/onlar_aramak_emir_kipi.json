@@ -1,22 +1,22 @@
 {
   "verb_rank": 20,
-  "verb_english": "call",
+  "verb_english": "call (phone)",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "artsınlar",
+    "verb_full": "arasınlar",
     "root": "ara",
     "tense_affix": "",
     "verb_tense": "emir_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "tsınlar",
+    "personal_affix": "sınlar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Onlar acil durumlarda güvenlik görevlisini hemen artsınlar.",
-  "english_example_sentence": "Let them call the security guard immediately in emergency situations.",
-  "russian_example_sentence": "Пусть они позвонят охраннику в чрезвычайных ситуациях сразу.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T16:16:41.202901+00:00",
-  "turkish_example_sentence_with_blank": "Onlar acil durumlarda güvenlik görevlisini hemen ______."
+  "turkish_example_sentence": "Onlar toplantıdan sonra yeni müşteriyi mutlaka arasınlar",
+  "english_example_sentence": "They should call the new customer after the meeting definitely",
+  "russian_example_sentence": "Они пусть позвонят новому клиенту после встречи обязательно",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T10:24:33.345129+00:00",
+  "turkish_example_sentence_with_blank": "Onlar toplantıdan sonra yeni müşteriyi mutlaka ______"
 }

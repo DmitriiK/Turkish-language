@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmem lazım",
     "root": "yardım et",
-    "tense_affix": "me",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I need to help my elderly grandmother today",
-  "russian_example_sentence": "Мне нужно помочь моей пожилой бабушке сегодня",
-  "turkish_example_sentence": "Ben bugün yaşlı büyükannem için yardım etmem lazım",
-  "turkish_example_sentence_with_blank": "Ben bugün yaşlı büyükannem için ______"
+  "turkish_example_sentence": "Ben bu zor problemi çözmek için yardım etmem lazım",
+  "english_example_sentence": "I need to help with this difficult problem",
+  "russian_example_sentence": "Мне нужно помочь с этой сложной проблемой",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:06:23.181506+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu zor problemi çözmek için ______"
 }

@@ -4,19 +4,19 @@
   "verb_russian": "работать",
   "verb_infinitive": "çalışmak",
   "turkish_verb": {
-    "verb_full": "çalışmamaları",
+    "verb_full": "çalışmamaları lazım",
     "root": "çalış",
-    "tense_affix": "",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ları",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Onlar kötü hava koşullarında çalışmamaları gerek.",
-  "english_example_sentence": "They don't need to work in bad weather conditions.",
-  "russian_example_sentence": "Им не нужно работать в плохих погодных условиях.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:51:16.573007+00:00",
-  "turkish_example_sentence_with_blank": "Onlar kötü hava koşullarında ______ gerek."
+  "turkish_example_sentence": "Onlar soğuk kış gecesi tehlikeli yol inşaatında çalışmamaları lazım",
+  "english_example_sentence": "They need to not work on the dangerous road construction on cold winter night",
+  "russian_example_sentence": "Им не нужно работать на опасной дорожной стройке холодной зимней ночью",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:21:29.461728+00:00",
+  "turkish_example_sentence_with_blank": "Onlar soğuk kış gecesi tehlikeli yol inşaatında ______"
 }

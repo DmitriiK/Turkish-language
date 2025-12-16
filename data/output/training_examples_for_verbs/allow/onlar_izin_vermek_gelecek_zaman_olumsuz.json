@@ -5,7 +5,7 @@
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
     "verb_full": "izin vermeyecekler",
-    "root": "izin ver",
+    "root": "ver",
     "tense_affix": "ecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "onlar",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "They will not allow unauthorized access to the building",
-  "russian_example_sentence": "Они не позволят несанкционированный доступ в здание",
-  "turkish_example_sentence": "Onlar yetkisiz kişilerin eski binaya girmek izin vermeyecekler",
-  "turkish_example_sentence_with_blank": "Onlar yetkisiz kişilerin eski binaya girmek ______"
+  "turkish_example_sentence": "Onlar yöneticiler şirkette çalışanlara özel telefon görüşmesi yapmalarına izin vermeyecekler",
+  "english_example_sentence": "They as managers will not allow the employees to make personal phone calls at the company",
+  "russian_example_sentence": "Они как менеджеры не разрешат сотрудникам делать личные телефонные звонки в компании",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:37:05.180039+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yöneticiler şirkette çalışanlara özel telefon görüşmesi yapmalarına ______"
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmeyeceksiniz",
     "root": "yardım et",
-    "tense_affix": "eceğ",
+    "tense_affix": "edeceğ",
     "verb_tense": "yaracağım",
     "personal_pronoun": "siz",
     "personal_affix": "siniz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You will not help with the restaurant renovation project",
-  "russian_example_sentence": "Вы не поможете с проектом ремонта ресторана",
-  "turkish_example_sentence": "Siz restoranın iç tasarım değişikliğinde yardım etmeyeceksiniz",
-  "turkish_example_sentence_with_blank": "Siz restoranın iç tasarım değişikliğinde ______"
+  "turkish_example_sentence": "Siz bu kritik anda yardım etmeyeceksiniz",
+  "english_example_sentence": "You will not help at this critical moment",
+  "russian_example_sentence": "Вы не поможете в этот критический момент",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:05:24.596938+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu kritik anda ______"
 }

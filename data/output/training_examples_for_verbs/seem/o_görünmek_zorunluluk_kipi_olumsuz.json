@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "görünmemeli",
     "root": "görün",
-    "tense_affix": "meli",
+    "tense_affix": "memeli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "She must not seem disinterested in the presentation",
-  "russian_example_sentence": "Она не должна казаться незаинтересованной в презентации",
-  "turkish_example_sentence": "O önemli toplantıda kayıtsız ve ilgisiz görünmemeli",
-  "turkish_example_sentence_with_blank": "O önemli toplantıda kayıtsız ve ilgisiz ______"
+  "turkish_example_sentence": "O hasta görünmemeli",
+  "english_example_sentence": "He/She must not look sick",
+  "russian_example_sentence": "Он/Она не должен выглядеть больным",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:59:05.164192+00:00",
+  "turkish_example_sentence_with_blank": "O hasta ______"
 }

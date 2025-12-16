@@ -5,7 +5,7 @@
   "verb_infinitive": "göstermek",
   "turkish_verb": {
     "verb_full": "gösteririm",
-    "root": "göster",
+    "root": "gösterm",
     "tense_affix": "ir",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "ben",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I show the beautiful garden to visitors",
-  "russian_example_sentence": "Я показываю красивый сад посетителям",
-  "turkish_example_sentence": "Ben güzel bahçeyi ziyaretçilere gösteririm",
-  "turkish_example_sentence_with_blank": "Ben güzel bahçeyi ziyaretçilere ______"
+  "turkish_example_sentence": "Ben her hafta yeni bir film gösteririm",
+  "english_example_sentence": "I show a new movie every week",
+  "russian_example_sentence": "Я показываю новый фильм каждую неделю",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:11:38.954472+00:00",
+  "turkish_example_sentence_with_blank": "Ben her hafta yeni bir film ______"
 }

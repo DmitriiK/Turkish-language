@@ -1,6 +1,6 @@
 {
   "verb_rank": 20,
-  "verb_english": "call",
+  "verb_english": "call (phone)",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
@@ -13,10 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Ben acil durumlarda hastaneyi hemen arayabilirim.",
-  "english_example_sentence": "I can call the hospital immediately in emergency situations.",
-  "russian_example_sentence": "Я могу звонить в больницу немедленно в чрезвычайных ситуациях.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T16:17:39.720677+00:00",
-  "turkish_example_sentence_with_blank": "Ben acil durumlarda hastaneyi hemen ______."
+  "turkish_example_sentence": "Ben yarın sabah erken saatte seni arayabilirim",
+  "english_example_sentence": "I can call you early tomorrow morning",
+  "russian_example_sentence": "Я могу позвонить тебе рано завтра утром",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T10:25:46.796768+00:00",
+  "turkish_example_sentence_with_blank": "Ben yarın sabah erken saatte seni ______"
 }

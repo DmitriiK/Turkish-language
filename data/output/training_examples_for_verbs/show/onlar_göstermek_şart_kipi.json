@@ -9,12 +9,14 @@
     "tense_affix": "se",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they show the letter, we’ll understand.",
-  "russian_example_sentence": "Если они покажут письмо, мы поймем.",
-  "turkish_example_sentence": "Eğer mektubu gösterseler, anlarız.",
-  "turkish_example_sentence_with_blank": "Eğer mektubu ______, anlarız."
+  "turkish_example_sentence": "Onlar bize yeni, ilginç bir müzik gösteri gösterseler",
+  "english_example_sentence": "If they could show us a new, interesting music show",
+  "russian_example_sentence": "Если бы они могли показать нам новое, интересное музыкальное шоу",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:13:07.838794+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bize yeni, ilginç bir müzik gösteri ______"
 }

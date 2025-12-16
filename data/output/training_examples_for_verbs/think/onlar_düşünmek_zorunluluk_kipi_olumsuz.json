@@ -4,7 +4,7 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmemeliler",
+    "verb_full": "düşünmemeiler",
     "root": "düşün",
     "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
@@ -13,10 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Onlar bu saçma fikirleri fazla düşünmemeliler.",
-  "english_example_sentence": "They must not think too much about these ridiculous ideas.",
-  "russian_example_sentence": "Они не должны слишком много думать об этих нелепых идеях.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T08:51:09.159375+00:00",
-  "turkish_example_sentence_with_blank": "Onlar bu saçma fikirleri fazla ______."
+  "turkish_example_sentence": "Onlar sınıf arkadaşlarının kusurlarını kötü şekilde düşünmemeiler.",
+  "english_example_sentence": "They must not think badly about their classmates' faults.",
+  "russian_example_sentence": "Они не должны плохо думать об ошибках своих одноклассников.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:14:16.616264+00:00",
+  "turkish_example_sentence_with_blank": "Onlar sınıf arkadaşlarının kusurlarını kötü şekilde ______."
 }

@@ -1,6 +1,6 @@
 {
   "verb_rank": 20,
-  "verb_english": "call",
+  "verb_english": "call (phone)",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
@@ -13,10 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "O genç doktor hastaneden acil durumlarda aile üyelerini arar.",
-  "english_example_sentence": "That young doctor calls family members from the hospital in emergencies.",
-  "russian_example_sentence": "Этот молодой врач звонит членам семьи из больницы в чрезвычайных ситуациях.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T16:15:56.891346+00:00",
-  "turkish_example_sentence_with_blank": "O genç doktor hastaneden acil durumlarda aile üyelerini ______."
+  "turkish_example_sentence": "O hafta sonu büyük kardeşini arar",
+  "english_example_sentence": "He/she calls his/her older sibling on weekends",
+  "russian_example_sentence": "Он/она звонит старшему брату/сестре по выходным",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T10:24:07.079761+00:00",
+  "turkish_example_sentence_with_blank": "O hafta sonu büyük kardeşini ______"
 }

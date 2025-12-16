@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmesin",
     "root": "yardım et",
-    "tense_affix": "sin",
+    "tense_affix": "",
     "verb_tense": "emir_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "sin",
+    "personal_affix": "mesin",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "Don't let her help with that dangerous construction project",
-  "russian_example_sentence": "Не позволяй ей помогать с этим опасным строительным проектом",
-  "turkish_example_sentence": "O deneyimsiz kız tehlikeli inşaat işinde yardım etmesin",
-  "turkish_example_sentence_with_blank": "O deneyimsiz kız tehlikeli inşaat işinde ______"
+  "turkish_example_sentence": "O yaşlı adama yardım etmesin",
+  "english_example_sentence": "Let him not help the old man",
+  "russian_example_sentence": "Пусть он не поможет старому мужчине",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:05:50.620399+00:00",
+  "turkish_example_sentence_with_blank": "O yaşlı adama ______"
 }

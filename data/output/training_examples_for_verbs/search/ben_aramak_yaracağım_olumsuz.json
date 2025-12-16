@@ -1,6 +1,6 @@
 {
   "verb_rank": 20,
-  "verb_english": "search",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I will not search for lost old keys.",
-  "russian_example_sentence": "Я не буду искать потерянные старые ключи.",
-  "turkish_example_sentence": "Ben kaybolan eski anahtarları aramayacağım.",
-  "turkish_example_sentence_with_blank": "Ben kaybolan eski anahtarları ______."
+  "turkish_example_sentence": "Ben bu hafta sonu kızgın müdürü aramayacağım.",
+  "english_example_sentence": "I will not call the angry manager this weekend.",
+  "russian_example_sentence": "Я не позвоню сердитому менеджеру на этих выходных.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:15:38.334274+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu hafta sonu kızgın müdürü ______."
 }

@@ -1,6 +1,6 @@
 {
   "verb_rank": 20,
-  "verb_english": "search",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "We will not search for suitable cheap flights.",
-  "russian_example_sentence": "Мы не будем искать подходящие дешевые рейсы.",
-  "turkish_example_sentence": "Biz uygun ucuz uçuşları aramayacağız.",
-  "turkish_example_sentence_with_blank": "Biz uygun ucuz uçuşları ______."
+  "turkish_example_sentence": "Biz bu ay hızlı satıcıyı aramayacağız.",
+  "english_example_sentence": "We will not call the fast seller this month.",
+  "russian_example_sentence": "Мы не позвоним быстрому продавцу в этом месяце.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:15:38.334274+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu ay hızlı satıcıyı ______."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "göstereceksin",
     "root": "göster",
-    "tense_affix": "eceğ",
+    "tense_affix": "eceksin",
     "verb_tense": "yaracağım",
     "personal_pronoun": "sen",
     "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You will show the old photographs to your grandmother",
-  "russian_example_sentence": "Ты покажешь старые фотографии своей бабушке",
-  "turkish_example_sentence": "Sen yaşlı fotoğrafları babaanene göstereceksin",
-  "turkish_example_sentence_with_blank": "Sen yaşlı fotoğrafları babaanene ______"
+  "turkish_example_sentence": "Sen yeni evini göstereceksin",
+  "english_example_sentence": "You will show your new home",
+  "russian_example_sentence": "Ты покажешь свой новый дом",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:11:28.919466+00:00",
+  "turkish_example_sentence_with_blank": "Sen yeni evini ______"
 }

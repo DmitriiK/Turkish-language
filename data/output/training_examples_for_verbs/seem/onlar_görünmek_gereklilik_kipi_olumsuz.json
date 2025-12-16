@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmemeleri lazım",
+    "verb_full": "görünmüyorlar",
     "root": "görün",
-    "tense_affix": "lazım",
+    "tense_affix": "üyor",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "ları",
+    "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "They should not appear bored during the educational seminar",
-  "russian_example_sentence": "Они не должны казаться скучающими во время образовательного семинара",
-  "turkish_example_sentence": "Onlar eğitim seminerinde sıkılmış görünmemeleri lazım",
-  "turkish_example_sentence_with_blank": "Onlar eğitim seminerinde sıkılmış ______"
+  "turkish_example_sentence": "Onlar eski evlerinde mutsuz görünmüyorlar",
+  "english_example_sentence": "They don't seem unhappy in their old home",
+  "russian_example_sentence": "Они не кажутся несчастными в их старом доме",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:58:44.893556+00:00",
+  "turkish_example_sentence_with_blank": "Onlar eski evlerinde mutsuz ______"
 }

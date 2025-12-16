@@ -1,22 +1,22 @@
 {
   "verb_rank": 20,
-  "verb_english": "call",
+  "verb_english": "call (phone)",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
     "verb_full": "aramayacaksınız",
     "root": "ara",
-    "tense_affix": "yacağ",
+    "tense_affix": "yacak",
     "verb_tense": "yaracağım",
     "personal_pronoun": "siz",
     "personal_affix": "sınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Siz gelecek yıl düşünceli danışmanı aramayacaksınız.",
-  "english_example_sentence": "You will not call the thoughtful consultant next year.",
-  "russian_example_sentence": "Вы не позвоните внимательному консультанту в следующем году.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T16:15:38.334274+00:00",
-  "turkish_example_sentence_with_blank": "Siz gelecek yıl düşünceli danışmanı ______."
+  "turkish_example_sentence": "Siz hafta sonu yorgun bankacı müşteriyi aramayacaksınız",
+  "english_example_sentence": "You will not call the tired banker client on the weekend",
+  "russian_example_sentence": "Вы не будете звонить уставшему клиенту-банкиру на выходных",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T10:23:33.258543+00:00",
+  "turkish_example_sentence_with_blank": "Siz hafta sonu yorgun bankacı müşteriyi ______"
 }

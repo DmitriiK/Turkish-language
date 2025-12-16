@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmeyesiniz",
     "root": "yardım et",
-    "tense_affix": "meyesiniz",
+    "tense_affix": "",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "siniz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You shouldn't help lazy people",
-  "russian_example_sentence": "Вам не стоит помогать ленивым людям",
-  "turkish_example_sentence": "Siz tembel insanlara yardım etmeyesiniz",
-  "turkish_example_sentence_with_blank": "Siz tembel insanlara ______"
+  "turkish_example_sentence": "Siz bize yardım etmeyesiniz",
+  "english_example_sentence": "You don't help us",
+  "russian_example_sentence": "Вы нам не помогаете",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:05:43.743075+00:00",
+  "turkish_example_sentence_with_blank": "Siz bize ______"
 }

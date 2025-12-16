@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmemişseniz",
-    "root": "gör",
-    "tense_affix": "memişse",
+    "verb_full": "görünmüyorsunuz",
+    "root": "görün",
+    "tense_affix": "üyor",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "sunuz",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "m"
   },
-  "english_example_sentence": "If you hadn't seemed bored during the lecture.",
-  "russian_example_sentence": "Если бы вы не казались скучающими во время лекции.",
-  "turkish_example_sentence": "Ders sırasında sıkılmış görünmemişseniz, çok ilgiliydiniz.",
-  "turkish_example_sentence_with_blank": "Ders sırasında sıkılmış ______, çok ilgiliydiniz."
+  "turkish_example_sentence": "Siz eski ofiste mutsuz görünmüyorsunuz",
+  "english_example_sentence": "You don't seem unhappy in the old office",
+  "russian_example_sentence": "Вы не кажетесь несчастными в старом офисе",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:59:38.155169+00:00",
+  "turkish_example_sentence_with_blank": "Siz eski ofiste mutsuz ______"
 }

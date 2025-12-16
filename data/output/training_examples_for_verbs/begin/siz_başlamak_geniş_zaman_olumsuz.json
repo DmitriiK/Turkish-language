@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "başlamazsınız",
     "root": "başla",
-    "tense_affix": "r",
+    "tense_affix": "maz",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "sınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You don't begin your cooking activities late",
-  "russian_example_sentence": "Вы не начинаете вашу готовку поздно",
-  "turkish_example_sentence": "Siz geç saatlerde yemek pişirmeye başlamazsınız",
-  "turkish_example_sentence_with_blank": "Siz geç saatlerde yemek pişirmeye ______"
+  "turkish_example_sentence": "Siz kötü hava koşullarında tehlikeli dağ tırmanışına başlamazsınız",
+  "english_example_sentence": "You don't begin dangerous mountain climbing in bad weather conditions",
+  "russian_example_sentence": "Вы не начинаете опасное горное восхождение в плохих погодных условиях",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T10:47:59.729328+00:00",
+  "turkish_example_sentence_with_blank": "Siz kötü hava koşullarında tehlikeli dağ tırmanışına ______"
 }

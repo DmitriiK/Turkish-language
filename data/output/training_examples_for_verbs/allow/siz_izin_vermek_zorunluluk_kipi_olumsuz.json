@@ -1,0 +1,22 @@
+{
+  "verb_rank": 64,
+  "verb_english": "allow",
+  "verb_russian": "разрешать",
+  "verb_infinitive": "izin vermek",
+  "turkish_verb": {
+    "verb_full": "izin vermemelisiniz",
+    "root": "izin ver",
+    "tense_affix": "memeli",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "siniz",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "turkish_example_sentence": "Siz lisanssız satıcıların organik ürünleri pazarda satmalarına izin vermemelisiniz",
+  "english_example_sentence": "You must not allow unlicensed sellers to sell organic products in the market",
+  "russian_example_sentence": "Вы не должны разрешать нелицензированным продавцам продавать органические продукты на рынке",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:38:22.430443+00:00",
+  "turkish_example_sentence_with_blank": "Siz lisanssız satıcıların organik ürünleri pazarda satmalarına ______"
+}

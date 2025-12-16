@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmen lazım",
+    "verb_full": "görünüyorsun",
     "root": "görün",
-    "tense_affix": "lazım",
+    "tense_affix": "üyor",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "sun",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to seem professional during the presentation",
-  "russian_example_sentence": "Ты должен казаться профессиональным во время презентации",
-  "turkish_example_sentence": "Sen sunum sırasında ciddi bir profesyonel görünmen lazım",
-  "turkish_example_sentence_with_blank": "Sen sunum sırasında ciddi bir profesyonel ______"
+  "turkish_example_sentence": "Sen büyük evle çok güzel görünüyorsun",
+  "english_example_sentence": "You seem very beautiful with the big house",
+  "russian_example_sentence": "Ты кажешься очень красивой с большим домом",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:58:44.893556+00:00",
+  "turkish_example_sentence_with_blank": "Sen büyük evle çok güzel ______"
 }

@@ -4,17 +4,19 @@
   "verb_russian": "помогать",
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
-    "verb_full": "yardım etmediğimde",
+    "verb_full": "yardım etmiyorum",
     "root": "yardım et",
-    "tense_affix": "tiğ",
+    "tense_affix": "iyor",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "ben",
-    "personal_affix": "im",
+    "personal_affix": "um",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "When I don't help my brother, he cries.",
-  "russian_example_sentence": "Когда я не помогаю моему брату, он плачет.",
-  "turkish_example_sentence": "Ben kardeşime yardım etmediğimde, o ağlıyor.",
-  "turkish_example_sentence_with_blank": "Ben kardeşime ______, o ağlıyor."
+  "turkish_example_sentence": "Ben küçük kardeşime nadiren yardım etmiyorum",
+  "english_example_sentence": "I rarely don't help my little brother",
+  "russian_example_sentence": "Я редко не помогаю своему маленькому брату",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:07:48.671678+00:00",
+  "turkish_example_sentence_with_blank": "Ben küçük kardeşime nadiren ______"
 }

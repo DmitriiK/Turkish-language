@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmeyen",
     "root": "yardım et",
-    "tense_affix": "en",
+    "tense_affix": "meyen",
     "verb_tense": "sıfat_fiil",
     "personal_pronoun": null,
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "The man not helping the teacher is rude",
-  "russian_example_sentence": "Мужчина, не помогающий учителю, грубый",
-  "turkish_example_sentence": "Öğretmene yardım etmeyen adam kaba",
-  "turkish_example_sentence_with_blank": "Öğretmene ______ adam kaba"
+  "turkish_example_sentence": "İşi bitmeyen adam yardım etmeyen biri",
+  "english_example_sentence": "The man whose work is never done is a person who does not help",
+  "russian_example_sentence": "Человек, у которого никогда не заканчиваются дела, - человек, который не помогает",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:07:31.371301+00:00",
+  "turkish_example_sentence_with_blank": "İşi bitmeyen adam ______ biri"
 }

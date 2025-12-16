@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmeyecektik",
     "root": "yardım et",
-    "tense_affix": "ecekti",
+    "tense_affix": "ecek",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "tik",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "We weren't going to help them anymore.",
-  "russian_example_sentence": "Мы больше не собирались им помогать.",
-  "turkish_example_sentence": "Biz onlara bu projede artık yardım etmeyecektik.",
-  "turkish_example_sentence_with_blank": "Biz onlara bu projede artık ______."
+  "turkish_example_sentence": "Biz dün akşam ailemize yardım etmeyecektik",
+  "english_example_sentence": "We were not going to help our family last night",
+  "russian_example_sentence": "Мы не собирались помочь нашей семье прошлой ночью",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:06:54.201272+00:00",
+  "turkish_example_sentence_with_blank": "Biz dün akşam ailemize ______"
 }

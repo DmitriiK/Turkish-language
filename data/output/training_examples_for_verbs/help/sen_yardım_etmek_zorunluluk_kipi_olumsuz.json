@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmemelisin",
     "root": "yardım et",
-    "tense_affix": "meli",
+    "tense_affix": "memeli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "sin",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You must not help that dishonest person",
-  "russian_example_sentence": "Ты не должен помогать этому нечестному человеку",
-  "turkish_example_sentence": "Sen o dürüst olmayan kişiye yardım etmemelisin",
-  "turkish_example_sentence_with_blank": "Sen o dürüst olmayan kişiye ______"
+  "turkish_example_sentence": "Sen ona yardım etmemelisin, o başa çıkabilir",
+  "english_example_sentence": "You must not help him, he can manage",
+  "russian_example_sentence": "Ты не должен ему помогать, он может справиться",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:06:44.096565+00:00",
+  "turkish_example_sentence_with_blank": "Sen ona ______, o başa çıkabilir"
 }

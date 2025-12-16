@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmemesi lazım",
+    "verb_full": "görünmüyor",
     "root": "görün",
-    "tense_affix": "lazım",
+    "tense_affix": "üyor",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "si",
+    "personal_affix": "",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "He should not appear weak in front of competitors",
-  "russian_example_sentence": "Он не должен казаться слабым перед конкурентами",
-  "turkish_example_sentence": "O spor müsabakasında zayıf görünmemesi lazım",
-  "turkish_example_sentence_with_blank": "O spor müsabakasında zayıf ______"
+  "turkish_example_sentence": "O eski arabayla mutsuz görünmüyor",
+  "english_example_sentence": "He/She doesn't seem unhappy with the old car",
+  "russian_example_sentence": "Он/Она не кажется несчастным со старой машиной",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:58:44.893556+00:00",
+  "turkish_example_sentence_with_blank": "O eski arabayla mutsuz ______"
 }

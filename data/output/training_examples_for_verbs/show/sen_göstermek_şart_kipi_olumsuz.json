@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "göstermesen",
     "root": "göster",
-    "tense_affix": "se",
+    "tense_affix": "mese",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If you don’t show it, they’ll forget.",
-  "russian_example_sentence": "Если ты этого не покажешь, они забудут.",
-  "turkish_example_sentence": "Eğer onu göstermesen, unuturlar.",
-  "turkish_example_sentence_with_blank": "Eğer onu ______, unuturlar."
+  "turkish_example_sentence": "Sen kardeşine zor, eski bir kitap göstermesen",
+  "english_example_sentence": "If you couldn't show your brother a difficult, old book",
+  "russian_example_sentence": "Если бы ты не мог показать своему брату трудную, старую книгу",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:13:07.838794+00:00",
+  "turkish_example_sentence_with_blank": "Sen kardeşine zor, eski bir kitap ______"
 }

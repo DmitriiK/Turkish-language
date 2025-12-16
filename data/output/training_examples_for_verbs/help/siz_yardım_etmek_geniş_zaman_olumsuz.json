@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmezsiniz",
     "root": "yardım et",
-    "tense_affix": "ir",
+    "tense_affix": "me",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "siniz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You do not help with late night emergency calls",
-  "russian_example_sentence": "Вы не помогаете с поздними экстренными вызовами",
-  "turkish_example_sentence": "Siz gece yarısı acil telefon çağrılarında yardım etmezsiniz",
-  "turkish_example_sentence_with_blank": "Siz gece yarısı acil telefon çağrılarında ______"
+  "turkish_example_sentence": "Siz çocuklara yardım etmezsiniz",
+  "english_example_sentence": "You don't help children",
+  "russian_example_sentence": "Вы не помогаете детям",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:05:33.984696+00:00",
+  "turkish_example_sentence_with_blank": "Siz çocuklara ______"
 }

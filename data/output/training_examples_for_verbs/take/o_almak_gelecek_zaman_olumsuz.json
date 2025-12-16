@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "almayacak",
     "root": "al",
-    "tense_affix": "yacak",
+    "tense_affix": "acak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "O bu zorlu görevi kesinlikle almayacak.",
-  "english_example_sentence": "He/She will definitely not take this difficult task.",
-  "russian_example_sentence": "Он/Она точно не возьмет это сложное задание.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T09:18:38.467233+00:00",
-  "turkish_example_sentence_with_blank": "O bu zorlu görevi kesinlikle ______."
+  "turkish_example_sentence": "O genç doktor hastanede hiçbir riskli ilaç almayacak.",
+  "english_example_sentence": "That young doctor will not take any risky medicine at the hospital.",
+  "russian_example_sentence": "Тот молодой врач не возьмет никаких рискованных лекарств в больнице.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:25:53.411326+00:00",
+  "turkish_example_sentence_with_blank": "O genç doktor hastanede hiçbir riskli ilaç ______."
 }

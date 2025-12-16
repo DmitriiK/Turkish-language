@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmeniz lazım",
+    "verb_full": "görünüyorsunuz",
     "root": "görün",
-    "tense_affix": "lazım",
+    "tense_affix": "üyor",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "sünüz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You all need to appear respectful to the honored guests",
-  "russian_example_sentence": "Вы должны казаться уважительными к уважаемым гостям",
-  "turkish_example_sentence": "Siz saygıdeğer öğretmenlere karşı kibar görünmeniz lazım",
-  "turkish_example_sentence_with_blank": "Siz saygıdeğer öğretmenlere karşı kibar ______"
+  "turkish_example_sentence": "Siz büyük şehirde çok güzel görünüyorsunuz",
+  "english_example_sentence": "You seem very beautiful in the big city",
+  "russian_example_sentence": "Вы кажетесь очень красивыми в большом городе",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:58:44.893556+00:00",
+  "turkish_example_sentence_with_blank": "Siz büyük şehirde çok güzel ______"
 }

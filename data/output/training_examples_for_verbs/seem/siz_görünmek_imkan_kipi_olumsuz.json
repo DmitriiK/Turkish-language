@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünemezsiniz",
+    "verb_full": "görünmeyebilirsiniz",
     "root": "görün",
     "tense_affix": "eme",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "zsiniz",
+    "personal_affix": "siniz",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "You cannot seem rude to your elderly guests",
-  "russian_example_sentence": "Вы не можете казаться грубыми своим пожилым гостям",
-  "turkish_example_sentence": "Siz yaşlı misafirlerinize kaba görünemezsiniz",
-  "turkish_example_sentence_with_blank": "Siz yaşlı misafirlerinize kaba ______"
+  "turkish_example_sentence": "Siz bu zor durumda güzel görünmeyebilirsiniz",
+  "english_example_sentence": "You may not look beautiful in this difficult situation",
+  "russian_example_sentence": "Вы можете не выглядеть красиво в этой сложной ситуации",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:58:55.183359+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu zor durumda güzel ______"
 }

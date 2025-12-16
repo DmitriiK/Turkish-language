@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmeyeyim",
+    "verb_full": "görünmüyorum",
     "root": "görün",
-    "tense_affix": "e",
+    "tense_affix": "üyor",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "yim",
+    "personal_affix": "yım",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "Let me not seem unsure",
-  "russian_example_sentence": "Позвольте мне не казаться неуверенным",
-  "turkish_example_sentence": "Ben belirsiz görünmeyeyim",
-  "turkish_example_sentence_with_blank": "Ben belirsiz ______"
+  "turkish_example_sentence": "Ben bu fotoğrafta iyi görünmüyorum",
+  "english_example_sentence": "I don't seem good in this photo",
+  "russian_example_sentence": "Я не кажусь хорошо на этой фотографии",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:58:16.660921+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu fotoğrafta iyi ______"
 }

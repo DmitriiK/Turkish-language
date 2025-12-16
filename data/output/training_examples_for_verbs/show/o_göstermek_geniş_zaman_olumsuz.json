@@ -5,16 +5,18 @@
   "verb_infinitive": "göstermek",
   "turkish_verb": {
     "verb_full": "göstermez",
-    "root": "göster",
-    "tense_affix": "ir",
+    "root": "gösterm",
+    "tense_affix": "mez",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "She does not show her emotions to colleagues",
-  "russian_example_sentence": "Она не показывает свои эмоции коллегам",
-  "turkish_example_sentence": "O derin duygularını iş arkadaşlarına göstermez",
-  "turkish_example_sentence_with_blank": "O derin duygularını iş arkadaşlarına ______"
+  "turkish_example_sentence": "O asla kötü bir şey göstermez",
+  "english_example_sentence": "He never shows anything bad",
+  "russian_example_sentence": "Он никогда не показывает ничего плохого",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:11:38.954472+00:00",
+  "turkish_example_sentence_with_blank": "O asla kötü bir şey ______"
 }

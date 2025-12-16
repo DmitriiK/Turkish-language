@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünelim",
+    "verb_full": "görünüyoruz",
     "root": "görün",
-    "tense_affix": "e",
+    "tense_affix": "üyor",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "lim",
+    "personal_affix": "üz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Let's seem professional at the meeting",
-  "russian_example_sentence": "Давайте казаться профессионалами на собрании",
-  "turkish_example_sentence": "Toplantıda profesyonel görünelim",
-  "turkish_example_sentence_with_blank": "Toplantıda profesyonel ______"
+  "turkish_example_sentence": "Biz takım olarak güçlü görünüyoruz",
+  "english_example_sentence": "We seem strong as a team",
+  "russian_example_sentence": "Мы кажемся сильными как команда",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:58:16.660921+00:00",
+  "turkish_example_sentence_with_blank": "Biz takım olarak güçlü ______"
 }

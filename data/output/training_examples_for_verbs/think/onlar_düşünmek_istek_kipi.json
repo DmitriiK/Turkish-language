@@ -4,19 +4,19 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşüneler",
+    "verb_full": "düşünesinler",
     "root": "düşün",
     "tense_affix": "e",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "ler",
+    "personal_affix": "sinler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Onlar gelecek nesilleri her zaman düşüneler.",
-  "english_example_sentence": "May they always think about future generations.",
-  "russian_example_sentence": "Пусть они всегда думают о будущих поколениях.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T09:00:34.839369+00:00",
-  "turkish_example_sentence_with_blank": "Onlar gelecek nesilleri her zaman ______."
+  "turkish_example_sentence": "Onlar bu değerli kültürel mirasları sorumlu düşünesinler.",
+  "english_example_sentence": "May they think responsibly about these valuable cultural heritages.",
+  "russian_example_sentence": "Пусть они ответственно думают об этих ценных культурных наследиях.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:12:44.277340+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu değerli kültürel mirasları sorumlu ______."
 }

@@ -1,22 +1,22 @@
 {
   "verb_rank": 20,
-  "verb_english": "call",
+  "verb_english": "call (phone)",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "araması",
+    "verb_full": "araması lazım",
     "root": "ara",
-    "tense_affix": "ma",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
     "personal_affix": "sı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "O genç öğretmen velileri cuma akşamı araması lazım.",
-  "english_example_sentence": "She needs to call the parents on Friday evening.",
-  "russian_example_sentence": "Ей нужно звонить родителям в пятницу вечером.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T16:17:21.028205+00:00",
-  "turkish_example_sentence_with_blank": "O genç öğretmen velileri cuma akşamı ______ lazım."
+  "turkish_example_sentence": "O önemli hastane laboratuvarını yarın araması lazım",
+  "english_example_sentence": "He/she needs to call the important hospital laboratory tomorrow",
+  "russian_example_sentence": "Ему/ей нужно позвонить в важную больничную лабораторию завтра",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T10:25:09.620486+00:00",
+  "turkish_example_sentence_with_blank": "O önemli hastane laboratuvarını yarın ______"
 }

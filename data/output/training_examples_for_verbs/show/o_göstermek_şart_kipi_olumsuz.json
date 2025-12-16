@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "göstermese",
     "root": "göster",
-    "tense_affix": "se",
+    "tense_affix": "mese",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If she does not show the note, no one will believe her.",
-  "russian_example_sentence": "Если она не покажет записку, никто не поверит ей.",
-  "turkish_example_sentence": "Eğer notu göstermese, kimse ona inanmaz.",
-  "turkish_example_sentence_with_blank": "Eğer notu ______, kimse ona inanmaz."
+  "turkish_example_sentence": "O bize küçük, eski bir araba göstermese",
+  "english_example_sentence": "If he/she couldn't show us a small, old car",
+  "russian_example_sentence": "Если бы он/она не мог показать нам маленькую, старую машину",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:13:07.838794+00:00",
+  "turkish_example_sentence_with_blank": "O bize küçük, eski bir araba ______"
 }

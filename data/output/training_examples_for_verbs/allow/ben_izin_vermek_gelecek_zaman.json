@@ -5,7 +5,7 @@
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
     "verb_full": "izin vereceğim",
-    "root": "izin ver",
+    "root": "ver",
     "tense_affix": "ecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "ben",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I will allow my younger sister to visit tomorrow",
-  "russian_example_sentence": "Я позволю моей младшей сестре навестить завтра",
-  "turkish_example_sentence": "Ben yarın küçük kız kardeşime ziyaret izin vereceğim",
-  "turkish_example_sentence_with_blank": "Ben yarın küçük kız kardeşime ziyaret ______"
+  "turkish_example_sentence": "Ben yarın küçük kardeşime bilgisayar oyunu oynaması için izin vereceğim",
+  "english_example_sentence": "I will allow my little brother to play computer games tomorrow",
+  "russian_example_sentence": "Я разрешу моему младшему брату играть в компьютерные игры завтра",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:37:05.180039+00:00",
+  "turkish_example_sentence_with_blank": "Ben yarın küçük kardeşime bilgisayar oyunu oynaması için ______"
 }

@@ -1,0 +1,22 @@
+{
+  "verb_rank": 20,
+  "verb_english": "call",
+  "verb_russian": "звонить",
+  "verb_infinitive": "aramak",
+  "turkish_verb": {
+    "verb_full": "aramamalısınız",
+    "root": "ara",
+    "tense_affix": "malı",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "siz",
+    "personal_affix": "sınız",
+    "polarity": "negative",
+    "negative_affix": "mama"
+  },
+  "turkish_example_sentence": "Siz rahatsız komşuyu akşam geç saatinde aramamalısınız.",
+  "english_example_sentence": "You must not call the disturbed neighbor at late evening.",
+  "russian_example_sentence": "Вы не должны звонить беспокойному соседу поздно вечером.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:17:57.968182+00:00",
+  "turkish_example_sentence_with_blank": "Siz rahatsız komşuyu akşam geç saatinde ______."
+}

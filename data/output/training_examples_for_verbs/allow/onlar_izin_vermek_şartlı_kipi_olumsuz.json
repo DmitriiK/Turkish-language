@@ -1,0 +1,22 @@
+{
+  "verb_rank": 64,
+  "verb_english": "allow",
+  "verb_russian": "разрешать",
+  "verb_infinitive": "izin vermek",
+  "turkish_verb": {
+    "verb_full": "izin vermezlerse",
+    "root": "izin ver",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "onlar",
+    "personal_affix": "lerse",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "turkish_example_sentence": "Onlar öğretmenler öğrencilere tatilde ödev yapmamaya izin vermezlerse yorgun hissederler",
+  "english_example_sentence": "If those teachers don't allow the students not to do homework during vacation, they feel tired",
+  "russian_example_sentence": "Если те учителя не разрешат ученикам не делать домашнее задание во время каникул, они почувствуют усталость",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:39:50.452019+00:00",
+  "turkish_example_sentence_with_blank": "Onlar öğretmenler öğrencilere tatilde ödev yapmamaya ______ yorgun hissederler"
+}

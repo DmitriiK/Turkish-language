@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünemeyiz",
+    "verb_full": "görünmeyebiliriz",
     "root": "görün",
     "tense_affix": "eme",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "yiz",
+    "personal_affix": "iz",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "We cannot seem disinterested in this important project",
-  "russian_example_sentence": "Мы не можем казаться незаинтересованными в этом важном проекте",
-  "turkish_example_sentence": "Biz bu önemli projeye kayıtsız görünemeyiz",
-  "turkish_example_sentence_with_blank": "Biz bu önemli projeye kayıtsız ______"
+  "turkish_example_sentence": "Biz bu durumda zayıf görünmeyebiliriz",
+  "english_example_sentence": "We may not look weak in this situation",
+  "russian_example_sentence": "Мы можем не выглядеть слабыми в этой ситуации",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:58:55.183359+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu durumda zayıf ______"
 }

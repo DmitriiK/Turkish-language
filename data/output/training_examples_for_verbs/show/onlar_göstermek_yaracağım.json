@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "gösterecekler",
     "root": "göster",
-    "tense_affix": "eceğ",
+    "tense_affix": "ecekler",
     "verb_tense": "yaracağım",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They will show the interesting wildlife documentary to everyone",
-  "russian_example_sentence": "Они покажут интересный документальный фильм о дикой природе всем",
-  "turkish_example_sentence": "Onlar ilginç yaban hayatı belgeselini herkese gösterecekler",
-  "turkish_example_sentence_with_blank": "Onlar ilginç yaban hayatı belgeselini herkese ______"
+  "turkish_example_sentence": "Onlar yarın yeni ürünü gösterecekler",
+  "english_example_sentence": "They will show the new product tomorrow",
+  "russian_example_sentence": "Они покажут новый продукт завтра",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:11:28.919466+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yarın yeni ürünü ______"
 }

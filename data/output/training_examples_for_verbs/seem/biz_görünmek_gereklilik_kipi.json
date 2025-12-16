@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmemiz lazım",
+    "verb_full": "görünüyoruz",
     "root": "görün",
-    "tense_affix": "lazım",
+    "tense_affix": "üyor",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "mız",
+    "personal_affix": "uz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We need to appear united as a strong team",
-  "russian_example_sentence": "Мы должны казаться единой командой",
-  "turkish_example_sentence": "Biz toplantıda birleşmiş ve güçlü bir ekip görünmemiz lazım",
-  "turkish_example_sentence_with_blank": "Biz toplantıda birleşmiş ve güçlü bir ekip ______"
+  "turkish_example_sentence": "Biz yeni evimizle çok mutlu görünüyoruz",
+  "english_example_sentence": "We seem very happy with our new home",
+  "russian_example_sentence": "Мы кажемся очень счастливыми с нашим новым домом",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:58:44.893556+00:00",
+  "turkish_example_sentence_with_blank": "Biz yeni evimizle çok mutlu ______"
 }

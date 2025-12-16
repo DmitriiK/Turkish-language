@@ -5,7 +5,7 @@
   "verb_infinitive": "göstermek",
   "turkish_verb": {
     "verb_full": "gösteriyorsun",
-    "root": "göster",
+    "root": "gösterm",
     "tense_affix": "iyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "sen",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You are showing the interesting museum artifacts to the visitors",
-  "russian_example_sentence": "Ты показываешь интересные музейные артефакты посетителям",
-  "turkish_example_sentence": "Sen ilginç müze eserlerini ziyaretçilere gösteriyorsun",
-  "turkish_example_sentence_with_blank": "Sen ilginç müze eserlerini ziyaretçilere ______"
+  "turkish_example_sentence": "Sen yeni oyuncakları çocuklara gösteriyorsun",
+  "english_example_sentence": "You are showing new toys to children",
+  "russian_example_sentence": "Ты показываешь новые игрушки детям",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:10:58.816501+00:00",
+  "turkish_example_sentence_with_blank": "Sen yeni oyuncakları çocuklara ______"
 }

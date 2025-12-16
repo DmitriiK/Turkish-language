@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "göstermeyeceksin",
     "root": "göster",
-    "tense_affix": "eceğ",
+    "tense_affix": "eceksin",
     "verb_tense": "yaracağım",
     "personal_pronoun": "sen",
     "personal_affix": "sin",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You will not show the expensive jewelry to strangers",
-  "russian_example_sentence": "Ты не покажешь дорогие украшения незнакомцам",
-  "turkish_example_sentence": "Sen pahalı takıları yabancılara göstermeyeceksin",
-  "turkish_example_sentence_with_blank": "Sen pahalı takıları yabancılara ______"
+  "turkish_example_sentence": "Sen bu ilginç filmi göstermeyeceksin",
+  "english_example_sentence": "You will not show this interesting movie",
+  "russian_example_sentence": "Ты не покажешь этот интересный фильм",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:11:28.919466+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu ilginç filmi ______"
 }

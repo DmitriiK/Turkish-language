@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "bulmam",
     "root": "bul",
-    "tense_affix": "",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Ben kayıp kırmızı çantayı hemen bulmam lazım.",
-  "english_example_sentence": "I need to find the lost red bag immediately.",
-  "russian_example_sentence": "Мне нужно найти потерянную красную сумку сразу.",
+  "turkish_example_sentence": "Ben kayıp anahtarı hızlı bir şekilde bulmam lazım.",
+  "english_example_sentence": "I need to find the lost key quickly.",
+  "russian_example_sentence": "Мне нужно найти потерянный ключ быстро.",
   "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:35:24.826021+00:00",
-  "turkish_example_sentence_with_blank": "Ben kayıp kırmızı çantayı hemen ______ lazım."
+  "generated_at": "2025-12-15T12:39:10.674543+00:00",
+  "turkish_example_sentence_with_blank": "Ben kayıp anahtarı hızlı bir şekilde ______ lazım."
 }

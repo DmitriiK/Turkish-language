@@ -4,19 +4,19 @@
   "verb_russian": "работать",
   "verb_infinitive": "çalışmak",
   "turkish_verb": {
-    "verb_full": "çalışmamam",
+    "verb_full": "çalışmamam lazım",
     "root": "çalış",
-    "tense_affix": "",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Ben hafta sonunda çalışmamam lazım.",
-  "english_example_sentence": "I don't need to work on the weekend.",
-  "russian_example_sentence": "Мне не нужно работать в выходные.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:51:16.573007+00:00",
-  "turkish_example_sentence_with_blank": "Ben hafta sonunda ______ lazım."
+  "turkish_example_sentence": "Ben bugün hasta olduğum için ofiste çalışmamam lazım",
+  "english_example_sentence": "I need to not work at the office today because I am sick",
+  "russian_example_sentence": "Мне не нужно работать в офисе сегодня, потому что я болен",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:21:29.461728+00:00",
+  "turkish_example_sentence_with_blank": "Ben bugün hasta olduğum için ofiste ______"
 }

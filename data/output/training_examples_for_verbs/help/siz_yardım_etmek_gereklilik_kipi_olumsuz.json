@@ -4,17 +4,19 @@
   "verb_russian": "помогать",
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
-    "verb_full": "yardım etmemeniz lazım",
+    "verb_full": "yardım etmeniz lazım değil",
     "root": "yardım et",
-    "tense_affix": "me",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You should not help with the confidential legal matters",
-  "russian_example_sentence": "Вам не нужно помогать с конфиденциальными юридическими вопросами",
-  "turkish_example_sentence": "Siz gizli hukuki konularda yardım etmemeniz lazım",
-  "turkish_example_sentence_with_blank": "Siz gizli hukuki konularda ______"
+  "turkish_example_sentence": "Siz bizimle yardım etmeniz lazım değil",
+  "english_example_sentence": "You don't need to help us",
+  "russian_example_sentence": "Вам не нужно помогать нам",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:06:23.181506+00:00",
+  "turkish_example_sentence_with_blank": "Siz bizimle ______"
 }

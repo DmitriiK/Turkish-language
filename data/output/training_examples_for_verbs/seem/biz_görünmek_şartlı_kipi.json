@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünürsek",
+    "verb_full": "görünüyoruz",
     "root": "görün",
-    "tense_affix": "ürse",
+    "tense_affix": "üyor",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "uz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we seem strong, they’ll respect us.",
-  "russian_example_sentence": "Если мы кажемся сильными, они нас уважают.",
-  "turkish_example_sentence": "Eğer güçlü görünürsek, bize saygı duyarlar.",
-  "turkish_example_sentence_with_blank": "Eğer güçlü ______, bize saygı duyarlar."
+  "turkish_example_sentence": "Biz takım olarak güçlü görünüyoruz",
+  "english_example_sentence": "We seem strong as a team",
+  "russian_example_sentence": "Мы кажемся сильными как команда",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:59:26.904994+00:00",
+  "turkish_example_sentence_with_blank": "Biz takım olarak güçlü ______"
 }

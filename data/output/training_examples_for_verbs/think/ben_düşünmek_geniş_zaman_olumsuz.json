@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "düşünmem",
     "root": "düşün",
-    "tense_affix": "z",
+    "tense_affix": "ür",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "üm",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Ben bu eski sorun hakkında artık hiç düşünmem.",
-  "english_example_sentence": "I no longer think about this old problem at all.",
-  "russian_example_sentence": "Я больше совсем не думаю об этой старой проблеме.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T09:00:07.663907+00:00",
-  "turkish_example_sentence_with_blank": "Ben bu eski sorun hakkında artık hiç ______."
+  "turkish_example_sentence": "Ben asla olumsuz şeyleri düşünmem ve her zaman iyimser kalırım.",
+  "english_example_sentence": "I never think about negative things and always remain optimistic.",
+  "russian_example_sentence": "Я никогда не думаю об отрицательных вещах и всегда остаюсь оптимистом.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:12:23.985914+00:00",
+  "turkish_example_sentence_with_blank": "Ben asla olumsuz şeyleri ______ ve her zaman iyimser kalırım."
 }

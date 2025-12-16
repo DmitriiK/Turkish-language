@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "düşünebilirim",
     "root": "düşün",
-    "tense_affix": "ebilir",
+    "tense_affix": "ebil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "im",
+    "personal_affix": "irim",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Ben bu karmaşık problemi dikkatlice düşünebilirim.",
-  "english_example_sentence": "I can think about this complex problem carefully.",
-  "russian_example_sentence": "Я могу внимательно обдумать эту сложную проблему.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T08:50:41.039735+00:00",
-  "turkish_example_sentence_with_blank": "Ben bu karmaşık problemi dikkatlice ______."
+  "turkish_example_sentence": "Ben bu karmaşık matematik problemini dikkatle düşünebilirim.",
+  "english_example_sentence": "I can think about this complex mathematics problem carefully.",
+  "russian_example_sentence": "Я могу думать об этой сложной математической задаче внимательно.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:13:55.909283+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu karmaşık matematik problemini dikkatle ______."
 }

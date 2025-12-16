@@ -1,6 +1,6 @@
 {
   "verb_rank": 20,
-  "verb_english": "call",
+  "verb_english": "call (phone)",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
@@ -13,10 +13,10 @@
     "polarity": "negative",
     "negative_affix": "yama"
   },
-  "turkish_example_sentence": "Biz dış ülkede internet bağlantısı olmadan eski arkadaşı arayamayız.",
-  "english_example_sentence": "We cannot call the old friend without internet connection in a foreign country.",
-  "russian_example_sentence": "Мы не можем звонить старому другу без интернета в иностранной стране.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T16:17:39.720677+00:00",
-  "turkish_example_sentence_with_blank": "Biz dış ülkede internet bağlantısı olmadan eski arkadaşı ______."
+  "turkish_example_sentence": "Biz şu anda kötü hava yüzünden taksi şirketini arayamayız",
+  "english_example_sentence": "We cannot call the taxi company right now because of bad weather",
+  "russian_example_sentence": "Мы не можем позвонить в таксомоторную компанию прямо сейчас из-за плохой погоды",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T10:25:46.796768+00:00",
+  "turkish_example_sentence_with_blank": "Biz şu anda kötü hava yüzünden taksi şirketini ______"
 }

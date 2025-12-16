@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım edebilirim",
     "root": "yardım et",
-    "tense_affix": "ebil",
+    "tense_affix": "ebilir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "irim",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I can help my elderly neighbor carry heavy groceries",
-  "russian_example_sentence": "Я могу помочь моей пожилой соседке нести тяжелые продукты",
-  "turkish_example_sentence": "Ben yaşlı komşuma ağır alışverişleri taşımakta yardım edebilirim",
-  "turkish_example_sentence_with_blank": "Ben yaşlı komşuma ağır alışverişleri taşımakta ______"
+  "turkish_example_sentence": "Ben ihtiyacı olanlara her zaman yardım edebilirim",
+  "english_example_sentence": "I can always help those in need",
+  "russian_example_sentence": "Я всегда могу помочь тем, кто нуждается",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:06:33.619684+00:00",
+  "turkish_example_sentence_with_blank": "Ben ihtiyacı olanlara her zaman ______"
 }

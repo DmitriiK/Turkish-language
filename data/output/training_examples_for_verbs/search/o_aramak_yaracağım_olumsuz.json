@@ -1,20 +1,22 @@
 {
   "verb_rank": 20,
-  "verb_english": "search",
+  "verb_english": "call",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
     "verb_full": "aramayacak",
     "root": "ara",
-    "tense_affix": "yacak",
+    "tense_affix": "yacağ",
     "verb_tense": "yaracağım",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "She will not search for her lost small cat.",
-  "russian_example_sentence": "Она не будет искать свою потерянную маленькую кошку.",
-  "turkish_example_sentence": "O kayıp küçük kedisini aramayacak.",
-  "turkish_example_sentence_with_blank": "O kayıp küçük kedisini ______."
+  "turkish_example_sentence": "O kısa sürede mutsuz avukatı aramayacak.",
+  "english_example_sentence": "She will not call the unhappy lawyer in a short time.",
+  "russian_example_sentence": "Она не позвонит несчастному адвокату в ближайшее время.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:15:38.334274+00:00",
+  "turkish_example_sentence_with_blank": "O kısa sürede mutsuz avukatı ______."
 }

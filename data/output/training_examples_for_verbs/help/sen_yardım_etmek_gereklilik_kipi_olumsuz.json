@@ -4,17 +4,19 @@
   "verb_russian": "помогать",
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
-    "verb_full": "yardım etmemen lazım",
+    "verb_full": "yardım etmen lazım değil",
     "root": "yardım et",
-    "tense_affix": "me",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You do not need to help with the garden work",
-  "russian_example_sentence": "Тебе не нужно помогать с работой в саду",
-  "turkish_example_sentence": "Sen bahçede ağır işleri yardım etmemen lazım",
-  "turkish_example_sentence_with_blank": "Sen bahçede ağır işleri ______"
+  "turkish_example_sentence": "Sen onun için yardım etmen lazım değil",
+  "english_example_sentence": "You don't need to help him/her",
+  "russian_example_sentence": "Тебе не нужно помогать ему/ей",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:06:23.181506+00:00",
+  "turkish_example_sentence_with_blank": "Sen onun için ______"
 }

@@ -5,7 +5,7 @@
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
     "verb_full": "izin vermeyeceğim",
-    "root": "izin ver",
+    "root": "ver",
     "tense_affix": "ecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "ben",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "I will not allow loud music in the library",
-  "russian_example_sentence": "Я не позволю громкую музыку в библиотеке",
-  "turkish_example_sentence": "Ben kütüphanede gürültülü müzik izin vermeyeceğim",
-  "turkish_example_sentence_with_blank": "Ben kütüphanede gürültülü müzik ______"
+  "turkish_example_sentence": "Ben bu gece arkadaşlarıma geç saatte müzik dinlemelerine izin vermeyeceğim",
+  "english_example_sentence": "I will not allow my friends to listen to music late at night",
+  "russian_example_sentence": "Я не разрешу моим друзьям слушать музыку поздно ночью",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:37:05.180039+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu gece arkadaşlarıma geç saatte müzik dinlemelerine ______"
 }

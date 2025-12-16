@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "çalışmamalısınız",
     "root": "çalış",
-    "tense_affix": "malı",
+    "tense_affix": "mamalı",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "sınız",
     "polarity": "negative",
-    "negative_affix": "mama"
+    "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Siz hasta olduğunuzda tehlikeli fabrika ortamında çalışmamalısınız.",
-  "english_example_sentence": "You must not work in a dangerous factory environment when you are sick.",
-  "russian_example_sentence": "Вы не должны работать в опасной фабричной среде, когда вы больны.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:51:57.650989+00:00",
-  "turkish_example_sentence_with_blank": "Siz hasta olduğunuzda tehlikeli fabrika ortamında ______."
+  "turkish_example_sentence": "Siz sağlık sorunları nedeniyle stresli ortamlarda çalışmamalısınız",
+  "english_example_sentence": "You must not work in stressful environments due to health problems",
+  "russian_example_sentence": "Вы не должны работать в стрессовых условиях из-за проблем со здоровьем",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:22:45.392447+00:00",
+  "turkish_example_sentence_with_blank": "Siz sağlık sorunları nedeniyle stresli ortamlarda ______"
 }

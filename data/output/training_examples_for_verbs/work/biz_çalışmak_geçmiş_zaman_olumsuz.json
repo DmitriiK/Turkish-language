@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "çalışmadık",
     "root": "çalış",
-    "tense_affix": "tı",
+    "tense_affix": "ma",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "dı",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Biz tatil haftasında resepsiyonda çalışmadık.",
-  "english_example_sentence": "We did not work at the reception during vacation week.",
-  "russian_example_sentence": "Мы не работали на рецепции на неделе отпуска.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:49:39.864289+00:00",
-  "turkish_example_sentence_with_blank": "Biz tatil haftasında resepsiyonda ______."
+  "turkish_example_sentence": "Biz cumartesi sabahı soğuk hava yüzünden dışarıda çalışmadık",
+  "english_example_sentence": "We did not work outside on Saturday morning because of cold weather",
+  "russian_example_sentence": "Мы не работали на улице в субботу утром из-за холодной погоды",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:18:36.314561+00:00",
+  "turkish_example_sentence_with_blank": "Biz cumartesi sabahı soğuk hava yüzünden dışarıda ______"
 }

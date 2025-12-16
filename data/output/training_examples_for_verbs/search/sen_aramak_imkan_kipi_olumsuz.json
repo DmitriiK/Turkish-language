@@ -1,0 +1,22 @@
+{
+  "verb_rank": 20,
+  "verb_english": "call",
+  "verb_russian": "звонить",
+  "verb_infinitive": "aramak",
+  "turkish_verb": {
+    "verb_full": "arayamaz",
+    "root": "ara",
+    "tense_affix": "yama",
+    "verb_tense": "imkan_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "z",
+    "polarity": "negative",
+    "negative_affix": "yama"
+  },
+  "turkish_example_sentence": "Sen batarya bitmiş eski telefon ile doktoru arayamaz.",
+  "english_example_sentence": "You cannot call the doctor with the old phone whose battery is dead.",
+  "russian_example_sentence": "Ты не можешь звонить врачу со старым телефоном, батарея которого разряжена.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:17:39.720677+00:00",
+  "turkish_example_sentence_with_blank": "Sen batarya bitmiş eski telefon ile doktoru ______."
+}

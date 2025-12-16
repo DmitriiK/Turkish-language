@@ -4,17 +4,19 @@
   "verb_russian": "помогать",
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
-    "verb_full": "yardım etmeyiz",
+    "verb_full": "yardım etmeziz",
     "root": "yardım et",
-    "tense_affix": "ir",
+    "tense_affix": "me",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "iz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "We do not help with dangerous construction projects",
-  "russian_example_sentence": "Мы не помогаем с опасными строительными проектами",
-  "turkish_example_sentence": "Biz tehlikeli inşaat projelerinde yardım etmeyiz",
-  "turkish_example_sentence_with_blank": "Biz tehlikeli inşaat projelerinde ______"
+  "turkish_example_sentence": "Biz başkalarına yardım etmeziz",
+  "english_example_sentence": "We don't help others",
+  "russian_example_sentence": "Мы не помогаем другим",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:05:33.984696+00:00",
+  "turkish_example_sentence_with_blank": "Biz başkalarına ______"
 }

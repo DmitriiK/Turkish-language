@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım eder",
     "root": "yardım et",
-    "tense_affix": "ir",
+    "tense_affix": "er",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He helps young students understand complex science",
-  "russian_example_sentence": "Он помогает молодым студентам понять сложную науку",
-  "turkish_example_sentence": "O genç öğrencilere karmaşık kimya konularını anlamakta yardım eder",
-  "turkish_example_sentence_with_blank": "O genç öğrencilere karmaşık kimya konularını anlamakta ______"
+  "turkish_example_sentence": "O ihtiyacı olanlara yardım eder",
+  "english_example_sentence": "He/She helps those in need",
+  "russian_example_sentence": "Он/Она помогает тем, кто нуждается",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:05:33.984696+00:00",
+  "turkish_example_sentence_with_blank": "O ihtiyacı olanlara ______"
 }

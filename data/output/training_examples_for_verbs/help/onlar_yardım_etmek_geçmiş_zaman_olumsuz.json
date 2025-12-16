@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmediler",
     "root": "yardım et",
-    "tense_affix": "ti",
+    "tense_affix": "di",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "They did not help finish the important report",
-  "russian_example_sentence": "Они не помогли завершить важный отчет",
-  "turkish_example_sentence": "Onlar önemli raporu bitirmede yardım etmediler",
-  "turkish_example_sentence_with_blank": "Onlar önemli raporu bitirmede ______"
+  "turkish_example_sentence": "Onlar bize yardım etmediler çünkü çok meşguldüler",
+  "english_example_sentence": "They didn't help us because they were busy",
+  "russian_example_sentence": "Они не помогли нам, потому что были заняты",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:05:03.857924+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bize ______ çünkü çok meşguldüler"
 }

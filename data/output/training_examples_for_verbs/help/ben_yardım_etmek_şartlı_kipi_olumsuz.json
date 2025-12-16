@@ -4,17 +4,19 @@
   "verb_russian": "помогать",
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
-    "verb_full": "yardım etmezsem",
+    "verb_full": "yardım etmesem",
     "root": "yardım et",
-    "tense_affix": "mezse",
+    "tense_affix": "me",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
-    "negative_affix": "mez"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "If I don't help today, he will struggle.",
-  "russian_example_sentence": "Если я не помогу сегодня, ему будет трудно.",
-  "turkish_example_sentence": "Ben bugün yardım etmezsem, o çok zorlanır.",
-  "turkish_example_sentence_with_blank": "Ben bugün ______, o çok zorlanır."
+  "turkish_example_sentence": "Ben küçük kardeşime yardım etmesem, üzülür",
+  "english_example_sentence": "If I don't help my little brother, he is sad",
+  "russian_example_sentence": "Если я не помогу своему маленькому брату, он грустит",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:07:05.419742+00:00",
+  "turkish_example_sentence_with_blank": "Ben küçük kardeşime ______, üzülür"
 }

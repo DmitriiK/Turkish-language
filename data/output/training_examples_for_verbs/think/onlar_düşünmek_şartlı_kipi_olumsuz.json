@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "düşünmezlerse",
     "root": "düşün",
-    "tense_affix": "se",
+    "tense_affix": "mez",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "lerse",
+    "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "mez"
   },
-  "turkish_example_sentence": "Onlar bu önemli uyarıları düşünmezlerse, ciddi hatalar yapabilirler.",
-  "english_example_sentence": "If they don't think about these important warnings, they can make serious mistakes.",
-  "russian_example_sentence": "Если они не подумают об этих важных предупреждениях, они могут совершить серьезные ошибки.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T08:52:08.756474+00:00",
-  "turkish_example_sentence_with_blank": "Onlar bu önemli uyarıları ______, ciddi hatalar yapabilirler."
+  "turkish_example_sentence": "Onlar bu ciddi sağlık meselesini düşünmezlerse, hastalık ilerleyecek.",
+  "english_example_sentence": "If they don't think about this serious health matter, the illness will progress.",
+  "russian_example_sentence": "Если они не подумают об этом серьёзном вопросе здоровья, болезнь будет прогрессировать.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:15:01.555148+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu ciddi sağlık meselesini ______, hastalık ilerleyecek."
 }

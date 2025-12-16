@@ -4,19 +4,19 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmezseniz",
+    "verb_full": "düşünmezsünüz",
     "root": "düşün",
-    "tense_affix": "se",
+    "tense_affix": "mez",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "nüz",
     "polarity": "negative",
     "negative_affix": "mez"
   },
-  "turkish_example_sentence": "Siz bu acil durumu yeterince düşünmezseniz, büyük sorunlar yaşanabilir.",
-  "english_example_sentence": "If you don't think enough about this urgent situation, big problems can occur.",
-  "russian_example_sentence": "Если вы недостаточно подумаете об этой срочной ситуации, могут возникнуть большие проблемы.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T08:52:08.756474+00:00",
-  "turkish_example_sentence_with_blank": "Siz bu acil durumu yeterince ______, büyük sorunlar yaşanabilir."
+  "turkish_example_sentence": "Siz bu özel fırsatı uzun süre düşünmezsünüz, kaçıracaksınız.",
+  "english_example_sentence": "If you don't think about this special opportunity for a long time, you will miss it.",
+  "russian_example_sentence": "Если вы не будете долго думать об этой особой возможности, вы её упустите.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:15:01.555148+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu özel fırsatı uzun süre ______, kaçıracaksınız."
 }

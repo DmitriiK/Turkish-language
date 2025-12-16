@@ -4,17 +4,19 @@
   "verb_russian": "помогать",
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
-    "verb_full": "yardım etmediğimizde",
+    "verb_full": "yardım etmiyoruz",
     "root": "yardım et",
-    "tense_affix": "tiğ",
+    "tense_affix": "iyor",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "biz",
-    "personal_affix": "imiz",
+    "personal_affix": "uz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "When we don't help the environment, it suffers.",
-  "russian_example_sentence": "Когда мы не помогаем окружающей среде, она страдает.",
-  "turkish_example_sentence": "Biz çevreye yardım etmediğimizde, o zarar görüyor.",
-  "turkish_example_sentence_with_blank": "Biz çevreye ______, o zarar görüyor."
+  "turkish_example_sentence": "Biz yeni gelenlere bazen yardım etmiyoruz",
+  "english_example_sentence": "We sometimes don't help newcomers",
+  "russian_example_sentence": "Мы иногда не помогаем новичкам",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:07:48.671678+00:00",
+  "turkish_example_sentence_with_blank": "Biz yeni gelenlere bazen ______"
 }

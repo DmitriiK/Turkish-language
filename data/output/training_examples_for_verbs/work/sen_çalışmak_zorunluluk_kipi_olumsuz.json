@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "çalışmamalısın",
     "root": "çalış",
-    "tense_affix": "malı",
+    "tense_affix": "mamalı",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "sın",
     "polarity": "negative",
-    "negative_affix": "mama"
+    "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Sen gece yarısından sonra bu zor görevde çalışmamalısın.",
-  "english_example_sentence": "You must not work on this difficult task after midnight.",
-  "russian_example_sentence": "Ты не должен работать над этой сложной задачей после полуночи.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:51:57.650989+00:00",
-  "turkish_example_sentence_with_blank": "Sen gece yarısından sonra bu zor görevde ______."
+  "turkish_example_sentence": "Sen hasta olduğun için bugün evde çalışmamalısın",
+  "english_example_sentence": "You must not work at home today because you are sick",
+  "russian_example_sentence": "Ты не должен работать дома сегодня, потому что ты болен",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:22:45.392447+00:00",
+  "turkish_example_sentence_with_blank": "Sen hasta olduğun için bugün evde ______"
 }

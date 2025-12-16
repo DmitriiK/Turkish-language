@@ -4,17 +4,19 @@
   "verb_russian": "показывать",
   "verb_infinitive": "göstermek",
   "turkish_verb": {
-    "verb_full": "göstermem lazım",
-    "root": "göster",
-    "tense_affix": "lazım",
+    "verb_full": "göstermeliyim",
+    "root": "göstermek",
+    "tense_affix": "meliyim",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "meliyim",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I need to show the beautiful red flowers",
-  "russian_example_sentence": "Мне нужно показать красивые красные цветы",
-  "turkish_example_sentence": "Ben güzel kırmızı çiçekleri göstermem lazım",
-  "turkish_example_sentence_with_blank": "Ben güzel kırmızı çiçekleri ______"
+  "turkish_example_sentence": "Ben renkli slaytları göstermeliyim",
+  "english_example_sentence": "I need to show the colorful slides",
+  "russian_example_sentence": "Мне нужно показать цветные слайды",
+  "generated_by_model": "LLAMA - meta.llama4-scout-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T11:35:28.681817+00:00",
+  "turkish_example_sentence_with_blank": "Ben renkli slaytları ______"
 }

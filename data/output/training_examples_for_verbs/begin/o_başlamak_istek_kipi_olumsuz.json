@@ -4,17 +4,19 @@
   "verb_russian": "начинать",
   "verb_infinitive": "başlamak",
   "turkish_verb": {
-    "verb_full": "başlamaya",
+    "verb_full": "başlamasın",
     "root": "başla",
-    "tense_affix": "ya",
+    "tense_affix": "sın",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "May he/she not begin the meeting",
-  "russian_example_sentence": "Пусть он/она не начинает встречу",
-  "turkish_example_sentence": "O toplantıyı başlamaya",
-  "turkish_example_sentence_with_blank": "O toplantıyı ______"
+  "turkish_example_sentence": "O uzun sıkıcı toplantıya erken saatte başlamasın",
+  "english_example_sentence": "May he/she not begin the long boring meeting at an early hour",
+  "russian_example_sentence": "Пусть он/она не начнет длинное скучное собрание в ранний час",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T10:40:58.559319+00:00",
+  "turkish_example_sentence_with_blank": "O uzun sıkıcı toplantıya erken saatte ______"
 }

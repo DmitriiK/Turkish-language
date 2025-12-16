@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "göründüklerinde",
+    "verb_full": "görünüyorlar",
     "root": "görün",
-    "tense_affix": "dük",
+    "tense_affix": "üyor",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "onlar",
-    "personal_affix": "leri",
+    "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When they seem content, celebrate",
-  "russian_example_sentence": "Когда они кажутся довольными, празднуйте",
-  "turkish_example_sentence": "Onlar memnun göründüklerinde, kutlayın.",
-  "turkish_example_sentence_with_blank": "Onlar memnun ______, kutlayın."
+  "turkish_example_sentence": "Onlar çok zengin görünüyorlar dışarıdan",
+  "english_example_sentence": "They seem very rich from the outside",
+  "russian_example_sentence": "Они кажутся очень богатыми со стороны",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:00:07.672682+00:00",
+  "turkish_example_sentence_with_blank": "Onlar çok zengin ______ dışarıdan"
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "başlamazlar",
     "root": "başla",
-    "tense_affix": "r",
+    "tense_affix": "maz",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "They don't begin their difficult homework assignment",
-  "russian_example_sentence": "Они не начинают свое сложное домашнее задание",
-  "turkish_example_sentence": "Onlar zor ev ödevlerine başlamazlar",
-  "turkish_example_sentence_with_blank": "Onlar zor ev ödevlerine ______"
+  "turkish_example_sentence": "Onlar karanlık gecede uzun araba yolculuğuna başlamazlar",
+  "english_example_sentence": "They don't begin a long car journey on a dark night",
+  "russian_example_sentence": "Они не начинают долгое автомобильное путешествие темной ночью",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T10:47:59.729328+00:00",
+  "turkish_example_sentence_with_blank": "Onlar karanlık gecede uzun araba yolculuğuna ______"
 }

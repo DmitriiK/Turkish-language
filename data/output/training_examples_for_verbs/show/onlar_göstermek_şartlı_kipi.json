@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "gösterirlerse",
     "root": "göster",
-    "tense_affix": "irlerse",
+    "tense_affix": "ir",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they show the evidence, they’ll win.",
-  "russian_example_sentence": "Если они покажут доказательства, они победят.",
-  "turkish_example_sentence": "Kanıtı gösterirlerse kazanırlar.",
-  "turkish_example_sentence_with_blank": "Kanıtı ______ kazanırlar."
+  "turkish_example_sentence": "Onlar yeni belgeseli izleyicilere gösterirlerse, büyük beğeni toplarlar",
+  "english_example_sentence": "If they show the new documentary to the audience, it will be very well-received",
+  "russian_example_sentence": "Если они покажут новый документальный фильм аудитории, он будет очень хорошо принят",
+  "generated_by_model": "LLAMA - meta.llama4-scout-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T11:36:14.071177+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yeni belgeseli izleyicilere ______, büyük beğeni toplarlar"
 }

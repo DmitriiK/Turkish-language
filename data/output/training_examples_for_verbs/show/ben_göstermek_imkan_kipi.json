@@ -4,17 +4,19 @@
   "verb_russian": "показывать",
   "verb_infinitive": "göstermek",
   "turkish_verb": {
-    "verb_full": "gösterebilirim",
+    "verb_full": "gösteriyorum",
     "root": "göster",
-    "tense_affix": "ebil",
+    "tense_affix": "iyorum",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "irim",
+    "personal_affix": "iyorum",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I can show you my beautiful new garden",
-  "russian_example_sentence": "Я могу показать вам мой красивый новый сад",
-  "turkish_example_sentence": "Ben sana benim güzel yeni bahçeyi gösterebilirim",
-  "turkish_example_sentence_with_blank": "Ben sana benim güzel yeni bahçeyi ______"
+  "turkish_example_sentence": "Ben yeni sergiyi büyük bir heyecanla gösteriyorum",
+  "english_example_sentence": "I am showing the new exhibition with great excitement",
+  "russian_example_sentence": "Я показываю новую выставку с большим волнением",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:10:14.597312+00:00",
+  "turkish_example_sentence_with_blank": "Ben yeni sergiyi büyük bir heyecanla ______"
 }

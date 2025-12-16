@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım edersen",
     "root": "yardım et",
-    "tense_affix": "erse",
+    "tense_affix": "se",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you help your friend, he will finish quickly.",
-  "russian_example_sentence": "Если ты поможешь своему другу, он быстро закончит.",
-  "turkish_example_sentence": "Sen arkadaşına yardım edersen, o hızlı bitirir.",
-  "turkish_example_sentence_with_blank": "Sen arkadaşına ______, o hızlı bitirir."
+  "turkish_example_sentence": "Sen yeni komşuna yardım edersen, minnettar olur",
+  "english_example_sentence": "If you help your new neighbor, they are grateful",
+  "russian_example_sentence": "Если ты поможешь своему новому соседу, он будет благодарен",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:07:05.419742+00:00",
+  "turkish_example_sentence_with_blank": "Sen yeni komşuna ______, minnettar olur"
 }

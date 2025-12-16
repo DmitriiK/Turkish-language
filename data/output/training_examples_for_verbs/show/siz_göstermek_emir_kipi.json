@@ -5,7 +5,7 @@
   "verb_infinitive": "göstermek",
   "turkish_verb": {
     "verb_full": "gösterin",
-    "root": "göster",
+    "root": "gösterm",
     "tense_affix": "",
     "verb_tense": "emir_kipi",
     "personal_pronoun": "siz",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Please show us the colorful traditional Turkish carpets",
-  "russian_example_sentence": "Пожалуйста, покажите нам красочные традиционные турецкие ковры",
-  "turkish_example_sentence": "Siz bize renkli geleneksel Türk halılarını gösterin",
-  "turkish_example_sentence_with_blank": "Siz bize renkli geleneksel Türk halılarını ______"
+  "turkish_example_sentence": "Siz güzel resmi gösterin",
+  "english_example_sentence": "You show the beautiful picture",
+  "russian_example_sentence": "Вы показываете красивую картину",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:11:56.515623+00:00",
+  "turkish_example_sentence_with_blank": "Siz güzel resmi ______"
 }

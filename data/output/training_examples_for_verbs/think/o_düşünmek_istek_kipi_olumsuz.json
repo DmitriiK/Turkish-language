@@ -4,19 +4,19 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmeye",
+    "verb_full": "düşünmese",
     "root": "düşün",
-    "tense_affix": "ye",
+    "tense_affix": "e",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "O başkalarının dedikodularını asla düşünmeye.",
-  "english_example_sentence": "May he/she never think about others' gossip.",
-  "russian_example_sentence": "Пусть он/она никогда не думает о сплетнях других.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T09:00:34.839369+00:00",
-  "turkish_example_sentence_with_blank": "O başkalarının dedikodularını asla ______."
+  "turkish_example_sentence": "O eski kötü hatıraları düşünmese çok daha mutlu olabilir.",
+  "english_example_sentence": "If she did not think about those old bad memories she could be much happier.",
+  "russian_example_sentence": "Если бы она не думала об этих старых плохих воспоминаниях, она могла бы быть намного счастливее.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:12:44.277340+00:00",
+  "turkish_example_sentence_with_blank": "O eski kötü hatıraları ______ çok daha mutlu olabilir."
 }

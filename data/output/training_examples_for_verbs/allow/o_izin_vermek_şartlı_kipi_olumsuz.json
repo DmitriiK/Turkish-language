@@ -1,0 +1,22 @@
+{
+  "verb_rank": 64,
+  "verb_english": "allow",
+  "verb_russian": "разрешать",
+  "verb_infinitive": "izin vermek",
+  "turkish_verb": {
+    "verb_full": "izin vermezse",
+    "root": "izin ver",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "o",
+    "personal_affix": "se",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "turkish_example_sentence": "O doktor hastaya ağır spor yapmaya izin vermezse sağlığı daha iyi korunur",
+  "english_example_sentence": "If that doctor doesn't allow the patient to do heavy sports, his health will be better protected",
+  "russian_example_sentence": "Если тот врач не разрешит пациенту заниматься тяжелым спортом, его здоровье будет лучше защищено",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:39:50.452019+00:00",
+  "turkish_example_sentence_with_blank": "O doktor hastaya ağır spor yapmaya ______ sağlığı daha iyi korunur"
+}

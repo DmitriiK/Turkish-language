@@ -4,17 +4,19 @@
   "verb_russian": "показывать",
   "verb_infinitive": "göstermek",
   "turkish_verb": {
-    "verb_full": "gösterdniz",
+    "verb_full": "gösterdiniz",
     "root": "göster",
     "tense_affix": "di",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "nız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You showed the interesting museum to your family",
-  "russian_example_sentence": "Вы показали интересный музей своей семье",
-  "turkish_example_sentence": "Siz ilginç müzeyi ailenize gösterdniz",
-  "turkish_example_sentence_with_blank": "Siz ilginç müzeyi ailenize ______"
+  "turkish_example_sentence": "Siz güzel bahçeyi misafirlere gösterdiniz",
+  "english_example_sentence": "You showed the beautiful garden to the guests",
+  "russian_example_sentence": "Вы показали красивый сад гостям",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:11:08.795482+00:00",
+  "turkish_example_sentence_with_blank": "Siz güzel bahçeyi misafirlere ______"
 }

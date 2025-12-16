@@ -1,0 +1,22 @@
+{
+  "verb_rank": 64,
+  "verb_english": "allow",
+  "verb_russian": "разрешать",
+  "verb_infinitive": "izin vermek",
+  "turkish_verb": {
+    "verb_full": "izin vermezsem",
+    "root": "izin ver",
+    "tense_affix": "mez",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "ben",
+    "personal_affix": "sem",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "turkish_example_sentence": "Ben yeni çalışanlara erken ayrılmaya izin vermezsem ofiste sorun çıkar",
+  "english_example_sentence": "If I don't allow the new employees to leave early, there will be a problem in the office",
+  "russian_example_sentence": "Если я не разрешу новым сотрудникам уйти рано, в офисе возникнет проблема",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:39:50.452019+00:00",
+  "turkish_example_sentence_with_blank": "Ben yeni çalışanlara erken ayrılmaya ______ ofiste sorun çıkar"
+}

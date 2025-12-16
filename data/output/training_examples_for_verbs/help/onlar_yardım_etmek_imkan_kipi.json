@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım edebilirler",
     "root": "yardım et",
-    "tense_affix": "ebil",
+    "tense_affix": "ebilir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They can help decorate the beautiful wedding venue",
-  "russian_example_sentence": "Они могут помочь украсить красивое свадебное место",
-  "turkish_example_sentence": "Onlar güzel düğün mekanını süslemekte yardım edebilirler",
-  "turkish_example_sentence_with_blank": "Onlar güzel düğün mekanını süslemekte ______"
+  "turkish_example_sentence": "Onlar bu topluma büyük yardım edebilirler",
+  "english_example_sentence": "They can provide great help to this community",
+  "russian_example_sentence": "Они могут оказать большую помощь этому сообществу",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:06:33.619684+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu topluma büyük ______"
 }

@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "düşünmedik",
     "root": "düşün",
-    "tense_affix": "di",
+    "tense_affix": "dü",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Biz bu önemli gerçeği daha önce düşünmedik.",
-  "english_example_sentence": "We didn't think about this important fact before.",
-  "russian_example_sentence": "Мы не думали об этом важном факте раньше.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T08:53:20.432292+00:00",
-  "turkish_example_sentence_with_blank": "Biz bu önemli gerçeği daha önce ______."
+  "turkish_example_sentence": "Biz o karmaşık bilimsel teorileri hiç düşünmedik.",
+  "english_example_sentence": "We did not think about those complex scientific theories at all.",
+  "russian_example_sentence": "Мы вообще не думали об этих сложных научных теориях.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:11:28.984979+00:00",
+  "turkish_example_sentence_with_blank": "Biz o karmaşık bilimsel teorileri hiç ______."
 }

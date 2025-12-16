@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "çalışmaz",
     "root": "çalış",
-    "tense_affix": "ır",
+    "tense_affix": "maz",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "O tembel öğrenci kütüphanede asla çalışmaz",
-  "english_example_sentence": "He never works in the library as a lazy student",
-  "russian_example_sentence": "Он никогда не работает в библиотеке как ленивый студент",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:50:03.460891+00:00",
-  "turkish_example_sentence_with_blank": "O tembel öğrenci kütüphanede asla ______"
+  "turkish_example_sentence": "O yorgun öğretmen gece geç saatlerde çalışmaz",
+  "english_example_sentence": "That tired teacher doesn't work late at night",
+  "russian_example_sentence": "Тот уставший учитель не работает поздно ночью",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:20:25.491450+00:00",
+  "turkish_example_sentence_with_blank": "O yorgun öğretmen gece geç saatlerde ______"
 }

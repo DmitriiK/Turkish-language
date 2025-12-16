@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "bulmayız",
     "root": "bul",
-    "tense_affix": "",
+    "tense_affix": "ur",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "yız",
+    "personal_affix": "uz",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Biz bu küçük kasabada büyük bir otel bulmayız.",
-  "english_example_sentence": "We don't find a big hotel in this small town.",
-  "russian_example_sentence": "Мы не найдем большой отель в этом маленьком городке.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T09:25:49.616698+00:00",
-  "turkish_example_sentence_with_blank": "Biz bu küçük kasabada büyük bir otel ______."
+  "turkish_example_sentence": "Biz bu karmaşık sorunun basit çözümünü bulmayız.",
+  "english_example_sentence": "We do not find the simple solution to this complex problem.",
+  "russian_example_sentence": "Мы не находим простое решение этой сложной проблемы.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:40:01.901910+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu karmaşık sorunun basit çözümünü ______."
 }

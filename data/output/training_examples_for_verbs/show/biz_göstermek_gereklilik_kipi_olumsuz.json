@@ -4,17 +4,19 @@
   "verb_russian": "показывать",
   "verb_infinitive": "göstermek",
   "turkish_verb": {
-    "verb_full": "göstermememiz lazım",
+    "verb_full": "göstermemiz lazım",
     "root": "göster",
-    "tense_affix": "lazım",
+    "tense_affix": "",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "mız",
+    "personal_affix": "miz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "We do not need to show the broken kitchen equipment",
-  "russian_example_sentence": "Нам не нужно показывать сломанное кухонное оборудование",
-  "turkish_example_sentence": "Biz kırık mutfak aletlerini göstermememiz lazım",
-  "turkish_example_sentence_with_blank": "Biz kırık mutfak aletlerini ______"
+  "turkish_example_sentence": "Biz kısa filmi göstermemiz lazım",
+  "english_example_sentence": "We don't need to show the short movie",
+  "russian_example_sentence": "Нам не нужно показывать короткий фильм",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:10:03.096295+00:00",
+  "turkish_example_sentence_with_blank": "Biz kısa filmi ______"
 }

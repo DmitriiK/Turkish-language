@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "alamayız",
     "root": "al",
-    "tense_affix": "y",
+    "tense_affix": "abil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "ız",
+    "personal_affix": "iriz",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "turkish_example_sentence": "Biz bu kadar uzun bir yolu arabasız alamayız.",
-  "english_example_sentence": "We cannot take such a long road without a car.",
-  "russian_example_sentence": "Мы не можем преодолеть такой долгий путь без машины.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T09:11:13.236956+00:00",
-  "turkish_example_sentence_with_blank": "Biz bu kadar uzun bir yolu arabasız ______."
+  "turkish_example_sentence": "Biz bu pahalı lüks oteli alamayız çünkü bütçemiz sınırlı.",
+  "english_example_sentence": "We cannot take this expensive luxury hotel because our budget is limited.",
+  "russian_example_sentence": "Мы не можем взять этот дорогой люксовый отель, потому что наш бюджет ограничен.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:33:22.498721+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu pahalı lüks oteli ______ çünkü bütçemiz sınırlı."
 }

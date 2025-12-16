@@ -5,7 +5,7 @@
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
     "verb_full": "izin vermeyeceğiz",
-    "root": "izin ver",
+    "root": "ver",
     "tense_affix": "ecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "biz",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "We will not allow late arrivals at the meeting",
-  "russian_example_sentence": "Мы не позволим опоздания на встречу",
-  "turkish_example_sentence": "Biz önemli toplantıya geç gelmek izin vermeyeceğiz",
-  "turkish_example_sentence_with_blank": "Biz önemli toplantıya geç gelmek ______"
+  "turkish_example_sentence": "Biz misafirlere evde sigara içmelerine kesinlikle izin vermeyeceğiz",
+  "english_example_sentence": "We will definitely not allow the guests to smoke in the house",
+  "russian_example_sentence": "Мы определенно не разрешим гостям курить в доме",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:37:05.180039+00:00",
+  "turkish_example_sentence_with_blank": "Biz misafirlere evde sigara içmelerine kesinlikle ______"
 }

@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "çalışmayız",
     "root": "çalış",
-    "tense_affix": "ır",
+    "tense_affix": "ma",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "ız",
+    "personal_affix": "yız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Biz tatil döneminde resepsiyon masasında çalışmayız",
-  "english_example_sentence": "We don't work at the reception desk during the holiday period",
-  "russian_example_sentence": "Мы не работаем на стойке регистрации в период отпуска",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:50:03.460891+00:00",
-  "turkish_example_sentence_with_blank": "Biz tatil döneminde resepsiyon masasında ______"
+  "turkish_example_sentence": "Biz sıcak yaz tatilinde eski binada çalışmayız",
+  "english_example_sentence": "We don't work in the old building during hot summer vacation",
+  "russian_example_sentence": "Мы не работаем в старом здании во время жарких летних каникул",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:20:25.491450+00:00",
+  "turkish_example_sentence_with_blank": "Biz sıcak yaz tatilinde eski binada ______"
 }

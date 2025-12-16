@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmezse",
     "root": "yardım et",
-    "tense_affix": "mezse",
+    "tense_affix": "mez",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "negative",
     "negative_affix": "mez"
   },
-  "english_example_sentence": "If he doesn't help us, we will quit.",
-  "russian_example_sentence": "Если он нам не поможет, мы уволимся.",
-  "turkish_example_sentence": "O bize yardım etmezse, pes ederiz.",
-  "turkish_example_sentence_with_blank": "O bize ______, pes ederiz."
+  "turkish_example_sentence": "O küçük çocuğa yardım etmezse, ağlar",
+  "english_example_sentence": "If he doesn't help the little child, he cries",
+  "russian_example_sentence": "Если он не поможет маленькому ребёнку, он плачет",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:07:05.419742+00:00",
+  "turkish_example_sentence_with_blank": "O küçük çocuğa ______, ağlar"
 }

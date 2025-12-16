@@ -4,19 +4,19 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmediniz",
+    "verb_full": "düşünmediğiniz",
     "root": "düşün",
-    "tense_affix": "di",
+    "tense_affix": "dü",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "nüz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Siz bu karmaşık problemi yeterince düşünmediniz.",
-  "english_example_sentence": "You didn't think enough about this complex problem.",
-  "russian_example_sentence": "Вы недостаточно подумали об этой сложной проблеме.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T08:53:20.432292+00:00",
-  "turkish_example_sentence_with_blank": "Siz bu karmaşık problemi yeterince ______."
+  "turkish_example_sentence": "Siz o hassas konuyu dikkatlice düşünmediğiniz anlaşılıyor.",
+  "english_example_sentence": "It seems you did not think carefully about that sensitive topic.",
+  "russian_example_sentence": "Похоже, вы не думали внимательно об этой чувствительной теме.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:11:28.984979+00:00",
+  "turkish_example_sentence_with_blank": "Siz o hassas konuyu dikkatlice ______ anlaşılıyor."
 }

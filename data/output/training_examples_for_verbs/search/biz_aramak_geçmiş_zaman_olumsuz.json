@@ -1,0 +1,22 @@
+{
+  "verb_rank": 20,
+  "verb_english": "call (phone)",
+  "verb_russian": "звонить",
+  "verb_infinitive": "aramak",
+  "turkish_verb": {
+    "verb_full": "aramadık",
+    "root": "ara",
+    "tense_affix": "dı",
+    "verb_tense": "geçmiş_zaman",
+    "personal_pronoun": "biz",
+    "personal_affix": "k",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "turkish_example_sentence": "Biz cuma günü yeşil eczaneyi aramadık",
+  "english_example_sentence": "We didn't call the green pharmacy on Friday",
+  "russian_example_sentence": "Мы не звонили в зелёную аптеку в пятницу",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T10:20:37.817632+00:00",
+  "turkish_example_sentence_with_blank": "Biz cuma günü yeşil eczaneyi ______"
+}

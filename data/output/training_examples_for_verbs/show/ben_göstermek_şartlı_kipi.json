@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "gösterirsem",
     "root": "göster",
-    "tense_affix": "irsem",
+    "tense_affix": "ir",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "sem",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I show the way, we'll go.",
-  "russian_example_sentence": "Если я покажу путь, мы пойдем.",
-  "turkish_example_sentence": "Yolu gösterirsem gideceğiz.",
-  "turkish_example_sentence_with_blank": "Yolu ______ gideceğiz."
+  "turkish_example_sentence": "Ben yeni filmi izleyicilere gösterirsem, çok beğeneceklerdir",
+  "english_example_sentence": "If I show the new movie to the audience, they will like it very much",
+  "russian_example_sentence": "Если я покажу новый фильм аудитории, им очень понравится",
+  "generated_by_model": "LLAMA - meta.llama4-scout-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T11:36:14.071177+00:00",
+  "turkish_example_sentence_with_blank": "Ben yeni filmi izleyicilere ______, çok beğeneceklerdir"
 }

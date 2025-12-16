@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Having helped the old man, I left",
-  "russian_example_sentence": "Помогая старому мужчине, я ушёл",
-  "turkish_example_sentence": "Yaşlı adama yardım edip ayrıldım",
-  "turkish_example_sentence_with_blank": "Yaşlı adama ______ ayrıldım"
+  "turkish_example_sentence": "Öğretmen öğrenciye ödevini bitirdikten sonra yardım edip projeyi teslim etti",
+  "english_example_sentence": "The teacher helped the student and submitted the project after finishing the homework",
+  "russian_example_sentence": "Учитель помог студенту и сдал проект после выполнения домашнего задания",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:07:38.330497+00:00",
+  "turkish_example_sentence_with_blank": "Öğretmen öğrenciye ödevini bitirdikten sonra ______ projeyi teslim etti"
 }

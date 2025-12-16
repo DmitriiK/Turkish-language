@@ -1,0 +1,22 @@
+{
+  "verb_rank": 20,
+  "verb_english": "call",
+  "verb_russian": "звонить",
+  "verb_infinitive": "aramak",
+  "turkish_verb": {
+    "verb_full": "aramayacaksınız",
+    "root": "ara",
+    "tense_affix": "yacak",
+    "verb_tense": "gelecek_zaman",
+    "personal_pronoun": "siz",
+    "personal_affix": "sınız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "turkish_example_sentence": "Siz hiçbir zaman tembel sekreteri ofisten aramayacaksınız.",
+  "english_example_sentence": "You will never call the lazy secretary from the office.",
+  "russian_example_sentence": "Вы никогда не позвоните ленивой секретарше из офиса.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-10T16:15:21.109892+00:00",
+  "turkish_example_sentence_with_blank": "Siz hiçbir zaman tembel sekreteri ofisten ______."
+}

@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünemezsin",
+    "verb_full": "görünmeyebilirsin",
     "root": "görün",
     "tense_affix": "eme",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "zsin",
+    "personal_affix": "sin",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "You cannot seem unfriendly to those children",
-  "russian_example_sentence": "Ты не можешь казаться недружелюбным этим детям",
-  "turkish_example_sentence": "Sen bu küçük çocuklara düşmanca görünemezsin",
-  "turkish_example_sentence_with_blank": "Sen bu küçük çocuklara düşmanca ______"
+  "turkish_example_sentence": "Sen bu fotoğrafta pek iyi görünmeyebilirsin",
+  "english_example_sentence": "You may not look good in this photo",
+  "russian_example_sentence": "Ты можешь плохо выглядеть на этой фотографии",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:58:55.183359+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu fotoğrafta pek iyi ______"
 }

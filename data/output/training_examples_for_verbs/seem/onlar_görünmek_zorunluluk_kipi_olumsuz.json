@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmemelilar",
+    "verb_full": "görünmemeli",
     "root": "görün",
-    "tense_affix": "meli",
+    "tense_affix": "memeli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "They must not seem bored during the concert",
-  "russian_example_sentence": "Они не должны казаться скучающими во время концерта",
-  "turkish_example_sentence": "Onlar müzik festivalinde sıkıcı ve ilgisiz görünmemelilar",
-  "turkish_example_sentence_with_blank": "Onlar müzik festivalinde sıkıcı ve ilgisiz ______"
+  "turkish_example_sentence": "Onlar bu fotoğrafta yaşlı görünmemeli",
+  "english_example_sentence": "They must not look old in this photo",
+  "russian_example_sentence": "Они не должны выглядеть старыми на этой фотографии",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:59:05.164192+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu fotoğrafta yaşlı ______"
 }

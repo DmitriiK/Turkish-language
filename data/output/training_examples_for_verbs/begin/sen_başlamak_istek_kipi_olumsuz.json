@@ -4,17 +4,19 @@
   "verb_russian": "начинать",
   "verb_infinitive": "başlamak",
   "turkish_verb": {
-    "verb_full": "başlamayasın",
+    "verb_full": "başlamasın",
     "root": "başla",
-    "tense_affix": "ya",
+    "tense_affix": "sın",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "sın",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "May you not begin eating yet",
-  "russian_example_sentence": "Не начинай есть пока",
-  "turkish_example_sentence": "Sen henüz yemeye başlamayasın",
-  "turkish_example_sentence_with_blank": "Sen henüz yemeye ______"
+  "turkish_example_sentence": "Sen tehlikeli dağ tırmanışına kötü havada başlamasın",
+  "english_example_sentence": "May you not begin the dangerous mountain climbing in bad weather",
+  "russian_example_sentence": "Пусть ты не начнешь опасное восхождение на гору в плохую погоду",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T10:40:58.559319+00:00",
+  "turkish_example_sentence_with_blank": "Sen tehlikeli dağ tırmanışına kötü havada ______"
 }

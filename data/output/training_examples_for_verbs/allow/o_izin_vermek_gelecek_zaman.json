@@ -5,7 +5,7 @@
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
     "verb_full": "izin verecek",
-    "root": "izin ver",
+    "root": "ver",
     "tense_affix": "ecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "o",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He will allow the talented student to participate",
-  "russian_example_sentence": "Он позволит талантливому студенту участвовать",
-  "turkish_example_sentence": "O yetenekli öğrenciye yarışmaya katılmak izin verecek",
-  "turkish_example_sentence_with_blank": "O yetenekli öğrenciye yarışmaya katılmak ______"
+  "turkish_example_sentence": "O pazartesi günü kızına yeni bisikletle parka gitmesine izin verecek",
+  "english_example_sentence": "He will allow his daughter to go to the park with the new bicycle on Monday",
+  "russian_example_sentence": "Он разрешит своей дочери поехать в парк на новом велосипеде в понедельник",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:37:05.180039+00:00",
+  "turkish_example_sentence_with_blank": "O pazartesi günü kızına yeni bisikletle parka gitmesine ______"
 }

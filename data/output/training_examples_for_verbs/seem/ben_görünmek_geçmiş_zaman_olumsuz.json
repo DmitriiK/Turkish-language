@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "görünmedim",
     "root": "görün",
-    "tense_affix": "dü",
+    "tense_affix": "medü",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "I did not seem interested in the party",
-  "russian_example_sentence": "Я не казался заинтересованным на вечеринке",
-  "turkish_example_sentence": "Ben partide ilgili görünmedim",
-  "turkish_example_sentence_with_blank": "Ben partide ilgili ______"
+  "turkish_example_sentence": "Ben dün hiç iyi görünmedim",
+  "english_example_sentence": "I didn't seem good yesterday",
+  "russian_example_sentence": "Вчера я не казался хорошим",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:57:37.422343+00:00",
+  "turkish_example_sentence_with_blank": "Ben dün hiç iyi ______"
 }

@@ -1,0 +1,22 @@
+{
+  "verb_rank": 64,
+  "verb_english": "allow",
+  "verb_russian": "разрешать",
+  "verb_infinitive": "izin vermek",
+  "turkish_verb": {
+    "verb_full": "izin vermememeliyiz",
+    "root": "izin ver",
+    "tense_affix": "memeli",
+    "verb_tense": "zorunluluk_kipi",
+    "personal_pronoun": "biz",
+    "personal_affix": "yiz",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "turkish_example_sentence": "Biz şüpheli ziyaretçilerin hassas laboratuvar alanına girmelerine izin vermememeliyiz",
+  "english_example_sentence": "We must not allow suspicious visitors to enter the sensitive laboratory area",
+  "russian_example_sentence": "Мы не должны разрешать подозрительным посетителям входить в чувствительную лабораторную зону",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:38:22.430443+00:00",
+  "turkish_example_sentence_with_blank": "Biz şüpheli ziyaretçilerin hassas laboratuvar alanına girmelerine ______"
+}

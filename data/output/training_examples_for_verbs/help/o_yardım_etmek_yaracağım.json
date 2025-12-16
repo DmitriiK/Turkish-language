@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım edecek",
     "root": "yardım et",
-    "tense_affix": "eceğ",
+    "tense_affix": "edeceğ",
     "verb_tense": "yaracağım",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He will help the injured patient at the hospital",
-  "russian_example_sentence": "Он поможет раненому пациенту в больнице",
-  "turkish_example_sentence": "O hastanede yaralı hasta için tıbbi yardım edecek",
-  "turkish_example_sentence_with_blank": "O hastanede yaralı hasta için tıbbi ______"
+  "turkish_example_sentence": "O ihtiyacı olanlara yardım edecek",
+  "english_example_sentence": "He/She will help those in need",
+  "russian_example_sentence": "Он/Она поможет тем, кто нуждается",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:05:24.596938+00:00",
+  "turkish_example_sentence_with_blank": "O ihtiyacı olanlara ______"
 }

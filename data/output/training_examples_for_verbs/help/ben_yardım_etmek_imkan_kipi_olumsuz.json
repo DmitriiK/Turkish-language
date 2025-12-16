@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "I cannot help you finish this difficult project today",
-  "russian_example_sentence": "Я не могу помочь тебе закончить этот сложный проект сегодня",
-  "turkish_example_sentence": "Ben bu zor projeyi bugün bitirmekte sana yardım edemem",
-  "turkish_example_sentence_with_blank": "Ben bu zor projeyi bugün bitirmekte sana ______"
+  "turkish_example_sentence": "Ben bazen bu işte yardım edemem",
+  "english_example_sentence": "Sometimes I cannot help with this task",
+  "russian_example_sentence": "Иногда я не могу помочь с этой работой",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:06:33.619684+00:00",
+  "turkish_example_sentence_with_blank": "Ben bazen bu işte ______"
 }

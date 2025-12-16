@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I should not begin this difficult work today",
-  "russian_example_sentence": "Я не должен начинать эту трудную работу сегодня",
-  "turkish_example_sentence": "Ben bugün zor bu işi başlamamam lazım",
-  "turkish_example_sentence_with_blank": "Ben bugün zor bu işi ______"
+  "turkish_example_sentence": "Ben bu tehlikeli projeye henüz başlamamam lazım",
+  "english_example_sentence": "I need to not begin this dangerous project yet",
+  "russian_example_sentence": "Мне не нужно начинать этот опасный проект пока",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T10:42:35.948546+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu tehlikeli projeye henüz ______"
 }

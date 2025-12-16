@@ -1,0 +1,22 @@
+{
+  "verb_rank": 64,
+  "verb_english": "allow",
+  "verb_russian": "разрешать",
+  "verb_infinitive": "izin vermek",
+  "turkish_verb": {
+    "verb_full": "izin vermediğinde",
+    "root": "ver",
+    "tense_affix": "mediğ",
+    "verb_tense": "zaman_sıfatı",
+    "personal_pronoun": "sen",
+    "personal_affix": "in",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "turkish_example_sentence": "Sen çocuklara bahçede top oynama izin vermediğinde evde sessizce kitap okuyorlar",
+  "english_example_sentence": "When you don't allow the children to play ball in the garden, they quietly read books at home",
+  "russian_example_sentence": "Когда ты не разрешаешь детям играть в мяч в саду, они тихо читают книги дома",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:41:42.886462+00:00",
+  "turkish_example_sentence_with_blank": "Sen çocuklara bahçede top oynama ______ evde sessizce kitap okuyorlar"
+}

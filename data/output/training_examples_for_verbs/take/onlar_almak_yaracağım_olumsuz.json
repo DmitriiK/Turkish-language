@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "almayacaklar",
     "root": "al",
-    "tense_affix": "yacak",
+    "tense_affix": "acak",
     "verb_tense": "yaracağım",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Onlar, bu pahalı arabayı şimdi almayacaklar.",
-  "english_example_sentence": "They will not buy this expensive car now.",
-  "russian_example_sentence": "Они не купят эту дорогую машину сейчас.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T09:07:25.255523+00:00",
-  "turkish_example_sentence_with_blank": "Onlar, bu pahalı arabayı şimdi ______."
+  "turkish_example_sentence": "Onlar tatil döneminde tehlikeli dağ rotasını almayacaklar.",
+  "english_example_sentence": "They will not take the dangerous mountain route during the holiday period.",
+  "russian_example_sentence": "Они не возьмут опасный горный маршрут в период отпуска.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:26:11.635342+00:00",
+  "turkish_example_sentence_with_blank": "Onlar tatil döneminde tehlikeli dağ rotasını ______."
 }

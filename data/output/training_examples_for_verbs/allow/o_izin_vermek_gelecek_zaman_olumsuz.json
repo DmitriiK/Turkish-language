@@ -5,7 +5,7 @@
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
     "verb_full": "izin vermeyecek",
-    "root": "izin ver",
+    "root": "ver",
     "tense_affix": "ecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "o",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "She will not allow smoking in the office",
-  "russian_example_sentence": "Она не позволит курить в офисе",
-  "turkish_example_sentence": "O ofiste sigara içmek izin vermeyecek",
-  "turkish_example_sentence_with_blank": "O ofiste sigara içmek ______"
+  "turkish_example_sentence": "O müdür bu ay çalışanlara ek tatil günü almalarına izin vermeyecek",
+  "english_example_sentence": "The manager will not allow the employees to take extra vacation days this month",
+  "russian_example_sentence": "Менеджер не разрешит сотрудникам взять дополнительные дни отпуска в этом месяце",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:37:05.180039+00:00",
+  "turkish_example_sentence_with_blank": "O müdür bu ay çalışanlara ek tatil günü almalarına ______"
 }

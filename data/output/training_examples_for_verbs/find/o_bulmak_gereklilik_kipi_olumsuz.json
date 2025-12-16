@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "bulmaması",
     "root": "bul",
-    "tense_affix": "",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
     "personal_affix": "sı",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "O yaşlı adam sokakta kayıp köpeğini bulmaması gerek değil.",
-  "english_example_sentence": "That old man doesn't need to find his lost dog on the street.",
-  "russian_example_sentence": "Этому старому мужчине не нужно находить свою потерянную собаку на улице.",
+  "turkish_example_sentence": "O beyaz dosyayı kütüphanede bulmaması gerek.",
+  "english_example_sentence": "He/She needs to not find the white file in the library.",
+  "russian_example_sentence": "Он/Она должен не найти белый файл в библиотеке.",
   "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:35:24.826021+00:00",
-  "turkish_example_sentence_with_blank": "O yaşlı adam sokakta kayıp köpeğini ______ gerek değil."
+  "generated_at": "2025-12-15T12:39:10.674543+00:00",
+  "turkish_example_sentence_with_blank": "O beyaz dosyayı kütüphanede ______ gerek."
 }

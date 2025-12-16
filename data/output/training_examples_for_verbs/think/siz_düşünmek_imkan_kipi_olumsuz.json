@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "düşünemezsiniz",
     "root": "düşün",
-    "tense_affix": "z",
+    "tense_affix": "eme",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "siniz",
+    "personal_affix": "zsiniz",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "turkish_example_sentence": "Siz, bu kadar çok bilgiyle aynı anda etkili düşünemezsiniz.",
-  "english_example_sentence": "You cannot think effectively with so much information at the same time.",
-  "russian_example_sentence": "Вы не можете эффективно мыслить с таким большим объемом информации одновременно.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T08:50:41.039735+00:00",
-  "turkish_example_sentence_with_blank": "Siz, bu kadar çok bilgiyle aynı anda etkili ______."
+  "turkish_example_sentence": "Siz bu stresli durumda mantıklı düşünemezsiniz.",
+  "english_example_sentence": "You cannot think logically in this stressful situation.",
+  "russian_example_sentence": "Вы не можете думать логически в этой стрессовой ситуации.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:13:55.909283+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu stresli durumda mantıklı ______."
 }

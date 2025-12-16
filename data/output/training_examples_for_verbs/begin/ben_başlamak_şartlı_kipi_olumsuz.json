@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If I don’t begin my homework, I’ll regret it.",
-  "russian_example_sentence": "Если я не начну свою домашнюю работу, я пожалею.",
-  "turkish_example_sentence": "Eğer ödevime başlamazsam, pişman olurum.",
-  "turkish_example_sentence_with_blank": "Eğer ödevime ______, pişman olurum."
+  "turkish_example_sentence": "Ben bu akşam önemli projeye başlamazsam işimi bitiremem",
+  "english_example_sentence": "If I don't begin the important project this evening, I cannot finish my work",
+  "russian_example_sentence": "Если я не начну важный проект этим вечером, я не смогу закончить свою работу",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T10:44:32.714570+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu akşam önemli projeye ______ işimi bitiremem"
 }

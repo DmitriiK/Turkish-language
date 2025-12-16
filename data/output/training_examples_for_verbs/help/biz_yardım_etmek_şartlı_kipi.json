@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım edersek",
     "root": "yardım et",
-    "tense_affix": "erse",
+    "tense_affix": "se",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we help her, she will finish early.",
-  "russian_example_sentence": "Если мы ей поможем, она закончит рано.",
-  "turkish_example_sentence": "Biz ona yardım edersek, o erken bitirir.",
-  "turkish_example_sentence_with_blank": "Biz ona ______, o erken bitirir."
+  "turkish_example_sentence": "Biz ihtiyacı olanlara yardım edersek, toplum daha iyi olur",
+  "english_example_sentence": "If we help those in need, society is better",
+  "russian_example_sentence": "Если мы поможем нуждающимся, общество станет лучше",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:07:05.419742+00:00",
+  "turkish_example_sentence_with_blank": "Biz ihtiyacı olanlara ______, toplum daha iyi olur"
 }

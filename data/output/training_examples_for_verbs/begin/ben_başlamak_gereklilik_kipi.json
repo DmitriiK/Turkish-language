@@ -4,7 +4,7 @@
   "verb_russian": "начинать",
   "verb_infinitive": "başlamak",
   "turkish_verb": {
-    "verb_full": "başlam lazım",
+    "verb_full": "başlamam lazım",
     "root": "başla",
     "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I need to begin the important project tomorrow",
-  "russian_example_sentence": "Мне нужно начать важный проект завтра",
-  "turkish_example_sentence": "Ben yarın büyük önemli projeyi başlamam lazım",
-  "turkish_example_sentence_with_blank": "Ben yarın büyük önemli projeyi başlamam lazım"
+  "turkish_example_sentence": "Ben yeni spor programına bugün başlamam lazım",
+  "english_example_sentence": "I need to begin the new sports program today",
+  "russian_example_sentence": "Мне нужно начать новую спортивную программу сегодня",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T10:42:35.948546+00:00",
+  "turkish_example_sentence_with_blank": "Ben yeni spor programına bugün ______"
 }

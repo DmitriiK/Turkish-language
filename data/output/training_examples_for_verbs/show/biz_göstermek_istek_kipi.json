@@ -4,7 +4,7 @@
   "verb_russian": "показывать",
   "verb_infinitive": "göstermek",
   "turkish_verb": {
-    "verb_full": "gösterebiliriz",
+    "verb_full": "gösterelim",
     "root": "göster",
     "tense_affix": "e",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Let us show you something new.",
-  "russian_example_sentence": "Давайте мы вам что-то новое покажем.",
-  "turkish_example_sentence": "Biz sana yeni bir şey gösterebiliriz.",
-  "turkish_example_sentence_with_blank": "Biz sana yeni bir şey ______."
+  "turkish_example_sentence": "Biz ilginç filmi çocuklara gösterelim",
+  "english_example_sentence": "Let's show the interesting movie to the children",
+  "russian_example_sentence": "Давайте покажем интересный фильм детям",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:11:49.688441+00:00",
+  "turkish_example_sentence_with_blank": "Biz ilginç filmi çocuklara ______"
 }

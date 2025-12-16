@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "başlamazsın",
     "root": "başla",
-    "tense_affix": "r",
+    "tense_affix": "maz",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "sın",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You don't begin your vacation plans soon",
-  "russian_example_sentence": "Ты не начинаешь свои планы отпуска скоро",
-  "turkish_example_sentence": "Sen tatil planlarına çok geç başlamazsın",
-  "turkish_example_sentence_with_blank": "Sen tatil planlarına çok geç ______"
+  "turkish_example_sentence": "Sen yorgun olduğunda zor matematik ödevine başlamazsın",
+  "english_example_sentence": "You don't begin difficult math homework when you are tired",
+  "russian_example_sentence": "Ты не начинаешь трудное математическое задание, когда устал",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T10:47:59.729328+00:00",
+  "turkish_example_sentence_with_blank": "Sen yorgun olduğunda zor matematik ödevine ______"
 }

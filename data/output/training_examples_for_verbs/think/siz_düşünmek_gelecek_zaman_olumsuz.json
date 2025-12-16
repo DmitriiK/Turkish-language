@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "düşünmeyeceksiniz",
     "root": "düşün",
-    "tense_affix": "yecek",
+    "tense_affix": "ecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "siniz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Siz bu saçma dedikoduları ciddiye düşünmeyeceksiniz.",
-  "english_example_sentence": "You will not seriously consider these absurd rumors.",
-  "russian_example_sentence": "Вы не будете всерьез думать об этих нелепых слухах.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T08:59:34.631509+00:00",
-  "turkish_example_sentence_with_blank": "Siz bu saçma dedikoduları ciddiye ______."
+  "turkish_example_sentence": "Siz bu tehlikeli konuyu hiç düşünmeyeceksiniz.",
+  "english_example_sentence": "You will not think about this dangerous topic at all.",
+  "russian_example_sentence": "Вы вообще не будете думать об этой опасной теме.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:11:46.375713+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu tehlikeli konuyu hiç ______."
 }

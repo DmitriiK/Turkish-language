@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünüp",
+    "verb_full": "görünür",
     "root": "görün",
-    "tense_affix": "üp",
+    "tense_affix": "",
     "verb_tense": "ulak_fiil",
     "personal_pronoun": null,
     "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Having seemed happy, she smiled softly",
-  "russian_example_sentence": "Казавшись счастливой, она мягко улыбнулась",
-  "turkish_example_sentence": "Mutlu görünüp yumuşakça gülümsedi",
-  "turkish_example_sentence_with_blank": "Mutlu ______ yumuşakça gülümsedi"
+  "turkish_example_sentence": "Bu yeni bina çok modern görünür",
+  "english_example_sentence": "This new building seems very modern",
+  "russian_example_sentence": "Это новое здание кажется очень современным",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:59:57.756667+00:00",
+  "turkish_example_sentence_with_blank": "Bu yeni bina çok modern ______"
 }

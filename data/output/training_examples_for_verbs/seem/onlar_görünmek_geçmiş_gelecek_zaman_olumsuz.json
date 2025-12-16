@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmeyeceklerdi",
+    "verb_full": "görünmeyecekler",
     "root": "görün",
-    "tense_affix": "ecekti",
+    "tense_affix": "ecek",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lerdi",
+    "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "They weren't going to seem tired.",
-  "russian_example_sentence": "Они не собирались казаться уставшими.",
-  "turkish_example_sentence": "Onlar yorgun görünmeyeceklerdi.",
-  "turkish_example_sentence_with_blank": "Onlar yorgun ______."
+  "turkish_example_sentence": "Onlar bu zorluklar karşısında zayıf görünmeyecekler",
+  "english_example_sentence": "They won't seem weak against these difficulties",
+  "russian_example_sentence": "Они не будут казаться слабыми перед этими трудностями",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:59:16.517282+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu zorluklar karşısında zayıf ______"
 }

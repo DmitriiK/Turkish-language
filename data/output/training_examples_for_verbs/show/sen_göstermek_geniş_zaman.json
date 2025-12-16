@@ -4,17 +4,19 @@
   "verb_russian": "показывать",
   "verb_infinitive": "göstermek",
   "turkish_verb": {
-    "verb_full": "gösterirsin",
-    "root": "göster",
-    "tense_affix": "ir",
+    "verb_full": "göstersin",
+    "root": "gösterm",
+    "tense_affix": "sin",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You show the interesting museum to tourists",
-  "russian_example_sentence": "Ты показываешь интересный музей туристам",
-  "turkish_example_sentence": "Sen ilginç müzeyi turizmlere gösterirsin",
-  "turkish_example_sentence_with_blank": "Sen ilginç müzeyi turizmlere ______"
+  "turkish_example_sentence": "Sen büyük bir yetenekle her şeyi göstersin",
+  "english_example_sentence": "You show everything with great talent",
+  "russian_example_sentence": "Ты показываешь всё с большим талантом",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:11:38.954472+00:00",
+  "turkish_example_sentence_with_blank": "Sen büyük bir yetenekle her şeyi ______"
 }

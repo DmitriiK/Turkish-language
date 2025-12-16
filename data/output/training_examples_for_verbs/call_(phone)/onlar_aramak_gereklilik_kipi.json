@@ -1,22 +1,22 @@
 {
   "verb_rank": 20,
-  "verb_english": "call",
+  "verb_english": "call (phone)",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
-    "verb_full": "aramaları",
+    "verb_full": "aramaları lazım",
     "root": "ara",
-    "tense_affix": "ma",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ları",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Onlar uzak akrabaları salı akşamı aramaları lazım.",
-  "english_example_sentence": "They need to call their distant relatives on Tuesday evening.",
-  "russian_example_sentence": "Им нужно звонить дальним родственникам во вторник вечером.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T16:17:21.028205+00:00",
-  "turkish_example_sentence_with_blank": "Onlar uzak akrabaları salı akşamı ______ lazım."
+  "turkish_example_sentence": "Onlar deneyimli hukuk danışmanını hızla aramaları lazım",
+  "english_example_sentence": "They need to call the experienced legal consultant quickly",
+  "russian_example_sentence": "Им нужно позвонить опытному юридическому консультанту быстро",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T10:25:09.620486+00:00",
+  "turkish_example_sentence_with_blank": "Onlar deneyimli hukuk danışmanını hızla ______"
 }

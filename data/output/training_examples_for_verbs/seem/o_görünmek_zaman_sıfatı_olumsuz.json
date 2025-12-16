@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmediğinde",
+    "verb_full": "görünmüyor",
     "root": "görün",
-    "tense_affix": "düğ",
+    "tense_affix": "üyor",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "o",
-    "personal_affix": "ü",
+    "personal_affix": "",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "m"
   },
-  "english_example_sentence": "When he doesn't seem well, worry",
-  "russian_example_sentence": "Когда он не кажется здоровым, беспокойся",
-  "turkish_example_sentence": "O iyi görünmediğinde, endişelen.",
-  "turkish_example_sentence_with_blank": "O iyi ______, endişelen."
+  "turkish_example_sentence": "O artık iyi görünmüyor son zamanlarda",
+  "english_example_sentence": "He/She doesn't seem good lately",
+  "russian_example_sentence": "Он/Она не кажется хорошим в последнее время",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:00:07.672682+00:00",
+  "turkish_example_sentence_with_blank": "O artık iyi ______ son zamanlarda"
 }

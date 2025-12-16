@@ -5,7 +5,7 @@
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
     "verb_full": "izin vermedin",
-    "root": "izin ver",
+    "root": "ver",
     "tense_affix": "di",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "sen",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You did not allow the children to eat candy",
-  "russian_example_sentence": "Ты не позволил детям есть конфеты",
-  "turkish_example_sentence": "Sen çocuklara tatlı şeker yemek izin vermedin",
-  "turkish_example_sentence_with_blank": "Sen çocuklara tatlı şeker yemek ______"
+  "turkish_example_sentence": "Sen komşu çocuklarına bahçede gürültülü futbol oynamaya izin vermedin",
+  "english_example_sentence": "You didn't allow the neighbor children to play noisy football in the garden",
+  "russian_example_sentence": "Ты не разрешил соседским детям играть в шумный футбол в саду",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:36:23.694669+00:00",
+  "turkish_example_sentence_with_blank": "Sen komşu çocuklarına bahçede gürültülü futbol oynamaya ______"
 }

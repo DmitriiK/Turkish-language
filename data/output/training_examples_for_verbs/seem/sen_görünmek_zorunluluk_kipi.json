@@ -4,7 +4,7 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmelissin",
+    "verb_full": "görünmelisin",
     "root": "görün",
     "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You must seem interested in the job offer",
-  "russian_example_sentence": "Ты должен казаться заинтересованным в предложении работы",
-  "turkish_example_sentence": "Sen bu iş teklifinde heyecanlı ve istekli görünmelissin",
-  "turkish_example_sentence_with_blank": "Sen bu iş teklifinde heyecanlı ve istekli ______"
+  "turkish_example_sentence": "Sen toplantıda profesyonel görünmelisin",
+  "english_example_sentence": "You must look professional in the meeting",
+  "russian_example_sentence": "Ты должен выглядеть профессионально на встрече",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:59:05.164192+00:00",
+  "turkish_example_sentence_with_blank": "Sen toplantıda profesyonel ______"
 }

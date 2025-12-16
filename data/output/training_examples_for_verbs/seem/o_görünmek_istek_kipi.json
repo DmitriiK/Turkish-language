@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünsün",
+    "verb_full": "görünüyor",
     "root": "görün",
-    "tense_affix": "e",
+    "tense_affix": "üyor",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "May she seem happier tomorrow",
-  "russian_example_sentence": "Пусть она будет казаться счастливее завтра",
-  "turkish_example_sentence": "O yarın daha mutlu görünsün",
-  "turkish_example_sentence_with_blank": "O yarın daha mutlu ______"
+  "turkish_example_sentence": "O her zaman genç ve enerjik görünüyor",
+  "english_example_sentence": "He always seems young and energetic",
+  "russian_example_sentence": "Он всегда кажется молодым и энергичным",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:58:16.660921+00:00",
+  "turkish_example_sentence_with_blank": "O her zaman genç ve enerjik ______"
 }

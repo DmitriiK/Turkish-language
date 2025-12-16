@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmezseniz",
     "root": "yardım et",
-    "tense_affix": "mezse",
+    "tense_affix": "mez",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "niz",
     "polarity": "negative",
     "negative_affix": "mez"
   },
-  "english_example_sentence": "If you don't help me, I will fail.",
-  "russian_example_sentence": "Если вы не поможете мне, я провалюсь.",
-  "turkish_example_sentence": "Siz bana yardım etmezseniz, başarısız olurum.",
-  "turkish_example_sentence_with_blank": "Siz bana ______, başarısız olurum."
+  "turkish_example_sentence": "Siz doğal kaynaklara yardım etmezseniz, gelecek nesiller zarar görür",
+  "english_example_sentence": "If you don't help natural resources, future generations are damaged",
+  "russian_example_sentence": "Если вы не поможете природным ресурсам, будущие поколения пострадают",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:07:05.419742+00:00",
+  "turkish_example_sentence_with_blank": "Siz doğal kaynaklara ______, gelecek nesiller zarar görür"
 }

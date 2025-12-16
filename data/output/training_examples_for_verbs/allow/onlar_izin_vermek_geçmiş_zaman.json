@@ -5,16 +5,18 @@
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
     "verb_full": "izin verdiler",
-    "root": "izin ver",
+    "root": "ver",
     "tense_affix": "di",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They allowed the new employees to start working immediately",
-  "russian_example_sentence": "Они позволили новым сотрудникам начать работать сразу",
-  "turkish_example_sentence": "Onlar yeni çalışanlara hemen işe başlamak izin verdiler",
-  "turkish_example_sentence_with_blank": "Onlar yeni çalışanlara hemen işe başlamak ______"
+  "turkish_example_sentence": "Onlar heyecanlı öğrencilere okul kütüphanesinden nadir kitapları ödünç almaya izin verdiler",
+  "english_example_sentence": "They allowed the excited students to borrow the rare books from school library",
+  "russian_example_sentence": "Они разрешили взволнованным студентам одолжить редкие книги из школьной библиотеки",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:36:23.694669+00:00",
+  "turkish_example_sentence_with_blank": "Onlar heyecanlı öğrencilere okul kütüphanesinden nadir kitapları ödünç almaya ______"
 }

@@ -9,12 +9,14 @@
     "tense_affix": "üyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "negative",
     "negative_affix": "m"
   },
-  "english_example_sentence": "She does not seem nervous about the important exam",
-  "russian_example_sentence": "Она не кажется нервной из-за важного экзамена",
-  "turkish_example_sentence": "O önemli sınavdan hiç kaygılı görünmüyor",
-  "turkish_example_sentence_with_blank": "O önemli sınavdan hiç kaygılı ______"
+  "turkish_example_sentence": "O bu durumda pek iyi görünmüyor",
+  "english_example_sentence": "He/She doesn't seem very good in this situation",
+  "russian_example_sentence": "Он/Она не кажется очень хорошим в этой ситуации",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:57:28.387971+00:00",
+  "turkish_example_sentence_with_blank": "O bu durumda pek iyi ______"
 }

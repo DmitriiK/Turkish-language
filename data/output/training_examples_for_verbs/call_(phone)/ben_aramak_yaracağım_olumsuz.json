@@ -1,6 +1,6 @@
 {
   "verb_rank": 20,
-  "verb_english": "call",
+  "verb_english": "call (phone)",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
@@ -13,10 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Ben bu hafta sonu kızgın müdürü aramayacağım.",
-  "english_example_sentence": "I will not call the angry manager this weekend.",
-  "russian_example_sentence": "Я не позвоню сердитому менеджеру на этих выходных.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T16:15:38.334274+00:00",
-  "turkish_example_sentence_with_blank": "Ben bu hafta sonu kızgın müdürü ______."
+  "turkish_example_sentence": "Ben bu akşam geç saatte eski patronu aramayacağım",
+  "english_example_sentence": "I will not call the old boss late this evening",
+  "russian_example_sentence": "Я не буду звонить старому боссу поздно вечером",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T10:23:33.258543+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu akşam geç saatte eski patronu ______"
 }

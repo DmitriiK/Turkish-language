@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "görünmesek",
     "root": "görün",
-    "tense_affix": "se",
+    "tense_affix": "mes",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "mes"
   },
-  "english_example_sentence": "We should try not to seem bored.",
-  "russian_example_sentence": "Мы должны постараться не казаться скучающими.",
-  "turkish_example_sentence": "Sıkılmış görünmesek daha iyi olur.",
-  "turkish_example_sentence_with_blank": "Sıkılmış ______ daha iyi olur."
+  "turkish_example_sentence": "Biz zayıf görünmesek, spor yapmayız",
+  "english_example_sentence": "If we don't seem weak, we don't exercise",
+  "russian_example_sentence": "Если мы не кажемся слабыми, мы не занимаемся спортом",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:58:34.681314+00:00",
+  "turkish_example_sentence_with_blank": "Biz zayıf ______, spor yapmayız"
 }

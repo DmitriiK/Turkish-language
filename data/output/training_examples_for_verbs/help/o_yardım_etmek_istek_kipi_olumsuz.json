@@ -4,17 +4,19 @@
   "verb_russian": "помогать",
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
-    "verb_full": "yardım etmeye",
+    "verb_full": "yardım etmesin",
     "root": "yardım et",
-    "tense_affix": "meye",
+    "tense_affix": "",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "May she not help at the meeting",
-  "russian_example_sentence": "Пусть она не помогает на собрании",
-  "turkish_example_sentence": "O, toplantıya yardım etmeye",
-  "turkish_example_sentence_with_blank": "O, toplantıya ______"
+  "turkish_example_sentence": "O bize yardım etmesin",
+  "english_example_sentence": "Let him not help us",
+  "russian_example_sentence": "Пусть он нам не поможет",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:05:43.743075+00:00",
+  "turkish_example_sentence_with_blank": "O bize ______"
 }

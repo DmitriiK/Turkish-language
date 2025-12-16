@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "görünmeziz",
     "root": "görün",
-    "tense_affix": "ü",
+    "tense_affix": "me",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "z",
+    "personal_affix": "iz",
     "polarity": "negative",
-    "negative_affix": "mez"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "We do not seem worried about the future.",
-  "russian_example_sentence": "Мы не кажемся обеспокоенными о будущем.",
-  "turkish_example_sentence": "Biz gelecek hakkında endişeli görünmeziz.",
-  "turkish_example_sentence_with_blank": "Biz gelecek hakkında endişeli ______."
+  "turkish_example_sentence": "Biz nadiren mutsuz görünmeziz",
+  "english_example_sentence": "We rarely don't seem unhappy",
+  "russian_example_sentence": "Мы редко не кажемся несчастными",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:58:06.456768+00:00",
+  "turkish_example_sentence_with_blank": "Biz nadiren mutsuz ______"
 }

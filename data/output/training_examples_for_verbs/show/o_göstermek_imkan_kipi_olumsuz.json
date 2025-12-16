@@ -4,17 +4,19 @@
   "verb_russian": "показывать",
   "verb_infinitive": "göstermek",
   "turkish_verb": {
-    "verb_full": "gösteremez",
+    "verb_full": "gösteremiyor",
     "root": "göster",
-    "tense_affix": "eme",
+    "tense_affix": "emiyor",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "z",
+    "personal_affix": "",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "He cannot show the expensive rare paintings",
-  "russian_example_sentence": "Он не может показать дорогие редкие картины",
-  "turkish_example_sentence": "O pahalı nadir tabloları gösteremez",
-  "turkish_example_sentence_with_blank": "O pahalı nadir tabloları ______"
+  "turkish_example_sentence": "O eski fotoğrafları gösteremiyor çünkü bulanıklar",
+  "english_example_sentence": "He/She is unable to show old photos because they are blurry",
+  "russian_example_sentence": "Он/Она не может показать старые фотографии, потому что они размытые",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:10:14.597312+00:00",
+  "turkish_example_sentence_with_blank": "O eski fotoğrafları ______ çünkü bulanıklar"
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "görünebiliriz",
     "root": "görün",
-    "tense_affix": "ebil",
+    "tense_affix": "ebilir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iriz",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We can seem more experienced with proper training",
-  "russian_example_sentence": "Мы можем казаться более опытными с правильным обучением",
-  "turkish_example_sentence": "Biz uygun eğitimle daha deneyimli görünebiliriz",
-  "turkish_example_sentence_with_blank": "Biz uygun eğitimle daha deneyimli ______"
+  "turkish_example_sentence": "Biz takım olarak güçlü görünebiliriz",
+  "english_example_sentence": "We can look strong as a team",
+  "russian_example_sentence": "Мы можем выглядеть сильной командой",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:58:55.183359+00:00",
+  "turkish_example_sentence_with_blank": "Biz takım olarak güçlü ______"
 }

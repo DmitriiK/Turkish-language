@@ -4,17 +4,19 @@
   "verb_russian": "помогать",
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
-    "verb_full": "yardım etmese",
+    "verb_full": "yardım etmeseydi",
     "root": "yardım et",
-    "tense_affix": "se",
+    "tense_affix": "mes",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If she didn't help, we wouldn't succeed.",
-  "russian_example_sentence": "Если бы она не помогла, мы бы не справились.",
-  "turkish_example_sentence": "O yardım etmese başarımız olmazdı.",
-  "turkish_example_sentence_with_blank": "O ______ başarımız olmazdı."
+  "turkish_example_sentence": "O hasta çocuğa yardım etmeseydi",
+  "english_example_sentence": "If he/she were not to help the sick child",
+  "russian_example_sentence": "Если бы он/она не помог больному ребёнку",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:06:00.809632+00:00",
+  "turkish_example_sentence_with_blank": "O hasta çocuğa ______"
 }

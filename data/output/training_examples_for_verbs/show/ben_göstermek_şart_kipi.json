@@ -4,17 +4,19 @@
   "verb_russian": "показывать",
   "verb_infinitive": "göstermek",
   "turkish_verb": {
-    "verb_full": "göstersem",
+    "verb_full": "gösterseydim",
     "root": "göster",
     "tense_affix": "se",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "yim",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I show the way, they will know.",
-  "russian_example_sentence": "Если я покажу дорогу, они узнают.",
-  "turkish_example_sentence": "Eğer yolu göstersem, bilecekler.",
-  "turkish_example_sentence_with_blank": "Eğer yolu ______, bilecekler."
+  "turkish_example_sentence": "Ben sana yeni, güzel bir ev gösterseydim",
+  "english_example_sentence": "If I could show you a new, beautiful house",
+  "russian_example_sentence": "Если бы я мог показать тебе новый, красивый дом",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:13:07.838794+00:00",
+  "turkish_example_sentence_with_blank": "Ben sana yeni, güzel bir ev ______"
 }

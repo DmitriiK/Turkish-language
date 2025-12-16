@@ -9,12 +9,14 @@
     "tense_affix": "eme",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "yiz",
+    "personal_affix": "iz",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "We cannot help repair the broken antique furniture",
-  "russian_example_sentence": "Мы не можем помочь отремонтировать сломанную антикварную мебель",
-  "turkish_example_sentence": "Biz kırık antika mobilyayı tamir etmekte yardım edemeyiz",
-  "turkish_example_sentence_with_blank": "Biz kırık antika mobilyayı tamir etmekte ______"
+  "turkish_example_sentence": "Biz bu durumda maalesef yardım edemeyiz",
+  "english_example_sentence": "Unfortunately, we cannot help in this situation",
+  "russian_example_sentence": "К сожалению, мы не можем помочь в этой ситуации",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:06:33.619684+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu durumda maalesef ______"
 }

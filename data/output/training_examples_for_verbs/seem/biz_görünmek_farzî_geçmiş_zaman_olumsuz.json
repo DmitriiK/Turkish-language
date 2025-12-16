@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmemişsek",
-    "root": "gör",
-    "tense_affix": "memişse",
+    "verb_full": "görünmüyoruz",
+    "root": "görün",
+    "tense_affix": "üyor",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "uz",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "m"
   },
-  "english_example_sentence": "If we hadn't seemed tired during the hike.",
-  "russian_example_sentence": "Если бы мы не казались уставшими во время похода.",
-  "turkish_example_sentence": "Yürüyüş sırasında yorgun görünmemişsek, iyi dinlenmiştik.",
-  "turkish_example_sentence_with_blank": "Yürüyüş sırasında yorgun ______, iyi dinlenmiştik."
+  "turkish_example_sentence": "Biz küçük odada mutsuz görünmüyoruz",
+  "english_example_sentence": "We don't seem unhappy in the small room",
+  "russian_example_sentence": "Мы не кажемся несчастными в маленькой комнате",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:59:38.155169+00:00",
+  "turkish_example_sentence_with_blank": "Biz küçük odada mutsuz ______"
 }

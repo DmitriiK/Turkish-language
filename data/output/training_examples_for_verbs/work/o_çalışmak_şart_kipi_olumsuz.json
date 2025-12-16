@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "çalışmasa",
     "root": "çalış",
-    "tense_affix": "sa",
+    "tense_affix": "masa",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "O küçük bir dükkânda çalışmasa ailesi finansal sorunlar yaşar.",
-  "english_example_sentence": "If she were not to work at a small shop, her family would face financial problems.",
-  "russian_example_sentence": "Если бы она не работала в маленьком магазине, её семья столкнулась бы с финансовыми проблемами.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:52:35.807549+00:00",
-  "turkish_example_sentence_with_blank": "O küçük bir dükkânda ______ ailesi finansal sorunlar yaşar."
+  "turkish_example_sentence": "O stresli proje ekibinde çalışmasa sağlığı daha iyi olurdu",
+  "english_example_sentence": "If he/she didn't work in the stressful project team, his/her health would be better",
+  "russian_example_sentence": "Если бы он/она не работал в стрессовой проектной команде, его/её здоровье было бы лучше",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:15:16.750722+00:00",
+  "turkish_example_sentence_with_blank": "O stresli proje ekibinde ______ sağlığı daha iyi olurdu"
 }

@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmeyen",
+    "verb_full": "görünmüyor",
     "root": "görün",
-    "tense_affix": "en",
+    "tense_affix": "üyor",
     "verb_tense": "sıfat_fiil",
     "personal_pronoun": null,
     "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "m"
   },
-  "english_example_sentence": "The star that doesn't seem bright is far.",
-  "russian_example_sentence": "Звезда, которая не выглядит яркой, далеко.",
-  "turkish_example_sentence": "Parlak görünmeyen yıldız uzakta.",
-  "turkish_example_sentence_with_blank": "Parlak ______ yıldız uzakta."
+  "turkish_example_sentence": "Küçük çocuk hasta görünmüyor",
+  "english_example_sentence": "The little child doesn't seem sick",
+  "russian_example_sentence": "Маленький ребёнок не кажется больным",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:59:40.924885+00:00",
+  "turkish_example_sentence_with_blank": "Küçük çocuk hasta ______"
 }

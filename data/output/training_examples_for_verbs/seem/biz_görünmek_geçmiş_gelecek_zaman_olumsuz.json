@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmeyecektik",
+    "verb_full": "görünmeyeceğiz",
     "root": "görün",
-    "tense_affix": "ecekti",
+    "tense_affix": "ecek",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "iz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "We weren't going to seem concerned.",
-  "russian_example_sentence": "Мы не собирались казаться обеспокоенными.",
-  "turkish_example_sentence": "Biz kaygılı görünmeyecektik.",
-  "turkish_example_sentence_with_blank": "Biz kaygılı ______."
+  "turkish_example_sentence": "Biz bu kadar yorgun görünmeyeceğiz",
+  "english_example_sentence": "We won't seem so tired",
+  "russian_example_sentence": "Мы не будем казаться такими уставшими",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:59:16.517282+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu kadar yorgun ______"
 }

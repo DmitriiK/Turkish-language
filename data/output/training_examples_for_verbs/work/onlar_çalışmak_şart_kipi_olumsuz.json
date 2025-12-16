@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "çalışmasalar",
     "root": "çalış",
-    "tense_affix": "sa",
+    "tense_affix": "masa",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Onlar bu tehlikeli maden işinde çalışmasalar hayatları daha güvenli olur.",
-  "english_example_sentence": "If they were not to work in this dangerous mining job, their lives would be safer.",
-  "russian_example_sentence": "Если бы они не работали на этой опасной шахтной работе, их жизнь была бы безопаснее.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:52:35.807549+00:00",
-  "turkish_example_sentence_with_blank": "Onlar bu tehlikeli maden işinde ______ hayatları daha güvenli olur."
+  "turkish_example_sentence": "Onlar tehlikeli inşaat alanında çalışmasalar güvenli kalabilirlerdi",
+  "english_example_sentence": "If they didn't work at the dangerous construction site, they could stay safe",
+  "russian_example_sentence": "Если бы они не работали на опасной строительной площадке, они могли бы оставаться в безопасности",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:15:16.750722+00:00",
+  "turkish_example_sentence_with_blank": "Onlar tehlikeli inşaat alanında ______ güvenli kalabilirlerdi"
 }

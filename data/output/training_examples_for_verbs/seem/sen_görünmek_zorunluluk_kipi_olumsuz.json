@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "görünmemelisin",
     "root": "görün",
-    "tense_affix": "meli",
+    "tense_affix": "memeli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "sin",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You must not seem worried about the exam",
-  "russian_example_sentence": "Ты не должен казаться встревоженным по поводу экзамена",
-  "turkish_example_sentence": "Sen sınav hakkında endişeli ve stresli görünmemelisin",
-  "turkish_example_sentence_with_blank": "Sen sınav hakkında endişeli ve stresli ______"
+  "turkish_example_sentence": "Sen bu zor durumda zayıf görünmemelisin",
+  "english_example_sentence": "You must not look weak in this difficult situation",
+  "russian_example_sentence": "Ты не должен выглядеть слабым в этой сложной ситуации",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:59:05.164192+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu zor durumda zayıf ______"
 }

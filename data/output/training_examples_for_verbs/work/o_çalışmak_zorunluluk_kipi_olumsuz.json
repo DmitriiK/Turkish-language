@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "çalışmamalı",
     "root": "çalış",
-    "tense_affix": "malı",
+    "tense_affix": "mamalı",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "mama"
+    "negative_affix": "ma"
   },
-  "turkish_example_sentence": "O hasta kız ağır fiziksel işlerde çalışmamalı.",
-  "english_example_sentence": "She must not work in heavy physical labor.",
-  "russian_example_sentence": "Она не должна работать на тяжелой физической работе.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:51:57.650989+00:00",
-  "turkish_example_sentence_with_blank": "O hasta kız ağır fiziksel işlerde ______."
+  "turkish_example_sentence": "O yorgun görünüyor, gece yarısından sonra çalışmamalı",
+  "english_example_sentence": "He/she looks tired, must not work after midnight",
+  "russian_example_sentence": "Он/она выглядит уставшим, не должен работать после полуночи",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:22:45.392447+00:00",
+  "turkish_example_sentence_with_blank": "O yorgun görünüyor, gece yarısından sonra ______"
 }

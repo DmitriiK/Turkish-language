@@ -1,6 +1,6 @@
 {
   "verb_rank": 20,
-  "verb_english": "call",
+  "verb_english": "call (phone)",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
@@ -13,10 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Siz hiçbir zaman tembel sekreteri ofisten aramayacaksınız.",
-  "english_example_sentence": "You will never call the lazy secretary from the office.",
-  "russian_example_sentence": "Вы никогда не позвоните ленивой секретарше из офиса.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T16:15:21.109892+00:00",
-  "turkish_example_sentence_with_blank": "Siz hiçbir zaman tembel sekreteri ofisten ______."
+  "turkish_example_sentence": "Siz gece geç vakitte uyuyan çocukları aramayacaksınız",
+  "english_example_sentence": "You will not call the sleeping children late at night",
+  "russian_example_sentence": "Вы не будете звонить спящим детям поздно ночью",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T10:22:54.822177+00:00",
+  "turkish_example_sentence_with_blank": "Siz gece geç vakitte uyuyan çocukları ______"
 }

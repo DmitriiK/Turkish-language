@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmedim",
     "root": "yardım et",
-    "tense_affix": "ti",
+    "tense_affix": "di",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "im",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "I did not help with the difficult project",
-  "russian_example_sentence": "Я не помог со сложным проектом",
-  "turkish_example_sentence": "Ben zor proje ile yardım etmedim",
-  "turkish_example_sentence_with_blank": "Ben zor proje ile ______"
+  "turkish_example_sentence": "Ben kardeşime yardım etmedim çünkü çok meşguldüm",
+  "english_example_sentence": "I didn't help my brother because I was busy",
+  "russian_example_sentence": "Я не помог брату, потому что был занят",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:05:03.857924+00:00",
+  "turkish_example_sentence_with_blank": "Ben kardeşime ______ çünkü çok meşguldüm"
 }

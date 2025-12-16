@@ -4,17 +4,19 @@
   "verb_russian": "помогать",
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
-    "verb_full": "yardım etmemeliler",
+    "verb_full": "yardım etmemeli",
     "root": "yardım et",
-    "tense_affix": "meli",
+    "tense_affix": "memeli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "They must not help the criminals hide their stolen goods",
-  "russian_example_sentence": "Они не должны помогать преступникам скрывать украденное имущество",
-  "turkish_example_sentence": "Onlar suçluların çalıntı eşyaları gizlemesine yardım etmemeliler",
-  "turkish_example_sentence_with_blank": "Onlar suçluların çalıntı eşyaları gizlemesine ______"
+  "turkish_example_sentence": "Onlar kimseye yardım etmemeli",
+  "english_example_sentence": "They must not help anyone",
+  "russian_example_sentence": "Они не должны никому помогать",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:06:44.096565+00:00",
+  "turkish_example_sentence_with_blank": "Onlar kimseye ______"
 }

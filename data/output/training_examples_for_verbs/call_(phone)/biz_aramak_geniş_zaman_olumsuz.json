@@ -1,22 +1,22 @@
 {
   "verb_rank": 20,
-  "verb_english": "call",
+  "verb_english": "call (phone)",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
     "verb_full": "aramayız",
     "root": "ara",
-    "tense_affix": "r",
+    "tense_affix": "z",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "ız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Biz hafta sonları iş konularında hiç kimseyi aramayız.",
-  "english_example_sentence": "We don't call anyone about work matters on weekends.",
-  "russian_example_sentence": "Мы не звоним никому по рабочим вопросам в выходные.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T16:15:56.891346+00:00",
-  "turkish_example_sentence_with_blank": "Biz hafta sonları iş konularında hiç kimseyi ______."
+  "turkish_example_sentence": "Biz tatilde eski iş arkadaşlarımızı aramayız",
+  "english_example_sentence": "We don't call our old work colleagues on vacation",
+  "russian_example_sentence": "Мы не звоним нашим старым коллегам по работе в отпуске",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T10:24:07.079761+00:00",
+  "turkish_example_sentence_with_blank": "Biz tatilde eski iş arkadaşlarımızı ______"
 }

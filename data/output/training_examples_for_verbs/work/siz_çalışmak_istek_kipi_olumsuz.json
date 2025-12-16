@@ -4,7 +4,7 @@
   "verb_russian": "работать",
   "verb_infinitive": "çalışmak",
   "turkish_verb": {
-    "verb_full": "çalışmasınız",
+    "verb_full": "çalışmayasınız",
     "root": "çalış",
     "tense_affix": "a",
     "verb_tense": "istek_kipi",
@@ -13,10 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Siz kıdemli doktorlar gece vardiyasında çalışmasınız.",
-  "english_example_sentence": "May you senior doctors not work on the night shift.",
-  "russian_example_sentence": "Пусть вы старшие врачи не работаете в ночную смену.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:52:15.750331+00:00",
-  "turkish_example_sentence_with_blank": "Siz kıdemli doktorlar gece vardiyasında ______."
+  "turkish_example_sentence": "Siz karanlık eski binada tehlikeli kimyasal maddelerle çalışmayasınız",
+  "english_example_sentence": "May you not work with dangerous chemical substances in dark old building",
+  "russian_example_sentence": "Пусть вы не работаете с опасными химическими веществами в темном старом здании",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:14:09.856182+00:00",
+  "turkish_example_sentence_with_blank": "Siz karanlık eski binada tehlikeli kimyasal maddelerle ______"
 }

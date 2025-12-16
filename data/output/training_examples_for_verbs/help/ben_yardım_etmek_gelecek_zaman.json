@@ -5,7 +5,7 @@
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
     "verb_full": "yardım edeceğim",
-    "root": "et",
+    "root": "yardım et",
     "tense_affix": "ecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "ben",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I will help my elderly neighbor tomorrow",
-  "russian_example_sentence": "Я помогу своей пожилой соседке завтра",
-  "turkish_example_sentence": "Ben yaşlı komşuma yarın yardım edeceğim",
-  "turkish_example_sentence_with_blank": "Ben yaşlı komşuma yarın ______"
+  "turkish_example_sentence": "Ben yarın büyük projede yardım edeceğim",
+  "english_example_sentence": "I will help with the big project tomorrow",
+  "russian_example_sentence": "Я помогу с большим проектом завтра",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:05:14.460370+00:00",
+  "turkish_example_sentence_with_blank": "Ben yarın büyük projede ______"
 }

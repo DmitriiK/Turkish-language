@@ -4,7 +4,7 @@
   "verb_russian": "показывать",
   "verb_infinitive": "göstermek",
   "turkish_verb": {
-    "verb_full": "göstermeyecesin",
+    "verb_full": "göstermesin",
     "root": "göster",
     "tense_affix": "e",
     "verb_tense": "istek_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You should not show the painting.",
-  "russian_example_sentence": "Ты не должен показывать картину.",
-  "turkish_example_sentence": "Sen resmi göstermeyecesin.",
-  "turkish_example_sentence_with_blank": "Sen resmi ______."
+  "turkish_example_sentence": "Sen eski resmi kimseye göstermesin",
+  "english_example_sentence": "May you not show the old picture to anyone",
+  "russian_example_sentence": "Пусть ты не показываешь старую фотографию никому",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:11:49.688441+00:00",
+  "turkish_example_sentence_with_blank": "Sen eski resmi kimseye ______"
 }

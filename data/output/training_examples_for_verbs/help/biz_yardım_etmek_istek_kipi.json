@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım edelim",
     "root": "yardım et",
-    "tense_affix": "elim",
+    "tense_affix": "",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "lim",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Let's help clean the park this morning",
-  "russian_example_sentence": "Давайте поможем убрать парк этим утром",
-  "turkish_example_sentence": "Biz bu sabah parkı temizlemeye yardım edelim",
-  "turkish_example_sentence_with_blank": "Biz bu sabah parkı temizlemeye ______"
+  "turkish_example_sentence": "Biz ihtiyacı olanlara yardım edelim",
+  "english_example_sentence": "Let's help those in need",
+  "russian_example_sentence": "Давайте поможем тем, кто нуждается",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:05:43.743075+00:00",
+  "turkish_example_sentence_with_blank": "Biz ihtiyacı olanlara ______"
 }

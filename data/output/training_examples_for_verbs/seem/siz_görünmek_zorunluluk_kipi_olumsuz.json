@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "görünmemelisiniz",
     "root": "görün",
-    "tense_affix": "meli",
+    "tense_affix": "memeli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "siniz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "You must not seem uncertain about your qualifications",
-  "russian_example_sentence": "Вы не должны казаться неуверенными в своих квалификациях",
-  "turkish_example_sentence": "Siz bu prestijli kurumda şüpheli ve yetersiz görünmemelisiniz",
-  "turkish_example_sentence_with_blank": "Siz bu prestijli kurumda şüpheli ve yetersiz ______"
+  "turkish_example_sentence": "Siz bu zorlu süreçte zayıf görünmemelisiniz",
+  "english_example_sentence": "You must not look weak in this difficult process",
+  "russian_example_sentence": "Вы не должны выглядеть слабыми в этом сложном процессе",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:59:05.164192+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu zorlu süreçte zayıf ______"
 }

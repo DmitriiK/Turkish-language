@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "alacağız",
     "root": "al",
-    "tense_affix": "acak",
+    "tense_affix": "acağ",
     "verb_tense": "yaracağım",
     "personal_pronoun": "biz",
     "personal_affix": "ız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Biz, gelecek ay büyük bir ev alacağız.",
-  "english_example_sentence": "We will buy a big house next month.",
-  "russian_example_sentence": "Мы купим большой дом в следующем месяце.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T09:07:25.255523+00:00",
-  "turkish_example_sentence_with_blank": "Biz, gelecek ay büyük bir ev ______."
+  "turkish_example_sentence": "Biz pazar günü büyük sarı çiçekleri bahçeden alacağız.",
+  "english_example_sentence": "We will take the large yellow flowers from the garden on Sunday.",
+  "russian_example_sentence": "Мы возьмем большие желтые цветы из сада в воскресенье.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:26:11.635342+00:00",
+  "turkish_example_sentence_with_blank": "Biz pazar günü büyük sarı çiçekleri bahçeden ______."
 }

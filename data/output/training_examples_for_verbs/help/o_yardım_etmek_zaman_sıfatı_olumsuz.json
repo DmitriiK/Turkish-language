@@ -4,17 +4,19 @@
   "verb_russian": "помогать",
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
-    "verb_full": "yardım etmediğinde",
+    "verb_full": "yardım etmiyor",
     "root": "yardım et",
-    "tense_affix": "tiğ",
+    "tense_affix": "iyor",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "o",
-    "personal_affix": "i",
+    "personal_affix": "",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "When she doesn't help her colleagues, they complain.",
-  "russian_example_sentence": "Когда она не помогает своим коллегам, они жалуются.",
-  "turkish_example_sentence": "O meslektaşlarına yardım etmediğinde, onlar şikayet ediyorlar.",
-  "turkish_example_sentence_with_blank": "O meslektaşlarına ______, onlar şikayet ediyorlar."
+  "turkish_example_sentence": "O küçük çocuklara bazen yardım etmiyor",
+  "english_example_sentence": "He sometimes doesn't help little children",
+  "russian_example_sentence": "Он иногда не помогает маленьким детям",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:07:48.671678+00:00",
+  "turkish_example_sentence_with_blank": "O küçük çocuklara bazen ______"
 }

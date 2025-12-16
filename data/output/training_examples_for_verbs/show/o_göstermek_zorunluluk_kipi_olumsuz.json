@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "göstermemeli",
     "root": "göster",
-    "tense_affix": "meli",
+    "tense_affix": "memeli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "negative",
-    "negative_affix": "meme"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "She must not show her private diary to anyone",
-  "russian_example_sentence": "Она не должна показывать свой личный дневник никому",
-  "turkish_example_sentence": "O özel kişisel günlüğünü hiç kimseye göstermemeli",
-  "turkish_example_sentence_with_blank": "O özel kişisel günlüğünü hiç kimseye ______"
+  "turkish_example_sentence": "O eski filmleri göstermemeli",
+  "english_example_sentence": "He/She must not show old movies",
+  "russian_example_sentence": "Он/Она не должен/должна показывать старые фильмы",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:10:38.331485+00:00",
+  "turkish_example_sentence_with_blank": "O eski filmleri ______"
 }

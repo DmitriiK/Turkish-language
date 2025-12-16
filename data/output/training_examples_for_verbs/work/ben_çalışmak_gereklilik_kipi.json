@@ -4,19 +4,19 @@
   "verb_russian": "работать",
   "verb_infinitive": "çalışmak",
   "turkish_verb": {
-    "verb_full": "çalışmam",
+    "verb_full": "çalışmam lazım",
     "root": "çalış",
-    "tense_affix": "",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Ben bu zor proje için çalışmam lazım.",
-  "english_example_sentence": "I need to work for this difficult project.",
-  "russian_example_sentence": "Мне нужно работать над этим сложным проектом.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:51:16.573007+00:00",
-  "turkish_example_sentence_with_blank": "Ben bu zor proje için ______ lazım."
+  "turkish_example_sentence": "Ben yarın sabah erken büyük projede çalışmam lazım",
+  "english_example_sentence": "I need to work on the big project early tomorrow morning",
+  "russian_example_sentence": "Мне нужно работать над большим проектом рано завтра утром",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:21:29.461728+00:00",
+  "turkish_example_sentence_with_blank": "Ben yarın sabah erken büyük projede ______"
 }

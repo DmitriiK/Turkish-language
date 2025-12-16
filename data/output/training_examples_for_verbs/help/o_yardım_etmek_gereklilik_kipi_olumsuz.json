@@ -4,17 +4,19 @@
   "verb_russian": "помогать",
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
-    "verb_full": "yardım etmemesi lazım",
+    "verb_full": "yardım etmesi lazım değil",
     "root": "yardım et",
-    "tense_affix": "me",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
     "personal_affix": "si",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "She should not help with the suspicious business deal",
-  "russian_example_sentence": "Ей не нужно помогать с подозрительной деловой сделкой",
-  "turkish_example_sentence": "O şüpheli ticari anlaşmada yardım etmemesi lazım",
-  "turkish_example_sentence_with_blank": "O şüpheli ticari anlaşmada ______"
+  "turkish_example_sentence": "O bizimle yardım etmesi lazım değil",
+  "english_example_sentence": "He/She doesn't need to help us",
+  "russian_example_sentence": "Ему/ей не нужно помогать нам",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:06:23.181506+00:00",
+  "turkish_example_sentence_with_blank": "O bizimle ______"
 }

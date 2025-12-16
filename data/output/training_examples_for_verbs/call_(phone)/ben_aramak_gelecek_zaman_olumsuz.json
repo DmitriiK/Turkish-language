@@ -1,6 +1,6 @@
 {
   "verb_rank": 20,
-  "verb_english": "call",
+  "verb_english": "call (phone)",
   "verb_russian": "звонить",
   "verb_infinitive": "aramak",
   "turkish_verb": {
@@ -13,10 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Ben bu hafta sonu meşgul doktor muayenehanesini aramayacağım.",
-  "english_example_sentence": "I will not call the busy doctor's clinic this weekend.",
-  "russian_example_sentence": "Я не позвоню в кабинет занятого врача на этой неделе.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T16:15:21.109892+00:00",
-  "turkish_example_sentence_with_blank": "Ben bu hafta sonu meşgul doktor muayenehanesini ______."
+  "turkish_example_sentence": "Ben bu akşam meşgul müdürü aramayacağım",
+  "english_example_sentence": "I will not call the busy manager this evening",
+  "russian_example_sentence": "Я не буду звонить занятому менеджеру этим вечером",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T10:22:54.822177+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu akşam meşgul müdürü ______"
 }

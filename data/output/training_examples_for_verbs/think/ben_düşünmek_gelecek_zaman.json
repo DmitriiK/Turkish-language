@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "düşüneceğim",
     "root": "düşün",
-    "tense_affix": "eceğ",
+    "tense_affix": "ecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Ben bu yeni projeyi dikkatlice düşüneceğim.",
-  "english_example_sentence": "I will think carefully about this new project.",
-  "russian_example_sentence": "Я внимательно подумаю об этом новом проекте.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T08:59:34.631509+00:00",
-  "turkish_example_sentence_with_blank": "Ben bu yeni projeyi dikkatlice ______."
+  "turkish_example_sentence": "Ben yarın önemli kararlar hakkında düşüneceğim.",
+  "english_example_sentence": "I will think about important decisions tomorrow.",
+  "russian_example_sentence": "Я буду думать о важных решениях завтра.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:11:46.375713+00:00",
+  "turkish_example_sentence_with_blank": "Ben yarın önemli kararlar hakkında ______."
 }

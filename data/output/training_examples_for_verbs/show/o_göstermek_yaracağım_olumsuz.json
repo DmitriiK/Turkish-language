@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "göstermeyecek",
     "root": "göster",
-    "tense_affix": "eceğ",
+    "tense_affix": "ecek",
     "verb_tense": "yaracağım",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "She will not show her private diary to anyone",
-  "russian_example_sentence": "Она не покажет свой личный дневник никому",
-  "turkish_example_sentence": "O kişisel günlüğünü hiç kimseye göstermeyecek",
-  "turkish_example_sentence_with_blank": "O kişisel günlüğünü hiç kimseye ______"
+  "turkish_example_sentence": "O eski haritayı göstermeyecek",
+  "english_example_sentence": "He/She will not show the old map",
+  "russian_example_sentence": "Он/Она не покажет старую карту",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:11:28.919466+00:00",
+  "turkish_example_sentence_with_blank": "O eski haritayı ______"
 }

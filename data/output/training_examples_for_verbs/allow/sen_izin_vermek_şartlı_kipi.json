@@ -1,0 +1,22 @@
+{
+  "verb_rank": 64,
+  "verb_english": "allow",
+  "verb_russian": "разрешать",
+  "verb_infinitive": "izin vermek",
+  "turkish_verb": {
+    "verb_full": "izin verirsen",
+    "root": "izin ver",
+    "tense_affix": "ir",
+    "verb_tense": "şartlı_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "sen",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "turkish_example_sentence": "Sen öğrencilere sınıfta telefon kullanmaya izin verirsen dikkatlerini kaybederler",
+  "english_example_sentence": "If you allow the students to use phones in the classroom, they lose their attention",
+  "russian_example_sentence": "Если ты разрешишь студентам пользоваться телефонами в классе, они потеряют внимание",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:39:50.452019+00:00",
+  "turkish_example_sentence_with_blank": "Sen öğrencilere sınıfta telefon kullanmaya ______ dikkatlerini kaybederler"
+}

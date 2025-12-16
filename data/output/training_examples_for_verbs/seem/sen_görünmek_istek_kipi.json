@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görün",
+    "verb_full": "görünüyorsun",
     "root": "görün",
-    "tense_affix": "e",
+    "tense_affix": "üyor",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "sin",
+    "personal_affix": "sun",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "May you seem confident today",
-  "russian_example_sentence": "Пусть ты кажешься уверенным сегодня",
-  "turkish_example_sentence": "Sen bugün kendinden emin görün",
-  "turkish_example_sentence_with_blank": "Sen bugün kendinden emin ______"
+  "turkish_example_sentence": "Sen yeni saçınla çok güzel görünüyorsun",
+  "english_example_sentence": "You seem very beautiful with your new hair",
+  "russian_example_sentence": "Ты кажешься очень красивой с новыми волосами",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:58:16.660921+00:00",
+  "turkish_example_sentence_with_blank": "Sen yeni saçınla çok güzel ______"
 }

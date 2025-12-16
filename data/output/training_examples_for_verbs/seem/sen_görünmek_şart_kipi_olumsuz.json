@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "görünmesen",
     "root": "görün",
-    "tense_affix": "se",
+    "tense_affix": "mes",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "mes"
   },
-  "english_example_sentence": "It would be better if you didn't seem unhappy.",
-  "russian_example_sentence": "Было бы лучше, если бы ты не выглядел таким несчастным.",
-  "turkish_example_sentence": "Üzgün görünmesen daha iyi olurdu.",
-  "turkish_example_sentence_with_blank": "Üzgün ______ daha iyi olurdu."
+  "turkish_example_sentence": "Sen çirkin görünmesen, kimse seni eleştirmez",
+  "english_example_sentence": "If you don't seem ugly, no one criticizes you",
+  "russian_example_sentence": "Если ты не кажешься некрасивым, никто тебя не критикует",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:58:34.681314+00:00",
+  "turkish_example_sentence_with_blank": "Sen çirkin ______, kimse seni eleştirmez"
 }

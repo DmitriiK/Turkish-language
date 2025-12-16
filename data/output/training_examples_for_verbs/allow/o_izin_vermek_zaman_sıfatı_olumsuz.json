@@ -1,0 +1,22 @@
+{
+  "verb_rank": 64,
+  "verb_english": "allow",
+  "verb_russian": "разрешать",
+  "verb_infinitive": "izin vermek",
+  "turkish_verb": {
+    "verb_full": "izin vermediğinde",
+    "root": "ver",
+    "tense_affix": "mediğ",
+    "verb_tense": "zaman_sıfatı",
+    "personal_pronoun": "o",
+    "personal_affix": "i",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "turkish_example_sentence": "O anne kızına geç saatlerde dışarı çıkma izin vermediğinde tartışma başlıyor",
+  "english_example_sentence": "When she the mother doesn't allow her daughter to go out late at night, an argument starts",
+  "russian_example_sentence": "Когда она мать не разрешает своей дочери выходить поздно ночью, начинается спор",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:41:42.886462+00:00",
+  "turkish_example_sentence_with_blank": "O anne kızına geç saatlerde dışarı çıkma ______ tartışma başlıyor"
+}

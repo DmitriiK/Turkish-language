@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "düşüneceğiz",
     "root": "düşün",
-    "tense_affix": "eceğ",
+    "tense_affix": "ecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Biz bu önemli konuyu birlikte düşüneceğiz.",
-  "english_example_sentence": "We will think about this important matter together.",
-  "russian_example_sentence": "Мы вместе подумаем об этом важном вопросе.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T08:59:34.631509+00:00",
-  "turkish_example_sentence_with_blank": "Biz bu önemli konuyu birlikte ______."
+  "turkish_example_sentence": "Biz bu hafta sonu güzel tatil planları düşüneceğiz.",
+  "english_example_sentence": "We will think about beautiful vacation plans this weekend.",
+  "russian_example_sentence": "Мы будем думать о красивых планах отпуска на выходных.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:11:46.375713+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu hafta sonu güzel tatil planları ______."
 }

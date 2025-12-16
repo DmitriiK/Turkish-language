@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "çalışmamalılar",
     "root": "çalış",
-    "tense_affix": "malı",
+    "tense_affix": "mamalı",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
-    "negative_affix": "mama"
+    "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Onlar küçük çocuklar ağır madenlerde çalışmamalılar.",
-  "english_example_sentence": "They must not work in heavy mines as small children.",
-  "russian_example_sentence": "Они не должны работать в тяжелых шахтах маленькими детьми.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:51:57.650989+00:00",
-  "turkish_example_sentence_with_blank": "Onlar küçük çocuklar ağır madenlerde ______."
+  "turkish_example_sentence": "Onlar tehlikeli fabrika koşullarında güvenlik ekipmanı olmadan çalışmamalılar",
+  "english_example_sentence": "They must not work in dangerous factory conditions without safety equipment",
+  "russian_example_sentence": "Они не должны работать в опасных заводских условиях без защитного оборудования",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:22:45.392447+00:00",
+  "turkish_example_sentence_with_blank": "Onlar tehlikeli fabrika koşullarında güvenlik ekipmanı olmadan ______"
 }

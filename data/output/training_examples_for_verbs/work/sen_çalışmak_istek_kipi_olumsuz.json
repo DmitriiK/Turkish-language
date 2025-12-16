@@ -4,7 +4,7 @@
   "verb_russian": "работать",
   "verb_infinitive": "çalışmak",
   "turkish_verb": {
-    "verb_full": "çalışmasın",
+    "verb_full": "çalışmayasın",
     "root": "çalış",
     "tense_affix": "a",
     "verb_tense": "istek_kipi",
@@ -13,10 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Sen hastalıklı olduğun için ağır işlerde çalışmasın.",
-  "english_example_sentence": "Since you are sick, may you not work on heavy tasks.",
-  "russian_example_sentence": "Поскольку ты болен, пусть ты не работаешь на тяжелых работах.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:52:15.750331+00:00",
-  "turkish_example_sentence_with_blank": "Sen hastalıklı olduğun için ağır işlerde ______."
+  "turkish_example_sentence": "Sen gece geç saatlerde yorgun halde çalışmayasın",
+  "english_example_sentence": "May you not work in tired condition at late night hours",
+  "russian_example_sentence": "Пусть ты не работаешь в усталом состоянии поздними ночными часами",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:14:09.856182+00:00",
+  "turkish_example_sentence_with_blank": "Sen gece geç saatlerde yorgun halde ______"
 }

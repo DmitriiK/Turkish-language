@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmem",
     "root": "yardım et",
-    "tense_affix": "ir",
+    "tense_affix": "me",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "im",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "I do not help with difficult homework problems",
-  "russian_example_sentence": "Я не помогаю со сложными домашними заданиями",
-  "turkish_example_sentence": "Ben zor matematik ödevinde yardım etmem",
-  "turkish_example_sentence_with_blank": "Ben zor matematik ödevinde ______"
+  "turkish_example_sentence": "Ben başkalarına yardım etmem",
+  "english_example_sentence": "I don't help others",
+  "russian_example_sentence": "Я не помогаю другим",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:05:33.984696+00:00",
+  "turkish_example_sentence_with_blank": "Ben başkalarına ______"
 }

@@ -4,17 +4,19 @@
   "verb_russian": "показывать",
   "verb_infinitive": "göstermek",
   "turkish_verb": {
-    "verb_full": "göstermeye",
+    "verb_full": "göstermesin",
     "root": "göster",
-    "tense_affix": "e",
+    "tense_affix": "",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "May he not show us anything bad.",
-  "russian_example_sentence": "Пусть он нам ничего плохого не покажет.",
-  "turkish_example_sentence": "O bize kötü bir şey göstermeye.",
-  "turkish_example_sentence_with_blank": "O bize kötü bir şey ______."
+  "turkish_example_sentence": "O eski resmi kimseye göstermesin",
+  "english_example_sentence": "May he/she not show the old picture to anyone",
+  "russian_example_sentence": "Пусть он/она не показывает старую фотографию никому",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:11:49.688441+00:00",
+  "turkish_example_sentence_with_blank": "O eski resmi kimseye ______"
 }

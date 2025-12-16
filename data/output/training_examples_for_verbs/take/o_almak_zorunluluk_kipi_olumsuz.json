@@ -9,14 +9,14 @@
     "tense_affix": "malı",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "mama"
   },
-  "turkish_example_sentence": "O, bu akşamki partiye gereksiz hediyeler almamalı.",
-  "english_example_sentence": "He/She must not take unnecessary gifts to tonight's party.",
-  "russian_example_sentence": "Он/Она не должен/должна брать ненужные подарки на сегодняшнюю вечеринку.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T09:11:40.244979+00:00",
-  "turkish_example_sentence_with_blank": "O, bu akşamki partiye gereksiz hediyeler ______."
+  "turkish_example_sentence": "O diyetinde olduğu için tatlı çikolata almamalı hiçbir zaman.",
+  "english_example_sentence": "She must not take sweet chocolate ever because she is on a diet.",
+  "russian_example_sentence": "Она не должна брать сладкий шоколад никогда, потому что она на диете.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:33:43.755381+00:00",
+  "turkish_example_sentence_with_blank": "O diyetinde olduğu için tatlı çikolata ______ hiçbir zaman."
 }

@@ -4,17 +4,19 @@
   "verb_russian": "показывать",
   "verb_infinitive": "göstermek",
   "turkish_verb": {
-    "verb_full": "gösterebilirsin",
+    "verb_full": "gösteriyorsun",
     "root": "göster",
-    "tense_affix": "ebil",
+    "tense_affix": "iyorsun",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "irsin",
+    "personal_affix": "iyorsun",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can show the talented young dancers",
-  "russian_example_sentence": "Ты можешь показать талантливых молодых танцоров",
-  "turkish_example_sentence": "Sen yetenekli genç dansçıları gösterebilirsin",
-  "turkish_example_sentence_with_blank": "Sen yetenekli genç dansçıları ______"
+  "turkish_example_sentence": "Sen küçük kardeşine güzel resimleri gösteriyorsun",
+  "english_example_sentence": "You are showing nice pictures to your little brother",
+  "russian_example_sentence": "Ты показываешь красивые картинки своему младшему брату",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:10:14.597312+00:00",
+  "turkish_example_sentence_with_blank": "Sen küçük kardeşine güzel resimleri ______"
 }

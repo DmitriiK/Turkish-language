@@ -4,17 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmeyecekti",
+    "verb_full": "görünmeyecek",
     "root": "görün",
-    "tense_affix": "ecekti",
+    "tense_affix": "ecek",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "She wasn't going to seem nervous.",
-  "russian_example_sentence": "Она не собиралась казаться нервной.",
-  "turkish_example_sentence": "O gergin görünmeyecekti.",
-  "turkish_example_sentence_with_blank": "O gergin ______."
+  "turkish_example_sentence": "O bu zor durumda güzel görünmeyecek",
+  "english_example_sentence": "He/She won't seem good in this difficult situation",
+  "russian_example_sentence": "Он/Она не будет казаться хорошим в этой сложной ситуации",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:59:16.517282+00:00",
+  "turkish_example_sentence_with_blank": "O bu zor durumda güzel ______"
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "göstermemelisiniz",
     "root": "göster",
-    "tense_affix": "meli",
+    "tense_affix": "memeli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "siniz",
     "polarity": "negative",
-    "negative_affix": "meme"
+    "negative_affix": "me"
   },
-  "english_example_sentence": "You must not show your personal information to suspicious people",
-  "russian_example_sentence": "Вы не должны показывать свою личную информацию подозрительным людям",
-  "turkish_example_sentence": "Siz şüpheli kişilere kişisel bilgilerinizi göstermemelisiniz",
-  "turkish_example_sentence_with_blank": "Siz şüpheli kişilere kişisel bilgilerinizi ______"
+  "turkish_example_sentence": "Siz bu tür kirli resimleri göstermemelisiniz",
+  "english_example_sentence": "You must not show this kind of dirty pictures",
+  "russian_example_sentence": "Вы не должны показывать такие грязные картинки",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:10:38.331485+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu tür kirli resimleri ______"
 }

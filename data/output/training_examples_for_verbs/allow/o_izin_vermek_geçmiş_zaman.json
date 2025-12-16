@@ -5,7 +5,7 @@
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
     "verb_full": "izin verdi",
-    "root": "izin ver",
+    "root": "ver",
     "tense_affix": "di",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "o",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "She allowed her elderly mother to rest peacefully",
-  "russian_example_sentence": "Она позволила своей пожилой матери отдохнуть спокойно",
-  "turkish_example_sentence": "O yaşlı annasına sessizce uyumak izin verdi",
-  "turkish_example_sentence_with_blank": "O yaşlı annasına sessizce uyumak ______"
+  "turkish_example_sentence": "O deneyimli müdür genç stajyere önemli toplantıya katılmaya izin verdi",
+  "english_example_sentence": "That experienced manager allowed the young intern to attend the important meeting",
+  "russian_example_sentence": "Тот опытный менеджер разрешил молодому стажеру присутствовать на важной встрече",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:36:23.694669+00:00",
+  "turkish_example_sentence_with_blank": "O deneyimli müdür genç stajyere önemli toplantıya katılmaya ______"
 }

@@ -4,17 +4,19 @@
   "verb_russian": "показывать",
   "verb_infinitive": "göstermek",
   "turkish_verb": {
-    "verb_full": "göstereyebilirler",
+    "verb_full": "göstersinler",
     "root": "göster",
-    "tense_affix": "e",
+    "tense_affix": "",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "ler",
+    "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They can show us the right path.",
-  "russian_example_sentence": "Они могут показать нам правильный путь.",
-  "turkish_example_sentence": "Onlar bize doğru yolu gösterebilirler.",
-  "turkish_example_sentence_with_blank": "Onlar bize doğru yolu gösterebilirler."
+  "turkish_example_sentence": "Onlar güzel resmi herkese göstersinler",
+  "english_example_sentence": "May they show the beautiful picture to everyone",
+  "russian_example_sentence": "Пусть они показывают красивую фотографию всем",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:11:49.688441+00:00",
+  "turkish_example_sentence_with_blank": "Onlar güzel resmi herkese ______"
 }

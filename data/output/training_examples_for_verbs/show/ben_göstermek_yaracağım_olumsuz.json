@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "göstermeyeceğim",
     "root": "göster",
-    "tense_affix": "eceğ",
+    "tense_affix": "eceğim",
     "verb_tense": "yaracağım",
     "personal_pronoun": "ben",
     "personal_affix": "im",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "I will not show anyone my secret garden plans",
-  "russian_example_sentence": "Я не покажу никому мои секретные планы сада",
-  "turkish_example_sentence": "Ben kimseye gizli bahçe planlarımı göstermeyeceğim",
-  "turkish_example_sentence_with_blank": "Ben kimseye gizli bahçe planlarımı ______"
+  "turkish_example_sentence": "Ben bu eski resmi göstermeyeceğim",
+  "english_example_sentence": "I will not show this old picture",
+  "russian_example_sentence": "Я не покажу эту старую картину",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:11:28.919466+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu eski resmi ______"
 }

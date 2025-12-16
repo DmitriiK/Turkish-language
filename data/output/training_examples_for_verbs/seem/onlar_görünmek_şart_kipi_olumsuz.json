@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "görünmeseler",
     "root": "görün",
-    "tense_affix": "se",
+    "tense_affix": "mes",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "mes"
   },
-  "english_example_sentence": "It would be strange if they didn't seem interested.",
-  "russian_example_sentence": "Было бы странно, если бы они не казались заинтересованными.",
-  "turkish_example_sentence": "Onlar ilgili görünmeseler garip olurdu.",
-  "turkish_example_sentence_with_blank": "Onlar ilgili ______ garip olurdu."
+  "turkish_example_sentence": "Onlar hasta görünmeseler, işe giderler",
+  "english_example_sentence": "If they don't seem sick, they go to work",
+  "russian_example_sentence": "Если они не кажутся больными, они идут на работу",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T14:58:34.681314+00:00",
+  "turkish_example_sentence_with_blank": "Onlar hasta ______, işe giderler"
 }

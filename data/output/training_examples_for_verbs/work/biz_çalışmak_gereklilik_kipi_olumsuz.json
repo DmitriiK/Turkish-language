@@ -4,19 +4,19 @@
   "verb_russian": "работать",
   "verb_infinitive": "çalışmak",
   "turkish_verb": {
-    "verb_full": "çalışmamamız",
+    "verb_full": "çalışmamamız lazım",
     "root": "çalış",
-    "tense_affix": "",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "mız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Biz tatil döneminde çalışmamamız gerek.",
-  "english_example_sentence": "We don't need to work during the holiday period.",
-  "russian_example_sentence": "Нам не нужно работать в период отпуска.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:51:16.573007+00:00",
-  "turkish_example_sentence_with_blank": "Biz tatil döneminde ______ gerek."
+  "turkish_example_sentence": "Biz pazar günü resmi tatil olduğu için çalışmamamız lazım",
+  "english_example_sentence": "We need to not work on Sunday because it is an official holiday",
+  "russian_example_sentence": "Нам не нужно работать в воскресенье, потому что это официальный праздник",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:21:29.461728+00:00",
+  "turkish_example_sentence_with_blank": "Biz pazar günü resmi tatil olduğu için ______"
 }

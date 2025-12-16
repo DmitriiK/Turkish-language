@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "düşünemezler",
     "root": "düşün",
-    "tense_affix": "z",
+    "tense_affix": "eme",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "ler",
+    "personal_affix": "zler",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "turkish_example_sentence": "Onlar, bu önemli kararı yeterince detaylı düşünemezler.",
-  "english_example_sentence": "They cannot think about this important decision in enough detail.",
-  "russian_example_sentence": "Они не могут достаточно подробно обдумать это важное решение.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T08:50:41.039735+00:00",
-  "turkish_example_sentence_with_blank": "Onlar, bu önemli kararı yeterince detaylı ______."
+  "turkish_example_sentence": "Onlar bu karışık hukuki meseleleri basit düşünemezler.",
+  "english_example_sentence": "They cannot think simply about these complicated legal matters.",
+  "russian_example_sentence": "Они не могут думать просто об этих сложных юридических вопросах.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:13:55.909283+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu karışık hukuki meseleleri basit ______."
 }

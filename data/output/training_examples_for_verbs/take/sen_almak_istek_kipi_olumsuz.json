@@ -4,19 +4,19 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almayasın",
+    "verb_full": "almasın",
     "root": "al",
-    "tense_affix": "ya",
+    "tense_affix": "a",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "sın",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Sen arkadaşının izinsiz eşyasını almayasın.",
-  "english_example_sentence": "May you not take your friend's belongings without permission.",
-  "russian_example_sentence": "Пусть ты не возьмёшь вещи своего друга без разрешения.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T09:19:43.434449+00:00",
-  "turkish_example_sentence_with_blank": "Sen arkadaşının izinsiz eşyasını ______."
+  "turkish_example_sentence": "Sen bu eski kırılmış çini fincanı almasın lütfen.",
+  "english_example_sentence": "Please don't take this old broken porcelain cup.",
+  "russian_example_sentence": "Пожалуйста, не бери эту старую разбитую фарфоровую чашку.",
+  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
+  "generated_at": "2025-12-15T12:26:50.229215+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu eski kırılmış çini fincanı ______ lütfen."
 }

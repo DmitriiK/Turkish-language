@@ -5,7 +5,7 @@
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
     "verb_full": "izin verdin",
-    "root": "izin ver",
+    "root": "ver",
     "tense_affix": "di",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "sen",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You allowed your best friend to borrow the car",
-  "russian_example_sentence": "Ты позволил своему лучшему другу одолжить машину",
-  "turkish_example_sentence": "Sen en iyi arkadaşına kırmızı arabayı ödünç izin verdin",
-  "turkish_example_sentence_with_blank": "Sen en iyi arkadaşına kırmızı arabayı ödünç ______"
+  "turkish_example_sentence": "Sen yakın arkadaşına pahalı fotoğraf makinesini ödünç almaya izin verdin",
+  "english_example_sentence": "You allowed your close friend to borrow the expensive camera",
+  "russian_example_sentence": "Ты разрешил своему близкому другу одолжить дорогую камеру",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-16T09:36:23.694669+00:00",
+  "turkish_example_sentence_with_blank": "Sen yakın arkadaşına pahalı fotoğraf makinesini ödünç almaya ______"
 }

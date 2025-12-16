@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "görünebilirsin",
     "root": "görün",
-    "tense_affix": "ebil",
+    "tense_affix": "ebilir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "irsin",
+    "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can seem very intelligent to others",
-  "russian_example_sentence": "Ты можешь казаться очень умным другим людям",
-  "turkish_example_sentence": "Sen başkalarına çok zeki görünebilirsin",
-  "turkish_example_sentence_with_blank": "Sen başkalarına çok zeki ______"
+  "turkish_example_sentence": "Sen yeni saç kesimiyle daha genç görünebilirsin",
+  "english_example_sentence": "You can look younger with the new haircut",
+  "russian_example_sentence": "Ты можешь выглядеть моложе с новой стрижкой",
+  "generated_by_model": "LLAMA - meta.llama4-scout-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T11:14:40.457140+00:00",
+  "turkish_example_sentence_with_blank": "Sen yeni saç kesimiyle daha genç ______"
 }

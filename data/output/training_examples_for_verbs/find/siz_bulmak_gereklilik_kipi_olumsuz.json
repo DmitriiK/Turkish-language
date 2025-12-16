@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "bulmaması",
     "root": "bul",
-    "tense_affix": "",
+    "tense_affix": "ma",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Siz bu hafta sonu müze biletini bulmaması lazım değil.",
-  "english_example_sentence": "You don't need to find the museum ticket this weekend.",
-  "russian_example_sentence": "Вам не нужно находить билет музея на этих выходных.",
+  "turkish_example_sentence": "Siz okulda eski tarih kitabını bulmaması gerek.",
+  "english_example_sentence": "You (formal/plural) need to not find the old history book at school.",
+  "russian_example_sentence": "Вам нужно не найти старую книгу истории в школе.",
   "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:35:24.826021+00:00",
-  "turkish_example_sentence_with_blank": "Siz bu hafta sonu müze biletini ______ lazım değil."
+  "generated_at": "2025-12-15T12:39:10.674543+00:00",
+  "turkish_example_sentence_with_blank": "Siz okulda eski tarih kitabını ______ gerek."
 }

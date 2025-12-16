@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım ettik",
     "root": "yardım et",
-    "tense_affix": "ti",
+    "tense_affix": "di",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ik",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We helped organize the beautiful community garden",
-  "russian_example_sentence": "Мы помогли организовать красивый общественный сад",
-  "turkish_example_sentence": "Biz güzel toplum bahçesini düzenlemede yardım ettik",
-  "turkish_example_sentence_with_blank": "Biz güzel toplum bahçesini düzenlemede ______"
+  "turkish_example_sentence": "Biz küçük kardeşlerimize her zaman yardım ettik",
+  "english_example_sentence": "We always helped our little siblings",
+  "russian_example_sentence": "Мы всегда помогали нашим маленьким братьям и сёстрам",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:05:03.857924+00:00",
+  "turkish_example_sentence_with_blank": "Biz küçük kardeşlerimize her zaman ______"
 }

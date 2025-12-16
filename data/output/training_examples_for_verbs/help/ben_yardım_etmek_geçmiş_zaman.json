@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım ettim",
     "root": "yardım et",
-    "tense_affix": "ti",
+    "tense_affix": "di",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I helped my elderly neighbor yesterday",
-  "russian_example_sentence": "Я помог пожилой соседке вчера",
-  "turkish_example_sentence": "Ben yaşlı komşuma dün yardım ettim",
-  "turkish_example_sentence_with_blank": "Ben yaşlı komşuma dün ______"
+  "turkish_example_sentence": "Ben dün arkadaşımın ödevine yardım ettim",
+  "english_example_sentence": "I helped my friend's homework yesterday",
+  "russian_example_sentence": "Я помогал с домашним заданием моего друга вчера",
+  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
+  "generated_at": "2025-12-16T15:05:03.857924+00:00",
+  "turkish_example_sentence_with_blank": "Ben dün arkadaşımın ödevine ______"
 }
