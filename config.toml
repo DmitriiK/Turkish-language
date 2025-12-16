@@ -13,7 +13,7 @@ azure = 50   # Azure S0 tier: limited by tokens, but ~50 requests/minute safe es
 
 [model]
 # Primary model for Turkish text generation
-name = "gemini-2.5-flash"  # Stable model with 10K RPD quota (9,594 remaining)
+name = "gemini-2.5-pro"  # Higher quality than Flash, should have fresh daily quota
 
 # Alternative models (uncomment to use)
 # name = "gemini-2.0-flash-exp"  # Hit quota: 504/500 RPD
@@ -35,18 +35,19 @@ OPENAI_API_VERSION = "2024-08-01-preview"
 OPENAI_MODEL_NAME = "gpt-4o-2024-11-20"  # GPT-4o - better quality than mini but heavily rate limited
 GPT41_MODEL_NAME = "gpt-4.1-2025-04-14"
 GPT5_MODEL_NAME = "gpt-5-2025-08-07"
-CLOUD_MODEL_NAME = "anthropic.claude-opus-4-1-20250805-v1:0"
+CLOUD_MODEL_NAME = "claude-haiku-4-5@20251001"
 DEEP_SEEK_MODEL_NAME = "deepseek-r1"
 GEMINI_MODEL_NAME = "gemini-2.5-flash"
+LLAMA_MODEL_NAME = "meta.llama4-maverick-17b-instruct-v1:0"
 
 # Claude model rotation list - will try each in order when hitting daily limits
 # Each model has its own daily quota, so we can rotate through them
 CLAUDE_MODEL_ROTATION = [
-    "anthropic.claude-haiku-4-5-20251001-v1:0",    # Claude 4.5 Haiku (best for this task)
-    "anthropic.claude-sonnet-4-5-20250929-v1:0",   # Claude 4.5 Sonnet (403 blocked)
+    "claude-sonnet-4-5@20250929",    # Claude 4.5 Sonnet - AVAILABLE (not the anthropic.* version which is blocked)
+    "gemini-2.5-flash",              # Gemini fallback
 ]
 
 # Default provider for create_training_example.py pipeline
-# Options: openai, claude, gemini, deepseek
-DEFAULT_PROVIDER = "gemini"  # Using Gemini (GPT-5/4.1 access denied, Claude hit daily limit)
+# Options: openai, claude, gemini, deepseek, llama
+DEFAULT_PROVIDER = "llama"  # Using Llama Scout - 5M tokens/day
 

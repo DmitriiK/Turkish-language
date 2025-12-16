@@ -963,7 +963,8 @@ def call_dial_api(
         provider_model_map = {
             'openai': dial_config.get('OPENAI_MODEL_NAME', 'gpt-4o-mini-2024-07-18'),
             'gemini': dial_config.get('GEMINI_MODEL_NAME', 'gemini-2.5-flash'),
-            'deepseek': dial_config.get('DEEP_SEEK_MODEL_NAME', 'deepseek-r1')
+            'deepseek': dial_config.get('DEEP_SEEK_MODEL_NAME', 'deepseek-r1'),
+            'llama': dial_config.get('LLAMA_MODEL_NAME', 'meta.llama4-scout-17b-instruct-v1:0')
         }
         model_id = provider_model_map.get(provider, provider_model_map.get('openai'))
     
@@ -1620,7 +1621,7 @@ def main(
         provider = config.get('DIAL_API', {}).get('DEFAULT_PROVIDER', 'openai')
     
     # Ensure provider is valid (DIAL API supports multiple providers)
-    valid_providers = ['openai', 'claude', 'gemini', 'deepseek']
+    valid_providers = ['openai', 'claude', 'gemini', 'deepseek', 'llama']
     assert provider in valid_providers, f"Invalid provider: {provider}. Must be one of {valid_providers}"
     
     # Get model name for logging
@@ -1639,7 +1640,8 @@ def main(
         provider_model_map = {
             'openai': dial_config.get('OPENAI_MODEL_NAME', 'gpt-4o-mini-2024-07-18'),
             'gemini': dial_config.get('GEMINI_MODEL_NAME', 'gemini-2.5-flash'),
-            'deepseek': dial_config.get('DEEP_SEEK_MODEL_NAME', 'deepseek-r1')
+            'deepseek': dial_config.get('DEEP_SEEK_MODEL_NAME', 'deepseek-r1'),
+            'llama': dial_config.get('LLAMA_MODEL_NAME', 'meta.llama4-scout-17b-instruct-v1:0')
         }
         model_name = f"{provider.upper()} - {provider_model_map.get(provider, 'unknown')}"
     
@@ -2111,9 +2113,9 @@ if __name__ == "__main__":
     parser.add_argument(
         "--provider",
         type=str,
-        choices=["openai", "claude", "gemini", "deepseek"],
+        choices=["openai", "claude", "gemini", "deepseek", "llama"],
         default=None,
-        help='LLM provider to use: "openai", "claude", "gemini", or "deepseek" (default: uses config.toml setting)'
+        help='LLM provider to use: "openai", "claude", "gemini", "deepseek", or "llama" (default: uses config.toml setting)'
     )
     parser.add_argument(
         "--skip-existing",
