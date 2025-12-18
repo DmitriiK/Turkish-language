@@ -2231,34 +2231,6 @@
       "total_examples": 182
     },
     {
-      "rank": 82,
-      "english": "build",
-      "russian": "строить",
-      "turkish": "inşa etmek",
-      "folder": "build",
-      "tenses": [
-        "emir_kipi",
-        "farzî_geçmiş_zaman",
-        "gelecek_zaman",
-        "geniş_zaman",
-        "gereklilik_kipi",
-        "geçmiş_gelecek_zaman",
-        "geçmiş_zaman",
-        "imkan_kipi",
-        "istek_kipi",
-        "sıfat_fiil",
-        "ulak_fiil",
-        "yaracağım",
-        "zaman_sıfatı",
-        "zarf_fiil",
-        "zorunluluk_kipi",
-        "şart_kipi",
-        "şartlı_kipi",
-        "şimdiki_zaman"
-      ],
-      "total_examples": 182
-    },
-    {
       "rank": 83,
       "english": "stay",
       "russian": "оставаться",
@@ -2844,6 +2816,17 @@
         "şimdiki_zaman"
       ],
       "total_examples": 182
+    },
+    {
+      "rank": 108,
+      "english": "eat",
+      "russian": "есть",
+      "turkish": "yemek",
+      "folder": "eat",
+      "tenses": [
+        "geniş_zaman"
+      ],
+      "total_examples": 1
     }
   ]
 }
