@@ -46,5 +46,5 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add data/output/verb_indexes/ data/navigation_summary.json data/verbs_index.json
-          git commit -m "chore: auto-regenerate navigation indexes [skip ci]"
+          git commit -m "chore: auto-regenerate navigation indexes"
           git push
