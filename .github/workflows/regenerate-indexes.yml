@@ -1,0 +1,49 @@
+name: Regenerate Navigation Indexes
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'data/output/training_examples_for_verbs/**/*.json'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  regenerate-indexes:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -e .
+
+      - name: Regenerate navigation indexes
+        run: |
+          python pipelines/generate_navigation_index.py
+
+      - name: Check for changes
+        id: verify
+        run: |
+          git diff --quiet data/output/verb_indexes/ data/navigation_summary.json data/verbs_index.json || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push if changed
+        if: steps.verify.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/output/verb_indexes/ data/navigation_summary.json data/verbs_index.json
+          git commit -m "chore: auto-regenerate navigation indexes [skip ci]"
+          git push
