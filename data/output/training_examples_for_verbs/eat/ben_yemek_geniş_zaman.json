@@ -1,0 +1,22 @@
+{
+  "verb_rank": 108,
+  "verb_english": "eat",
+  "verb_russian": "есть",
+  "verb_infinitive": "yemek",
+  "turkish_verb": {
+    "verb_full": "yerim",
+    "root": "ye",
+    "tense_affix": "r",
+    "verb_tense": "geniş_zaman",
+    "personal_pronoun": "ben",
+    "personal_affix": "im",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "turkish_example_sentence": "Ben her gün sağlıklı yemekler yerim.",
+  "english_example_sentence": "I eat healthy food every day.",
+  "russian_example_sentence": "Я ем здоровую пищу каждый день.",
+  "generated_by_model": "TEST-FILE-FOR-CI-CD",
+  "generated_at": "2025-12-18T10:00:00.000000+00:00",
+  "turkish_example_sentence_with_blank": "Ben her gün sağlıklı yemekler ______."
+}
