@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "oynamamalısınız",
     "root": "oyna",
-    "tense_affix": "malı",
+    "tense_affix": "mamalı",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "sınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You must not play with fire carelessly",
-  "russian_example_sentence": "Вы не должны неосторожно играть с огнем",
-  "turkish_example_sentence": "Siz tehlikeli ateşle dışarıda asla oynamamalısınız",
-  "turkish_example_sentence_with_blank": "Siz tehlikeli ateşle dışarıda asla ______"
+  "turkish_example_sentence": "Siz kuru yaprakların yakınında ateşle oynamamalısınız.",
+  "english_example_sentence": "You must not play with fire near dry leaves.",
+  "russian_example_sentence": "Вы не должны играть с огнем рядом с сухими листьями.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:45:46.092033+00:00",
+  "turkish_example_sentence_with_blank": "Siz kuru yaprakların yakınında ateşle ______."
 }

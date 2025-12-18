@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duymadığınızda",
     "root": "duy",
-    "tense_affix": "ma",
+    "tense_affix": "dık",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "siz",
-    "personal_affix": "dığınızda",
+    "personal_affix": "ınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "When you don't hear instructions, ask questions.",
-  "russian_example_sentence": "Когда вы не слышите инструкции, задавайте вопросы.",
-  "turkish_example_sentence": "Siz talimatları duymadığınızda, sorular sorun.",
-  "turkish_example_sentence_with_blank": "Siz talimatları ______, sorular sorun."
+  "turkish_example_sentence": "Siz dışarıdaki fırtınayı duymadığınızda uyuyordunuz.",
+  "english_example_sentence": "When you didn't hear the storm outside, you were sleeping.",
+  "russian_example_sentence": "Когда вы не услышали бурю снаружи, вы спали.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:15:04.285661+00:00",
+  "turkish_example_sentence_with_blank": "Siz dışarıdaki fırtınayı ______ uyuyordunuz."
 }

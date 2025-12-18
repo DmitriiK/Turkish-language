@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duymasa",
     "root": "duy",
-    "tense_affix": "masa",
+    "tense_affix": "sa",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If she doesn't hear us, she'll be frustrated.",
-  "russian_example_sentence": "Если она нас не услышит, она расстроится.",
-  "turkish_example_sentence": "Eğer bizi duymasa, sinirlenir.",
-  "turkish_example_sentence_with_blank": "Eğer bizi ______, sinirlenir."
+  "turkish_example_sentence": "O bu dedikoduları duymasa daha sakin kalırdı.",
+  "english_example_sentence": "If he/she were not to hear these rumors, he/she would remain calmer.",
+  "russian_example_sentence": "Если бы он/она не услышал/услышала эти слухи, он/она остался/осталась бы спокойнее.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:09:41.048443+00:00",
+  "turkish_example_sentence_with_blank": "O bu dedikoduları ______ daha sakin kalırdı."
 }

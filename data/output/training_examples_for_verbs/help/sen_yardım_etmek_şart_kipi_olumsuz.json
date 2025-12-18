@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmesen",
     "root": "yardım et",
-    "tense_affix": "mes",
+    "tense_affix": "mese",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "en",
+    "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Sen kardeşine yardım etmesen",
-  "english_example_sentence": "If you were not to help your brother",
-  "russian_example_sentence": "Если бы ты не помог своему брату",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:06:00.809632+00:00",
-  "turkish_example_sentence_with_blank": "Sen kardeşine ______"
+  "turkish_example_sentence": "Sen genç öğrencilere ücretsiz İngilizce kurslarında yardım etmesen",
+  "english_example_sentence": "If you were not to help young students in free English courses",
+  "russian_example_sentence": "Если бы ты не помог молодым студентам на бесплатных курсах английского языка",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:24:12.681584+00:00",
+  "turkish_example_sentence_with_blank": "Sen genç öğrencilere ücretsiz İngilizce kurslarında ______"
 }

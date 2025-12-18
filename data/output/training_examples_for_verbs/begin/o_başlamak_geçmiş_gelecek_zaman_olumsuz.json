@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "başlamayacaktı",
     "root": "başla",
-    "tense_affix": "mayacaktı",
+    "tense_affix": "yacaktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "She was not going to start singing",
-  "russian_example_sentence": "Она не собиралась начинать петь",
-  "turkish_example_sentence": "O soğuk algınlığı yüzünden şarkı söylemeye başlamayacaktı",
-  "turkish_example_sentence_with_blank": "O soğuk algınlığı yüzünden şarkı söylemeye ______"
+  "turkish_example_sentence": "O bu karmaşık tartışmaya başlamayacaktı, sessiz kalmayı tercih etti.",
+  "english_example_sentence": "He was not going to begin this complex discussion, he preferred to remain silent.",
+  "russian_example_sentence": "Он не собирался начинать эту сложную дискуссию, он предпочёл молчать.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:44:36.512379+00:00",
+  "turkish_example_sentence_with_blank": "O bu karmaşık tartışmaya ______, sessiz kalmayı tercih etti."
 }

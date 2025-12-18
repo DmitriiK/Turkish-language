@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "koşmadı",
     "root": "koş",
-    "tense_affix": "tı",
+    "tense_affix": "dı",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "She did not run late for the important meeting",
-  "russian_example_sentence": "Она не опоздала на важное совещание",
-  "turkish_example_sentence": "O önemli toplantı için geç koşmadı",
-  "turkish_example_sentence_with_blank": "O önemli toplantı için geç ______"
+  "turkish_example_sentence": "O hasta olduğu için bugün koşmadı.",
+  "english_example_sentence": "He/She didn't run today because he/she was sick.",
+  "russian_example_sentence": "Он/Она не бегал/бегала сегодня, потому что был/была болен/больна.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:58:12.853040+00:00",
+  "turkish_example_sentence_with_blank": "O hasta olduğu için bugün ______."
 }

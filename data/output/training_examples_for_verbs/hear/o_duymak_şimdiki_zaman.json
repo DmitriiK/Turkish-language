@@ -4,17 +4,19 @@
   "verb_russian": "слышать",
   "verb_infinitive": "duymak",
   "turkish_verb": {
-    "verb_full": "duyu",
+    "verb_full": "duyuyor",
     "root": "duy",
     "tense_affix": "uyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "She is hearing the joyful children singing",
-  "russian_example_sentence": "Она слышит радостно поющих детей",
-  "turkish_example_sentence": "O neşeli şarkı söyleyen çocukları duyu",
-  "turkish_example_sentence_with_blank": "O neşeli şarkı söyleyen çocukları ______"
+  "turkish_example_sentence": "O eski radyodan hafif bir melodi duyuyor.",
+  "english_example_sentence": "He is hearing a soft melody from the old radio.",
+  "russian_example_sentence": "Он слышит нежную мелодию из старого радио.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:05:42.561559+00:00",
+  "turkish_example_sentence_with_blank": "O eski radyodan hafif bir melodi ______."
 }

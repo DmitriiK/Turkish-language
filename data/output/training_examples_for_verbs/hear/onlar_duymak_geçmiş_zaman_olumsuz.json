@@ -4,17 +4,19 @@
   "verb_russian": "слышать",
   "verb_infinitive": "duymak",
   "turkish_verb": {
-    "verb_full": "duymaadılar",
+    "verb_full": "duymadılar",
     "root": "duy",
-    "tense_affix": "du",
+    "tense_affix": "dı",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "They did not hear the urgent phone call during the deep sleep",
-  "russian_example_sentence": "Они не слышали срочный телефонный звонок во время глубокого сна",
-  "turkish_example_sentence": "Onlar derin uyku sırasında acil telefon çağrısını duymaadılar",
-  "turkish_example_sentence_with_blank": "Onlar derin uyku sırasında acil telefon çağrısını ______"
+  "turkish_example_sentence": "Onlar fısıltıyla söylenen kötü haberi hiç duymadılar.",
+  "english_example_sentence": "They didn't hear the bad news whispered at all.",
+  "russian_example_sentence": "Они совсем не слышали плохих новостей, сказанных шепотом.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:06:07.326747+00:00",
+  "turkish_example_sentence_with_blank": "Onlar fısıltıyla söylenen kötü haberi hiç ______."
 }

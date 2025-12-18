@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duyacaksınız",
     "root": "duy",
-    "tense_affix": "acak",
+    "tense_affix": "yacak",
     "verb_tense": "yaracağım",
     "personal_pronoun": "siz",
     "personal_affix": "sınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You will hear the interesting podcast episode",
-  "russian_example_sentence": "Вы услышите интересный эпизод подкаста",
-  "turkish_example_sentence": "Siz ilginç podcast bölümünü duyacaksınız",
-  "turkish_example_sentence_with_blank": "Siz ilginç podcast bölümünü ______"
+  "turkish_example_sentence": "Siz bu konserde harika müzikleri net bir şekilde duyacaksınız.",
+  "english_example_sentence": "You will clearly hear wonderful music at this concert.",
+  "russian_example_sentence": "Вы ясно услышите прекрасную музыку на этом концерте.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:57:47.824110+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu konserde harika müzikleri net bir şekilde ______."
 }

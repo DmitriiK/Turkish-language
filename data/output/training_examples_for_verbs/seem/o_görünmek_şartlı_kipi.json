@@ -4,19 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünüyor",
+    "verb_full": "görünürse",
     "root": "görün",
-    "tense_affix": "üyor",
+    "tense_affix": "ürse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "O büyük evinde çok rahat görünüyor",
-  "english_example_sentence": "He seems very comfortable in his big house",
-  "russian_example_sentence": "Он кажется очень комфортным в своём большом доме",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T14:59:26.904994+00:00",
-  "turkish_example_sentence_with_blank": "O büyük evinde çok rahat ______"
+  "turkish_example_sentence": "O yeni mavi elbisesiyle çok şık görünürse herkes alkışlar",
+  "english_example_sentence": "If she seems very elegant in her new blue dress, everyone will applaud",
+  "russian_example_sentence": "Если она покажется очень элегантной в своем новом синем платье, все будут аплодировать",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:00:30.449762+00:00",
+  "turkish_example_sentence_with_blank": "O yeni mavi elbisesiyle çok şık ______ herkes alkışlar"
 }

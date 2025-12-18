@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duyacaktık",
     "root": "duy",
-    "tense_affix": "acak",
+    "tense_affix": "acaktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "tık",
+    "personal_affix": "k",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We were going to hear the waves.",
-  "russian_example_sentence": "Мы собирались услышать волны.",
-  "turkish_example_sentence": "Biz sahildeki okyanus dalgalarını duyacaktık.",
-  "turkish_example_sentence_with_blank": "Biz sahildeki okyanus dalgalarını ______."
+  "turkish_example_sentence": "Biz güzel kuş seslerini ormanda duyacaktık.",
+  "english_example_sentence": "We were going to hear the beautiful bird sounds in the forest.",
+  "russian_example_sentence": "Мы собирались услышать красивые звуки птиц в лесу.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:12:37.846447+00:00",
+  "turkish_example_sentence_with_blank": "Biz güzel kuş seslerini ormanda ______."
 }

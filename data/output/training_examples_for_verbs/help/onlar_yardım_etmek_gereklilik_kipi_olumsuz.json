@@ -4,7 +4,7 @@
   "verb_russian": "помогать",
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
-    "verb_full": "yardım etmeleri lazım değil",
+    "verb_full": "yardım etmemeleri lazım",
     "root": "yardım et",
     "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
@@ -13,10 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Onlar bize yardım etmeleri lazım değil",
-  "english_example_sentence": "They don't need to help us",
-  "russian_example_sentence": "Им не нужно помогать нам",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:06:23.181506+00:00",
-  "turkish_example_sentence_with_blank": "Onlar bize ______"
+  "turkish_example_sentence": "Onlar tehlikeli suçlulara hapisten kaçmada yardım etmemeleri lazım",
+  "english_example_sentence": "They need not to help dangerous criminals with escaping from prison",
+  "russian_example_sentence": "Им не нужно помогать опасным преступникам с побегом из тюрьмы",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:24:53.131894+00:00",
+  "turkish_example_sentence_with_blank": "Onlar tehlikeli suçlulara hapisten kaçmada ______"
 }

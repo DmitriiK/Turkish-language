@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "başlamamışsa",
     "root": "başla",
-    "tense_affix": "mamışsa",
+    "tense_affix": "mışsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If she hadn't started the fire...",
-  "russian_example_sentence": "Если бы она не начала пожар...",
-  "turkish_example_sentence": "O büyük yangına başlamamışsa, bu kadar zarar olmayacaktı.",
-  "turkish_example_sentence_with_blank": "O büyük yangına ______, bu kadar zarar olmayacaktı."
+  "turkish_example_sentence": "O piyano çalmaya başlamamışsa, bu kadar iyi olmazdı.",
+  "english_example_sentence": "If he/she had not begun to practice playing the piano, he/she would not be so good.",
+  "russian_example_sentence": "Если бы он/она не начал(а) играть на пианино, он/она не был(а) бы таким/такой хорошим/хорошей.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:46:12.940710+00:00",
+  "turkish_example_sentence_with_blank": "O piyano çalmaya ______, bu kadar iyi olmazdı."
 }

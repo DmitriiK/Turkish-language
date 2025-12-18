@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duyacaklar",
     "root": "duy",
-    "tense_affix": "acak",
+    "tense_affix": "yacak",
     "verb_tense": "yaracağım",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They will hear the joyful laughter from the garden",
-  "russian_example_sentence": "Они услышат радостный смех из сада",
-  "turkish_example_sentence": "Onlar bahçeden gelen sevinçli kahkahayı duyacaklar",
-  "turkish_example_sentence_with_blank": "Onlar bahçeden gelen sevinçli kahkahayı ______"
+  "turkish_example_sentence": "Onlar bu heyecan verici haberi ilk bizden duyacaklar.",
+  "english_example_sentence": "They will hear this exciting news from us first.",
+  "russian_example_sentence": "Они услышат эту захватывающую новость от нас первыми.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:57:47.824110+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu heyecan verici haberi ilk bizden ______."
 }

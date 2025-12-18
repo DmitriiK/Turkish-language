@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duyasınız",
     "root": "duy",
-    "tense_affix": "a",
+    "tense_affix": "ya",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "sınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "May you hear the inspiring speech",
-  "russian_example_sentence": "Пусть вы услышите вдохновляющую речь",
-  "turkish_example_sentence": "İlham verici konuşmayı duyasınız",
-  "turkish_example_sentence_with_blank": "İlham verici konuşmayı ______"
+  "turkish_example_sentence": "Siz güzel haberleri her zaman duyasınız.",
+  "english_example_sentence": "May you always hear good news.",
+  "russian_example_sentence": "Пусть вы всегда слышите хорошие новости.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:08:58.147221+00:00",
+  "turkish_example_sentence_with_blank": "Siz güzel haberleri her zaman ______."
 }

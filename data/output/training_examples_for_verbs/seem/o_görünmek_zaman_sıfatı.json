@@ -4,19 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünüyor",
+    "verb_full": "göründüğünde",
     "root": "görün",
-    "tense_affix": "üyor",
+    "tense_affix": "dük",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "ü",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "O çok mutlu ve başarılı görünüyor",
-  "english_example_sentence": "He/She seems very happy and successful",
-  "russian_example_sentence": "Он/Она кажется очень счастливым и успешным",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:00:07.672682+00:00",
-  "turkish_example_sentence_with_blank": "O çok mutlu ve başarılı ______"
+  "turkish_example_sentence": "O üzgün göründüğünde kız kardeşi güzel şarkılar söylüyor",
+  "english_example_sentence": "When he seems sad his sister sings beautiful songs",
+  "russian_example_sentence": "Когда он кажется грустным его сестра поет красивые песни",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:02:28.212337+00:00",
+  "turkish_example_sentence_with_blank": "O üzgün ______ kız kardeşi güzel şarkılar söylüyor"
 }

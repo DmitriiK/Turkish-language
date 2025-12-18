@@ -4,7 +4,7 @@
   "verb_russian": "помогать",
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
-    "verb_full": "yardım etmemeli",
+    "verb_full": "yardım etmemeliler",
     "root": "yardım et",
     "tense_affix": "memeli",
     "verb_tense": "zorunluluk_kipi",
@@ -13,10 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Onlar kimseye yardım etmemeli",
-  "english_example_sentence": "They must not help anyone",
-  "russian_example_sentence": "Они не должны никому помогать",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:06:44.096565+00:00",
-  "turkish_example_sentence_with_blank": "Onlar kimseye ______"
+  "turkish_example_sentence": "Onlar kaçak göçmenlere sahte pasaport ve vize temin etmede yardım etmemeliler",
+  "english_example_sentence": "They must not help illegal immigrants with obtaining fake passports and visas",
+  "russian_example_sentence": "Они не должны помогать нелегальным иммигрантам с получением поддельных паспортов и виз",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:26:17.314392+00:00",
+  "turkish_example_sentence_with_blank": "Onlar kaçak göçmenlere sahte pasaport ve vize temin etmede ______"
 }

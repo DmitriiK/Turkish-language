@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "başlarlarsa",
     "root": "başla",
-    "tense_affix": "arsa",
+    "tense_affix": "rsa",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Onlar bugün yeni bilimsel araştırmaya başlarlarsa önemli sonuçlar bulurlar",
-  "english_example_sentence": "If they begin the new scientific research today, they find important results",
-  "russian_example_sentence": "Если они начнут новое научное исследование сегодня, они найдут важные результаты",
-  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-16T10:44:32.714570+00:00",
-  "turkish_example_sentence_with_blank": "Onlar bugün yeni bilimsel araştırmaya ______ önemli sonuçlar bulurlar"
+  "turkish_example_sentence": "Onlar erkenden yeni bir oyuna başlarlarsa, onu çabucak bitirirler.",
+  "english_example_sentence": "If they begin a new game early, they will finish it quickly.",
+  "russian_example_sentence": "Если они начнут новую игру рано, они быстро ее закончат.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:45:40.651099+00:00",
+  "turkish_example_sentence_with_blank": "Onlar erkenden yeni bir oyuna ______, onu çabucak bitirirler."
 }

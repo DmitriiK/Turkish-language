@@ -4,19 +4,19 @@
   "verb_russian": "начинать",
   "verb_infinitive": "başlamak",
   "turkish_verb": {
-    "verb_full": "başlasınız",
+    "verb_full": "başlayasınız",
     "root": "başla",
-    "tense_affix": "sınız",
+    "tense_affix": "ya",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "sınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Siz sağlıklı beslenme alışkanlığına mutlaka yarından başlasınız",
-  "english_example_sentence": "May you begin the healthy eating habit definitely from tomorrow",
-  "russian_example_sentence": "Пусть вы начнете привычку здорового питания обязательно с завтрашнего дня",
-  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-16T10:40:58.559319+00:00",
-  "turkish_example_sentence_with_blank": "Siz sağlıklı beslenme alışkanlığına mutlaka yarından ______"
+  "turkish_example_sentence": "Siz yeni projenize başarıyla başlayasınız.",
+  "english_example_sentence": "May you begin your new project successfully.",
+  "russian_example_sentence": "Пусть вы успешно начнете свой новый проект.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:40:56.986604+00:00",
+  "turkish_example_sentence_with_blank": "Siz yeni projenize başarıyla ______."
 }

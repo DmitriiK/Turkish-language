@@ -4,7 +4,7 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmemeliyim",
+    "verb_full": "görünmememeliyim",
     "root": "görün",
     "tense_affix": "memeli",
     "verb_tense": "zorunluluk_kipi",
@@ -13,10 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Ben bu kötü havada hasta görünmemeliyim",
-  "english_example_sentence": "I must not look sick in this bad weather",
-  "russian_example_sentence": "Я не должен выглядеть больным в такую плохую погоду",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T14:59:05.164192+00:00",
-  "turkish_example_sentence_with_blank": "Ben bu kötü havada hasta ______"
+  "turkish_example_sentence": "Ben bu zor durumda zayıf görünmememeliyim",
+  "english_example_sentence": "I must not seem weak in this difficult situation",
+  "russian_example_sentence": "Я не должен казаться слабым в этой трудной ситуации",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T09:59:09.342625+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu zor durumda zayıf ______"
 }

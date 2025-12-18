@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "başlamıyor",
     "root": "başla",
-    "tense_affix": "ıyor",
+    "tense_affix": "yor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "negative",
-    "negative_affix": "m"
+    "negative_affix": "mı"
   },
-  "turkish_example_sentence": "O bugün hastanede önemli ameliyata başlamıyor",
-  "english_example_sentence": "She is not beginning the important surgery at hospital today",
-  "russian_example_sentence": "Она не начинает важную операцию в больнице сегодня",
-  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-16T10:45:29.835268+00:00",
-  "turkish_example_sentence_with_blank": "O bugün hastanede önemli ameliyata ______"
+  "turkish_example_sentence": "O bu soğuk havada dışarı çıkmaya başlamıyor.",
+  "english_example_sentence": "He/She is not starting to go out in this cold weather.",
+  "russian_example_sentence": "Он/Она не начинает выходить на улицу в такую холодную погоду.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:38:23.901052+00:00",
+  "turkish_example_sentence_with_blank": "O bu soğuk havada dışarı çıkmaya ______."
 }

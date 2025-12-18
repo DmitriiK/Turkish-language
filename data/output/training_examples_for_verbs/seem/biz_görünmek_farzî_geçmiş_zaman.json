@@ -4,19 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünüyoruz",
+    "verb_full": "görünmüşsek",
     "root": "görün",
-    "tense_affix": "üyor",
+    "tense_affix": "müşse",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "uz",
+    "personal_affix": "k",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Biz yeni projede başarılı görünüyoruz",
-  "english_example_sentence": "We seem successful in the new project",
-  "russian_example_sentence": "Мы кажемся успешными в новом проекте",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T14:59:38.155169+00:00",
-  "turkish_example_sentence_with_blank": "Biz yeni projede başarılı ______"
+  "turkish_example_sentence": "Biz dünkü spor maçında heyecanlı görünmüşsek takımımız kazanıyordu",
+  "english_example_sentence": "If we seemed excited at yesterday's sports match, our team was winning",
+  "russian_example_sentence": "Если мы казались взволнованными на вчерашнем спортивном матче, наша команда выигрывала",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:01:11.835487+00:00",
+  "turkish_example_sentence_with_blank": "Biz dünkü spor maçında heyecanlı ______ takımımız kazanıyordu"
 }

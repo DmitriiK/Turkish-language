@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duymamışsa",
     "root": "duy",
-    "tense_affix": "mamışsa",
+    "tense_affix": "mışsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If she hadn't heard the gossip",
-  "russian_example_sentence": "Если бы она не услышала сплетни",
-  "turkish_example_sentence": "O gizlice dedikoduları duymamışsa, hiçbir şey bilmiyordur.",
-  "turkish_example_sentence_with_blank": "O gizlice dedikoduları ______, hiçbir şey bilmiyordur."
+  "turkish_example_sentence": "O yardım çağrısını duymamışsa, çok meşgul olmalıydı.",
+  "english_example_sentence": "If he/she hadn't heard the call for help, he/she must have been very busy.",
+  "russian_example_sentence": "Если бы он/она не услышал призыв о помощи, он/она, должно быть, был очень занят.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:13:48.518626+00:00",
+  "turkish_example_sentence_with_blank": "O yardım çağrısını ______, çok meşgul olmalıydı."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "başladığında",
     "root": "başla",
-    "tense_affix": "dık",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "o",
-    "personal_affix": "ı",
+    "personal_affix": "ı nda",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When he begins cooking, it smells great",
-  "russian_example_sentence": "Когда он начинает готовить, это пахнет великолепно",
-  "turkish_example_sentence": "O yemek pişirmeye başladığında, harika kokuyor",
-  "turkish_example_sentence_with_blank": "O yemek pişirmeye ______, harika kokuyor"
+  "turkish_example_sentence": "O kalın kitabı okumaya başladığında, içinde kaybolur.",
+  "english_example_sentence": "When he/she begins to read that thick book, he/she gets lost in it.",
+  "russian_example_sentence": "Когда он/она начинает читать ту толстую книгу, он/она теряется в ней.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:47:23.278752+00:00",
+  "turkish_example_sentence_with_blank": "O kalın kitabı okumaya ______, içinde kaybolur."
 }

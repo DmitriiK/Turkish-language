@@ -4,17 +4,19 @@
   "verb_russian": "слышать",
   "verb_infinitive": "duymak",
   "turkish_verb": {
-    "verb_full": "duymanız lazım",
+    "verb_full": "duyman lazım",
     "root": "duy",
-    "tense_affix": "ma",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "man",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to hear the beautiful classical music",
-  "russian_example_sentence": "Ты должен услышать красивую классическую музыку",
-  "turkish_example_sentence": "Sen harika klasik müziği duymanız lazım",
-  "turkish_example_sentence_with_blank": "Sen harika klasik müziği ______"
+  "turkish_example_sentence": "Senin aile hikayelerini dikkatle duyman lazım.",
+  "english_example_sentence": "You need to hear the family stories carefully.",
+  "russian_example_sentence": "Тебе нужно внимательно слушать семейные истории.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:10:41.956352+00:00",
+  "turkish_example_sentence_with_blank": "Senin aile hikayelerini dikkatle ______."
 }

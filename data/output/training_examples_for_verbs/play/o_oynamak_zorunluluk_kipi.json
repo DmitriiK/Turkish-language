@@ -4,7 +4,7 @@
   "verb_russian": "играть",
   "verb_infinitive": "oynamak",
   "turkish_verb": {
-    "verb_full": "oynaymalı",
+    "verb_full": "oynamalı",
     "root": "oyna",
     "tense_affix": "malı",
     "verb_tense": "zorunluluk_kipi",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He must play in the important match",
-  "russian_example_sentence": "Он должен играть в важном матче",
-  "turkish_example_sentence": "O çocuk yetenekli bir futbolcu olarak final maçında oynaymalı",
-  "turkish_example_sentence_with_blank": "O çocuk yetenekli bir futbolcu olarak final maçında ______"
+  "turkish_example_sentence": "O takımda önemli bir rol oynamalı.",
+  "english_example_sentence": "He must play an important role in the team.",
+  "russian_example_sentence": "Он должен играть важную роль в команде.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:45:46.092033+00:00",
+  "turkish_example_sentence_with_blank": "O takımda önemli bir rol ______."
 }

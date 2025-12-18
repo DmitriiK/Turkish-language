@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duymayasınız",
     "root": "duy",
-    "tense_affix": "a",
+    "tense_affix": "ya",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "sınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "May you not hear the hostile arguments",
-  "russian_example_sentence": "Пусть вы не услышите враждебные споры",
-  "turkish_example_sentence": "Düşmanca tartışmaları duymayasınız",
-  "turkish_example_sentence_with_blank": "Düşmanca tartışmaları ______"
+  "turkish_example_sentence": "Siz bu rahatsız edici sesi bir daha duymayasınız.",
+  "english_example_sentence": "May you not hear this disturbing sound again.",
+  "russian_example_sentence": "Пусть вы больше не услышите этот тревожный звук.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:08:58.147221+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu rahatsız edici sesi bir daha ______."
 }

@@ -13,10 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Siz bize küçük, eski bir restoran göstermeseniz",
-  "english_example_sentence": "If you couldn't show us a small, old restaurant",
-  "russian_example_sentence": "Если бы вы не могли показать нам маленький, старый ресторан",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:13:07.838794+00:00",
-  "turkish_example_sentence_with_blank": "Siz bize küçük, eski bir restoran ______"
+  "turkish_example_sentence": "Siz uçak biletini havaalanı personeline göstermeseniz uçağa binemezsiniz",
+  "english_example_sentence": "If you don't show the airplane ticket to the airport staff, you cannot board the plane",
+  "russian_example_sentence": "Если вы не покажете авиабилет персоналу аэропорта, вы не сможете сесть в самолёт",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:41:30.705915+00:00",
+  "turkish_example_sentence_with_blank": "Siz uçak biletini havaalanı personeline ______ uçağa binemezsiniz"
 }

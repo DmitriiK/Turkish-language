@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duyasın",
     "root": "duy",
-    "tense_affix": "a",
+    "tense_affix": "ya",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "sın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "May you hear the sweet melody",
-  "russian_example_sentence": "Пусть ты услышишь сладкую мелодию",
-  "turkish_example_sentence": "Tatlı melodiyi duyasın",
-  "turkish_example_sentence_with_blank": "Tatlı melodiyi ______"
+  "turkish_example_sentence": "Sen yeni komşunun hikayesini dikkatle duyasın.",
+  "english_example_sentence": "May you hear the new neighbor's story carefully.",
+  "russian_example_sentence": "Пусть ты внимательно услышишь историю нового соседа.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:08:58.147221+00:00",
+  "turkish_example_sentence_with_blank": "Sen yeni komşunun hikayesini dikkatle ______."
 }

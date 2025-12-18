@@ -4,19 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmüyor",
+    "verb_full": "görünmezse",
     "root": "görün",
-    "tense_affix": "üyor",
+    "tense_affix": "mezse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "m"
+    "negative_affix": "mez"
   },
-  "turkish_example_sentence": "O hasta olduğundan zayıf görünmüyor",
-  "english_example_sentence": "He doesn't seem healthy because he's sick",
-  "russian_example_sentence": "Он не кажется здоровым, потому что болен",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T14:59:26.904994+00:00",
-  "turkish_example_sentence_with_blank": "O hasta olduğundan zayıf ______"
+  "turkish_example_sentence": "O küçük çocuk okulda neşeli görünmezse öğretmen ailesiyle konuşur",
+  "english_example_sentence": "If that little child doesn't seem cheerful at school, the teacher will talk to his family",
+  "russian_example_sentence": "Если тот маленький ребенок не покажется веселым в школе, учитель поговорит с его семьей",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:00:30.449762+00:00",
+  "turkish_example_sentence_with_blank": "O küçük çocuk okulda neşeli ______ öğretmen ailesiyle konuşur"
 }

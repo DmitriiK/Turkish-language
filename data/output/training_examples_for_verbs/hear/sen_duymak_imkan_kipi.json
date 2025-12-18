@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duyabilirsin",
     "root": "duy",
-    "tense_affix": "abil",
+    "tense_affix": "yabil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "irsin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can hear the loud thunder during the storm",
-  "russian_example_sentence": "Ты можешь слышать громкий гром во время грозы",
-  "turkish_example_sentence": "Sen fırtına sırasında şiddetli gök gürültüsünü duyabilirsin",
-  "turkish_example_sentence_with_blank": "Sen fırtına sırasında şiddetli gök gürültüsünü ______"
+  "turkish_example_sentence": "Sen gizli fısıltıları bile dikkatlice duyabilirsin.",
+  "english_example_sentence": "You can even carefully hear secret whispers.",
+  "russian_example_sentence": "Ты даже можешь внимательно слышать тайный шёпот.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:11:23.229325+00:00",
+  "turkish_example_sentence_with_blank": "Sen gizli fısıltıları bile dikkatlice ______."
 }

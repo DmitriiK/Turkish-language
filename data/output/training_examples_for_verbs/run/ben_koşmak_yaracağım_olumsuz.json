@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "koşmayacağım",
     "root": "koş",
-    "tense_affix": "acağ",
+    "tense_affix": "yacağ",
     "verb_tense": "yaracağım",
     "personal_pronoun": "ben",
     "personal_affix": "ım",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I will not run in the rain today",
-  "russian_example_sentence": "Я не буду бегать под дождём сегодня",
-  "turkish_example_sentence": "Ben bugün soğuk yağmurda koşmayacağım",
-  "turkish_example_sentence_with_blank": "Ben bugün soğuk yağmurda ______"
+  "turkish_example_sentence": "Ben bu kötü havada dışarıda asla koşmayacağım.",
+  "english_example_sentence": "I will never run outside in this bad weather.",
+  "russian_example_sentence": "Я никогда не буду бегать на улице в такую плохую погоду.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:59:59.748143+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu kötü havada dışarıda asla ______."
 }

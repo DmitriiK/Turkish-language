@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duyabilir",
     "root": "duy",
-    "tense_affix": "abil",
+    "tense_affix": "yabil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
     "personal_affix": "ir",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He can hear the distant ocean waves crashing",
-  "russian_example_sentence": "Он может слышать далекие волны океана, разбивающиеся о берег",
-  "turkish_example_sentence": "O uzak okyanusun dalgalarının çarpmasını duyabilir",
-  "turkish_example_sentence_with_blank": "O uzak okyanusun dalgalarının çarpmasını ______"
+  "turkish_example_sentence": "O, ince bir sesi bile hemen duyabilir.",
+  "english_example_sentence": "He/She can hear even a faint sound immediately.",
+  "russian_example_sentence": "Он/Она может сразу услышать даже тонкий звук.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:11:23.229325+00:00",
+  "turkish_example_sentence_with_blank": "O, ince bir sesi bile hemen ______."
 }

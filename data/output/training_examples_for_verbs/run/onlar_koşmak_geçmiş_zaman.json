@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "koştular",
     "root": "koş",
-    "tense_affix": "tı",
+    "tense_affix": "tu",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They ran happily towards the tall colorful festival tent",
-  "russian_example_sentence": "Они счастливо бежали к высокому красочному палатке фестиваля",
-  "turkish_example_sentence": "Onlar mutlu şekilde renkli yüksek festival çadırına koştular",
-  "turkish_example_sentence_with_blank": "Onlar mutlu şekilde renkli yüksek festival çadırına ______"
+  "turkish_example_sentence": "Onlar köyde çocuklarla neşeyle koştular.",
+  "english_example_sentence": "They ran joyfully with the children in the village.",
+  "russian_example_sentence": "Они весело бегали с детьми в деревне.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:58:12.853040+00:00",
+  "turkish_example_sentence_with_blank": "Onlar köyde çocuklarla neşeyle ______."
 }

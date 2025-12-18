@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duymamışlarsa",
     "root": "duy",
-    "tense_affix": "mamışlarsa",
+    "tense_affix": "mışsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If they hadn't heard the signal",
-  "russian_example_sentence": "Если бы они не услышали сигнал",
-  "turkish_example_sentence": "Onlar gizli sinyali duymamışlarsa, plan başarısız olurdu.",
-  "turkish_example_sentence_with_blank": "Onlar gizli sinyali ______, plan başarısız olurdu."
+  "turkish_example_sentence": "Onlar müdürün açıklamasını duymamışlarsa, toplantıya gelmezlerdi.",
+  "english_example_sentence": "If they hadn't heard the director's announcement, they wouldn't have come to the meeting.",
+  "russian_example_sentence": "Если бы они не услышали объявление директора, они бы не пришли на собрание.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:13:48.518626+00:00",
+  "turkish_example_sentence_with_blank": "Onlar müdürün açıklamasını ______, toplantıya gelmezlerdi."
 }

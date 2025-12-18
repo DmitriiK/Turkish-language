@@ -4,7 +4,7 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görmesin",
+    "verb_full": "görünmesin",
     "root": "görün",
     "tense_affix": "",
     "verb_tense": "emir_kipi",
@@ -13,10 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "O kötü görmesin",
-  "english_example_sentence": "Let him/her not seem bad",
-  "russian_example_sentence": "Пусть он/сhe не кажется плохим",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T14:56:14.904821+00:00",
-  "turkish_example_sentence_with_blank": "O kötü ______"
+  "turkish_example_sentence": "O yeni çalışan işyerinde üzgün görünmesin",
+  "english_example_sentence": "Let that new employee not seem sad at the workplace",
+  "russian_example_sentence": "Пусть тот новый сотрудник не кажется грустным на рабочем месте",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T09:56:16.122244+00:00",
+  "turkish_example_sentence_with_blank": "O yeni çalışan işyerinde üzgün ______"
 }

@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If you had not played a single card, you wouldn't have lost everything.",
-  "russian_example_sentence": "Если бы ты не сыграл ни одной карты, ты бы не проиграл всё.",
-  "turkish_example_sentence": "Sen o riskli kart oyununda hiç oynamamışsan, bütün paranı kaybetmezdin.",
-  "turkish_example_sentence_with_blank": "Sen o riskli kart oyununda hiç ______, bütün paranı kaybetmezdin."
+  "turkish_example_sentence": "Sen, maçta bu kadar kötü oynamamışsan, takımımız yenilmezdi.",
+  "english_example_sentence": "If you hadn't played so badly in the match, our team wouldn't have lost.",
+  "russian_example_sentence": "Если бы ты не играл так плохо в матче, наша команда бы не проиграла.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:54:13.984992+00:00",
+  "turkish_example_sentence_with_blank": "Sen, maçta bu kadar kötü ______, takımımız yenilmezdi."
 }

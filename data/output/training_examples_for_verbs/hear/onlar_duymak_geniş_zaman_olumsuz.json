@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duymazlar",
     "root": "duy",
-    "tense_affix": "ar",
+    "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "maz"
   },
-  "english_example_sentence": "They don't hear the important message about the urgent meeting",
-  "russian_example_sentence": "Они не слышат важное сообщение об срочном совещании",
-  "turkish_example_sentence": "Onlar acil toplantı hakkındaki önemli mesajı duymazlar",
-  "turkish_example_sentence_with_blank": "Onlar acil toplantı hakkındaki önemli mesajı ______"
+  "turkish_example_sentence": "Onlar karanlıkta gelen tehlikeli hayvan seslerini kolayca duymazlar.",
+  "english_example_sentence": "They don't easily hear the dangerous animal sounds coming in the dark.",
+  "russian_example_sentence": "Они нелегко слышат опасные звуки животных, доносящиеся в темноте.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:08:26.181215+00:00",
+  "turkish_example_sentence_with_blank": "Onlar karanlıkta gelen tehlikeli hayvan seslerini kolayca ______."
 }

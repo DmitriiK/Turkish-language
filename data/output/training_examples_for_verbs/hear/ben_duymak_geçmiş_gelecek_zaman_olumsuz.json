@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duymayacaktım",
     "root": "duy",
-    "tense_affix": "acak",
+    "tense_affix": "yacaktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "tım",
+    "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I wasn't going to hear the news.",
-  "russian_example_sentence": "Я не собирался слышать новости.",
-  "turkish_example_sentence": "Ben o kötü haberi duymayacaktım.",
-  "turkish_example_sentence_with_blank": "Ben o kötü haberi ______."
+  "turkish_example_sentence": "Ben bu garip hikayeyi asla duymayacaktım.",
+  "english_example_sentence": "I was never going to hear this strange story.",
+  "russian_example_sentence": "Я никогда не собирался слышать эту странную историю.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:12:37.846447+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu garip hikayeyi asla ______."
 }

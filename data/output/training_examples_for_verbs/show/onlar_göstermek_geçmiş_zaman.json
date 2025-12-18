@@ -4,19 +4,19 @@
   "verb_russian": "показывать",
   "verb_infinitive": "göstermek",
   "turkish_verb": {
-    "verb_full": "göstürdüler",
+    "verb_full": "gösterdiler",
     "root": "göster",
-    "tense_affix": "dü",
+    "tense_affix": "di",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Onlar dün eski kasabayı turistlere göstürdüler",
-  "english_example_sentence": "They showed the old town to the tourists yesterday",
-  "russian_example_sentence": "Они показали старый город туристам вчера",
-  "generated_by_model": "LLAMA - meta.llama4-scout-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T11:31:06.398300+00:00",
-  "turkish_example_sentence_with_blank": "Onlar dün eski kasabayı turistlere ______"
+  "turkish_example_sentence": "Onlar parkta büyük yeşil ağacı gösterdiler",
+  "english_example_sentence": "They showed the big green tree in the park",
+  "russian_example_sentence": "Они показали большое зелёное дерево в парке",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:37:57.504737+00:00",
+  "turkish_example_sentence_with_blank": "Onlar parkta büyük yeşil ağacı ______"
 }

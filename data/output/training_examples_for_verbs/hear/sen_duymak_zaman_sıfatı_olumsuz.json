@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duymadığında",
     "root": "duy",
-    "tense_affix": "ma",
+    "tense_affix": "dık",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "sen",
-    "personal_affix": "dığında",
+    "personal_affix": "ın",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "When you don't hear your alarm, you're late.",
-  "russian_example_sentence": "Когда ты не слышишь будильник, ты опаздываешь.",
-  "turkish_example_sentence": "Sen alarmı duymadığında, geç kalırsın.",
-  "turkish_example_sentence_with_blank": "Sen alarmı ______, geç kalırsın."
+  "turkish_example_sentence": "Sen önemli uyarıyı duymadığında hata yaptın.",
+  "english_example_sentence": "When you didn't hear the important warning, you made a mistake.",
+  "russian_example_sentence": "Когда ты не услышал важное предупреждение, ты совершил ошибку.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:15:04.285661+00:00",
+  "turkish_example_sentence_with_blank": "Sen önemli uyarıyı ______ hata yaptın."
 }

@@ -4,19 +4,19 @@
   "verb_russian": "начинать",
   "verb_infinitive": "başlamak",
   "turkish_verb": {
-    "verb_full": "başlasın",
+    "verb_full": "başlayasın",
     "root": "başla",
-    "tense_affix": "sın",
+    "tense_affix": "ya",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "sın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Sen güzel piyano derslerine hemen yarın başlasın",
-  "english_example_sentence": "May you begin the beautiful piano lessons right tomorrow",
-  "russian_example_sentence": "Пусть ты начнешь красивые уроки фортепиано прямо завтра",
-  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-16T10:40:58.559319+00:00",
-  "turkish_example_sentence_with_blank": "Sen güzel piyano derslerine hemen yarın ______"
+  "turkish_example_sentence": "Sen yeni akademik yıl derslerine dikkatle başlayasın.",
+  "english_example_sentence": "May you begin your new academic year courses carefully.",
+  "russian_example_sentence": "Пусть ты начнешь свои новые учебные курсы внимательно.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:40:56.986604+00:00",
+  "turkish_example_sentence_with_blank": "Sen yeni akademik yıl derslerine dikkatle ______."
 }

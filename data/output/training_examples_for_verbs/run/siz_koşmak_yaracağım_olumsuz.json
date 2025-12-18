@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "koşmayacaksınız",
     "root": "koş",
-    "tense_affix": "acak",
+    "tense_affix": "yacağ",
     "verb_tense": "yaracağım",
     "personal_pronoun": "siz",
     "personal_affix": "sınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You will not run on the slippery ice",
-  "russian_example_sentence": "Вы не будете бегать по скользкому льду",
-  "turkish_example_sentence": "Siz kaygan buzda koşmayacaksınız",
-  "turkish_example_sentence_with_blank": "Siz kaygan buzda ______"
+  "turkish_example_sentence": "Siz bu tehlikeli yolda güvenlik önlemleri olmadan koşmayacaksınız.",
+  "english_example_sentence": "You will not run on this dangerous road without safety precautions.",
+  "russian_example_sentence": "Вы не будете бегать по этой опасной дороге без мер безопасности.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:59:59.748143+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu tehlikeli yolda güvenlik önlemleri olmadan ______."
 }

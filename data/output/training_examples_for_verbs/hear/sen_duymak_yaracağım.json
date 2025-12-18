@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duyacaksın",
     "root": "duy",
-    "tense_affix": "acak",
+    "tense_affix": "yacak",
     "verb_tense": "yaracağım",
     "personal_pronoun": "sen",
     "personal_affix": "sın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You will hear the exciting news soon",
-  "russian_example_sentence": "Ты услышишь захватывающие новости скоро",
-  "turkish_example_sentence": "Sen yakında heyecan verici haberi duyacaksın",
-  "turkish_example_sentence_with_blank": "Sen yakında heyecan verici haberi ______"
+  "turkish_example_sentence": "Sen bu önemli toplantıdaki her şeyi dikkatle duyacaksın.",
+  "english_example_sentence": "You will carefully hear everything in this important meeting.",
+  "russian_example_sentence": "Ты внимательно выслушаешь все на этом важном совещании.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:57:47.824110+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu önemli toplantıdaki her şeyi dikkatle ______."
 }

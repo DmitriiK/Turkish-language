@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duyacağım",
     "root": "duy",
-    "tense_affix": "acak",
+    "tense_affix": "yacağ",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "ım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I will hear the beautiful music tomorrow",
-  "russian_example_sentence": "Я услышу красивую музыку завтра",
-  "turkish_example_sentence": "Ben yarın güzel müziği duyacağım",
-  "turkish_example_sentence_with_blank": "Ben yarın güzel müziği ______"
+  "turkish_example_sentence": "Ben bu sabah kuşların güzel sesini duyacağım.",
+  "english_example_sentence": "I will hear the beautiful sound of birds this morning.",
+  "russian_example_sentence": "Я услышу прекрасный звук птиц этим утром.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:07:42.572334+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu sabah kuşların güzel sesini ______."
 }

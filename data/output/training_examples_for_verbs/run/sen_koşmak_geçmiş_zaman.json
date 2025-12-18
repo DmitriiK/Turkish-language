@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "koştun",
     "root": "koş",
-    "tense_affix": "tı",
+    "tense_affix": "tu",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You ran bravely across the beautiful park pathway",
-  "russian_example_sentence": "Ты смело бежал по красивой дорожке парка",
-  "turkish_example_sentence": "Sen güzel park yolunda cesurca koştun",
-  "turkish_example_sentence_with_blank": "Sen güzel park yolunda cesurca ______"
+  "turkish_example_sentence": "Sen geçen hafta ormanda koştun.",
+  "english_example_sentence": "You ran in the forest last week.",
+  "russian_example_sentence": "Ты бегал в лесу на прошлой неделе.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:58:12.853040+00:00",
+  "turkish_example_sentence_with_blank": "Sen geçen hafta ormanda ______."
 }

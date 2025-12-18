@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "koşmaz",
     "root": "koş",
-    "tense_affix": "ar",
+    "tense_affix": "z",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "She does not run after eating lunch",
-  "russian_example_sentence": "Она не бегает после обеда",
-  "turkish_example_sentence": "O öğle yemeğinden sonra ağır koşmaz",
-  "turkish_example_sentence_with_blank": "O öğle yemeğinden sonra ağır ______"
+  "turkish_example_sentence": "O asla karanlık ormanda koşmaz.",
+  "english_example_sentence": "He/She never runs in the dark forest.",
+  "russian_example_sentence": "Он/Она никогда не бегает в темном лесу.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T15:00:44.755657+00:00",
+  "turkish_example_sentence_with_blank": "O asla karanlık ormanda ______."
 }

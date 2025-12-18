@@ -4,17 +4,19 @@
   "verb_russian": "играть",
   "verb_infinitive": "oynamak",
   "turkish_verb": {
-    "verb_full": "oynıyorsunuz",
+    "verb_full": "oynuyorsunuz",
     "root": "oyn",
-    "tense_affix": "ıyor",
+    "tense_affix": "uyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "sunuz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You are playing the classic violin piece beautifully",
-  "russian_example_sentence": "Вы красиво играете классическую скрипичную пьесу",
-  "turkish_example_sentence": "Siz klasik keman parçasını güzelce oynıyorsunuz",
-  "turkish_example_sentence_with_blank": "Siz klasik keman parçasını güzelce ______"
+  "turkish_example_sentence": "Siz bu akşam arkadaşlarınızla kart oyunları oynuyorsunuz.",
+  "english_example_sentence": "You are playing card games with your friends this evening.",
+  "russian_example_sentence": "Вы играете в карточные игры с друзьями этим вечером.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:38:37.763149+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu akşam arkadaşlarınızla kart oyunları ______."
 }

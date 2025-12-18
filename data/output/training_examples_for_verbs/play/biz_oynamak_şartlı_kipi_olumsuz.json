@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "oynamazsak",
     "root": "oyna",
-    "tense_affix": "arsa",
+    "tense_affix": "sa",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If we don't play now, we will lose.",
-  "russian_example_sentence": "Если мы не играем сейчас, мы проиграем.",
-  "turkish_example_sentence": "Şimdi oynamazsak kaybederiz.",
-  "turkish_example_sentence_with_blank": "Şimdi ______ kaybederiz."
+  "turkish_example_sentence": "Biz yağmurlu havada dışarıda oynamazsak, evde film izleriz.",
+  "english_example_sentence": "If we don't play outside in rainy weather, we will watch a movie at home.",
+  "russian_example_sentence": "Если мы не будем играть на улице в дождливую погоду, мы посмотрим фильм дома.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:52:33.204632+00:00",
+  "turkish_example_sentence_with_blank": "Biz yağmurlu havada dışarıda ______, evde film izleriz."
 }

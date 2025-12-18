@@ -4,17 +4,19 @@
   "verb_russian": "играть",
   "verb_infinitive": "oynamak",
   "turkish_verb": {
-    "verb_full": "oynıyorum",
+    "verb_full": "oynuyorum",
     "root": "oyn",
-    "tense_affix": "ıyor",
+    "tense_affix": "uyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "um",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I am playing with colorful wooden blocks",
-  "russian_example_sentence": "Я играю с разноцветными деревянными кубиками",
-  "turkish_example_sentence": "Ben renkli tahta bloklarla şimdi oynıyorum",
-  "turkish_example_sentence_with_blank": "Ben renkli tahta bloklarla şimdi ______"
+  "turkish_example_sentence": "Ben her akşam bilgisayar oyunları oynuyorum.",
+  "english_example_sentence": "I play computer games every evening.",
+  "russian_example_sentence": "Я играю в компьютерные игры каждый вечер.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:38:37.763149+00:00",
+  "turkish_example_sentence_with_blank": "Ben her akşam bilgisayar oyunları ______."
 }

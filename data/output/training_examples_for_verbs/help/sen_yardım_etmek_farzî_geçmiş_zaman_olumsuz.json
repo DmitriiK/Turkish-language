@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmemişsen",
     "root": "yardım et",
-    "tense_affix": "miş",
+    "tense_affix": "mişse",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "sen",
+    "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Sen bana yardım etmemişsen, kızmam",
-  "english_example_sentence": "If you had not helped me, I wouldn't be angry",
-  "russian_example_sentence": "Если бы ты не помог мне, я бы не злился",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:07:28.338524+00:00",
-  "turkish_example_sentence_with_blank": "Sen bana ______, kızmam"
+  "turkish_example_sentence": "Sen genç mühendise proje sunumunda yardım etmemişsen pişman olabilirsin",
+  "english_example_sentence": "If you had not helped the young engineer with the project presentation, you might regret it",
+  "russian_example_sentence": "Если бы ты не помог молодому инженеру с презентацией проекта, ты мог бы пожалеть",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:28:30.756637+00:00",
+  "turkish_example_sentence_with_blank": "Sen genç mühendise proje sunumunda ______ pişman olabilirsin"
 }

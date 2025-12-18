@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duymayacaksınız",
     "root": "duy",
-    "tense_affix": "acak",
+    "tense_affix": "yacak",
     "verb_tense": "yaracağım",
     "personal_pronoun": "siz",
     "personal_affix": "sınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You will not hear the soft rain falling gently",
-  "russian_example_sentence": "Вы не услышите мягкий дождь, падающий нежно",
-  "turkish_example_sentence": "Siz yumuşak yağmurun nazikçe düşüşünü duymayacaksınız",
-  "turkish_example_sentence_with_blank": "Siz yumuşak yağmurun nazikçe düşüşünü ______"
+  "turkish_example_sentence": "Siz bu mesafeden fısıltıları duymayacaksınız.",
+  "english_example_sentence": "You will not hear whispers from this distance.",
+  "russian_example_sentence": "Вы не услышите шепот с такого расстояния.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:57:47.824110+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu mesafeden fısıltıları ______."
 }

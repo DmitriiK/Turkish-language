@@ -4,19 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünür",
+    "verb_full": "görünüp",
     "root": "görün",
-    "tense_affix": "",
+    "tense_affix": "üp",
     "verb_tense": "ulak_fiil",
     "personal_pronoun": null,
     "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Bu yeni bina çok modern görünür",
-  "english_example_sentence": "This new building seems very modern",
-  "russian_example_sentence": "Это новое здание кажется очень современным",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T14:59:57.756667+00:00",
-  "turkish_example_sentence_with_blank": "Bu yeni bina çok modern ______"
+  "turkish_example_sentence": "Sabah erken saatte görünüp toplantıya katıldı",
+  "english_example_sentence": "Having appeared early in the morning, he attended the meeting",
+  "russian_example_sentence": "Появившись рано утром, он присутствовал на собрании",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:01:50.010450+00:00",
+  "turkish_example_sentence_with_blank": "Sabah erken saatte ______ toplantıya katıldı"
 }

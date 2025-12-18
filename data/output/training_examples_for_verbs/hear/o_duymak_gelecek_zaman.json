@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duyacak",
     "root": "duy",
-    "tense_affix": "acak",
+    "tense_affix": "yacak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He will hear the bird singing in the garden",
-  "russian_example_sentence": "Он услышит птицу, поющую в саду",
-  "turkish_example_sentence": "O bahçede şarkı söyleyen kuşu duyacak",
-  "turkish_example_sentence_with_blank": "O bahçede şarkı söyleyen kuşu ______"
+  "turkish_example_sentence": "O, öğretmenin yeni talimatlarını dikkatlice duyacak.",
+  "english_example_sentence": "He/She will carefully hear the teacher's new instructions.",
+  "russian_example_sentence": "Он/Она внимательно выслушает новые указания учителя.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:07:42.572334+00:00",
+  "turkish_example_sentence_with_blank": "O, öğretmenin yeni talimatlarını dikkatlice ______."
 }

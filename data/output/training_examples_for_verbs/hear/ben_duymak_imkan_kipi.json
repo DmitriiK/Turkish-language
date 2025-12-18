@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duyabilirim",
     "root": "duy",
-    "tense_affix": "abil",
+    "tense_affix": "yabil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "irim",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I can hear the beautiful bird singing loudly",
-  "russian_example_sentence": "Я могу слышать красивую птицу, поющую громко",
-  "turkish_example_sentence": "Ben güzel kuşun yüksek sesle şarkı söylediğini duyabilirim",
-  "turkish_example_sentence_with_blank": "Ben güzel kuşun yüksek sesle şarkı söylediğini ______"
+  "turkish_example_sentence": "Ben uzaktaki kuş seslerini kolayca duyabilirim.",
+  "english_example_sentence": "I can easily hear the distant bird sounds.",
+  "russian_example_sentence": "Я легко могу слышать далёкие птичьи голоса.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:11:23.229325+00:00",
+  "turkish_example_sentence_with_blank": "Ben uzaktaki kuş seslerini kolayca ______."
 }

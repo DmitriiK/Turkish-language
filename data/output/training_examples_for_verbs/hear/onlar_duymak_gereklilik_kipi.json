@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duymaları lazım",
     "root": "duy",
-    "tense_affix": "ma",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "ları",
+    "personal_affix": "maları",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They need to hear the joyful news about the successful project",
-  "russian_example_sentence": "Они должны услышать радостные новости об успешном проекте",
-  "turkish_example_sentence": "Onlar başarılı proje hakkındaki sevinç haberleri duymaları lazım",
-  "turkish_example_sentence_with_blank": "Onlar başarılı proje hakkındaki sevinç haberleri ______"
+  "turkish_example_sentence": "Onların bu güzel şarkıyı duymaları lazım.",
+  "english_example_sentence": "They need to hear this beautiful song.",
+  "russian_example_sentence": "Им нужно услышать эту красивую песню.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:10:41.956352+00:00",
+  "turkish_example_sentence_with_blank": "Onların bu güzel şarkıyı ______."
 }

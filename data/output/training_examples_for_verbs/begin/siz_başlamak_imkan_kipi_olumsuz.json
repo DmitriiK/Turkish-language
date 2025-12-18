@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "başlayamazsınız",
     "root": "başla",
-    "tense_affix": "yama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "zsınız",
+    "personal_affix": "sınız",
     "polarity": "negative",
     "negative_affix": "yama"
   },
-  "turkish_example_sentence": "Siz izin belgesi olmadan eski bina restorasyon çalışmasına başlayamazsınız",
-  "english_example_sentence": "You cannot begin the old building restoration work without a permission document",
-  "russian_example_sentence": "Вы не можете начать реставрационную работу старого здания без разрешительного документа",
-  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-16T10:43:15.978221+00:00",
-  "turkish_example_sentence_with_blank": "Siz izin belgesi olmadan eski bina restorasyon çalışmasına ______"
+  "turkish_example_sentence": "Siz bu önemli toplantıya gecikmiş olarak başlayamazsınız.",
+  "english_example_sentence": "You cannot begin this important meeting late.",
+  "russian_example_sentence": "Вы не можете начать это важное совещание с опозданием.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:43:33.742964+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu önemli toplantıya gecikmiş olarak ______."
 }

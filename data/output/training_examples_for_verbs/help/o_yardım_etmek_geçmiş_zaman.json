@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etti",
     "root": "yardım et",
-    "tense_affix": "di",
+    "tense_affix": "ti",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "O hasta komşusuna yardım etti",
-  "english_example_sentence": "He helped his sick neighbor",
-  "russian_example_sentence": "Он помог своему больному соседу",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:05:03.857924+00:00",
-  "turkish_example_sentence_with_blank": "O hasta komşusuna ______"
+  "turkish_example_sentence": "O genç öğretmen köy çocuklarına ücretsiz İngilizce derslerinde yardım etti",
+  "english_example_sentence": "That young teacher helped village children with free English lessons",
+  "russian_example_sentence": "Тот молодой учитель помог деревенским детям бесплатными уроками английского",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:20:11.576964+00:00",
+  "turkish_example_sentence_with_blank": "O genç öğretmen köy çocuklarına ücretsiz İngilizce derslerinde ______"
 }

@@ -4,19 +4,19 @@
   "verb_russian": "показывать",
   "verb_infinitive": "göstermek",
   "turkish_verb": {
-    "verb_full": "gösteremiyorsunuz",
+    "verb_full": "gösteremezsiniz",
     "root": "göster",
-    "tense_affix": "emiyorsunuz",
+    "tense_affix": "eme",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "emiyorsunuz",
+    "personal_affix": "zsiniz",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "turkish_example_sentence": "Siz bu ilginç verileri gösteremiyorsunuz",
-  "english_example_sentence": "You are unable to show this interesting data",
-  "russian_example_sentence": "Вы не можете показать эти интересные данные",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:10:14.597312+00:00",
-  "turkish_example_sentence_with_blank": "Siz bu ilginç verileri ______"
+  "turkish_example_sentence": "Siz burada özel hasta dosyalarını gösteremezsiniz",
+  "english_example_sentence": "You cannot show private patient files here",
+  "russian_example_sentence": "Вы не можете показывать частные медицинские карты пациентов здесь",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:42:45.353961+00:00",
+  "turkish_example_sentence_with_blank": "Siz burada özel hasta dosyalarını ______"
 }

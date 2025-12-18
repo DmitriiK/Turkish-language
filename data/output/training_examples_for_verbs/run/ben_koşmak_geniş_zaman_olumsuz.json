@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "koşmam",
     "root": "koş",
-    "tense_affix": "ar",
+    "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "ım",
+    "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I do not run on rainy days",
-  "russian_example_sentence": "Я не бегаю в дождливые дни",
-  "turkish_example_sentence": "Ben yağmurlu günlerde dışarıda koşmam",
-  "turkish_example_sentence_with_blank": "Ben yağmurlu günlerde dışarıda ______"
+  "turkish_example_sentence": "Ben soğuk havada dışarıda koşmam.",
+  "english_example_sentence": "I don't run outside in cold weather.",
+  "russian_example_sentence": "Я не бегаю на улице в холодную погоду.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T15:00:44.755657+00:00",
+  "turkish_example_sentence_with_blank": "Ben soğuk havada dışarıda ______."
 }

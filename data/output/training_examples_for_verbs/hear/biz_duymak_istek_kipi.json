@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duyalım",
     "root": "duy",
-    "tense_affix": "a",
+    "tense_affix": "ya",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "lım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Let’s hear the beautiful birds chirping",
-  "russian_example_sentence": "Давайте услышим красивое птичье пение",
-  "turkish_example_sentence": "Güzel kuşların cıvıltısını duyalım",
-  "turkish_example_sentence_with_blank": "Güzel kuşların cıvıltısını ______"
+  "turkish_example_sentence": "Biz önemli duyuruyu radyodan duyalım.",
+  "english_example_sentence": "Let us hear the important announcement from the radio.",
+  "russian_example_sentence": "Давайте услышим важное объявление по радио.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:08:58.147221+00:00",
+  "turkish_example_sentence_with_blank": "Biz önemli duyuruyu radyodan ______."
 }

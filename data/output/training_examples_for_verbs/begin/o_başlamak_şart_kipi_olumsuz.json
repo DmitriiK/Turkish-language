@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "başlamasa",
     "root": "başla",
-    "tense_affix": "masa",
+    "tense_affix": "sa",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "O sıcak yaz tatilinde seyahate başlamasa üzülür",
-  "english_example_sentence": "If she were not to begin the trip in the hot summer vacation she would be sad",
-  "russian_example_sentence": "Если бы она не начала путешествие в жаркие летние каникулы, она бы расстроилась",
-  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-16T10:42:01.536269+00:00",
-  "turkish_example_sentence_with_blank": "O sıcak yaz tatilinde seyahate ______ üzülür"
+  "turkish_example_sentence": "O bu işe hiç başlamasa, daha iyi olur.",
+  "english_example_sentence": "If he/she were not to start this job at all, it would be better.",
+  "russian_example_sentence": "Если бы он/она вообще не начинал(а) эту работу, было бы лучше.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:41:54.631518+00:00",
+  "turkish_example_sentence_with_blank": "O bu işe hiç ______, daha iyi olur."
 }

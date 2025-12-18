@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "oynamayasın",
     "root": "oyna",
-    "tense_affix": "yayasın",
+    "tense_affix": "ya",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "sın",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "May you not play indoors.",
-  "russian_example_sentence": "Пусть ты не играешь внутри.",
-  "turkish_example_sentence": "Sen içeride oynamayasın.",
-  "turkish_example_sentence_with_blank": "Sen içeride ______."
+  "turkish_example_sentence": "Sen tehlikeli sokaklarda asla futbol oynamayasın.",
+  "english_example_sentence": "May you never play football in dangerous streets.",
+  "russian_example_sentence": "Пусть ты никогда не играешь в футбол на опасных улицах.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:42:22.304376+00:00",
+  "turkish_example_sentence_with_blank": "Sen tehlikeli sokaklarda asla futbol ______."
 }

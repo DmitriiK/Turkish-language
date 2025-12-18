@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duymamışsam",
     "root": "duy",
-    "tense_affix": "mamışsa",
+    "tense_affix": "mışsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If I hadn't heard the alarm",
-  "russian_example_sentence": "Если бы я не услышал будильник",
-  "turkish_example_sentence": "Ben o sabah alarmı duymamışsam, işe geç kalırdım.",
-  "turkish_example_sentence_with_blank": "Ben o sabah alarmı ______, işe geç kalırdım."
+  "turkish_example_sentence": "Ben eski radyodan hiçbir şey duymamışsam, sesi açardım.",
+  "english_example_sentence": "If I hadn't heard anything from the old radio, I would have turned up the volume.",
+  "russian_example_sentence": "Если бы я ничего не услышал из старого радио, я бы включил звук.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:13:48.518626+00:00",
+  "turkish_example_sentence_with_blank": "Ben eski radyodan hiçbir şey ______, sesi açardım."
 }

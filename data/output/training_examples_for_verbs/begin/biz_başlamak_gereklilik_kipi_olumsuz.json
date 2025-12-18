@@ -4,7 +4,7 @@
   "verb_russian": "начинать",
   "verb_infinitive": "başlamak",
   "turkish_verb": {
-    "verb_full": "başlamamamamız lazım",
+    "verb_full": "başlamamamız lazım",
     "root": "başla",
     "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
@@ -13,10 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Biz karanlık ormana gece başlamamamamız lazım",
-  "english_example_sentence": "We need to not begin into the dark forest at night",
-  "russian_example_sentence": "Нам не нужно начинать в темный лес ночью",
-  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-16T10:42:35.948546+00:00",
-  "turkish_example_sentence_with_blank": "Biz karanlık ormana gece ______"
+  "turkish_example_sentence": "Biz bu kavgayı tekrar başlamamamız lazım.",
+  "english_example_sentence": "We don't need to begin this fight again.",
+  "russian_example_sentence": "Нам не нужно снова начинать эту ссору.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:42:32.571127+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu kavgayı tekrar ______."
 }

@@ -4,19 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmüyorum",
+    "verb_full": "görünmediğimde",
     "root": "görün",
-    "tense_affix": "üyor",
+    "tense_affix": "dik",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "ben",
-    "personal_affix": "um",
+    "personal_affix": "im",
     "polarity": "negative",
-    "negative_affix": "m"
+    "negative_affix": "me"
   },
-  "turkish_example_sentence": "Ben hasta görünmüyorum bu sabah",
-  "english_example_sentence": "I don't seem sick this morning",
-  "russian_example_sentence": "Я не кажусь больным этим утром",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:00:07.672682+00:00",
-  "turkish_example_sentence_with_blank": "Ben hasta ______ bu sabah"
+  "turkish_example_sentence": "Ben mutlu görünmediğimde arkadaşlarım endişeli sorular soruyor",
+  "english_example_sentence": "When I don't seem happy my friends ask worried questions",
+  "russian_example_sentence": "Когда я не кажусь счастливым мои друзья задают обеспокоенные вопросы",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:02:28.212337+00:00",
+  "turkish_example_sentence_with_blank": "Ben mutlu ______ arkadaşlarım endişeli sorular soruyor"
 }

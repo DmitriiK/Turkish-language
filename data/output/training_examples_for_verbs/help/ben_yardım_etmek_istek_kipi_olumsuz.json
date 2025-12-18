@@ -4,19 +4,19 @@
   "verb_russian": "помогать",
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
-    "verb_full": "yardım edeyim",
+    "verb_full": "yardım etmeyeyim",
     "root": "yardım et",
-    "tense_affix": "",
+    "tense_affix": "e",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "yim",
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "me"
   },
-  "turkish_example_sentence": "Ben sana yardım edeyim mi, yardım etmeyeyim mi?",
-  "english_example_sentence": "Should I help you or not?",
-  "russian_example_sentence": "Должен ли я помочь вам или нет?",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:05:43.743075+00:00",
-  "turkish_example_sentence_with_blank": "Ben sana ______ mi, yardım etmeyeyim mi?"
+  "turkish_example_sentence": "Ben tembel öğrenciye zor matematik ödevinde yardım etmeyeyim",
+  "english_example_sentence": "Let me not help the lazy student with the difficult math homework",
+  "russian_example_sentence": "Позвольте мне не помогать ленивому студенту с трудным заданием по математике",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:23:00.025392+00:00",
+  "turkish_example_sentence_with_blank": "Ben tembel öğrenciye zor matematik ödevinde ______"
 }

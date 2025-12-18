@@ -4,19 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünüyorsunuz",
+    "verb_full": "görünesiniz",
     "root": "görün",
-    "tense_affix": "üyor",
+    "tense_affix": "e",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "sünüz",
+    "personal_affix": "siniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Siz burada çok iyi görünüyorsunuz",
-  "english_example_sentence": "You seem very good here",
-  "russian_example_sentence": "Вы кажетесь очень хорошими здесь",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T14:58:16.660921+00:00",
-  "turkish_example_sentence_with_blank": "Siz burada çok iyi ______"
+  "turkish_example_sentence": "Siz proje savunmasında yaratıcı güçlü görünesiniz",
+  "english_example_sentence": "May you seem creative and strong at the project defense",
+  "russian_example_sentence": "Пусть вы кажетесь креативными и сильными на защите проекта",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T09:55:49.706901+00:00",
+  "turkish_example_sentence_with_blank": "Siz proje savunmasında yaratıcı güçlü ______"
 }

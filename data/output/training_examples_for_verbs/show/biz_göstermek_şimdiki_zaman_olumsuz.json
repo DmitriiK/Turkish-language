@@ -5,18 +5,18 @@
   "verb_infinitive": "göstermek",
   "turkish_verb": {
     "verb_full": "göstermiyoruz",
-    "root": "gösterm",
-    "tense_affix": "miyor",
+    "root": "göster",
+    "tense_affix": "iyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "uz",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "mi"
   },
-  "turkish_example_sentence": "Biz küçük çocuklara korkutucu filmleri göstermiyoruz",
-  "english_example_sentence": "We are not showing scary movies to little kids",
-  "russian_example_sentence": "Мы не показываем страшные фильмы маленьким детям",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:10:58.816501+00:00",
-  "turkish_example_sentence_with_blank": "Biz küçük çocuklara korkutucu filmleri ______"
+  "turkish_example_sentence": "Biz yanlış bilgileri öğrencilere göstermiyoruz",
+  "english_example_sentence": "We are not showing incorrect information to the students",
+  "russian_example_sentence": "Мы не показываем неправильную информацию студентам",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:37:22.455823+00:00",
+  "turkish_example_sentence_with_blank": "Biz yanlış bilgileri öğrencilere ______"
 }

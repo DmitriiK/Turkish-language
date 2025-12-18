@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "koşmayacaksın",
     "root": "koş",
-    "tense_affix": "acak",
+    "tense_affix": "yacağ",
     "verb_tense": "yaracağım",
     "personal_pronoun": "sen",
     "personal_affix": "sın",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You will not run at the busy stadium",
-  "russian_example_sentence": "Ты не будешь бегать на оживлённом стадионе",
-  "turkish_example_sentence": "Sen kalabalık stadyumda koşmayacaksın",
-  "turkish_example_sentence_with_blank": "Sen kalabalık stadyumda ______"
+  "turkish_example_sentence": "Sen yarınki maraton için hazırlanmadığın için bugün koşmayacaksın.",
+  "english_example_sentence": "You will not run today because you did not prepare for tomorrow's marathon.",
+  "russian_example_sentence": "Ты не побежишь сегодня, потому что не подготовился к завтрашнему марафону.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:59:59.748143+00:00",
+  "turkish_example_sentence_with_blank": "Sen yarınki maraton için hazırlanmadığın için bugün ______."
 }

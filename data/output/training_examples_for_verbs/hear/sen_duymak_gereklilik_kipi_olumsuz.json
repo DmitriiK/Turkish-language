@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duymaman lazım",
     "root": "duy",
-    "tense_affix": "ma",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "man",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You should not hear those private conversations",
-  "russian_example_sentence": "Ты не должен слышать эти личные разговоры",
-  "turkish_example_sentence": "Sen gizli konuşmaları duymaman lazım",
-  "turkish_example_sentence_with_blank": "Sen gizli konuşmaları ______"
+  "turkish_example_sentence": "Senin bu rahatsız edici sesleri duymaman lazım.",
+  "english_example_sentence": "You must not hear these disturbing sounds.",
+  "russian_example_sentence": "Ты не должен слышать эти тревожные звуки.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:10:41.956352+00:00",
+  "turkish_example_sentence_with_blank": "Senin bu rahatsız edici sesleri ______."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "oynamayayım",
     "root": "oyna",
-    "tense_affix": "yayım",
+    "tense_affix": "ya",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "yım",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "Let me not play today.",
-  "russian_example_sentence": "Давайте я не буду играть сегодня.",
-  "turkish_example_sentence": "Ben bugün oynamayayım.",
-  "turkish_example_sentence_with_blank": "Ben bugün ______."
+  "turkish_example_sentence": "Ben bu eski kırık oyuncakla oynamayayım.",
+  "english_example_sentence": "Let me not play with this old broken toy.",
+  "russian_example_sentence": "Давай я не буду играть с этой старой сломанной игрушкой.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:42:22.304376+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu eski kırık oyuncakla ______."
 }

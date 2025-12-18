@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "koşmadılar",
     "root": "koş",
-    "tense_affix": "tı",
+    "tense_affix": "dı",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "They did not run away from the difficult challenging situation",
-  "russian_example_sentence": "Они не убежали от сложной трудной ситуации",
-  "turkish_example_sentence": "Onlar zor meydan okuma durumundan koşmadılar",
-  "turkish_example_sentence_with_blank": "Onlar zor meydan okuma durumundan ______"
+  "turkish_example_sentence": "Onlar yorgun oldukları için hiç koşmadılar.",
+  "english_example_sentence": "They didn't run at all because they were tired.",
+  "russian_example_sentence": "Они совсем не бегали, потому что устали.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:58:12.853040+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yorgun oldukları için hiç ______."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duymadığımızda",
     "root": "duy",
-    "tense_affix": "ma",
+    "tense_affix": "dık",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "biz",
-    "personal_affix": "dığımızda",
+    "personal_affix": "ımız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "When we don't hear the children, we check.",
-  "russian_example_sentence": "Когда мы не слышим детей, мы проверяем.",
-  "turkish_example_sentence": "Biz çocukları duymadığımızda, kontrol ederiz.",
-  "turkish_example_sentence_with_blank": "Biz çocukları ______, kontrol ederiz."
+  "turkish_example_sentence": "Biz zayıf sinyali duymadığımızda bağlantı koptu.",
+  "english_example_sentence": "When we didn't hear the weak signal, the connection was lost.",
+  "russian_example_sentence": "Когда мы не услышали слабый сигнал, связь прервалась.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:15:04.285661+00:00",
+  "turkish_example_sentence_with_blank": "Biz zayıf sinyali ______ bağlantı koptu."
 }

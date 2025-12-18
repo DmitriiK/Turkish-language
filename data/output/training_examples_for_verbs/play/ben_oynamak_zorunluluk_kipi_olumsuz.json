@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "oynamamalıyım",
     "root": "oyna",
-    "tense_affix": "malı",
+    "tense_affix": "mamalı",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "yım",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I must not play video games today",
-  "russian_example_sentence": "Я не должен играть в видеоигры сегодня",
-  "turkish_example_sentence": "Ben bugün uzun saatler video oyunu oynamamalıyım",
-  "turkish_example_sentence_with_blank": "Ben bugün uzun saatler video oyunu ______"
+  "turkish_example_sentence": "Ben artık tehlikeli oyunlar oynamamalıyım.",
+  "english_example_sentence": "I must not play dangerous games anymore.",
+  "russian_example_sentence": "Я больше не должен играть в опасные игры.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:45:46.092033+00:00",
+  "turkish_example_sentence_with_blank": "Ben artık tehlikeli oyunlar ______."
 }

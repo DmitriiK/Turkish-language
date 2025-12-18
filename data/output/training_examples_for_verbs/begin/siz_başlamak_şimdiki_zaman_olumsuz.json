@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "başlamıyorsunuz",
     "root": "başla",
-    "tense_affix": "ıyor",
+    "tense_affix": "yor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "sunuz",
     "polarity": "negative",
-    "negative_affix": "m"
+    "negative_affix": "mı"
   },
-  "turkish_example_sentence": "Siz bu yıl denizde profesyonel dalış eğitimine başlamıyorsunuz",
-  "english_example_sentence": "You are not beginning professional diving training in the sea this year",
-  "russian_example_sentence": "Вы не начинаете профессиональное обучение дайвингу в море в этом году",
-  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-16T10:45:29.835268+00:00",
-  "turkish_example_sentence_with_blank": "Siz bu yıl denizde profesyonel dalış eğitimine ______"
+  "turkish_example_sentence": "Siz bu karmaşık göreve isteksizce başlamıyorsunuz.",
+  "english_example_sentence": "You are not starting this complex task reluctantly.",
+  "russian_example_sentence": "Вы не начинаете это сложное задание неохотно.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:38:23.901052+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu karmaşık göreve isteksizce ______."
 }

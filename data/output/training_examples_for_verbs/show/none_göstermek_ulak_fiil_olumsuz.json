@@ -5,18 +5,18 @@
   "verb_infinitive": "göstermek",
   "turkish_verb": {
     "verb_full": "göstermeyip",
-    "root": "gösterm",
-    "tense_affix": "eyip",
+    "root": "göster",
+    "tense_affix": "yip",
     "verb_tense": "ulak_fiil",
     "personal_pronoun": null,
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Kılavuz göstermeyip yolu yanlış bulduk",
-  "english_example_sentence": "We found the wrong way without showing the guide",
-  "russian_example_sentence": "Мы нашли неправильную дорогу, не показывая руководство",
-  "generated_by_model": "LLAMA - meta.llama4-scout-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T11:36:23.508614+00:00",
-  "turkish_example_sentence_with_blank": "Kılavuz ______ yolu yanlış bulduk"
+  "turkish_example_sentence": "Yeni kimliğini göstermeyip içeri girmeye çalıştı.",
+  "english_example_sentence": "Without showing his new ID, he tried to enter.",
+  "russian_example_sentence": "Не показав свое новое удостоверение, он попытался войти.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:12:37.355788+00:00",
+  "turkish_example_sentence_with_blank": "Yeni kimliğini ______ içeri girmeye çalıştı."
 }

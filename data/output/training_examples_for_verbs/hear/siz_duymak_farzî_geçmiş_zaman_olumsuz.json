@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duymamışsanız",
     "root": "duy",
-    "tense_affix": "mamışsa",
+    "tense_affix": "mışsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If you hadn't heard the story",
-  "russian_example_sentence": "Если бы вы не услышали историю",
-  "turkish_example_sentence": "Siz bu komik hikayeyi duymamışsanız, çok şey kaçırdınız.",
-  "turkish_example_sentence_with_blank": "Siz bu komik hikayeyi ______, çok şey kaçırdınız."
+  "turkish_example_sentence": "Siz bu önemli uyarıyı duymamışsanız, tekrar okumalısınız.",
+  "english_example_sentence": "If you hadn't heard this important warning, you should read it again.",
+  "russian_example_sentence": "Если бы вы не услышали это важное предупреждение, вам следует прочитать его снова.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:13:48.518626+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu önemli uyarıyı ______, tekrar okumalısınız."
 }

@@ -4,7 +4,7 @@
   "verb_russian": "слышать",
   "verb_infinitive": "duymak",
   "turkish_verb": {
-    "verb_full": "duymayalı",
+    "verb_full": "duymamalı",
     "root": "duy",
     "tense_affix": "malı",
     "verb_tense": "zorunluluk_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "She must not hear the sad story now",
-  "russian_example_sentence": "Она не должна слышать эту грустную историю сейчас",
-  "turkish_example_sentence": "O şu üzücü hikayeyi duymayalı",
-  "turkish_example_sentence_with_blank": "O şu üzücü hikayeyi ______"
+  "turkish_example_sentence": "O, bu rahatsız edici sözleri duymamalı.",
+  "english_example_sentence": "He/She must not hear these disturbing words.",
+  "russian_example_sentence": "Он/Она не должен слышать эти тревожные слова.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:12:00.904231+00:00",
+  "turkish_example_sentence_with_blank": "O, bu rahatsız edici sözleri ______."
 }

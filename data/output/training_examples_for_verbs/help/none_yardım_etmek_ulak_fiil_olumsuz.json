@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmeyip",
     "root": "yardım et",
-    "tense_affix": "meyip",
+    "tense_affix": "me",
     "verb_tense": "ulak_fiil",
     "personal_pronoun": null,
-    "personal_affix": null,
+    "personal_affix": "yip",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Kardeşim zor durumda kalıp arkadaşından yardım etmeyip işi kendisi yaptı",
-  "english_example_sentence": "My sibling didn't get help and did the job himself when he was in a tough spot",
-  "russian_example_sentence": "Мой брат не получил помощи и сделал работу сам, когда оказался в трудном положении",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:07:38.330497+00:00",
-  "turkish_example_sentence_with_blank": "Kardeşim zor durumda kalıp arkadaşından ______ işi kendisi yaptı"
+  "turkish_example_sentence": "Küçük kardeşine yardım etmeyip dışarı çıktı",
+  "english_example_sentence": "Without helping his little brother, he went outside",
+  "russian_example_sentence": "Не помогая младшему брату, он вышел на улицу",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:28:58.506279+00:00",
+  "turkish_example_sentence_with_blank": "Küçük kardeşine ______ dışarı çıktı"
 }

@@ -4,19 +4,19 @@
   "verb_russian": "показывать",
   "verb_infinitive": "göstermek",
   "turkish_verb": {
-    "verb_full": "gösteriyorsunuz",
+    "verb_full": "gösterebilirsiniz",
     "root": "göster",
-    "tense_affix": "iyorsunuz",
+    "tense_affix": "ebil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "iyorsunuz",
+    "personal_affix": "irsiniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Siz misafirlere güzel Türk yemeklerini gösteriyorsunuz",
-  "english_example_sentence": "You are showing nice Turkish dishes to the guests",
-  "russian_example_sentence": "Вы показываете гостям красивые турецкие блюда",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:10:14.597312+00:00",
-  "turkish_example_sentence_with_blank": "Siz misafirlere güzel Türk yemeklerini ______"
+  "turkish_example_sentence": "Siz öğrencilere modern sanat eserlerini gösterebilirsiniz",
+  "english_example_sentence": "You can show modern art works to the students",
+  "russian_example_sentence": "Вы можете показать современные произведения искусства студентам",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:42:45.353961+00:00",
+  "turkish_example_sentence_with_blank": "Siz öğrencilere modern sanat eserlerini ______"
 }

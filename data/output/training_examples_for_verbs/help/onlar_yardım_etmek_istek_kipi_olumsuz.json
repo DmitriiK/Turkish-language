@@ -4,19 +4,19 @@
   "verb_russian": "помогать",
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
-    "verb_full": "yardım etmesinler",
+    "verb_full": "yardım etmeyeler",
     "root": "yardım et",
-    "tense_affix": "",
+    "tense_affix": "e",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Onlar bize yardım etmesinler",
-  "english_example_sentence": "Let them not help us",
-  "russian_example_sentence": "Пусть они нам не помогут",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:05:43.743075+00:00",
-  "turkish_example_sentence_with_blank": "Onlar bize ______"
+  "turkish_example_sentence": "Onlar sorumsuz çocuklara tehlikeli kimyasal deneyler yapmada yardım etmeyeler",
+  "english_example_sentence": "May they not help the irresponsible children conduct dangerous chemical experiments",
+  "russian_example_sentence": "Пусть они не помогают безответственным детям проводить опасные химические эксперименты",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:23:00.025392+00:00",
+  "turkish_example_sentence_with_blank": "Onlar sorumsuz çocuklara tehlikeli kimyasal deneyler yapmada ______"
 }

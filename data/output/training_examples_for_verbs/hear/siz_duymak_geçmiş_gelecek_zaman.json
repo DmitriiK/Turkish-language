@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duyacaktınız",
     "root": "duy",
-    "tense_affix": "acak",
+    "tense_affix": "acaktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "tınız",
+    "personal_affix": "nız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You were going to hear the birds.",
-  "russian_example_sentence": "Вы собирались услышать птиц.",
-  "turkish_example_sentence": "Siz ormandaki kuş seslerini duyacaktınız.",
-  "turkish_example_sentence_with_blank": "Siz ormandaki kuş seslerini ______."
+  "turkish_example_sentence": "Siz önemli konuşmayı toplantıda duyacaktınız.",
+  "english_example_sentence": "You were going to hear the important speech at the meeting.",
+  "russian_example_sentence": "Вы собирались услышать важную речь на собрании.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:12:37.846447+00:00",
+  "turkish_example_sentence_with_blank": "Siz önemli konuşmayı toplantıda ______."
 }

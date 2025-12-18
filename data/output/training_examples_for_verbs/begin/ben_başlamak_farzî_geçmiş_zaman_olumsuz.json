@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "başlamamışsam",
     "root": "başla",
-    "tense_affix": "mamışsa",
+    "tense_affix": "mışsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If I hadn't started the argument...",
-  "russian_example_sentence": "Если бы я не начал спор...",
-  "turkish_example_sentence": "Ben bu anlamsız tartışmaya başlamamışsam, her şey daha iyi olurdu.",
-  "turkish_example_sentence_with_blank": "Ben bu anlamsız tartışmaya ______, her şey daha iyi olurdu."
+  "turkish_example_sentence": "Ben ciddi ders çalışmaya başlamamışsam, sınavdan kalırdım.",
+  "english_example_sentence": "If I had not begun to study seriously, I would have failed the exam.",
+  "russian_example_sentence": "Если бы я не начал серьезно учиться, я бы провалил экзамен.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:46:12.940710+00:00",
+  "turkish_example_sentence_with_blank": "Ben ciddi ders çalışmaya ______, sınavdan kalırdım."
 }

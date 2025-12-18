@@ -9,14 +9,14 @@
     "tense_affix": "ir",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "se",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "O yeni oyunu arkadaşlarına gösterirse, çok popüler olacak",
-  "english_example_sentence": "If he shows the new game to his friends, it will be very popular",
-  "russian_example_sentence": "Если он покажет новую игру своим друзьям, она будет очень популярна",
-  "generated_by_model": "LLAMA - meta.llama4-scout-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T11:36:14.071177+00:00",
-  "turkish_example_sentence_with_blank": "O yeni oyunu arkadaşlarına ______, çok popüler olacak"
+  "turkish_example_sentence": "O güzel manzarayı gösterirse hemen fotoğraf çekerim",
+  "english_example_sentence": "If he shows the beautiful landscape, I will take a photo immediately",
+  "russian_example_sentence": "Если он покажет красивый пейзаж, я сразу сделаю фотографию",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:43:57.943895+00:00",
+  "turkish_example_sentence_with_blank": "O güzel manzarayı ______ hemen fotoğraf çekerim"
 }

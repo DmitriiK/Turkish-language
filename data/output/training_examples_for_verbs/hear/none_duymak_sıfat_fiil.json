@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duyan",
     "root": "duy",
-    "tense_affix": "an",
+    "tense_affix": "yan",
     "verb_tense": "sıfat_fiil",
     "personal_pronoun": null,
     "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The child who hears the bird sings.",
-  "russian_example_sentence": "Ребенок, который слышит птицу, поет.",
-  "turkish_example_sentence": "Kuşu duyan çocuk şarkı söylüyor.",
-  "turkish_example_sentence_with_blank": "Kuşu ______ çocuk şarkı söylüyor."
+  "turkish_example_sentence": "Uzaktan gelen garip sesi duyan köpek havladı.",
+  "english_example_sentence": "The dog that heard the strange sound coming from afar barked.",
+  "russian_example_sentence": "Собака, услышавшая странный звук издалека, залаяла.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:14:00.955265+00:00",
+  "turkish_example_sentence_with_blank": "Uzaktan gelen garip sesi ______ köpek havladı."
 }

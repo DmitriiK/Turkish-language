@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duymadı",
     "root": "duy",
-    "tense_affix": "du",
+    "tense_affix": "dı",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "He did not hear the quiet knock at the wooden door",
-  "russian_example_sentence": "Он не слышал тихий стук в деревянную дверь",
-  "turkish_example_sentence": "O ahşap kapıdaki sessiz vuruşu duymadı",
-  "turkish_example_sentence_with_blank": "O ahşap kapıdaki sessiz vuruşu ______"
+  "turkish_example_sentence": "O dersteki önemli açıklamayı dikkatle duymadı.",
+  "english_example_sentence": "He/She didn't carefully hear the important explanation in the lesson.",
+  "russian_example_sentence": "Он/Она внимательно не услышал(а) важное объяснение на уроке.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:06:07.326747+00:00",
+  "turkish_example_sentence_with_blank": "O dersteki önemli açıklamayı dikkatle ______."
 }

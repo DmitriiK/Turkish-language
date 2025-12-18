@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "başlamayacaklardı",
     "root": "başla",
-    "tense_affix": "mayacaktı",
+    "tense_affix": "yacaktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lardı",
+    "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "They were not going to start writing",
-  "russian_example_sentence": "Они не собирались начать писать",
-  "turkish_example_sentence": "Onlar önemli makale yazmaya başlamayacaklardı",
-  "turkish_example_sentence_with_blank": "Onlar önemli makale yazmaya ______"
+  "turkish_example_sentence": "Onlar bu kadar riskli bir işe başlamayacaklardı, fikirlerini değiştirdiler.",
+  "english_example_sentence": "They were not going to begin such a risky job, they changed their minds.",
+  "russian_example_sentence": "Они не собирались начинать такую рискованную работу, они изменили свои планы.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:44:36.512379+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu kadar riskli bir işe ______, fikirlerini değiştirdiler."
 }

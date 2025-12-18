@@ -4,7 +4,7 @@
   "verb_russian": "играть",
   "verb_infinitive": "oynamak",
   "turkish_verb": {
-    "verb_full": "oynaymalısın",
+    "verb_full": "oynamalısın",
     "root": "oyna",
     "tense_affix": "malı",
     "verb_tense": "zorunluluk_kipi",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You must play your role carefully",
-  "russian_example_sentence": "Ты должен тщательно играть свою роль",
-  "turkish_example_sentence": "Sen önemli tiyatro oyununda dikkatli bir karakter oynaymalısın",
-  "turkish_example_sentence_with_blank": "Sen önemli tiyatro oyununda dikkatli bir karakter ______"
+  "turkish_example_sentence": "Sen küçük çocukla dikkatli oynamalısın.",
+  "english_example_sentence": "You must play carefully with the little child.",
+  "russian_example_sentence": "Ты должен осторожно играть с маленьким ребенком.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:45:46.092033+00:00",
+  "turkish_example_sentence_with_blank": "Sen küçük çocukla dikkatli ______."
 }

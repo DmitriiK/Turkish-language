@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "başlamayız",
     "root": "başla",
-    "tense_affix": "ma",
+    "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "yız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Biz akşam yemeğinden önce önemli tartışmaya başlamayız",
-  "english_example_sentence": "We don't begin an important discussion before dinner",
-  "russian_example_sentence": "Мы не начинаем важную дискуссию перед ужином",
-  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-16T10:47:59.729328+00:00",
-  "turkish_example_sentence_with_blank": "Biz akşam yemeğinden önce önemli tartışmaya ______"
+  "turkish_example_sentence": "Biz asla bu önemli maça yorgun başlamayız.",
+  "english_example_sentence": "We never begin this important match tired.",
+  "russian_example_sentence": "Мы никогда не начинаем этот важный матч уставшими.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:40:27.351225+00:00",
+  "turkish_example_sentence_with_blank": "Biz asla bu önemli maça yorgun ______."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "koşmadık",
     "root": "koş",
-    "tense_affix": "tı",
+    "tense_affix": "dı",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "We did not run towards the cold winter mountains",
-  "russian_example_sentence": "Мы не бежали к холодным зимним горам",
-  "turkish_example_sentence": "Biz soğuk kış dağlarına koşmadık",
-  "turkish_example_sentence_with_blank": "Biz soğuk kış dağlarına ______"
+  "turkish_example_sentence": "Biz soğuk havada dışarıda koşmadık.",
+  "english_example_sentence": "We didn't run outside in the cold weather.",
+  "russian_example_sentence": "Мы не бегали на улице в холодную погоду.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:58:12.853040+00:00",
+  "turkish_example_sentence_with_blank": "Biz soğuk havada dışarıda ______."
 }

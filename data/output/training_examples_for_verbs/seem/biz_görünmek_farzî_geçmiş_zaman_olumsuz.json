@@ -4,19 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmüyoruz",
+    "verb_full": "görünmemişsek",
     "root": "görün",
-    "tense_affix": "üyor",
+    "tense_affix": "memişse",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "uz",
+    "personal_affix": "k",
     "polarity": "negative",
-    "negative_affix": "m"
+    "negative_affix": "me"
   },
-  "turkish_example_sentence": "Biz küçük odada mutsuz görünmüyoruz",
-  "english_example_sentence": "We don't seem unhappy in the small room",
-  "russian_example_sentence": "Мы не кажемся несчастными в маленькой комнате",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T14:59:38.155169+00:00",
-  "turkish_example_sentence_with_blank": "Biz küçük odada mutsuz ______"
+  "turkish_example_sentence": "Biz yeni müze gezisinde ilgili görünmemişsek rehber kötü anlatım yaptı",
+  "english_example_sentence": "If we didn't seem interested at the new museum tour, the guide gave a poor explanation",
+  "russian_example_sentence": "Если мы не казались заинтересованными на новой музейной экскурсии, гид дал плохое объяснение",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:01:11.835487+00:00",
+  "turkish_example_sentence_with_blank": "Biz yeni müze gezisinde ilgili ______ rehber kötü anlatım yaptı"
 }

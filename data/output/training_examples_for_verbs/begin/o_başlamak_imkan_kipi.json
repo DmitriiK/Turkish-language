@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "başlayabilir",
     "root": "başla",
-    "tense_affix": "yabil",
+    "tense_affix": "yabilir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "ir",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "O gelecek hafta üniversitede yeni Türkçe derslerine başlayabilir",
-  "english_example_sentence": "He/she can begin new Turkish lessons at the university next week",
-  "russian_example_sentence": "Он/она может начать новые уроки турецкого в университете на следующей неделе",
-  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-16T10:43:15.978221+00:00",
-  "turkish_example_sentence_with_blank": "O gelecek hafta üniversitede yeni Türkçe derslerine ______"
+  "turkish_example_sentence": "O yeni işine gelecek hafta çok hevesle başlayabilir.",
+  "english_example_sentence": "He/She can begin his/her new job very eagerly next week.",
+  "russian_example_sentence": "Он/Она может начать свою новую работу очень охотно на следующей неделе.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:43:33.742964+00:00",
+  "turkish_example_sentence_with_blank": "O yeni işine gelecek hafta çok hevesle ______."
 }

@@ -5,7 +5,7 @@
   "verb_infinitive": "oynamak",
   "turkish_verb": {
     "verb_full": "oynamıyor",
-    "root": "oyn",
+    "root": "oyna",
     "tense_affix": "ıyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "o",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "m"
   },
-  "english_example_sentence": "She is not playing the tedious board game with friends",
-  "russian_example_sentence": "Она не играет в скучную настольную игру с друзьями",
-  "turkish_example_sentence": "O arkadaşlarıyla sıkıcı masa oyununu şimdi oynamıyor",
-  "turkish_example_sentence_with_blank": "O arkadaşlarıyla sıkıcı masa oyununu şimdi ______"
+  "turkish_example_sentence": "O ders çalışırken yüksek sesle müzik oynamıyor.",
+  "english_example_sentence": "He/She is not playing loud music while studying.",
+  "russian_example_sentence": "Он/Она не играет громкую музыку во время учебы.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:38:37.763149+00:00",
+  "turkish_example_sentence_with_blank": "O ders çalışırken yüksek sesle müzik ______."
 }

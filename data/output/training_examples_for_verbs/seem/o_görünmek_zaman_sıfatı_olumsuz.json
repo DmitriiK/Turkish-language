@@ -4,19 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmüyor",
+    "verb_full": "görünmediğinde",
     "root": "görün",
-    "tense_affix": "üyor",
+    "tense_affix": "dik",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "i",
     "polarity": "negative",
-    "negative_affix": "m"
+    "negative_affix": "me"
   },
-  "turkish_example_sentence": "O artık iyi görünmüyor son zamanlarda",
-  "english_example_sentence": "He/She doesn't seem good lately",
-  "russian_example_sentence": "Он/Она не кажется хорошим в последнее время",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:00:07.672682+00:00",
-  "turkish_example_sentence_with_blank": "O artık iyi ______ son zamanlarda"
+  "turkish_example_sentence": "O ikna olmuş görünmediğinde müdür yeni kanıtlar sunuyor",
+  "english_example_sentence": "When she doesn't seem convinced the manager presents new evidence",
+  "russian_example_sentence": "Когда она не кажется убежденной менеджер представляет новые доказательства",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:02:28.212337+00:00",
+  "turkish_example_sentence_with_blank": "O ikna olmuş ______ müdür yeni kanıtlar sunuyor"
 }

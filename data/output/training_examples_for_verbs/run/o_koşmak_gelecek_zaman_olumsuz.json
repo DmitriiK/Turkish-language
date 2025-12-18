@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "koşmayacak",
     "root": "koş",
-    "tense_affix": "acak",
+    "tense_affix": "yacak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "He will not run during the hot summer afternoon",
-  "russian_example_sentence": "Он не будет бегать в жаркий летний полдень",
-  "turkish_example_sentence": "O sıcak yaz öğleden sonrasında dışarıda koşmayacak",
-  "turkish_example_sentence_with_blank": "O sıcak yaz öğleden sonrasında dışarıda ______"
+  "turkish_example_sentence": "O yağmurlu havada caddede koşmayacak.",
+  "english_example_sentence": "He/She will not run on the street in the rainy weather.",
+  "russian_example_sentence": "Он/Она не будет бегать по улице в дождливую погоду.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:58:53.213888+00:00",
+  "turkish_example_sentence_with_blank": "O yağmurlu havada caddede ______."
 }

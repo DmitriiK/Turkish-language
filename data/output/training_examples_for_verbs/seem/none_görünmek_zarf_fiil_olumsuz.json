@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "görünmeyerek",
     "root": "görün",
-    "tense_affix": "meyerek",
+    "tense_affix": "erek",
     "verb_tense": "zarf_fiil",
     "personal_pronoun": null,
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Kötü haberler duyunca görünmeyerek uzaklaştı",
-  "english_example_sentence": "He/she moved away without seeming after hearing bad news",
-  "russian_example_sentence": "Он/Она отошёл, не кажущийся, когда услышал плохие новости",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T14:59:44.311760+00:00",
-  "turkish_example_sentence_with_blank": "Kötü haberler duyunca ______ uzaklaştı"
+  "turkish_example_sentence": "Hasta görünmeyerek önemli toplantıya katıldı",
+  "english_example_sentence": "By not seeming sick, he/she attended the important meeting",
+  "russian_example_sentence": "Не казавшись больным, он/она присутствовал(а) на важной встрече",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:01:32.493365+00:00",
+  "turkish_example_sentence_with_blank": "Hasta ______ önemli toplantıya katıldı"
 }

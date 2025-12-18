@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "oynamam",
     "root": "oyna",
-    "tense_affix": "r",
+    "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "ım",
+    "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I do not play video games",
-  "russian_example_sentence": "Я не играю в видеоигры",
-  "turkish_example_sentence": "Ben zor bilgisayar oyunlarını oynamam",
-  "turkish_example_sentence_with_blank": "Ben zor bilgisayar oyunlarını ______"
+  "turkish_example_sentence": "Ben asla bu tehlikeli oyunu oynamam.",
+  "english_example_sentence": "I never play this dangerous game.",
+  "russian_example_sentence": "Я никогда не играю в эту опасную игру.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:41:10.974537+00:00",
+  "turkish_example_sentence_with_blank": "Ben asla bu tehlikeli oyunu ______."
 }

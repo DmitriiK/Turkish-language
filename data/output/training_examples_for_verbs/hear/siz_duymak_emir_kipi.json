@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duyun",
     "root": "duy",
-    "tense_affix": "un",
+    "tense_affix": "",
     "verb_tense": "emir_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "un",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Please hear the excellent classical music concert",
-  "russian_example_sentence": "Пожалуйста, слушайте отличный концерт классической музыки",
-  "turkish_example_sentence": "Lütfen harika klasik müzik konsertini duyun",
-  "turkish_example_sentence_with_blank": "Lütfen harika klasik müzik konsertini ______"
+  "turkish_example_sentence": "Siz uzaktan gelen kuş seslerini duyun.",
+  "english_example_sentence": "You all hear the bird sounds coming from afar.",
+  "russian_example_sentence": "Вы все услышьте звуки птиц, доносящиеся издалека.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:09:22.163768+00:00",
+  "turkish_example_sentence_with_blank": "Siz uzaktan gelen kuş seslerini ______."
 }

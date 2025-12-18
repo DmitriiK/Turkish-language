@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "başlamazlarsa",
     "root": "başla",
-    "tense_affix": "mazsa",
+    "tense_affix": "sa",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "turkish_example_sentence": "Onlar hemen eski binanın onarımına başlamazlarsa çöker",
-  "english_example_sentence": "If they don't begin the old building's repair immediately, it collapses",
-  "russian_example_sentence": "Если они не начнут ремонт старого здания немедленно, оно обрушится",
-  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-16T10:44:32.714570+00:00",
-  "turkish_example_sentence_with_blank": "Onlar hemen eski binanın onarımına ______ çöker"
+  "turkish_example_sentence": "Onlar ders çalışmaya başlamazlarsa, sınavda kötü not alırlar.",
+  "english_example_sentence": "If they don't begin studying, they will get bad grades on the exam.",
+  "russian_example_sentence": "Если они не начнут учиться, они получат плохие оценки на экзамене.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:45:40.651099+00:00",
+  "turkish_example_sentence_with_blank": "Onlar ders çalışmaya ______, sınavda kötü not alırlar."
 }

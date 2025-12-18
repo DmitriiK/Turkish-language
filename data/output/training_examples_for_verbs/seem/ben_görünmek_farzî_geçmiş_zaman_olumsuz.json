@@ -4,19 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmüyorum",
+    "verb_full": "görünmemişsem",
     "root": "görün",
-    "tense_affix": "üyor",
+    "tense_affix": "memişse",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "um",
+    "personal_affix": "m",
     "polarity": "negative",
-    "negative_affix": "m"
+    "negative_affix": "me"
   },
-  "turkish_example_sentence": "Ben eski evimde mutsuz görünmüyorum",
-  "english_example_sentence": "I don't seem unhappy in my old home",
-  "russian_example_sentence": "Я не кажусь несчастным в моем старом доме",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T14:59:38.155169+00:00",
-  "turkish_example_sentence_with_blank": "Ben eski evimde mutsuz ______"
+  "turkish_example_sentence": "Ben sabah kahvaltısında mutlu görünmemişsem kötü haberler aldım",
+  "english_example_sentence": "If I didn't seem happy at breakfast this morning, I received bad news",
+  "russian_example_sentence": "Если я не казался счастливым за завтраком утром, я получил плохие новости",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:01:11.835487+00:00",
+  "turkish_example_sentence_with_blank": "Ben sabah kahvaltısında mutlu ______ kötü haberler aldım"
 }

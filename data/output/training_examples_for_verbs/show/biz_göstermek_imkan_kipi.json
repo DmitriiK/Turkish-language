@@ -4,19 +4,19 @@
   "verb_russian": "показывать",
   "verb_infinitive": "göstermek",
   "turkish_verb": {
-    "verb_full": "gösteriyoruz",
+    "verb_full": "gösterebiliriz",
     "root": "göster",
-    "tense_affix": "iyoruz",
+    "tense_affix": "ebil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iyoruz",
+    "personal_affix": "iriz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Biz turistlere şehrin tarihi yerlerini gösteriyoruz",
-  "english_example_sentence": "We are showing tourists the historical places of the city",
-  "russian_example_sentence": "Мы показываем туристам исторические места города",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:10:14.597312+00:00",
-  "turkish_example_sentence_with_blank": "Biz turistlere şehrin tarihi yerlerini ______"
+  "turkish_example_sentence": "Biz misafirlere tarihi kale kalıntılarını gösterebiliriz",
+  "english_example_sentence": "We can show the historical castle ruins to the guests",
+  "russian_example_sentence": "Мы можем показать гостям руины исторического замка",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:42:45.353961+00:00",
+  "turkish_example_sentence_with_blank": "Biz misafirlere tarihi kale kalıntılarını ______"
 }

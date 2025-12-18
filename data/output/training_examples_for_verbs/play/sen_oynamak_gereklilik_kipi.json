@@ -4,7 +4,7 @@
   "verb_russian": "играть",
   "verb_infinitive": "oynamak",
   "turkish_verb": {
-    "verb_full": "yapman lazım",
+    "verb_full": "oynaman lazım",
     "root": "oyna",
     "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You need to play the guitar for the concert",
-  "russian_example_sentence": "Тебе нужно играть на гитаре для концерта",
-  "turkish_example_sentence": "Sen konser için güzel klasik gitar parçası çalman lazım",
-  "turkish_example_sentence_with_blank": "Sen konser için güzel klasik gitar parçası çalman lazım"
+  "turkish_example_sentence": "Sen bu önemli rolü sahnede iyi oynaman lazım.",
+  "english_example_sentence": "You need to play this important role well on stage.",
+  "russian_example_sentence": "Тебе нужно хорошо сыграть эту важную роль на сцене.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:43:49.681507+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu önemli rolü sahnede iyi ______."
 }

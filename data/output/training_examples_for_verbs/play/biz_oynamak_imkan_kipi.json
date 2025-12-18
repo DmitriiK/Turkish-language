@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "oynayabiliriz",
     "root": "oyna",
-    "tense_affix": "yabil",
+    "tense_affix": "yabilir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iriz",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We can play volleyball in summer.",
-  "russian_example_sentence": "Мы можем играть в волейбол летом.",
-  "turkish_example_sentence": "Biz sıcak yaz ayında eğlenceli voleybol turnuvasını oynayabiliriz.",
-  "turkish_example_sentence_with_blank": "Biz sıcak yaz ayında eğlenceli voleybol turnuvasını ______."
+  "turkish_example_sentence": "Biz bu heyecanlı yeni masa oyununu birlikte oynayabiliriz.",
+  "english_example_sentence": "We can play this exciting new board game together.",
+  "russian_example_sentence": "Мы можем играть в эту увлекательную новую настольную игру вместе.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:45:17.691969+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu heyecanlı yeni masa oyununu birlikte ______."
 }

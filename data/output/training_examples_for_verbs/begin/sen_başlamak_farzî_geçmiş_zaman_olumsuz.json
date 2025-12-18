@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "başlamamışsan",
     "root": "başla",
-    "tense_affix": "mamışsa",
+    "tense_affix": "mışsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If you hadn't started the construction...",
-  "russian_example_sentence": "Если бы ты не начал строительство...",
-  "turkish_example_sentence": "Sen o büyük inşaata başlamamışsan, şimdi daha az stresli olurdun.",
-  "turkish_example_sentence_with_blank": "Sen o büyük inşaata ______, şimdi daha az stresli olurdun."
+  "turkish_example_sentence": "Sen bu ilginç kitabı okumaya başlamamışsan, sonunu bilmezdin.",
+  "english_example_sentence": "If you had not begun to read this interesting book, you wouldn't know the ending.",
+  "russian_example_sentence": "Если бы ты не начал читать эту интересную книгу, ты бы не знал концовки.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:46:12.940710+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu ilginç kitabı okumaya ______, sonunu bilmezdin."
 }

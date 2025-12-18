@@ -4,19 +4,19 @@
   "verb_russian": "начинать",
   "verb_infinitive": "başlamak",
   "turkish_verb": {
-    "verb_full": "başlamasın",
+    "verb_full": "başlamayasın",
     "root": "başla",
-    "tense_affix": "sın",
+    "tense_affix": "ya",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "sın",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Sen tehlikeli dağ tırmanışına kötü havada başlamasın",
-  "english_example_sentence": "May you not begin the dangerous mountain climbing in bad weather",
-  "russian_example_sentence": "Пусть ты не начнешь опасное восхождение на гору в плохую погоду",
-  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-16T10:40:58.559319+00:00",
-  "turkish_example_sentence_with_blank": "Sen tehlikeli dağ tırmanışına kötü havada ______"
+  "turkish_example_sentence": "Sen o tehlikeli maceraya asla başlamayasın.",
+  "english_example_sentence": "May you never begin that dangerous adventure.",
+  "russian_example_sentence": "Пусть ты никогда не начнешь это опасное приключение.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:40:56.986604+00:00",
+  "turkish_example_sentence_with_blank": "Sen o tehlikeli maceraya asla ______."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duymayıp",
     "root": "duy",
-    "tense_affix": "up",
+    "tense_affix": "yıp",
     "verb_tense": "ulak_fiil",
     "personal_pronoun": null,
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "Without hearing the truth, I made a mistake",
-  "russian_example_sentence": "Не услышав правду, я ошибся",
-  "turkish_example_sentence": "Gerçeği duymayıp hata yaptım",
-  "turkish_example_sentence_with_blank": "Gerçeği ______ hata yaptım"
+  "turkish_example_sentence": "Önemli haberi duymayıp toplantıyı kaçırdı ne yazık ki.",
+  "english_example_sentence": "Not having heard the important news, he unfortunately missed the meeting.",
+  "russian_example_sentence": "Не услышав важную новость, он, к сожалению, пропустил собрание.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:14:24.553796+00:00",
+  "turkish_example_sentence_with_blank": "Önemli haberi ______ toplantıyı kaçırdı ne yazık ki."
 }

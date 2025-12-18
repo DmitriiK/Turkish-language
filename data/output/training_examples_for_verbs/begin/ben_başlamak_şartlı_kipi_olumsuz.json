@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "başlamazsam",
     "root": "başla",
-    "tense_affix": "mazsa",
+    "tense_affix": "sa",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "turkish_example_sentence": "Ben bu akşam önemli projeye başlamazsam işimi bitiremem",
-  "english_example_sentence": "If I don't begin the important project this evening, I cannot finish my work",
-  "russian_example_sentence": "Если я не начну важный проект этим вечером, я не смогу закончить свою работу",
-  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-16T10:44:32.714570+00:00",
-  "turkish_example_sentence_with_blank": "Ben bu akşam önemli projeye ______ işimi bitiremem"
+  "turkish_example_sentence": "Ben şimdi başlamazsam, önemli toplantıya kesinlikle yetişemem.",
+  "english_example_sentence": "If I don't begin now, I definitely won't catch the important meeting.",
+  "russian_example_sentence": "Если я не начну сейчас, я определенно не успею на важную встречу.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:45:40.651099+00:00",
+  "turkish_example_sentence_with_blank": "Ben şimdi ______, önemli toplantıya kesinlikle yetişemem."
 }

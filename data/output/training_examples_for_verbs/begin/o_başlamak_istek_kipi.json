@@ -4,19 +4,19 @@
   "verb_russian": "начинать",
   "verb_infinitive": "başlamak",
   "turkish_verb": {
-    "verb_full": "başlasın",
+    "verb_full": "başlaya",
     "root": "başla",
-    "tense_affix": "sın",
+    "tense_affix": "ya",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "O önemli bilimsel araştırma projesine dikkatle başlasın",
-  "english_example_sentence": "May he/she begin the important scientific research project carefully",
-  "russian_example_sentence": "Пусть он/она начнет важный научный исследовательский проект внимательно",
-  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-16T10:40:58.559319+00:00",
-  "turkish_example_sentence_with_blank": "O önemli bilimsel araştırma projesine dikkatle ______"
+  "turkish_example_sentence": "O, yarın sabah erkenden işe başlaya.",
+  "english_example_sentence": "May he/she begin work early tomorrow morning.",
+  "russian_example_sentence": "Пусть он/она начнет работу рано завтра утром.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:40:56.986604+00:00",
+  "turkish_example_sentence_with_blank": "O, yarın sabah erkenden işe ______."
 }

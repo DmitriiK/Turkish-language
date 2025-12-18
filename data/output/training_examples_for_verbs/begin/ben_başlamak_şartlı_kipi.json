@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "başlarsam",
     "root": "başla",
-    "tense_affix": "arsa",
+    "tense_affix": "rsa",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Ben yarın sabah erken spor yapmaya başlarsam daha sağlıklı olurum",
-  "english_example_sentence": "If I begin doing sports early tomorrow morning, I will be healthier",
-  "russian_example_sentence": "Если я начну заниматься спортом рано завтра утром, я буду здоровее",
-  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-16T10:44:32.714570+00:00",
-  "turkish_example_sentence_with_blank": "Ben yarın sabah erken spor yapmaya ______ daha sağlıklı olurum"
+  "turkish_example_sentence": "Ben erken başlarsam, bu büyük projeyi zamanında bitiririm.",
+  "english_example_sentence": "If I begin early, I will finish this big project on time.",
+  "russian_example_sentence": "Если я начну рано, я закончу этот большой проект вовремя.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:45:40.651099+00:00",
+  "turkish_example_sentence_with_blank": "Ben erken ______, bu büyük projeyi zamanında bitiririm."
 }

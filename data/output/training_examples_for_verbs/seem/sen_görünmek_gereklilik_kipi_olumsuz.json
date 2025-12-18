@@ -4,19 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmüyorsun",
+    "verb_full": "görünmemen lazım",
     "root": "görün",
-    "tense_affix": "üyor",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "sun",
+    "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Sen küçük odada mutsuz görünmüyorsun",
-  "english_example_sentence": "You don't seem unhappy in the small room",
-  "russian_example_sentence": "Ты не кажешься несчастным в маленькой комнате",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T14:58:44.893556+00:00",
-  "turkish_example_sentence_with_blank": "Sen küçük odada mutsuz ______"
+  "turkish_example_sentence": "Sen sınav sırasında gergin ve endişeli görünmemen lazım",
+  "english_example_sentence": "You need to not seem nervous and anxious during the exam",
+  "russian_example_sentence": "Тебе нужно не казаться нервным и обеспокоенным во время экзамена",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T09:57:56.792623+00:00",
+  "turkish_example_sentence_with_blank": "Sen sınav sırasında gergin ve endişeli ______"
 }

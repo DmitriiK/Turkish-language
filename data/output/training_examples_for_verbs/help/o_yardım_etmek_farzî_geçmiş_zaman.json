@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmişse",
     "root": "yardım et",
-    "tense_affix": "miş",
+    "tense_affix": "mişse",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "O bana yardım etmişse, teşekkür ederim",
-  "english_example_sentence": "If he had helped me, I would thank him",
-  "russian_example_sentence": "Если бы он помог мне, я бы поблагодарил его",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:07:28.338524+00:00",
-  "turkish_example_sentence_with_blank": "O bana ______, teşekkür ederim"
+  "turkish_example_sentence": "O deneyimli öğretmen yeni öğrencilere sınıfta yardım etmişse herkes minnettar kalır",
+  "english_example_sentence": "If that experienced teacher had helped new students in the classroom, everyone would be grateful",
+  "russian_example_sentence": "Если бы тот опытный учитель помог новым студентам в классе, все были бы благодарны",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:28:30.756637+00:00",
+  "turkish_example_sentence_with_blank": "O deneyimli öğretmen yeni öğrencilere sınıfta ______ herkes minnettar kalır"
 }

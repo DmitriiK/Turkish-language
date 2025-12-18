@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmiyoruz",
     "root": "yardım et",
-    "tense_affix": "mıyor",
+    "tense_affix": "iyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "uz",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "m"
   },
-  "turkish_example_sentence": "Biz bu projede artık yardım etmiyoruz",
-  "english_example_sentence": "We are no longer helping with this project",
-  "russian_example_sentence": "Мы больше не помогаем с этим проектом",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:04:53.438479+00:00",
-  "turkish_example_sentence_with_blank": "Biz bu projede artık ______"
+  "turkish_example_sentence": "Biz şu anda yeni müdüre ofis taşınma sürecinde yardım etmiyoruz",
+  "english_example_sentence": "We are not helping the new manager with the office moving process right now",
+  "russian_example_sentence": "Мы сейчас не помогаем новому директору с процессом переезда офиса",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:19:28.813224+00:00",
+  "turkish_example_sentence_with_blank": "Biz şu anda yeni müdüre ofis taşınma sürecinde ______"
 }

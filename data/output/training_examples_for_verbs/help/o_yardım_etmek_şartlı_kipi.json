@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım ederse",
     "root": "yardım et",
-    "tense_affix": "se",
+    "tense_affix": "erse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "O yaşlı kadına yardım ederse, herkes beğenir",
-  "english_example_sentence": "If he helps the old woman, everyone likes it",
-  "russian_example_sentence": "Если он поможет старой женщине, всем это нравится",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:07:05.419742+00:00",
-  "turkish_example_sentence_with_blank": "O yaşlı kadına ______, herkes beğenir"
+  "turkish_example_sentence": "O deneyimli mühendis genç ekibe teknik problemde yardım ederse hızlı çözeriz",
+  "english_example_sentence": "If that experienced engineer helps young team with technical problem, we solve quickly",
+  "russian_example_sentence": "Если тот опытный инженер поможет молодой команде с технической проблемой, мы решим быстро",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:27:45.431337+00:00",
+  "turkish_example_sentence_with_blank": "O deneyimli mühendis genç ekibe teknik problemde ______ hızlı çözeriz"
 }

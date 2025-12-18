@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "görünmedik",
     "root": "görün",
-    "tense_affix": "medik",
+    "tense_affix": "dü",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Biz dün hiç güzel görünmedik",
-  "english_example_sentence": "We didn't seem beautiful yesterday",
-  "russian_example_sentence": "Вчера мы не казались красивыми",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T14:57:37.422343+00:00",
-  "turkish_example_sentence_with_blank": "Biz dün hiç güzel ______"
+  "turkish_example_sentence": "Biz uzun tatil gezisinden sonra dinlenmiş görünmedik",
+  "english_example_sentence": "We did not seem rested after the long vacation trip",
+  "russian_example_sentence": "Мы не казались отдохнувшими после долгой туристической поездки",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T09:52:52.147746+00:00",
+  "turkish_example_sentence_with_blank": "Biz uzun tatil gezisinden sonra dinlenmiş ______"
 }

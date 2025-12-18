@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "She did not play volleyball at school",
-  "russian_example_sentence": "Она не играла в волейбол в школе",
-  "turkish_example_sentence": "O okul bahçesinde heyecanlı voleybol oynamadı",
-  "turkish_example_sentence_with_blank": "O okul bahçesinde heyecanlı voleybol ______"
+  "turkish_example_sentence": "O hasta olduğu için bugün dışarıda oynamadı.",
+  "english_example_sentence": "He/She didn't play outside today because he/she was sick.",
+  "russian_example_sentence": "Он/Она не играл(а) на улице сегодня, потому что был(а) болен(больна).",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:39:06.949333+00:00",
+  "turkish_example_sentence_with_blank": "O hasta olduğu için bugün dışarıda ______."
 }

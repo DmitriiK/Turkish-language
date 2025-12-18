@@ -4,19 +4,19 @@
   "verb_russian": "помогать",
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
-    "verb_full": "yardım etmesin",
+    "verb_full": "yardım etmeye",
     "root": "yardım et",
-    "tense_affix": "",
+    "tense_affix": "e",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "o",
     "personal_affix": "",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "O bize yardım etmesin",
-  "english_example_sentence": "Let him not help us",
-  "russian_example_sentence": "Пусть он нам не поможет",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:05:43.743075+00:00",
-  "turkish_example_sentence_with_blank": "O bize ______"
+  "turkish_example_sentence": "O kötü niyetli yabancı şüpheli finansal işlemde yardım etmeye",
+  "english_example_sentence": "May he not help the malicious stranger with the suspicious financial transaction",
+  "russian_example_sentence": "Пусть он не помогает злонамеренному незнакомцу с подозрительной финансовой операцией",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:23:00.025392+00:00",
+  "turkish_example_sentence_with_blank": "O kötü niyetli yabancı şüpheli finansal işlemde ______"
 }

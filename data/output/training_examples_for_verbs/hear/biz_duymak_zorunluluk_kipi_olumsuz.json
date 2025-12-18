@@ -4,7 +4,7 @@
   "verb_russian": "слышать",
   "verb_infinitive": "duymak",
   "turkish_verb": {
-    "verb_full": "duymayalıyız",
+    "verb_full": "duymamalıyız",
     "root": "duy",
     "tense_affix": "malı",
     "verb_tense": "zorunluluk_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "We must not hear the loud noise tonight",
-  "russian_example_sentence": "Мы не должны слышать громкий шум сегодня ночью",
-  "turkish_example_sentence": "Biz bu gece yüksek sesi duymayalıyız",
-  "turkish_example_sentence_with_blank": "Biz bu gece yüksek sesi ______"
+  "turkish_example_sentence": "Biz kötü niyetli fısıltıları asla duymamalıyız.",
+  "english_example_sentence": "We must never hear malicious whispers.",
+  "russian_example_sentence": "Мы никогда не должны слышать злобные шепоты.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:12:00.904231+00:00",
+  "turkish_example_sentence_with_blank": "Biz kötü niyetli fısıltıları asla ______."
 }

@@ -4,19 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünüyor",
+    "verb_full": "görünmesi lazım",
     "root": "görün",
-    "tense_affix": "üyor",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "sı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "O yeni elbise ile çok güzel görünüyor",
-  "english_example_sentence": "He/She seems very beautiful with the new dress",
-  "russian_example_sentence": "Он/Она кажется очень красивой в новом платье",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T14:58:44.893556+00:00",
-  "turkish_example_sentence_with_blank": "O yeni elbise ile çok güzel ______"
+  "turkish_example_sentence": "O kızın düğün töreninde mutlu ve şık görünmesi lazım",
+  "english_example_sentence": "She needs to seem happy and elegant at the wedding ceremony",
+  "russian_example_sentence": "Ей нужно казаться счастливой и элегантной на свадебной церемонии",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T09:57:56.792623+00:00",
+  "turkish_example_sentence_with_blank": "O kızın düğün töreninde mutlu ve şık ______"
 }

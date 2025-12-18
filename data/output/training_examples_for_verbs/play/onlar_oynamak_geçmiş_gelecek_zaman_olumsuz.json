@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "oynamayacaklardı",
     "root": "oyna",
-    "tense_affix": "mayacaklardı",
+    "tense_affix": "yacak",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lardı",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "They weren't going to play chess.",
-  "russian_example_sentence": "Они не собирались играть в шахматы.",
-  "turkish_example_sentence": "Onlar kütüphanede satranç dikkatlice oynamayacaklardı.",
-  "turkish_example_sentence_with_blank": "Onlar kütüphanede satranç dikkatlice ______."
+  "turkish_example_sentence": "Onlar bu kötü hava şartlarında kesinlikle oynamayacaklardı.",
+  "english_example_sentence": "They were definitely not going to play in these bad weather conditions.",
+  "russian_example_sentence": "Они определенно не собирались играть в этих плохих погодных условиях.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:46:23.230916+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu kötü hava şartlarında kesinlikle ______."
 }

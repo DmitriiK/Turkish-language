@@ -4,7 +4,7 @@
   "verb_russian": "слышать",
   "verb_infinitive": "duymak",
   "turkish_verb": {
-    "verb_full": "duymayalısınız",
+    "verb_full": "duymamalısınız",
     "root": "duy",
     "tense_affix": "malı",
     "verb_tense": "zorunluluk_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You must not hear the confidential information",
-  "russian_example_sentence": "Вы не должны слышать конфиденциальную информацию",
-  "turkish_example_sentence": "Siz gizli bilgiyi duymayalısınız",
-  "turkish_example_sentence_with_blank": "Siz gizli bilgiyi ______"
+  "turkish_example_sentence": "Siz bu yalan yanlış haberleri duymamalısınız.",
+  "english_example_sentence": "You (pl) must not hear these false misleading news.",
+  "russian_example_sentence": "Вы не должны слышать эти ложные, вводящие в заблуждение новости.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:12:00.904231+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu yalan yanlış haberleri ______."
 }

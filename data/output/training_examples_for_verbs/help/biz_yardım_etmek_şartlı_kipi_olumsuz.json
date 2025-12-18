@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmezsek",
     "root": "yardım et",
-    "tense_affix": "mez",
+    "tense_affix": "mezse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "mez"
   },
-  "turkish_example_sentence": "Biz çevreye yardım etmezsek, ekosistem zarar görür",
-  "english_example_sentence": "If we don't help the environment, the ecosystem is damaged",
-  "russian_example_sentence": "Если мы не поможем окружающей среде, экосистема пострадает",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:07:05.419742+00:00",
-  "turkish_example_sentence_with_blank": "Biz çevreye ______, ekosistem zarar görür"
+  "turkish_example_sentence": "Biz yabancı turistlere şehir haritası okumada yardım etmezsek kaybolabilirler",
+  "english_example_sentence": "If we don't help foreign tourists with city map reading, they can get lost",
+  "russian_example_sentence": "Если мы не поможем иностранным туристам с чтением карты города, они могут заблудиться",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:27:45.431337+00:00",
+  "turkish_example_sentence_with_blank": "Biz yabancı turistlere şehir haritası okumada ______ kaybolabilirler"
 }

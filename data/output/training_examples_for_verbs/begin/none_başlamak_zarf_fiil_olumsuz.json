@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "başlamayarak",
     "root": "başla",
-    "tense_affix": "mayarak",
+    "tense_affix": "yarak",
     "verb_tense": "zarf_fiil",
     "personal_pronoun": null,
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You can't progress by not beginning.",
-  "russian_example_sentence": "Вы не сможете прогрессировать, не начиная.",
-  "turkish_example_sentence": "Sen başlamayarak ilerleyemezsin.",
-  "turkish_example_sentence_with_blank": "Sen ______ ilerleyemezsin."
+  "turkish_example_sentence": "Projeye erken başlamayarak son teslim tarihini kaçırdılar.",
+  "english_example_sentence": "By not beginning the project early, they missed the deadline.",
+  "russian_example_sentence": "Не начав проект рано, они пропустили крайний срок.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:46:36.511851+00:00",
+  "turkish_example_sentence_with_blank": "Projeye erken ______ son teslim tarihini kaçırdılar."
 }

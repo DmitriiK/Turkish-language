@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "koşacaksın",
     "root": "koş",
-    "tense_affix": "acak",
+    "tense_affix": "acağ",
     "verb_tense": "yaracağım",
     "personal_pronoun": "sen",
     "personal_affix": "sın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You will run to the distant forest",
-  "russian_example_sentence": "Ты будешь бегать в далёкий лес",
-  "turkish_example_sentence": "Sen yeşil ormana doğru çabuk koşacaksın",
-  "turkish_example_sentence_with_blank": "Sen yeşil ormana doğru çabuk ______"
+  "turkish_example_sentence": "Sen gelecek hafta yeni spor ayakkabılarınla hızlı koşacaksın.",
+  "english_example_sentence": "You will run fast with your new sports shoes next week.",
+  "russian_example_sentence": "Ты будешь быстро бегать в своих новых кроссовках на следующей неделе.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:59:59.748143+00:00",
+  "turkish_example_sentence_with_blank": "Sen gelecek hafta yeni spor ayakkabılarınla hızlı ______."
 }

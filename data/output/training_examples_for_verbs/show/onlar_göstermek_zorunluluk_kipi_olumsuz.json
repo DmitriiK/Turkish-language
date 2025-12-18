@@ -4,7 +4,7 @@
   "verb_russian": "показывать",
   "verb_infinitive": "göstermek",
   "turkish_verb": {
-    "verb_full": "göstermemeliler",
+    "verb_full": "göstermememeliler",
     "root": "göster",
     "tense_affix": "memeli",
     "verb_tense": "zorunluluk_kipi",
@@ -13,10 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Onlar bu tür eski eşyaları göstermemeliler",
-  "english_example_sentence": "They must not show this kind of old items",
-  "russian_example_sentence": "Они не должны показывать такие старые вещи",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:10:38.331485+00:00",
-  "turkish_example_sentence_with_blank": "Onlar bu tür eski eşyaları ______"
+  "turkish_example_sentence": "Onlar tehlikeli oyuncakları küçük çocuklara göstermememeliler",
+  "english_example_sentence": "They must not show dangerous toys to small children",
+  "russian_example_sentence": "Они не должны показывать опасные игрушки маленьким детям",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:43:22.105754+00:00",
+  "turkish_example_sentence_with_blank": "Onlar tehlikeli oyuncakları küçük çocuklara ______"
 }

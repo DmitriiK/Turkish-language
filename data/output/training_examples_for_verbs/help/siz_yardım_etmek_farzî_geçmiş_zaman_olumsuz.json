@@ -4,19 +4,19 @@
   "verb_russian": "помогать",
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
-    "verb_full": "yardım etmemişsiniz",
+    "verb_full": "yardım etmemişseniz",
     "root": "yardım et",
-    "tense_affix": "miş",
+    "tense_affix": "mişse",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "siniz",
+    "personal_affix": "niz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Siz bana yardım etmemişsiniz, canım sıkıldı",
-  "english_example_sentence": "If you had not helped me, I was disappointed",
-  "russian_example_sentence": "Если бы вы не помогли мне, я был разочарован",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:07:28.338524+00:00",
-  "turkish_example_sentence_with_blank": "Siz bana ______, canım sıkıldı"
+  "turkish_example_sentence": "Siz yaşlı kadına ağır bavulunu merdivenlerde taşımada yardım etmemişseniz utanırdınız",
+  "english_example_sentence": "If you had not helped the elderly woman carry her heavy suitcase on the stairs, you would be ashamed",
+  "russian_example_sentence": "Если бы вы не помогли пожилой женщине нести её тяжёлый чемодан по лестнице, вам было бы стыдно",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:28:30.756637+00:00",
+  "turkish_example_sentence_with_blank": "Siz yaşlı kadına ağır bavulunu merdivenlerde taşımada ______ utanırdınız"
 }

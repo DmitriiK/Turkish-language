@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "oynamasam",
     "root": "oyna",
-    "tense_affix": "masa",
+    "tense_affix": "sa",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I wish I would not play computer games",
-  "russian_example_sentence": "Я бы хотел не играть в компьютерные игры",
-  "turkish_example_sentence": "Keşke bilgisayar oyunları oynamasam",
-  "turkish_example_sentence_with_blank": "Keşke bilgisayar oyunları ______"
+  "turkish_example_sentence": "Ben bu sıkıcı tiyatro oyununu oynamasam, gerçekten rahatlarım.",
+  "english_example_sentence": "If I don't play in this boring theater play, I will truly relax.",
+  "russian_example_sentence": "Если я не буду играть в этой скучной театральной постановке, я действительно расслаблюсь.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:43:23.729480+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu sıkıcı tiyatro oyununu ______, gerçekten rahatlarım."
 }

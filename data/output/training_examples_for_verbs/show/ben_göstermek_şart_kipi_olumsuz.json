@@ -4,19 +4,19 @@
   "verb_russian": "показывать",
   "verb_infinitive": "göstermek",
   "turkish_verb": {
-    "verb_full": "göstermeseydim",
+    "verb_full": "göstermesem",
     "root": "göster",
     "tense_affix": "mese",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "yim",
+    "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Ben sana eski, kötü bir ev göstermeseydim",
-  "english_example_sentence": "If I couldn't show you an old, bad house",
-  "russian_example_sentence": "Если бы я не мог показать тебе старый, плохой дом",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:13:07.838794+00:00",
-  "turkish_example_sentence_with_blank": "Ben sana eski, kötü bir ev ______"
+  "turkish_example_sentence": "Ben önemli belgeleri müdüre göstermesem büyük sorun olur",
+  "english_example_sentence": "If I don't show the important documents to the manager, there will be a big problem",
+  "russian_example_sentence": "Если я не покажу важные документы менеджеру, будет большая проблема",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:41:30.705915+00:00",
+  "turkish_example_sentence_with_blank": "Ben önemli belgeleri müdüre ______ büyük sorun olur"
 }

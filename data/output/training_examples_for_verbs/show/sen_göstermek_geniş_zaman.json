@@ -4,19 +4,19 @@
   "verb_russian": "показывать",
   "verb_infinitive": "göstermek",
   "turkish_verb": {
-    "verb_full": "göstersin",
-    "root": "gösterm",
-    "tense_affix": "sin",
+    "verb_full": "gösterirsin",
+    "root": "göster",
+    "tense_affix": "ir",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Sen büyük bir yetenekle her şeyi göstersin",
-  "english_example_sentence": "You show everything with great talent",
-  "russian_example_sentence": "Ты показываешь всё с большим талантом",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:11:38.954472+00:00",
-  "turkish_example_sentence_with_blank": "Sen büyük bir yetenekle her şeyi ______"
+  "turkish_example_sentence": "Sen her zaman misafirlere güzel bahçeni büyük gururla gösterirsin",
+  "english_example_sentence": "You always show your beautiful garden to guests with great pride",
+  "russian_example_sentence": "Ты всегда показываешь свой красивый сад гостям с большой гордостью",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:39:52.083587+00:00",
+  "turkish_example_sentence_with_blank": "Sen her zaman misafirlere güzel bahçeni büyük gururla ______"
 }

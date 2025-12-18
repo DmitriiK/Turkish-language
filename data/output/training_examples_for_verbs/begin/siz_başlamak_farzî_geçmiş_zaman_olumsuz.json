@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "başlamamışsanız",
     "root": "başla",
-    "tense_affix": "mamışsanız",
+    "tense_affix": "mışsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If you hadn't started the argument...",
-  "russian_example_sentence": "Если бы вы не начали спор...",
-  "turkish_example_sentence": "Siz o gereksiz tartışmaya başlamamışsanız, şimdi daha iyi arkadaş olurdunuz.",
-  "turkish_example_sentence_with_blank": "Siz o gereksiz tartışmaya ______, şimdi daha iyi arkadaş olurdunuz."
+  "turkish_example_sentence": "Siz o derslere gitmeye başlamamışsanız, bu konuyu asla anlamazdınız.",
+  "english_example_sentence": "If you had not begun to attend those lessons, you would never understand this topic.",
+  "russian_example_sentence": "Если бы вы не начали посещать те уроки, вы бы никогда не поняли эту тему.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:46:12.940710+00:00",
+  "turkish_example_sentence_with_blank": "Siz o derslere gitmeye ______, bu konuyu asla anlamazdınız."
 }

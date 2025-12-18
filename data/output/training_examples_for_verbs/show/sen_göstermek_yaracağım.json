@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "göstereceksin",
     "root": "göster",
-    "tense_affix": "eceksin",
+    "tense_affix": "ecek",
     "verb_tense": "yaracağım",
     "personal_pronoun": "sen",
     "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Sen yeni evini göstereceksin",
-  "english_example_sentence": "You will show your new home",
-  "russian_example_sentence": "Ты покажешь свой новый дом",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:11:28.919466+00:00",
-  "turkish_example_sentence_with_blank": "Sen yeni evini ______"
+  "turkish_example_sentence": "Sen öğretmene bitmiş ödev defterini göstereceksin",
+  "english_example_sentence": "You will show your completed homework notebook to the teacher",
+  "russian_example_sentence": "Ты покажешь учителю свою законченную тетрадь с домашним заданием",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:39:12.199789+00:00",
+  "turkish_example_sentence_with_blank": "Sen öğretmene bitmiş ödev defterini ______"
 }

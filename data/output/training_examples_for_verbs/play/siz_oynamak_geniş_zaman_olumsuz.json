@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "oynamazsınız",
     "root": "oyna",
-    "tense_affix": "r",
+    "tense_affix": "z",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "sınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You do not play cricket in this region",
-  "russian_example_sentence": "Вы не играете в крикет в этом регионе",
-  "turkish_example_sentence": "Siz bu bölgede popüler olmayan kriket oyununu oynamazsınız",
-  "turkish_example_sentence_with_blank": "Siz bu bölgede popüler olmayan kriket oyununu ______"
+  "turkish_example_sentence": "Siz bu yeni karmaşık kart oyununu oynamazsınız.",
+  "english_example_sentence": "You don't play this new complex card game.",
+  "russian_example_sentence": "Вы не играете в эту новую сложную карточную игру.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:41:10.974537+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu yeni karmaşık kart oyununu ______."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "oynamamalılar",
     "root": "oyna",
-    "tense_affix": "malı",
+    "tense_affix": "mamalı",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "They must not play in the library",
-  "russian_example_sentence": "Они не должны играть в библиотеке",
-  "turkish_example_sentence": "Onlar sessiz ve sakin kütüphane alanında oynamamalılar",
-  "turkish_example_sentence_with_blank": "Onlar sessiz ve sakin kütüphane alanında ______"
+  "turkish_example_sentence": "Onlar sessiz kütüphanede yüksek sesli müzik oynamamalılar.",
+  "english_example_sentence": "They must not play loud music in the quiet library.",
+  "russian_example_sentence": "Они не должны играть громкую музыку в тихой библиотеке.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:45:46.092033+00:00",
+  "turkish_example_sentence_with_blank": "Onlar sessiz kütüphanede yüksek sesli müzik ______."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duyacaktım",
     "root": "duy",
-    "tense_affix": "acak",
+    "tense_affix": "acaktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "tım",
+    "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I was going to hear her sing.",
-  "russian_example_sentence": "Я собирался услышать, как она поет.",
-  "turkish_example_sentence": "Ben onun güzel şarkısını duyacaktım.",
-  "turkish_example_sentence_with_blank": "Ben onun güzel şarkısını ______."
+  "turkish_example_sentence": "Ben o önemli haberi radyodan duyacaktım.",
+  "english_example_sentence": "I was going to hear that important news from the radio.",
+  "russian_example_sentence": "Я собирался услышать эту важную новость по радио.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:12:37.846447+00:00",
+  "turkish_example_sentence_with_blank": "Ben o önemli haberi radyodan ______."
 }

@@ -9,14 +9,14 @@
     "tense_affix": "ecek",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "ti",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "O dün akşam arkadaşına yardım etmeyecekti",
-  "english_example_sentence": "He/She was not going to help his/her friend last night",
-  "russian_example_sentence": "Он/Она не собирался помочь своему другу прошлой ночью",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:06:54.201272+00:00",
-  "turkish_example_sentence_with_blank": "O dün akşam arkadaşına ______"
+  "turkish_example_sentence": "O deneyimli mimar şehir merkezinde modern alışveriş kompleksini tasarlamada yardım etmeyecekti",
+  "english_example_sentence": "She was not going to help design the modern shopping complex in the city center",
+  "russian_example_sentence": "Она не собиралась помогать проектировать современный торговый комплекс в центре города",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:27:02.582086+00:00",
+  "turkish_example_sentence_with_blank": "O deneyimli mimar şehir merkezinde modern alışveriş kompleksini tasarlamada ______"
 }

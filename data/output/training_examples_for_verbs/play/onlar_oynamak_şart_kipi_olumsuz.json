@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "oynamasalar",
     "root": "oyna",
-    "tense_affix": "masa",
+    "tense_affix": "sa",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "It would be better if they didn’t play too much",
-  "russian_example_sentence": "Было бы лучше, если бы они не играли слишком много",
-  "turkish_example_sentence": "Çok fazla oynamasalar daha iyi olur",
-  "turkish_example_sentence_with_blank": "Çok fazla ______ daha iyi olur"
+  "turkish_example_sentence": "Onlar bu adil olmayan kuralarla oynamasalar, tepki gösterirlerdi.",
+  "english_example_sentence": "If they didn't play with these unfair rules, they would have reacted.",
+  "russian_example_sentence": "Если бы они не играли по этим несправедливым правилам, они бы отреагировали.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:43:23.729480+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu adil olmayan kuralarla ______, tepki gösterirlerdi."
 }

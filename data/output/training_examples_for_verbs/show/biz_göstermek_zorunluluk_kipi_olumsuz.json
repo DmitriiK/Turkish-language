@@ -4,7 +4,7 @@
   "verb_russian": "показывать",
   "verb_infinitive": "göstermek",
   "turkish_verb": {
-    "verb_full": "göstermemeliyiz",
+    "verb_full": "göstermememeliyiz",
     "root": "göster",
     "tense_affix": "memeli",
     "verb_tense": "zorunluluk_kipi",
@@ -13,10 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Biz bu tür filmleri göstermemeliyiz",
-  "english_example_sentence": "We must not show this kind of movies",
-  "russian_example_sentence": "Мы не должны показывать такие фильмы",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:10:38.331485+00:00",
-  "turkish_example_sentence_with_blank": "Biz bu tür filmleri ______"
+  "turkish_example_sentence": "Biz üzgün yüzümüzü mutlu misafirlere göstermememeliyiz",
+  "english_example_sentence": "We must not show our sad faces to the happy guests",
+  "russian_example_sentence": "Мы не должны показывать наши грустные лица счастливым гостям",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:43:22.105754+00:00",
+  "turkish_example_sentence_with_blank": "Biz üzgün yüzümüzü mutlu misafirlere ______"
 }

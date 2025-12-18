@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "başlarsa",
     "root": "başla",
-    "tense_affix": "arsa",
+    "tense_affix": "rsa",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "O küçük çocuk piyano kursuna başlarsa müzisyen olabilir",
-  "english_example_sentence": "If that small child begins the piano course, he can become a musician",
-  "russian_example_sentence": "Если тот маленький ребёнок начнёт курс фортепиано, он может стать музыкантом",
-  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-16T10:44:32.714570+00:00",
-  "turkish_example_sentence_with_blank": "O küçük çocuk piyano kursuna ______ müzisyen olabilir"
+  "turkish_example_sentence": "O dersine düzenli başlarsa, başarılı bir öğrenci olur.",
+  "english_example_sentence": "If he/she begins his/her lesson regularly, he/she will become a successful student.",
+  "russian_example_sentence": "Если он/она начнет свой урок регулярно, он/она станет успешным студентом.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:45:40.651099+00:00",
+  "turkish_example_sentence_with_blank": "O dersine düzenli ______, başarılı bir öğrenci olur."
 }

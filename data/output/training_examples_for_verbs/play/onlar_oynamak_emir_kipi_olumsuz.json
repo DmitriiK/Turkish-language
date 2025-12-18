@@ -4,17 +4,19 @@
   "verb_russian": "играть",
   "verb_infinitive": "oynamak",
   "turkish_verb": {
-    "verb_full": "oynmasinlar",
+    "verb_full": "oynamasınlar",
     "root": "oyna",
     "tense_affix": "",
     "verb_tense": "emir_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "sinlar",
+    "personal_affix": "sınlar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "Don't let them play risky winter ice games",
-  "russian_example_sentence": "Не позволяй им играть в опасные зимние ледяные игры",
-  "turkish_example_sentence": "Onlar soğuk alanda tehlikeli buz oyunlarını oynmasinlar",
-  "turkish_example_sentence_with_blank": "Onlar soğuk alanda tehlikeli buz oyunlarını ______"
+  "turkish_example_sentence": "Onlar gürültülü müzikle bu salonda oynamasınlar.",
+  "english_example_sentence": "They shouldn't play in this hall with loud music.",
+  "russian_example_sentence": "Пусть они не играют в этом зале с громкой музыкой.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:42:51.055135+00:00",
+  "turkish_example_sentence_with_blank": "Onlar gürültülü müzikle bu salonda ______."
 }

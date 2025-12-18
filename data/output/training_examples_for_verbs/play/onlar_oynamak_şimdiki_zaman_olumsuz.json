@@ -5,7 +5,7 @@
   "verb_infinitive": "oynamak",
   "turkish_verb": {
     "verb_full": "oynamıyorlar",
-    "root": "oyn",
+    "root": "oyna",
     "tense_affix": "ıyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "onlar",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "m"
   },
-  "english_example_sentence": "They are not playing the dangerous extreme sport outside",
-  "russian_example_sentence": "Они не играют в опасный экстремальный вид спорта снаружи",
-  "turkish_example_sentence": "Onlar dışarıda tehlikeli uç spor oyununu oynamıyorlar",
-  "turkish_example_sentence_with_blank": "Onlar dışarıda tehlikeli uç spor oyununu ______"
+  "turkish_example_sentence": "Onlar genellikle hafta sonu bilgisayar başında hiç oynamıyorlar.",
+  "english_example_sentence": "They usually do not play at the computer at all on weekends.",
+  "russian_example_sentence": "Они обычно совсем не играют за компьютером по выходным.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:38:37.763149+00:00",
+  "turkish_example_sentence_with_blank": "Onlar genellikle hafta sonu bilgisayar başında hiç ______."
 }

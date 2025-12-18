@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "başlamamışsak",
     "root": "başla",
-    "tense_affix": "mamışsak",
+    "tense_affix": "mışsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If we hadn't started the renovation...",
-  "russian_example_sentence": "Если бы мы не начали ремонт...",
-  "turkish_example_sentence": "Biz o zorlu tadilata başlamamışsak, daha rahat bir yaz geçirebilirdik.",
-  "turkish_example_sentence_with_blank": "Biz o zorlu tadilata ______, daha rahat bir yaz geçirebilirdik."
+  "turkish_example_sentence": "Biz para biriktirmeye başlamamışsak, bu evi alamazdık.",
+  "english_example_sentence": "If we had not begun to save money, we couldn't buy this house.",
+  "russian_example_sentence": "Если бы мы не начали копить деньги, мы бы не смогли купить этот дом.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:46:12.940710+00:00",
+  "turkish_example_sentence_with_blank": "Biz para biriktirmeye ______, bu evi alamazdık."
 }

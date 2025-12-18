@@ -4,19 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünüyoruz",
+    "verb_full": "görüneceğiz",
     "root": "görün",
-    "tense_affix": "üyor",
+    "tense_affix": "eceğ",
     "verb_tense": "yaracağım",
     "personal_pronoun": "biz",
-    "personal_affix": "uz",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Biz takım olarak güçlü görünüyoruz",
-  "english_example_sentence": "We seem strong as a team",
-  "russian_example_sentence": "Мы кажемся сильными как команда",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T14:57:56.671732+00:00",
-  "turkish_example_sentence_with_blank": "Biz takım olarak güçlü ______"
+  "turkish_example_sentence": "Biz sıcak güneşli havada çok enerjik görüneceğiz",
+  "english_example_sentence": "We will seem very energetic in the warm sunny weather",
+  "russian_example_sentence": "Мы будем казаться очень энергичными в теплой солнечной погоде",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T09:54:08.906924+00:00",
+  "turkish_example_sentence_with_blank": "Biz sıcak güneşli havada çok enerjik ______"
 }

@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmedin",
     "root": "yardım et",
-    "tense_affix": "di",
+    "tense_affix": "me",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "in",
+    "personal_affix": "di",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "n"
   },
-  "turkish_example_sentence": "Sen kardeşine yardım etmedin mi?",
-  "english_example_sentence": "Didn't you help your brother?",
-  "russian_example_sentence": "Ты не помог брату?",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:05:03.857924+00:00",
-  "turkish_example_sentence_with_blank": "Sen kardeşine ______ mi?"
+  "turkish_example_sentence": "Sen fakir ailelere kış aylarında kömür dağıtımında yardım etmedin",
+  "english_example_sentence": "You did not help with coal distribution to poor families in winter months",
+  "russian_example_sentence": "Ты не помог с распределением угля бедным семьям в зимние месяцы",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:20:11.576964+00:00",
+  "turkish_example_sentence_with_blank": "Sen fakir ailelere kış aylarında kömür dağıtımında ______"
 }

@@ -5,18 +5,18 @@
   "verb_infinitive": "göstermek",
   "turkish_verb": {
     "verb_full": "göstermiyorsunuz",
-    "root": "gösterm",
-    "tense_affix": "miyor",
+    "root": "göster",
+    "tense_affix": "iyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "sunuz",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "mi"
   },
-  "turkish_example_sentence": "Siz yeni gelenlere eski eşyaları göstermiyorsunuz",
-  "english_example_sentence": "You are not showing new arrivals old things",
-  "russian_example_sentence": "Вы не показываете новым прибывшим старые вещи",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:10:58.816501+00:00",
-  "turkish_example_sentence_with_blank": "Siz yeni gelenlere eski eşyaları ______"
+  "turkish_example_sentence": "Siz saygı göstermiyorsunuz yaşlı insanlara",
+  "english_example_sentence": "You are not showing respect to elderly people",
+  "russian_example_sentence": "Вы не показываете уважение пожилым людям",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:37:22.455823+00:00",
+  "turkish_example_sentence_with_blank": "Siz saygı ______ yaşlı insanlara"
 }

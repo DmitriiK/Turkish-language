@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duyup",
     "root": "duy",
-    "tense_affix": "up",
+    "tense_affix": "yup",
     "verb_tense": "ulak_fiil",
     "personal_pronoun": null,
     "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Having heard the news, I became happy",
-  "russian_example_sentence": "Услышав новости, я обрадовался",
-  "turkish_example_sentence": "Haberleri duyup mutlu oldum",
-  "turkish_example_sentence_with_blank": "Haberleri ______ mutlu oldum"
+  "turkish_example_sentence": "Garip sesi duyup pencereye yaklaştı hızlıca.",
+  "english_example_sentence": "Having heard the strange sound, he quickly approached the window.",
+  "russian_example_sentence": "Услышав странный звук, он быстро подошел к окну.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:14:24.553796+00:00",
+  "turkish_example_sentence_with_blank": "Garip sesi ______ pencereye yaklaştı hızlıca."
 }

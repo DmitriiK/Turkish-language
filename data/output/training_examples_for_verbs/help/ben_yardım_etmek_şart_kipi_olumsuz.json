@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmesem",
     "root": "yardım et",
-    "tense_affix": "mes",
+    "tense_affix": "mese",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "em",
+    "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Ben zor durumda yardım etmesem",
-  "english_example_sentence": "If I were not to help in a difficult situation",
-  "russian_example_sentence": "Если бы я не помог в трудной ситуации",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:06:00.809632+00:00",
-  "turkish_example_sentence_with_blank": "Ben zor durumda ______"
+  "turkish_example_sentence": "Ben küçük kardeşime zor matematik ödevinde yardım etmesem",
+  "english_example_sentence": "If I were not to help my little brother with his difficult math homework",
+  "russian_example_sentence": "Если бы я не помог моему младшему брату с его трудным математическим заданием",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:24:12.681584+00:00",
+  "turkish_example_sentence_with_blank": "Ben küçük kardeşime zor matematik ödevinde ______"
 }

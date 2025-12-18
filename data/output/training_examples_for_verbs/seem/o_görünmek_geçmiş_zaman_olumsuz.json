@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "görünmedi",
     "root": "görün",
-    "tense_affix": "medi",
+    "tense_affix": "dü",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "O dün hiç iyi görünmedi",
-  "english_example_sentence": "He didn't seem good yesterday",
-  "russian_example_sentence": "Вчера он не казался хорошим",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T14:57:37.422343+00:00",
-  "turkish_example_sentence_with_blank": "O dün hiç iyi ______"
+  "turkish_example_sentence": "O dün gece karanlık sokakta hiç güvenli görünmedi",
+  "english_example_sentence": "It did not seem safe at all on the dark street last night",
+  "russian_example_sentence": "Это совсем не казалось безопасным на темной улице прошлой ночью",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T09:52:52.147746+00:00",
+  "turkish_example_sentence_with_blank": "O dün gece karanlık sokakta hiç güvenli ______"
 }

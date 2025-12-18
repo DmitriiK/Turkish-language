@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "koşmazlar",
     "root": "koş",
-    "tense_affix": "ar",
+    "tense_affix": "z",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "They do not run when it is extremely hot",
-  "russian_example_sentence": "Они не бегают когда очень жарко",
-  "turkish_example_sentence": "Onlar aşırı sıcak hava koşullarında uzun mesafe koşmazlar",
-  "turkish_example_sentence_with_blank": "Onlar aşırı sıcak hava koşullarında uzun mesafe ______"
+  "turkish_example_sentence": "Onlar sıcak havada öğleden sonra koşmazlar.",
+  "english_example_sentence": "They don't run in the afternoon in hot weather.",
+  "russian_example_sentence": "Они не бегают днем в жаркую погоду.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T15:00:44.755657+00:00",
+  "turkish_example_sentence_with_blank": "Onlar sıcak havada öğleden sonra ______."
 }

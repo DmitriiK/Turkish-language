@@ -9,12 +9,14 @@
     "tense_affix": "muşsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If he had heard the bird",
-  "russian_example_sentence": "Если бы он услышал птицу",
-  "turkish_example_sentence": "O sabah erkenden kuş sesini duymuşsa, mutlu olmuştur.",
-  "turkish_example_sentence_with_blank": "O sabah erkenden kuş sesini ______, mutlu olmuştur."
+  "turkish_example_sentence": "O kuş sesini duymuşsa, cama doğru bakardı.",
+  "english_example_sentence": "If he/she had heard the bird's sound, he/she would have looked towards the window.",
+  "russian_example_sentence": "Если бы он/она услышал звук птицы, он/она посмотрел бы в сторону окна.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:13:48.518626+00:00",
+  "turkish_example_sentence_with_blank": "O kuş sesini ______, cama doğru bakardı."
 }

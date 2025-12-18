@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duyayım",
     "root": "duy",
-    "tense_affix": "a",
+    "tense_affix": "ya",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "yım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Let me hear the cheerful song",
-  "russian_example_sentence": "Дай мне услышать весёлую песню",
-  "turkish_example_sentence": "Neşeli şarkıyı duyayım",
-  "turkish_example_sentence_with_blank": "Neşeli şarkıyı ______"
+  "turkish_example_sentence": "Ben bu güzel şarkıyı tekrar duyayım.",
+  "english_example_sentence": "Let me hear this beautiful song again.",
+  "russian_example_sentence": "Дай мне снова послушать эту прекрасную песню.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:08:58.147221+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu güzel şarkıyı tekrar ______."
 }

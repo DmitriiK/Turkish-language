@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duymazsın",
     "root": "duy",
-    "tense_affix": "ar",
+    "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "sın",
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "maz"
   },
-  "english_example_sentence": "You don't hear the soft whispers in the quiet library",
-  "russian_example_sentence": "Ты не слышишь мягкие шепоты в тихой библиотеке",
-  "turkish_example_sentence": "Sen sessiz kütüphanedeki hafif fısıltıları duymazsın",
-  "turkish_example_sentence_with_blank": "Sen sessiz kütüphanedeki hafif fısıltıları ______"
+  "turkish_example_sentence": "Sen arkandan gelen hafif ayak seslerini asla duymazsın.",
+  "english_example_sentence": "You never hear the light footsteps coming from behind you.",
+  "russian_example_sentence": "Ты никогда не слышишь легкие шаги, идущие сзади тебя.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:08:26.181215+00:00",
+  "turkish_example_sentence_with_blank": "Sen arkandan gelen hafif ayak seslerini asla ______."
 }

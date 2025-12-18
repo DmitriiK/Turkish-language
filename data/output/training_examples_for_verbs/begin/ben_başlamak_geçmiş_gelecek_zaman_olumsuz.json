@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "başlamayacaktım",
     "root": "başla",
-    "tense_affix": "mayacaktı",
+    "tense_affix": "yacaktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I was not going to start cooking",
-  "russian_example_sentence": "Я не собирался начинать готовить",
-  "turkish_example_sentence": "Ben yoğun program yüzünden yemeğe başlamayacaktım",
-  "turkish_example_sentence_with_blank": "Ben yoğun program yüzünden yemeğe ______"
+  "turkish_example_sentence": "Ben o zorlu göreve başlamayacaktım çünkü çok yorgundum.",
+  "english_example_sentence": "I was not going to begin that difficult task because I was very tired.",
+  "russian_example_sentence": "Я не собирался начинать то сложное задание, потому что был очень уставшим.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:44:36.512379+00:00",
+  "turkish_example_sentence_with_blank": "Ben o zorlu göreve ______ çünkü çok yorgundum."
 }

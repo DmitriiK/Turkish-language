@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "oynamamalısın",
     "root": "oyna",
-    "tense_affix": "malı",
+    "tense_affix": "mamalı",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "sın",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You must not play with sharp objects",
-  "russian_example_sentence": "Ты не должен играть с острыми предметами",
-  "turkish_example_sentence": "Sen tehlikeli keskin araçlarla hiç oynamamalısın",
-  "turkish_example_sentence_with_blank": "Sen tehlikeli keskin araçlarla hiç ______"
+  "turkish_example_sentence": "Sen gece geç saatte yüksek sesli müzik oynamamalısın.",
+  "english_example_sentence": "You must not play loud music late at night.",
+  "russian_example_sentence": "Ты не должен играть громкую музыку поздно ночью.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:45:46.092033+00:00",
+  "turkish_example_sentence_with_blank": "Sen gece geç saatte yüksek sesli müzik ______."
 }

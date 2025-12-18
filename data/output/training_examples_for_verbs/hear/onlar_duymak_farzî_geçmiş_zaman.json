@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duymuşlarsa",
     "root": "duy",
-    "tense_affix": "muşlarsa",
+    "tense_affix": "muşsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they had heard the debate",
-  "russian_example_sentence": "Если бы они услышали дебаты",
-  "turkish_example_sentence": "Onlar siyasi tartışmayı duymuşlarsa, fikirleri değişmiştir.",
-  "turkish_example_sentence_with_blank": "Onlar siyasi tartışmayı ______, fikirleri değişmiştir."
+  "turkish_example_sentence": "Onlar yeni şarkıyı duymuşlarsa, çok beğenmiş olmalılar.",
+  "english_example_sentence": "If they had heard the new song, they must have liked it very much.",
+  "russian_example_sentence": "Если бы они услышали новую песню, им, должно быть, она очень понравилась.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:13:48.518626+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yeni şarkıyı ______, çok beğenmiş olmalılar."
 }

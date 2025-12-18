@@ -9,14 +9,14 @@
     "tense_affix": "ir",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "sem",
+    "personal_affix": "se",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Ben yeni filmi izleyicilere gösterirsem, çok beğeneceklerdir",
-  "english_example_sentence": "If I show the new movie to the audience, they will like it very much",
-  "russian_example_sentence": "Если я покажу новый фильм аудитории, им очень понравится",
-  "generated_by_model": "LLAMA - meta.llama4-scout-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T11:36:14.071177+00:00",
-  "turkish_example_sentence_with_blank": "Ben yeni filmi izleyicilere ______, çok beğeneceklerdir"
+  "turkish_example_sentence": "Ben yeni fotoğraf albümümü gösterirsem çok mutlu olursun",
+  "english_example_sentence": "If I show my new photo album, you will be very happy",
+  "russian_example_sentence": "Если я покажу свой новый фотоальбом, ты будешь очень счастлив",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:43:57.943895+00:00",
+  "turkish_example_sentence_with_blank": "Ben yeni fotoğraf albümümü ______ çok mutlu olursun"
 }

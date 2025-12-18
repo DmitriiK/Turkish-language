@@ -4,17 +4,19 @@
   "verb_russian": "показывать",
   "verb_infinitive": "göstermek",
   "turkish_verb": {
-    "verb_full": "göstermesen",
+    "verb_full": "göstermezsen",
     "root": "göster",
-    "tense_affix": "se",
+    "tense_affix": "mez",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "se",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If you don't show them, they'll forget.",
-  "russian_example_sentence": "Если ты не покажешь их, они забудут.",
-  "turkish_example_sentence": "Onları göstermesen unuturlar.",
-  "turkish_example_sentence_with_blank": "Onları ______ unuturlar."
+  "turkish_example_sentence": "Sen kimlik kartını göstermezsen binaya giremezsin",
+  "english_example_sentence": "If you don't show your identity card, you cannot enter the building",
+  "russian_example_sentence": "Если ты не покажешь свою личную карту, ты не сможешь войти в здание",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:43:57.943895+00:00",
+  "turkish_example_sentence_with_blank": "Sen kimlik kartını ______ binaya giremezsin"
 }

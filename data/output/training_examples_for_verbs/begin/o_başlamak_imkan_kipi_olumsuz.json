@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "başlayamaz",
     "root": "başla",
-    "tense_affix": "yama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "z",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "yama"
   },
-  "turkish_example_sentence": "O yorgun olduğu için uzun yürüyüş gezisine başlayamaz",
-  "english_example_sentence": "He/she cannot begin the long walking trip because he/she is tired",
-  "russian_example_sentence": "Он/она не может начать долгую пешую прогулку, потому что он/она устал/а",
-  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-16T10:43:15.978221+00:00",
-  "turkish_example_sentence_with_blank": "O yorgun olduğu için uzun yürüyüş gezisine ______"
+  "turkish_example_sentence": "O derslerine yeterince çalışmadan asla başlayamaz.",
+  "english_example_sentence": "He/She can never begin his/her lessons without studying enough.",
+  "russian_example_sentence": "Он/Она никогда не сможет начать свои уроки, не поработав достаточно.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:43:33.742964+00:00",
+  "turkish_example_sentence_with_blank": "O derslerine yeterince çalışmadan asla ______."
 }

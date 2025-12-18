@@ -4,19 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünüyorsunuz",
+    "verb_full": "görünmüşseniz",
     "root": "görün",
-    "tense_affix": "üyor",
+    "tense_affix": "müşse",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "sunuz",
+    "personal_affix": "niz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Siz büyük toplantıda etkileyici görünüyorsunuz",
-  "english_example_sentence": "You seem impressive at the big meeting",
-  "russian_example_sentence": "Вы кажетесь впечатляющими на большом собрании",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T14:59:38.155169+00:00",
-  "turkish_example_sentence_with_blank": "Siz büyük toplantıda etkileyici ______"
+  "turkish_example_sentence": "Siz resmi toplantıda profesyonel görünmüşseniz müdür size yeni proje verecektir",
+  "english_example_sentence": "If you seemed professional at the official meeting, the manager will give you a new project",
+  "russian_example_sentence": "Если вы казались профессиональными на официальном собрании, менеджер даст вам новый проект",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:01:11.835487+00:00",
+  "turkish_example_sentence_with_blank": "Siz resmi toplantıda profesyonel ______ müdür size yeni proje verecektir"
 }

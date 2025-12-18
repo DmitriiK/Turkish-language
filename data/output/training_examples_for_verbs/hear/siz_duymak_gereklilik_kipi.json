@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duymanız lazım",
     "root": "duy",
-    "tense_affix": "ma",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "manız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You all need to hear the university professor's interesting lecture",
-  "russian_example_sentence": "Вы должны услышать интересную лекцию профессора университета",
-  "turkish_example_sentence": "Siz üniversite profesörünün ilginç dersini duymanız lazım",
-  "turkish_example_sentence_with_blank": "Siz üniversite profesörünün ilginç dersini ______"
+  "turkish_example_sentence": "Sizin bu tarihi hikayeleri duymanız lazım.",
+  "english_example_sentence": "You need to hear these historical stories.",
+  "russian_example_sentence": "Вам нужно услышать эти исторические истории.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:10:41.956352+00:00",
+  "turkish_example_sentence_with_blank": "Sizin bu tarihi hikayeleri ______."
 }

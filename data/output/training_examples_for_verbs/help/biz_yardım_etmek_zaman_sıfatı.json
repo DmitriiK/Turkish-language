@@ -4,19 +4,19 @@
   "verb_russian": "помогать",
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
-    "verb_full": "yardım ediyoruz",
+    "verb_full": "yardım ettiğimizde",
     "root": "yardım et",
-    "tense_affix": "iyor",
+    "tense_affix": "tiğ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "biz",
-    "personal_affix": "uz",
+    "personal_affix": "imiz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Biz ihtiyacı olan insanlara her zaman yardım ediyoruz",
-  "english_example_sentence": "We always help those in need",
-  "russian_example_sentence": "Мы всегда помогаем тем, кто в нужде",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:07:48.671678+00:00",
-  "turkish_example_sentence_with_blank": "Biz ihtiyacı olan insanlara her zaman ______"
+  "turkish_example_sentence": "Biz yerel çiftçilere hasat toplama işinde yardım ettiğimizde topluluk güçleniyor",
+  "english_example_sentence": "When we help local farmers with harvest collection work, the community strengthens",
+  "russian_example_sentence": "Когда мы помогаем местным фермерам с работой по сбору урожая, сообщество укрепляется",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:29:40.259153+00:00",
+  "turkish_example_sentence_with_blank": "Biz yerel çiftçilere hasat toplama işinde ______ topluluk güçleniyor"
 }

@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "görünmeseler",
     "root": "görün",
-    "tense_affix": "mes",
+    "tense_affix": "mese",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "negative",
-    "negative_affix": "mes"
+    "negative_affix": "me"
   },
-  "turkish_example_sentence": "Onlar hasta görünmeseler, işe giderler",
-  "english_example_sentence": "If they don't seem sick, they go to work",
-  "russian_example_sentence": "Если они не кажутся больными, они идут на работу",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T14:58:34.681314+00:00",
-  "turkish_example_sentence_with_blank": "Onlar hasta ______, işe giderler"
+  "turkish_example_sentence": "Onlar önemli sunumda korkmuş görünmeseler başarılı olurlar",
+  "english_example_sentence": "If they don't seem scared at the important presentation, they would be successful",
+  "russian_example_sentence": "Если они не будут казаться испуганными на важной презентации, они будут успешными",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T09:57:17.422436+00:00",
+  "turkish_example_sentence_with_blank": "Onlar önemli sunumda korkmuş ______ başarılı olurlar"
 }

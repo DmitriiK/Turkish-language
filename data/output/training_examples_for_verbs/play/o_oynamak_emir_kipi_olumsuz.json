@@ -4,7 +4,7 @@
   "verb_russian": "играть",
   "verb_infinitive": "oynamak",
   "turkish_verb": {
-    "verb_full": "oynmasin",
+    "verb_full": "oynamasın",
     "root": "oyna",
     "tense_affix": "",
     "verb_tense": "emir_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "Don't let him play dangerous street games",
-  "russian_example_sentence": "Не позволяй ему играть в опасные уличные игры",
-  "turkish_example_sentence": "O tehlikeli sokak oyunlarını bahçede oynmasin",
-  "turkish_example_sentence_with_blank": "O tehlikeli sokak oyunlarını bahçede ______"
+  "turkish_example_sentence": "O, bu akşam geç saatlere kadar oynamasın.",
+  "english_example_sentence": "He/She shouldn't play until late tonight.",
+  "russian_example_sentence": "Пусть он/она не играет до поздней ночи сегодня вечером.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:42:51.055135+00:00",
+  "turkish_example_sentence_with_blank": "O, bu akşam geç saatlere kadar ______."
 }

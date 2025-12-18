@@ -4,19 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünüyorsun",
+    "verb_full": "görünmüşsen",
     "root": "görün",
-    "tense_affix": "üyor",
+    "tense_affix": "müşse",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "sun",
+    "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Sen büyük şehirde başarılı görünüyorsun",
-  "english_example_sentence": "You seem successful in the big city",
-  "russian_example_sentence": "Ты кажешься успешным в большом городе",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T14:59:38.155169+00:00",
-  "turkish_example_sentence_with_blank": "Sen büyük şehirde başarılı ______"
+  "turkish_example_sentence": "Sen akşam yemeğinde sinirli görünmüşsen birisi seni kızdırmış olabilir",
+  "english_example_sentence": "If you seemed angry at dinner last night, someone might have upset you",
+  "russian_example_sentence": "Если ты казался сердитым за ужином вчера вечером, кто-то мог тебя расстроить",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:01:11.835487+00:00",
+  "turkish_example_sentence_with_blank": "Sen akşam yemeğinde sinirli ______ birisi seni kızdırmış olabilir"
 }

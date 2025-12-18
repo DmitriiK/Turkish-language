@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duymadığımda",
     "root": "duy",
-    "tense_affix": "ma",
+    "tense_affix": "dık",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "ben",
-    "personal_affix": "dığımda",
+    "personal_affix": "ım",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "When I don't hear the news, I worry.",
-  "russian_example_sentence": "Когда я не слышу новости, я беспокоюсь.",
-  "turkish_example_sentence": "Ben haberleri duymadığımda, endişelenirim.",
-  "turkish_example_sentence_with_blank": "Ben haberleri ______, endişelenirim."
+  "turkish_example_sentence": "Ben alarmı duymadığımda işe geç kaldım.",
+  "english_example_sentence": "When I didn't hear the alarm, I was late for work.",
+  "russian_example_sentence": "Когда я не услышал будильник, я опоздал на работу.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:15:04.285661+00:00",
+  "turkish_example_sentence_with_blank": "Ben alarmı ______ işe geç kaldım."
 }

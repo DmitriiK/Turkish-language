@@ -4,7 +4,7 @@
   "verb_russian": "помогать",
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
-    "verb_full": "yardım etmesi lazım değil",
+    "verb_full": "yardım etmemesi lazım",
     "root": "yardım et",
     "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
@@ -13,10 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "O bizimle yardım etmesi lazım değil",
-  "english_example_sentence": "He/She doesn't need to help us",
-  "russian_example_sentence": "Ему/ей не нужно помогать нам",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:06:23.181506+00:00",
-  "turkish_example_sentence_with_blank": "O bizimle ______"
+  "turkish_example_sentence": "O kötü niyetli insanlara yasadışı faaliyetlerinde yardım etmemesi lazım",
+  "english_example_sentence": "He/She needs not to help malicious people with their illegal activities",
+  "russian_example_sentence": "Ему/Ей не нужно помогать злонамеренным людям с их незаконной деятельностью",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:24:53.131894+00:00",
+  "turkish_example_sentence_with_blank": "O kötü niyetli insanlara yasadışı faaliyetlerinde ______"
 }

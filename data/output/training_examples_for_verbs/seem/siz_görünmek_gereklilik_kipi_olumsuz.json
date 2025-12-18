@@ -4,19 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmüyorsunuz",
+    "verb_full": "görünmemeniz lazım",
     "root": "görün",
-    "tense_affix": "üyor",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "sünüz",
+    "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Siz küçük kasabada mutsuz görünmüyorsunuz",
-  "english_example_sentence": "You don't seem unhappy in the small town",
-  "russian_example_sentence": "Вы не кажетесь несчастными в маленьком городе",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T14:58:44.893556+00:00",
-  "turkish_example_sentence_with_blank": "Siz küçük kasabada mutsuz ______"
+  "turkish_example_sentence": "Siz öğrenci velileriyle yapılan görüşmede sert ve katı görünmemeniz lazım",
+  "english_example_sentence": "You need to not seem harsh and rigid in the meeting with student parents",
+  "russian_example_sentence": "Вам нужно не казаться суровыми и жесткими на встрече с родителями учеников",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T09:57:56.792623+00:00",
+  "turkish_example_sentence_with_blank": "Siz öğrenci velileriyle yapılan görüşmede sert ve katı ______"
 }

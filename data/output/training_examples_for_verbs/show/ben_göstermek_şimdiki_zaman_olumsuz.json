@@ -5,18 +5,18 @@
   "verb_infinitive": "göstermek",
   "turkish_verb": {
     "verb_full": "göstermiyorum",
-    "root": "gösterm",
-    "tense_affix": "miyor",
+    "root": "göster",
+    "tense_affix": "iyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "um",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "mi"
   },
-  "turkish_example_sentence": "Ben eski filmleri göstermiyorum",
-  "english_example_sentence": "I am not showing old movies",
-  "russian_example_sentence": "Я не показываю старые фильмы",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:10:58.816501+00:00",
-  "turkish_example_sentence_with_blank": "Ben eski filmleri ______"
+  "turkish_example_sentence": "Ben özel belgelerimi kimseye göstermiyorum",
+  "english_example_sentence": "I am not showing my private documents to anyone",
+  "russian_example_sentence": "Я не показываю мои личные документы никому",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:37:22.455823+00:00",
+  "turkish_example_sentence_with_blank": "Ben özel belgelerimi kimseye ______"
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duymayacak",
     "root": "duy",
-    "tense_affix": "acak",
+    "tense_affix": "yacak",
     "verb_tense": "yaracağım",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "She will not hear the quiet whispers outside",
-  "russian_example_sentence": "Она не услышит тихие шепоты снаружи",
-  "turkish_example_sentence": "O dışarıdaki sessiz fısıltıları duymayacak",
-  "turkish_example_sentence_with_blank": "O dışarıdaki sessiz fısıltıları ______"
+  "turkish_example_sentence": "O, bu tartışmada taraflı sözleri duymayacak.",
+  "english_example_sentence": "He/She will not hear biased words in this discussion.",
+  "russian_example_sentence": "Он/Она не услышит предвзятых слов в этой дискуссии.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:57:47.824110+00:00",
+  "turkish_example_sentence_with_blank": "O, bu tartışmada taraflı sözleri ______."
 }

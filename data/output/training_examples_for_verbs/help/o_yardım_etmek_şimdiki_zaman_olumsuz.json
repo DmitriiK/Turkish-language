@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmiyor",
     "root": "yardım et",
-    "tense_affix": "mıyor",
+    "tense_affix": "iyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "m"
   },
-  "turkish_example_sentence": "O ihtiyacı olanlara yardım etmiyor",
-  "english_example_sentence": "He/She is not helping those in need",
-  "russian_example_sentence": "Он/Она не помогает тем, кто нуждается",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:04:53.438479+00:00",
-  "turkish_example_sentence_with_blank": "O ihtiyacı olanlara ______"
+  "turkish_example_sentence": "O hasta babasına günlük ev işlerinde yardım etmiyor",
+  "english_example_sentence": "She is not helping her sick father with daily household chores",
+  "russian_example_sentence": "Она не помогает своему больному отцу с ежедневными домашними делами",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:19:28.813224+00:00",
+  "turkish_example_sentence_with_blank": "O hasta babasına günlük ev işlerinde ______"
 }

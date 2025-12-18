@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "başlamazsa",
     "root": "başla",
-    "tense_affix": "mazsa",
+    "tense_affix": "sa",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "turkish_example_sentence": "O genç adam üniversite eğitimine başlamazsa iyi iş bulamaz",
-  "english_example_sentence": "If that young man doesn't begin university education, he cannot find a good job",
-  "russian_example_sentence": "Если тот молодой человек не начнёт университетское образование, он не сможет найти хорошую работу",
-  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-16T10:44:32.714570+00:00",
-  "turkish_example_sentence_with_blank": "O genç adam üniversite eğitimine ______ iyi iş bulamaz"
+  "turkish_example_sentence": "O işe geç başlamazsa, patronu ona asla kızmaz.",
+  "english_example_sentence": "If he/she doesn't begin work late, his/her boss will never get angry at him/her.",
+  "russian_example_sentence": "Если он/она не начнет работу поздно, его/ее начальник никогда не рассердится на него/нее.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:45:40.651099+00:00",
+  "turkish_example_sentence_with_blank": "O işe geç ______, patronu ona asla kızmaz."
 }

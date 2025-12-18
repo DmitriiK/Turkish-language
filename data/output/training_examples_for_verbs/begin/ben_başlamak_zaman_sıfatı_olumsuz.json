@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "başlamadığımda",
     "root": "başla",
-    "tense_affix": "dık",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "ben",
-    "personal_affix": "ım",
+    "personal_affix": "ım da",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "When I don't begin early, I rush",
-  "russian_example_sentence": "Когда я не начинаю рано, я тороплюсь",
-  "turkish_example_sentence": "Ben erkenden başlamadığımda, acele ediyorum",
-  "turkish_example_sentence_with_blank": "Ben erkenden ______, acele ediyorum"
+  "turkish_example_sentence": "Ben ödevime erken başlamadığımda, stresli hissederim.",
+  "english_example_sentence": "When I don't begin my homework early, I feel stressed.",
+  "russian_example_sentence": "Когда я не начинаю свою домашнюю работу рано, я чувствую себя напряженным.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:47:23.278752+00:00",
+  "turkish_example_sentence_with_blank": "Ben ödevime erken ______, stresli hissederim."
 }

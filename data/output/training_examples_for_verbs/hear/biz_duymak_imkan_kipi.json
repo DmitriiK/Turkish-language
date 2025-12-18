@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duyabiliriz",
     "root": "duy",
-    "tense_affix": "abil",
+    "tense_affix": "yabil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "iriz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We can hear the cheerful children playing in the park",
-  "russian_example_sentence": "Мы можем слышать веселых детей, играющих в парке",
-  "turkish_example_sentence": "Biz parkta oynayan neşeli çocukları duyabiliriz",
-  "turkish_example_sentence_with_blank": "Biz parkta oynayan neşeli çocukları ______"
+  "turkish_example_sentence": "Biz orman derinliklerindeki su şırıltısını duyabiliriz.",
+  "english_example_sentence": "We can hear the gurgle of water in the depths of the forest.",
+  "russian_example_sentence": "Мы можем слышать журчание воды в глубине леса.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:11:23.229325+00:00",
+  "turkish_example_sentence_with_blank": "Biz orman derinliklerindeki su şırıltısını ______."
 }

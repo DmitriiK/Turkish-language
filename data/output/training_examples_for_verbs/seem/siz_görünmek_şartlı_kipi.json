@@ -4,19 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünüyorsunuz",
+    "verb_full": "görünürseniz",
     "root": "görün",
-    "tense_affix": "üyor",
+    "tense_affix": "ürse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "sunuz",
+    "personal_affix": "niz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Siz yeni takımınızla başarılı görünüyorsunuz",
-  "english_example_sentence": "You seem successful with your new team",
-  "russian_example_sentence": "Вы кажетесь успешными с вашей новой командой",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T14:59:26.904994+00:00",
-  "turkish_example_sentence_with_blank": "Siz yeni takımınızla başarılı ______"
+  "turkish_example_sentence": "Siz resmi törende çok saygılı görünürseniz başkan sizi tebrik eder",
+  "english_example_sentence": "If you seem very respectful at the official ceremony, the president will congratulate you",
+  "russian_example_sentence": "Если вы покажетесь очень уважительными на официальной церемонии, президент вас поздравит",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:00:30.449762+00:00",
+  "turkish_example_sentence_with_blank": "Siz resmi törende çok saygılı ______ başkan sizi tebrik eder"
 }

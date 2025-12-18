@@ -4,19 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmüyoruz",
+    "verb_full": "görünmezsek",
     "root": "görün",
-    "tense_affix": "üyor",
+    "tense_affix": "mezse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "uz",
+    "personal_affix": "k",
     "polarity": "negative",
-    "negative_affix": "m"
+    "negative_affix": "mez"
   },
-  "turkish_example_sentence": "Biz yorgun olduğumuzdan zayıf görünmüyoruz",
-  "english_example_sentence": "We don't seem strong because we're tired",
-  "russian_example_sentence": "Мы не кажемся сильными, потому что устали",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T14:59:26.904994+00:00",
-  "turkish_example_sentence_with_blank": "Biz yorgun olduğumuzdan zayıf ______"
+  "turkish_example_sentence": "Biz tiyatro sahnesinde yeterince güvenli görünmezsek yönetmen kızar",
+  "english_example_sentence": "If we don't seem confident enough on the theater stage, the director will get angry",
+  "russian_example_sentence": "Если мы не покажемся достаточно уверенными на театральной сцене, режиссер рассердится",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:00:30.449762+00:00",
+  "turkish_example_sentence_with_blank": "Biz tiyatro sahnesinde yeterince güvenli ______ yönetmen kızar"
 }

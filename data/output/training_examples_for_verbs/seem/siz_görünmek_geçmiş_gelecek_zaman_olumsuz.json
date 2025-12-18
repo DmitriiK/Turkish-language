@@ -4,19 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmeyeceksiniz",
+    "verb_full": "görünmeyecektiniz",
     "root": "görün",
-    "tense_affix": "ecek",
+    "tense_affix": "ecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "siniz",
+    "personal_affix": "niz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Siz bu kadar zayıf görünmeyeceksiniz",
-  "english_example_sentence": "You won't seem so weak",
-  "russian_example_sentence": "Вы не будете казаться такими слабыми",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T14:59:16.517282+00:00",
-  "turkish_example_sentence_with_blank": "Siz bu kadar zayıf ______"
+  "turkish_example_sentence": "Siz üniversite sınavında endişeli görünmeyecektiniz ama hissettiniz",
+  "english_example_sentence": "You were not going to seem worried at the university exam but you felt",
+  "russian_example_sentence": "Вы не собирались казаться обеспокоенными на университетском экзамене, но вы чувствовали",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T09:59:48.245977+00:00",
+  "turkish_example_sentence_with_blank": "Siz üniversite sınavında endişeli ______ ama hissettiniz"
 }

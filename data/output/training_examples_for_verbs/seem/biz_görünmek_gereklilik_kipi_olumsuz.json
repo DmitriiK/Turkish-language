@@ -4,19 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmüyoruz",
+    "verb_full": "görünmememiz lazım",
     "root": "görün",
-    "tense_affix": "üyor",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "uz",
+    "personal_affix": "mız",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Biz küçük kasabada mutsuz görünmüyoruz",
-  "english_example_sentence": "We don't seem unhappy in the small town",
-  "russian_example_sentence": "Мы не кажемся несчастными в маленьком городе",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T14:58:44.893556+00:00",
-  "turkish_example_sentence_with_blank": "Biz küçük kasabada mutsuz ______"
+  "turkish_example_sentence": "Biz yabancı turistlerin önünde kaba ve saygısız görünmememiz lazım",
+  "english_example_sentence": "We need to not seem rude and disrespectful in front of foreign tourists",
+  "russian_example_sentence": "Нам нужно не казаться грубыми и неуважительными перед иностранными туристами",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T09:57:56.792623+00:00",
+  "turkish_example_sentence_with_blank": "Biz yabancı turistlerin önünde kaba ve saygısız ______"
 }

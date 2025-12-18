@@ -4,19 +4,19 @@
   "verb_russian": "помогать",
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
-    "verb_full": "yardım ediyorlar",
+    "verb_full": "yardım ettiklerinde",
     "root": "yardım et",
-    "tense_affix": "iyor",
+    "tense_affix": "tik",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "leri",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Onlar çevre koruma projelerine aktif olarak yardım ediyorlar",
-  "english_example_sentence": "They actively help environmental protection projects",
-  "russian_example_sentence": "Они активно помогают проектам по защите окружающей среды",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:07:48.671678+00:00",
-  "turkish_example_sentence_with_blank": "Onlar çevre koruma projelerine aktif olarak ______"
+  "turkish_example_sentence": "Onlar sokak hayvanlarına yiyecek temin etmede yardım ettiklerinde çevre daha güvenli hale geliyor",
+  "english_example_sentence": "When they help with providing food to street animals, the environment becomes safer",
+  "russian_example_sentence": "Когда они помогают с обеспечением еды для уличных животных, окружающая среда становится безопаснее",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:29:40.259153+00:00",
+  "turkish_example_sentence_with_blank": "Onlar sokak hayvanlarına yiyecek temin etmede ______ çevre daha güvenli hale geliyor"
 }

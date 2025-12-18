@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "oynamamalıyız",
     "root": "oyna",
-    "tense_affix": "malı",
+    "tense_affix": "mamalı",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "We must not play loud music at night",
-  "russian_example_sentence": "Мы не должны играть громкую музыку ночью",
-  "turkish_example_sentence": "Biz gece saatlerinde yüksek sesi rock müzik oynamamalıyız",
-  "turkish_example_sentence_with_blank": "Biz gece saatlerinde yüksek sesi rock müzik ______"
+  "turkish_example_sentence": "Biz ciddi toplantı sırasında hiçbir oyun oynamamalıyız.",
+  "english_example_sentence": "We must not play any games during the serious meeting.",
+  "russian_example_sentence": "Мы не должны играть ни в какие игры во время серьезного совещания.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:45:46.092033+00:00",
+  "turkish_example_sentence_with_blank": "Biz ciddi toplantı sırasında hiçbir oyun ______."
 }

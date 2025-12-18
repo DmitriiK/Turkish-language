@@ -5,7 +5,7 @@
   "verb_infinitive": "oynamak",
   "turkish_verb": {
     "verb_full": "oynamıyoruz",
-    "root": "oyn",
+    "root": "oyna",
     "tense_affix": "ıyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "biz",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "m"
   },
-  "english_example_sentence": "We are not playing tennis on the green court today",
-  "russian_example_sentence": "Мы не играем в теннис на зеленом корте сегодня",
-  "turkish_example_sentence": "Biz bugün yeşil kortda tenis maçını oynamıyoruz",
-  "turkish_example_sentence_with_blank": "Biz bugün yeşil kortda tenis maçını ______"
+  "turkish_example_sentence": "Biz asla tehlikeli oyunlar oynamıyoruz.",
+  "english_example_sentence": "We never play dangerous games.",
+  "russian_example_sentence": "Мы никогда не играем в опасные игры.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:38:37.763149+00:00",
+  "turkish_example_sentence_with_blank": "Biz asla tehlikeli oyunlar ______."
 }

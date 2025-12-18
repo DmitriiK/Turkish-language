@@ -4,19 +4,19 @@
   "verb_russian": "показывать",
   "verb_infinitive": "göstermek",
   "turkish_verb": {
-    "verb_full": "göstersinler",
+    "verb_full": "göstereler",
     "root": "göster",
-    "tense_affix": "",
+    "tense_affix": "e",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Onlar güzel resmi herkese göstersinler",
-  "english_example_sentence": "May they show the beautiful picture to everyone",
-  "russian_example_sentence": "Пусть они показывают красивую фотографию всем",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:11:49.688441+00:00",
-  "turkish_example_sentence_with_blank": "Onlar güzel resmi herkese ______"
+  "turkish_example_sentence": "Onlar jüriye yaratıcı sanat eserlerini göstereler",
+  "english_example_sentence": "May they show their creative art works to the jury",
+  "russian_example_sentence": "Пусть они покажут свои творческие произведения искусства жюри",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:40:28.141929+00:00",
+  "turkish_example_sentence_with_blank": "Onlar jüriye yaratıcı sanat eserlerini ______"
 }

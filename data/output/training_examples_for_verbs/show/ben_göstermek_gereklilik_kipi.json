@@ -4,19 +4,19 @@
   "verb_russian": "показывать",
   "verb_infinitive": "göstermek",
   "turkish_verb": {
-    "verb_full": "göstermeliyim",
-    "root": "göstermek",
-    "tense_affix": "meliyim",
+    "verb_full": "göstermem lazım",
+    "root": "göster",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "meliyim",
+    "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Ben renkli slaytları göstermeliyim",
-  "english_example_sentence": "I need to show the colorful slides",
-  "russian_example_sentence": "Мне нужно показать цветные слайды",
-  "generated_by_model": "LLAMA - meta.llama4-scout-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T11:35:28.681817+00:00",
-  "turkish_example_sentence_with_blank": "Ben renkli slaytları ______"
+  "turkish_example_sentence": "Ben yeni pasaportumu havaalanında göstermem lazım",
+  "english_example_sentence": "I need to show my new passport at the airport",
+  "russian_example_sentence": "Мне нужно показать мой новый паспорт в аэропорту",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:42:08.187254+00:00",
+  "turkish_example_sentence_with_blank": "Ben yeni pasaportumu havaalanında ______"
 }

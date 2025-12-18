@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "oynamayalım",
     "root": "oyna",
-    "tense_affix": "yalım",
+    "tense_affix": "ya",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "lım",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "Let's not play chess today.",
-  "russian_example_sentence": "Давайте не будем играть в шахматы сегодня.",
-  "turkish_example_sentence": "Biz bugün satranç oynamayalım.",
-  "turkish_example_sentence_with_blank": "Biz bugün satranç ______."
+  "turkish_example_sentence": "Biz yağmurlu havada dışarıda oynamayalım.",
+  "english_example_sentence": "Let's not play outside in the rainy weather.",
+  "russian_example_sentence": "Давай не будем играть на улице в дождливую погоду.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:42:22.304376+00:00",
+  "turkish_example_sentence_with_blank": "Biz yağmurlu havada dışarıda ______."
 }

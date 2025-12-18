@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duyabilirsiniz",
     "root": "duy",
-    "tense_affix": "abil",
+    "tense_affix": "yabil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "irsiniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You all can hear the beautiful classical music clearly",
-  "russian_example_sentence": "Вы все можете слышать красивую классическую музыку ясно",
-  "turkish_example_sentence": "Siz güzel klasik müziği açıkça duyabilirsiniz",
-  "turkish_example_sentence_with_blank": "Siz güzel klasik müziği açıkça ______"
+  "turkish_example_sentence": "Siz bu eski radyodan haberleri net duyabilirsiniz.",
+  "english_example_sentence": "You can clearly hear the news from this old radio.",
+  "russian_example_sentence": "Вы можете чётко слышать новости по этому старому радио.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:11:23.229325+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu eski radyodan haberleri net ______."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "başlamayacaktınız",
     "root": "başla",
-    "tense_affix": "mayacaktı",
+    "tense_affix": "yacaktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "nız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You were not going to start reading",
-  "russian_example_sentence": "Вы не собирались начинать читать",
-  "turkish_example_sentence": "Siz uzun roman okumaya başlamayacaktınız",
-  "turkish_example_sentence_with_blank": "Siz uzun roman okumaya ______"
+  "turkish_example_sentence": "Siz bu zorlu maratona başlamayacaktınız, antrenman yapmamıştınız.",
+  "english_example_sentence": "You were not going to begin this difficult marathon, you hadn't trained.",
+  "russian_example_sentence": "Вы не собирались начинать этот сложный марафон, вы не тренировались.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:44:36.512379+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu zorlu maratona ______, antrenman yapmamıştınız."
 }

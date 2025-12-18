@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duymayasın",
     "root": "duy",
-    "tense_affix": "a",
+    "tense_affix": "ya",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "sın",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "May you not hear the annoying sound",
-  "russian_example_sentence": "Пусть ты не услышишь раздражающий звук",
-  "turkish_example_sentence": "Rahatsız edici sesi duymayasın",
-  "turkish_example_sentence_with_blank": "Rahatsız edici sesi ______"
+  "turkish_example_sentence": "Sen bu gürültülü sesi artık duymayasın.",
+  "english_example_sentence": "May you not hear this noisy sound anymore.",
+  "russian_example_sentence": "Пусть ты больше не услышишь этот шумный звук.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:08:58.147221+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu gürültülü sesi artık ______."
 }

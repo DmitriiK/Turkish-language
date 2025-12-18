@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "görünmediniz",
     "root": "görün",
-    "tense_affix": "mediniz",
+    "tense_affix": "dü",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "nüz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Siz dün hiç güzel görünmediniz",
-  "english_example_sentence": "You didn't seem beautiful yesterday",
-  "russian_example_sentence": "Вчера вы не казались красивыми",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T14:57:37.422343+00:00",
-  "turkish_example_sentence_with_blank": "Siz dün hiç güzel ______"
+  "turkish_example_sentence": "Siz önemli müşteri görüşmesinde yeterince ilgili görünmediniz",
+  "english_example_sentence": "You did not seem interested enough at the important client meeting",
+  "russian_example_sentence": "Вы не казались достаточно заинтересованными на важной встрече с клиентом",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T09:52:52.147746+00:00",
+  "turkish_example_sentence_with_blank": "Siz önemli müşteri görüşmesinde yeterince ilgili ______"
 }

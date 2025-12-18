@@ -4,19 +4,19 @@
   "verb_russian": "показывать",
   "verb_infinitive": "göstermek",
   "turkish_verb": {
-    "verb_full": "gösteriyor",
+    "verb_full": "gösterebilir",
     "root": "göster",
-    "tense_affix": "iyor",
+    "tense_affix": "ebil",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "ir",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "O yeni gelen misafirlere sıcak bir şekilde gösteriyor",
-  "english_example_sentence": "He/She is showing warm hospitality to the new guests",
-  "russian_example_sentence": "Он/Она показывает тёплое гостеприимство новым гостям",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:10:14.597312+00:00",
-  "turkish_example_sentence_with_blank": "O yeni gelen misafirlere sıcak bir şekilde ______"
+  "turkish_example_sentence": "O yarın müdüre önemli proje sunumunu gösterebilir",
+  "english_example_sentence": "He/she can show the important project presentation to the manager tomorrow",
+  "russian_example_sentence": "Он/она может показать важную презентацию проекта менеджеру завтра",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:42:45.353961+00:00",
+  "turkish_example_sentence_with_blank": "O yarın müdüre önemli proje sunumunu ______"
 }

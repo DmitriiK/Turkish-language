@@ -4,19 +4,19 @@
   "verb_russian": "помогать",
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
-    "verb_full": "yardım etmiyor",
+    "verb_full": "yardım etmediğinde",
     "root": "yardım et",
-    "tense_affix": "iyor",
+    "tense_affix": "mediğ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "i",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "O küçük çocuklara bazen yardım etmiyor",
-  "english_example_sentence": "He sometimes doesn't help little children",
-  "russian_example_sentence": "Он иногда не помогает маленьким детям",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:07:48.671678+00:00",
-  "turkish_example_sentence_with_blank": "O küçük çocuklara bazen ______"
+  "turkish_example_sentence": "O genç öğrencilere matematik problemlerinde yardım etmediğinde başarısız oluyorlar",
+  "english_example_sentence": "When she doesn't help young students with math problems, they fail",
+  "russian_example_sentence": "Когда она не помогает молодым студентам с математическими задачами, они терпят неудачу",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:29:40.259153+00:00",
+  "turkish_example_sentence_with_blank": "O genç öğrencilere matematik problemlerinde ______ başarısız oluyorlar"
 }

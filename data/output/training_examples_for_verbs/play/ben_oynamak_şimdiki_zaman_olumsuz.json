@@ -5,7 +5,7 @@
   "verb_infinitive": "oynamak",
   "turkish_verb": {
     "verb_full": "oynamıyorum",
-    "root": "oyn",
+    "root": "oyna",
     "tense_affix": "ıyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "ben",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "m"
   },
-  "english_example_sentence": "I am not playing the difficult piano piece",
-  "russian_example_sentence": "Я не играю сложное музыкальное произведение",
-  "turkish_example_sentence": "Ben zor piyano parçasını şimdi oynamıyorum",
-  "turkish_example_sentence_with_blank": "Ben zor piyano parçasını şimdi ______"
+  "turkish_example_sentence": "Ben şimdi dışarıda yağmurda futbol oynamıyorum.",
+  "english_example_sentence": "I am not playing soccer outside in the rain now.",
+  "russian_example_sentence": "Я сейчас не играю в футбол на улице под дождем.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:38:37.763149+00:00",
+  "turkish_example_sentence_with_blank": "Ben şimdi dışarıda yağmurda futbol ______."
 }

@@ -4,7 +4,7 @@
   "verb_russian": "помогать",
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
-    "verb_full": "yardım etmeli",
+    "verb_full": "yardım etmeliler",
     "root": "yardım et",
     "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
@@ -13,10 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Onlar çevreye yardım etmeli",
-  "english_example_sentence": "They must help the environment",
-  "russian_example_sentence": "Они должны помочь окружающей среде",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:06:44.096565+00:00",
-  "turkish_example_sentence_with_blank": "Onlar çevreye ______"
+  "turkish_example_sentence": "Onlar deprem mağduru ailelere geçici barınak kurulumunda yardım etmeliler",
+  "english_example_sentence": "They must help earthquake victim families with setting up temporary shelters",
+  "russian_example_sentence": "Они должны помочь семьям пострадавших от землетрясения с установкой временных убежищ",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:26:17.314392+00:00",
+  "turkish_example_sentence_with_blank": "Onlar deprem mağduru ailelere geçici barınak kurulumunda ______"
 }

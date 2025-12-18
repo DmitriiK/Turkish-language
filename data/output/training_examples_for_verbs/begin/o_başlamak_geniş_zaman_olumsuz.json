@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "başlamaz",
     "root": "başla",
-    "tense_affix": "maz",
+    "tense_affix": "z",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "O soğuk havada uzun yürüyüş gezisine başlamaz",
-  "english_example_sentence": "He/she doesn't begin a long walking trip in cold weather",
-  "russian_example_sentence": "Он/она не начинает длинную пешую прогулку в холодную погоду",
-  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-16T10:47:59.729328+00:00",
-  "turkish_example_sentence_with_blank": "O soğuk havada uzun yürüyüş gezisine ______"
+  "turkish_example_sentence": "O genellikle yeni bir kitaba hemen başlamaz.",
+  "english_example_sentence": "He/She generally doesn't begin a new book immediately.",
+  "russian_example_sentence": "Он/Она обычно не начинает новую книгу сразу.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:40:27.351225+00:00",
+  "turkish_example_sentence_with_blank": "O genellikle yeni bir kitaba hemen ______."
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duymamışsak",
     "root": "duy",
-    "tense_affix": "mamışsa",
+    "tense_affix": "mışsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If we hadn't heard the warning",
-  "russian_example_sentence": "Если бы мы не услышали предупреждение",
-  "turkish_example_sentence": "Biz acil uyarıyı duymamışsak, tehlikede olurduk.",
-  "turkish_example_sentence_with_blank": "Biz acil uyarıyı ______, tehlikede olurduk."
+  "turkish_example_sentence": "Biz öğretmenimizin uyarısını duymamışsak, hata yapardık.",
+  "english_example_sentence": "If we hadn't heard our teacher's warning, we would have made a mistake.",
+  "russian_example_sentence": "Если бы мы не услышали предупреждение нашего учителя, мы бы совершили ошибку.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:13:48.518626+00:00",
+  "turkish_example_sentence_with_blank": "Biz öğretmenimizin uyarısını ______, hata yapardık."
 }

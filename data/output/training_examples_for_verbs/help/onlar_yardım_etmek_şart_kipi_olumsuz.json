@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmeseler",
     "root": "yardım et",
-    "tense_affix": "mes",
+    "tense_affix": "mese",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "er",
+    "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Onlar yaşlılara yardım etmeseler",
-  "english_example_sentence": "If they were not to help the elderly",
-  "russian_example_sentence": "Если бы они не помогли пожилым",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:06:00.809632+00:00",
-  "turkish_example_sentence_with_blank": "Onlar yaşlılara ______"
+  "turkish_example_sentence": "Onlar terk edilmiş köylerdeki eski tarihi binaların restorasyonunda yardım etmeseler",
+  "english_example_sentence": "If they were not to help with the restoration of old historic buildings in abandoned villages",
+  "russian_example_sentence": "Если бы они не помогли с реставрацией старых исторических зданий в заброшенных деревнях",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:24:12.681584+00:00",
+  "turkish_example_sentence_with_blank": "Onlar terk edilmiş köylerdeki eski tarihi binaların restorasyonunda ______"
 }

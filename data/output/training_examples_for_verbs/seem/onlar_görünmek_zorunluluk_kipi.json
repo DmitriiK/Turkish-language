@@ -4,19 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmeli",
+    "verb_full": "görünmeliler",
     "root": "görün",
     "tense_affix": "meli",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Onlar her zaman temiz ve düzenli görünmeli",
-  "english_example_sentence": "They must always look clean and tidy",
-  "russian_example_sentence": "Они всегда должны выглядеть чистыми и аккуратными",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T14:59:05.164192+00:00",
-  "turkish_example_sentence_with_blank": "Onlar her zaman temiz ve düzenli ______"
+  "turkish_example_sentence": "Onlar düğün töreninde mutlu görünmeliler",
+  "english_example_sentence": "They must seem happy at the wedding ceremony",
+  "russian_example_sentence": "Они должны казаться счастливыми на свадебной церемонии",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T09:59:09.342625+00:00",
+  "turkish_example_sentence_with_blank": "Onlar düğün töreninde mutlu ______"
 }

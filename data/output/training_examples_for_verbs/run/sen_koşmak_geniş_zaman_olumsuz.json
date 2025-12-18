@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "koşmazsın",
     "root": "koş",
-    "tense_affix": "ar",
+    "tense_affix": "z",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "sın",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You do not run during winter months",
-  "russian_example_sentence": "Ты не бегаешь в зимние месяцы",
-  "turkish_example_sentence": "Sen kış aylarında soğuk havada koşmazsın",
-  "turkish_example_sentence_with_blank": "Sen kış aylarında soğuk havada ______"
+  "turkish_example_sentence": "Sen uzun mesafeler genellikle koşmazsın.",
+  "english_example_sentence": "You generally don't run long distances.",
+  "russian_example_sentence": "Ты обычно не бегаешь на длинные дистанции.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T15:00:44.755657+00:00",
+  "turkish_example_sentence_with_blank": "Sen uzun mesafeler genellikle ______."
 }

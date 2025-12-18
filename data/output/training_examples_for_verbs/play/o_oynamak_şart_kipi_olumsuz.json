@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "oynamasa",
     "root": "oyna",
-    "tense_affix": "masa",
+    "tense_affix": "sa",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "It would be better if he didn’t play noisy music",
-  "russian_example_sentence": "Было бы лучше, если бы он не играл громкую музыку",
-  "turkish_example_sentence": "Sesli müzik oynamasa daha iyi olurdu",
-  "turkish_example_sentence_with_blank": "Sesli müzik ______ daha iyi olurdu"
+  "turkish_example_sentence": "O şimdi dışarıda yağmurda oynamasa, kesinlikle üşümez.",
+  "english_example_sentence": "If he/she doesn't play outside in the rain now, he/she definitely won't get cold.",
+  "russian_example_sentence": "Если он/она сейчас не будет играть на улице под дождем, он/она точно не замерзнет.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:43:23.729480+00:00",
+  "turkish_example_sentence_with_blank": "O şimdi dışarıda yağmurda ______, kesinlikle üşümez."
 }

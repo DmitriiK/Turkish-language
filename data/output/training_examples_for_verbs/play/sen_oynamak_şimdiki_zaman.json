@@ -4,17 +4,19 @@
   "verb_russian": "играть",
   "verb_infinitive": "oynamak",
   "turkish_verb": {
-    "verb_full": "oynıyorsun",
+    "verb_full": "oynuyorsun",
     "root": "oyn",
-    "tense_affix": "ıyor",
+    "tense_affix": "uyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "sun",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You are playing basketball in the warm sunshine",
-  "russian_example_sentence": "Ты играешь в баскетбол в теплом солнечном свете",
-  "turkish_example_sentence": "Sen sıcak güneşte basketbol maçını oynıyorsun",
-  "turkish_example_sentence_with_blank": "Sen sıcak güneşte basketbol maçını ______"
+  "turkish_example_sentence": "Sen bu yeni tahta oyununu çok eğlenerek oynuyorsun.",
+  "english_example_sentence": "You are playing this new board game with great enjoyment.",
+  "russian_example_sentence": "Ты играешь в эту новую настольную игру с большим удовольствием.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:38:37.763149+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu yeni tahta oyununu çok eğlenerek ______."
 }

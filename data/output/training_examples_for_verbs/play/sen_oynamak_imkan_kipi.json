@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "oynayabilirsin",
     "root": "oyna",
-    "tense_affix": "yabil",
+    "tense_affix": "yabilir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "irsin",
+    "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can play football tomorrow.",
-  "russian_example_sentence": "Ты можешь играть в футбол завтра.",
-  "turkish_example_sentence": "Sen yeşil futbol sahasında hızlı oyunu oynayabilirsin.",
-  "turkish_example_sentence_with_blank": "Sen yeşil futbol sahasında hızlı oyunu ______."
+  "turkish_example_sentence": "Sen bu büyük bahçede serbestçe oynayabilirsin.",
+  "english_example_sentence": "You can play freely in this large garden.",
+  "russian_example_sentence": "Ты можешь свободно играть в этом большом саду.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:45:17.691969+00:00",
+  "turkish_example_sentence_with_blank": "Sen bu büyük bahçede serbestçe ______."
 }

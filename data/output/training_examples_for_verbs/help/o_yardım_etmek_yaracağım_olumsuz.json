@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmeyecek",
     "root": "yardım et",
-    "tense_affix": "edeceğ",
+    "tense_affix": "ecek",
     "verb_tense": "yaracağım",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "O zor durumda yardım etmeyecek",
-  "english_example_sentence": "He/She will not help in a difficult situation",
-  "russian_example_sentence": "Он/Она не поможет в трудной ситуации",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:05:24.596938+00:00",
-  "turkish_example_sentence_with_blank": "O zor durumda ______"
+  "turkish_example_sentence": "O pazartesi günü bize eski eşyaları yeni daireye taşımakta yardım etmeyecek",
+  "english_example_sentence": "She will not help us move old furniture to the new apartment on Monday",
+  "russian_example_sentence": "Она не поможет нам перевезти старую мебель в новую квартиру в понедельник",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:21:38.721426+00:00",
+  "turkish_example_sentence_with_blank": "O pazartesi günü bize eski eşyaları yeni daireye taşımakta ______"
 }

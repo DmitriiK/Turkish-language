@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duymayacağız",
     "root": "duy",
-    "tense_affix": "acağ",
+    "tense_affix": "yacağ",
     "verb_tense": "yaracağım",
     "personal_pronoun": "biz",
     "personal_affix": "ız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "We will not hear the street traffic downtown",
-  "russian_example_sentence": "Мы не услышим шум уличного движения в центре",
-  "turkish_example_sentence": "Biz şehir merkezindeki sokak trafiğini duymayacağız",
-  "turkish_example_sentence_with_blank": "Biz şehir merkezindeki sokak trafiğini ______"
+  "turkish_example_sentence": "Biz bu toplantıda gereksiz şikayetleri duymayacağız.",
+  "english_example_sentence": "We will not hear unnecessary complaints at this meeting.",
+  "russian_example_sentence": "Мы не услышим ненужных жалоб на этом собрании.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:57:47.824110+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu toplantıda gereksiz şikayetleri ______."
 }

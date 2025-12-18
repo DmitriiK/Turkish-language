@@ -4,7 +4,7 @@
   "verb_russian": "помогать",
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
-    "verb_full": "yardım etmeyin",
+    "verb_full": "yardım etme",
     "root": "yardım et",
     "tense_affix": "",
     "verb_tense": "emir_kipi",
@@ -13,10 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Sen kardeşine yardım etmeyin",
-  "english_example_sentence": "You do not help your brother",
-  "russian_example_sentence": "Ты не помоги своему брату",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:05:50.620399+00:00",
-  "turkish_example_sentence_with_blank": "Sen kardeşine ______"
+  "turkish_example_sentence": "Sen tembel arkadaşa zor matematik ödevinde yardım etme",
+  "english_example_sentence": "You don't help the lazy friend with the difficult math homework",
+  "russian_example_sentence": "Ты не помогай ленивому другу с трудным математическим заданием",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:23:29.507784+00:00",
+  "turkish_example_sentence_with_blank": "Sen tembel arkadaşa zor matematik ödevinde ______"
 }

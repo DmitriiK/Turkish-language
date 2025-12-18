@@ -4,19 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünüyorsun",
+    "verb_full": "göründüğünde",
     "root": "görün",
-    "tense_affix": "üyor",
+    "tense_affix": "dük",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "sen",
-    "personal_affix": "sun",
+    "personal_affix": "ün",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Sen çok genç ve enerjik görünüyorsun",
-  "english_example_sentence": "You seem very young and energetic",
-  "russian_example_sentence": "Ты кажешься очень молодым и энергичным",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:00:07.672682+00:00",
-  "turkish_example_sentence_with_blank": "Sen çok genç ve enerjik ______"
+  "turkish_example_sentence": "Sen hasta göründüğünde doktor hemen ilaç yazıyor",
+  "english_example_sentence": "When you seem sick the doctor immediately prescribes medicine",
+  "russian_example_sentence": "Когда ты кажешься больным врач сразу выписывает лекарство",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:02:28.212337+00:00",
+  "turkish_example_sentence_with_blank": "Sen hasta ______ doktor hemen ilaç yazıyor"
 }

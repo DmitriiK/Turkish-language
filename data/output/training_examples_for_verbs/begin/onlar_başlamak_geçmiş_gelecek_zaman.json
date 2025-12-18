@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "başlayacaklardı",
     "root": "başla",
-    "tense_affix": "yacaktı",
+    "tense_affix": "ayacaktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lardı",
+    "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They were going to start building",
-  "russian_example_sentence": "Они собирались начать строить",
-  "turkish_example_sentence": "Onlar büyük yeni ev inşa etmeye başlayacaklardı",
-  "turkish_example_sentence_with_blank": "Onlar büyük yeni ev inşa etmeye ______"
+  "turkish_example_sentence": "Onlar yeni bir hobiye başlayacaklardı, malzemeleri almışlardı.",
+  "english_example_sentence": "They were going to begin a new hobby, they had bought the materials.",
+  "russian_example_sentence": "Они собирались начать новое хобби, они купили материалы.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:44:36.512379+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yeni bir hobiye ______, malzemeleri almışlardı."
 }

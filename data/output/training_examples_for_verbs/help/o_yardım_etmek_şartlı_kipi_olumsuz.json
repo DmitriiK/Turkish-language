@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmezse",
     "root": "yardım et",
-    "tense_affix": "mez",
+    "tense_affix": "mezse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "mez"
   },
-  "turkish_example_sentence": "O küçük çocuğa yardım etmezse, ağlar",
-  "english_example_sentence": "If he doesn't help the little child, he cries",
-  "russian_example_sentence": "Если он не поможет маленькому ребёнку, он плачет",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:07:05.419742+00:00",
-  "turkish_example_sentence_with_blank": "O küçük çocuğa ______, ağlar"
+  "turkish_example_sentence": "O profesyonel doktor acil ameliyatta yardım etmezse hasta hayatta kalamaz",
+  "english_example_sentence": "If that professional doctor doesn't help in emergency surgery, patient cannot survive",
+  "russian_example_sentence": "Если тот профессиональный врач не поможет в экстренной операции, пациент не сможет выжить",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:27:45.431337+00:00",
+  "turkish_example_sentence_with_blank": "O profesyonel doktor acil ameliyatta ______ hasta hayatta kalamaz"
 }

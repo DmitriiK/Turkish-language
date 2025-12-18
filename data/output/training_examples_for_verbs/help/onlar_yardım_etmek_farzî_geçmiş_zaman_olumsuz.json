@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmemişlerse",
     "root": "yardım et",
-    "tense_affix": "miş",
+    "tense_affix": "mişse",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lerse",
+    "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Onlar bana yardım etmemişlerse, bir şeyler yapmalıyım",
-  "english_example_sentence": "If they had not helped me, I should do something",
-  "russian_example_sentence": "Если бы они не помогли мне, я должен что-то сделать",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:07:28.338524+00:00",
-  "turkish_example_sentence_with_blank": "Onlar bana ______, bir şeyler yapmalıyım"
+  "turkish_example_sentence": "Onlar uzman teknisyenler arızalı bilgisayar sisteminin onarımında yardım etmemişlerse şirket zarar görürdü",
+  "english_example_sentence": "If they expert technicians had not helped repair the faulty computer system, the company would suffer losses",
+  "russian_example_sentence": "Если бы они эксперты-техники не помогли отремонтировать неисправную компьютерную систему, компания понесла бы убытки",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:28:30.756637+00:00",
+  "turkish_example_sentence_with_blank": "Onlar uzman teknisyenler arızalı bilgisayar sisteminin onarımında ______ şirket zarar görürdü"
 }

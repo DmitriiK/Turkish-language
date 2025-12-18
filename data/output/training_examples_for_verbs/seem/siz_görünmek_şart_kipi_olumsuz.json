@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "görünmeseniz",
     "root": "görün",
-    "tense_affix": "mes",
+    "tense_affix": "mese",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "niz",
     "polarity": "negative",
-    "negative_affix": "mes"
+    "negative_affix": "me"
   },
-  "turkish_example_sentence": "Siz güzel görünmeseniz, kimse size aşık olmaz",
-  "english_example_sentence": "If you don't seem beautiful, no one falls in love with you",
-  "russian_example_sentence": "Если вы не кажетесь красивыми, никто не влюбится в вас",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T14:58:34.681314+00:00",
-  "turkish_example_sentence_with_blank": "Siz güzel ______, kimse size aşık olmaz"
+  "turkish_example_sentence": "Siz akşam partisinde üzgün görünmeseniz daha iyi vakit geçirirsiniz",
+  "english_example_sentence": "If you don't seem sad at the evening party, you would have a better time",
+  "russian_example_sentence": "Если вы не будете казаться грустным на вечерней вечеринке, вы проведете время лучше",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T09:57:17.422436+00:00",
+  "turkish_example_sentence_with_blank": "Siz akşam partisinde üzgün ______ daha iyi vakit geçirirsiniz"
 }

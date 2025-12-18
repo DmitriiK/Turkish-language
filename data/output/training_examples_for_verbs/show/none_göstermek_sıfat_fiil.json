@@ -5,7 +5,7 @@
   "verb_infinitive": "göstermek",
   "turkish_verb": {
     "verb_full": "gösteren",
-    "root": "gösterm",
+    "root": "göster",
     "tense_affix": "en",
     "verb_tense": "sıfat_fiil",
     "personal_pronoun": null,
@@ -13,10 +13,10 @@
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Yeni film gösteren sinema çok popüler",
-  "english_example_sentence": "The cinema that shows new movies is very popular",
-  "russian_example_sentence": "Кинотеатр, показывающий новые фильмы, очень популярен",
-  "generated_by_model": "LLAMA - meta.llama4-scout-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T11:36:17.278031+00:00",
-  "turkish_example_sentence_with_blank": "Yeni film ______ sinema çok popüler"
+  "turkish_example_sentence": "Yol gösteren yaşlı adam bize çok yardım etti.",
+  "english_example_sentence": "The old man showing the way helped us a lot.",
+  "russian_example_sentence": "Старый мужчина, показывающий дорогу, очень нам помог.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:12:22.781636+00:00",
+  "turkish_example_sentence_with_blank": "Yol ______ yaşlı adam bize çok yardım etti."
 }

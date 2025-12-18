@@ -4,19 +4,19 @@
   "verb_russian": "помогать",
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
-    "verb_full": "yardım etmeseydi",
+    "verb_full": "yardım etmese",
     "root": "yardım et",
-    "tense_affix": "mes",
+    "tense_affix": "mese",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "O hasta çocuğa yardım etmeseydi",
-  "english_example_sentence": "If he/she were not to help the sick child",
-  "russian_example_sentence": "Если бы он/она не помог больному ребёнку",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:06:00.809632+00:00",
-  "turkish_example_sentence_with_blank": "O hasta çocuğa ______"
+  "turkish_example_sentence": "O yeni çalışanlara önemli proje sunumunda profesyonel yardım etmese",
+  "english_example_sentence": "If he/she were not to professionally help new employees with the important project presentation",
+  "russian_example_sentence": "Если бы он/она не помог новым сотрудникам профессионально с важной презентацией проекта",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:24:12.681584+00:00",
+  "turkish_example_sentence_with_blank": "O yeni çalışanlara önemli proje sunumunda profesyonel ______"
 }

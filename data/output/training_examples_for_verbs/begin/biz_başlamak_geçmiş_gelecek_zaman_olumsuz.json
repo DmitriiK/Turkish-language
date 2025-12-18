@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "başlamayacaktık",
     "root": "başla",
-    "tense_affix": "mayacaktı",
+    "tense_affix": "yacaktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "biz",
     "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "We were not going to start working",
-  "russian_example_sentence": "Мы не собирались начинать работать",
-  "turkish_example_sentence": "Biz karmaşık proje nedeniyle çalışmaya başlamayacaktık",
-  "turkish_example_sentence_with_blank": "Biz karmaşık proje nedeniyle çalışmaya ______"
+  "turkish_example_sentence": "Biz bu kadar erken çalışmaya başlamayacaktık, biraz daha uyuyacaktık.",
+  "english_example_sentence": "We were not going to begin working this early, we were going to sleep a bit more.",
+  "russian_example_sentence": "Мы не собирались начинать работать так рано, мы собирались ещё немного поспать.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:44:36.512379+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu kadar erken çalışmaya ______, biraz daha uyuyacaktık."
 }

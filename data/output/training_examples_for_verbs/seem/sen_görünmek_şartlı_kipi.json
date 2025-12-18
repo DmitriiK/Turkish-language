@@ -4,19 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünüyorsun",
+    "verb_full": "görünürsen",
     "root": "görün",
-    "tense_affix": "üyor",
+    "tense_affix": "ürse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "sun",
+    "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Sen yeni saçınla çok güzel görünüyorsun",
-  "english_example_sentence": "You seem very beautiful with your new hair",
-  "russian_example_sentence": "Ты кажешься очень красивой с новыми волосами",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T14:59:26.904994+00:00",
-  "turkish_example_sentence_with_blank": "Sen yeni saçınla çok güzel ______"
+  "turkish_example_sentence": "Sen akşam yemeğinde çok mutlu görünürsen herkesi sevindirirsin",
+  "english_example_sentence": "If you seem very happy at the dinner, you will make everyone glad",
+  "russian_example_sentence": "Если ты покажешься очень счастливым за ужином, ты всех обрадуешь",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:00:30.449762+00:00",
+  "turkish_example_sentence_with_blank": "Sen akşam yemeğinde çok mutlu ______ herkesi sevindirirsin"
 }

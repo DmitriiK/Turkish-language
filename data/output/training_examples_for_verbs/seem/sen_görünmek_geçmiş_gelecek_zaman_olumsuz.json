@@ -4,19 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmeyeceksin",
+    "verb_full": "görünmeyecektin",
     "root": "görün",
-    "tense_affix": "ecek",
+    "tense_affix": "ecekti",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "sin",
+    "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Sen bu kötü hava koşulları ile güzel görünmeyeceksin",
-  "english_example_sentence": "You won't seem good in these bad weather conditions",
-  "russian_example_sentence": "Ты не будешь казаться хорошим в этих плохих погодных условиях",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T14:59:16.517282+00:00",
-  "turkish_example_sentence_with_blank": "Sen bu kötü hava koşulları ile güzel ______"
+  "turkish_example_sentence": "Sen iş görüşmesinde gergin görünmeyecektin ama oldun",
+  "english_example_sentence": "You were not going to seem nervous at the job interview but you were",
+  "russian_example_sentence": "Ты не собирался казаться нервным на собеседовании, но ты был",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T09:59:48.245977+00:00",
+  "turkish_example_sentence_with_blank": "Sen iş görüşmesinde gergin ______ ama oldun"
 }

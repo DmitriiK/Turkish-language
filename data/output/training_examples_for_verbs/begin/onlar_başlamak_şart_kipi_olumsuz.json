@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "başlamasalar",
     "root": "başla",
-    "tense_affix": "masa",
+    "tense_affix": "sa",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Onlar soğuk hava yürüyüşüne dikkatle başlamasalar hasta olurlar",
-  "english_example_sentence": "If they were not to begin the cold weather walk carefully they will get sick",
-  "russian_example_sentence": "Если бы они не начали прогулку в холодную погоду осторожно, они заболеют",
-  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-16T10:42:01.536269+00:00",
-  "turkish_example_sentence_with_blank": "Onlar soğuk hava yürüyüşüne dikkatle ______ hasta olurlar"
+  "turkish_example_sentence": "Onlar bu büyük etkinliğe başlamasalar, kimse katılmaz.",
+  "english_example_sentence": "If they were not to start this big event, no one would participate.",
+  "russian_example_sentence": "Если бы они не начали это большое мероприятие, никто бы не участвовал.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:41:54.631518+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu büyük etkinliğe ______, kimse katılmaz."
 }

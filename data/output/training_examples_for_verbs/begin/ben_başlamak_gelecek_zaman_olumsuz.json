@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "başlamayacağım",
     "root": "başla",
-    "tense_affix": "yacak",
+    "tense_affix": "yacağ",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "ım",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Ben bu akşam sıkıcı toplantıya başlamayacağım",
-  "english_example_sentence": "I will not begin the boring meeting this evening",
-  "russian_example_sentence": "Я не начну скучное собрание этим вечером",
-  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-16T10:46:42.555672+00:00",
-  "turkish_example_sentence_with_blank": "Ben bu akşam sıkıcı toplantıya ______"
+  "turkish_example_sentence": "Ben bu tartışmaya asla başlamayacağım.",
+  "english_example_sentence": "I will never begin this argument.",
+  "russian_example_sentence": "Я никогда не начну этот спор.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:39:52.531149+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu tartışmaya asla ______."
 }

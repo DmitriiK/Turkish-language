@@ -4,19 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmüyoruz",
+    "verb_full": "görünmeyelim",
     "root": "görün",
-    "tense_affix": "üyor",
+    "tense_affix": "e",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "üz",
+    "personal_affix": "lim",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Biz bu projede başarılı görünmüyoruz",
-  "english_example_sentence": "We don't seem successful in this project",
-  "russian_example_sentence": "Мы не кажемся успешными в этом проекте",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T14:58:16.660921+00:00",
-  "turkish_example_sentence_with_blank": "Biz bu projede başarılı ______"
+  "turkish_example_sentence": "Biz misafirlerin önünde fakir düzensiz görünmeyelim",
+  "english_example_sentence": "Let us not seem poor and disorganized in front of the guests",
+  "russian_example_sentence": "Давайте не казаться бедными и неорганизованными перед гостями",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T09:55:49.706901+00:00",
+  "turkish_example_sentence_with_blank": "Biz misafirlerin önünde fakir düzensiz ______"
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "oynamazsam",
     "root": "oyna",
-    "tense_affix": "arsa",
+    "tense_affix": "sa",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If I don't play today, I will rest.",
-  "russian_example_sentence": "Если я не играю сегодня, я отдыхаю.",
-  "turkish_example_sentence": "Bugün oynamazsam dinleniyorum.",
-  "turkish_example_sentence_with_blank": "Bugün ______ dinleniyorum."
+  "turkish_example_sentence": "Ben bu video oyununu oynamazsam sıkılırım.",
+  "english_example_sentence": "If I don't play this video game, I will get bored.",
+  "russian_example_sentence": "Если я не буду играть в эту видеоигру, мне станет скучно.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:52:33.204632+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu video oyununu ______ sıkılırım."
 }

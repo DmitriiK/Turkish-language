@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "başlamadığında",
     "root": "başla",
-    "tense_affix": "dık",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "sen",
-    "personal_affix": "ın",
+    "personal_affix": "ın da",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "When you don't begin homework, you worry",
-  "russian_example_sentence": "Когда ты не начинаешь домашнее задание, ты волнуешься",
-  "turkish_example_sentence": "Sen ödevine başlamadığında, endişeleniyorsun",
-  "turkish_example_sentence_with_blank": "Sen ödevine ______, endişeleniyorsun"
+  "turkish_example_sentence": "Sen para biriktirmeye başlamadığında, zorluklarla karşılaşırsın.",
+  "english_example_sentence": "When you don't begin to save money, you face difficulties.",
+  "russian_example_sentence": "Когда ты не начинаешь копить деньги, ты сталкиваешься с трудностями.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:47:23.278752+00:00",
+  "turkish_example_sentence_with_blank": "Sen para biriktirmeye ______, zorluklarla karşılaşırsın."
 }

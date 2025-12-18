@@ -4,19 +4,19 @@
   "verb_russian": "показывать",
   "verb_infinitive": "göstermek",
   "turkish_verb": {
-    "verb_full": "göstermeyeceksiniz",
+    "verb_full": "göstermemeniz lazım",
     "root": "göster",
-    "tense_affix": "",
+    "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "siniz",
+    "personal_affix": "niz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Siz uzun hikayeyi göstermeyeceksiniz",
-  "english_example_sentence": "You don't need to show the long story",
-  "russian_example_sentence": "Вам не нужно показывать длинный рассказ",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:10:03.096295+00:00",
-  "turkish_example_sentence_with_blank": "Siz uzun hikayeyi ______"
+  "turkish_example_sentence": "Siz kişisel banka hesap bilgilerinizi yabancı insanlara göstermemeniz lazım",
+  "english_example_sentence": "You need to not show your personal bank account information to strangers",
+  "russian_example_sentence": "Вам не нужно показывать вашу личную информацию банковского счета незнакомцам",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:42:08.187254+00:00",
+  "turkish_example_sentence_with_blank": "Siz kişisel banka hesap bilgilerinizi yabancı insanlara ______"
 }

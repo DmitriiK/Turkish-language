@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmemişsek",
     "root": "yardım et",
-    "tense_affix": "miş",
+    "tense_affix": "mişse",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "sek",
+    "personal_affix": "k",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Biz birbirimize yardım etmemişsek, sorunlarımız olur",
-  "english_example_sentence": "If we had not helped each other, we would have problems",
-  "russian_example_sentence": "Если бы мы не помогли друг другу, у нас бы были проблемы",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:07:28.338524+00:00",
-  "turkish_example_sentence_with_blank": "Biz birbirimize ______, sorunlarımız olur"
+  "turkish_example_sentence": "Biz sokak hayvanlarına soğuk kış günlerinde yardım etmemişsek kendimizi kötü hissederdik",
+  "english_example_sentence": "If we had not helped street animals during cold winter days, we would feel bad about ourselves",
+  "russian_example_sentence": "Если бы мы не помогли уличным животным в холодные зимние дни, мы бы чувствовали себя плохо",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:28:30.756637+00:00",
+  "turkish_example_sentence_with_blank": "Biz sokak hayvanlarına soğuk kış günlerinde ______ kendimizi kötü hissederdik"
 }

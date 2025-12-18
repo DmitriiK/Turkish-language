@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "başlamam",
     "root": "başla",
-    "tense_affix": "ma",
+    "tense_affix": "",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Ben geç saatlerde yeni projeye asla başlamam",
-  "english_example_sentence": "I never begin a new project at late hours",
-  "russian_example_sentence": "Я никогда не начинаю новый проект в поздние часы",
-  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-16T10:47:59.729328+00:00",
-  "turkish_example_sentence_with_blank": "Ben geç saatlerde yeni projeye asla ______"
+  "turkish_example_sentence": "Ben asla önemli bir işe hazırlıksız başlamam.",
+  "english_example_sentence": "I never begin an important task unprepared.",
+  "russian_example_sentence": "Я никогда не начинаю важное дело неподготовленным.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:40:27.351225+00:00",
+  "turkish_example_sentence_with_blank": "Ben asla önemli bir işe hazırlıksız ______."
 }

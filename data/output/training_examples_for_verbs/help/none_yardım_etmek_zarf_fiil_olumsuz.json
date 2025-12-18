@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmeyerek",
     "root": "yardım et",
-    "tense_affix": "meyerek",
+    "tense_affix": "erek",
     "verb_tense": "zarf_fiil",
     "personal_pronoun": null,
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Sorunları yardım etmeyerek daha da kötüleştirdik",
-  "english_example_sentence": "We made the problems worse by not helping",
-  "russian_example_sentence": "Мы ухудшили проблемы, не помогая",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:07:34.338695+00:00",
-  "turkish_example_sentence_with_blank": "Sorunları ______ daha da kötüleştirdik"
+  "turkish_example_sentence": "Fakir çocuklara yardım etmeyerek kötü bir örnek oldular",
+  "english_example_sentence": "By not helping the poor children, they became a bad example",
+  "russian_example_sentence": "Не помогая бедным детям, они стали плохим примером",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:28:49.260104+00:00",
+  "turkish_example_sentence_with_blank": "Fakir çocuklara ______ kötü bir örnek oldular"
 }

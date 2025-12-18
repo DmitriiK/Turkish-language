@@ -11,10 +11,12 @@
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
-    "negative_affix": "m"
+    "negative_affix": "mu"
   },
-  "english_example_sentence": "They are not hearing the urgent warning bell ringing",
-  "russian_example_sentence": "Они не слышат звонящий срочный колокол",
-  "turkish_example_sentence": "Onlar çalan acil uyarı çanını duymuyorlar",
-  "turkish_example_sentence_with_blank": "Onlar çalan acil uyarı çanını ______"
+  "turkish_example_sentence": "Onlar öğretmenin önemli talimatlarını duymuyorlar.",
+  "english_example_sentence": "They are not hearing the teacher's important instructions.",
+  "russian_example_sentence": "Они не слышат важные указания учителя.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:05:42.561559+00:00",
+  "turkish_example_sentence_with_blank": "Onlar öğretmenin önemli talimatlarını ______."
 }

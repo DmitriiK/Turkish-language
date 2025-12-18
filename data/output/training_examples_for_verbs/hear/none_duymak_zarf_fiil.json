@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duyarak",
     "root": "duy",
-    "tense_affix": "arak",
+    "tense_affix": "yarak",
     "verb_tense": "zarf_fiil",
     "personal_pronoun": null,
     "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He understood the lecture by listening.",
-  "russian_example_sentence": "Он понял лекцию, слушая.",
-  "turkish_example_sentence": "O, dikkatlice dinleyerek dersi anladı.",
-  "turkish_example_sentence_with_blank": "O, dikkatlice dinleyerek dersi anladı."
+  "turkish_example_sentence": "Gürültüyü duyarak hemen kapıya koştum.",
+  "english_example_sentence": "Hearing the noise, I immediately ran to the door.",
+  "russian_example_sentence": "Услышав шум, я сразу же побежал к двери.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:14:11.376824+00:00",
+  "turkish_example_sentence_with_blank": "Gürültüyü ______ hemen kapıya koştum."
 }

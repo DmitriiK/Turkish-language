@@ -4,19 +4,19 @@
   "verb_russian": "помогать",
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
-    "verb_full": "yardım etmiyorsunuz",
+    "verb_full": "yardım etmediğinizde",
     "root": "yardım et",
-    "tense_affix": "iyor",
+    "tense_affix": "mediğ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "siz",
-    "personal_affix": "sunuz",
+    "personal_affix": "iniz",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Siz yeni öğrencilere bazen yardım etmiyorsunuz",
-  "english_example_sentence": "You sometimes don't help new students",
-  "russian_example_sentence": "Вы иногда не помогаете новым студентам",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:07:48.671678+00:00",
-  "turkish_example_sentence_with_blank": "Siz yeni öğrencilere bazen ______"
+  "turkish_example_sentence": "Siz yabancı turistlere yol tarifi vermede yardım etmediğinizde kayboluyorlar",
+  "english_example_sentence": "When you don't help foreign tourists with giving directions, they get lost",
+  "russian_example_sentence": "Когда вы не помогаете иностранным туристам с указанием направления, они теряются",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:29:40.259153+00:00",
+  "turkish_example_sentence_with_blank": "Siz yabancı turistlere yol tarifi vermede ______ kayboluyorlar"
 }

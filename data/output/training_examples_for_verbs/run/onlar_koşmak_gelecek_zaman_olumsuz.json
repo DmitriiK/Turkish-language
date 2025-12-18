@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "koşmayacaklar",
     "root": "koş",
-    "tense_affix": "acak",
+    "tense_affix": "yacak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "They will not run during the heavy rainstorm",
-  "russian_example_sentence": "Они не будут бегать во время сильного ливня",
-  "turkish_example_sentence": "Onlar şiddetli yağmur fırtınasında dışarıda koşmayacaklar",
-  "turkish_example_sentence_with_blank": "Onlar şiddetli yağmur fırtınasında dışarıda ______"
+  "turkish_example_sentence": "Onlar bu etkinlikte uzun süre koşmayacaklar.",
+  "english_example_sentence": "They will not run for a long time in this event.",
+  "russian_example_sentence": "Они не будут долго бегать на этом мероприятии.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:58:53.213888+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu etkinlikte uzun süre ______."
 }

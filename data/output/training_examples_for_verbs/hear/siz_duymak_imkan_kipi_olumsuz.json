@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duyamazsınız",
     "root": "duy",
-    "tense_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "zsınız",
+    "personal_affix": "sınız",
     "polarity": "negative",
-    "negative_affix": "ama"
+    "negative_affix": "yama"
   },
-  "english_example_sentence": "You cannot hear the quiet footsteps in the hallway",
-  "russian_example_sentence": "Вы не можете слышать тихие шаги в коридоре",
-  "turkish_example_sentence": "Siz koridordaki sessiz adımları duyamazsınız",
-  "turkish_example_sentence_with_blank": "Siz koridordaki sessiz adımları ______"
+  "turkish_example_sentence": "Siz kalabalık caddede önemli konuşmayı duyamazsınız.",
+  "english_example_sentence": "You cannot hear the important conversation on the crowded street.",
+  "russian_example_sentence": "Вы не можете слышать важный разговор на многолюдной улице.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:11:23.229325+00:00",
+  "turkish_example_sentence_with_blank": "Siz kalabalık caddede önemli konuşmayı ______."
 }

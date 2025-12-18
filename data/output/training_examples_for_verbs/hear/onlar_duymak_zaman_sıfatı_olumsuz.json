@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duymadıklarında",
     "root": "duy",
-    "tense_affix": "ma",
+    "tense_affix": "dık",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "onlar",
-    "personal_affix": "dıklarında",
+    "personal_affix": "ları",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "When they don't hear complaints, they are happy.",
-  "russian_example_sentence": "Когда они не слышат жалобы, они счастливы.",
-  "turkish_example_sentence": "Onlar şikayetleri duymadıklarında, mutludurlar.",
-  "turkish_example_sentence_with_blank": "Onlar şikayetleri ______, mutludurlar."
+  "turkish_example_sentence": "Onlar öğretmenin sorusunu duymadıklarında sessiz kaldılar.",
+  "english_example_sentence": "When they didn't hear the teacher's question, they remained silent.",
+  "russian_example_sentence": "Когда они не услышали вопрос учителя, они остались безмолвными.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:15:04.285661+00:00",
+  "turkish_example_sentence_with_blank": "Onlar öğretmenin sorusunu ______ sessiz kaldılar."
 }

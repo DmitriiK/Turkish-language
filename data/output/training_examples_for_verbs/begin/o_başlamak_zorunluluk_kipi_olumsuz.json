@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "başlamamalı",
     "root": "başla",
-    "tense_affix": "mamalı",
+    "tense_affix": "malı",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "O tehlikeli dağ yolculuğuna kış mevsiminde başlamamalı",
-  "english_example_sentence": "He/she must not begin the dangerous mountain journey in winter season",
-  "russian_example_sentence": "Он/она не должен начинать опасное горное путешествие в зимний сезон",
-  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-16T10:43:52.440340+00:00",
-  "turkish_example_sentence_with_blank": "O tehlikeli dağ yolculuğuna kış mevsiminde ______"
+  "turkish_example_sentence": "O doktora danışmadan yeni bir diyete başlamamalı.",
+  "english_example_sentence": "She must not begin a new diet without consulting a doctor.",
+  "russian_example_sentence": "Она не должна начинать новую диету без консультации с врачом.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:44:04.613463+00:00",
+  "turkish_example_sentence_with_blank": "O doktora danışmadan yeni bir diyete ______."
 }

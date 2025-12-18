@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım ettim",
     "root": "yardım et",
-    "tense_affix": "di",
+    "tense_affix": "ti",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "im",
+    "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Ben dün arkadaşımın ödevine yardım ettim",
-  "english_example_sentence": "I helped my friend's homework yesterday",
-  "russian_example_sentence": "Я помогал с домашним заданием моего друга вчера",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:05:03.857924+00:00",
-  "turkish_example_sentence_with_blank": "Ben dün arkadaşımın ödevine ______"
+  "turkish_example_sentence": "Ben yaşlı komşuma ağır alışveriş çantalarını taşımada yardım ettim",
+  "english_example_sentence": "I helped my elderly neighbor carry heavy shopping bags",
+  "russian_example_sentence": "Я помог моему пожилому соседу нести тяжёлые сумки с покупками",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:20:11.576964+00:00",
+  "turkish_example_sentence_with_blank": "Ben yaşlı komşuma ağır alışveriş çantalarını taşımada ______"
 }

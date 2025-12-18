@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "başlayabilirim",
     "root": "başla",
-    "tense_affix": "yabil",
+    "tense_affix": "yabilir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "irim",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Ben yarın sabah erken yeni işime başlayabilirim",
-  "english_example_sentence": "I can begin my new job early tomorrow morning",
-  "russian_example_sentence": "Я могу начать свою новую работу рано завтра утром",
-  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-16T10:43:15.978221+00:00",
-  "turkish_example_sentence_with_blank": "Ben yarın sabah erken yeni işime ______"
+  "turkish_example_sentence": "Ben bu yeni ve heyecan verici projeye şimdi başlayabilirim.",
+  "english_example_sentence": "I can begin this new and exciting project now.",
+  "russian_example_sentence": "Я могу начать этот новый и захватывающий проект сейчас.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:43:33.742964+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu yeni ve heyecan verici projeye şimdi ______."
 }

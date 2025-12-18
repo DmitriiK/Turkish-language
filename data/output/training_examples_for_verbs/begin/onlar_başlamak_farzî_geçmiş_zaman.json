@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "başlamışlarsa",
     "root": "başla",
-    "tense_affix": "mışlarsa",
+    "tense_affix": "mışsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they had started the concert...",
-  "russian_example_sentence": "Если бы они начали концерт...",
-  "turkish_example_sentence": "Onlar o muhteşem konsere başlamışlarsa, herkes çok eğlenirdi.",
-  "turkish_example_sentence_with_blank": "Onlar o muhteşem konsere ______, herkes çok eğlenirdi."
+  "turkish_example_sentence": "Onlar yolculuklarına dün başlamışlarsa, çoktan hedefe varmış olurlardı.",
+  "english_example_sentence": "If they had begun their journey yesterday, they would already be at the destination.",
+  "russian_example_sentence": "Если бы они начали свое путешествие вчера, они уже достигли бы цели.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:46:12.940710+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yolculuklarına dün ______, çoktan hedefe varmış olurlardı."
 }

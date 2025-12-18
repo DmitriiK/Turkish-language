@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "başlarsan",
     "root": "başla",
-    "tense_affix": "arsa",
+    "tense_affix": "rsa",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Sen yeni Türkçe derslerine düzenli başlarsan hızla öğrenirsin",
-  "english_example_sentence": "If you begin the new Turkish lessons regularly, you learn quickly",
-  "russian_example_sentence": "Если ты начнёшь новые уроки турецкого регулярно, ты быстро выучишь",
-  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-16T10:44:32.714570+00:00",
-  "turkish_example_sentence_with_blank": "Sen yeni Türkçe derslerine düzenli ______ hızla öğrenirsin"
+  "turkish_example_sentence": "Sen dikkatli başlarsan, bu zorlu görevi kolayca tamamlarsın.",
+  "english_example_sentence": "If you begin carefully, you will easily complete this challenging task.",
+  "russian_example_sentence": "Если ты начнешь осторожно, ты легко выполнишь это сложное задание.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:45:40.651099+00:00",
+  "turkish_example_sentence_with_blank": "Sen dikkatli ______, bu zorlu görevi kolayca tamamlarsın."
 }

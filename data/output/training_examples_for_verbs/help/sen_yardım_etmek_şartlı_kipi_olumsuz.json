@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmezsen",
     "root": "yardım et",
-    "tense_affix": "mez",
+    "tense_affix": "mezse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "n",
     "polarity": "negative",
     "negative_affix": "mez"
   },
-  "turkish_example_sentence": "Sen hasta arkadaşına yardım etmezsen, iyileşemez",
-  "english_example_sentence": "If you don't help your sick friend, they can't recover",
-  "russian_example_sentence": "Если ты не поможешь своему больному другу, он не выздоровеет",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:07:05.419742+00:00",
-  "turkish_example_sentence_with_blank": "Sen hasta arkadaşına ______, iyileşemez"
+  "turkish_example_sentence": "Sen yeni meslektaşına önemli proje sunumunda yardım etmezsen kötü hisseder",
+  "english_example_sentence": "If you don't help your new colleague with important project presentation, he feels bad",
+  "russian_example_sentence": "Если ты не поможешь своему новому коллеге с важной презентацией проекта, он будет плохо себя чувствовать",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:27:45.431337+00:00",
+  "turkish_example_sentence_with_blank": "Sen yeni meslektaşına önemli proje sunumunda ______ kötü hisseder"
 }

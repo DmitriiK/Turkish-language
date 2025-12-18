@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "gösterecekler",
     "root": "göster",
-    "tense_affix": "ecekler",
+    "tense_affix": "ecek",
     "verb_tense": "yaracağım",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Onlar yarın yeni ürünü gösterecekler",
-  "english_example_sentence": "They will show the new product tomorrow",
-  "russian_example_sentence": "Они покажут новый продукт завтра",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:11:28.919466+00:00",
-  "turkish_example_sentence_with_blank": "Onlar yarın yeni ürünü ______"
+  "turkish_example_sentence": "Onlar müzede ünlü ressamın orijinal eserlerini gösterecekler",
+  "english_example_sentence": "They will show the famous painter's original works at the museum",
+  "russian_example_sentence": "Они покажут оригинальные произведения знаменитого художника в музее",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:39:12.199789+00:00",
+  "turkish_example_sentence_with_blank": "Onlar müzede ünlü ressamın orijinal eserlerini ______"
 }

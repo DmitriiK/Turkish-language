@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "oynamazlarsa",
     "root": "oyna",
-    "tense_affix": "arsa",
+    "tense_affix": "sa",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "maz"
   },
-  "english_example_sentence": "If they don't play games, they read books.",
-  "russian_example_sentence": "Если они не играют в игры, они читают книги.",
-  "turkish_example_sentence": "Oyunlar oynamazlarsa kitap okurlar.",
-  "turkish_example_sentence_with_blank": "Oyunlar ______ kitap okurlar."
+  "turkish_example_sentence": "Onlar takım olarak oynamazlarsa, maçı kesinlikle kaybederler.",
+  "english_example_sentence": "If they don't play as a team, they will definitely lose the match.",
+  "russian_example_sentence": "Если они не будут играть как команда, они определённо проиграют матч.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:52:33.204632+00:00",
+  "turkish_example_sentence_with_blank": "Onlar takım olarak ______, maçı kesinlikle kaybederler."
 }

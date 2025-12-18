@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "oynayabilirim",
     "root": "oyna",
-    "tense_affix": "yabil",
+    "tense_affix": "yabilir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "irim",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I can play the guitar well.",
-  "russian_example_sentence": "Я могу хорошо играть на гитаре.",
-  "turkish_example_sentence": "Ben güzel klasik gitar müzisini oynayabilirim.",
-  "turkish_example_sentence_with_blank": "Ben güzel klasik gitar müzisini ______."
+  "turkish_example_sentence": "Ben bu akşam yeni bir piyano melodisi oynayabilirim.",
+  "english_example_sentence": "I can play a new piano melody tonight.",
+  "russian_example_sentence": "Я могу сыграть новую мелодию на пианино сегодня вечером.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:45:17.691969+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu akşam yeni bir piyano melodisi ______."
 }

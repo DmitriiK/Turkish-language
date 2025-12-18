@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "başlamamalıyım",
     "root": "başla",
-    "tense_affix": "mamalı",
+    "tense_affix": "malı",
     "verb_tense": "zorunluluk_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "yım",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Ben yorgun olduğumda zor projeye başlamamalıyım",
-  "english_example_sentence": "I must not begin the difficult project when I am tired",
-  "russian_example_sentence": "Я не должен начинать трудный проект когда я устал",
-  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-16T10:43:52.440340+00:00",
-  "turkish_example_sentence_with_blank": "Ben yorgun olduğumda zor projeye ______"
+  "turkish_example_sentence": "Ben bu zorlu göreve başlamamalıyım.",
+  "english_example_sentence": "I must not begin this difficult task.",
+  "russian_example_sentence": "Я не должен начинать это сложное задание.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:44:04.613463+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu zorlu göreve ______."
 }

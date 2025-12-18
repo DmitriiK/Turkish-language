@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duymayalar",
     "root": "duy",
-    "tense_affix": "a",
+    "tense_affix": "ya",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "May they not hear the disturbing news",
-  "russian_example_sentence": "Пусть они не услышат тревожные новости",
-  "turkish_example_sentence": "Rahatsız edici haberleri duymayalar",
-  "turkish_example_sentence_with_blank": "Rahatsız edici haberleri ______"
+  "turkish_example_sentence": "Onlar, bu yersiz şikayetleri asla duymayalar.",
+  "english_example_sentence": "May they never hear these baseless complaints.",
+  "russian_example_sentence": "Пусть они никогда не услышат эти беспочвенные жалобы.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:08:58.147221+00:00",
+  "turkish_example_sentence_with_blank": "Onlar, bu yersiz şikayetleri asla ______."
 }

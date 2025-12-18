@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "oynayamaz",
     "root": "oyna",
-    "tense_affix": "yabil",
+    "tense_affix": "a",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "ir",
+    "personal_affix": "z",
     "polarity": "negative",
-    "negative_affix": "ama"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "He cannot play rugby due to injury.",
-  "russian_example_sentence": "Он не может играть в регби из-за травмы.",
-  "turkish_example_sentence": "O yaşlı sporcu ağır rugby maçını oynayamaz.",
-  "turkish_example_sentence_with_blank": "O yaşlı sporcu ağır rugby maçını ______."
+  "turkish_example_sentence": "O, yüksek ateşle hasta olduğu için bugün oyun oynayamaz.",
+  "english_example_sentence": "He/She cannot play games today because he/she is sick with a high fever.",
+  "russian_example_sentence": "Он/Она не может играть в игры сегодня, потому что болен/больна высокой температурой.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:45:17.691969+00:00",
+  "turkish_example_sentence_with_blank": "O, yüksek ateşle hasta olduğu için bugün oyun ______."
 }

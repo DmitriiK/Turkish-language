@@ -5,7 +5,7 @@
   "verb_infinitive": "oynamak",
   "turkish_verb": {
     "verb_full": "oynamıyorsun",
-    "root": "oyn",
+    "root": "oyna",
     "tense_affix": "ıyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "sen",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "m"
   },
-  "english_example_sentence": "You are not playing the exciting video game tonight",
-  "russian_example_sentence": "Ты не играешь в увлекательную видеоигру этим вечером",
-  "turkish_example_sentence": "Sen bu gece heyecanlı bilgisayar oyununu oynamıyorsun",
-  "turkish_example_sentence_with_blank": "Sen bu gece heyecanlı bilgisayar oyununu ______"
+  "turkish_example_sentence": "Sen bugün okul bahçesinde voleybol oynamıyorsun.",
+  "english_example_sentence": "You are not playing volleyball in the schoolyard today.",
+  "russian_example_sentence": "Ты сегодня не играешь в волейбол на школьном дворе.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:38:37.763149+00:00",
+  "turkish_example_sentence_with_blank": "Sen bugün okul bahçesinde voleybol ______."
 }

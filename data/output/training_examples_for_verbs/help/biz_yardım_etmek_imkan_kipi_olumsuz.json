@@ -9,14 +9,14 @@
     "tense_affix": "eme",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iz",
+    "personal_affix": "yiz",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "turkish_example_sentence": "Biz bu durumda maalesef yardım edemeyiz",
-  "english_example_sentence": "Unfortunately, we cannot help in this situation",
-  "russian_example_sentence": "К сожалению, мы не можем помочь в этой ситуации",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:06:33.619684+00:00",
-  "turkish_example_sentence_with_blank": "Biz bu durumda maalesef ______"
+  "turkish_example_sentence": "Biz uzak şehirde olduğumuz için düğün organizasyonunda yardım edemeyiz",
+  "english_example_sentence": "We cannot help with the wedding organization because we are in a distant city",
+  "russian_example_sentence": "Мы не можем помочь с организацией свадьбы, потому что мы в далёком городе",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:25:33.811990+00:00",
+  "turkish_example_sentence_with_blank": "Biz uzak şehirde olduğumuz için düğün organizasyonunda ______"
 }

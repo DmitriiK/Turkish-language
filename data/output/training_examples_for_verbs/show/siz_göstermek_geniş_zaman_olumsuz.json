@@ -5,7 +5,7 @@
   "verb_infinitive": "göstermek",
   "turkish_verb": {
     "verb_full": "göstermezsiniz",
-    "root": "gösterm",
+    "root": "göster",
     "tense_affix": "mez",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "siz",
@@ -13,10 +13,10 @@
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Siz kimseye kötü bir şey göstermezsiniz",
-  "english_example_sentence": "You don't show anyone a bad thing",
-  "russian_example_sentence": "Вы никому не показываете плохую вещь",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:11:38.954472+00:00",
-  "turkish_example_sentence_with_blank": "Siz kimseye kötü bir şey ______"
+  "turkish_example_sentence": "Siz çalışanlara şirketin gizli mali raporlarını hiçbir zaman göstermezsiniz",
+  "english_example_sentence": "You never show the company's secret financial reports to employees",
+  "russian_example_sentence": "Вы никогда не показываете секретные финансовые отчёты компании сотрудникам",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:39:52.083587+00:00",
+  "turkish_example_sentence_with_blank": "Siz çalışanlara şirketin gizli mali raporlarını hiçbir zaman ______"
 }

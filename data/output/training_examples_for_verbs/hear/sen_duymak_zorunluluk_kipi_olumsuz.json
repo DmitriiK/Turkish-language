@@ -4,7 +4,7 @@
   "verb_russian": "слышать",
   "verb_infinitive": "duymak",
   "turkish_verb": {
-    "verb_full": "duymayalısın",
+    "verb_full": "duymamalısın",
     "root": "duy",
     "tense_affix": "malı",
     "verb_tense": "zorunluluk_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You must not hear those private conversations",
-  "russian_example_sentence": "Ты не должен слышать эти личные разговоры",
-  "turkish_example_sentence": "Sen o özel konuşmaları duymayalısın",
-  "turkish_example_sentence_with_blank": "Sen o özel konuşmaları ______"
+  "turkish_example_sentence": "Sen o korkunç gürültüyü kesinlikle duymamalısın.",
+  "english_example_sentence": "You must definitely not hear that terrible noise.",
+  "russian_example_sentence": "Ты определенно не должен слышать этот ужасный шум.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:12:00.904231+00:00",
+  "turkish_example_sentence_with_blank": "Sen o korkunç gürültüyü kesinlikle ______."
 }

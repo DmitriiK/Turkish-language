@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "başladığımızda",
     "root": "başla",
-    "tense_affix": "dık",
+    "tense_affix": "dığ",
     "verb_tense": "zaman_sıfatı",
     "personal_pronoun": "biz",
-    "personal_affix": "ımız",
+    "personal_affix": "ımız da",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "When we begin hiking, we feel energetic",
-  "russian_example_sentence": "Когда мы начинаем поход, мы чувствуем себя энергичными",
-  "turkish_example_sentence": "Biz yürüyüşe başladığımızda, enerjik hissediyoruz",
-  "turkish_example_sentence_with_blank": "Biz yürüyüşe ______, enerjik hissediyoruz"
+  "turkish_example_sentence": "Biz yolculuğumuza başladığımızda, haritayı her zaman kontrol ederiz.",
+  "english_example_sentence": "When we begin our journey, we always check the map.",
+  "russian_example_sentence": "Когда мы начинаем наше путешествие, мы всегда проверяем карту.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:47:23.278752+00:00",
+  "turkish_example_sentence_with_blank": "Biz yolculuğumuza ______, haritayı her zaman kontrol ederiz."
 }

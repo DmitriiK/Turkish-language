@@ -5,7 +5,7 @@
   "verb_infinitive": "oynamak",
   "turkish_verb": {
     "verb_full": "oynamıyorsunuz",
-    "root": "oyn",
+    "root": "oyna",
     "tense_affix": "ıyor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "siz",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "m"
   },
-  "english_example_sentence": "You are not playing the new mobile game right now",
-  "russian_example_sentence": "Вы не играете в новую мобильную игру прямо сейчас",
-  "turkish_example_sentence": "Siz şu anda yeni cep telefonu oyununu oynamıyorsunuz",
-  "turkish_example_sentence_with_blank": "Siz şu anda yeni cep telefonu oyununu ______"
+  "turkish_example_sentence": "Siz bu kadar kötü hava koşullarında dışarıda basketbol oynamıyorsunuz.",
+  "english_example_sentence": "You are not playing basketball outside in such bad weather conditions.",
+  "russian_example_sentence": "Вы не играете в баскетбол на улице в таких плохих погодных условиях.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:38:37.763149+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu kadar kötü hava koşullarında dışarıda basketbol ______."
 }

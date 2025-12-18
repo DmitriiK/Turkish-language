@@ -4,7 +4,7 @@
   "verb_russian": "играть",
   "verb_infinitive": "oynamak",
   "turkish_verb": {
-    "verb_full": "oynamamız lazım",
+    "verb_full": "oynamamamız lazım",
     "root": "oyna",
     "tense_affix": "lazım",
     "verb_tense": "gereklilik_kipi",
@@ -13,8 +13,10 @@
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "We should not play loud music at night",
-  "russian_example_sentence": "Нам не нужно играть громкую музыку ночью",
-  "turkish_example_sentence": "Biz gece yarısında yüksek sesli müzik oynamamız lazım değil",
-  "turkish_example_sentence_with_blank": "Biz gece yarısında yüksek sesli müzik ______ değil"
+  "turkish_example_sentence": "Biz bu önemli sınavdan önce çok fazla video oyunu oynamamamız lazım.",
+  "english_example_sentence": "We don't need to play too many video games before this important exam.",
+  "russian_example_sentence": "Нам не нужно играть слишком много видеоигр перед этим важным экзаменом.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:43:49.681507+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu önemli sınavdan önce çok fazla video oyunu ______."
 }

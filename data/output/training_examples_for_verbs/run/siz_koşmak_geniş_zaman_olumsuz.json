@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "koşmazsınız",
     "root": "koş",
-    "tense_affix": "ar",
+    "tense_affix": "z",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "sınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You do not run without proper athletic shoes",
-  "russian_example_sentence": "Вы не бегаете без правильной спортивной обуви",
-  "turkish_example_sentence": "Siz uygun spor ayakkabı olmadan asla koşmazsınız",
-  "turkish_example_sentence_with_blank": "Siz uygun spor ayakkabı olmadan asla ______"
+  "turkish_example_sentence": "Siz bu tehlikeli yolda koşmazsınız.",
+  "english_example_sentence": "You don't run on this dangerous road.",
+  "russian_example_sentence": "Вы не бегаете по этой опасной дороге.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T15:00:44.755657+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu tehlikeli yolda ______."
 }

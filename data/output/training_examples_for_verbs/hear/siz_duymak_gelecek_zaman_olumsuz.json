@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duymayacaksınız",
     "root": "duy",
-    "tense_affix": "acak",
+    "tense_affix": "yacak",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "siz",
     "personal_affix": "sınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "You will not hear the soft voice from upstairs",
-  "russian_example_sentence": "Вы не услышите мягкий голос сверху",
-  "turkish_example_sentence": "Siz yukarıdan gelen nazik sesi duymayacaksınız",
-  "turkish_example_sentence_with_blank": "Siz yukarıdan gelen nazik sesi ______"
+  "turkish_example_sentence": "Siz bu kadar uzaktan fısıltıları asla duymayacaksınız.",
+  "english_example_sentence": "You will never hear whispers from such a distance.",
+  "russian_example_sentence": "Вы никогда не услышите шепот с такого расстояния.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:07:42.572334+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu kadar uzaktan fısıltıları asla ______."
 }

@@ -4,19 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmeyebilirler",
+    "verb_full": "görünemezler",
     "root": "görün",
     "tense_affix": "eme",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "ler",
+    "personal_affix": "zler",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "eme"
   },
-  "turkish_example_sentence": "Onlar bazen mutsuz görünmeyebilirler",
-  "english_example_sentence": "They may not look unhappy sometimes",
-  "russian_example_sentence": "Они могут не выглядеть несчастными иногда",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T14:58:55.183359+00:00",
-  "turkish_example_sentence_with_blank": "Onlar bazen mutsuz ______"
+  "turkish_example_sentence": "Onlar soğuk kış akşamında sıcak görünemezler",
+  "english_example_sentence": "They cannot seem warm in the cold winter evening",
+  "russian_example_sentence": "Они не могут казаться теплыми холодным зимним вечером",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T09:58:32.147640+00:00",
+  "turkish_example_sentence_with_blank": "Onlar soğuk kış akşamında sıcak ______"
 }

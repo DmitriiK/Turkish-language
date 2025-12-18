@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duymasam",
     "root": "duy",
-    "tense_affix": "masa",
+    "tense_affix": "sa",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If I don't hear the alarm, I'll wake up late.",
-  "russian_example_sentence": "Если я не услышу будильник, я проснусь поздно.",
-  "turkish_example_sentence": "Eğer alarmı duymasam, geç uyanırım.",
-  "turkish_example_sentence_with_blank": "Eğer alarmı ______, geç uyanırım."
+  "turkish_example_sentence": "Ben bu kötü haberi duymasam daha iyi hissederdim.",
+  "english_example_sentence": "If I were not to hear this bad news, I would feel better.",
+  "russian_example_sentence": "Если бы я не услышал эту плохую новость, я бы чувствовал себя лучше.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:09:41.048443+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu kötü haberi ______ daha iyi hissederdim."
 }

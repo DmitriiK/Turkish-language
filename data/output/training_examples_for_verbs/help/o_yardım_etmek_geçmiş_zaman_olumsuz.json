@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmedi",
     "root": "yardım et",
-    "tense_affix": "di",
+    "tense_affix": "me",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": "di",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": null
   },
-  "turkish_example_sentence": "O ihtiyacı olan kişiye yardım etmedi",
-  "english_example_sentence": "He didn't help the person in need",
-  "russian_example_sentence": "Он не помог человеку, который нуждался в помощи",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:05:03.857924+00:00",
-  "turkish_example_sentence_with_blank": "O ihtiyacı olan kişiye ______"
+  "turkish_example_sentence": "O zengin iş adamı deprem mağdurlarına acil barınak sağlamada yardım etmedi",
+  "english_example_sentence": "That rich businessman did not help earthquake victims with providing emergency shelter",
+  "russian_example_sentence": "Тот богатый бизнесмен не помог жертвам землетрясения с предоставлением срочного убежища",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:20:11.576964+00:00",
+  "turkish_example_sentence_with_blank": "O zengin iş adamı deprem mağdurlarına acil barınak sağlamada ______"
 }

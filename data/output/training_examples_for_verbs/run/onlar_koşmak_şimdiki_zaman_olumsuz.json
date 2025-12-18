@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "koşmuyorlar",
     "root": "koş",
-    "tense_affix": "uyor",
+    "tense_affix": "yor",
     "verb_tense": "şimdiki_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
-    "negative_affix": "m"
+    "negative_affix": "mu"
   },
-  "english_example_sentence": "They are not running to catch the last bus",
-  "russian_example_sentence": "Они не бегут, чтобы поймать последний автобус",
-  "turkish_example_sentence": "Onlar son otobüsü yakalamak için koşmuyorlar",
-  "turkish_example_sentence_with_blank": "Onlar son otobüsü yakalamak için ______"
+  "turkish_example_sentence": "Onlar yağmurlu havada stadyumda koşmuyorlar.",
+  "english_example_sentence": "They are not running in the stadium in rainy weather.",
+  "russian_example_sentence": "Они не бегут на стадионе в дождливую погоду.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:57:46.311447+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yağmurlu havada stadyumda ______."
 }

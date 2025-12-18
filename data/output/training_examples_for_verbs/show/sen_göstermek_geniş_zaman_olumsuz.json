@@ -4,19 +4,19 @@
   "verb_russian": "показывать",
   "verb_infinitive": "göstermek",
   "turkish_verb": {
-    "verb_full": "göstermesin",
-    "root": "gösterm",
-    "tense_affix": "me",
+    "verb_full": "göstermezsin",
+    "root": "göster",
+    "tense_affix": "mez",
     "verb_tense": "geniş_zaman",
     "personal_pronoun": "sen",
     "personal_affix": "sin",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Sen kimseye kötü davranışı göstermesin",
-  "english_example_sentence": "You shouldn't show anyone bad behavior",
-  "russian_example_sentence": "Ты не должен показывать кому-либо плохое поведение",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:11:38.954472+00:00",
-  "turkish_example_sentence_with_blank": "Sen kimseye kötü davranışı ______"
+  "turkish_example_sentence": "Sen yabancılara şehrin eski tarihi yerlerini hiç göstermezsin",
+  "english_example_sentence": "You never show the city's old historical places to foreigners",
+  "russian_example_sentence": "Ты никогда не показываешь старые исторические места города иностранцам",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:39:52.083587+00:00",
+  "turkish_example_sentence_with_blank": "Sen yabancılara şehrin eski tarihi yerlerini hiç ______"
 }

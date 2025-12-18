@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmeyelim",
     "root": "yardım et",
-    "tense_affix": "",
+    "tense_affix": "e",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "lim",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Biz bu işte yardım etmeyelim",
-  "english_example_sentence": "Let's not help in this matter",
-  "russian_example_sentence": "Давайте не поможем в этом деле",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:05:43.743075+00:00",
-  "turkish_example_sentence_with_blank": "Biz bu işte ______"
+  "turkish_example_sentence": "Biz yanlış bilgi yayan kişilere tehlikeli propaganda yaymada yardım etmeyelim",
+  "english_example_sentence": "Let's not help the people spreading false information disseminate dangerous propaganda",
+  "russian_example_sentence": "Давайте не будем помогать людям, распространяющим ложную информацию, распространять опасную пропаганду",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:23:00.025392+00:00",
+  "turkish_example_sentence_with_blank": "Biz yanlış bilgi yayan kişilere tehlikeli propaganda yaymada ______"
 }

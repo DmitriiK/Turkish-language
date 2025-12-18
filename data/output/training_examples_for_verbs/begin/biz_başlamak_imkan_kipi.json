@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "başlayabiliriz",
     "root": "başla",
-    "tense_affix": "yabil",
+    "tense_affix": "yabilir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iriz",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Biz güzel bahçede sebze yetiştirme işine hemen başlayabiliriz",
-  "english_example_sentence": "We can begin the vegetable growing work in the beautiful garden immediately",
-  "russian_example_sentence": "Мы можем начать работу по выращиванию овощей в красивом саду немедленно",
-  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-16T10:43:15.978221+00:00",
-  "turkish_example_sentence_with_blank": "Biz güzel bahçede sebze yetiştirme işine hemen ______"
+  "turkish_example_sentence": "Biz bu önemli kültürel etkinliğe erken başlayabiliriz.",
+  "english_example_sentence": "We can begin this important cultural event early.",
+  "russian_example_sentence": "Мы можем начать это важное культурное мероприятие рано.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:43:33.742964+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu önemli kültürel etkinliğe erken ______."
 }

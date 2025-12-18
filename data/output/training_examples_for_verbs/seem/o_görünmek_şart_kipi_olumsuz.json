@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "görünmese",
     "root": "görün",
-    "tense_affix": "mes",
+    "tense_affix": "mese",
     "verb_tense": "şart_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "mes"
+    "negative_affix": "me"
   },
-  "turkish_example_sentence": "O hasta görünmese, doktora gitmez",
-  "english_example_sentence": "If he doesn't seem sick, he doesn't go to the doctor",
-  "russian_example_sentence": "Если он не кажется больным, он не идёт к врачу",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T14:58:34.681314+00:00",
-  "turkish_example_sentence_with_blank": "O hasta ______, doktora gitmez"
+  "turkish_example_sentence": "O önemli konuşmada gergin görünmese başarılı olur",
+  "english_example_sentence": "If he/she doesn't seem nervous at the important speech, he/she will be successful",
+  "russian_example_sentence": "Если он/она не будет казаться нервным на важной речи, он/она будет успешным",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T09:57:17.422436+00:00",
+  "turkish_example_sentence_with_blank": "O önemli konuşmada gergin ______ başarılı olur"
 }

@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım edeceksin",
     "root": "yardım et",
-    "tense_affix": "edeceğ",
+    "tense_affix": "ecek",
     "verb_tense": "yaracağım",
     "personal_pronoun": "sen",
     "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Sen yeni arkadaşına yardım edeceksin",
-  "english_example_sentence": "You will help your new friend",
-  "russian_example_sentence": "Ты поможешь своему новому другу",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:05:24.596938+00:00",
-  "turkish_example_sentence_with_blank": "Sen yeni arkadaşına ______"
+  "turkish_example_sentence": "Sen gelecek hafta küçük kardeşine yeni matematik konularını anlatmakta yardım edeceksin",
+  "english_example_sentence": "You will help your little brother understand new mathematics topics next week",
+  "russian_example_sentence": "Ты поможешь своему младшему брату понять новые математические темы на следующей неделе",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:21:38.721426+00:00",
+  "turkish_example_sentence_with_blank": "Sen gelecek hafta küçük kardeşine yeni matematik konularını anlatmakta ______"
 }

@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "başlamamışlarsa",
     "root": "başla",
-    "tense_affix": "mamışlarsa",
+    "tense_affix": "mışsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If they hadn't started the invasion...",
-  "russian_example_sentence": "Если бы они не начали вторжение...",
-  "turkish_example_sentence": "Onlar o korkunç işgale başlamamışlarsa, dünya daha huzurlu bir yer olurdu.",
-  "turkish_example_sentence_with_blank": "Onlar o korkunç işgale ______, dünya daha huzurlu bir yer olurdu."
+  "turkish_example_sentence": "Onlar önlem almaya başlamamışlarsa, durum daha kötü olurdu.",
+  "english_example_sentence": "If they had not begun to take precautions, the situation would have been worse.",
+  "russian_example_sentence": "Если бы они не начали принимать меры предосторожности, ситуация была бы хуже.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:46:12.940710+00:00",
+  "turkish_example_sentence_with_blank": "Onlar önlem almaya ______, durum daha kötü olurdu."
 }

@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "yardım etmemişse",
     "root": "yardım et",
-    "tense_affix": "miş",
+    "tense_affix": "mişse",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "O bana yardım etmemişse, üzgünüm",
-  "english_example_sentence": "If he had not helped me, I am sad",
-  "russian_example_sentence": "Если бы он не помог мне, я расстроен",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:07:28.338524+00:00",
-  "turkish_example_sentence_with_blank": "O bana ______, üzgünüm"
+  "turkish_example_sentence": "O yetenekli doktor fakir hastalara ücretsiz muayenede yardım etmemişse vicdanı rahatsız olurdu",
+  "english_example_sentence": "If that talented doctor had not helped poor patients with free examination, his conscience would be troubled",
+  "russian_example_sentence": "Если бы тот талантливый врач не помог бедным пациентам с бесплатным осмотром, его совесть была бы неспокойна",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:28:30.756637+00:00",
+  "turkish_example_sentence_with_blank": "O yetenekli doktor fakir hastalara ücretsiz muayenede ______ vicdanı rahatsız olurdu"
 }

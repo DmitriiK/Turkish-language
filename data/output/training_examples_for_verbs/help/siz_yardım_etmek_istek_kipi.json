@@ -4,19 +4,19 @@
   "verb_russian": "помогать",
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
-    "verb_full": "yardım edin",
+    "verb_full": "yardım edesiniz",
     "root": "yardım et",
-    "tense_affix": "",
+    "tense_affix": "e",
     "verb_tense": "istek_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "siniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Siz bize yardım edin lütfen",
-  "english_example_sentence": "Please help us",
-  "russian_example_sentence": "Пожалуйста, помогите нам",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:05:43.743075+00:00",
-  "turkish_example_sentence_with_blank": "Siz bize ______ lütfen"
+  "turkish_example_sentence": "Siz genç girişimcilere başarılı şirket kurmada yardım edesiniz",
+  "english_example_sentence": "May you help the young entrepreneurs establish a successful company",
+  "russian_example_sentence": "Пусть вы поможете молодым предпринимателям основать успешную компанию",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:23:00.025392+00:00",
+  "turkish_example_sentence_with_blank": "Siz genç girişimcilere başarılı şirket kurmada ______"
 }

@@ -9,14 +9,14 @@
     "tense_affix": "ecek",
     "verb_tense": "gelecek_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "O yarın yeni öğrenciye yardım edecek",
-  "english_example_sentence": "He/She will help the new student tomorrow",
-  "russian_example_sentence": "Он/Она поможет новому ученику завтра",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T15:05:14.460370+00:00",
-  "turkish_example_sentence_with_blank": "O yarın yeni öğrenciye ______"
+  "turkish_example_sentence": "O bugün akşam yemeğinde annesine lezzetli Türk yemekleri pişirmeye yardım edecek",
+  "english_example_sentence": "He will help his mother cook delicious Turkish dishes for dinner today",
+  "russian_example_sentence": "Он сегодня поможет своей матери готовить вкусные турецкие блюда на ужин",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:20:54.881024+00:00",
+  "turkish_example_sentence_with_blank": "O bugün akşam yemeğinde annesine lezzetli Türk yemekleri pişirmeye ______"
 }

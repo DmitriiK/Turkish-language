@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duymayacaklar",
     "root": "duy",
-    "tense_affix": "acak",
+    "tense_affix": "yacak",
     "verb_tense": "yaracağım",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "They will not hear the mysterious footsteps at night",
-  "russian_example_sentence": "Они не услышат таинственные шаги ночью",
-  "turkish_example_sentence": "Onlar gece gizemli adımları duymayacaklar",
-  "turkish_example_sentence_with_blank": "Onlar gece gizemli adımları ______"
+  "turkish_example_sentence": "Onlar bu eski binadaki tuhaf sesleri duymayacaklar.",
+  "english_example_sentence": "They will not hear strange sounds in this old building.",
+  "russian_example_sentence": "Они не услышат странных звуков в этом старом здании.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:57:47.824110+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu eski binadaki tuhaf sesleri ______."
 }

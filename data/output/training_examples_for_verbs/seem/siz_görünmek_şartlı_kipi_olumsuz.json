@@ -4,19 +4,19 @@
   "verb_russian": "казаться",
   "verb_infinitive": "görünmek",
   "turkish_verb": {
-    "verb_full": "görünmüyorsunuz",
+    "verb_full": "görünmezseniz",
     "root": "görün",
-    "tense_affix": "üyor",
+    "tense_affix": "mezse",
     "verb_tense": "şartlı_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "sunuz",
+    "personal_affix": "niz",
     "polarity": "negative",
-    "negative_affix": "m"
+    "negative_affix": "mez"
   },
-  "turkish_example_sentence": "Siz zor durumda görünmüyorsunuz",
-  "english_example_sentence": "You don't seem to be in a difficult situation",
-  "russian_example_sentence": "Вы не кажетесь в трудном положении",
-  "generated_by_model": "LLAMA - meta.llama4-maverick-17b-instruct-v1:0",
-  "generated_at": "2025-12-16T14:59:26.904994+00:00",
-  "turkish_example_sentence_with_blank": "Siz zor durumda ______"
+  "turkish_example_sentence": "Siz hastane koridorunda sağlıklı görünmezseniz doktor endişelenir",
+  "english_example_sentence": "If you don't seem healthy in the hospital corridor, the doctor will worry",
+  "russian_example_sentence": "Если вы не покажетесь здоровыми в больничном коридоре, доктор будет беспокоиться",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-17T10:00:30.449762+00:00",
+  "turkish_example_sentence_with_blank": "Siz hastane koridorunda sağlıklı ______ doktor endişelenir"
 }

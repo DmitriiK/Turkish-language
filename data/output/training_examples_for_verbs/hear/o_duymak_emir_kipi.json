@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "duysun",
     "root": "duy",
-    "tense_affix": "sun",
+    "tense_affix": "",
     "verb_tense": "emir_kipi",
     "personal_pronoun": "o",
     "personal_affix": "sun",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "Let her hear the important announcement clearly",
-  "russian_example_sentence": "Пусть она услышит важное объявление четко",
-  "turkish_example_sentence": "Önemli haberi açıkça duysun",
-  "turkish_example_sentence_with_blank": "Önemli haberi açıkça ______"
+  "turkish_example_sentence": "O yeni şarkıyı dikkatlice duysun.",
+  "english_example_sentence": "Let him/her hear the new song carefully.",
+  "russian_example_sentence": "Пусть он/она внимательно послушает новую песню.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:09:22.163768+00:00",
+  "turkish_example_sentence_with_blank": "O yeni şarkıyı dikkatlice ______."
 }

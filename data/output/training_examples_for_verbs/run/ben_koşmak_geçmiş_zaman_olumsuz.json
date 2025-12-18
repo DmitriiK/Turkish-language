@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "koşmadım",
     "root": "koş",
-    "tense_affix": "tı",
+    "tense_affix": "dı",
     "verb_tense": "geçmiş_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "I did not run to the big stadium this morning",
-  "russian_example_sentence": "Я не бежал на большой стадион этим утром",
-  "turkish_example_sentence": "Ben bu sabah büyük stadyuma koşmadım",
-  "turkish_example_sentence_with_blank": "Ben bu sabah büyük stadyuma ______"
+  "turkish_example_sentence": "Ben hiç bu maratona koşmadım.",
+  "english_example_sentence": "I have never run this marathon.",
+  "russian_example_sentence": "Я никогда не бегал этот марафон.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T14:58:12.853040+00:00",
+  "turkish_example_sentence_with_blank": "Ben hiç bu maratona ______."
 }

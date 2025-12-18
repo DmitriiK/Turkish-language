@@ -6,15 +6,17 @@
   "turkish_verb": {
     "verb_full": "başlayacaktım",
     "root": "başla",
-    "tense_affix": "yacaktı",
+    "tense_affix": "ayacaktı",
     "verb_tense": "geçmiş_gelecek_zaman",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I was going to start exercising",
-  "russian_example_sentence": "Я собирался начать тренироваться",
-  "turkish_example_sentence": "Ben sağlıklı yaşam için egzersize başlayacaktım",
-  "turkish_example_sentence_with_blank": "Ben sağlıklı yaşam için egzersize ______"
+  "turkish_example_sentence": "Ben yeni bir işe başlayacaktım ama vazgeçtim.",
+  "english_example_sentence": "I was going to begin a new job but I gave up.",
+  "russian_example_sentence": "Я собирался начать новую работу, но передумал.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2025-12-17T13:44:36.512379+00:00",
+  "turkish_example_sentence_with_blank": "Ben yeni bir işe ______ ama vazgeçtim."
 }
