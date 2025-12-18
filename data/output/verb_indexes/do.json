@@ -733,6 +733,12 @@
     },
     {
       "tense": "zaman_sıfatı",
+      "pronoun": "biz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/do/biz_yapmak_zaman_sıfatı_olumsuz.json"
+    },
+    {
+      "tense": "zaman_sıfatı",
       "pronoun": "o",
       "polarity": "negative",
       "file_path": "data/output/training_examples_for_verbs/do/o_yapmak_zaman_sıfatı_olumsuz.json"
@@ -745,9 +751,27 @@
     },
     {
       "tense": "zaman_sıfatı",
+      "pronoun": "sen",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/do/sen_yapmak_zaman_sıfatı_olumsuz.json"
+    },
+    {
+      "tense": "zaman_sıfatı",
+      "pronoun": "siz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/do/siz_yapmak_zaman_sıfatı_olumsuz.json"
+    },
+    {
+      "tense": "zaman_sıfatı",
       "pronoun": "ben",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/do/ben_yapmak_zaman_sıfatı.json"
+    },
+    {
+      "tense": "zaman_sıfatı",
+      "pronoun": "biz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/do/biz_yapmak_zaman_sıfatı.json"
     },
     {
       "tense": "zaman_sıfatı",
@@ -760,6 +784,18 @@
       "pronoun": "onlar",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/do/onlar_yapmak_zaman_sıfatı.json"
+    },
+    {
+      "tense": "zaman_sıfatı",
+      "pronoun": "sen",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/do/sen_yapmak_zaman_sıfatı.json"
+    },
+    {
+      "tense": "zaman_sıfatı",
+      "pronoun": "siz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/do/siz_yapmak_zaman_sıfatı.json"
     },
     {
       "tense": "zarf_fiil",

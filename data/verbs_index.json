@@ -136,14 +136,14 @@
     },
     {
       "rank": 20,
-      "verb_english": "call",
+      "verb_english": "call (phone)",
       "verb_russian": "звонить",
       "verb_infinitive": "aramak",
       "folder_name": "call_(phone)"
     },
     {
       "rank": 20,
-      "verb_english": "search",
+      "verb_english": "call",
       "verb_russian": "звонить",
       "verb_infinitive": "aramak",
       "folder_name": "search"
@@ -210,13 +210,6 @@
       "verb_russian": "держать",
       "verb_infinitive": "tutmak",
       "folder_name": "keep"
-    },
-    {
-      "rank": 30,
-      "verb_english": "allow",
-      "verb_russian": "позволять",
-      "verb_infinitive": "izin vermek",
-      "folder_name": "allow"
     },
     {
       "rank": 30,
@@ -455,6 +448,13 @@
       "verb_russian": "читать",
       "verb_infinitive": "okumak",
       "folder_name": "read"
+    },
+    {
+      "rank": 64,
+      "verb_english": "allow",
+      "verb_russian": "разрешать",
+      "verb_infinitive": "izin vermek",
+      "folder_name": "allow"
     },
     {
       "rank": 66,

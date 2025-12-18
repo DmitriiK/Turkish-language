@@ -679,6 +679,12 @@
     },
     {
       "tense": "yaracağım",
+      "pronoun": "sen",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/think/sen_düşünmek_yaracağım_olumsuz.json"
+    },
+    {
+      "tense": "yaracağım",
       "pronoun": "siz",
       "polarity": "negative",
       "file_path": "data/output/training_examples_for_verbs/think/siz_düşünmek_yaracağım_olumsuz.json"
@@ -709,6 +715,12 @@
     },
     {
       "tense": "yaracağım",
+      "pronoun": "sen",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/think/sen_düşünmek_yaracağım.json"
+    },
+    {
+      "tense": "yaracağım",
       "pronoun": "siz",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/think/siz_düşünmek_yaracağım.json"
@@ -718,6 +730,12 @@
       "pronoun": "ben",
       "polarity": "negative",
       "file_path": "data/output/training_examples_for_verbs/think/ben_düşünmek_zaman_sıfatı_olumsuz.json"
+    },
+    {
+      "tense": "zaman_sıfatı",
+      "pronoun": "biz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/think/biz_düşünmek_zaman_sıfatı_olumsuz.json"
     },
     {
       "tense": "zaman_sıfatı",
@@ -733,9 +751,27 @@
     },
     {
       "tense": "zaman_sıfatı",
+      "pronoun": "sen",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/think/sen_düşünmek_zaman_sıfatı_olumsuz.json"
+    },
+    {
+      "tense": "zaman_sıfatı",
+      "pronoun": "siz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/think/siz_düşünmek_zaman_sıfatı_olumsuz.json"
+    },
+    {
+      "tense": "zaman_sıfatı",
       "pronoun": "ben",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/think/ben_düşünmek_zaman_sıfatı.json"
+    },
+    {
+      "tense": "zaman_sıfatı",
+      "pronoun": "biz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/think/biz_düşünmek_zaman_sıfatı.json"
     },
     {
       "tense": "zaman_sıfatı",
@@ -748,6 +784,18 @@
       "pronoun": "onlar",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/think/onlar_düşünmek_zaman_sıfatı.json"
+    },
+    {
+      "tense": "zaman_sıfatı",
+      "pronoun": "sen",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/think/sen_düşünmek_zaman_sıfatı.json"
+    },
+    {
+      "tense": "zaman_sıfatı",
+      "pronoun": "siz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/think/siz_düşünmek_zaman_sıfatı.json"
     },
     {
       "tense": "zarf_fiil",

@@ -415,6 +415,12 @@
     },
     {
       "tense": "geçmiş_zaman",
+      "pronoun": "ben",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/find/ben_bulmak_geçmiş_zaman_olumsuz.json"
+    },
+    {
+      "tense": "geçmiş_zaman",
       "pronoun": "biz",
       "polarity": "negative",
       "file_path": "data/output/training_examples_for_verbs/find/biz_bulmak_geçmiş_zaman_olumsuz.json"
@@ -622,6 +628,12 @@
       "pronoun": "siz",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/find/siz_bulmak_istek_kipi.json"
+    },
+    {
+      "tense": "sıfat_fiil",
+      "pronoun": "none",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/find/none_bulmak_sıfat_fiil_olumsuz.json"
     },
     {
       "tense": "sıfat_fiil",
