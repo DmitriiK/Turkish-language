@@ -4,17 +4,19 @@
   "verb_russian": "смотреть",
   "verb_infinitive": "bakmak",
   "turkish_verb": {
-    "verb_full": "bakmamışsanız",
+    "verb_full": "bakmamış olsaydınız",
     "root": "bak",
-    "tense_affix": "mamışsa",
+    "tense_affix": "mamış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "ydınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If you hadn't looked at my notes,",
-  "russian_example_sentence": "Если бы вы не посмотрели мои записи",
-  "turkish_example_sentence": "Siz benim notlarıma bakmamışsanız, konuyu anlamazdınız",
-  "turkish_example_sentence_with_blank": "Siz benim notlarıma ______, konuyu anlamazdınız"
+  "turkish_example_sentence": "Siz sıcak fırından çıkan taze keklere açgözlülükle bakmamış olsaydınız, diyetinizi bozmazdınız",
+  "english_example_sentence": "If you hadn't looked at the fresh cakes coming out of the hot oven with greed, you wouldn't have broken your diet",
+  "russian_example_sentence": "Если бы вы не смотрели на свежие кексы, выходящие из горячей духовки, с жадностью, вы бы не нарушили свою диету",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:58:30.379575+00:00",
+  "turkish_example_sentence_with_blank": "Siz sıcak fırından çıkan taze keklere açgözlülükle ______, diyetinizi bozmazdınız"
 }

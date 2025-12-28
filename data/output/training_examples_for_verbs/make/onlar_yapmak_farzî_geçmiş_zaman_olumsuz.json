@@ -4,19 +4,19 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmamışlarsa",
+    "verb_full": "yapmamış olsalardı",
     "root": "yap",
-    "tense_affix": "mış",
+    "tense_affix": "mamış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "larsa",
+    "personal_affix": "lardı",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Onlar bu gürültüyü yapmamışlarsa, komşular şikayet etmezdi.",
-  "english_example_sentence": "If they had not made this noise, the neighbors would not have complained.",
-  "russian_example_sentence": "Если бы они не создавали этот шум, соседи не жаловались бы.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T08:11:07.969865+00:00",
-  "turkish_example_sentence_with_blank": "Onlar bu gürültüyü ______, komşular şikayet etmezdi."
+  "turkish_example_sentence": "Onlar o çevre kirliliğine sebep olan fabrika üretimini yapmamış olsalardı, doğa korunurdu",
+  "english_example_sentence": "If they had not made that factory production causing environmental pollution, nature would have been protected",
+  "russian_example_sentence": "Если бы они не организовали то фабричное производство, вызывающее загрязнение окружающей среды, природа была бы защищена",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:53:09.648269+00:00",
+  "turkish_example_sentence_with_blank": "Onlar o çevre kirliliğine sebep olan fabrika üretimini ______, doğa korunurdu"
 }

@@ -4,19 +4,19 @@
   "verb_russian": "спрашивать",
   "verb_infinitive": "sormak",
   "turkish_verb": {
-    "verb_full": "sormamışsam",
+    "verb_full": "sormamış olsaydım",
     "root": "sor",
-    "tense_affix": "muşsa",
+    "tense_affix": "mamış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ydım",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Ben doktor hakkında hiçbir şey sormamışsam, hastalığım daha kötü olurdu.",
-  "english_example_sentence": "If I had not asked anything about the doctor, my illness would have gotten worse.",
-  "russian_example_sentence": "Если бы я не спросил ничего о враче, моя болезнь бы ухудшилась.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:48:25.856154+00:00",
-  "turkish_example_sentence_with_blank": "Ben doktor hakkında hiçbir şey ______, hastalığım daha kötü olurdu."
+  "turkish_example_sentence": "Ben kızgın komşuya gürültü hakkında sormamış olsaydım, aramız bozulmazdı",
+  "english_example_sentence": "If I hadn't asked the angry neighbor about the noise, our relationship wouldn't have deteriorated",
+  "russian_example_sentence": "Если бы я не спросил сердитого соседа о шуме, наши отношения не испортились бы",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:04:31.751875+00:00",
+  "turkish_example_sentence_with_blank": "Ben kızgın komşuya gürültü hakkında ______, aramız bozulmazdı"
 }

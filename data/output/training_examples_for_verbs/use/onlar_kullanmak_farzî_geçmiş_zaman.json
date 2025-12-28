@@ -4,19 +4,19 @@
   "verb_russian": "использовать",
   "verb_infinitive": "kullanmak",
   "turkish_verb": {
-    "verb_full": "kullanmışlarsa",
+    "verb_full": "kullanmış olsalardı",
     "root": "kullan",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "lardı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Onlar bu yeni stratejileri daha önce kullanmışlarsa, başarı garantilidir.",
-  "english_example_sentence": "If they had used these new strategies before, success is guaranteed.",
-  "russian_example_sentence": "Если бы они использовали эти новые стратегии раньше, успех гарантирован.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:30:20.115390+00:00",
-  "turkish_example_sentence_with_blank": "Onlar bu yeni stratejileri daha önce ______, başarı garantilidir."
+  "turkish_example_sentence": "Onlar yenilenebilir enerji kaynaklarını kullanmış olsalardı, elektrik faturası düşük olurdu",
+  "english_example_sentence": "If they had used renewable energy sources, the electricity bill would have been low",
+  "russian_example_sentence": "Если бы они использовали возобновляемые источники энергии, счёт за электричество был бы низким",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:59:12.125889+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yenilenebilir enerji kaynaklarını ______, elektrik faturası düşük olurdu"
 }

@@ -4,19 +4,19 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulamamışsa",
+    "verb_full": "bulmamış olsaydı",
     "root": "bul",
-    "tense_affix": "muş",
+    "tense_affix": "mamış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "ydı",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "O ormanında kayıp çocuğu bulamamışsa, polis arama devam ederdi.",
-  "english_example_sentence": "If she had not found the lost child in the forest, the police would have continued searching.",
-  "russian_example_sentence": "Если бы она не нашла потерянного ребенка в лесу, полиция продолжала бы поиски.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:36:55.470944+00:00",
-  "turkish_example_sentence_with_blank": "O ormanında kayıp çocuğu ______, polis arama devam ederdi."
+  "turkish_example_sentence": "O önemli belgeleri bulmamış olsaydı, mahkeme davasını kaybederdi ve cezalandırılırdı",
+  "english_example_sentence": "If he/she had not found the important documents, he/she would have lost the court case and been punished",
+  "russian_example_sentence": "Если бы он/она не нашёл(а) важные документы, он/она проиграл(а) бы судебное дело и был(а) бы наказан(а)",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:00:00.346094+00:00",
+  "turkish_example_sentence_with_blank": "O önemli belgeleri ______, mahkeme davasını kaybederdi ve cezalandırılırdı"
 }

@@ -4,17 +4,19 @@
   "verb_russian": "становиться",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmamışsam",
+    "verb_full": "olmamış olsaydım",
     "root": "ol",
-    "tense_affix": "mamışsa",
+    "tense_affix": "mamış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ydım",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If I hadn't become an engineer...",
-  "russian_example_sentence": "Если бы я не стал инженером...",
-  "turkish_example_sentence": "Ben mühendis olmamışsam, farklı bir kariyer seçerdim.",
-  "turkish_example_sentence_with_blank": "Ben mühendis ______, farklı bir kariyer seçerdim."
+  "turkish_example_sentence": "Ben o gün hasta olmamış olsaydım, önemli iş toplantısına katılırdım",
+  "english_example_sentence": "If I had not become sick that day, I would have attended the important business meeting",
+  "russian_example_sentence": "Если бы я не заболел в тот день, я бы присутствовал на важной деловой встрече",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:06:43.954960+00:00",
+  "turkish_example_sentence_with_blank": "Ben o gün hasta ______, önemli iş toplantısına katılırdım"
 }

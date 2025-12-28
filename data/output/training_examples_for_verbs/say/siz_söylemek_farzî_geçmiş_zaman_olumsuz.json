@@ -4,19 +4,19 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylememişsiniz",
+    "verb_full": "söylememiş olsaydınız",
     "root": "söyle",
-    "tense_affix": "miş",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "ydınız",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Siz o olumsuz yorumları söylememişsiniz, herkes daha rahat olmuş olurdu.",
-  "english_example_sentence": "If you had not said those negative comments, everyone would have been more comfortable.",
-  "russian_example_sentence": "Если бы вы не сказали эти отрицательные комментарии, все были бы более комфортны.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-08T08:19:16.838159+00:00",
-  "turkish_example_sentence_with_blank": "Siz o olumsuz yorumları ______, herkes daha rahat olmuş olurdu."
+  "turkish_example_sentence": "Siz tehlikeli fikirleri müdüre ofiste söylememiş olsaydınız işinizi kaybetmezdiniz",
+  "english_example_sentence": "If you hadn't said the dangerous ideas to the manager in the office you wouldn't have lost your job",
+  "russian_example_sentence": "Если бы вы не высказали опасные идеи менеджеру в офисе, вы бы не потеряли работу",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:51:02.876681+00:00",
+  "turkish_example_sentence_with_blank": "Siz tehlikeli fikirleri müdüre ofiste ______ işinizi kaybetmezdiniz"
 }

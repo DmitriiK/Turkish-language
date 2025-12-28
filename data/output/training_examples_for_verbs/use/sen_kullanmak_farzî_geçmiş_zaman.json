@@ -4,19 +4,19 @@
   "verb_russian": "использовать",
   "verb_infinitive": "kullanmak",
   "turkish_verb": {
-    "verb_full": "kullanmışsan",
+    "verb_full": "kullanmış olsaydın",
     "root": "kullan",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "ydın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Sen bu güçlü araçları daha önce kullanmışsan, projeyi başarabilirsin.",
-  "english_example_sentence": "If you had used these powerful tools before, you could succeed in the project.",
-  "russian_example_sentence": "Если бы ты использовал эти мощные инструменты раньше, ты смог бы успешно завершить проект.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:30:20.115390+00:00",
-  "turkish_example_sentence_with_blank": "Sen bu güçlü araçları daha önce ______, projeyi başarabilirsin."
+  "turkish_example_sentence": "Sen güvenli şifreyi kullanmış olsaydın, hesabın çalınmazdı",
+  "english_example_sentence": "If you had used the secure password, your account would not have been stolen",
+  "russian_example_sentence": "Если бы ты использовал безопасный пароль, твой аккаунт не был бы украден",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:59:12.125889+00:00",
+  "turkish_example_sentence_with_blank": "Sen güvenli şifreyi ______, hesabın çalınmazdı"
 }

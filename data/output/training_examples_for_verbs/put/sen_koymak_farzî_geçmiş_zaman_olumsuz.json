@@ -4,17 +4,19 @@
   "verb_russian": "класть",
   "verb_infinitive": "koymak",
   "turkish_verb": {
-    "verb_full": "koymamışsan",
+    "verb_full": "koymamış olsaydın",
     "root": "koy",
-    "tense_affix": "mamışsa",
+    "tense_affix": "muş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "ydın",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If you hadn't put salt in coffee.",
-  "russian_example_sentence": "Если бы ты не положил соль в кофе.",
-  "turkish_example_sentence": "Kahveye tuzu koymamışsan, tadı normal olmalı.",
-  "turkish_example_sentence_with_blank": "Kahveye tuzu ______, tadı normal olmalı."
+  "turkish_example_sentence": "Sen sıcak tencereyi tahta masaya koymamış olsaydın, yüzey yanmazdı",
+  "english_example_sentence": "If you hadn't put the hot pot on the wooden table, the surface wouldn't have burned",
+  "russian_example_sentence": "Если бы ты не поставил горячую кастрюлю на деревянный стол, поверхность не обгорела бы",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:08:15.996155+00:00",
+  "turkish_example_sentence_with_blank": "Sen sıcak tencereyi tahta masaya ______, yüzey yanmazdı"
 }

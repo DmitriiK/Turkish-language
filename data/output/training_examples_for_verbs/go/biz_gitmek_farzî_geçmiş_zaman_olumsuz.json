@@ -4,19 +4,19 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmemişsek",
+    "verb_full": "gitmemiş olsaydık",
     "root": "git",
-    "tense_affix": "miş",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ydık",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Biz salı öğleden sonra piknik alanına gitmemişsek, lezzetli yemekleri tadamadık.",
-  "english_example_sentence": "If we had not gone to the picnic area on Tuesday afternoon, we did not taste the delicious foods.",
-  "russian_example_sentence": "Если бы мы не пошли на пикник во вторник днем, мы не попробовали вкусную еду.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-14T07:35:52.626469+00:00",
-  "turkish_example_sentence_with_blank": "Biz salı öğleden sonra piknik alanına ______, lezzetli yemekleri tadamadık."
+  "turkish_example_sentence": "Biz pahalı lüks restorana gitmemiş olsaydık çok para harcamazdık",
+  "english_example_sentence": "If we had not gone to the expensive luxury restaurant, we would not have spent a lot of money",
+  "russian_example_sentence": "Если бы мы не пошли в дорогой роскошный ресторан, мы бы не потратили много денег",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:51:45.194884+00:00",
+  "turkish_example_sentence_with_blank": "Biz pahalı lüks restorana ______ çok para harcamazdık"
 }

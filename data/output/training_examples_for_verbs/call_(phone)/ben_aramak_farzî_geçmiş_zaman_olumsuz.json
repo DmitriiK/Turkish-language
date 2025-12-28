@@ -1,0 +1,22 @@
+{
+  "verb_rank": 20,
+  "verb_english": "call (phone)",
+  "verb_russian": "звонить",
+  "verb_infinitive": "aramak",
+  "turkish_verb": {
+    "verb_full": "aramamış olsaydım",
+    "root": "ara",
+    "tense_affix": "mış olsa",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "ben",
+    "personal_affix": "ydım",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "turkish_example_sentence": "Ben sinirli müdürü sabah aramamış olsaydım şimdi rahat çalışırdım",
+  "english_example_sentence": "If I hadn't called the angry manager in the morning, I would be working peacefully now",
+  "russian_example_sentence": "Если бы я не позвонил сердитому менеджеру утром, я бы сейчас спокойно работал",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:03:00.390580+00:00",
+  "turkish_example_sentence_with_blank": "Ben sinirli müdürü sabah ______ şimdi rahat çalışırdım"
+}

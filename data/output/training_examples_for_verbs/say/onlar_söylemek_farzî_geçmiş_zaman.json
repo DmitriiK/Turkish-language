@@ -4,19 +4,19 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylemişlerse",
+    "verb_full": "söylemiş olsalardı",
     "root": "söyle",
-    "tense_affix": "miş",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "lardı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Onlar radyoda harita haber söylemişlerse, halk daha iyi hazırlanmış olurdu.",
-  "english_example_sentence": "If they had said important news on the radio, the public would have been better prepared.",
-  "russian_example_sentence": "Если бы они сказали важные новости по радио, общественность была бы лучше подготовлена.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-08T08:19:16.838159+00:00",
-  "turkish_example_sentence_with_blank": "Onlar radyoda harita haber ______, halk daha iyi hazırlanmış olurdu."
+  "turkish_example_sentence": "Onlar önemli bilgileri yetkili memura hastanede söylemiş olsalardı sorun çözülürdü",
+  "english_example_sentence": "If they had said the important information to the authorized officer at the hospital the problem would have been solved",
+  "russian_example_sentence": "Если бы они сказали важную информацию уполномоченному сотруднику в больнице, проблема была бы решена",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:51:02.876681+00:00",
+  "turkish_example_sentence_with_blank": "Onlar önemli bilgileri yetkili memura hastanede ______ sorun çözülürdü"
 }

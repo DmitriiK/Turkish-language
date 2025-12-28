@@ -4,19 +4,19 @@
   "verb_russian": "работать",
   "verb_infinitive": "çalışmak",
   "turkish_verb": {
-    "verb_full": "çalışmışsam",
+    "verb_full": "çalışmış olsaydım",
     "root": "çalış",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ydım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Ben dün gece bu zor projeyi çalışmışsam, başarılı olabilirdim.",
-  "english_example_sentence": "If I had worked on this difficult project last night, I could have succeeded.",
-  "russian_example_sentence": "Если бы я работал над этим сложным проектом вчера ночью, я бы мог преуспеть.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:56:53.426849+00:00",
-  "turkish_example_sentence_with_blank": "Ben dün gece bu zor projeyi ______, başarılı olabilirdim."
+  "turkish_example_sentence": "Ben dün gece büyük projede çalışmış olsaydım, bugün başarılı sunumu yapabilirdim",
+  "english_example_sentence": "If I had worked on the big project last night, I could have made the successful presentation today",
+  "russian_example_sentence": "Если бы я работал над большим проектом вчера вечером, я мог бы сделать успешную презентацию сегодня",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:02:15.050258+00:00",
+  "turkish_example_sentence_with_blank": "Ben dün gece büyük projede ______, bugün başarılı sunumu yapabilirdim"
 }

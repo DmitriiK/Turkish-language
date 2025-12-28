@@ -4,19 +4,19 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmışsa",
+    "verb_full": "yapmış olsaydı",
     "root": "yap",
-    "tense_affix": "mış",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "sa",
+    "personal_affix": "ydı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "O daha iyi bir seçim yapmışsa, şimdi mutlu bir hayatı olurdu.",
-  "english_example_sentence": "If he/she had made a better choice, he/she would have a happy life now.",
-  "russian_example_sentence": "Если бы он/она сделал(а) лучший выбор, у него/нее сейчас была бы счастливая жизнь.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T08:11:07.969865+00:00",
-  "turkish_example_sentence_with_blank": "O daha iyi bir seçim ______, şimdi mutlu bir hayatı olurdu."
+  "turkish_example_sentence": "O detaylı bilimsel araştırmayı zamanında yapmış olsaydı, ödül kazanabilirdi",
+  "english_example_sentence": "If he had made that detailed scientific research on time, he could have won the award",
+  "russian_example_sentence": "Если бы он сделал то подробное научное исследование вовремя, он мог бы выиграть награду",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:53:09.648269+00:00",
+  "turkish_example_sentence_with_blank": "O detaylı bilimsel araştırmayı zamanında ______, ödül kazanabilirdi"
 }

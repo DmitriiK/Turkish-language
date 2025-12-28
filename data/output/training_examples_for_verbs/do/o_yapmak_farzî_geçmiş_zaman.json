@@ -4,19 +4,19 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmışsa",
+    "verb_full": "yapmış olsaydı",
     "root": "yap",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "ydı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "O uzun yolculuğu sabırla yapmışsa, çok yorulurdu.",
-  "english_example_sentence": "If he had done the long journey patiently, he would have been very tired.",
-  "russian_example_sentence": "Если бы он терпеливо совершил долгое путешествие, он бы очень устал.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-14T07:22:00.994145+00:00",
-  "turkish_example_sentence_with_blank": "O uzun yolculuğu sabırla ______, çok yorulurdu."
+  "turkish_example_sentence": "O önemli iş sunumunu dikkatli yapmış olsaydı, terfi alabilirdi",
+  "english_example_sentence": "If he/she had done the important business presentation carefully, he/she could have gotten a promotion",
+  "russian_example_sentence": "Если бы он/она сделал(а) важную деловую презентацию внимательно, он/она мог(ла) бы получить повышение",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:50:17.289009+00:00",
+  "turkish_example_sentence_with_blank": "O önemli iş sunumunu dikkatli ______, terfi alabilirdi"
 }

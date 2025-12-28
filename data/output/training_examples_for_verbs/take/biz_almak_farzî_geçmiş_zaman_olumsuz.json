@@ -4,19 +4,19 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almamışsak",
+    "verb_full": "almamış olsaydık",
     "root": "al",
-    "tense_affix": "mışsa",
+    "tense_affix": "mamış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ydık",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Biz konserden bilet almamışsak, müzik festivali hakkında bilgi alamazdık.",
-  "english_example_sentence": "If we had not taken the tickets from the concert, we could not have learned about the music festival.",
-  "russian_example_sentence": "Если бы мы не взяли билеты на концерт, мы не смогли бы узнать о музыкальном фестивале.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-15T12:34:43.867715+00:00",
-  "turkish_example_sentence_with_blank": "Biz konserden bilet ______, müzik festivali hakkında bilgi alamazdık."
+  "turkish_example_sentence": "Biz büyük mavi bavulu almamış olsaydık uçakta yer sorunu yaşamazdık",
+  "english_example_sentence": "If we had not taken the big blue suitcase, we wouldn't have space problems on the plane",
+  "russian_example_sentence": "Если бы мы не взяли большой синий чемодан, у нас не было бы проблем с местом в самолёте",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:55:16.643558+00:00",
+  "turkish_example_sentence_with_blank": "Biz büyük mavi bavulu ______ uçakta yer sorunu yaşamazdık"
 }

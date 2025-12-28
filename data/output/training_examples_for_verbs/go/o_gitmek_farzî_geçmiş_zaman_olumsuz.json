@@ -4,19 +4,19 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmemişse",
+    "verb_full": "gitmemiş olsaydı",
     "root": "git",
-    "tense_affix": "miş",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "ydı",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "O perşembe akşamı konser salonuna gitmemişse, müzik performansını kaçırmış olurdu.",
-  "english_example_sentence": "If she had not gone to the concert hall on Thursday evening, she would have missed the music performance.",
-  "russian_example_sentence": "Если бы она не пошла в концертный зал в четверг вечером, она бы упустила музыкальное представление.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-14T07:35:52.626469+00:00",
-  "turkish_example_sentence_with_blank": "O perşembe akşamı konser salonuna ______, müzik performansını kaçırmış olurdu."
+  "turkish_example_sentence": "O soğuk kış gecesi dışarı gitmemiş olsaydı hasta olmazdı",
+  "english_example_sentence": "If she had not gone outside on that cold winter night, she would not have gotten sick",
+  "russian_example_sentence": "Если бы она не вышла на улицу той холодной зимней ночью, она бы не заболела",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:51:45.194884+00:00",
+  "turkish_example_sentence_with_blank": "O soğuk kış gecesi dışarı ______ hasta olmazdı"
 }

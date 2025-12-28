@@ -4,19 +4,19 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmemişsem",
+    "verb_full": "düşünmemiş olsaydım",
     "root": "düşün",
-    "tense_affix": "müş",
+    "tense_affix": "me",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "miş olsaydım",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Ben bu önemli kararı düşünmemişsem, büyük hata yapmışım.",
-  "english_example_sentence": "If I had not thought about this important decision, I would have made a big mistake.",
-  "russian_example_sentence": "Если бы я не подумал об этом важном решении, я бы совершил большую ошибку.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-15T12:15:25.718821+00:00",
-  "turkish_example_sentence_with_blank": "Ben bu önemli kararı ______, büyük hata yapmışım."
+  "turkish_example_sentence": "Ben o tehlikeli yolculuk planını düşünmemiş olsaydım şimdi mutlu olurdum",
+  "english_example_sentence": "If I had not thought about that dangerous journey plan, I would be happy now",
+  "russian_example_sentence": "Если бы я не думал о том опасном плане путешествия, я был бы счастлив сейчас",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:54:34.077710+00:00",
+  "turkish_example_sentence_with_blank": "Ben o tehlikeli yolculuk planını ______ şimdi mutlu olurdum"
 }

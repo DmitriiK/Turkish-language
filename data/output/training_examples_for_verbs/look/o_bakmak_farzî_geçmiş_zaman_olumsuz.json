@@ -4,17 +4,19 @@
   "verb_russian": "смотреть",
   "verb_infinitive": "bakmak",
   "turkish_verb": {
-    "verb_full": "bakmamışsa",
+    "verb_full": "bakmamış olsaydı",
     "root": "bak",
-    "tense_affix": "mamışsa",
+    "tense_affix": "mamış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "ydı",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If she hadn't looked at the clock,",
-  "russian_example_sentence": "Если бы она не посмотрела на часы",
-  "turkish_example_sentence": "O saate bakmamışsa, toplantıyı kaçırırdı",
-  "turkish_example_sentence_with_blank": "O saate ______, toplantıyı kaçırırdı"
+  "turkish_example_sentence": "O karanlık koridorun sonuna korkuyla bakmamış olsaydı, tehlikeli durumu fark ederdi",
+  "english_example_sentence": "If she hadn't looked at the end of the dark corridor with fear, she would have noticed the dangerous situation",
+  "russian_example_sentence": "Если бы она не смотрела на конец темного коридора со страхом, она бы заметила опасную ситуацию",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:58:30.379575+00:00",
+  "turkish_example_sentence_with_blank": "O karanlık koridorun sonuna korkuyla ______, tehlikeli durumu fark ederdi"
 }

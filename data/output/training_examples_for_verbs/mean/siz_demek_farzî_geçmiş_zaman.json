@@ -4,17 +4,19 @@
   "verb_russian": "значить",
   "verb_infinitive": "demek",
   "turkish_verb": {
-    "verb_full": "demişseniz",
+    "verb_full": "demiş olsaydınız",
     "root": "de",
-    "tense_affix": "mişse",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "ydınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you had meant business then",
-  "russian_example_sentence": "Если бы вы тогда серьезно относились к делу",
-  "turkish_example_sentence": "Siz o zaman ciddi olmayı istemişseniz, şimdi pişman olmazdınız",
-  "turkish_example_sentence_with_blank": "Siz o zaman ciddi olmayı istemişseniz, şimdi pişman olmazdınız"
+  "turkish_example_sentence": "Siz tatlı sözleri misafirlere demiş olsaydınız onlar mutlu ayrılırdı",
+  "english_example_sentence": "If you had said the sweet words to the guests, they would have left happy",
+  "russian_example_sentence": "Если бы вы сказали сладкие слова гостям, они бы ушли счастливыми",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:08:58.515837+00:00",
+  "turkish_example_sentence_with_blank": "Siz tatlı sözleri misafirlere ______ onlar mutlu ayrılırdı"
 }

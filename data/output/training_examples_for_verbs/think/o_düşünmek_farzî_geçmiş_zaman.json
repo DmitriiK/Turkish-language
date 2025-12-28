@@ -4,19 +4,19 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmüşse",
+    "verb_full": "düşünmüş olsaydı",
     "root": "düşün",
-    "tense_affix": "müş",
+    "tense_affix": "müş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "ydı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "O genç mühendis bu karmaşık projeyi düşünmüşse, başarılı bir tasarım ortaya koyabilirdi.",
-  "english_example_sentence": "If that young engineer had thought about this complex project, he could have produced a successful design.",
-  "russian_example_sentence": "Если бы этот молодой инженер подумал об этом сложном проекте, он бы мог создать успешный дизайн.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-15T12:15:25.718821+00:00",
-  "turkish_example_sentence_with_blank": "O genç mühendis bu karmaşık projeyi ______, başarılı bir tasarım ortaya koyabilirdi."
+  "turkish_example_sentence": "O yeni iş teklifini mantıklı düşünmüş olsaydı kabul ederdi",
+  "english_example_sentence": "If he/she had thought about the new job offer logically, he/she would have accepted it",
+  "russian_example_sentence": "Если бы он/она подумал о новом предложении работы логически, он/она бы принял его",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:54:34.077710+00:00",
+  "turkish_example_sentence_with_blank": "O yeni iş teklifini mantıklı ______ kabul ederdi"
 }

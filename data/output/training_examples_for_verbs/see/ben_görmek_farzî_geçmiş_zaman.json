@@ -4,19 +4,19 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görmüşsem",
+    "verb_full": "görmüş olsaydım",
     "root": "gör",
-    "tense_affix": "müş",
+    "tense_affix": "müş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ydım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Ben o güzel kırmızı çiçekleri bahçede görmüşsem, çok şaşırırım.",
-  "english_example_sentence": "If I had seen those beautiful red flowers in the garden, I would be very surprised.",
-  "russian_example_sentence": "Если бы я видел те красивые красные цветы в саду, я был бы очень удивлен.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T12:36:36.226630+00:00",
-  "turkish_example_sentence_with_blank": "Ben o güzel kırmızı çiçekleri bahçede ______, çok şaşırırım."
+  "turkish_example_sentence": "Ben o muhteşem gün batımını görmüş olsaydım fotoğraflar çekerdim",
+  "english_example_sentence": "If I had seen that magnificent sunset, I would have taken photographs",
+  "russian_example_sentence": "Если бы я видел тот великолепный закат, я бы сделал фотографии",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:55:59.798662+00:00",
+  "turkish_example_sentence_with_blank": "Ben o muhteşem gün batımını ______ fotoğraflar çekerdim"
 }

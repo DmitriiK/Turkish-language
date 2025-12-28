@@ -4,17 +4,19 @@
   "verb_russian": "приходить",
   "verb_infinitive": "gelmek",
   "turkish_verb": {
-    "verb_full": "gelmemişlerse",
+    "verb_full": "gelmemiş olsalardı",
     "root": "gel",
-    "tense_affix": "mişlerse",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "lardı",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If they hadn't come, no news",
-  "russian_example_sentence": "Если бы они не пришли, не было бы новостей",
-  "turkish_example_sentence": "Onlar gelmemişlerse, önemli haberleri duymamışlardır muhtemelen",
-  "turkish_example_sentence_with_blank": "Onlar ______, önemli haberleri duymamışlardır muhtemelen"
+  "turkish_example_sentence": "Onlar cumartesi günü kalabalık alışveriş merkezine gelmemiş olsalardı, yorucu kalabalıkta stres yaşamazlardı",
+  "english_example_sentence": "If they hadn't come to the crowded shopping mall on Saturday, they wouldn't have experienced stress in the tiring crowd",
+  "russian_example_sentence": "Если бы они не пришли в переполненный торговый центр в субботу, они бы не испытали стресс в утомительной толпе",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:56:53.863233+00:00",
+  "turkish_example_sentence_with_blank": "Onlar cumartesi günü kalabalık alışveriş merkezine ______, yorucu kalabalıkta stres yaşamazlardı"
 }

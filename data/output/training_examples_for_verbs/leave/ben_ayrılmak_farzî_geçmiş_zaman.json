@@ -4,17 +4,19 @@
   "verb_russian": "покидать",
   "verb_infinitive": "ayrılmak",
   "turkish_verb": {
-    "verb_full": "ayrılmışsam",
+    "verb_full": "ayrılmış olsaydım",
     "root": "ayrıl",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ydım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I had left the old office",
-  "russian_example_sentence": "Если бы я покинул старый офис",
-  "turkish_example_sentence": "Ben eski ofisten ayrılmışsam, yeni fırsatlar bulurdum.",
-  "turkish_example_sentence_with_blank": "Ben eski ofisten ______, yeni fırsatlar bulurdum."
+  "turkish_example_sentence": "Ben o eski şirketten daha erken ayrılmış olsaydım, yeni kariyer fırsatlarını yakalardım",
+  "english_example_sentence": "If I had left that old company earlier, I would have caught new career opportunities",
+  "russian_example_sentence": "Если бы я покинул ту старую компанию раньше, я бы поймал новые карьерные возможности",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:07:30.957560+00:00",
+  "turkish_example_sentence_with_blank": "Ben o eski şirketten daha erken ______, yeni kariyer fırsatlarını yakalardım"
 }

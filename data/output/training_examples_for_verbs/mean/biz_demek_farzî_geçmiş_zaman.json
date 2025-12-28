@@ -4,17 +4,19 @@
   "verb_russian": "значить",
   "verb_infinitive": "demek",
   "turkish_verb": {
-    "verb_full": "demişsek",
+    "verb_full": "demiş olsaydık",
     "root": "de",
-    "tense_affix": "mişse",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ydık",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we had meant to stay",
-  "russian_example_sentence": "Если бы мы хотели остаться",
-  "turkish_example_sentence": "Biz daha uzun kalmayı istemişsek, neden ayrıldık?",
-  "turkish_example_sentence_with_blank": "Biz daha uzun kalmayı istemişsek, neden ayrıldık?"
+  "turkish_example_sentence": "Biz önemli planımızı müdüre demiş olsaydık proje onaylanırdı",
+  "english_example_sentence": "If we had said our important plan to the director, the project would have been approved",
+  "russian_example_sentence": "Если бы мы сказали наш важный план директору, проект был бы одобрен",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:08:58.515837+00:00",
+  "turkish_example_sentence_with_blank": "Biz önemli planımızı müdüre ______ proje onaylanırdı"
 }

@@ -4,19 +4,19 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmışsak",
+    "verb_full": "yapmış olsaydık",
     "root": "yap",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ydık",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Biz ekip çalışmasını etkili biçimde yapmışsak, ödül kazanırdık.",
-  "english_example_sentence": "If we had done the teamwork effectively, we would have won the prize.",
-  "russian_example_sentence": "Если бы мы эффективно выполнили командную работу, мы бы выиграли приз.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-14T07:22:00.994145+00:00",
-  "turkish_example_sentence_with_blank": "Biz ekip çalışmasını etkili biçimde ______, ödül kazanırdık."
+  "turkish_example_sentence": "Biz kapsamlı pazar araştırmasını önceden yapmış olsaydık, şirket başarılı olurdu",
+  "english_example_sentence": "If we had done the comprehensive market research beforehand, the company would have been successful",
+  "russian_example_sentence": "Если бы мы сделали комплексное маркетинговое исследование заранее, компания была бы успешной",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:50:17.289009+00:00",
+  "turkish_example_sentence_with_blank": "Biz kapsamlı pazar araştırmasını önceden ______, şirket başarılı olurdu"
 }

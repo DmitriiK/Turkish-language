@@ -4,17 +4,19 @@
   "verb_russian": "покидать",
   "verb_infinitive": "ayrılmak",
   "turkish_verb": {
-    "verb_full": "ayrılmamışlarsa",
+    "verb_full": "ayrılmamış olsalardı",
     "root": "ayrıl",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "lardı",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If they hadn't left the sunny beach",
-  "russian_example_sentence": "Если бы они не покинули солнечный пляж",
-  "turkish_example_sentence": "Onlar güneşli sahilden ayrılmamışlarsa, güzel bir gün geçiriyorlardı.",
-  "turkish_example_sentence_with_blank": "Onlar güneşli sahilden ______, güzel bir gün geçiriyorlardı."
+  "turkish_example_sentence": "Onlar ünlü sanat akademisinden ayrılmamış olsalardı, profesyonel resim sergilerinde yer alırlardı",
+  "english_example_sentence": "If they had not left the famous art academy, they would have participated in professional painting exhibitions",
+  "russian_example_sentence": "Если бы они не покидали знаменитую художественную академию, они бы участвовали в профессиональных живописных выставках",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:07:30.957560+00:00",
+  "turkish_example_sentence_with_blank": "Onlar ünlü sanat akademisinden ______, profesyonel resim sergilerinde yer alırlardı"
 }

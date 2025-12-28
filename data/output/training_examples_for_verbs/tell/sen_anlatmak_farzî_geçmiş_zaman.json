@@ -4,19 +4,19 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatmışsan",
+    "verb_full": "anlatmış olsaydın",
     "root": "anlat",
-    "tense_affix": "mış",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "ydın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Eğer sen bu komik anekdotu arkadaşlarına anlatmışsan, hepsi gülmüş olurdu.",
-  "english_example_sentence": "If you had told this funny anecdote to your friends, they would have all laughed.",
-  "russian_example_sentence": "Если бы ты рассказал этот смешной анекдот своим друзьям, они бы все смеялись.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:42:43.841974+00:00",
-  "turkish_example_sentence_with_blank": "Eğer sen bu komik anekdotu arkadaşlarına ______, hepsi gülmüş olurdu."
+  "turkish_example_sentence": "Sen eski çocukluk anılarını anlatmış olsaydın çok gülerlerdi",
+  "english_example_sentence": "If you had told the old childhood memories, they would have laughed a lot",
+  "russian_example_sentence": "Если бы ты рассказал старые детские воспоминания, они бы много смеялись",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:01:25.747423+00:00",
+  "turkish_example_sentence_with_blank": "Sen eski çocukluk anılarını ______ çok gülerlerdi"
 }

@@ -4,19 +4,19 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmışsam",
+    "verb_full": "yapmış olsaydım",
     "root": "yap",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ydım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Ben önemli projeyi zamanında yapmışsam, başarılı olurdum.",
-  "english_example_sentence": "If I had done the important project on time, I would have been successful.",
-  "russian_example_sentence": "Если бы я сделал важный проект вовремя, я бы добился успеха.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-14T07:22:00.994145+00:00",
-  "turkish_example_sentence_with_blank": "Ben önemli projeyi zamanında ______, başarılı olurdum."
+  "turkish_example_sentence": "Ben o zor matematik ödevini zamanında yapmış olsaydım, yüksek not alırdım",
+  "english_example_sentence": "If I had done that difficult math homework on time, I would have gotten a high grade",
+  "russian_example_sentence": "Если бы я сделал то трудное математическое задание вовремя, я бы получил высокую оценку",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:50:17.289009+00:00",
+  "turkish_example_sentence_with_blank": "Ben o zor matematik ödevini zamanında ______, yüksek not alırdım"
 }

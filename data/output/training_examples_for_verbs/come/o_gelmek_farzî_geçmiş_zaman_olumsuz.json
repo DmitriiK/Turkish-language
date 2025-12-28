@@ -4,17 +4,19 @@
   "verb_russian": "приходить",
   "verb_infinitive": "gelmek",
   "turkish_verb": {
-    "verb_full": "gelmemişse",
+    "verb_full": "gelmemiş olsaydı",
     "root": "gel",
-    "tense_affix": "mişse",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "ydı",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If she hadn't come, it's better",
-  "russian_example_sentence": "Если бы она не пришла, это лучше",
-  "turkish_example_sentence": "O gelmemişse, bence herkes için daha iyi olurdu",
-  "turkish_example_sentence_with_blank": "O ______, bence herkes için daha iyi olurdu"
+  "turkish_example_sentence": "O sabah erken saatte yoğun hastane randevusuna gelmemiş olsaydı, uzun kuyrukta beklemek zorunda kalmazdı",
+  "english_example_sentence": "If she hadn't come to the busy hospital appointment in the early morning, she wouldn't have had to wait in a long queue",
+  "russian_example_sentence": "Если бы она не пришла на приём в загруженную больницу ранним утром, ей не пришлось бы ждать в длинной очереди",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:56:53.863233+00:00",
+  "turkish_example_sentence_with_blank": "O sabah erken saatte yoğun hastane randevusuna ______, uzun kuyrukta beklemek zorunda kalmazdı"
 }

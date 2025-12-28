@@ -4,17 +4,19 @@
   "verb_russian": "получать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almamışlarsa",
+    "verb_full": "almamış olsalardı",
     "root": "al",
-    "tense_affix": "mışsa",
+    "tense_affix": "mamış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "lardı",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If they hadn't received the invitation, they would feel excluded.",
-  "russian_example_sentence": "Если они не получили приглашение, они чувствовали бы себя исключёнными.",
-  "turkish_example_sentence": "Davetiyeyi almamışlarsa, dışlanmış hissederlerdi.",
-  "turkish_example_sentence_with_blank": "Davetiyeyi ______, dışlanmış hissederlerdi."
+  "turkish_example_sentence": "Onlar riskli iş teklifini almamış olsalardı, rahat yaşarlardı",
+  "english_example_sentence": "If they had not gotten the risky job offer, they would live comfortably",
+  "russian_example_sentence": "Если бы они не приняли рискованное предложение о работе, они жили бы комфортно",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:52:25.840786+00:00",
+  "turkish_example_sentence_with_blank": "Onlar riskli iş teklifini ______, rahat yaşarlardı"
 }

@@ -4,19 +4,19 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmüşsek",
+    "verb_full": "düşünmüş olsaydık",
     "root": "düşün",
-    "tense_affix": "müş",
+    "tense_affix": "müş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ydık",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Biz bu çevre sorununun ciddi sonuçlarını düşünmüşsek, daha iyi bir strateji geliştirebilirdik.",
-  "english_example_sentence": "If we had thought about the serious consequences of this environmental problem, we could have developed a better strategy.",
-  "russian_example_sentence": "Если бы мы подумали о серьезных последствиях этой экологической проблемы, мы бы могли разработать лучшую стратегию.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-15T12:15:25.718821+00:00",
-  "turkish_example_sentence_with_blank": "Biz bu çevre sorununun ciddi sonuçlarını ______, daha iyi bir strateji geliştirebilirdik."
+  "turkish_example_sentence": "Biz çevresel sonuçları daha ciddi düşünmüş olsaydık proje başarılı olurdu",
+  "english_example_sentence": "If we had thought about the environmental consequences more seriously, the project would have been successful",
+  "russian_example_sentence": "Если бы мы подумали об экологических последствиях более серьезно, проект был бы успешным",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:54:34.077710+00:00",
+  "turkish_example_sentence_with_blank": "Biz çevresel sonuçları daha ciddi ______ proje başarılı olurdu"
 }

@@ -4,19 +4,19 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatmışsanız",
+    "verb_full": "anlatmış olsaydınız",
     "root": "anlat",
-    "tense_affix": "mış",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "ydınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Eğer siz bu değerli bilgiyi öğrencilere anlatmışsanız, onlar çok şey öğrenmiş olurdu.",
-  "english_example_sentence": "If you had told this valuable information to the students, they would have learned a lot.",
-  "russian_example_sentence": "Если бы вы рассказали эту ценную информацию студентам, они бы многому научились.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:42:43.841974+00:00",
-  "turkish_example_sentence_with_blank": "Eğer siz bu değerli bilgiyi öğrencilere ______, onlar çok şey öğrenmiş olurdu."
+  "turkish_example_sentence": "Siz harika yemek tarifini anlatmış olsaydınız biz de yapardık",
+  "english_example_sentence": "If you had told the wonderful food recipe, we would have made it too",
+  "russian_example_sentence": "Если бы вы рассказали замечательный рецепт блюда, мы бы тоже приготовили",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:01:25.747423+00:00",
+  "turkish_example_sentence_with_blank": "Siz harika yemek tarifini ______ biz de yapardık"
 }

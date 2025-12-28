@@ -4,19 +4,19 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmişsen",
+    "verb_full": "gitmiş olsaydın",
     "root": "git",
-    "tense_affix": "miş",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "ydın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Sen geçen hafta İstanbul'a gitmişsen, Topkapı Sarayını ziyaret etmiş olabilirsin.",
-  "english_example_sentence": "If you had gone to Istanbul last week, you might have visited Topkapi Palace.",
-  "russian_example_sentence": "Если бы ты пошел в Стамбул на прошлой неделе, ты мог бы посетить дворец Топкапы.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-14T07:35:52.626469+00:00",
-  "turkish_example_sentence_with_blank": "Sen geçen hafta İstanbul'a ______, Topkapı Sarayını ziyaret etmiş olabilirsin."
+  "turkish_example_sentence": "Sen sabah erken doktora gitmiş olsaydın önemli randevunu kaçırmazdın",
+  "english_example_sentence": "If you had gone to the doctor early in the morning, you would not have missed your important appointment",
+  "russian_example_sentence": "Если бы ты пошёл к врачу рано утром, ты бы не пропустил свою важную встречу",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:51:45.194884+00:00",
+  "turkish_example_sentence_with_blank": "Sen sabah erken doktora ______ önemli randevunu kaçırmazdın"
 }

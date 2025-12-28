@@ -4,19 +4,19 @@
   "verb_russian": "использовать",
   "verb_infinitive": "kullanmak",
   "turkish_verb": {
-    "verb_full": "kullanmamışsa",
+    "verb_full": "kullanmamış olsaydı",
     "root": "kullan",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "ydı",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "O bu pahalı malzemeleri daha önce kullanmamışsa, hata yapabilir.",
-  "english_example_sentence": "If she had never used these expensive materials before, she could make mistakes.",
-  "russian_example_sentence": "Если бы она никогда не использовала эти дорогие материалы раньше, она могла бы ошибиться.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:30:20.115390+00:00",
-  "turkish_example_sentence_with_blank": "O bu pahalı malzemeleri daha önce ______, hata yapabilir."
+  "turkish_example_sentence": "O kimyasal deterjanı kullanmamış olsaydı, alerjik reaksiyon göstermezdi",
+  "english_example_sentence": "If she had not used the chemical detergent, she would not have had an allergic reaction",
+  "russian_example_sentence": "Если бы она не использовала химический моющий порошок, у неё не было бы аллергической реакции",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:59:12.125889+00:00",
+  "turkish_example_sentence_with_blank": "O kimyasal deterjanı ______, alerjik reaksiyon göstermezdi"
 }

@@ -4,17 +4,19 @@
   "verb_russian": "значить",
   "verb_infinitive": "demek",
   "turkish_verb": {
-    "verb_full": "dememişsek",
+    "verb_full": "dememiş olsaydık",
     "root": "de",
-    "tense_affix": "mişse",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ydık",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If we hadn't meant to lie",
-  "russian_example_sentence": "Если бы мы не хотели лгать",
-  "turkish_example_sentence": "Biz yalan söylemeyi dememişsek, neden gerçeği gizledik?",
-  "turkish_example_sentence_with_blank": "Biz yalan söylemeyi ______, neden gerçeği gizledik?"
+  "turkish_example_sentence": "Biz kötü fikirleri yöneticilere dememiş olsaydık şirket başarılı olurdu",
+  "english_example_sentence": "If we had not said the bad ideas to the managers, the company would have been successful",
+  "russian_example_sentence": "Если бы мы не сказали плохие идеи менеджерам, компания была бы успешной",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:08:58.515837+00:00",
+  "turkish_example_sentence_with_blank": "Biz kötü fikirleri yöneticilere ______ şirket başarılı olurdu"
 }

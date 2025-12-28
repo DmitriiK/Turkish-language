@@ -4,17 +4,19 @@
   "verb_russian": "приходить",
   "verb_infinitive": "gelmek",
   "turkish_verb": {
-    "verb_full": "gelmişsek",
+    "verb_full": "gelmiş olsaydık",
     "root": "gel",
-    "tense_affix": "mişse",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ydık",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we had come, we helped",
-  "russian_example_sentence": "Если бы мы пришли, мы бы помогли",
-  "turkish_example_sentence": "Biz gelmişsek, yaşlı adama yardım ederdik elbette",
-  "turkish_example_sentence_with_blank": "Biz ______, yaşlı adama yardım ederdik elbette"
+  "turkish_example_sentence": "Biz ilkbahar mevsiminde renkli çiçek bahçesine gelmiş olsaydık, taze lale kokusunu duyabilirdik",
+  "english_example_sentence": "If we had come to the colorful flower garden in spring season, we could have smelled the fresh tulip scent",
+  "russian_example_sentence": "Если бы мы пришли в цветной цветочный сад весной, мы могли бы почувствовать свежий аромат тюльпанов",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:56:53.863233+00:00",
+  "turkish_example_sentence_with_blank": "Biz ilkbahar mevsiminde renkli çiçek bahçesine ______, taze lale kokusunu duyabilirdik"
 }

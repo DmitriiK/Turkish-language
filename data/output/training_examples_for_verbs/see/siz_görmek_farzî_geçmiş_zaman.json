@@ -4,19 +4,19 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görmüşsünüz",
+    "verb_full": "görmüş olsaydınız",
     "root": "gör",
-    "tense_affix": "müş",
+    "tense_affix": "müş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "nüz",
+    "personal_affix": "ydınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Siz o nadir pembe flamingo kuşlarını Afrikalı savanada görmüşsünüz, çok şanslı olurdunuz.",
-  "english_example_sentence": "If you had seen those rare pink flamingo birds in the African savanna, you would have been very lucky.",
-  "russian_example_sentence": "Если бы вы видели тех редких розовых фламинго в африканской саванне, вы были бы очень удачливы.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T12:36:36.226630+00:00",
-  "turkish_example_sentence_with_blank": "Siz o nadir pembe flamingo kuşlarını Afrikalı savanada ______, çok şanslı olurdunuz."
+  "turkish_example_sentence": "Siz yeşil dağlardaki güzel manzarayı görmüş olsaydınız resim yapardınız",
+  "english_example_sentence": "If you had seen the beautiful landscape in the green mountains, you would have painted",
+  "russian_example_sentence": "Если бы вы видели красивый пейзаж в зеленых горах, вы бы рисовали",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:55:59.798662+00:00",
+  "turkish_example_sentence_with_blank": "Siz yeşil dağlardaki güzel manzarayı ______ resim yapardınız"
 }

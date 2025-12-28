@@ -4,17 +4,19 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "denemişseniz",
+    "verb_full": "denemiş olsaydınız",
     "root": "dene",
-    "tense_affix": "mişse",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "ydınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you had tried the foreign cuisine...",
-  "russian_example_sentence": "Если бы вы попробовали иностранную кухню...",
-  "turkish_example_sentence": "Siz yabancı mutfağı denemişseniz, sevecektiniz.",
-  "turkish_example_sentence_with_blank": "Siz yabancı mutfağı ______, sevecektiniz."
+  "turkish_example_sentence": "Siz yeni pazarlama stratejisini denemiş olsaydınız, satışlarınız iki kat artardı kesinlikle",
+  "english_example_sentence": "If you had tried the new marketing strategy, your sales would have definitely doubled",
+  "russian_example_sentence": "Если бы вы попробовали новую маркетинговую стратегию, ваши продажи определенно удвоились бы",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:03:43.513575+00:00",
+  "turkish_example_sentence_with_blank": "Siz yeni pazarlama stratejisini ______, satışlarınız iki kat artardı kesinlikle"
 }

@@ -4,19 +4,19 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmüşsünüz",
+    "verb_full": "düşünmüş olsaydınız",
     "root": "düşün",
-    "tense_affix": "müş",
+    "tense_affix": "müş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "nüz",
+    "personal_affix": "ydınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Siz bu uzun yolculuğun yorucu etkilerini düşünmüşsünüz, daha iyi bir plan yapabilirdiniz.",
-  "english_example_sentence": "If you had thought about the exhausting effects of this long journey, you could have made a better plan.",
-  "russian_example_sentence": "Если бы вы подумали об утомительных последствиях этого долгого путешествия, вы бы смогли составить лучший план.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-15T12:15:25.718821+00:00",
-  "turkish_example_sentence_with_blank": "Siz bu uzun yolculuğun yorucu etkilerini ______, daha iyi bir plan yapabilirdiniz."
+  "turkish_example_sentence": "Siz tatil rezervasyonunu önceden düşünmüş olsaydınız ucuz bilet bulurdunuz",
+  "english_example_sentence": "If you had thought about the vacation reservation in advance, you would have found a cheap ticket",
+  "russian_example_sentence": "Если бы вы подумали о бронировании отпуска заранее, вы бы нашли дешевый билет",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:54:34.077710+00:00",
+  "turkish_example_sentence_with_blank": "Siz tatil rezervasyonunu önceden ______ ucuz bilet bulurdunuz"
 }

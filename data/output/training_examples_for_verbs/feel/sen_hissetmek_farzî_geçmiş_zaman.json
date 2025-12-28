@@ -4,19 +4,19 @@
   "verb_russian": "чувствовать",
   "verb_infinitive": "hissetmek",
   "turkish_verb": {
-    "verb_full": "hissetmişsen",
+    "verb_full": "hissetmiş olsaydın",
     "root": "hisset",
-    "tense_affix": "miş",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "sen",
+    "personal_affix": "ydın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Sen o derin üzüntüyü hissetmişsen, neden bize söylemedin?",
-  "english_example_sentence": "If you had felt that deep sorrow, why didn't you tell us?",
-  "russian_example_sentence": "Если бы ты почувствовал ту глубокую печаль, почему ты нам не сказал?",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-12T15:07:57.119239+00:00",
-  "turkish_example_sentence_with_blank": "Sen o derin üzüntüyü ______, neden bize söylemedin?"
+  "turkish_example_sentence": "Sen o derin üzüntü duygusunu yüreğinde hissetmiş olsaydın ona yardım ederdin",
+  "english_example_sentence": "If you had felt that deep sadness emotion in your heart, you would have helped him",
+  "russian_example_sentence": "Если бы ты почувствовал ту глубокую грусть в своем сердце, ты бы помог ему",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:06:01.252545+00:00",
+  "turkish_example_sentence_with_blank": "Sen o derin üzüntü duygusunu yüreğinde ______ ona yardım ederdin"
 }

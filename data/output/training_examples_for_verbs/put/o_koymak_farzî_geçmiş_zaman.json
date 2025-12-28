@@ -4,17 +4,19 @@
   "verb_russian": "класть",
   "verb_infinitive": "koymak",
   "turkish_verb": {
-    "verb_full": "koymuşsa",
+    "verb_full": "koymuş olsaydı",
     "root": "koy",
-    "tense_affix": "muşsa",
+    "tense_affix": "muş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "ydı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If he had put the plant outside.",
-  "russian_example_sentence": "Если бы он поставил растение снаружи.",
-  "turkish_example_sentence": "Eğer bitkiyi dışarı koymuşsa, yağmurdan ıslanmış olabilir.",
-  "turkish_example_sentence_with_blank": "Eğer bitkiyi dışarı ______, yağmurdan ıslanmış olabilir."
+  "turkish_example_sentence": "O değerli mücevherleri küçük kırmızı kutuya koymuş olsaydı, çalınmazlardı",
+  "english_example_sentence": "If he/she had put the valuable jewels in the small red box, they wouldn't have been stolen",
+  "russian_example_sentence": "Если бы он/она положил(а) ценные драгоценности в маленькую красную коробку, их бы не украли",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:08:15.996155+00:00",
+  "turkish_example_sentence_with_blank": "O değerli mücevherleri küçük kırmızı kutuya ______, çalınmazlardı"
 }

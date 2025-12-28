@@ -4,17 +4,19 @@
   "verb_russian": "покидать",
   "verb_infinitive": "ayrılmak",
   "turkish_verb": {
-    "verb_full": "ayrılmışsanız",
+    "verb_full": "ayrılmış olsaydınız",
     "root": "ayrıl",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "ydınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you had left the historical museum",
-  "russian_example_sentence": "Если бы вы покинули исторический музей",
-  "turkish_example_sentence": "Siz tarihi müzeden ayrılmışsanız, önemli eserleri kaçırmışsınızdır.",
-  "turkish_example_sentence_with_blank": "Siz tarihi müzeden ______, önemli eserleri kaçırmışsınızdır."
+  "turkish_example_sentence": "Siz soğuk karlı dağ bölgesinden dün ayrılmış olsaydınız, sıcak rahat otele ulaşırdınız",
+  "english_example_sentence": "If you had left the cold snowy mountain region yesterday, you would have reached the warm comfortable hotel",
+  "russian_example_sentence": "Если бы вы покинули холодный снежный горный регион вчера, вы бы добрались до теплого комфортного отеля",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:07:30.957560+00:00",
+  "turkish_example_sentence_with_blank": "Siz soğuk karlı dağ bölgesinden dün ______, sıcak rahat otele ulaşırdınız"
 }

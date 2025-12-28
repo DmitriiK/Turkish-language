@@ -4,19 +4,19 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almamışsanız",
+    "verb_full": "almamış olsaydınız",
     "root": "al",
-    "tense_affix": "mışsa",
+    "tense_affix": "mamış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "ydınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Siz resepsiyondan anahtar almamışsanız, odaya giremezsiniz.",
-  "english_example_sentence": "If you had not taken the key from the reception, you could not enter the room.",
-  "russian_example_sentence": "Если бы вы не взяли ключ из рецепции, вы не смогли бы войти в комнату.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-15T12:34:43.867715+00:00",
-  "turkish_example_sentence_with_blank": "Siz resepsiyondan anahtar ______, odaya giremezsiniz."
+  "turkish_example_sentence": "Siz eski siyah ayakkabıları almamış olsaydınız yeni spor ayakkabı alabilirdiniz",
+  "english_example_sentence": "If you had not taken the old black shoes, you could have bought new sports shoes",
+  "russian_example_sentence": "Если бы вы не взяли старые чёрные туфли, вы могли бы купить новые спортивные кроссовки",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:55:16.643558+00:00",
+  "turkish_example_sentence_with_blank": "Siz eski siyah ayakkabıları ______ yeni spor ayakkabı alabilirdiniz"
 }

@@ -4,19 +4,19 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulamamışsan",
+    "verb_full": "bulmamış olsaydın",
     "root": "bul",
-    "tense_affix": "muş",
+    "tense_affix": "mamış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "ydın",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Sen pazarda taze meyveyi bulamamışsan, sağlıklı yemek yiyemezdin.",
-  "english_example_sentence": "If you had not found the fresh fruit at the market, you could not have eaten healthy food.",
-  "russian_example_sentence": "Если бы ты не нашел свежие фрукты на рынке, ты не смог бы есть здоровую пищу.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:36:55.470944+00:00",
-  "turkish_example_sentence_with_blank": "Sen pazarda taze meyveyi ______, sağlıklı yemek yiyemezdin."
+  "turkish_example_sentence": "Sen yeni iş fırsatını bulmamış olsaydın, şimdi eski ofiste çalışıyor olurdun",
+  "english_example_sentence": "If you had not found the new job opportunity, you would be working in the old office now",
+  "russian_example_sentence": "Если бы ты не нашёл новую возможность работы, ты бы сейчас работал в старом офисе",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:00:00.346094+00:00",
+  "turkish_example_sentence_with_blank": "Sen yeni iş fırsatını ______, şimdi eski ofiste çalışıyor olurdun"
 }

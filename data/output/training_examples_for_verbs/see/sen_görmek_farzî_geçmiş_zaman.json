@@ -4,19 +4,19 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görmüşsün",
+    "verb_full": "görmüş olsaydın",
     "root": "gör",
-    "tense_affix": "müş",
+    "tense_affix": "müş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "ydın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Sen o harika mavi denizi Akdeniz'de görmüşsün, çok mutlu olurdun.",
-  "english_example_sentence": "If you had seen that wonderful blue sea in the Mediterranean, you would have been very happy.",
-  "russian_example_sentence": "Если бы ты видел то чудесное синее море в Средиземном море, ты был бы очень счастлив.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T12:36:36.226630+00:00",
-  "turkish_example_sentence_with_blank": "Sen o harika mavi denizi Akdeniz'de ______, çok mutlu olurdun."
+  "turkish_example_sentence": "Sen ünlü opera sanatçısını sahne arkasında görmüş olsaydın çok heyecanlanırdın",
+  "english_example_sentence": "If you had seen the famous opera artist backstage, you would have been very excited",
+  "russian_example_sentence": "Если бы ты видел знаменитого оперного артиста за кулисами, ты бы очень взволновался",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:55:59.798662+00:00",
+  "turkish_example_sentence_with_blank": "Sen ünlü opera sanatçısını sahne arkasında ______ çok heyecanlanırdın"
 }

@@ -4,19 +4,19 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemiş olsak",
+    "verb_full": "istemiş olsaydık",
     "root": "iste",
-    "tense_affix": "miş",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ydık",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Biz o heyecan verici proje fikrini istemiş olsak, başkan bize destek verirdi.",
-  "english_example_sentence": "If we had wanted that exciting project idea, the president would have supported us.",
-  "russian_example_sentence": "Если бы мы хотели то захватывающую идею проекта, президент бы нас поддержал.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T11:51:43.434169+00:00",
-  "turkish_example_sentence_with_blank": "Biz o heyecan verici proje fikrini ______, başkan bize destek verirdi."
+  "turkish_example_sentence": "Biz uzun Avrupa tatilini istemiş olsaydık, geçen yıl uçak biletlerini rezerve ederdik",
+  "english_example_sentence": "If we had wanted the long European vacation, we would have reserved the plane tickets last year",
+  "russian_example_sentence": "Если бы мы хотели длинный европейский отпуск, мы бы зарезервировали авиабилеты в прошлом году",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:57:40.635639+00:00",
+  "turkish_example_sentence_with_blank": "Biz uzun Avrupa tatilini ______, geçen yıl uçak biletlerini rezerve ederdik"
 }

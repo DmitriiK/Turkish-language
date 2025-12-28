@@ -4,19 +4,19 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmemişse",
+    "verb_full": "düşünmemiş olsaydı",
     "root": "düşün",
-    "tense_affix": "müş",
+    "tense_affix": "me",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "miş olsaydı",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "O yaşlı öğretmen bu hassas konuyu düşünmemişse, öğrencileri incitmiş olabilir.",
-  "english_example_sentence": "If that elderly teacher had not thought about this sensitive topic, she might have hurt her students.",
-  "russian_example_sentence": "Если бы эта пожилая учительница не подумала об этой чувствительной теме, она могла бы обидеть своих учеников.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-15T12:15:25.718821+00:00",
-  "turkish_example_sentence_with_blank": "O yaşlı öğretmen bu hassas konuyu ______, öğrencileri incitmiş olabilir."
+  "turkish_example_sentence": "O eski dostunun sözlerini düşünmemiş olsaydı hata yapardı",
+  "english_example_sentence": "If he/she had not thought about his/her old friend's words, he/she would have made a mistake",
+  "russian_example_sentence": "Если бы он/она не подумал о словах своего старого друга, он/она бы совершил ошибку",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:54:34.077710+00:00",
+  "turkish_example_sentence_with_blank": "O eski dostunun sözlerini ______ hata yapardı"
 }

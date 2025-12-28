@@ -4,19 +4,19 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almamışlarsa",
+    "verb_full": "almamış olsalardı",
     "root": "al",
-    "tense_affix": "mışsa",
+    "tense_affix": "mamış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "lardı",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Onlar okuldan ders kitaplarını almamışlarsa, öğretmen onları cezalandırırdı.",
-  "english_example_sentence": "If they had not taken the textbooks from school, the teacher would have punished them.",
-  "russian_example_sentence": "Если бы они не взяли учебники из школы, учитель бы их наказал.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-15T12:34:43.867715+00:00",
-  "turkish_example_sentence_with_blank": "Onlar okuldan ders kitaplarını ______, öğretmen onları cezalandırırdı."
+  "turkish_example_sentence": "Onlar uzun tatil iznini almamış olsalardı önemli proje toplantısına katılabilirlerdi",
+  "english_example_sentence": "If they had not taken the long vacation leave, they could have attended the important project meeting",
+  "russian_example_sentence": "Если бы они не взяли длинный отпуск, они могли бы присутствовать на важной встрече по проекту",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:55:16.643558+00:00",
+  "turkish_example_sentence_with_blank": "Onlar uzun tatil iznini ______ önemli proje toplantısına katılabilirlerdi"
 }

@@ -4,19 +4,19 @@
   "verb_russian": "работать",
   "verb_infinitive": "çalışmak",
   "turkish_verb": {
-    "verb_full": "çalışmışlarsa",
+    "verb_full": "çalışmış olsalardı",
     "root": "çalış",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "lardı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Onlar haziran ayında bu büyük insan kaynakları projesinde çalışmışlarsa, personel sorunları çözülmüş olurdu.",
-  "english_example_sentence": "If they had worked on this large human resources project in June, personnel problems would have been solved.",
-  "russian_example_sentence": "Если бы они работали над этим большим проектом управления персоналом в июне, проблемы с персоналом были бы решены.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:56:53.426849+00:00",
-  "turkish_example_sentence_with_blank": "Onlar haziran ayında bu büyük insan kaynakları projesinde ______, personel sorunları çözülmüş olurdu."
+  "turkish_example_sentence": "Onlar geçen kış meşhur kayak merkezinde çalışmış olsalardı, zengin yabancı turistlerle tanışırlardı",
+  "english_example_sentence": "If they had worked at the famous ski resort last winter, they would have met rich foreign tourists",
+  "russian_example_sentence": "Если бы они работали на знаменитом горнолыжном курорте прошлой зимой, они бы познакомились с богатыми иностранными туристами",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:02:15.050258+00:00",
+  "turkish_example_sentence_with_blank": "Onlar geçen kış meşhur kayak merkezinde ______, zengin yabancı turistlerle tanışırlardı"
 }

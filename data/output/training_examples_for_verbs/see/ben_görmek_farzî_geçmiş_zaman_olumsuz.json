@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "görmemiş olsaydım",
     "root": "gör",
-    "tense_affix": "müş",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ydım",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Ben o eski şehri hiç görmemiş olsaydım, tarihini öğrenemezdim.",
-  "english_example_sentence": "If I had not seen that old city, I could not have learned its history.",
-  "russian_example_sentence": "Если бы я не видел тот старый город, я не смог бы узнать его историю.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T12:36:36.226630+00:00",
-  "turkish_example_sentence_with_blank": "Ben o eski şehri hiç ______, tarihini öğrenemezdim."
+  "turkish_example_sentence": "Ben kırmızı ışıkları görmemiş olsaydım büyük trafik kazası olurdu",
+  "english_example_sentence": "If I had not seen the red lights, there would have been a big traffic accident",
+  "russian_example_sentence": "Если бы я не видел красные светофоры, произошла бы большая автомобильная авария",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:55:59.798662+00:00",
+  "turkish_example_sentence_with_blank": "Ben kırmızı ışıkları ______ büyük trafik kazası olurdu"
 }

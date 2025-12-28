@@ -4,19 +4,19 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "vermemişlerse",
+    "verb_full": "vermemiş olsalardı",
     "root": "ver",
-    "tense_affix": "mişse",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "ler",
+    "personal_affix": "lardı",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Onlar spor kulübüne gerekli ekipman vermemişlerse, takım başarısız olur.",
-  "english_example_sentence": "If they had not given the sports club the necessary equipment, the team would fail.",
-  "russian_example_sentence": "Если бы они не дали спортивному клубу необходимое оборудование, команда потерпела бы неудачу.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T11:57:30.709961+00:00",
-  "turkish_example_sentence_with_blank": "Onlar spor kulübüne gerekli ekipman ______, takım başarısız olur."
+  "turkish_example_sentence": "Onlar çocuklara pahalı kırılgan oyuncakları vermemiş olsalardı, hiçbir şey kırılmazdı",
+  "english_example_sentence": "If they hadn't given the children the expensive fragile toys, nothing would have broken",
+  "russian_example_sentence": "Если бы они не дали детям дорогие хрупкие игрушки, ничего бы не сломалось",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:00:44.486590+00:00",
+  "turkish_example_sentence_with_blank": "Onlar çocuklara pahalı kırılgan oyuncakları ______, hiçbir şey kırılmazdı"
 }

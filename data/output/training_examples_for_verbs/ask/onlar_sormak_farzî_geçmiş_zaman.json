@@ -4,19 +4,19 @@
   "verb_russian": "спрашивать",
   "verb_infinitive": "sormak",
   "turkish_verb": {
-    "verb_full": "sormuşlarsa",
+    "verb_full": "sormuş olsalardı",
     "root": "sor",
-    "tense_affix": "muşsa",
+    "tense_affix": "muş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "lardı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Onlar profesöre sınav soruları sormuşlarsa, daha iyi not alabilirlerdi.",
-  "english_example_sentence": "If they had asked the professor about the exam questions, they could have gotten better grades.",
-  "russian_example_sentence": "Если бы они спросили профессора о вопросах экзамена, они бы могли получить лучшие оценки.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:48:25.856154+00:00",
-  "turkish_example_sentence_with_blank": "Onlar profesöre sınav soruları ______, daha iyi not alabilirlerdi."
+  "turkish_example_sentence": "Onlar ünlü şefe yemek tarifini sormuş olsalardı, lezzetli akşam yemeği pişirebilirlerdi",
+  "english_example_sentence": "If they had asked the famous chef for the recipe, they could have cooked a delicious dinner",
+  "russian_example_sentence": "Если бы они спросили знаменитого шеф-повара о рецепте, они могли бы приготовить вкусный ужин",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:04:31.751875+00:00",
+  "turkish_example_sentence_with_blank": "Onlar ünlü şefe yemek tarifini ______, lezzetli akşam yemeği pişirebilirlerdi"
 }

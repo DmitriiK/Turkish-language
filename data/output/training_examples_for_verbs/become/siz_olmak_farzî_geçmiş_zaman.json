@@ -4,17 +4,19 @@
   "verb_russian": "становиться",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmuşsanız",
+    "verb_full": "olmuş olsaydınız",
     "root": "ol",
-    "tense_affix": "muşsa",
+    "tense_affix": "muş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "ydınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you all had become lawyers...",
-  "russian_example_sentence": "Если бы вы все стали юристами...",
-  "turkish_example_sentence": "Siz avukat olmuşsanız, adaleti sağlardınız.",
-  "turkish_example_sentence_with_blank": "Siz avukat ______, adaleti sağlardınız."
+  "turkish_example_sentence": "Siz sabırlı veliler olmuş olsaydınız, küçük çocuklarla rahatça konuşurdunuz",
+  "english_example_sentence": "If you had become patient parents, you would have talked easily with small children",
+  "russian_example_sentence": "Если бы вы стали терпеливыми родителями, вы бы легко разговаривали с маленькими детьми",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:06:43.954960+00:00",
+  "turkish_example_sentence_with_blank": "Siz sabırlı veliler ______, küçük çocuklarla rahatça konuşurdunuz"
 }

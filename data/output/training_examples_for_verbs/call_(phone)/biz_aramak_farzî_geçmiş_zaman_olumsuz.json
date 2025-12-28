@@ -1,0 +1,22 @@
+{
+  "verb_rank": 20,
+  "verb_english": "call (phone)",
+  "verb_russian": "звонить",
+  "verb_infinitive": "aramak",
+  "turkish_verb": {
+    "verb_full": "aramamış olsaydık",
+    "root": "ara",
+    "tense_affix": "mış olsa",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "biz",
+    "personal_affix": "ydık",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "turkish_example_sentence": "Biz pahalı restoranı öğleden önce aramamış olsaydık büyük rezervasyon parasını ödemezdik",
+  "english_example_sentence": "If we hadn't called the expensive restaurant before noon, we wouldn't have paid the big reservation fee",
+  "russian_example_sentence": "Если бы мы не позвонили дорогому ресторану до полудня, мы бы не заплатили большую плату за бронирование",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:03:00.390580+00:00",
+  "turkish_example_sentence_with_blank": "Biz pahalı restoranı öğleden önce ______ büyük rezervasyon parasını ödemezdik"
+}

@@ -4,17 +4,19 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "denemişsen",
+    "verb_full": "denemiş olsaydın",
     "root": "dene",
-    "tense_affix": "mişse",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "ydın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you had tried the old bicycle...",
-  "russian_example_sentence": "Если бы ты попробовал старый велосипед...",
-  "turkish_example_sentence": "Sen eski bisikleti denemişsen, düşerdin.",
-  "turkish_example_sentence_with_blank": "Sen eski bisikleti ______, düşerdin."
+  "turkish_example_sentence": "Sen farklı öğrenme metodunu denemiş olsaydın, sınavda daha başarılı olurdun",
+  "english_example_sentence": "If you had tried the different learning method, you would have been more successful in the exam",
+  "russian_example_sentence": "Если бы ты попробовал другой метод обучения, ты был бы более успешным на экзамене",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:03:43.513575+00:00",
+  "turkish_example_sentence_with_blank": "Sen farklı öğrenme metodunu ______, sınavda daha başarılı olurdun"
 }

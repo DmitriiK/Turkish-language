@@ -4,19 +4,19 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "vermişsem",
+    "verb_full": "vermiş olsaydım",
     "root": "ver",
-    "tense_affix": "mişse",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ydım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Ben ona güzel kırmızı çiçekleri vermişsem, çok mutlu olurdu.",
-  "english_example_sentence": "If I had given her beautiful red flowers, she would have been very happy.",
-  "russian_example_sentence": "Если бы я дал ей красивые красные цветы, она была бы очень счастлива.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T11:57:30.709961+00:00",
-  "turkish_example_sentence_with_blank": "Ben ona güzel kırmızı çiçekleri ______, çok mutlu olurdu."
+  "turkish_example_sentence": "Ben ona önemli mavi dosyayı vermiş olsaydım, toplantı başarılı olurdu",
+  "english_example_sentence": "If I had given him the important blue folder, the meeting would have been successful",
+  "russian_example_sentence": "Если бы я дал ему важную синюю папку, встреча была бы успешной",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:00:44.486590+00:00",
+  "turkish_example_sentence_with_blank": "Ben ona önemli mavi dosyayı ______, toplantı başarılı olurdu"
 }

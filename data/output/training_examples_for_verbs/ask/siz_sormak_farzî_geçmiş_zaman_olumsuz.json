@@ -4,19 +4,19 @@
   "verb_russian": "спрашивать",
   "verb_infinitive": "sormak",
   "turkish_verb": {
-    "verb_full": "sormamışsanız",
+    "verb_full": "sormamış olsaydınız",
     "root": "sor",
-    "tense_affix": "muşsa",
+    "tense_affix": "mamış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "ydınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Siz aşçıya yemek tarifini sormamışsanız, lezzetli yemek yapabilirdiniz.",
-  "english_example_sentence": "If you had not asked the chef about the food recipe, you could have made a delicious meal.",
-  "russian_example_sentence": "Если бы вы не спросили шефа о рецепте блюда, вы бы могли приготовить вкусное блюдо.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:48:25.856154+00:00",
-  "turkish_example_sentence_with_blank": "Siz aşçıya yemek tarifini ______, lezzetli yemek yapabilirdiniz."
+  "turkish_example_sentence": "Siz tembel çalışana proje detaylarını sormamış olsaydınız, yanlış bilgi almazdınız",
+  "english_example_sentence": "If you hadn't asked the lazy employee about project details, you wouldn't have received incorrect information",
+  "russian_example_sentence": "Если бы вы не спросили ленивого сотрудника о деталях проекта, вы не получили бы неправильную информацию",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:04:31.751875+00:00",
+  "turkish_example_sentence_with_blank": "Siz tembel çalışana proje detaylarını ______, yanlış bilgi almazdınız"
 }

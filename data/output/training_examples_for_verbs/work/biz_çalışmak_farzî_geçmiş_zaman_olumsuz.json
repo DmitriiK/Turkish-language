@@ -4,19 +4,19 @@
   "verb_russian": "работать",
   "verb_infinitive": "çalışmak",
   "turkish_verb": {
-    "verb_full": "çalışmamışsak",
+    "verb_full": "çalışmamış olsaydık",
     "root": "çalış",
-    "tense_affix": "mışsa",
+    "tense_affix": "mamış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ydık",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Biz aralık ayında bu karmaşık tasarım görevinde çalışmamışsak, müşteri hiç memnun olmamış olurdu.",
-  "english_example_sentence": "If we had not worked on this complex design task in December, the customer would not have been satisfied at all.",
-  "russian_example_sentence": "Если бы мы не работали над этой сложной задачей проектирования в декабре, клиент бы вообще не был доволен.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:56:53.426849+00:00",
-  "turkish_example_sentence_with_blank": "Biz aralık ayında bu karmaşık tasarım görevinde ______, müşteri hiç memnun olmamış olurdu."
+  "turkish_example_sentence": "Biz geçen sene karanlık fabrika binasında çalışmamış olsaydık, şimdi rahat huzurlu hayat yaşardık",
+  "english_example_sentence": "If we had not worked in the dark factory building last year, we would be living a comfortable peaceful life now",
+  "russian_example_sentence": "Если бы мы не работали в темном заводском здании в прошлом году, мы бы жили комфортной спокойной жизнью сейчас",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:02:15.050258+00:00",
+  "turkish_example_sentence_with_blank": "Biz geçen sene karanlık fabrika binasında ______, şimdi rahat huzurlu hayat yaşardık"
 }

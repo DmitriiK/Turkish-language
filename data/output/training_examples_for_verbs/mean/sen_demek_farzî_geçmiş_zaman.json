@@ -4,17 +4,19 @@
   "verb_russian": "значить",
   "verb_infinitive": "demek",
   "turkish_verb": {
-    "verb_full": "demişsen",
+    "verb_full": "demiş olsaydın",
     "root": "de",
-    "tense_affix": "mişse",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "ydın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you had meant to help",
-  "russian_example_sentence": "Если бы ты хотел помочь",
-  "turkish_example_sentence": "Sen bana yardım etmek istemişsen, neden söylemedin?",
-  "turkish_example_sentence_with_blank": "Sen bana yardım etmek istemişsen, neden söylemedin?"
+  "turkish_example_sentence": "Sen doğru cevabı öğretmene demiş olsaydın yüksek not alırdın",
+  "english_example_sentence": "If you had said the correct answer to your teacher, you would have received a high grade",
+  "russian_example_sentence": "Если бы ты сказал правильный ответ своему учителю, ты бы получил высокую оценку",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:08:58.515837+00:00",
+  "turkish_example_sentence_with_blank": "Sen doğru cevabı öğretmene ______ yüksek not alırdın"
 }

@@ -4,19 +4,19 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatmışsam",
+    "verb_full": "anlatmış olsaydım",
     "root": "anlat",
-    "tense_affix": "mış",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ydım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Eğer ben bu ilginç hikayeyi detaylı anlatmışsam, herkes dinlemiş olurdu.",
-  "english_example_sentence": "If I had told this interesting story in detail, everyone would have listened.",
-  "russian_example_sentence": "Если бы я рассказал эту интересную историю подробно, все бы слушали.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:42:43.841974+00:00",
-  "turkish_example_sentence_with_blank": "Eğer ben bu ilginç hikayeyi detaylı ______, herkes dinlemiş olurdu."
+  "turkish_example_sentence": "Ben o ilginç seyahat hikayesini anlatmış olsaydım herkes dinlerdi",
+  "english_example_sentence": "If I had told that interesting travel story, everyone would have listened",
+  "russian_example_sentence": "Если бы я рассказал ту интересную историю путешествия, все бы слушали",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:01:25.747423+00:00",
+  "turkish_example_sentence_with_blank": "Ben o ilginç seyahat hikayesini ______ herkes dinlerdi"
 }

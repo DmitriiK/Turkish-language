@@ -4,19 +4,19 @@
   "verb_russian": "чувствовать",
   "verb_infinitive": "hissetmek",
   "turkish_verb": {
-    "verb_full": "hissetmemişsek",
+    "verb_full": "hissetmemiş olsaydık",
     "root": "hisset",
-    "tense_affix": "miş",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "sek",
+    "personal_affix": "ydık",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Biz bu kötü havayı hissetmemişsek, pikniğe giderdik.",
-  "english_example_sentence": "If we had not felt this bad weather, we would have gone for a picnic.",
-  "russian_example_sentence": "Если бы мы не почувствовали эту плохую погоду, мы бы пошли на пикник.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-12T15:07:57.119239+00:00",
-  "turkish_example_sentence_with_blank": "Biz bu kötü havayı ______, pikniğe giderdik."
+  "turkish_example_sentence": "Biz o taze deniz havasını akciğerlerimizde hissetmemiş olsaydık sahile gitmezdik",
+  "english_example_sentence": "If we hadn't felt that fresh sea air in our lungs, we wouldn't have gone to the beach",
+  "russian_example_sentence": "Если бы мы не почувствовали тот свежий морской воздух в наших легких, мы бы не поехали на пляж",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:06:01.252545+00:00",
+  "turkish_example_sentence_with_blank": "Biz o taze deniz havasını akciğerlerimizde ______ sahile gitmezdik"
 }

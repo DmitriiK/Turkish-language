@@ -4,17 +4,19 @@
   "verb_russian": "класть",
   "verb_infinitive": "koymak",
   "turkish_verb": {
-    "verb_full": "koymamışsak",
+    "verb_full": "koymamış olsaydık",
     "root": "koy",
-    "tense_affix": "mamışsa",
+    "tense_affix": "muş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ydık",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If we hadn't put the food away.",
-  "russian_example_sentence": "Если бы мы не убрали еду.",
-  "turkish_example_sentence": "Eğer yiyecekleri dolaba koymamışsak, bozulmuş olabilirler.",
-  "turkish_example_sentence_with_blank": "Eğer yiyecekleri dolaba ______, bozulmuş olabilirler."
+  "turkish_example_sentence": "Biz kirli ayakkabıları temiz halının üzerine koymamış olsaydık, leke olmazdı",
+  "english_example_sentence": "If we hadn't put the dirty shoes on the clean carpet, there wouldn't have been a stain",
+  "russian_example_sentence": "Если бы мы не поставили грязную обувь на чистый ковер, не было бы пятна",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:08:15.996155+00:00",
+  "turkish_example_sentence_with_blank": "Biz kirli ayakkabıları temiz halının üzerine ______, leke olmazdı"
 }

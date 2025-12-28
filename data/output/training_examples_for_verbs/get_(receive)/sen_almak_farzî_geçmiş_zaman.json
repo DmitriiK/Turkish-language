@@ -4,17 +4,19 @@
   "verb_russian": "получать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almışsan",
+    "verb_full": "almış olsaydın",
     "root": "al",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "ydın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you had received my email, you would know already.",
-  "russian_example_sentence": "Если бы ты получил мой имейл, ты бы уже знал.",
-  "turkish_example_sentence": "E-postamı almışsan, zaten bilirdin.",
-  "turkish_example_sentence_with_blank": "E-postamı ______, zaten bilirdin."
+  "turkish_example_sentence": "Sen yeni siyah deri ceketi almış olsaydın, partide harika görünürdün",
+  "english_example_sentence": "If you had gotten the new black leather jacket, you would have looked great at the party",
+  "russian_example_sentence": "Если бы ты купил новую черную кожаную куртку, ты бы выглядел отлично на вечеринке",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:52:25.840786+00:00",
+  "turkish_example_sentence_with_blank": "Sen yeni siyah deri ceketi ______, partide harika görünürdün"
 }

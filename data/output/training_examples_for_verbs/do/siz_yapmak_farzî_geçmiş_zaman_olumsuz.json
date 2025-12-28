@@ -4,19 +4,19 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmamışsanız",
+    "verb_full": "yapmamış olsaydınız",
     "root": "yap",
-    "tense_affix": "mışsa",
+    "tense_affix": "mamış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "ydınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Siz acil müdahaleleri yapmamışsanız, durum kötüleşirdi.",
-  "english_example_sentence": "If you had not done the emergency interventions, the situation would have worsened.",
-  "russian_example_sentence": "Если бы вы не провели экстренные вмешательства, ситуация бы ухудшилась.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-14T07:22:00.994145+00:00",
-  "turkish_example_sentence_with_blank": "Siz acil müdahaleleri ______, durum kötüleşirdi."
+  "turkish_example_sentence": "Siz hızlı karar yapmamış olsaydınız, ciddi sorunlar ortaya çıkmazdı",
+  "english_example_sentence": "If you had not made the quick decision, serious problems would not have emerged",
+  "russian_example_sentence": "Если бы вы не сделали быстрое решение, серьезные проблемы не возникли бы",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:50:17.289009+00:00",
+  "turkish_example_sentence_with_blank": "Siz hızlı karar ______, ciddi sorunlar ortaya çıkmazdı"
 }

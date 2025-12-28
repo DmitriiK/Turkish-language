@@ -1,0 +1,22 @@
+{
+  "verb_rank": 20,
+  "verb_english": "call (phone)",
+  "verb_russian": "звонить",
+  "verb_infinitive": "aramak",
+  "turkish_verb": {
+    "verb_full": "aramış olsaydınız",
+    "root": "ara",
+    "tense_affix": "mış olsa",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "siz",
+    "personal_affix": "ydınız",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "turkish_example_sentence": "Siz ünlü profesörü konferanstan sonra aramış olsaydınız değerli tavsiyeler alırdınız",
+  "english_example_sentence": "If you had called the famous professor after the conference, you would have received valuable advice",
+  "russian_example_sentence": "Если бы вы позвонили знаменитому профессору после конференции, вы бы получили ценные советы",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:03:00.390580+00:00",
+  "turkish_example_sentence_with_blank": "Siz ünlü profesörü konferanstan sonra ______ değerli tavsiyeler alırdınız"
+}

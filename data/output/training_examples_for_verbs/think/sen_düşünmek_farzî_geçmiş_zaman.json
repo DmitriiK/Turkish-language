@@ -4,19 +4,19 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmüşsün",
+    "verb_full": "düşünmüş olsaydın",
     "root": "düşün",
-    "tense_affix": "müş",
+    "tense_affix": "müş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "ydın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Sen bu ilginç sanat eserini düşünmüşsün, harika bir yorum yapabilirdin.",
-  "english_example_sentence": "If you had thought about this interesting artwork, you could have made a wonderful comment.",
-  "russian_example_sentence": "Если бы ты подумал об этом интересном произведении искусства, ты бы мог сделать чудесный комментарий.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-15T12:15:25.718821+00:00",
-  "turkish_example_sentence_with_blank": "Sen bu ilginç sanat eserini ______, harika bir yorum yapabilirdin."
+  "turkish_example_sentence": "Sen gelecekteki kariyer fırsatlarını daha erken düşünmüş olsaydın başarılı olurdun",
+  "english_example_sentence": "If you had thought about future career opportunities earlier, you would have been successful",
+  "russian_example_sentence": "Если бы ты подумал о будущих карьерных возможностях раньше, ты был бы успешным",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:54:34.077710+00:00",
+  "turkish_example_sentence_with_blank": "Sen gelecekteki kariyer fırsatlarını daha erken ______ başarılı olurdun"
 }

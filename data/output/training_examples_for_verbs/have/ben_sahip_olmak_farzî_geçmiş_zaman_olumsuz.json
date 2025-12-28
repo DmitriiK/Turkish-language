@@ -4,19 +4,19 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olmamışsam",
+    "verb_full": "sahip olmamış olsaydım",
     "root": "sahip ol",
-    "tense_affix": "muş",
+    "tense_affix": "mamış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ydım",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Ben bu nadir kitapları sahip olmamışsam, hiç okuyamazdım.",
-  "english_example_sentence": "If I had not owned these rare books, I could never have read them.",
-  "russian_example_sentence": "Если бы я не владел этими редкими книгами, я никогда не смог бы их прочитать.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-08T07:10:13.532795+00:00",
-  "turkish_example_sentence_with_blank": "Ben bu nadir kitapları ______, hiç okuyamazdım."
+  "turkish_example_sentence": "Ben bu eski kırık bisiklete sahip olmamış olsaydım, yeni bir tane alabilirdim",
+  "english_example_sentence": "If I had not had this old broken bicycle, I could have bought a new one",
+  "russian_example_sentence": "Если бы я не имел этот старый сломанный велосипед, я мог бы купить новый",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:49:35.102102+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu eski kırık bisiklete ______, yeni bir tane alabilirdim"
 }

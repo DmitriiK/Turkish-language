@@ -4,19 +4,19 @@
   "verb_russian": "чувствовать",
   "verb_infinitive": "hissetmek",
   "turkish_verb": {
-    "verb_full": "hissetmişseniz",
+    "verb_full": "hissetmiş olsaydınız",
     "root": "hisset",
-    "tense_affix": "miş",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "seniz",
+    "personal_affix": "ydınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Siz bu sıcak dostluğu hissetmişseniz, neden geri durdunuz?",
-  "english_example_sentence": "If you had felt this warm friendship, why did you hold back?",
-  "russian_example_sentence": "Если бы вы почувствовали эту тёплую дружбу, почему вы отступили?",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-12T15:07:57.119239+00:00",
-  "turkish_example_sentence_with_blank": "Siz bu sıcak dostluğu ______, neden geri durdunuz?"
+  "turkish_example_sentence": "Siz o keskin acı biberin tadını dilinizde hissetmiş olsaydınız su içerdiniz",
+  "english_example_sentence": "If you had felt that sharp hot pepper taste on your tongue, you would have drunk water",
+  "russian_example_sentence": "Если бы вы почувствовали тот острый вкус перца на своем языке, вы бы выпили воду",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:06:01.252545+00:00",
+  "turkish_example_sentence_with_blank": "Siz o keskin acı biberin tadını dilinizde ______ su içerdiniz"
 }

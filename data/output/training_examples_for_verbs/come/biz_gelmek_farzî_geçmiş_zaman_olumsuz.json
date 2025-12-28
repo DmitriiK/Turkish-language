@@ -4,17 +4,19 @@
   "verb_russian": "приходить",
   "verb_infinitive": "gelmek",
   "turkish_verb": {
-    "verb_full": "gelmemişsek",
+    "verb_full": "gelmemiş olsaydık",
     "root": "gel",
-    "tense_affix": "mişse",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ydık",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If we hadn't come, we saved",
-  "russian_example_sentence": "Если бы мы не пришли, мы бы спасли",
-  "turkish_example_sentence": "Biz gelmemişsek, şirketin itibarını kurtarmış olurduk",
-  "turkish_example_sentence_with_blank": "Biz ______, şirketin itibarını kurtarmış olurduk"
+  "turkish_example_sentence": "Biz akşam geç saatte gürültülü şehir merkezine gelmemiş olsaydık, huzurlu gecemizi evde geçirebilirdik",
+  "english_example_sentence": "If we hadn't come to the noisy city center late in the evening, we could have spent our peaceful night at home",
+  "russian_example_sentence": "Если бы мы не пришли в шумный центр города поздно вечером, мы могли бы провести спокойный вечер дома",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:56:53.863233+00:00",
+  "turkish_example_sentence_with_blank": "Biz akşam geç saatte gürültülü şehir merkezine ______, huzurlu gecemizi evde geçirebilirdik"
 }

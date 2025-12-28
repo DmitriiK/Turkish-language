@@ -4,19 +4,19 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olmamışlarsa",
+    "verb_full": "sahip olmamış olsalardı",
     "root": "sahip ol",
-    "tense_affix": "muş",
+    "tense_affix": "mamış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "lardı",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Onlar o kıymetli mücevher koleksiyonuna sahip olmamışlarsa, müzayedede satış yapamazlardı.",
-  "english_example_sentence": "If they had not owned that precious jewelry collection, they could not have sold it at auction.",
-  "russian_example_sentence": "Если бы они не владели той драгоценной коллекцией украшений, они не смогли бы продать её на аукционе.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-08T07:10:13.532795+00:00",
-  "turkish_example_sentence_with_blank": "Onlar o kıymetli mücevher koleksiyonuna ______, müzayedede satış yapamazlardı."
+  "turkish_example_sentence": "Onlar o saçma gereksiz korkulara sahip olmamış olsalardı, cesurca ilerleme gösterebilirlerdi",
+  "english_example_sentence": "If they had not had those absurd unnecessary fears, they could have shown courageous progress",
+  "russian_example_sentence": "Если бы они не имели те абсурдные ненужные страхи, они могли бы показать смелый прогресс",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:49:35.102102+00:00",
+  "turkish_example_sentence_with_blank": "Onlar o saçma gereksiz korkulara ______, cesurca ilerleme gösterebilirlerdi"
 }

@@ -4,17 +4,19 @@
   "verb_russian": "приходить",
   "verb_infinitive": "gelmek",
   "turkish_verb": {
-    "verb_full": "gelmişsem",
+    "verb_full": "gelmiş olsaydım",
     "root": "gel",
-    "tense_affix": "mişse",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ydım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I had come, I would know",
-  "russian_example_sentence": "Если бы я пришел, я бы знал",
-  "turkish_example_sentence": "Ben gelmişsem, gerçeği bilirdim kesinlikle",
-  "turkish_example_sentence_with_blank": "Ben ______, gerçeği bilirdim kesinlikle"
+  "turkish_example_sentence": "Ben dünkü önemli toplantıya zamanında gelmiş olsaydım, yeni projeyi öğrenebilirdim",
+  "english_example_sentence": "If I had come to yesterday's important meeting on time, I could have learned about the new project",
+  "russian_example_sentence": "Если бы я пришёл на вчерашнее важное собрание вовремя, я мог бы узнать о новом проекте",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:56:53.863233+00:00",
+  "turkish_example_sentence_with_blank": "Ben dünkü önemli toplantıya zamanında ______, yeni projeyi öğrenebilirdim"
 }

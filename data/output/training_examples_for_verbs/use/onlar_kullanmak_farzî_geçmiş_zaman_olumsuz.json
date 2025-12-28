@@ -4,19 +4,19 @@
   "verb_russian": "использовать",
   "verb_infinitive": "kullanmak",
   "turkish_verb": {
-    "verb_full": "kullanmamışlarsa",
+    "verb_full": "kullanmamış olsalardı",
     "root": "kullan",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "lardı",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Onlar bu temel yöntemleri hiç kullanmamışlarsa, başarısız olabilirler.",
-  "english_example_sentence": "If they had never used these basic methods, they could fail.",
-  "russian_example_sentence": "Если бы они никогда не использовали эти основные методы, они могли бы потерпеть неудачу.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:30:20.115390+00:00",
-  "turkish_example_sentence_with_blank": "Onlar bu temel yöntemleri hiç ______, başarısız olabilirler."
+  "turkish_example_sentence": "Onlar tehlikeli araç gereçleri kullanmamış olsalardı, kaza meydana gelmezdi",
+  "english_example_sentence": "If they had not used dangerous tools, the accident would not have occurred",
+  "russian_example_sentence": "Если бы они не использовали опасные инструменты, несчастный случай не произошёл бы",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:59:12.125889+00:00",
+  "turkish_example_sentence_with_blank": "Onlar tehlikeli araç gereçleri ______, kaza meydana gelmezdi"
 }

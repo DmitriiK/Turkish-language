@@ -4,17 +4,19 @@
   "verb_russian": "нуждаться",
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
-    "verb_full": "ihtiyaç duymamışsanız",
+    "verb_full": "ihtiyaç duymamış olsaydınız",
     "root": "ihtiyaç duy",
-    "tense_affix": "mamışsanız",
+    "tense_affix": "mamış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "ydınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If you hadn't needed a new computer immediately",
-  "russian_example_sentence": "Если бы вам не нужен был новый компьютер немедленно",
-  "turkish_example_sentence": "Siz hemen yeni bir bilgisayara ihtiyaç duymamışsanız, acele etmezdiniz.",
-  "turkish_example_sentence_with_blank": "Siz hemen yeni bir bilgisayara ______, acele etmezdiniz."
+  "turkish_example_sentence": "Siz resmi izne ihtiyaç duymamış olsaydınız, yurt dışı seyahatinizi hemen başlatırdınız",
+  "english_example_sentence": "If you hadn't needed official permission, you would have started your overseas trip immediately",
+  "russian_example_sentence": "Если бы вам не нужно было официальное разрешение, вы бы сразу начали заграничную поездку",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:05:15.894758+00:00",
+  "turkish_example_sentence_with_blank": "Siz resmi izne ______, yurt dışı seyahatinizi hemen başlatırdınız"
 }

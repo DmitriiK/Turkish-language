@@ -4,17 +4,19 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "denemişsek",
+    "verb_full": "denemiş olsaydık",
     "root": "dene",
-    "tense_affix": "mişse",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ydık",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we had tried the challenging game...",
-  "russian_example_sentence": "Если бы мы попробовали сложную игру...",
-  "turkish_example_sentence": "Biz zorlu oyunu denemişsek, kazanırdık.",
-  "turkish_example_sentence_with_blank": "Biz zorlu oyunu ______, kazanırdık."
+  "turkish_example_sentence": "Biz alternatif çözüm yolunu denemiş olsaydık, projeyi zamanında teslim ederdik",
+  "english_example_sentence": "If we had tried the alternative solution method, we would have delivered the project on time",
+  "russian_example_sentence": "Если бы мы попробовали альтернативный метод решения, мы бы сдали проект вовремя",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:03:43.513575+00:00",
+  "turkish_example_sentence_with_blank": "Biz alternatif çözüm yolunu ______, projeyi zamanında teslim ederdik"
 }

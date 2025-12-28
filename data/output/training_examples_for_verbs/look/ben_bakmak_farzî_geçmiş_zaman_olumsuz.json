@@ -4,17 +4,19 @@
   "verb_russian": "смотреть",
   "verb_infinitive": "bakmak",
   "turkish_verb": {
-    "verb_full": "bakmamışsam",
+    "verb_full": "bakmamış olsaydım",
     "root": "bak",
-    "tense_affix": "mamışsa",
+    "tense_affix": "mamış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ydım",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If I hadn't looked at the phone,",
-  "russian_example_sentence": "Если бы я не посмотрел в телефон",
-  "turkish_example_sentence": "Ben telefona bakmamışsam, kazayı görmezdim",
-  "turkish_example_sentence_with_blank": "Ben telefona ______, kazayı görmezdim"
+  "turkish_example_sentence": "Ben telefon ekranına sürekli bakmamış olsaydım, önemli toplantıyı kaçırmazdım",
+  "english_example_sentence": "If I hadn't looked at the phone screen constantly, I wouldn't have missed the important meeting",
+  "russian_example_sentence": "Если бы я не смотрел на экран телефона постоянно, я бы не пропустил важное собрание",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:58:30.379575+00:00",
+  "turkish_example_sentence_with_blank": "Ben telefon ekranına sürekli ______, önemli toplantıyı kaçırmazdım"
 }

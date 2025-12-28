@@ -4,17 +4,19 @@
   "verb_russian": "держать",
   "verb_infinitive": "tutmak",
   "turkish_verb": {
-    "verb_full": "tutmuşsam",
+    "verb_full": "tutmuş olsaydım",
     "root": "tut",
-    "tense_affix": "muşsa",
+    "tense_affix": "muş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ydım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I had kept the old receipt.",
-  "russian_example_sentence": "Если бы я сохранил старую квитанцию.",
-  "turkish_example_sentence": "Ben eski faturayı tutmuşsam, iade edebilirdim.",
-  "turkish_example_sentence_with_blank": "Ben eski faturayı ______, iade edebilirdim."
+  "turkish_example_sentence": "Ben o değerli antika vazoyu dikkatle tutmuş olsaydım, kırılmazdı",
+  "english_example_sentence": "If I had kept that valuable antique vase carefully, it wouldn't have broken",
+  "russian_example_sentence": "Если бы я держал ту ценную антикварную вазу осторожно, она бы не разбилась",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:09:46.440340+00:00",
+  "turkish_example_sentence_with_blank": "Ben o değerli antika vazoyu dikkatle ______, kırılmazdı"
 }

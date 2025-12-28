@@ -4,19 +4,19 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almışsa",
+    "verb_full": "almış olsaydı",
     "root": "al",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "ydı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "O hafta sonu güzel sarı çiçekleri bahçeden almışsa, masaya koyabilirdi.",
-  "english_example_sentence": "If he had taken the beautiful yellow flowers from the garden on the weekend, he could have put them on the table.",
-  "russian_example_sentence": "Если бы он взял красивые жёлтые цветы из сада на выходных, он мог бы поставить их на стол.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-15T12:34:43.867715+00:00",
-  "turkish_example_sentence_with_blank": "O hafta sonu güzel sarı çiçekleri bahçeden ______, masaya koyabilirdi."
+  "turkish_example_sentence": "O sıcak kahverengi paltoyu almış olsaydı kışın üşümezdi",
+  "english_example_sentence": "If he had taken that warm brown coat, he wouldn't be cold in winter",
+  "russian_example_sentence": "Если бы он взял то тёплое коричневое пальто, он не замёрз бы зимой",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:55:16.643558+00:00",
+  "turkish_example_sentence_with_blank": "O sıcak kahverengi paltoyu ______ kışın üşümezdi"
 }

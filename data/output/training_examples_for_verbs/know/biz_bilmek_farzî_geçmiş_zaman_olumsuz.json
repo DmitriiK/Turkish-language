@@ -4,19 +4,19 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilmemişsek",
+    "verb_full": "bilmemiş olsaydık",
     "root": "bil",
-    "tense_affix": "mişse",
+    "tense_affix": "miş olsay",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "dık",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Biz mevcut zorlukları bilmemişsek, bu projeye başlamazdık.",
-  "english_example_sentence": "If we hadn't known the current difficulties, we wouldn't have started this project.",
-  "russian_example_sentence": "Если бы мы не знали текущих трудностей, мы бы не начали этот проект.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T08:32:10.923988+00:00",
-  "turkish_example_sentence_with_blank": "Biz mevcut zorlukları ______, bu projeye başlamazdık."
+  "turkish_example_sentence": "Biz tren istasyonunun taşındığını bilmemiş olsaydık yanlış adrese giderdik",
+  "english_example_sentence": "If we had not known that the train station had moved, we would have gone to the wrong address",
+  "russian_example_sentence": "Если бы мы не знали, что железнодорожная станция переехала, мы бы пошли по неправильному адресу",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:53:53.563989+00:00",
+  "turkish_example_sentence_with_blank": "Biz tren istasyonunun taşındığını ______ yanlış adrese giderdik"
 }

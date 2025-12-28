@@ -4,19 +4,19 @@
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmuşsanız",
+    "verb_full": "olmuş olsaydınız",
     "root": "ol",
-    "tense_affix": "muş",
+    "tense_affix": "muş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "ydınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Siz sabırlı bir yönetici olmuşsanız, şirket daha başarılı olabilirdi.",
-  "english_example_sentence": "If you had been a patient manager, the company could have been more successful.",
-  "russian_example_sentence": "Если бы вы были терпеливым менеджером, компания могла бы быть более успешной.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-08T06:54:49.641174+00:00",
-  "turkish_example_sentence_with_blank": "Siz sabırlı bir yönetici ______, şirket daha başarılı olabilirdi."
+  "turkish_example_sentence": "Siz geçen ay bizim düğün törenimizde olmuş olsaydınız, mutlu anıları paylaşırdık birlikte",
+  "english_example_sentence": "If you had been at our wedding ceremony last month, we would have shared happy memories together",
+  "russian_example_sentence": "Если бы вы были на нашей свадебной церемонии в прошлом месяце, мы бы разделили счастливые воспоминания вместе",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:48:49.851584+00:00",
+  "turkish_example_sentence_with_blank": "Siz geçen ay bizim düğün törenimizde ______, mutlu anıları paylaşırdık birlikte"
 }

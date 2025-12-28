@@ -4,19 +4,19 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olmuşsam",
+    "verb_full": "sahip olmuş olsaydım",
     "root": "sahip ol",
-    "tense_affix": "muş",
+    "tense_affix": "muş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ydım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Ben o değerli antika koleksiyonuna sahip olmuşsam, onu müzeye bağışlardım.",
-  "english_example_sentence": "If I had owned that valuable antique collection, I would have donated it to the museum.",
-  "russian_example_sentence": "Если бы я владел той ценной коллекцией антиквариата, я бы пожертвовал её музею.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-08T07:10:13.532795+00:00",
-  "turkish_example_sentence_with_blank": "Ben o değerli antika koleksiyonuna ______, onu müzeye bağışlardım."
+  "turkish_example_sentence": "Ben o lüks spor arabasına sahip olmuş olsaydım, her gün mutlu gezerdim",
+  "english_example_sentence": "If I had had that luxury sports car, I would have driven happily every day",
+  "russian_example_sentence": "Если бы я имел тот роскошный спортивный автомобиль, я бы ездил счастливо каждый день",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:49:35.102102+00:00",
+  "turkish_example_sentence_with_blank": "Ben o lüks spor arabasına ______, her gün mutlu gezerdim"
 }

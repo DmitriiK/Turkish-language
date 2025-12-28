@@ -4,17 +4,19 @@
   "verb_russian": "получать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almamışsanız",
+    "verb_full": "almamış olsaydınız",
     "root": "al",
-    "tense_affix": "mışsa",
+    "tense_affix": "mamış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "ydınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If you hadn't received my message, you would have missed this.",
-  "russian_example_sentence": "Если бы вы не получили мое сообщение, вы бы это пропустили.",
-  "turkish_example_sentence": "Eğer mesajımı almamışsanız, bunu kaçıracaksınız.",
-  "turkish_example_sentence_with_blank": "Eğer mesajımı ______, bunu kaçıracaksınız."
+  "turkish_example_sentence": "Siz tehlikeli krediyi almamış olsaydınız, finansal sorunlarınız olmazdı",
+  "english_example_sentence": "If you had not gotten the dangerous loan, you would not have financial problems",
+  "russian_example_sentence": "Если бы вы не взяли опасный кредит, у вас не было бы финансовых проблем",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:52:25.840786+00:00",
+  "turkish_example_sentence_with_blank": "Siz tehlikeli krediyi ______, finansal sorunlarınız olmazdı"
 }

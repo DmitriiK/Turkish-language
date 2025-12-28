@@ -4,17 +4,19 @@
   "verb_russian": "становиться",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmuşsan",
+    "verb_full": "olmuş olsaydın",
     "root": "ol",
-    "tense_affix": "muşsa",
+    "tense_affix": "muş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "ydın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you had become a teacher...",
-  "russian_example_sentence": "Если бы ты стал учителем...",
-  "turkish_example_sentence": "Sen öğretmen olmuşsan, öğrencilere ilham verirdin.",
-  "turkish_example_sentence_with_blank": "Sen öğretmen ______, öğrencilere ilham verirdin."
+  "turkish_example_sentence": "Sen ünlü bir müzisyen olmuş olsaydın, büyük konserlerde sahneye çıkardın",
+  "english_example_sentence": "If you had become a famous musician, you would have performed on big concert stages",
+  "russian_example_sentence": "Если бы ты стал знаменитым музыкантом, ты бы выступал на больших концертных сценах",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:06:43.954960+00:00",
+  "turkish_example_sentence_with_blank": "Sen ünlü bir müzisyen ______, büyük konserlerde sahneye çıkardın"
 }

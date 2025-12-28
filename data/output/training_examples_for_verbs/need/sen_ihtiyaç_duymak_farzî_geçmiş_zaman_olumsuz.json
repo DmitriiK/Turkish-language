@@ -4,17 +4,19 @@
   "verb_russian": "нуждаться",
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
-    "verb_full": "ihtiyaç duymamışsan",
+    "verb_full": "ihtiyaç duymamış olsaydın",
     "root": "ihtiyaç duy",
-    "tense_affix": "mamışsa",
+    "tense_affix": "mamış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "ydın",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If you hadn't needed a new winter coat",
-  "russian_example_sentence": "Если бы тебе не нужна была новая зимняя куртка",
-  "turkish_example_sentence": "Sen yeni kışlık bir monta ihtiyaç duymamışsan, bu kadar para harcamazdın.",
-  "turkish_example_sentence_with_blank": "Sen yeni kışlık bir monta ______, bu kadar para harcamazdın."
+  "turkish_example_sentence": "Sen finansal desteğe ihtiyaç duymamış olsaydın, kendi şirketini çoktan kurardın",
+  "english_example_sentence": "If you hadn't needed financial support, you would have already established your own company",
+  "russian_example_sentence": "Если бы тебе не нужна была финансовая поддержка, ты бы уже создал свою компанию",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:05:15.894758+00:00",
+  "turkish_example_sentence_with_blank": "Sen finansal desteğe ______, kendi şirketini çoktan kurardın"
 }

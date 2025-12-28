@@ -4,17 +4,19 @@
   "verb_russian": "нуждаться",
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
-    "verb_full": "ihtiyaç duymuşlarsa",
+    "verb_full": "ihtiyaç duymuş olsalardı",
     "root": "ihtiyaç duy",
-    "tense_affix": "muşlarsa",
+    "tense_affix": "muş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "lardı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they had needed assistance with the project",
-  "russian_example_sentence": "Если бы им нужна была помощь с проектом",
-  "turkish_example_sentence": "Onlar proje konusunda yardıma ihtiyaç duymuşlarsa, yöneticiye başvururlardı.",
-  "turkish_example_sentence_with_blank": "Onlar proje konusunda yardıma ______, yöneticiye başvururlardı."
+  "turkish_example_sentence": "Onlar güvenlik önlemlerine ihtiyaç duymuş olsalardı, modern alarm sistemini kurarlardı",
+  "english_example_sentence": "If they had needed security measures, they would have installed the modern alarm system",
+  "russian_example_sentence": "Если бы им нужны были меры безопасности, они бы установили современную систему сигнализации",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:05:15.894758+00:00",
+  "turkish_example_sentence_with_blank": "Onlar güvenlik önlemlerine ______, modern alarm sistemini kurarlardı"
 }

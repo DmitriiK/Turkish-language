@@ -4,17 +4,19 @@
   "verb_russian": "смотреть",
   "verb_infinitive": "bakmak",
   "turkish_verb": {
-    "verb_full": "bakmışlarsa",
+    "verb_full": "bakmış olsalardı",
     "root": "bak",
-    "tense_affix": "mışlarsa",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "lardı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they had looked at the website,",
-  "russian_example_sentence": "Если бы они посмотрели на веб-сайт",
-  "turkish_example_sentence": "Onlar şirketin web sitesine bakmışlarsa, tüm detayları bulurlardı",
-  "turkish_example_sentence_with_blank": "Onlar şirketin web sitesine ______, tüm detayları bulurlardı"
+  "turkish_example_sentence": "Onlar antika dükkanının vitrinindeki değerli tabloya uzun bakmış olsalardı, sanatçının imzasını fark ederlerdi",
+  "english_example_sentence": "If they had looked at the valuable painting in the antique shop's window for long, they would have noticed the artist's signature",
+  "russian_example_sentence": "Если бы они посмотрели на ценную картину в витрине антикварного магазина долго, они бы заметили подпись художника",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:58:30.379575+00:00",
+  "turkish_example_sentence_with_blank": "Onlar antika dükkanının vitrinindeki değerli tabloya uzun ______, sanatçının imzasını fark ederlerdi"
 }

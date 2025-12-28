@@ -4,19 +4,19 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almışsak",
+    "verb_full": "almış olsaydık",
     "root": "al",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ydık",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Biz tatilde beyaz plaj çantasını almışsak, denize gidebilirdik.",
-  "english_example_sentence": "If we had taken the white beach bag on vacation, we could have gone to the sea.",
-  "russian_example_sentence": "Если бы мы взяли белую пляжную сумку в отпуск, мы могли бы пойти на море.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-15T12:34:43.867715+00:00",
-  "turkish_example_sentence_with_blank": "Biz tatilde beyaz plaj çantasını ______, denize gidebilirdik."
+  "turkish_example_sentence": "Biz hızlı sarı taksiyi almış olsaydık toplantıya geç kalmazdık",
+  "english_example_sentence": "If we had taken the fast yellow taxi, we wouldn't be late to the meeting",
+  "russian_example_sentence": "Если бы мы взяли быстрое жёлтое такси, мы бы не опоздали на встречу",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:55:16.643558+00:00",
+  "turkish_example_sentence_with_blank": "Biz hızlı sarı taksiyi ______ toplantıya geç kalmazdık"
 }

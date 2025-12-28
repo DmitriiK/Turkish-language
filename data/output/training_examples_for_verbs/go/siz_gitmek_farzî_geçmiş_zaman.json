@@ -4,19 +4,19 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmişsiniz",
+    "verb_full": "gitmiş olsaydınız",
     "root": "git",
-    "tense_affix": "miş",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "ydınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Siz geçen ay Kapadokya'ya gitmişsiniz, eşsiz kaya formasyonlarını görmüş olabilirsiniz.",
-  "english_example_sentence": "If you had gone to Cappadocia last month, you might have seen the unique rock formations.",
-  "russian_example_sentence": "Если бы вы пошли в Каппадокию в прошлом месяце, вы могли бы увидеть уникальные скальные образования.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-14T07:35:52.626469+00:00",
-  "turkish_example_sentence_with_blank": "Siz geçen ay Kapadokya'ya ______, eşsiz kaya formasyonlarını görmüş olabilirsiniz."
+  "turkish_example_sentence": "Siz önemli iş toplantısına gitmiş olsaydınız yeni projeyi kazanırdınız",
+  "english_example_sentence": "If you had gone to the important business meeting, you would have won the new project",
+  "russian_example_sentence": "Если бы вы пошли на важную деловую встречу, вы бы выиграли новый проект",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:51:45.194884+00:00",
+  "turkish_example_sentence_with_blank": "Siz önemli iş toplantısına ______ yeni projeyi kazanırdınız"
 }

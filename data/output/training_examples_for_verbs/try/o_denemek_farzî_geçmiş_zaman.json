@@ -4,17 +4,19 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "denemişse",
+    "verb_full": "denemiş olsaydı",
     "root": "dene",
-    "tense_affix": "mişse",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "ydı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If he had tried the strange dessert...",
-  "russian_example_sentence": "Если бы он попробовал странный десерт...",
-  "turkish_example_sentence": "O garip tatlıyı denemişse, beğenmiş olurdu.",
-  "turkish_example_sentence_with_blank": "O garip tatlıyı ______, beğenmiş olurdu."
+  "turkish_example_sentence": "O yeni yazılım programını denemiş olsaydı, işini çok daha hızlı bitirirdi",
+  "english_example_sentence": "If he/she had tried the new software program, he/she would have finished the work much faster",
+  "russian_example_sentence": "Если бы он/она попробовал новую программу, он/она закончил бы работу намного быстрее",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:03:43.513575+00:00",
+  "turkish_example_sentence_with_blank": "O yeni yazılım programını ______, işini çok daha hızlı bitirirdi"
 }

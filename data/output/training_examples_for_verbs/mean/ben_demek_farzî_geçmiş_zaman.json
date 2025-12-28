@@ -4,17 +4,19 @@
   "verb_russian": "значить",
   "verb_infinitive": "demek",
   "turkish_verb": {
-    "verb_full": "demişsem",
+    "verb_full": "demiş olsaydım",
     "root": "de",
-    "tense_affix": "mişse",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ydım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I had meant to offend",
-  "russian_example_sentence": "Если бы я хотел обидеть",
-  "turkish_example_sentence": "Ben seni kırmak istemişsem, özür dilerim",
-  "turkish_example_sentence_with_blank": "Ben seni kırmak istemişsem, özür dilerim"
+  "turkish_example_sentence": "Ben gerçek düşüncelerimi açıkça demiş olsaydım toplantı farklı biterdi",
+  "english_example_sentence": "If I had said my real thoughts openly, the meeting would have ended differently",
+  "russian_example_sentence": "Если бы я открыто сказал свои настоящие мысли, встреча закончилась бы по-другому",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:08:58.515837+00:00",
+  "turkish_example_sentence_with_blank": "Ben gerçek düşüncelerimi açıkça ______ toplantı farklı biterdi"
 }

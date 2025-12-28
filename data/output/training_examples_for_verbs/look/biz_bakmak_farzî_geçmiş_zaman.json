@@ -4,17 +4,19 @@
   "verb_russian": "смотреть",
   "verb_infinitive": "bakmak",
   "turkish_verb": {
-    "verb_full": "bakmışsak",
+    "verb_full": "bakmış olsaydık",
     "root": "bak",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ydık",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we had looked at the evidence,",
-  "russian_example_sentence": "Если бы мы посмотрели на доказательства",
-  "turkish_example_sentence": "Biz kanıtlara bakmışsak, gerçeği ortaya çıkarırdık",
-  "turkish_example_sentence_with_blank": "Biz kanıtlara ______, gerçeği ortaya çıkarırdık"
+  "turkish_example_sentence": "Biz yıldızlı gökyüzüne teleskopla bakmış olsaydık, nadir kuyukluyıldızı görebilirdik",
+  "english_example_sentence": "If we had looked at the starry sky with a telescope, we could have seen the rare comet",
+  "russian_example_sentence": "Если бы мы посмотрели на звездное небо через телескоп, мы могли бы увидеть редкую комету",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:58:30.379575+00:00",
+  "turkish_example_sentence_with_blank": "Biz yıldızlı gökyüzüne teleskopla ______, nadir kuyukluyıldızı görebilirdik"
 }

@@ -4,17 +4,19 @@
   "verb_russian": "класть",
   "verb_infinitive": "koymak",
   "turkish_verb": {
-    "verb_full": "koymuşsan",
+    "verb_full": "koymuş olsaydın",
     "root": "koy",
-    "tense_affix": "muşsa",
+    "tense_affix": "muş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "ydın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you had put sugar in tea.",
-  "russian_example_sentence": "Если бы ты положил сахар в чай.",
-  "turkish_example_sentence": "Şayet çaya şekeri koymuşsan, çok tatlı olmalı.",
-  "turkish_example_sentence_with_blank": "Şayet çaya şekeri ______, çok tatlı olmalı."
+  "turkish_example_sentence": "Sen önemli belgeleri güvenli metal kasaya koymuş olsaydın, kaybolmazlardı",
+  "english_example_sentence": "If you had put the important documents in the safe metal box, they wouldn't have been lost",
+  "russian_example_sentence": "Если бы ты положил важные документы в безопасный металлический сейф, они бы не потерялись",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:08:15.996155+00:00",
+  "turkish_example_sentence_with_blank": "Sen önemli belgeleri güvenli metal kasaya ______, kaybolmazlardı"
 }

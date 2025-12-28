@@ -4,17 +4,19 @@
   "verb_russian": "смотреть",
   "verb_infinitive": "bakmak",
   "turkish_verb": {
-    "verb_full": "bakmamışsak",
+    "verb_full": "bakmamış olsaydık",
     "root": "bak",
-    "tense_affix": "mamışsa",
+    "tense_affix": "mamış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ydık",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If we hadn't looked at that detail,",
-  "russian_example_sentence": "Если бы мы не посмотрели на эту деталь",
-  "turkish_example_sentence": "Biz o küçük detaya bakmamışsak, hatayı anlamazdık",
-  "turkish_example_sentence_with_blank": "Biz o küçük detaya ______, hatayı anlamazdık"
+  "turkish_example_sentence": "Biz pahalı restoranın menü fiyatlarına önceden bakmamış olsaydık, bütçemizi aşmazdık",
+  "english_example_sentence": "If we hadn't looked at the expensive restaurant's menu prices beforehand, we wouldn't have exceeded our budget",
+  "russian_example_sentence": "Если бы мы не смотрели на цены меню дорогого ресторана заранее, мы бы не превысили наш бюджет",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:58:30.379575+00:00",
+  "turkish_example_sentence_with_blank": "Biz pahalı restoranın menü fiyatlarına önceden ______, bütçemizi aşmazdık"
 }

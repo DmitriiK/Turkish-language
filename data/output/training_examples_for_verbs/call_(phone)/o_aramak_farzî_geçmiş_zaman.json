@@ -1,0 +1,22 @@
+{
+  "verb_rank": 20,
+  "verb_english": "call (phone)",
+  "verb_russian": "звонить",
+  "verb_infinitive": "aramak",
+  "turkish_verb": {
+    "verb_full": "aramış olsaydı",
+    "root": "ara",
+    "tense_affix": "mış olsa",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "o",
+    "personal_affix": "ydı",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "turkish_example_sentence": "O genç avukatı mahkemeden hemen aramış olsaydı önemli belgeleri zamanında gönderirdi",
+  "english_example_sentence": "If he had called the young lawyer from the court immediately, he would have sent the important documents on time",
+  "russian_example_sentence": "Если бы он позвонил молодому адвокату из суда немедленно, он бы отправил важные документы вовремя",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:03:00.390580+00:00",
+  "turkish_example_sentence_with_blank": "O genç avukatı mahkemeden hemen ______ önemli belgeleri zamanında gönderirdi"
+}

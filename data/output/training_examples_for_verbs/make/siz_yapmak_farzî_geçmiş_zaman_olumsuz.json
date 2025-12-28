@@ -4,19 +4,19 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmamışsanız",
+    "verb_full": "yapmamış olsaydınız",
     "root": "yap",
-    "tense_affix": "mış",
+    "tense_affix": "mamış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "sanız",
+    "personal_affix": "ydınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Siz bu yanlış hesabı yapmamışsanız, şirket zarar etmezdi.",
-  "english_example_sentence": "If you had not made this wrong calculation, the company would not have lost money.",
-  "russian_example_sentence": "Если бы вы не сделали этот неправильный расчет, компания не понесла бы убытков.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T08:11:07.969865+00:00",
-  "turkish_example_sentence_with_blank": "Siz bu yanlış hesabı ______, şirket zarar etmezdi."
+  "turkish_example_sentence": "Siz o aceleci tıbbi müdahaleyi yapmamış olsaydınız, hasta daha iyi iyileşirdi",
+  "english_example_sentence": "If you had not made that hasty medical intervention, the patient would have recovered better",
+  "russian_example_sentence": "Если бы вы не сделали то поспешное медицинское вмешательство, пациент выздоровел бы лучше",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:53:09.648269+00:00",
+  "turkish_example_sentence_with_blank": "Siz o aceleci tıbbi müdahaleyi ______, hasta daha iyi iyileşirdi"
 }

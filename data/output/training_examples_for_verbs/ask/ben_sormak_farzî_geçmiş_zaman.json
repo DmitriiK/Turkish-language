@@ -4,19 +4,19 @@
   "verb_russian": "спрашивать",
   "verb_infinitive": "sormak",
   "turkish_verb": {
-    "verb_full": "sormuşsam",
+    "verb_full": "sormuş olsaydım",
     "root": "sor",
-    "tense_affix": "muşsa",
+    "tense_affix": "muş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ydım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Ben öğretmene zor matematik sorusunu sormuşsam, o bana yardım ederdi.",
-  "english_example_sentence": "If I had asked the teacher the difficult math question, he would have helped me.",
-  "russian_example_sentence": "Если бы я спросил учителя о сложной задаче по математике, он бы мне помог.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:48:25.856154+00:00",
-  "turkish_example_sentence_with_blank": "Ben öğretmene zor matematik sorusunu ______, o bana yardım ederdi."
+  "turkish_example_sentence": "Ben önemli toplantıda yöneticiye maaş artışını sormuş olsaydım, şimdi daha mutlu olurdum",
+  "english_example_sentence": "If I had asked the manager about the salary increase at the important meeting, I would be happier now",
+  "russian_example_sentence": "Если бы я спросил менеджера о повышении зарплаты на важной встрече, я был бы счастливее сейчас",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:04:31.751875+00:00",
+  "turkish_example_sentence_with_blank": "Ben önemli toplantıda yöneticiye maaş artışını ______, şimdi daha mutlu olurdum"
 }

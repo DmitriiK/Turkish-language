@@ -4,19 +4,19 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olmuşlarsa",
+    "verb_full": "sahip olmuş olsalardı",
     "root": "sahip ol",
-    "tense_affix": "muş",
+    "tense_affix": "muş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "lardı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Onlar o verimli tarım alanlarına sahip olmuşlarsa, ürün ihraç ederlerdi.",
-  "english_example_sentence": "If they had owned those fertile agricultural lands, they would have exported crops.",
-  "russian_example_sentence": "Если бы они владели теми плодородными сельскохозяйственными землями, они бы экспортировали урожай.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-08T07:10:13.532795+00:00",
-  "turkish_example_sentence_with_blank": "Onlar o verimli tarım alanlarına ______, ürün ihraç ederlerdi."
+  "turkish_example_sentence": "Onlar modern tıbbi ekipmanlara sahip olmuş olsalardı, hastayı kurtarabilirlerdi",
+  "english_example_sentence": "If they had had modern medical equipment, they could have saved the patient",
+  "russian_example_sentence": "Если бы они имели современное медицинское оборудование, они могли бы спасти пациента",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:49:35.102102+00:00",
+  "turkish_example_sentence_with_blank": "Onlar modern tıbbi ekipmanlara ______, hastayı kurtarabilirlerdi"
 }

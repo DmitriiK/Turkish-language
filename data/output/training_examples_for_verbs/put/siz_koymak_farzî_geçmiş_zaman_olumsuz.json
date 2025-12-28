@@ -4,17 +4,19 @@
   "verb_russian": "класть",
   "verb_infinitive": "koymak",
   "turkish_verb": {
-    "verb_full": "koymamışsanız",
+    "verb_full": "koymamış olsaydınız",
     "root": "koy",
-    "tense_affix": "mamışsa",
+    "tense_affix": "muş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "ydınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If you hadn't put the umbrella there.",
-  "russian_example_sentence": "Если бы вы не положили зонтик туда.",
-  "turkish_example_sentence": "Şemsiyeyi buraya koymamışsanız, nereye bıraktınız?",
-  "turkish_example_sentence_with_blank": "Şemsiyeyi buraya ______, nereye bıraktınız?"
+  "turkish_example_sentence": "Siz ekşi süt şişesini karanlık dolaba koymamış olsaydınız, koku yayılırdı",
+  "english_example_sentence": "If you hadn't put the sour milk bottle in the dark cupboard, the smell would have spread",
+  "russian_example_sentence": "Если бы вы не поставили бутылку кислого молока в темный шкаф, запах бы распространился",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:08:15.996155+00:00",
+  "turkish_example_sentence_with_blank": "Siz ekşi süt şişesini karanlık dolaba ______, koku yayılırdı"
 }

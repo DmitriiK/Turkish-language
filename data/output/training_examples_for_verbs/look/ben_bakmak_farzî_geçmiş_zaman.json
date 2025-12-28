@@ -4,17 +4,19 @@
   "verb_russian": "смотреть",
   "verb_infinitive": "bakmak",
   "turkish_verb": {
-    "verb_full": "bakmışsam",
+    "verb_full": "bakmış olsaydım",
     "root": "bak",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ydım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I had looked at the map,",
-  "russian_example_sentence": "Если бы я посмотрел на карту",
-  "turkish_example_sentence": "Ben haritaya bakmışsam, yolu bulurdum",
-  "turkish_example_sentence_with_blank": "Ben haritaya ______, yolu bulurdum"
+  "turkish_example_sentence": "Ben eski haritaya dikkatlice bakmış olsaydım, doğru yolu bulabilirdim",
+  "english_example_sentence": "If I had looked at the old map carefully, I could have found the right way",
+  "russian_example_sentence": "Если бы я посмотрел на старую карту внимательно, я мог бы найти правильный путь",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:58:30.379575+00:00",
+  "turkish_example_sentence_with_blank": "Ben eski haritaya dikkatlice ______, doğru yolu bulabilirdim"
 }

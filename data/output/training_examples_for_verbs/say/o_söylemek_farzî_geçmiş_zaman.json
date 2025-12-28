@@ -4,19 +4,19 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylemişse",
+    "verb_full": "söylemiş olsaydı",
     "root": "söyle",
-    "tense_affix": "miş",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "ydı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "O genç öğretmen sınıfta cesur fikirler söylemişse, öğrenciler ilham almış olurdu.",
-  "english_example_sentence": "If that young teacher had said brave ideas in class, students would have been inspired.",
-  "russian_example_sentence": "Если бы тот молодой учитель сказал смелые идеи в классе, ученики были бы вдохновлены.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-08T08:19:16.838159+00:00",
-  "turkish_example_sentence_with_blank": "O genç öğretmen sınıfta cesur fikirler ______, öğrenciler ilham almış olurdu."
+  "turkish_example_sentence": "O güzel şarkı sözlerini sevgilisine romantik restoranda söylemiş olsaydı evlenirlerdi",
+  "english_example_sentence": "If he had said the beautiful song lyrics to his beloved in the romantic restaurant they would have gotten married",
+  "russian_example_sentence": "Если бы он сказал красивые слова песни своей возлюбленной в романтическом ресторане, они бы поженились",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:51:02.876681+00:00",
+  "turkish_example_sentence_with_blank": "O güzel şarkı sözlerini sevgilisine romantik restoranda ______ evlenirlerdi"
 }

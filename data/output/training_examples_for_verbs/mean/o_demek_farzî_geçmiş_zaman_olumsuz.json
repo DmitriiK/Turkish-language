@@ -4,17 +4,19 @@
   "verb_russian": "значить",
   "verb_infinitive": "demek",
   "turkish_verb": {
-    "verb_full": "dememişse",
+    "verb_full": "dememiş olsaydı",
     "root": "de",
-    "tense_affix": "mişse",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "ydı",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If she hadn't meant to hurt",
-  "russian_example_sentence": "Если бы она не хотела навредить",
-  "turkish_example_sentence": "O kasıtlı olarak zarar vermeyi dememişse, affedebilirim",
-  "turkish_example_sentence_with_blank": "O kasıtlı olarak zarar vermeyi ______, affedebilirim"
+  "turkish_example_sentence": "O yalan haberi gazetecilere dememiş olsaydı skandal çıkmazdı",
+  "english_example_sentence": "If he/she had not said the false news to the journalists, the scandal would not have happened",
+  "russian_example_sentence": "Если бы он/она не сказал(а) ложную новость журналистам, скандала бы не произошло",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:08:58.515837+00:00",
+  "turkish_example_sentence_with_blank": "O yalan haberi gazetecilere ______ skandal çıkmazdı"
 }

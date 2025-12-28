@@ -4,19 +4,19 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulmuşsa",
+    "verb_full": "bulmuş olsaydı",
     "root": "bul",
-    "tense_affix": "muş",
+    "tense_affix": "muş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "ydı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "O müzede nadir antika eseri bulmuşsa, müdür çok sevinirdi.",
-  "english_example_sentence": "If he had found the rare antique artifact in the museum, the director would have been very happy.",
-  "russian_example_sentence": "Если бы он нашел редкий антикварный артефакт в музее, директор был бы очень счастлив.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:36:55.470944+00:00",
-  "turkish_example_sentence_with_blank": "O müzede nadir antika eseri ______, müdür çok sevinirdi."
+  "turkish_example_sentence": "O güzel mavi elbiseyi bulmuş olsaydı, düğün töreninde çok şık görünürdü",
+  "english_example_sentence": "If he/she had found the beautiful blue dress, he/she would have looked very elegant at the wedding ceremony",
+  "russian_example_sentence": "Если бы он/она нашёл(а) красивое синее платье, он/она выглядел(а) бы очень элегантно на свадебной церемонии",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:00:00.346094+00:00",
+  "turkish_example_sentence_with_blank": "O güzel mavi elbiseyi ______, düğün töreninde çok şık görünürdü"
 }

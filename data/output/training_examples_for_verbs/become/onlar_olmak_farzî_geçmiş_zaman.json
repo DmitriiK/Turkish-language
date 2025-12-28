@@ -4,17 +4,19 @@
   "verb_russian": "становиться",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmuşlarsa",
+    "verb_full": "olmuş olsalardı",
     "root": "ol",
-    "tense_affix": "muşlarsa",
+    "tense_affix": "muş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "lardı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they had become politicians...",
-  "russian_example_sentence": "Если бы они стали политиками...",
-  "turkish_example_sentence": "Onlar politikacı olmuşlarsa, ülkeyi yönetirlerdi.",
-  "turkish_example_sentence_with_blank": "Onlar politikacı ______, ülkeyi yönetirlerdi."
+  "turkish_example_sentence": "Onlar hazır olmuş olsalardı, erken sabah uçağına yetişirlerdi",
+  "english_example_sentence": "If they had become ready, they would have caught the early morning flight",
+  "russian_example_sentence": "Если бы они были готовы, они бы успели на ранний утренний рейс",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:06:43.954960+00:00",
+  "turkish_example_sentence_with_blank": "Onlar hazır ______, erken sabah uçağına yetişirlerdi"
 }

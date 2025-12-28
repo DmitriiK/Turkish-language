@@ -4,17 +4,19 @@
   "verb_russian": "становиться",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmuşsak",
+    "verb_full": "olmuş olsaydık",
     "root": "ol",
-    "tense_affix": "muşsa",
+    "tense_affix": "muş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ydık",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we had become astronauts...",
-  "russian_example_sentence": "Если бы мы стали космонавтами...",
-  "turkish_example_sentence": "Biz astronot olmuşsak, evreni keşfederdik.",
-  "turkish_example_sentence_with_blank": "Biz astronot ______, evreni keşfederdik."
+  "turkish_example_sentence": "Biz dikkatli öğrenciler olmuş olsaydık, zor matematik sınavını geçerdik",
+  "english_example_sentence": "If we had become attentive students, we would have passed the difficult mathematics exam",
+  "russian_example_sentence": "Если бы мы стали внимательными студентами, мы бы сдали трудный экзамен по математике",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:06:43.954960+00:00",
+  "turkish_example_sentence_with_blank": "Biz dikkatli öğrenciler ______, zor matematik sınavını geçerdik"
 }

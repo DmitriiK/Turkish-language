@@ -4,19 +4,19 @@
   "verb_russian": "работать",
   "verb_infinitive": "çalışmak",
   "turkish_verb": {
-    "verb_full": "çalışmışsan",
+    "verb_full": "çalışmış olsaydın",
     "root": "çalış",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "ydın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Sen geçen hafta bu büyük inşaat alanında çalışmışsan, çok yorgun olmuş olmalısın.",
-  "english_example_sentence": "If you had worked on this large construction site last week, you must have been very tired.",
-  "russian_example_sentence": "Если бы ты работал на этой большой строительной площадке на прошлой неделе, ты должно быть был очень устал.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:56:53.426849+00:00",
-  "turkish_example_sentence_with_blank": "Sen geçen hafta bu büyük inşaat alanında ______, çok yorgun olmuş olmalısın."
+  "turkish_example_sentence": "Sen geçen yıl ünlü uluslararası şirkette çalışmış olsaydın, yeni kariyer fırsatları bulurdun",
+  "english_example_sentence": "If you had worked at the famous international company last year, you would have found new career opportunities",
+  "russian_example_sentence": "Если бы ты работал в известной международной компании в прошлом году, ты бы нашел новые карьерные возможности",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:02:15.050258+00:00",
+  "turkish_example_sentence_with_blank": "Sen geçen yıl ünlü uluslararası şirkette ______, yeni kariyer fırsatları bulurdun"
 }

@@ -4,17 +4,19 @@
   "verb_russian": "получать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almamışsak",
+    "verb_full": "almamış olsaydık",
     "root": "al",
-    "tense_affix": "mışsa",
+    "tense_affix": "mamış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ydık",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If we hadn't received their message, we'd be late.",
-  "russian_example_sentence": "Если бы мы не получили их сообщение, мы бы опоздали.",
-  "turkish_example_sentence": "Eğer mesajlarını almamışsak, geç kalırdık.",
-  "turkish_example_sentence_with_blank": "Eğer mesajlarını ______, geç kalırdık."
+  "turkish_example_sentence": "Biz yanlış yol tarifini almamış olsaydık, kaybolmazdık",
+  "english_example_sentence": "If we had not gotten the wrong directions, we would not have gotten lost",
+  "russian_example_sentence": "Если бы мы не получили неправильные указания, мы бы не заблудились",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:52:25.840786+00:00",
+  "turkish_example_sentence_with_blank": "Biz yanlış yol tarifini ______, kaybolmazdık"
 }

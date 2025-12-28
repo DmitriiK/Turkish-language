@@ -4,17 +4,19 @@
   "verb_russian": "получать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almışlarsa",
+    "verb_full": "almış olsalardı",
     "root": "al",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "lardı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they had received their tickets, they would attend.",
-  "russian_example_sentence": "Если бы они получили свои билеты, они бы пришли.",
-  "turkish_example_sentence": "Biletlerini almışlarsa, katılırlar.",
-  "turkish_example_sentence_with_blank": "Biletlerini ______, katılırlar."
+  "turkish_example_sentence": "Onlar yeşil organik sebzeleri almış olsalardı, daha sağlıklı beslenirlerdi",
+  "english_example_sentence": "If they had gotten the green organic vegetables, they would have eaten healthier",
+  "russian_example_sentence": "Если бы они купили зеленые органические овощи, они питались бы здоровее",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:52:25.840786+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yeşil organik sebzeleri ______, daha sağlıklı beslenirlerdi"
 }

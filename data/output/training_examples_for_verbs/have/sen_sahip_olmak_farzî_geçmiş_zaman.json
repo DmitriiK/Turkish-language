@@ -4,19 +4,19 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olmuşsan",
+    "verb_full": "sahip olmuş olsaydın",
     "root": "sahip ol",
-    "tense_affix": "muş",
+    "tense_affix": "muş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "ydın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Sen o güzel bahçeye sahip olmuşsan, orada çiçek yetiştirirdin.",
-  "english_example_sentence": "If you had owned that beautiful garden, you would have grown flowers there.",
-  "russian_example_sentence": "Если бы ты владел тем красивым садом, ты бы выращивал там цветы.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-08T07:10:13.532795+00:00",
-  "turkish_example_sentence_with_blank": "Sen o güzel bahçeye ______, orada çiçek yetiştirirdin."
+  "turkish_example_sentence": "Sen güçlü bilgisayar donanımına sahip olmuş olsaydın, profesyonel video düzenleyebilirdin",
+  "english_example_sentence": "If you had had powerful computer equipment, you could have edited professional videos",
+  "russian_example_sentence": "Если бы ты имел мощное компьютерное оборудование, ты мог бы редактировать профессиональные видео",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:49:35.102102+00:00",
+  "turkish_example_sentence_with_blank": "Sen güçlü bilgisayar donanımına ______, profesyonel video düzenleyebilirdin"
 }

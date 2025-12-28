@@ -4,19 +4,19 @@
   "verb_russian": "работать",
   "verb_infinitive": "çalışmak",
   "turkish_verb": {
-    "verb_full": "çalışmışsak",
+    "verb_full": "çalışmış olsaydık",
     "root": "çalış",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ydık",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Biz ilkbahar mevsiminde bu uzun araştırma projesinde çalışmışsak, harika sonuçlar elde etmiş olurduk.",
-  "english_example_sentence": "If we had worked on this long research project in spring, we would have obtained wonderful results.",
-  "russian_example_sentence": "Если бы мы работали над этим долгим исследовательским проектом весной, мы бы получили чудесные результаты.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:56:53.426849+00:00",
-  "turkish_example_sentence_with_blank": "Biz ilkbahar mevsiminde bu uzun araştırma projesinde ______, harika sonuçlar elde etmiş olurduk."
+  "turkish_example_sentence": "Biz yaz tatilinde lüks sahil otelinde çalışmış olsaydık, iyi para biriktirirdik",
+  "english_example_sentence": "If we had worked at the luxury beach hotel during summer vacation, we would have saved good money",
+  "russian_example_sentence": "Если бы мы работали в роскошном пляжном отеле во время летних каникул, мы бы накопили хорошие деньги",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:02:15.050258+00:00",
+  "turkish_example_sentence_with_blank": "Biz yaz tatilinde lüks sahil otelinde ______, iyi para biriktirirdik"
 }

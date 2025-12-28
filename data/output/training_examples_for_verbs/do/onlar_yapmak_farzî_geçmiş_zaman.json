@@ -4,19 +4,19 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmışlarsa",
+    "verb_full": "yapmış olsalardı",
     "root": "yap",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "lardı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Onlar çevre dostu projeyi hızlıca yapmışlarsa, şehir daha yeşil olurdu.",
-  "english_example_sentence": "If they had done the environmentally friendly project quickly, the city would have been greener.",
-  "russian_example_sentence": "Если бы они быстро реализовали экологичный проект, город был бы более зеленым.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-14T07:22:00.994145+00:00",
-  "turkish_example_sentence_with_blank": "Onlar çevre dostu projeyi hızlıca ______, şehir daha yeşil olurdu."
+  "turkish_example_sentence": "Onlar gerekli güvenlik kontrollerini yapmış olsalardı, kaza gerçekleşmezdi",
+  "english_example_sentence": "If they had done the necessary security checks, the accident would not have happened",
+  "russian_example_sentence": "Если бы они сделали необходимые проверки безопасности, несчастный случай не произошел бы",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:50:17.289009+00:00",
+  "turkish_example_sentence_with_blank": "Onlar gerekli güvenlik kontrollerini ______, kaza gerçekleşmezdi"
 }

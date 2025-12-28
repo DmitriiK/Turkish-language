@@ -4,17 +4,19 @@
   "verb_russian": "смотреть",
   "verb_infinitive": "bakmak",
   "turkish_verb": {
-    "verb_full": "bakmışsanız",
+    "verb_full": "bakmış olsaydınız",
     "root": "bak",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "ydınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you all had looked at the report,",
-  "russian_example_sentence": "Если бы вы все посмотрели на отчёт",
-  "turkish_example_sentence": "Siz rapora dikkatlice bakmışsanız, tüm bilgileri öğrenirdiniz",
-  "turkish_example_sentence_with_blank": "Siz rapora dikkatlice ______, tüm bilgileri öğrenirdiniz"
+  "turkish_example_sentence": "Siz yeşil ormanın derinliklerine sakin bakmış olsaydınız, geyik sürüsünü görürdünüz",
+  "english_example_sentence": "If you had looked into the depths of the green forest calmly, you would have seen the deer herd",
+  "russian_example_sentence": "Если бы вы посмотрели в глубины зеленого леса спокойно, вы бы увидели стадо оленей",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:58:30.379575+00:00",
+  "turkish_example_sentence_with_blank": "Siz yeşil ormanın derinliklerine sakin ______, geyik sürüsünü görürdünüz"
 }

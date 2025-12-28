@@ -4,19 +4,19 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmamışsa",
+    "verb_full": "yapmamış olsaydı",
     "root": "yap",
-    "tense_affix": "mışsa",
+    "tense_affix": "mamış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "ydı",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "O zorunlu görevleri yapmamışsa, cezalandırılırdı.",
-  "english_example_sentence": "If she had not done the mandatory tasks, she would have been punished.",
-  "russian_example_sentence": "Если бы она не выполнила обязательные задачи, она была бы наказана.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-14T07:22:00.994145+00:00",
-  "turkish_example_sentence_with_blank": "O zorunlu görevleri ______, cezalandırılırdı."
+  "turkish_example_sentence": "O gürültülü ses yapmamış olsaydı, küçük bebek uyanmazdı",
+  "english_example_sentence": "If he/she had not made the loud noise, the small baby would not have woken up",
+  "russian_example_sentence": "Если бы он/она не сделал(а) громкий шум, маленький ребенок не проснулся бы",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:50:17.289009+00:00",
+  "turkish_example_sentence_with_blank": "O gürültülü ses ______, küçük bebek uyanmazdı"
 }

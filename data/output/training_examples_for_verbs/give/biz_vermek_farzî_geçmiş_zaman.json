@@ -4,19 +4,19 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "vermişsek",
+    "verb_full": "vermiş olsaydık",
     "root": "ver",
-    "tense_affix": "mişse",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ydık",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Biz çiftçiye kaliteli tohum vermişsek, mahsul bol olur.",
-  "english_example_sentence": "If we had given the farmer quality seeds, the harvest would be abundant.",
-  "russian_example_sentence": "Если бы мы дали фермеру качественные семена, урожай был бы обильным.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T11:57:30.709961+00:00",
-  "turkish_example_sentence_with_blank": "Biz çiftçiye kaliteli tohum ______, mahsul bol olur."
+  "turkish_example_sentence": "Biz müdüre yeni yeşil projeyi vermiş olsaydık, şirket büyük kâr elde ederdi",
+  "english_example_sentence": "If we had given the manager the new green project, the company would have made big profit",
+  "russian_example_sentence": "Если бы мы дали менеджеру новый зеленый проект, компания получила бы большую прибыль",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:00:44.486590+00:00",
+  "turkish_example_sentence_with_blank": "Biz müdüre yeni yeşil projeyi ______, şirket büyük kâr elde ederdi"
 }

@@ -4,17 +4,19 @@
   "verb_russian": "приходить",
   "verb_infinitive": "gelmek",
   "turkish_verb": {
-    "verb_full": "gelmemişseniz",
+    "verb_full": "gelmemiş olsaydınız",
     "root": "gel",
-    "tense_affix": "mişse",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "ydınız",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If you hadn't come, you slept",
-  "russian_example_sentence": "Если бы вы не пришли, вы бы спали",
-  "turkish_example_sentence": "Siz gelmemişseniz, rahat yatakta uyumuşsunuzdur bence",
-  "turkish_example_sentence_with_blank": "Siz ______, rahat yatakta uyumuşsunuzdur bence"
+  "turkish_example_sentence": "Siz dün öğleden sonra yağmurlu parkta yapılan pikniğe gelmemiş olsaydınız, ıslak kıyafetlerinizle üşümezdiniz",
+  "english_example_sentence": "If you hadn't come to the picnic held in the rainy park yesterday afternoon, you wouldn't have been cold with your wet clothes",
+  "russian_example_sentence": "Если бы вы не пришли на пикник в дождливом парке вчера днём, вы бы не замёрзли в мокрой одежде",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:56:53.863233+00:00",
+  "turkish_example_sentence_with_blank": "Siz dün öğleden sonra yağmurlu parkta yapılan pikniğe ______, ıslak kıyafetlerinizle üşümezdiniz"
 }

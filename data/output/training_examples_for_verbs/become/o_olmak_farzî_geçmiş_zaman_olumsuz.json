@@ -4,17 +4,19 @@
   "verb_russian": "становиться",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmamışsa",
+    "verb_full": "olmamış olsaydı",
     "root": "ol",
-    "tense_affix": "mamışsa",
+    "tense_affix": "mamış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "ydı",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If she hadn't become a dancer...",
-  "russian_example_sentence": "Если бы она не стала танцовщицей...",
-  "turkish_example_sentence": "O dansçı olmamışsa, belki de sporcu olurdu.",
-  "turkish_example_sentence_with_blank": "O dansçı ______, belki de sporcu olurdu."
+  "turkish_example_sentence": "O kızgın olmamış olsaydı, sessiz akşam yemeğini birlikte yiyebilirdik",
+  "english_example_sentence": "If she had not become angry, we could have eaten the quiet dinner together",
+  "russian_example_sentence": "Если бы она не разозлилась, мы могли бы поужинать вместе в тишине",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:06:43.954960+00:00",
+  "turkish_example_sentence_with_blank": "O kızgın ______, sessiz akşam yemeğini birlikte yiyebilirdik"
 }

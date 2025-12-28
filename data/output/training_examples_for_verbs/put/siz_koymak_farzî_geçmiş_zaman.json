@@ -4,17 +4,19 @@
   "verb_russian": "класть",
   "verb_infinitive": "koymak",
   "turkish_verb": {
-    "verb_full": "koymuşsanız",
+    "verb_full": "koymuş olsaydınız",
     "root": "koy",
-    "tense_affix": "muşsa",
+    "tense_affix": "muş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "ydınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you had put money in bank.",
-  "russian_example_sentence": "Если бы вы положили деньги в банк.",
-  "turkish_example_sentence": "Parayı bankaya koymuşsanız, güvende olmalı.",
-  "turkish_example_sentence_with_blank": "Parayı bankaya ______, güvende olmalı."
+  "turkish_example_sentence": "Siz pahalı saati yumuşak yastığın altına koymuş olsaydınız, kırılmazdı",
+  "english_example_sentence": "If you had put the expensive watch under the soft pillow, it wouldn't have broken",
+  "russian_example_sentence": "Если бы вы положили дорогие часы под мягкую подушку, они бы не сломались",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:08:15.996155+00:00",
+  "turkish_example_sentence_with_blank": "Siz pahalı saati yumuşak yastığın altına ______, kırılmazdı"
 }

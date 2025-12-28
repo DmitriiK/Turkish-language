@@ -4,19 +4,19 @@
   "verb_russian": "спрашивать",
   "verb_infinitive": "sormak",
   "turkish_verb": {
-    "verb_full": "sormamışlarsa",
+    "verb_full": "sormamış olsalardı",
     "root": "sor",
-    "tense_affix": "muşsa",
+    "tense_affix": "mamış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "lardı",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Onlar rehbere turist bölgesi sormamışlarsa, kayıp kalabilirlerdi.",
-  "english_example_sentence": "If they had not asked the guide about the tourist area, they could have gotten lost.",
-  "russian_example_sentence": "Если бы они не спросили гида о туристической зоне, они бы могли заблудиться.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:48:25.856154+00:00",
-  "turkish_example_sentence_with_blank": "Onlar rehbere turist bölgesi ______, kayıp kalabilirlerdi."
+  "turkish_example_sentence": "Onlar sıkılmış misafirlere kişisel sorular sormamış olsalardı, rahatsız etmezlerdi",
+  "english_example_sentence": "If they hadn't asked the bored guests personal questions, they wouldn't have bothered them",
+  "russian_example_sentence": "Если бы они не задавали скучающим гостям личные вопросы, они не побеспокоили бы их",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:04:31.751875+00:00",
+  "turkish_example_sentence_with_blank": "Onlar sıkılmış misafirlere kişisel sorular ______, rahatsız etmezlerdi"
 }

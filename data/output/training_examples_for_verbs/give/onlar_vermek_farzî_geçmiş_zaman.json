@@ -4,19 +4,19 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "vermişlerse",
+    "verb_full": "vermiş olsalardı",
     "root": "ver",
-    "tense_affix": "mişse",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "ler",
+    "personal_affix": "lardı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Onlar hayır kurumuna büyük finansal destek vermişlerse, proje tamamlanır.",
-  "english_example_sentence": "If they had given the charity organization large financial support, the project would be completed.",
-  "russian_example_sentence": "Если бы они дали благотворительной организации большую финансовую поддержку, проект был бы завершён.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T11:57:30.709961+00:00",
-  "turkish_example_sentence_with_blank": "Onlar hayır kurumuna büyük finansal destek ______, proje tamamlanır."
+  "turkish_example_sentence": "Onlar yöneticiye uzun detaylı raporu vermiş olsalardı, karar hızlı değişirdi",
+  "english_example_sentence": "If they had given the director the long detailed report, the decision would have changed quickly",
+  "russian_example_sentence": "Если бы они дали директору длинный подробный отчет, решение быстро изменилось бы",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:00:44.486590+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yöneticiye uzun detaylı raporu ______, karar hızlı değişirdi"
 }

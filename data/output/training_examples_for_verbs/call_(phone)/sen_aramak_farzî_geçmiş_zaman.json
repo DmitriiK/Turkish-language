@@ -1,0 +1,22 @@
+{
+  "verb_rank": 20,
+  "verb_english": "call (phone)",
+  "verb_russian": "звонить",
+  "verb_infinitive": "aramak",
+  "turkish_verb": {
+    "verb_full": "aramış olsaydın",
+    "root": "ara",
+    "tense_affix": "mış olsa",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "sen",
+    "personal_affix": "ydın",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "turkish_example_sentence": "Sen hasta anneni hastaneden önce aramış olsaydın güzel haberi erken öğrenirdin",
+  "english_example_sentence": "If you had called your sick mother from the hospital earlier, you would have learned the good news early",
+  "russian_example_sentence": "Если бы ты позвонил своей больной матери из больницы раньше, ты бы узнал хорошие новости рано",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:03:00.390580+00:00",
+  "turkish_example_sentence_with_blank": "Sen hasta anneni hastaneden önce ______ güzel haberi erken öğrenirdin"
+}

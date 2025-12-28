@@ -4,19 +4,19 @@
   "verb_russian": "использовать",
   "verb_infinitive": "kullanmak",
   "turkish_verb": {
-    "verb_full": "kullanmışsanız",
+    "verb_full": "kullanmış olsaydınız",
     "root": "kullan",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "ydınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Siz bu gelişmiş teknoloji sistemini daha önce kullanmışsanız, işletme kolaylaşır.",
-  "english_example_sentence": "If you had used this advanced technology system before, operations would be easier.",
-  "russian_example_sentence": "Если бы вы использовали эту передовую технологическую систему раньше, операции были бы проще.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:30:20.115390+00:00",
-  "turkish_example_sentence_with_blank": "Siz bu gelişmiş teknoloji sistemini daha önce ______, işletme kolaylaşır."
+  "turkish_example_sentence": "Siz profesyonel ekipmanı kullanmış olsaydınız, proje daha başarılı olurdu",
+  "english_example_sentence": "If you had used professional equipment, the project would have been more successful",
+  "russian_example_sentence": "Если бы вы использовали профессиональное оборудование, проект был бы более успешным",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:59:12.125889+00:00",
+  "turkish_example_sentence_with_blank": "Siz profesyonel ekipmanı ______, proje daha başarılı olurdu"
 }

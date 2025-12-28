@@ -1,0 +1,22 @@
+{
+  "verb_rank": 20,
+  "verb_english": "call (phone)",
+  "verb_russian": "звонить",
+  "verb_infinitive": "aramak",
+  "turkish_verb": {
+    "verb_full": "aramamış olsaydınız",
+    "root": "ara",
+    "tense_affix": "mış olsa",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "siz",
+    "personal_affix": "ydınız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "turkish_example_sentence": "Siz yorgun mühendisi tatilde aramamış olsaydınız teknik sorunu çözemezdiniz",
+  "english_example_sentence": "If you hadn't called the tired engineer on vacation, you couldn't have solved the technical problem",
+  "russian_example_sentence": "Если бы вы не позвонили уставшему инженеру на каникулах, вы не смогли бы решить техническую проблему",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:03:00.390580+00:00",
+  "turkish_example_sentence_with_blank": "Siz yorgun mühendisi tatilde ______ teknik sorunu çözemezdiniz"
+}

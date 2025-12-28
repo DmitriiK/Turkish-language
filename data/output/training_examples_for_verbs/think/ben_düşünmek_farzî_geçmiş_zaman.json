@@ -4,19 +4,19 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmüşsem",
+    "verb_full": "düşünmüş olsaydım",
     "root": "düşün",
-    "tense_affix": "müş",
+    "tense_affix": "müş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ydım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Ben o zor matematik problemini düşünmüşsem, çözümü bulabilirdim.",
-  "english_example_sentence": "If I had thought about that difficult math problem, I could have found the solution.",
-  "russian_example_sentence": "Если бы я подумал об этой сложной математической задаче, я бы нашел решение.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-15T12:15:25.718821+00:00",
-  "turkish_example_sentence_with_blank": "Ben o zor matematik problemini ______, çözümü bulabilirdim."
+  "turkish_example_sentence": "Ben bu önemli kararı daha dikkatli düşünmüş olsaydım",
+  "english_example_sentence": "If I had thought about this important decision more carefully",
+  "russian_example_sentence": "Если бы я подумал об этом важном решении более внимательно",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:54:34.077710+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu önemli kararı daha dikkatli ______"
 }

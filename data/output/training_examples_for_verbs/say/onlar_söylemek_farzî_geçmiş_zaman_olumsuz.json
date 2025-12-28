@@ -4,19 +4,19 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylememişlerse",
+    "verb_full": "söylememiş olsalardı",
     "root": "söyle",
-    "tense_affix": "miş",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "lardı",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Onlar o tehlikeli sözleri söylememişlerse, kriz çıkmamış olurdu.",
-  "english_example_sentence": "If they had not said those dangerous words, the crisis would not have occurred.",
-  "russian_example_sentence": "Если бы они не сказали эти опасные слова, кризис не произошел бы.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-08T08:19:16.838159+00:00",
-  "turkish_example_sentence_with_blank": "Onlar o tehlikeli sözleri ______, kriz çıkmamış olurdu."
+  "turkish_example_sentence": "Onlar yanlış haberleri kalabalık gruba meydanda söylememiş olsalardı panik olmazdı",
+  "english_example_sentence": "If they hadn't said the wrong news to the crowded group in the square there wouldn't have been panic",
+  "russian_example_sentence": "Если бы они не сообщили неправильные новости многолюдной группе на площади, не было бы паники",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:51:02.876681+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yanlış haberleri kalabalık gruba meydanda ______ panik olmazdı"
 }

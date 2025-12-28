@@ -4,19 +4,19 @@
   "verb_russian": "чувствовать",
   "verb_infinitive": "hissetmek",
   "turkish_verb": {
-    "verb_full": "hissetmişlerse",
+    "verb_full": "hissetmiş olsalardı",
     "root": "hisset",
-    "tense_affix": "miş",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lerse",
+    "personal_affix": "lardı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Onlar o yoğun stresi hissetmişlerse, performansları düşerdi.",
-  "english_example_sentence": "If they had felt that intense stress, their performance would have dropped.",
-  "russian_example_sentence": "Если бы они почувствовали тот сильный стресс, их производительность упала бы.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-12T15:07:57.119239+00:00",
-  "turkish_example_sentence_with_blank": "Onlar o yoğun stresi ______, performansları düşerdi."
+  "turkish_example_sentence": "Onlar o muazzam konser atmosferini ruhlarında hissetmiş olsalardı biletleri önceden alırlardı",
+  "english_example_sentence": "If they had felt that magnificent concert atmosphere in their souls, they would have bought the tickets in advance",
+  "russian_example_sentence": "Если бы они почувствовали ту великолепную атмосферу концерта в своих душах, они бы купили билеты заранее",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:06:01.252545+00:00",
+  "turkish_example_sentence_with_blank": "Onlar o muazzam konser atmosferini ruhlarında ______ biletleri önceden alırlardı"
 }

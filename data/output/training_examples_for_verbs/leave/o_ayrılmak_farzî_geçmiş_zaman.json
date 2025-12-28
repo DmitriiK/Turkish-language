@@ -4,17 +4,19 @@
   "verb_russian": "покидать",
   "verb_infinitive": "ayrılmak",
   "turkish_verb": {
-    "verb_full": "ayrılmışsa",
+    "verb_full": "ayrılmış olsaydı",
     "root": "ayrıl",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "ydı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If he had left the small village",
-  "russian_example_sentence": "Если бы он покинул маленькую деревню",
-  "turkish_example_sentence": "O küçük köyden ayrılmışsa, yeni insanlar tanırdı.",
-  "turkish_example_sentence_with_blank": "O küçük köyden ______, yeni insanlar tanırdı."
+  "turkish_example_sentence": "O tehlikeli bölgeden vaktinde ayrılmış olsaydı, kötü kazadan kurtulurdu",
+  "english_example_sentence": "If he had left the dangerous area on time, he would have escaped the bad accident",
+  "russian_example_sentence": "Если бы он покинул опасную зону вовремя, он бы избежал плохой аварии",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:07:30.957560+00:00",
+  "turkish_example_sentence_with_blank": "O tehlikeli bölgeden vaktinde ______, kötü kazadan kurtulurdu"
 }

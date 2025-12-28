@@ -4,19 +4,19 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmişse",
+    "verb_full": "gitmiş olsaydı",
     "root": "git",
-    "tense_affix": "miş",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "ydı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "O çarşamba sabahı üniversite kütüphanesine gitmişse, araştırma kitaplarını bulmuş olabilir.",
-  "english_example_sentence": "If he had gone to the university library on Wednesday morning, he might have found the research books.",
-  "russian_example_sentence": "Если бы он пошел в университетскую библиотеку в среду утром, он мог бы найти исследовательские книги.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-14T07:35:52.626469+00:00",
-  "turkish_example_sentence_with_blank": "O çarşamba sabahı üniversite kütüphanesine ______, araştırma kitaplarını bulmuş olabilir."
+  "turkish_example_sentence": "O geçen hafta ünlü sanat galerisine gitmiş olsaydı harika sergiyi görürdü",
+  "english_example_sentence": "If he had gone to the famous art gallery last week, he would have seen the wonderful exhibition",
+  "russian_example_sentence": "Если бы он пошёл в знаменитую художественную галерею на прошлой неделе, он бы увидел прекрасную выставку",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:51:45.194884+00:00",
+  "turkish_example_sentence_with_blank": "O geçen hafta ünlü sanat galerisine ______ harika sergiyi görürdü"
 }

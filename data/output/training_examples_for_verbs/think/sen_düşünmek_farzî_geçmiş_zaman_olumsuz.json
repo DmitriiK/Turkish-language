@@ -4,19 +4,19 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmemişsin",
+    "verb_full": "düşünmemiş olsaydın",
     "root": "düşün",
-    "tense_affix": "müş",
+    "tense_affix": "me",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "miş olsaydın",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Sen bu tehlikeli durumu düşünmemişsin, sonuçları görmezden geldin.",
-  "english_example_sentence": "If you had not thought about this dangerous situation, you would have ignored the consequences.",
-  "russian_example_sentence": "Если бы ты не подумал об этой опасной ситуации, ты бы проигнорировал последствия.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-15T12:15:25.718821+00:00",
-  "turkish_example_sentence_with_blank": "Sen bu tehlikeli durumu ______, sonuçları görmezden geldin."
+  "turkish_example_sentence": "Sen pahalı araba kredisini düşünmemiş olsaydın borçlanmazdın",
+  "english_example_sentence": "If you had not thought about the expensive car loan, you would not have gotten into debt",
+  "russian_example_sentence": "Если бы ты не думал о дорогом автокредите, ты бы не влез в долги",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:54:34.077710+00:00",
+  "turkish_example_sentence_with_blank": "Sen pahalı araba kredisini ______ borçlanmazdın"
 }

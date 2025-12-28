@@ -4,17 +4,19 @@
   "verb_russian": "смотреть",
   "verb_infinitive": "bakmak",
   "turkish_verb": {
-    "verb_full": "bakmışsan",
+    "verb_full": "bakmış olsaydın",
     "root": "bak",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "ydın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you had looked at the price,",
-  "russian_example_sentence": "Если бы ты посмотрел цену",
-  "turkish_example_sentence": "Sen etiketteki fiyata bakmışsan, daha ucuzunu bulurdun",
-  "turkish_example_sentence_with_blank": "Sen etiketteki fiyata ______, daha ucuzunu bulurdun"
+  "turkish_example_sentence": "Sen güzel manzaralı pencereden sabah bakmış olsaydın, muhteşem gün doğumunu görürdün",
+  "english_example_sentence": "If you had looked from the beautiful scenic window in the morning, you would have seen the magnificent sunrise",
+  "russian_example_sentence": "Если бы ты посмотрел из красивого окна с видом утром, ты бы увидел великолепный восход солнца",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:58:30.379575+00:00",
+  "turkish_example_sentence_with_blank": "Sen güzel manzaralı pencereden sabah ______, muhteşem gün doğumunu görürdün"
 }

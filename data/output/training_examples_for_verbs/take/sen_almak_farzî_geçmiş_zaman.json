@@ -4,19 +4,19 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almışsan",
+    "verb_full": "almış olsaydın",
     "root": "al",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "ydın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Sen kütüphaneden kalın mavi kitabı almışsan, onu bana gösterebilirsin.",
-  "english_example_sentence": "If you had taken the thick blue book from the library, you could show it to me.",
-  "russian_example_sentence": "Если бы ты взял толстую синюю книгу из библиотеки, ты мог бы показать её мне.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-15T12:34:43.867715+00:00",
-  "turkish_example_sentence_with_blank": "Sen kütüphaneden kalın mavi kitabı ______, onu bana gösterebilirsin."
+  "turkish_example_sentence": "Sen yeşil şemsiyeyi dün akşam almış olsaydın bugün ıslanmazdın",
+  "english_example_sentence": "If you had taken the green umbrella yesterday evening, you wouldn't get wet today",
+  "russian_example_sentence": "Если бы ты взял зелёный зонт вчера вечером, ты бы не промок сегодня",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:55:16.643558+00:00",
+  "turkish_example_sentence_with_blank": "Sen yeşil şemsiyeyi dün akşam ______ bugün ıslanmazdın"
 }

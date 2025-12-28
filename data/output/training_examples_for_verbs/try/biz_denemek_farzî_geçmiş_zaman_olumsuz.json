@@ -4,17 +4,19 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "denememişsek",
+    "verb_full": "denememiş olsaydık",
     "root": "dene",
-    "tense_affix": "mişse",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ydık",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If we hadn't tried the difficult problem...",
-  "russian_example_sentence": "Если бы мы не попытались решить сложную проблему...",
-  "turkish_example_sentence": "Biz karmaşık sorunu denememişsek, çözemezdik.",
-  "turkish_example_sentence_with_blank": "Biz karmaşık sorunu ______, çözemezdik."
+  "turkish_example_sentence": "Biz organik sebze yetiştirme tekniğini denememiş olsaydık, bahçemiz bu kadar verimli olmazdı",
+  "english_example_sentence": "If we hadn't tried the organic vegetable growing technique, our garden wouldn't be this productive",
+  "russian_example_sentence": "Если бы мы не попробовали технику выращивания органических овощей, наш сад не был бы таким продуктивным",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:03:43.513575+00:00",
+  "turkish_example_sentence_with_blank": "Biz organik sebze yetiştirme tekniğini ______, bahçemiz bu kadar verimli olmazdı"
 }

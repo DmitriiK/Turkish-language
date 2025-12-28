@@ -4,19 +4,19 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmemişlerse",
+    "verb_full": "düşünmemiş olsalardı",
     "root": "düşün",
-    "tense_affix": "müş",
+    "tense_affix": "me",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "ler",
+    "personal_affix": "miş olsalardı",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Onlar bu sosyal medya kampanyasının risklerini düşünmemişlerse, olumsuz tepkilerle karşılaşmışlardır.",
-  "english_example_sentence": "If they had not thought about the risks of this social media campaign, they would have faced negative reactions.",
-  "russian_example_sentence": "Если бы они не подумали об опасностях этой кампании в социальных сетях, они бы столкнулись с негативными реакциями.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-15T12:15:25.718821+00:00",
-  "turkish_example_sentence_with_blank": "Onlar bu sosyal medya kampanyasının risklerini ______, olumsuz tepkilerle karşılaşmışlardır."
+  "turkish_example_sentence": "Onlar güvenlik önlemlerini düşünmemiş olsalardı kaza olurdu",
+  "english_example_sentence": "If they had not thought about the safety measures, there would have been an accident",
+  "russian_example_sentence": "Если бы они не подумали о мерах безопасности, произошла бы авария",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:54:34.077710+00:00",
+  "turkish_example_sentence_with_blank": "Onlar güvenlik önlemlerini ______ kaza olurdu"
 }

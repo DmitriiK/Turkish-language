@@ -4,17 +4,19 @@
   "verb_russian": "покидать",
   "verb_infinitive": "ayrılmak",
   "turkish_verb": {
-    "verb_full": "ayrılmamışsam",
+    "verb_full": "ayrılmamış olsaydım",
     "root": "ayrıl",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ydım",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If I hadn't left the comfortable house",
-  "russian_example_sentence": "Если бы я не покинул уютный дом",
-  "turkish_example_sentence": "Ben rahat evden ayrılmamışsam, şimdi daha mutlu olurdum.",
-  "turkish_example_sentence_with_blank": "Ben rahat evden ______, şimdi daha mutlu olurdum."
+  "turkish_example_sentence": "Ben sevgili ailemden hiç ayrılmamış olsaydım, şimdi çok daha mutlu olurdum",
+  "english_example_sentence": "If I had not left my beloved family at all, I would be much happier now",
+  "russian_example_sentence": "Если бы я вообще не покидал мою любимую семью, я был бы намного счастливее сейчас",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:07:30.957560+00:00",
+  "turkish_example_sentence_with_blank": "Ben sevgili ailemden hiç ______, şimdi çok daha mutlu olurdum"
 }

@@ -4,17 +4,19 @@
   "verb_russian": "получать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almamışsam",
+    "verb_full": "almamış olsaydım",
     "root": "al",
-    "tense_affix": "mışsa",
+    "tense_affix": "mamış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ydım",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If I hadn't received your message, I wouldn't be here.",
-  "russian_example_sentence": "Если бы я не получил твоё сообщение, меня бы здесь не было.",
-  "turkish_example_sentence": "Mesajını almamışsam, burada olmazdım.",
-  "turkish_example_sentence_with_blank": "Mesajını ______, burada olmazdım."
+  "turkish_example_sentence": "Ben o trafik cezasını almamış olsaydım, şimdi çok mutlu olurdum",
+  "english_example_sentence": "If I had not gotten that traffic fine, I would be very happy now",
+  "russian_example_sentence": "Если бы я не получил тот штраф за нарушение, я был бы очень счастлив сейчас",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:52:25.840786+00:00",
+  "turkish_example_sentence_with_blank": "Ben o trafik cezasını ______, şimdi çok mutlu olurdum"
 }

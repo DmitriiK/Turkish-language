@@ -4,19 +4,19 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatmamışsa",
+    "verb_full": "anlatmamış olsaydı",
     "root": "anlat",
-    "tense_affix": "mış",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "ydı",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Eğer o bu üzücü gerçeği hiç anlatmamışsa, insanlar yanılmış olurdu.",
-  "english_example_sentence": "If he/she had not told this sad truth at all, people would have been mistaken.",
-  "russian_example_sentence": "Если бы он/она вообще не рассказал(а) эту грустную правду, люди бы ошиблись.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:42:43.841974+00:00",
-  "turkish_example_sentence_with_blank": "Eğer o bu üzücü gerçeği hiç ______, insanlar yanılmış olurdu."
+  "turkish_example_sentence": "O üzücü aile dramını anlatmamış olsaydı daha mutlu olurduk",
+  "english_example_sentence": "If she had not told the sad family drama, we would have been happier",
+  "russian_example_sentence": "Если бы она не рассказала грустную семейную драму, мы были бы счастливее",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:01:25.747423+00:00",
+  "turkish_example_sentence_with_blank": "O üzücü aile dramını ______ daha mutlu olurduk"
 }

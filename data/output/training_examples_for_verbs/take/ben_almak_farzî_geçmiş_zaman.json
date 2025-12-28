@@ -4,19 +4,19 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almışsam",
+    "verb_full": "almış olsaydım",
     "root": "al",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ydım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Ben dün sabah erken trenle kırmızı bavulu almışsam, şimdi evde olurdum.",
-  "english_example_sentence": "If I had taken the red suitcase with the early train yesterday morning, I would be home now.",
-  "russian_example_sentence": "Если бы я взял красный чемодан ранним поездом вчера утром, я был бы дома сейчас.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-15T12:34:43.867715+00:00",
-  "turkish_example_sentence_with_blank": "Ben dün sabah erken trenle kırmızı bavulu ______, şimdi evde olurdum."
+  "turkish_example_sentence": "Ben o pahalı kırmızı arabayı almış olsaydım çok mutlu olurdum",
+  "english_example_sentence": "If I had taken that expensive red car, I would have been very happy",
+  "russian_example_sentence": "Если бы я взял ту дорогую красную машину, я был бы очень счастлив",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:55:16.643558+00:00",
+  "turkish_example_sentence_with_blank": "Ben o pahalı kırmızı arabayı ______ çok mutlu olurdum"
 }

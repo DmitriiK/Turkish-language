@@ -4,19 +4,19 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmişlerse",
+    "verb_full": "gitmiş olsalardı",
     "root": "git",
-    "tense_affix": "miş",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "lardı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Onlar geçen yıl Antalya sahillerine gitmişlerse, kristal berrak sularında yüzme keyfini çıkarmış olabilirler.",
-  "english_example_sentence": "If they had gone to the Antalya beaches last year, they might have enjoyed swimming in the crystal clear waters.",
-  "russian_example_sentence": "Если бы они пошли на пляжи Анталии в прошлом году, они могли бы насладиться плаванием в кристально чистой воде.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-14T07:35:52.626469+00:00",
-  "turkish_example_sentence_with_blank": "Onlar geçen yıl Antalya sahillerine ______, kristal berrak sularında yüzme keyfini çıkarmış olabilirler."
+  "turkish_example_sentence": "Onlar heyecanlı futbol maçına gitmiş olsalardı favori takımlarını desteklerlerdi",
+  "english_example_sentence": "If they had gone to the exciting football match, they would have supported their favorite team",
+  "russian_example_sentence": "Если бы они пошли на захватывающий футбольный матч, они бы поддержали свою любимую команду",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:51:45.194884+00:00",
+  "turkish_example_sentence_with_blank": "Onlar heyecanlı futbol maçına ______ favori takımlarını desteklerlerdi"
 }

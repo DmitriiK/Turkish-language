@@ -4,17 +4,19 @@
   "verb_russian": "нуждаться",
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
-    "verb_full": "ihtiyaç duymuşsak",
+    "verb_full": "ihtiyaç duymuş olsaydık",
     "root": "ihtiyaç duy",
-    "tense_affix": "muşsak",
+    "tense_affix": "muş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ydık",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we had needed additional technical support",
-  "russian_example_sentence": "Если бы нам нужна была дополнительная техническая поддержка",
-  "turkish_example_sentence": "Biz ek teknik desteğe ihtiyaç duymuşsak, uzmanları çağırmalıydık.",
-  "turkish_example_sentence_with_blank": "Biz ek teknik desteğe ______, uzmanları çağırmalıydık."
+  "turkish_example_sentence": "Biz ek personele ihtiyaç duymuş olsaydık, büyük fabrika projesini zamanında tamamlardık",
+  "english_example_sentence": "If we had needed additional staff, we would have completed the large factory project on time",
+  "russian_example_sentence": "Если бы нам нужен был дополнительный персонал, мы бы завершили большой фабричный проект вовремя",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:05:15.894758+00:00",
+  "turkish_example_sentence_with_blank": "Biz ek personele ______, büyük fabrika projesini zamanında tamamlardık"
 }

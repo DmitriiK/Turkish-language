@@ -4,17 +4,19 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "denememişse",
+    "verb_full": "denememiş olsaydı",
     "root": "dene",
-    "tense_affix": "mişse",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "ydı",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If she hadn't tried the new recipe...",
-  "russian_example_sentence": "Если бы она не попробовала новый рецепт...",
-  "turkish_example_sentence": "O yeni tarifi denememişse, öğrenemezdi.",
-  "turkish_example_sentence_with_blank": "O yeni tarifi ______, öğrenemezdi."
+  "turkish_example_sentence": "O geleneksel Türk kahvesini denememiş olsaydı, kültürümüzü tanıyamazdı gerçekten",
+  "english_example_sentence": "If he/she hadn't tried the traditional Turkish coffee, he/she couldn't have truly known our culture",
+  "russian_example_sentence": "Если бы он/она не попробовал традиционный турецкий кофе, он/она не мог бы по-настоящему узнать нашу культуру",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:03:43.513575+00:00",
+  "turkish_example_sentence_with_blank": "O geleneksel Türk kahvesini ______, kültürümüzü tanıyamazdı gerçekten"
 }

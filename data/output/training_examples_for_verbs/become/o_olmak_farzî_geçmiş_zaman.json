@@ -4,17 +4,19 @@
   "verb_russian": "становиться",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmuşsa",
+    "verb_full": "olmuş olsaydı",
     "root": "ol",
-    "tense_affix": "muşsa",
+    "tense_affix": "muş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "ydı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If he had become a musician...",
-  "russian_example_sentence": "Если бы он стал музыкантом...",
-  "turkish_example_sentence": "O müzisyen olmuşsa, dünyaca ünlü bir sanatçı olurdu.",
-  "turkish_example_sentence_with_blank": "O müzisyen ______, dünyaca ünlü bir sanatçı olurdu."
+  "turkish_example_sentence": "O zengin bir işadamı olmuş olsaydı, yoksul çocuklara yardım ederdi",
+  "english_example_sentence": "If he had become a rich businessman, he would have helped poor children",
+  "russian_example_sentence": "Если бы он стал богатым бизнесменом, он бы помогал бедным детям",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:06:43.954960+00:00",
+  "turkish_example_sentence_with_blank": "O zengin bir işadamı ______, yoksul çocuklara yardım ederdi"
 }

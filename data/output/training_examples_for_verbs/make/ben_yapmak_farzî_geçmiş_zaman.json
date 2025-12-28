@@ -4,19 +4,19 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmışsam",
+    "verb_full": "yapmış olsaydım",
     "root": "yap",
-    "tense_affix": "mış",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "sam",
+    "personal_affix": "ydım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Ben o önemli kararı yapmışsam, şimdi sonuçlar farklı olurdu.",
-  "english_example_sentence": "If I had made that important decision, the results would be different now.",
-  "russian_example_sentence": "Если бы я принял то важное решение, результаты сейчас были бы другими.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T08:11:07.969865+00:00",
-  "turkish_example_sentence_with_blank": "Ben o önemli kararı ______, şimdi sonuçlar farklı olurdu."
+  "turkish_example_sentence": "Ben o önemli iş sunumunu daha erken yapmış olsaydım, terfi alabilirdim",
+  "english_example_sentence": "If I had made that important business presentation earlier, I could have gotten a promotion",
+  "russian_example_sentence": "Если бы я сделал ту важную деловую презентацию раньше, я мог бы получить повышение",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:53:09.648269+00:00",
+  "turkish_example_sentence_with_blank": "Ben o önemli iş sunumunu daha erken ______, terfi alabilirdim"
 }

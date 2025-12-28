@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "görmemiş olsalardı",
     "root": "gör",
-    "tense_affix": "müş",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "lardı",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Onlar o tehlikeli gri köpekleri parkta görmemiş olsalardı, çocuklarını dışarı çıkartırlardı.",
-  "english_example_sentence": "If they had not seen those dangerous gray dogs in the park, they would have let their children go outside.",
-  "russian_example_sentence": "Если бы они не видели тех опасных серых собак в парке, они бы отпустили своих детей на улицу.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T12:36:36.226630+00:00",
-  "turkish_example_sentence_with_blank": "Onlar o tehlikeli gri köpekleri parkta ______, çocuklarını dışarı çıkartırlardı."
+  "turkish_example_sentence": "Onlar taze balıkları pazarda görmemiş olsalardı akşam yemeği için et alırlardı",
+  "english_example_sentence": "If they had not seen the fresh fish at the market, they would have bought meat for dinner",
+  "russian_example_sentence": "Если бы они не видели свежую рыбу на рынке, они бы купили мясо на ужин",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:55:59.798662+00:00",
+  "turkish_example_sentence_with_blank": "Onlar taze balıkları pazarda ______ akşam yemeği için et alırlardı"
 }

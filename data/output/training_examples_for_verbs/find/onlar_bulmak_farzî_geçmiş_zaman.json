@@ -4,19 +4,19 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulmuşlarsa",
+    "verb_full": "bulmuş olsalardı",
     "root": "bul",
-    "tense_affix": "muş",
+    "tense_affix": "muş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "lardı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Onlar sahilde değerli mercan bulmuşlarsa, müze için satın alabilirlerdi.",
-  "english_example_sentence": "If they had found the valuable coral on the beach, they could have bought it for the museum.",
-  "russian_example_sentence": "Если бы они нашли ценный коралл на пляже, они смогли бы купить его для музея.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:36:55.470944+00:00",
-  "turkish_example_sentence_with_blank": "Onlar sahilde değerli mercan ______, müze için satın alabilirlerdi."
+  "turkish_example_sentence": "Onlar antik Roma sikkelerini bulmuş olsalardı, müze müdürleri hemen sergiye koyarlardı",
+  "english_example_sentence": "If they had found the ancient Roman coins, the museum directors would have immediately put them in the exhibition",
+  "russian_example_sentence": "Если бы они нашли древние римские монеты, директора музея немедленно выставили бы их на выставку",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:00:00.346094+00:00",
+  "turkish_example_sentence_with_blank": "Onlar antik Roma sikkelerini ______, müze müdürleri hemen sergiye koyarlardı"
 }

@@ -1,0 +1,22 @@
+{
+  "verb_rank": 20,
+  "verb_english": "call (phone)",
+  "verb_russian": "звонить",
+  "verb_infinitive": "aramak",
+  "turkish_verb": {
+    "verb_full": "aramamış olsaydı",
+    "root": "ara",
+    "tense_affix": "mış olsa",
+    "verb_tense": "farzî_geçmiş_zaman",
+    "personal_pronoun": "o",
+    "personal_affix": "ydı",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "turkish_example_sentence": "O kızgın komşuyu gece aramamış olsaydı uzun tartışma başlamazdı",
+  "english_example_sentence": "If she hadn't called the angry neighbor at night, the long argument wouldn't have started",
+  "russian_example_sentence": "Если бы она не позвонила сердитому соседу ночью, длинный спор не начался бы",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:03:00.390580+00:00",
+  "turkish_example_sentence_with_blank": "O kızgın komşuyu gece ______ uzun tartışma başlamazdı"
+}

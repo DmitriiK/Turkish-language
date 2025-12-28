@@ -4,17 +4,19 @@
   "verb_russian": "нуждаться",
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
-    "verb_full": "ihtiyaç duymuşsam",
+    "verb_full": "ihtiyaç duymuş olsaydım",
     "root": "ihtiyaç duy",
-    "tense_affix": "muşsa",
+    "tense_affix": "muş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ydım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I had needed more financial support",
-  "russian_example_sentence": "Если бы мне нужна была большая финансовая поддержка",
-  "turkish_example_sentence": "Ben daha fazla maddi desteğe ihtiyaç duymuşsam, bankaya başvururdum.",
-  "turkish_example_sentence_with_blank": "Ben daha fazla maddi desteğe ______, bankaya başvururdum."
+  "turkish_example_sentence": "Ben yeni bilgisayara ihtiyaç duymuş olsaydım, maaşımı biriktirirdim",
+  "english_example_sentence": "If I had needed a new computer, I would have saved my salary",
+  "russian_example_sentence": "Если бы мне нужен был новый компьютер, я бы копил зарплату",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:05:15.894758+00:00",
+  "turkish_example_sentence_with_blank": "Ben yeni bilgisayara ______, maaşımı biriktirirdim"
 }

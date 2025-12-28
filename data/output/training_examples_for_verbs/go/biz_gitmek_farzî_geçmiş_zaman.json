@@ -4,19 +4,19 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmişsek",
+    "verb_full": "gitmiş olsaydık",
     "root": "git",
-    "tense_affix": "miş",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ydık",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Biz pazar sabahı dağ yürüyüşüne gitmişsek, doğanın güzelliğini tam olarak hissetmiş olabiliriz.",
-  "english_example_sentence": "If we had gone on a mountain hike on Sunday morning, we could have fully felt the beauty of nature.",
-  "russian_example_sentence": "Если бы мы пошли в горный поход в воскресенье утром, мы бы полностью почувствовали красоту природы.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-14T07:35:52.626469+00:00",
-  "turkish_example_sentence_with_blank": "Biz pazar sabahı dağ yürüyüşüne ______, doğanın güzelliğini tam olarak hissetmiş olabiliriz."
+  "turkish_example_sentence": "Biz güzel sahil kasabasına gitmiş olsaydık denizde yüzme keyfi yapardık",
+  "english_example_sentence": "If we had gone to the beautiful seaside town, we would have enjoyed swimming in the sea",
+  "russian_example_sentence": "Если бы мы поехали в красивый прибрежный городок, мы бы наслаждались плаванием в море",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:51:45.194884+00:00",
+  "turkish_example_sentence_with_blank": "Biz güzel sahil kasabasına ______ denizde yüzme keyfi yapardık"
 }

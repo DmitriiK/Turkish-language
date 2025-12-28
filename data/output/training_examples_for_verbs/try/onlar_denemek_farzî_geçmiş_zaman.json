@@ -4,17 +4,19 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "denemişlerse",
+    "verb_full": "denemiş olsalardı",
     "root": "dene",
-    "tense_affix": "mişlerse",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": null,
+    "personal_affix": "lardı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they had tried the local wine...",
-  "russian_example_sentence": "Если бы они попробовали местное вино...",
-  "turkish_example_sentence": "Onlar yöresel şarabı denemişlerse, beğenmişlerdir.",
-  "turkish_example_sentence_with_blank": "Onlar yöresel şarabı ______, beğenmişlerdir."
+  "turkish_example_sentence": "Onlar yenilikçi eğitim sistemini denemiş olsalardı, öğrenciler çok daha mutlu olurdu",
+  "english_example_sentence": "If they had tried the innovative education system, the students would have been much happier",
+  "russian_example_sentence": "Если бы они попробовали инновационную систему образования, студенты были бы намного счастливее",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:03:43.513575+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yenilikçi eğitim sistemini ______, öğrenciler çok daha mutlu olurdu"
 }

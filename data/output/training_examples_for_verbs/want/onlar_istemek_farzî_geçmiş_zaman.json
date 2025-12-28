@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "istemiş olsalardı",
     "root": "iste",
-    "tense_affix": "miş",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "lardı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Onlar o harika müzik konserini istemiş olsalardı, biletleri önceden alırlardı.",
-  "english_example_sentence": "If they had wanted that wonderful music concert, they would have bought the tickets in advance.",
-  "russian_example_sentence": "Если бы они хотели то замечательный музыкальный концерт, они бы купили билеты заранее.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T11:51:43.434169+00:00",
-  "turkish_example_sentence_with_blank": "Onlar o harika müzik konserini ______, biletleri önceden alırlardı."
+  "turkish_example_sentence": "Onlar organik sebze bahçesi kurmayı istemiş olsalardı, taze sağlıklı gıdalar yetiştirebilirlerdi",
+  "english_example_sentence": "If they had wanted to establish the organic vegetable garden, they could have grown fresh healthy foods",
+  "russian_example_sentence": "Если бы они хотели создать органический огород, они могли бы выращивать свежие здоровые продукты",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:57:40.635639+00:00",
+  "turkish_example_sentence_with_blank": "Onlar organik sebze bahçesi kurmayı ______, taze sağlıklı gıdalar yetiştirebilirlerdi"
 }

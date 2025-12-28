@@ -4,17 +4,19 @@
   "verb_russian": "покидать",
   "verb_infinitive": "ayrılmak",
   "turkish_verb": {
-    "verb_full": "ayrılmamışsak",
+    "verb_full": "ayrılmamış olsaydık",
     "root": "ayrıl",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ydık",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If we hadn't left the warm cafe",
-  "russian_example_sentence": "Если бы мы не покинули теплое кафе",
-  "turkish_example_sentence": "Biz sıcak kafeden ayrılmamışsak, kahve içmeye devam ederdik.",
-  "turkish_example_sentence_with_blank": "Biz sıcak kafeden ______, kahve içmeye devam ederdik."
+  "turkish_example_sentence": "Biz sıcak güneşli sahilden hiç ayrılmamış olsaydık, harika tatil anılarımız devam ederdi",
+  "english_example_sentence": "If we had not left the warm sunny beach at all, our wonderful vacation memories would have continued",
+  "russian_example_sentence": "Если бы мы вообще не покидали теплый солнечный пляж, наши замечательные отпускные воспоминания продолжались бы",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:07:30.957560+00:00",
+  "turkish_example_sentence_with_blank": "Biz sıcak güneşli sahilden hiç ______, harika tatil anılarımız devam ederdi"
 }

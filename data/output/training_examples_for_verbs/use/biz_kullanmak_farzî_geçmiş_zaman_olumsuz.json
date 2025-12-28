@@ -4,19 +4,19 @@
   "verb_russian": "использовать",
   "verb_infinitive": "kullanmak",
   "turkish_verb": {
-    "verb_full": "kullanmamışsak",
+    "verb_full": "kullanmamış olsaydık",
     "root": "kullan",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ydık",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Biz bu değerli kaynakları hiç kullanmamışsak, fırsatı kaçırırız.",
-  "english_example_sentence": "If we had never used these valuable resources, we would miss the opportunity.",
-  "russian_example_sentence": "Если бы мы никогда не использовали эти ценные ресурсы, мы упустили бы возможность.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:30:20.115390+00:00",
-  "turkish_example_sentence_with_blank": "Biz bu değerli kaynakları hiç ______, fırsatı kaçırırız."
+  "turkish_example_sentence": "Biz pahalı lüks oteli kullanmamış olsaydık, tatil bütçemiz yetebilirdi",
+  "english_example_sentence": "If we had not used the expensive luxury hotel, our vacation budget would have been sufficient",
+  "russian_example_sentence": "Если бы мы не использовали дорогой роскошный отель, нашего отпускного бюджета хватило бы",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:59:12.125889+00:00",
+  "turkish_example_sentence_with_blank": "Biz pahalı lüks oteli ______, tatil bütçemiz yetebilirdi"
 }

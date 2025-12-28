@@ -4,19 +4,19 @@
   "verb_russian": "спрашивать",
   "verb_infinitive": "sormak",
   "turkish_verb": {
-    "verb_full": "sormuşsak",
+    "verb_full": "sormuş olsaydık",
     "root": "sor",
-    "tense_affix": "muşsa",
+    "tense_affix": "muş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ydık",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Biz rehbere antik şehir hakkında sormuşsak, daha fazla bilgi öğrenebilirdik.",
-  "english_example_sentence": "If we had asked the guide about the ancient city, we could have learned more information.",
-  "russian_example_sentence": "Если бы мы спросили гида о древнем городе, мы бы могли узнать больше информации.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:48:25.856154+00:00",
-  "turkish_example_sentence_with_blank": "Biz rehbere antik şehir hakkında ______, daha fazla bilgi öğrenebilirdik."
+  "turkish_example_sentence": "Biz yaşlı köylüye doğru yolu sormuş olsaydık, karanlık ormanda kaybolmazdık",
+  "english_example_sentence": "If we had asked the old villager for the correct path, we wouldn't have gotten lost in the dark forest",
+  "russian_example_sentence": "Если бы мы спросили старого сельского жителя о правильном пути, мы не заблудились бы в темном лесу",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:04:31.751875+00:00",
+  "turkish_example_sentence_with_blank": "Biz yaşlı köylüye doğru yolu ______, karanlık ormanda kaybolmazdık"
 }

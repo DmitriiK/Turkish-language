@@ -4,17 +4,19 @@
   "verb_russian": "приходить",
   "verb_infinitive": "gelmek",
   "turkish_verb": {
-    "verb_full": "gelmişseniz",
+    "verb_full": "gelmiş olsaydınız",
     "root": "gel",
-    "tense_affix": "mişse",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "ydınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you had come, you saw",
-  "russian_example_sentence": "Если бы вы пришли, вы бы увидели",
-  "turkish_example_sentence": "Siz gelmişseniz, kesinlikle harika konseri görmüşsünüzdür",
-  "turkish_example_sentence_with_blank": "Siz ______, kesinlikle harika konseri görmüşsünüzdür"
+  "turkish_example_sentence": "Siz geçen yıl düzenlenen uluslararası bilim fuarına gelmiş olsaydınız, modern teknolojik icatları yakından inceleyebilirdiniz",
+  "english_example_sentence": "If you had come to the international science fair organized last year, you could have examined modern technological inventions closely",
+  "russian_example_sentence": "Если бы вы пришли на международную научную ярмарку, организованную в прошлом году, вы могли бы внимательно изучить современные технологические изобретения",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:56:53.863233+00:00",
+  "turkish_example_sentence_with_blank": "Siz geçen yıl düzenlenen uluslararası bilim fuarına ______, modern teknolojik icatları yakından inceleyebilirdiniz"
 }

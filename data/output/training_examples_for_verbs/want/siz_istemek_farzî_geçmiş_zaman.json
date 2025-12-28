@@ -4,19 +4,19 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istemiş olsanız",
+    "verb_full": "istemiş olsaydınız",
     "root": "iste",
-    "tense_affix": "miş",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "ydınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Siz o değerli antika koleksiyonunu istemiş olsanız, müze müdürü size izin verirdi.",
-  "english_example_sentence": "If you had wanted that valuable antique collection, the museum director would have given you permission.",
-  "russian_example_sentence": "Если бы вы хотели то ценную коллекцию антиквариата, директор музея бы вам разрешил.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T11:51:43.434169+00:00",
-  "turkish_example_sentence_with_blank": "Siz o değerli antika koleksiyonunu ______, müze müdürü size izin verirdi."
+  "turkish_example_sentence": "Siz özel İngilizce kursuna katılmayı istemiş olsaydınız, şimdi akıcı konuşabilirdiniz",
+  "english_example_sentence": "If you had wanted to attend the private English course, you could speak fluently now",
+  "russian_example_sentence": "Если бы вы хотели посещать частный курс английского языка, вы могли бы говорить свободно сейчас",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:57:40.635639+00:00",
+  "turkish_example_sentence_with_blank": "Siz özel İngilizce kursuna katılmayı ______, şimdi akıcı konuşabilirdiniz"
 }

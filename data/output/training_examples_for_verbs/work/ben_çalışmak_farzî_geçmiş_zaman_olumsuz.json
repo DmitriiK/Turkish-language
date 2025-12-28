@@ -4,19 +4,19 @@
   "verb_russian": "работать",
   "verb_infinitive": "çalışmak",
   "turkish_verb": {
-    "verb_full": "çalışmamışsam",
+    "verb_full": "çalışmamış olsaydım",
     "root": "çalış",
-    "tense_affix": "mışsa",
+    "tense_affix": "mamış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ydım",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Ben pazartesi sabahı o önemli raporta çalışmamışsam, müdür beni azarlamış olurdu.",
-  "english_example_sentence": "If I had not worked on that important report Monday morning, the manager would have scolded me.",
-  "russian_example_sentence": "Если бы я не работал над тем важным отчетом в понедельник утром, менеджер бы меня отругал.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:56:53.426849+00:00",
-  "turkish_example_sentence_with_blank": "Ben pazartesi sabahı o önemli raporta ______, müdür beni azarlamış olurdu."
+  "turkish_example_sentence": "Ben o sıkıcı ofiste hiç çalışmamış olsaydım, şimdi çok mutlu tatilde olurdum",
+  "english_example_sentence": "If I had not worked at that boring office at all, I would be on a very happy vacation now",
+  "russian_example_sentence": "Если бы я совсем не работал в том скучном офисе, я был бы сейчас на очень счастливом отпуске",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:02:15.050258+00:00",
+  "turkish_example_sentence_with_blank": "Ben o sıkıcı ofiste hiç ______, şimdi çok mutlu tatilde olurdum"
 }

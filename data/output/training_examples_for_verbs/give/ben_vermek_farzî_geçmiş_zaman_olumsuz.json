@@ -4,19 +4,19 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "vermemişsem",
+    "verb_full": "vermemiş olsaydım",
     "root": "ver",
-    "tense_affix": "mişse",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ydım",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Ben arkadaşıma önemli yazılı mesajı vermemişsem, hata yapmış olurum.",
-  "english_example_sentence": "If I had not given my friend the important written message, I would have made a mistake.",
-  "russian_example_sentence": "Если бы я не дал своему другу важное письменное сообщение, я бы ошибся.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T11:57:30.709961+00:00",
-  "turkish_example_sentence_with_blank": "Ben arkadaşıma önemli yazılı mesajı ______, hata yapmış olurum."
+  "turkish_example_sentence": "Ben çocuğa tatlı kırmızı elmayı vermemiş olsaydım, şimdi ağlamıyor olurdu",
+  "english_example_sentence": "If I hadn't given the child the sweet red apple, he wouldn't be crying now",
+  "russian_example_sentence": "Если бы я не дал ребенку сладкое красное яблоко, он бы не плакал сейчас",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:00:44.486590+00:00",
+  "turkish_example_sentence_with_blank": "Ben çocuğa tatlı kırmızı elmayı ______, şimdi ağlamıyor olurdu"
 }

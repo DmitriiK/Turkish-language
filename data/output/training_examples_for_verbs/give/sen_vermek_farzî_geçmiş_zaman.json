@@ -4,19 +4,19 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "vermişsen",
+    "verb_full": "vermiş olsaydın",
     "root": "ver",
-    "tense_affix": "mişse",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "ydın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Sen küçük yeşil kutuyu kardeşine vermişsen, o çok sevinir.",
-  "english_example_sentence": "If you had given the small green box to your brother, he would be very happy.",
-  "russian_example_sentence": "Если бы ты дал маленькую зелёную коробку своему брату, он был бы очень рад.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T11:57:30.709961+00:00",
-  "turkish_example_sentence_with_blank": "Sen küçük yeşil kutuyu kardeşine ______, o çok sevinir."
+  "turkish_example_sentence": "Sen anneye güzel sarı çiçekleri vermiş olsaydın, çok mutlu olurdu",
+  "english_example_sentence": "If you had given the beautiful yellow flowers to mother, she would have been very happy",
+  "russian_example_sentence": "Если бы ты дал маме красивые желтые цветы, она была бы очень счастлива",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:00:44.486590+00:00",
+  "turkish_example_sentence_with_blank": "Sen anneye güzel sarı çiçekleri ______, çok mutlu olurdu"
 }

@@ -4,19 +4,19 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylemişsek",
+    "verb_full": "söylemiş olsaydık",
     "root": "söyle",
-    "tense_affix": "miş",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ydık",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Biz toplantıda dürüst görüşler söylemişsek, yönetim kararını değiştirmiş olurdu.",
-  "english_example_sentence": "If we had said honest opinions at the meeting, the management would have changed its decision.",
-  "russian_example_sentence": "Если бы мы сказали честные мнения на встрече, руководство изменило бы свое решение.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-08T08:19:16.838159+00:00",
-  "turkish_example_sentence_with_blank": "Biz toplantıda dürüst görüşler ______, yönetim kararını değiştirmiş olurdu."
+  "turkish_example_sentence": "Biz doğru adresi taksiciye sabahleyin söylemiş olsaydık toplantıya zamanında varırdık",
+  "english_example_sentence": "If we had said the correct address to the taxi driver in the morning we would have arrived at the meeting on time",
+  "russian_example_sentence": "Если бы мы сказали правильный адрес таксисту утром, мы бы прибыли на встречу вовремя",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:51:02.876681+00:00",
+  "turkish_example_sentence_with_blank": "Biz doğru adresi taksiciye sabahleyin ______ toplantıya zamanında varırdık"
 }

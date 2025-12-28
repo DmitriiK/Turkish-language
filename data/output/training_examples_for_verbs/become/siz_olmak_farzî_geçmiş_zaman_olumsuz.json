@@ -4,17 +4,19 @@
   "verb_russian": "становиться",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmamışsanız",
+    "verb_full": "olmamış olsaydınız",
     "root": "ol",
-    "tense_affix": "mamışsa",
+    "tense_affix": "mamış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "ydınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If you all hadn't become pilots...",
-  "russian_example_sentence": "Если бы вы все не стали пилотами...",
-  "turkish_example_sentence": "Siz pilot olmamışsanız, uçakları kullanamazdınız.",
-  "turkish_example_sentence_with_blank": "Siz pilot ______, uçakları kullanamazdınız."
+  "turkish_example_sentence": "Siz meşgul olmamış olsaydınız, güzel bahçe partisine gelirdiniz",
+  "english_example_sentence": "If you had not become busy, you would have come to the beautiful garden party",
+  "russian_example_sentence": "Если бы вы не были заняты, вы бы пришли на красивую садовую вечеринку",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:06:43.954960+00:00",
+  "turkish_example_sentence_with_blank": "Siz meşgul ______, güzel bahçe partisine gelirdiniz"
 }

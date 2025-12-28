@@ -4,17 +4,19 @@
   "verb_russian": "получать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almamışsa",
+    "verb_full": "almamış olsaydı",
     "root": "al",
-    "tense_affix": "mışsa",
+    "tense_affix": "mamış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "ydı",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If he hadn't received the package, he would be angry.",
-  "russian_example_sentence": "Если он не получил посылку, он был бы зол.",
-  "turkish_example_sentence": "Eğer paketi almamışsa, kızardı.",
-  "turkish_example_sentence_with_blank": "Eğer paketi ______, kızardı."
+  "turkish_example_sentence": "O gereksiz pahalı arabayı almamış olsaydı, borçları olmazdı",
+  "english_example_sentence": "If he had not gotten that unnecessary expensive car, he would not have debts",
+  "russian_example_sentence": "Если бы он не купил ту ненужную дорогую машину, у него не было бы долгов",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:52:25.840786+00:00",
+  "turkish_example_sentence_with_blank": "O gereksiz pahalı arabayı ______, borçları olmazdı"
 }

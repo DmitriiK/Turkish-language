@@ -4,17 +4,19 @@
   "verb_russian": "нуждаться",
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
-    "verb_full": "ihtiyaç duymamışsa",
+    "verb_full": "ihtiyaç duymamış olsaydı",
     "root": "ihtiyaç duy",
-    "tense_affix": "mamışsa",
+    "tense_affix": "mamış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "ydı",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If she hadn't needed to borrow money",
-  "russian_example_sentence": "Если бы ей не нужно было занимать деньги",
-  "turkish_example_sentence": "O borç para almaya ihtiyaç duymamışsa, bankadan kredi çekmezdi.",
-  "turkish_example_sentence_with_blank": "O borç para almaya ______, bankadan kredi çekmezdi."
+  "turkish_example_sentence": "O acil ameliyata ihtiyaç duymamış olsaydı, uzun hastane sürecinden kurtulurdu",
+  "english_example_sentence": "If she hadn't needed urgent surgery, she would have avoided the long hospital process",
+  "russian_example_sentence": "Если бы ей не нужна была срочная операция, она бы избежала долгого больничного процесса",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:05:15.894758+00:00",
+  "turkish_example_sentence_with_blank": "O acil ameliyata ______, uzun hastane sürecinden kurtulurdu"
 }

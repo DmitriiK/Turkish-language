@@ -4,17 +4,19 @@
   "verb_russian": "приходить",
   "verb_infinitive": "gelmek",
   "turkish_verb": {
-    "verb_full": "gelmişse",
+    "verb_full": "gelmiş olsaydı",
     "root": "gel",
-    "tense_affix": "mişse",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "ydı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If he had come, he'd participate",
-  "russian_example_sentence": "Если бы он пришел, он бы участвовал",
-  "turkish_example_sentence": "O gelmişse, kesinlikle projeye katılırdı bence",
-  "turkish_example_sentence_with_blank": "O ______, kesinlikle projeye katılırdı bence"
+  "turkish_example_sentence": "O kış aylarında karlı dağ köyüne gelmiş olsaydı, muhteşem beyaz manzarayı fotoğraflayabilirdi",
+  "english_example_sentence": "If he had come to the snowy mountain village in winter months, he could have photographed the magnificent white landscape",
+  "russian_example_sentence": "Если бы он приехал в заснеженную горную деревню в зимние месяцы, он мог бы сфотографировать великолепный белый пейзаж",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:56:53.863233+00:00",
+  "turkish_example_sentence_with_blank": "O kış aylarında karlı dağ köyüne ______, muhteşem beyaz manzarayı fotoğraflayabilirdi"
 }

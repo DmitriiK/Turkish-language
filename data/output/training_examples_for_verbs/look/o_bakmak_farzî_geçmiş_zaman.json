@@ -4,17 +4,19 @@
   "verb_russian": "смотреть",
   "verb_infinitive": "bakmak",
   "turkish_verb": {
-    "verb_full": "bakmışsa",
+    "verb_full": "bakmış olsaydı",
     "root": "bak",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "ydı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If he had looked at the sky,",
-  "russian_example_sentence": "Если бы он посмотрел на небо",
-  "turkish_example_sentence": "O gece gökyüzüne bakmışsa, yıldızları görmüş olurdu",
-  "turkish_example_sentence_with_blank": "O gece gökyüzüne ______, yıldızları görmüş olurdu"
+  "turkish_example_sentence": "O kırık aynanın arkasına cesaretle bakmış olsaydı, gizli hazine haritasını bulurdu",
+  "english_example_sentence": "If he had looked behind the broken mirror bravely, he would have found the secret treasure map",
+  "russian_example_sentence": "Если бы он посмотрел за разбитое зеркало смело, он бы нашел секретную карту сокровищ",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:58:30.379575+00:00",
+  "turkish_example_sentence_with_blank": "O kırık aynanın arkasına cesaretle ______, gizli hazine haritasını bulurdu"
 }

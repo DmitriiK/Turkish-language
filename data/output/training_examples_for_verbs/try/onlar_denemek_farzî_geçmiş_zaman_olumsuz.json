@@ -4,17 +4,19 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "denememişlerse",
+    "verb_full": "denememiş olsalardı",
     "root": "dene",
-    "tense_affix": "mişlerse",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": null,
+    "personal_affix": "lardı",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If they hadn't tried the complicated dance...",
-  "russian_example_sentence": "Если бы они не попробовали сложный танец...",
-  "turkish_example_sentence": "Onlar karmaşık dansı denememişlerse, yorulmazlardı.",
-  "turkish_example_sentence_with_blank": "Onlar karmaşık dansı ______, yorulmazlardı."
+  "turkish_example_sentence": "Onlar riskli yatırım planını denememiş olsalardı, büyük mali kayıplar yaşamazlardı şimdi",
+  "english_example_sentence": "If they hadn't tried the risky investment plan, they wouldn't be experiencing big financial losses now",
+  "russian_example_sentence": "Если бы они не попробовали рискованный инвестиционный план, они не испытывали бы больших финансовых потерь сейчас",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:03:43.513575+00:00",
+  "turkish_example_sentence_with_blank": "Onlar riskli yatırım planını ______, büyük mali kayıplar yaşamazlardı şimdi"
 }

@@ -4,19 +4,19 @@
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmuşsam",
+    "verb_full": "olmuş olsaydım",
     "root": "ol",
-    "tense_affix": "muş",
+    "tense_affix": "muş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ydım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Ben erken saatte hazır olmuşsam, toplantıya katılabilirdim.",
-  "english_example_sentence": "If I had been ready at an early hour, I could have attended the meeting.",
-  "russian_example_sentence": "Если бы я был готов в ранний час, я мог бы присутствовать на встречу.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-08T06:54:49.641174+00:00",
-  "turkish_example_sentence_with_blank": "Ben erken saatte hazır ______, toplantıya katılabilirdim."
+  "turkish_example_sentence": "Ben o güzel konferansta hazır olmuş olsaydım, ünlü profesörü dinlerdim",
+  "english_example_sentence": "If I had been ready at that beautiful conference, I would have listened to the famous professor",
+  "russian_example_sentence": "Если бы я был готов на той прекрасной конференции, я бы послушал знаменитого профессора",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:48:49.851584+00:00",
+  "turkish_example_sentence_with_blank": "Ben o güzel konferansta hazır ______, ünlü profesörü dinlerdim"
 }

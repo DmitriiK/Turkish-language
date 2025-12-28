@@ -4,19 +4,19 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulamamışsam",
+    "verb_full": "bulmamış olsaydım",
     "root": "bul",
-    "tense_affix": "muş",
+    "tense_affix": "mamış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ydım",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Ben kütüphanede önemli belgeyi bulamamışsam, araştırma başarısız olurdu.",
-  "english_example_sentence": "If I had not found the important document in the library, the research would have failed.",
-  "russian_example_sentence": "Если бы я не нашел важный документ в библиотеке, исследование бы провалилось.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:36:55.470944+00:00",
-  "turkish_example_sentence_with_blank": "Ben kütüphanede önemli belgeyi ______, araştırma başarısız olurdu."
+  "turkish_example_sentence": "Ben eski haritayı bulmamış olsaydım, gizli hazineye asla ulaşamazdık",
+  "english_example_sentence": "If I had not found the old map, we could never have reached the hidden treasure",
+  "russian_example_sentence": "Если бы я не нашёл старую карту, мы бы никогда не добрались до спрятанного сокровища",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:00:00.346094+00:00",
+  "turkish_example_sentence_with_blank": "Ben eski haritayı ______, gizli hazineye asla ulaşamazdık"
 }

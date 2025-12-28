@@ -4,17 +4,19 @@
   "verb_russian": "держать",
   "verb_infinitive": "tutmak",
   "turkish_verb": {
-    "verb_full": "tutmamışsa",
+    "verb_full": "tutmamış olsaydı",
     "root": "tut",
-    "tense_affix": "mışsa",
+    "tense_affix": "mamış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "ydı",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If she hadn't kept the money.",
-  "russian_example_sentence": "Если бы она не держала деньги.",
-  "turkish_example_sentence": "O bütün parayı tutmamışsa, şimdi borçlu kalmazdık.",
-  "turkish_example_sentence_with_blank": "O bütün parayı ______, şimdi borçlu kalmazdık."
+  "turkish_example_sentence": "O yabancı konukları sıcak salonda uzun süre tutmamış olsaydı, rahatsız olmazlardı",
+  "english_example_sentence": "If she hadn't kept the foreign guests in the hot living room for a long time, they wouldn't have been uncomfortable",
+  "russian_example_sentence": "Если бы она не держала иностранных гостей в жаркой гостиной долгое время, им бы не было неудобно",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:09:46.440340+00:00",
+  "turkish_example_sentence_with_blank": "O yabancı konukları sıcak salonda uzun süre ______, rahatsız olmazlardı"
 }

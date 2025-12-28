@@ -4,19 +4,19 @@
   "verb_russian": "работать",
   "verb_infinitive": "çalışmak",
   "turkish_verb": {
-    "verb_full": "çalışmamışsanız",
+    "verb_full": "çalışmamış olsaydınız",
     "root": "çalış",
-    "tense_affix": "mışsa",
+    "tense_affix": "mamış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "ydınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Siz şubat ayında bu özel eğitim programında çalışmamışsanız, yeni beceriler kazanmamış olurdunuz.",
-  "english_example_sentence": "If you had not worked on this special training program in February, you would not have acquired new skills.",
-  "russian_example_sentence": "Если бы вы не работали над этой специальной программой обучения в феврале, вы бы не приобрели новые навыки.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:56:53.426849+00:00",
-  "turkish_example_sentence_with_blank": "Siz şubat ayında bu özel eğitim programında ______, yeni beceriler kazanmamış olurdunuz."
+  "turkish_example_sentence": "Siz geçen hafta gürültülü gece kulübünde çalışmamış olsaydınız, şimdi sakin dinlenmiş hissederdiniz",
+  "english_example_sentence": "If you had not worked at the noisy night club last week, you would feel calm and rested now",
+  "russian_example_sentence": "Если бы вы не работали в шумном ночном клубе на прошлой неделе, вы бы чувствовали себя спокойно и отдохнувшими сейчас",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:02:15.050258+00:00",
+  "turkish_example_sentence_with_blank": "Siz geçen hafta gürültülü gece kulübünde ______, şimdi sakin dinlenmiş hissederdiniz"
 }

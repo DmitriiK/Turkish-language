@@ -4,17 +4,19 @@
   "verb_russian": "нуждаться",
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
-    "verb_full": "ihtiyaç duymamışsak",
+    "verb_full": "ihtiyaç duymamış olsaydık",
     "root": "ihtiyaç duy",
-    "tense_affix": "mamışsak",
+    "tense_affix": "mamış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ydık",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If we hadn't needed a larger family car",
-  "russian_example_sentence": "Если бы нам не нужна была большая семейная машина",
-  "turkish_example_sentence": "Biz daha büyük bir aile arabasına ihtiyaç duymamışsak, bu kadar para harcamazdık.",
-  "turkish_example_sentence_with_blank": "Biz daha büyük bir aile arabasına ______, bu kadar para harcamazdık."
+  "turkish_example_sentence": "Biz dış yatırıma ihtiyaç duymamış olsaydık, şirket kârını ortaklarla paylaşmazdık",
+  "english_example_sentence": "If we hadn't needed external investment, we wouldn't have shared the company profit with partners",
+  "russian_example_sentence": "Если бы нам не нужны были внешние инвестиции, мы бы не делились прибылью компании с партнерами",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:05:15.894758+00:00",
+  "turkish_example_sentence_with_blank": "Biz dış yatırıma ______, şirket kârını ortaklarla paylaşmazdık"
 }

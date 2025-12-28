@@ -4,17 +4,19 @@
   "verb_russian": "приходить",
   "verb_infinitive": "gelmek",
   "turkish_verb": {
-    "verb_full": "gelmişlerse",
+    "verb_full": "gelmiş olsalardı",
     "root": "gel",
-    "tense_affix": "mişlerse",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "lardı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they had come, they knew",
-  "russian_example_sentence": "Если бы они пришли, они бы знали",
-  "turkish_example_sentence": "Onlar gelmişlerse, gizli bilgileri öğrenmişlerdir kesin",
-  "turkish_example_sentence_with_blank": "Onlar ______, gizli bilgileri öğrenmişlerdir kesin"
+  "turkish_example_sentence": "Onlar yaz tatilinde sıcak Akdeniz kıyısına gelmiş olsalardı, berrak mavi suda yüzme keyfi yaşayabilirlerdi",
+  "english_example_sentence": "If they had come to the warm Mediterranean coast during summer vacation, they could have experienced the joy of swimming in clear blue water",
+  "russian_example_sentence": "Если бы они приехали на тёплое средиземноморское побережье во время летних каникул, они могли бы испытать радость плавания в прозрачной голубой воде",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:56:53.863233+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yaz tatilinde sıcak Akdeniz kıyısına ______, berrak mavi suda yüzme keyfi yaşayabilirlerdi"
 }

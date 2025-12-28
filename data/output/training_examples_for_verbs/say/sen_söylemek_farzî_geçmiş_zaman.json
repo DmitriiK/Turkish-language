@@ -4,19 +4,19 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylemişsen",
+    "verb_full": "söylemiş olsaydın",
     "root": "söyle",
-    "tense_affix": "miş",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "ydın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Sen o kızıl çiçekli bahçede güzel sözler söylemişsen, hepimiz mutlu olurduk.",
-  "english_example_sentence": "If you had said beautiful words in that red flower garden, we would all have been happy.",
-  "russian_example_sentence": "Если бы ты сказал красивые слова в том саду с красными цветами, мы все были бы счастливы.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-08T08:19:16.838159+00:00",
-  "turkish_example_sentence_with_blank": "Sen o kızıl çiçekli bahçede güzel sözler ______, hepimiz mutlu olurduk."
+  "turkish_example_sentence": "Sen önemli haberi komşulara dün akşam söylemiş olsaydın herkes hazırlanırdı",
+  "english_example_sentence": "If you had said the important news to the neighbors yesterday evening everyone would have prepared",
+  "russian_example_sentence": "Если бы ты сказал важные новости соседям вчера вечером, все бы подготовились",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:51:02.876681+00:00",
+  "turkish_example_sentence_with_blank": "Sen önemli haberi komşulara dün akşam ______ herkes hazırlanırdı"
 }

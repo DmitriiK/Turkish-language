@@ -4,17 +4,19 @@
   "verb_russian": "держать",
   "verb_infinitive": "tutmak",
   "turkish_verb": {
-    "verb_full": "tutmuşsa",
+    "verb_full": "tutmuş olsaydı",
     "root": "tut",
-    "tense_affix": "muşsa",
+    "tense_affix": "muş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "ydı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If he had kept the appointment.",
-  "russian_example_sentence": "Если бы он сдержал встречу.",
-  "turkish_example_sentence": "O önemli randevuyu tutmuşsa, terfi alabilirdi.",
-  "turkish_example_sentence_with_blank": "O önemli randevuyu ______, terfi alabilirdi."
+  "turkish_example_sentence": "O taze sebzeleri soğuk buzdolabında düzgün tutmuş olsaydı, bozulmazlardı",
+  "english_example_sentence": "If he had kept the fresh vegetables properly in the cold refrigerator, they wouldn't have spoiled",
+  "russian_example_sentence": "Если бы он держал свежие овощи правильно в холодном холодильнике, они бы не испортились",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:09:46.440340+00:00",
+  "turkish_example_sentence_with_blank": "O taze sebzeleri soğuk buzdolabında düzgün ______, bozulmazlardı"
 }

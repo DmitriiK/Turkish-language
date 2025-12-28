@@ -4,19 +4,19 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almamışsa",
+    "verb_full": "almamış olsaydı",
     "root": "al",
-    "tense_affix": "mışsa",
+    "tense_affix": "mamış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "ydı",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "O gece uyku ilacını almamışsa, sabah çok yorgun uyanırdı.",
-  "english_example_sentence": "If she had not taken the sleeping medicine at night, she would have woken up very tired in the morning.",
-  "russian_example_sentence": "Если бы она не взяла снотворное ночью, она бы проснулась очень уставшей утром.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-15T12:34:43.867715+00:00",
-  "turkish_example_sentence_with_blank": "O gece uyku ilacını ______, sabah çok yorgun uyanırdı."
+  "turkish_example_sentence": "O yeni beyaz bilgisayarı almamış olsaydı daha fazla para biriktirirdi",
+  "english_example_sentence": "If she had not taken that new white computer, she would have saved more money",
+  "russian_example_sentence": "Если бы она не взяла тот новый белый компьютер, она бы накопила больше денег",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:55:16.643558+00:00",
+  "turkish_example_sentence_with_blank": "O yeni beyaz bilgisayarı ______ daha fazla para biriktirirdi"
 }

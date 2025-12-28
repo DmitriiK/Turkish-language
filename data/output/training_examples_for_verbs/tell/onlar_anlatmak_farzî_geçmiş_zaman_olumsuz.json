@@ -4,19 +4,19 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatmamışlarsa",
+    "verb_full": "anlatmamış olsalardı",
     "root": "anlat",
-    "tense_affix": "mış",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "lardı",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Eğer onlar bu özel anıyı hiç anlatmamışlarsa, gizli kalıp kalmış olurdu.",
-  "english_example_sentence": "If they had not told this special memory at all, it would have remained secret.",
-  "russian_example_sentence": "Если бы они вообще не рассказали об этом особом воспоминании, оно бы осталось тайной.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:42:43.841974+00:00",
-  "turkish_example_sentence_with_blank": "Eğer onlar bu özel anıyı hiç ______, gizli kalıp kalmış olurdu."
+  "turkish_example_sentence": "Onlar özel şirket sırlarını anlatmamış olsalardı işlerini kaybetmezlerdi",
+  "english_example_sentence": "If they had not told the private company secrets, they would not have lost their jobs",
+  "russian_example_sentence": "Если бы они не рассказали секреты частной компании, они бы не потеряли работу",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:01:25.747423+00:00",
+  "turkish_example_sentence_with_blank": "Onlar özel şirket sırlarını ______ işlerini kaybetmezlerdi"
 }

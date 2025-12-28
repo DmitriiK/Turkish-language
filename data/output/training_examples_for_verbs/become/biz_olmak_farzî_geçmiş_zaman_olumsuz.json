@@ -4,17 +4,19 @@
   "verb_russian": "становиться",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmamışsak",
+    "verb_full": "olmamış olsaydık",
     "root": "ol",
-    "tense_affix": "mamışsa",
+    "tense_affix": "mamış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ydık",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If we hadn't become chefs...",
-  "russian_example_sentence": "Если бы мы не стали поварами...",
-  "turkish_example_sentence": "Biz aşçı olmamışsak, aç kalırdık.",
-  "turkish_example_sentence_with_blank": "Biz aşçı ______, aç kalırdık."
+  "turkish_example_sentence": "Biz yorgun olmamış olsaydık, uzun dağ yürüyüşüne devam ederdik",
+  "english_example_sentence": "If we had not become tired, we would have continued the long mountain hike",
+  "russian_example_sentence": "Если бы мы не устали, мы бы продолжили длинный горный поход",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:06:43.954960+00:00",
+  "turkish_example_sentence_with_blank": "Biz yorgun ______, uzun dağ yürüyüşüne devam ederdik"
 }

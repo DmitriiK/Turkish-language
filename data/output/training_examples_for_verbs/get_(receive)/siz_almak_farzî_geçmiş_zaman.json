@@ -4,17 +4,19 @@
   "verb_russian": "получать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almışsanız",
+    "verb_full": "almış olsaydınız",
     "root": "al",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "ydınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you had received that call, you would have told me.",
-  "russian_example_sentence": "Если бы вы получили тот звонок, вы бы мне сказали.",
-  "turkish_example_sentence": "Eğer o aramayı almışsanız, bana söylersiniz.",
-  "turkish_example_sentence_with_blank": "Eğer o aramayı ______, bana söylersiniz."
+  "turkish_example_sentence": "Siz doktor tavsiyesini almış olsaydınız, şimdi sağlıklı olurdunuz",
+  "english_example_sentence": "If you had gotten the doctor's advice, you would be healthy now",
+  "russian_example_sentence": "Если бы вы получили совет врача, вы были бы здоровы сейчас",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:52:25.840786+00:00",
+  "turkish_example_sentence_with_blank": "Siz doktor tavsiyesini ______, şimdi sağlıklı olurdunuz"
 }

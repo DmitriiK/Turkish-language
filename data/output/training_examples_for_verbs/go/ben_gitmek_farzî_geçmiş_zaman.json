@@ -4,19 +4,19 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gitmişsem",
+    "verb_full": "gitmiş olsaydım",
     "root": "git",
-    "tense_affix": "miş",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ydım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Ben dün akşam sinema salonuna gitmişsem, filmi görebilirdim.",
-  "english_example_sentence": "If I had gone to the cinema hall yesterday evening, I could have watched the film.",
-  "russian_example_sentence": "Если бы я пошел в кинотеатр вчера вечером, я бы смог посмотреть фильм.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-14T07:35:52.626469+00:00",
-  "turkish_example_sentence_with_blank": "Ben dün akşam sinema salonuna ______, filmi görebilirdim."
+  "turkish_example_sentence": "Ben dün akşam büyük konsere gitmiş olsaydım müthiş müziği dinlerdim",
+  "english_example_sentence": "If I had gone to the big concert last night, I would have listened to amazing music",
+  "russian_example_sentence": "Если бы я пошёл на большой концерт вчера вечером, я бы послушал потрясающую музыку",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:51:45.194884+00:00",
+  "turkish_example_sentence_with_blank": "Ben dün akşam büyük konsere ______ müthiş müziği dinlerdim"
 }

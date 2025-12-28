@@ -4,19 +4,19 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatmışsak",
+    "verb_full": "anlatmış olsaydık",
     "root": "anlat",
-    "tense_affix": "mış",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ydık",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Eğer biz bu uzun maceraya dair her şeyi anlatmışsak, dinleyiciler çok etkilenmiş olurdu.",
-  "english_example_sentence": "If we had told everything about this long adventure, the listeners would have been very impressed.",
-  "russian_example_sentence": "Если бы мы рассказали всё об этом долгом приключении, слушатели бы очень впечатлились.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:42:43.841974+00:00",
-  "turkish_example_sentence_with_blank": "Eğer biz bu uzun maceraya dair her şeyi ______, dinleyiciler çok etkilenmiş olurdu."
+  "turkish_example_sentence": "Biz yeni iş projesini anlatmış olsaydık müdür onaylardı",
+  "english_example_sentence": "If we had told the new business project, the manager would have approved",
+  "russian_example_sentence": "Если бы мы рассказали о новом бизнес-проекте, менеджер бы одобрил",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:01:25.747423+00:00",
+  "turkish_example_sentence_with_blank": "Biz yeni iş projesini ______ müdür onaylardı"
 }

@@ -4,19 +4,19 @@
   "verb_russian": "спрашивать",
   "verb_infinitive": "sormak",
   "turkish_verb": {
-    "verb_full": "sormuşsan",
+    "verb_full": "sormuş olsaydın",
     "root": "sor",
-    "tense_affix": "muşsa",
+    "tense_affix": "muş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "ydın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Sen arkadaşına yeni iş fırsatı hakkında sormuşsan, o sana detay verebilirdi.",
-  "english_example_sentence": "If you had asked your friend about the new job opportunity, he could have given you details.",
-  "russian_example_sentence": "Если бы ты спросил своего друга о новой возможности работы, он бы мог дать тебе подробности.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:48:25.856154+00:00",
-  "turkish_example_sentence_with_blank": "Sen arkadaşına yeni iş fırsatı hakkında ______, o sana detay verebilirdi."
+  "turkish_example_sentence": "Sen deneyimli doktora tedavi seçeneklerini sormuş olsaydın, hastalığın daha erken iyileşirdi",
+  "english_example_sentence": "If you had asked the experienced doctor about treatment options, your illness would have healed earlier",
+  "russian_example_sentence": "Если бы ты спросил опытного врача о вариантах лечения, твоя болезнь вылечилась бы раньше",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:04:31.751875+00:00",
+  "turkish_example_sentence_with_blank": "Sen deneyimli doktora tedavi seçeneklerini ______, hastalığın daha erken iyileşirdi"
 }

@@ -4,17 +4,19 @@
   "verb_russian": "значить",
   "verb_infinitive": "demek",
   "turkish_verb": {
-    "verb_full": "demişlerse",
+    "verb_full": "demiş olsalardı",
     "root": "de",
-    "tense_affix": "mişse",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lerse",
+    "personal_affix": "lardı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If they had meant well initially",
-  "russian_example_sentence": "Если бы они изначально хотели как лучше",
-  "turkish_example_sentence": "Onlar başlangıçta iyilik yapmayı istemişlerse, sonuç neden böyle oldu?",
-  "turkish_example_sentence_with_blank": "Onlar başlangıçta iyilik yapmayı istemişlerse, sonuç neden böyle oldu?"
+  "turkish_example_sentence": "Onlar samimi özürlerini arkadaşlarına demiş olsalardı kavga bitmişti",
+  "english_example_sentence": "If they had said their sincere apologies to their friends, the fight would have ended",
+  "russian_example_sentence": "Если бы они сказали свои искренние извинения своим друзьям, ссора бы закончилась",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:08:58.515837+00:00",
+  "turkish_example_sentence_with_blank": "Onlar samimi özürlerini arkadaşlarına ______ kavga bitmişti"
 }

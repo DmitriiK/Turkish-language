@@ -4,19 +4,19 @@
   "verb_russian": "работать",
   "verb_infinitive": "çalışmak",
   "turkish_verb": {
-    "verb_full": "çalışmamışlarsa",
+    "verb_full": "çalışmamış olsalardı",
     "root": "çalış",
-    "tense_affix": "mışsa",
+    "tense_affix": "mamış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "lardı",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Onlar eylül ayında bu kritik yazılım geliştirme görevinde çalışmamışlarsa, ürün piyasaya hiç çıkmamış olurdu.",
-  "english_example_sentence": "If they had not worked on this critical software development task in September, the product would never have reached the market.",
-  "russian_example_sentence": "Если бы они не работали над этой критической задачей разработки программного обеспечения в сентябре, продукт бы никогда не вышел на рынок.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:56:53.426849+00:00",
-  "turkish_example_sentence_with_blank": "Onlar eylül ayında bu kritik yazılım geliştirme görevinde ______, ürün piyasaya hiç çıkmamış olurdu."
+  "turkish_example_sentence": "Onlar sonbaharda tehlikeli maden ocağında çalışmamış olsalardı, şimdi sağlam güvenli yaşam sürerlerdi",
+  "english_example_sentence": "If they had not worked in the dangerous mine pit in autumn, they would be living a solid safe life now",
+  "russian_example_sentence": "Если бы они не работали на опасной шахте осенью, они бы жили надежной безопасной жизнью сейчас",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:02:15.050258+00:00",
+  "turkish_example_sentence_with_blank": "Onlar sonbaharda tehlikeli maden ocağında ______, şimdi sağlam güvenli yaşam sürerlerdi"
 }

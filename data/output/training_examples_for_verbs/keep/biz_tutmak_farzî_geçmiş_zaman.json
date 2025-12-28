@@ -4,17 +4,19 @@
   "verb_russian": "держать",
   "verb_infinitive": "tutmak",
   "turkish_verb": {
-    "verb_full": "tutmuşsak",
+    "verb_full": "tutmuş olsaydık",
     "root": "tut",
-    "tense_affix": "muşsa",
+    "tense_affix": "muş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ydık",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If we had kept quiet yesterday.",
-  "russian_example_sentence": "Если бы мы вчера молчали.",
-  "turkish_example_sentence": "Biz dün sessiz kalmışsak, kavga çıkmazdı.",
-  "turkish_example_sentence_with_blank": "Biz dün sessiz kalmışsak, kavga çıkmazdı."
+  "turkish_example_sentence": "Biz önemli toplantı notlarını güvenli kasada tutmuş olsaydık, çalınmazlardı",
+  "english_example_sentence": "If we had kept the important meeting notes in the safe vault, they wouldn't have been stolen",
+  "russian_example_sentence": "Если бы мы держали важные записи совещания в безопасном сейфе, их бы не украли",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:09:46.440340+00:00",
+  "turkish_example_sentence_with_blank": "Biz önemli toplantı notlarını güvenli kasada ______, çalınmazlardı"
 }

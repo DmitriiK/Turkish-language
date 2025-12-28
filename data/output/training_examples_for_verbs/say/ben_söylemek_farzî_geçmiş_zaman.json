@@ -4,19 +4,19 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylemişsem",
+    "verb_full": "söylemiş olsaydım",
     "root": "söyle",
-    "tense_affix": "miş",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ydım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Ben dün gece önemli sözleri söylemişsem, çok pişman olurdum.",
-  "english_example_sentence": "If I had said important words last night, I would have been very sorry.",
-  "russian_example_sentence": "Если бы я сказал важные слова вчера ночью, я бы очень сожалел.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-08T08:19:16.838159+00:00",
-  "turkish_example_sentence_with_blank": "Ben dün gece önemli sözleri ______, çok pişman olurdum."
+  "turkish_example_sentence": "Ben gerçeği patronuma daha erken söylemiş olsaydım işimi kaybetmezdim",
+  "english_example_sentence": "If I had said the truth to my boss earlier I wouldn't have lost my job",
+  "russian_example_sentence": "Если бы я сказал правду своему начальнику раньше, я бы не потерял работу",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:51:02.876681+00:00",
+  "turkish_example_sentence_with_blank": "Ben gerçeği patronuma daha erken ______ işimi kaybetmezdim"
 }

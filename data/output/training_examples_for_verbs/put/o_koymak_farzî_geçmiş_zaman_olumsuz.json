@@ -4,17 +4,19 @@
   "verb_russian": "класть",
   "verb_infinitive": "koymak",
   "turkish_verb": {
-    "verb_full": "koymamışsa",
+    "verb_full": "koymamış olsaydı",
     "root": "koy",
-    "tense_affix": "mamışsa",
+    "tense_affix": "muş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "ydı",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If she hadn't put her glasses there.",
-  "russian_example_sentence": "Если бы она не положила очки туда.",
-  "turkish_example_sentence": "Gözlüklerini oraya koymamışsa, kesinlikle kaybolmuştur.",
-  "turkish_example_sentence_with_blank": "Gözlüklerini oraya ______, kesinlikle kaybolmuştur."
+  "turkish_example_sentence": "O tuzlu balığı beyaz buzdolabına koymamış olsaydı, bozulmuş olurdu",
+  "english_example_sentence": "If he/she hadn't put the salted fish in the white refrigerator, it would have spoiled",
+  "russian_example_sentence": "Если бы он/она не положил(а) соленую рыбу в белый холодильник, она бы испортилась",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:08:15.996155+00:00",
+  "turkish_example_sentence_with_blank": "O tuzlu balığı beyaz buzdolabına ______, bozulmuş olurdu"
 }

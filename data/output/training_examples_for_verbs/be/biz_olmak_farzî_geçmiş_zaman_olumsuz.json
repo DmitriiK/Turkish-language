@@ -4,19 +4,19 @@
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmamışsak",
+    "verb_full": "olmamış olsaydık",
     "root": "ol",
-    "tense_affix": "muş",
+    "tense_affix": "muş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ydık",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Biz orada olmamışsak, o kötü durumdan kurtulmuş olurduk.",
-  "english_example_sentence": "If we had not been there, we would have escaped that bad situation.",
-  "russian_example_sentence": "Если бы мы не были там, мы бы избежали той плохой ситуации.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-08T06:54:49.641174+00:00",
-  "turkish_example_sentence_with_blank": "Biz orada ______, o kötü durumdan kurtulmuş olurduk."
+  "turkish_example_sentence": "Biz dün gece o gürültülü partideki olmamış olsaydık, bugün yorgun hissetmezdik",
+  "english_example_sentence": "If we had not been at that noisy party last night, we would not feel tired today",
+  "russian_example_sentence": "Если бы мы не были на той шумной вечеринке прошлой ночью, мы бы не чувствовали себя уставшими сегодня",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:48:49.851584+00:00",
+  "turkish_example_sentence_with_blank": "Biz dün gece o gürültülü partideki ______, bugün yorgun hissetmezdik"
 }

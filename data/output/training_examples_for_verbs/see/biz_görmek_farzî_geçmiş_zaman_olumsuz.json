@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "görmemiş olsaydık",
     "root": "gör",
-    "tense_affix": "müş",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ydık",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Biz o ünlü ressam Picasso'nun eserlerini müzede görmemiş olsaydık, sanat hakkında çok şey kaybederdik.",
-  "english_example_sentence": "If we had not seen the famous painter Picasso's works in the museum, we would have missed a lot about art.",
-  "russian_example_sentence": "Если бы мы не видели произведения знаменитого художника Пикассо в музее, мы бы многое потеряли об искусстве.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T12:36:36.226630+00:00",
-  "turkish_example_sentence_with_blank": "Biz o ünlü ressam Picasso'nun eserlerini müzede ______, sanat hakkında çok şey kaybederdik."
+  "turkish_example_sentence": "Biz hava durumu raporunu televizyonda görmemiş olsaydık yağmurda ıslanırdık",
+  "english_example_sentence": "If we had not seen the weather forecast on television, we would have gotten wet in the rain",
+  "russian_example_sentence": "Если бы мы не видели прогноз погоды по телевизору, мы бы промокли под дождем",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:55:59.798662+00:00",
+  "turkish_example_sentence_with_blank": "Biz hava durumu raporunu televizyonda ______ yağmurda ıslanırdık"
 }

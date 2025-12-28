@@ -4,19 +4,19 @@
   "verb_russian": "хотеть",
   "verb_infinitive": "istemek",
   "turkish_verb": {
-    "verb_full": "istememişolsalar",
+    "verb_full": "istememiş olsalardı",
     "root": "iste",
-    "tense_affix": "miş",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "lardı",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Onlar o sıkıcı akademik konferansı istememişolsalar, katılmazlardı.",
-  "english_example_sentence": "If they had not wanted that boring academic conference, they would not have attended.",
-  "russian_example_sentence": "Если бы они не хотели то скучную академическую конференцию, они бы не участвовали.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T11:51:43.434169+00:00",
-  "turkish_example_sentence_with_blank": "Onlar o sıkıcı akademik konferansı ______, katılmazlardı."
+  "turkish_example_sentence": "Onlar hızlı kırmızı motosikleti istememiş olsalardı, güvenli aile arabasını tercih ederlerdi",
+  "english_example_sentence": "If they had not wanted the fast red motorcycle, they would have preferred the safe family car",
+  "russian_example_sentence": "Если бы они не хотели быстрый красный мотоцикл, они бы предпочли безопасный семейный автомобиль",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:57:40.635639+00:00",
+  "turkish_example_sentence_with_blank": "Onlar hızlı kırmızı motosikleti ______, güvenli aile arabasını tercih ederlerdi"
 }

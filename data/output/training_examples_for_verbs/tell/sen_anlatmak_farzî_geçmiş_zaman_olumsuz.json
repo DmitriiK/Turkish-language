@@ -4,19 +4,19 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatmamışsan",
+    "verb_full": "anlatmamış olsaydın",
     "root": "anlat",
-    "tense_affix": "mış",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "ydın",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Eğer sen bu gizli sırrı kimseye anlatmamışsan, sorun çıkmamış olurdu.",
-  "english_example_sentence": "If you had not told this secret to anyone, there would have been no problem.",
-  "russian_example_sentence": "Если бы ты не рассказал этот секрет никому, проблем бы не было.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:42:43.841974+00:00",
-  "turkish_example_sentence_with_blank": "Eğer sen bu gizli sırrı kimseye ______, sorun çıkmamış olurdu."
+  "turkish_example_sentence": "Sen korkunç kaza haberini anlatmamış olsaydın kimse endişelenmezdi",
+  "english_example_sentence": "If you had not told the terrible accident news, no one would have worried",
+  "russian_example_sentence": "Если бы ты не рассказал ужасную новость об аварии, никто бы не беспокоился",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:01:25.747423+00:00",
+  "turkish_example_sentence_with_blank": "Sen korkunç kaza haberini ______ kimse endişelenmezdi"
 }

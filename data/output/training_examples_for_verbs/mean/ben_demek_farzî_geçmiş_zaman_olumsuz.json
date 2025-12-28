@@ -4,17 +4,19 @@
   "verb_russian": "значить",
   "verb_infinitive": "demek",
   "turkish_verb": {
-    "verb_full": "dememişsem",
+    "verb_full": "dememiş olsaydım",
     "root": "de",
-    "tense_affix": "mişse",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ydım",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If I hadn't meant what I said",
-  "russian_example_sentence": "Если бы я не имел в виду то, что сказал",
-  "turkish_example_sentence": "Ben söylediklerimi dememişsem, her şeyi geri alırım",
-  "turkish_example_sentence_with_blank": "Ben söylediklerimi ______, her şeyi geri alırım"
+  "turkish_example_sentence": "Ben o kırıcı sözleri patronuma dememiş olsaydım işimi kaybetmezdim",
+  "english_example_sentence": "If I had not said those hurtful words to my boss, I would not have lost my job",
+  "russian_example_sentence": "Если бы я не сказал те обидные слова своему начальнику, я бы не потерял работу",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:08:58.515837+00:00",
+  "turkish_example_sentence_with_blank": "Ben o kırıcı sözleri patronuma ______ işimi kaybetmezdim"
 }

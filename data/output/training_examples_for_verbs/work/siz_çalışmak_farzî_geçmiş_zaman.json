@@ -4,19 +4,19 @@
   "verb_russian": "работать",
   "verb_infinitive": "çalışmak",
   "turkish_verb": {
-    "verb_full": "çalışmışsanız",
+    "verb_full": "çalışmış olsaydınız",
     "root": "çalış",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "ydınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Siz temmuz ayında bu yoğun pazarlama kampanyasında çalışmışsanız, şirket çok başarılı olmuş olurdu.",
-  "english_example_sentence": "If you had worked on this intensive marketing campaign in July, the company would have been very successful.",
-  "russian_example_sentence": "Если бы вы работали над этой интенсивной маркетинговой кампанией в июле, компания была бы очень успешна.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:56:53.426849+00:00",
-  "turkish_example_sentence_with_blank": "Siz temmuz ayında bu yoğun pazarlama kampanyasında ______, şirket çok başarılı olmuş olurdu."
+  "turkish_example_sentence": "Siz ilkbaharda güzel çiçek bahçesinde çalışmış olsaydınız, harika doğa fotoğrafları çekerdiniz",
+  "english_example_sentence": "If you had worked in the beautiful flower garden in spring, you would have taken wonderful nature photographs",
+  "russian_example_sentence": "Если бы вы работали в красивом цветочном саду весной, вы бы сделали замечательные фотографии природы",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:02:15.050258+00:00",
+  "turkish_example_sentence_with_blank": "Siz ilkbaharda güzel çiçek bahçesinde ______, harika doğa fotoğrafları çekerdiniz"
 }

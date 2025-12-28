@@ -4,19 +4,19 @@
   "verb_russian": "чувствовать",
   "verb_infinitive": "hissetmek",
   "turkish_verb": {
-    "verb_full": "hissetmemişseniz",
+    "verb_full": "hissetmemiş olsaydınız",
     "root": "hisset",
-    "tense_affix": "miş",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "seniz",
+    "personal_affix": "ydınız",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Siz o tatlı yorgunluğu hissetmemişseniz, dinlenmeye ihtiyacınız yoktu.",
-  "english_example_sentence": "If you had not felt that sweet tiredness, you wouldn't have needed rest.",
-  "russian_example_sentence": "Если бы вы не почувствовали ту приятную усталость, вам не нужен был бы отдых.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-12T15:07:57.119239+00:00",
-  "turkish_example_sentence_with_blank": "Siz o tatlı yorgunluğu ______, dinlenmeye ihtiyacınız yoktu."
+  "turkish_example_sentence": "Siz o yumuşak ipek kumaşı parmaklarınızda hissetmemiş olsaydınız elbiseyi satın almazdınız",
+  "english_example_sentence": "If you hadn't felt that soft silk fabric on your fingers, you wouldn't have bought the dress",
+  "russian_example_sentence": "Если бы вы не почувствовали ту мягкую шелковую ткань на своих пальцах, вы бы не купили платье",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:06:01.252545+00:00",
+  "turkish_example_sentence_with_blank": "Siz o yumuşak ipek kumaşı parmaklarınızda ______ elbiseyi satın almazdınız"
 }

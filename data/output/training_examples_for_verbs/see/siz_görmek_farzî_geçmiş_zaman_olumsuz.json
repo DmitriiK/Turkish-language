@@ -6,17 +6,17 @@
   "turkish_verb": {
     "verb_full": "görmemiş olsaydınız",
     "root": "gör",
-    "tense_affix": "müş",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "ydınız",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Siz o inanılmaz turuncu gün batımını sahilde görmemiş olsaydınız, romantik anı kaçırırdınız.",
-  "english_example_sentence": "If you had not seen that incredible orange sunset on the beach, you would have missed the romantic moment.",
-  "russian_example_sentence": "Если бы вы не видели тот невероятный оранжевый закат на пляже, вы бы пропустили романтический момент.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T12:36:36.226630+00:00",
-  "turkish_example_sentence_with_blank": "Siz o inanılmaz turuncu gün batımını sahilde ______, romantik anı kaçırırdınız."
+  "turkish_example_sentence": "Siz beyaz otobüsü durakta görmemiş olsaydınız işe geç kalırdınız",
+  "english_example_sentence": "If you had not seen the white bus at the stop, you would have been late for work",
+  "russian_example_sentence": "Если бы вы не видели белый автобус на остановке, вы бы опоздали на работу",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:55:59.798662+00:00",
+  "turkish_example_sentence_with_blank": "Siz beyaz otobüsü durakta ______ işe geç kalırdınız"
 }

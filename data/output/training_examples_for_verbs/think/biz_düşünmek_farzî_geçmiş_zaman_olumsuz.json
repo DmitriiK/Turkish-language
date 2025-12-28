@@ -4,19 +4,19 @@
   "verb_russian": "думать",
   "verb_infinitive": "düşünmek",
   "turkish_verb": {
-    "verb_full": "düşünmemişsek",
+    "verb_full": "düşünmemiş olsaydık",
     "root": "düşün",
-    "tense_affix": "müş",
+    "tense_affix": "me",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "miş olsaydık",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Biz bu yeni teknolojinin faydalarını düşünmemişsek, eski yöntemlere bağlı kalmışız.",
-  "english_example_sentence": "If we had not thought about the benefits of this new technology, we would have stuck to old methods.",
-  "russian_example_sentence": "Если бы мы не подумали о преимуществах этой новой технологии, мы бы остались верны старым методам.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-15T12:15:25.718821+00:00",
-  "turkish_example_sentence_with_blank": "Biz bu yeni teknolojinin faydalarını ______, eski yöntemlere bağlı kalmışız."
+  "turkish_example_sentence": "Biz finansal riskleri düşünmemiş olsaydık şirket iflas ederdi",
+  "english_example_sentence": "If we had not thought about the financial risks, the company would have gone bankrupt",
+  "russian_example_sentence": "Если бы мы не подумали о финансовых рисках, компания обанкротилась бы",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:54:34.077710+00:00",
+  "turkish_example_sentence_with_blank": "Biz finansal riskleri ______ şirket iflas ederdi"
 }

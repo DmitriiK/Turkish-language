@@ -4,17 +4,19 @@
   "verb_russian": "держать",
   "verb_infinitive": "tutmak",
   "turkish_verb": {
-    "verb_full": "tutmamışsanız",
+    "verb_full": "tutmamış olsaydınız",
     "root": "tut",
-    "tense_affix": "mışsa",
+    "tense_affix": "mamış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "ydınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If you hadn't kept the umbrella.",
-  "russian_example_sentence": "Если бы вы не держали зонтик.",
-  "turkish_example_sentence": "Siz o kırık şemsiyeyi tutmamışsanız, yenisini alabilirdiniz.",
-  "turkish_example_sentence_with_blank": "Siz o kırık şemsiyeyi ______, yenisini alabilirdiniz."
+  "turkish_example_sentence": "Siz lezzetli pastayı açık mutfak tezgahında tutmamış olsaydınız, kediler yemezdi",
+  "english_example_sentence": "If you hadn't kept the delicious cake on the open kitchen counter, the cats wouldn't have eaten it",
+  "russian_example_sentence": "Если бы вы не держали вкусный торт на открытой кухонной столешнице, коты бы его не съели",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:09:46.440340+00:00",
+  "turkish_example_sentence_with_blank": "Siz lezzetli pastayı açık mutfak tezgahında ______, kediler yemezdi"
 }

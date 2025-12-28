@@ -4,19 +4,19 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olmamışsak",
+    "verb_full": "sahip olmamış olsaydık",
     "root": "sahip ol",
-    "tense_affix": "muş",
+    "tense_affix": "mamış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ydık",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Biz o eski tarihi binaya sahip olmamışsak, onu restore edemezdik.",
-  "english_example_sentence": "If we had not owned that old historical building, we could not have restored it.",
-  "russian_example_sentence": "Если бы мы не владели тем старым историческим зданием, мы не смогли бы его восстановить.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-08T07:10:13.532795+00:00",
-  "turkish_example_sentence_with_blank": "Biz o eski tarihi binaya ______, onu restore edemezdik."
+  "turkish_example_sentence": "Biz o karmaşık mali sorunlara sahip olmamış olsaydık, yeni restoran açabilirdik",
+  "english_example_sentence": "If we had not had those complex financial problems, we could have opened a new restaurant",
+  "russian_example_sentence": "Если бы мы не имели те сложные финансовые проблемы, мы могли бы открыть новый ресторан",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:49:35.102102+00:00",
+  "turkish_example_sentence_with_blank": "Biz o karmaşık mali sorunlara ______, yeni restoran açabilirdik"
 }

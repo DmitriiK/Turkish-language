@@ -4,19 +4,19 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmamışsam",
+    "verb_full": "yapmamış olsaydım",
     "root": "yap",
-    "tense_affix": "mışsa",
+    "tense_affix": "mamış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ydım",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Ben gerekli ödevleri yapmamışsam, sınıfta kalırım.",
-  "english_example_sentence": "If I had not done the necessary homework, I would fail the class.",
-  "russian_example_sentence": "Если бы я не сделал необходимую домашнюю работу, я бы не прошел класс.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-14T07:22:00.994145+00:00",
-  "turkish_example_sentence_with_blank": "Ben gerekli ödevleri ______, sınıfta kalırım."
+  "turkish_example_sentence": "Ben büyük hatayı yapmamış olsaydım, şimdi rahat uyuyabilirdim",
+  "english_example_sentence": "If I had not made the big mistake, I could sleep peacefully now",
+  "russian_example_sentence": "Если бы я не сделал большую ошибку, я мог бы спать спокойно сейчас",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:50:17.289009+00:00",
+  "turkish_example_sentence_with_blank": "Ben büyük hatayı ______, şimdi rahat uyuyabilirdim"
 }

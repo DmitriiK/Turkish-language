@@ -4,19 +4,19 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmamışsam",
+    "verb_full": "yapmamış olsaydım",
     "root": "yap",
-    "tense_affix": "mış",
+    "tense_affix": "mamış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "sam",
+    "personal_affix": "ydım",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Ben o hatayı yapmamışsam, bu kadar pişman olmazdım.",
-  "english_example_sentence": "If I had not made that mistake, I wouldn't be so regretful.",
-  "russian_example_sentence": "Если бы я не совершил эту ошибку, я бы не так сильно сожалел.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T08:11:07.969865+00:00",
-  "turkish_example_sentence_with_blank": "Ben o hatayı ______, bu kadar pişman olmazdım."
+  "turkish_example_sentence": "Ben o büyük finansal hatayı yapmamış olsaydım, şimdi daha zengin olurdum",
+  "english_example_sentence": "If I had not made that big financial mistake, I would be richer now",
+  "russian_example_sentence": "Если бы я не сделал ту большую финансовую ошибку, я был бы сейчас богаче",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:53:09.648269+00:00",
+  "turkish_example_sentence_with_blank": "Ben o büyük finansal hatayı ______, şimdi daha zengin olurdum"
 }

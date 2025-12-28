@@ -4,19 +4,19 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmamışlarsa",
+    "verb_full": "yapmamış olsalardı",
     "root": "yap",
-    "tense_affix": "mışsa",
+    "tense_affix": "mamış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "lardı",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Onlar sosyal sorumluluk çalışmalarını yapmamışlarsa, toplum zarar görürdü.",
-  "english_example_sentence": "If they had not done the social responsibility work, society would have suffered.",
-  "russian_example_sentence": "Если бы они не выполнили работу по социальной ответственности, общество пострадало бы.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-14T07:22:00.994145+00:00",
-  "turkish_example_sentence_with_blank": "Onlar sosyal sorumluluk çalışmalarını ______, toplum zarar görürdü."
+  "turkish_example_sentence": "Onlar kötü yatırım yapmamış olsalardı, zengin kalabilirlerdi",
+  "english_example_sentence": "If they had not made the bad investment, they could have remained wealthy",
+  "russian_example_sentence": "Если бы они не сделали плохую инвестицию, они могли бы остаться богатыми",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:50:17.289009+00:00",
+  "turkish_example_sentence_with_blank": "Onlar kötü yatırım ______, zengin kalabilirlerdi"
 }

@@ -4,19 +4,19 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmamışsak",
+    "verb_full": "yapmamış olsaydık",
     "root": "yap",
-    "tense_affix": "mış",
+    "tense_affix": "mamış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "sak",
+    "personal_affix": "ydık",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Biz bu kötü şakayı yapmamışsak, ortam gerginleşmezdi.",
-  "english_example_sentence": "If we had not made this bad joke, the atmosphere would not have become tense.",
-  "russian_example_sentence": "Если бы мы не пошутили так плохо, атмосфера не стала бы напряженной.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T08:11:07.969865+00:00",
-  "turkish_example_sentence_with_blank": "Biz bu kötü şakayı ______, ortam gerginleşmezdi."
+  "turkish_example_sentence": "Biz o gürültülü gece partisini yapmamış olsaydık, komşular polise şikayet etmezdi",
+  "english_example_sentence": "If we had not made that noisy night party, the neighbors would not have complained to the police",
+  "russian_example_sentence": "Если бы мы не устроили ту шумную ночную вечеринку, соседи не пожаловались бы в полицию",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:53:09.648269+00:00",
+  "turkish_example_sentence_with_blank": "Biz o gürültülü gece partisini ______, komşular polise şikayet etmezdi"
 }

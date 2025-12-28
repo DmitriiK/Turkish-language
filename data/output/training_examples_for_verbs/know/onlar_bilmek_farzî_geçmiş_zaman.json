@@ -4,19 +4,19 @@
   "verb_russian": "знать",
   "verb_infinitive": "bilmek",
   "turkish_verb": {
-    "verb_full": "bilmişlerse",
+    "verb_full": "bilmiş olsalardı",
     "root": "bil",
-    "tense_affix": "mişlerse",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "",
+    "personal_affix": "lardı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Onlar şaşırtıcı sonucu bilmişlerse, kutlama yaparlardı.",
-  "english_example_sentence": "If they had known the surprising result, they would have celebrated.",
-  "russian_example_sentence": "Если бы они знали удивительный результат, они бы праздновали.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T08:32:10.923988+00:00",
-  "turkish_example_sentence_with_blank": "Onlar şaşırtıcı sonucu ______, kutlama yaparlardı."
+  "turkish_example_sentence": "Onlar harika konserin tarihini bilmiş olsalardı biletleri önceden satın alırlardı",
+  "english_example_sentence": "If they had known the date of the wonderful concert, they would have bought the tickets in advance",
+  "russian_example_sentence": "Если бы они знали дату замечательного концерта, они бы купили билеты заранее",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:53:53.563989+00:00",
+  "turkish_example_sentence_with_blank": "Onlar harika konserin tarihini ______ biletleri önceden satın alırlardı"
 }

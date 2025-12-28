@@ -4,17 +4,19 @@
   "verb_russian": "держать",
   "verb_infinitive": "tutmak",
   "turkish_verb": {
-    "verb_full": "tutmamışsak",
+    "verb_full": "tutmamış olsaydık",
     "root": "tut",
-    "tense_affix": "mışsa",
+    "tense_affix": "mamış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ydık",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If we hadn't kept the cats.",
-  "russian_example_sentence": "Если бы мы не держали кошек.",
-  "turkish_example_sentence": "Biz sokak kedilerini tutmamışsak, evimiz daha temiz olurdu.",
-  "turkish_example_sentence_with_blank": "Biz sokak kedilerini ______, evimiz daha temiz olurdu."
+  "turkish_example_sentence": "Biz yaramaz köpeği karanlık bahçede tutmamış olsaydık, komşuları korkutmazdı",
+  "english_example_sentence": "If we hadn't kept the naughty dog in the dark garden, it wouldn't have frightened the neighbors",
+  "russian_example_sentence": "Если бы мы не держали непослушную собаку в темном саду, она бы не напугала соседей",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:09:46.440340+00:00",
+  "turkish_example_sentence_with_blank": "Biz yaramaz köpeği karanlık bahçede ______, komşuları korkutmazdı"
 }

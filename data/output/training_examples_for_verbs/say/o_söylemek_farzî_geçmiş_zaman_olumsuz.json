@@ -4,19 +4,19 @@
   "verb_russian": "сказать",
   "verb_infinitive": "söylemek",
   "turkish_verb": {
-    "verb_full": "söylememişse",
+    "verb_full": "söylememiş olsaydı",
     "root": "söyle",
-    "tense_affix": "miş",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "ydı",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "O eski doktor hastasına doğru teşhis söylememişse, hasta daha kötü olmuş olurdu.",
-  "english_example_sentence": "If that old doctor had not said the correct diagnosis to his patient, the patient would have become worse.",
-  "russian_example_sentence": "Если бы тот старый врач не сказал правильный диагноз своему пациенту, пациент был бы хуже.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-08T08:19:16.838159+00:00",
-  "turkish_example_sentence_with_blank": "O eski doktor hastasına doğru teşhis ______, hasta daha kötü olmuş olurdu."
+  "turkish_example_sentence": "O gizli planları düşman askerlere söylememiş olsaydı şehrimiz güvende olurdu",
+  "english_example_sentence": "If she hadn't said the secret plans to the enemy soldiers our city would be safe",
+  "russian_example_sentence": "Если бы она не рассказала секретные планы вражеским солдатам, наш город был бы в безопасности",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:51:02.876681+00:00",
+  "turkish_example_sentence_with_blank": "O gizli planları düşman askerlere ______ şehrimiz güvende olurdu"
 }

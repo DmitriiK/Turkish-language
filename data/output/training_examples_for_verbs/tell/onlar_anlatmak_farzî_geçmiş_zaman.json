@@ -4,19 +4,19 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatmışlarsa",
+    "verb_full": "anlatmış olsalardı",
     "root": "anlat",
-    "tense_affix": "mış",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "lardı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Eğer onlar bu heyecan verici keşfi bilim camiasına anlatmışlarsa, ünlü olmuş olurdu.",
-  "english_example_sentence": "If they had told this exciting discovery to the scientific community, it would have become famous.",
-  "russian_example_sentence": "Если бы они рассказали об этом волнующем открытии научному сообществу, оно бы стало известным.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:42:43.841974+00:00",
-  "turkish_example_sentence_with_blank": "Eğer onlar bu heyecan verici keşfi bilim camiasına ______, ünlü olmuş olurdu."
+  "turkish_example_sentence": "Onlar ünlü tarihi olayı anlatmış olsalardı öğrenciler anlardı",
+  "english_example_sentence": "If they had told the famous historical event, the students would have understood",
+  "russian_example_sentence": "Если бы они рассказали знаменитое историческое событие, студенты бы поняли",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:01:25.747423+00:00",
+  "turkish_example_sentence_with_blank": "Onlar ünlü tarihi olayı ______ öğrenciler anlardı"
 }

@@ -4,19 +4,19 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmışlarsa",
+    "verb_full": "yapmış olsalardı",
     "root": "yap",
-    "tense_affix": "mış",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "larsa",
+    "personal_affix": "lardı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Onlar bu zorlu projeyi yapmışlarsa, takdir edilmeleri gerekirdi.",
-  "english_example_sentence": "If they had made this challenging project, they should have been appreciated.",
-  "russian_example_sentence": "Если бы они реализовали этот сложный проект, их следовало бы оценить.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T08:11:07.969865+00:00",
-  "turkish_example_sentence_with_blank": "Onlar bu zorlu projeyi ______, takdir edilmeleri gerekirdi."
+  "turkish_example_sentence": "Onlar o modern köprü inşaatını yapmış olsalardı, şehir trafiği rahatlamış olurdu",
+  "english_example_sentence": "If they had made that modern bridge construction, the city traffic would have been relieved",
+  "russian_example_sentence": "Если бы они построили тот современный мост, городское движение было бы облегчено",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:53:09.648269+00:00",
+  "turkish_example_sentence_with_blank": "Onlar o modern köprü inşaatını ______, şehir trafiği rahatlamış olurdu"
 }

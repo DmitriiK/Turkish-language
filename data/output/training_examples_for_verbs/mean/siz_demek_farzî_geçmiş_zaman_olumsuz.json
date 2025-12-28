@@ -4,17 +4,19 @@
   "verb_russian": "значить",
   "verb_infinitive": "demek",
   "turkish_verb": {
-    "verb_full": "dememişseniz",
+    "verb_full": "dememiş olsaydınız",
     "root": "de",
-    "tense_affix": "mişse",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "ydınız",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If you hadn't meant those promises",
-  "russian_example_sentence": "Если бы вы не имели в виду эти обещания",
-  "turkish_example_sentence": "Siz o büyük vaatleri dememişseniz, neden şimdi tutmaya çalışıyorsunuz?",
-  "turkish_example_sentence_with_blank": "Siz o büyük vaatleri ______, neden şimdi tutmaya çalışıyorsunuz?"
+  "turkish_example_sentence": "Siz acı gerçekleri hastaya dememiş olsaydınız o üzülmezdi",
+  "english_example_sentence": "If you had not said the bitter truths to the patient, he/she would not have been sad",
+  "russian_example_sentence": "Если бы вы не сказали горькую правду пациенту, он/она бы не расстроился/расстроилась",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:08:58.515837+00:00",
+  "turkish_example_sentence_with_blank": "Siz acı gerçekleri hastaya ______ o üzülmezdi"
 }

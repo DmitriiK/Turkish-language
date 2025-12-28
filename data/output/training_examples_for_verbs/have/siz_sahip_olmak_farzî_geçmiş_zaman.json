@@ -4,19 +4,19 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olmuşsanız",
+    "verb_full": "sahip olmuş olsaydınız",
     "root": "sahip ol",
-    "tense_affix": "muş",
+    "tense_affix": "muş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "ydınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Siz o prestijli sanat galerisiyle sahip olmuşsanız, uluslararası sergiler düzenlerdiniz.",
-  "english_example_sentence": "If you had owned that prestigious art gallery, you would have organized international exhibitions.",
-  "russian_example_sentence": "Если бы вы владели той престижной художественной галереей, вы бы организовали международные выставки.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-08T07:10:13.532795+00:00",
-  "turkish_example_sentence_with_blank": "Siz o prestijli sanat galerisiyle ______, uluslararası sergiler düzenlerdiniz."
+  "turkish_example_sentence": "Siz gerekli resmi belgelere sahip olmuş olsaydınız, vize başvurunuz onaylanırdı",
+  "english_example_sentence": "If you had had the necessary official documents, your visa application would have been approved",
+  "russian_example_sentence": "Если бы вы имели необходимые официальные документы, ваша визовая заявка была бы одобрена",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:49:35.102102+00:00",
+  "turkish_example_sentence_with_blank": "Siz gerekli resmi belgelere ______, vize başvurunuz onaylanırdı"
 }

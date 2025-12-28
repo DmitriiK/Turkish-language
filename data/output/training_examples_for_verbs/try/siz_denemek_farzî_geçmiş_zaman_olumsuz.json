@@ -4,17 +4,19 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "denememişseniz",
+    "verb_full": "denememiş olsaydınız",
     "root": "dene",
-    "tense_affix": "mişse",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "ydınız",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If you hadn't tried the dangerous sport...",
-  "russian_example_sentence": "Если бы вы не попробовали опасный вид спорта...",
-  "turkish_example_sentence": "Siz tehlikeli sporu denememişseniz, yaralanmazdınız.",
-  "turkish_example_sentence_with_blank": "Siz tehlikeli sporu ______, yaralanmazdınız."
+  "turkish_example_sentence": "Siz pahalı lüks restoranı denememiş olsaydınız, bütçeniz şimdi daha iyi olurdu",
+  "english_example_sentence": "If you hadn't tried the expensive luxury restaurant, your budget would be better now",
+  "russian_example_sentence": "Если бы вы не попробовали дорогой роскошный ресторан, ваш бюджет был бы лучше сейчас",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:03:43.513575+00:00",
+  "turkish_example_sentence_with_blank": "Siz pahalı lüks restoranı ______, bütçeniz şimdi daha iyi olurdu"
 }

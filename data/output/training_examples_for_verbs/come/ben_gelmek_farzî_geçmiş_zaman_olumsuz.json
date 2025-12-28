@@ -4,17 +4,19 @@
   "verb_russian": "приходить",
   "verb_infinitive": "gelmek",
   "turkish_verb": {
-    "verb_full": "gelmemişsem",
+    "verb_full": "gelmemiş olsaydım",
     "root": "gel",
-    "tense_affix": "mişse",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ydım",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If I hadn't come, nothing changed",
-  "russian_example_sentence": "Если бы я не пришел, ничего не изменилось",
-  "turkish_example_sentence": "Ben gelmemişsem, durum aynı kalırdı herhalde",
-  "turkish_example_sentence_with_blank": "Ben ______, durum aynı kalırdı herhalde"
+  "turkish_example_sentence": "Ben bu güzel sahil kasabasına tatile gelmemiş olsaydım, harika deniz manzarasını göremezdim",
+  "english_example_sentence": "If I hadn't come to this beautiful coastal town for vacation, I wouldn't have seen the wonderful sea view",
+  "russian_example_sentence": "Если бы я не приехал в этот красивый прибрежный городок на отдых, я бы не увидел чудесный вид на море",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:56:53.863233+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu güzel sahil kasabasına tatile ______, harika deniz manzarasını göremezdim"
 }

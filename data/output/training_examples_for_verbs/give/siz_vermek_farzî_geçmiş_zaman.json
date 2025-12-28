@@ -4,19 +4,19 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "vermişsiniz",
+    "verb_full": "vermiş olsaydınız",
     "root": "ver",
-    "tense_affix": "mişse",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "niz",
+    "personal_affix": "ydınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Siz öğrencilere kapsamlı ders notları vermişsiniz, sınav başarılı olur.",
-  "english_example_sentence": "If you had given the students comprehensive lecture notes, the exam would be successful.",
-  "russian_example_sentence": "Если бы вы дали студентам подробные конспекты лекций, экзамен был бы успешным.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T11:57:30.709961+00:00",
-  "turkish_example_sentence_with_blank": "Siz öğrencilere kapsamlı ders notları ______, sınav başarılı olur."
+  "turkish_example_sentence": "Siz arkadaşlara doğru temiz adresi vermiş olsaydınız, kaybolmazlardı",
+  "english_example_sentence": "If you had given your friends the correct clean address, they wouldn't have gotten lost",
+  "russian_example_sentence": "Если бы вы дали друзьям правильный чистый адрес, они бы не заблудились",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:00:44.486590+00:00",
+  "turkish_example_sentence_with_blank": "Siz arkadaşlara doğru temiz adresi ______, kaybolmazlardı"
 }

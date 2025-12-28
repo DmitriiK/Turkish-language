@@ -4,19 +4,19 @@
   "verb_russian": "работать",
   "verb_infinitive": "çalışmak",
   "turkish_verb": {
-    "verb_full": "çalışmışsa",
+    "verb_full": "çalışmış olsaydı",
     "root": "çalış",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "ydı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "O yazın sıcak bahçede bu ağır işte çalışmışsa, kesinlikle güneş yanığı almış olurdu.",
-  "english_example_sentence": "If he had worked on this heavy job in the hot garden in summer, he would definitely have gotten sunburned.",
-  "russian_example_sentence": "Если бы он работал над этой тяжелой работой в жаркому саду летом, он бы определенно получил солнечный ожог.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:56:53.426849+00:00",
-  "turkish_example_sentence_with_blank": "O yazın sıcak bahçede bu ağır işte ______, kesinlikle güneş yanığı almış olurdu."
+  "turkish_example_sentence": "O geçen ay modern teknoloji laboratuvarında çalışmış olsaydı, önemli bilimsel keşif yapardı",
+  "english_example_sentence": "If he/she had worked in the modern technology laboratory last month, he/she would have made an important scientific discovery",
+  "russian_example_sentence": "Если бы он/она работал(а) в современной технологической лаборатории в прошлом месяце, он/она сделал(а) бы важное научное открытие",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:02:15.050258+00:00",
+  "turkish_example_sentence_with_blank": "O geçen ay modern teknoloji laboratuvarında ______, önemli bilimsel keşif yapardı"
 }

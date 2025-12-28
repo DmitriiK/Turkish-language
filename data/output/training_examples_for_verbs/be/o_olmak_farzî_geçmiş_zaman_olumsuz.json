@@ -4,19 +4,19 @@
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmamışsa",
+    "verb_full": "olmamış olsaydı",
     "root": "ol",
-    "tense_affix": "muş",
+    "tense_affix": "muş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "ydı",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "O evde olmamışsa, kapıyı açan kim olabilir?",
-  "english_example_sentence": "If he/she had not been at home, who could have opened the door?",
-  "russian_example_sentence": "Если бы он/она не был дома, кто мог бы открыть дверь?",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-08T06:54:49.641174+00:00",
-  "turkish_example_sentence_with_blank": "O evde ______, kapıyı açan kim olabilir?"
+  "turkish_example_sentence": "O geçen yıl bu şehirde olmamış olsaydı, eski arkadaşlarıyla buluşamazdı",
+  "english_example_sentence": "If she had not been in this city last year, she could not have met with her old friends",
+  "russian_example_sentence": "Если бы она не была в этом городе в прошлом году, она бы не смогла встретиться со своими старыми друзьями",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:48:49.851584+00:00",
+  "turkish_example_sentence_with_blank": "O geçen yıl bu şehirde ______, eski arkadaşlarıyla buluşamazdı"
 }

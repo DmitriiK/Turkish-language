@@ -4,17 +4,19 @@
   "verb_russian": "приходить",
   "verb_infinitive": "gelmek",
   "turkish_verb": {
-    "verb_full": "gelmişsen",
+    "verb_full": "gelmiş olsaydın",
     "root": "gel",
-    "tense_affix": "mişse",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "ydın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you had come, you'd have seen",
-  "russian_example_sentence": "Если бы ты пришел, ты бы увидел",
-  "turkish_example_sentence": "Sen gelmişsen, muhteşem manzarayı görmüş olurdun",
-  "turkish_example_sentence_with_blank": "Sen ______, muhteşem manzarayı görmüş olurdun"
+  "turkish_example_sentence": "Sen geçen hafta düzenlenen müzik festivaline gelmiş olsaydın, ünlü piyanisti canlı dinleyebilirdin",
+  "english_example_sentence": "If you had come to the music festival organized last week, you could have listened to the famous pianist live",
+  "russian_example_sentence": "Если бы ты пришёл на музыкальный фестиваль, организованный на прошлой неделе, ты мог бы послушать знаменитого пианиста вживую",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:56:53.863233+00:00",
+  "turkish_example_sentence_with_blank": "Sen geçen hafta düzenlenen müzik festivaline ______, ünlü piyanisti canlı dinleyebilirdin"
 }

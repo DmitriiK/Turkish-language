@@ -4,19 +4,19 @@
   "verb_russian": "спрашивать",
   "verb_infinitive": "sormak",
   "turkish_verb": {
-    "verb_full": "sormuşsanız",
+    "verb_full": "sormuş olsaydınız",
     "root": "sor",
-    "tense_affix": "muşsa",
+    "tense_affix": "muş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "ydınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Siz avukata yasal konular sormuşsanız, dava kazanabilirdiniz.",
-  "english_example_sentence": "If you had asked the lawyer about legal matters, you could have won the case.",
-  "russian_example_sentence": "Если бы вы спросили адвоката о юридических вопросах, вы бы могли выиграть дело.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:48:25.856154+00:00",
-  "turkish_example_sentence_with_blank": "Siz avukata yasal konular ______, dava kazanabilirdiniz."
+  "turkish_example_sentence": "Siz bilgili profesöre araştırma yöntemlerini sormuş olsaydınız, tez yazımı daha kolay olurdu",
+  "english_example_sentence": "If you had asked the knowledgeable professor about research methods, thesis writing would have been easier",
+  "russian_example_sentence": "Если бы вы спросили знающего профессора о методах исследования, написание диссертации было бы легче",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:04:31.751875+00:00",
+  "turkish_example_sentence_with_blank": "Siz bilgili profesöre araştırma yöntemlerini ______, tez yazımı daha kolay olurdu"
 }

@@ -4,19 +4,19 @@
   "verb_russian": "чувствовать",
   "verb_infinitive": "hissetmek",
   "turkish_verb": {
-    "verb_full": "hissetmişsem",
+    "verb_full": "hissetmiş olsaydım",
     "root": "hisset",
-    "tense_affix": "miş",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "sem",
+    "personal_affix": "ydım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Ben o keskin rüzgarı hissetmişsem, daha kalın bir palto giyerdim.",
-  "english_example_sentence": "If I had felt that sharp wind, I would have worn a thicker coat.",
-  "russian_example_sentence": "Если бы я почувствовал тот резкий ветер, я бы надел более толстое пальто.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-12T15:07:57.119239+00:00",
-  "turkish_example_sentence_with_blank": "Ben o keskin rüzgarı ______, daha kalın bir palto giyerdim."
+  "turkish_example_sentence": "Ben o güçlü deprem tehlikesini daha önce hissetmiş olsaydım evden çıkardım",
+  "english_example_sentence": "If I had felt that strong earthquake danger earlier, I would have left the house",
+  "russian_example_sentence": "Если бы я почувствовал ту сильную опасность землетрясения раньше, я бы вышел из дома",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:06:01.252545+00:00",
+  "turkish_example_sentence_with_blank": "Ben o güçlü deprem tehlikesini daha önce ______ evden çıkardım"
 }

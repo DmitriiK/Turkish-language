@@ -4,17 +4,19 @@
   "verb_russian": "нуждаться",
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
-    "verb_full": "ihtiyaç duymamışsam",
+    "verb_full": "ihtiyaç duymamış olsaydım",
     "root": "ihtiyaç duy",
-    "tense_affix": "mamışsa",
+    "tense_affix": "mamış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ydım",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If I hadn't needed any further assistance",
-  "russian_example_sentence": "Если бы мне не понадобилась дальнейшая помощь",
-  "turkish_example_sentence": "Ben ek yardıma ihtiyaç duymamışsam, projeyi kendim bitirirdim.",
-  "turkish_example_sentence_with_blank": "Ben ek yardıma ______, projeyi kendim bitirirdim."
+  "turkish_example_sentence": "Ben profesyonel yardıma ihtiyaç duymamış olsaydım, bu zorlu projeyi tek başıma bitirirdim",
+  "english_example_sentence": "If I hadn't needed professional help, I would have finished this difficult project alone",
+  "russian_example_sentence": "Если бы мне не нужна была профессиональная помощь, я бы закончил этот трудный проект один",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:05:15.894758+00:00",
+  "turkish_example_sentence_with_blank": "Ben profesyonel yardıma ______, bu zorlu projeyi tek başıma bitirirdim"
 }

@@ -4,19 +4,19 @@
   "verb_russian": "видеть",
   "verb_infinitive": "görmek",
   "turkish_verb": {
-    "verb_full": "görmüşsek",
+    "verb_full": "görmüş olsaydık",
     "root": "gör",
-    "tense_affix": "müş",
+    "tense_affix": "müş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ydık",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Biz o etkileyici beyaz kar dağını kışta görmüşsek, çok etkilenirdik.",
-  "english_example_sentence": "If we had seen that impressive white snow mountain in winter, we would have been very impressed.",
-  "russian_example_sentence": "Если бы мы видели ту впечатляющую белую снежную гору зимой, мы были бы очень впечатлены.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T12:36:36.226630+00:00",
-  "turkish_example_sentence_with_blank": "Biz o etkileyici beyaz kar dağını kışta ______, çok etkilenirdik."
+  "turkish_example_sentence": "Biz yeni açılan modern sergiyi müzede görmüş olsaydık sanat hakkında konuşurduk",
+  "english_example_sentence": "If we had seen the newly opened modern exhibition at the museum, we would have talked about art",
+  "russian_example_sentence": "Если бы мы видели недавно открытую современную выставку в музее, мы бы говорили об искусстве",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:55:59.798662+00:00",
+  "turkish_example_sentence_with_blank": "Biz yeni açılan modern sergiyi müzede ______ sanat hakkında konuşurduk"
 }

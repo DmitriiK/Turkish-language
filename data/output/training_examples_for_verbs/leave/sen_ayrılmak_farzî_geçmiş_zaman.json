@@ -4,17 +4,19 @@
   "verb_russian": "покидать",
   "verb_infinitive": "ayrılmak",
   "turkish_verb": {
-    "verb_full": "ayrılmışsan",
+    "verb_full": "ayrılmış olsaydın",
     "root": "ayrıl",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "ydın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you had left the busy city",
-  "russian_example_sentence": "Если бы ты покинул шумный город",
-  "turkish_example_sentence": "Sen kalabalık şehirden ayrılmışsan, daha sakin bir hayat yaşardın.",
-  "turkish_example_sentence_with_blank": "Sen kalabalık şehirden ______, daha sakin bir hayat yaşardın."
+  "turkish_example_sentence": "Sen toksik arkadaş grubundan zamanında ayrılmış olsaydın, sağlıklı ilişkiler kurabilirdin",
+  "english_example_sentence": "If you had left the toxic friend group on time, you could have built healthy relationships",
+  "russian_example_sentence": "Если бы ты покинул токсичную группу друзей вовремя, ты мог бы построить здоровые отношения",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:07:30.957560+00:00",
+  "turkish_example_sentence_with_blank": "Sen toksik arkadaş grubundan zamanında ______, sağlıklı ilişkiler kurabilirdin"
 }

@@ -4,17 +4,19 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "denememişsem",
+    "verb_full": "denememiş olsaydım",
     "root": "dene",
-    "tense_affix": "mişse",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ydım",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If I hadn't tried the difficult exam...",
-  "russian_example_sentence": "Если бы я не попытался сдать сложный экзамен...",
-  "turkish_example_sentence": "Ben zor sınavı denememişsem, başarılı olamazdım.",
-  "turkish_example_sentence_with_blank": "Ben zor sınavı ______, başarılı olamazdım."
+  "turkish_example_sentence": "Ben yeni spor aktivitesini denememiş olsaydım, bu kadar sağlıklı olmazdım",
+  "english_example_sentence": "If I hadn't tried the new sports activity, I wouldn't be this healthy",
+  "russian_example_sentence": "Если бы я не попробовал новую спортивную активность, я не был бы таким здоровым",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:03:43.513575+00:00",
+  "turkish_example_sentence_with_blank": "Ben yeni spor aktivitesini ______, bu kadar sağlıklı olmazdım"
 }

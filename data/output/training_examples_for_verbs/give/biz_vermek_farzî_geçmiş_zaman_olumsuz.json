@@ -4,19 +4,19 @@
   "verb_russian": "давать",
   "verb_infinitive": "vermek",
   "turkish_verb": {
-    "verb_full": "vermemişsek",
+    "verb_full": "vermemiş olsaydık",
     "root": "ver",
-    "tense_affix": "mişse",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "biz",
-    "personal_affix": "k",
+    "personal_affix": "ydık",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Biz müze müdürüne nadir antika eseri vermemişsek, koleksiyon eksik kalır.",
-  "english_example_sentence": "If we had not given the museum director the rare antique artifact, the collection would remain incomplete.",
-  "russian_example_sentence": "Если бы мы не дали директору музея редкий антикварный артефакт, коллекция осталась бы неполной.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T11:57:30.709961+00:00",
-  "turkish_example_sentence_with_blank": "Biz müze müdürüne nadir antika eseri ______, koleksiyon eksik kalır."
+  "turkish_example_sentence": "Biz garsonlara fazla sıcak kahveyi vermemiş olsaydık, müşteriler yakınmazdı",
+  "english_example_sentence": "If we hadn't given the waiters the too hot coffee, the customers wouldn't have complained",
+  "russian_example_sentence": "Если бы мы не дали официантам слишком горячий кофе, клиенты бы не жаловались",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:00:44.486590+00:00",
+  "turkish_example_sentence_with_blank": "Biz garsonlara fazla sıcak kahveyi ______, müşteriler yakınmazdı"
 }

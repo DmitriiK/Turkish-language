@@ -4,19 +4,19 @@
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmamışsam",
+    "verb_full": "olmamış olsaydım",
     "root": "ol",
-    "tense_affix": "muş",
+    "tense_affix": "muş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ydım",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Ben hasta olmamışsam, o gün işe gidebilirdim.",
-  "english_example_sentence": "If I had not been sick, I could have gone to work that day.",
-  "russian_example_sentence": "Если бы я не был болен, я мог бы пойти на работу в тот день.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-08T06:54:49.641174+00:00",
-  "turkish_example_sentence_with_blank": "Ben hasta ______, o gün işe gidebilirdim."
+  "turkish_example_sentence": "Ben o karanlık sokakta yalnız olmamış olsaydım, korkmazdım hiç",
+  "english_example_sentence": "If I had not been alone on that dark street, I would not have been afraid at all",
+  "russian_example_sentence": "Если бы я не был один на той темной улице, я бы совсем не боялся",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:48:49.851584+00:00",
+  "turkish_example_sentence_with_blank": "Ben o karanlık sokakta yalnız ______, korkmazdım hiç"
 }

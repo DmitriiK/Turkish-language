@@ -4,17 +4,19 @@
   "verb_russian": "нуждаться",
   "verb_infinitive": "ihtiyaç duymak",
   "turkish_verb": {
-    "verb_full": "ihtiyaç duymuşsanız",
+    "verb_full": "ihtiyaç duymuş olsaydınız",
     "root": "ihtiyaç duy",
-    "tense_affix": "muşsanız",
+    "tense_affix": "muş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "ydınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you had needed more training for the job",
-  "russian_example_sentence": "Если бы вам нужно было больше обучения для работы",
-  "turkish_example_sentence": "Siz iş için daha fazla eğitime ihtiyaç duymuşsanız, kurslara katılmalıydınız.",
-  "turkish_example_sentence_with_blank": "Siz iş için daha fazla eğitime ______, kurslara katılmalıydınız."
+  "turkish_example_sentence": "Siz teknik desteğe ihtiyaç duymuş olsaydınız, uzman mühendis ekibini çağırırdınız",
+  "english_example_sentence": "If you had needed technical support, you would have called the expert engineer team",
+  "russian_example_sentence": "Если бы вам нужна была техническая поддержка, вы бы вызвали команду инженеров-экспертов",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:05:15.894758+00:00",
+  "turkish_example_sentence_with_blank": "Siz teknik desteğe ______, uzman mühendis ekibini çağırırdınız"
 }

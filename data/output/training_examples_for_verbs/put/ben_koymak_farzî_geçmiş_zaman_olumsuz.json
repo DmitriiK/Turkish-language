@@ -4,17 +4,19 @@
   "verb_russian": "класть",
   "verb_infinitive": "koymak",
   "turkish_verb": {
-    "verb_full": "koymamışsam",
+    "verb_full": "koymamış olsaydım",
     "root": "koy",
-    "tense_affix": "mamışsa",
+    "tense_affix": "muş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ydım",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If I hadn't put the book down.",
-  "russian_example_sentence": "Если бы я не положил книгу.",
-  "turkish_example_sentence": "Defteri masanın üzerine koymamışsam, nerede olabilir?",
-  "turkish_example_sentence_with_blank": "Defteri masanın üzerine ______, nerede olabilir?"
+  "turkish_example_sentence": "Ben taze çiçekleri soğuk suya koymamış olsaydım, hepsi solmuş olurdu",
+  "english_example_sentence": "If I hadn't put the fresh flowers in cold water, they all would have wilted",
+  "russian_example_sentence": "Если бы я не положил свежие цветы в холодную воду, они все бы завяли",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:08:15.996155+00:00",
+  "turkish_example_sentence_with_blank": "Ben taze çiçekleri soğuk suya ______, hepsi solmuş olurdu"
 }

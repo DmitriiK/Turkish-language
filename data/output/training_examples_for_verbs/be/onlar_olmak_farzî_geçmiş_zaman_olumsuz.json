@@ -4,19 +4,19 @@
   "verb_russian": "быть",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmamışlarsa",
+    "verb_full": "olmamış olsalardı",
     "root": "ol",
-    "tense_affix": "muş",
+    "tense_affix": "muş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "onlar",
-    "personal_affix": "lar",
+    "personal_affix": "lardı",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "turkish_example_sentence": "Onlar hastanede olmamışlarsa, doktor onları muayene edemezdi.",
-  "english_example_sentence": "If they had not been at the hospital, the doctor could not have examined them.",
-  "russian_example_sentence": "Если бы они не были в больнице, врач не смог бы их осмотреть.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-08T06:54:49.641174+00:00",
-  "turkish_example_sentence_with_blank": "Onlar hastanede ______, doktor onları muayene edemezdi."
+  "turkish_example_sentence": "Onlar o sıcak yaz gününde plajda olmamış olsalardı, güneş yanığı almazlardı",
+  "english_example_sentence": "If they had not been at the beach on that hot summer day, they would not have gotten sunburn",
+  "russian_example_sentence": "Если бы они не были на пляже в тот жаркий летний день, они бы не получили солнечный ожог",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:48:49.851584+00:00",
+  "turkish_example_sentence_with_blank": "Onlar o sıcak yaz gününde plajda ______, güneş yanığı almazlardı"
 }

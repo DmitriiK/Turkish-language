@@ -4,17 +4,19 @@
   "verb_russian": "класть",
   "verb_infinitive": "koymak",
   "turkish_verb": {
-    "verb_full": "koymuşsam",
+    "verb_full": "koymuş olsaydım",
     "root": "koy",
-    "tense_affix": "muşsa",
+    "tense_affix": "muş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ydım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I had put the keys there.",
-  "russian_example_sentence": "Если бы я положил ключи туда.",
-  "turkish_example_sentence": "Eğer anahtarları oraya koymuşsam, şimdi bulmalıyım.",
-  "turkish_example_sentence_with_blank": "Eğer anahtarları oraya ______, şimdi bulmalıyım."
+  "turkish_example_sentence": "Ben eski fotoğrafları büyük kahverengi çantaya koymuş olsaydım, şimdi bulabilirdim",
+  "english_example_sentence": "If I had put the old photographs in the big brown bag, I could find them now",
+  "russian_example_sentence": "Если бы я положил старые фотографии в большую коричневую сумку, я мог бы найти их сейчас",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:08:15.996155+00:00",
+  "turkish_example_sentence_with_blank": "Ben eski fotoğrafları büyük kahverengi çantaya ______, şimdi bulabilirdim"
 }

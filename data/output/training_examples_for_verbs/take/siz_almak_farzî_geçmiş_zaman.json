@@ -4,19 +4,19 @@
   "verb_russian": "брать",
   "verb_infinitive": "almak",
   "turkish_verb": {
-    "verb_full": "almışsanız",
+    "verb_full": "almış olsaydınız",
     "root": "al",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "ydınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Siz ofisten önemli belgeleri almışsanız, toplantıya hazır olabilirsiniz.",
-  "english_example_sentence": "If you had taken the important documents from the office, you could be ready for the meeting.",
-  "russian_example_sentence": "Если бы вы взяли важные документы из офиса, вы могли бы быть готовы к встрече.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-15T12:34:43.867715+00:00",
-  "turkish_example_sentence_with_blank": "Siz ofisten önemli belgeleri ______, toplantıya hazır olabilirsiniz."
+  "turkish_example_sentence": "Siz güzel pembe çiçekleri almış olsaydınız anneniz çok sevinirdi",
+  "english_example_sentence": "If you had taken the beautiful pink flowers, your mother would have been very happy",
+  "russian_example_sentence": "Если бы вы взяли красивые розовые цветы, ваша мама была бы очень рада",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:55:16.643558+00:00",
+  "turkish_example_sentence_with_blank": "Siz güzel pembe çiçekleri ______ anneniz çok sevinirdi"
 }

@@ -4,17 +4,19 @@
   "verb_russian": "становиться",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olmuşsam",
+    "verb_full": "olmuş olsaydım",
     "root": "ol",
-    "tense_affix": "muşsa",
+    "tense_affix": "muş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ydım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I had become a doctor...",
-  "russian_example_sentence": "Если бы я стал врачом...",
-  "turkish_example_sentence": "Ben doktor olmuşsam, insanlara yardım ederdim.",
-  "turkish_example_sentence_with_blank": "Ben doktor ______, insanlara yardım ederdim."
+  "turkish_example_sentence": "Ben başarılı bir doktor olmuş olsaydım, hastaları ücretsiz tedavi ederdim",
+  "english_example_sentence": "If I had become a successful doctor, I would have treated patients for free",
+  "russian_example_sentence": "Если бы я стал успешным врачом, я бы лечил пациентов бесплатно",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:06:43.954960+00:00",
+  "turkish_example_sentence_with_blank": "Ben başarılı bir doktor ______, hastaları ücretsiz tedavi ederdim"
 }

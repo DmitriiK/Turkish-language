@@ -4,19 +4,19 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olmuşsa",
+    "verb_full": "sahip olmuş olsaydı",
     "root": "sahip ol",
-    "tense_affix": "muş",
+    "tense_affix": "muş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "ydı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "O genç mühendis o ileri teknoloji şirketine sahip olmuşsa, başarılı olurdu.",
-  "english_example_sentence": "If that young engineer had owned that advanced technology company, he would have succeeded.",
-  "russian_example_sentence": "Если бы тот молодой инженер владел той компанией передовых технологий, он бы преуспел.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-08T07:10:13.532795+00:00",
-  "turkish_example_sentence_with_blank": "O genç mühendis o ileri teknoloji şirketine ______, başarılı olurdu."
+  "turkish_example_sentence": "O yeşil bahçeli büyük villaya sahip olmuş olsaydı, ailesini davet ederdi",
+  "english_example_sentence": "If he had had the big villa with green garden, he would have invited his family",
+  "russian_example_sentence": "Если бы он имел большую виллу с зеленым садом, он бы пригласил свою семью",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:49:35.102102+00:00",
+  "turkish_example_sentence_with_blank": "O yeşil bahçeli büyük villaya ______, ailesini davet ederdi"
 }

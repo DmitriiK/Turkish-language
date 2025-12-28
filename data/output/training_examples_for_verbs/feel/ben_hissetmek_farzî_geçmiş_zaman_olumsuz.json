@@ -4,19 +4,19 @@
   "verb_russian": "чувствовать",
   "verb_infinitive": "hissetmek",
   "turkish_verb": {
-    "verb_full": "hissetmemişsem",
+    "verb_full": "hissetmemiş olsaydım",
     "root": "hisset",
-    "tense_affix": "miş",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "sem",
+    "personal_affix": "ydım",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "turkish_example_sentence": "Ben o büyük korkuyu hissetmemişsem, cesurca ileri atılırdım.",
-  "english_example_sentence": "If I had not felt that great fear, I would have bravely rushed forward.",
-  "russian_example_sentence": "Если бы я не почувствовал того большого страха, я бы смело ринулся вперёд.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-12T15:07:57.119239+00:00",
-  "turkish_example_sentence_with_blank": "Ben o büyük korkuyu ______, cesurca ileri atılırdım."
+  "turkish_example_sentence": "Ben o korkunç baş ağrısını sabah hissetmemiş olsaydım toplantıya katılırdım",
+  "english_example_sentence": "If I hadn't felt that terrible headache in the morning, I would have attended the meeting",
+  "russian_example_sentence": "Если бы я не почувствовал ту ужасную головную боль утром, я бы посетил собрание",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:06:01.252545+00:00",
+  "turkish_example_sentence_with_blank": "Ben o korkunç baş ağrısını sabah ______ toplantıya katılırdım"
 }

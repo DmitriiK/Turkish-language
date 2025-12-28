@@ -4,19 +4,19 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatmışsa",
+    "verb_full": "anlatmış olsaydı",
     "root": "anlat",
-    "tense_affix": "mış",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "ydı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Eğer o bu dramatik olayı tam olarak anlatmışsa, herkes şaşırmış olurdu.",
-  "english_example_sentence": "If he/she had told this dramatic event exactly, everyone would have been surprised.",
-  "russian_example_sentence": "Если бы он/она рассказал(а) это драматическое событие точно, все бы удивились.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:42:43.841974+00:00",
-  "turkish_example_sentence_with_blank": "Eğer o bu dramatik olayı tam olarak ______, herkes şaşırmış olurdu."
+  "turkish_example_sentence": "O karmaşık bilimsel buluşu anlatmış olsaydı ödül alırdı",
+  "english_example_sentence": "If he had told the complex scientific discovery, he would have received an award",
+  "russian_example_sentence": "Если бы он рассказал о сложном научном открытии, он бы получил награду",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:01:25.747423+00:00",
+  "turkish_example_sentence_with_blank": "O karmaşık bilimsel buluşu ______ ödül alırdı"
 }

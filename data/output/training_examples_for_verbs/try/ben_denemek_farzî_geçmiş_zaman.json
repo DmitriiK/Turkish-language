@@ -4,17 +4,19 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "denemişsem",
+    "verb_full": "denemiş olsaydım",
     "root": "dene",
-    "tense_affix": "mişse",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "ydım",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If I had tried the spicy soup...",
-  "russian_example_sentence": "Если бы я попробовал острый суп...",
-  "turkish_example_sentence": "Ben acı çorbayı denemişsem, midem yanardı.",
-  "turkish_example_sentence_with_blank": "Ben acı çorbayı ______, midem yanardı."
+  "turkish_example_sentence": "Ben o lezzetli İtalyan yemeğini denemiş olsaydım, tarifini öğrenirdim",
+  "english_example_sentence": "If I had tried that delicious Italian dish, I would have learned the recipe",
+  "russian_example_sentence": "Если бы я попробовал то вкусное итальянское блюдо, я бы выучил рецепт",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:03:43.513575+00:00",
+  "turkish_example_sentence_with_blank": "Ben o lezzetli İtalyan yemeğini ______, tarifini öğrenirdim"
 }

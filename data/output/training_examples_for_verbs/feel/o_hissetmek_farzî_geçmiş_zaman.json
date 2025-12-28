@@ -4,19 +4,19 @@
   "verb_russian": "чувствовать",
   "verb_infinitive": "hissetmek",
   "turkish_verb": {
-    "verb_full": "hissetmişse",
+    "verb_full": "hissetmiş olsaydı",
     "root": "hisset",
-    "tense_affix": "miş",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": "se",
+    "personal_affix": "ydı",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "O bu büyük mutluluğu hissetmişse, yüzünden belli olurdu.",
-  "english_example_sentence": "If he/she had felt this great happiness, it would have been evident on his/her face.",
-  "russian_example_sentence": "Если бы он/она почувствовал(а) это большое счастье, это было бы видно по его/ее лицу.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-12T15:07:57.119239+00:00",
-  "turkish_example_sentence_with_blank": "O bu büyük mutluluğu ______, yüzünden belli olurdu."
+  "turkish_example_sentence": "O soğuk kış rüzgarını teninde hissetmiş olsaydı kalın ceket giyerdi",
+  "english_example_sentence": "If he had felt that cold winter wind on his skin, he would have worn a thick jacket",
+  "russian_example_sentence": "Если бы он почувствовал тот холодный зимний ветер на своей коже, он бы надел толстую куртку",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:06:01.252545+00:00",
+  "turkish_example_sentence_with_blank": "O soğuk kış rüzgarını teninde ______ kalın ceket giyerdi"
 }

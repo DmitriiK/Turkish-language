@@ -4,17 +4,19 @@
   "verb_russian": "пытаться",
   "verb_infinitive": "denemek",
   "turkish_verb": {
-    "verb_full": "denememişsen",
+    "verb_full": "denememiş olsaydın",
     "root": "dene",
-    "tense_affix": "mişse",
+    "tense_affix": "miş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "n",
+    "personal_affix": "ydın",
     "polarity": "negative",
     "negative_affix": "me"
   },
-  "english_example_sentence": "If you hadn't tried the complex machine...",
-  "russian_example_sentence": "Если бы ты не попробовал сложный механизм...",
-  "turkish_example_sentence": "Sen karmaşık makineyi denememişsen, bozulmazdı.",
-  "turkish_example_sentence_with_blank": "Sen karmaşık makineyi ______, bozulmazdı."
+  "turkish_example_sentence": "Sen tehlikeli ekstrem sporu denememiş olsaydın, yaralanmazdın hiç",
+  "english_example_sentence": "If you hadn't tried the dangerous extreme sport, you wouldn't have gotten injured at all",
+  "russian_example_sentence": "Если бы ты не попробовал опасный экстремальный спорт, ты бы вообще не получил травму",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:03:43.513575+00:00",
+  "turkish_example_sentence_with_blank": "Sen tehlikeli ekstrem sporu ______, yaralanmazdın hiç"
 }

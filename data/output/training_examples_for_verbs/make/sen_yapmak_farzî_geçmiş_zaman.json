@@ -4,19 +4,19 @@
   "verb_russian": "делать (создавать)",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapmışsan",
+    "verb_full": "yapmış olsaydın",
     "root": "yap",
-    "tense_affix": "mış",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "sen",
-    "personal_affix": "san",
+    "personal_affix": "ydın",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Sen dün geceki lezzetli pizzayı yapmışsan, herkes çok beğenirdi.",
-  "english_example_sentence": "If you had made last night's delicious pizza, everyone would have liked it a lot.",
-  "russian_example_sentence": "Если бы ты приготовил вчерашнюю вкусную пиццу, она бы всем очень понравилась.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T08:11:07.969865+00:00",
-  "turkish_example_sentence_with_blank": "Sen dün geceki lezzetli pizzayı ______, herkes çok beğenirdi."
+  "turkish_example_sentence": "Sen o lezzetli ev yapımı pastayı yapmış olsaydın, misafirler çok mutlu olurdu",
+  "english_example_sentence": "If you had made that delicious homemade cake, the guests would have been very happy",
+  "russian_example_sentence": "Если бы ты сделал тот вкусный домашний торт, гости были бы очень счастливы",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T17:53:09.648269+00:00",
+  "turkish_example_sentence_with_blank": "Sen o lezzetli ev yapımı pastayı ______, misafirler çok mutlu olurdu"
 }

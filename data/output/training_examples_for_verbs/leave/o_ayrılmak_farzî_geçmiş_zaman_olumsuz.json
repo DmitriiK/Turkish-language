@@ -4,17 +4,19 @@
   "verb_russian": "покидать",
   "verb_infinitive": "ayrılmak",
   "turkish_verb": {
-    "verb_full": "ayrılmamışsa",
+    "verb_full": "ayrılmamış olsaydı",
     "root": "ayrıl",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "ydı",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If she hadn't left the old school",
-  "russian_example_sentence": "Если бы она не покинула старую школу",
-  "turkish_example_sentence": "O eski okuldan ayrılmamışsa, iyi arkadaşlar edinirdi.",
-  "turkish_example_sentence_with_blank": "O eski okuldan ______, iyi arkadaşlar edinirdi."
+  "turkish_example_sentence": "O başarılı spor takımından ayrılmamış olsaydı, şampiyonluk kupasını kazanırdı",
+  "english_example_sentence": "If she had not left the successful sports team, she would have won the championship cup",
+  "russian_example_sentence": "Если бы она не покидала успешную спортивную команду, она бы выиграла чемпионский кубок",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:07:30.957560+00:00",
+  "turkish_example_sentence_with_blank": "O başarılı spor takımından ______, şampiyonluk kupasını kazanırdı"
 }

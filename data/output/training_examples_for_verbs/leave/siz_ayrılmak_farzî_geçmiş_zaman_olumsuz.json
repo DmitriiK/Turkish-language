@@ -4,17 +4,19 @@
   "verb_russian": "покидать",
   "verb_infinitive": "ayrılmak",
   "turkish_verb": {
-    "verb_full": "ayrılmamışsanız",
+    "verb_full": "ayrılmamış olsaydınız",
     "root": "ayrıl",
-    "tense_affix": "mışsa",
+    "tense_affix": "mış olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "ydınız",
     "polarity": "negative",
     "negative_affix": "ma"
   },
-  "english_example_sentence": "If you hadn't left the quiet library",
-  "russian_example_sentence": "Если бы вы не покинули тихую библиотеку",
-  "turkish_example_sentence": "Siz sessiz kütüphaneden ayrılmamışsanız, ders çalışmaya devam ederdiniz.",
-  "turkish_example_sentence_with_blank": "Siz sessiz kütüphaneden ______, ders çalışmaya devam ederdiniz."
+  "turkish_example_sentence": "Siz yeşil doğal parktan ayrılmamış olsaydınız, nadir kuş türlerini gözlemleyebilirdiniz",
+  "english_example_sentence": "If you had not left the green natural park, you could have observed rare bird species",
+  "russian_example_sentence": "Если бы вы не покидали зеленый природный парк, вы могли бы наблюдать редкие виды птиц",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:07:30.957560+00:00",
+  "turkish_example_sentence_with_blank": "Siz yeşil doğal parktan ______, nadir kuş türlerini gözlemleyebilirdiniz"
 }

@@ -4,17 +4,19 @@
   "verb_russian": "держать",
   "verb_infinitive": "tutmak",
   "turkish_verb": {
-    "verb_full": "tutmuşsanız",
+    "verb_full": "tutmuş olsaydınız",
     "root": "tut",
-    "tense_affix": "muşsa",
+    "tense_affix": "muş olsa",
     "verb_tense": "farzî_geçmiş_zaman",
     "personal_pronoun": "siz",
-    "personal_affix": "nız",
+    "personal_affix": "ydınız",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "If you had kept the old books.",
-  "russian_example_sentence": "Если бы вы сохранили старые книги.",
-  "turkish_example_sentence": "Siz eski kitapları tutmuşsanız, kütüphaneye bağışlayabilirdiniz.",
-  "turkish_example_sentence_with_blank": "Siz eski kitapları ______, kütüphaneye bağışlayabilirdiniz."
+  "turkish_example_sentence": "Siz nadir bitki tohumlarını nemli sera ortamında tutmuş olsaydınız, çimlenir ve büyürlerdi",
+  "english_example_sentence": "If you had kept the rare plant seeds in the humid greenhouse environment, they would have sprouted and grown",
+  "russian_example_sentence": "Если бы вы держали редкие семена растений во влажной тепличной среде, они бы проросли и выросли",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2025-12-28T18:09:46.440340+00:00",
+  "turkish_example_sentence_with_blank": "Siz nadir bitki tohumlarını nemli sera ortamında ______, çimlenir ve büyürlerdi"
 }
