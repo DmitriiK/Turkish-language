@@ -351,77 +351,7 @@
       ]
     }
   },
-  "yaracağım": {
-    "turkish_name": "Yaracağım (Gelecek Zaman - 1. Şahıs)",
-    "level": "A2",
-    "vowel_harmony_link": true,
-    "english": {
-      "name": "Future Tense (1st Person Forms)",
-      "description": "This is a specific form of the future tense used with first person (I, we) to express personal intentions, plans, or promises about future actions.",
-      "usage": [
-        "Personal future intentions and plans",
-        "Promises and commitments",
-        "Determined future actions by the speaker"
-      ],
-      "formation": {
-        "positive": "Verb root + (y)(a|e)cağ + ım/ız",
-        "negative": "Verb root + m(a|e) + y(a|e)cağ + ım/ız",
-        "interrogative": "Verb root + (y)(a|e)cak + mı/mı + yım/yız (or using mıyım/miyiz)",
-        "vowel_harmony_note": "The future marker (a|e)cağ follows 2-way vowel harmony. Add buffer 'y' after vowel-ending roots. The negative affix m(a|e) also follows 2-way harmony. Personal endings (ım|im) and (ız|iz) follow 2-way harmony."
-      },
-      "affixes": {
-        "tense_markers": [
-          {"affix": "acağ", "description": "After a-type verbs"},
-          {"affix": "eceğ", "description": "After e-type verbs"}
-        ],
-        "personal_endings": [
-          {"pronoun": "ben", "ending": "ım/im", "example": "yapacağım (I will do)"},
-          {"pronoun": "biz", "ending": "ız/iz", "example": "yapacağız (we will do)"}
-        ],
-        "negative_affix": "ma/me - inserted before the tense marker"
-      },
-      "examples": [
-        {"turkish": "Yarın erken işe gideceğim.", "translation": "I will go to work early tomorrow."},
-        {"turkish": "Gelecek hafta yeni eve taşınacağız.", "translation": "We will move to a new house next week."},
-        {"turkish": "Bu akşam yemek yapacağım.", "translation": "I will cook dinner tonight."},
-        {"turkish": "Bu işi yapmayacağım.", "translation": "I will not do this job."},
-        {"turkish": "Artık geç kalmayacağız.", "translation": "We will not be late anymore."}
-      ]
-    },
-    "russian": {
-      "name": "Будущее время (формы 1-го лица)",
-      "description": "Это специальная форма будущего времени, используемая с первым лицом (я, мы) для выражения личных намерений, планов или обещаний относительно будущих действий.",
-      "usage": [
-        "Личные намерения и планы на будущее",
-        "Обещания и обязательства",
-        "Решительные будущие действия говорящего"
-      ],
-      "formation": {
-        "positive": "Основа глагола + (y)(a|e)cağ + ım/ız",
-        "negative": "Основа глагола + m(a|e) + y(a|e)cağ + ım/ız",
-        "interrogative": "Основа глагола + (y)(a|e)cak + mı/mı + yım/yız (или используя mıyım/miyiz)",
-        "vowel_harmony_note": "Показатель будущего времени (a|e)cağ следует 2-сторонней гармонии гласных. Добавьте буферную 'y' после основ, оканчивающихся на гласную. Отрицательный аффикс m(a|e) также следует 2-сторонней гармонии. Личные окончания (ım|im) и (ız|iz) следуют 2-сторонней гармонии."
-      },
-      "affixes": {
-        "tense_markers": [
-          {"affix": "acağ", "description": "После глаголов типа a"},
-          {"affix": "eceğ", "description": "После глаголов типа e"}
-        ],
-        "personal_endings": [
-          {"pronoun": "ben", "ending": "ım/im", "example": "yapacağım (я сделаю)"},
-          {"pronoun": "biz", "ending": "ız/iz", "example": "yapacağız (мы сделаем)"}
-        ],
-        "negative_affix": "ma/me - вставляется перед показателем времени"
-      },
-      "examples": [
-        {"turkish": "Yarın erken işe gideceğim.", "translation": "Завтра я рано пойду на работу."},
-        {"turkish": "Gelecek hafta yeni eve taşınacağız.", "translation": "На следующей неделе мы переедем в новый дом."},
-        {"turkish": "Bu akşam yemek yapacağım.", "translation": "Сегодня вечером я буду готовить ужин."},
-        {"turkish": "Bu işi yapmayacağım.", "translation": "Я не буду делать эту работу."},
-        {"turkish": "Artık geç kalmayacağız.", "translation": "Мы больше не будем опаздывать."}
-      ]
-    }
-  },
+
   "istek_kipi": {
     "turkish_name": "İstek Kipi",
     "level": "B1",

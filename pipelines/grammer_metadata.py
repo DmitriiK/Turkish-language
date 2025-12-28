@@ -42,7 +42,6 @@ class VerbTense(StrEnum):
     
     # Future tense forms
     GelecekZaman = "gelecek_zaman"
-    Yaracağım = "yaracağım"
     
     # General/habitual tense
     GenişZaman = "geniş_zaman"
@@ -128,18 +127,6 @@ VERB_FORM_INFOS = [
     # Future tense forms - NEGATIVE
     VerbFormInfo(
         verb_tense=VerbTense.GelecekZaman,
-        language_level=LanguageLevel.A2,
-        type_of_personal_pronoun=1,
-        polarity=VerbPolarity.Negative
-    ),
-    VerbFormInfo(
-        verb_tense=VerbTense.Yaracağım,
-        language_level=LanguageLevel.A2,
-        type_of_personal_pronoun=1,
-        polarity=VerbPolarity.Positive
-    ),
-    VerbFormInfo(
-        verb_tense=VerbTense.Yaracağım,
         language_level=LanguageLevel.A2,
         type_of_personal_pronoun=1,
         polarity=VerbPolarity.Negative
