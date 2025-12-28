@@ -276,9 +276,9 @@
       ],
       "formation": {
         "positive": "Verb root + (a|e)r [or (ı|i|u|ü)r] + personal ending",
-        "negative": "Verb root + m(a|e) + z + personal ending",
+        "negative": "Monosyllabic: Verb root + m(a|e)z + personal ending; Polysyllabic: Verb root + m(a|e) + personal ending",
         "interrogative": "Verb root + (a|e)r + mı/mi/mu/mü + personal ending",
-        "vowel_harmony_note": "Monosyllabic verbs use (a|e)r following 2-way harmony. Polysyllabic verbs use (ı|i|u|ü)r following 4-way harmony. The negative form uses m(a|e) + z. The interrogative particle follows 4-way harmony."
+        "vowel_harmony_note": "Monosyllabic verbs use (a|e)r following 2-way harmony. Polysyllabic verbs use (ı|i|u|ü)r following 4-way harmony. Negative: monosyllabic uses m(a|e)z + personal; polysyllabic uses m(a|e) + personal. The interrogative particle follows 4-way harmony."
       },
       "affixes": {
         "tense_markers": [
@@ -297,7 +297,7 @@
           {"pronoun": "siz", "ending": "sınız/siniz", "example": "yaparsınız (you do)"},
           {"pronoun": "onlar", "ending": "lar", "example": "yaparlar (they do)"}
         ],
-        "negative_affix": "ma/me + z - replaces the tense marker in negative forms"
+        "negative_affix": "Monosyllabic: ma/me + z + personal ending; Polysyllabic: ma/me + personal ending - replaces the tense marker in negative forms"
       },
       "examples": [
         {"turkish": "Her gün kitap okurum.", "translation": "I read a book every day."},
@@ -319,9 +319,9 @@
       ],
       "formation": {
         "positive": "Основа глагола + (a|e)r [или (ı|i|u|ü)r] + личное окончание",
-        "negative": "Основа глагола + m(a|e) + z + личное окончание",
+        "negative": "Односложные: Основа глагола + m(a|e)z + личное окончание; Многосложные: Основа глагола + m(a|e) + личное окончание",
         "interrogative": "Основа глагола + (a|e)r + mı/mi/mu/mü + личное окончание",
-        "vowel_harmony_note": "Односложные глаголы используют (a|e)r, следуя 2-сторонней гармонии. Многосложные глаголы используют (ı|i|u|ü)r, следуя 4-сторонней гармонии. Отрицательная форма использует m(a|e) + z. Вопросительная частица следует 4-сторонней гармонии."
+        "vowel_harmony_note": "Односложные глаголы используют (a|e)r, следуя 2-сторонней гармонии. Многосложные глаголы используют (ı|i|u|ü)r, следуя 4-сторонней гармонии. Отрицательная форма: односложные используют m(a|e)z + личное; многосложные используют m(a|e) + личное. Вопросительная частица следует 4-сторонней гармонии."
       },
       "affixes": {
         "tense_markers": [
@@ -340,7 +340,7 @@
           {"pronoun": "siz", "ending": "sınız/siniz", "example": "yaparsınız (вы делаете)"},
           {"pronoun": "onlar", "ending": "lar", "example": "yaparlar (они делают)"}
         ],
-        "negative_affix": "ma/me + z - заменяет показатель времени в отрицательных формах"
+        "negative_affix": "Односложные: ma/me + z + личное окончание; Многосложные: ma/me + личное окончание - заменяет показатель времени в отрицательных формах"
       },
       "examples": [
         {"turkish": "Her gün kitap okurum.", "translation": "Я читаю книгу каждый день."},
