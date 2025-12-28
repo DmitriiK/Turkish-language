@@ -1065,69 +1065,77 @@
     "level": "B2",
     "vowel_harmony_link": true,
     "english": {
-      "name": "Inferential Past Conditional",
-      "description": "The inferential past conditional combines the evidential past (miş) with the conditional (sa). It expresses hypothetical situations about past events the speaker didn't witness.",
+      "name": "Counterfactual Past / Third Conditional",
+      "description": "The counterfactual past (farzî geçmiş zaman) expresses hypothetical situations about past events that did not happen. It corresponds to the English third conditional ('If I had done... I would have...'). This tense uses the auxiliary verb 'olmak' (to be) in conditional form combined with the past participle (-miş) to express unreal past conditions.",
       "usage": [
-        "Hypothetical past situations (If he/she had done...)",
-        "Unwitnessed past conditions",
-        "Reported conditionals"
+        "Hypothetical past situations that didn't happen (English third conditional)",
+        "Expressing regret or missed opportunities about the past",
+        "Counterfactual conditionals: If they had wanted X, they would have done Y"
       ],
       "formation": {
-        "positive": "Verb root + mIş + sa/se + personal ending",
-        "negative": "Verb root + ma/me + mIş + sa/se + personal ending",
-        "interrogative": "Verb root + mIş + sa/se + personal ending + mı/mi"
+        "positive": "Verb root + mIş + olmak (conditional form) → Verb root + mIş + olsa/se + personal conditional ending",
+        "negative": "Verb root + ma/me + mIş + olmak (conditional form)",
+        "interrogative": "Verb root + mIş + olmak (conditional form) + mı/mi",
+        "note": "The auxiliary verb 'olmak' is conjugated in the conditional mood and is essential for this tense. The structure literally means 'if [subject] would have been [having done X]'."
       },
       "affixes": {
         "tense_markers": [
-          {"affix": "mışsa", "description": "Evidential + conditional (back vowels)"},
-          {"affix": "mişse", "description": "Evidential + conditional (front vowels)"}
+          {"affix": "miş", "description": "Past participle (evidential) - follows 2-way vowel harmony"},
+          {"affix": "olsa/olse", "description": "Conditional form of auxiliary 'olmak' - follows 2-way vowel harmony"}
         ],
         "personal_endings": [
-          {"pronoun": "ben", "ending": "m", "example": "yapmışsam (if I had done)"},
-          {"pronoun": "sen", "ending": "n", "example": "yapmışsan (if you had done)"},
-          {"pronoun": "o", "ending": "-", "example": "yapmışsa (if he/she had done)"},
-          {"pronoun": "biz", "ending": "k", "example": "yapmışsak (if we had done)"},
-          {"pronoun": "siz", "ending": "nız/niz", "example": "yapmışsanız (if you had done)"},
-          {"pronoun": "onlar", "ending": "lar", "example": "yapmışlarsa (if they had done)"}
+          {"pronoun": "ben", "ending": "ydım", "example": "istemiş olsaydım (if I had wanted / would have wanted)"},
+          {"pronoun": "sen", "ending": "ydın", "example": "istemiş olsaydın (if you had wanted)"},
+          {"pronoun": "o", "ending": "ydı", "example": "istemiş olsaydı (if he/she had wanted)"},
+          {"pronoun": "biz", "ending": "ydık", "example": "istemiş olsaydık (if we had wanted)"},
+          {"pronoun": "siz", "ending": "ydınız", "example": "istemiş olsaydınız (if you had wanted)"},
+          {"pronoun": "onlar", "ending": "lardı/lerdi", "example": "istemiş olsalardı (if they had wanted)"}
         ],
-        "negative_affix": "ma/me before miş"
+        "negative_affix": "ma/me before miş (e.g., istememiş olsaydı - if he/she hadn't wanted)",
+        "important_note": "The 'olmak' auxiliary is used with ALL verbs in this tense - it is not specific to any particular verb. Every verb follows the pattern: [verb]miş + ol + conditional endings."
       },
       "examples": [
+        {"turkish": "Onlar o harika müzik konserini istemiş olsalardı, biletleri önceden alırlardı.", "translation": "If they had wanted that wonderful music concert, they would have bought the tickets in advance.", "type": "positive"},
         {"turkish": "Gelmiş olsaydım, seni görebilirdim.", "translation": "If I had come, I could have seen you.", "type": "positive"},
-        {"turkish": "Biraz daha erken kalkmışsan, treni kaçırmazdın.", "translation": "If you had woken up a bit earlier, you wouldn't have missed the train.", "type": "positive"}
+        {"turkish": "Daha çok çalışmış olsaydın, sınavı geçerdin.", "translation": "If you had studied more, you would have passed the exam.", "type": "positive"},
+        {"turkish": "Yemek yememiş olsaydı, şimdi acıkmış olurdu.", "translation": "If he/she hadn't eaten, he/she would be hungry now.", "type": "negative"}
       ]
     },
     "russian": {
-      "name": "Условно-предположительное прошедшее",
-      "description": "Условно-предположительное прошедшее время комбинирует очевидное прошедшее (miş) с условным (sa). Выражает гипотетические ситуации о прошлых событиях, которые говорящий не видел.",
+      "name": "Условное прошедшее / Третий тип условных предложений",
+      "description": "Условное прошедшее время (farzî geçmiş zaman) выражает гипотетические ситуации о прошлых событиях, которые не произошли. Соответствует английскому третьему типу условных предложений ('Если бы я сделал... я бы...'). Это время использует вспомогательный глагол 'olmak' (быть) в условной форме в сочетании с причастием прошедшего времени (-miş) для выражения нереальных прошлых условий.",
       "usage": [
-        "Гипотетические прошлые ситуации (Если бы он/она сделал...)",
-        "Ненаблюдаемые прошлые условия",
-        "Сообщаемые условия"
+        "Гипотетические прошлые ситуации, которые не произошли (третий тип условных)",
+        "Выражение сожаления или упущенных возможностей о прошлом",
+        "Контрфактические условия: Если бы они хотели X, они бы сделали Y"
       ],
       "formation": {
-        "positive": "Основа глагола + mIş + sa/se + личное окончание",
-        "negative": "Основа глагола + ma/me + mIş + sa/se + личное окончание",
-        "interrogative": "Основа глагола + mIş + sa/se + личное окончание + mı/mi"
+        "positive": "Основа глагола + mIş + olmak (условная форма) → Основа + mIş + olsa/se + личные условные окончания",
+        "negative": "Основа глагола + ma/me + mIş + olmak (условная форма)",
+        "interrogative": "Основа глагола + mIş + olmak (условная форма) + mı/mi",
+        "note": "Вспомогательный глагол 'olmak' спрягается в условном наклонении и обязателен для этого времени. Структура буквально означает 'если бы [субъект] был бы [сделавшим X]'."
       },
       "affixes": {
         "tense_markers": [
-          {"affix": "mışsa", "description": "Очевидное + условное (задние гласные)"},
-          {"affix": "mişse", "description": "Очевидное + условное (передние гласные)"}
+          {"affix": "miş", "description": "Причастие прошедшего времени (очевидное) - следует 2-стороннему гармонии гласных"},
+          {"affix": "olsa/olse", "description": "Условная форма вспомогательного 'olmak' - следует 2-стороннему гармонии гласных"}
         ],
         "personal_endings": [
-          {"pronoun": "ben", "ending": "m", "example": "yapmışsam (если бы я сделал)"},
-          {"pronoun": "sen", "ending": "n", "example": "yapmışsan (если бы ты сделал)"},
-          {"pronoun": "o", "ending": "-", "example": "yapmışsa (если бы он/она сделал)"},
-          {"pronoun": "biz", "ending": "k", "example": "yapmışsak (если бы мы сделали)"},
-          {"pronoun": "siz", "ending": "nız/niz", "example": "yapmışsanız (если бы вы сделали)"},
-          {"pronoun": "onlar", "ending": "lar", "example": "yapmışlarsa (если бы они сделали)"}
+          {"pronoun": "ben", "ending": "ydım", "example": "istemiş olsaydım (если бы я хотел / хотел бы)"},
+          {"pronoun": "sen", "ending": "ydın", "example": "istemiş olsaydın (если бы ты хотел)"},
+          {"pronoun": "o", "ending": "ydı", "example": "istemiş olsaydı (если бы он/она хотел/а)"},
+          {"pronoun": "biz", "ending": "ydık", "example": "istemiş olsaydık (если бы мы хотели)"},
+          {"pronoun": "siz", "ending": "ydınız", "example": "istemiş olsaydınız (если бы вы хотели)"},
+          {"pronoun": "onlar", "ending": "lardı/lerdi", "example": "istemiş olsalardı (если бы они хотели)"}
         ],
-        "negative_affix": "ma/me перед miş"
+        "negative_affix": "ma/me перед miş (например, istememiş olsaydı - если бы он/она не хотел/а)",
+        "important_note": "Вспомогательный 'olmak' используется со ВСЕМИ глаголами в этом времени - это не специфично для какого-либо конкретного глагола. Каждый глагол следует схеме: [глагол]miş + ol + условные окончания."
       },
       "examples": [
+        {"turkish": "Onlar o harika müzik konserini istemiş olsalardı, biletleri önceden alırlardı.", "translation": "Если бы они хотели тот замечательный музыкальный концерт, они бы купили билеты заранее.", "type": "positive"},
         {"turkish": "Gelmiş olsaydım, seni görebilirdim.", "translation": "Если бы я пришел, я мог бы тебя увидеть.", "type": "positive"},
-        {"turkish": "Biraz daha erken kalkmışsan, treni kaçırmazdın.", "translation": "Если бы ты встал немного раньше, ты бы не пропустил поезд.", "type": "positive"}
+        {"turkish": "Daha çok çalışmış olsaydın, sınavı geçerdin.", "translation": "Если бы ты больше занимался, ты бы сдал экзамен.", "type": "positive"},
+        {"turkish": "Yemek yememiş olsaydı, şimdi acıkmış olurdu.", "translation": "Если бы он/она не поел/а, он/она был/а бы сейчас голоден/голодна.", "type": "negative"}
       ]
     }
   },
