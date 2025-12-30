@@ -101,7 +101,7 @@
       "formation": {
         "positive": "Verb root + (d|t)(ı|i|u|ü) + personal ending",
         "negative": "Verb root + m(a|e) + (d|t)(ı|i|u|ü) + personal ending",
-        "interrogative": "Verb root + (d|t)(ı|i|u|ü) + mı/mi/mu/mü + personal ending",
+        "interrogative": "Verb root + (d|t)(ı|i|u|ü) + personal ending + mı/mi/mu/mü",
         "vowel_harmony_note": "The tense marker uses 4-way vowel harmony (ı|i|u|ü) and consonant harmony (d after voiced, t after voiceless consonants). The negative affix follows 2-way harmony (m(a|e)). The interrogative particle follows 4-way harmony."
       },
       "affixes": {
@@ -126,11 +126,13 @@
         "negative_affix": "me/ma - inserted before the tense marker"
       },
       "examples": [
-        {"turkish": "Dün kitap okudum.", "translation": "I read a book yesterday."},
-        {"turkish": "Arkadaşım İstanbul'a gitti.", "translation": "My friend went to Istanbul."},
-        {"turkish": "Geçen hafta Türkçe öğrendik.", "translation": "We learned Turkish last week."},
-        {"turkish": "Film izlemedim.", "translation": "I didn't watch the movie."},
-        {"turkish": "Kahve içmediler.", "translation": "They didn't drink coffee."}
+        {"turkish": "Dün kitap okudum.", "translation": "I read a book yesterday.", "type": "positive"},
+        {"turkish": "Arkadaşım İstanbul'a gitti.", "translation": "My friend went to Istanbul.", "type": "positive"},
+        {"turkish": "Geçen hafta Türkçe öğrendik.", "translation": "We learned Turkish last week.", "type": "positive"},
+        {"turkish": "Film izlemedim.", "translation": "I didn't watch the movie.", "type": "negative"},
+        {"turkish": "Kahve içmediler.", "translation": "They didn't drink coffee.", "type": "negative"},
+        {"turkish": "Dün kitap okudun mu?", "translation": "Did you read a book yesterday?", "type": "interrogative"},
+        {"turkish": "Kahve içtiniz mi?", "translation": "Did you drink coffee?", "type": "interrogative"}
       ]
     },
     "russian": {
@@ -144,7 +146,7 @@
       "formation": {
         "positive": "Основа глагола + (d|t)(ı|i|u|ü) + личное окончание",
         "negative": "Основа глагола + m(a|e) + (d|t)(ı|i|u|ü) + личное окончание",
-        "interrogative": "Основа глагола + (d|t)(ı|i|u|ü) + mı/mi/mu/mü + личное окончание",
+        "interrogative": "Основа глагола + (d|t)(ı|i|u|ü) + личное окончание + mı/mi/mu/mü",
         "vowel_harmony_note": "Показатель времени использует 4-стороннюю гармонию гласных (ı|i|u|ü) и гармонию согласных (d после звонких, t после глухих согласных). Отрицательный аффикс следует 2-сторонней гармонии (m(a|e)). Вопросительная частица следует 4-сторонней гармонии."
       },
       "affixes": {
@@ -169,11 +171,94 @@
         "negative_affix": "me/ma - вставляется перед показателем времени"
       },
       "examples": [
-        {"turkish": "Dün kitap okudum.", "translation": "Вчера я читал книгу."},
-        {"turkish": "Arkadaşım İstanbul'a gitti.", "translation": "Мой друг поехал в Стамбул."},
-        {"turkish": "Geçen hafta Türkçe öğrendik.", "translation": "На прошлой неделе мы учили турецкий."},
-        {"turkish": "Film izlemedim.", "translation": "Я не смотрел фильм."},
-        {"turkish": "Kahve içmediler.", "translation": "Они не пили кофе."}
+        {"turkish": "Dün kitap okudum.", "translation": "Вчера я читал книгу.", "type": "positive"},
+        {"turkish": "Arkadaşım İstanbul'a gitti.", "translation": "Мой друг поехал в Стамбул.", "type": "positive"},
+        {"turkish": "Geçen hafta Türkçe öğrendik.", "translation": "На прошлой неделе мы учили турецкий.", "type": "positive"},
+        {"turkish": "Film izlemedim.", "translation": "Я не смотрел фильм.", "type": "negative"},
+        {"turkish": "Kahve içmediler.", "translation": "Они не пили кофе.", "type": "negative"},
+        {"turkish": "Dün kitap okudun mu?", "translation": "Вчера ты читал книгу?", "type": "interrogative"},
+        {"turkish": "Kahve içtiniz mi?", "translation": "Вы пили кофе?", "type": "interrogative"}
+      ]
+    }
+  },
+  "öğrenilen_geçmiş_zaman": {
+    "turkish_name": "Öğrenilen Geçmiş Zaman (-miş'li Geçmiş Zaman)",
+    "level": "A2",
+    "vowel_harmony_link": true,
+    "english": {
+      "name": "Evidential Past (-miş)",
+      "description": "The evidential past (öğrenilen geçmiş zaman, -miş'li geçmiş) is used when the speaker did not directly witness the event. It often conveys hearsay, inference, or newly discovered information (\"apparently\", \"it turns out\").",
+      "usage": [
+        "Hearsay / reported information",
+        "Inference from evidence",
+        "Newly discovered past events (surprise / realization)"
+      ],
+      "formation": {
+        "positive": "Verb stem + mIş + personal ending",
+        "negative": "Verb stem + mA + mIş + personal ending",
+        "interrogative": "Verb stem + mIş + mi/mı/mu/mü (+ personal ending in questions)",
+        "vowel_harmony_note": "The suffix -miş follows 4-way vowel harmony: mış/miş/muş/müş. In negative forms, -ma/-me comes before -miş: gelmemiş."
+      },
+      "affixes": {
+        "tense_markers": [
+          {"affix": "mış", "description": "After back unrounded vowels (a, ı)"},
+          {"affix": "miş", "description": "After front unrounded vowels (e, i)"},
+          {"affix": "muş", "description": "After back rounded vowels (o, u)"},
+          {"affix": "müş", "description": "After front rounded vowels (ö, ü)"}
+        ],
+        "personal_endings": [
+          {"pronoun": "ben", "ending": "im/ım/um/üm", "example": "gelmişim (apparently I came)"},
+          {"pronoun": "sen", "ending": "sin/sın/sun/sün", "example": "gelmişsin (apparently you came)"},
+          {"pronoun": "o", "ending": "-", "example": "gelmiş (apparently he/she came)"},
+          {"pronoun": "biz", "ending": "iz/ız/uz/üz", "example": "gelmişiz (apparently we came)"},
+          {"pronoun": "siz", "ending": "siniz/sınız/sunuz/sünüz", "example": "gelmişsiniz (apparently you came)"},
+          {"pronoun": "onlar", "ending": "ler/lar", "example": "gelmişler (apparently they came)"}
+        ],
+        "negative_affix": "ma/me - inserted before -miş (e.g., gelmemiş)"
+      },
+      "examples": [
+        {"turkish": "Ali dün gelmiş.", "translation": "It turns out Ali came yesterday.", "type": "positive"},
+        {"turkish": "Yağmur yağmış.", "translation": "Apparently it rained.", "type": "positive"},
+        {"turkish": "Ben gelmemişim.", "translation": "Apparently I didn't come (I just realized).", "type": "negative"},
+        {"turkish": "Ali gelmiş mi?", "translation": "Did Ali come (apparently)?", "type": "interrogative"}
+      ]
+    },
+    "russian": {
+      "name": "Прошедшее очевидное (-miş)",
+      "description": "Прошедшее очевидное (öğrenilen geçmiş zaman, -miş'li geçmiş) используется, когда говорящий не был непосредственным свидетелем события. Часто передаёт пересказ, вывод по признакам или внезапное узнавание (\"оказывается\", \"говорят\").",
+      "usage": [
+        "Пересказ / информация со слов других",
+        "Вывод по признакам",
+        "Внезапное узнавание о прошлом (удивление / осознание)"
+      ],
+      "formation": {
+        "positive": "Основа глагола + mIş + личное окончание",
+        "negative": "Основа глагола + mA + mIş + личное окончание",
+        "interrogative": "Основа глагола + mIş + mi/mı/mu/mü (+ личное окончание в вопросе)",
+        "vowel_harmony_note": "Суффикс -miş следует 4-сторонней гармонии гласных: mış/miş/muş/müş. В отрицательной форме -ma/-me стоит перед -miş: gelmemiş."
+      },
+      "affixes": {
+        "tense_markers": [
+          {"affix": "mış", "description": "После задних неогубленных гласных (a, ı)"},
+          {"affix": "miş", "description": "После передних неогубленных гласных (e, i)"},
+          {"affix": "muş", "description": "После задних огубленных гласных (o, u)"},
+          {"affix": "müş", "description": "После передних огубленных гласных (ö, ü)"}
+        ],
+        "personal_endings": [
+          {"pronoun": "ben", "ending": "im/ım/um/üm", "example": "gelmişim (оказывается, я пришёл)"},
+          {"pronoun": "sen", "ending": "sin/sın/sun/sün", "example": "gelmişsin (оказывается, ты пришёл)"},
+          {"pronoun": "o", "ending": "-", "example": "gelmiş (оказывается, он/она пришёл/ла)"},
+          {"pronoun": "biz", "ending": "iz/ız/uz/üz", "example": "gelmişiz (оказывается, мы пришли)"},
+          {"pronoun": "siz", "ending": "siniz/sınız/sunuz/sünüz", "example": "gelmişsiniz (оказывается, вы пришли)"},
+          {"pronoun": "onlar", "ending": "ler/lar", "example": "gelmişler (оказывается, они пришли)"}
+        ],
+        "negative_affix": "ma/me перед -miş (например, gelmemiş)"
+      },
+      "examples": [
+        {"turkish": "Ali dün gelmiş.", "translation": "Оказывается, Али вчера пришёл.", "type": "positive"},
+        {"turkish": "Yağmur yağmış.", "translation": "Оказывается, был дождь.", "type": "positive"},
+        {"turkish": "Ben gelmemişim.", "translation": "Оказывается, я не приходил (только что понял/узнал).", "type": "negative"},
+        {"turkish": "Ali gelmiş mi?", "translation": "Али приходил?", "type": "interrogative"}
       ]
     }
   },
@@ -213,11 +298,12 @@
         "negative_affix": "ma/me - inserted before the tense marker"
       },
       "examples": [
-        {"turkish": "Yarın kitap okuyacağım.", "translation": "I will read a book tomorrow."},
-        {"turkish": "Çocuklar parka gidecek.", "translation": "The children will go to the park."},
-        {"turkish": "Gelecek yıl Türkçe öğreneceğiz.", "translation": "We will learn Turkish next year."},
-        {"turkish": "Film izlemeyeceğim.", "translation": "I will not watch the movie."},
-        {"turkish": "Kahve içmeyecekler.", "translation": "They will not drink coffee."}
+        {"turkish": "Yarın kitap okuyacağım.", "translation": "I will read a book tomorrow.", "type": "positive"},
+        {"turkish": "Çocuklar parka gidecek.", "translation": "The children will go to the park.", "type": "positive"},
+        {"turkish": "Gelecek yıl Türkçe öğreneceğiz.", "translation": "We will learn Turkish next year.", "type": "positive"},
+        {"turkish": "Film izlemeyeceğim.", "translation": "I will not watch the movie.", "type": "negative"},
+        {"turkish": "Kahve içmeyecekler.", "translation": "They will not drink coffee.", "type": "negative"},
+        {"turkish": "Yarın kitap okuyacak mısın?", "translation": "Will you read a book tomorrow?", "type": "interrogative"}
       ]
     },
     "russian": {
@@ -252,11 +338,12 @@
         "negative_affix": "ma/me - вставляется перед показателем времени"
       },
       "examples": [
-        {"turkish": "Yarın kitap okuyacağım.", "translation": "Завтра я буду читать книгу."},
-        {"turkish": "Çocuklar parka gidecek.", "translation": "Дети пойдут в парк."},
-        {"turkish": "Gelecek yıl Türkçe öğreneceğiz.", "translation": "В следующем году мы будем учить турецкий."},
-        {"turkish": "Film izlemeyeceğim.", "translation": "Я не буду смотреть фильм."},
-        {"turkish": "Kahve içmeyecekler.", "translation": "Они не будут пить кофе."}
+        {"turkish": "Yarın kitap okuyacağım.", "translation": "Завтра я буду читать книгу.", "type": "positive"},
+        {"turkish": "Çocuklar parka gidecek.", "translation": "Дети пойдут в парк.", "type": "positive"},
+        {"turkish": "Gelecek yıl Türkçe öğreneceğiz.", "translation": "В следующем году мы будем учить турецкий.", "type": "positive"},
+        {"turkish": "Film izlemeyeceğim.", "translation": "Я не буду смотреть фильм.", "type": "negative"},
+        {"turkish": "Kahve içmeyecekler.", "translation": "Они не будут пить кофе.", "type": "negative"},
+        {"turkish": "Yarın kitap okuyacak mısın?", "translation": "Завтра ты будешь читать книгу?", "type": "interrogative"}
       ]
     }
   },
@@ -300,11 +387,12 @@
         "negative_affix": "Monosyllabic: ma/me + z + personal ending; Polysyllabic: ma/me + personal ending - replaces the tense marker in negative forms"
       },
       "examples": [
-        {"turkish": "Her gün kitap okurum.", "translation": "I read a book every day."},
-        {"turkish": "Çocuklar parkta oynar.", "translation": "Children play in the park."},
-        {"turkish": "Türkçe biliriz.", "translation": "We know Turkish."},
-        {"turkish": "Film izlemem.", "translation": "I don't watch movies."},
-        {"turkish": "Kahve içmezler.", "translation": "They don't drink coffee."}
+        {"turkish": "Her gün kitap okurum.", "translation": "I read a book every day.", "type": "positive"},
+        {"turkish": "Çocuklar parkta oynar.", "translation": "Children play in the park.", "type": "positive"},
+        {"turkish": "Türkçe biliriz.", "translation": "We know Turkish.", "type": "positive"},
+        {"turkish": "Film izlemem.", "translation": "I don't watch movies.", "type": "negative"},
+        {"turkish": "Kahve içmezler.", "translation": "They don't drink coffee.", "type": "negative"},
+        {"turkish": "Her gün kitap okur musun?", "translation": "Do you read a book every day?", "type": "interrogative"}
       ]
     },
     "russian": {
@@ -343,11 +431,12 @@
         "negative_affix": "Односложные: ma/me + z + личное окончание; Многосложные: ma/me + личное окончание - заменяет показатель времени в отрицательных формах"
       },
       "examples": [
-        {"turkish": "Her gün kitap okurum.", "translation": "Я читаю книгу каждый день."},
-        {"turkish": "Çocuklar parkta oynar.", "translation": "Дети играют в парке."},
-        {"turkish": "Türkçe biliriz.", "translation": "Мы знаем турецкий."},
-        {"turkish": "Film izlemem.", "translation": "Я не смотрю фильмы."},
-        {"turkish": "Kahve içmezler.", "translation": "Они не пьют кофе."}
+        {"turkish": "Her gün kitap okurum.", "translation": "Я читаю книгу каждый день.", "type": "positive"},
+        {"turkish": "Çocuklar parkta oynar.", "translation": "Дети играют в парке.", "type": "positive"},
+        {"turkish": "Türkçe biliriz.", "translation": "Мы знаем турецкий.", "type": "positive"},
+        {"turkish": "Film izlemem.", "translation": "Я не смотрю фильмы.", "type": "negative"},
+        {"turkish": "Kahve içmezler.", "translation": "Они не пьют кофе.", "type": "negative"},
+        {"turkish": "Her gün kitap okur musun?", "translation": "Ты каждый день читаешь книгу?", "type": "interrogative"}
       ]
     }
   },
@@ -389,11 +478,11 @@
         "negative_affix": "ma/me - inserted before the mood marker"
       },
       "examples": [
-        {"turkish": "Sinemaya beraber gidelim.", "translation": "Let's go to the cinema together."},
-        {"turkish": "Size yardım edeyim mi?", "translation": "Shall I help you?"},
-        {"turkish": "Herkes mutlu olsun.", "translation": "May everyone be happy."},
-        {"turkish": "Bu konuyu konuşmayalım.", "translation": "Let's not talk about this topic."},
-        {"turkish": "Geç kalmayayım diye erken çıkayım.", "translation": "Let me leave early so I don't be late."}
+        {"turkish": "Sinemaya beraber gidelim.", "translation": "Let's go to the cinema together.", "type": "positive"},
+        {"turkish": "Size yardım edeyim mi?", "translation": "Shall I help you?", "type": "interrogative"},
+        {"turkish": "Herkes mutlu olsun.", "translation": "May everyone be happy.", "type": "positive"},
+        {"turkish": "Bu konuyu konuşmayalım.", "translation": "Let's not talk about this topic.", "type": "negative"},
+        {"turkish": "Geç kalmayayım diye erken çıkayım.", "translation": "Let me leave early so I won't be late.", "type": "positive"}
       ]
     },
     "russian": {
@@ -429,11 +518,11 @@
         "negative_affix": "ma/me - вставляется перед показателем наклонения"
       },
       "examples": [
-        {"turkish": "Sinemaya beraber gidelim.", "translation": "Давайте пойдем в кино вместе."},
-        {"turkish": "Size yardım edeyim mi?", "translation": "Давайте я вам помогу?"},
-        {"turkish": "Herkes mutlu olsun.", "translation": "Пусть все будут счастливы."},
-        {"turkish": "Bu konuyu konuşmayalım.", "translation": "Давайте не будем говорить на эту тему."},
-        {"turkish": "Geç kalmayayım diye erken çıkayım.", "translation": "Давайте я выйду пораньше, чтобы не опоздать."}
+        {"turkish": "Sinemaya beraber gidelim.", "translation": "Давайте пойдём в кино вместе.", "type": "positive"},
+        {"turkish": "Size yardım edeyim mi?", "translation": "Вам помочь?", "type": "interrogative"},
+        {"turkish": "Herkes mutlu olsun.", "translation": "Пусть все будут счастливы.", "type": "positive"},
+        {"turkish": "Bu konuyu konuşmayalım.", "translation": "Давайте не будем говорить на эту тему.", "type": "negative"},
+        {"turkish": "Geç kalmayayım diye erken çıkayım.", "translation": "Я выйду пораньше, чтобы не опоздать.", "type": "positive"}
       ]
     }
   },
@@ -470,11 +559,11 @@
         "negative_affix": "ma/me - added directly to the verb root"
       },
       "examples": [
-        {"turkish": "Kitabı masa üzerine koy!", "translation": "Put the book on the table!"},
-        {"turkish": "Lütfen sessiz olun.", "translation": "Please be quiet."},
-        {"turkish": "Kapıyı açın.", "translation": "Open the door."},
-        {"turkish": "Geç kalma!", "translation": "Don't be late!"},
-        {"turkish": "Bu yolu kullanmayın.", "translation": "Don't use this road."}
+        {"turkish": "Kitabı masanın üzerine koy!", "translation": "Put the book on the table!", "type": "positive"},
+        {"turkish": "Lütfen sessiz olun.", "translation": "Please be quiet.", "type": "positive"},
+        {"turkish": "Kapıyı açın.", "translation": "Open the door.", "type": "positive"},
+        {"turkish": "Geç kalma!", "translation": "Don't be late!", "type": "negative"},
+        {"turkish": "Bu yolu kullanmayın.", "translation": "Don't use this road.", "type": "negative"}
       ]
     },
     "russian": {
@@ -506,16 +595,16 @@
         "negative_affix": "ma/me - добавляется непосредственно к основе глагола"
       },
       "examples": [
-        {"turkish": "Kitabı masa üzerine koy!", "translation": "Положи книгу на стол!"},
-        {"turkish": "Lütfen sessiz olun.", "translation": "Пожалуйста, будьте тихими."},
-        {"turkish": "Kapıyı açın.", "translation": "Откройте дверь."},
-        {"turkish": "Geç kalma!", "translation": "Не опаздывай!"},
-        {"turkish": "Bu yolu kullanmayın.", "translation": "Не используйте эту дорогу."}
+        {"turkish": "Kitabı masanın üzerine koy!", "translation": "Положи книгу на стол!", "type": "positive"},
+        {"turkish": "Lütfen sessiz olun.", "translation": "Пожалуйста, будьте тихими.", "type": "positive"},
+        {"turkish": "Kapıyı açın.", "translation": "Откройте дверь.", "type": "positive"},
+        {"turkish": "Geç kalma!", "translation": "Не опаздывай!", "type": "negative"},
+        {"turkish": "Bu yolu kullanmayın.", "translation": "Не используйте эту дорогу.", "type": "negative"}
       ]
     }
   },
   "imkan_kipi": {
-    "turkish_name": "İmkan Kipi (Yeterlilik Kipı)",
+    "turkish_name": "İmkan Kipi (Yeterlilik Kipi)",
     "level": "A2",
     "vowel_harmony_link": true,
     "english": {
@@ -681,7 +770,7 @@
   "gereklilik_kipi": {
     "turkish_name": "Gereklilik Kipi",
     "level": "A2",
-    "vowel_harmony_link": false,
+    "vowel_harmony_link": true,
     "english": {
       "name": "Necessity Mood (Need to)",
       "description": "The necessity mood (gereklilik kipi) uses 'lazım' or 'gerek' to express necessity in a less formal way than zorunluluk kipi. The structure literally means 'my doing is necessary' where possessive suffixes indicate the subject.",
@@ -691,9 +780,9 @@
         "Practical requirements"
       ],
       "formation": {
-        "positive": "Verb root + possessive suffix + lazım/gerek",
-        "negative": "Verb root + ma/me + possessive suffix + lazım/gerek",
-        "interrogative": "Verb root + possessive suffix + lazım/gerek + mı/mi",
+        "positive": "Verb stem + mA + possessive suffix + lazım/gerek",
+        "negative": "Verb stem + mAmA + possessive suffix + lazım/gerek",
+        "interrogative": "Verb stem + mA + possessive suffix + lazım/gerek + mı/mi",
         "literal_meaning": "The construction literally translates as 'my/your/his doing is necessary'. The possessive suffixes (-m, -n, -sı, -mız, -nız, -ları) indicate WHO must perform the action, same suffixes used for possession (evim = my house, yapmam = my doing)."
       },
       "affixes": {
@@ -720,9 +809,11 @@
         "negative_affix": "ma/me before the possessive suffix"
       },
       "examples": [
-        {"turkish": "Gitmem lazım.", "translation": "I need to go.", "type": "positive"},
-        {"turkish": "Çalışman gerek.", "translation": "You need to work.", "type": "positive"},
-        {"turkish": "Konuşmamız lazım.", "translation": "We need to talk.", "type": "positive"}
+        {"turkish": "Gitmem lazım.", "translation": "My going is necessary.", "type": "positive"},
+        {"turkish": "Çalışman gerek.", "translation": "Your working is necessary.", "type": "positive"},
+        {"turkish": "Konuşmamız lazım.", "translation": "Our talking is necessary.", "type": "positive"},
+        {"turkish": "Gitmemem lazım.", "translation": "My not going is necessary.", "type": "negative"},
+        {"turkish": "Gitmen lazım mı?", "translation": "Is your going necessary?", "type": "interrogative"}
       ]
     },
     "russian": {
@@ -734,9 +825,9 @@
         "Практические требования"
       ],
       "formation": {
-        "positive": "Основа глагола + притяжательный суффикс + lazım/gerek",
-        "negative": "Основа глагола + ma/me + притяжательный суффикс + lazım/gerek",
-        "interrogative": "Основа глагола + притяжательный суффикс + lazım/gerek + mı/mi",
+        "positive": "Основа глагола + mA + притяжательный суффикс + lazım/gerek",
+        "negative": "Основа глагола + mAmA + притяжательный суффикс + lazım/gerek",
+        "interrogative": "Основа глагола + mA + притяжательный суффикс + lazım/gerek + mı/mi",
         "literal_meaning": "Конструкция буквально переводится как 'моё/твоё/его делание необходимо'. Притяжательные суффиксы (-m, -n, -sı, -mız, -nız, -ları) указывают, КТО должен выполнить действие, те же суффиксы используются для обозначения принадлежности (evim = мой дом, yapmam = моё делание)."
       },
       "affixes": {
@@ -763,9 +854,11 @@
         "negative_affix": "ma/me перед притяжательным суффиксом"
       },
       "examples": [
-        {"turkish": "Gitmem lazım.", "translation": "Мне нужно идти.", "type": "positive"},
-        {"turkish": "Çalışman gerek.", "translation": "Тебе нужно работать.", "type": "positive"},
-        {"turkish": "Konuşmamız lazım.", "translation": "Нам нужно поговорить.", "type": "positive"}
+        {"turkish": "Gitmem lazım.", "translation": "Мой уход необходим.", "type": "positive"},
+        {"turkish": "Çalışman gerek.", "translation": "Твоя работа необходима.", "type": "positive"},
+        {"turkish": "Konuşmamız lazım.", "translation": "Наш разговор необходим.", "type": "positive"},
+        {"turkish": "Gitmemem lazım.", "translation": "Мой не-уход необходим.", "type": "negative"},
+        {"turkish": "Gitmen lazım mı?", "translation": "Твой уход необходим?", "type": "interrogative"}
       ]
     }
   },
@@ -1003,15 +1096,15 @@
         "Counterfactual conditionals: If they had wanted X, they would have done Y"
       ],
       "formation": {
-        "positive": "Verb root + mIş + olmak (conditional form) → Verb root + mIş + olsa/se + personal conditional ending",
+        "positive": "Verb stem + mIş + ol + sa/se + personal conditional ending (e.g., gelmiş olsaydım)",
         "negative": "Verb root + ma/me + mIş + olmak (conditional form)",
         "interrogative": "Verb root + mIş + olmak (conditional form) + mı/mi",
         "note": "The auxiliary verb 'olmak' is conjugated in the conditional mood and is essential for this tense. The structure literally means 'if [subject] would have been [having done X]'."
       },
       "affixes": {
         "tense_markers": [
-          {"affix": "miş", "description": "Past participle (evidential) - follows 2-way vowel harmony"},
-          {"affix": "olsa/olse", "description": "Conditional form of auxiliary 'olmak' - follows 2-way vowel harmony"}
+          {"affix": "miş/mış/muş/müş", "description": "Past participle - follows 4-way vowel harmony"},
+          {"affix": "olsa", "description": "Conditional base of auxiliary 'olmak' (there is no form *olse)"}
         ],
         "personal_endings": [
           {"pronoun": "ben", "ending": "ydım", "example": "istemiş olsaydım (if I had wanted / would have wanted)"},
@@ -1040,15 +1133,15 @@
         "Контрфактические условия: Если бы они хотели X, они бы сделали Y"
       ],
       "formation": {
-        "positive": "Основа глагола + mIş + olmak (условная форма) → Основа + mIş + olsa/se + личные условные окончания",
+        "positive": "Основа глагола + mIş + ol + sa/se + личные условные окончания (например, gelmiş olsaydım)",
         "negative": "Основа глагола + ma/me + mIş + olmak (условная форма)",
         "interrogative": "Основа глагола + mIş + olmak (условная форма) + mı/mi",
         "note": "Вспомогательный глагол 'olmak' спрягается в условном наклонении и обязателен для этого времени. Структура буквально означает 'если бы [субъект] был бы [сделавшим X]'."
       },
       "affixes": {
         "tense_markers": [
-          {"affix": "miş", "description": "Причастие прошедшего времени (очевидное) - следует 2-стороннему гармонии гласных"},
-          {"affix": "olsa/olse", "description": "Условная форма вспомогательного 'olmak' - следует 2-стороннему гармонии гласных"}
+          {"affix": "miş/mış/muş/müş", "description": "Причастие прошедшего времени - следует 4-сторонней гармонии гласных"},
+          {"affix": "olsa", "description": "Условная основа вспомогательного 'olmak' (формы *olse не существует)"}
         ],
         "personal_endings": [
           {"pronoun": "ben", "ending": "ydım", "example": "istemiş olsaydım (если бы я хотел / хотел бы)"},
@@ -1221,7 +1314,7 @@
         "negative_affix": "ma/me + yıp/yip/yup/yüp"
       },
       "examples": [
-        {"turkish": "Yemek yeyip uyudum.", "translation": "Having eaten, I slept.", "type": "positive"},
+        {"turkish": "Yemek yiyip uyudum.", "translation": "Having eaten, I slept.", "type": "positive"},
         {"turkish": "Kitabı okuyup geri verdim.", "translation": "Having read the book, I returned it.", "type": "positive"},
         {"turkish": "Düşünmeyip karar verdim.", "translation": "Without thinking, I decided.", "type": "negative"}
       ]
@@ -1250,7 +1343,7 @@
         "negative_affix": "ma/me + yıp/yip/yup/yüp"
       },
       "examples": [
-        {"turkish": "Yemek yeyip uyudum.", "translation": "Поев, я уснул.", "type": "positive"},
+        {"turkish": "Yemek yiyip uyudum.", "translation": "Поев, я уснул.", "type": "positive"},
         {"turkish": "Kitabı okuyup geri verdim.", "translation": "Прочитав книгу, я вернул ее.", "type": "positive"},
         {"turkish": "Düşünmeyip karar verdim.", "translation": "Не подумав, я принял решение.", "type": "negative"}
       ]
@@ -1279,7 +1372,7 @@
           {"affix": "ında/inde/unda/ünde", "description": "Locative case - 'when, at the time of'"}
         ],
         "personal_endings": [
-          {"pronoun": "ben", "ending": "ım/im", "example": "yaptığımda (when I do)"},
+          {"pronoun": "ben", "ending": "ım/im", "example": "yaptığımda (when I do / when I did)"},
           {"pronoun": "sen", "ending": "ın/in", "example": "yaptığında (when you do)"},
           {"pronoun": "o", "ending": "ı/i", "example": "yaptığında (when he/she does)"},
           {"pronoun": "biz", "ending": "ımız/imiz", "example": "yaptığımızda (when we do)"},
@@ -1313,7 +1406,7 @@
           {"affix": "ında/inde/unda/ünde", "description": "Местный падеж - 'когда, во время'"}
         ],
         "personal_endings": [
-          {"pronoun": "ben", "ending": "ım/im", "example": "yaptığımda (когда я делаю)"},
+          {"pronoun": "ben", "ending": "ım/im", "example": "yaptığımda (когда я делаю / когда я сделал)"},
           {"pronoun": "sen", "ending": "ın/in", "example": "yaptığında (когда ты делаешь)"},
           {"pronoun": "o", "ending": "ı/i", "example": "yaptığında (когда он/она делает)"},
           {"pronoun": "biz", "ending": "ımız/imiz", "example": "yaptığımızda (когда мы делаем)"},
