@@ -172,6 +172,11 @@
 
         <div class="grammar-card">
             <h2 class="section-title">Personal Endings</h2>
+            <div id="personal-endings-note-container" class="mb-4 p-4 bg-yellow-50 border-l-4 border-yellow-500 rounded" style="display: none;">
+                <p class="text-gray-700">
+                    <strong>Note:</strong> <span id="personal-endings-note"></span>
+                </p>
+            </div>
             <div class="overflow-x-auto">
                 <table>
                     <thead>
@@ -327,6 +332,14 @@
                         `;
                         personalEndingsTable.appendChild(tr);
                     });
+
+                    // Optional note about personal endings placement (e.g., -r before endings)
+                    if (langData.affixes.personal_endings_note) {
+                        const noteContainer = document.getElementById('personal-endings-note-container');
+                        const noteText = document.getElementById('personal-endings-note');
+                        noteText.textContent = langData.affixes.personal_endings_note;
+                        noteContainer.style.display = 'block';
+                    }
 
                     // Set examples
                     const examplesContainer = document.getElementById('examples-container');

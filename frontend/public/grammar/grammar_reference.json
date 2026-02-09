@@ -295,6 +295,7 @@
           {"pronoun": "siz", "ending": "sınız/siniz", "example": "yapacaksınız (you will do)"},
           {"pronoun": "onlar", "ending": "lar", "example": "yapacaklar (they will do)"}
         ],
+        "personal_endings_note": "When a vowel-starting personal ending is added, final -k in -acak/-ecek often softens to -ğ: yapacak + ım → yapacağım. The personal ending for 'ben' is still -ım/-im.",
         "negative_affix": "ma/me - inserted before the tense marker"
       },
       "examples": [
@@ -335,6 +336,7 @@
           {"pronoun": "siz", "ending": "sınız/siniz", "example": "yapacaksınız (вы сделаете)"},
           {"pronoun": "onlar", "ending": "lar", "example": "yapacaklar (они сделают)"}
         ],
+        "personal_endings_note": "При добавлении личного окончания, начинающегося с гласной, конечное -k в -acak/-ecek часто смягчается до -ğ: yapacak + ım → yapacağım. При этом личное окончание для 'ben' всё равно -ım/-im.",
         "negative_affix": "ma/me - вставляется перед показателем времени"
       },
       "examples": [
@@ -616,26 +618,28 @@
         "Asking about capability (Can you do it?)"
       ],
       "formation": {
-        "positive": "Verb root + (y)abil/(y)ebil + personal ending",
-        "negative": "Verb root + (y)ama/(y)eme + personal ending",
-        "interrogative": "Verb root + (y)abil/(y)ebil + personal ending + mı/mi",
-        "vowel_harmony_note": "The suffix follows 2-way vowel harmony: -abil after back vowels (a, ı, o, u), -ebil after front vowels (e, i, ö, ü). If the verb ends in a vowel, the buffer consonant 'y' is added. The negative form uses -ama/-eme instead of -abil/-ebil."
+        "positive": "Verb root + (y)abil/(y)ebil + (ı|i|u|ü)r + personal ending",
+        "negative": "Verb root + (y)ama/(y)eme + z + personal ending (1sg: ... + m)",
+        "interrogative": "Verb root + (y)abil/(y)ebil + (ı|i|u|ü)r + mı/mi/mu/mü + personal ending",
+        "vowel_harmony_note": "-(y)abil/-(y)ebil follows 2-way vowel harmony: -abil after back vowels (a, ı, o, u), -ebil after front vowels (e, i, ö, ü). In common present forms it is followed by the aorist marker -(ı|i|u|ü)r, whose vowel follows 4-way vowel harmony. If the verb ends in a vowel, the buffer consonant 'y' is added. The negative form uses -ama/-eme instead of -abil/-ebil."
       },
       "affixes": {
         "tense_markers": [
           {"affix": "abil", "description": "After verb roots with back vowels (a, ı, o, u) - e.g., yapabilir (can do)"},
           {"affix": "ebil", "description": "After verb roots with front vowels (e, i, ö, ü) - e.g., görebilir (can see)"},
           {"affix": "yabil", "description": "After vowel-ending verb roots with back vowels - e.g., okuyabilir (can read)"},
-          {"affix": "yebil", "description": "After vowel-ending verb roots with front vowels - e.g., söyleyebilir (can say)"}
+          {"affix": "yebil", "description": "After vowel-ending verb roots with front vowels - e.g., söyleyebilir (can say)"},
+          {"affix": "ir/ır/ur/ür", "description": "Aorist marker after -(y)abil/-(y)ebil in statements: yap-a-bil-ir-im (I can do). The ı/i/u/ü follows 4-way vowel harmony."}
         ],
         "personal_endings": [
-          {"pronoun": "ben", "ending": "irim/ırım", "example": "yapabilirim (I can do)"},
-          {"pronoun": "sen", "ending": "irsin/ırsın", "example": "yapabilirsin (you can do)"},
-          {"pronoun": "o", "ending": "ir/ır", "example": "yapabilir (he/she/it can do)"},
-          {"pronoun": "biz", "ending": "iriz/ırız", "example": "yapabiliriz (we can do)"},
-          {"pronoun": "siz", "ending": "irsiniz/ırsınız", "example": "yapabilirsiniz (you can do)"},
-          {"pronoun": "onlar", "ending": "irler/ırlar", "example": "yapabilirler (they can do)"}
+          {"pronoun": "ben", "ending": "im/ım/um/üm", "example": "yapabilirim (I can do)"},
+          {"pronoun": "sen", "ending": "sin/sın/sun/sün", "example": "yapabilirsin (you can do)"},
+          {"pronoun": "o", "ending": "-", "example": "yapabilir (he/she/it can do)"},
+          {"pronoun": "biz", "ending": "iz/ız/uz/üz", "example": "yapabiliriz (we can do)"},
+          {"pronoun": "siz", "ending": "siniz/sınız/sunuz/sünüz", "example": "yapabilirsiniz (you can do)"},
+          {"pronoun": "onlar", "ending": "ler/lar", "example": "yapabilirler (they can do)"}
         ],
+        "personal_endings_note": "In common present statements, the aorist marker -(ı|i|u|ü)r comes before the personal ending: yap-a-bil-ir-im. So the personal ending for 'ben' here is -im (not -ir).",
         "negative_affix": "ama/eme - replaces abil/ebil for negative forms (e.g., yapamam - I cannot do)"
       },
       "examples": [
@@ -657,26 +661,28 @@
         "Вопрос о возможности (ты можешь это сделать?)"
       ],
       "formation": {
-        "positive": "Основа глагола + (y)abil/(y)ebil + личное окончание",
-        "negative": "Основа глагола + (y)ama/(y)eme + личное окончание",
-        "interrogative": "Основа глагола + (y)abil/(y)ebil + личное окончание + mı/mi",
-        "vowel_harmony_note": "Суффикс следует 2-сторонней гармонии гласных: -abil после задних гласных (a, ı, o, u), -ebil после передних гласных (e, i, ö, ü). Если глагол заканчивается на гласную, добавляется соединительный согласный 'y'. В отрицательной форме используется -ama/-eme вместо -abil/-ebil."
+        "positive": "Основа глагола + (y)abil/(y)ebil + (ı|i|u|ü)r + личное окончание",
+        "negative": "Основа глагола + (y)ama/(y)eme + z + личное окончание (1 л. ед.: ... + m)",
+        "interrogative": "Основа глагола + (y)abil/(y)ebil + (ı|i|u|ü)r + mı/mi/mu/mü + личное окончание",
+        "vowel_harmony_note": "-(y)abil/-(y)ebil следует 2-сторонней гармонии гласных: -abil после задних гласных (a, ı, o, u), -ebil после передних гласных (e, i, ö, ü). В распространённых формах далее стоит показатель аориста -(ı|i|u|ü)r, где гласная следует 4-сторонней гармонии. Если глагол заканчивается на гласную, добавляется соединительный согласный 'y'. В отрицательной форме используется -ama/-eme вместо -abil/-ebil."
       },
       "affixes": {
         "tense_markers": [
           {"affix": "abil", "description": "После основ с задними гласными (a, ı, o, u) - напр., yapabilir (может делать)"},
           {"affix": "ebil", "description": "После основ с передними гласными (e, i, ö, ü) - напр., görebilir (может видеть)"},
           {"affix": "yabil", "description": "После основ, оканчивающихся на задние гласные - напр., okuyabilir (может читать)"},
-          {"affix": "yebil", "description": "После основ, оканчивающихся на передние гласные - напр., söyleyebilir (может сказать)"}
+          {"affix": "yebil", "description": "После основ, оканчивающихся на передние гласные - напр., söyleyebilir (может сказать)"},
+          {"affix": "ir/ır/ur/ür", "description": "Показатель аориста после -(y)abil/-(y)ebil в утвердительных формах: yap-a-bil-ir-im (я могу сделать). Гласная ı/i/u/ü следует 4-сторонней гармонии."}
         ],
         "personal_endings": [
-          {"pronoun": "ben", "ending": "irim/ırım", "example": "yapabilirim (я могу делать)"},
-          {"pronoun": "sen", "ending": "irsin/ırsın", "example": "yapabilirsin (ты можешь делать)"},
-          {"pronoun": "o", "ending": "ir/ır", "example": "yapabilir (он/она может делать)"},
-          {"pronoun": "biz", "ending": "iriz/ırız", "example": "yapabiliriz (мы можем делать)"},
-          {"pronoun": "siz", "ending": "irsiniz/ırsınız", "example": "yapabilirsiniz (вы можете делать)"},
-          {"pronoun": "onlar", "ending": "irler/ırlar", "example": "yapabilirler (они могут делать)"}
+          {"pronoun": "ben", "ending": "im/ım/um/üm", "example": "yapabilirim (я могу делать)"},
+          {"pronoun": "sen", "ending": "sin/sın/sun/sün", "example": "yapabilirsin (ты можешь делать)"},
+          {"pronoun": "o", "ending": "-", "example": "yapabilir (он/она может делать)"},
+          {"pronoun": "biz", "ending": "iz/ız/uz/üz", "example": "yapabiliriz (мы можем делать)"},
+          {"pronoun": "siz", "ending": "siniz/sınız/sunuz/sünüz", "example": "yapabilirsiniz (вы можете делать)"},
+          {"pronoun": "onlar", "ending": "ler/lar", "example": "yapabilirler (они могут делать)"}
         ],
+        "personal_endings_note": "В распространённых утвердительных формах перед личным окончанием стоит показатель аориста -(ı|i|u|ü)r: yap-a-bil-ir-im. Поэтому личное окончание для 'ben' здесь — -im (а не -ir).",
         "negative_affix": "ama/eme - заменяет abil/ebil в отрицательных формах (напр., yapamam - я не могу делать)"
       },
       "examples": [
@@ -705,7 +711,7 @@
       "formation": {
         "positive": "Verb root + malı/meli + personal ending",
         "negative": "Verb root + mamalı/memeli + personal ending",
-        "interrogative": "Verb root + malı/meli + personal ending + mı/mi",
+        "interrogative": "Verb root + malı/meli + mı/mi/mu/mü + personal ending",
         "vowel_harmony_note": "The suffix follows 2-way vowel harmony: -malı after back vowels (a, ı, o, u), -meli after front vowels (e, i, ö, ü)."
       },
       "affixes": {
@@ -714,13 +720,14 @@
           {"affix": "meli", "description": "After verb roots with front vowels - e.g., görmeli (must see)"}
         ],
         "personal_endings": [
-          {"pronoun": "ben", "ending": "yım/yim", "example": "yapmalıyım (I must do)"},
+          {"pronoun": "ben", "ending": "ım/im", "example": "yapmalıyım (I must do)"},
           {"pronoun": "sen", "ending": "sın/sin", "example": "yapmalısın (you must do)"},
           {"pronoun": "o", "ending": "-", "example": "yapmalı (he/she/it must do)"},
-          {"pronoun": "biz", "ending": "yız/yiz", "example": "yapmalıyız (we must do)"},
+          {"pronoun": "biz", "ending": "ız/iz", "example": "yapmalıyız (we must do)"},
           {"pronoun": "siz", "ending": "sınız/siniz", "example": "yapmalısınız (you must do)"},
           {"pronoun": "onlar", "ending": "lar/ler", "example": "yapmalılar (they must do)"}
         ],
+        "personal_endings_note": "After -malı/-meli (which ends in a vowel), add buffer -y- before vowel-starting endings: yapmalı + ım → yapmalıyım; yapmalı + ız → yapmalıyız. In questions, the particle comes before the personal ending: yapmalı mı + yım → yapmalı mıyım.",
         "negative_affix": "mamalı/memeli - double negative formation"
       },
       "examples": [
@@ -741,7 +748,7 @@
       "formation": {
         "positive": "Основа глагола + malı/meli + личное окончание",
         "negative": "Основа глагола + mamalı/memeli + личное окончание",
-        "interrogative": "Основа глагола + malı/meli + личное окончание + mı/mi",
+        "interrogative": "Основа глагола + malı/meli + mı/mi/mu/mü + личное окончание",
         "vowel_harmony_note": "Суффикс следует 2-сторонней гармонии гласных: -malı после задних гласных, -meli после передних гласных."
       },
       "affixes": {
@@ -750,13 +757,14 @@
           {"affix": "meli", "description": "После основ с передними гласными"}
         ],
         "personal_endings": [
-          {"pronoun": "ben", "ending": "yım/yim", "example": "yapmalıyım (я должен делать)"},
+          {"pronoun": "ben", "ending": "ım/im", "example": "yapmalıyım (я должен делать)"},
           {"pronoun": "sen", "ending": "sın/sin", "example": "yapmalısın (ты должен делать)"},
           {"pronoun": "o", "ending": "-", "example": "yapmalı (он/она должен делать)"},
-          {"pronoun": "biz", "ending": "yız/yiz", "example": "yapmalıyız (мы должны делать)"},
+          {"pronoun": "biz", "ending": "ız/iz", "example": "yapmalıyız (мы должны делать)"},
           {"pronoun": "siz", "ending": "sınız/siniz", "example": "yapmalısınız (вы должны делать)"},
           {"pronoun": "onlar", "ending": "lar/ler", "example": "yapmalılar (они должны делать)"}
         ],
+        "personal_endings_note": "После -malı/-meli (оканчивается на гласную) перед личными окончаниями, начинающимися с гласной, добавляется соединительный -y-: yapmalı + ım → yapmalıyım; yapmalı + ız → yapmalıyız. В вопросах частица стоит перед личным окончанием: yapmalı mı + yım → yapmalı mıyım.",
         "negative_affix": "mamalı/memeli - двойная отрицательная форма"
       },
       "examples": [
