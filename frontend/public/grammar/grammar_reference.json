@@ -120,7 +120,7 @@
           {"pronoun": "sen", "ending": "n", "example": "yaptın (you did)"},
           {"pronoun": "o", "ending": "-", "example": "yaptı (he/she/it did)"},
           {"pronoun": "biz", "ending": "k", "example": "yaptık (we did)"},
-          {"pronoun": "siz", "ending": "nız/niz", "example": "yaptınız (you did)"},
+          {"pronoun": "siz", "ending": "nız/niz/nuz/nüz", "example": "yaptınız (you did)"},
           {"pronoun": "onlar", "ending": "lar", "example": "yaptılar (they did)"}
         ],
         "negative_affix": "me/ma - inserted before the tense marker"
@@ -165,7 +165,7 @@
           {"pronoun": "sen", "ending": "n", "example": "yaptın (ты сделал)"},
           {"pronoun": "o", "ending": "-", "example": "yaptı (он/она сделал/а)"},
           {"pronoun": "biz", "ending": "k", "example": "yaptık (мы сделали)"},
-          {"pronoun": "siz", "ending": "nız/niz", "example": "yaptınız (вы сделали)"},
+          {"pronoun": "siz", "ending": "nız/niz/nuz/nüz", "example": "yaptınız (вы сделали)"},
           {"pronoun": "onlar", "ending": "lar", "example": "yaptılar (они сделали)"}
         ],
         "negative_affix": "me/ma - вставляется перед показателем времени"
@@ -1301,7 +1301,7 @@
       "formation": {
         "positive": "Verb root + (y)Ip",
         "negative": "Verb root + mA + (y)Ip",
-        "vowel_harmony_note": "The suffix follows 2-way harmony: -ıp/ip/up/üp based on the last vowel."
+        "vowel_harmony_note": "The suffix follows 4-way vowel harmony: -ıp/-ip/-up/-üp based on the last vowel (back/front + rounded/unrounded)."
       },
       "affixes": {
         "tense_markers": [
@@ -1330,7 +1330,7 @@
       "formation": {
         "positive": "Основа глагола + (y)Ip",
         "negative": "Основа глагола + mA + (y)Ip",
-        "vowel_harmony_note": "Суффикс следует 2-сторонней гармонии: -ıp/ip/up/üp в зависимости от последней гласной."
+        "vowel_harmony_note": "Суффикс следует 4-сторонней гармонии гласных: -ıp/-ip/-up/-üp в зависимости от последней гласной (задняя/передняя + огубленность)."
       },
       "affixes": {
         "tense_markers": [

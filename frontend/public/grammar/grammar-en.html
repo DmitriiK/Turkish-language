@@ -10,46 +10,87 @@
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
         }
         .grammar-card {
-            @apply bg-white rounded-lg shadow-md p-6 mb-6;
+            background: white;
+            border-radius: 0.5rem;
+            box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+            padding: 1.5rem;
+            margin-bottom: 1.5rem;
         }
         .section-title {
-            @apply text-2xl font-bold text-gray-800 mb-4 border-b-2 border-blue-500 pb-2;
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: #1f2937;
+            margin-bottom: 1rem;
+            border-bottom: 2px solid #3b82f6;
+            padding-bottom: 0.5rem;
         }
         .subsection-title {
-            @apply text-xl font-semibold text-gray-700 mb-3;
+            font-size: 1.25rem;
+            font-weight: 600;
+            color: #374151;
+            margin-bottom: 0.75rem;
         }
         table {
-            @apply w-full border-collapse mb-4;
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 1rem;
         }
         th {
-            @apply bg-blue-100 text-left p-3 font-semibold text-gray-700 border border-gray-300;
+            background: #dbeafe;
+            text-align: left;
+            padding: 0.75rem;
+            font-weight: 600;
+            color: #374151;
+            border: 1px solid #d1d5db;
         }
         td {
-            @apply p-3 border border-gray-300;
+            padding: 0.75rem;
+            border: 1px solid #d1d5db;
         }
         tr:nth-child(even) {
-            @apply bg-gray-50;
+            background: #f9fafb;
         }
         .example {
-            @apply bg-blue-50 border-l-4 border-blue-500 p-4 mb-3 rounded;
+            background: #eff6ff;
+            border-left: 4px solid #3b82f6;
+            padding: 1rem;
+            margin-bottom: 0.75rem;
+            border-radius: 0.25rem;
         }
         .turkish-text {
-            @apply font-semibold text-gray-800;
+            font-weight: 600;
+            color: #1f2937;
         }
         .translation-text {
-            @apply text-gray-600 mt-1;
+            color: #4b5563;
+            margin-top: 0.25rem;
         }
         .affix-badge {
-            @apply inline-block bg-blue-600 text-white px-2 py-1 rounded font-mono text-sm;
+            display: inline-block;
+            background: #2563eb;
+            color: white;
+            padding: 0.25rem 0.5rem;
+            border-radius: 0.25rem;
+            font-family: monospace;
+            font-size: 0.875rem;
         }
         .negative-affix {
-            @apply inline-block bg-purple-600 text-white px-2 py-1 rounded font-mono text-sm;
+            display: inline-block;
+            background: #9333ea;
+            color: white;
+            padding: 0.25rem 0.5rem;
+            border-radius: 0.25rem;
+            font-family: monospace;
+            font-size: 0.875rem;
         }
         ul {
-            @apply list-disc list-inside mb-4 space-y-2;
+            list-style-type: disc;
+            list-style-position: inside;
+            margin-bottom: 1rem;
         }
-        li {
-            @apply text-gray-700;
+        ul li {
+            color: #374151;
+            margin-bottom: 0.5rem;
         }
     </style>
 </head>
