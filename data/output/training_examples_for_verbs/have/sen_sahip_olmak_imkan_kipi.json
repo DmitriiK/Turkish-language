@@ -5,18 +5,19 @@
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
     "verb_full": "sahip olabilirsin",
-    "root": "sahip ol",
-    "tense_affix": "abil",
+    "root": "ol",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "irsin",
+    "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Sen çalışkan bir öğrenci olarak parlak bir gelecek sahip olabilirsin.",
-  "english_example_sentence": "You can have a bright future as a hardworking student.",
-  "russian_example_sentence": "Ты можешь иметь светлое будущее как прилежный студент.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-08T07:08:58.536014+00:00",
-  "turkish_example_sentence_with_blank": "Sen çalışkan bir öğrenci olarak parlak bir gelecek ______."
+  "turkish_example_sentence": "Sen güzel küçük bahçeli eve sahip olabilirsin",
+  "english_example_sentence": "You can have a beautiful small house with garden",
+  "russian_example_sentence": "Ты можешь иметь красивый маленький дом с садом",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:12:18.822269+00:00",
+  "turkish_example_sentence_with_blank": "Sen güzel küçük bahçeli eve ______"
 }

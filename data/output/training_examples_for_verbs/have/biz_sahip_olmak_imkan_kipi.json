@@ -5,18 +5,19 @@
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
     "verb_full": "sahip olabiliriz",
-    "root": "sahip ol",
-    "tense_affix": "abil",
+    "root": "ol",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iriz",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Biz birlikte çalışarak güzel bir ortak proje sahip olabiliriz.",
-  "english_example_sentence": "We can have a beautiful joint project by working together.",
-  "russian_example_sentence": "Мы можем иметь красивый совместный проект, работая вместе.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-08T07:08:58.536014+00:00",
-  "turkish_example_sentence_with_blank": "Biz birlikte çalışarak güzel bir ortak proje ______."
+  "turkish_example_sentence": "Biz rahat geniş ofis binasına sahip olabiliriz",
+  "english_example_sentence": "We can have a comfortable spacious office building",
+  "russian_example_sentence": "Мы можем иметь удобное просторное офисное здание",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:12:18.822269+00:00",
+  "turkish_example_sentence_with_blank": "Biz rahat geniş ofis binasına ______"
 }

@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "söyleyemeyiz",
     "root": "söyle",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yiz",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "eme"
   },
-  "turkish_example_sentence": "Biz bu tehlikeli sırları hiçbir şekilde söyleyemeyiz.",
-  "english_example_sentence": "We cannot say these dangerous secrets in any way.",
-  "russian_example_sentence": "Мы никак не можем говорить эти опасные секреты.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-08T08:17:40.684217+00:00",
-  "turkish_example_sentence_with_blank": "Biz bu tehlikeli sırları hiçbir şekilde ______."
+  "turkish_example_sentence": "Biz eski sırrı yeni arkadaşlarımıza söyleyemeyiz",
+  "english_example_sentence": "We cannot say the old secret to our new friends",
+  "russian_example_sentence": "Мы не можем сказать старый секрет нашим новым друзьям",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:13:32.302074+00:00",
+  "turkish_example_sentence_with_blank": "Biz eski sırrı yeni arkadaşlarımıza ______"
 }

@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "söyleyebilir",
     "root": "söyle",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "ir",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "O genç oyuncu sahne üzerinde duygusal sözleri söyleyebilir.",
-  "english_example_sentence": "That young actor can say emotional words on the stage.",
-  "russian_example_sentence": "Этот молодой актер может говорить эмоциональные слова на сцене.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-08T08:17:40.684217+00:00",
-  "turkish_example_sentence_with_blank": "O genç oyuncu sahne üzerinde duygusal sözleri ______."
+  "turkish_example_sentence": "O uzun hikayeyi akşam yemeğinde söyleyebilir",
+  "english_example_sentence": "He can say the long story at dinner",
+  "russian_example_sentence": "Он может сказать длинную историю за ужином",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:13:32.302074+00:00",
+  "turkish_example_sentence_with_blank": "O uzun hikayeyi akşam yemeğinde ______"
 }

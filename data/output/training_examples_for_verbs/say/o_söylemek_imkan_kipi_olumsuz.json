@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "söyleyemez",
     "root": "söyle",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "z",
+    "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "eme"
   },
-  "turkish_example_sentence": "O hasta adam zayıf sesle uzun cümleleri söyleyemez.",
-  "english_example_sentence": "That sick man cannot say long sentences with a weak voice.",
-  "russian_example_sentence": "Этот больной человек не может говорить длинные предложения слабым голосом.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-08T08:17:40.684217+00:00",
-  "turkish_example_sentence_with_blank": "O hasta adam zayıf sesle uzun cümleleri ______."
+  "turkish_example_sentence": "O gizli şifreyi yabancı insanlara söyleyemez",
+  "english_example_sentence": "She cannot say the secret password to foreign people",
+  "russian_example_sentence": "Она не может сказать секретный пароль чужим людям",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:13:32.302074+00:00",
+  "turkish_example_sentence_with_blank": "O gizli şifreyi yabancı insanlara ______"
 }

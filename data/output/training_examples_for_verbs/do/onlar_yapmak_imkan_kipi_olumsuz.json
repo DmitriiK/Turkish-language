@@ -4,19 +4,20 @@
   "verb_russian": "делать",
   "verb_infinitive": "yapmak",
   "turkish_verb": {
-    "verb_full": "yapamayacaklar",
+    "verb_full": "yapamazlar",
     "root": "yap",
-    "tense_affix": "abil",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "turkish_example_sentence": "Onlar bu uzun ve yorucu yolculuğu bir günde yapamayacaklar.",
-  "english_example_sentence": "They cannot do this long and tiring journey in one day.",
-  "russian_example_sentence": "Они не смогут совершить это долгое и утомительное путешествие за один день.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-14T07:20:19.024026+00:00",
-  "turkish_example_sentence_with_blank": "Onlar bu uzun ve yorucu yolculuğu bir günde ______."
+  "turkish_example_sentence": "Onlar kötü hava şartlarında uzun yolculuk yapamazlar",
+  "english_example_sentence": "They cannot do long journey in bad weather conditions",
+  "russian_example_sentence": "Они не могут делать долгое путешествие в плохих погодных условиях",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:12:55.746869+00:00",
+  "turkish_example_sentence_with_blank": "Onlar kötü hava şartlarında uzun yolculuk ______"
 }

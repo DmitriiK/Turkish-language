@@ -5,18 +5,19 @@
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
     "verb_full": "sahip olabilirler",
-    "root": "sahip ol",
-    "tense_affix": "abil",
+    "root": "ol",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Onlar iyi bir eğitim alarak parlak bir meslek sahip olabilirler.",
-  "english_example_sentence": "They can have a brilliant profession by receiving a good education.",
-  "russian_example_sentence": "Они могут иметь блестящую профессию, получив хорошее образование.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-08T07:08:58.536014+00:00",
-  "turkish_example_sentence_with_blank": "Onlar iyi bir eğitim alarak parlak bir meslek ______."
+  "turkish_example_sentence": "Onlar sarı tatlı küçük köpeğe sahip olabilirler",
+  "english_example_sentence": "They can have a yellow sweet small dog",
+  "russian_example_sentence": "Они могут иметь жёлтую милую маленькую собаку",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:12:18.822269+00:00",
+  "turkish_example_sentence_with_blank": "Onlar sarı tatlı küçük köpeğe ______"
 }

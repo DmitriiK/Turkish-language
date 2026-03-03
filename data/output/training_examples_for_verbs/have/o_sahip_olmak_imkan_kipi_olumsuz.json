@@ -5,18 +5,19 @@
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
     "verb_full": "sahip olamaz",
-    "root": "sahip ol",
-    "tense_affix": "abil",
+    "root": "ol",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "ir",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "turkish_example_sentence": "O küçük bir çocuk olarak böyle bir sorumluluk sahip olamaz.",
-  "english_example_sentence": "She cannot have such a responsibility as a small child.",
-  "russian_example_sentence": "Она не может иметь такую ответственность как маленький ребенок.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-08T07:08:58.536014+00:00",
-  "turkish_example_sentence_with_blank": "O küçük bir çocuk olarak böyle bir sorumluluk ______."
+  "turkish_example_sentence": "O tehlikeli yabani hayvana sahip olamaz",
+  "english_example_sentence": "He/she cannot have a dangerous wild animal",
+  "russian_example_sentence": "Он/она не может иметь опасное дикое животное",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:12:18.822269+00:00",
+  "turkish_example_sentence_with_blank": "O tehlikeli yabani hayvana ______"
 }

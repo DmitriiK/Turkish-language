@@ -4,19 +4,20 @@
   "verb_russian": "иметь",
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
-    "verb_full": "sahip olamayacaklar",
-    "root": "sahip ol",
-    "tense_affix": "abil",
+    "verb_full": "sahip olamazlar",
+    "root": "ol",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "turkish_example_sentence": "Onlar finansal destek olmadan kendi işletme sahip olamayacaklar.",
-  "english_example_sentence": "They cannot have their own business without financial support.",
-  "russian_example_sentence": "Они не смогут иметь свой бизнес без финансовой поддержки.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-08T07:08:58.536014+00:00",
-  "turkish_example_sentence_with_blank": "Onlar finansal destek olmadan kendi işletme ______."
+  "turkish_example_sentence": "Onlar kötü soğuk karanlık daireye sahip olamazlar",
+  "english_example_sentence": "They cannot have a bad cold dark apartment",
+  "russian_example_sentence": "Они не могут иметь плохую холодную тёмную квартиру",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:12:18.822269+00:00",
+  "turkish_example_sentence_with_blank": "Onlar kötü soğuk karanlık daireye ______"
 }

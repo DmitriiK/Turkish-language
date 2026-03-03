@@ -5,18 +5,19 @@
   "verb_infinitive": "sahip olmak",
   "turkish_verb": {
     "verb_full": "sahip olamam",
-    "root": "sahip ol",
-    "tense_affix": "abil",
+    "root": "ol",
+    "modal_affix": "ama",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "irim",
+    "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "turkish_example_sentence": "Ben şu anda pahalı bir lüks araç sahip olamam.",
-  "english_example_sentence": "I cannot have an expensive luxury car right now.",
-  "russian_example_sentence": "Я не могу иметь дорогой люксовый автомобиль прямо сейчас.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-08T07:08:58.536014+00:00",
-  "turkish_example_sentence_with_blank": "Ben şu anda pahalı bir lüks araç ______."
+  "turkish_example_sentence": "Ben pahalı büyük villaya sahip olamam",
+  "english_example_sentence": "I cannot have an expensive big villa",
+  "russian_example_sentence": "Я не могу иметь дорогую большую виллу",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:12:18.822269+00:00",
+  "turkish_example_sentence_with_blank": "Ben pahalı büyük villaya ______"
 }
