@@ -87,6 +87,7 @@ export const LearningCard: React.FC<LearningCardProps> = ({
   const [userInput, setUserInput] = useState('');
   const [progress, setProgress] = useState<ProgressState>({
     verbRoot: false,
+    modalAffix: false,
     negativeAffix: false,
     tenseAffix: false,
     personalAffix: false,
@@ -321,7 +322,21 @@ export const LearningCard: React.FC<LearningCardProps> = ({
         }
       }
       
-      // Tense affix (orange) - search for it after root/negative
+      // Modal affix (teal/cyan) - search for it after root/negative
+      if (example.turkish_verb.modal_affix) {
+        const remainingVerb = actualVerbText.substring(searchOffset);
+        const modalAffixIndex = remainingVerb.toLowerCase().indexOf(example.turkish_verb.modal_affix.toLowerCase());
+        if (modalAffixIndex !== -1) {
+          if (modalAffixIndex > 0) {
+            verbHtml += `<span style="color: #0d9488;">${escapeHtml(remainingVerb.substring(0, modalAffixIndex))}</span>`;
+          }
+          const modalText = remainingVerb.substring(modalAffixIndex, modalAffixIndex + example.turkish_verb.modal_affix.length);
+          verbHtml += `<span style="color: #0d9488;">${escapeHtml(modalText)}</span>`;
+          searchOffset += modalAffixIndex + example.turkish_verb.modal_affix.length;
+        }
+      }
+      
+      // Tense affix (orange) - search for it after root/negative/modal
       if (example.turkish_verb.tense_affix) {
         const remainingVerb = actualVerbText.substring(searchOffset);
         const tenseAffixIndex = remainingVerb.toLowerCase().indexOf(example.turkish_verb.tense_affix.toLowerCase());
@@ -358,6 +373,9 @@ export const LearningCard: React.FC<LearningCardProps> = ({
     }
     if (example.turkish_verb.negative_affix) {
       verbParts.push({ text: example.turkish_verb.negative_affix, color: '#7e22ce', bold: false });
+    }
+    if (example.turkish_verb.modal_affix) {
+      verbParts.push({ text: example.turkish_verb.modal_affix, color: '#0d9488', bold: false });
     }
     if (example.turkish_verb.tense_affix) {
       verbParts.push({ text: example.turkish_verb.tense_affix, color: '#c2410c', bold: false });
@@ -511,6 +529,15 @@ export const LearningCard: React.FC<LearningCardProps> = ({
         }
       }
       
+      // Check modal affix (only for modal tenses like imkan_kipi) - both enable and disable
+      if (example.turkish_verb.modal_affix) {
+        const hasModalAffix = inputLower.includes(example.turkish_verb.modal_affix.toLowerCase());
+        if (progress.modalAffix !== hasModalAffix) {
+          newProgress.modalAffix = hasModalAffix;
+          hasChanges = true;
+        }
+      }
+      
       // Check tense affix - both enable and disable
       if (example.turkish_verb.tense_affix) {
         const hasTenseAffix = inputLower.includes(example.turkish_verb.tense_affix.toLowerCase());
@@ -560,6 +587,9 @@ export const LearningCard: React.FC<LearningCardProps> = ({
       }
       if (progressState.negativeAffix && example.turkish_verb.negative_affix) {
         text += example.turkish_verb.negative_affix;
+      }
+      if (progressState.modalAffix && example.turkish_verb.modal_affix) {
+        text += example.turkish_verb.modal_affix;
       }
       if (progressState.tenseAffix && example.turkish_verb.tense_affix) {
         text += example.turkish_verb.tense_affix;
@@ -719,7 +749,30 @@ export const LearningCard: React.FC<LearningCardProps> = ({
       verbOffset += example.turkish_verb.negative_affix.length;
     }
 
-    // Tense affix (orange) - search for it after root/negative
+    // Modal affix (teal/cyan) - search for it after root/negative
+    if (example.turkish_verb.modal_affix) {
+      const remaining = verbText.substring(verbOffset);
+      const modalAffixIndex = remaining.toLowerCase().indexOf(example.turkish_verb.modal_affix.toLowerCase());
+      
+      if (modalAffixIndex > 0) {
+        verbParts.push(
+          <span key="modal-buffer" className="text-teal-600">
+            {remaining.substring(0, modalAffixIndex)}
+          </span>
+        );
+        verbOffset += modalAffixIndex;
+      }
+      
+      const modalText = verbText.substring(verbOffset, verbOffset + example.turkish_verb.modal_affix.length);
+      verbParts.push(
+        <span key="modal" className="text-teal-600">
+          {modalText}
+        </span>
+      );
+      verbOffset += example.turkish_verb.modal_affix.length;
+    }
+
+    // Tense affix (orange) - search for it after root/negative/modal
     if (example.turkish_verb.tense_affix) {
       const remaining = verbText.substring(verbOffset);
       const tenseAffixIndex = remaining.toLowerCase().indexOf(example.turkish_verb.tense_affix.toLowerCase());
@@ -932,6 +985,20 @@ export const LearningCard: React.FC<LearningCardProps> = ({
               }}
             />
           )}
+          {example.turkish_verb.modal_affix && (
+            <ProgressCheckbox
+              label="Modal Affix"
+              checked={progress.modalAffix}
+              color="teal"
+              onToggle={() => {
+                const newProgress = { ...progress, modalAffix: !progress.modalAffix };
+                setProgress(newProgress);
+                if (isLearningTurkish) {
+                  setUserInput(buildTextFromProgress(newProgress));
+                }
+              }}
+            />
+          )}
           <ProgressCheckbox
             label="Tense Affix"
             checked={progress.tenseAffix}
@@ -969,6 +1036,7 @@ export const LearningCard: React.FC<LearningCardProps> = ({
                   ...progress, 
                   fullSentence: true,
                   verbRoot: true,
+                  modalAffix: example.turkish_verb.modal_affix ? true : progress.modalAffix,
                   negativeAffix: example.turkish_verb.polarity === 'negative' ? true : progress.negativeAffix,
                   tenseAffix: true,
                   personalAffix: true
@@ -979,6 +1047,7 @@ export const LearningCard: React.FC<LearningCardProps> = ({
                 // If unchecking Reveal Answer, uncheck all components and clear textbox
                 const newProgress = { 
                   verbRoot: false,
+                  modalAffix: false,
                   negativeAffix: false,
                   tenseAffix: false,
                   personalAffix: false,
@@ -1129,6 +1198,12 @@ const ProgressCheckbox: React.FC<ProgressCheckboxProps> = ({
         border: 'border-orange-500', 
         text: 'text-orange-700',
         hover: 'hover:border-orange-400'
+      },
+      teal: { 
+        bg: 'bg-teal-500', 
+        border: 'border-teal-500', 
+        text: 'text-teal-700',
+        hover: 'hover:border-teal-400'
       },
       green: { 
         bg: 'bg-green-600', 

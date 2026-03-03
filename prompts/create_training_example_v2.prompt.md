@@ -32,6 +32,19 @@ Apply the grammar rules provided above to conjugate the verb correctly:
   - Structure: root + negative_affix + tense_affix + personal_affix
   - Example: yapmıyorum = yap + mı + yor + um
 
+**MODAL AFFIX (for imkan_kipi / ability mood)**
+- For imkan_kipi (ability/possibility), you MUST set the "modal_affix" field:
+  - Positive: modal_affix = "abil" or "ebil" (2-way vowel harmony). Structure: root + modal_affix + tense_affix + personal_affix
+    - Example: yapabilirim = yap + abil + ir + im (modal_affix="abil", tense_affix="ir")
+    - Example: gidebiliyorum = git + ebil + iyor + um (modal_affix="ebil", tense_affix="iyor")
+    - Example: yapabileceksin = yap + abil + ecek + sin (modal_affix="abil", tense_affix="ecek")
+  - Negative: modal_affix = "ama" or "eme" (replaces abil/ebil). Structure: root + modal_affix + tense_affix + personal_affix
+    - Example: yapamam = yap + ama + z... → but for ben: yapamam = yap + ama + (no z) + m. Set modal_affix="ama", tense_affix="", personal_affix="m". NOTE: for aorist negative, -z- is absent in ben and biz forms.
+    - Example: yapamıyorum = yap + ama + ıyor + um (modal_affix="ama", tense_affix="ıyor")
+    - Example: yapamayacaksın = yap + ama + yacak + sın (modal_affix="ama", tense_affix="yacak")
+  - The default tense combination is aorist (-(ı|i|u|ü)r), but imkan_kipi can combine with ANY tense marker.
+- For all OTHER tenses (not imkan_kipi): set "modal_affix" to null
+
 **CRITICAL: Include buffer vowels in affixes**
 - If a buffer vowel (i, ı, u, ü, a, e) appears between morphemes, include it in the relevant affix field
 - For şimdiki_zaman: The tense_affix MUST include the buffer vowel + "yor" (e.g., "iyor", "ıyor", "uyor", "üyor")
@@ -39,8 +52,8 @@ Apply the grammar rules provided above to conjugate the verb correctly:
   - Example: söylüyorum → söyle + **üyor** + um (NOT söyle + yor + um)
   - Example: yapıyorum → yap + **ıyor** + um (NOT yap + yor + um)
 - For other tenses: Include any connecting vowels in the tense_affix or personal_affix as appropriate
-- Verification rule: verb_full.length MUST EQUAL root.length + (negative_affix.length or 0) + tense_affix.length + (personal_affix.length or 0)
-- If lengths don't match, you forgot to include a buffer vowel somewhere!
+- Verification rule: verb_full.length MUST EQUAL root.length + (modal_affix.length or 0) + (negative_affix.length or 0) + tense_affix.length + (personal_affix.length or 0)
+- If lengths don't match, you forgot to include a buffer vowel or the modal affix somewhere!
 
 ### 2. Example Sentences
 
@@ -89,5 +102,6 @@ Before generating output, verify:
 4. ✅ Does the Turkish sentence include at least 2 nouns and 1 adjective?
 5. ✅ Are the affixes correctly broken down following the grammar rules?
 6. ✅ Do buffer vowels appear in the correct affix fields?
+7. ✅ For imkan_kipi: Is modal_affix set (abil/ebil or ama/eme)? Is tense_affix the ACTUAL tense marker (ir, iyor, di, ecek, etc.) and NOT the modal suffix?
 
 If all checks pass, generate the JSON output now.

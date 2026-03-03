@@ -49,6 +49,18 @@ Each example has a personal pronoun (ben, sen, o, biz, siz, onlar) and the verb 
 - Structure: root + negative_affix + tense_affix + personal_affix
 - Example: yapmıyorum = yap + mı + yor + um
 
+**MODAL AFFIX (for imkan_kipi / ability mood):**
+- For imkan_kipi (ability/possibility), you MUST set the "modal_affix" field:
+  - Positive: modal_affix = "abil" or "ebil" (2-way vowel harmony). Structure: root + modal_affix + tense_affix + personal_affix
+    - Example: yapabilirim = yap + abil + ir + im (modal_affix="abil", tense_affix="ir")
+    - Example: gidebiliyorum = git + ebil + iyor + um (modal_affix="ebil", tense_affix="iyor")
+  - Negative: modal_affix = "ama" or "eme" (replaces abil/ebil). Structure: root + modal_affix + tense_affix + personal_affix
+    - Example: yapamam = yap + ama + (no z for ben) + m. Set modal_affix="ama", tense_affix="", personal_affix="m"
+    - Example: yapamıyorum = yap + ama + ıyor + um (modal_affix="ama", tense_affix="ıyor")
+    - NOTE: For aorist negative, -z- is absent in ben and biz forms.
+  - The default tense combination is aorist (-(ı|i|u|ü)r), but imkan_kipi can combine with ANY tense marker.
+- For all OTHER tenses (not imkan_kipi): set "modal_affix" to null
+
 **CRITICAL: Include buffer vowels in affixes**
 - Buffer vowels (connecting vowels) MUST be included in the affix field where they appear
 - **For şimdiki_zaman (present continuous):**
@@ -141,7 +153,8 @@ Before generating the JSON output, verify:
 4. ✓ Each example has a DIFFERENT context/setting
 5. ✓ Each "verb_full" is correctly constructed following vowel harmony and affix rules
 6. ✓ Each "tense_affix" includes buffer vowel where needed (especially for şimdiki_zaman!)
-7. ✓ Each Turkish sentence has at least 4 content words (excluding pronouns)
+7. ✓ For imkan_kipi: modal_affix is set (abil/ebil or ama/eme) and tense_affix is the ACTUAL tense marker (ir, iyor, di, ecek, etc.)
+8. ✓ Each Turkish sentence has at least 4 content words (excluding pronouns)
 8. ✓ Each Turkish sentence contains the exact "verb_full"
 9. ✓ Polarity is correct: "positive" examples have no negative_affix, "negative" examples have negative_affix
 10. ✓ Personal pronouns match the requirements (check Generation Requirements section above)

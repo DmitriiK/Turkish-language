@@ -279,7 +279,9 @@ You must respond with valid JSON matching this exact schema:
 - Return ONLY valid JSON, no markdown formatting, no explanations
 - All fields are required unless marked as Optional
 - Use exact enum values for verb_tense, personal_pronoun, polarity
-- Ensure verb_full matches the combination of root + tense_affix + personal_affix (and negative_affix if present)
+- Ensure verb_full matches the combination of root + modal_affix (if any) + tense_affix + personal_affix (and negative_affix if present)
+- For imkan_kipi: modal_affix MUST be set (abil/ebil positive, ama/eme negative); tense_affix is the actual tense marker (ir, iyor, di, ecek, etc.)
+- For all other tenses: modal_affix should be null
 """
     
     return schema_description

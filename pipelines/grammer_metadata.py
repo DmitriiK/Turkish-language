@@ -404,7 +404,12 @@ class TurkishVerb(BaseModel):
     root: str = Field(
         description="Verb root without any affixes (e.g., 'git', 'konuş')"
     )
-    tense_affix: str = Field(description="Tense affix applied to the root (e.g., 'ti' for past tense)")
+    modal_affix: Optional[str] = Field(
+        default=None,
+        description="Modal affix for ability/possibility forms (e.g., 'abil', 'ebil' for positive; 'ama', 'eme' for negative imkan_kipi). "
+                    "Null for non-modal tenses. The modal affix sits between the root and the tense affix: root + modal_affix + tense_affix + personal_affix."
+    )
+    tense_affix: str = Field(description="Tense affix applied after the root (or after modal_affix if present). E.g., 'ti' for past, 'iyor' for present continuous, 'ir' for aorist.")
     verb_tense: VerbTense = Field(description="The grammatical tense used for conjugation")
 
     personal_pronoun: Optional[PersonalPronoun] = Field(description="Personal pronoun used with the verb (None for impersonal forms)")

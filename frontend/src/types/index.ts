@@ -3,6 +3,7 @@
 export interface TurkishVerb {
   verb_full: string;
   root: string;
+  modal_affix: string | null; // e.g., 'abil', 'ebil' (positive) or 'ama', 'eme' (negative) for imkan_kipi
   tense_affix: string;
   verb_tense: string;
   personal_pronoun: string | null;
@@ -41,6 +42,7 @@ export interface LearningSession {
 
 export interface ProgressState {
   verbRoot: boolean;
+  modalAffix: boolean;
   negativeAffix: boolean;
   tenseAffix: boolean;
   personalAffix: boolean;

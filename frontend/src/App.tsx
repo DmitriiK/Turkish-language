@@ -32,6 +32,7 @@ const App: React.FC = () => {
   // Progress tracking
   const [progress, setProgress] = useState<ProgressState>({
     verbRoot: false,
+    modalAffix: false,
     negativeAffix: false,
     tenseAffix: false,
     personalAffix: false,
