@@ -611,17 +611,20 @@
     "vowel_harmony_link": true,
     "english": {
       "name": "Ability Mood (Possibility Mood)",
-      "description": "The ability mood (imkan kipi or yeterlilik kipi) is used to express ability, capability, or possibility. It indicates whether someone can or is able to do something.",
+      "description": "The ability mood (imkan kipi or yeterlilik kipi) is used to express ability, capability, or possibility. The suffix -(y)abil/-(y)ebil is a modular marker that attaches right after the verb root and can then be followed by any tense marker — aorist, present continuous, past, future, conditional, etc. The most common (default) combination is with the aorist.",
       "usage": [
         "Expressing ability or capability (I can do, I am able to do)",
         "Indicating possibility (It can happen, It is possible)",
-        "Asking about capability (Can you do it?)"
+        "Asking about capability (Can you do it?)",
+        "Expressing past ability (I was able to do / I could do)",
+        "Expressing future ability (I will be able to do)",
+        "Expressing ongoing ability right now (I am able to do — present continuous)"
       ],
       "formation": {
-        "positive": "Verb root + (y)abil/(y)ebil + (ı|i|u|ü)r + personal ending",
-        "negative": "Verb root + (y)ama/(y)eme + z + personal ending (no -z- in 1sg: ... + m; and 1pl: ... + yız/yiz/yuz/yüz)",
-        "interrogative": "Verb root + (y)abil/(y)ebil + (ı|i|u|ü)r + mı/mi/mu/mü + personal ending",
-        "vowel_harmony_note": "-(y)abil/-(y)ebil follows 2-way vowel harmony: -abil after back vowels (a, ı, o, u), -ebil after front vowels (e, i, ö, ü). In common present forms it is followed by the aorist marker -(ı|i|u|ü)r, whose vowel follows 4-way vowel harmony. If the verb ends in a vowel, the buffer consonant 'y' is added. The negative form uses -ama/-eme instead of -abil/-ebil."
+        "positive": "Verb root + (y)abil/(y)ebil + TENSE MARKER + personal ending. Common tense markers after -(y)abil-: aorist -(ı|i|u|ü)r (yapabilir), present cont. -iyor (yapabiliyor), past -di (yapabildi), reported past -miş (yapabilmiş), future -(y)ecek (yapabilecek), conditional -se (yapabilse)",
+        "negative": "Verb root + (y)ama/(y)eme + TENSE MARKER + personal ending. With aorist: -z- is added EXCEPT for ben (yapamam) and biz (yapamayız). With other tenses the regular negative applies: -amıyor (pres. cont.), -amadı (past), -amayacak (future), etc.",
+        "interrogative": "Verb root + (y)abil/(y)ebil + tense marker + mı/mi/mu/mü + personal ending",
+        "vowel_harmony_note": "-(y)abil/-(y)ebil follows 2-way vowel harmony: -abil after back vowels (a, ı, o, u), -ebil after front vowels (e, i, ö, ü). In the common aorist form it is followed by -(ı|i|u|ü)r (4-way harmony). If the verb ends in a vowel, the buffer consonant 'y' is added. The negative form uses -ama/-eme instead of -abil/-ebil. Important: -(y)abil- freely combines with ANY tense suffix, not only the aorist."
       },
       "affixes": {
         "tense_markers": [
@@ -643,28 +646,39 @@
         "negative_affix": "ama/eme - replaces abil/ebil for negative forms (e.g., yapamam - I cannot do)"
       },
       "examples": [
-        {"turkish": "Türkçe konuşabilirim.", "translation": "I can speak Turkish.", "type": "positive"},
-        {"turkish": "Bu kitabı okuyabilir misin?", "translation": "Can you read this book?", "type": "interrogative"},
-        {"turkish": "Yarın gelebiliriz.", "translation": "We can come tomorrow.", "type": "positive"},
-        {"turkish": "Burada park edebilir miyiz?", "translation": "Can we park here?", "type": "interrogative"},
-        {"turkish": "Çok hızlı koşamam.", "translation": "I cannot run very fast.", "type": "negative"},
-        {"turkish": "Seni anlayamıyorum.", "translation": "I cannot understand you.", "type": "negative"},
-        {"turkish": "Bu problemi çözebilirler.", "translation": "They can solve this problem.", "type": "positive"}
+        {"turkish": "Türkçe konuşabilirim.", "translation": "I can speak Turkish. (aorist — general ability)", "type": "positive"},
+        {"turkish": "Yarın gelebiliriz.", "translation": "We can come tomorrow. (aorist)", "type": "positive"},
+        {"turkish": "Bu problemi çözebilirler.", "translation": "They can solve this problem. (aorist)", "type": "positive"},
+        {"turkish": "Şimdi görebiliyorum.", "translation": "I can see now. (present continuous — right now)", "type": "positive"},
+        {"turkish": "Sonunda kapıyı açabildik.", "translation": "We were finally able to open the door. (past -di)", "type": "positive"},
+        {"turkish": "Daha iyi duyabileceksin.", "translation": "You will be able to hear better. (future -ecek)", "type": "positive"},
+        {"turkish": "Çok hızlı koşamam.", "translation": "I cannot run very fast. (aorist neg — no -z- for ben)", "type": "negative"},
+        {"turkish": "Biz bu kadar erken kalkamayız.", "translation": "We cannot get up this early. (aorist neg — no -z- for biz)", "type": "negative"},
+        {"turkish": "O bu valizi taşıyamaz.", "translation": "He/she cannot carry this suitcase. (aorist neg — with -z-)", "type": "negative"},
+        {"turkish": "Seni anlayamıyorum.", "translation": "I cannot understand you. (present continuous neg)", "type": "negative"},
+        {"turkish": "Dün uyuyamadım.", "translation": "I couldn't sleep yesterday. (past neg -amadı)", "type": "negative"},
+        {"turkish": "Yarın gelemeyeceğiz.", "translation": "We won't be able to come tomorrow. (future neg -amayacak)", "type": "negative"},
+        {"turkish": "Bu kitabı okuyabilir misin?", "translation": "Can you read this book? (aorist interrogative)", "type": "interrogative"},
+        {"turkish": "Burada park edebilir miyiz?", "translation": "Can we park here? (aorist interrogative)", "type": "interrogative"},
+        {"turkish": "Beni duyabiliyor musun?", "translation": "Can you hear me? (present continuous interrogative)", "type": "interrogative"}
       ]
     },
     "russian": {
       "name": "Наклонение возможности (способности)",
-      "description": "Наклонение возможности (imkan kipi или yeterlilik kipi) используется для выражения способности, возможности или умения. Оно указывает, может ли кто-то что-то сделать или способен ли на это.",
+      "description": "Наклонение возможности (imkan kipi или yeterlilik kipi) выражает способность, возможность или умение. Суффикс -(y)abil/-(y)ebil — это модульный маркер, который присоединяется сразу после основы глагола и может сочетаться с любым временным показателем: аорист, настоящее продолженное, прошедшее, будущее, условное и т.д. Наиболее частая (базовая) комбинация — с аористом.",
       "usage": [
         "Выражение способности или умения (я могу, я способен)",
         "Указание возможности (это может произойти, это возможно)",
-        "Вопрос о возможности (ты можешь это сделать?)"
+        "Вопрос о возможности (ты можешь это сделать?)",
+        "Выражение способности в прошлом (я мог / я смог)",
+        "Выражение способности в будущем (я смогу)",
+        "Выражение текущей способности (я могу прямо сейчас — настоящее продолженное)"
       ],
       "formation": {
-        "positive": "Основа глагола + (y)abil/(y)ebil + (ı|i|u|ü)r + личное окончание",
-        "negative": "Основа глагола + (y)ama/(y)eme + z + личное окончание (без -z- в 1 л. ед.: ... + m; и 1 л. мн.: ... + yız/yiz/yuz/yüz)",
-        "interrogative": "Основа глагола + (y)abil/(y)ebil + (ı|i|u|ü)r + mı/mi/mu/mü + личное окончание",
-        "vowel_harmony_note": "-(y)abil/-(y)ebil следует 2-сторонней гармонии гласных: -abil после задних гласных (a, ı, o, u), -ebil после передних гласных (e, i, ö, ü). В распространённых формах далее стоит показатель аориста -(ı|i|u|ü)r, где гласная следует 4-сторонней гармонии. Если глагол заканчивается на гласную, добавляется соединительный согласный 'y'. В отрицательной форме используется -ama/-eme вместо -abil/-ebil."
+        "positive": "Основа + (y)abil/(y)ebil + ПОКАЗАТЕЛЬ ВРЕМЕНИ + личное окончание. Частые показатели после -(y)abil-: аорист -(ı|i|u|ü)r (yapabilir), наст. прод. -iyor (yapabiliyor), прошедшее -di (yapabildi), пересказ. прош. -miş (yapabilmiş), будущее -(y)ecek (yapabilecek), условное -se (yapabilse)",
+        "negative": "Основа + (y)ama/(y)eme + ПОКАЗАТЕЛЬ ВРЕМЕНИ + личное окончание. С аористом: -z- добавляется КРОМЕ ben (yapamam) и biz (yapamayız). С другими временами — обычное отрицание: -amıyor (наст. прод.), -amadı (прош.), -amayacak (буд.) и т.д.",
+        "interrogative": "Основа + (y)abil/(y)ebil + показатель времени + mı/mi/mu/mü + личное окончание",
+        "vowel_harmony_note": "-(y)abil/-(y)ebil следует 2-сторонней гармонии: -abil после задних гласных (a, ı, o, u), -ebil после передних (e, i, ö, ü). В аористе далее стоит -(ı|i|u|ü)r (4-сторонняя гармония). Если глагол заканчивается на гласную, добавляется 'y'. Отрицательная форма: -ama/-eme вместо -abil/-ebil. Важно: -(y)abil- свободно сочетается с ЛЮБЫМ временным суффиксом, не только с аористом."
       },
       "affixes": {
         "tense_markers": [
@@ -686,13 +700,21 @@
         "negative_affix": "ama/eme - заменяет abil/ebil в отрицательных формах (напр., yapamam - я не могу делать)"
       },
       "examples": [
-        {"turkish": "Türkçe konuşabilirim.", "translation": "Я могу говорить по-турецки.", "type": "positive"},
-        {"turkish": "Bu kitabı okuyabilir misin?", "translation": "Ты можешь прочитать эту книгу?", "type": "interrogative"},
-        {"turkish": "Yarın gelebiliriz.", "translation": "Мы можем прийти завтра.", "type": "positive"},
-        {"turkish": "Burada park edebilir miyiz?", "translation": "Мы можем здесь припарковаться?", "type": "interrogative"},
-        {"turkish": "Çok hızlı koşamam.", "translation": "Я не могу бегать очень быстро.", "type": "negative"},
-        {"turkish": "Seni anlayamıyorum.", "translation": "Я не могу тебя понять.", "type": "negative"},
-        {"turkish": "Bu problemi çözebilirler.", "translation": "Они могут решить эту проблему.", "type": "positive"}
+        {"turkish": "Türkçe konuşabilirim.", "translation": "Я могу говорить по-турецки. (аорист — общая способность)", "type": "positive"},
+        {"turkish": "Yarın gelebiliriz.", "translation": "Мы можем прийти завтра. (аорист)", "type": "positive"},
+        {"turkish": "Bu problemi çözebilirler.", "translation": "Они могут решить эту проблему. (аорист)", "type": "positive"},
+        {"turkish": "Şimdi görebiliyorum.", "translation": "Сейчас я могу видеть. (наст. продолженное — прямо сейчас)", "type": "positive"},
+        {"turkish": "Sonunda kapıyı açabildik.", "translation": "Мы наконец смогли открыть дверь. (прошедшее -di)", "type": "positive"},
+        {"turkish": "Daha iyi duyabileceksin.", "translation": "Ты сможешь лучше слышать. (будущее -ecek)", "type": "positive"},
+        {"turkish": "Çok hızlı koşamam.", "translation": "Я не могу бегать очень быстро. (аорист отриц. — без -z- для ben)", "type": "negative"},
+        {"turkish": "Biz bu kadar erken kalkamayız.", "translation": "Мы не можем вставать так рано. (аорист отриц. — без -z- для biz)", "type": "negative"},
+        {"turkish": "O bu valizi taşıyamaz.", "translation": "Он/она не может нести этот чемодан. (аорист отриц. — с -z-)", "type": "negative"},
+        {"turkish": "Seni anlayamıyorum.", "translation": "Я не могу тебя понять. (наст. продолженное отриц.)", "type": "negative"},
+        {"turkish": "Dün uyuyamadım.", "translation": "Вчера я не мог уснуть. (прошедшее отриц. -amadı)", "type": "negative"},
+        {"turkish": "Yarın gelemeyeceğiz.", "translation": "Завтра мы не сможем прийти. (будущее отриц. -amayacak)", "type": "negative"},
+        {"turkish": "Bu kitabı okuyabilir misin?", "translation": "Ты можешь прочитать эту книгу? (аорист вопрос)", "type": "interrogative"},
+        {"turkish": "Burada park edebilir miyiz?", "translation": "Мы можем здесь припарковаться? (аорист вопрос)", "type": "interrogative"},
+        {"turkish": "Beni duyabiliyor musun?", "translation": "Ты меня слышишь? (наст. продолженное вопрос)", "type": "interrogative"}
       ]
     }
   },
