@@ -1,6 +1,6 @@
 {
-  "total_verbs": 105,
-  "total_indexes": 105,
+  "total_verbs": 104,
+  "total_indexes": 104,
   "verbs": [
     {
       "rank": 1,
@@ -2173,33 +2173,6 @@
       "russian": "ожидать",
       "turkish": "beklemek",
       "folder": "expect",
-      "tenses": [
-        "emir_kipi",
-        "farzî_geçmiş_zaman",
-        "gelecek_zaman",
-        "geniş_zaman",
-        "gereklilik_kipi",
-        "geçmiş_gelecek_zaman",
-        "geçmiş_zaman",
-        "imkan_kipi",
-        "istek_kipi",
-        "sıfat_fiil",
-        "ulak_fiil",
-        "zaman_sıfatı",
-        "zarf_fiil",
-        "zorunluluk_kipi",
-        "şart_kipi",
-        "şartlı_kipi",
-        "şimdiki_zaman"
-      ],
-      "total_examples": 170
-    },
-    {
-      "rank": 82,
-      "english": "build",
-      "russian": "строить",
-      "turkish": "inşa etmek",
-      "folder": "build",
       "tenses": [
         "emir_kipi",
         "farzî_geçmiş_zaman",
