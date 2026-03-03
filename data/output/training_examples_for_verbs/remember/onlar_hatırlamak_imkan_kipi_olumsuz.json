@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "hatırlayamazlar",
     "root": "hatırla",
-    "tense_affix": "yama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
-    "negative_affix": "yama"
+    "negative_affix": "ama"
   },
-  "english_example_sentence": "They cannot remember anything important",
-  "russian_example_sentence": "Они не могут вспомнить ничего важного",
-  "turkish_example_sentence": "Onlar önemli hiçbir şeyi hatırlayamazlar",
-  "turkish_example_sentence_with_blank": "Onlar önemli hiçbir şeyi ______"
+  "turkish_example_sentence": "Onlar restorandaki garsonun verdiği yeni menü önerisini hatırlayamazlar",
+  "english_example_sentence": "They cannot remember the new menu suggestion given by the waiter at the restaurant",
+  "russian_example_sentence": "Они не могут вспомнить новое предложение меню, данное официантом в ресторане",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:11:12.200165+00:00",
+  "turkish_example_sentence_with_blank": "Onlar restorandaki garsonun verdiği yeni menü önerisini ______"
 }

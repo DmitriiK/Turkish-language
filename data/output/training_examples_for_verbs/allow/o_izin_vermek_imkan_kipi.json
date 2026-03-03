@@ -5,16 +5,19 @@
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
     "verb_full": "izin verebilir",
-    "root": "izin ver",
-    "tense_affix": "ebil",
+    "root": "ver",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "ir",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "The strict teacher can allow extra time for the difficult exam",
-  "russian_example_sentence": "Строгий учитель может позволить дополнительное время для сложного экзамена",
-  "turkish_example_sentence": "Katı öğretmen zor sınav için ekstra zamanı izin verebilir",
-  "turkish_example_sentence_with_blank": "Katı öğretmen zor sınav için ekstra zamanı ______"
+  "turkish_example_sentence": "O deneyimli müdür çalışanlara esnek mesai saatlerinde çalışmalarına izin verebilir",
+  "english_example_sentence": "That experienced manager can allow employees to work in flexible working hours",
+  "russian_example_sentence": "Тот опытный менеджер может разрешить сотрудникам работать в гибких рабочих часах",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:06:05.792973+00:00",
+  "turkish_example_sentence_with_blank": "O deneyimli müdür çalışanlara esnek mesai saatlerinde çalışmalarına ______"
 }

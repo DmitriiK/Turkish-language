@@ -4,17 +4,20 @@
   "verb_russian": "верить",
   "verb_infinitive": "inanmak",
   "turkish_verb": {
-    "verb_full": "inanamıyorsun",
+    "verb_full": "inanamazsın",
     "root": "inan",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "yorsun",
+    "personal_affix": "sın",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "You cannot believe such incredible news now",
-  "russian_example_sentence": "Ты не можешь верить таким невероятным новостям сейчас",
-  "turkish_example_sentence": "Sen şu inanılmaz haberlere inanamıyorsun şimdi",
-  "turkish_example_sentence_with_blank": "Sen şu inanılmaz haberlere ______ şimdi"
+  "turkish_example_sentence": "Sen yalan yanlış haberlere hemen inanamazsın",
+  "english_example_sentence": "You cannot immediately believe false news",
+  "russian_example_sentence": "Ты не можешь сразу поверить ложным новостям",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:51:11.688533+00:00",
+  "turkish_example_sentence_with_blank": "Sen yalan yanlış haberlere hemen ______"
 }

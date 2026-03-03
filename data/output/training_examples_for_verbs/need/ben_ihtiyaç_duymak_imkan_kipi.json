@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "ihtiyaç duyabilirim",
     "root": "duy",
-    "tense_affix": "yabil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "irim",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Ben bu zorlu görevde biraz yardıma ihtiyaç duyabilirim.",
-  "english_example_sentence": "I may need some help in this challenging task.",
-  "russian_example_sentence": "Мне может понадобиться небольшая помощь в этом сложном задании.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-12T08:32:11.346954+00:00",
-  "turkish_example_sentence_with_blank": "Ben bu zorlu görevde biraz yardıma ______."
+  "turkish_example_sentence": "Ben yeni spor ayakkabılara ihtiyaç duyabilirim",
+  "english_example_sentence": "I can need new sports shoes",
+  "russian_example_sentence": "Я могу нуждаться в новых спортивных кроссовках",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:39:35.614469+00:00",
+  "turkish_example_sentence_with_blank": "Ben yeni spor ayakkabılara ______"
 }

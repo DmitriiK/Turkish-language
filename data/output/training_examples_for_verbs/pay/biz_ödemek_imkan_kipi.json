@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "ödeyebiliriz",
     "root": "öde",
-    "tense_affix": "yebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iriz",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We can pay for the group's expenses",
-  "russian_example_sentence": "Мы можем оплатить расходы группы",
-  "turkish_example_sentence": "Biz grubun masraflarını ödeyebiliriz",
-  "turkish_example_sentence_with_blank": "Biz grubun masraflarını ______"
+  "turkish_example_sentence": "Biz güzel restoran hesabını birlikte rahatça ödeyebiliriz",
+  "english_example_sentence": "We can comfortably pay the nice restaurant bill together",
+  "russian_example_sentence": "Мы можем комфортно заплатить счёт за хороший ресторан вместе",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:56:18.438585+00:00",
+  "turkish_example_sentence_with_blank": "Biz güzel restoran hesabını birlikte rahatça ______"
 }

@@ -5,16 +5,19 @@
   "verb_infinitive": "ayakta durmak",
   "turkish_verb": {
     "verb_full": "ayakta durabiliriz",
-    "root": "ayakta dur",
-    "tense_affix": "abilir",
+    "root": "dur",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We can stand near the bus stop.",
-  "russian_example_sentence": "Мы можем постоять рядом с автобусной остановкой.",
-  "turkish_example_sentence": "Biz otobüs durağının yakınında ayakta durabiliriz.",
-  "turkish_example_sentence_with_blank": "Biz otobüs durağının yakınında ______."
+  "turkish_example_sentence": "Biz genç öğrenciler sıcak yaz festivalinde ayakta durabiliriz",
+  "english_example_sentence": "We young students can stand at the hot summer festival",
+  "russian_example_sentence": "Мы молодые студенты можем стоять на жарком летнем фестивале",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:55:04.829142+00:00",
+  "turkish_example_sentence_with_blank": "Biz genç öğrenciler sıcak yaz festivalinde ______"
 }

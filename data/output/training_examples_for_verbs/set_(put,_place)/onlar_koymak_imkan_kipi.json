@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "koyabilirler",
     "root": "koy",
-    "tense_affix": "abil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They can set the new furniture in the renovated living room",
-  "russian_example_sentence": "Они могут поставить новую мебель в отремонтированную гостиную",
-  "turkish_example_sentence": "Onlar yeni mobilyaları yenilenmiş oturma odasına koyabilirler",
-  "turkish_example_sentence_with_blank": "Onlar yeni mobilyaları yenilenmiş oturma odasına ______"
+  "turkish_example_sentence": "Onlar renkli oyuncak arabaları büyük çocuk odasının köşesindeki kutuya koyabilirler",
+  "english_example_sentence": "They can put the colorful toy cars in the box in the corner of the big children's room",
+  "russian_example_sentence": "Они могут положить цветные игрушечные машинки в коробку в углу большой детской комнаты",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:58:54.561388+00:00",
+  "turkish_example_sentence_with_blank": "Onlar renkli oyuncak arabaları büyük çocuk odasının köşesindeki kutuya ______"
 }

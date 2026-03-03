@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "tutabilirsin",
     "root": "tut",
-    "tense_affix": "abil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "irsin",
+    "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can hold the delicate porcelain vase carefully",
-  "russian_example_sentence": "Ты можешь держать хрупкую фарфоровую вазу осторожно",
-  "turkish_example_sentence": "Sen kırılgan porselen vazoyu dikkatle tutabilirsin",
-  "turkish_example_sentence_with_blank": "Sen kırılgan porselen vazoyu dikkatle ______"
+  "turkish_example_sentence": "Sen küçük yeşil kuşu nazikçe tutabilirsin",
+  "english_example_sentence": "You can hold the small green bird gently",
+  "russian_example_sentence": "Ты можешь держать маленькую зелёную птицу нежно",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:51:49.235485+00:00",
+  "turkish_example_sentence_with_blank": "Sen küçük yeşil kuşu nazikçe ______"
 }

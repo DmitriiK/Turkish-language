@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "düşünemem",
     "root": "düşün",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "turkish_example_sentence": "Ben gürültülü ortamda sakin düşünemem.",
-  "english_example_sentence": "I cannot think calmly in a noisy environment.",
-  "russian_example_sentence": "Я не могу думать спокойно в шумной обстановке.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-15T12:13:55.909283+00:00",
-  "turkish_example_sentence_with_blank": "Ben gürültülü ortamda sakin ______."
+  "turkish_example_sentence": "Ben gürültülü kahvede önemli iş planını düşünemem",
+  "english_example_sentence": "I cannot think about the important business plan in the noisy cafe",
+  "russian_example_sentence": "Я не могу думать о важном бизнес-плане в шумном кафе",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:30:42.607782+00:00",
+  "turkish_example_sentence_with_blank": "Ben gürültülü kahvede önemli iş planını ______"
 }

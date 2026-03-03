@@ -4,17 +4,20 @@
   "verb_russian": "останавливать",
   "verb_infinitive": "durmak",
   "turkish_verb": {
-    "verb_full": "durabiliyorlar",
+    "verb_full": "durabilirler",
     "root": "dur",
-    "tense_affix": "abil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "iyor",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They can stop the young children playing",
-  "russian_example_sentence": "Они могут остановить молодых детей, играющих",
-  "turkish_example_sentence": "Onlar genç çocukları oynayan durabiliyorlar",
-  "turkish_example_sentence_with_blank": "Onlar genç çocukları oynayan ______"
+  "turkish_example_sentence": "Onlar modern restoran kapısında arkadaşlarını beklemek için durabilirler",
+  "english_example_sentence": "They can stop at the modern restaurant door to wait for their friends",
+  "russian_example_sentence": "Они могут остановиться у двери современного ресторана, чтобы подождать своих друзей",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:03:25.820260+00:00",
+  "turkish_example_sentence_with_blank": "Onlar modern restoran kapısında arkadaşlarını beklemek için ______"
 }

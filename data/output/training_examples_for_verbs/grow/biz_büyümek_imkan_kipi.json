@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "büyüyebiliriz",
     "root": "büyü",
-    "tense_affix": "yebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iriz",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We can grow flowers in this garden",
-  "russian_example_sentence": "Мы можем выращивать цветы в этом саду",
-  "turkish_example_sentence": "Biz bu bahçede çiçekler büyüyebiliriz",
-  "turkish_example_sentence_with_blank": "Biz bu bahçede çiçekler ______"
+  "turkish_example_sentence": "Biz düzenli spor yaparak güçlü büyüyebiliriz",
+  "english_example_sentence": "We can grow strong by doing regular sports",
+  "russian_example_sentence": "Мы можем расти сильными, регулярно занимаясь спортом",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:07:56.557739+00:00",
+  "turkish_example_sentence_with_blank": "Biz düzenli spor yaparak güçlü ______"
 }

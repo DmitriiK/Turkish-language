@@ -1,0 +1,23 @@
+{
+  "verb_rank": 8,
+  "verb_english": "know",
+  "verb_russian": "знать",
+  "verb_infinitive": "bilmek",
+  "turkish_verb": {
+    "verb_full": "bildiğin",
+    "root": "bil",
+    "modal_affix": null,
+    "tense_affix": "dik",
+    "verb_tense": "dik_sıfat_fiil",
+    "personal_pronoun": "sen",
+    "personal_affix": "in",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "turkish_example_sentence": "Sen o önemli gerçeği bildiğin halde neden sustun?",
+  "english_example_sentence": "Why did you keep silent even though you knew that important truth?",
+  "russian_example_sentence": "Почему ты молчал, хотя знал эту важную правду?",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2026-03-03T13:49:10.531972+00:00",
+  "turkish_example_sentence_with_blank": "Sen o önemli gerçeği ______ halde neden sustun?"
+}

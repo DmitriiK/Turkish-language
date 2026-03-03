@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "bildirebilirsin",
     "root": "bildir",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "irsin",
+    "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can report this broken machine.",
-  "russian_example_sentence": "Ты можешь сообщить об этой сломанной машине.",
-  "turkish_example_sentence": "Sen bu bozuk makineyi bildirebilirsin.",
-  "turkish_example_sentence_with_blank": "Sen bu bozuk makineyi ______."
+  "turkish_example_sentence": "Sen acil sağlık durumunu hastane yönetimine bildirebilirsin",
+  "english_example_sentence": "You can report the urgent health situation to the hospital administration",
+  "russian_example_sentence": "Ты можешь сообщить срочную медицинскую ситуацию администрации больницы",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:23:26.490441+00:00",
+  "turkish_example_sentence_with_blank": "Sen acil sağlık durumunu hastane yönetimine ______"
 }

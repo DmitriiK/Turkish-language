@@ -4,17 +4,20 @@
   "verb_russian": "читать",
   "verb_infinitive": "okumak",
   "turkish_verb": {
-    "verb_full": "okuyamayız",
+    "verb_full": "okuyamazsınız",
     "root": "oku",
-    "tense_affix": "yama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "yız",
+    "personal_affix": "sınız",
     "polarity": "negative",
-    "negative_affix": "yama"
+    "negative_affix": "ama"
   },
-  "english_example_sentence": "You cannot read that blurry faded letter properly",
-  "russian_example_sentence": "Вы не можете правильно читать то размытое выцветшее письмо",
-  "turkish_example_sentence": "Siz o bulanık solmuş mektubu düzgün bir şekilde okuyamayız",
-  "turkish_example_sentence_with_blank": "Siz o bulanık solmuş mektubu düzgün bir şekilde ______"
+  "turkish_example_sentence": "Siz kırık gözlükle ince yazılmış menüyü okuyamazsınız",
+  "english_example_sentence": "You cannot read the finely written menu with broken glasses",
+  "russian_example_sentence": "Вы не можете читать меню, написанное мелким шрифтом, в сломанных очках",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:05:19.864847+00:00",
+  "turkish_example_sentence_with_blank": "Siz kırık gözlükle ince yazılmış menüyü ______"
 }

@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "büyüyemezsin",
     "root": "büyü",
-    "tense_affix": "yeme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "mezsin",
+    "personal_affix": "sin",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "eme"
   },
-  "english_example_sentence": "You cannot grow trees so quickly",
-  "russian_example_sentence": "Ты не можешь так быстро выращивать деревья",
-  "turkish_example_sentence": "Sen bu kadar hızlı ağaçları büyüyemezsin",
-  "turkish_example_sentence_with_blank": "Sen bu kadar hızlı ağaçları ______"
+  "turkish_example_sentence": "Sen yeterli güneş ışığı olmadan büyüyemezsin",
+  "english_example_sentence": "You cannot grow without sufficient sunlight",
+  "russian_example_sentence": "Ты не можешь расти без достаточного солнечного света",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:07:56.557739+00:00",
+  "turkish_example_sentence_with_blank": "Sen yeterli güneş ışığı olmadan ______"
 }

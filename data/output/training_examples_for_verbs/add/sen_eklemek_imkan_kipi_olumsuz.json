@@ -1,0 +1,23 @@
+{
+  "verb_rank": 65,
+  "verb_english": "add",
+  "verb_russian": "добавлять",
+  "verb_infinitive": "eklemek",
+  "turkish_verb": {
+    "verb_full": "ekleyemezsin",
+    "root": "ekle",
+    "modal_affix": "eme",
+    "tense_affix": "z",
+    "verb_tense": "imkan_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "sin",
+    "polarity": "negative",
+    "negative_affix": null
+  },
+  "turkish_example_sentence": "Sen yanlış bilgi rapora ekleyemezsin",
+  "english_example_sentence": "You cannot add incorrect information to the report",
+  "russian_example_sentence": "Ты не можешь добавить неверную информацию в отчёт",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:06:39.625022+00:00",
+  "turkish_example_sentence_with_blank": "Sen yanlış bilgi rapora ______"
+}

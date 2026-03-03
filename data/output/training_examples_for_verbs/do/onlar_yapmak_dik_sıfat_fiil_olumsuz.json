@@ -1,0 +1,23 @@
+{
+  "verb_rank": 3,
+  "verb_english": "do",
+  "verb_russian": "делать",
+  "verb_infinitive": "yapmak",
+  "turkish_verb": {
+    "verb_full": "yapmadıkları",
+    "root": "yap",
+    "modal_affix": null,
+    "tense_affix": "dık",
+    "verb_tense": "dik_sıfat_fiil",
+    "personal_pronoun": "onlar",
+    "personal_affix": "ları",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "turkish_example_sentence": "Onların yapmadıkları katkı büyük bir eksiklikti.",
+  "english_example_sentence": "The contribution they didn't make was a big deficiency.",
+  "russian_example_sentence": "Вклад, который они не сделали, был большим недостатком.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2026-03-03T13:43:44.601444+00:00",
+  "turkish_example_sentence_with_blank": "Onların ______ katkı büyük bir eksiklikti."
+}

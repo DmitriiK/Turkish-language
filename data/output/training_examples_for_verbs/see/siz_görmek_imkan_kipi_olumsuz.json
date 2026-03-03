@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "göremezsiniz",
     "root": "gör",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "zsiniz",
+    "personal_affix": "siniz",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "turkish_example_sentence": "Siz bulutlu havada dağın tepesindeki beyaz kar göremezsiniz.",
-  "english_example_sentence": "You cannot see the white snow on the mountain peak in cloudy weather.",
-  "russian_example_sentence": "Вы не можете видеть белый снег на вершине горы в облачную погоду.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T12:45:24.011414+00:00",
-  "turkish_example_sentence_with_blank": "Siz bulutlu havada dağın tepesindeki beyaz kar ______."
+  "turkish_example_sentence": "Siz bu mesafeden hızlı koşan atların numaralarını göremezsiniz",
+  "english_example_sentence": "You cannot see the numbers of the fast running horses from this distance",
+  "russian_example_sentence": "Вы не можете видеть номера быстро бегущих лошадей с этого расстояния",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:31:56.852316+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu mesafeden hızlı koşan atların numaralarını ______"
 }

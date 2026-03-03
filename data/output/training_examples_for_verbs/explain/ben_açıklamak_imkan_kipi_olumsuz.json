@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "açıklayamam",
     "root": "açıkla",
-    "tense_affix": "yabilir",
+    "modal_affix": "ama",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
-    "negative_affix": "yama"
+    "negative_affix": "ama"
   },
-  "english_example_sentence": "I cannot explain my thoughts.",
-  "russian_example_sentence": "Я не могу объяснить свои мысли.",
-  "turkish_example_sentence": "Duygularımı açıklayamam.",
-  "turkish_example_sentence_with_blank": "Duygularımı ______."
+  "turkish_example_sentence": "Ben bu garip durumu hiç açıklayamam",
+  "english_example_sentence": "I cannot explain this strange situation at all",
+  "russian_example_sentence": "Я совсем не могу объяснить эту странную ситуацию",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:26:01.358643+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu garip durumu hiç ______"
 }

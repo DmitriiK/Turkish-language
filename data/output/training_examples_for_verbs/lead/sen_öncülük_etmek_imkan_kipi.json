@@ -5,16 +5,19 @@
   "verb_infinitive": "öncülük etmek",
   "turkish_verb": {
     "verb_full": "öncülük edebilirsin",
-    "root": "et",
-    "tense_affix": "ebil",
+    "root": "öncülük et",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "irsin",
+    "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can lead the new marketing campaign",
-  "russian_example_sentence": "Ты можешь вести новую маркетинговую кампанию",
-  "turkish_example_sentence": "Sen yeni pazarlama kampanyasında öncülük edebilirsin",
-  "turkish_example_sentence_with_blank": "Sen yeni pazarlama kampanyasında ______"
+  "turkish_example_sentence": "Sen genç spor takımına kolayca öncülük edebilirsin",
+  "english_example_sentence": "You can easily lead the young sports team",
+  "russian_example_sentence": "Ты можешь легко возглавить молодую спортивную команду",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:00:49.236118+00:00",
+  "turkish_example_sentence_with_blank": "Sen genç spor takımına kolayca ______"
 }

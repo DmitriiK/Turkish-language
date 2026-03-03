@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "gerektirebilirim",
     "root": "gerektir",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "irim",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I can require more effort from the team",
-  "russian_example_sentence": "Я могу потребовать больше усилий от команды",
-  "turkish_example_sentence": "Ben ekipten daha fazla çaba gerektirebilirim",
-  "turkish_example_sentence_with_blank": "Ben ekipten daha fazla çaba ______"
+  "turkish_example_sentence": "Ben bu önemli toplantıda ek belgeler gerektirebilirim",
+  "english_example_sentence": "I can require additional documents at this important meeting",
+  "russian_example_sentence": "Я могу потребовать дополнительные документы на этом важном собрании",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:22:47.932763+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu önemli toplantıda ek belgeler ______"
 }

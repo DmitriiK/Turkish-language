@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "koyamazlar",
     "root": "koy",
-    "tense_affix": "abil",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "They cannot set the antique paintings in the humid basement",
-  "russian_example_sentence": "Они не могут поставить старинные картины в влажный подвал",
-  "turkish_example_sentence": "Onlar antika tabloları nemli bodrum katına koyamazlar",
-  "turkish_example_sentence_with_blank": "Onlar antika tabloları nemli bodrum katına ______"
+  "turkish_example_sentence": "Onlar değerli antika vazoyu kırılgan cam vitrin rafının en üst yerine koyamazlar",
+  "english_example_sentence": "They cannot put the valuable antique vase on the topmost place of the fragile glass display shelf",
+  "russian_example_sentence": "Они не могут поставить ценную антикварную вазу на самое верхнее место хрупкой стеклянной витрины",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:58:54.561388+00:00",
+  "turkish_example_sentence_with_blank": "Onlar değerli antika vazoyu kırılgan cam vitrin rafının en üst yerine ______"
 }

@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "değiştiremeyiz",
     "root": "değiştir",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yiz",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "We cannot change the old rules here",
-  "russian_example_sentence": "Мы не можем изменить старые правила здесь",
-  "turkish_example_sentence": "Biz burada eski kuralları değiştiremeyiz",
-  "turkish_example_sentence_with_blank": "Biz burada eski kuralları ______"
+  "turkish_example_sentence": "Biz doğal güzel deniz manzarasını yapay binalarla değiştiremeyiz",
+  "english_example_sentence": "We cannot change the natural beautiful sea view with artificial buildings",
+  "russian_example_sentence": "Мы не можем поменять естественный красивый морской вид на искусственные здания",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:00:10.450732+00:00",
+  "turkish_example_sentence_with_blank": "Biz doğal güzel deniz manzarasını yapay binalarla ______"
 }

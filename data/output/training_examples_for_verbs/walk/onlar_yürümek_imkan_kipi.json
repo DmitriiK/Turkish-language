@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "yürüyebilirler",
     "root": "yürü",
-    "tense_affix": "yebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They can walk around the old city.",
-  "russian_example_sentence": "Они могут прогуляться по старому городу.",
-  "turkish_example_sentence": "Onlar eski şehirde yürüyebilirler.",
-  "turkish_example_sentence_with_blank": "Onlar eski şehirde ______."
+  "turkish_example_sentence": "Onlar geniş botanik bahçesinde özgürce yürüyebilirler",
+  "english_example_sentence": "They can walk freely in the wide botanical garden",
+  "russian_example_sentence": "Они могут свободно ходить в широком ботаническом саду",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:09:10.543019+00:00",
+  "turkish_example_sentence_with_blank": "Onlar geniş botanik bahçesinde özgürce ______"
 }

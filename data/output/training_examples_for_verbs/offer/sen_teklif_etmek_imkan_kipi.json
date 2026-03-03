@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "teklif edebilirsin",
     "root": "teklif et",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "irsin",
+    "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can offer your assistance.",
-  "russian_example_sentence": "Вы можете предложить свою помощь.",
-  "turkish_example_sentence": "Sen desteğini teklif edebilirsin.",
-  "turkish_example_sentence_with_blank": "Sen desteğini ______."
+  "turkish_example_sentence": "Sen misafirlere sıcak Türk kahvesi teklif edebilirsin",
+  "english_example_sentence": "You can offer hot Turkish coffee to the guests",
+  "russian_example_sentence": "Ты можешь предложить горячий турецкий кофе гостям",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:10:29.027751+00:00",
+  "turkish_example_sentence_with_blank": "Sen misafirlere sıcak Türk kahvesi ______"
 }

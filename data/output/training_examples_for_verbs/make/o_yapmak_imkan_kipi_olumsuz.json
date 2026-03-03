@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "yapamaz",
     "root": "yap",
-    "tense_affix": "a",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "z",
+    "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "ama"
   },
-  "turkish_example_sentence": "O, bu kadar hızlı bir kararı kendi başına yapamaz.",
-  "english_example_sentence": "He/She cannot make such a quick decision on their own.",
-  "russian_example_sentence": "Он/Она не может принять такое быстрое решение самостоятельно.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T08:08:32.763414+00:00",
-  "turkish_example_sentence_with_blank": "O, bu kadar hızlı bir kararı kendi başına ______."
+  "turkish_example_sentence": "O karmaşık bilgisayar programını yapamaz",
+  "english_example_sentence": "He/she cannot make the complex computer program",
+  "russian_example_sentence": "Он/она не может сделать сложную компьютерную программу",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:29:25.345178+00:00",
+  "turkish_example_sentence_with_blank": "O karmaşık bilgisayar programını ______"
 }

@@ -5,18 +5,19 @@
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
     "verb_full": "yardım edemeyiz",
-    "root": "yardım et",
-    "tense_affix": "eme",
+    "root": "et",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yiz",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "turkish_example_sentence": "Biz uzak şehirde olduğumuz için düğün organizasyonunda yardım edemeyiz",
-  "english_example_sentence": "We cannot help with the wedding organization because we are in a distant city",
-  "russian_example_sentence": "Мы не можем помочь с организацией свадьбы, потому что мы в далёком городе",
+  "turkish_example_sentence": "Biz yarın uzak köyde yaşayan çiftçilere büyük traktör tamiratında yardım edemeyiz",
+  "english_example_sentence": "We cannot help the farmers living in the distant village with the big tractor repair tomorrow",
+  "russian_example_sentence": "Мы не можем помочь фермерам, живущим в дальней деревне, с ремонтом большого трактора завтра",
   "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-17T10:25:33.811990+00:00",
-  "turkish_example_sentence_with_blank": "Biz uzak şehirde olduğumuz için düğün organizasyonunda ______"
+  "generated_at": "2026-03-03T08:46:04.232024+00:00",
+  "turkish_example_sentence_with_blank": "Biz yarın uzak köyde yaşayan çiftçilere büyük traktör tamiratında ______"
 }

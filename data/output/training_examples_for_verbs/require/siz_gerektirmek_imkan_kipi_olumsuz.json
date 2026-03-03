@@ -4,17 +4,20 @@
   "verb_russian": "требовать",
   "verb_infinitive": "gerektirmek",
   "turkish_verb": {
-    "verb_full": "gerektiremeyebilirsiniz",
+    "verb_full": "gerektiremezsiniz",
     "root": "gerektir",
-    "tense_affix": "ebil",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "irsiniz",
+    "personal_affix": "siniz",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "You may not require any modifications this week",
-  "russian_example_sentence": "Вы можете не требовать никаких модификаций на этой неделе",
-  "turkish_example_sentence": "Siz bu hafta hiçbir değişiklik gerektiremeyebilirsiniz",
-  "turkish_example_sentence_with_blank": "Siz bu hafta hiçbir değişiklik ______"
+  "turkish_example_sentence": "Siz hasta insanlardan ağır fiziksel egzersiz gerektiremezsiniz",
+  "english_example_sentence": "You cannot require heavy physical exercise from sick people",
+  "russian_example_sentence": "Вы не можете требовать тяжелые физические упражнения от больных людей",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:22:47.932763+00:00",
+  "turkish_example_sentence_with_blank": "Siz hasta insanlardan ağır fiziksel egzersiz ______"
 }

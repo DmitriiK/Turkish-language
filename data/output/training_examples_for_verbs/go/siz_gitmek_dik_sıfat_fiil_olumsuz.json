@@ -1,0 +1,23 @@
+{
+  "verb_rank": 5,
+  "verb_english": "go",
+  "verb_russian": "идти",
+  "verb_infinitive": "gitmek",
+  "turkish_verb": {
+    "verb_full": "gitmediğiniz",
+    "root": "git",
+    "modal_affix": null,
+    "tense_affix": "diğ",
+    "verb_tense": "dik_sıfat_fiil",
+    "personal_pronoun": "siz",
+    "personal_affix": "iniz",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "turkish_example_sentence": "Sizin bu sene gitmediğiniz yazlık ev boş kaldı.",
+  "english_example_sentence": "The summer house you didn't go to this year remained empty.",
+  "russian_example_sentence": "Дачный дом, в который вы не поехали в этом году, остался пустым.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2026-03-03T13:45:44.514799+00:00",
+  "turkish_example_sentence_with_blank": "Sizin bu sene ______ yazlık ev boş kaldı."
+}

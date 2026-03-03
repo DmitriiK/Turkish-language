@@ -5,16 +5,19 @@
   "verb_infinitive": "ayakta durmak",
   "turkish_verb": {
     "verb_full": "ayakta durabilirim",
-    "root": "ayakta dur",
-    "tense_affix": "abilir",
+    "root": "dur",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I can stand without any help.",
-  "russian_example_sentence": "Я могу стоять без посторонней помощи.",
-  "turkish_example_sentence": "Ben yardımsız olarak ayakta durabilirim.",
-  "turkish_example_sentence_with_blank": "Ben yardımsız olarak ______."
+  "turkish_example_sentence": "Ben uzun toplantılarda saatlerce ayakta durabilirim",
+  "english_example_sentence": "I can stand for hours in long meetings",
+  "russian_example_sentence": "Я могу стоять часами на долгих собраниях",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:55:04.829142+00:00",
+  "turkish_example_sentence_with_blank": "Ben uzun toplantılarda saatlerce ______"
 }

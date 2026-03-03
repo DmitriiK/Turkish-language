@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "değiştirebiliriz",
     "root": "değiştir",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iriz",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We can change our small apartment together",
-  "russian_example_sentence": "Мы можем вместе изменить нашу маленькую квартиру",
-  "turkish_example_sentence": "Biz küçük dairemizi birlikte değiştirebiliriz",
-  "turkish_example_sentence_with_blank": "Biz küçük dairemizi birlikte ______"
+  "turkish_example_sentence": "Biz büyük oturma odasının beyaz duvar rengini değiştirebiliriz",
+  "english_example_sentence": "We can change the big living room's white wall color",
+  "russian_example_sentence": "Мы можем поменять белый цвет стен большой гостиной",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:00:10.450732+00:00",
+  "turkish_example_sentence_with_blank": "Biz büyük oturma odasının beyaz duvar rengini ______"
 }

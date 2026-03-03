@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "getiremez",
     "root": "getir",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "z",
+    "personal_affix": "",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "She cannot bring important documents now",
-  "russian_example_sentence": "Она не может принести важные документы сейчас",
-  "turkish_example_sentence": "O önemli belgeleri şu anda getiremez",
-  "turkish_example_sentence_with_blank": "O önemli belgeleri şu anda ______"
+  "turkish_example_sentence": "O hasta çocuk bugün okula yeşil spor çantasını getiremez",
+  "english_example_sentence": "That sick child cannot bring his green sports bag to school today",
+  "russian_example_sentence": "Тот больной ребенок не может принести свою зеленую спортивную сумку в школу сегодня",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:52:28.970369+00:00",
+  "turkish_example_sentence_with_blank": "O hasta çocuk bugün okula yeşil spor çantasını ______"
 }

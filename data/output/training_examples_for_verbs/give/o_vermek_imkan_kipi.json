@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "verebilir",
     "root": "ver",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "ir",
+    "personal_affix": "",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "O doktor hastaya etkili ilaç verebilir.",
-  "english_example_sentence": "He/She can give the patient effective medicine.",
-  "russian_example_sentence": "Он/Она может дать пациенту эффективное лекарство.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T11:55:09.277653+00:00",
-  "turkish_example_sentence_with_blank": "O doktor hastaya etkili ilaç ______."
+  "turkish_example_sentence": "O bize güzel çiçek bahçesinden taze güller verebilir",
+  "english_example_sentence": "He can give us fresh roses from the beautiful flower garden",
+  "russian_example_sentence": "Он может дать нам свежие розы из красивого цветочного сада",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:35:48.795925+00:00",
+  "turkish_example_sentence_with_blank": "O bize güzel çiçek bahçesinden taze güller ______"
 }

@@ -4,19 +4,20 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatamıyoruz",
+    "verb_full": "anlatamayız",
     "root": "anlat",
-    "tense_affix": "abil",
+    "modal_affix": "ama",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iyor",
+    "personal_affix": "yız",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "turkish_example_sentence": "Biz bu teknik konuyu basit bir dille anlatamıyoruz.",
-  "english_example_sentence": "We cannot tell this technical subject in simple language.",
-  "russian_example_sentence": "Мы не можем рассказать эту техническую тему простым языком.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:40:32.121669+00:00",
-  "turkish_example_sentence_with_blank": "Biz bu teknik konuyu basit bir dille ______."
+  "turkish_example_sentence": "Biz kişisel aile sorunlarımızı yeni komşulara anlatamayız",
+  "english_example_sentence": "We cannot tell our personal family problems to the new neighbors",
+  "russian_example_sentence": "Мы не можем рассказать наши личные семейные проблемы новым соседям",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:36:27.526034+00:00",
+  "turkish_example_sentence_with_blank": "Biz kişisel aile sorunlarımızı yeni komşulara ______"
 }

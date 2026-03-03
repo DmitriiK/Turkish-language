@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "buluşamayız",
     "root": "buluş",
-    "tense_affix": "amayız",
+    "modal_affix": "ama",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yız",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "We cannot meet early tomorrow morning.",
-  "russian_example_sentence": "Мы не можем встретиться завтра утром рано.",
-  "turkish_example_sentence": "Biz yarın sabah erken buluşamayız.",
-  "turkish_example_sentence_with_blank": "Biz yarın sabah erken ______."
+  "turkish_example_sentence": "Biz kötü hava koşulları nedeniyle buluşamayız",
+  "english_example_sentence": "We cannot meet due to bad weather conditions",
+  "russian_example_sentence": "Мы не можем встретиться из-за плохих погодных условий",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:56:55.670429+00:00",
+  "turkish_example_sentence_with_blank": "Biz kötü hava koşulları nedeniyle ______"
 }

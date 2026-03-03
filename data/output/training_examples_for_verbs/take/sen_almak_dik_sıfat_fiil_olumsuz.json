@@ -1,0 +1,23 @@
+{
+  "verb_rank": 10,
+  "verb_english": "take",
+  "verb_russian": "брать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almadığın",
+    "root": "al",
+    "modal_affix": null,
+    "tense_affix": "dığ",
+    "verb_tense": "dik_sıfat_fiil",
+    "personal_pronoun": "sen",
+    "personal_affix": "ın",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "turkish_example_sentence": "Senin geçen ay almadığın karar çok önemliydi.",
+  "english_example_sentence": "The decision you didn't take last month was very important.",
+  "russian_example_sentence": "Решение, которое ты не принял в прошлом месяце, было очень важным.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2026-03-03T13:51:42.048109+00:00",
+  "turkish_example_sentence_with_blank": "Senin geçen ay ______ karar çok önemliydi."
+}

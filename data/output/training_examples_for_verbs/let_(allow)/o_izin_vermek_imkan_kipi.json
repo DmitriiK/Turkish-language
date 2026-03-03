@@ -1,20 +1,23 @@
 {
   "verb_rank": 30,
-  "verb_english": "let (allow)",
+  "verb_english": "let",
   "verb_russian": "позволять",
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
     "verb_full": "izin verebilir",
-    "root": "izin ver",
-    "tense_affix": "ebilir",
+    "root": "ver",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He can let his cat enter.",
-  "russian_example_sentence": "Он может позволить своей кошке войти.",
-  "turkish_example_sentence": "O, kedisinin girmesine izin verebilir.",
-  "turkish_example_sentence_with_blank": "O, kedisinin girmesine ______."
+  "turkish_example_sentence": "O sabahları komşu çocuklarına büyük bahçede oynamaya izin verebilir",
+  "english_example_sentence": "He/she can let neighbor children play in the big garden in the mornings",
+  "russian_example_sentence": "Он/она может позволить соседским детям играть в большом саду по утрам",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:44:05.342589+00:00",
+  "turkish_example_sentence_with_blank": "O sabahları komşu çocuklarına büyük bahçede oynamaya ______"
 }

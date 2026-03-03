@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "isteyemez",
     "root": "iste",
-    "tense_affix": "ye",
+    "modal_affix": "yeme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "z",
+    "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "yeme"
   },
-  "turkish_example_sentence": "O tatlı ve lezzetli meyveyi sağlık nedeniyle isteyemez.",
-  "english_example_sentence": "He cannot want the sweet and delicious fruit due to health reasons.",
-  "russian_example_sentence": "Он не может хотеть сладкий и вкусный фрукт по причинам здоровья.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T11:49:09.633607+00:00",
-  "turkish_example_sentence_with_blank": "O tatlı ve lezzetli meyveyi sağlık nedeniyle ______."
+  "turkish_example_sentence": "O karanlık oda ve soğuk hava isteyemez",
+  "english_example_sentence": "He/she cannot want dark room and cold weather",
+  "russian_example_sentence": "Он/она не может хотеть темную комнату и холодную погоду",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:33:10.979460+00:00",
+  "turkish_example_sentence_with_blank": "O karanlık oda ve soğuk hava ______"
 }

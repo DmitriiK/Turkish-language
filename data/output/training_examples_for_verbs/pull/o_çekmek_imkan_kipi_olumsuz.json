@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "çekemez",
     "root": "çek",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "mez",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "He cannot pull the old wagon",
-  "russian_example_sentence": "Он не может тянуть старую телегу",
-  "turkish_example_sentence": "O eski arabayı çekemez",
-  "turkish_example_sentence_with_blank": "O eski arabayı ______"
+  "turkish_example_sentence": "O yorgun çocuk dolu alışveriş sepetini çekemez",
+  "english_example_sentence": "That tired child cannot pull the full shopping cart",
+  "russian_example_sentence": "Тот усталый ребёнок не может тянуть полную покупательскую тележку",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:24:47.153594+00:00",
+  "turkish_example_sentence_with_blank": "O yorgun çocuk dolu alışveriş sepetini ______"
 }

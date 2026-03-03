@@ -4,17 +4,20 @@
   "verb_russian": "создавать",
   "verb_infinitive": "yaratmak",
   "turkish_verb": {
-    "verb_full": "yaratamıyorum",
+    "verb_full": "yaratamam",
     "root": "yarat",
-    "tense_affix": "abil",
+    "modal_affix": "ama",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "iyor",
+    "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "I cannot create music without inspiration",
-  "russian_example_sentence": "Я не могу создавать музыку без вдохновения",
-  "turkish_example_sentence": "Ben ilham olmadan yeni müzik yaratamıyorum",
-  "turkish_example_sentence_with_blank": "Ben ilham olmadan yeni müzik ______"
+  "turkish_example_sentence": "Ben karmaşık bilgisayar programları yaratamam",
+  "english_example_sentence": "I cannot create complex computer programs",
+  "russian_example_sentence": "Я не могу создавать сложные компьютерные программы",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:04:00.385530+00:00",
+  "turkish_example_sentence_with_blank": "Ben karmaşık bilgisayar programları ______"
 }

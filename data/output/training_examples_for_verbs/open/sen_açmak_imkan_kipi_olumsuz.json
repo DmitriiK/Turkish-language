@@ -1,0 +1,23 @@
+{
+  "verb_rank": 68,
+  "verb_english": "open",
+  "verb_russian": "открывать",
+  "verb_infinitive": "açmak",
+  "turkish_verb": {
+    "verb_full": "açamazsın",
+    "root": "aç",
+    "modal_affix": "ama",
+    "tense_affix": "z",
+    "verb_tense": "imkan_kipi",
+    "personal_pronoun": "sen",
+    "personal_affix": "sın",
+    "polarity": "negative",
+    "negative_affix": "ama"
+  },
+  "turkish_example_sentence": "Sen sıcak fırın kapağını şimdi açamazsın",
+  "english_example_sentence": "You cannot open the hot oven lid now",
+  "russian_example_sentence": "Ты не можешь сейчас открыть горячую крышку духовки",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:08:31.924803+00:00",
+  "turkish_example_sentence_with_blank": "Sen sıcak fırın kapağını şimdi ______"
+}

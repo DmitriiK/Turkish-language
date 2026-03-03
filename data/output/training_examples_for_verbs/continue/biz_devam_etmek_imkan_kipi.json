@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "devam edebiliriz",
     "root": "devam et",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iriz",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We can continue our exciting adventure in the forest",
-  "russian_example_sentence": "Мы можем продолжить наше захватывающее приключение в лесу",
-  "turkish_example_sentence": "Biz heyecan verici macerası orman devam edebiliriz",
-  "turkish_example_sentence_with_blank": "Biz heyecan verici macerası orman ______"
+  "turkish_example_sentence": "Biz hızlı tempoda eski müzik grubuna devam edebiliriz",
+  "english_example_sentence": "We can continue to the old music group at a fast tempo",
+  "russian_example_sentence": "Мы можем продолжать старую музыкальную группу в быстром темпе",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:58:11.016782+00:00",
+  "turkish_example_sentence_with_blank": "Biz hızlı tempoda eski müzik grubuna ______"
 }

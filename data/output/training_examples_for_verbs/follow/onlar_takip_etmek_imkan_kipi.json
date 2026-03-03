@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "takip edebilirler",
     "root": "takip et",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They can follow the interesting cooking show instructions",
-  "russian_example_sentence": "Они могут следить за интересными инструкциями кулинарного шоу",
-  "turkish_example_sentence": "Onlar ilginç yemek programının talimatlarını takip edebilirler",
-  "turkish_example_sentence_with_blank": "Onlar ilginç yemek programının talimatlarını ______"
+  "turkish_example_sentence": "Onlar modern teknoloji trendlerini internet üzerinden takip edebilirler",
+  "english_example_sentence": "They can follow the modern technology trends over the internet",
+  "russian_example_sentence": "Они могут следить за современными технологическими трендами через интернет",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:02:47.363502+00:00",
+  "turkish_example_sentence_with_blank": "Onlar modern teknoloji trendlerini internet üzerinden ______"
 }

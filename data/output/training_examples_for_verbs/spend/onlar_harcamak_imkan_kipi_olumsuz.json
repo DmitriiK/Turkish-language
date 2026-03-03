@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "harcayamazlar",
     "root": "harca",
-    "tense_affix": "yama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "mazlar",
+    "personal_affix": "lar",
     "polarity": "negative",
-    "negative_affix": "yama"
+    "negative_affix": "ama"
   },
-  "english_example_sentence": "They cannot spend so much money on food",
-  "russian_example_sentence": "Они не могут потратить так много денег на еду",
-  "turkish_example_sentence": "Onlar yemeğe bu kadar çok para harcayamazlar",
-  "turkish_example_sentence_with_blank": "Onlar yemeğe bu kadar çok para ______"
+  "turkish_example_sentence": "Onlar okul bütçesini eski kırık sandalyelere harcayamazlar",
+  "english_example_sentence": "They cannot spend the school budget on old broken chairs",
+  "russian_example_sentence": "Они не могут тратить школьный бюджет на старые сломанные стулья",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:07:20.216569+00:00",
+  "turkish_example_sentence_with_blank": "Onlar okul bütçesini eski kırık sandalyelere ______"
 }

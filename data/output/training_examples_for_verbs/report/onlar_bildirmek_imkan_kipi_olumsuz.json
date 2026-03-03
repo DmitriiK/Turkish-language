@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "bildiremezler",
     "root": "bildir",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "They cannot report the missing documents.",
-  "russian_example_sentence": "Они не могут сообщить о пропавших документах.",
-  "turkish_example_sentence": "Onlar kayıp evrakları bildiremezler.",
-  "turkish_example_sentence_with_blank": "Onlar kayıp evrakları ______."
+  "turkish_example_sentence": "Onlar eski güvenlik ihlali kayıtlarını siber güvenlik ekibine bildiremezler",
+  "english_example_sentence": "They cannot report the old security breach records to the cybersecurity team",
+  "russian_example_sentence": "Они не могут сообщить старые записи о нарушениях безопасности команде кибербезопасности",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:23:26.490441+00:00",
+  "turkish_example_sentence_with_blank": "Onlar eski güvenlik ihlali kayıtlarını siber güvenlik ekibine ______"
 }

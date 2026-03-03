@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "kaybedebilirim",
     "root": "kaybet",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "irim",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I can lose the red bag",
-  "russian_example_sentence": "Я могу потерять красную сумку",
-  "turkish_example_sentence": "Ben kırmızı çantayı kaybedebilirim",
-  "turkish_example_sentence_with_blank": "Ben kırmızı çantayı ______"
+  "turkish_example_sentence": "Ben önemli iş toplantısını kaybedebilirim",
+  "english_example_sentence": "I can lose the important business meeting",
+  "russian_example_sentence": "Я могу потерять важную деловую встречу",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:55:40.038359+00:00",
+  "turkish_example_sentence_with_blank": "Ben önemli iş toplantısını ______"
 }

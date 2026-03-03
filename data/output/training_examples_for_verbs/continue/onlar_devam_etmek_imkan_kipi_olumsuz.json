@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "devam edemezler",
     "root": "devam et",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "zler",
+    "personal_affix": "ler",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "They cannot continue their old traditions in the modern city",
-  "russian_example_sentence": "Они не могут продолжить свои старые традиции в современном городе",
-  "turkish_example_sentence": "Onlar eski geleneklerini modern şehirde devam edemezler",
-  "turkish_example_sentence_with_blank": "Onlar eski geleneklerini modern şehirde ______"
+  "turkish_example_sentence": "Onlar yoğun iş temposu nedeniyle akşam resim kurslarına devam edemezler",
+  "english_example_sentence": "They cannot continue to the evening painting courses due to the intense work pace",
+  "russian_example_sentence": "Они не могут продолжать вечерние курсы рисования из-за интенсивного рабочего темпа",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:58:11.016782+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yoğun iş temposu nedeniyle akşam resim kurslarına ______"
 }

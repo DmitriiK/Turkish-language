@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "değiştirebilirim",
     "root": "değiştir",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "irim",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I can change my old red dress today",
-  "russian_example_sentence": "Я могу изменить своё старое красное платье сегодня",
-  "turkish_example_sentence": "Ben bugün eski kırmızı elbisemi değiştirebilirim",
-  "turkish_example_sentence_with_blank": "Ben bugün eski kırmızı elbisemi ______"
+  "turkish_example_sentence": "Ben eski kırmızı perdelerimi kolayca değiştirebilirim",
+  "english_example_sentence": "I can easily change my old red curtains",
+  "russian_example_sentence": "Я могу легко поменять мои старые красные шторы",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:00:10.450732+00:00",
+  "turkish_example_sentence_with_blank": "Ben eski kırmızı perdelerimi kolayca ______"
 }

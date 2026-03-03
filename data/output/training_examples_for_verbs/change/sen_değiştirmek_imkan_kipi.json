@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "değiştirebilirsin",
     "root": "değiştir",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "irsin",
+    "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can change your blue notebook easily",
-  "russian_example_sentence": "Ты можешь легко изменить свою синюю тетрадь",
-  "turkish_example_sentence": "Sen mavi defterni kolayca değiştirebilirsin",
-  "turkish_example_sentence_with_blank": "Sen mavi defterni kolayca ______"
+  "turkish_example_sentence": "Sen yeni telefon şifreni her hafta değiştirebilirsin",
+  "english_example_sentence": "You can change your new phone password every week",
+  "russian_example_sentence": "Ты можешь менять свой новый пароль телефона каждую неделю",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:00:10.450732+00:00",
+  "turkish_example_sentence_with_blank": "Sen yeni telefon şifreni her hafta ______"
 }

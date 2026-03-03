@@ -4,19 +4,20 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatabiliyorsun",
+    "verb_full": "anlatabilirsin",
     "root": "anlat",
-    "tense_affix": "abil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "iyor",
+    "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Sen harika bir şarkıyı güzel bir sesle anlatabiliyorsun.",
-  "english_example_sentence": "You can tell a wonderful song with a beautiful voice.",
-  "russian_example_sentence": "Ты можешь рассказать чудесную песню красивым голосом.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:40:32.121669+00:00",
-  "turkish_example_sentence_with_blank": "Sen harika bir şarkıyı güzel bir sesle ______."
+  "turkish_example_sentence": "Sen ilginç seyahat deneyimlerini toplantıda anlatabilirsin",
+  "english_example_sentence": "You can tell interesting travel experiences at the meeting",
+  "russian_example_sentence": "Ты можешь рассказать интересные путешествия на собрании",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:36:27.526034+00:00",
+  "turkish_example_sentence_with_blank": "Sen ilginç seyahat deneyimlerini toplantıda ______"
 }

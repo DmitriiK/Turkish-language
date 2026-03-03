@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "koyamayız",
     "root": "koy",
-    "tense_affix": "abil",
+    "modal_affix": "ama",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iriz",
+    "personal_affix": "yız",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "We cannot set the delicate sculptures in the crowded storage room",
-  "russian_example_sentence": "Мы не можем поставить хрупкие скульптуры в переполненную кладовую",
-  "turkish_example_sentence": "Biz hassas heykelleri kalabalık depo odasına koyamayız",
-  "turkish_example_sentence_with_blank": "Biz hassas heykelleri kalabalık depo odasına ______"
+  "turkish_example_sentence": "Biz soğuk dondurma kutusunu sıcak fırının yanına koyamayız",
+  "english_example_sentence": "We cannot put the cold ice cream box next to the hot oven",
+  "russian_example_sentence": "Мы не можем поставить холодную коробку с мороженым рядом с горячей духовкой",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:58:54.561388+00:00",
+  "turkish_example_sentence_with_blank": "Biz soğuk dondurma kutusunu sıcak fırının yanına ______"
 }

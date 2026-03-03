@@ -4,19 +4,20 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulamayınız",
+    "verb_full": "bulamazsınız",
     "root": "bul",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "yınız",
+    "personal_affix": "sınız",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "turkish_example_sentence": "Siz bu nadir antika tabağı pazarda bulamayınız.",
-  "english_example_sentence": "You cannot find this rare antique plate at the market.",
-  "russian_example_sentence": "Вы не можете найти эту редкую антикварную тарелку на рынке.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-15T12:39:33.336399+00:00",
-  "turkish_example_sentence_with_blank": "Siz bu nadir antika tabağı pazarda ______."
+  "turkish_example_sentence": "Siz küçük kasabada ünlü lezzetli Türk kahvesi bulamazsınız",
+  "english_example_sentence": "You cannot find famous delicious Turkish coffee in the small town",
+  "russian_example_sentence": "Вы не можете найти знаменитый вкусный турецкий кофе в маленьком городке",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:35:09.863371+00:00",
+  "turkish_example_sentence_with_blank": "Siz küçük kasabada ünlü lezzetli Türk kahvesi ______"
 }

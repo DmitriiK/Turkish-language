@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "sağlayamaz",
     "root": "sağla",
-    "tense_affix": "yama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "z",
+    "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "yama"
+    "negative_affix": "ama"
   },
-  "english_example_sentence": "She cannot provide financial help.",
-  "russian_example_sentence": "Она не может предоставить финансовую помощь.",
-  "turkish_example_sentence": "O mali yardım sağlayamaz.",
-  "turkish_example_sentence_with_blank": "O mali yardım ______."
+  "turkish_example_sentence": "O restoran organik gıda malzemelerini her mevsim sağlayamaz",
+  "english_example_sentence": "That restaurant cannot provide organic food ingredients every season",
+  "russian_example_sentence": "Тот ресторан не может предоставить органические продукты каждый сезон",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:53:44.595494+00:00",
+  "turkish_example_sentence_with_blank": "O restoran organik gıda malzemelerini her mevsim ______"
 }

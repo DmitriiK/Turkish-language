@@ -4,17 +4,20 @@
   "verb_russian": "верить",
   "verb_infinitive": "inanmak",
   "turkish_verb": {
-    "verb_full": "inanamıyorsunuz",
+    "verb_full": "inanamazsınız",
     "root": "inan",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "yorsunuz",
+    "personal_affix": "sınız",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "You cannot believe his suspicious excuses and explanations",
-  "russian_example_sentence": "Вы не можете верить его подозрительным оправданиям и объяснениям",
-  "turkish_example_sentence": "Siz onun şüpheli bahanelerine ve açıklamalarına inanamıyorsunuz",
-  "turkish_example_sentence_with_blank": "Siz onun şüpheli bahanelerine ve açıklamalarına ______"
+  "turkish_example_sentence": "Siz internetteki şüpheli yazılara kolayca inanamazsınız",
+  "english_example_sentence": "You cannot easily believe suspicious writings on the internet",
+  "russian_example_sentence": "Вы не можете легко поверить подозрительным записям в интернете",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:51:11.688533+00:00",
+  "turkish_example_sentence_with_blank": "Siz internetteki şüpheli yazılara kolayca ______"
 }

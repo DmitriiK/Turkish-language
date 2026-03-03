@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "sağlayabiliriz",
     "root": "sağla",
-    "tense_affix": "yabil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iriz",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We can provide clean drinking water.",
-  "russian_example_sentence": "Мы можем предоставить чистую питьевую воду.",
-  "turkish_example_sentence": "Biz temiz içme suyu sağlayabiliriz.",
-  "turkish_example_sentence_with_blank": "Biz temiz içme suyu ______."
+  "turkish_example_sentence": "Biz misafirlere sıcak ev ortamını rahatlıkla sağlayabiliriz",
+  "english_example_sentence": "We can easily provide guests a warm home atmosphere",
+  "russian_example_sentence": "Мы можем легко предоставить гостям тёплую домашнюю атмосферу",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:53:44.595494+00:00",
+  "turkish_example_sentence_with_blank": "Biz misafirlere sıcak ev ortamını rahatlıkla ______"
 }

@@ -4,17 +4,20 @@
   "verb_russian": "двигаться",
   "verb_infinitive": "hareket etmek",
   "turkish_verb": {
-    "verb_full": "hareket ettirebilir",
+    "verb_full": "hareket edebilir",
     "root": "hareket et",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "ir",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He can move the elegant piano to the stage",
-  "russian_example_sentence": "Он может передвинуть изящное пианино на сцену",
-  "turkish_example_sentence": "O zarif piyanoyu sahneye hareket ettirebilir",
-  "turkish_example_sentence_with_blank": "O zarif piyanoyu sahneye ______"
+  "turkish_example_sentence": "O küçük kedi ağaç dalları arasında çevik hareket edebilir",
+  "english_example_sentence": "That small cat can move agilely among the tree branches",
+  "russian_example_sentence": "Та маленькая кошка может двигаться ловко среди веток дерева",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:49:22.811510+00:00",
+  "turkish_example_sentence_with_blank": "O küçük kedi ağaç dalları arasında çevik ______"
 }

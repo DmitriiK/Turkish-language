@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "duyabilirsin",
     "root": "duy",
-    "tense_affix": "yabil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "irsin",
+    "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Sen gizli fısıltıları bile dikkatlice duyabilirsin.",
-  "english_example_sentence": "You can even carefully hear secret whispers.",
-  "russian_example_sentence": "Ты даже можешь внимательно слышать тайный шёпот.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-17T14:11:23.229325+00:00",
-  "turkish_example_sentence_with_blank": "Sen gizli fısıltıları bile dikkatlice ______."
+  "turkish_example_sentence": "Sen açık pencereden sokak müzisyenlerini duyabilirsin",
+  "english_example_sentence": "You can hear street musicians from the open window",
+  "russian_example_sentence": "Ты можешь слышать уличных музыкантов из открытого окна",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:47:22.715186+00:00",
+  "turkish_example_sentence_with_blank": "Sen açık pencereden sokak müzisyenlerini ______"
 }

@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "takip edemezsin",
     "root": "takip et",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "zsin",
+    "personal_affix": "sin",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "You cannot follow the ancient historical events without help",
-  "russian_example_sentence": "Ты не можешь следить за древними историческими событиями без помощи",
-  "turkish_example_sentence": "Sen eski tarihi olayları yardım olmadan takip edemezsin",
-  "turkish_example_sentence_with_blank": "Sen eski tarihi olayları yardım olmadan ______"
+  "turkish_example_sentence": "Sen hızlı İngilizce haberleri kolayca takip edemezsin",
+  "english_example_sentence": "You cannot easily follow the fast English news",
+  "russian_example_sentence": "Ты не можешь легко следить за быстрыми английскими новостями",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:02:47.363502+00:00",
+  "turkish_example_sentence_with_blank": "Sen hızlı İngilizce haberleri kolayca ______"
 }

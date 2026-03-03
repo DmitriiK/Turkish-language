@@ -1,0 +1,23 @@
+{
+  "verb_rank": 4,
+  "verb_english": "say",
+  "verb_russian": "сказать",
+  "verb_infinitive": "söylemek",
+  "turkish_verb": {
+    "verb_full": "söylediğin",
+    "root": "söyle",
+    "modal_affix": null,
+    "tense_affix": "diğ",
+    "verb_tense": "dik_sıfat_fiil",
+    "personal_pronoun": "sen",
+    "personal_affix": "in",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "turkish_example_sentence": "Dün söylediğin ilginç hikaye herkesi şaşırttı.",
+  "english_example_sentence": "The interesting story you told yesterday surprised everyone.",
+  "russian_example_sentence": "Интересная история, которую ты рассказал вчера, удивила всех.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2026-03-03T13:44:39.794801+00:00",
+  "turkish_example_sentence_with_blank": "Dün ______ ilginç hikaye herkesi şaşırttı."
+}

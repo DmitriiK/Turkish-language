@@ -4,17 +4,20 @@
   "verb_russian": "оставаться",
   "verb_infinitive": "kalmak",
   "turkish_verb": {
-    "verb_full": "kalamamazlar",
+    "verb_full": "kalamazlar",
     "root": "kal",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "zlar",
+    "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "They cannot stay at the dangerous industrial construction site",
-  "russian_example_sentence": "Они не могут остаться на опасной промышленной строительной площадке",
-  "turkish_example_sentence": "Onlar tehlikeli endüstriyel inşaat alanında kalamamazlar",
-  "turkish_example_sentence_with_blank": "Onlar tehlikeli endüstriyel inşaat alanında ______"
+  "turkish_example_sentence": "Onlar tehlikeli ormandaki eski kulübede kalamazlar",
+  "english_example_sentence": "They cannot stay in the old cabin in the dangerous forest",
+  "russian_example_sentence": "Они не могут остаться в старой хижине в опасном лесу",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:18:22.544656+00:00",
+  "turkish_example_sentence_with_blank": "Onlar tehlikeli ormandaki eski kulübede ______"
 }

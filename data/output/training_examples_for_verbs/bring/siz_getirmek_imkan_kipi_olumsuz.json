@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "getiremezsiniz",
     "root": "getir",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "zsiniz",
+    "personal_affix": "siniz",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "You cannot bring large paintings there",
-  "russian_example_sentence": "Вы не можете принести большие картины туда",
-  "turkish_example_sentence": "Siz büyük resimleri oraya getiremezsiniz",
-  "turkish_example_sentence_with_blank": "Siz büyük resimleri oraya ______"
+  "turkish_example_sentence": "Siz uçağa keskin siyah bıçak getiremezsiniz",
+  "english_example_sentence": "You cannot bring a sharp black knife onto the airplane",
+  "russian_example_sentence": "Вы не можете принести острый черный нож в самолет",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:52:28.970369+00:00",
+  "turkish_example_sentence_with_blank": "Siz uçağa keskin siyah bıçak ______"
 }

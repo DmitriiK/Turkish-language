@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "gönderebilirler",
     "root": "gönder",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They can send the documents to the office",
-  "russian_example_sentence": "Они могут отправить документы в офис",
-  "turkish_example_sentence": "Onlar resmi belgeleri merkezi ofise gönderebilirler",
-  "turkish_example_sentence_with_blank": "Onlar resmi belgeleri merkezi ofise ______"
+  "turkish_example_sentence": "Onlar hafta sonu renkli kartpostalları arkadaşlara gönderebilirler",
+  "english_example_sentence": "They can send the colorful postcards to friends on the weekend",
+  "russian_example_sentence": "Они могут отправить цветные открытки друзьям на выходных",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:16:24.992126+00:00",
+  "turkish_example_sentence_with_blank": "Onlar hafta sonu renkli kartpostalları arkadaşlara ______"
 }

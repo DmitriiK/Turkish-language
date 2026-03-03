@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "kesebiliriz",
     "root": "kes",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iriz",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We can cut fresh green vegetables together",
-  "russian_example_sentence": "Мы можем резать свежие зеленые овощи вместе",
-  "turkish_example_sentence": "Biz taze yeşil sebzeleri birlikte kesebiliriz",
-  "turkish_example_sentence_with_blank": "Biz taze yeşil sebzeleri birlikte ______"
+  "turkish_example_sentence": "Biz tatlı sulu kavunu büyük mutfak bıçağıyla kesebiliriz",
+  "english_example_sentence": "We can cut the sweet juicy watermelon with the big kitchen knife",
+  "russian_example_sentence": "Мы можем резать сладкий сочный арбуз большим кухонным ножом",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:19:39.400537+00:00",
+  "turkish_example_sentence_with_blank": "Biz tatlı sulu kavunu büyük mutfak bıçağıyla ______"
 }

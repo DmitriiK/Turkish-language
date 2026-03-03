@@ -4,17 +4,20 @@
   "verb_russian": "двигаться",
   "verb_infinitive": "hareket etmek",
   "turkish_verb": {
-    "verb_full": "hareket ettirebilirler",
+    "verb_full": "hareket edebilirler",
     "root": "hareket et",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They can move the small white boxes to storage",
-  "russian_example_sentence": "Они могут передвинуть маленькие белые коробки в хранилище",
-  "turkish_example_sentence": "Onlar küçük beyaz kutuları depolama hareket ettirebilirler",
-  "turkish_example_sentence_with_blank": "Onlar küçük beyaz kutuları depolama ______"
+  "turkish_example_sentence": "Onlar hafif kayakçı kıyafetleriyle karlı dağlarda sessizce hareket edebilirler",
+  "english_example_sentence": "They can move silently in the snowy mountains with their light skiing outfits",
+  "russian_example_sentence": "Они могут двигаться тихо в снежных горах в своих легких лыжных костюмах",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:49:22.811510+00:00",
+  "turkish_example_sentence_with_blank": "Onlar hafif kayakçı kıyafetleriyle karlı dağlarda sessizce ______"
 }

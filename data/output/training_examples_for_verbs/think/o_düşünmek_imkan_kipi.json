@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "düşünebilir",
     "root": "düşün",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "ir",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "O yaşlı profesör derin felsefi konuları düşünebilir.",
-  "english_example_sentence": "That elderly professor can think about deep philosophical topics.",
-  "russian_example_sentence": "Тот пожилой профессор может думать о глубоких философских темах.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-15T12:13:55.909283+00:00",
-  "turkish_example_sentence_with_blank": "O yaşlı profesör derin felsefi konuları ______."
+  "turkish_example_sentence": "O yeni proje fikrini yaratıcı düşünebilir",
+  "english_example_sentence": "He/she can think about the new project idea creatively",
+  "russian_example_sentence": "Он/она может думать о новой идее проекта творчески",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:30:42.607782+00:00",
+  "turkish_example_sentence_with_blank": "O yeni proje fikrini yaratıcı ______"
 }

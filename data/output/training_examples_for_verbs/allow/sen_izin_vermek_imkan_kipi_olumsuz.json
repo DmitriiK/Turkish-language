@@ -5,16 +5,19 @@
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
     "verb_full": "izin veremezsin",
-    "root": "izin ver",
-    "tense_affix": "eme",
+    "root": "ver",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "zsin",
+    "personal_affix": "sin",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "You cannot allow your children to stay up late on school nights",
-  "russian_example_sentence": "Ты не можешь позволить своим детям ложиться спать поздно в школьные ночи",
-  "turkish_example_sentence": "Sen çocuklarına okul gecelerinde geç yatmayı izin veremezsin",
-  "turkish_example_sentence_with_blank": "Sen çocuklarına okul gecelerinde geç yatmayı ______"
+  "turkish_example_sentence": "Sen küçük çocuklara tehlikeli kimyasal maddelerle oynamalarına izin veremezsin",
+  "english_example_sentence": "You cannot allow small children to play with dangerous chemical substances",
+  "russian_example_sentence": "Ты не можешь разрешить маленьким детям играть с опасными химическими веществами",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:06:05.792973+00:00",
+  "turkish_example_sentence_with_blank": "Sen küçük çocuklara tehlikeli kimyasal maddelerle oynamalarına ______"
 }

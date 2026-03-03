@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "çalışamaz",
     "root": "çalış",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "z",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "turkish_example_sentence": "O karanlık soğuk bodrum katında etkili çalışamaz",
-  "english_example_sentence": "He/she cannot work effectively in the dark cold basement floor",
-  "russian_example_sentence": "Он/она не может работать эффективно в тёмном холодном подвальном этаже",
+  "turkish_example_sentence": "O sıcak yaz günlerinde açık tarlada çalışamaz",
+  "english_example_sentence": "He/she cannot work in the open field during hot summer days",
+  "russian_example_sentence": "Он/она не может работать в открытом поле в жаркие летние дни",
   "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-16T09:22:07.425300+00:00",
-  "turkish_example_sentence_with_blank": "O karanlık soğuk bodrum katında etkili ______"
+  "generated_at": "2026-03-03T08:37:07.187133+00:00",
+  "turkish_example_sentence_with_blank": "O sıcak yaz günlerinde açık tarlada ______"
 }

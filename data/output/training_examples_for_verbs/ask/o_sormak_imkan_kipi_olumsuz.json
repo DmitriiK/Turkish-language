@@ -4,19 +4,20 @@
   "verb_russian": "спрашивать",
   "verb_infinitive": "sormak",
   "turkish_verb": {
-    "verb_full": "soramamıyor",
+    "verb_full": "soramaz",
     "root": "sor",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "yor",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "turkish_example_sentence": "O utangaç kız sınıfta öğretmene soru soramamıyor.",
-  "english_example_sentence": "That shy girl cannot ask the teacher a question in class.",
-  "russian_example_sentence": "Та застенчивая девочка не может спросить учителя в классе.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:45:53.655773+00:00",
-  "turkish_example_sentence_with_blank": "O utangaç kız sınıfta öğretmene soru ______."
+  "turkish_example_sentence": "O çocuk babasına şimdi pahalı oyuncağı soramaz",
+  "english_example_sentence": "That child cannot ask his father for the expensive toy now",
+  "russian_example_sentence": "Тот ребенок не может спросить отца о дорогой игрушке сейчас",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:39:00.036596+00:00",
+  "turkish_example_sentence_with_blank": "O çocuk babasına şimdi pahalı oyuncağı ______"
 }

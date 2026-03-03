@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "düşebiliriz",
     "root": "düş",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iriz",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We can fall down the slippery wet stairs",
-  "russian_example_sentence": "Мы можем упасть с мокрых скользких лестниц",
-  "turkish_example_sentence": "Biz kaygan ıslak merdivenlerden düşebiliriz",
-  "turkish_example_sentence_with_blank": "Biz kaygan ıslak merdivenlerden ______"
+  "turkish_example_sentence": "Biz karanlık çukura tehlikeli şekilde düşebiliriz",
+  "english_example_sentence": "We can fall dangerously into the dark pit",
+  "russian_example_sentence": "Мы можем опасно упасть в темную яму",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:18:59.208757+00:00",
+  "turkish_example_sentence_with_blank": "Biz karanlık çukura tehlikeli şekilde ______"
 }

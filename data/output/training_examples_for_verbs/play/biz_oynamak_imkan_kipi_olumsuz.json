@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "oynayamayız",
     "root": "oyna",
-    "tense_affix": "a",
+    "modal_affix": "ama",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yız",
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "ama"
   },
-  "turkish_example_sentence": "Biz gürültülü komşular yüzünden gece geç saatte müzik oynayamayız.",
-  "english_example_sentence": "We cannot play music late at night because of the noisy neighbors.",
-  "russian_example_sentence": "Мы не можем играть музыку поздно ночью из-за шумных соседей.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-17T14:45:17.691969+00:00",
-  "turkish_example_sentence_with_blank": "Biz gürültülü komşular yüzünden gece geç saatte müzik ______."
+  "turkish_example_sentence": "Biz soğuk kış akşamları dışarıda kar topu oynayamayız",
+  "english_example_sentence": "We cannot play snowball outside on cold winter evenings",
+  "russian_example_sentence": "Мы не можем играть в снежки на улице холодными зимними вечерами",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:48:01.538883+00:00",
+  "turkish_example_sentence_with_blank": "Biz soğuk kış akşamları dışarıda kar topu ______"
 }

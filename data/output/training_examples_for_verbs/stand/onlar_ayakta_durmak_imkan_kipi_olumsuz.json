@@ -5,16 +5,19 @@
   "verb_infinitive": "ayakta durmak",
   "turkish_verb": {
     "verb_full": "ayakta duramazlar",
-    "root": "ayakta dur",
-    "tense_affix": "ama",
+    "root": "dur",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "They can’t stand because they are tired.",
-  "russian_example_sentence": "Они не могут стоять, потому что устали.",
-  "turkish_example_sentence": "Onlar yoruldukları için ayakta duramazlar.",
-  "turkish_example_sentence_with_blank": "Onlar yoruldukları için ______."
+  "turkish_example_sentence": "Onlar minik bebekler titrek zeminde tek başlarına ayakta duramazlar",
+  "english_example_sentence": "They tiny babies cannot stand alone on shaky ground",
+  "russian_example_sentence": "Они крошечные младенцы не могут стоять одни на шаткой земле",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:55:04.829142+00:00",
+  "turkish_example_sentence_with_blank": "Onlar minik bebekler titrek zeminde tek başlarına ______"
 }

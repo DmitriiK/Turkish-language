@@ -5,16 +5,19 @@
   "verb_infinitive": "karar vermek",
   "turkish_verb": {
     "verb_full": "karar veremezsiniz",
-    "root": "karar ver",
-    "tense_affix": "eme",
+    "root": "ver",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "mezsiniz",
+    "personal_affix": "siniz",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "You all cannot decide fast",
-  "russian_example_sentence": "Вы не можете решить быстро",
-  "turkish_example_sentence": "Siz hızlı karar veremezsiniz",
-  "turkish_example_sentence_with_blank": "Siz hızlı ______"
+  "turkish_example_sentence": "Siz soğuk kış aylarında bahçe düzenlemesi için karar veremezsiniz",
+  "english_example_sentence": "You cannot decide for garden arrangement in the cold winter months",
+  "russian_example_sentence": "Вы не можете решить для садового устройства в холодные зимние месяцы",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:24:05.640422+00:00",
+  "turkish_example_sentence_with_blank": "Siz soğuk kış aylarında bahçe düzenlemesi için ______"
 }

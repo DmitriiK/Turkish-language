@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "kazanabilirler",
     "root": "kazan",
-    "tense_affix": "abil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They can win the international contest.",
-  "russian_example_sentence": "Они могут выиграть международный конкурс.",
-  "turkish_example_sentence": "Onlar uluslararası yarışmayı kazanabilirler.",
-  "turkish_example_sentence_with_blank": "Onlar uluslararası yarışmayı ______."
+  "turkish_example_sentence": "Onlar sıcak voleybol maçını güçlü takım çalışmasıyla kazanabilirler",
+  "english_example_sentence": "They can win the hot volleyball match with strong teamwork",
+  "russian_example_sentence": "Они могут выиграть горячий волейбольный матч сильной командной работой",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:09:51.169013+00:00",
+  "turkish_example_sentence_with_blank": "Onlar sıcak voleybol maçını güçlü takım çalışmasıyla ______"
 }

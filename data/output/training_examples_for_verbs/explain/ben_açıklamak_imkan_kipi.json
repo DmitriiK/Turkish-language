@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "açıklayabilirim",
     "root": "açıkla",
-    "tense_affix": "yabilir",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I can explain this problem.",
-  "russian_example_sentence": "Я могу объяснить эту проблему.",
-  "turkish_example_sentence": "Bu sorunu açıklayabilirim.",
-  "turkish_example_sentence_with_blank": "Bu sorunu ______."
+  "turkish_example_sentence": "Ben karmaşık matematik problemini sana açıklayabilirim",
+  "english_example_sentence": "I can explain the complex math problem to you",
+  "russian_example_sentence": "Я могу объяснить тебе сложную математическую задачу",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:26:01.358643+00:00",
+  "turkish_example_sentence_with_blank": "Ben karmaşık matematik problemini sana ______"
 }

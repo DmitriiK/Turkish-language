@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "teklif edebilirim",
     "root": "teklif et",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "irim",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I can offer a solution.",
-  "russian_example_sentence": "Я могу предложить решение.",
-  "turkish_example_sentence": "Ben bir çözüm teklif edebilirim.",
-  "turkish_example_sentence_with_blank": "Ben bir çözüm ______."
+  "turkish_example_sentence": "Ben sana güzel bir iş fırsatı teklif edebilirim",
+  "english_example_sentence": "I can offer you a nice job opportunity",
+  "russian_example_sentence": "Я могу предложить тебе хорошую возможность работы",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:10:29.027751+00:00",
+  "turkish_example_sentence_with_blank": "Ben sana güzel bir iş fırsatı ______"
 }

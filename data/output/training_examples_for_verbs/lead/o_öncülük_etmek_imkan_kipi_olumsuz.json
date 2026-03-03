@@ -5,16 +5,19 @@
   "verb_infinitive": "öncülük etmek",
   "turkish_verb": {
     "verb_full": "öncülük edemez",
-    "root": "et",
-    "tense_affix": "eme",
+    "root": "öncülük et",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "z",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "She cannot lead the international conference",
-  "russian_example_sentence": "Она не может вести международную конференцию",
-  "turkish_example_sentence": "O deneyimsiz öğrenci bu uluslararası konferansı öncülük edemez",
-  "turkish_example_sentence_with_blank": "O deneyimsiz öğrenci bu uluslararası konferansı ______"
+  "turkish_example_sentence": "O uluslararası barış konferansına yeterli öncülük edemez",
+  "english_example_sentence": "He/she cannot lead the international peace conference sufficiently",
+  "russian_example_sentence": "Он/она не может достаточно возглавить международную мирную конференцию",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:00:49.236118+00:00",
+  "turkish_example_sentence_with_blank": "O uluslararası barış konferansına yeterli ______"
 }

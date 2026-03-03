@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "izleyemezler",
     "root": "izle",
-    "tense_affix": "yeme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "zler",
+    "personal_affix": "ler",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "eme"
   },
-  "english_example_sentence": "They cannot watch the late-night show due to school",
-  "russian_example_sentence": "Они не могут смотреть позднее шоу из-за школы",
-  "turkish_example_sentence": "Onlar okul nedeniyle geç saatli programı izleyemezler",
-  "turkish_example_sentence_with_blank": "Onlar okul nedeniyle geç saatli programı ______"
+  "turkish_example_sentence": "Onlar hastanede ziyaret saatlerinde yavaş romantik drama dizisini izleyemezler",
+  "english_example_sentence": "They cannot watch the slow romantic drama series during visiting hours at the hospital",
+  "russian_example_sentence": "Они не могут смотреть медленный романтический драматический сериал во время часов посещения в больнице",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:02:10.131924+00:00",
+  "turkish_example_sentence_with_blank": "Onlar hastanede ziyaret saatlerinde yavaş romantik drama dizisini ______"
 }

@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "tutamazlar",
     "root": "tut",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "zlar",
+    "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "They cannot keep those wild horses under control",
-  "russian_example_sentence": "Они не могут держать этих диких лошадей под контролем",
-  "turkish_example_sentence": "Onlar bu güçlü atları kontrol altında tutamazlar",
-  "turkish_example_sentence_with_blank": "Onlar bu güçlü atları kontrol altında ______"
+  "turkish_example_sentence": "Onlar hareketli küçük balıkları elleriyle tutamazlar",
+  "english_example_sentence": "They cannot keep the moving small fish with their hands",
+  "russian_example_sentence": "Они не могут держать движущихся маленьких рыб руками",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:43:23.379599+00:00",
+  "turkish_example_sentence_with_blank": "Onlar hareketli küçük balıkları elleriyle ______"
 }

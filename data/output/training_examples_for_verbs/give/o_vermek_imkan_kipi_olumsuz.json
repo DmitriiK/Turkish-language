@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "veremez",
     "root": "ver",
-    "tense_affix": "ebil",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "ir",
+    "personal_affix": "",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "turkish_example_sentence": "O öğrenci sınav sırasında cevap veremez.",
-  "english_example_sentence": "That student cannot give an answer during the exam.",
-  "russian_example_sentence": "Этот студент не может дать ответ во время экзамена.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T11:55:09.277653+00:00",
-  "turkish_example_sentence_with_blank": "O öğrenci sınav sırasında cevap ______."
+  "turkish_example_sentence": "O müdür çalışanlara yüksek maaş artışı veremez",
+  "english_example_sentence": "That manager cannot give the employees a high salary increase",
+  "russian_example_sentence": "Тот менеджер не может дать сотрудникам высокое повышение зарплаты",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:35:48.795925+00:00",
+  "turkish_example_sentence_with_blank": "O müdür çalışanlara yüksek maaş artışı ______"
 }

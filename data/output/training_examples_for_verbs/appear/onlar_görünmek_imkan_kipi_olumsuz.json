@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "görünemezler",
     "root": "görün",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "zler",
+    "personal_affix": "ler",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "They cannot appear calm after receiving such shocking unexpected news",
-  "russian_example_sentence": "Они не могут выглядеть спокойными после получения такой шокирующей неожиданной новости",
-  "turkish_example_sentence": "Onlar bu şok edici beklenmedik haberi aldıktan sonra sakin görünemezler",
-  "turkish_example_sentence_with_blank": "Onlar bu şok edici beklenmedik haberi aldıktan sonra sakin ______"
+  "turkish_example_sentence": "Onlar sıkı güvenlik önlemleri nedeniyle gizli diplomatik zirve toplantısında görünemezler",
+  "english_example_sentence": "They cannot appear at the secret diplomatic summit meeting due to strict security measures",
+  "russian_example_sentence": "Они не могут появиться на секретной дипломатической встрече на высшем уровне из-за строгих мер безопасности",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:13:09.106866+00:00",
+  "turkish_example_sentence_with_blank": "Onlar sıkı güvenlik önlemleri nedeniyle gizli diplomatik zirve toplantısında ______"
 }

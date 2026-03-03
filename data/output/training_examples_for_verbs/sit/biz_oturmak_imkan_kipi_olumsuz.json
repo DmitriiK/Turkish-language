@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "oturamayız",
     "root": "otur",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yız",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "We cannot sit in this dusty room",
-  "russian_example_sentence": "Мы не можем сидеть в этой пыльной комнате",
-  "turkish_example_sentence": "Biz bu tozlu odada oturamayız",
-  "turkish_example_sentence_with_blank": "Biz bu tozlu odada ______"
+  "turkish_example_sentence": "Biz soğuk beton merdivenlerde çok fazla oturamayız",
+  "english_example_sentence": "We cannot sit on the cold concrete stairs too much",
+  "russian_example_sentence": "Мы не можем сидеть на холодных бетонных ступеньках слишком долго",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:54:23.635225+00:00",
+  "turkish_example_sentence_with_blank": "Biz soğuk beton merdivenlerde çok fazla ______"
 }

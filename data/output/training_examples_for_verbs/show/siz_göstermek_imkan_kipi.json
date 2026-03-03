@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "gösterebilirsiniz",
     "root": "göster",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "irsiniz",
+    "personal_affix": "siniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Siz öğrencilere modern sanat eserlerini gösterebilirsiniz",
-  "english_example_sentence": "You can show modern art works to the students",
-  "russian_example_sentence": "Вы можете показать современные произведения искусства студентам",
+  "turkish_example_sentence": "Siz öğrencilere ilginç bilim deneyini gösterebilirsiniz",
+  "english_example_sentence": "You can show the students the interesting science experiment",
+  "russian_example_sentence": "Вы можете показать студентам интересный научный эксперимент",
   "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-17T10:42:45.353961+00:00",
-  "turkish_example_sentence_with_blank": "Siz öğrencilere modern sanat eserlerini ______"
+  "generated_at": "2026-03-03T08:46:41.444204+00:00",
+  "turkish_example_sentence_with_blank": "Siz öğrencilere ilginç bilim deneyini ______"
 }

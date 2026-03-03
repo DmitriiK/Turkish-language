@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "düşemezsin",
     "root": "düş",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "zsin",
+    "personal_affix": "sin",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "You cannot fall with this strong safety harness",
-  "russian_example_sentence": "Ты не можешь упасть с этой прочной страховкой",
-  "turkish_example_sentence": "Sen bu güçlü emniyet kemeriyle düşemezsin",
-  "turkish_example_sentence_with_blank": "Sen bu güçlü emniyet kemeriyle ______"
+  "turkish_example_sentence": "Sen güvenli korkulukla balkona düşemezsin",
+  "english_example_sentence": "You cannot fall to the balcony with the safe railing",
+  "russian_example_sentence": "Ты не можешь упасть на балкон с безопасными перилами",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:18:59.208757+00:00",
+  "turkish_example_sentence_with_blank": "Sen güvenli korkulukla balkona ______"
 }

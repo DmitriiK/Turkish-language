@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "izleyebilirler",
     "root": "izle",
-    "tense_affix": "yebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They can watch the animated film at the cinema",
-  "russian_example_sentence": "Они могут смотреть мультипликационный фильм в кинотеатре",
-  "turkish_example_sentence": "Onlar sinemada renkli animasyon filmini izleyebilirler",
-  "turkish_example_sentence_with_blank": "Onlar sinemada renkli animasyon filmini ______"
+  "turkish_example_sentence": "Onlar sinemada büyük ekranda muhteşem bilim kurgu filmini izleyebilirler",
+  "english_example_sentence": "They can watch the magnificent science fiction film on the big screen at the cinema",
+  "russian_example_sentence": "Они могут посмотреть великолепный научно-фантастический фильм на большом экране в кинотеатре",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:02:10.131924+00:00",
+  "turkish_example_sentence_with_blank": "Onlar sinemada büyük ekranda muhteşem bilim kurgu filmini ______"
 }

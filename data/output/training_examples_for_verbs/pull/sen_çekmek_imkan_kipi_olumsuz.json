@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "çekemezsin",
     "root": "çek",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "mezsin",
+    "personal_affix": "sin",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "You cannot pull the slippery object",
-  "russian_example_sentence": "Ты не можешь тянуть скользкий предмет",
-  "turkish_example_sentence": "Sen kaygan nesneyi çekemezsin",
-  "turkish_example_sentence_with_blank": "Sen kaygan nesneyi ______"
+  "turkish_example_sentence": "Sen yeni büyük koltuk tekerleklerini yalnız çekemezsin",
+  "english_example_sentence": "You cannot pull the new big armchair wheels alone",
+  "russian_example_sentence": "Ты не можешь тянуть колёса нового большого кресла один",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:24:47.153594+00:00",
+  "turkish_example_sentence_with_blank": "Sen yeni büyük koltuk tekerleklerini yalnız ______"
 }

@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "büyüyemezler",
     "root": "büyü",
-    "tense_affix": "yeme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "mezler",
+    "personal_affix": "ler",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "eme"
   },
-  "english_example_sentence": "They cannot grow roses in sandy soil",
-  "russian_example_sentence": "Они не могут выращивать розы в песчаной земле",
-  "turkish_example_sentence": "Onlar kumlu toprakta güller büyüyemezler",
-  "turkish_example_sentence_with_blank": "Onlar kumlu toprakta güller ______"
+  "turkish_example_sentence": "Onlar kirli şehir havasında doğal büyüyemezler",
+  "english_example_sentence": "They cannot grow naturally in polluted city air",
+  "russian_example_sentence": "Они не могут расти естественно в загрязненном городском воздухе",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:07:56.557739+00:00",
+  "turkish_example_sentence_with_blank": "Onlar kirli şehir havasında doğal ______"
 }

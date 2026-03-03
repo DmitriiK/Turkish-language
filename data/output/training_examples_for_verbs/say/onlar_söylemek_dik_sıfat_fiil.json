@@ -1,0 +1,23 @@
+{
+  "verb_rank": 4,
+  "verb_english": "say",
+  "verb_russian": "сказать",
+  "verb_infinitive": "söylemek",
+  "turkish_verb": {
+    "verb_full": "söyledikleri",
+    "root": "söyle",
+    "modal_affix": null,
+    "tense_affix": "dik",
+    "verb_tense": "dik_sıfat_fiil",
+    "personal_pronoun": "onlar",
+    "personal_affix": "leri",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "turkish_example_sentence": "Onların söyledikleri sözler tutulmadı.",
+  "english_example_sentence": "The promises they made were not kept.",
+  "russian_example_sentence": "Обещания, которые они дали, не были сдержаны.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2026-03-03T13:44:39.794801+00:00",
+  "turkish_example_sentence_with_blank": "Onların ______ sözler tutulmadı."
+}

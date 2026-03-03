@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "kalabilirler",
     "root": "kal",
-    "tense_affix": "abil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They can stay at the spacious countryside farmhouse all summer",
-  "russian_example_sentence": "Они могут остаться в просторном деревенском фермерском доме всё лето",
-  "turkish_example_sentence": "Onlar geniş kırsal çiftlik evinde bütün yaz kalabilirler",
-  "turkish_example_sentence_with_blank": "Onlar geniş kırsal çiftlik evinde bütün yaz ______"
+  "turkish_example_sentence": "Onlar sıcak tatil kampında eğlenerek kalabilirler",
+  "english_example_sentence": "They can stay enjoying in the warm holiday camp",
+  "russian_example_sentence": "Они могут остаться, наслаждаясь в теплом лагере отдыха",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:18:22.544656+00:00",
+  "turkish_example_sentence_with_blank": "Onlar sıcak tatil kampında eğlenerek ______"
 }

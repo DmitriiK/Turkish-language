@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "gösteremeyiz",
     "root": "göster",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yiz",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "turkish_example_sentence": "Biz karanlık gecede parlak yıldızları gösteremeyiz",
-  "english_example_sentence": "We cannot show the bright stars on the dark night",
-  "russian_example_sentence": "Мы не можем показать яркие звезды темной ночью",
+  "turkish_example_sentence": "Biz çocuklara korkunç şiddet sahnelerini gösteremeyiz",
+  "english_example_sentence": "We cannot show children the terrible violence scenes",
+  "russian_example_sentence": "Мы не можем показать детям ужасные сцены насилия",
   "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-17T10:42:45.353961+00:00",
-  "turkish_example_sentence_with_blank": "Biz karanlık gecede parlak yıldızları ______"
+  "generated_at": "2026-03-03T08:46:41.444204+00:00",
+  "turkish_example_sentence_with_blank": "Biz çocuklara korkunç şiddet sahnelerini ______"
 }

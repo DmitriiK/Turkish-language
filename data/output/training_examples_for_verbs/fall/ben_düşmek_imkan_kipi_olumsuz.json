@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "düşemem",
     "root": "düş",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "I cannot fall from this low platform",
-  "russian_example_sentence": "Я не могу упасть с этой низкой платформы",
-  "turkish_example_sentence": "Ben bu alçak platformdan düşemem",
-  "turkish_example_sentence_with_blank": "Ben bu alçak platformdan ______"
+  "turkish_example_sentence": "Ben yüksek dağdan aşağı düşemem",
+  "english_example_sentence": "I cannot fall down from the high mountain",
+  "russian_example_sentence": "Я не могу упасть с высокой горы",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:18:59.208757+00:00",
+  "turkish_example_sentence_with_blank": "Ben yüksek dağdan aşağı ______"
 }

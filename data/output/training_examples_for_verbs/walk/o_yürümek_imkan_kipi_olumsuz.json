@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "yürüyemez",
     "root": "yürü",
-    "tense_affix": "yeme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "z",
+    "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "yeme"
+    "negative_affix": "eme"
   },
-  "english_example_sentence": "He cannot walk to the mountain.",
-  "russian_example_sentence": "Он не может дойти до горы.",
-  "turkish_example_sentence": "O dağa yürüyemez.",
-  "turkish_example_sentence_with_blank": "O dağa ______."
+  "turkish_example_sentence": "O yaşlı kadın buzlu sokaklarda güvenle yürüyemez",
+  "english_example_sentence": "That old woman cannot walk safely on the icy streets",
+  "russian_example_sentence": "Эта пожилая женщина не может безопасно ходить по обледенелым улицам",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:09:10.543019+00:00",
+  "turkish_example_sentence_with_blank": "O yaşlı kadın buzlu sokaklarda güvenle ______"
 }

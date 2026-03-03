@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "anlatabilirsiniz",
     "root": "anlat",
-    "tense_affix": "abil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "irsiniz",
+    "personal_affix": "siniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Siz bu güzel deneyimi diğer öğrencilere anlatabilirsiniz.",
-  "english_example_sentence": "You can tell this beautiful experience to other students.",
-  "russian_example_sentence": "Вы можете рассказать этот прекрасный опыт другим студентам.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:40:32.121669+00:00",
-  "turkish_example_sentence_with_blank": "Siz bu güzel deneyimi diğer öğrencilere ______."
+  "turkish_example_sentence": "Siz güzel doğa fotoğraflarının hikayesini misafirlere anlatabilirsiniz",
+  "english_example_sentence": "You can tell the story of beautiful nature photographs to the guests",
+  "russian_example_sentence": "Вы можете рассказать историю красивых фотографий природы гостям",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:36:27.526034+00:00",
+  "turkish_example_sentence_with_blank": "Siz güzel doğa fotoğraflarının hikayesini misafirlere ______"
 }

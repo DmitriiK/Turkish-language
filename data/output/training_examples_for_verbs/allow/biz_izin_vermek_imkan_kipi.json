@@ -5,16 +5,19 @@
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
     "verb_full": "izin verebiliriz",
-    "root": "izin ver",
-    "tense_affix": "ebil",
+    "root": "ver",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iriz",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We can allow the talented musician to perform at our community festival",
-  "russian_example_sentence": "Мы можем позволить талантливому музыканту выступить на нашем общественном фестивале",
-  "turkish_example_sentence": "Biz yetenekli müzisyene toplum festivalinde performans yapmayı izin verebiliriz",
-  "turkish_example_sentence_with_blank": "Biz yetenekli müzisyene toplum festivalinde performans yapmayı ______"
+  "turkish_example_sentence": "Biz yetenekli sanatçılara modern galeride eserlerini sergilemelerine izin verebiliriz",
+  "english_example_sentence": "We can allow talented artists to display their works in the modern gallery",
+  "russian_example_sentence": "Мы можем разрешить талантливым художникам выставлять свои работы в современной галерее",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:06:05.792973+00:00",
+  "turkish_example_sentence_with_blank": "Biz yetenekli sanatçılara modern galeride eserlerini sergilemelerine ______"
 }

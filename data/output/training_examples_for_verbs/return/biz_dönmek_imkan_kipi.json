@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "dönebiliriz",
     "root": "dön",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iriz",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We can return to school next week",
-  "russian_example_sentence": "Мы можем вернуться в школу на следующей неделе",
-  "turkish_example_sentence": "Biz gelecek hafta okula dönebiliriz",
-  "turkish_example_sentence_with_blank": "Biz gelecek hafta okula ______"
+  "turkish_example_sentence": "Biz hızlı trenle büyük şehre dönebiliriz",
+  "english_example_sentence": "We can return to the big city by fast train",
+  "russian_example_sentence": "Мы можем вернуться в большой город на быстром поезде",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:25:24.888415+00:00",
+  "turkish_example_sentence_with_blank": "Biz hızlı trenle büyük şehre ______"
 }

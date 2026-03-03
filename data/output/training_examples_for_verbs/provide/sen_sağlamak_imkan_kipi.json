@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "sağlayabilirsin",
     "root": "sağla",
-    "tense_affix": "yabil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "irsin",
+    "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can provide fresh vegetables daily.",
-  "russian_example_sentence": "Ты можешь предоставлять свежие овощи ежедневно.",
-  "turkish_example_sentence": "Sen her gün taze sebzeler sağlayabilirsin.",
-  "turkish_example_sentence_with_blank": "Sen her gün taze sebzeler ______."
+  "turkish_example_sentence": "Sen öğrencilere ücretsiz internet erişimi sağlayabilirsin",
+  "english_example_sentence": "You can provide students free internet access",
+  "russian_example_sentence": "Ты можешь предоставить студентам бесплатный доступ к интернету",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:53:44.595494+00:00",
+  "turkish_example_sentence_with_blank": "Sen öğrencilere ücretsiz internet erişimi ______"
 }

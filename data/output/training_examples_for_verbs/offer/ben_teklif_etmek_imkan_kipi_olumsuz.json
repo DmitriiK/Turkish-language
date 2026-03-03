@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "teklif edemem",
     "root": "teklif et",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "im",
+    "personal_affix": "m",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "I cannot offer any help.",
-  "russian_example_sentence": "Я не могу предложить помощь.",
-  "turkish_example_sentence": "Ben hiçbir yardım teklif edemem.",
-  "turkish_example_sentence_with_blank": "Ben hiçbir yardım ______."
+  "turkish_example_sentence": "Ben bu yüksek maaşı şirkete teklif edemem",
+  "english_example_sentence": "I cannot offer this high salary to the company",
+  "russian_example_sentence": "Я не могу предложить эту высокую зарплату компании",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:10:29.027751+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu yüksek maaşı şirkete ______"
 }

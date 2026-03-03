@@ -5,18 +5,19 @@
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
     "verb_full": "yardım edemezler",
-    "root": "yardım et",
-    "tense_affix": "eme",
+    "root": "et",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "zler",
+    "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "turkish_example_sentence": "Onlar yoğun iş programları nedeniyle hafta sonu taşınmada yardım edemezler",
-  "english_example_sentence": "They cannot help with the move on the weekend due to their busy work schedules",
-  "russian_example_sentence": "Они не могут помочь с переездом на выходных из-за их плотного рабочего графика",
+  "turkish_example_sentence": "Onlar sabah erken saatlerde ofiste çalışan müdürlere teknik bilgisayar sorununda yardım edemezler",
+  "english_example_sentence": "They cannot help the managers working in the office in early morning hours with the technical computer problem",
+  "russian_example_sentence": "Они не могут помочь менеджерам, работающим в офисе в ранние утренние часы, с технической компьютерной проблемой",
   "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-17T10:25:33.811990+00:00",
-  "turkish_example_sentence_with_blank": "Onlar yoğun iş programları nedeniyle hafta sonu taşınmada ______"
+  "generated_at": "2026-03-03T08:46:04.232024+00:00",
+  "turkish_example_sentence_with_blank": "Onlar sabah erken saatlerde ofiste çalışan müdürlere teknik bilgisayar sorununda ______"
 }

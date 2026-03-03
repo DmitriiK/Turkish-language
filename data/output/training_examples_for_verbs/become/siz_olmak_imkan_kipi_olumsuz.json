@@ -4,17 +4,20 @@
   "verb_russian": "становиться",
   "verb_infinitive": "olmak",
   "turkish_verb": {
-    "verb_full": "olamayız",
+    "verb_full": "olamazsınız",
     "root": "ol",
-    "tense_affix": "eme",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "yız",
+    "personal_affix": "sınız",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": "ama"
   },
-  "english_example_sentence": "You cannot become experts without dedication",
-  "russian_example_sentence": "Вы не можете стать экспертами без преданности",
-  "turkish_example_sentence": "Siz özveri olmadan uzman olamayız",
-  "turkish_example_sentence_with_blank": "Siz özveri olmadan uzman ______"
+  "turkish_example_sentence": "Siz bu hızlı tempoda sağlıklı olamazsınız",
+  "english_example_sentence": "You cannot become healthy at this fast pace",
+  "russian_example_sentence": "Вы не можете стать здоровыми в этом быстром темпе",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:40:51.230757+00:00",
+  "turkish_example_sentence_with_blank": "Siz bu hızlı tempoda sağlıklı ______"
 }

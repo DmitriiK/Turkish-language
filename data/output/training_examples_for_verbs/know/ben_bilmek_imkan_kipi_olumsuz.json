@@ -6,6 +6,7 @@
   "turkish_verb": {
     "verb_full": "bilemem",
     "root": "bil",
+    "modal_affix": "eme",
     "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
@@ -13,10 +14,10 @@
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "turkish_example_sentence": "Ben sınavda tüm cevapları maalesef bilemem.",
-  "english_example_sentence": "Unfortunately, I cannot know all the answers on the exam.",
-  "russian_example_sentence": "К сожалению, я не могу знать все ответы на экзамене.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T08:30:17.374081+00:00",
-  "turkish_example_sentence_with_blank": "Ben sınavda tüm cevapları maalesef ______."
+  "turkish_example_sentence": "Ben yabancı dilin bütün kelimelerini bilemem",
+  "english_example_sentence": "I cannot know all the words of the foreign language",
+  "russian_example_sentence": "Я не могу знать все слова иностранного языка",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:30:02.291455+00:00",
+  "turkish_example_sentence_with_blank": "Ben yabancı dilin bütün kelimelerini ______"
 }

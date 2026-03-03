@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "alamam",
     "root": "al",
-    "tense_affix": "amaz",
+    "modal_affix": "ama",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "ım",
+    "personal_affix": "m",
     "polarity": "negative",
-    "negative_affix": "am"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "I cannot receive the package now",
-  "russian_example_sentence": "Я не могу сейчас получить посылку",
-  "turkish_example_sentence": "Ben şu anda paketi alamam",
-  "turkish_example_sentence_with_blank": "Ben şu anda paketi ______"
+  "turkish_example_sentence": "Ben pahalı kırmızı elbiseyi şimdi alamam",
+  "english_example_sentence": "I cannot get the expensive red dress now",
+  "russian_example_sentence": "Я не могу получить дорогое красное платье сейчас",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:28:51.955371+00:00",
+  "turkish_example_sentence_with_blank": "Ben pahalı kırmızı elbiseyi şimdi ______"
 }

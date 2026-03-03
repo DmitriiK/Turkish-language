@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "sorabilirsiniz",
     "root": "sor",
-    "tense_affix": "abil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "irsiniz",
+    "personal_affix": "siniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Siz konferansta konuşmacıya ilginç araştırma sorusunu sorabilirsiniz.",
-  "english_example_sentence": "You can ask the speaker an interesting research question at the conference.",
-  "russian_example_sentence": "Вы можете спросить докладчика интересный исследовательский вопрос на конференции.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:45:53.655773+00:00",
-  "turkish_example_sentence_with_blank": "Siz konferansta konuşmacıya ilginç araştırma sorusunu ______."
+  "turkish_example_sentence": "Siz sekretera yarınki önemli iş randevusunu sorabilirsiniz",
+  "english_example_sentence": "You can ask the secretary about tomorrow's important business appointment",
+  "russian_example_sentence": "Вы можете спросить секретаря о завтрашней важной деловой встрече",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:39:00.036596+00:00",
+  "turkish_example_sentence_with_blank": "Siz sekretera yarınki önemli iş randevusunu ______"
 }

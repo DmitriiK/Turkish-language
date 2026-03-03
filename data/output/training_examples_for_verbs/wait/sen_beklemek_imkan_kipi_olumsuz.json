@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "bekleyemezsin",
     "root": "bekle",
-    "tense_affix": "yeme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "zsin",
+    "personal_affix": "sin",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": null
   },
-  "english_example_sentence": "You cannot wait for the urgent phone call today",
-  "russian_example_sentence": "Ты не можешь ждать срочный звонок сегодня",
-  "turkish_example_sentence": "Sen bugün acil telefon araması için bekleyemezsin",
-  "turkish_example_sentence_with_blank": "Sen bugün acil telefon araması için ______"
+  "turkish_example_sentence": "Sen soğuk kış akşamında dışarıda bekleyemezsin",
+  "english_example_sentence": "You cannot wait outside on a cold winter evening",
+  "russian_example_sentence": "Ты не можешь ждать на улице холодным зимним вечером",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:14:24.136769+00:00",
+  "turkish_example_sentence_with_blank": "Sen soğuk kış akşamında dışarıda ______"
 }

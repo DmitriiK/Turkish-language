@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "tutamazlar",
     "root": "tut",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "zlar",
+    "personal_affix": "lar",
     "polarity": "negative",
-    "negative_affix": "ama"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "They cannot hold the wild horses without strong equipment",
-  "russian_example_sentence": "Они не могут держать дикие лошади без сильного оборудования",
-  "turkish_example_sentence": "Onlar güçlü ekipman olmadan vahşi atları tutamazlar",
-  "turkish_example_sentence_with_blank": "Onlar güçlü ekipman olmadan vahşi atları ______"
+  "turkish_example_sentence": "Onlar donmuş soğuk buz parçasını uzun tutamazlar",
+  "english_example_sentence": "They cannot hold the frozen cold ice piece for long",
+  "russian_example_sentence": "Они не могут держать замороженный холодный кусок льда долго",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:51:49.235485+00:00",
+  "turkish_example_sentence_with_blank": "Onlar donmuş soğuk buz parçasını uzun ______"
 }

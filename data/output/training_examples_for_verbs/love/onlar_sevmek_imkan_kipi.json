@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "sevebilirler",
     "root": "sev",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They can love sunny weather",
-  "russian_example_sentence": "Они могут любить солнечную погоду",
-  "turkish_example_sentence": "Onlar güneşli havaları sevebilirler",
-  "turkish_example_sentence_with_blank": "Onlar güneşli havaları ______"
+  "turkish_example_sentence": "Onlar renkli eğlenceli çizgi filmleri çok sevebilirler",
+  "english_example_sentence": "They can love colorful fun cartoons very much",
+  "russian_example_sentence": "Они могут очень любить цветные весёлые мультфильмы",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:11:49.177707+00:00",
+  "turkish_example_sentence_with_blank": "Onlar renkli eğlenceli çizgi filmleri çok ______"
 }

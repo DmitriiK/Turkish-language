@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "verebilirim",
     "root": "ver",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "irim",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Ben sana güzel kırmızı çiçek verebilirim.",
-  "english_example_sentence": "I can give you a beautiful red flower.",
-  "russian_example_sentence": "Я могу дать тебе красивый красный цветок.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T11:55:09.277653+00:00",
-  "turkish_example_sentence_with_blank": "Ben sana güzel kırmızı çiçek ______."
+  "turkish_example_sentence": "Ben sana yeni mavi kalemi verebilirim",
+  "english_example_sentence": "I can give you the new blue pen",
+  "russian_example_sentence": "Я могу дать тебе новую синюю ручку",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:35:48.795925+00:00",
+  "turkish_example_sentence_with_blank": "Ben sana yeni mavi kalemi ______"
 }

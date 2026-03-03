@@ -1,0 +1,23 @@
+{
+  "verb_rank": 5,
+  "verb_english": "go",
+  "verb_russian": "идти",
+  "verb_infinitive": "gitmek",
+  "turkish_verb": {
+    "verb_full": "gitmediği",
+    "root": "git",
+    "modal_affix": null,
+    "tense_affix": "diğ",
+    "verb_tense": "dik_sıfat_fiil",
+    "personal_pronoun": "o",
+    "personal_affix": "i",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "turkish_example_sentence": "Onun gitmediği toplantı önemli kararlar içermiyordu.",
+  "english_example_sentence": "The meeting he/she didn't go to didn't include important decisions.",
+  "russian_example_sentence": "Встреча, на которую он/она не пошел(ла), не содержала важных решений.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2026-03-03T13:45:44.514799+00:00",
+  "turkish_example_sentence_with_blank": "Onun ______ toplantı önemli kararlar içermiyordu."
+}

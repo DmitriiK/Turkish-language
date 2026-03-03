@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "alamazlar",
     "root": "al",
-    "tense_affix": "amaz",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
-    "negative_affix": "amaz"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "They cannot receive any notifications now",
-  "russian_example_sentence": "Они не могут сейчас получать уведомления",
-  "turkish_example_sentence": "Onlar şu anda hiçbir bildirimi alamazlar",
-  "turkish_example_sentence_with_blank": "Onlar şu anda hiçbir bildirimi ______"
+  "turkish_example_sentence": "Onlar hızlı trenle uzun yolculuk biletini alamazlar",
+  "english_example_sentence": "They cannot get the long journey ticket by fast train",
+  "russian_example_sentence": "Они не могут получить билет на долгое путешествие на быстром поезде",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:28:51.955371+00:00",
+  "turkish_example_sentence_with_blank": "Onlar hızlı trenle uzun yolculuk biletini ______"
 }

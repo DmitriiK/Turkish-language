@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "yazamazsın",
     "root": "yaz",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "zsın",
+    "personal_affix": "sın",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "You cannot write without glasses today.",
-  "russian_example_sentence": "Ты не можешь писать без очков сегодня.",
-  "turkish_example_sentence": "Sen gözlük olmadan uzun akademik makaleler yazamazsın.",
-  "turkish_example_sentence_with_blank": "Sen gözlük olmadan uzun akademik makaleler ______."
+  "turkish_example_sentence": "Sen kısa ödev raporunu sessiz sınıfta yazamazsın",
+  "english_example_sentence": "You cannot write the short homework report in the quiet classroom",
+  "russian_example_sentence": "Ты не можешь написать короткий отчёт по домашнему заданию в тихом классе",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:53:06.390578+00:00",
+  "turkish_example_sentence_with_blank": "Sen kısa ödev raporunu sessiz sınıfta ______"
 }

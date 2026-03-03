@@ -1,0 +1,23 @@
+{
+  "verb_rank": 4,
+  "verb_english": "say",
+  "verb_russian": "сказать",
+  "verb_infinitive": "söylemek",
+  "turkish_verb": {
+    "verb_full": "söylemezken",
+    "root": "söyle",
+    "modal_affix": null,
+    "tense_affix": "ken",
+    "verb_tense": "ken_zarf_fiil",
+    "personal_pronoun": null,
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "turkish_example_sentence": "O, gerçekleri söylemezken vicdanı onu rahatsız etti.",
+  "english_example_sentence": "While not telling the truth, his conscience bothered him.",
+  "russian_example_sentence": "Пока он не говорил правду, его совесть мучила его.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2026-03-03T13:44:09.921774+00:00",
+  "turkish_example_sentence_with_blank": "O, gerçekleri ______ vicdanı onu rahatsız etti."
+}

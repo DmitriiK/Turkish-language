@@ -4,17 +4,20 @@
   "verb_russian": "двигаться",
   "verb_infinitive": "hareket etmek",
   "turkish_verb": {
-    "verb_full": "hareket ettiremezsiniz",
+    "verb_full": "hareket edemezsiniz",
     "root": "hareket et",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "zsiniz",
+    "personal_affix": "siniz",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "You cannot move that large dark cabinet without help",
-  "russian_example_sentence": "Вы не можете передвинуть этот большой темный шкаф без помощи",
-  "turkish_example_sentence": "Siz yardım olmadan o büyük koyu dolabı hareket ettiremezsiniz",
-  "turkish_example_sentence_with_blank": "Siz yardım olmadan o büyük koyu dolabı ______"
+  "turkish_example_sentence": "Siz buzlu merdivenlerde kaygan ayakkabılarla güvenli hareket edemezsiniz",
+  "english_example_sentence": "You cannot move safely on icy stairs with slippery shoes",
+  "russian_example_sentence": "Вы не можете двигаться безопасно по ледяным лестницам в скользкой обуви",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:49:22.811510+00:00",
+  "turkish_example_sentence_with_blank": "Siz buzlu merdivenlerde kaygan ayakkabılarla güvenli ______"
 }

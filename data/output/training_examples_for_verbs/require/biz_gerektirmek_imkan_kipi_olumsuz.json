@@ -4,17 +4,20 @@
   "verb_russian": "требовать",
   "verb_infinitive": "gerektirmek",
   "turkish_verb": {
-    "verb_full": "gerektiremeyebiliriz",
+    "verb_full": "gerektiremeyiz",
     "root": "gerektir",
-    "tense_affix": "ebil",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iriz",
+    "personal_affix": "yiz",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "We may not require urgent answers now",
-  "russian_example_sentence": "Мы можем не требовать срочных ответов сейчас",
-  "turkish_example_sentence": "Biz şu anda acil cevaplar gerektiremeyebiliriz",
-  "turkish_example_sentence_with_blank": "Biz şu anda acil cevaplar ______"
+  "turkish_example_sentence": "Biz misafirlerden pahalı hediyeler getirmelerini gerektiremeyiz",
+  "english_example_sentence": "We cannot require guests to bring expensive gifts",
+  "russian_example_sentence": "Мы не можем требовать от гостей приносить дорогие подарки",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:22:47.932763+00:00",
+  "turkish_example_sentence_with_blank": "Biz misafirlerden pahalı hediyeler getirmelerini ______"
 }

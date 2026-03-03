@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "hizmet edemeyiz",
     "root": "hizmet et",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yiz",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "We cannot serve more than fifty hungry guests tomorrow",
-  "russian_example_sentence": "Мы не можем обслуживать более пятидесяти голодных гостей завтра",
-  "turkish_example_sentence": "Biz yarın elli açlık konuğundan fazlasını hizmet edemeyiz",
-  "turkish_example_sentence_with_blank": "Biz yarın elli açlık konuğundan fazlasını ______"
+  "turkish_example_sentence": "Biz sınırlı kaynaklarla büyük devlet hastanesine tam hizmet edemeyiz",
+  "english_example_sentence": "We cannot serve the big state hospital fully with limited resources",
+  "russian_example_sentence": "Мы не можем полностью служить большой государственной больнице с ограниченными ресурсами",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:15:04.506666+00:00",
+  "turkish_example_sentence_with_blank": "Biz sınırlı kaynaklarla büyük devlet hastanesine tam ______"
 }

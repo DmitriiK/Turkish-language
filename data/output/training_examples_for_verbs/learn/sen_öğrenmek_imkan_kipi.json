@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "öğrenebilirsin",
     "root": "öğren",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "irsin",
+    "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can learn traditional Turkish music theory",
-  "russian_example_sentence": "Ты можешь учить традиционную турецкую музыкальную теорию",
-  "turkish_example_sentence": "Sen geleneksel Türk müzik teorisini öğrenebilirsin",
-  "turkish_example_sentence_with_blank": "Sen geleneksel Türk müzik teorisini ______"
+  "turkish_example_sentence": "Sen güzel piyano melodilerini kolayca öğrenebilirsin",
+  "english_example_sentence": "You can learn beautiful piano melodies easily",
+  "russian_example_sentence": "Ты можешь легко учить красивые фортепианные мелодии",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:59:31.146641+00:00",
+  "turkish_example_sentence_with_blank": "Sen güzel piyano melodilerini kolayca ______"
 }

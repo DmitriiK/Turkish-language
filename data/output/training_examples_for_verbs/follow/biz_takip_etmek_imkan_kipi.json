@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "takip edebiliriz",
     "root": "takip et",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iriz",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We can follow the exciting adventure film together",
-  "russian_example_sentence": "Мы можем следить за захватывающим приключенческим фильмом вместе",
-  "turkish_example_sentence": "Biz heyecan verici macera filmini birlikte takip edebiliriz",
-  "turkish_example_sentence_with_blank": "Biz heyecan verici macera filmini birlikte ______"
+  "turkish_example_sentence": "Biz önemli siyasi gelişmeleri canlı yayında takip edebiliriz",
+  "english_example_sentence": "We can follow the important political developments in live broadcast",
+  "russian_example_sentence": "Мы можем следить за важными политическими событиями в прямом эфире",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:02:47.363502+00:00",
+  "turkish_example_sentence_with_blank": "Biz önemli siyasi gelişmeleri canlı yayında ______"
 }

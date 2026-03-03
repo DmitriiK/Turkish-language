@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "düşünemezsin",
     "root": "düşün",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "zsin",
+    "personal_affix": "sin",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "turkish_example_sentence": "Sen yorgun haldeyken net düşünemezsin.",
-  "english_example_sentence": "You cannot think clearly when you are tired.",
-  "russian_example_sentence": "Ты не можешь думать ясно, когда ты устал.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-15T12:13:55.909283+00:00",
-  "turkish_example_sentence_with_blank": "Sen yorgun haldeyken net ______."
+  "turkish_example_sentence": "Sen yorgun kafayla zor bilim sorusunu düşünemezsin",
+  "english_example_sentence": "You cannot think about the difficult science question with a tired mind",
+  "russian_example_sentence": "Ты не можешь думать о трудном научном вопросе с уставшей головой",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:30:42.607782+00:00",
+  "turkish_example_sentence_with_blank": "Sen yorgun kafayla zor bilim sorusunu ______"
 }

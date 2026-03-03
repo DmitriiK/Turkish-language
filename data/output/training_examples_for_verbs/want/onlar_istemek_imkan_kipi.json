@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "isteyebilirler",
     "root": "iste",
-    "tense_affix": "yebil",
+    "modal_affix": "yebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Onlar yeşil ve taze sebzeleri pazardan isteyebilirler.",
-  "english_example_sentence": "They can want the green and fresh vegetables from the market.",
-  "russian_example_sentence": "Они могут хотеть зелёные и свежие овощи с рынка.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T11:49:09.633607+00:00",
-  "turkish_example_sentence_with_blank": "Onlar yeşil ve taze sebzeleri pazardan ______."
+  "turkish_example_sentence": "Onlar yeşil park ve temiz oyun alanı isteyebilirler",
+  "english_example_sentence": "They can want green park and clean playground",
+  "russian_example_sentence": "Они могут хотеть зеленый парк и чистую игровую площадку",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:33:10.979460+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yeşil park ve temiz oyun alanı ______"
 }

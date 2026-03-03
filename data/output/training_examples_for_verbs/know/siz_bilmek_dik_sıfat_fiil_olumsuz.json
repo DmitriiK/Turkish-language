@@ -1,0 +1,23 @@
+{
+  "verb_rank": 8,
+  "verb_english": "know",
+  "verb_russian": "знать",
+  "verb_infinitive": "bilmek",
+  "turkish_verb": {
+    "verb_full": "bilmediğiniz",
+    "root": "bil",
+    "modal_affix": null,
+    "tense_affix": "dik",
+    "verb_tense": "dik_sıfat_fiil",
+    "personal_pronoun": "siz",
+    "personal_affix": "iniz",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "turkish_example_sentence": "Siz, yeni kuralları bilmediğiniz halde neden itiraz ettiniz?",
+  "english_example_sentence": "Why did you object even though you didn't know the new rules?",
+  "russian_example_sentence": "Почему вы возражали, хотя не знали новых правил?",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2026-03-03T13:49:10.531972+00:00",
+  "turkish_example_sentence_with_blank": "Siz, yeni kuralları ______ halde neden itiraz ettiniz?"
+}

@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "sevemezler",
     "root": "sev",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "zler",
+    "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "They cannot love cold winters",
-  "russian_example_sentence": "Они не могут любить холодные зимы",
-  "turkish_example_sentence": "Onlar soğuk kışları sevemezler",
-  "turkish_example_sentence_with_blank": "Onlar soğuk kışları ______"
+  "turkish_example_sentence": "Onlar tehlikeli yüksek dağ sporlarını hiç sevemezler",
+  "english_example_sentence": "They cannot love dangerous high mountain sports at all",
+  "russian_example_sentence": "Они не могут любить опасные высокогорные виды спорта вообще",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:11:49.177707+00:00",
+  "turkish_example_sentence_with_blank": "Onlar tehlikeli yüksek dağ sporlarını hiç ______"
 }

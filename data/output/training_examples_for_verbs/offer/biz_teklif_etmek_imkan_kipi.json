@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "teklif edebiliriz",
     "root": "teklif et",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iriz",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We can offer a free consultation.",
-  "russian_example_sentence": "Мы можем предложить бесплатную консультацию.",
-  "turkish_example_sentence": "Biz ücretsiz bir danışma teklif edebiliriz.",
-  "turkish_example_sentence_with_blank": "Biz ücretsiz bir danışma ______."
+  "turkish_example_sentence": "Biz müşterilere özel indirimli paket teklif edebiliriz",
+  "english_example_sentence": "We can offer a special discounted package to the customers",
+  "russian_example_sentence": "Мы можем предложить специальный пакет со скидкой клиентам",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:10:29.027751+00:00",
+  "turkish_example_sentence_with_blank": "Biz müşterilere özel indirimli paket ______"
 }

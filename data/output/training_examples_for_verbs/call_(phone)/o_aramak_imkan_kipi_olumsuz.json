@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "arayamaz",
     "root": "ara",
-    "tense_affix": "yama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "z",
+    "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "yama"
+    "negative_affix": "ama"
   },
-  "turkish_example_sentence": "O gece geç vakitte yaşlı komşusunu arayamaz",
-  "english_example_sentence": "He/she cannot call the elderly neighbor late at night",
-  "russian_example_sentence": "Он/она не может позвонить пожилому соседу поздно ночью",
+  "turkish_example_sentence": "O hastaneden yaşlı annesini arayamaz",
+  "english_example_sentence": "He/she cannot call his/her elderly mother from the hospital",
+  "russian_example_sentence": "Он/она не может позвонить своей пожилой матери из больницы",
   "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-16T10:25:46.796768+00:00",
-  "turkish_example_sentence_with_blank": "O gece geç vakitte yaşlı komşusunu ______"
+  "generated_at": "2026-03-03T08:37:44.045000+00:00",
+  "turkish_example_sentence_with_blank": "O hastaneden yaşlı annesini ______"
 }

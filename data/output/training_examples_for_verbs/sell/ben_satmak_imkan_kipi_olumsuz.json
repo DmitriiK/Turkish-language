@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "satamam",
     "root": "sat",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "am",
+    "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "I cannot sell old books.",
-  "russian_example_sentence": "Я не могу продавать старые книги.",
-  "turkish_example_sentence": "Ben eski kitapları satamam.",
-  "turkish_example_sentence_with_blank": "Ben eski kitapları ______."
+  "turkish_example_sentence": "Ben büyük kırmızı motosikleti ucuza satamam",
+  "english_example_sentence": "I cannot sell the big red motorcycle cheaply",
+  "russian_example_sentence": "Я не могу продать большой красный мотоцикл дешево",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:22:11.769161+00:00",
+  "turkish_example_sentence_with_blank": "Ben büyük kırmızı motosikleti ucuza ______"
 }

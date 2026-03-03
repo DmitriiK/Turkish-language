@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "konuşabilirsiniz",
     "root": "konuş",
-    "tense_affix": "abil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "irsiniz",
+    "personal_affix": "siniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can speak with native speakers",
-  "russian_example_sentence": "Вы можете говорить с носителями языка",
-  "turkish_example_sentence": "Siz değerli misafirler yerel halkla konuşabilirsiniz",
-  "turkish_example_sentence_with_blank": "Siz değerli misafirler yerel halkla ______"
+  "turkish_example_sentence": "Siz deneyimli avukatla hukuki sorunlarınız hakkında konuşabilirsiniz",
+  "english_example_sentence": "You can speak with the experienced lawyer about your legal problems",
+  "russian_example_sentence": "Вы можете говорить с опытным адвокатом о ваших юридических проблемах",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:04:40.105523+00:00",
+  "turkish_example_sentence_with_blank": "Siz deneyimli avukatla hukuki sorunlarınız hakkında ______"
 }

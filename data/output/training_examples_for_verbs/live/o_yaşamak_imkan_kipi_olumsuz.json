@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "yaşayamaz",
     "root": "yaşa",
-    "tense_affix": "yama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "z",
+    "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "yama"
+    "negative_affix": "ama"
   },
-  "english_example_sentence": "She cannot live in that polluted industrial area anymore",
-  "russian_example_sentence": "Она больше не может жить в том загрязненном промышленном районе",
-  "turkish_example_sentence": "O kirli endüstriyel bölgede artık yaşayamaz",
-  "turkish_example_sentence_with_blank": "O kirli endüstriyel bölgede artık ______"
+  "turkish_example_sentence": "O kirli hava olan sanayi bölgesinde yaşayamaz",
+  "english_example_sentence": "He/she cannot live in the industrial zone with polluted air",
+  "russian_example_sentence": "Он/она не может жить в промышленной зоне с грязным воздухом",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:50:34.920754+00:00",
+  "turkish_example_sentence_with_blank": "O kirli hava olan sanayi bölgesinde ______"
 }

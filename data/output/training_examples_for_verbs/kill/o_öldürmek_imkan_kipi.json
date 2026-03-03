@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "öldürebilir",
     "root": "öldür",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "ir",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He can kill the venomous snake skillfully",
-  "russian_example_sentence": "Он может убить ядовитую змею умело",
-  "turkish_example_sentence": "O zehirli yılanı ustalıkla öldürebilir",
-  "turkish_example_sentence_with_blank": "O zehirli yılanı ustalıkla ______"
+  "turkish_example_sentence": "O avcı büyük gri kurdu sabah öldürebilir",
+  "english_example_sentence": "That hunter can kill the big grey wolf in the morning",
+  "russian_example_sentence": "Тот охотник может убить большого серого волка утром",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:20:17.946338+00:00",
+  "turkish_example_sentence_with_blank": "O avcı büyük gri kurdu sabah ______"
 }

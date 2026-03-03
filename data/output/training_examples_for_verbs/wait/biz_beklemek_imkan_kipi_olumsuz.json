@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "bekleyemeyiz",
     "root": "bekle",
-    "tense_affix": "yeme",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yiz",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": null
   },
-  "english_example_sentence": "We cannot wait for the critical project deadline next month",
-  "russian_example_sentence": "Мы не можем ждать критический срок проекта в следующем месяце",
-  "turkish_example_sentence": "Biz gelecek ay kritik proje son tarihini daha fazla bekleyemeyiz",
-  "turkish_example_sentence_with_blank": "Biz gelecek ay kritik proje son tarihini daha fazla ______"
+  "turkish_example_sentence": "Biz karanlık tren istasyonunda gece yarısı bekleyemeyiz",
+  "english_example_sentence": "We cannot wait at the dark train station at midnight",
+  "russian_example_sentence": "Мы не можем ждать на тёмном железнодорожном вокзале в полночь",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:14:24.136769+00:00",
+  "turkish_example_sentence_with_blank": "Biz karanlık tren istasyonunda gece yarısı ______"
 }

@@ -4,19 +4,20 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gidememez",
+    "verb_full": "gidemez",
     "root": "git",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "z",
+    "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "m"
+    "negative_affix": null
   },
-  "turkish_example_sentence": "O yaşlı kadın yüksek dağ yolunda gidememez.",
-  "english_example_sentence": "That elderly woman cannot go on the high mountain road.",
-  "russian_example_sentence": "Эта пожилая женщина не может пойти по высокой горной дороге.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-14T07:34:22.682535+00:00",
-  "turkish_example_sentence_with_blank": "O yaşlı kadın yüksek dağ yolunda ______."
+  "turkish_example_sentence": "O hasta küçük kızıyla uzak köye gidemez",
+  "english_example_sentence": "She cannot go to the distant village with her sick little daughter",
+  "russian_example_sentence": "Она не может поехать в дальнюю деревню с больной маленькой дочкой",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:28:16.311910+00:00",
+  "turkish_example_sentence_with_blank": "O hasta küçük kızıyla uzak köye ______"
 }

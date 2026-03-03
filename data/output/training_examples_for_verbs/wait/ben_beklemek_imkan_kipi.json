@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "bekleyebilirim",
     "root": "bekle",
-    "tense_affix": "yebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "irim",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I can wait for the important meeting tomorrow",
-  "russian_example_sentence": "Я могу ждать важную встречу завтра",
-  "turkish_example_sentence": "Ben yarınki önemli toplantı için sabırla bekleyebilirim",
-  "turkish_example_sentence_with_blank": "Ben yarınki önemli toplantı için sabırla ______"
+  "turkish_example_sentence": "Ben otobüs durağında sabahın erken saatinde bekleyebilirim",
+  "english_example_sentence": "I can wait at the bus stop in the early morning hours",
+  "russian_example_sentence": "Я могу ждать на автобусной остановке в ранние утренние часы",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:14:24.136769+00:00",
+  "turkish_example_sentence_with_blank": "Ben otobüs durağında sabahın erken saatinde ______"
 }

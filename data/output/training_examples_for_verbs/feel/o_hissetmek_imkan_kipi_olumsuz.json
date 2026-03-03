@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "hissedemez",
     "root": "hisset",
-    "tense_affix": "",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "emez"
+    "negative_affix": null
   },
-  "turkish_example_sentence": "O uzaktan gelen hafif sesi hissedemez.",
-  "english_example_sentence": "He/She cannot feel the faint sound coming from afar.",
-  "russian_example_sentence": "Он/Она не может чувствовать слабый звук, идущий издалека.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-12T13:12:20.306171+00:00",
-  "turkish_example_sentence_with_blank": "O uzaktan gelen hafif sesi ______."
+  "turkish_example_sentence": "O gürültülü kalabalık ortamda huzurlu sessizliği hissedemez",
+  "english_example_sentence": "He/she cannot feel the peaceful silence in the noisy crowded environment",
+  "russian_example_sentence": "Он/она не может чувствовать мирную тишину в шумной переполненной обстановке",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:40:17.498216+00:00",
+  "turkish_example_sentence_with_blank": "O gürültülü kalabalık ortamda huzurlu sessizliği ______"
 }

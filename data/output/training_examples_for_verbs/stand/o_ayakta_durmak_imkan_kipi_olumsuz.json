@@ -5,16 +5,19 @@
   "verb_infinitive": "ayakta durmak",
   "turkish_verb": {
     "verb_full": "ayakta duramaz",
-    "root": "ayakta dur",
-    "tense_affix": "ama",
+    "root": "dur",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "z",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "She can’t stand in cold weather.",
-  "russian_example_sentence": "Она не может стоять на холоде.",
-  "turkish_example_sentence": "O soğuk havada ayakta duramaz.",
-  "turkish_example_sentence_with_blank": "O soğuk havada ______."
+  "turkish_example_sentence": "O yaşlı adam ağır çantasıyla dar koridorda ayakta duramaz",
+  "english_example_sentence": "That old man cannot stand in the narrow corridor with his heavy bag",
+  "russian_example_sentence": "Тот старый мужчина не может стоять в узком коридоре с тяжелой сумкой",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:55:04.829142+00:00",
+  "turkish_example_sentence_with_blank": "O yaşlı adam ağır çantasıyla dar koridorda ______"
 }

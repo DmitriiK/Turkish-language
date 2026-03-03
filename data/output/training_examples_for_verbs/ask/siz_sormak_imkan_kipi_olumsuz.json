@@ -4,19 +4,20 @@
   "verb_russian": "спрашивать",
   "verb_infinitive": "sormak",
   "turkish_verb": {
-    "verb_full": "soramayız",
+    "verb_full": "soramazsınız",
     "root": "sor",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "yız",
+    "personal_affix": "sınız",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "turkish_example_sentence": "Siz başkanın kişisel kararını soramayız.",
-  "english_example_sentence": "You cannot ask the president about his personal decision.",
-  "russian_example_sentence": "Вы не можете спросить президента о его личном решении.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:45:53.655773+00:00",
-  "turkish_example_sentence_with_blank": "Siz başkanın kişisel kararını ______."
+  "turkish_example_sentence": "Siz patrona düşük maaş hakkında cesur soruyu soramazsınız",
+  "english_example_sentence": "You cannot ask the boss the brave question about low salary",
+  "russian_example_sentence": "Вы не можете спросить начальника смелый вопрос о низкой зарплате",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:39:00.036596+00:00",
+  "turkish_example_sentence_with_blank": "Siz patrona düşük maaş hakkında cesur soruyu ______"
 }

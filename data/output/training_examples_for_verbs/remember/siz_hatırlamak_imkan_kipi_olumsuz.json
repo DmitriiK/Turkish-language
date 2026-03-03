@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "hatırlayamazsınız",
     "root": "hatırla",
-    "tense_affix": "yama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "sınız",
     "polarity": "negative",
-    "negative_affix": "yama"
+    "negative_affix": "ama"
   },
-  "english_example_sentence": "You cannot remember your neighbor’s name",
-  "russian_example_sentence": "Вы не можете вспомнить имя вашего соседа",
-  "turkish_example_sentence": "Siz komşunuzun ismini hatırlayamazsınız",
-  "turkish_example_sentence_with_blank": "Siz komşunuzun ismini ______"
+  "turkish_example_sentence": "Siz hastanedeki genç doktorun soyadını hatırlayamazsınız",
+  "english_example_sentence": "You cannot remember the young doctor's surname at the hospital",
+  "russian_example_sentence": "Вы не можете вспомнить фамилию молодого доктора в больнице",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:11:12.200165+00:00",
+  "turkish_example_sentence_with_blank": "Siz hastanedeki genç doktorun soyadını ______"
 }

@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "öldüremezsin",
     "root": "öldür",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "zsin",
+    "personal_affix": "sin",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "You cannot kill the protected rare bird",
-  "russian_example_sentence": "Ты не можешь убить защищённую редкую птицу",
-  "turkish_example_sentence": "Sen korunan nadir kuşu öldüremezsin",
-  "turkish_example_sentence_with_blank": "Sen korunan nadir kuşu ______"
+  "turkish_example_sentence": "Sen güçlü yabani ayıyı tek başına öldüremezsin",
+  "english_example_sentence": "You cannot kill the strong wild bear alone",
+  "russian_example_sentence": "Ты не можешь убить сильного дикого медведя один",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:20:17.946338+00:00",
+  "turkish_example_sentence_with_blank": "Sen güçlü yabani ayıyı tek başına ______"
 }

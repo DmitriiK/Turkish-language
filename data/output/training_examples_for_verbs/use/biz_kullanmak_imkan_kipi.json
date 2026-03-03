@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "kullanabiliriz",
     "root": "kullan",
-    "tense_affix": "abil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iriz",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Biz bu geniş bahçede bahçıvan aletlerini rahatça kullanabiliriz.",
-  "english_example_sentence": "We can use the gardening tools in this spacious garden comfortably.",
-  "russian_example_sentence": "Мы можем удобно использовать инструменты садовника в этом просторном саду.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T14:15:01.155710+00:00",
-  "turkish_example_sentence_with_blank": "Biz bu geniş bahçede bahçıvan aletlerini rahatça ______."
+  "turkish_example_sentence": "Biz hızlı elektrikli otomobili tatilde güvenle kullanabiliriz",
+  "english_example_sentence": "We can use the fast electric car safely on vacation",
+  "russian_example_sentence": "Мы можем безопасно использовать быстрый электромобиль в отпуске",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:34:31.716228+00:00",
+  "turkish_example_sentence_with_blank": "Biz hızlı elektrikli otomobili tatilde güvenle ______"
 }

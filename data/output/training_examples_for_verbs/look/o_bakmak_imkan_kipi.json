@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "bakabilir",
     "root": "bak",
-    "tense_affix": "abil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "ir",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He can look at the new car in the showroom",
-  "russian_example_sentence": "Он может смотреть на новый автомобиль в салоне",
-  "turkish_example_sentence": "O vitrin penceresinden yeni arabaya bakabilir",
-  "turkish_example_sentence_with_blank": "O vitrin penceresinden yeni arabaya ______"
+  "turkish_example_sentence": "O akşam saatlerinde parlak yıldızlara teleskopla dikkatle bakabilir",
+  "english_example_sentence": "He can look at the bright stars carefully with a telescope in the evening hours",
+  "russian_example_sentence": "Он может смотреть на яркие звезды внимательно через телескоп вечером",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:33:54.723802+00:00",
+  "turkish_example_sentence_with_blank": "O akşam saatlerinde parlak yıldızlara teleskopla dikkatle ______"
 }

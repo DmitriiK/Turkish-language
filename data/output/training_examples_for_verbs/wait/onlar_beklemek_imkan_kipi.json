@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "bekleyebilirler",
     "root": "bekle",
-    "tense_affix": "yebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They can wait for the wonderful summer vacation plans",
-  "russian_example_sentence": "Они могут ждать замечательные планы летних каникул",
-  "turkish_example_sentence": "Onlar harika yaz tatili planlarını sabırla bekleyebilirler",
-  "turkish_example_sentence_with_blank": "Onlar harika yaz tatili planlarını sabırla ______"
+  "turkish_example_sentence": "Onlar ünlü restoranın lüks bekleme alanında sessizce bekleyebilirler",
+  "english_example_sentence": "They can wait quietly in the luxury waiting area of the famous restaurant",
+  "russian_example_sentence": "Они могут ждать тихо в роскошной зоне ожидания знаменитого ресторана",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:14:24.136769+00:00",
+  "turkish_example_sentence_with_blank": "Onlar ünlü restoranın lüks bekleme alanında sessizce ______"
 }

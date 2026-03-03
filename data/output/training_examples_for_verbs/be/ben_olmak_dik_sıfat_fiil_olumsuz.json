@@ -1,0 +1,23 @@
+{
+  "verb_rank": 1,
+  "verb_english": "be",
+  "verb_russian": "быть",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olmadığım",
+    "root": "ol",
+    "modal_affix": null,
+    "tense_affix": "dığ",
+    "verb_tense": "dik_sıfat_fiil",
+    "personal_pronoun": "ben",
+    "personal_affix": "ım",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "turkish_example_sentence": "Benim olmadığım toplantı oldukça sıkıcıydı.",
+  "english_example_sentence": "The meeting I wasn't at was quite boring.",
+  "russian_example_sentence": "Встреча, на которой меня не было, была довольно скучной.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2026-03-03T13:41:07.568771+00:00",
+  "turkish_example_sentence_with_blank": "Benim ______ toplantı oldukça sıkıcıydı."
+}

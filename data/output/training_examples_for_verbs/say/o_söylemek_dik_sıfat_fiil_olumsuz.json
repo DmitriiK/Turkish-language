@@ -1,0 +1,23 @@
+{
+  "verb_rank": 4,
+  "verb_english": "say",
+  "verb_russian": "сказать",
+  "verb_infinitive": "söylemek",
+  "turkish_verb": {
+    "verb_full": "söylemediği",
+    "root": "söyle",
+    "modal_affix": null,
+    "tense_affix": "diğ",
+    "verb_tense": "dik_sıfat_fiil",
+    "personal_pronoun": "o",
+    "personal_affix": "i",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "turkish_example_sentence": "Öğretmene söylemediği cevap büyük bir karışıklığa neden oldu.",
+  "english_example_sentence": "The answer he/she didn't tell the teacher caused great confusion.",
+  "russian_example_sentence": "Ответ, который он/она не сказал учителю, вызвал большое замешательство.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2026-03-03T13:44:39.794801+00:00",
+  "turkish_example_sentence_with_blank": "Öğretmene ______ cevap büyük bir karışıklığa neden oldu."
+}

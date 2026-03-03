@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "açıklayamayız",
     "root": "açıkla",
-    "tense_affix": "yabilir",
+    "modal_affix": "ama",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yız",
     "polarity": "negative",
-    "negative_affix": "yama"
+    "negative_affix": "ama"
   },
-  "english_example_sentence": "We cannot explain his absence.",
-  "russian_example_sentence": "Мы не можем объяснить его отсутствие.",
-  "turkish_example_sentence": "Onun yokluğunu açıklayamayız.",
-  "turkish_example_sentence_with_blank": "Onun yokluğunu ______."
+  "turkish_example_sentence": "Biz ekonomik kriz nedenlerini basit kelimelerle açıklayamayız",
+  "english_example_sentence": "We cannot explain the economic crisis reasons with simple words",
+  "russian_example_sentence": "Мы не можем объяснить причины экономического кризиса простыми словами",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:26:01.358643+00:00",
+  "turkish_example_sentence_with_blank": "Biz ekonomik kriz nedenlerini basit kelimelerle ______"
 }

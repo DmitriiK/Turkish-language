@@ -4,17 +4,20 @@
   "verb_russian": "жить",
   "verb_infinitive": "yaşamak",
   "turkish_verb": {
-    "verb_full": "yaşayamayız",
+    "verb_full": "yaşayamazlar",
     "root": "yaşa",
-    "tense_affix": "yama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
-    "negative_affix": "yama"
+    "negative_affix": "ama"
   },
-  "english_example_sentence": "They cannot live without basic healthcare and education services",
-  "russian_example_sentence": "Они не могут жить без базовых услуг здравоохранения и образования",
-  "turkish_example_sentence": "Onlar temel sağlık ve eğitim hizmetleri olmadan yaşayamazlar",
-  "turkish_example_sentence_with_blank": "Onlar temel sağlık ve eğitim hizmetleri olmadan yaşayamazlar"
+  "turkish_example_sentence": "Onlar pahalı lüks otel süitinde uzun süre yaşayamazlar",
+  "english_example_sentence": "They cannot live in the expensive luxury hotel suite for a long time",
+  "russian_example_sentence": "Они не могут жить в дорогом роскошном гостиничном номере долгое время",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:50:34.920754+00:00",
+  "turkish_example_sentence_with_blank": "Onlar pahalı lüks otel süitinde uzun süre ______"
 }

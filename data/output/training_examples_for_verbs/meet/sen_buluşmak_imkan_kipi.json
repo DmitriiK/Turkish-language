@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "buluşabilirsin",
     "root": "buluş",
-    "tense_affix": "abil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "irsin",
+    "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can meet your best friend.",
-  "russian_example_sentence": "Ты можешь встретиться с своим лучшим другом.",
-  "turkish_example_sentence": "Sen en iyi arkadaşın ile buluşabilirsin.",
-  "turkish_example_sentence_with_blank": "Sen en iyi arkadaşın ile ______."
+  "turkish_example_sentence": "Sen yeni komşularınla hafta sonu buluşabilirsin",
+  "english_example_sentence": "You can meet with your new neighbors on the weekend",
+  "russian_example_sentence": "Ты можешь встретиться с новыми соседями на выходных",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:56:55.670429+00:00",
+  "turkish_example_sentence_with_blank": "Sen yeni komşularınla hafta sonu ______"
 }

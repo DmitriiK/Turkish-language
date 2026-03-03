@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "düşebilirim",
     "root": "düş",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "irim",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I can fall down the steep mountain slope",
-  "russian_example_sentence": "Я могу упасть с крутого склона горы",
-  "turkish_example_sentence": "Ben dik dağ yamaçından düşebilirim",
-  "turkish_example_sentence_with_blank": "Ben dik dağ yamaçından ______"
+  "turkish_example_sentence": "Ben buzlu yolda kolayca düşebilirim",
+  "english_example_sentence": "I can fall easily on the icy road",
+  "russian_example_sentence": "Я могу легко упасть на обледенелой дороге",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:18:59.208757+00:00",
+  "turkish_example_sentence_with_blank": "Ben buzlu yolda kolayca ______"
 }

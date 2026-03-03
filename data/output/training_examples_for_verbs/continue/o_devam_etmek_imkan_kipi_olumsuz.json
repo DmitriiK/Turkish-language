@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "devam edemez",
     "root": "devam et",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "z",
+    "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "She cannot continue her beautiful painting today",
-  "russian_example_sentence": "Она не может продолжить свою красивую картину сегодня",
-  "turkish_example_sentence": "O güzel resimini bugün devam edemez",
-  "turkish_example_sentence_with_blank": "O güzel resimini bugün ______"
+  "turkish_example_sentence": "O kötü hava yüzünden tehlikeli dağ tırmanışına devam edemez",
+  "english_example_sentence": "He cannot continue to the dangerous mountain climbing because of bad weather",
+  "russian_example_sentence": "Он не может продолжать опасное восхождение на гору из-за плохой погоды",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:58:11.016782+00:00",
+  "turkish_example_sentence_with_blank": "O kötü hava yüzünden tehlikeli dağ tırmanışına ______"
 }

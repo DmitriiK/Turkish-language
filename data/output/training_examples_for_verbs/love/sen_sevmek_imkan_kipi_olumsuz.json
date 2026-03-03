@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "sevemezsin",
     "root": "sev",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "sin",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "You cannot love boring books",
-  "russian_example_sentence": "Ты не можешь любить скучные книги",
-  "turkish_example_sentence": "Sen sıkıcı kitapları sevemezsin",
-  "turkish_example_sentence_with_blank": "Sen sıkıcı kitapları ______"
+  "turkish_example_sentence": "Sen yabancı soğuk şehri asla sevemezsin",
+  "english_example_sentence": "You can never love the foreign cold city",
+  "russian_example_sentence": "Ты никогда не сможешь любить чужой холодный город",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:11:49.177707+00:00",
+  "turkish_example_sentence_with_blank": "Sen yabancı soğuk şehri asla ______"
 }

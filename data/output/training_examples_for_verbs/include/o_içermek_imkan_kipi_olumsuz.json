@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "içeremez",
     "root": "içer",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "z",
+    "personal_affix": "",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "He cannot include confidential information in the document",
-  "russian_example_sentence": "Он не может включить конфиденциальную информацию в документ",
-  "turkish_example_sentence": "O gizli bilgileri belgede içeremez",
-  "turkish_example_sentence_with_blank": "O gizli bilgileri belgede ______"
+  "turkish_example_sentence": "O zararlı maddeleri çocuk yemeklerine içeremez",
+  "english_example_sentence": "He/she cannot include harmful substances in children's meals",
+  "russian_example_sentence": "Он/она не может включить вредные вещества в детские блюда",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:57:32.446104+00:00",
+  "turkish_example_sentence_with_blank": "O zararlı maddeleri çocuk yemeklerine ______"
 }

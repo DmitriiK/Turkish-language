@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "sevemeyiz",
     "root": "sev",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yiz",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "We cannot love mean people",
-  "russian_example_sentence": "Мы не можем любить злых людей",
-  "turkish_example_sentence": "Biz kötü niyetli insanları sevemeyiz",
-  "turkish_example_sentence_with_blank": "Biz kötü niyetli insanları ______"
+  "turkish_example_sentence": "Biz gürültülü kalabalık restoranlarda yemek sevemeyiz",
+  "english_example_sentence": "We cannot love eating at noisy crowded restaurants",
+  "russian_example_sentence": "Мы не можем любить есть в шумных переполненных ресторанах",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:11:49.177707+00:00",
+  "turkish_example_sentence_with_blank": "Biz gürültülü kalabalık restoranlarda yemek ______"
 }

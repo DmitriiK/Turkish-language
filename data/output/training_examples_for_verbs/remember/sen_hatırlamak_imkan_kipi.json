@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "hatırlayabilirsin",
     "root": "hatırla",
-    "tense_affix": "yabilir",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can remember the details well",
-  "russian_example_sentence": "Ты можешь хорошо вспомнить детали",
-  "turkish_example_sentence": "Sen detayları iyi hatırlayabilirsin",
-  "turkish_example_sentence_with_blank": "Sen detayları iyi ______"
+  "turkish_example_sentence": "Sen geçen yılki kış tatilinde yaşanan komik olayı hatırlayabilirsin",
+  "english_example_sentence": "You can remember the funny incident during last year's winter vacation",
+  "russian_example_sentence": "Ты можешь вспомнить смешной случай во время зимних каникул прошлого года",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:11:12.200165+00:00",
+  "turkish_example_sentence_with_blank": "Sen geçen yılki kış tatilinde yaşanan komik olayı ______"
 }

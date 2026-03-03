@@ -4,17 +4,20 @@
   "verb_russian": "смотреть",
   "verb_infinitive": "bakmak",
   "turkish_verb": {
-    "verb_full": "bakamassın",
+    "verb_full": "bakamazsın",
     "root": "bak",
-    "tense_affix": "abil",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "irsin",
+    "personal_affix": "sın",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "You cannot look at the secret documents",
-  "russian_example_sentence": "Ты не можешь смотреть на секретные документы",
-  "turkish_example_sentence": "Sen gizli belgelere bakamassın",
-  "turkish_example_sentence_with_blank": "Sen gizli belgelere ______"
+  "turkish_example_sentence": "Sen kırık gözlükle küçük yazılı eski gazete haberlerine bakamazsın",
+  "english_example_sentence": "You cannot look at the old newspaper articles with small writing with broken glasses",
+  "russian_example_sentence": "Ты не можешь смотреть на старые газетные статьи с мелким шрифтом со сломанными очками",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:33:54.723802+00:00",
+  "turkish_example_sentence_with_blank": "Sen kırık gözlükle küçük yazılı eski gazete haberlerine ______"
 }

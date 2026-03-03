@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "görünebilir",
     "root": "görün",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "ir",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "She can appear mysterious with her long red scarf",
-  "russian_example_sentence": "Она может выглядеть загадочно с её длинным красным шарфом",
-  "turkish_example_sentence": "O uzun kırmızı eşarpsıyla çok gizemli görünebilir",
-  "turkish_example_sentence_with_blank": "O uzun kırmızı eşarpsıyla çok gizemli ______"
+  "turkish_example_sentence": "O ünlü yazar gelecek hafta şehir kütüphanesinde görünebilir",
+  "english_example_sentence": "That famous writer can appear at the city library next week",
+  "russian_example_sentence": "Тот знаменитый писатель может появиться в городской библиотеке на следующей неделе",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:13:09.106866+00:00",
+  "turkish_example_sentence_with_blank": "O ünlü yazar gelecek hafta şehir kütüphanesinde ______"
 }

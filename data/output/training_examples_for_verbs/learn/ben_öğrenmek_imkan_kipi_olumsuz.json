@@ -4,17 +4,20 @@
   "verb_russian": "учить(ся)",
   "verb_infinitive": "öğrenmek",
   "turkish_verb": {
-    "verb_full": "öğrenemem",
+    "verb_full": "öğrenemiyorum",
     "root": "öğren",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "iyor",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "m",
+    "personal_affix": "um",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "I cannot learn difficult Chinese characters quickly",
-  "russian_example_sentence": "Я не могу быстро учить сложные китайские иероглифы",
-  "turkish_example_sentence": "Ben zor Çince karakterlerini hızlı öğrenemem",
-  "turkish_example_sentence_with_blank": "Ben zor Çince karakterlerini hızlı ______"
+  "turkish_example_sentence": "Ben zor matematik kurallarını şimdi öğrenemiyorum",
+  "english_example_sentence": "I cannot learn the difficult mathematics rules now",
+  "russian_example_sentence": "Я не могу учить трудные математические правила сейчас",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:59:31.146641+00:00",
+  "turkish_example_sentence_with_blank": "Ben zor matematik kurallarını şimdi ______"
 }

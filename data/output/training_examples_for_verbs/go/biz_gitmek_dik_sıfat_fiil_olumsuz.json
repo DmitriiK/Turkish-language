@@ -1,0 +1,23 @@
+{
+  "verb_rank": 5,
+  "verb_english": "go",
+  "verb_russian": "идти",
+  "verb_infinitive": "gitmek",
+  "turkish_verb": {
+    "verb_full": "gitmediğimiz",
+    "root": "git",
+    "modal_affix": null,
+    "tense_affix": "diğ",
+    "verb_tense": "dik_sıfat_fiil",
+    "personal_pronoun": "biz",
+    "personal_affix": "imiz",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "turkish_example_sentence": "Bizim gitmediğimiz sergi hakkında çok güzel şeyler duydum.",
+  "english_example_sentence": "I heard very good things about the exhibition we didn't go to.",
+  "russian_example_sentence": "Я слышал очень хорошие вещи о выставке, на которую мы не пошли.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2026-03-03T13:45:44.514799+00:00",
+  "turkish_example_sentence_with_blank": "Bizim ______ sergi hakkında çok güzel şeyler duydum."
+}

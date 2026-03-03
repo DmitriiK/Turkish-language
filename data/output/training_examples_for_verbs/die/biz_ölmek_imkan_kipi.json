@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "ölebiliriz",
     "root": "öl",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iriz",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We can survive this harsh winter together",
-  "russian_example_sentence": "Мы можем выжить в эту суровую зиму вместе",
-  "turkish_example_sentence": "Biz bu sert kışta birlikte ölebiliriz",
-  "turkish_example_sentence_with_blank": "Biz bu sert kışta birlikte ______"
+  "turkish_example_sentence": "Biz temiz içme suyu bulamazsak çölde ölebiliriz",
+  "english_example_sentence": "We can die in the desert if we cannot find clean drinking water",
+  "russian_example_sentence": "Мы можем умереть в пустыне если не найдем чистую питьевую воду",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:15:48.360088+00:00",
+  "turkish_example_sentence_with_blank": "Biz temiz içme suyu bulamazsak çölde ______"
 }

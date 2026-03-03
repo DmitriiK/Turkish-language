@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "kullanabilirsiniz",
     "root": "kullan",
-    "tense_affix": "abil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "irsiniz",
+    "personal_affix": "siniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Siz bu üniversite laboratuvarında ileri bilimsel cihazları kullanabilirsiniz.",
-  "english_example_sentence": "You can use advanced scientific equipment in this university laboratory.",
-  "russian_example_sentence": "Вы можете использовать передовое научное оборудование в этой университетской лаборатории.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T14:15:01.155710+00:00",
-  "turkish_example_sentence_with_blank": "Siz bu üniversite laboratuvarında ileri bilimsel cihazları ______."
+  "turkish_example_sentence": "Siz modern toplantı salonunu öğleden sonra kullanabilirsiniz",
+  "english_example_sentence": "You can use the modern conference hall in the afternoon",
+  "russian_example_sentence": "Вы можете использовать современный конференц-зал после обеда",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:34:31.716228+00:00",
+  "turkish_example_sentence_with_blank": "Siz modern toplantı salonunu öğleden sonra ______"
 }

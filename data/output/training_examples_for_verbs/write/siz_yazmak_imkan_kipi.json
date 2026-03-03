@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "yazabilirsiniz",
     "root": "yaz",
-    "tense_affix": "abil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "irsiniz",
+    "personal_affix": "siniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can write a formal invitation letter.",
-  "russian_example_sentence": "Вы можете написать формальное письмо-приглашение.",
-  "turkish_example_sentence": "Siz resmi davetiye mektubunu zarif şekilde yazabilirsiniz.",
-  "turkish_example_sentence_with_blank": "Siz resmi davetiye mektubunu zarif şekilde ______."
+  "turkish_example_sentence": "Siz kişisel günlük notlarınızı rahat kafeye yazabilirsiniz",
+  "english_example_sentence": "You can write your personal diary notes in the comfortable cafe",
+  "russian_example_sentence": "Вы можете написать свои личные дневниковые записи в уютном кафе",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:53:06.390578+00:00",
+  "turkish_example_sentence_with_blank": "Siz kişisel günlük notlarınızı rahat kafeye ______"
 }

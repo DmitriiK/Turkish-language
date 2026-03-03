@@ -224,8 +224,8 @@
       ]
     },
     "russian": {
-      "name": "Прошедшее очевидное (-miş)",
-      "description": "Прошедшее очевидное (öğrenilen geçmiş zaman, -miş'li geçmiş) используется, когда говорящий не был непосредственным свидетелем события. Часто передаёт пересказ, вывод по признакам или внезапное узнавание (\"оказывается\", \"говорят\").",
+      "name": "Прошедшее неочевидное (-miş) (Пересказывательное)",
+      "description": "Прошедшее неочевидное время (öğrenilen geçmiş zaman, -miş'li geçmiş) используется, когда говорящий не был непосредственным свидетелем события. Часто передаёт пересказ, вывод по признакам или внезапное узнавание (\"оказывается\", \"говорят\").",
       "usage": [
         "Пересказ / информация со слов других",
         "Вывод по признакам",
@@ -365,9 +365,9 @@
       ],
       "formation": {
         "positive": "Verb root + (a|e)r [or (ı|i|u|ü)r] + personal ending",
-        "negative": "Monosyllabic: Verb root + m(a|e)z + personal ending; Polysyllabic: Verb root + m(a|e) + personal ending",
+        "negative": "Verb root + m(a|e)z + personal ending (all persons EXCEPT: ben uses m(a|e)m, biz uses m(a|e)yız/yiz — no -z- for 1st person)",
         "interrogative": "Verb root + (a|e)r + mı/mi/mu/mü + personal ending",
-        "vowel_harmony_note": "Monosyllabic verbs use (a|e)r following 2-way harmony. Polysyllabic verbs use (ı|i|u|ü)r following 4-way harmony. Negative: monosyllabic uses m(a|e)z + personal; polysyllabic uses m(a|e) + personal. The interrogative particle follows 4-way harmony."
+        "vowel_harmony_note": "Monosyllabic verbs use (a|e)r following 2-way harmony. Polysyllabic verbs use (ı|i|u|ü)r following 4-way harmony. Negative formation is the SAME for all verbs: root + m(a|e)z + personal ending, except ben (yapmam — no -z-) and biz (yapmayız — no -z-). The interrogative particle follows 4-way harmony."
       },
       "affixes": {
         "tense_markers": [
@@ -386,7 +386,7 @@
           {"pronoun": "siz", "ending": "sınız/siniz", "example": "yaparsınız (you do)"},
           {"pronoun": "onlar", "ending": "lar", "example": "yaparlar (they do)"}
         ],
-        "negative_affix": "Monosyllabic: ma/me + z + personal ending; Polysyllabic: ma/me + personal ending - replaces the tense marker in negative forms"
+        "negative_affix": "ma/me + z + personal ending for all persons EXCEPT ben (yapmam) and biz (yapmayız) which have NO -z-. Replaces the tense marker in negative forms."
       },
       "examples": [
         {"turkish": "Her gün kitap okurum.", "translation": "I read a book every day.", "type": "positive"},
@@ -409,9 +409,9 @@
       ],
       "formation": {
         "positive": "Основа глагола + (a|e)r [или (ı|i|u|ü)r] + личное окончание",
-        "negative": "Односложные: Основа глагола + m(a|e)z + личное окончание; Многосложные: Основа глагола + m(a|e) + личное окончание",
+        "negative": "Основа глагола + m(a|e)z + личное окончание (для всех лиц КРОМЕ: ben использует m(a|e)m, biz использует m(a|e)yız/yiz — без -z- для 1-го лица)",
         "interrogative": "Основа глагола + (a|e)r + mı/mi/mu/mü + личное окончание",
-        "vowel_harmony_note": "Односложные глаголы используют (a|e)r, следуя 2-сторонней гармонии. Многосложные глаголы используют (ı|i|u|ü)r, следуя 4-сторонней гармонии. Отрицательная форма: односложные используют m(a|e)z + личное; многосложные используют m(a|e) + личное. Вопросительная частица следует 4-сторонней гармонии."
+        "vowel_harmony_note": "Односложные глаголы используют (a|e)r, следуя 2-сторонней гармонии. Многосложные глаголы используют (ı|i|u|ü)r, следуя 4-сторонней гармонии. Отрицательная форма ОДИНАКОВА для всех глаголов: основа + m(a|e)z + личное окончание, кроме ben (yapmam — без -z-) и biz (yapmayız — без -z-). Вопросительная частица следует 4-сторонней гармонии."
       },
       "affixes": {
         "tense_markers": [
@@ -430,7 +430,7 @@
           {"pronoun": "siz", "ending": "sınız/siniz", "example": "yaparsınız (вы делаете)"},
           {"pronoun": "onlar", "ending": "lar", "example": "yaparlar (они делают)"}
         ],
-        "negative_affix": "Односложные: ma/me + z + личное окончание; Многосложные: ma/me + личное окончание - заменяет показатель времени в отрицательных формах"
+        "negative_affix": "Для всех лиц: ma/me + z + личное окончание, КРОМЕ ben (yapmam) и biz (yapmayız), где НЕТ -z-. Заменяет показатель времени в отрицательных формах"
       },
       "examples": [
         {"turkish": "Her gün kitap okurum.", "translation": "Я читаю книгу каждый день.", "type": "positive"},
@@ -482,8 +482,9 @@
       "examples": [
         {"turkish": "Sinemaya beraber gidelim.", "translation": "Let's go to the cinema together.", "type": "positive"},
         {"turkish": "Size yardım edeyim mi?", "translation": "Shall I help you?", "type": "interrogative"},
-        {"turkish": "Herkes mutlu olsun.", "translation": "May everyone be happy.", "type": "positive"},
+        {"turkish": "Biraz dinlenelim.", "translation": "Let's rest a little.", "type": "positive"},
         {"turkish": "Bu konuyu konuşmayalım.", "translation": "Let's not talk about this topic.", "type": "negative"},
+        {"turkish": "Bugün erken kalkmayayım.", "translation": "Let me not get up early today.", "type": "negative"},
         {"turkish": "Geç kalmayayım diye erken çıkayım.", "translation": "Let me leave early so I won't be late.", "type": "positive"}
       ]
     },
@@ -522,8 +523,9 @@
       "examples": [
         {"turkish": "Sinemaya beraber gidelim.", "translation": "Давайте пойдём в кино вместе.", "type": "positive"},
         {"turkish": "Size yardım edeyim mi?", "translation": "Вам помочь?", "type": "interrogative"},
-        {"turkish": "Herkes mutlu olsun.", "translation": "Пусть все будут счастливы.", "type": "positive"},
+        {"turkish": "Biraz dinlenelim.", "translation": "Давайте немного отдохнём.", "type": "positive"},
         {"turkish": "Bu konuyu konuşmayalım.", "translation": "Давайте не будем говорить на эту тему.", "type": "negative"},
+        {"turkish": "Bugün erken kalkmayayım.", "translation": "Давай я сегодня не буду рано вставать.", "type": "negative"},
         {"turkish": "Geç kalmayayım diye erken çıkayım.", "translation": "Я выйду пораньше, чтобы не опоздать.", "type": "positive"}
       ]
     }
@@ -556,7 +558,8 @@
         "personal_endings": [
           {"pronoun": "sen", "ending": "-", "example": "yap (do!)"},
           {"pronoun": "siz", "ending": "ın/in", "example": "yapın (do! - plural/formal)"},
-          {"pronoun": "o", "ending": "sın/sin", "example": "yapsın (let him/her do)"}
+          {"pronoun": "o", "ending": "sın/sin", "example": "yapsın (let him/her do)"},
+          {"pronoun": "onlar", "ending": "sınlar/sinler", "example": "yapsınlar (let them do)"}
         ],
         "negative_affix": "ma/me - added directly to the verb root"
       },
@@ -564,6 +567,7 @@
         {"turkish": "Kitabı masanın üzerine koy!", "translation": "Put the book on the table!", "type": "positive"},
         {"turkish": "Lütfen sessiz olun.", "translation": "Please be quiet.", "type": "positive"},
         {"turkish": "Kapıyı açın.", "translation": "Open the door.", "type": "positive"},
+        {"turkish": "Herkes mutlu olsun.", "translation": "May everyone be happy.", "type": "positive"},
         {"turkish": "Geç kalma!", "translation": "Don't be late!", "type": "negative"},
         {"turkish": "Bu yolu kullanmayın.", "translation": "Don't use this road.", "type": "negative"}
       ]
@@ -592,7 +596,8 @@
         "personal_endings": [
           {"pronoun": "sen", "ending": "-", "example": "yap (делай!)"},
           {"pronoun": "siz", "ending": "ın/in", "example": "yapın (делайте! - мн.ч./вежл.)"},
-          {"pronoun": "o", "ending": "sın/sin", "example": "yapsın (пусть он/она сделает)"}
+          {"pronoun": "o", "ending": "sın/sin", "example": "yapsın (пусть он/она сделает)"},
+          {"pronoun": "onlar", "ending": "sınlar/sinler", "example": "yapsınlar (пусть они сделают)"}
         ],
         "negative_affix": "ma/me - добавляется непосредственно к основе глагола"
       },
@@ -600,6 +605,7 @@
         {"turkish": "Kitabı masanın üzerine koy!", "translation": "Положи книгу на стол!", "type": "positive"},
         {"turkish": "Lütfen sessiz olun.", "translation": "Пожалуйста, будьте тихими.", "type": "positive"},
         {"turkish": "Kapıyı açın.", "translation": "Откройте дверь.", "type": "positive"},
+        {"turkish": "Herkes mutlu olsun.", "translation": "Пусть все будут счастливы.", "type": "positive"},
         {"turkish": "Geç kalma!", "translation": "Не опаздывай!", "type": "negative"},
         {"turkish": "Bu yolu kullanmayın.", "translation": "Не используйте эту дорогу.", "type": "negative"}
       ]
@@ -776,7 +782,9 @@
         {"turkish": "Ödevimi bitirmeliyim.", "translation": "I must finish my homework.", "type": "positive"},
         {"turkish": "Doktora gitmelisin.", "translation": "You must go to the doctor.", "type": "positive"},
         {"turkish": "Erken kalkmalıyız.", "translation": "We must wake up early.", "type": "positive"},
-        {"turkish": "Sigara içmemelisin.", "translation": "You must not smoke.", "type": "negative"}
+        {"turkish": "Sigara içmemelisin.", "translation": "You must not smoke.", "type": "negative"},
+        {"turkish": "Bu raporu bugün bitirmemeli miyim?", "translation": "Must I not finish this report today?", "type": "interrogative"},
+        {"turkish": "Yapmalı mıyım?", "translation": "Must I do it?", "type": "interrogative"}
       ]
     },
     "russian": {
@@ -813,7 +821,9 @@
         {"turkish": "Ödevimi bitirmeliyim.", "translation": "Я должен закончить домашнее задание.", "type": "positive"},
         {"turkish": "Doktora gitmelisin.", "translation": "Ты должен пойти к врачу.", "type": "positive"},
         {"turkish": "Erken kalkmalıyız.", "translation": "Мы должны рано встать.", "type": "positive"},
-        {"turkish": "Sigara içmemelisin.", "translation": "Ты не должен курить.", "type": "negative"}
+        {"turkish": "Sigara içmemelisin.", "translation": "Ты не должен курить.", "type": "negative"},
+        {"turkish": "Bu raporu bugün bitirmemeli miyim?", "translation": "Разве я не должен закончить этот отчёт сегодня?", "type": "interrogative"},
+        {"turkish": "Yapmalı mıyım?", "translation": "Я должен это сделать?", "type": "interrogative"}
       ]
     }
   },
@@ -859,11 +869,12 @@
         "negative_affix": "ma/me before the possessive suffix"
       },
       "examples": [
-        {"turkish": "Gitmem lazım.", "translation": "My going is necessary.", "type": "positive"},
-        {"turkish": "Çalışman gerek.", "translation": "Your working is necessary.", "type": "positive"},
-        {"turkish": "Konuşmamız lazım.", "translation": "Our talking is necessary.", "type": "positive"},
-        {"turkish": "Gitmemem lazım.", "translation": "My not going is necessary.", "type": "negative"},
-        {"turkish": "Gitmen lazım mı?", "translation": "Is your going necessary?", "type": "interrogative"}
+        {"turkish": "Gitmem lazım.", "translation": "I need to go. (lit: my going is necessary)", "type": "positive"},
+        {"turkish": "Çalışman gerek.", "translation": "You need to work. (lit: your working is necessary)", "type": "positive"},
+        {"turkish": "Konuşmamız lazım.", "translation": "We need to talk. (lit: our talking is necessary)", "type": "positive"},
+        {"turkish": "Onu yapmaması lazım.", "translation": "He/she must not do that. (lit: his/her not-doing is necessary)", "type": "negative"},
+        {"turkish": "Gitmemem lazım.", "translation": "I must not go. (lit: my not-going is necessary)", "type": "negative"},
+        {"turkish": "Gitmen lazım mı?", "translation": "Do you need to go? (lit: is your going necessary?)", "type": "interrogative"}
       ]
     },
     "russian": {
@@ -904,11 +915,12 @@
         "negative_affix": "ma/me перед притяжательным суффиксом"
       },
       "examples": [
-        {"turkish": "Gitmem lazım.", "translation": "Мой уход необходим.", "type": "positive"},
-        {"turkish": "Çalışman gerek.", "translation": "Твоя работа необходима.", "type": "positive"},
-        {"turkish": "Konuşmamız lazım.", "translation": "Наш разговор необходим.", "type": "positive"},
-        {"turkish": "Gitmemem lazım.", "translation": "Мой не-уход необходим.", "type": "negative"},
-        {"turkish": "Gitmen lazım mı?", "translation": "Твой уход необходим?", "type": "interrogative"}
+        {"turkish": "Gitmem lazım.", "translation": "Мне нужно уйти. (букв: мой уход необходим)", "type": "positive"},
+        {"turkish": "Çalışman gerek.", "translation": "Тебе нужно работать. (букв: твоя работа необходима)", "type": "positive"},
+        {"turkish": "Konuşmamız lazım.", "translation": "Нам нужно поговорить. (букв: наш разговор необходим)", "type": "positive"},
+        {"turkish": "Onu yapmaması lazım.", "translation": "Он/она не должен/должна это делать. (букв: его/её неделание необходимо)", "type": "negative"},
+        {"turkish": "Gitmemem lazım.", "translation": "Мне нельзя уходить. (букв: мой не-уход необходим)", "type": "negative"},
+        {"turkish": "Gitmen lazım mı?", "translation": "Тебе нужно уходить? (букв: твой уход необходим?)", "type": "interrogative"}
       ]
     }
   },
@@ -948,7 +960,9 @@
       "examples": [
         {"turkish": "Param olsa, seyahat ederdim.", "translation": "If I had money, I would travel.", "type": "positive"},
         {"turkish": "Türkçe bilsem, İstanbul'da yaşardım.", "translation": "If I knew Turkish, I would live in Istanbul.", "type": "positive"},
-        {"turkish": "Yardım etsen çok iyi olur.", "translation": "It would be very good if you helped.", "type": "positive"}
+        {"turkish": "Yardım etsen çok iyi olur.", "translation": "It would be very good if you helped.", "type": "positive"},
+        {"turkish": "Yapmasam ne olur?", "translation": "What if I don't do it?", "type": "negative"},
+        {"turkish": "Gelmeseler, biz başlarız.", "translation": "If they don't come, we'll start.", "type": "negative"}
       ]
     },
     "russian": {
@@ -983,7 +997,9 @@
       "examples": [
         {"turkish": "Param olsa, seyahat ederdim.", "translation": "Если бы у меня были деньги, я бы путешествовал.", "type": "positive"},
         {"turkish": "Türkçe bilsem, İstanbul'da yaşardım.", "translation": "Если бы я знал турецкий, я бы жил в Стамбуле.", "type": "positive"},
-        {"turkish": "Yardım etsen çok iyi olur.", "translation": "Было бы очень хорошо, если бы ты помог.", "type": "positive"}
+        {"turkish": "Yardım etsen çok iyi olur.", "translation": "Было бы очень хорошо, если бы ты помог.", "type": "positive"},
+        {"turkish": "Yapmasam ne olur?", "translation": "А что будет, если я не сделаю?", "type": "negative"},
+        {"turkish": "Gelmeseler, biz başlarız.", "translation": "Если они не придут, мы начнём.", "type": "negative"}
       ]
     }
   },
@@ -1095,7 +1111,9 @@
       "examples": [
         {"turkish": "Sana telefon edecektim ama unuttum.", "translation": "I was going to call you but I forgot.", "type": "positive"},
         {"turkish": "Sinemaya gidecektik.", "translation": "We were going to go to the cinema.", "type": "positive"},
-        {"turkish": "Kitap okuyacaktım.", "translation": "I was going to read a book.", "type": "positive"}
+        {"turkish": "Kitap okuyacaktım.", "translation": "I was going to read a book.", "type": "positive"},
+        {"turkish": "Gelmeyecektim ama plan değişti.", "translation": "I wasn't going to come but the plan changed.", "type": "negative"},
+        {"turkish": "Bugün çalışmayacaktık.", "translation": "We weren't going to work today.", "type": "negative"}
       ]
     },
     "russian": {
@@ -1129,7 +1147,9 @@
       "examples": [
         {"turkish": "Sana telefon edecektim ama unuttum.", "translation": "Я собирался тебе позвонить, но забыл.", "type": "positive"},
         {"turkish": "Sinemaya gidecektik.", "translation": "Мы собирались пойти в кино.", "type": "positive"},
-        {"turkish": "Kitap okuyacaktım.", "translation": "Я собирался читать книгу.", "type": "positive"}
+        {"turkish": "Kitap okuyacaktım.", "translation": "Я собирался читать книгу.", "type": "positive"},
+        {"turkish": "Gelmeyecektim ama plan değişti.", "translation": "Я не собирался приходить, но планы изменились.", "type": "negative"},
+        {"turkish": "Bugün çalışmayacaktık.", "translation": "Мы не собирались сегодня работать.", "type": "negative"}
       ]
     }
   },
@@ -1433,7 +1453,8 @@
       },
       "examples": [
         {"turkish": "Eve geldiğimde, yemek yedim.", "translation": "When I came home, I ate.", "type": "positive"},
-        {"turkish": "Kitap okurken, müzik dinliyorum.", "translation": "While reading a book, I listen to music.", "type": "positive"},
+        {"turkish": "Onu gördüğümde çok sevindim.", "translation": "When I saw him/her, I was very happy.", "type": "positive"},
+        {"turkish": "Haberi duyduğunda şaşırdı.", "translation": "When he/she heard the news, he/she was surprised.", "type": "positive"},
         {"turkish": "Çalışmadığında, oyun oynuyor.", "translation": "When he/she doesn't work, he/she plays games.", "type": "negative"}
       ]
     },
@@ -1467,8 +1488,266 @@
       },
       "examples": [
         {"turkish": "Eve geldiğimde, yemek yedim.", "translation": "Когда я пришел домой, я поел.", "type": "positive"},
-        {"turkish": "Kitap okurken, müzik dinliyorum.", "translation": "Во время чтения книги, я слушаю музыку.", "type": "positive"},
+        {"turkish": "Onu gördüğümde çok sevindim.", "translation": "Когда я его/её увидел, я очень обрадовался.", "type": "positive"},
+        {"turkish": "Haberi duyduğunda şaşırdı.", "translation": "Когда он/она услышал/а новость, он/она удивился/ась.", "type": "positive"},
         {"turkish": "Çalışmadığında, oyun oynuyor.", "translation": "Когда он/она не работает, он/она играет в игры.", "type": "negative"}
+      ]
+    }
+  },
+  "dik_sıfat_fiil": {
+    "turkish_name": "Sıfat-Fiil (-dIk / -AcAk)",
+    "level": "B1",
+    "vowel_harmony_link": true,
+    "english": {
+      "name": "Past/Object Participle (-dIk)",
+      "description": "The past/object participle (-dIk sıfat-fiili) is one of the most important and frequently used structures in Turkish. It creates relative clauses equivalent to English 'that/which/who' clauses when referring to past or factual events. Unlike the -An participle (which describes the doer), -dIk describes the object or action from the subject's perspective, requiring possessive suffixes to mark who performed the action. This is the primary mechanism for forming complex relative clauses in Turkish.",
+      "usage": [
+        "Creating object relative clauses: 'the book (that) I read' → okuduğum kitap",
+        "Expressing facts or completed actions as modifiers",
+        "Replacing 'that/which/who' clauses for past events",
+        "Often combined with case suffixes: -dIğImI (accusative), -dIğImdA (locative/when), -dIğIm için (because)"
+      ],
+      "formation": {
+        "positive": "Verb root + DIK + possessive suffix (+ noun being modified)",
+        "negative": "Verb root + mA + DIK + possessive suffix (+ noun)",
+        "interrogative": "Typically embedded in larger questions, not used standalone as interrogative",
+        "vowel_harmony_note": "The suffix -DIK follows 4-way vowel harmony: -dık/dik/duk/dük after voiced consonants and vowels, -tık/tik/tuk/tük after voiceless consonants. When possessive suffixes starting with a vowel are added, the final -k softens to -ğ: yaptık + ım → yaptığım. This k→ğ softening is essential and applies in ALL forms except bare 3rd person."
+      },
+      "affixes": {
+        "tense_markers": [
+          {"affix": "dık", "description": "After voiced sounds with back unrounded vowels (a, ı) — yap → yaptık (note: p is voiceless → tık)"},
+          {"affix": "dik", "description": "After voiced sounds with front unrounded vowels (e, i) — gel → geldik"},
+          {"affix": "duk", "description": "After voiced sounds with back rounded vowels (o, u) — bul → bulduk"},
+          {"affix": "dük", "description": "After voiced sounds with front rounded vowels (ö, ü) — gör → gördük"},
+          {"affix": "tık", "description": "After voiceless consonants (p, ç, t, k, f, h, s, ş) with back unrounded vowels"},
+          {"affix": "tik", "description": "After voiceless consonants with front unrounded vowels"},
+          {"affix": "tuk", "description": "After voiceless consonants with back rounded vowels"},
+          {"affix": "tük", "description": "After voiceless consonants with front rounded vowels"}
+        ],
+        "personal_endings": [
+          {"pronoun": "ben", "ending": "ım/im/um/üm", "example": "yaptığım (that I did / my doing)", "note": "k softens to ğ"},
+          {"pronoun": "sen", "ending": "ın/in/un/ün", "example": "yaptığın (that you did)", "note": "k softens to ğ"},
+          {"pronoun": "o", "ending": "ı/i/u/ü", "example": "yaptığı (that he/she did)", "note": "k softens to ğ"},
+          {"pronoun": "biz", "ending": "ımız/imiz/umuz/ümüz", "example": "yaptığımız (that we did)", "note": "k softens to ğ"},
+          {"pronoun": "siz", "ending": "ınız/iniz/unuz/ünüz", "example": "yaptığınız (that you did)", "note": "k softens to ğ"},
+          {"pronoun": "onlar", "ending": "ları/leri", "example": "yaptıkları (that they did)", "note": "k does NOT soften before -ları"}
+        ],
+        "negative_affix": "ma/me - inserted before -DIK (e.g., yapmadığım = that I didn't do)",
+        "case_combinations_note": "Commonly combined with case endings: yaptığım + ı (acc) → yaptığımı (the thing I did, as object); yaptığım + da (loc) → yaptığımda (when I did); yaptığım + dan (abl) → yaptığımdan (because I did)"
+      },
+      "examples": [
+        {"turkish": "Okuduğum kitap çok güzeldi.", "translation": "The book (that) I read was very nice.", "type": "positive"},
+        {"turkish": "Dün gördüğümüz filmi sevdik.", "translation": "We liked the movie (that) we saw yesterday.", "type": "positive"},
+        {"turkish": "Anladığın şeyi anlat.", "translation": "Explain what you understood.", "type": "positive"},
+        {"turkish": "Yaptığı iş çok önemli.", "translation": "The work he/she did is very important.", "type": "positive"},
+        {"turkish": "Söyledikleri doğruydu.", "translation": "What they said was true.", "type": "positive"},
+        {"turkish": "Anlamadığım bir kelime var.", "translation": "There is a word (that) I don't understand.", "type": "negative"},
+        {"turkish": "Bilmediğimiz çok şey var.", "translation": "There are many things we don't know.", "type": "negative"}
+      ]
+    },
+    "russian": {
+      "name": "Причастие прошедшего времени / объектное причастие (-dIk)",
+      "description": "Причастие прошедшего времени (-dIk sıfat-fiili) — одна из самых важных и часто используемых конструкций в турецком языке. Оно создаёт придаточные определительные предложения, эквивалентные русским конструкциям с 'который/что/кто' для прошедших или фактических событий. В отличие от причастия -An (которое описывает деятеля), -dIk описывает объект или действие с точки зрения субъекта и требует притяжательных суффиксов для указания, кто выполнил действие. Это основной механизм образования сложных определительных придаточных в турецком.",
+      "usage": [
+        "Создание объектных придаточных: 'книга, которую я прочитал' → okuduğum kitap",
+        "Описание фактов или завершённых действий как определений",
+        "Замена придаточных с 'который/что/кто' для прошедших событий",
+        "Часто сочетается с падежными суффиксами: -dIğImI (вин.п.), -dIğImdA (когда), -dIğIm için (потому что)"
+      ],
+      "formation": {
+        "positive": "Основа глагола + DIK + притяжательный суффикс (+ определяемое существительное)",
+        "negative": "Основа глагола + mA + DIK + притяжательный суффикс (+ сущ.)",
+        "interrogative": "Обычно встраивается в более крупные вопросы, не используется как самостоятельная вопросительная форма",
+        "vowel_harmony_note": "Суффикс -DIK следует 4-сторонней гармонии гласных: -dık/dik/duk/dük после звонких согласных и гласных, -tık/tik/tuk/tük после глухих согласных. При добавлении притяжательных суффиксов, начинающихся с гласной, конечное -k смягчается до -ğ: yaptık + ım → yaptığım. Это смягчение k→ğ обязательно и применяется во ВСЕХ формах, кроме 3-го лица без окончания."
+      },
+      "affixes": {
+        "tense_markers": [
+          {"affix": "dık", "description": "После звонких с задними неогубленными гласными (a, ı) — yap → yaptık (прим.: p глухой → tık)"},
+          {"affix": "dik", "description": "После звонких с передними неогубленными гласными (e, i) — gel → geldik"},
+          {"affix": "duk", "description": "После звонких с задними огубленными гласными (o, u) — bul → bulduk"},
+          {"affix": "dük", "description": "После звонких с передними огубленными гласными (ö, ü) — gör → gördük"},
+          {"affix": "tık", "description": "После глухих согласных (p, ç, t, k, f, h, s, ş) с задними неогубленными гласными"},
+          {"affix": "tik", "description": "После глухих согласных с передними неогубленными гласными"},
+          {"affix": "tuk", "description": "После глухих согласных с задними огубленными гласными"},
+          {"affix": "tük", "description": "После глухих согласных с передними огубленными гласными"}
+        ],
+        "personal_endings": [
+          {"pronoun": "ben", "ending": "ım/im/um/üm", "example": "yaptığım (то, что я сделал)", "note": "k смягчается в ğ"},
+          {"pronoun": "sen", "ending": "ın/in/un/ün", "example": "yaptığın (то, что ты сделал)", "note": "k смягчается в ğ"},
+          {"pronoun": "o", "ending": "ı/i/u/ü", "example": "yaptığı (то, что он/она сделал/а)", "note": "k смягчается в ğ"},
+          {"pronoun": "biz", "ending": "ımız/imiz/umuz/ümüz", "example": "yaptığımız (то, что мы сделали)", "note": "k смягчается в ğ"},
+          {"pronoun": "siz", "ending": "ınız/iniz/unuz/ünüz", "example": "yaptığınız (то, что вы сделали)", "note": "k смягчается в ğ"},
+          {"pronoun": "onlar", "ending": "ları/leri", "example": "yaptıkları (то, что они сделали)", "note": "k НЕ смягчается перед -ları"}
+        ],
+        "negative_affix": "ma/me — перед -DIK (напр., yapmadığım = то, что я не сделал)",
+        "case_combinations_note": "Часто сочетается с падежными окончаниями: yaptığım + ı (вин.п.) → yaptığımı (то, что я сделал — как объект); yaptığım + da (местн.п.) → yaptığımda (когда я сделал); yaptığım + dan (исх.п.) → yaptığımdan (потому что я сделал)"
+      },
+      "examples": [
+        {"turkish": "Okuduğum kitap çok güzeldi.", "translation": "Книга, которую я прочитал, была очень хорошей.", "type": "positive"},
+        {"turkish": "Dün gördüğümüz filmi sevdik.", "translation": "Нам понравился фильм, который мы посмотрели вчера.", "type": "positive"},
+        {"turkish": "Anladığın şeyi anlat.", "translation": "Расскажи то, что ты понял.", "type": "positive"},
+        {"turkish": "Yaptığı iş çok önemli.", "translation": "Работа, которую он/она сделал/а, очень важна.", "type": "positive"},
+        {"turkish": "Söyledikleri doğruydu.", "translation": "То, что они сказали, было правдой.", "type": "positive"},
+        {"turkish": "Anlamadığım bir kelime var.", "translation": "Есть слово, которое я не понимаю.", "type": "negative"},
+        {"turkish": "Bilmediğimiz çok şey var.", "translation": "Есть много вещей, которых мы не знаем.", "type": "negative"}
+      ]
+    }
+  },
+  "inca_zarf_fiil": {
+    "turkish_name": "-(y)IncA Zarf-Fiili",
+    "level": "B1",
+    "vowel_harmony_link": true,
+    "english": {
+      "name": "Temporal Converb -(y)IncA (When/Upon doing)",
+      "description": "The -(y)IncA converb expresses a temporal relationship where one action occurs immediately after or upon completion of another. It translates as 'when', 'upon doing', or 'once'. Unlike -dIğIndA (which can be simultaneous), -(y)IncA emphasizes the sequential nature: the main clause action happens as a direct result of or immediately after the converb action.",
+      "usage": [
+        "Sequential actions: 'When/Once I arrived, I sat down' → Gelince oturdum",
+        "Trigger-result relationships: the first action triggers the second",
+        "Often interchangeable with -dIğIndA in many contexts, but -(y)IncA is simpler and more colloquial",
+        "No possessive suffixes needed (unlike -dIğIndA) — the subject is inferred from context or the main clause"
+      ],
+      "formation": {
+        "positive": "Verb root + (y)IncA",
+        "negative": "Verb root + mA + (y)IncA",
+        "interrogative": "Not used in standalone interrogative (embedded in larger questions)",
+        "vowel_harmony_note": "The suffix -(y)IncA follows 2-way vowel harmony: -ınca/-ince after consonant-ending roots. If the root ends in a vowel, a buffer 'y' is added: -yınca/-yince. Note: unlike many suffixes, the vowel in -InCA always uses i/ı (unrounded), never u/ü."
+      },
+      "affixes": {
+        "tense_markers": [
+          {"affix": "ınca", "description": "After consonant-ending roots with back vowels (a, ı, o, u) — yap → yapınca (when/upon doing)"},
+          {"affix": "ince", "description": "After consonant-ending roots with front vowels (e, i, ö, ü) — gel → gelince (when/upon coming)"},
+          {"affix": "yınca", "description": "After vowel-ending roots with back vowels — oku → okuyunca (when/upon reading)"},
+          {"affix": "yince", "description": "After vowel-ending roots with front vowels — söyle → söyleyince (when/upon saying)"}
+        ],
+        "personal_endings": [],
+        "personal_endings_note": "No personal endings are used. The subject of the -(y)IncA clause is understood from context or the main clause. This makes it simpler than -dIğIndA which requires possessive suffixes.",
+        "negative_affix": "ma/me before -(y)ınca/-(y)ince (e.g., yapmayınca = when not doing, gelmedince is WRONG → gelmeyince)"
+      },
+      "examples": [
+        {"turkish": "Eve gelince yemek yedim.", "translation": "When I came home, I ate.", "type": "positive"},
+        {"turkish": "Haberi duyunca çok şaşırdı.", "translation": "Upon hearing the news, he/she was very surprised.", "type": "positive"},
+        {"turkish": "Yağmur yağınca içeri girdik.", "translation": "When it rained, we went inside.", "type": "positive"},
+        {"turkish": "Seni görünce çok sevindim.", "translation": "When I saw you, I was very happy.", "type": "positive"},
+        {"turkish": "Kapıyı açınca kediler dışarı kaçtı.", "translation": "When I opened the door, the cats ran outside.", "type": "positive"},
+        {"turkish": "Cevap vermeyince tekrar sordum.", "translation": "When he/she didn't answer, I asked again.", "type": "negative"},
+        {"turkish": "Otobüs gelmeyince yürümeye karar verdik.", "translation": "When the bus didn't come, we decided to walk.", "type": "negative"}
+      ]
+    },
+    "russian": {
+      "name": "Деепричастие времени -(y)IncA (когда/как только)",
+      "description": "Деепричастие -(y)IncA выражает временную связь, при которой одно действие происходит сразу после или по завершении другого. Переводится как 'когда', 'как только', 'после того как'. В отличие от -dIğIndA (которое может быть одновременным), -(y)IncA подчёркивает последовательность: действие главного предложения происходит как прямой результат или сразу после действия деепричастия.",
+      "usage": [
+        "Последовательные действия: 'Когда/Как только я пришёл, я сел' → Gelince oturdum",
+        "Отношения причина-следствие: первое действие вызывает второе",
+        "Часто взаимозаменяемо с -dIğIndA, но -(y)IncA проще и разговорнее",
+        "Не требует притяжательных суффиксов (в отличие от -dIğIndA) — субъект определяется из контекста"
+      ],
+      "formation": {
+        "positive": "Основа глагола + (y)IncA",
+        "negative": "Основа глагола + mA + (y)IncA",
+        "interrogative": "Не используется как самостоятельная вопросительная форма (встраивается в вопросы)",
+        "vowel_harmony_note": "Суффикс -(y)IncA следует 2-сторонней гармонии гласных: -ınca/-ince после основ на согласную. Если основа заканчивается на гласную, добавляется буферная 'y': -yınca/-yince. Примечание: в отличие от многих суффиксов, гласная в -InCA всегда i/ı (неогубленная), никогда u/ü."
+      },
+      "affixes": {
+        "tense_markers": [
+          {"affix": "ınca", "description": "После основ на согласную с задними гласными (a, ı, o, u) — yap → yapınca (когда/сделав)"},
+          {"affix": "ince", "description": "После основ на согласную с передними гласными (e, i, ö, ü) — gel → gelince (когда/придя)"},
+          {"affix": "yınca", "description": "После основ на гласную с задними гласными — oku → okuyunca (когда/прочитав)"},
+          {"affix": "yince", "description": "После основ на гласную с передними гласными — söyle → söyleyince (когда/сказав)"}
+        ],
+        "personal_endings": [],
+        "personal_endings_note": "Личные окончания не используются. Субъект деепричастия с -(y)IncA определяется из контекста или главного предложения. Это делает его проще, чем -dIğIndA, которое требует притяжательных суффиксов.",
+        "negative_affix": "ma/me перед -(y)ınca/-(y)ince (напр., yapmayınca = когда не делал, gelmedince НЕПРАВИЛЬНО → gelmeyince)"
+      },
+      "examples": [
+        {"turkish": "Eve gelince yemek yedim.", "translation": "Когда я пришёл домой, я поел.", "type": "positive"},
+        {"turkish": "Haberi duyunca çok şaşırdı.", "translation": "Услышав новость, он/она очень удивился/ась.", "type": "positive"},
+        {"turkish": "Yağmur yağınca içeri girdik.", "translation": "Когда пошёл дождь, мы зашли внутрь.", "type": "positive"},
+        {"turkish": "Seni görünce çok sevindim.", "translation": "Когда я тебя увидел, я очень обрадовался.", "type": "positive"},
+        {"turkish": "Kapıyı açınca kediler dışarı kaçtı.", "translation": "Когда я открыл дверь, кошки выбежали наружу.", "type": "positive"},
+        {"turkish": "Cevap vermeyince tekrar sordum.", "translation": "Когда он/она не ответил/а, я спросил снова.", "type": "negative"},
+        {"turkish": "Otobüs gelmeyince yürümeye karar verdik.", "translation": "Когда автобус не пришёл, мы решили идти пешком.", "type": "negative"}
+      ]
+    }
+  },
+  "ken_zarf_fiil": {
+    "turkish_name": "-ken Zarf-Fiili",
+    "level": "A2",
+    "vowel_harmony_link": false,
+    "english": {
+      "name": "Simultaneous Converb -ken (While doing)",
+      "description": "The -ken converb expresses simultaneous actions — something happening at the same time as the main clause action. It translates as 'while (doing)' or 'when (doing)'. It commonly attaches to the aorist stem (gelir + ken → gelirken) but can also attach directly to verb stems or to the negative marker. Unlike -(y)IncA (which is sequential: 'once X happened, Y happened'), -ken emphasizes that both actions overlap in time.",
+      "usage": [
+        "Simultaneous actions: 'While I was walking, it started to rain' → Yürürken yağmur başladı",
+        "Background activity during another event",
+        "Interrupted actions: 'While reading, I fell asleep'",
+        "Can also attach to nouns/adjectives for state: çocukken (while a child / as a child)"
+      ],
+      "formation": {
+        "positive": "Verb root + (Ir/Ar) + ken (most common: aorist stem + ken); also Verb root + ken in some cases",
+        "negative": "Verb root + maz/mez + ken (aorist negative + ken)",
+        "interrogative": "Not used in standalone interrogative form",
+        "vowel_harmony_note": "The suffix -ken is INVARIABLE — it does not change for vowel harmony. It is always -ken regardless of the preceding vowel. This makes it one of the simpler Turkish suffixes. When attached to the aorist, the aorist marker follows normal harmony (gelir, yapar, etc.) but -ken itself never changes."
+      },
+      "affixes": {
+        "tense_markers": [
+          {"affix": "ken", "description": "Invariable suffix meaning 'while'. Most commonly on aorist stem: gelirken (while coming), yaparken (while doing), okurken (while reading), görürken (while seeing)"}
+        ],
+        "common_patterns": [
+          {"pattern": "aorist + ken", "description": "Most common form: gelirken, yaparken, okurken, dönerken", "example": "Yürürken düştü. (He/she fell while walking.)"},
+          {"pattern": "şimdiki zaman + ken", "description": "Less common, emphasizes ongoing action: geliyorken", "example": "Eve geliyorken aradı. (He/she called while coming home.)"},
+          {"pattern": "noun/adjective + ken", "description": "State during time: çocukken (as a child), gençken (when young)", "example": "Çocukken çok oyun oynardık. (We used to play a lot as children.)"}
+        ],
+        "personal_endings": [],
+        "personal_endings_note": "No personal endings. The subject is determined from context or the main clause. The aorist stem used before -ken does not carry personal suffixes.",
+        "negative_affix": "maz/mez (aorist negative) + ken: yapmazken (while not doing), gelmezken (while not coming). Also: negative stem + ken in some cases: bilmezken (while not knowing)"
+      },
+      "examples": [
+        {"turkish": "Eve dönerken markete uğradım.", "translation": "While returning home, I stopped by the store.", "type": "positive"},
+        {"turkish": "Kitap okurken uyuyakaldım.", "translation": "I fell asleep while reading a book.", "type": "positive"},
+        {"turkish": "Yemek yaparken müzik dinliyorum.", "translation": "I listen to music while cooking.", "type": "positive"},
+        {"turkish": "Çocuklar oynarken yağmur başladı.", "translation": "It started raining while the children were playing.", "type": "positive"},
+        {"turkish": "Koşarken ayağını burktu.", "translation": "He/she twisted his/her ankle while running.", "type": "positive"},
+        {"turkish": "Bir şey bilmezken konuşma.", "translation": "Don't talk while not knowing anything.", "type": "negative"},
+        {"turkish": "Dikkat etmezken kaza yaptı.", "translation": "He/she had an accident while not paying attention.", "type": "negative"}
+      ]
+    },
+    "russian": {
+      "name": "Деепричастие одновременности -ken (во время)",
+      "description": "Деепричастие -ken выражает одновременные действия — что-то происходящее в то же время, что и действие главного предложения. Переводится как 'пока', 'во время того как', '-я/-а' (деепричастие). Обычно присоединяется к основе аориста (gelir + ken → gelirken), но может присоединяться и напрямую к основам глаголов или к отрицательному маркеру. В отличие от -(y)IncA (которое последовательно: 'когда X произошло, Y произошло'), -ken подчёркивает, что оба действия совпадают во времени.",
+      "usage": [
+        "Одновременные действия: 'Пока я шёл, начался дождь' → Yürürken yağmur başladı",
+        "Фоновое действие во время другого события",
+        "Прерванные действия: 'Пока читал, уснул'",
+        "Может также присоединяться к существительным/прилагательным для состояния: çocukken (будучи ребёнком / в детстве)"
+      ],
+      "formation": {
+        "positive": "Основа глагола + (Ir/Ar) + ken (чаще всего: основа аориста + ken); также Основа глагола + ken",
+        "negative": "Основа глагола + maz/mez + ken (отрицательный аорист + ken)",
+        "interrogative": "Не используется как самостоятельная вопросительная форма",
+        "vowel_harmony_note": "Суффикс -ken НЕИЗМЕНЯЕМ — он не подчиняется гармонии гласных. Он всегда -ken независимо от предшествующей гласной. Это делает его одним из простейших турецких суффиксов. Когда присоединяется к аористу, маркер аориста следует обычной гармонии (gelir, yapar и т.д.), но сам -ken никогда не меняется."
+      },
+      "affixes": {
+        "tense_markers": [
+          {"affix": "ken", "description": "Неизменяемый суффикс со значением 'пока/во время'. Чаще всего на основе аориста: gelirken (возвращаясь), yaparken (делая), okurken (читая), görürken (видя)"}
+        ],
+        "common_patterns": [
+          {"pattern": "аорист + ken", "description": "Самая частая форма: gelirken, yaparken, okurken, dönerken", "example": "Yürürken düştü. (Он/она упал/а, пока шёл/шла.)"},
+          {"pattern": "şimdiki zaman + ken", "description": "Реже, подчёркивает продолженное действие: geliyorken", "example": "Eve geliyorken aradı. (Он/она позвонил/а, пока шёл/шла домой.)"},
+          {"pattern": "сущ./прил. + ken", "description": "Состояние во время: çocukken (в детстве), gençken (в молодости)", "example": "Çocukken çok oyun oynardık. (В детстве мы много играли.)"}
+        ],
+        "personal_endings": [],
+        "personal_endings_note": "Личные окончания не используются. Субъект определяется из контекста или главного предложения. Основа аориста перед -ken не несёт личных суффиксов.",
+        "negative_affix": "maz/mez (отрицательный аорист) + ken: yapmazken (пока не делая), gelmezken (пока не приходя). Также: отрицательная основа + ken: bilmezken (пока не зная)"
+      },
+      "examples": [
+        {"turkish": "Eve dönerken markete uğradım.", "translation": "Возвращаясь домой, я зашёл в магазин.", "type": "positive"},
+        {"turkish": "Kitap okurken uyuyakaldım.", "translation": "Я уснул, пока читал книгу.", "type": "positive"},
+        {"turkish": "Yemek yaparken müzik dinliyorum.", "translation": "Я слушаю музыку, пока готовлю.", "type": "positive"},
+        {"turkish": "Çocuklar oynarken yağmur başladı.", "translation": "Пока дети играли, начался дождь.", "type": "positive"},
+        {"turkish": "Koşarken ayağını burktu.", "translation": "Он/она подвернул/а ногу во время бега.", "type": "positive"},
+        {"turkish": "Bir şey bilmezken konuşma.", "translation": "Не говори, пока ничего не знаешь.", "type": "negative"},
+        {"turkish": "Dikkat etmezken kaza yaptı.", "translation": "Он/она попал/а в аварию, пока не обращал/а внимания.", "type": "negative"}
       ]
     }
   }

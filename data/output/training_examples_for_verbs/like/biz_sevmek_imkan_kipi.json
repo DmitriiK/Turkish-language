@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "sevebiliriz",
     "root": "sev",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iriz",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We can like these colorful summer flowers",
-  "russian_example_sentence": "Мы можем нравиться эти красочные летние цветы",
-  "turkish_example_sentence": "Biz bu renkli yaz çiçeklerini sevebiliriz",
-  "turkish_example_sentence_with_blank": "Biz bu renkli yaz çiçeklerini ______"
+  "turkish_example_sentence": "Biz güzel deniz manzaralı oteli sevebiliriz",
+  "english_example_sentence": "We can like the beautiful sea view hotel",
+  "russian_example_sentence": "Мы можем полюбить красивый отель с видом на море",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:49:58.275818+00:00",
+  "turkish_example_sentence_with_blank": "Biz güzel deniz manzaralı oteli ______"
 }

@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "teklif edemezler",
     "root": "teklif et",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "They cannot offer help tomorrow.",
-  "russian_example_sentence": "Они не могут предложить помощь завтра.",
-  "turkish_example_sentence": "Onlar yarın yardım teklif edemezler.",
-  "turkish_example_sentence_with_blank": "Onlar yarın yardım ______."
+  "turkish_example_sentence": "Onlar ailelere kirli eski ev eşyaları teklif edemezler",
+  "english_example_sentence": "They cannot offer dirty old household items to the families",
+  "russian_example_sentence": "Они не могут предложить грязные старые предметы домашнего обихода семьям",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:10:29.027751+00:00",
+  "turkish_example_sentence_with_blank": "Onlar ailelere kirli eski ev eşyaları ______"
 }

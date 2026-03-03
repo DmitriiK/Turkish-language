@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "olabilir",
     "root": "ol",
-    "tense_affix": "ebil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "ir",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "She can become a famous doctor someday",
-  "russian_example_sentence": "Она может стать известным врачом когда-нибудь",
-  "turkish_example_sentence": "O bir gün ünlü bir doktor olabilir",
-  "turkish_example_sentence_with_blank": "O bir gün ünlü bir doktor ______"
+  "turkish_example_sentence": "O çalışkan küçük çocuk zengin olabilir",
+  "english_example_sentence": "That hardworking little child can become rich",
+  "russian_example_sentence": "Этот трудолюбивый маленький ребенок может стать богатым",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:40:51.230757+00:00",
+  "turkish_example_sentence_with_blank": "O çalışkan küçük çocuk zengin ______"
 }

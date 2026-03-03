@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "konuşamayız",
     "root": "konuş",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yız",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "We cannot speak in library",
-  "russian_example_sentence": "Мы не можем говорить в библиотеке",
-  "turkish_example_sentence": "Biz sessiz kütüphanede yüksek sesle konuşamayız",
-  "turkish_example_sentence_with_blank": "Biz sessiz kütüphanede yüksek sesle ______"
+  "turkish_example_sentence": "Biz gürültülü restoranda birbirimizle açıkça konuşamayız",
+  "english_example_sentence": "We cannot speak clearly with each other in the noisy restaurant",
+  "russian_example_sentence": "Мы не можем говорить ясно друг с другом в шумном ресторане",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:04:40.105523+00:00",
+  "turkish_example_sentence_with_blank": "Biz gürültülü restoranda birbirimizle açıkça ______"
 }

@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "oynayamazlar",
     "root": "oyna",
-    "tense_affix": "a",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "ama"
   },
-  "turkish_example_sentence": "Onlar, kötü hava koşulları yüzünden dışarıda voleybol oynayamazlar.",
-  "english_example_sentence": "They cannot play volleyball outside due to bad weather conditions.",
-  "russian_example_sentence": "Они не могут играть в волейбол на улице из-за плохих погодных условий.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-17T14:45:17.691969+00:00",
-  "turkish_example_sentence_with_blank": "Onlar, kötü hava koşulları yüzünden dışarıda voleybol ______."
+  "turkish_example_sentence": "Onlar yorgun halde uzun maraton maçı oynayamazlar",
+  "english_example_sentence": "They cannot play a long marathon match in a tired state",
+  "russian_example_sentence": "Они не могут играть долгий марафонский матч в усталом состоянии",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:48:01.538883+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yorgun halde uzun maraton maçı ______"
 }

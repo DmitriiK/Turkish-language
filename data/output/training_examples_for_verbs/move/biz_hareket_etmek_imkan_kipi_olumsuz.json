@@ -4,17 +4,20 @@
   "verb_russian": "двигаться",
   "verb_infinitive": "hareket etmek",
   "turkish_verb": {
-    "verb_full": "hareket ettiremeyiz",
+    "verb_full": "hareket edemeyiz",
     "root": "hareket et",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yiz",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "We cannot move those tall metal shelves quickly today",
-  "russian_example_sentence": "Мы не можем быстро передвинуть эти высокие металлические полки сегодня",
-  "turkish_example_sentence": "Biz bugün o yüksek metal rafları hızlıca hareket ettiremeyiz",
-  "turkish_example_sentence_with_blank": "Biz bugün o yüksek metal rafları hızlıca ______"
+  "turkish_example_sentence": "Biz kalabalık metro vagonunda büyük çantalarımızla hareket edemeyiz",
+  "english_example_sentence": "We cannot move in the crowded metro wagon with our big bags",
+  "russian_example_sentence": "Мы не можем двигаться в переполненном вагоне метро с нашими большими сумками",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:49:22.811510+00:00",
+  "turkish_example_sentence_with_blank": "Biz kalabalık metro vagonunda büyük çantalarımızla ______"
 }

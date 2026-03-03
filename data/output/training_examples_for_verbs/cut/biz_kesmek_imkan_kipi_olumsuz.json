@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "kesemeyiz",
     "root": "kes",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yiz",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "We cannot cut expensive silk fabric carelessly",
-  "russian_example_sentence": "Мы не можем резать дорогую шелковую ткань небрежно",
-  "turkish_example_sentence": "Biz pahalı ipek kumaşı dikkatsizce kesemeyiz",
-  "turkish_example_sentence_with_blank": "Biz pahalı ipek kumaşı dikkatsizce ______"
+  "turkish_example_sentence": "Biz sağlam deri kemeri küçük mutfak bıçağıyla kesemeyiz",
+  "english_example_sentence": "We cannot cut the sturdy leather belt with the small kitchen knife",
+  "russian_example_sentence": "Мы не можем резать прочный кожаный ремень маленьким кухонным ножом",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:19:39.400537+00:00",
+  "turkish_example_sentence_with_blank": "Biz sağlam deri kemeri küçük mutfak bıçağıyla ______"
 }

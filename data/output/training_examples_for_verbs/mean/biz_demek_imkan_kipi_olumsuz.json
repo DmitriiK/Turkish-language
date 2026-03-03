@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "diyemeyiz",
     "root": "de",
-    "tense_affix": "yeme",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yiz",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "eme"
   },
-  "english_example_sentence": "We cannot mean that abstract concept",
-  "russian_example_sentence": "Мы не можем означать это абстрактное понятие",
-  "turkish_example_sentence": "Biz o soyut düşüncenin kesin bir anlamını diyemeyiz",
-  "turkish_example_sentence_with_blank": "Biz o soyut düşüncenin kesin bir anlamını ______"
+  "turkish_example_sentence": "Biz müdüre saygısız şeyleri asla diyemeyiz",
+  "english_example_sentence": "We can never say disrespectful things to the director",
+  "russian_example_sentence": "Мы никогда не можем говорить неуважительные вещи директору",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:42:46.189269+00:00",
+  "turkish_example_sentence_with_blank": "Biz müdüre saygısız şeyleri asla ______"
 }

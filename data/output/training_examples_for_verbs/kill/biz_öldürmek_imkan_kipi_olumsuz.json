@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "öldüremeyiz",
     "root": "öldür",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yiz",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "We cannot kill the endangered wild animal",
-  "russian_example_sentence": "Мы не можем убить находящееся под угрозой дикое животное",
-  "turkish_example_sentence": "Biz tehlike altındaki vahşi hayvanı öldüremeyiz",
-  "turkish_example_sentence_with_blank": "Biz tehlike altındaki vahşi hayvanı ______"
+  "turkish_example_sentence": "Biz nadir beyaz kuşları hiçbir şekilde öldüremeyiz",
+  "english_example_sentence": "We cannot kill the rare white birds in any way",
+  "russian_example_sentence": "Мы никак не можем убить редких белых птиц",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:20:17.946338+00:00",
+  "turkish_example_sentence_with_blank": "Biz nadir beyaz kuşları hiçbir şekilde ______"
 }

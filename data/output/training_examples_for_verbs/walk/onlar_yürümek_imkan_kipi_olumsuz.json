@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "yürüyemezler",
     "root": "yürü",
-    "tense_affix": "yeme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "negative",
-    "negative_affix": "yeme"
+    "negative_affix": "eme"
   },
-  "english_example_sentence": "They cannot walk far from home.",
-  "russian_example_sentence": "Они не могут уйти далеко от дома.",
-  "turkish_example_sentence": "Onlar evden uzağa yürüyemezler.",
-  "turkish_example_sentence_with_blank": "Onlar evden uzağa ______."
+  "turkish_example_sentence": "Onlar derin karlı dağ yolunda kolay yürüyemezler",
+  "english_example_sentence": "They cannot walk easily on the deep snowy mountain road",
+  "russian_example_sentence": "Они не могут легко ходить по глубокой заснеженной горной дороге",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:09:10.543019+00:00",
+  "turkish_example_sentence_with_blank": "Onlar derin karlı dağ yolunda kolay ______"
 }

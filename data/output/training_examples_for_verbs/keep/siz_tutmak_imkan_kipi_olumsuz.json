@@ -4,17 +4,20 @@
   "verb_russian": "держать",
   "verb_infinitive": "tutmak",
   "turkish_verb": {
-    "verb_full": "tutamayız",
+    "verb_full": "tutamazsınız",
     "root": "tut",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "yız",
+    "personal_affix": "sınız",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "You cannot keep this noisy puppy quiet here",
-  "russian_example_sentence": "Вы не можете держать этого шумного щенка тихим здесь",
-  "turkish_example_sentence": "Siz bu çılgın küçük köpeği sessiz tutamayız",
-  "turkish_example_sentence_with_blank": "Siz bu çılgın küçük köpeği sessiz ______"
+  "turkish_example_sentence": "Siz ıslak sabun parçasını düzgün tutamazsınız",
+  "english_example_sentence": "You cannot keep the wet soap piece properly",
+  "russian_example_sentence": "Вы не можете держать мокрый кусок мыла правильно",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:43:23.379599+00:00",
+  "turkish_example_sentence_with_blank": "Siz ıslak sabun parçasını düzgün ______"
 }

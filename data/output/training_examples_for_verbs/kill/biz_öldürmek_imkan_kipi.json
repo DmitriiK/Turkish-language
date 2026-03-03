@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "öldürebiliriz",
     "root": "öldür",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iriz",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We can kill the harmful pest together",
-  "russian_example_sentence": "Мы можем убить вредного паразита вместе",
-  "turkish_example_sentence": "Biz zararlı böceği birlikte öldürebiliriz",
-  "turkish_example_sentence_with_blank": "Biz zararlı böceği birlikte ______"
+  "turkish_example_sentence": "Biz hastanedeki mikropları güçlü ilaçla öldürebiliriz",
+  "english_example_sentence": "We can kill the germs in the hospital with strong medicine",
+  "russian_example_sentence": "Мы можем убить микробы в больнице сильным лекарством",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:20:17.946338+00:00",
+  "turkish_example_sentence_with_blank": "Biz hastanedeki mikropları güçlü ilaçla ______"
 }

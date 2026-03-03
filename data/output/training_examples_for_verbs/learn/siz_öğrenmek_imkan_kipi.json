@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "öğrenebilirsiniz",
     "root": "öğren",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "irsiniz",
+    "personal_affix": "siniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can learn useful business communication skills",
-  "russian_example_sentence": "Вы можете учить полезные навыки деловой коммуникации",
-  "turkish_example_sentence": "Siz faydalı iş iletişim becerilerini öğrenebilirsiniz",
-  "turkish_example_sentence_with_blank": "Siz faydalı iş iletişim becerilerini ______"
+  "turkish_example_sentence": "Siz profesyonel dans hareketlerini dikkatli çalışarak öğrenebilirsiniz",
+  "english_example_sentence": "You can learn professional dance movements by working carefully",
+  "russian_example_sentence": "Вы можете учить профессиональные танцевальные движения, работая внимательно",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:59:31.146641+00:00",
+  "turkish_example_sentence_with_blank": "Siz profesyonel dans hareketlerini dikkatli çalışarak ______"
 }

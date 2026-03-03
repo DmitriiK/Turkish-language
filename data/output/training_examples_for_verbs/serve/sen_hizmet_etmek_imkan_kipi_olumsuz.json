@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "hizmet edemezsin",
     "root": "hizmet et",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "zsin",
+    "personal_affix": "sin",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "You cannot serve without proper restaurant training",
-  "russian_example_sentence": "Ты не можешь обслуживать без надлежащей подготовки в ресторане",
-  "turkish_example_sentence": "Sen uygun restoran eğitimi olmadan hizmet edemezsin",
-  "turkish_example_sentence_with_blank": "Sen uygun restoran eğitimi olmadan ______"
+  "turkish_example_sentence": "Sen yeterli deneyim olmadan özel güvenlik kurumuna hizmet edemezsin",
+  "english_example_sentence": "You cannot serve the private security institution without sufficient experience",
+  "russian_example_sentence": "Ты не можешь служить частному охранному учреждению без достаточного опыта",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:15:04.506666+00:00",
+  "turkish_example_sentence_with_blank": "Sen yeterli deneyim olmadan özel güvenlik kurumuna ______"
 }

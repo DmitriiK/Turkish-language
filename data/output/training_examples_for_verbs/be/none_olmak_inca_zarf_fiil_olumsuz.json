@@ -1,0 +1,23 @@
+{
+  "verb_rank": 1,
+  "verb_english": "be",
+  "verb_russian": "быть",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olmayınca",
+    "root": "ol",
+    "modal_affix": null,
+    "tense_affix": "yınca",
+    "verb_tense": "inca_zarf_fiil",
+    "personal_pronoun": null,
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "turkish_example_sentence": "Kitap yanımda olmayınca okuyamıyorum.",
+  "english_example_sentence": "When the book is not with me, I cannot read.",
+  "russian_example_sentence": "Когда книги нет со мной, я не могу читать.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2026-03-03T13:41:17.929569+00:00",
+  "turkish_example_sentence_with_blank": "Kitap yanımda ______ okuyamıyorum."
+}

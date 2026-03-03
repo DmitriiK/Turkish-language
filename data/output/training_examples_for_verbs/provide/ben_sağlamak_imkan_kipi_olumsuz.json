@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "sağlayamam",
     "root": "sağla",
-    "tense_affix": "yama",
+    "modal_affix": "ama",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "am",
+    "personal_affix": "m",
     "polarity": "negative",
-    "negative_affix": "yama"
+    "negative_affix": "ama"
   },
-  "english_example_sentence": "I cannot provide any support now.",
-  "russian_example_sentence": "Я не могу сейчас предоставить никакой поддержки.",
-  "turkish_example_sentence": "Ben şu anda herhangi bir destek sağlayamam.",
-  "turkish_example_sentence_with_blank": "Ben şu anda herhangi bir destek ______."
+  "turkish_example_sentence": "Ben yeterli finansal desteği tek başıma sağlayamam",
+  "english_example_sentence": "I cannot provide sufficient financial support alone",
+  "russian_example_sentence": "Я не могу предоставить достаточную финансовую поддержку один",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:53:44.595494+00:00",
+  "turkish_example_sentence_with_blank": "Ben yeterli finansal desteği tek başıma ______"
 }

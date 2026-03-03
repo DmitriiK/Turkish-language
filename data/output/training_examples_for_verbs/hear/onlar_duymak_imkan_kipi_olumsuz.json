@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "duyamazlar",
     "root": "duy",
+    "modal_affix": "ama",
     "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
-    "negative_affix": "yama"
+    "negative_affix": "ama"
   },
-  "turkish_example_sentence": "Onlar kapalı kapılar ardındaki tartışmayı duyamazlar.",
-  "english_example_sentence": "They cannot hear the argument behind closed doors.",
-  "russian_example_sentence": "Они не могут слышать спор за закрытыми дверями.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-17T14:11:23.229325+00:00",
-  "turkish_example_sentence_with_blank": "Onlar kapalı kapılar ardındaki tartışmayı ______."
+  "turkish_example_sentence": "Onlar kapalı ofiste müdürün özel toplantı kararlarını duyamazlar",
+  "english_example_sentence": "They cannot hear the manager's private meeting decisions in the closed office",
+  "russian_example_sentence": "Они не могут слышать решения частного совещания менеджера в закрытом офисе",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:47:22.715186+00:00",
+  "turkish_example_sentence_with_blank": "Onlar kapalı ofiste müdürün özel toplantı kararlarını ______"
 }

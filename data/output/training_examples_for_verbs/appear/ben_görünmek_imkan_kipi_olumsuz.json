@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "görünemem",
     "root": "görün",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "I cannot appear happy when I am sad inside",
-  "russian_example_sentence": "Я не могу выглядеть счастливой, когда мне грустно",
-  "turkish_example_sentence": "Ben içimde üzgün olduğumda mutlu bir şekilde görünemem",
-  "turkish_example_sentence_with_blank": "Ben içimde üzgün olduğumda mutlu bir şekilde ______"
+  "turkish_example_sentence": "Ben bu akşamki resmi davet töreninde görünemem",
+  "english_example_sentence": "I cannot appear at tonight's official invitation ceremony",
+  "russian_example_sentence": "Я не могу появиться на сегодняшней официальной церемонии приглашения",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:13:09.106866+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu akşamki resmi davet töreninde ______"
 }

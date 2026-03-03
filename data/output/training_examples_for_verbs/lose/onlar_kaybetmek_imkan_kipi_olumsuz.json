@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "kaybedemezler",
     "root": "kaybet",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "mezler",
+    "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "They cannot lose the precious gem",
-  "russian_example_sentence": "Они не могут потерять драгоценный камень",
-  "turkish_example_sentence": "Onlar değerli taşı kaybedemezler",
-  "turkish_example_sentence_with_blank": "Onlar değerli taşı ______"
+  "turkish_example_sentence": "Onlar zor matematik sınavını kaybedemezler",
+  "english_example_sentence": "They cannot lose the difficult mathematics exam",
+  "russian_example_sentence": "Они не могут провалить трудный математический экзамен",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:55:40.038359+00:00",
+  "turkish_example_sentence_with_blank": "Onlar zor matematik sınavını ______"
 }

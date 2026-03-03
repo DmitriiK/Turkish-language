@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "görünebiliriz",
     "root": "görün",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iriz",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We can appear friendly and welcoming to new international visitors",
-  "russian_example_sentence": "Мы можем выглядеть дружелюбными и гостеприимными для новых иностранных гостей",
-  "turkish_example_sentence": "Biz yeni gelen uluslararası ziyaretçilere dostça ve misafirperver görünebiliriz",
-  "turkish_example_sentence_with_blank": "Biz yeni gelen uluslararası ziyaretçilere dostça ve misafirperver ______"
+  "turkish_example_sentence": "Biz cuma günü düzenlenen yerel sanat sergisinde görünebiliriz",
+  "english_example_sentence": "We can appear at the local art exhibition organized on Friday",
+  "russian_example_sentence": "Мы можем появиться на местной художественной выставке, организованной в пятницу",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:13:09.106866+00:00",
+  "turkish_example_sentence_with_blank": "Biz cuma günü düzenlenen yerel sanat sergisinde ______"
 }

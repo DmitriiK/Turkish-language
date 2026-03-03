@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "harcayamazsınız",
     "root": "harca",
-    "tense_affix": "yama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "amazsınız",
+    "personal_affix": "sınız",
     "polarity": "negative",
-    "negative_affix": "yama"
+    "negative_affix": "ama"
   },
-  "english_example_sentence": "You cannot spend everything at once",
-  "russian_example_sentence": "Вы не можете потратить все сразу",
-  "turkish_example_sentence": "Siz her şeyi bir anda harcayamazsınız",
-  "turkish_example_sentence_with_blank": "Siz her şeyi bir anda ______"
+  "turkish_example_sentence": "Siz devlet fonlarını kişisel seyahat masraflarınıza harcayamazsınız",
+  "english_example_sentence": "You cannot spend government funds on your personal travel expenses",
+  "russian_example_sentence": "Вы не можете тратить государственные средства на ваши личные транспортные расходы",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:07:20.216569+00:00",
+  "turkish_example_sentence_with_blank": "Siz devlet fonlarını kişisel seyahat masraflarınıza ______"
 }

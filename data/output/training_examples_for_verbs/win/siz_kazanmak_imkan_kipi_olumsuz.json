@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "kazanamazsınız",
     "root": "kazan",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "asınız",
+    "personal_affix": "sınız",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "You all cannot win this time.",
-  "russian_example_sentence": "В этот раз вы все не можете выиграть.",
-  "turkish_example_sentence": "Siz bu sefer kazanamazsınız.",
-  "turkish_example_sentence_with_blank": "Siz bu sefer ______."
+  "turkish_example_sentence": "Siz parlak tenis şampiyonasını eski raketlerinizle kazanamazsınız",
+  "english_example_sentence": "You cannot win the brilliant tennis championship with your old rackets",
+  "russian_example_sentence": "Вы не можете выиграть блестящий теннисный чемпионат вашими старыми ракетками",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:09:51.169013+00:00",
+  "turkish_example_sentence_with_blank": "Siz parlak tenis şampiyonasını eski raketlerinizle ______"
 }

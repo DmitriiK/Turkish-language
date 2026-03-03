@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "içeremeyiz",
     "root": "içer",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yiz",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "We cannot include unnecessary details in the summary",
-  "russian_example_sentence": "Мы не можем включить ненужные детали в резюме",
-  "turkish_example_sentence": "Biz gereksiz detayları özete içeremeyiz",
-  "turkish_example_sentence_with_blank": "Biz gereksiz detayları özete ______"
+  "turkish_example_sentence": "Biz pahalı malzemeleri küçük bütçeye içeremeyiz",
+  "english_example_sentence": "We cannot include expensive materials in the small budget",
+  "russian_example_sentence": "Мы не можем включить дорогие материалы в маленький бюджет",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:57:32.446104+00:00",
+  "turkish_example_sentence_with_blank": "Biz pahalı malzemeleri küçük bütçeye ______"
 }

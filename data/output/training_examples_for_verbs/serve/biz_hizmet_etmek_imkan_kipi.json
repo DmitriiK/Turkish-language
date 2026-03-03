@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "hizmet edebiliriz",
     "root": "hizmet et",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iriz",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We can serve authentic Mediterranean cuisine tonight",
-  "russian_example_sentence": "Мы можем подавать подлинную средиземноморскую кухню сегодня вечером",
-  "turkish_example_sentence": "Biz orijinal Akdeniz mutfağını bu gece hizmet edebiliriz",
-  "turkish_example_sentence_with_blank": "Biz orijinal Akdeniz mutfağını bu gece ______"
+  "turkish_example_sentence": "Biz modern eğitim sistemine profesyonel öğretmenler olarak hizmet edebiliriz",
+  "english_example_sentence": "We can serve the modern education system as professional teachers",
+  "russian_example_sentence": "Мы можем служить современной системе образования как профессиональные учителя",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:15:04.506666+00:00",
+  "turkish_example_sentence_with_blank": "Biz modern eğitim sistemine profesyonel öğretmenler olarak ______"
 }

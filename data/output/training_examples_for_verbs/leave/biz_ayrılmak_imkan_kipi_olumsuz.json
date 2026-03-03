@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "ayrılamayız",
     "root": "ayrıl",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yız",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "We cannot leave the beautiful garden right now",
-  "russian_example_sentence": "Мы не можем уйти из красивого сада прямо сейчас",
-  "turkish_example_sentence": "Biz güzel bahçeden şu anda ayrılamayız",
-  "turkish_example_sentence_with_blank": "Biz güzel bahçeden şu anda ______"
+  "turkish_example_sentence": "Biz güzel yeşil parktan hava kararmadan ayrılamayız",
+  "english_example_sentence": "We cannot leave from the beautiful green park before it gets dark",
+  "russian_example_sentence": "Мы не можем уйти из красивого зелёного парка до того, как стемнеет",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:41:30.094045+00:00",
+  "turkish_example_sentence_with_blank": "Biz güzel yeşil parktan hava kararmadan ______"
 }

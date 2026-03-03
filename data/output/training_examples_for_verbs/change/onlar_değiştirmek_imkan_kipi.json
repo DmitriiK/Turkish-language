@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "değiştirebilirler",
     "root": "değiştir",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They can change their yellow curtains soon",
-  "russian_example_sentence": "Они могут вскоре изменить свои жёлтые занавески",
-  "turkish_example_sentence": "Onlar yakında sarı perdeleri değiştirebilirler",
-  "turkish_example_sentence_with_blank": "Onlar yakında sarı perdeleri ______"
+  "turkish_example_sentence": "Onlar hızlı spor arabanın eski lastiklerini yeni olanlarla değiştirebilirler",
+  "english_example_sentence": "They can change the fast sports car's old tires with new ones",
+  "russian_example_sentence": "Они могут поменять старые шины быстрой спортивной машины на новые",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:00:10.450732+00:00",
+  "turkish_example_sentence_with_blank": "Onlar hızlı spor arabanın eski lastiklerini yeni olanlarla ______"
 }

@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "getirebiliriz",
     "root": "getir",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iriz",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We can bring colorful decorations tomorrow",
-  "russian_example_sentence": "Мы можем принести красочные украшения завтра",
-  "turkish_example_sentence": "Biz renkli süslemeleri yarın getirebiliriz",
-  "turkish_example_sentence_with_blank": "Biz renkli süslemeleri yarın ______"
+  "turkish_example_sentence": "Biz cumartesi pikniğe soğuk beyaz peynir getirebiliriz",
+  "english_example_sentence": "We can bring cold white cheese to the picnic on Saturday",
+  "russian_example_sentence": "Мы можем принести холодный белый сыр на пикник в субботу",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:52:28.970369+00:00",
+  "turkish_example_sentence_with_blank": "Biz cumartesi pikniğe soğuk beyaz peynir ______"
 }

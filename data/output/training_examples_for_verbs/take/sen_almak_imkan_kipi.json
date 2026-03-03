@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "alabilirsin",
     "root": "al",
-    "tense_affix": "abil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "irsin",
+    "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Sen bu önemli dosyaları ofisten alabilirsin.",
-  "english_example_sentence": "You can take these important files from the office.",
-  "russian_example_sentence": "Ты можешь взять эти важные файлы из офиса.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-15T12:33:22.498721+00:00",
-  "turkish_example_sentence_with_blank": "Sen bu önemli dosyaları ofisten ______."
+  "turkish_example_sentence": "Sen mavi çantadan taze meyveleri alabilirsin",
+  "english_example_sentence": "You can take the fresh fruits from the blue bag",
+  "russian_example_sentence": "Ты можешь взять свежие фрукты из синей сумки",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:31:17.596275+00:00",
+  "turkish_example_sentence_with_blank": "Sen mavi çantadan taze meyveleri ______"
 }

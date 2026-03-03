@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "ölemezler",
     "root": "öl",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "zler",
+    "personal_affix": "ler",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "They cannot die from such harmless insects",
-  "russian_example_sentence": "Они не могут умереть от таких безвредных насекомых",
-  "turkish_example_sentence": "Onlar bu zararsız böceklerden ölemezler",
-  "turkish_example_sentence_with_blank": "Onlar bu zararsız böceklerden ______"
+  "turkish_example_sentence": "Onlar sağlıklı beslenmiş çocuklar hafif nezleden ölemezler",
+  "english_example_sentence": "They healthy fed children cannot die from light cold",
+  "russian_example_sentence": "Они здоровые накормленные дети не могут умереть от легкой простуды",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:15:48.360088+00:00",
+  "turkish_example_sentence_with_blank": "Onlar sağlıklı beslenmiş çocuklar hafif nezleden ______"
 }

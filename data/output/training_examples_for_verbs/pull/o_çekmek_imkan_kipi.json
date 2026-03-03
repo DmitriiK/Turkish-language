@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "çekebilir",
     "root": "çek",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "ir",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He can pull the long rope",
-  "russian_example_sentence": "Он может тянуть длинную веревку",
-  "turkish_example_sentence": "O uzun ipi çekebilir",
-  "turkish_example_sentence_with_blank": "O uzun ipi ______"
+  "turkish_example_sentence": "O güçlü at büyük odun yükünü çekebilir",
+  "english_example_sentence": "He/she/it can pull the large firewood load",
+  "russian_example_sentence": "Он/она/оно может тянуть большую нагрузку дров",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:24:47.153594+00:00",
+  "turkish_example_sentence_with_blank": "O güçlü at büyük odun yükünü ______"
 }

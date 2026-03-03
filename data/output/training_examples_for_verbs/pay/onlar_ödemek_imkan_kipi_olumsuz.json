@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "ödeyemezler",
     "root": "öde",
-    "tense_affix": "yeme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "zler",
+    "personal_affix": "ler",
     "polarity": "negative",
-    "negative_affix": "yeme"
+    "negative_affix": null
   },
-  "english_example_sentence": "They cannot pay until next week",
-  "russian_example_sentence": "Они не могут платить до следующей недели",
-  "turkish_example_sentence": "Onlar gelecek haftaya kadar ödeyemezler",
-  "turkish_example_sentence_with_blank": "Onlar gelecek haftaya kadar ______"
+  "turkish_example_sentence": "Onlar ağır vergi cezasını kısa sürede ödeyemezler",
+  "english_example_sentence": "They cannot pay the heavy tax penalty in a short time",
+  "russian_example_sentence": "Они не могут заплатить тяжёлый налоговый штраф за короткое время",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:56:18.438585+00:00",
+  "turkish_example_sentence_with_blank": "Onlar ağır vergi cezasını kısa sürede ______"
 }

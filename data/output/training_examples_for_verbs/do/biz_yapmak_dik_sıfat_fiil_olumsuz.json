@@ -1,0 +1,23 @@
+{
+  "verb_rank": 3,
+  "verb_english": "do",
+  "verb_russian": "делать",
+  "verb_infinitive": "yapmak",
+  "turkish_verb": {
+    "verb_full": "yapmadığımız",
+    "root": "yap",
+    "modal_affix": null,
+    "tense_affix": "dık",
+    "verb_tense": "dik_sıfat_fiil",
+    "personal_pronoun": "biz",
+    "personal_affix": "ımız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "turkish_example_sentence": "Bizim yapmadığımız spor sağlığımızı etkiledi.",
+  "english_example_sentence": "The sport we didn't do affected our health.",
+  "russian_example_sentence": "Спорт, которым мы не занимались, повлиял на наше здоровье.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2026-03-03T13:43:44.601444+00:00",
+  "turkish_example_sentence_with_blank": "Bizim ______ spor sağlığımızı etkiledi."
+}

@@ -5,16 +5,19 @@
   "verb_infinitive": "ayakta durmak",
   "turkish_verb": {
     "verb_full": "ayakta durabilir",
-    "root": "ayakta dur",
-    "tense_affix": "abilir",
+    "root": "dur",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "ir",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He can stand in the long line.",
-  "russian_example_sentence": "Он может простоять в длинной очереди.",
-  "turkish_example_sentence": "O uzun sırada ayakta durabilir.",
-  "turkish_example_sentence_with_blank": "O uzun sırada ______."
+  "turkish_example_sentence": "O küçük çocuk yeni ayakkabılarıyla dengede ayakta durabilir",
+  "english_example_sentence": "That small child can stand balanced with new shoes",
+  "russian_example_sentence": "Тот маленький ребенок может стоять в равновесии с новыми ботинками",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:55:04.829142+00:00",
+  "turkish_example_sentence_with_blank": "O küçük çocuk yeni ayakkabılarıyla dengede ______"
 }

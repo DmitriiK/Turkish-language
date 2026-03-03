@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "kesebilirsiniz",
     "root": "kes",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "irsiniz",
+    "personal_affix": "siniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can cut long yellow strings precisely",
-  "russian_example_sentence": "Вы можете резать длинные желтые веревки точно",
-  "turkish_example_sentence": "Siz uzun sarı iplerini hassas kesebilirsiniz",
-  "turkish_example_sentence_with_blank": "Siz uzun sarı iplerini hassas ______"
+  "turkish_example_sentence": "Siz güzel renkli kumaş parçalarını terzi makasıyla kesebilirsiniz",
+  "english_example_sentence": "You can cut the beautiful colorful fabric pieces with tailor scissors",
+  "russian_example_sentence": "Вы можете резать красивые цветные куски ткани портновскими ножницами",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:19:39.400537+00:00",
+  "turkish_example_sentence_with_blank": "Siz güzel renkli kumaş parçalarını terzi makasıyla ______"
 }

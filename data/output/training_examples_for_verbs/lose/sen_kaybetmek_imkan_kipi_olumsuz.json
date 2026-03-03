@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "kaybedemezsin",
     "root": "kaybet",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "mezsin",
+    "personal_affix": "sin",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "You cannot lose the small ring",
-  "russian_example_sentence": "Ты не можешь потерять маленькое кольцо",
-  "turkish_example_sentence": "Sen küçük yüzüğü kaybedemezsin",
-  "turkish_example_sentence_with_blank": "Sen küçük yüzüğü ______"
+  "turkish_example_sentence": "Sen küçük kardeşinin güvenini kaybedemezsin",
+  "english_example_sentence": "You cannot lose your little brother's trust",
+  "russian_example_sentence": "Ты не можешь потерять доверие своего младшего брата",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:55:40.038359+00:00",
+  "turkish_example_sentence_with_blank": "Sen küçük kardeşinin güvenini ______"
 }

@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "koşabilir",
     "root": "koş",
-    "tense_affix": "abil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "ir",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He can run during the athletic competition",
-  "russian_example_sentence": "Он может бегать во время спортивного соревнования",
-  "turkish_example_sentence": "O sporcu hızlı bir yarışta koşabilir",
-  "turkish_example_sentence_with_blank": "O sporcu hızlı bir yarışta ______"
+  "turkish_example_sentence": "O profesyonel atlet soğuk havada saatlerce koşabilir",
+  "english_example_sentence": "He/she can run for hours in cold weather as a professional athlete",
+  "russian_example_sentence": "Он/она может бегать часами в холодную погоду как профессиональный атлет",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:48:41.023194+00:00",
+  "turkish_example_sentence_with_blank": "O profesyonel atlet soğuk havada saatlerce ______"
 }

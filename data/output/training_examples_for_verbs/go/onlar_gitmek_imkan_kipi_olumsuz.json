@@ -4,19 +4,20 @@
   "verb_russian": "идти",
   "verb_infinitive": "gitmek",
   "turkish_verb": {
-    "verb_full": "gidememezler",
+    "verb_full": "gidemezler",
     "root": "git",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "zler",
+    "personal_affix": "ler",
     "polarity": "negative",
-    "negative_affix": "m"
+    "negative_affix": null
   },
-  "turkish_example_sentence": "Onlar yoğun iş programı nedeniyle uzak ülkeye gidememezler.",
-  "english_example_sentence": "They cannot go to the distant country due to their busy work schedule.",
-  "russian_example_sentence": "Они не могут пойти в далекую страну из-за их напряженного рабочего графика.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-14T07:34:22.682535+00:00",
-  "turkish_example_sentence_with_blank": "Onlar yoğun iş programı nedeniyle uzak ülkeye ______."
+  "turkish_example_sentence": "Onlar yorgun beyaz atlarla uzun dağ yoluna gidemezler",
+  "english_example_sentence": "They cannot go on the long mountain road with tired white horses",
+  "russian_example_sentence": "Они не могут поехать по длинной горной дороге на усталых белых лошадях",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:28:16.311910+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yorgun beyaz atlarla uzun dağ yoluna ______"
 }

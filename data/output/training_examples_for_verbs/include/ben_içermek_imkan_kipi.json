@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "içerebilirim",
     "root": "içer",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "irim",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I can include fresh vegetables in the salad",
-  "russian_example_sentence": "Я могу включить свежие овощи в салат",
-  "turkish_example_sentence": "Ben taze sebzeleri salataya içerebilirim",
-  "turkish_example_sentence_with_blank": "Ben taze sebzeleri salataya ______"
+  "turkish_example_sentence": "Ben yeni proje raporuna önemli verileri içerebilirim",
+  "english_example_sentence": "I can include important data in the new project report",
+  "russian_example_sentence": "Я могу включить важные данные в новый проектный отчёт",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:57:32.446104+00:00",
+  "turkish_example_sentence_with_blank": "Ben yeni proje raporuna önemli verileri ______"
 }

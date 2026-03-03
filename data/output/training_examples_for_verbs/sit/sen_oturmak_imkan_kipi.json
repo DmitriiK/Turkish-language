@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "oturabilirsin",
     "root": "otur",
-    "tense_affix": "abil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "irsin",
+    "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can sit next to the window",
-  "russian_example_sentence": "Ты можешь сидеть рядом с окном",
-  "turkish_example_sentence": "Sen pencerenin yanında oturabilirsin",
-  "turkish_example_sentence_with_blank": "Sen pencerenin yanında ______"
+  "turkish_example_sentence": "Sen yeşil bahçe bankında dinlenerek oturabilirsin",
+  "english_example_sentence": "You can sit on the green garden bench resting",
+  "russian_example_sentence": "Ты можешь сидеть на зелёной садовой скамейке отдыхая",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:54:23.635225+00:00",
+  "turkish_example_sentence_with_blank": "Sen yeşil bahçe bankında dinlenerek ______"
 }

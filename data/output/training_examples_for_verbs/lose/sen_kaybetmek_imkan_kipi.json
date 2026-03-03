@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "kaybedebilirsin",
     "root": "kaybet",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "irsin",
+    "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can lose the green key",
-  "russian_example_sentence": "Ты можешь потерять зеленый ключ",
-  "turkish_example_sentence": "Sen yeşil anahtarı kaybedebilirsin",
-  "turkish_example_sentence_with_blank": "Sen yeşil anahtarı ______"
+  "turkish_example_sentence": "Sen yeni spor ayakkabılarını parkta kaybedebilirsin",
+  "english_example_sentence": "You can lose your new sports shoes in the park",
+  "russian_example_sentence": "Ты можешь потерять свои новые спортивные туфли в парке",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:55:40.038359+00:00",
+  "turkish_example_sentence_with_blank": "Sen yeni spor ayakkabılarını parkta ______"
 }

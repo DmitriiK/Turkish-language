@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "anlayamaz",
     "root": "anla",
-    "tense_affix": "yabil",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "ir",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "He cannot understand the mysterious quantum physics equations",
-  "russian_example_sentence": "Он не может понять загадочные уравнения квантовой физики",
-  "turkish_example_sentence": "O gizemli kuantum fiziği denklemlerini anlayamaz",
-  "turkish_example_sentence_with_blank": "O gizemli kuantum fiziği denklemlerini ______"
+  "turkish_example_sentence": "O genç öğrenci bilimsel araştırma raporunu anlayamaz",
+  "english_example_sentence": "That young student cannot understand the scientific research report",
+  "russian_example_sentence": "Этот молодой студент не может понять научный исследовательский отчет",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:01:27.326180+00:00",
+  "turkish_example_sentence_with_blank": "O genç öğrenci bilimsel araştırma raporunu ______"
 }

@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "yürüyemezsin",
     "root": "yürü",
-    "tense_affix": "yeme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "sin",
     "polarity": "negative",
-    "negative_affix": "yeme"
+    "negative_affix": "eme"
   },
-  "english_example_sentence": "You cannot walk on the grass.",
-  "russian_example_sentence": "Ты не можешь ходить по траве.",
-  "turkish_example_sentence": "Sen çimenlerin üzerinde yürüyemezsin.",
-  "turkish_example_sentence_with_blank": "Sen çimenlerin üzerinde ______."
+  "turkish_example_sentence": "Sen karanlık ormanda tek başına yürüyemezsin",
+  "english_example_sentence": "You cannot walk alone in the dark forest",
+  "russian_example_sentence": "Ты не можешь ходить один в тёмном лесу",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:09:10.543019+00:00",
+  "turkish_example_sentence_with_blank": "Sen karanlık ormanda tek başına ______"
 }

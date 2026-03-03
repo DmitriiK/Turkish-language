@@ -1,0 +1,23 @@
+{
+  "verb_rank": 10,
+  "verb_english": "take",
+  "verb_russian": "брать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almadığımız",
+    "root": "al",
+    "modal_affix": null,
+    "tense_affix": "dığ",
+    "verb_tense": "dik_sıfat_fiil",
+    "personal_pronoun": "biz",
+    "personal_affix": "ımız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "turkish_example_sentence": "Bizim erken almadığımız önlemler sorun yarattı.",
+  "english_example_sentence": "The precautions we didn't take early caused problems.",
+  "russian_example_sentence": "Меры, которые мы не приняли вовремя, создали проблемы.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2026-03-03T13:51:42.048109+00:00",
+  "turkish_example_sentence_with_blank": "Bizim erken ______ önlemler sorun yarattı."
+}

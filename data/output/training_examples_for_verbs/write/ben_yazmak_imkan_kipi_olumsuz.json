@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "yazamam",
     "root": "yaz",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "I cannot write with my left hand.",
-  "russian_example_sentence": "Я не могу писать левой рукой.",
-  "turkish_example_sentence": "Ben sol elimle hızlı mektupları yazamam.",
-  "turkish_example_sentence_with_blank": "Ben sol elimle hızlı mektupları ______."
+  "turkish_example_sentence": "Ben karmaşık bilimsel makaleyi bugün yazamam",
+  "english_example_sentence": "I cannot write the complex scientific article today",
+  "russian_example_sentence": "Я не могу написать сложную научную статью сегодня",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:53:06.390578+00:00",
+  "turkish_example_sentence_with_blank": "Ben karmaşık bilimsel makaleyi bugün ______"
 }

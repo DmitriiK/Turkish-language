@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "tutabilirler",
     "root": "tut",
-    "tense_affix": "abil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They can hold the long rope together during the game",
-  "russian_example_sentence": "Они могут держать длинную веревку вместе во время игры",
-  "turkish_example_sentence": "Onlar oyun sırasında uzun ipi birlikte tutabilirler",
-  "turkish_example_sentence_with_blank": "Onlar oyun sırasında uzun ipi birlikte ______"
+  "turkish_example_sentence": "Onlar güzel pembe çiçek buketi akşam tutabilirler",
+  "english_example_sentence": "They can hold the beautiful pink flower bouquet in the evening",
+  "russian_example_sentence": "Они могут держать красивый розовый букет цветов вечером",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:51:49.235485+00:00",
+  "turkish_example_sentence_with_blank": "Onlar güzel pembe çiçek buketi akşam ______"
 }

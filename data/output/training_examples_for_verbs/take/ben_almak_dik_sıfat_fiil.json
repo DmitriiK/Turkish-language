@@ -1,0 +1,23 @@
+{
+  "verb_rank": 10,
+  "verb_english": "take",
+  "verb_russian": "брать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "aldığım",
+    "root": "al",
+    "modal_affix": null,
+    "tense_affix": "dığ",
+    "verb_tense": "dik_sıfat_fiil",
+    "personal_pronoun": "ben",
+    "personal_affix": "ım",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "turkish_example_sentence": "Benim dün akşam aldığım kitap çok ilginçti.",
+  "english_example_sentence": "The book I took last night was very interesting.",
+  "russian_example_sentence": "Книга, которую я взял вчера вечером, была очень интересной.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2026-03-03T13:51:42.048109+00:00",
+  "turkish_example_sentence_with_blank": "Benim dün akşam ______ kitap çok ilginçti."
+}

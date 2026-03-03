@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "değiştirebilir",
     "root": "değiştir",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "ir",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "She can change her green shirt quickly",
-  "russian_example_sentence": "Она может быстро изменить свою зелёную рубашку",
-  "turkish_example_sentence": "O yeşil gömleğini hızlı bir şekilde değiştirebilir",
-  "turkish_example_sentence_with_blank": "O yeşil gömleğini hızlı bir şekilde ______"
+  "turkish_example_sentence": "O küçük çocuk kirli gömleğini temiz olanla değiştirebilir",
+  "english_example_sentence": "That small child can change his dirty shirt with a clean one",
+  "russian_example_sentence": "Этот маленький ребенок может поменять свою грязную рубашку на чистую",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:00:10.450732+00:00",
+  "turkish_example_sentence_with_blank": "O küçük çocuk kirli gömleğini temiz olanla ______"
 }

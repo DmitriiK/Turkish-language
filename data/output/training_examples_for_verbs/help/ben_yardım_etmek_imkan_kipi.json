@@ -5,18 +5,19 @@
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
     "verb_full": "yardım edebilirim",
-    "root": "yardım et",
-    "tense_affix": "ebil",
+    "root": "et",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "irim",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Ben hasta komşuma ağır bavulları taşımada yardım edebilirim",
-  "english_example_sentence": "I can help my sick neighbor with carrying the heavy suitcases",
-  "russian_example_sentence": "Я могу помочь моему больному соседу с переноской тяжёлых чемоданов",
+  "turkish_example_sentence": "Ben yaşlı komşuma ağır bavulu taşımakta yardım edebilirim",
+  "english_example_sentence": "I can help my elderly neighbor carry the heavy suitcase",
+  "russian_example_sentence": "Я могу помочь моему пожилому соседу нести тяжелый чемодан",
   "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-17T10:25:33.811990+00:00",
-  "turkish_example_sentence_with_blank": "Ben hasta komşuma ağır bavulları taşımada ______"
+  "generated_at": "2026-03-03T08:46:04.232024+00:00",
+  "turkish_example_sentence_with_blank": "Ben yaşlı komşuma ağır bavulu taşımakta ______"
 }

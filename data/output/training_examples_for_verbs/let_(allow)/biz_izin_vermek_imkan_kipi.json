@@ -1,20 +1,23 @@
 {
   "verb_rank": 30,
-  "verb_english": "let (allow)",
+  "verb_english": "let",
   "verb_russian": "позволять",
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
     "verb_full": "izin verebiliriz",
-    "root": "izin ver",
-    "tense_affix": "ebilir",
+    "root": "ver",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We can let them use our phone.",
-  "russian_example_sentence": "Мы можем позволить им пользоваться нашим телефоном.",
-  "turkish_example_sentence": "Biz telefonumuzu kullanmalarına izin verebiliriz.",
-  "turkish_example_sentence_with_blank": "Biz telefonumuzu kullanmalarına ______."
+  "turkish_example_sentence": "Biz akşamları yerel sanatçılara küçük sahnemizde konser yapmaya izin verebiliriz",
+  "english_example_sentence": "We can let local artists perform concerts on our small stage in the evenings",
+  "russian_example_sentence": "Мы можем позволить местным артистам выступать с концертами на нашей маленькой сцене по вечерам",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:44:05.342589+00:00",
+  "turkish_example_sentence_with_blank": "Biz akşamları yerel sanatçılara küçük sahnemizde konser yapmaya ______"
 }

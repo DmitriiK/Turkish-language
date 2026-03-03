@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "hizmet edebilirsiniz",
     "root": "hizmet et",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "irsiniz",
+    "personal_affix": "siniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can serve premium organic vegetables at your restaurant",
-  "russian_example_sentence": "Вы можете подавать премиум органические овощи в вашем ресторане",
-  "turkish_example_sentence": "Siz premium organik sebzeleri restoranınızda hizmet edebilirsiniz",
-  "turkish_example_sentence_with_blank": "Siz premium organik sebzeleri restoranınızda ______"
+  "turkish_example_sentence": "Siz yeni teknoloji firmasına deneyimli mühendisler olarak hizmet edebilirsiniz",
+  "english_example_sentence": "You can serve the new technology firm as experienced engineers",
+  "russian_example_sentence": "Вы можете служить новой технологической фирме как опытные инженеры",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:15:04.506666+00:00",
+  "turkish_example_sentence_with_blank": "Siz yeni teknoloji firmasına deneyimli mühendisler olarak ______"
 }

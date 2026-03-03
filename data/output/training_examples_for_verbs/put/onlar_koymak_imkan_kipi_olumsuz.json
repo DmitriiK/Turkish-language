@@ -4,17 +4,20 @@
   "verb_russian": "класть",
   "verb_infinitive": "koymak",
   "turkish_verb": {
-    "verb_full": "koyamayız",
+    "verb_full": "koyamazlar",
     "root": "koy",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "yız",
+    "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "They cannot put the sharp tools near the children",
-  "russian_example_sentence": "Они не могут положить острые инструменты рядом с детьми",
-  "turkish_example_sentence": "Onlar keskin araçları çocukların yanına koyamayız",
-  "turkish_example_sentence_with_blank": "Onlar keskin araçları çocukların yanına ______"
+  "turkish_example_sentence": "Onlar taze sebzeleri sıcak fırının yanına koyamazlar",
+  "english_example_sentence": "They cannot put the fresh vegetables next to the hot oven",
+  "russian_example_sentence": "Они не могут положить свежие овощи рядом с горячей духовкой",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:42:08.093195+00:00",
+  "turkish_example_sentence_with_blank": "Onlar taze sebzeleri sıcak fırının yanına ______"
 }

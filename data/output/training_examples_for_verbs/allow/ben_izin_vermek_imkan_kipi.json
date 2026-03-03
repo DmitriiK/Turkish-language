@@ -5,16 +5,19 @@
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
     "verb_full": "izin verebilirim",
-    "root": "izin ver",
-    "tense_affix": "ebil",
+    "root": "ver",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "irim",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I can allow my younger sister to visit tomorrow",
-  "russian_example_sentence": "Я могу позволить моей младшей сестре навестить нас завтра",
-  "turkish_example_sentence": "Ben yarın küçük kız kardeşime ziyaret etmeyi izin verebilirim",
-  "turkish_example_sentence_with_blank": "Ben yarın küçük kız kardeşime ziyaret etmeyi ______"
+  "turkish_example_sentence": "Ben küçük kardeşime yeni bisikleti kullanmaya izin verebilirim",
+  "english_example_sentence": "I can allow my little brother to use the new bicycle",
+  "russian_example_sentence": "Я могу разрешить моему младшему брату использовать новый велосипед",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:06:05.792973+00:00",
+  "turkish_example_sentence_with_blank": "Ben küçük kardeşime yeni bisikleti kullanmaya ______"
 }

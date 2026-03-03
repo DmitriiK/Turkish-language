@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "getiremezsin",
     "root": "getir",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "zsin",
+    "personal_affix": "sin",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "You cannot bring old furniture here",
-  "russian_example_sentence": "Ты не можешь принести старую мебель сюда",
-  "turkish_example_sentence": "Sen eski mobilyaları buraya getiremezsin",
-  "turkish_example_sentence_with_blank": "Sen eski mobilyaları buraya ______"
+  "turkish_example_sentence": "Sen küçük araban ile uzun metal masayı getiremezsin",
+  "english_example_sentence": "You cannot bring the long metal table with your small car",
+  "russian_example_sentence": "Ты не можешь принести длинный металлический стол на своей маленькой машине",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:52:28.970369+00:00",
+  "turkish_example_sentence_with_blank": "Sen küçük araban ile uzun metal masayı ______"
 }

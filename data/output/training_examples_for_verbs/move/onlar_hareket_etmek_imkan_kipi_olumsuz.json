@@ -4,17 +4,20 @@
   "verb_russian": "двигаться",
   "verb_infinitive": "hareket etmek",
   "turkish_verb": {
-    "verb_full": "hareket ettiremezler",
+    "verb_full": "hareket edemezler",
     "root": "hareket et",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "zler",
+    "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "They cannot move those heavy iron gates during winter",
-  "russian_example_sentence": "Они не могут передвинуть эти тяжелые железные ворота зимой",
-  "turkish_example_sentence": "Onlar kış mevsiminde o ağır demir kapıları hareket ettiremezler",
-  "turkish_example_sentence_with_blank": "Onlar kış mevsiminde o ağır demir kapıları ______"
+  "turkish_example_sentence": "Onlar sıkışık trafik sırasında eski kamyonlarıyla serbest hareket edemezler",
+  "english_example_sentence": "They cannot move freely with their old trucks during congested traffic",
+  "russian_example_sentence": "Они не могут двигаться свободно на своих старых грузовиках во время пробки",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:49:22.811510+00:00",
+  "turkish_example_sentence_with_blank": "Onlar sıkışık trafik sırasında eski kamyonlarıyla serbest ______"
 }

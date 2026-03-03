@@ -1,6 +1,6 @@
 {
-  "total_verbs": 103,
-  "total_indexes": 103,
+  "total_verbs": 105,
+  "total_indexes": 105,
   "verbs": [
     {
       "rank": 1,
@@ -9,6 +9,7 @@
       "turkish": "olmak",
       "folder": "be",
       "tenses": [
+        "dik_sıfat_fiil",
         "emir_kipi",
         "farzî_geçmiş_zaman",
         "gelecek_zaman",
@@ -17,7 +18,9 @@
         "geçmiş_gelecek_zaman",
         "geçmiş_zaman",
         "imkan_kipi",
+        "inca_zarf_fiil",
         "istek_kipi",
+        "ken_zarf_fiil",
         "sıfat_fiil",
         "ulak_fiil",
         "zaman_sıfatı",
@@ -27,7 +30,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 170
+      "total_examples": 186
     },
     {
       "rank": 2,
@@ -36,6 +39,7 @@
       "turkish": "sahip olmak",
       "folder": "have",
       "tenses": [
+        "dik_sıfat_fiil",
         "emir_kipi",
         "farzî_geçmiş_zaman",
         "gelecek_zaman",
@@ -44,7 +48,9 @@
         "geçmiş_gelecek_zaman",
         "geçmiş_zaman",
         "imkan_kipi",
+        "inca_zarf_fiil",
         "istek_kipi",
+        "ken_zarf_fiil",
         "sıfat_fiil",
         "ulak_fiil",
         "zaman_sıfatı",
@@ -54,7 +60,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 170
+      "total_examples": 186
     },
     {
       "rank": 3,
@@ -63,6 +69,7 @@
       "turkish": "yapmak",
       "folder": "do",
       "tenses": [
+        "dik_sıfat_fiil",
         "emir_kipi",
         "farzî_geçmiş_zaman",
         "gelecek_zaman",
@@ -71,7 +78,9 @@
         "geçmiş_gelecek_zaman",
         "geçmiş_zaman",
         "imkan_kipi",
+        "inca_zarf_fiil",
         "istek_kipi",
+        "ken_zarf_fiil",
         "sıfat_fiil",
         "ulak_fiil",
         "zaman_sıfatı",
@@ -81,7 +90,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 170
+      "total_examples": 186
     },
     {
       "rank": 4,
@@ -90,6 +99,7 @@
       "turkish": "söylemek",
       "folder": "say",
       "tenses": [
+        "dik_sıfat_fiil",
         "emir_kipi",
         "farzî_geçmiş_zaman",
         "gelecek_zaman",
@@ -98,7 +108,9 @@
         "geçmiş_gelecek_zaman",
         "geçmiş_zaman",
         "imkan_kipi",
+        "inca_zarf_fiil",
         "istek_kipi",
+        "ken_zarf_fiil",
         "sıfat_fiil",
         "ulak_fiil",
         "zaman_sıfatı",
@@ -108,7 +120,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 170
+      "total_examples": 186
     },
     {
       "rank": 5,
@@ -117,6 +129,7 @@
       "turkish": "gitmek",
       "folder": "go",
       "tenses": [
+        "dik_sıfat_fiil",
         "emir_kipi",
         "farzî_geçmiş_zaman",
         "gelecek_zaman",
@@ -125,7 +138,9 @@
         "geçmiş_gelecek_zaman",
         "geçmiş_zaman",
         "imkan_kipi",
+        "inca_zarf_fiil",
         "istek_kipi",
+        "ken_zarf_fiil",
         "sıfat_fiil",
         "ulak_fiil",
         "zaman_sıfatı",
@@ -135,7 +150,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 170
+      "total_examples": 186
     },
     {
       "rank": 6,
@@ -144,6 +159,7 @@
       "turkish": "almak",
       "folder": "get_(receive)",
       "tenses": [
+        "dik_sıfat_fiil",
         "emir_kipi",
         "farzî_geçmiş_zaman",
         "gelecek_zaman",
@@ -152,7 +168,9 @@
         "geçmiş_gelecek_zaman",
         "geçmiş_zaman",
         "imkan_kipi",
+        "inca_zarf_fiil",
         "istek_kipi",
+        "ken_zarf_fiil",
         "sıfat_fiil",
         "ulak_fiil",
         "zaman_sıfatı",
@@ -162,7 +180,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 170
+      "total_examples": 186
     },
     {
       "rank": 7,
@@ -171,6 +189,7 @@
       "turkish": "yapmak",
       "folder": "make",
       "tenses": [
+        "dik_sıfat_fiil",
         "emir_kipi",
         "farzî_geçmiş_zaman",
         "gelecek_zaman",
@@ -179,7 +198,9 @@
         "geçmiş_gelecek_zaman",
         "geçmiş_zaman",
         "imkan_kipi",
+        "inca_zarf_fiil",
         "istek_kipi",
+        "ken_zarf_fiil",
         "sıfat_fiil",
         "ulak_fiil",
         "zaman_sıfatı",
@@ -189,7 +210,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 170
+      "total_examples": 186
     },
     {
       "rank": 8,
@@ -198,6 +219,7 @@
       "turkish": "bilmek",
       "folder": "know",
       "tenses": [
+        "dik_sıfat_fiil",
         "emir_kipi",
         "farzî_geçmiş_zaman",
         "gelecek_zaman",
@@ -206,7 +228,9 @@
         "geçmiş_gelecek_zaman",
         "geçmiş_zaman",
         "imkan_kipi",
+        "inca_zarf_fiil",
         "istek_kipi",
+        "ken_zarf_fiil",
         "sıfat_fiil",
         "ulak_fiil",
         "zaman_sıfatı",
@@ -216,7 +240,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 170
+      "total_examples": 186
     },
     {
       "rank": 9,
@@ -225,6 +249,7 @@
       "turkish": "düşünmek",
       "folder": "think",
       "tenses": [
+        "dik_sıfat_fiil",
         "emir_kipi",
         "farzî_geçmiş_zaman",
         "gelecek_zaman",
@@ -233,7 +258,9 @@
         "geçmiş_gelecek_zaman",
         "geçmiş_zaman",
         "imkan_kipi",
+        "inca_zarf_fiil",
         "istek_kipi",
+        "ken_zarf_fiil",
         "sıfat_fiil",
         "ulak_fiil",
         "zaman_sıfatı",
@@ -243,7 +270,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 170
+      "total_examples": 186
     },
     {
       "rank": 10,
@@ -252,6 +279,7 @@
       "turkish": "almak",
       "folder": "take",
       "tenses": [
+        "dik_sıfat_fiil",
         "emir_kipi",
         "farzî_geçmiş_zaman",
         "gelecek_zaman",
@@ -260,7 +288,9 @@
         "geçmiş_gelecek_zaman",
         "geçmiş_zaman",
         "imkan_kipi",
+        "inca_zarf_fiil",
         "istek_kipi",
+        "ken_zarf_fiil",
         "sıfat_fiil",
         "ulak_fiil",
         "zaman_sıfatı",
@@ -270,7 +300,7 @@
         "şartlı_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 170
+      "total_examples": 186
     },
     {
       "rank": 11,
@@ -1750,6 +1780,17 @@
       "total_examples": 170
     },
     {
+      "rank": 65,
+      "english": "add",
+      "russian": "добавлять",
+      "turkish": "eklemek",
+      "folder": "add",
+      "tenses": [
+        "imkan_kipi"
+      ],
+      "total_examples": 12
+    },
+    {
       "rank": 66,
       "english": "spend",
       "russian": "тратить",
@@ -1810,9 +1851,10 @@
       "turkish": "açmak",
       "folder": "open",
       "tenses": [
+        "imkan_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 12
+      "total_examples": 24
     },
     {
       "rank": 69,
@@ -1958,9 +2000,10 @@
       "tenses": [
         "gelecek_zaman",
         "geçmiş_zaman",
+        "imkan_kipi",
         "şimdiki_zaman"
       ],
-      "total_examples": 36
+      "total_examples": 48
     },
     {
       "rank": 75,
@@ -2130,6 +2173,33 @@
       "russian": "ожидать",
       "turkish": "beklemek",
       "folder": "expect",
+      "tenses": [
+        "emir_kipi",
+        "farzî_geçmiş_zaman",
+        "gelecek_zaman",
+        "geniş_zaman",
+        "gereklilik_kipi",
+        "geçmiş_gelecek_zaman",
+        "geçmiş_zaman",
+        "imkan_kipi",
+        "istek_kipi",
+        "sıfat_fiil",
+        "ulak_fiil",
+        "zaman_sıfatı",
+        "zarf_fiil",
+        "zorunluluk_kipi",
+        "şart_kipi",
+        "şartlı_kipi",
+        "şimdiki_zaman"
+      ],
+      "total_examples": 170
+    },
+    {
+      "rank": 82,
+      "english": "build",
+      "russian": "строить",
+      "turkish": "inşa etmek",
+      "folder": "build",
       "tenses": [
         "emir_kipi",
         "farzî_geçmiş_zaman",

@@ -9,13 +9,13 @@
       "tense": "emir_kipi",
       "pronoun": "o",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/o_liderlik_etmek_emir_kipi_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/o_öncülük_etmek_emir_kipi_olumsuz.json"
     },
     {
       "tense": "emir_kipi",
       "pronoun": "o",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/o_öncülük_etmek_emir_kipi_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/o_liderlik_etmek_emir_kipi_olumsuz.json"
     },
     {
       "tense": "emir_kipi",
@@ -33,25 +33,25 @@
       "tense": "emir_kipi",
       "pronoun": "sen",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/sen_öncülük_etmek_emir_kipi_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/sen_liderlik_etmek_emir_kipi_olumsuz.json"
     },
     {
       "tense": "emir_kipi",
       "pronoun": "sen",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/sen_liderlik_etmek_emir_kipi_olumsuz.json"
-    },
-    {
-      "tense": "emir_kipi",
-      "pronoun": "siz",
-      "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/siz_öncülük_etmek_emir_kipi_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/sen_öncülük_etmek_emir_kipi_olumsuz.json"
     },
     {
       "tense": "emir_kipi",
       "pronoun": "siz",
       "polarity": "negative",
       "file_path": "data/output/training_examples_for_verbs/lead/siz_liderlik_etmek_emir_kipi_olumsuz.json"
+    },
+    {
+      "tense": "emir_kipi",
+      "pronoun": "siz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/lead/siz_öncülük_etmek_emir_kipi_olumsuz.json"
     },
     {
       "tense": "emir_kipi",
@@ -141,13 +141,13 @@
       "tense": "farzî_geçmiş_zaman",
       "pronoun": "onlar",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/onlar_öncülük_etmek_farzî_geçmiş_zaman_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/onlar_liderlik_etmek_farzî_geçmiş_zaman_olumsuz.json"
     },
     {
       "tense": "farzî_geçmiş_zaman",
       "pronoun": "onlar",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/onlar_liderlik_etmek_farzî_geçmiş_zaman_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/onlar_öncülük_etmek_farzî_geçmiş_zaman_olumsuz.json"
     },
     {
       "tense": "farzî_geçmiş_zaman",
@@ -165,13 +165,13 @@
       "tense": "farzî_geçmiş_zaman",
       "pronoun": "siz",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/siz_öncülük_etmek_farzî_geçmiş_zaman_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/siz_liderlik_etmek_farzî_geçmiş_zaman_olumsuz.json"
     },
     {
       "tense": "farzî_geçmiş_zaman",
       "pronoun": "siz",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/siz_liderlik_etmek_farzî_geçmiş_zaman_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/siz_öncülük_etmek_farzî_geçmiş_zaman_olumsuz.json"
     },
     {
       "tense": "farzî_geçmiş_zaman",
@@ -189,13 +189,13 @@
       "tense": "farzî_geçmiş_zaman",
       "pronoun": "biz",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/biz_öncülük_etmek_farzî_geçmiş_zaman.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/biz_liderlik_etmek_farzî_geçmiş_zaman.json"
     },
     {
       "tense": "farzî_geçmiş_zaman",
       "pronoun": "biz",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/biz_liderlik_etmek_farzî_geçmiş_zaman.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/biz_öncülük_etmek_farzî_geçmiş_zaman.json"
     },
     {
       "tense": "farzî_geçmiş_zaman",
@@ -213,19 +213,13 @@
       "tense": "farzî_geçmiş_zaman",
       "pronoun": "onlar",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/onlar_öncülük_etmek_farzî_geçmiş_zaman.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/onlar_liderlik_etmek_farzî_geçmiş_zaman.json"
     },
     {
       "tense": "farzî_geçmiş_zaman",
       "pronoun": "onlar",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/onlar_liderlik_etmek_farzî_geçmiş_zaman.json"
-    },
-    {
-      "tense": "farzî_geçmiş_zaman",
-      "pronoun": "sen",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/sen_öncülük_etmek_farzî_geçmiş_zaman.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/onlar_öncülük_etmek_farzî_geçmiş_zaman.json"
     },
     {
       "tense": "farzî_geçmiş_zaman",
@@ -235,9 +229,9 @@
     },
     {
       "tense": "farzî_geçmiş_zaman",
-      "pronoun": "siz",
+      "pronoun": "sen",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/siz_öncülük_etmek_farzî_geçmiş_zaman.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/sen_öncülük_etmek_farzî_geçmiş_zaman.json"
     },
     {
       "tense": "farzî_geçmiş_zaman",
@@ -246,16 +240,22 @@
       "file_path": "data/output/training_examples_for_verbs/lead/siz_liderlik_etmek_farzî_geçmiş_zaman.json"
     },
     {
-      "tense": "gelecek_zaman",
-      "pronoun": "ben",
-      "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/ben_liderlik_etmek_gelecek_zaman_olumsuz.json"
+      "tense": "farzî_geçmiş_zaman",
+      "pronoun": "siz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/lead/siz_öncülük_etmek_farzî_geçmiş_zaman.json"
     },
     {
       "tense": "gelecek_zaman",
       "pronoun": "ben",
       "polarity": "negative",
       "file_path": "data/output/training_examples_for_verbs/lead/ben_öncülük_etmek_gelecek_zaman_olumsuz.json"
+    },
+    {
+      "tense": "gelecek_zaman",
+      "pronoun": "ben",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/lead/ben_liderlik_etmek_gelecek_zaman_olumsuz.json"
     },
     {
       "tense": "gelecek_zaman",
@@ -273,19 +273,13 @@
       "tense": "gelecek_zaman",
       "pronoun": "o",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/o_öncülük_etmek_gelecek_zaman_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/o_liderlik_etmek_gelecek_zaman_olumsuz.json"
     },
     {
       "tense": "gelecek_zaman",
       "pronoun": "o",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/o_liderlik_etmek_gelecek_zaman_olumsuz.json"
-    },
-    {
-      "tense": "gelecek_zaman",
-      "pronoun": "onlar",
-      "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/onlar_öncülük_etmek_gelecek_zaman_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/o_öncülük_etmek_gelecek_zaman_olumsuz.json"
     },
     {
       "tense": "gelecek_zaman",
@@ -295,15 +289,21 @@
     },
     {
       "tense": "gelecek_zaman",
-      "pronoun": "sen",
+      "pronoun": "onlar",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/sen_liderlik_etmek_gelecek_zaman_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/onlar_öncülük_etmek_gelecek_zaman_olumsuz.json"
     },
     {
       "tense": "gelecek_zaman",
       "pronoun": "sen",
       "polarity": "negative",
       "file_path": "data/output/training_examples_for_verbs/lead/sen_öncülük_etmek_gelecek_zaman_olumsuz.json"
+    },
+    {
+      "tense": "gelecek_zaman",
+      "pronoun": "sen",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/lead/sen_liderlik_etmek_gelecek_zaman_olumsuz.json"
     },
     {
       "tense": "gelecek_zaman",
@@ -321,13 +321,13 @@
       "tense": "gelecek_zaman",
       "pronoun": "ben",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/ben_öncülük_etmek_gelecek_zaman.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/ben_liderlik_etmek_gelecek_zaman.json"
     },
     {
       "tense": "gelecek_zaman",
       "pronoun": "ben",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/ben_liderlik_etmek_gelecek_zaman.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/ben_öncülük_etmek_gelecek_zaman.json"
     },
     {
       "tense": "gelecek_zaman",
@@ -345,13 +345,13 @@
       "tense": "gelecek_zaman",
       "pronoun": "o",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/o_liderlik_etmek_gelecek_zaman.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/o_öncülük_etmek_gelecek_zaman.json"
     },
     {
       "tense": "gelecek_zaman",
       "pronoun": "o",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/o_öncülük_etmek_gelecek_zaman.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/o_liderlik_etmek_gelecek_zaman.json"
     },
     {
       "tense": "gelecek_zaman",
@@ -369,13 +369,13 @@
       "tense": "gelecek_zaman",
       "pronoun": "sen",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/sen_öncülük_etmek_gelecek_zaman.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/sen_liderlik_etmek_gelecek_zaman.json"
     },
     {
       "tense": "gelecek_zaman",
       "pronoun": "sen",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/sen_liderlik_etmek_gelecek_zaman.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/sen_öncülük_etmek_gelecek_zaman.json"
     },
     {
       "tense": "gelecek_zaman",
@@ -405,13 +405,13 @@
       "tense": "geniş_zaman",
       "pronoun": "biz",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/biz_öncülük_etmek_geniş_zaman_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/biz_liderlik_etmek_geniş_zaman_olumsuz.json"
     },
     {
       "tense": "geniş_zaman",
       "pronoun": "biz",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/biz_liderlik_etmek_geniş_zaman_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/biz_öncülük_etmek_geniş_zaman_olumsuz.json"
     },
     {
       "tense": "geniş_zaman",
@@ -441,13 +441,13 @@
       "tense": "geniş_zaman",
       "pronoun": "sen",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/sen_liderlik_etmek_geniş_zaman_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/sen_öncülük_etmek_geniş_zaman_olumsuz.json"
     },
     {
       "tense": "geniş_zaman",
       "pronoun": "sen",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/sen_öncülük_etmek_geniş_zaman_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/sen_liderlik_etmek_geniş_zaman_olumsuz.json"
     },
     {
       "tense": "geniş_zaman",
@@ -513,19 +513,13 @@
       "tense": "geniş_zaman",
       "pronoun": "sen",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/sen_öncülük_etmek_geniş_zaman.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/sen_liderlik_etmek_geniş_zaman.json"
     },
     {
       "tense": "geniş_zaman",
       "pronoun": "sen",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/sen_liderlik_etmek_geniş_zaman.json"
-    },
-    {
-      "tense": "geniş_zaman",
-      "pronoun": "siz",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/siz_öncülük_etmek_geniş_zaman.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/sen_öncülük_etmek_geniş_zaman.json"
     },
     {
       "tense": "geniş_zaman",
@@ -534,10 +528,10 @@
       "file_path": "data/output/training_examples_for_verbs/lead/siz_liderlik_etmek_geniş_zaman.json"
     },
     {
-      "tense": "gereklilik_kipi",
-      "pronoun": "ben",
-      "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/ben_liderlik_etmek_gereklilik_kipi_olumsuz.json"
+      "tense": "geniş_zaman",
+      "pronoun": "siz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/lead/siz_öncülük_etmek_geniş_zaman.json"
     },
     {
       "tense": "gereklilik_kipi",
@@ -547,15 +541,21 @@
     },
     {
       "tense": "gereklilik_kipi",
-      "pronoun": "biz",
+      "pronoun": "ben",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/biz_öncülük_etmek_gereklilik_kipi_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/ben_liderlik_etmek_gereklilik_kipi_olumsuz.json"
     },
     {
       "tense": "gereklilik_kipi",
       "pronoun": "biz",
       "polarity": "negative",
       "file_path": "data/output/training_examples_for_verbs/lead/biz_liderlik_etmek_gereklilik_kipi_olumsuz.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "biz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/lead/biz_öncülük_etmek_gereklilik_kipi_olumsuz.json"
     },
     {
       "tense": "gereklilik_kipi",
@@ -573,19 +573,13 @@
       "tense": "gereklilik_kipi",
       "pronoun": "onlar",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/onlar_öncülük_etmek_gereklilik_kipi_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/onlar_liderlik_etmek_gereklilik_kipi_olumsuz.json"
     },
     {
       "tense": "gereklilik_kipi",
       "pronoun": "onlar",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/onlar_liderlik_etmek_gereklilik_kipi_olumsuz.json"
-    },
-    {
-      "tense": "gereklilik_kipi",
-      "pronoun": "sen",
-      "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/sen_öncülük_etmek_gereklilik_kipi_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/onlar_öncülük_etmek_gereklilik_kipi_olumsuz.json"
     },
     {
       "tense": "gereklilik_kipi",
@@ -595,15 +589,21 @@
     },
     {
       "tense": "gereklilik_kipi",
-      "pronoun": "siz",
+      "pronoun": "sen",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/siz_liderlik_etmek_gereklilik_kipi_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/sen_öncülük_etmek_gereklilik_kipi_olumsuz.json"
     },
     {
       "tense": "gereklilik_kipi",
       "pronoun": "siz",
       "polarity": "negative",
       "file_path": "data/output/training_examples_for_verbs/lead/siz_öncülük_etmek_gereklilik_kipi_olumsuz.json"
+    },
+    {
+      "tense": "gereklilik_kipi",
+      "pronoun": "siz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/lead/siz_liderlik_etmek_gereklilik_kipi_olumsuz.json"
     },
     {
       "tense": "gereklilik_kipi",
@@ -621,13 +621,13 @@
       "tense": "gereklilik_kipi",
       "pronoun": "biz",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/biz_liderlik_etmek_gereklilik_kipi.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/biz_öncülük_etmek_gereklilik_kipi.json"
     },
     {
       "tense": "gereklilik_kipi",
       "pronoun": "biz",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/biz_öncülük_etmek_gereklilik_kipi.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/biz_liderlik_etmek_gereklilik_kipi.json"
     },
     {
       "tense": "gereklilik_kipi",
@@ -657,13 +657,13 @@
       "tense": "gereklilik_kipi",
       "pronoun": "sen",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/sen_öncülük_etmek_gereklilik_kipi.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/sen_liderlik_etmek_gereklilik_kipi.json"
     },
     {
       "tense": "gereklilik_kipi",
       "pronoun": "sen",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/sen_liderlik_etmek_gereklilik_kipi.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/sen_öncülük_etmek_gereklilik_kipi.json"
     },
     {
       "tense": "gereklilik_kipi",
@@ -681,13 +681,13 @@
       "tense": "geçmiş_gelecek_zaman",
       "pronoun": "ben",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/ben_liderlik_etmek_geçmiş_gelecek_zaman_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/ben_öncülük_etmek_geçmiş_gelecek_zaman_olumsuz.json"
     },
     {
       "tense": "geçmiş_gelecek_zaman",
       "pronoun": "ben",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/ben_öncülük_etmek_geçmiş_gelecek_zaman_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/ben_liderlik_etmek_geçmiş_gelecek_zaman_olumsuz.json"
     },
     {
       "tense": "geçmiş_gelecek_zaman",
@@ -705,13 +705,13 @@
       "tense": "geçmiş_gelecek_zaman",
       "pronoun": "o",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/o_liderlik_etmek_geçmiş_gelecek_zaman_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/o_öncülük_etmek_geçmiş_gelecek_zaman_olumsuz.json"
     },
     {
       "tense": "geçmiş_gelecek_zaman",
       "pronoun": "o",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/o_öncülük_etmek_geçmiş_gelecek_zaman_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/o_liderlik_etmek_geçmiş_gelecek_zaman_olumsuz.json"
     },
     {
       "tense": "geçmiş_gelecek_zaman",
@@ -729,25 +729,25 @@
       "tense": "geçmiş_gelecek_zaman",
       "pronoun": "sen",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/sen_liderlik_etmek_geçmiş_gelecek_zaman_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/sen_öncülük_etmek_geçmiş_gelecek_zaman_olumsuz.json"
     },
     {
       "tense": "geçmiş_gelecek_zaman",
       "pronoun": "sen",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/sen_öncülük_etmek_geçmiş_gelecek_zaman_olumsuz.json"
-    },
-    {
-      "tense": "geçmiş_gelecek_zaman",
-      "pronoun": "siz",
-      "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/siz_liderlik_etmek_geçmiş_gelecek_zaman_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/sen_liderlik_etmek_geçmiş_gelecek_zaman_olumsuz.json"
     },
     {
       "tense": "geçmiş_gelecek_zaman",
       "pronoun": "siz",
       "polarity": "negative",
       "file_path": "data/output/training_examples_for_verbs/lead/siz_öncülük_etmek_geçmiş_gelecek_zaman_olumsuz.json"
+    },
+    {
+      "tense": "geçmiş_gelecek_zaman",
+      "pronoun": "siz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/lead/siz_liderlik_etmek_geçmiş_gelecek_zaman_olumsuz.json"
     },
     {
       "tense": "geçmiş_gelecek_zaman",
@@ -765,13 +765,13 @@
       "tense": "geçmiş_gelecek_zaman",
       "pronoun": "biz",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/biz_öncülük_etmek_geçmiş_gelecek_zaman.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/biz_liderlik_etmek_geçmiş_gelecek_zaman.json"
     },
     {
       "tense": "geçmiş_gelecek_zaman",
       "pronoun": "biz",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/biz_liderlik_etmek_geçmiş_gelecek_zaman.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/biz_öncülük_etmek_geçmiş_gelecek_zaman.json"
     },
     {
       "tense": "geçmiş_gelecek_zaman",
@@ -813,13 +813,13 @@
       "tense": "geçmiş_gelecek_zaman",
       "pronoun": "siz",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/siz_öncülük_etmek_geçmiş_gelecek_zaman.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/siz_liderlik_etmek_geçmiş_gelecek_zaman.json"
     },
     {
       "tense": "geçmiş_gelecek_zaman",
       "pronoun": "siz",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/siz_liderlik_etmek_geçmiş_gelecek_zaman.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/siz_öncülük_etmek_geçmiş_gelecek_zaman.json"
     },
     {
       "tense": "geçmiş_zaman",
@@ -849,13 +849,13 @@
       "tense": "geçmiş_zaman",
       "pronoun": "o",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/o_liderlik_etmek_geçmiş_zaman_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/o_öncülük_etmek_geçmiş_zaman_olumsuz.json"
     },
     {
       "tense": "geçmiş_zaman",
       "pronoun": "o",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/o_öncülük_etmek_geçmiş_zaman_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/o_liderlik_etmek_geçmiş_zaman_olumsuz.json"
     },
     {
       "tense": "geçmiş_zaman",
@@ -885,13 +885,13 @@
       "tense": "geçmiş_zaman",
       "pronoun": "siz",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/siz_liderlik_etmek_geçmiş_zaman_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/siz_öncülük_etmek_geçmiş_zaman_olumsuz.json"
     },
     {
       "tense": "geçmiş_zaman",
       "pronoun": "siz",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/siz_öncülük_etmek_geçmiş_zaman_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/siz_liderlik_etmek_geçmiş_zaman_olumsuz.json"
     },
     {
       "tense": "geçmiş_zaman",
@@ -921,19 +921,13 @@
       "tense": "geçmiş_zaman",
       "pronoun": "o",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/o_öncülük_etmek_geçmiş_zaman.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/o_liderlik_etmek_geçmiş_zaman.json"
     },
     {
       "tense": "geçmiş_zaman",
       "pronoun": "o",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/o_liderlik_etmek_geçmiş_zaman.json"
-    },
-    {
-      "tense": "geçmiş_zaman",
-      "pronoun": "onlar",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/onlar_öncülük_etmek_geçmiş_zaman.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/o_öncülük_etmek_geçmiş_zaman.json"
     },
     {
       "tense": "geçmiş_zaman",
@@ -943,9 +937,9 @@
     },
     {
       "tense": "geçmiş_zaman",
-      "pronoun": "sen",
+      "pronoun": "onlar",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/sen_liderlik_etmek_geçmiş_zaman.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/onlar_öncülük_etmek_geçmiş_zaman.json"
     },
     {
       "tense": "geçmiş_zaman",
@@ -955,15 +949,21 @@
     },
     {
       "tense": "geçmiş_zaman",
-      "pronoun": "siz",
+      "pronoun": "sen",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/siz_liderlik_etmek_geçmiş_zaman.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/sen_liderlik_etmek_geçmiş_zaman.json"
     },
     {
       "tense": "geçmiş_zaman",
       "pronoun": "siz",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/lead/siz_öncülük_etmek_geçmiş_zaman.json"
+    },
+    {
+      "tense": "geçmiş_zaman",
+      "pronoun": "siz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/lead/siz_liderlik_etmek_geçmiş_zaman.json"
     },
     {
       "tense": "imkan_kipi",
@@ -993,13 +993,13 @@
       "tense": "imkan_kipi",
       "pronoun": "o",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/o_liderlik_etmek_imkan_kipi_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/o_öncülük_etmek_imkan_kipi_olumsuz.json"
     },
     {
       "tense": "imkan_kipi",
       "pronoun": "o",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/o_öncülük_etmek_imkan_kipi_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/o_liderlik_etmek_imkan_kipi_olumsuz.json"
     },
     {
       "tense": "imkan_kipi",
@@ -1041,13 +1041,13 @@
       "tense": "imkan_kipi",
       "pronoun": "ben",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/ben_liderlik_etmek_imkan_kipi.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/ben_öncülük_etmek_imkan_kipi.json"
     },
     {
       "tense": "imkan_kipi",
       "pronoun": "ben",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/ben_öncülük_etmek_imkan_kipi.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/ben_liderlik_etmek_imkan_kipi.json"
     },
     {
       "tense": "imkan_kipi",
@@ -1077,13 +1077,13 @@
       "tense": "imkan_kipi",
       "pronoun": "onlar",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/onlar_liderlik_etmek_imkan_kipi.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/onlar_öncülük_etmek_imkan_kipi.json"
     },
     {
       "tense": "imkan_kipi",
       "pronoun": "onlar",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/onlar_öncülük_etmek_imkan_kipi.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/onlar_liderlik_etmek_imkan_kipi.json"
     },
     {
       "tense": "imkan_kipi",
@@ -1101,19 +1101,13 @@
       "tense": "imkan_kipi",
       "pronoun": "siz",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/siz_liderlik_etmek_imkan_kipi.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/siz_öncülük_etmek_imkan_kipi.json"
     },
     {
       "tense": "imkan_kipi",
       "pronoun": "siz",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/siz_öncülük_etmek_imkan_kipi.json"
-    },
-    {
-      "tense": "istek_kipi",
-      "pronoun": "ben",
-      "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/ben_öncülük_etmek_istek_kipi_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/siz_liderlik_etmek_imkan_kipi.json"
     },
     {
       "tense": "istek_kipi",
@@ -1123,15 +1117,21 @@
     },
     {
       "tense": "istek_kipi",
-      "pronoun": "biz",
+      "pronoun": "ben",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/biz_öncülük_etmek_istek_kipi_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/ben_öncülük_etmek_istek_kipi_olumsuz.json"
     },
     {
       "tense": "istek_kipi",
       "pronoun": "biz",
       "polarity": "negative",
       "file_path": "data/output/training_examples_for_verbs/lead/biz_liderlik_etmek_istek_kipi_olumsuz.json"
+    },
+    {
+      "tense": "istek_kipi",
+      "pronoun": "biz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/lead/biz_öncülük_etmek_istek_kipi_olumsuz.json"
     },
     {
       "tense": "istek_kipi",
@@ -1149,13 +1149,13 @@
       "tense": "istek_kipi",
       "pronoun": "onlar",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/onlar_liderlik_etmek_istek_kipi_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/onlar_öncülük_etmek_istek_kipi_olumsuz.json"
     },
     {
       "tense": "istek_kipi",
       "pronoun": "onlar",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/onlar_öncülük_etmek_istek_kipi_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/onlar_liderlik_etmek_istek_kipi_olumsuz.json"
     },
     {
       "tense": "istek_kipi",
@@ -1185,13 +1185,13 @@
       "tense": "istek_kipi",
       "pronoun": "ben",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/ben_liderlik_etmek_istek_kipi.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/ben_öncülük_etmek_istek_kipi.json"
     },
     {
       "tense": "istek_kipi",
       "pronoun": "ben",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/ben_öncülük_etmek_istek_kipi.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/ben_liderlik_etmek_istek_kipi.json"
     },
     {
       "tense": "istek_kipi",
@@ -1221,19 +1221,13 @@
       "tense": "istek_kipi",
       "pronoun": "onlar",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/onlar_liderlik_etmek_istek_kipi.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/onlar_öncülük_etmek_istek_kipi.json"
     },
     {
       "tense": "istek_kipi",
       "pronoun": "onlar",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/onlar_öncülük_etmek_istek_kipi.json"
-    },
-    {
-      "tense": "istek_kipi",
-      "pronoun": "sen",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/sen_liderlik_etmek_istek_kipi.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/onlar_liderlik_etmek_istek_kipi.json"
     },
     {
       "tense": "istek_kipi",
@@ -1243,9 +1237,9 @@
     },
     {
       "tense": "istek_kipi",
-      "pronoun": "siz",
+      "pronoun": "sen",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/siz_liderlik_etmek_istek_kipi.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/sen_liderlik_etmek_istek_kipi.json"
     },
     {
       "tense": "istek_kipi",
@@ -1254,16 +1248,22 @@
       "file_path": "data/output/training_examples_for_verbs/lead/siz_öncülük_etmek_istek_kipi.json"
     },
     {
-      "tense": "sıfat_fiil",
-      "pronoun": "none",
-      "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/none_öncülük_etmek_sıfat_fiil_olumsuz.json"
+      "tense": "istek_kipi",
+      "pronoun": "siz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/lead/siz_liderlik_etmek_istek_kipi.json"
     },
     {
       "tense": "sıfat_fiil",
       "pronoun": "none",
       "polarity": "negative",
       "file_path": "data/output/training_examples_for_verbs/lead/none_liderlik_etmek_sıfat_fiil_olumsuz.json"
+    },
+    {
+      "tense": "sıfat_fiil",
+      "pronoun": "none",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/lead/none_öncülük_etmek_sıfat_fiil_olumsuz.json"
     },
     {
       "tense": "sıfat_fiil",
@@ -1281,13 +1281,13 @@
       "tense": "ulak_fiil",
       "pronoun": "none",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/none_öncülük_etmek_ulak_fiil_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/none_liderlik_etmek_ulak_fiil_olumsuz.json"
     },
     {
       "tense": "ulak_fiil",
       "pronoun": "none",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/none_liderlik_etmek_ulak_fiil_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/none_öncülük_etmek_ulak_fiil_olumsuz.json"
     },
     {
       "tense": "ulak_fiil",
@@ -1305,13 +1305,13 @@
       "tense": "zaman_sıfatı",
       "pronoun": "ben",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/ben_öncülük_etmek_zaman_sıfatı_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/ben_liderlik_etmek_zaman_sıfatı_olumsuz.json"
     },
     {
       "tense": "zaman_sıfatı",
       "pronoun": "ben",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/ben_liderlik_etmek_zaman_sıfatı_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/ben_öncülük_etmek_zaman_sıfatı_olumsuz.json"
     },
     {
       "tense": "zaman_sıfatı",
@@ -1329,13 +1329,13 @@
       "tense": "zaman_sıfatı",
       "pronoun": "o",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/o_öncülük_etmek_zaman_sıfatı_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/o_liderlik_etmek_zaman_sıfatı_olumsuz.json"
     },
     {
       "tense": "zaman_sıfatı",
       "pronoun": "o",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/o_liderlik_etmek_zaman_sıfatı_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/o_öncülük_etmek_zaman_sıfatı_olumsuz.json"
     },
     {
       "tense": "zaman_sıfatı",
@@ -1377,19 +1377,13 @@
       "tense": "zaman_sıfatı",
       "pronoun": "ben",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/ben_öncülük_etmek_zaman_sıfatı.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/ben_liderlik_etmek_zaman_sıfatı.json"
     },
     {
       "tense": "zaman_sıfatı",
       "pronoun": "ben",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/ben_liderlik_etmek_zaman_sıfatı.json"
-    },
-    {
-      "tense": "zaman_sıfatı",
-      "pronoun": "biz",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/biz_öncülük_etmek_zaman_sıfatı.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/ben_öncülük_etmek_zaman_sıfatı.json"
     },
     {
       "tense": "zaman_sıfatı",
@@ -1399,9 +1393,9 @@
     },
     {
       "tense": "zaman_sıfatı",
-      "pronoun": "o",
+      "pronoun": "biz",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/o_liderlik_etmek_zaman_sıfatı.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/biz_öncülük_etmek_zaman_sıfatı.json"
     },
     {
       "tense": "zaman_sıfatı",
@@ -1411,9 +1405,9 @@
     },
     {
       "tense": "zaman_sıfatı",
-      "pronoun": "onlar",
+      "pronoun": "o",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/onlar_liderlik_etmek_zaman_sıfatı.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/o_liderlik_etmek_zaman_sıfatı.json"
     },
     {
       "tense": "zaman_sıfatı",
@@ -1423,9 +1417,9 @@
     },
     {
       "tense": "zaman_sıfatı",
-      "pronoun": "sen",
+      "pronoun": "onlar",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/sen_öncülük_etmek_zaman_sıfatı.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/onlar_liderlik_etmek_zaman_sıfatı.json"
     },
     {
       "tense": "zaman_sıfatı",
@@ -1435,15 +1429,21 @@
     },
     {
       "tense": "zaman_sıfatı",
-      "pronoun": "siz",
+      "pronoun": "sen",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/siz_öncülük_etmek_zaman_sıfatı.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/sen_öncülük_etmek_zaman_sıfatı.json"
     },
     {
       "tense": "zaman_sıfatı",
       "pronoun": "siz",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/lead/siz_liderlik_etmek_zaman_sıfatı.json"
+    },
+    {
+      "tense": "zaman_sıfatı",
+      "pronoun": "siz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/lead/siz_öncülük_etmek_zaman_sıfatı.json"
     },
     {
       "tense": "zarf_fiil",
@@ -1473,13 +1473,13 @@
       "tense": "zorunluluk_kipi",
       "pronoun": "ben",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/ben_liderlik_etmek_zorunluluk_kipi_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/ben_öncülük_etmek_zorunluluk_kipi_olumsuz.json"
     },
     {
       "tense": "zorunluluk_kipi",
       "pronoun": "ben",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/ben_öncülük_etmek_zorunluluk_kipi_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/ben_liderlik_etmek_zorunluluk_kipi_olumsuz.json"
     },
     {
       "tense": "zorunluluk_kipi",
@@ -1557,25 +1557,25 @@
       "tense": "zorunluluk_kipi",
       "pronoun": "biz",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/biz_liderlik_etmek_zorunluluk_kipi.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/biz_öncülük_etmek_zorunluluk_kipi.json"
     },
     {
       "tense": "zorunluluk_kipi",
       "pronoun": "biz",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/biz_öncülük_etmek_zorunluluk_kipi.json"
-    },
-    {
-      "tense": "zorunluluk_kipi",
-      "pronoun": "o",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/o_öncülük_etmek_zorunluluk_kipi.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/biz_liderlik_etmek_zorunluluk_kipi.json"
     },
     {
       "tense": "zorunluluk_kipi",
       "pronoun": "o",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/lead/o_liderlik_etmek_zorunluluk_kipi.json"
+    },
+    {
+      "tense": "zorunluluk_kipi",
+      "pronoun": "o",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/lead/o_öncülük_etmek_zorunluluk_kipi.json"
     },
     {
       "tense": "zorunluluk_kipi",
@@ -1617,13 +1617,13 @@
       "tense": "şart_kipi",
       "pronoun": "ben",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/ben_liderlik_etmek_şart_kipi_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/ben_öncülük_etmek_şart_kipi_olumsuz.json"
     },
     {
       "tense": "şart_kipi",
       "pronoun": "ben",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/ben_öncülük_etmek_şart_kipi_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/ben_liderlik_etmek_şart_kipi_olumsuz.json"
     },
     {
       "tense": "şart_kipi",
@@ -1677,13 +1677,13 @@
       "tense": "şart_kipi",
       "pronoun": "siz",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/siz_öncülük_etmek_şart_kipi_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/siz_liderlik_etmek_şart_kipi_olumsuz.json"
     },
     {
       "tense": "şart_kipi",
       "pronoun": "siz",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/siz_liderlik_etmek_şart_kipi_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/siz_öncülük_etmek_şart_kipi_olumsuz.json"
     },
     {
       "tense": "şart_kipi",
@@ -1761,13 +1761,13 @@
       "tense": "şartlı_kipi",
       "pronoun": "ben",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/ben_liderlik_etmek_şartlı_kipi_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/ben_öncülük_etmek_şartlı_kipi_olumsuz.json"
     },
     {
       "tense": "şartlı_kipi",
       "pronoun": "ben",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/ben_öncülük_etmek_şartlı_kipi_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/ben_liderlik_etmek_şartlı_kipi_olumsuz.json"
     },
     {
       "tense": "şartlı_kipi",
@@ -1797,13 +1797,13 @@
       "tense": "şartlı_kipi",
       "pronoun": "onlar",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/onlar_öncülük_etmek_şartlı_kipi_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/onlar_liderlik_etmek_şartlı_kipi_olumsuz.json"
     },
     {
       "tense": "şartlı_kipi",
       "pronoun": "onlar",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/onlar_liderlik_etmek_şartlı_kipi_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/onlar_öncülük_etmek_şartlı_kipi_olumsuz.json"
     },
     {
       "tense": "şartlı_kipi",
@@ -1821,13 +1821,13 @@
       "tense": "şartlı_kipi",
       "pronoun": "siz",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/siz_öncülük_etmek_şartlı_kipi_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/siz_liderlik_etmek_şartlı_kipi_olumsuz.json"
     },
     {
       "tense": "şartlı_kipi",
       "pronoun": "siz",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/siz_liderlik_etmek_şartlı_kipi_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/siz_öncülük_etmek_şartlı_kipi_olumsuz.json"
     },
     {
       "tense": "şartlı_kipi",
@@ -1845,19 +1845,13 @@
       "tense": "şartlı_kipi",
       "pronoun": "biz",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/biz_liderlik_etmek_şartlı_kipi.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/biz_öncülük_etmek_şartlı_kipi.json"
     },
     {
       "tense": "şartlı_kipi",
       "pronoun": "biz",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/biz_öncülük_etmek_şartlı_kipi.json"
-    },
-    {
-      "tense": "şartlı_kipi",
-      "pronoun": "o",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/o_öncülük_etmek_şartlı_kipi.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/biz_liderlik_etmek_şartlı_kipi.json"
     },
     {
       "tense": "şartlı_kipi",
@@ -1867,9 +1861,9 @@
     },
     {
       "tense": "şartlı_kipi",
-      "pronoun": "onlar",
+      "pronoun": "o",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/onlar_liderlik_etmek_şartlı_kipi.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/o_öncülük_etmek_şartlı_kipi.json"
     },
     {
       "tense": "şartlı_kipi",
@@ -1879,9 +1873,9 @@
     },
     {
       "tense": "şartlı_kipi",
-      "pronoun": "sen",
+      "pronoun": "onlar",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/sen_liderlik_etmek_şartlı_kipi.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/onlar_liderlik_etmek_şartlı_kipi.json"
     },
     {
       "tense": "şartlı_kipi",
@@ -1891,15 +1885,21 @@
     },
     {
       "tense": "şartlı_kipi",
-      "pronoun": "siz",
+      "pronoun": "sen",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/siz_öncülük_etmek_şartlı_kipi.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/sen_liderlik_etmek_şartlı_kipi.json"
     },
     {
       "tense": "şartlı_kipi",
       "pronoun": "siz",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/lead/siz_liderlik_etmek_şartlı_kipi.json"
+    },
+    {
+      "tense": "şartlı_kipi",
+      "pronoun": "siz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/lead/siz_öncülük_etmek_şartlı_kipi.json"
     },
     {
       "tense": "şimdiki_zaman",
@@ -1917,13 +1917,13 @@
       "tense": "şimdiki_zaman",
       "pronoun": "biz",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/biz_liderlik_etmek_şimdiki_zaman_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/biz_öncülük_etmek_şimdiki_zaman_olumsuz.json"
     },
     {
       "tense": "şimdiki_zaman",
       "pronoun": "biz",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/biz_öncülük_etmek_şimdiki_zaman_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/biz_liderlik_etmek_şimdiki_zaman_olumsuz.json"
     },
     {
       "tense": "şimdiki_zaman",
@@ -1965,25 +1965,25 @@
       "tense": "şimdiki_zaman",
       "pronoun": "siz",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/siz_liderlik_etmek_şimdiki_zaman_olumsuz.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/siz_öncülük_etmek_şimdiki_zaman_olumsuz.json"
     },
     {
       "tense": "şimdiki_zaman",
       "pronoun": "siz",
       "polarity": "negative",
-      "file_path": "data/output/training_examples_for_verbs/lead/siz_öncülük_etmek_şimdiki_zaman_olumsuz.json"
-    },
-    {
-      "tense": "şimdiki_zaman",
-      "pronoun": "ben",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/ben_liderlik_etmek_şimdiki_zaman.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/siz_liderlik_etmek_şimdiki_zaman_olumsuz.json"
     },
     {
       "tense": "şimdiki_zaman",
       "pronoun": "ben",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/lead/ben_öncülük_etmek_şimdiki_zaman.json"
+    },
+    {
+      "tense": "şimdiki_zaman",
+      "pronoun": "ben",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/lead/ben_liderlik_etmek_şimdiki_zaman.json"
     },
     {
       "tense": "şimdiki_zaman",
@@ -2001,13 +2001,13 @@
       "tense": "şimdiki_zaman",
       "pronoun": "o",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/o_öncülük_etmek_şimdiki_zaman.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/o_liderlik_etmek_şimdiki_zaman.json"
     },
     {
       "tense": "şimdiki_zaman",
       "pronoun": "o",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/o_liderlik_etmek_şimdiki_zaman.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/o_öncülük_etmek_şimdiki_zaman.json"
     },
     {
       "tense": "şimdiki_zaman",
@@ -2025,25 +2025,25 @@
       "tense": "şimdiki_zaman",
       "pronoun": "sen",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/sen_liderlik_etmek_şimdiki_zaman.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/sen_öncülük_etmek_şimdiki_zaman.json"
     },
     {
       "tense": "şimdiki_zaman",
       "pronoun": "sen",
       "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/sen_öncülük_etmek_şimdiki_zaman.json"
-    },
-    {
-      "tense": "şimdiki_zaman",
-      "pronoun": "siz",
-      "polarity": "positive",
-      "file_path": "data/output/training_examples_for_verbs/lead/siz_liderlik_etmek_şimdiki_zaman.json"
+      "file_path": "data/output/training_examples_for_verbs/lead/sen_liderlik_etmek_şimdiki_zaman.json"
     },
     {
       "tense": "şimdiki_zaman",
       "pronoun": "siz",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/lead/siz_öncülük_etmek_şimdiki_zaman.json"
+    },
+    {
+      "tense": "şimdiki_zaman",
+      "pronoun": "siz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/lead/siz_liderlik_etmek_şimdiki_zaman.json"
     }
   ]
 }

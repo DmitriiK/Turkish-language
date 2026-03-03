@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "devam edebilirler",
     "root": "devam et",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They can continue their successful business partnership forever",
-  "russian_example_sentence": "Они могут продолжить свое успешное деловое партнерство навсегда",
-  "turkish_example_sentence": "Onlar başarılı ticari ortaklığını sonsuza devam edebilirler",
-  "turkish_example_sentence_with_blank": "Onlar başarılı ticari ortaklığını sonsuza ______"
+  "turkish_example_sentence": "Onlar soğuk kış aylarında sıcak yoga derslerine devam edebilirler",
+  "english_example_sentence": "They can continue to the warm yoga classes during the cold winter months",
+  "russian_example_sentence": "Они могут продолжать теплые занятия йогой в холодные зимние месяцы",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:58:11.016782+00:00",
+  "turkish_example_sentence_with_blank": "Onlar soğuk kış aylarında sıcak yoga derslerine ______"
 }

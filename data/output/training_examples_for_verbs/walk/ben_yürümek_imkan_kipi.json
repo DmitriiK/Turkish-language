@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "yürüyebilirim",
     "root": "yürü",
-    "tense_affix": "yebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "irim",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I can walk to the city.",
-  "russian_example_sentence": "Я могу дойти до города.",
-  "turkish_example_sentence": "Ben şehre yürüyebilirim.",
-  "turkish_example_sentence_with_blank": "Ben şehre ______."
+  "turkish_example_sentence": "Ben uzun yeşil parkta sakin yürüyebilirim",
+  "english_example_sentence": "I can walk calmly in the long green park",
+  "russian_example_sentence": "Я могу спокойно ходить в длинном зелёном парке",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:09:10.543019+00:00",
+  "turkish_example_sentence_with_blank": "Ben uzun yeşil parkta sakin ______"
 }

@@ -4,17 +4,20 @@
   "verb_russian": "останавливать",
   "verb_infinitive": "durmak",
   "turkish_verb": {
-    "verb_full": "durabiliyorsunuz",
+    "verb_full": "durabilirsiniz",
     "root": "dur",
-    "tense_affix": "abil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "iyor",
+    "personal_affix": "siniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can stop the old broken machine",
-  "russian_example_sentence": "Вы можете остановить старую сломанную машину",
-  "turkish_example_sentence": "Siz eski kırık makineyi durabiliyorsunuz",
-  "turkish_example_sentence_with_blank": "Siz eski kırık makineyi ______"
+  "turkish_example_sentence": "Siz yeşil park bankında manzara için durabilirsiniz",
+  "english_example_sentence": "You can stop at the green park bench for the view",
+  "russian_example_sentence": "Вы можете остановиться на зелёной парковой скамейке ради вида",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:03:25.820260+00:00",
+  "turkish_example_sentence_with_blank": "Siz yeşil park bankında manzara için ______"
 }

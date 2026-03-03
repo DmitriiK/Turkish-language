@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "açıklayabilirler",
     "root": "açıkla",
-    "tense_affix": "yabilir",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They can explain the process clearly.",
-  "russian_example_sentence": "Они могут ясно объяснить процесс.",
-  "turkish_example_sentence": "Süreci açıkça açıklayabilirler.",
-  "turkish_example_sentence_with_blank": "Süreci açıkça ______."
+  "turkish_example_sentence": "Onlar hava durumu değişikliklerini çiftçilere açıklayabilirler",
+  "english_example_sentence": "They can explain the weather changes to farmers",
+  "russian_example_sentence": "Они могут объяснить изменения погоды фермерам",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:26:01.358643+00:00",
+  "turkish_example_sentence_with_blank": "Onlar hava durumu değişikliklerini çiftçilere ______"
 }

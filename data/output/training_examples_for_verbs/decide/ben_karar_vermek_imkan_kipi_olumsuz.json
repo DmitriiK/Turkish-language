@@ -5,16 +5,19 @@
   "verb_infinitive": "karar vermek",
   "turkish_verb": {
     "verb_full": "karar veremem",
-    "root": "karar ver",
-    "tense_affix": "eme",
+    "root": "ver",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "em",
+    "personal_affix": "m",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "I cannot decide alone",
-  "russian_example_sentence": "Я не могу решить сам",
-  "turkish_example_sentence": "Ben yalnız karar veremem",
-  "turkish_example_sentence_with_blank": "Ben yalnız ______"
+  "turkish_example_sentence": "Ben bu zor matematik probleminde tek başıma karar veremem",
+  "english_example_sentence": "I cannot decide alone in this difficult math problem",
+  "russian_example_sentence": "Я не могу решить один в этой трудной математической задаче",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:24:05.640422+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu zor matematik probleminde tek başıma ______"
 }

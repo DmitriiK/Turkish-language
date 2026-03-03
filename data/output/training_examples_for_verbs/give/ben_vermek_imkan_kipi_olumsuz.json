@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "veremem",
     "root": "ver",
-    "tense_affix": "ebil",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "im",
+    "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "turkish_example_sentence": "Ben bu ağır metal kutuyu veremem.",
-  "english_example_sentence": "I cannot give this heavy metal box.",
-  "russian_example_sentence": "Я не могу дать эту тяжелую металлическую коробку.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T11:55:09.277653+00:00",
-  "turkish_example_sentence_with_blank": "Ben bu ağır metal kutuyu ______."
+  "turkish_example_sentence": "Ben ona pahalı altın yüzüğü veremem",
+  "english_example_sentence": "I cannot give him the expensive gold ring",
+  "russian_example_sentence": "Я не могу дать ему дорогое золотое кольцо",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:35:48.795925+00:00",
+  "turkish_example_sentence_with_blank": "Ben ona pahalı altın yüzüğü ______"
 }

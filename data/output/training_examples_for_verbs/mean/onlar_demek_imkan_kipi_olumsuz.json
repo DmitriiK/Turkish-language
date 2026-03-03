@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "diyemezler",
     "root": "de",
-    "tense_affix": "yeme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "zler",
+    "personal_affix": "ler",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "eme"
   },
-  "english_example_sentence": "They cannot mean that obscure phrase",
-  "russian_example_sentence": "Они не могут означать эту неясную фразу",
-  "turkish_example_sentence": "Onlar bu belirsiz cümlenin gerçek anlamını diyemezler",
-  "turkish_example_sentence_with_blank": "Onlar bu belirsiz cümlenin gerçek anlamını ______"
+  "turkish_example_sentence": "Onlar mahkemede gerçek olmayan tanıklıkları diyemezler",
+  "english_example_sentence": "They cannot say testimonies that are not real in the court",
+  "russian_example_sentence": "Они не могут говорить показания, которые не являются настоящими, в суде",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:42:46.189269+00:00",
+  "turkish_example_sentence_with_blank": "Onlar mahkemede gerçek olmayan tanıklıkları ______"
 }

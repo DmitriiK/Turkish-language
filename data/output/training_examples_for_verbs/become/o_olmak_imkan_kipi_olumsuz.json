@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "olamaz",
     "root": "ol",
-    "tense_affix": "eme",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "z",
+    "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": "ama"
   },
-  "english_example_sentence": "He cannot become a professional athlete now",
-  "russian_example_sentence": "Он не может стать профессиональным спортсменом сейчас",
-  "turkish_example_sentence": "O şimdi profesyonel bir sporcu olamaz",
-  "turkish_example_sentence_with_blank": "O şimdi profesyonel bir sporcu ______"
+  "turkish_example_sentence": "O tembel genç adam mutlu olamaz",
+  "english_example_sentence": "That lazy young man cannot become happy",
+  "russian_example_sentence": "Этот ленивый молодой человек не может стать счастливым",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:40:51.230757+00:00",
+  "turkish_example_sentence_with_blank": "O tembel genç adam mutlu ______"
 }

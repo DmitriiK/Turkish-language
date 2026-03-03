@@ -1,0 +1,23 @@
+{
+  "verb_rank": 8,
+  "verb_english": "know",
+  "verb_russian": "знать",
+  "verb_infinitive": "bilmek",
+  "turkish_verb": {
+    "verb_full": "bilmezken",
+    "root": "bil",
+    "modal_affix": null,
+    "tense_affix": "mezken",
+    "verb_tense": "ken_zarf_fiil",
+    "personal_pronoun": null,
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "mez"
+  },
+  "turkish_example_sentence": "Detayları bilmezken önemli bir karar vermek tehlikelidir.",
+  "english_example_sentence": "While not knowing the details, making an important decision is dangerous.",
+  "russian_example_sentence": "Не зная подробностей, принимать важное решение опасно.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2026-03-03T13:48:30.984533+00:00",
+  "turkish_example_sentence_with_blank": "Detayları ______ önemli bir karar vermek tehlikelidir."
+}

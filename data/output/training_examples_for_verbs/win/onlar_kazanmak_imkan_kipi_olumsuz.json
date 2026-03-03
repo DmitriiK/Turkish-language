@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "kazanamazlar",
     "root": "kazan",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "azlar",
+    "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "They can't win the final match.",
-  "russian_example_sentence": "Они не могут выиграть финальный матч.",
-  "turkish_example_sentence": "Onlar final maçını kazanamazlar.",
-  "turkish_example_sentence_with_blank": "Onlar final maçını ______."
+  "turkish_example_sentence": "Onlar soğuk kış olimpiyatlarını deneyimsiz kayakçılarla kazanamazlar",
+  "english_example_sentence": "They cannot win the cold winter olympics with inexperienced skiers",
+  "russian_example_sentence": "Они не могут выиграть холодные зимние олимпийские игры с неопытными лыжниками",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:09:51.169013+00:00",
+  "turkish_example_sentence_with_blank": "Onlar soğuk kış olimpiyatlarını deneyimsiz kayakçılarla ______"
 }

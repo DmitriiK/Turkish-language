@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "çalışamazlar",
     "root": "çalış",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "zlar",
+    "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "turkish_example_sentence": "Onlar sıcak yaz günlerinde klimasız sıkıcı depoda çalışamazlar",
-  "english_example_sentence": "They cannot work in the hot summer days in the boring warehouse without air conditioning",
-  "russian_example_sentence": "Они не могут работать в жаркие летние дни на скучном складе без кондиционера",
+  "turkish_example_sentence": "Onlar yorucu gece vardiyasında uzun saatler çalışamazlar",
+  "english_example_sentence": "They cannot work long hours during the exhausting night shift",
+  "russian_example_sentence": "Они не могут работать долгие часы во время изнурительной ночной смены",
   "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-16T09:22:07.425300+00:00",
-  "turkish_example_sentence_with_blank": "Onlar sıcak yaz günlerinde klimasız sıkıcı depoda ______"
+  "generated_at": "2026-03-03T08:37:07.187133+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yorucu gece vardiyasında uzun saatler ______"
 }

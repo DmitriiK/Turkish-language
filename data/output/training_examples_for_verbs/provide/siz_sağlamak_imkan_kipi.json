@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "sağlayabilirsiniz",
     "root": "sağla",
-    "tense_affix": "yabil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "irsiniz",
+    "personal_affix": "siniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can provide useful advice.",
-  "russian_example_sentence": "Вы можете предоставить полезный совет.",
-  "turkish_example_sentence": "Siz faydalı bir tavsiye sağlayabilirsiniz.",
-  "turkish_example_sentence_with_blank": "Siz faydalı bir tavsiye ______."
+  "turkish_example_sentence": "Siz çalışanlara modern ofis ekipmanlarını kolayca sağlayabilirsiniz",
+  "english_example_sentence": "You can easily provide employees modern office equipment",
+  "russian_example_sentence": "Вы можете легко предоставить сотрудникам современное офисное оборудование",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:53:44.595494+00:00",
+  "turkish_example_sentence_with_blank": "Siz çalışanlara modern ofis ekipmanlarını kolayca ______"
 }

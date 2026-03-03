@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "ödeyemem",
     "root": "öde",
-    "tense_affix": "yeme",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
-    "negative_affix": "yeme"
+    "negative_affix": null
   },
-  "english_example_sentence": "I cannot pay for this expensive dinner",
-  "russian_example_sentence": "Я не могу заплатить за этот дорогой ужин",
-  "turkish_example_sentence": "Ben bu pahalı akşam yemeğini ödeyemem",
-  "turkish_example_sentence_with_blank": "Ben bu pahalı akşam yemeğini ______"
+  "turkish_example_sentence": "Ben pahalı kira borcunu şimdi ödeyemem",
+  "english_example_sentence": "I cannot pay the expensive rent debt now",
+  "russian_example_sentence": "Я не могу заплатить дорогой долг за аренду сейчас",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:56:18.438585+00:00",
+  "turkish_example_sentence_with_blank": "Ben pahalı kira borcunu şimdi ______"
 }

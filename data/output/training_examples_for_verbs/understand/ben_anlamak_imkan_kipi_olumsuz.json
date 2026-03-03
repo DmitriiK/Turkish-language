@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "anlayamam",
     "root": "anla",
-    "tense_affix": "yabil",
+    "modal_affix": "ama",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "irim",
+    "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "I cannot understand the ancient Chinese philosophical texts",
-  "russian_example_sentence": "Я не могу понять древние китайские философские тексты",
-  "turkish_example_sentence": "Ben eski Çin felsefesi metinlerini anlayamam",
-  "turkish_example_sentence_with_blank": "Ben eski Çin felsefesi metinlerini ______"
+  "turkish_example_sentence": "Ben yabancı dilin zor kurallarını anlayamam",
+  "english_example_sentence": "I cannot understand the difficult rules of the foreign language",
+  "russian_example_sentence": "Я не могу понять трудные правила иностранного языка",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:01:27.326180+00:00",
+  "turkish_example_sentence_with_blank": "Ben yabancı dilin zor kurallarını ______"
 }

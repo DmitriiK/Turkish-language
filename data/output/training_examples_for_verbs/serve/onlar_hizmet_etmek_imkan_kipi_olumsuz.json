@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "hizmet edemezler",
     "root": "hizmet et",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "zler",
+    "personal_affix": "ler",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "They cannot serve spicy Indian dishes without special ingredients",
-  "russian_example_sentence": "Они не могут подавать острые индийские блюда без специальных ингредиентов",
-  "turkish_example_sentence": "Onlar özel malzemeler olmadan acı Hint yemeklerini hizmet edemezler",
-  "turkish_example_sentence_with_blank": "Onlar özel malzemeler olmadan acı Hint yemeklerini ______"
+  "turkish_example_sentence": "Onlar yabancı dil bilmeden uluslararası havalimanı oteline hizmet edemezler",
+  "english_example_sentence": "They cannot serve the international airport hotel without knowing foreign language",
+  "russian_example_sentence": "Они не могут служить отелю международного аэропорта, не зная иностранного языка",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:15:04.506666+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yabancı dil bilmeden uluslararası havalimanı oteline ______"
 }

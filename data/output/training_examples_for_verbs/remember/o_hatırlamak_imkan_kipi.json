@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "hatırlayabilir",
     "root": "hatırla",
-    "tense_affix": "yabilir",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He can easily remember faces",
-  "russian_example_sentence": "Он может легко вспомнить лица",
-  "turkish_example_sentence": "O yüzleri kolayca hatırlayabilir",
-  "turkish_example_sentence_with_blank": "O yüzleri kolayca ______"
+  "turkish_example_sentence": "O anneannesiyle geçirdiği yaz günlerini hatırlayabilir",
+  "english_example_sentence": "He/she can remember the summer days spent with grandmother",
+  "russian_example_sentence": "Он/она может помнить летние дни, проведенные с бабушкой",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:11:12.200165+00:00",
+  "turkish_example_sentence_with_blank": "O anneannesiyle geçirdiği yaz günlerini ______"
 }

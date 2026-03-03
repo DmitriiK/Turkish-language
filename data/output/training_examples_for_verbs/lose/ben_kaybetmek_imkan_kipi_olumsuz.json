@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "kaybedemem",
     "root": "kaybet",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "em",
+    "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "I cannot lose my wallet",
-  "russian_example_sentence": "Я не могу потерять свой кошелек",
-  "turkish_example_sentence": "Ben cüzdanımı kaybedemem",
-  "turkish_example_sentence_with_blank": "Ben cüzdanımı ______"
+  "turkish_example_sentence": "Ben değerli altın kolyemi kaybedemem",
+  "english_example_sentence": "I cannot lose my valuable gold necklace",
+  "russian_example_sentence": "Я не могу потерять моё ценное золотое ожерелье",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:55:40.038359+00:00",
+  "turkish_example_sentence_with_blank": "Ben değerli altın kolyemi ______"
 }

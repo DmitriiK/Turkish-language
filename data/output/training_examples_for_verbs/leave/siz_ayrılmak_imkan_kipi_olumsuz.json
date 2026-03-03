@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "ayrılamazsınız",
     "root": "ayrıl",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "zsınız",
+    "personal_affix": "sınız",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "You cannot leave the important event early today",
-  "russian_example_sentence": "Вы не можете уйти из важного события рано сегодня",
-  "turkish_example_sentence": "Siz önemli etkinlikten bugün erken ayrılamazsınız",
-  "turkish_example_sentence_with_blank": "Siz önemli etkinlikten bugün erken ______"
+  "turkish_example_sentence": "Siz eski tarihi müzeden rehber gelmeden ayrılamazsınız",
+  "english_example_sentence": "You cannot leave from the old historical museum before the guide comes",
+  "russian_example_sentence": "Вы не можете уйти из старого исторического музея до прихода гида",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:41:30.094045+00:00",
+  "turkish_example_sentence_with_blank": "Siz eski tarihi müzeden rehber gelmeden ______"
 }

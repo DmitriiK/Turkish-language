@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "koyamazsın",
     "root": "koy",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "zsın",
+    "personal_affix": "sın",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "You cannot put the hot dishes there",
-  "russian_example_sentence": "Ты не можешь положить горячие блюда туда",
-  "turkish_example_sentence": "Sen sıcak yemekleri orada koyamazsın",
-  "turkish_example_sentence_with_blank": "Sen sıcak yemekleri orada ______"
+  "turkish_example_sentence": "Sen kirli ayakkabıları temiz halının üstüne koyamazsın",
+  "english_example_sentence": "You cannot put the dirty shoes on the clean carpet",
+  "russian_example_sentence": "Ты не можешь поставить грязные туфли на чистый ковёр",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:42:08.093195+00:00",
+  "turkish_example_sentence_with_blank": "Sen kirli ayakkabıları temiz halının üstüne ______"
 }

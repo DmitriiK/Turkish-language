@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "görebilirsin",
     "root": "gör",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "irsin",
+    "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Sen pencereden şehrin parlak ışıklarını görebilirsin.",
-  "english_example_sentence": "You can see the city's bright lights from the window.",
-  "russian_example_sentence": "Ты можешь видеть яркие огни города из окна.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T12:45:24.011414+00:00",
-  "turkish_example_sentence_with_blank": "Sen pencereden şehrin parlak ışıklarını ______."
+  "turkish_example_sentence": "Sen pencereden yeşil bahçedeki renkli kuşları görebilirsin",
+  "english_example_sentence": "You can see the colorful birds in the green garden from the window",
+  "russian_example_sentence": "Ты можешь видеть разноцветных птиц в зелёном саду из окна",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:31:56.852316+00:00",
+  "turkish_example_sentence_with_blank": "Sen pencereden yeşil bahçedeki renkli kuşları ______"
 }

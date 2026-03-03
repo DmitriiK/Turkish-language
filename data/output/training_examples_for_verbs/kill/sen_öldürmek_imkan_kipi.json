@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "öldürebilirsin",
     "root": "öldür",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "irsin",
+    "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can kill the aggressive mosquito easily",
-  "russian_example_sentence": "Ты можешь убить агрессивного комара легко",
-  "turkish_example_sentence": "Sen saldırgan sivrisineği kolayca öldürebilirsin",
-  "turkish_example_sentence_with_blank": "Sen saldırgan sivrisineği kolayca ______"
+  "turkish_example_sentence": "Sen bahçedeki zararlı böcekleri kolayca öldürebilirsin",
+  "english_example_sentence": "You can easily kill the harmful insects in the garden",
+  "russian_example_sentence": "Ты можешь легко убить вредных насекомых в саду",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:20:17.946338+00:00",
+  "turkish_example_sentence_with_blank": "Sen bahçedeki zararlı böcekleri kolayca ______"
 }

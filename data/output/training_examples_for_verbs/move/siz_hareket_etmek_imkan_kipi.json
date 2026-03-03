@@ -4,17 +4,20 @@
   "verb_russian": "двигаться",
   "verb_infinitive": "hareket etmek",
   "turkish_verb": {
-    "verb_full": "hareket ettirebilirsiniz",
+    "verb_full": "hareket edebilirsiniz",
     "root": "hareket et",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "irsiniz",
+    "personal_affix": "siniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can move those beautiful paintings to the gallery",
-  "russian_example_sentence": "Вы можете передвинуть те прекрасные картины в галерею",
-  "turkish_example_sentence": "Siz o güzel tabloları galeriye hareket ettirebilirsiniz",
-  "turkish_example_sentence_with_blank": "Siz o güzel tabloları galeriye ______"
+  "turkish_example_sentence": "Siz modern tekerlekli sandalyenizle düz yolda hızlı hareket edebilirsiniz",
+  "english_example_sentence": "You can move fast on the flat road with your modern wheelchair",
+  "russian_example_sentence": "Вы можете двигаться быстро по ровной дороге с вашим современным инвалидным креслом",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:49:22.811510+00:00",
+  "turkish_example_sentence_with_blank": "Siz modern tekerlekli sandalyenizle düz yolda hızlı ______"
 }

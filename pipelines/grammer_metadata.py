@@ -63,8 +63,11 @@ class VerbTense(StrEnum):
     
     # Participial forms
     SıfatFiil = "sıfat_fiil"        # Yapan - doing/who does (Present Part.)
+    DikSıfatFiil = "dik_sıfat_fiil"  # Yaptığım - that I did (Past/Object Part.)
     ZarfFiil = "zarf_fiil"          # Yararak - by doing (Gerund)
     UlakFiil = "ulak_fiil"          # Yapıp - having done (Perfect Part.)
+    IncaZarfFiil = "inca_zarf_fiil"  # Yapınca - when/upon doing (Temporal Converb)
+    KenZarfFiil = "ken_zarf_fiil"    # Yaparken - while doing (Simultaneous Converb)
     
     # Temporal forms
     ZamanSıfatı = "zaman_sıfatı"    # Yaptığımda - when I do (Temporal Clause)
@@ -275,6 +278,18 @@ VERB_FORM_INFOS = [
         polarity=VerbPolarity.Negative
     ),
     VerbFormInfo(
+        verb_tense=VerbTense.DikSıfatFiil,
+        language_level=LanguageLevel.B1,
+        type_of_personal_pronoun=2,  # "Yaptığım" - uses possessive affix
+        polarity=VerbPolarity.Positive
+    ),
+    VerbFormInfo(
+        verb_tense=VerbTense.DikSıfatFiil,
+        language_level=LanguageLevel.B1,
+        type_of_personal_pronoun=2,  # "Yapmadığım" - negative past participle
+        polarity=VerbPolarity.Negative
+    ),
+    VerbFormInfo(
         verb_tense=VerbTense.ZarfFiil,
         language_level=LanguageLevel.B2,
         type_of_personal_pronoun=None,  # "Yaparak" - no personal affix
@@ -296,6 +311,30 @@ VERB_FORM_INFOS = [
         verb_tense=VerbTense.UlakFiil,
         language_level=LanguageLevel.B1,
         type_of_personal_pronoun=None,  # "Yapmayıp" - negative converb
+        polarity=VerbPolarity.Negative
+    ),
+    VerbFormInfo(
+        verb_tense=VerbTense.IncaZarfFiil,
+        language_level=LanguageLevel.B1,
+        type_of_personal_pronoun=None,  # "Yapınca" - no personal affix
+        polarity=VerbPolarity.Positive
+    ),
+    VerbFormInfo(
+        verb_tense=VerbTense.IncaZarfFiil,
+        language_level=LanguageLevel.B1,
+        type_of_personal_pronoun=None,  # "Yapmayınca" - negative temporal converb
+        polarity=VerbPolarity.Negative
+    ),
+    VerbFormInfo(
+        verb_tense=VerbTense.KenZarfFiil,
+        language_level=LanguageLevel.A2,
+        type_of_personal_pronoun=None,  # "Yaparken" - no personal affix
+        polarity=VerbPolarity.Positive
+    ),
+    VerbFormInfo(
+        verb_tense=VerbTense.KenZarfFiil,
+        language_level=LanguageLevel.A2,
+        type_of_personal_pronoun=None,  # "Yapmazken" - negative simultaneous converb
         polarity=VerbPolarity.Negative
     ),
     

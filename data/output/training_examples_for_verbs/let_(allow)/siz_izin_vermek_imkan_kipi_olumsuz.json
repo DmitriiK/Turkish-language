@@ -1,20 +1,23 @@
 {
   "verb_rank": 30,
-  "verb_english": "let (allow)",
+  "verb_english": "let",
   "verb_russian": "позволять",
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
     "verb_full": "izin veremezsiniz",
-    "root": "izin ver",
-    "tense_affix": "emez",
+    "root": "ver",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "siniz",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "You cannot let them off work early.",
-  "russian_example_sentence": "Вы не можете позволить им уйти с работы рано.",
-  "turkish_example_sentence": "Siz işten erken çıkmalarına izin veremezsiniz.",
-  "turkish_example_sentence_with_blank": "Siz işten erken çıkmalarına ______."
+  "turkish_example_sentence": "Siz çalışanlara ofiste yüksek sesle müzik dinlemelerine izin veremezsiniz",
+  "english_example_sentence": "You cannot let employees listen to loud music in the office",
+  "russian_example_sentence": "Вы не можете позволить сотрудникам слушать громкую музыку в офисе",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:44:05.342589+00:00",
+  "turkish_example_sentence_with_blank": "Siz çalışanlara ofiste yüksek sesle müzik dinlemelerine ______"
 }

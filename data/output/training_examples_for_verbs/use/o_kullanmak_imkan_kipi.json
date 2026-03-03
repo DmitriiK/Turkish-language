@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "kullanabilir",
     "root": "kullan",
-    "tense_affix": "abil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "ir",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "O yetenekli mimar bu modern tasarım yazılımını çok iyi kullanabilir.",
-  "english_example_sentence": "He can use this modern design software very well.",
-  "russian_example_sentence": "Он может очень хорошо использовать это современное программное обеспечение для проектирования.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T14:15:01.155710+00:00",
-  "turkish_example_sentence_with_blank": "O yetenekli mimar bu modern tasarım yazılımını çok iyi ______."
+  "turkish_example_sentence": "O büyük mutfak robotunu her sabah kullanabilir",
+  "english_example_sentence": "He/she can use the large kitchen robot every morning",
+  "russian_example_sentence": "Он/она может использовать большой кухонный комбайн каждое утро",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:34:31.716228+00:00",
+  "turkish_example_sentence_with_blank": "O büyük mutfak robotunu her sabah ______"
 }

@@ -1,0 +1,23 @@
+{
+  "verb_rank": 1,
+  "verb_english": "be",
+  "verb_russian": "быть",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olmadığı",
+    "root": "ol",
+    "modal_affix": null,
+    "tense_affix": "dığ",
+    "verb_tense": "dik_sıfat_fiil",
+    "personal_pronoun": "o",
+    "personal_affix": "ı",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "turkish_example_sentence": "Onun olmadığı etkinlik çok sessizdi.",
+  "english_example_sentence": "The event he/she wasn't at was very quiet.",
+  "russian_example_sentence": "Мероприятие, на котором его/ее не было, было очень тихим.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2026-03-03T13:41:07.568771+00:00",
+  "turkish_example_sentence_with_blank": "Onun ______ etkinlik çok sessizdi."
+}

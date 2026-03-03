@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "ölemezsin",
     "root": "öl",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "zsin",
+    "personal_affix": "sin",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "You cannot die from such a simple cold",
-  "russian_example_sentence": "Ты не можешь умереть от такой простой простуды",
-  "turkish_example_sentence": "Sen bu basit soğuk algınlığından ölemezsin",
-  "turkish_example_sentence_with_blank": "Sen bu basit soğuk algınlığından ______"
+  "turkish_example_sentence": "Sen modern tıbbi tedavi sayesinde önemli ameliyattan ölemezsin",
+  "english_example_sentence": "You cannot die from the important surgery thanks to modern medical treatment",
+  "russian_example_sentence": "Ты не можешь умереть от важной операции благодаря современному медицинскому лечению",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:15:48.360088+00:00",
+  "turkish_example_sentence_with_blank": "Sen modern tıbbi tedavi sayesinde önemli ameliyattan ______"
 }

@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "okuyamayız",
     "root": "oku",
-    "tense_affix": "yama",
+    "modal_affix": "ama",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yız",
     "polarity": "negative",
-    "negative_affix": "yama"
+    "negative_affix": "ama"
   },
-  "english_example_sentence": "We cannot read that ancient manuscript without expert help",
-  "russian_example_sentence": "Мы не можем читать этот древний манускрипт без помощи эксперта",
-  "turkish_example_sentence": "Biz o antik el yazmasını uzman yardımı olmadan okuyamayız",
-  "turkish_example_sentence_with_blank": "Biz o antik el yazmasını uzman yardımı olmadan ______"
+  "turkish_example_sentence": "Biz gürültülü sokakta yeni çocuk masalını okuyamayız",
+  "english_example_sentence": "We cannot read the new children's fairy tale on the noisy street",
+  "russian_example_sentence": "Мы не можем читать новую детскую сказку на шумной улице",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:05:19.864847+00:00",
+  "turkish_example_sentence_with_blank": "Biz gürültülü sokakta yeni çocuk masalını ______"
 }

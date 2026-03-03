@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "yürüyemeyiz",
     "root": "yürü",
-    "tense_affix": "yeme",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yiz",
     "polarity": "negative",
-    "negative_affix": "yeme"
+    "negative_affix": "eme"
   },
-  "english_example_sentence": "We cannot walk in the heavy rain.",
-  "russian_example_sentence": "Мы не можем идти под сильным дождём.",
-  "turkish_example_sentence": "Biz şiddetli yağmurda yürüyemeyiz.",
-  "turkish_example_sentence_with_blank": "Biz şiddetli yağmurda ______."
+  "turkish_example_sentence": "Biz yoğun trafikli otoyolda rahatça yürüyemeyiz",
+  "english_example_sentence": "We cannot walk comfortably on the highway with heavy traffic",
+  "russian_example_sentence": "Мы не можем комфортно ходить по автомагистрали с интенсивным движением",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:09:10.543019+00:00",
+  "turkish_example_sentence_with_blank": "Biz yoğun trafikli otoyolda rahatça ______"
 }

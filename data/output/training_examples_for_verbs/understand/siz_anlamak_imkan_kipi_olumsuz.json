@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "anlayamazsınız",
     "root": "anla",
-    "tense_affix": "yabil",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "irsiniz",
+    "personal_affix": "sınız",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "You cannot understand the abstract modern art installation",
-  "russian_example_sentence": "Вы не можете понять абстрактную современную художественную инсталляцию",
-  "turkish_example_sentence": "Siz soyut modern sanat kurulumunu anlayamazsınız",
-  "turkish_example_sentence_with_blank": "Siz soyut modern sanat kurulumunu ______"
+  "turkish_example_sentence": "Siz teknik mühendislik çizimlerinin detaylı şemasını anlayamazsınız",
+  "english_example_sentence": "You cannot understand the detailed diagram of technical engineering drawings",
+  "russian_example_sentence": "Вы не можете понять детальную схему технических инженерных чертежей",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:01:27.326180+00:00",
+  "turkish_example_sentence_with_blank": "Siz teknik mühendislik çizimlerinin detaylı şemasını ______"
 }

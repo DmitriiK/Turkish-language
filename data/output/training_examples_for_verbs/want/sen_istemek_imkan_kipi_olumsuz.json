@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "isteyemezsin",
     "root": "iste",
-    "tense_affix": "ye",
+    "modal_affix": "yeme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "zsin",
+    "personal_affix": "sin",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "yeme"
   },
-  "turkish_example_sentence": "Sen bu eski ve kırık oyuncağı hiç isteyemezsin.",
-  "english_example_sentence": "You cannot want this old and broken toy at all.",
-  "russian_example_sentence": "Ты не можешь хотеть эту старую и сломанную игрушку вообще.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T11:49:09.633607+00:00",
-  "turkish_example_sentence_with_blank": "Sen bu eski ve kırık oyuncağı hiç ______."
+  "turkish_example_sentence": "Sen kötü sonuç ve başarısız sınav isteyemezsin",
+  "english_example_sentence": "You cannot want bad result and failed exam",
+  "russian_example_sentence": "Ты не можешь хотеть плохой результат и проваленный экзамен",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:33:10.979460+00:00",
+  "turkish_example_sentence_with_blank": "Sen kötü sonuç ve başarısız sınav ______"
 }

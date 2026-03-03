@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "alabiliriz",
     "root": "al",
-    "tense_affix": "abil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iriz",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We can receive the tickets at lunch",
-  "russian_example_sentence": "Мы можем получить билеты за обедом",
-  "turkish_example_sentence": "Biz öğle yemeğinde biletleri alabiliriz",
-  "turkish_example_sentence_with_blank": "Biz öğle yemeğinde biletleri ______"
+  "turkish_example_sentence": "Biz cumartesi günü modern siyah bilgisayarı alabiliriz",
+  "english_example_sentence": "We can get the modern black computer on Saturday",
+  "russian_example_sentence": "Мы можем получить современный чёрный компьютер в субботу",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:28:51.955371+00:00",
+  "turkish_example_sentence_with_blank": "Biz cumartesi günü modern siyah bilgisayarı ______"
 }

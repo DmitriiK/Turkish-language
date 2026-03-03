@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "oynayabilirsin",
     "root": "oyna",
-    "tense_affix": "yabilir",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Sen bu büyük bahçede serbestçe oynayabilirsin.",
-  "english_example_sentence": "You can play freely in this large garden.",
-  "russian_example_sentence": "Ты можешь свободно играть в этом большом саду.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-17T14:45:17.691969+00:00",
-  "turkish_example_sentence_with_blank": "Sen bu büyük bahçede serbestçe ______."
+  "turkish_example_sentence": "Sen yeni beyaz piyanoda güzel müzik oynayabilirsin",
+  "english_example_sentence": "You can play beautiful music on the new white piano",
+  "russian_example_sentence": "Ты можешь играть красивую музыку на новом белом пианино",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:48:01.538883+00:00",
+  "turkish_example_sentence_with_blank": "Sen yeni beyaz piyanoda güzel müzik ______"
 }

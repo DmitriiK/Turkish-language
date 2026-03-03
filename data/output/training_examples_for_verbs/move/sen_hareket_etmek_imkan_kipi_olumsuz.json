@@ -4,17 +4,20 @@
   "verb_russian": "двигаться",
   "verb_infinitive": "hareket etmek",
   "turkish_verb": {
-    "verb_full": "hareket ettiremezsin",
+    "verb_full": "hareket edemezsin",
     "root": "hareket et",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "zsin",
+    "personal_affix": "sin",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "You cannot move that massive stone alone here",
-  "russian_example_sentence": "Ты не можешь передвинуть этот огромный камень один здесь",
-  "turkish_example_sentence": "Sen burada o devasa taşı tek başına hareket ettiremezsin",
-  "turkish_example_sentence_with_blank": "Sen burada o devasa taşı tek başına ______"
+  "turkish_example_sentence": "Sen kırık ayağınla futbol sahasında kolay hareket edemezsin",
+  "english_example_sentence": "You cannot move easily on the football field with your broken leg",
+  "russian_example_sentence": "Ты не можешь двигаться легко на футбольном поле со своей сломанной ногой",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:49:22.811510+00:00",
+  "turkish_example_sentence_with_blank": "Sen kırık ayağınla futbol sahasında kolay ______"
 }

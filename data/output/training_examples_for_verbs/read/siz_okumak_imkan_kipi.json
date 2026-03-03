@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "okuyabilirsiniz",
     "root": "oku",
-    "tense_affix": "yabil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "irsiniz",
+    "personal_affix": "siniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can read that exciting adventure story quickly",
-  "russian_example_sentence": "Вы можете быстро читать ту захватывающую приключенческую историю",
-  "turkish_example_sentence": "Siz o heyecan verici macera hikayesini hızlı bir şekilde okuyabilirsiniz",
-  "turkish_example_sentence_with_blank": "Siz o heyecan verici macera hikayesini hızlı bir şekilde ______"
+  "turkish_example_sentence": "Siz ünlü yazarın yeni hikayesini rahatça okuyabilirsiniz",
+  "english_example_sentence": "You can read the famous writer's new story comfortably",
+  "russian_example_sentence": "Вы можете удобно читать новый рассказ знаменитого писателя",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:05:19.864847+00:00",
+  "turkish_example_sentence_with_blank": "Siz ünlü yazarın yeni hikayesini rahatça ______"
 }

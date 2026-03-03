@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "öğrenebilirler",
     "root": "öğren",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They can learn modern digital design techniques",
-  "russian_example_sentence": "Они могут учить современные методы цифрового дизайна",
-  "turkish_example_sentence": "Onlar modern dijital tasarım tekniklerini öğrenebilirler",
-  "turkish_example_sentence_with_blank": "Onlar modern dijital tasarım tekniklerini ______"
+  "turkish_example_sentence": "Onlar sıcak Afrika ikliminde yaşamayı zamanla öğrenebilirler",
+  "english_example_sentence": "They can learn to live in hot African climate over time",
+  "russian_example_sentence": "Они могут учить жить в жарком африканском климате со временем",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:59:31.146641+00:00",
+  "turkish_example_sentence_with_blank": "Onlar sıcak Afrika ikliminde yaşamayı zamanla ______"
 }

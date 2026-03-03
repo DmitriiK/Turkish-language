@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "öldüremezsiniz",
     "root": "öldür",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "zsiniz",
+    "personal_affix": "siniz",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "You cannot kill the sacred white dove",
-  "russian_example_sentence": "Вы не можете убить священного белого голубя",
-  "turkish_example_sentence": "Siz kutsal beyaz güvercini öldüremezsiniz",
-  "turkish_example_sentence_with_blank": "Siz kutsal beyaz güvercini ______"
+  "turkish_example_sentence": "Siz korunan yeşil kaplumbağaları yasayla öldüremezsiniz",
+  "english_example_sentence": "You cannot kill the protected green turtles by law",
+  "russian_example_sentence": "Вы не можете убить защищенных зеленых черепах по закону",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:20:17.946338+00:00",
+  "turkish_example_sentence_with_blank": "Siz korunan yeşil kaplumbağaları yasayla ______"
 }

@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "koyamam",
     "root": "koy",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "I cannot put the fragile vase there",
-  "russian_example_sentence": "Я не могу положить хрупкую вазу туда",
-  "turkish_example_sentence": "Ben kırılgan vazoyu oraya koyamam",
-  "turkish_example_sentence_with_blank": "Ben kırılgan vazoyu oraya ______"
+  "turkish_example_sentence": "Ben sıcak tencereyi plastik masaya koyamam",
+  "english_example_sentence": "I cannot put the hot pot on the plastic table",
+  "russian_example_sentence": "Я не могу поставить горячую кастрюлю на пластиковый стол",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:42:08.093195+00:00",
+  "turkish_example_sentence_with_blank": "Ben sıcak tencereyi plastik masaya ______"
 }

@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "devam edemezsin",
     "root": "devam et",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "zsin",
+    "personal_affix": "sin",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "You cannot continue this long journey alone",
-  "russian_example_sentence": "Ты не можешь продолжить это долгое путешествие один",
-  "turkish_example_sentence": "Sen bu uzun yolculuğu yalnız devam edemezsin",
-  "turkish_example_sentence_with_blank": "Sen bu uzun yolculuğu yalnız ______"
+  "turkish_example_sentence": "Sen hasta olduğun için sıkıcı toplantıya devam edemezsin",
+  "english_example_sentence": "You cannot continue to the boring meeting because you are sick",
+  "russian_example_sentence": "Ты не можешь продолжать скучное собрание, потому что ты болен",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:58:11.016782+00:00",
+  "turkish_example_sentence_with_blank": "Sen hasta olduğun için sıkıcı toplantıya ______"
 }

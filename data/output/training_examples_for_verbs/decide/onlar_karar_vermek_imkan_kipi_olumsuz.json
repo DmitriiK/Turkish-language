@@ -5,16 +5,19 @@
   "verb_infinitive": "karar vermek",
   "turkish_verb": {
     "verb_full": "karar veremezler",
-    "root": "karar ver",
-    "tense_affix": "eme",
+    "root": "ver",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "mezler",
+    "personal_affix": "ler",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "They cannot decide properly",
-  "russian_example_sentence": "Они не могут решить правильно",
-  "turkish_example_sentence": "Onlar doğru düzgün karar veremezler",
-  "turkish_example_sentence_with_blank": "Onlar doğru düzgün ______"
+  "turkish_example_sentence": "Onlar karanlık akşam saatlerinde uzak köy yolunda karar veremezler",
+  "english_example_sentence": "They cannot decide on the distant village road in the dark evening hours",
+  "russian_example_sentence": "Они не могут решить на далёкой деревенской дороге в тёмные вечерние часы",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:24:05.640422+00:00",
+  "turkish_example_sentence_with_blank": "Onlar karanlık akşam saatlerinde uzak köy yolunda ______"
 }

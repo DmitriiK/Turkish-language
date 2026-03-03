@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "ihtiyaç duyamazlar",
     "root": "duy",
-    "tense_affix": "",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
-    "negative_affix": "yama"
+    "negative_affix": "ama"
   },
-  "turkish_example_sentence": "Onlar bu kötü durumda yabancı birinin yardımına ihtiyaç duyamazlar.",
-  "english_example_sentence": "They cannot need a stranger's help in this bad situation.",
-  "russian_example_sentence": "Им не может понадобиться помощь незнакомца в этой плохой ситуации.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-12T08:32:11.346954+00:00",
-  "turkish_example_sentence_with_blank": "Onlar bu kötü durumda yabancı birinin yardımına ______."
+  "turkish_example_sentence": "Onlar yüksek şeker oranına ihtiyaç duyamazlar",
+  "english_example_sentence": "They cannot need a high sugar level",
+  "russian_example_sentence": "Они не могут нуждаться в высоком уровне сахара",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:39:35.614469+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yüksek şeker oranına ______"
 }

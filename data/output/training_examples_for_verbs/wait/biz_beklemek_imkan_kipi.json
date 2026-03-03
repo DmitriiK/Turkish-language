@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "bekleyebiliriz",
     "root": "bekle",
-    "tense_affix": "yebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iriz",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We can wait for the exciting concert announcement tomorrow",
-  "russian_example_sentence": "Мы можем ждать объявление о захватывающем концерте завтра",
-  "turkish_example_sentence": "Biz yarın heyecan verici konser duyurusunu huzurla bekleyebiliriz",
-  "turkish_example_sentence_with_blank": "Biz yarın heyecan verici konser duyurusunu huzurla ______"
+  "turkish_example_sentence": "Biz büyük alışveriş merkezinin giriş kapısında bekleyebiliriz",
+  "english_example_sentence": "We can wait at the entrance door of the big shopping center",
+  "russian_example_sentence": "Мы можем ждать у входной двери большого торгового центра",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:14:24.136769+00:00",
+  "turkish_example_sentence_with_blank": "Biz büyük alışveriş merkezinin giriş kapısında ______"
 }

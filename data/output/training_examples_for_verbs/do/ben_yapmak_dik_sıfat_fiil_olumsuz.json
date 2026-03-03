@@ -1,0 +1,23 @@
+{
+  "verb_rank": 3,
+  "verb_english": "do",
+  "verb_russian": "делать",
+  "verb_infinitive": "yapmak",
+  "turkish_verb": {
+    "verb_full": "yapmadığım",
+    "root": "yap",
+    "modal_affix": null,
+    "tense_affix": "dık",
+    "verb_tense": "dik_sıfat_fiil",
+    "personal_pronoun": "ben",
+    "personal_affix": "ım",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "turkish_example_sentence": "Benim yapmadığım ödev sorun yarattı.",
+  "english_example_sentence": "The homework I didn't do caused a problem.",
+  "russian_example_sentence": "Домашнее задание, которое я не сделал, создало проблему.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2026-03-03T13:43:44.601444+00:00",
+  "turkish_example_sentence_with_blank": "Benim ______ ödev sorun yarattı."
+}

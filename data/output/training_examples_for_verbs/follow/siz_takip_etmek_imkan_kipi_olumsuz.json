@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "takip edemezsiniz",
     "root": "takip et",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "zsiniz",
+    "personal_affix": "siniz",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "You cannot follow the technical sports commentary without experience",
-  "russian_example_sentence": "Вы не можете следить за техническим спортивным комментарием без опыта",
-  "turkish_example_sentence": "Siz teknik spor yorumunu deneyim olmadan takip edemezsiniz",
-  "turkish_example_sentence_with_blank": "Siz teknik spor yorumunu deneyim olmadan ______"
+  "turkish_example_sentence": "Siz yabancı televizyon dizisini altyazı olmadan takip edemezsiniz",
+  "english_example_sentence": "You cannot follow the foreign television series without subtitles",
+  "russian_example_sentence": "Вы не можете следить за иностранным телесериалом без субтитров",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:02:47.363502+00:00",
+  "turkish_example_sentence_with_blank": "Siz yabancı televizyon dizisini altyazı olmadan ______"
 }

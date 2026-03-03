@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "öğrenemezsiniz",
     "root": "öğren",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "zsiniz",
+    "personal_affix": "siniz",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "You cannot learn rare medieval Latin manuscripts easily",
-  "russian_example_sentence": "Вы не можете легко учить редкие средневековые латинские рукописи",
-  "turkish_example_sentence": "Siz nadir ortaçağ Latince el yazmalarını kolayca öğrenemezsiniz",
-  "turkish_example_sentence_with_blank": "Siz nadir ortaçağ Latince el yazmalarını kolayca ______"
+  "turkish_example_sentence": "Siz ileri seviye Arapça grameri yarına kadar öğrenemezsiniz",
+  "english_example_sentence": "You cannot learn advanced level Arabic grammar by tomorrow",
+  "russian_example_sentence": "Вы не можете учить продвинутую арабскую грамматику до завтра",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:59:31.146641+00:00",
+  "turkish_example_sentence_with_blank": "Siz ileri seviye Arapça grameri yarına kadar ______"
 }

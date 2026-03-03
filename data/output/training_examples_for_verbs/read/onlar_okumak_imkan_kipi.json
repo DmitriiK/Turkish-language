@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "okuyabilirler",
     "root": "oku",
-    "tense_affix": "yabil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They can read those colorful children's books enthusiastically",
-  "russian_example_sentence": "Они могут с энтузиазмом читать те красочные детские книги",
-  "turkish_example_sentence": "Onlar o renkli çocuk kitaplarını coşkuyla okuyabilirler",
-  "turkish_example_sentence_with_blank": "Onlar o renkli çocuk kitaplarını coşkuyla ______"
+  "turkish_example_sentence": "Onlar modern kütüphanede renkli çizgi romanları okuyabilirler",
+  "english_example_sentence": "They can read colorful comic books in the modern library",
+  "russian_example_sentence": "Они могут читать цветные комиксы в современной библиотеке",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:05:19.864847+00:00",
+  "turkish_example_sentence_with_blank": "Onlar modern kütüphanede renkli çizgi romanları ______"
 }

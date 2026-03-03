@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "bekleyemem",
     "root": "bekle",
-    "tense_affix": "yeme",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "eme"
   },
-  "english_example_sentence": "I cannot expect perfection from students",
-  "russian_example_sentence": "Я не могу ожидать совершенства от студентов",
-  "turkish_example_sentence": "Ben öğrencilerden mükemmelliği bekleyemem",
-  "turkish_example_sentence_with_blank": "Ben öğrencilerden mükemmelliği ______"
+  "turkish_example_sentence": "Ben uzun havaalanı kuyruğunda daha fazla bekleyemem",
+  "english_example_sentence": "I cannot wait any longer in the long airport queue",
+  "russian_example_sentence": "Я не могу ждать дольше в длинной очереди в аэропорту",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:17:05.213645+00:00",
+  "turkish_example_sentence_with_blank": "Ben uzun havaalanı kuyruğunda daha fazla ______"
 }

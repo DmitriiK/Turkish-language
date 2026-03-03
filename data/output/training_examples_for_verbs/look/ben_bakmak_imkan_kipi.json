@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "bakabilirim",
     "root": "bak",
-    "tense_affix": "abil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "irim",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I can look at the beautiful sunset today",
-  "russian_example_sentence": "Я могу смотреть на красивый закат сегодня",
-  "turkish_example_sentence": "Ben bugün güzel gün batımına bakabilirim",
-  "turkish_example_sentence_with_blank": "Ben bugün güzel gün batımına ______"
+  "turkish_example_sentence": "Ben yarın sabah erken saatlerde pencereden dışarı bakabilirim",
+  "english_example_sentence": "I can look outside from the window early tomorrow morning",
+  "russian_example_sentence": "Я могу смотреть из окна наружу завтра рано утром",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:33:54.723802+00:00",
+  "turkish_example_sentence_with_blank": "Ben yarın sabah erken saatlerde pencereden dışarı ______"
 }

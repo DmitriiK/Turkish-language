@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "okuyabilirsin",
     "root": "oku",
-    "tense_affix": "yabil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "irsin",
+    "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can read that old newspaper article easily",
-  "russian_example_sentence": "Ты можешь легко читать ту старую газетную статью",
-  "turkish_example_sentence": "Sen o eski gazete makalesini kolayca okuyabilirsin",
-  "turkish_example_sentence_with_blank": "Sen o eski gazete makalesini kolayca ______"
+  "turkish_example_sentence": "Sen ilginç bilim dergisini sessizce okuyabilirsin",
+  "english_example_sentence": "You can read the interesting science magazine quietly",
+  "russian_example_sentence": "Ты можешь тихо читать интересный научный журнал",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:05:19.864847+00:00",
+  "turkish_example_sentence_with_blank": "Sen ilginç bilim dergisini sessizce ______"
 }

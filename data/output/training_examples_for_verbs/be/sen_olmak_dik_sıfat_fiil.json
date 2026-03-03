@@ -1,0 +1,23 @@
+{
+  "verb_rank": 1,
+  "verb_english": "be",
+  "verb_russian": "быть",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olduğun",
+    "root": "ol",
+    "modal_affix": null,
+    "tense_affix": "duğ",
+    "verb_tense": "dik_sıfat_fiil",
+    "personal_pronoun": "sen",
+    "personal_affix": "un",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "turkish_example_sentence": "Senin olduğun masa her zaman neşeliydi.",
+  "english_example_sentence": "The table you were at was always cheerful.",
+  "russian_example_sentence": "Стол, за которым ты был, всегда был веселым.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2026-03-03T13:41:07.568771+00:00",
+  "turkish_example_sentence_with_blank": "Senin ______ masa her zaman neşeliydi."
+}

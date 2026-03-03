@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "olabilirsiniz",
     "root": "ol",
-    "tense_affix": "ebil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "irsiniz",
+    "personal_affix": "siniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can become excellent musicians with practice",
-  "russian_example_sentence": "Вы можете стать отличными музыкантами с практикой",
-  "turkish_example_sentence": "Siz pratik yaparak mükemmel müzisyenler olabilirsiniz",
-  "turkish_example_sentence_with_blank": "Siz pratik yaparak mükemmel müzisyenler ______"
+  "turkish_example_sentence": "Siz sabırlı çalışmayla iyi öğretmen olabilirsiniz",
+  "english_example_sentence": "You can become a good teacher with patient work",
+  "russian_example_sentence": "Вы можете стать хорошим учителем с терпеливой работой",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:40:51.230757+00:00",
+  "turkish_example_sentence_with_blank": "Siz sabırlı çalışmayla iyi öğretmen ______"
 }

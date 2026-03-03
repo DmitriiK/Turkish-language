@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "görünebilir",
     "root": "görün",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "ir",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "O uzak dağ zirvesinden küçük bir nokta görünebilir",
-  "english_example_sentence": "He can seem like a small dot from the distant mountain peak",
-  "russian_example_sentence": "Он может казаться маленькой точкой с далекой горной вершины",
+  "turkish_example_sentence": "O siyah gözlükle gizemli görünebilir",
+  "english_example_sentence": "He can seem mysterious in black glasses",
+  "russian_example_sentence": "Он может казаться загадочным в черных очках",
   "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-17T09:58:32.147640+00:00",
-  "turkish_example_sentence_with_blank": "O uzak dağ zirvesinden küçük bir nokta ______"
+  "generated_at": "2026-03-03T08:45:18.295825+00:00",
+  "turkish_example_sentence_with_blank": "O siyah gözlükle gizemli ______"
 }

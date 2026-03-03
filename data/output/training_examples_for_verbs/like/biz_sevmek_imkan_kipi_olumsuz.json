@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "sevemeyiz",
     "root": "sev",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yiz",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "We cannot like that spicy hot food",
-  "russian_example_sentence": "Мы не можем нравиться эта острая горячая еда",
-  "turkish_example_sentence": "Biz o acı sıcak yemeği sevemeyiz",
-  "turkish_example_sentence_with_blank": "Biz o acı sıcak yemeği ______"
+  "turkish_example_sentence": "Biz kirli şehir havasını hiç sevemeyiz",
+  "english_example_sentence": "We cannot like the dirty city air at all",
+  "russian_example_sentence": "Мы совсем не можем любить грязный городской воздух",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:49:58.275818+00:00",
+  "turkish_example_sentence_with_blank": "Biz kirli şehir havasını hiç ______"
 }

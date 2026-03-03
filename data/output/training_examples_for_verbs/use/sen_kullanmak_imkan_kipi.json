@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "kullanabilirsin",
     "root": "kullan",
-    "tense_affix": "abil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "irsin",
+    "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Sen bu güzel kütüphanedeki tüm kaynakları kullanabilirsin.",
-  "english_example_sentence": "You can use all the resources in this beautiful library.",
-  "russian_example_sentence": "Ты можешь использовать все ресурсы в этой красивой библиотеке.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T14:15:01.155710+00:00",
-  "turkish_example_sentence_with_blank": "Sen bu güzel kütüphanedeki tüm kaynakları ______."
+  "turkish_example_sentence": "Sen kırmızı bisikleti parkta rahatça kullanabilirsin",
+  "english_example_sentence": "You can use the red bicycle in the park comfortably",
+  "russian_example_sentence": "Ты можешь удобно использовать красный велосипед в парке",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:34:31.716228+00:00",
+  "turkish_example_sentence_with_blank": "Sen kırmızı bisikleti parkta rahatça ______"
 }

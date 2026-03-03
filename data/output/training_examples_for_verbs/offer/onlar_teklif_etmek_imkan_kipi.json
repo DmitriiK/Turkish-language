@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "teklif edebilirler",
     "root": "teklif et",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They can offer good advice.",
-  "russian_example_sentence": "Они могут предложить хороший совет.",
-  "turkish_example_sentence": "Onlar iyi bir tavsiye teklif edebilirler.",
-  "turkish_example_sentence_with_blank": "Onlar iyi bir tavsiye ______."
+  "turkish_example_sentence": "Onlar arkadaşlarına eğlenceli hafta sonu planları teklif edebilirler",
+  "english_example_sentence": "They can offer fun weekend plans to their friends",
+  "russian_example_sentence": "Они могут предложить веселые планы на выходные своим друзьям",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:10:29.027751+00:00",
+  "turkish_example_sentence_with_blank": "Onlar arkadaşlarına eğlenceli hafta sonu planları ______"
 }

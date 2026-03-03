@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "kesebilirim",
     "root": "kes",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "irim",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I can cut fresh red tomatoes carefully",
-  "russian_example_sentence": "Я могу резать свежие красные помидоры осторожно",
-  "turkish_example_sentence": "Ben taze kırmızı domates parçalarını dikkatle kesebilirim",
-  "turkish_example_sentence_with_blank": "Ben taze kırmızı domates parçalarını dikkatle ______"
+  "turkish_example_sentence": "Ben taze yeşil salatalığı keskin bıçakla kesebilirim",
+  "english_example_sentence": "I can cut the fresh green cucumber with a sharp knife",
+  "russian_example_sentence": "Я могу резать свежий зелёный огурец острым ножом",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:19:39.400537+00:00",
+  "turkish_example_sentence_with_blank": "Ben taze yeşil salatalığı keskin bıçakla ______"
 }

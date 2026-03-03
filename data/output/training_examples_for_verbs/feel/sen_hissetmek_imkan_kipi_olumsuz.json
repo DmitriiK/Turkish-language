@@ -4,19 +4,20 @@
   "verb_russian": "чувствовать",
   "verb_infinitive": "hissetmek",
   "turkish_verb": {
-    "verb_full": "hissedemesin",
+    "verb_full": "hissedemezsin",
     "root": "hisset",
-    "tense_affix": "",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "sin",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "turkish_example_sentence": "Sen bu garip hissi bacaklarında hissedemesin.",
-  "english_example_sentence": "You cannot feel this strange sensation in your legs.",
-  "russian_example_sentence": "Ты не можешь чувствовать это странное ощущение в своих ногах.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-12T13:12:20.306171+00:00",
-  "turkish_example_sentence_with_blank": "Sen bu garip hissi bacaklarında ______."
+  "turkish_example_sentence": "Sen kalın kış eldivenleriyle ince kumaş dokusunu hissedemezsin",
+  "english_example_sentence": "You cannot feel the thin fabric texture with thick winter gloves",
+  "russian_example_sentence": "Ты не можешь чувствовать текстуру тонкой ткани в толстых зимних перчатках",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:40:17.498216+00:00",
+  "turkish_example_sentence_with_blank": "Sen kalın kış eldivenleriyle ince kumaş dokusunu ______"
 }

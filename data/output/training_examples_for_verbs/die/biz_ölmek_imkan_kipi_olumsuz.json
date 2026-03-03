@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "ölemeyiz",
     "root": "öl",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yiz",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "We cannot die from such weak poison",
-  "russian_example_sentence": "Мы не можем умереть от такого слабого яда",
-  "turkish_example_sentence": "Biz bu zayıf zehirden ölemeyiz",
-  "turkish_example_sentence_with_blank": "Biz bu zayıf zehirden ______"
+  "turkish_example_sentence": "Biz deneyimli dağcılar küçük kar fırtınasından ölemeyiz",
+  "english_example_sentence": "We experienced climbers cannot die from small snow storm",
+  "russian_example_sentence": "Мы опытные альпинисты не можем умереть от маленькой снежной бури",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:15:48.360088+00:00",
+  "turkish_example_sentence_with_blank": "Biz deneyimli dağcılar küçük kar fırtınasından ______"
 }

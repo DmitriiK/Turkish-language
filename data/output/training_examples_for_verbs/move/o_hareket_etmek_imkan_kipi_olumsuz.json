@@ -4,17 +4,20 @@
   "verb_russian": "двигаться",
   "verb_infinitive": "hareket etmek",
   "turkish_verb": {
-    "verb_full": "hareket ettiremez",
+    "verb_full": "hareket edemez",
     "root": "hareket et",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "z",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "She cannot move her fragile antique vase carefully",
-  "russian_example_sentence": "Она не может передвинуть свою хрупкую антикварную вазу осторожно",
-  "turkish_example_sentence": "O kırılgan antika vazoyu dikkatle hareket ettiremez",
-  "turkish_example_sentence_with_blank": "O kırılgan antika vazoyu dikkatle ______"
+  "turkish_example_sentence": "O yaşlı robot karanlık mağarada güvenli hareket edemez",
+  "english_example_sentence": "That old robot cannot move safely in the dark cave",
+  "russian_example_sentence": "Тот старый робот не может двигаться безопасно в темной пещере",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:49:22.811510+00:00",
+  "turkish_example_sentence_with_blank": "O yaşlı robot karanlık mağarada güvenli ______"
 }

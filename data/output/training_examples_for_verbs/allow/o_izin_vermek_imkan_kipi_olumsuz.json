@@ -5,16 +5,19 @@
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
     "verb_full": "izin veremez",
-    "root": "izin ver",
-    "tense_affix": "eme",
+    "root": "ver",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "z",
+    "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "The security guard cannot allow unauthorized people into the restricted area",
-  "russian_example_sentence": "Охранник не может позволить неавторизованным людям входить в закрытую зону",
-  "turkish_example_sentence": "Güvenlik görevlisi yetkisiz kişileri kısıtlı alana izin veremez",
-  "turkish_example_sentence_with_blank": "Güvenlik görevlisi yetkisiz kişileri kısıtlı alana ______"
+  "turkish_example_sentence": "O sıkı güvenlik görevlisi tanımadığı ziyaretçilere bina içine girmelerine izin veremez",
+  "english_example_sentence": "That strict security guard cannot allow unknown visitors to enter inside the building",
+  "russian_example_sentence": "Тот строгий охранник не может разрешить незнакомым посетителям входить внутрь здания",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:06:05.792973+00:00",
+  "turkish_example_sentence_with_blank": "O sıkı güvenlik görevlisi tanımadığı ziyaretçilere bina içine girmelerine ______"
 }

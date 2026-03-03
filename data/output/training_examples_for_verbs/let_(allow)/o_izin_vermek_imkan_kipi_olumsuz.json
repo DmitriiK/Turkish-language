@@ -1,20 +1,23 @@
 {
   "verb_rank": 30,
-  "verb_english": "let (allow)",
+  "verb_english": "let",
   "verb_russian": "позволять",
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
     "verb_full": "izin veremez",
-    "root": "izin ver",
-    "tense_affix": "emez",
+    "root": "ver",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "He cannot let the door open.",
-  "russian_example_sentence": "Он не может позволить открыть дверь.",
-  "turkish_example_sentence": "O, kapının açılmasına izin veremez.",
-  "turkish_example_sentence_with_blank": "O, kapının açılmasına ______."
+  "turkish_example_sentence": "O öğrencilere sınav sırasında cep telefonlarını kullanmaya izin veremez",
+  "english_example_sentence": "He/she cannot let students use their mobile phones during the exam",
+  "russian_example_sentence": "Он/она не может позволить студентам использовать их мобильные телефоны во время экзамена",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:44:05.342589+00:00",
+  "turkish_example_sentence_with_blank": "O öğrencilere sınav sırasında cep telefonlarını kullanmaya ______"
 }

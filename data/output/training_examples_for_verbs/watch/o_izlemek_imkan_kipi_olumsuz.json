@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "izleyemez",
     "root": "izle",
-    "tense_affix": "yeme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "z",
+    "personal_affix": "",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "eme"
   },
-  "english_example_sentence": "She cannot watch the romantic comedy due to her schedule",
-  "russian_example_sentence": "Она не может смотреть романтическую комедию из-за своего расписания",
-  "turkish_example_sentence": "O programı nedeniyle romantik komedyyi izleyemez",
-  "turkish_example_sentence_with_blank": "O programı nedeniyle romantik komedyyi ______"
+  "turkish_example_sentence": "O çalışma saatlerinde uzun belgesel programı dikkatle izleyemez",
+  "english_example_sentence": "She cannot watch the long documentary program attentively during work hours",
+  "russian_example_sentence": "Она не может внимательно смотреть длинную документальную программу в рабочие часы",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:02:10.131924+00:00",
+  "turkish_example_sentence_with_blank": "O çalışma saatlerinde uzun belgesel programı dikkatle ______"
 }

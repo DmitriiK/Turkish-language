@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "hatırlayamazsın",
     "root": "hatırla",
-    "tense_affix": "yama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "sın",
     "polarity": "negative",
-    "negative_affix": "yama"
+    "negative_affix": "ama"
   },
-  "english_example_sentence": "You cannot remember the phone number",
-  "russian_example_sentence": "Ты не можешь вспомнить номер телефона",
-  "turkish_example_sentence": "Sen telefon numarasını hatırlayamazsın",
-  "turkish_example_sentence_with_blank": "Sen telefon numarasını ______"
+  "turkish_example_sentence": "Sen önemli toplantının başlangıç saatini hatırlayamazsın",
+  "english_example_sentence": "You cannot remember the important meeting's starting time",
+  "russian_example_sentence": "Ты не можешь вспомнить время начала важной встречи",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:11:12.200165+00:00",
+  "turkish_example_sentence_with_blank": "Sen önemli toplantının başlangıç saatini ______"
 }

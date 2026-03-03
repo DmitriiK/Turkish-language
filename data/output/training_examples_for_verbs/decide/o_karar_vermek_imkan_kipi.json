@@ -5,16 +5,19 @@
   "verb_infinitive": "karar vermek",
   "turkish_verb": {
     "verb_full": "karar verebilir",
-    "root": "karar ver",
-    "tense_affix": "ebil",
+    "root": "ver",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "ir",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He can decide tomorrow",
-  "russian_example_sentence": "Он может решить завтра",
-  "turkish_example_sentence": "O yarın karar verebilir",
-  "turkish_example_sentence_with_blank": "O yarın ______"
+  "turkish_example_sentence": "O güzel yazlık ev alımında bugün karar verebilir",
+  "english_example_sentence": "He/she can decide today in the beautiful summer house purchase",
+  "russian_example_sentence": "Он/она может решить сегодня в покупке красивого летнего дома",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:24:05.640422+00:00",
+  "turkish_example_sentence_with_blank": "O güzel yazlık ev alımında bugün ______"
 }

@@ -5,16 +5,19 @@
   "verb_infinitive": "karar vermek",
   "turkish_verb": {
     "verb_full": "karar verebilirim",
-    "root": "karar ver",
-    "tense_affix": "ebil",
+    "root": "ver",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "irim",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I can decide quickly",
-  "russian_example_sentence": "Я могу решить быстро",
-  "turkish_example_sentence": "Ben hızlı karar verebilirim",
-  "turkish_example_sentence_with_blank": "Ben hızlı ______"
+  "turkish_example_sentence": "Ben önemli iş toplantısında hızlı karar verebilirim",
+  "english_example_sentence": "I can decide quickly in the important business meeting",
+  "russian_example_sentence": "Я могу решить быстро на важной деловой встрече",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:24:05.640422+00:00",
+  "turkish_example_sentence_with_blank": "Ben önemli iş toplantısında hızlı ______"
 }

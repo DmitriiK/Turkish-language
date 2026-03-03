@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "büyüyemez",
     "root": "büyü",
-    "tense_affix": "yeme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "mez",
+    "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "eme"
   },
-  "english_example_sentence": "She cannot grow herbs without sunlight",
-  "russian_example_sentence": "Она не может выращивать травы без солнечного света",
-  "turkish_example_sentence": "O güneş ışığı olmadan otları büyüyemez",
-  "turkish_example_sentence_with_blank": "O güneş ışığı olmadan otları ______"
+  "turkish_example_sentence": "O kuru toprakta hiç su almadan büyüyemez",
+  "english_example_sentence": "It cannot grow in dry soil without any water",
+  "russian_example_sentence": "Оно не может расти в сухой почве без воды",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:07:56.557739+00:00",
+  "turkish_example_sentence_with_blank": "O kuru toprakta hiç su almadan ______"
 }

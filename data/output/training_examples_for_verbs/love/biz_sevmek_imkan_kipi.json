@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "sevebiliriz",
     "root": "sev",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iriz",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We can love long summer evenings",
-  "russian_example_sentence": "Мы можем любить долгие летние вечера",
-  "turkish_example_sentence": "Biz uzun yaz akşamlarını sevebiliriz",
-  "turkish_example_sentence_with_blank": "Biz uzun yaz akşamlarını ______"
+  "turkish_example_sentence": "Biz sıcak güneşli yazları hep sevebiliriz",
+  "english_example_sentence": "We can always love warm sunny summers",
+  "russian_example_sentence": "Мы можем всегда любить тёплое солнечное лето",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:11:49.177707+00:00",
+  "turkish_example_sentence_with_blank": "Biz sıcak güneşli yazları hep ______"
 }

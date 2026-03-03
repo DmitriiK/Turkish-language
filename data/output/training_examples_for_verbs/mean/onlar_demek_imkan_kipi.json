@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "diyebilirler",
     "root": "de",
-    "tense_affix": "yebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They can mean something quite profound",
-  "russian_example_sentence": "Они могут означать что-то очень глубокое",
-  "turkish_example_sentence": "Onlar bu ünlü şarkının derinlemesine anlamlarını diyebilirler",
-  "turkish_example_sentence_with_blank": "Onlar bu ünlü şarkının derinlemesine anlamlarını ______"
+  "turkish_example_sentence": "Onlar konferansta bilimsel görüşlerini özgürce diyebilirler",
+  "english_example_sentence": "They can say their scientific views freely at the conference",
+  "russian_example_sentence": "Они могут говорить свои научные взгляды свободно на конференции",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:42:46.189269+00:00",
+  "turkish_example_sentence_with_blank": "Onlar konferansta bilimsel görüşlerini özgürce ______"
 }

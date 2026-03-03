@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "arayamazsın",
     "root": "ara",
-    "tense_affix": "yama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "zsın",
+    "personal_affix": "sın",
     "polarity": "negative",
-    "negative_affix": "yama"
+    "negative_affix": "ama"
   },
-  "turkish_example_sentence": "Sen bu eski telefon numarasıyla hastaneyi arayamazsın",
-  "english_example_sentence": "You cannot call the hospital with this old phone number",
-  "russian_example_sentence": "Ты не можешь позвонить в больницу с этим старым номером телефона",
+  "turkish_example_sentence": "Sen yabancı numarayı güvenli şekilde arayamazsın",
+  "english_example_sentence": "You cannot call the foreign number safely",
+  "russian_example_sentence": "Ты не можешь безопасно позвонить на иностранный номер",
   "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-16T10:25:46.796768+00:00",
-  "turkish_example_sentence_with_blank": "Sen bu eski telefon numarasıyla hastaneyi ______"
+  "generated_at": "2026-03-03T08:37:44.045000+00:00",
+  "turkish_example_sentence_with_blank": "Sen yabancı numarayı güvenli şekilde ______"
 }

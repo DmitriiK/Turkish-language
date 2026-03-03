@@ -4,17 +4,20 @@
   "verb_russian": "читать",
   "verb_infinitive": "okumak",
   "turkish_verb": {
-    "verb_full": "okuyamayız",
+    "verb_full": "okuyamazlar",
     "root": "oku",
-    "tense_affix": "yama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "yız",
+    "personal_affix": "lar",
     "polarity": "negative",
-    "negative_affix": "yama"
+    "negative_affix": "ama"
   },
-  "english_example_sentence": "They cannot read that complex legal document without assistance",
-  "russian_example_sentence": "Они не могут читать тот сложный юридический документ без помощи",
-  "turkish_example_sentence": "Onlar o karmaşık yasal belgeyi yardım olmadan okuyamayız",
-  "turkish_example_sentence_with_blank": "Onlar o karmaşık yasal belgeyi yardım olmadan ______"
+  "turkish_example_sentence": "Onlar yorgun akşamda sıkıcı ekonomi makalesini okuyamazlar",
+  "english_example_sentence": "They cannot read the boring economics article in the tired evening",
+  "russian_example_sentence": "Они не могут читать скучную экономическую статью усталым вечером",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:05:19.864847+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yorgun akşamda sıkıcı ekonomi makalesini ______"
 }

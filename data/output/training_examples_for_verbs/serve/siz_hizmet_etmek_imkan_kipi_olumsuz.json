@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "hizmet edemezsiniz",
     "root": "hizmet et",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "zsiniz",
+    "personal_affix": "siniz",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "You cannot serve alcohol without proper licensing documents",
-  "russian_example_sentence": "Вы не можете подавать алкоголь без надлежащих лицензионных документов",
-  "turkish_example_sentence": "Siz uygun lisans belgeleri olmadan alkollü içecekleri hizmet edemezsiniz",
-  "turkish_example_sentence_with_blank": "Siz uygun lisans belgeleri olmadan alkollü içecekleri ______"
+  "turkish_example_sentence": "Siz uygun lisans olmadan resmi hukuk bürosuna hizmet edemezsiniz",
+  "english_example_sentence": "You cannot serve the official law office without proper license",
+  "russian_example_sentence": "Вы не можете служить официальному юридическому бюро без надлежащей лицензии",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:15:04.506666+00:00",
+  "turkish_example_sentence_with_blank": "Siz uygun lisans olmadan resmi hukuk bürosuna ______"
 }

@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "arayamam",
     "root": "ara",
-    "tense_affix": "yama",
+    "modal_affix": "ama",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
-    "negative_affix": "yama"
+    "negative_affix": "ama"
   },
-  "turkish_example_sentence": "Ben şimdi meşgul olduğum için müdürü arayamam",
-  "english_example_sentence": "I cannot call the manager now because I am busy",
-  "russian_example_sentence": "Я не могу позвонить менеджеру сейчас, потому что я занят",
+  "turkish_example_sentence": "Ben şimdi meşgul müdürü arayamam",
+  "english_example_sentence": "I cannot call the busy manager now",
+  "russian_example_sentence": "Я не могу позвонить занятому менеджеру сейчас",
   "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-16T10:25:46.796768+00:00",
-  "turkish_example_sentence_with_blank": "Ben şimdi meşgul olduğum için müdürü ______"
+  "generated_at": "2026-03-03T08:37:44.045000+00:00",
+  "turkish_example_sentence_with_blank": "Ben şimdi meşgul müdürü ______"
 }

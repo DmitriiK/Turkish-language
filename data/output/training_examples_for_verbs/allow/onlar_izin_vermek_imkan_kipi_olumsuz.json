@@ -5,16 +5,19 @@
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
     "verb_full": "izin veremezler",
-    "root": "izin ver",
-    "tense_affix": "eme",
+    "root": "ver",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "zler",
+    "personal_affix": "ler",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "They cannot allow wild animals to roam freely in the crowded city",
-  "russian_example_sentence": "Они не могут позволить диким животным свободно бродить в переполненном городе",
-  "turkish_example_sentence": "Onlar vahşi hayvanların kalabalık şehirde serbestçe dolaşmasını izin veremezler",
-  "turkish_example_sentence_with_blank": "Onlar vahşi hayvanların kalabalık şehirde serbestçe dolaşmasını ______"
+  "turkish_example_sentence": "Onlar dikkatli kütüphaneciler okuyuculara eski nadir kitapları dışarı çıkarmalarına izin veremezler",
+  "english_example_sentence": "They careful librarians cannot allow readers to take old rare books outside",
+  "russian_example_sentence": "Они внимательные библиотекари не могут разрешить читателям выносить старые редкие книги наружу",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:06:05.792973+00:00",
+  "turkish_example_sentence_with_blank": "Onlar dikkatli kütüphaneciler okuyuculara eski nadir kitapları dışarı çıkarmalarına ______"
 }

@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "gerektirebilirsiniz",
     "root": "gerektir",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "irsiniz",
+    "personal_affix": "siniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can require expert advice from professionals",
-  "russian_example_sentence": "Вы можете потребовать экспертный совет у профессионалов",
-  "turkish_example_sentence": "Siz profesyonellerden uzman tavsiye gerektirebilirsiniz",
-  "turkish_example_sentence_with_blank": "Siz profesyonellerden uzman tavsiye ______"
+  "turkish_example_sentence": "Siz kiracılardan aylık kira ödemesi gerektirebilirsiniz",
+  "english_example_sentence": "You can require monthly rent payment from the tenants",
+  "russian_example_sentence": "Вы можете потребовать ежемесячную арендную плату от арендаторов",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:22:47.932763+00:00",
+  "turkish_example_sentence_with_blank": "Siz kiracılardan aylık kira ödemesi ______"
 }

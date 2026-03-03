@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "kesebilirler",
     "root": "kes",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They can cut soft orange pumpkins skillfully",
-  "russian_example_sentence": "Они могут резать мягкие оранжевые тыквы умело",
-  "turkish_example_sentence": "Onlar yumuşak turuncu kabakları beceriyle kesebilirler",
-  "turkish_example_sentence_with_blank": "Onlar yumuşak turuncu kabakları beceriyle ______"
+  "turkish_example_sentence": "Onlar ince beyaz kağıt yapraklarını küçük çocuk makasıyla kesebilirler",
+  "english_example_sentence": "They can cut the thin white paper sheets with small children's scissors",
+  "russian_example_sentence": "Они могут резать тонкие белые листы бумаги маленькими детскими ножницами",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:19:39.400537+00:00",
+  "turkish_example_sentence_with_blank": "Onlar ince beyaz kağıt yapraklarını küçük çocuk makasıyla ______"
 }

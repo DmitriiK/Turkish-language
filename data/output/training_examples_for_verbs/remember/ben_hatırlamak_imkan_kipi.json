@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "hatırlayabilirim",
     "root": "hatırla",
-    "tense_affix": "yabilir",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I can remember this name easily",
-  "russian_example_sentence": "Я могу легко вспомнить это имя",
-  "turkish_example_sentence": "Ben bu ismi kolayca hatırlayabilirim",
-  "turkish_example_sentence_with_blank": "Ben bu ismi kolayca ______"
+  "turkish_example_sentence": "Ben eski komşumuzun güzel bahçesini hatırlayabilirim",
+  "english_example_sentence": "I can remember our old neighbor's beautiful garden",
+  "russian_example_sentence": "Я могу помнить красивый сад нашего старого соседа",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:11:12.200165+00:00",
+  "turkish_example_sentence_with_blank": "Ben eski komşumuzun güzel bahçesini ______"
 }

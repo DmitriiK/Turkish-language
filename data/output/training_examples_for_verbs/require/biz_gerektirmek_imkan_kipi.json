@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "gerektirebiliriz",
     "root": "gerektir",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iriz",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We can require additional funding for the task",
-  "russian_example_sentence": "Мы можем потребовать дополнительное финансирование для задания",
-  "turkish_example_sentence": "Biz görev için ek finansman gerektirebiliriz",
-  "turkish_example_sentence_with_blank": "Biz görev için ek finansman ______"
+  "turkish_example_sentence": "Biz büyük şirketten yazılı garanti belgesi gerektirebiliriz",
+  "english_example_sentence": "We can require a written warranty certificate from the big company",
+  "russian_example_sentence": "Мы можем потребовать письменный гарантийный сертификат от большой компании",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:22:47.932763+00:00",
+  "turkish_example_sentence_with_blank": "Biz büyük şirketten yazılı garanti belgesi ______"
 }

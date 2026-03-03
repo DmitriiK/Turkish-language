@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "kaybedebilir",
     "root": "kaybet",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "ir",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He can lose his new phone",
-  "russian_example_sentence": "Он может потерять свой новый телефон",
-  "turkish_example_sentence": "O yeni telefonunu kaybedebilir",
-  "turkish_example_sentence_with_blank": "O yeni telefonunu ______"
+  "turkish_example_sentence": "O siyah deri cüzdanını otobüste kaybedebilir",
+  "english_example_sentence": "He can lose his black leather wallet on the bus",
+  "russian_example_sentence": "Он может потерять свой чёрный кожаный кошелёк в автобусе",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:55:40.038359+00:00",
+  "turkish_example_sentence_with_blank": "O siyah deri cüzdanını otobüste ______"
 }

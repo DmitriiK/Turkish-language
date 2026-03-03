@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "düşebilir",
     "root": "düş",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "ir",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He can fall from the tall oak tree",
-  "russian_example_sentence": "Он может упасть с высокого дубового дерева",
-  "turkish_example_sentence": "O yüksek meşe ağacından düşebilir",
-  "turkish_example_sentence_with_blank": "O yüksek meşe ağacından ______"
+  "turkish_example_sentence": "O kırık sandalyeden aniden düşebilir",
+  "english_example_sentence": "He can fall suddenly from the broken chair",
+  "russian_example_sentence": "Он может внезапно упасть со сломанного стула",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:18:59.208757+00:00",
+  "turkish_example_sentence_with_blank": "O kırık sandalyeden aniden ______"
 }

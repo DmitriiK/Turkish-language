@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "bekleyebiliriz",
     "root": "bekle",
-    "tense_affix": "yebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iriz",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We can expect beautiful weather tomorrow",
-  "russian_example_sentence": "Мы можем ожидать прекрасную погоду завтра",
-  "turkish_example_sentence": "Biz yarın güzel ve sıcak havayı bekleyebiliriz",
-  "turkish_example_sentence_with_blank": "Biz yarın güzel ve sıcak havayı ______"
+  "turkish_example_sentence": "Biz rahat kafe köşesinde sıcak kahve siparişimizi bekleyebiliriz",
+  "english_example_sentence": "We can wait for our hot coffee order in the comfortable cafe corner",
+  "russian_example_sentence": "Мы можем ждать наш заказ горячего кофе в удобном углу кафе",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:17:05.213645+00:00",
+  "turkish_example_sentence_with_blank": "Biz rahat kafe köşesinde sıcak kahve siparişimizi ______"
 }

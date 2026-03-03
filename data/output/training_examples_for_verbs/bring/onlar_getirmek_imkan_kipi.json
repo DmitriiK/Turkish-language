@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "getirebilirler",
     "root": "getir",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They can bring sweet strawberries tomorrow",
-  "russian_example_sentence": "Они могут принести сладкую клубнику завтра",
-  "turkish_example_sentence": "Onlar tatlı çileleri yarın getirebilirler",
-  "turkish_example_sentence_with_blank": "Onlar tatlı çileleri yarın ______"
+  "turkish_example_sentence": "Onlar düğüne güzel renkli çiçek buketleri getirebilirler",
+  "english_example_sentence": "They can bring beautiful colorful flower bouquets to the wedding",
+  "russian_example_sentence": "Они могут принести красивые цветные букеты цветов на свадьбу",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:52:28.970369+00:00",
+  "turkish_example_sentence_with_blank": "Onlar düğüne güzel renkli çiçek buketleri ______"
 }

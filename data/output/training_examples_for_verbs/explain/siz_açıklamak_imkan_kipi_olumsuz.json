@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "açıklayamazsınız",
     "root": "açıkla",
-    "tense_affix": "yabilir",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "sınız",
     "polarity": "negative",
-    "negative_affix": "yama"
+    "negative_affix": "ama"
   },
-  "english_example_sentence": "You cannot explain the mistake.",
-  "russian_example_sentence": "Вы не можете объяснить ошибку.",
-  "turkish_example_sentence": "Hata nedenini açıklayamazsınız.",
-  "turkish_example_sentence_with_blank": "Hata nedenini ______."
+  "turkish_example_sentence": "Siz tıbbi terimleri sıradan insanlara açıklayamazsınız",
+  "english_example_sentence": "You cannot explain the medical terms to ordinary people",
+  "russian_example_sentence": "Вы не можете объяснить медицинские термины обычным людям",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:26:01.358643+00:00",
+  "turkish_example_sentence_with_blank": "Siz tıbbi terimleri sıradan insanlara ______"
 }

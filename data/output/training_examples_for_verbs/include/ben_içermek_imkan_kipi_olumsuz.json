@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "içeremem",
     "root": "içer",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "I cannot include expensive items in the budget",
-  "russian_example_sentence": "Я не могу включить дорогие предметы в бюджет",
-  "turkish_example_sentence": "Ben pahalı ürünleri bütçeye içeremem",
-  "turkish_example_sentence_with_blank": "Ben pahalı ürünleri bütçeye ______"
+  "turkish_example_sentence": "Ben kişisel bilgileri resmi belgeye içeremem",
+  "english_example_sentence": "I cannot include personal information in the official document",
+  "russian_example_sentence": "Я не могу включить личную информацию в официальный документ",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:57:32.446104+00:00",
+  "turkish_example_sentence_with_blank": "Ben kişisel bilgileri resmi belgeye ______"
 }

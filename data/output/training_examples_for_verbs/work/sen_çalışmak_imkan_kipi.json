@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "çalışabilirsin",
     "root": "çalış",
-    "tense_affix": "abil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "irsin",
+    "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Sen büyük uluslararası şirkette rahatça çalışabilirsin",
-  "english_example_sentence": "You can work comfortably in the big international company",
-  "russian_example_sentence": "Ты можешь работать комфортно в большой международной компании",
+  "turkish_example_sentence": "Sen sessiz yeşil parkta sakin çalışabilirsin",
+  "english_example_sentence": "You can work calmly in the quiet green park",
+  "russian_example_sentence": "Ты можешь работать спокойно в тихом зелёном парке",
   "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-16T09:22:07.425300+00:00",
-  "turkish_example_sentence_with_blank": "Sen büyük uluslararası şirkette rahatça ______"
+  "generated_at": "2026-03-03T08:37:07.187133+00:00",
+  "turkish_example_sentence_with_blank": "Sen sessiz yeşil parkta sakin ______"
 }

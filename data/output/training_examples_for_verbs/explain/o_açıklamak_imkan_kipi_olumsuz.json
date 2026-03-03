@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "açıklayamaz",
     "root": "açıkla",
-    "tense_affix": "yabilir",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": null,
+    "personal_affix": "",
     "polarity": "negative",
-    "negative_affix": "yama"
+    "negative_affix": "ama"
   },
-  "english_example_sentence": "She cannot explain her decision.",
-  "russian_example_sentence": "Она не может объяснить своё решение.",
-  "turkish_example_sentence": "Kararını açıklayamaz.",
-  "turkish_example_sentence_with_blank": "Kararını ______."
+  "turkish_example_sentence": "O küçük çocuk zor fizik kurallarını açıklayamaz",
+  "english_example_sentence": "That small child cannot explain the difficult physics rules",
+  "russian_example_sentence": "Этот маленький ребенок не может объяснить трудные правила физики",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:26:01.358643+00:00",
+  "turkish_example_sentence_with_blank": "O küçük çocuk zor fizik kurallarını ______"
 }

@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "bekleyemezler",
     "root": "bekle",
-    "tense_affix": "yeme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "zler",
+    "personal_affix": "ler",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": null
   },
-  "english_example_sentence": "They cannot wait for the difficult final examination results",
-  "russian_example_sentence": "Они не могут ждать результаты сложного финального экзамена",
-  "turkish_example_sentence": "Onlar zor final sınav sonuçlarını sabırsızca bekleyemezler",
-  "turkish_example_sentence_with_blank": "Onlar zor final sınav sonuçlarını sabırsızca ______"
+  "turkish_example_sentence": "Onlar yağmurlu sonbahar gününde açık alanda bekleyemezler",
+  "english_example_sentence": "They cannot wait in the open area on a rainy autumn day",
+  "russian_example_sentence": "Они не могут ждать на открытой площадке в дождливый осенний день",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:14:24.136769+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yağmurlu sonbahar gününde açık alanda ______"
 }

@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "ölebilir",
     "root": "öl",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "ir",
+    "personal_affix": "",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He can survive the dangerous mountain expedition",
-  "russian_example_sentence": "Он может выжить в опасной горной экспедиции",
-  "turkish_example_sentence": "O tehlikeli dağ ekspedisyonunda ölebilir",
-  "turkish_example_sentence_with_blank": "O tehlikeli dağ ekspedisyonunda ______"
+  "turkish_example_sentence": "O yaşlı hasta adam ağır kalp krizi yüzünden ölebilir",
+  "english_example_sentence": "That old sick man can die because of severe heart attack",
+  "russian_example_sentence": "Тот старый больной человек может умереть из-за тяжелого сердечного приступа",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:15:48.360088+00:00",
+  "turkish_example_sentence_with_blank": "O yaşlı hasta adam ağır kalp krizi yüzünden ______"
 }

@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "ölemezsiniz",
     "root": "öl",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "zsiniz",
+    "personal_affix": "siniz",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "You cannot die from such minor allergic reactions",
-  "russian_example_sentence": "Вы не можете умереть от таких незначительных аллергических реакций",
-  "turkish_example_sentence": "Siz bu küçük alerjik reaksiyonlardan ölemezsiniz",
-  "turkish_example_sentence_with_blank": "Siz bu küçük alerjik reaksiyonlardan ______"
+  "turkish_example_sentence": "Siz iyi korumalı askerler normal silah saldırısından ölemezsiniz",
+  "english_example_sentence": "You well protected soldiers cannot die from normal weapon attack",
+  "russian_example_sentence": "Вы хорошо защищенные солдаты не можете умереть от обычной атаки оружием",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:15:48.360088+00:00",
+  "turkish_example_sentence_with_blank": "Siz iyi korumalı askerler normal silah saldırısından ______"
 }

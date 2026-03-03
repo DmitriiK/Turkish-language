@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "kaybedebilirler",
     "root": "kaybet",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They can lose the old painting",
-  "russian_example_sentence": "Они могут потерять старую картину",
-  "turkish_example_sentence": "Onlar eski resmi kaybedebilirler",
-  "turkish_example_sentence_with_blank": "Onlar eski resmi ______"
+  "turkish_example_sentence": "Onlar kırmızı bisikletlerini sokakta kaybedebilirler",
+  "english_example_sentence": "They can lose their red bicycles on the street",
+  "russian_example_sentence": "Они могут потерять свои красные велосипеды на улице",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:55:40.038359+00:00",
+  "turkish_example_sentence_with_blank": "Onlar kırmızı bisikletlerini sokakta ______"
 }

@@ -4,17 +4,20 @@
   "verb_russian": "оставаться",
   "verb_infinitive": "kalmak",
   "turkish_verb": {
-    "verb_full": "kalamayız",
+    "verb_full": "kalamazlar",
     "root": "kal",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "yız",
+    "personal_affix": "lar",
     "polarity": "negative",
-    "negative_affix": "ama"
+    "negative_affix": null
   },
-  "english_example_sentence": "They cannot remain in the polluted industrial city",
-  "russian_example_sentence": "Они не могут остаться в загрязненном промышленном городе",
-  "turkish_example_sentence": "Onlar kirli endüstriyel şehirde kalamayız",
-  "turkish_example_sentence_with_blank": "Onlar kirli endüstriyel şehirde ______"
+  "turkish_example_sentence": "Onlar gürültülü gece kulübünde sabaha kadar kalamazlar",
+  "english_example_sentence": "They cannot remain in the noisy night club until morning",
+  "russian_example_sentence": "Они не могут оставаться в шумном ночном клубе до утра",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:20:55.386704+00:00",
+  "turkish_example_sentence_with_blank": "Onlar gürültülü gece kulübünde sabaha kadar ______"
 }

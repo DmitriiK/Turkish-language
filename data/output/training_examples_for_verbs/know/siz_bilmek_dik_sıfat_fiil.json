@@ -1,0 +1,23 @@
+{
+  "verb_rank": 8,
+  "verb_english": "know",
+  "verb_russian": "знать",
+  "verb_infinitive": "bilmek",
+  "turkish_verb": {
+    "verb_full": "bildiğiniz",
+    "root": "bil",
+    "modal_affix": null,
+    "tense_affix": "dik",
+    "verb_tense": "dik_sıfat_fiil",
+    "personal_pronoun": "siz",
+    "personal_affix": "iniz",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "turkish_example_sentence": "Siz, bu şehrin tarihi hakkında bildiğiniz her şeyi anlatın.",
+  "english_example_sentence": "Tell everything you know about the history of this city.",
+  "russian_example_sentence": "Расскажите все, что вы знаете об истории этого города.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2026-03-03T13:49:10.531972+00:00",
+  "turkish_example_sentence_with_blank": "Siz, bu şehrin tarihi hakkında ______ her şeyi anlatın."
+}

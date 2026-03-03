@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "yapamazsınız",
     "root": "yap",
-    "tense_affix": "a",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "zsınız",
+    "personal_affix": "sınız",
     "polarity": "negative",
-    "negative_affix": "ma"
+    "negative_affix": "ama"
   },
-  "turkish_example_sentence": "Siz, bu kadar gürültülü bir ortamda doğru karar yapamazsınız.",
-  "english_example_sentence": "You cannot make a correct decision in such a noisy environment.",
-  "russian_example_sentence": "Вы не сможете принять правильное решение в такой шумной обстановке.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-14T08:08:32.763414+00:00",
-  "turkish_example_sentence_with_blank": "Siz, bu kadar gürültülü bir ortamda doğru karar ______."
+  "turkish_example_sentence": "Siz tehlikeli kimyasal deneyi yapamazsınız",
+  "english_example_sentence": "You cannot do the dangerous chemical experiment",
+  "russian_example_sentence": "Вы не можете сделать опасный химический эксперимент",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:29:25.345178+00:00",
+  "turkish_example_sentence_with_blank": "Siz tehlikeli kimyasal deneyi ______"
 }

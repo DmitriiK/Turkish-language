@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "bildiremezsin",
     "root": "bildir",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "sin",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "You cannot report this bad behavior.",
-  "russian_example_sentence": "Ты не можешь сообщить об этом плохом поведении.",
-  "turkish_example_sentence": "Sen bu kötü davranışı bildiremezsin.",
-  "turkish_example_sentence_with_blank": "Sen bu kötü davranışı ______."
+  "turkish_example_sentence": "Sen gizli proje bilgilerini rakip şirkete bildiremezsin",
+  "english_example_sentence": "You cannot report the secret project information to the rival company",
+  "russian_example_sentence": "Ты не можешь сообщить секретную информацию о проекте конкурирующей компании",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:23:26.490441+00:00",
+  "turkish_example_sentence_with_blank": "Sen gizli proje bilgilerini rakip şirkete ______"
 }

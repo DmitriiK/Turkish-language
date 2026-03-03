@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "satamazlar",
     "root": "sat",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "zlar",
+    "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "They cannot sell property without a license.",
-  "russian_example_sentence": "Они не могут продавать имущество без лицензии.",
-  "turkish_example_sentence": "Onlar lisans olmadan mülk satamazlar.",
-  "turkish_example_sentence_with_blank": "Onlar lisans olmadan mülk ______."
+  "turkish_example_sentence": "Onlar çürük sarı meyveleri restoranlara satamazlar",
+  "english_example_sentence": "They cannot sell rotten yellow fruits to restaurants",
+  "russian_example_sentence": "Они не могут продать гнилые жёлтые фрукты в рестораны",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:22:11.769161+00:00",
+  "turkish_example_sentence_with_blank": "Onlar çürük sarı meyveleri restoranlara ______"
 }

@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "bakabilirler",
     "root": "bak",
-    "tense_affix": "abil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They can look at the amazing wildlife documentary",
-  "russian_example_sentence": "Они могут смотреть на удивительный документальный фильм о дикой природе",
-  "turkish_example_sentence": "Onlar harika doğal yaşam belgeselini bakabilirler",
-  "turkish_example_sentence_with_blank": "Onlar harika doğal yaşam belgeselini ______"
+  "turkish_example_sentence": "Onlar kütüphanede bulunan eski tarih kitaplarındaki ilginç fotoğraflara bakabilirler",
+  "english_example_sentence": "They can look at the interesting photographs in the old history books found in the library",
+  "russian_example_sentence": "Они могут смотреть на интересные фотографии в старых исторических книгах, находящихся в библиотеке",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:33:54.723802+00:00",
+  "turkish_example_sentence_with_blank": "Onlar kütüphanede bulunan eski tarih kitaplarındaki ilginç fotoğraflara ______"
 }

@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "sevemezler",
     "root": "sev",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "zler",
+    "personal_affix": "ler",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "They cannot like that difficult challenging problem",
-  "russian_example_sentence": "Они не могут нравиться эта сложная трудная задача",
-  "turkish_example_sentence": "Onlar o zor karmaşık problemi sevemezler",
-  "turkish_example_sentence_with_blank": "Onlar o zor karmaşık problemi ______"
+  "turkish_example_sentence": "Onlar uzun sıkıcı toplantıları asla sevemezler",
+  "english_example_sentence": "They can never like long boring meetings",
+  "russian_example_sentence": "Они никогда не могут любить долгие скучные собрания",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:49:58.275818+00:00",
+  "turkish_example_sentence_with_blank": "Onlar uzun sıkıcı toplantıları asla ______"
 }

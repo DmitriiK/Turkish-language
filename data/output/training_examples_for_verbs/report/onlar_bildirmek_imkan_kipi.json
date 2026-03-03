@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "bildirebilirler",
     "root": "bildir",
-    "tense_affix": "ebilir",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They can report the financial results.",
-  "russian_example_sentence": "Они могут сообщить финансовые результаты.",
-  "turkish_example_sentence": "Onlar mali sonuçları bildirebilirler.",
-  "turkish_example_sentence_with_blank": "Onlar mali sonuçları ______."
+  "turkish_example_sentence": "Onlar yeni bilimsel araştırma bulgularını üniversite rektörlüğüne bildirebilirler",
+  "english_example_sentence": "They can report the new scientific research findings to the university rectorate",
+  "russian_example_sentence": "Они могут сообщить новые результаты научных исследований ректорату университета",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:23:26.490441+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yeni bilimsel araştırma bulgularını üniversite rektörlüğüne ______"
 }

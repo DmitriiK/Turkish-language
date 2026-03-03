@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "bildiremeyiz",
     "root": "bildir",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yiz",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "We cannot report this event to you.",
-  "russian_example_sentence": "Мы не можем сообщить тебе об этом событии.",
-  "turkish_example_sentence": "Biz bu olayı size bildiremeyiz.",
-  "turkish_example_sentence_with_blank": "Biz bu olayı size ______."
+  "turkish_example_sentence": "Biz doğrulanmamış şüpheli haberleri ulusal basına bildiremeyiz",
+  "english_example_sentence": "We cannot report the unverified suspicious news to the national press",
+  "russian_example_sentence": "Мы не можем сообщить непроверенные подозрительные новости национальной прессе",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:23:26.490441+00:00",
+  "turkish_example_sentence_with_blank": "Biz doğrulanmamış şüpheli haberleri ulusal basına ______"
 }

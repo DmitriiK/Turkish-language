@@ -4,19 +4,20 @@
   "verb_russian": "рассказывать",
   "verb_infinitive": "anlatmak",
   "turkish_verb": {
-    "verb_full": "anlatabiliyorum",
+    "verb_full": "anlatabilirim",
     "root": "anlat",
-    "tense_affix": "abil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "iyor",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Ben ilginç bir hikayeyi arkadaşlara anlatabiliyorum.",
-  "english_example_sentence": "I can tell an interesting story to my friends.",
-  "russian_example_sentence": "Я могу рассказать интересную историю своим друзьям.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T15:40:32.121669+00:00",
-  "turkish_example_sentence_with_blank": "Ben ilginç bir hikayeyi arkadaşlara ______."
+  "turkish_example_sentence": "Ben uzun macera hikayesini çocuklara anlatabilirim",
+  "english_example_sentence": "I can tell the long adventure story to children",
+  "russian_example_sentence": "Я могу рассказать длинную приключенческую историю детям",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:36:27.526034+00:00",
+  "turkish_example_sentence_with_blank": "Ben uzun macera hikayesini çocuklara ______"
 }

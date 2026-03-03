@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "yaşayabilir",
     "root": "yaşa",
-    "tense_affix": "yabil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "ir",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He can live independently in his own apartment downtown",
-  "russian_example_sentence": "Он может жить независимо в своей собственной квартире в центре города",
-  "turkish_example_sentence": "O merkez bölgede kendi modern dairesinde bağımsız yaşayabilir",
-  "turkish_example_sentence_with_blank": "O merkez bölgede kendi modern dairesinde bağımsız ______"
+  "turkish_example_sentence": "O modern apartman dairesinde tek başına yaşayabilir",
+  "english_example_sentence": "He/she can live alone in the modern apartment flat",
+  "russian_example_sentence": "Он/она может жить один/одна в современной квартире",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:50:34.920754+00:00",
+  "turkish_example_sentence_with_blank": "O modern apartman dairesinde tek başına ______"
 }

@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "diyemezsin",
     "root": "de",
-    "tense_affix": "yeme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "zsin",
+    "personal_affix": "sin",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "eme"
   },
-  "english_example_sentence": "You cannot mean that strange expression",
-  "russian_example_sentence": "Ты не можешь означать это странное выражение",
-  "turkish_example_sentence": "Sen o garip sözcüğün doğru anlamını diyemezsin",
-  "turkish_example_sentence_with_blank": "Sen o garip sözcüğün doğru anlamını ______"
+  "turkish_example_sentence": "Sen küçük kardeşine yalan hikayeler diyemezsin",
+  "english_example_sentence": "You cannot say false stories to your little brother",
+  "russian_example_sentence": "Ты не можешь говорить ложные истории своему младшему брату",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:42:46.189269+00:00",
+  "turkish_example_sentence_with_blank": "Sen küçük kardeşine yalan hikayeler ______"
 }

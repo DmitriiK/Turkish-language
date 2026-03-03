@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "başlayabilirler",
     "root": "başla",
-    "tense_affix": "yabilir",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Onlar yeni ve heyecan verici bir maceraya cesurca başlayabilirler.",
-  "english_example_sentence": "They can bravely begin a new and exciting adventure.",
-  "russian_example_sentence": "Они могут смело начать новое и захватывающее приключение.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-17T13:43:33.742964+00:00",
-  "turkish_example_sentence_with_blank": "Onlar yeni ve heyecan verici bir maceraya cesurca ______."
+  "turkish_example_sentence": "Onlar küçük restoran işine bu ay başlayabilirler",
+  "english_example_sentence": "They can begin the small restaurant business this month",
+  "russian_example_sentence": "Они могут начать маленький ресторанный бизнес в этом месяце",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:44:42.293087+00:00",
+  "turkish_example_sentence_with_blank": "Onlar küçük restoran işine bu ay ______"
 }

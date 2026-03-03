@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "bekleyemem",
     "root": "bekle",
-    "tense_affix": "yeme",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": null
   },
-  "english_example_sentence": "I cannot wait any longer for the delayed bus",
-  "russian_example_sentence": "Я не могу больше ждать задержанный автобус",
-  "turkish_example_sentence": "Ben geç kalan otobüs için daha fazla bekleyemem",
-  "turkish_example_sentence_with_blank": "Ben geç kalan otobüs için daha fazla ______"
+  "turkish_example_sentence": "Ben hastane koridorunda uzun süre bekleyemem",
+  "english_example_sentence": "I cannot wait in the hospital corridor for a long time",
+  "russian_example_sentence": "Я не могу ждать в больничном коридоре долгое время",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:14:24.136769+00:00",
+  "turkish_example_sentence_with_blank": "Ben hastane koridorunda uzun süre ______"
 }

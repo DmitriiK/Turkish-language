@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "büyüyebilirler",
     "root": "büyü",
-    "tense_affix": "yebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They can grow fruit trees in the backyard",
-  "russian_example_sentence": "Они могут выращивать фруктовые деревья на заднем дворе",
-  "turkish_example_sentence": "Onlar arka bahçede meyve ağaçları büyüyebilirler",
-  "turkish_example_sentence_with_blank": "Onlar arka bahçede meyve ağaçları ______"
+  "turkish_example_sentence": "Onlar verimli topraktabol yağmurla büyüyebilirler",
+  "english_example_sentence": "They can grow in fertile soil with abundant rain",
+  "russian_example_sentence": "Они могут расти в плодородной почве с обильным дождем",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:07:56.557739+00:00",
+  "turkish_example_sentence_with_blank": "Onlar verimli topraktabol yağmurla ______"
 }

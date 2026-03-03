@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "öğrenebiliriz",
     "root": "öğren",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iriz",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We can learn interesting historical facts together",
-  "russian_example_sentence": "Мы можем учить интересные исторические факты вместе",
-  "turkish_example_sentence": "Biz ilginç tarihi olayları birlikte öğrenebiliriz",
-  "turkish_example_sentence_with_blank": "Biz ilginç tarihi olayları birlikte ______"
+  "turkish_example_sentence": "Biz geleneksel Türk mutfak tariflerini beraber öğrenebiliriz",
+  "english_example_sentence": "We can learn traditional Turkish cuisine recipes together",
+  "russian_example_sentence": "Мы можем учить традиционные турецкие кулинарные рецепты вместе",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:59:31.146641+00:00",
+  "turkish_example_sentence_with_blank": "Biz geleneksel Türk mutfak tariflerini beraber ______"
 }

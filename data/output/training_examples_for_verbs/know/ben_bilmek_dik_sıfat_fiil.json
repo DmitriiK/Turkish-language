@@ -1,0 +1,23 @@
+{
+  "verb_rank": 8,
+  "verb_english": "know",
+  "verb_russian": "знать",
+  "verb_infinitive": "bilmek",
+  "turkish_verb": {
+    "verb_full": "bildiğim",
+    "root": "bil",
+    "modal_affix": null,
+    "tense_affix": "dik",
+    "verb_tense": "dik_sıfat_fiil",
+    "personal_pronoun": "ben",
+    "personal_affix": "im",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "turkish_example_sentence": "Ben bu eski hikayeyi bildiğim için mutluyum.",
+  "english_example_sentence": "I am happy because I know this old story.",
+  "russian_example_sentence": "Я счастлив, потому что знаю эту старую историю.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2026-03-03T13:49:10.531972+00:00",
+  "turkish_example_sentence_with_blank": "Ben bu eski hikayeyi ______ için mutluyum."
+}

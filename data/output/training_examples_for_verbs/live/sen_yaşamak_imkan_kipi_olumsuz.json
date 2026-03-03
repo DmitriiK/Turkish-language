@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "yaşayamazsın",
     "root": "yaşa",
-    "tense_affix": "yama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "zsın",
+    "personal_affix": "sın",
     "polarity": "negative",
-    "negative_affix": "yama"
+    "negative_affix": "ama"
   },
-  "english_example_sentence": "You cannot live comfortably on such a small salary",
-  "russian_example_sentence": "Ты не можешь жить комфортно на такую маленькую зарплату",
-  "turkish_example_sentence": "Sen bu kadar düşük ücretle konforlu bir şekilde yaşayamazsın",
-  "turkish_example_sentence_with_blank": "Sen bu kadar düşük ücretle konforlu bir şekilde ______"
+  "turkish_example_sentence": "Sen gürültülü fabrika bölgesinde huzurla yaşayamazsın",
+  "english_example_sentence": "You cannot live peacefully in the noisy factory district",
+  "russian_example_sentence": "Ты не можешь жить спокойно в шумном заводском районе",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:50:34.920754+00:00",
+  "turkish_example_sentence_with_blank": "Sen gürültülü fabrika bölgesinde huzurla ______"
 }

@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "değiştiremezsiniz",
     "root": "değiştir",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "zsiniz",
+    "personal_affix": "siniz",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "You cannot change the black furniture here",
-  "russian_example_sentence": "Вы не можете изменить чёрную мебель здесь",
-  "turkish_example_sentence": "Siz burada siyah mobilyaları değiştiremezsiniz",
-  "turkish_example_sentence_with_blank": "Siz burada siyah mobilyaları ______"
+  "turkish_example_sentence": "Siz uzun tren yolculuğunun sakin atmosferini değiştiremezsiniz",
+  "english_example_sentence": "You cannot change the long train journey's calm atmosphere",
+  "russian_example_sentence": "Вы не можете изменить спокойную атмосферу долгого путешествия на поезде",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:00:10.450732+00:00",
+  "turkish_example_sentence_with_blank": "Siz uzun tren yolculuğunun sakin atmosferini ______"
 }

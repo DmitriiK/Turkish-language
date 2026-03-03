@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "hissedebilirsin",
     "root": "hisset",
-    "tense_affix": "ebilir",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Sen onun derin üzüntüsünü kolayca hissedebilirsin.",
-  "english_example_sentence": "You can easily feel her deep sadness.",
-  "russian_example_sentence": "Ты можешь легко почувствовать ее глубокую печаль.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-12T13:12:20.306171+00:00",
-  "turkish_example_sentence_with_blank": "Sen onun derin üzüntüsünü kolayca ______."
+  "turkish_example_sentence": "Sen sıcak yaz güneşini yüzünde hissedebilirsin",
+  "english_example_sentence": "You can feel the warm summer sun on your face",
+  "russian_example_sentence": "Ты можешь чувствовать теплое летнее солнце на своем лице",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:40:17.498216+00:00",
+  "turkish_example_sentence_with_blank": "Sen sıcak yaz güneşini yüzünde ______"
 }

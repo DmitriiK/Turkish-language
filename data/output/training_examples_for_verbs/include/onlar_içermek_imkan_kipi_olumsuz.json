@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "içeremezler",
     "root": "içer",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "zler",
+    "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "They cannot include harmful chemicals in the product",
-  "russian_example_sentence": "Они не могут включить вредные химические вещества в продукт",
-  "turkish_example_sentence": "Onlar zararlı kimyasalları üründe içeremezler",
-  "turkish_example_sentence_with_blank": "Onlar zararlı kimyasalları üründe ______"
+  "turkish_example_sentence": "Onlar gizli şifreleri açık mesajlara içeremezler",
+  "english_example_sentence": "They cannot include secret passwords in open messages",
+  "russian_example_sentence": "Они не могут включить секретные пароли в открытые сообщения",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:57:32.446104+00:00",
+  "turkish_example_sentence_with_blank": "Onlar gizli şifreleri açık mesajlara ______"
 }

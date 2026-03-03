@@ -5,16 +5,19 @@
   "verb_infinitive": "öncülük etmek",
   "turkish_verb": {
     "verb_full": "öncülük edemezsin",
-    "root": "et",
-    "tense_affix": "eme",
+    "root": "öncülük et",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "zsin",
+    "personal_affix": "sin",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "You cannot lead without proper experience",
-  "russian_example_sentence": "Ты не можешь вести без надлежащего опыта",
-  "turkish_example_sentence": "Sen uygun deneyim olmadan bu büyük organizasyonu öncülük edemezsin",
-  "turkish_example_sentence_with_blank": "Sen uygun deneyim olmadan bu büyük organizasyonu ______"
+  "turkish_example_sentence": "Sen karmaşık bilimsel araştırma grubuna öncülük edemezsin",
+  "english_example_sentence": "You cannot lead the complex scientific research group",
+  "russian_example_sentence": "Ты не можешь возглавить сложную научную исследовательскую группу",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:00:49.236118+00:00",
+  "turkish_example_sentence_with_blank": "Sen karmaşık bilimsel araştırma grubuna ______"
 }

@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "buluşamazsın",
     "root": "buluş",
-    "tense_affix": "amaz",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "sın",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "You cannot meet them at the park.",
-  "russian_example_sentence": "Ты не можешь встретиться с ними в парке.",
-  "turkish_example_sentence": "Sen onlarla parkta buluşamazsın.",
-  "turkish_example_sentence_with_blank": "Sen onlarla parkta ______."
+  "turkish_example_sentence": "Sen geç saatlerde güvenli parkta buluşamazsın",
+  "english_example_sentence": "You cannot meet in the safe park at late hours",
+  "russian_example_sentence": "Ты не можешь встретиться в безопасном парке поздно вечером",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:56:55.670429+00:00",
+  "turkish_example_sentence_with_blank": "Sen geç saatlerde güvenli parkta ______"
 }

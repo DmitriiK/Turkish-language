@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "hizmet edebilirler",
     "root": "hizmet et",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They can serve fresh homemade desserts every single day",
-  "russian_example_sentence": "Они могут подавать свежие домашние десерты каждый день",
-  "turkish_example_sentence": "Onlar taze ev yapımı tatlıları her gün hizmet edebilirler",
-  "turkish_example_sentence_with_blank": "Onlar taze ev yapımı tatlıları her gün ______"
+  "turkish_example_sentence": "Onlar küçük köy okuluna genç gönüllü öğretmenler olarak hizmet edebilirler",
+  "english_example_sentence": "They can serve the small village school as young volunteer teachers",
+  "russian_example_sentence": "Они могут служить маленькой деревенской школе как молодые учителя-добровольцы",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:15:04.506666+00:00",
+  "turkish_example_sentence_with_blank": "Onlar küçük köy okuluna genç gönüllü öğretmenler olarak ______"
 }

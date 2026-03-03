@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "ödeyemezsin",
     "root": "öde",
-    "tense_affix": "yeme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "zsin",
+    "personal_affix": "sin",
     "polarity": "negative",
-    "negative_affix": "yeme"
+    "negative_affix": null
   },
-  "english_example_sentence": "You cannot pay for such a big gift",
-  "russian_example_sentence": "Ты не можешь заплатить за такой большой подарок",
-  "turkish_example_sentence": "Sen böyle büyük bir hediyeyi ödeyemezsin",
-  "turkish_example_sentence_with_blank": "Sen böyle büyük bir hediyeyi ______"
+  "turkish_example_sentence": "Sen yüksek hastane masrafını tek başına ödeyemezsin",
+  "english_example_sentence": "You cannot pay the high hospital expenses alone",
+  "russian_example_sentence": "Ты не можешь заплатить высокие больничные расходы один",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:56:18.438585+00:00",
+  "turkish_example_sentence_with_blank": "Sen yüksek hastane masrafını tek başına ______"
 }

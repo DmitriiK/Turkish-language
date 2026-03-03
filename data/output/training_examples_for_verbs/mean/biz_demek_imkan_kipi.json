@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "diyebiliriz",
     "root": "de",
-    "tense_affix": "yebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iriz",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We can mean something very clear",
-  "russian_example_sentence": "Мы можем означать что-то очень ясное",
-  "turkish_example_sentence": "Biz bu yeni teknolojinin çeşitli anlamlarını diyebiliriz",
-  "turkish_example_sentence_with_blank": "Biz bu yeni teknolojinin çeşitli anlamlarını ______"
+  "turkish_example_sentence": "Biz restoranda garsonlara siparişlerimizi Türkçe diyebiliriz",
+  "english_example_sentence": "We can say our orders to the waiters in Turkish at the restaurant",
+  "russian_example_sentence": "Мы можем сказать наши заказы официантам по-турецки в ресторане",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:42:46.189269+00:00",
+  "turkish_example_sentence_with_blank": "Biz restoranda garsonlara siparişlerimizi Türkçe ______"
 }

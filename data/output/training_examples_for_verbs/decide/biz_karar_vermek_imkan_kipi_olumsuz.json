@@ -5,16 +5,19 @@
   "verb_infinitive": "karar vermek",
   "turkish_verb": {
     "verb_full": "karar veremeyiz",
-    "root": "karar ver",
-    "tense_affix": "eme",
+    "root": "ver",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "meyiz",
+    "personal_affix": "yiz",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "We cannot decide today",
-  "russian_example_sentence": "Мы не можем решить сегодня",
-  "turkish_example_sentence": "Biz bugün karar veremeyiz",
-  "turkish_example_sentence_with_blank": "Biz bugün ______"
+  "turkish_example_sentence": "Biz pahalı şehir merkezindeki restoran seçiminde şimdi karar veremeyiz",
+  "english_example_sentence": "We cannot decide now in the expensive city center restaurant selection",
+  "russian_example_sentence": "Мы не можем решить сейчас в выборе дорогого ресторана в центре города",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:24:05.640422+00:00",
+  "turkish_example_sentence_with_blank": "Biz pahalı şehir merkezindeki restoran seçiminde şimdi ______"
 }

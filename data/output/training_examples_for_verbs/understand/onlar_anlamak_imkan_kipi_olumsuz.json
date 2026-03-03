@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "anlayamazlar",
     "root": "anla",
-    "tense_affix": "yabil",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "They cannot understand the cryptic legal contract language",
-  "russian_example_sentence": "Они не могут понять загадочный язык юридического контракта",
-  "turkish_example_sentence": "Onlar şifreli hukuki sözleşme dilini anlayamazlar",
-  "turkish_example_sentence_with_blank": "Onlar şifreli hukuki sözleşme dilini ______"
+  "turkish_example_sentence": "Onlar uzak köyün eski gelenek törenlerini anlayamazlar",
+  "english_example_sentence": "They cannot understand the old tradition ceremonies of the distant village",
+  "russian_example_sentence": "Они не могут понять старые традиционные церемонии далекой деревни",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:01:27.326180+00:00",
+  "turkish_example_sentence_with_blank": "Onlar uzak köyün eski gelenek törenlerini ______"
 }

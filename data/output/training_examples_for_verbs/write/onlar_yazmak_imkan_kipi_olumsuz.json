@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "yazamazlar",
     "root": "yaz",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "zlar",
+    "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "They cannot write without proper lighting.",
-  "russian_example_sentence": "Они не могут писать без надлежащего освещения.",
-  "turkish_example_sentence": "Onlar küçük çocuklar karanlık odada ince yazıları yazamazlar.",
-  "turkish_example_sentence_with_blank": "Onlar küçük çocuklar karanlık odada ince yazıları ______."
+  "turkish_example_sentence": "Onlar uzun tatil mektuplarını soğuk parkta yazamazlar",
+  "english_example_sentence": "They cannot write the long vacation letters in the cold park",
+  "russian_example_sentence": "Они не могут написать длинные письма с отдыха в холодном парке",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:53:06.390578+00:00",
+  "turkish_example_sentence_with_blank": "Onlar uzun tatil mektuplarını soğuk parkta ______"
 }

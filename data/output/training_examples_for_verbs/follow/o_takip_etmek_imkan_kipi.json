@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "takip edebilir",
     "root": "takip et",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "ir",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He can follow the mysterious detective story perfectly",
-  "russian_example_sentence": "Он может следить за таинственной детективной историей идеально",
-  "turkish_example_sentence": "O gizemli dedektif hikayesini mükemmel şekilde takip edebilir",
-  "turkish_example_sentence_with_blank": "O gizemli dedektif hikayesini mükemmel şekilde ______"
+  "turkish_example_sentence": "O sağlıklı diyet planını her gün takip edebilir",
+  "english_example_sentence": "He/she can follow the healthy diet plan every day",
+  "russian_example_sentence": "Он/она может следовать плану здорового питания каждый день",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:02:47.363502+00:00",
+  "turkish_example_sentence_with_blank": "O sağlıklı diyet planını her gün ______"
 }

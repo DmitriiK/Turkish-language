@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "okuyabilirim",
     "root": "oku",
-    "tense_affix": "yabil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "irim",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I can read this interesting Turkish novel",
-  "russian_example_sentence": "Я могу читать этот интересный турецкий роман",
-  "turkish_example_sentence": "Ben bu ilginç Türk romanını okuyabilirim",
-  "turkish_example_sentence_with_blank": "Ben bu ilginç Türk romanını ______"
+  "turkish_example_sentence": "Ben kalın Türkçe romanı hızlıca okuyabilirim",
+  "english_example_sentence": "I can read the thick Turkish novel quickly",
+  "russian_example_sentence": "Я могу быстро читать толстый турецкий роман",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:05:19.864847+00:00",
+  "turkish_example_sentence_with_blank": "Ben kalın Türkçe romanı hızlıca ______"
 }

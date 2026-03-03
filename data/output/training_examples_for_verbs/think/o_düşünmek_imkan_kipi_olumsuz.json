@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "düşünemez",
     "root": "düşün",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "z",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "turkish_example_sentence": "O küçük çocuk soyut kavramları düşünemez.",
-  "english_example_sentence": "That small child cannot think about abstract concepts.",
-  "russian_example_sentence": "Тот маленький ребенок не может думать об абстрактных понятиях.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-15T12:13:55.909283+00:00",
-  "turkish_example_sentence_with_blank": "O küçük çocuk soyut kavramları ______."
+  "turkish_example_sentence": "O stresli durumda akıllı çözüm yolunu düşünemez",
+  "english_example_sentence": "He/she cannot think about the smart solution way in a stressful situation",
+  "russian_example_sentence": "Он/она не может думать об умном способе решения в стрессовой ситуации",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:30:42.607782+00:00",
+  "turkish_example_sentence_with_blank": "O stresli durumda akıllı çözüm yolunu ______"
 }

@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "devam edemezsiniz",
     "root": "devam et",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "zsiniz",
+    "personal_affix": "siniz",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "You cannot continue this dangerous expedition without equipment",
-  "russian_example_sentence": "Вы не можете продолжить эту опасную экспедицию без оборудования",
-  "turkish_example_sentence": "Siz tehlikeli keşif ekipman olmadan devam edemezsiniz",
-  "turkish_example_sentence_with_blank": "Siz tehlikeli keşif ekipman olmadan ______"
+  "turkish_example_sentence": "Siz geç saatte gürültülü inşaat çalışmasına devam edemezsiniz",
+  "english_example_sentence": "You cannot continue to the noisy construction work at a late hour",
+  "russian_example_sentence": "Вы не можете продолжать шумную строительную работу в поздний час",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:58:11.016782+00:00",
+  "turkish_example_sentence_with_blank": "Siz geç saatte gürültülü inşaat çalışmasına ______"
 }

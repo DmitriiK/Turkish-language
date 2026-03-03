@@ -5,16 +5,19 @@
   "verb_infinitive": "ayakta durmak",
   "turkish_verb": {
     "verb_full": "ayakta durabilirler",
-    "root": "ayakta dur",
-    "tense_affix": "abilir",
+    "root": "dur",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They can stand under the tall tree.",
-  "russian_example_sentence": "Они могут стоять под высоким деревом.",
-  "turkish_example_sentence": "Onlar uzun ağacın altında ayakta durabilirler.",
-  "turkish_example_sentence_with_blank": "Onlar uzun ağacın altında ______."
+  "turkish_example_sentence": "Onlar atletik askerler ağır yağmurda disiplinle ayakta durabilirler",
+  "english_example_sentence": "They athletic soldiers can stand with discipline in heavy rain",
+  "russian_example_sentence": "Они атлетичные солдаты могут стоять с дисциплиной под сильным дождем",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:55:04.829142+00:00",
+  "turkish_example_sentence_with_blank": "Onlar atletik askerler ağır yağmurda disiplinle ______"
 }

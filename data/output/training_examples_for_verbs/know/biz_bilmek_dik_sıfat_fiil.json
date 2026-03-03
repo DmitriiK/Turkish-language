@@ -1,0 +1,23 @@
+{
+  "verb_rank": 8,
+  "verb_english": "know",
+  "verb_russian": "знать",
+  "verb_infinitive": "bilmek",
+  "turkish_verb": {
+    "verb_full": "bildiğimiz",
+    "root": "bil",
+    "modal_affix": null,
+    "tense_affix": "dik",
+    "verb_tense": "dik_sıfat_fiil",
+    "personal_pronoun": "biz",
+    "personal_affix": "imiz",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "turkish_example_sentence": "Biz, dün akşamki filmin sonunu bildiğimizden sıkıldık.",
+  "english_example_sentence": "We got bored because we knew the ending of last night's movie.",
+  "russian_example_sentence": "Нам стало скучно, потому что мы знали конец вчерашнего фильма.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2026-03-03T13:49:10.531972+00:00",
+  "turkish_example_sentence_with_blank": "Biz, dün akşamki filmin sonunu ______den sıkıldık."
+}

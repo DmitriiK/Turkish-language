@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "hatırlayabilirler",
     "root": "hatırla",
-    "tense_affix": "yabilir",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They can remember our previous trip",
-  "russian_example_sentence": "Они могут вспомнить нашу прошлую поездку",
-  "turkish_example_sentence": "Onlar önceki gezimizi hatırlayabilirler",
-  "turkish_example_sentence_with_blank": "Onlar önceki gezimizi ______"
+  "turkish_example_sentence": "Onlar çocukluk arkadaşlarıyla oynadıkları eski oyunları hatırlayabilirler",
+  "english_example_sentence": "They can remember the old games they played with childhood friends",
+  "russian_example_sentence": "Они могут помнить старые игры, в которые играли с друзьями детства",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:11:12.200165+00:00",
+  "turkish_example_sentence_with_blank": "Onlar çocukluk arkadaşlarıyla oynadıkları eski oyunları ______"
 }

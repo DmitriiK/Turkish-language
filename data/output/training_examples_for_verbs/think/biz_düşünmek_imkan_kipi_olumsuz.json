@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "düşünemeyiz",
     "root": "düşün",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yiz",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "turkish_example_sentence": "Biz bu kötü hava koşullarında açık havada düşünemeyiz.",
-  "english_example_sentence": "We cannot think outdoors in these bad weather conditions.",
-  "russian_example_sentence": "Мы не можем думать на открытом воздухе в таких плохих погодных условиях.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-15T12:13:55.909283+00:00",
-  "turkish_example_sentence_with_blank": "Biz bu kötü hava koşullarında açık havada ______."
+  "turkish_example_sentence": "Biz geç saatte ciddi aile meselesini düşünemeyiz",
+  "english_example_sentence": "We cannot think about the serious family matter at a late hour",
+  "russian_example_sentence": "Мы не можем думать о серьезном семейном деле в поздний час",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:30:42.607782+00:00",
+  "turkish_example_sentence_with_blank": "Biz geç saatte ciddi aile meselesini ______"
 }

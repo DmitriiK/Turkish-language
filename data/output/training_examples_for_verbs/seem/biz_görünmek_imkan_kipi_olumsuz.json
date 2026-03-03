@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "görünemeyiz",
     "root": "görün",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yiz",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "turkish_example_sentence": "Biz kalabalık sokak festivalinde hiç sakin görünemeyiz",
-  "english_example_sentence": "We cannot seem calm at all at the crowded street festival",
-  "russian_example_sentence": "Мы не можем казаться спокойными на многолюдном уличном фестивале",
+  "turkish_example_sentence": "Biz kirli spor ayakkabılarla profesyonel görünemeyiz",
+  "english_example_sentence": "We cannot seem professional in dirty sports shoes",
+  "russian_example_sentence": "Мы не можем казаться профессиональными в грязных спортивных ботинках",
   "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-17T09:58:32.147640+00:00",
-  "turkish_example_sentence_with_blank": "Biz kalabalık sokak festivalinde hiç sakin ______"
+  "generated_at": "2026-03-03T08:45:18.295825+00:00",
+  "turkish_example_sentence_with_blank": "Biz kirli spor ayakkabılarla profesyonel ______"
 }

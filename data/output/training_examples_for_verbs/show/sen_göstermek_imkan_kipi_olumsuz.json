@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "gösteremezsin",
     "root": "göster",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "zsin",
+    "personal_affix": "sin",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "turkish_example_sentence": "Sen kırık telefonunla güzel manzara resmini gösteremezsin",
-  "english_example_sentence": "You cannot show the beautiful landscape picture with your broken phone",
-  "russian_example_sentence": "Ты не можешь показать красивую фотографию пейзажа своим сломанным телефоном",
+  "turkish_example_sentence": "Sen ona kişisel özel mektupları gösteremezsin",
+  "english_example_sentence": "You cannot show him the personal private letters",
+  "russian_example_sentence": "Ты не можешь показать ему личные частные письма",
   "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-17T10:42:45.353961+00:00",
-  "turkish_example_sentence_with_blank": "Sen kırık telefonunla güzel manzara resmini ______"
+  "generated_at": "2026-03-03T08:46:41.444204+00:00",
+  "turkish_example_sentence_with_blank": "Sen ona kişisel özel mektupları ______"
 }

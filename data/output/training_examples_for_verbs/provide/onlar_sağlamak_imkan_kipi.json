@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "sağlayabilirler",
     "root": "sağla",
-    "tense_affix": "yabil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They can provide free delivery service.",
-  "russian_example_sentence": "Они могут предоставить бесплатную доставку.",
-  "turkish_example_sentence": "Onlar ücretsiz teslimat hizmeti sağlayabilirler.",
-  "turkish_example_sentence_with_blank": "Onlar ücretsiz teslimat hizmeti ______."
+  "turkish_example_sentence": "Onlar hastanede acil sağlık hizmetlerini hızla sağlayabilirler",
+  "english_example_sentence": "They can quickly provide emergency health services at the hospital",
+  "russian_example_sentence": "Они могут быстро предоставить экстренные медицинские услуги в больнице",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:53:44.595494+00:00",
+  "turkish_example_sentence_with_blank": "Onlar hastanede acil sağlık hizmetlerini hızla ______"
 }

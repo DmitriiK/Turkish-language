@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "dönemezler",
     "root": "dön",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "They cannot return to see the movie",
-  "russian_example_sentence": "Они не могут вернуться, чтобы посмотреть фильм",
-  "turkish_example_sentence": "Onlar filmi görmek için dönemezler",
-  "turkish_example_sentence_with_blank": "Onlar filmi görmek için ______"
+  "turkish_example_sentence": "Onlar yağmurlu günde ıslak dağlardan dönemezler",
+  "english_example_sentence": "They cannot return from the wet mountains on a rainy day",
+  "russian_example_sentence": "Они не могут вернуться с мокрых гор в дождливый день",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:25:24.888415+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yağmurlu günde ıslak dağlardan ______"
 }

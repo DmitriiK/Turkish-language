@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "takip edemezler",
     "root": "takip et",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "zler",
+    "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "They cannot follow the abstract philosophical discussion properly",
-  "russian_example_sentence": "Они не могут следить за абстрактной философской дискуссией правильно",
-  "turkish_example_sentence": "Onlar soyut felsefi tartışmayı düzgün takip edemezler",
-  "turkish_example_sentence_with_blank": "Onlar soyut felsefi tartışmayı düzgün ______"
+  "turkish_example_sentence": "Onlar uzun bilimsel konferansı sabah erken takip edemezler",
+  "english_example_sentence": "They cannot follow the long scientific conference early in the morning",
+  "russian_example_sentence": "Они не могут следить за длинной научной конференцией рано утром",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:02:47.363502+00:00",
+  "turkish_example_sentence_with_blank": "Onlar uzun bilimsel konferansı sabah erken ______"
 }

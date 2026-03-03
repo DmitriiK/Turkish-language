@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "kesemezler",
     "root": "kes",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "zler",
+    "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "They cannot cut thick plastic sheets without tools",
-  "russian_example_sentence": "Они не могут резать толстые пластиковые листы без инструментов",
-  "turkish_example_sentence": "Onlar kalın plastik levhaları araçlar olmadan kesemezler",
-  "turkish_example_sentence_with_blank": "Onlar kalın plastik levhaları araçlar olmadan ______"
+  "turkish_example_sentence": "Onlar kalın halı dokusunu basit ev makasıyla kesemezler",
+  "english_example_sentence": "They cannot cut the thick carpet texture with simple household scissors",
+  "russian_example_sentence": "Они не могут резать толстую ковровую текстуру простыми домашними ножницами",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:19:39.400537+00:00",
+  "turkish_example_sentence_with_blank": "Onlar kalın halı dokusunu basit ev makasıyla ______"
 }

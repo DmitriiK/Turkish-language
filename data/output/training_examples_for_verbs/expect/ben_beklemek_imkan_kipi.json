@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "bekleyebilirim",
     "root": "bekle",
-    "tense_affix": "yebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "irim",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I can expect good news tomorrow",
-  "russian_example_sentence": "Я могу ожидать хорошие новости завтра",
-  "turkish_example_sentence": "Ben yarın harika haberleri bekleyebilirim",
-  "turkish_example_sentence_with_blank": "Ben yarın harika haberleri ______"
+  "turkish_example_sentence": "Ben önemli toplantı sonucunu sabırla bekleyebilirim",
+  "english_example_sentence": "I can wait for the important meeting result patiently",
+  "russian_example_sentence": "Я могу терпеливо ждать результат важной встречи",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:17:05.213645+00:00",
+  "turkish_example_sentence_with_blank": "Ben önemli toplantı sonucunu sabırla ______"
 }

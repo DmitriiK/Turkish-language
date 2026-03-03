@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "isteyebilirim",
     "root": "iste",
-    "tense_affix": "yebil",
+    "modal_affix": "yebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "irim",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Ben bu güzel sarı çiçekleri bahçede isteyebilirim.",
-  "english_example_sentence": "I can want these beautiful yellow flowers in the garden.",
-  "russian_example_sentence": "Я могу хотеть эти красивые жёлтые цветы в саду.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T11:49:09.633607+00:00",
-  "turkish_example_sentence_with_blank": "Ben bu güzel sarı çiçekleri bahçede ______."
+  "turkish_example_sentence": "Ben sıcak çorba ve taze ekmek isteyebilirim",
+  "english_example_sentence": "I can want hot soup and fresh bread",
+  "russian_example_sentence": "Я могу хотеть горячий суп и свежий хлеб",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:33:10.979460+00:00",
+  "turkish_example_sentence_with_blank": "Ben sıcak çorba ve taze ekmek ______"
 }

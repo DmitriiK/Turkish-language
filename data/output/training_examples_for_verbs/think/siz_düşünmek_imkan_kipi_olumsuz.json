@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "düşünemezsiniz",
     "root": "düşün",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "zsiniz",
+    "personal_affix": "siniz",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "turkish_example_sentence": "Siz bu stresli durumda mantıklı düşünemezsiniz.",
-  "english_example_sentence": "You cannot think logically in this stressful situation.",
-  "russian_example_sentence": "Вы не можете думать логически в этой стрессовой ситуации.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-15T12:13:55.909283+00:00",
-  "turkish_example_sentence_with_blank": "Siz bu stresli durumda mantıklı ______."
+  "turkish_example_sentence": "Siz kalabalık toplantıda özel sağlık problemini düşünemezsiniz",
+  "english_example_sentence": "You cannot think about the private health problem in the crowded meeting",
+  "russian_example_sentence": "Вы не можете думать о личной проблеме со здоровьем на переполненном собрании",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:30:42.607782+00:00",
+  "turkish_example_sentence_with_blank": "Siz kalabalık toplantıda özel sağlık problemini ______"
 }

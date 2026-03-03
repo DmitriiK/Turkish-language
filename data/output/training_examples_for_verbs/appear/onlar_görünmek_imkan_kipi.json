@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "görünebilirler",
     "root": "görün",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They can appear sophisticated wearing those designer Italian leather shoes",
-  "russian_example_sentence": "Они могут выглядеть изысканно в этих дизайнерских итальянских кожаных туфлях",
-  "turkish_example_sentence": "Onlar o tasarımcı İtalyan deri ayakkabılarıyla sofistike görünebilirler",
-  "turkish_example_sentence_with_blank": "Onlar o tasarımcı İtalyan deri ayakkabılarıyla sofistike ______"
+  "turkish_example_sentence": "Onlar hazırlık tamamlandığında ulusal müzik festivalinde sahne performansında görünebilirler",
+  "english_example_sentence": "They can appear in the stage performance at the national music festival when preparation is completed",
+  "russian_example_sentence": "Они могут появиться в сценическом выступлении на национальном музыкальном фестивале когда подготовка завершится",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:13:09.106866+00:00",
+  "turkish_example_sentence_with_blank": "Onlar hazırlık tamamlandığında ulusal müzik festivalinde sahne performansında ______"
 }

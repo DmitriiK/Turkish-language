@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "ayrılabilirim",
     "root": "ayrıl",
-    "tense_affix": "abil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "irim",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I can leave the crowded market early today",
-  "russian_example_sentence": "Я могу уйти с переполненного рынка рано сегодня",
-  "turkish_example_sentence": "Ben kalabalık pazardan erken ayrılabilirim",
-  "turkish_example_sentence_with_blank": "Ben kalabalık pazardan erken ______"
+  "turkish_example_sentence": "Ben yarın sabah erken işten ayrılabilirim",
+  "english_example_sentence": "I can leave from work early tomorrow morning",
+  "russian_example_sentence": "Я могу уйти с работы рано завтра утром",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:41:30.094045+00:00",
+  "turkish_example_sentence_with_blank": "Ben yarın sabah erken işten ______"
 }

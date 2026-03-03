@@ -1,0 +1,23 @@
+{
+  "verb_rank": 6,
+  "verb_english": "get",
+  "verb_russian": "получать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almadığınız",
+    "root": "al",
+    "modal_affix": null,
+    "tense_affix": "dığ",
+    "verb_tense": "dik_sıfat_fiil",
+    "personal_pronoun": "siz",
+    "personal_affix": "ınız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "turkish_example_sentence": "Siz henüz almadığınız izin belgesini bugün teslim edin.",
+  "english_example_sentence": "Submit the permit you haven't received yet today.",
+  "russian_example_sentence": "Сегодня сдайте разрешение, которое вы еще не получили.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2026-03-03T13:46:53.949949+00:00",
+  "turkish_example_sentence_with_blank": "Siz henüz ______ izin belgesini bugün teslim edin."
+}

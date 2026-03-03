@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "kalamam",
     "root": "kal",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "I cannot stay late at the crowded restaurant tonight",
-  "russian_example_sentence": "Я не могу остаться поздно в переполненном ресторане сегодня вечером",
-  "turkish_example_sentence": "Ben bu gece kalabalık restoranda geç kalamam",
-  "turkish_example_sentence_with_blank": "Ben bu gece kalabalık restoranda geç ______"
+  "turkish_example_sentence": "Ben soğuk dağ evinde gece kalamam",
+  "english_example_sentence": "I cannot stay in the cold mountain house at night",
+  "russian_example_sentence": "Я не могу остаться в холодном горном доме ночью",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:18:22.544656+00:00",
+  "turkish_example_sentence_with_blank": "Ben soğuk dağ evinde gece ______"
 }

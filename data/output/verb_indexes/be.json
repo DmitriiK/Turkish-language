@@ -6,6 +6,78 @@
   "folder_name": "be",
   "examples": [
     {
+      "tense": "dik_sıfat_fiil",
+      "pronoun": "ben",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/be/ben_olmak_dik_sıfat_fiil_olumsuz.json"
+    },
+    {
+      "tense": "dik_sıfat_fiil",
+      "pronoun": "biz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/be/biz_olmak_dik_sıfat_fiil_olumsuz.json"
+    },
+    {
+      "tense": "dik_sıfat_fiil",
+      "pronoun": "o",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/be/o_olmak_dik_sıfat_fiil_olumsuz.json"
+    },
+    {
+      "tense": "dik_sıfat_fiil",
+      "pronoun": "onlar",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/be/onlar_olmak_dik_sıfat_fiil_olumsuz.json"
+    },
+    {
+      "tense": "dik_sıfat_fiil",
+      "pronoun": "sen",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/be/sen_olmak_dik_sıfat_fiil_olumsuz.json"
+    },
+    {
+      "tense": "dik_sıfat_fiil",
+      "pronoun": "siz",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/be/siz_olmak_dik_sıfat_fiil_olumsuz.json"
+    },
+    {
+      "tense": "dik_sıfat_fiil",
+      "pronoun": "ben",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/be/ben_olmak_dik_sıfat_fiil.json"
+    },
+    {
+      "tense": "dik_sıfat_fiil",
+      "pronoun": "biz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/be/biz_olmak_dik_sıfat_fiil.json"
+    },
+    {
+      "tense": "dik_sıfat_fiil",
+      "pronoun": "o",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/be/o_olmak_dik_sıfat_fiil.json"
+    },
+    {
+      "tense": "dik_sıfat_fiil",
+      "pronoun": "onlar",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/be/onlar_olmak_dik_sıfat_fiil.json"
+    },
+    {
+      "tense": "dik_sıfat_fiil",
+      "pronoun": "sen",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/be/sen_olmak_dik_sıfat_fiil.json"
+    },
+    {
+      "tense": "dik_sıfat_fiil",
+      "pronoun": "siz",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/be/siz_olmak_dik_sıfat_fiil.json"
+    },
+    {
       "tense": "emir_kipi",
       "pronoun": "o",
       "polarity": "negative",
@@ -558,6 +630,18 @@
       "file_path": "data/output/training_examples_for_verbs/be/siz_olmak_imkan_kipi.json"
     },
     {
+      "tense": "inca_zarf_fiil",
+      "pronoun": "none",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/be/none_olmak_inca_zarf_fiil_olumsuz.json"
+    },
+    {
+      "tense": "inca_zarf_fiil",
+      "pronoun": "none",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/be/none_olmak_inca_zarf_fiil.json"
+    },
+    {
       "tense": "istek_kipi",
       "pronoun": "ben",
       "polarity": "negative",
@@ -628,6 +712,18 @@
       "pronoun": "siz",
       "polarity": "positive",
       "file_path": "data/output/training_examples_for_verbs/be/siz_olmak_istek_kipi.json"
+    },
+    {
+      "tense": "ken_zarf_fiil",
+      "pronoun": "none",
+      "polarity": "negative",
+      "file_path": "data/output/training_examples_for_verbs/be/none_olmak_ken_zarf_fiil_olumsuz.json"
+    },
+    {
+      "tense": "ken_zarf_fiil",
+      "pronoun": "none",
+      "polarity": "positive",
+      "file_path": "data/output/training_examples_for_verbs/be/none_olmak_ken_zarf_fiil.json"
     },
     {
       "tense": "sıfat_fiil",

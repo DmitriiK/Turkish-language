@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "diyebilirsiniz",
     "root": "de",
-    "tense_affix": "yebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "irsiniz",
+    "personal_affix": "siniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can mean something quite different",
-  "russian_example_sentence": "Вы можете означать что-то совсем другое",
-  "turkish_example_sentence": "Siz bu popüler sözcüğün birçok anlamını diyebilirsiniz",
-  "turkish_example_sentence_with_blank": "Siz bu popüler sözcüğün birçok anlamını ______"
+  "turkish_example_sentence": "Siz doktora sağlık sorunlarınızı rahatça diyebilirsiniz",
+  "english_example_sentence": "You can say your health problems to the doctor comfortably",
+  "russian_example_sentence": "Вы можете сказать свои проблемы со здоровьем врачу спокойно",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:42:46.189269+00:00",
+  "turkish_example_sentence_with_blank": "Siz doktora sağlık sorunlarınızı rahatça ______"
 }

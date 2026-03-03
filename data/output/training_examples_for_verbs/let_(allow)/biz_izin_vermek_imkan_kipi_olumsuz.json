@@ -1,20 +1,23 @@
 {
   "verb_rank": 30,
-  "verb_english": "let (allow)",
+  "verb_english": "let",
   "verb_russian": "позволять",
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
     "verb_full": "izin veremeyiz",
-    "root": "izin ver",
-    "tense_affix": "emez",
+    "root": "ver",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iz",
+    "personal_affix": "yiz",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "We cannot let this happen.",
-  "russian_example_sentence": "Мы не можем позволить этому случиться.",
-  "turkish_example_sentence": "Biz bunun olmasına izin veremeyiz.",
-  "turkish_example_sentence_with_blank": "Biz bunun olmasına ______."
+  "turkish_example_sentence": "Biz müşterilere restoranda sigara içmelerine izin veremeyiz",
+  "english_example_sentence": "We cannot let customers smoke in the restaurant",
+  "russian_example_sentence": "Мы не можем позволить клиентам курить в ресторане",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:44:05.342589+00:00",
+  "turkish_example_sentence_with_blank": "Biz müşterilere restoranda sigara içmelerine ______"
 }

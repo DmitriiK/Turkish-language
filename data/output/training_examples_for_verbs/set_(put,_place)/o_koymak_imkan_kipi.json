@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "koyabilir",
     "root": "koy",
-    "tense_affix": "abil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "ir",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He can place the warm bread on the wooden counter",
-  "russian_example_sentence": "Он может поставить теплый хлеб на деревянный прилавок",
-  "turkish_example_sentence": "O sıcak ekmeği ahşap tezgaha koyabilir",
-  "turkish_example_sentence_with_blank": "O sıcak ekmeği ahşap tezgaha ______"
+  "turkish_example_sentence": "O sıcak kahve fincanını ahşap küçük sehpanın ortasına koyabilir",
+  "english_example_sentence": "He can put the hot coffee cup in the center of the small wooden table",
+  "russian_example_sentence": "Он может поставить горячую чашку кофе в центр маленького деревянного столика",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:58:54.561388+00:00",
+  "turkish_example_sentence_with_blank": "O sıcak kahve fincanını ahşap küçük sehpanın ortasına ______"
 }

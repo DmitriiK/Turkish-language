@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "izleyebilirim",
     "root": "izle",
-    "tense_affix": "yebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "irim",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I can watch the exciting football match tonight",
-  "russian_example_sentence": "Я могу смотреть захватывающий футбольный матч сегодня вечером",
-  "turkish_example_sentence": "Ben bu gece heyecanlı futbol maçını izleyebilirim",
-  "turkish_example_sentence_with_blank": "Ben bu gece heyecanlı futbol maçını ______"
+  "turkish_example_sentence": "Ben akşam yeni Türk filmini izleyebilirim",
+  "english_example_sentence": "I can watch the new Turkish film in the evening",
+  "russian_example_sentence": "Я могу посмотреть новый турецкий фильм вечером",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:02:10.131924+00:00",
+  "turkish_example_sentence_with_blank": "Ben akşam yeni Türk filmini ______"
 }

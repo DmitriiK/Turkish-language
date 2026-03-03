@@ -4,17 +4,20 @@
   "verb_russian": "оставаться",
   "verb_infinitive": "kalmak",
   "turkish_verb": {
-    "verb_full": "kalamamasın",
+    "verb_full": "kalamazsın",
     "root": "kal",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "sın",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "You cannot stay in the noisy dormitory for long",
-  "russian_example_sentence": "Ты не можешь остаться в шумном общежитии надолго",
-  "turkish_example_sentence": "Sen gürültülü yurtta uzun süre kalamamasın",
-  "turkish_example_sentence_with_blank": "Sen gürültülü yurtta uzun süre ______"
+  "turkish_example_sentence": "Sen kirli eski pansiyonda tek kalamazsın",
+  "english_example_sentence": "You cannot stay alone in the dirty old guesthouse",
+  "russian_example_sentence": "Ты не можешь остаться один в грязном старом пансионе",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:18:22.544656+00:00",
+  "turkish_example_sentence_with_blank": "Sen kirli eski pansiyonda tek ______"
 }

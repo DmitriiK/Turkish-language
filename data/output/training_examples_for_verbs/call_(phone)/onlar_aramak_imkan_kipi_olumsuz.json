@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "arayamazlar",
     "root": "ara",
-    "tense_affix": "yama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "zlar",
+    "personal_affix": "lar",
     "polarity": "negative",
-    "negative_affix": "yama"
+    "negative_affix": "ama"
   },
-  "turkish_example_sentence": "Onlar tatil günlerinde kapalı devlet dairesini arayamazlar",
-  "english_example_sentence": "They cannot call the closed government office on holidays",
-  "russian_example_sentence": "Они не могут позвонить в закрытое государственное учреждение в праздничные дни",
+  "turkish_example_sentence": "Onlar kötü hava koşullarında uzak köyleri arayamazlar",
+  "english_example_sentence": "They cannot call the distant villages in bad weather conditions",
+  "russian_example_sentence": "Они не могут звонить в отдалённые деревни в плохих погодных условиях",
   "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-16T10:25:46.796768+00:00",
-  "turkish_example_sentence_with_blank": "Onlar tatil günlerinde kapalı devlet dairesini ______"
+  "generated_at": "2026-03-03T08:37:44.045000+00:00",
+  "turkish_example_sentence_with_blank": "Onlar kötü hava koşullarında uzak köyleri ______"
 }

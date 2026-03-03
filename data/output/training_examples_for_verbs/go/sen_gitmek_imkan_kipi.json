@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "gidebilirsin",
     "root": "git",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "irsin",
+    "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Sen akşam konserinde ünlü sanatçıyı görmek için gidebilirsin.",
-  "english_example_sentence": "You can go to see the famous artist at the evening concert.",
-  "russian_example_sentence": "Ты можешь пойти, чтобы увидеть известного артиста на вечернем концерте.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-14T07:34:22.682535+00:00",
-  "turkish_example_sentence_with_blank": "Sen akşam konserinde ünlü sanatçıyı görmek için ______."
+  "turkish_example_sentence": "Sen otobüsle büyük alışveriş merkezine gidebilirsin",
+  "english_example_sentence": "You can go to the big shopping center by bus",
+  "russian_example_sentence": "Ты можешь поехать в большой торговый центр на автобусе",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:28:16.311910+00:00",
+  "turkish_example_sentence_with_blank": "Sen otobüsle büyük alışveriş merkezine ______"
 }

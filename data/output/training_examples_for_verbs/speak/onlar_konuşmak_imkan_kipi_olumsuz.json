@@ -4,17 +4,20 @@
   "verb_russian": "говорить",
   "verb_infinitive": "konuşmak",
   "turkish_verb": {
-    "verb_full": "konuşamayız",
+    "verb_full": "konuşamazlar",
     "root": "konuş",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "They cannot speak about secret",
-  "russian_example_sentence": "Они не могут говорить о секрете",
-  "turkish_example_sentence": "Onlar gizli bilgiyi kimseye konuşamayız",
-  "turkish_example_sentence_with_blank": "Onlar gizli bilgiyi kimseye ______"
+  "turkish_example_sentence": "Onlar tiyatro gösterisi sırasında cep telefonlarıyla konuşamazlar",
+  "english_example_sentence": "They cannot speak on their mobile phones during the theater performance",
+  "russian_example_sentence": "Они не могут говорить по мобильным телефонам во время театрального представления",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:04:40.105523+00:00",
+  "turkish_example_sentence_with_blank": "Onlar tiyatro gösterisi sırasında cep telefonlarıyla ______"
 }

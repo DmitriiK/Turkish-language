@@ -1,20 +1,23 @@
 {
   "verb_rank": 30,
-  "verb_english": "let (allow)",
+  "verb_english": "let",
   "verb_russian": "позволять",
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
     "verb_full": "izin veremem",
-    "root": "izin ver",
-    "tense_affix": "emez",
+    "root": "ver",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "im",
+    "personal_affix": "m",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "I cannot let you go there.",
-  "russian_example_sentence": "Я не могу позволить тебе туда пойти.",
-  "turkish_example_sentence": "Ben oraya gitmene izin veremem.",
-  "turkish_example_sentence_with_blank": "Ben oraya gitmene ______."
+  "turkish_example_sentence": "Ben yabancı misafirlere özel odama girmelerine izin veremem",
+  "english_example_sentence": "I cannot let foreign guests enter my private room",
+  "russian_example_sentence": "Я не могу позволить иностранным гостям войти в мою личную комнату",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:44:05.342589+00:00",
+  "turkish_example_sentence_with_blank": "Ben yabancı misafirlere özel odama girmelerine ______"
 }

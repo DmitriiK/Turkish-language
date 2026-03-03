@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "kazanabilirsiniz",
     "root": "kazan",
-    "tense_affix": "abil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "irsiniz",
+    "personal_affix": "siniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You all can win this big match.",
-  "russian_example_sentence": "Вы все можете выиграть этот важный матч.",
-  "turkish_example_sentence": "Siz bu büyük maçı kazanabilirsiniz.",
-  "turkish_example_sentence_with_blank": "Siz bu büyük maçı ______."
+  "turkish_example_sentence": "Siz değerli edebiyat ödülünü yaratıcı hikayenizle kazanabilirsiniz",
+  "english_example_sentence": "You can win the valuable literature award with your creative story",
+  "russian_example_sentence": "Вы можете выиграть ценную литературную премию вашим творческим рассказом",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:09:51.169013+00:00",
+  "turkish_example_sentence_with_blank": "Siz değerli edebiyat ödülünü yaratıcı hikayenizle ______"
 }

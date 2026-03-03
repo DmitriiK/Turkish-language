@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "harcayamayız",
     "root": "harca",
-    "tense_affix": "yama",
+    "modal_affix": "ama",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "ayız",
+    "personal_affix": "yız",
     "polarity": "negative",
-    "negative_affix": "yama"
+    "negative_affix": "ama"
   },
-  "english_example_sentence": "We cannot spend money on unnecessary items",
-  "russian_example_sentence": "Мы не можем тратить деньги на ненужные вещи",
-  "turkish_example_sentence": "Biz gereksiz şeylere para harcayamayız",
-  "turkish_example_sentence_with_blank": "Biz gereksiz şeylere para ______"
+  "turkish_example_sentence": "Biz sınırlı proje bütçemizi gereksiz teknik ekipmanlara harcayamayız",
+  "english_example_sentence": "We cannot spend our limited project budget on unnecessary technical equipment",
+  "russian_example_sentence": "Мы не можем тратить наш ограниченный проектный бюджет на ненужное техническое оборудование",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:07:20.216569+00:00",
+  "turkish_example_sentence_with_blank": "Biz sınırlı proje bütçemizi gereksiz teknik ekipmanlara ______"
 }

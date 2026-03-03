@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "çekemem",
     "root": "çek",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "mem",
+    "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "I cannot pull the broken rope",
-  "russian_example_sentence": "Я не могу тянуть порванную веревку",
-  "turkish_example_sentence": "Ben kopmuş ipi çekemem",
-  "turkish_example_sentence_with_blank": "Ben kopmuş ipi ______"
+  "turkish_example_sentence": "Ben kırık ahşap arabanın kapısını çekemem",
+  "english_example_sentence": "I cannot pull the broken wooden car's door",
+  "russian_example_sentence": "Я не могу тянуть дверь сломанной деревянной машины",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:24:47.153594+00:00",
+  "turkish_example_sentence_with_blank": "Ben kırık ahşap arabanın kapısını ______"
 }

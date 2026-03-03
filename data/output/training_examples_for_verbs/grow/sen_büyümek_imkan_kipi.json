@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "büyüyebilirsin",
     "root": "büyü",
-    "tense_affix": "yebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "irsin",
+    "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can grow healthy vegetables at home",
-  "russian_example_sentence": "Ты можешь выращивать полезные овощи дома",
-  "turkish_example_sentence": "Sen evde sağlıklı sebzeler büyüyebilirsin",
-  "turkish_example_sentence_with_blank": "Sen evde sağlıklı sebzeler ______"
+  "turkish_example_sentence": "Sen taze organik sebzeler yiyerek büyüyebilirsin",
+  "english_example_sentence": "You can grow by eating fresh organic vegetables",
+  "russian_example_sentence": "Ты можешь расти, употребляя свежие органические овощи",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:07:56.557739+00:00",
+  "turkish_example_sentence_with_blank": "Sen taze organik sebzeler yiyerek ______"
 }

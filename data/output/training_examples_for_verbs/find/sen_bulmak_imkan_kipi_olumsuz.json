@@ -4,19 +4,20 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulamassın",
+    "verb_full": "bulamazsın",
     "root": "bul",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "ssın",
+    "personal_affix": "sın",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "turkish_example_sentence": "Sen bu küçük mavi düğmeyi bulamassın.",
-  "english_example_sentence": "You cannot find this small blue button.",
-  "russian_example_sentence": "Ты не можешь найти эту маленькую синюю пуговицу.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-15T12:39:33.336399+00:00",
-  "turkish_example_sentence_with_blank": "Sen bu küçük mavi düğmeyi ______."
+  "turkish_example_sentence": "Sen kalabalık pazarda iyi taze balık bulamazsın",
+  "english_example_sentence": "You cannot find good fresh fish in the crowded market",
+  "russian_example_sentence": "Ты не можешь найти хорошую свежую рыбу на многолюдном рынке",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:35:09.863371+00:00",
+  "turkish_example_sentence_with_blank": "Sen kalabalık pazarda iyi taze balık ______"
 }

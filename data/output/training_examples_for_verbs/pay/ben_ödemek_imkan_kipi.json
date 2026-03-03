@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "ödeyebilirim",
     "root": "öde",
-    "tense_affix": "yebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "irim",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I can pay this bill today",
-  "russian_example_sentence": "Я могу заплатить этот счет сегодня",
-  "turkish_example_sentence": "Ben bu faturayı bugün ödeyebilirim",
-  "turkish_example_sentence_with_blank": "Ben bu faturayı bugün ______"
+  "turkish_example_sentence": "Ben büyük elektrik faturasını yarın ödeyebilirim",
+  "english_example_sentence": "I can pay the big electricity bill tomorrow",
+  "russian_example_sentence": "Я могу заплатить большой счёт за электричество завтра",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:56:18.438585+00:00",
+  "turkish_example_sentence_with_blank": "Ben büyük elektrik faturasını yarın ______"
 }

@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "yürüyemezsiniz",
     "root": "yürü",
-    "tense_affix": "yeme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "siniz",
     "polarity": "negative",
-    "negative_affix": "yeme"
+    "negative_affix": "eme"
   },
-  "english_example_sentence": "You cannot walk on this busy street.",
-  "russian_example_sentence": "Вы не можете прогуляться по этой оживленной улице.",
-  "turkish_example_sentence": "Siz bu kalabalık sokakta yürüyemezsiniz.",
-  "turkish_example_sentence_with_blank": "Siz bu kalabalık sokakta ______."
+  "turkish_example_sentence": "Siz tehlikeli inşaat alanında izinsiz yürüyemezsiniz",
+  "english_example_sentence": "You cannot walk without permission in the dangerous construction area",
+  "russian_example_sentence": "Вы не можете ходить без разрешения в опасной строительной зоне",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:09:10.543019+00:00",
+  "turkish_example_sentence_with_blank": "Siz tehlikeli inşaat alanında izinsiz ______"
 }

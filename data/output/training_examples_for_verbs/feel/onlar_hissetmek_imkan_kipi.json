@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "hissedebilirler",
     "root": "hisset",
-    "tense_affix": "ebilir",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Onlar kalabalık caddenin hareketliliğini hissedebilirler.",
-  "english_example_sentence": "They can feel the bustle of the crowded street.",
-  "russian_example_sentence": "Они могут чувствовать суету многолюдной улицы.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-12T13:12:20.306171+00:00",
-  "turkish_example_sentence_with_blank": "Onlar kalabalık caddenin hareketliliğini ______."
+  "turkish_example_sentence": "Onlar eski ahşap masanın pürüzlü yüzeyini elleriyle hissedebilirler",
+  "english_example_sentence": "They can feel the rough surface of the old wooden table with their hands",
+  "russian_example_sentence": "Они могут чувствовать шероховатую поверхность старого деревянного стола своими руками",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:40:17.498216+00:00",
+  "turkish_example_sentence_with_blank": "Onlar eski ahşap masanın pürüzlü yüzeyini elleriyle ______"
 }

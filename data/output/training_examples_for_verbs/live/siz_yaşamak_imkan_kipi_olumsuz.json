@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "yaşayamazsınız",
     "root": "yaşa",
-    "tense_affix": "yama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "zsınız",
+    "personal_affix": "sınız",
     "polarity": "negative",
-    "negative_affix": "yama"
+    "negative_affix": "ama"
   },
-  "english_example_sentence": "You cannot live peacefully with constant loud noise around",
-  "russian_example_sentence": "Вы не можете жить спокойно с постоянным громким шумом вокруг",
-  "turkish_example_sentence": "Siz etrafınızdaki sürekli gürültü ile sakin yaşayamazsınız",
-  "turkish_example_sentence_with_blank": "Siz etrafınızdaki sürekli gürültü ile sakin ______"
+  "turkish_example_sentence": "Siz tehlikeli savaş bölgesinde güvenle yaşayamazsınız",
+  "english_example_sentence": "You cannot live safely in the dangerous war zone",
+  "russian_example_sentence": "Вы не можете жить безопасно в опасной зоне войны",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:50:34.920754+00:00",
+  "turkish_example_sentence_with_blank": "Siz tehlikeli savaş bölgesinde güvenle ______"
 }

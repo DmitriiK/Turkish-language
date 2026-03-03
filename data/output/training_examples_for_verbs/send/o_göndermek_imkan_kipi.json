@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "gönderebilir",
     "root": "gönder",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "ir",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "She can send the report through email",
-  "russian_example_sentence": "Она может отправить отчет по электронной почте",
-  "turkish_example_sentence": "O önemli raporu elektronik posta aracılığıyla gönderebilir",
-  "turkish_example_sentence_with_blank": "O önemli raporu elektronik posta aracılığıyla ______"
+  "turkish_example_sentence": "O hızlı kargo ile taze meyveleri gönderebilir",
+  "english_example_sentence": "He can send the fresh fruits by fast cargo",
+  "russian_example_sentence": "Он может отправить свежие фрукты быстрой доставкой",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:16:24.992126+00:00",
+  "turkish_example_sentence_with_blank": "O hızlı kargo ile taze meyveleri ______"
 }

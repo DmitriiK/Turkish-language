@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "kalabilirler",
     "root": "kal",
-    "tense_affix": "abil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They can remain at the friendly family's spacious home",
-  "russian_example_sentence": "Они могут остаться в просторном доме дружелюбной семьи",
-  "turkish_example_sentence": "Onlar dostça ailenin geniş evinde kalabilirler",
-  "turkish_example_sentence_with_blank": "Onlar dostça ailenin geniş evinde ______"
+  "turkish_example_sentence": "Onlar sakin kırsal bölgedeki yeşil çiftlikte kalabilirler",
+  "english_example_sentence": "They can remain at the green farm in the quiet rural area",
+  "russian_example_sentence": "Они могут оставаться на зеленой ферме в тихой сельской местности",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:20:55.386704+00:00",
+  "turkish_example_sentence_with_blank": "Onlar sakin kırsal bölgedeki yeşil çiftlikte ______"
 }

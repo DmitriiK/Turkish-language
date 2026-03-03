@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "tutamazsın",
     "root": "tut",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "zsın",
+    "personal_affix": "sın",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "You cannot keep that wild animal safely",
-  "russian_example_sentence": "Ты не можешь держать это дикое животное безопасно",
-  "turkish_example_sentence": "Sen o tehlikeli vahşi hayvanı güvenli bir şekilde tutamazsın",
-  "turkish_example_sentence_with_blank": "Sen o tehlikeli vahşi hayvanı güvenli bir şekilde ______"
+  "turkish_example_sentence": "Sen sıcak metal tepsisini çıplak elle tutamazsın",
+  "english_example_sentence": "You cannot keep the hot metal tray with bare hand",
+  "russian_example_sentence": "Ты не можешь держать горячий металлический поднос голой рукой",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:43:23.379599+00:00",
+  "turkish_example_sentence_with_blank": "Sen sıcak metal tepsisini çıplak elle ______"
 }

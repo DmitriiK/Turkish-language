@@ -4,17 +4,20 @@
   "verb_russian": "верить",
   "verb_infinitive": "inanmak",
   "turkish_verb": {
-    "verb_full": "inanamıyız",
+    "verb_full": "inanamayız",
     "root": "inan",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yız",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "We cannot believe those wild conspiracy theories anymore",
-  "russian_example_sentence": "Мы не можем верить тем дикимтеориям заговора больше",
-  "turkish_example_sentence": "Biz o çılgın komplo teorilerine inanamıyız artık",
-  "turkish_example_sentence_with_blank": "Biz o çılgın komplo teorilerine ______ artık"
+  "turkish_example_sentence": "Biz tanımadığımız yabancı insanların sözlerine inanamayız",
+  "english_example_sentence": "We cannot believe the words of unknown foreign people",
+  "russian_example_sentence": "Мы не можем поверить словам незнакомых иностранных людей",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:51:11.688533+00:00",
+  "turkish_example_sentence_with_blank": "Biz tanımadığımız yabancı insanların sözlerine ______"
 }

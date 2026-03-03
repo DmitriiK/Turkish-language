@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "diyebilir",
     "root": "de",
-    "tense_affix": "yebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "ir",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He can mean something quite specific",
-  "russian_example_sentence": "Он может означать что-то совсем конкретное",
-  "turkish_example_sentence": "O eski kelimenin modern bir anlamını diyebilir",
-  "turkish_example_sentence_with_blank": "O eski kelimenin modern bir anlamını ______"
+  "turkish_example_sentence": "O toplantıda önemli haberleri yüksek sesle diyebilir",
+  "english_example_sentence": "He can say important news loudly at the meeting",
+  "russian_example_sentence": "Он может сказать важные новости громко на собрании",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:42:46.189269+00:00",
+  "turkish_example_sentence_with_blank": "O toplantıda önemli haberleri yüksek sesle ______"
 }

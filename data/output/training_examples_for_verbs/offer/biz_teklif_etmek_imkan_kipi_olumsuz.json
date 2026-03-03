@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "teklif edemeyiz",
     "root": "teklif et",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yiz",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "We cannot offer such a discount.",
-  "russian_example_sentence": "Мы не можем предложить такую скидку.",
-  "turkish_example_sentence": "Biz böyle bir indirim teklif edemeyiz.",
-  "turkish_example_sentence_with_blank": "Biz böyle bir indirim ______."
+  "turkish_example_sentence": "Biz komşulara pahalı hediye çiçekleri teklif edemeyiz",
+  "english_example_sentence": "We cannot offer expensive gift flowers to the neighbors",
+  "russian_example_sentence": "Мы не можем предложить дорогие подарочные цветы соседям",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:10:29.027751+00:00",
+  "turkish_example_sentence_with_blank": "Biz komşulara pahalı hediye çiçekleri ______"
 }

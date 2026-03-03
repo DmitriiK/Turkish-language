@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "sevemezsiniz",
     "root": "sev",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "zsiniz",
+    "personal_affix": "siniz",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "You cannot like that long boring lecture",
-  "russian_example_sentence": "Вы не можете нравиться эта длинная скучная лекция",
-  "turkish_example_sentence": "Siz o uzun sıkıcı dersi sevemezsiniz",
-  "turkish_example_sentence_with_blank": "Siz o uzun sıkıcı dersi ______"
+  "turkish_example_sentence": "Siz sıcak yaz günlerini pek sevemezsiniz",
+  "english_example_sentence": "You cannot like hot summer days very much",
+  "russian_example_sentence": "Вы не очень можете любить жаркие летние дни",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:49:58.275818+00:00",
+  "turkish_example_sentence_with_blank": "Siz sıcak yaz günlerini pek ______"
 }

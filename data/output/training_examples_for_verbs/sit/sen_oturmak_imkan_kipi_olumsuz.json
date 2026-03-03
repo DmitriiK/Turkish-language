@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "oturamazsın",
     "root": "otur",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "sın",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "You cannot sit there right now",
-  "russian_example_sentence": "Ты не можешь сидеть там сейчас",
-  "turkish_example_sentence": "Sen şu anda orada oturamazsın",
-  "turkish_example_sentence_with_blank": "Sen şu anda orada ______"
+  "turkish_example_sentence": "Sen kırık sandalyede güvenle hiç oturamazsın",
+  "english_example_sentence": "You cannot sit on the broken chair safely at all",
+  "russian_example_sentence": "Ты не можешь сидеть на сломанном стуле безопасно вообще",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:54:23.635225+00:00",
+  "turkish_example_sentence_with_blank": "Sen kırık sandalyede güvenle hiç ______"
 }

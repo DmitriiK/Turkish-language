@@ -5,16 +5,19 @@
   "verb_infinitive": "satın almak",
   "turkish_verb": {
     "verb_full": "satın alabilirim",
-    "root": "satın al",
-    "tense_affix": "abil",
+    "root": "al",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "irim",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I can buy fresh organic vegetables today",
-  "russian_example_sentence": "Я могу купить свежие органические овощи сегодня",
-  "turkish_example_sentence": "Ben bugün taze organik sebzeleri satın alabilirim",
-  "turkish_example_sentence_with_blank": "Ben bugün taze organik sebzeleri ______"
+  "turkish_example_sentence": "Ben yarın yeni kırmızı bisikleti satın alabilirim",
+  "english_example_sentence": "I can buy the new red bicycle tomorrow",
+  "russian_example_sentence": "Я могу купить новый красный велосипед завтра",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:13:45.073829+00:00",
+  "turkish_example_sentence_with_blank": "Ben yarın yeni kırmızı bisikleti ______"
 }

@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "buluşamazlar",
     "root": "buluş",
-    "tense_affix": "amaz",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "They cannot meet their new neighbors.",
-  "russian_example_sentence": "Они не могут встретиться с новыми соседями.",
-  "turkish_example_sentence": "Onlar yeni komşularıyla buluşamazlar.",
-  "turkish_example_sentence_with_blank": "Onlar yeni komşularıyla ______."
+  "turkish_example_sentence": "Onlar uzak sessiz kütüphanede gece buluşamazlar",
+  "english_example_sentence": "They cannot meet at the distant quiet library at night",
+  "russian_example_sentence": "Они не могут встретиться в далёкой тихой библиотеке ночью",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:56:55.670429+00:00",
+  "turkish_example_sentence_with_blank": "Onlar uzak sessiz kütüphanede gece ______"
 }

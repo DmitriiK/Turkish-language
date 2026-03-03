@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "bulamam",
     "root": "bul",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "turkish_example_sentence": "Ben bu karmaşık matematik problemini bulamam.",
-  "english_example_sentence": "I cannot find this complicated math problem.",
-  "russian_example_sentence": "Я не могу найти эту сложную математическую задачу.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-15T12:39:33.336399+00:00",
-  "turkish_example_sentence_with_blank": "Ben bu karmaşık matematik problemini ______."
+  "turkish_example_sentence": "Ben karanlık odada küçük anahtarı bulamam",
+  "english_example_sentence": "I cannot find the small key in the dark room",
+  "russian_example_sentence": "Я не могу найти маленький ключ в тёмной комнате",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:35:09.863371+00:00",
+  "turkish_example_sentence_with_blank": "Ben karanlık odada küçük anahtarı ______"
 }

@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "ödeyemeyiz",
     "root": "öde",
-    "tense_affix": "yeme",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yiz",
     "polarity": "negative",
-    "negative_affix": "yeme"
+    "negative_affix": null
   },
-  "english_example_sentence": "We cannot pay during a holiday",
-  "russian_example_sentence": "Мы не можем платить во время праздника",
-  "turkish_example_sentence": "Biz tatil sırasında ödeyemeyiz",
-  "turkish_example_sentence_with_blank": "Biz tatil sırasında ______"
+  "turkish_example_sentence": "Biz lüks otel rezervasyon ücretini peşin ödeyemeyiz",
+  "english_example_sentence": "We cannot pay the luxury hotel reservation fee in advance",
+  "russian_example_sentence": "Мы не можем заплатить плату за бронирование роскошного отеля заранее",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:56:18.438585+00:00",
+  "turkish_example_sentence_with_blank": "Biz lüks otel rezervasyon ücretini peşin ______"
 }

@@ -5,16 +5,19 @@
   "verb_infinitive": "karar vermek",
   "turkish_verb": {
     "verb_full": "karar veremezsin",
-    "root": "karar ver",
-    "tense_affix": "eme",
+    "root": "ver",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "mezsin",
+    "personal_affix": "sin",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "You cannot decide quickly",
-  "russian_example_sentence": "Ты не можешь решить быстро",
-  "turkish_example_sentence": "Sen hızlı karar veremezsin",
-  "turkish_example_sentence_with_blank": "Sen hızlı ______"
+  "turkish_example_sentence": "Sen küçük kardeşin için tehlikeli oyun parkında karar veremezsin",
+  "english_example_sentence": "You cannot decide for your little brother in the dangerous playground",
+  "russian_example_sentence": "Ты не можешь решить за своего младшего брата на опасной игровой площадке",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:24:05.640422+00:00",
+  "turkish_example_sentence_with_blank": "Sen küçük kardeşin için tehlikeli oyun parkında ______"
 }

@@ -4,19 +4,20 @@
   "verb_russian": "находить",
   "verb_infinitive": "bulmak",
   "turkish_verb": {
-    "verb_full": "bulamayacaklar",
+    "verb_full": "bulamazlar",
     "root": "bul",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "yacaklar",
+    "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "turkish_example_sentence": "Onlar bu soğuk kışta çiçek bulamayacaklar.",
-  "english_example_sentence": "They cannot find flowers in this cold winter.",
-  "russian_example_sentence": "Они не смогут найти цветы в эту холодную зиму.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-15T12:39:33.336399+00:00",
-  "turkish_example_sentence_with_blank": "Onlar bu soğuk kışta çiçek ______."
+  "turkish_example_sentence": "Onlar gece geç saatlerde açık uygun eczane bulamazlar",
+  "english_example_sentence": "They cannot find an open suitable pharmacy late at night",
+  "russian_example_sentence": "Они не могут найти открытую подходящую аптеку поздно ночью",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:35:09.863371+00:00",
+  "turkish_example_sentence_with_blank": "Onlar gece geç saatlerde açık uygun eczane ______"
 }

@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "gösterebilirler",
     "root": "göster",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Onlar turistlere ünlü müze koleksiyonunu gösterebilirler",
-  "english_example_sentence": "They can show the famous museum collection to the tourists",
-  "russian_example_sentence": "Они могут показать знаменитую музейную коллекцию туристам",
+  "turkish_example_sentence": "Onlar turistlere ünlü antik şehir kalıntılarını gösterebilirler",
+  "english_example_sentence": "They can show the tourists the famous ancient city ruins",
+  "russian_example_sentence": "Они могут показать туристам знаменитые руины древнего города",
   "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-17T10:42:45.353961+00:00",
-  "turkish_example_sentence_with_blank": "Onlar turistlere ünlü müze koleksiyonunu ______"
+  "generated_at": "2026-03-03T08:46:41.444204+00:00",
+  "turkish_example_sentence_with_blank": "Onlar turistlere ünlü antik şehir kalıntılarını ______"
 }

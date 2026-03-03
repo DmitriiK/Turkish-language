@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "kesemezsin",
     "root": "kes",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "zsin",
+    "personal_affix": "sin",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "You cannot cut sharp metal wires safely",
-  "russian_example_sentence": "Ты не можешь резать острую металлическую проволоку безопасно",
-  "turkish_example_sentence": "Sen keskin metal telleri güvenli kesemezsin",
-  "turkish_example_sentence_with_blank": "Sen keskin metal telleri güvenli ______"
+  "turkish_example_sentence": "Sen kalın metal teli eski paslanmış makasla kesemezsin",
+  "english_example_sentence": "You cannot cut the thick metal wire with old rusted scissors",
+  "russian_example_sentence": "Ты не можешь резать толстую металлическую проволоку старыми ржавыми ножницами",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:19:39.400537+00:00",
+  "turkish_example_sentence_with_blank": "Sen kalın metal teli eski paslanmış makasla ______"
 }

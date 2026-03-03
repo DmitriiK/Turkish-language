@@ -5,16 +5,19 @@
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
     "verb_full": "izin verebilirsin",
-    "root": "izin ver",
-    "tense_affix": "ebil",
+    "root": "ver",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "irsin",
+    "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can allow your best friend to use your new bicycle",
-  "russian_example_sentence": "Ты можешь позволить своему лучшему другу использовать твой новый велосипед",
-  "turkish_example_sentence": "Sen en iyi arkadaşına yeni bisikletini kullanmayı izin verebilirsin",
-  "turkish_example_sentence_with_blank": "Sen en iyi arkadaşına yeni bisikletini kullanmayı ______"
+  "turkish_example_sentence": "Sen üniversite öğrencilerine kütüphanede sessizce çalışmalarına izin verebilirsin",
+  "english_example_sentence": "You can allow university students to study quietly in the library",
+  "russian_example_sentence": "Ты можешь разрешить студентам университета тихо учиться в библиотеке",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:06:05.792973+00:00",
+  "turkish_example_sentence_with_blank": "Sen üniversite öğrencilerine kütüphanede sessizce çalışmalarına ______"
 }

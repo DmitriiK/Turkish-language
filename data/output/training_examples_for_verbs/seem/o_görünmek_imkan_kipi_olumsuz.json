@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "görünemez",
     "root": "görün",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "z",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "turkish_example_sentence": "O parlak güneş ışığında hiç yorgun görünemez",
-  "english_example_sentence": "She cannot seem tired at all in the bright sunlight",
-  "russian_example_sentence": "Она не может казаться усталой в ярком солнечном свете",
+  "turkish_example_sentence": "O eski pantolon gömlek kombinasyonuyla şık görünemez",
+  "english_example_sentence": "He cannot seem stylish in that old pants and shirt combination",
+  "russian_example_sentence": "Он не может казаться стильным в этой старой комбинации брюк и рубашки",
   "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-17T09:58:32.147640+00:00",
-  "turkish_example_sentence_with_blank": "O parlak güneş ışığında hiç yorgun ______"
+  "generated_at": "2026-03-03T08:45:18.295825+00:00",
+  "turkish_example_sentence_with_blank": "O eski pantolon gömlek kombinasyonuyla şık ______"
 }

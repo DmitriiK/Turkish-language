@@ -4,17 +4,20 @@
   "verb_russian": "создавать",
   "verb_infinitive": "yaratmak",
   "turkish_verb": {
-    "verb_full": "yaratabiliyorsun",
+    "verb_full": "yaratabilirsin",
     "root": "yarat",
-    "tense_affix": "abil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "iyor",
+    "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can create wonderful stories with your imagination",
-  "russian_example_sentence": "Ты можешь создавать чудесные истории со своим воображением",
-  "turkish_example_sentence": "Sen hayal gücünle ilginç öyküler yaratabiliyorsun",
-  "turkish_example_sentence_with_blank": "Sen hayal gücünle ilginç öyküler ______"
+  "turkish_example_sentence": "Sen yeni müzik bestelerini yaratabilirsin",
+  "english_example_sentence": "You can create new music compositions",
+  "russian_example_sentence": "Ты можешь создавать новые музыкальные композиции",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:04:00.385530+00:00",
+  "turkish_example_sentence_with_blank": "Sen yeni müzik bestelerini ______"
 }

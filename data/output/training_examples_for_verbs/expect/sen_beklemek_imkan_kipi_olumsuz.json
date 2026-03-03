@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "bekleyemezsin",
     "root": "bekle",
-    "tense_affix": "yeme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "zsin",
+    "personal_affix": "sin",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "eme"
   },
-  "english_example_sentence": "You cannot expect immediate results here",
-  "russian_example_sentence": "Ты не можешь ожидать немедленные результаты здесь",
-  "turkish_example_sentence": "Sen burada hızlı sonuçları bekleyemezsin",
-  "turkish_example_sentence_with_blank": "Sen burada hızlı sonuçları ______"
+  "turkish_example_sentence": "Sen soğuk kış gecesinde dışarıda arkadaşını bekleyemezsin",
+  "english_example_sentence": "You cannot wait for your friend outside on a cold winter night",
+  "russian_example_sentence": "Ты не можешь ждать своего друга на улице холодной зимней ночью",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:17:05.213645+00:00",
+  "turkish_example_sentence_with_blank": "Sen soğuk kış gecesinde dışarıda arkadaşını ______"
 }

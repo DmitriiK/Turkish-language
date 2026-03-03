@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "ödeyebilir",
     "root": "öde",
-    "tense_affix": "yebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "ir",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He can pay the tuition fees this month",
-  "russian_example_sentence": "Он может оплатить обучение в этом месяце",
-  "turkish_example_sentence": "O okul ücretini bu ay ödeyebilir",
-  "turkish_example_sentence_with_blank": "O okul ücretini bu ay ______"
+  "turkish_example_sentence": "O eski araba tamiri parasını haftaya ödeyebilir",
+  "english_example_sentence": "He can pay the old car repair money next week",
+  "russian_example_sentence": "Он может заплатить деньги за ремонт старой машины на следующей неделе",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:56:18.438585+00:00",
+  "turkish_example_sentence_with_blank": "O eski araba tamiri parasını haftaya ______"
 }

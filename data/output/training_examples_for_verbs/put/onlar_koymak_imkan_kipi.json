@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "koyabilirler",
     "root": "koy",
-    "tense_affix": "abil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They can put the beautiful paintings on the walls",
-  "russian_example_sentence": "Они могут положить красивые картины на стены",
-  "turkish_example_sentence": "Onlar güzel tabloları duvarlara koyabilirler",
-  "turkish_example_sentence_with_blank": "Onlar güzel tabloları duvarlara ______"
+  "turkish_example_sentence": "Onlar küçük oyuncakları renkli ahşap sandığa koyabilirler",
+  "english_example_sentence": "They can put the small toys in the colorful wooden chest",
+  "russian_example_sentence": "Они могут положить маленькие игрушки в цветной деревянный сундук",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:42:08.093195+00:00",
+  "turkish_example_sentence_with_blank": "Onlar küçük oyuncakları renkli ahşap sandığa ______"
 }

@@ -1,0 +1,23 @@
+{
+  "verb_rank": 1,
+  "verb_english": "be",
+  "verb_russian": "быть",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olduğunuz",
+    "root": "ol",
+    "modal_affix": null,
+    "tense_affix": "duğ",
+    "verb_tense": "dik_sıfat_fiil",
+    "personal_pronoun": "siz",
+    "personal_affix": "unuz",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "turkish_example_sentence": "Sizin olduğunuz şehir çok tarihi ve güzeldir.",
+  "english_example_sentence": "The city you are in is very historical and beautiful.",
+  "russian_example_sentence": "Город, в котором вы находитесь, очень исторический и красивый.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2026-03-03T13:41:07.568771+00:00",
+  "turkish_example_sentence_with_blank": "Sizin ______ şehir çok tarihi ve güzeldir."
+}

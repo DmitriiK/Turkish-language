@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "arayabiliriz",
     "root": "ara",
-    "tense_affix": "yabil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iriz",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Biz hafta sonu güzel restoranı rezervasyon için arayabiliriz",
-  "english_example_sentence": "We can call the nice restaurant for a reservation on the weekend",
-  "russian_example_sentence": "Мы можем позвонить в хороший ресторан для бронирования на выходных",
+  "turkish_example_sentence": "Biz önemli toplantıdan sonra teknik destek ekibini arayabiliriz",
+  "english_example_sentence": "We can call the technical support team after the important meeting",
+  "russian_example_sentence": "Мы можем позвонить в команду технической поддержки после важного собрания",
   "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-16T10:25:46.796768+00:00",
-  "turkish_example_sentence_with_blank": "Biz hafta sonu güzel restoranı rezervasyon için ______"
+  "generated_at": "2026-03-03T08:37:44.045000+00:00",
+  "turkish_example_sentence_with_blank": "Biz önemli toplantıdan sonra teknik destek ekibini ______"
 }

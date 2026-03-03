@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "çalışamayız",
     "root": "çalış",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yız",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "turkish_example_sentence": "Biz eski bozuk bilgisayarlarla hızlı verimli çalışamayız",
-  "english_example_sentence": "We cannot work fast and efficiently with old broken computers",
-  "russian_example_sentence": "Мы не можем работать быстро и эффективно со старыми сломанными компьютерами",
+  "turkish_example_sentence": "Biz tehlikeli inşaat sahasında güvenli ekipmansız çalışamayız",
+  "english_example_sentence": "We cannot work at the dangerous construction site without safe equipment",
+  "russian_example_sentence": "Мы не можем работать на опасной строительной площадке без безопасного оборудования",
   "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-16T09:22:07.425300+00:00",
-  "turkish_example_sentence_with_blank": "Biz eski bozuk bilgisayarlarla hızlı verimli ______"
+  "generated_at": "2026-03-03T08:37:07.187133+00:00",
+  "turkish_example_sentence_with_blank": "Biz tehlikeli inşaat sahasında güvenli ekipmansız ______"
 }

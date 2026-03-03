@@ -5,16 +5,19 @@
   "verb_infinitive": "karar vermek",
   "turkish_verb": {
     "verb_full": "karar verebilirler",
-    "root": "karar ver",
-    "tense_affix": "ebil",
+    "root": "ver",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They can decide easily",
-  "russian_example_sentence": "Они могут решить легко",
-  "turkish_example_sentence": "Onlar kolayca karar verebilirler",
-  "turkish_example_sentence_with_blank": "Onlar kolayca ______"
+  "turkish_example_sentence": "Onlar yeni okul binası projesi hakkında yarın karar verebilirler",
+  "english_example_sentence": "They can decide tomorrow about the new school building project",
+  "russian_example_sentence": "Они могут решить завтра о проекте нового школьного здания",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:24:05.640422+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yeni okul binası projesi hakkında yarın ______"
 }

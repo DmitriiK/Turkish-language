@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "sağlayabilirim",
     "root": "sağla",
-    "tense_affix": "yabil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "irim",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I can provide the necessary documents.",
-  "russian_example_sentence": "Я могу предоставить необходимые документы.",
-  "turkish_example_sentence": "Ben gerekli belgeleri sağlayabilirim.",
-  "turkish_example_sentence_with_blank": "Ben gerekli belgeleri ______."
+  "turkish_example_sentence": "Ben size gerekli tıbbi belgeleri sağlayabilirim",
+  "english_example_sentence": "I can provide you the necessary medical documents",
+  "russian_example_sentence": "Я могу предоставить вам необходимые медицинские документы",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:53:44.595494+00:00",
+  "turkish_example_sentence_with_blank": "Ben size gerekli tıbbi belgeleri ______"
 }

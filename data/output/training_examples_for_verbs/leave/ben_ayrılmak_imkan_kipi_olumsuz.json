@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "ayrılamam",
     "root": "ayrıl",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "I cannot leave this important meeting now",
-  "russian_example_sentence": "Я не могу уйти из этого важного совещания сейчас",
   "turkish_example_sentence": "Ben bu önemli toplantıdan şimdi ayrılamam",
+  "english_example_sentence": "I cannot leave from this important meeting now",
+  "russian_example_sentence": "Я не могу уйти с этого важного собрания сейчас",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:41:30.094045+00:00",
   "turkish_example_sentence_with_blank": "Ben bu önemli toplantıdan şimdi ______"
 }

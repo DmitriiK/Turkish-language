@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "düşemeyiz",
     "root": "düş",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yiz",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "We cannot fall during this important ceremony",
-  "russian_example_sentence": "Мы не можем упасть во время этой важной церемонии",
-  "turkish_example_sentence": "Biz bu önemli törenin sırasında düşemeyiz",
-  "turkish_example_sentence_with_blank": "Biz bu önemli törenin sırasında ______"
+  "turkish_example_sentence": "Biz geniş platformdan asla düşemeyiz",
+  "english_example_sentence": "We cannot ever fall from the wide platform",
+  "russian_example_sentence": "Мы никогда не можем упасть с широкой платформы",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:18:59.208757+00:00",
+  "turkish_example_sentence_with_blank": "Biz geniş platformdan asla ______"
 }

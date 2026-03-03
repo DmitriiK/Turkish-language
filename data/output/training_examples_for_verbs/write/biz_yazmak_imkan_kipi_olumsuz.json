@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "yazamayız",
     "root": "yaz",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yız",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "We cannot write in complete silence here.",
-  "russian_example_sentence": "Мы не можем писать в полной тишине здесь.",
-  "turkish_example_sentence": "Biz gürültülü okul kütüphanesinde sessiz ödevleri yazamayız.",
-  "turkish_example_sentence_with_blank": "Biz gürültülü okul kütüphanesinde sessiz ödevleri ______."
+  "turkish_example_sentence": "Biz zor matematik formüllerini tahtaya doğru yazamayız",
+  "english_example_sentence": "We cannot write the difficult mathematics formulas on the board correctly",
+  "russian_example_sentence": "Мы не можем правильно написать сложные математические формулы на доске",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:53:06.390578+00:00",
+  "turkish_example_sentence_with_blank": "Biz zor matematik formüllerini tahtaya doğru ______"
 }

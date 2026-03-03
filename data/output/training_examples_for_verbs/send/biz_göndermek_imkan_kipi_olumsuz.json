@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "gönderemeyiz",
     "root": "gönder",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yiz",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "We cannot send the order without payment",
-  "russian_example_sentence": "Мы не можем отправить заказ без оплаты",
-  "turkish_example_sentence": "Biz büyük siparişi ödeme olmadan gönderemeyiz",
-  "turkish_example_sentence_with_blank": "Biz büyük siparişi ödeme olmadan ______"
+  "turkish_example_sentence": "Biz soğuk havada hassas bitkileri gönderemeyiz",
+  "english_example_sentence": "We cannot send the delicate plants in cold weather",
+  "russian_example_sentence": "Мы не можем отправить нежные растения в холодную погоду",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:16:24.992126+00:00",
+  "turkish_example_sentence_with_blank": "Biz soğuk havada hassas bitkileri ______"
 }

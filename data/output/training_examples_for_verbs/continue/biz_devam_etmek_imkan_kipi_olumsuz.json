@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "devam edemeyiz",
     "root": "devam et",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yiz",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "We cannot continue this heavy construction work anymore",
-  "russian_example_sentence": "Мы не можем продолжить эту тяжелую строительную работу больше",
-  "turkish_example_sentence": "Biz ağır inşaat işini artık devam edemeyiz",
-  "turkish_example_sentence_with_blank": "Biz ağır inşaat işini artık ______"
+  "turkish_example_sentence": "Biz pahalı özel okul eğitimine bu yıl devam edemeyiz",
+  "english_example_sentence": "We cannot continue to the expensive private school education this year",
+  "russian_example_sentence": "Мы не можем продолжать дорогое образование в частной школе в этом году",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:58:11.016782+00:00",
+  "turkish_example_sentence_with_blank": "Biz pahalı özel okul eğitimine bu yıl ______"
 }

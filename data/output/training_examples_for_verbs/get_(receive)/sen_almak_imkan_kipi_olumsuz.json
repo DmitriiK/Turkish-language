@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "alamazsın",
     "root": "al",
-    "tense_affix": "amaz",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "sın",
     "polarity": "negative",
-    "negative_affix": "amaz"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "You cannot receive the book now",
-  "russian_example_sentence": "Ты не можешь сейчас получить книгу",
-  "turkish_example_sentence": "Sen şu anda kitabı alamazsın",
-  "turkish_example_sentence_with_blank": "Sen şu anda kitabı ______"
+  "turkish_example_sentence": "Sen akşam geç saatte yeni beyaz ayakkabıları alamazsın",
+  "english_example_sentence": "You cannot get the new white shoes late in the evening",
+  "russian_example_sentence": "Ты не можешь получить новые белые туфли поздно вечером",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:28:51.955371+00:00",
+  "turkish_example_sentence_with_blank": "Sen akşam geç saatte yeni beyaz ayakkabıları ______"
 }

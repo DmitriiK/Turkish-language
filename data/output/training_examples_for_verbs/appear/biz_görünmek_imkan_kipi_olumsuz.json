@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "görünemeyiz",
     "root": "görün",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yiz",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "We cannot appear disinterested in this fascinating historical documentary",
-  "russian_example_sentence": "Мы не можем выглядеть незаинтересованными в этом увлекательном историческом документальном фильме",
-  "turkish_example_sentence": "Biz bu ilginç tarihi belgesel filmde ilgisiz görünemeyiz",
-  "turkish_example_sentence_with_blank": "Biz bu ilginç tarihi belgesel filmde ilgisiz ______"
+  "turkish_example_sentence": "Biz özel aile seyahati nedeniyle pazartesi günkü konferansta görünemeyiz",
+  "english_example_sentence": "We cannot appear at Monday's conference due to a private family trip",
+  "russian_example_sentence": "Мы не можем появиться на конференции в понедельник из-за частной семейной поездки",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:13:09.106866+00:00",
+  "turkish_example_sentence_with_blank": "Biz özel aile seyahati nedeniyle pazartesi günkü konferansta ______"
 }

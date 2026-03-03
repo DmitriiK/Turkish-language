@@ -1,20 +1,23 @@
 {
   "verb_rank": 30,
-  "verb_english": "let (allow)",
+  "verb_english": "let",
   "verb_russian": "позволять",
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
     "verb_full": "izin veremezler",
-    "root": "izin ver",
-    "tense_affix": "emez",
+    "root": "ver",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
     "personal_affix": "ler",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "They cannot let him bring his dog.",
-  "russian_example_sentence": "Они не могут позволить ему привести свою собаку.",
-  "turkish_example_sentence": "Onlar onun köpeğini getirmesine izin veremezler.",
-  "turkish_example_sentence_with_blank": "Onlar onun köpeğini getirmesine ______."
+  "turkish_example_sentence": "Onlar yolculara uçakta tehlikeli kimyasal maddeleri taşımalarına izin veremezler",
+  "english_example_sentence": "They cannot let passengers carry dangerous chemical substances on the airplane",
+  "russian_example_sentence": "Они не могут позволить пассажирам перевозить опасные химические вещества в самолёте",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:44:05.342589+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yolculara uçakta tehlikeli kimyasal maddeleri taşımalarına ______"
 }

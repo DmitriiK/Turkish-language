@@ -1,0 +1,23 @@
+{
+  "verb_rank": 4,
+  "verb_english": "say",
+  "verb_russian": "сказать",
+  "verb_infinitive": "söylemek",
+  "turkish_verb": {
+    "verb_full": "söylemedikleri",
+    "root": "söyle",
+    "modal_affix": null,
+    "tense_affix": "dik",
+    "verb_tense": "dik_sıfat_fiil",
+    "personal_pronoun": "onlar",
+    "personal_affix": "leri",
+    "polarity": "negative",
+    "negative_affix": "me"
+  },
+  "turkish_example_sentence": "Toplantıda söylemedikleri fikirler çok değerliydi.",
+  "english_example_sentence": "The opinions they didn't express in the meeting were very valuable.",
+  "russian_example_sentence": "Мнения, которые они не выразили на собрании, были очень ценными.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2026-03-03T13:44:39.794801+00:00",
+  "turkish_example_sentence_with_blank": "Toplantıda ______ fikirler çok değerliydi."
+}

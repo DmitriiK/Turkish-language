@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "izleyemeyiz",
     "root": "izle",
-    "tense_affix": "yeme",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yiz",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "eme"
   },
-  "english_example_sentence": "We cannot watch the live concert because of the weather",
-  "russian_example_sentence": "Мы не можем смотреть живой концерт из-за погоды",
-  "turkish_example_sentence": "Biz kötü hava nedeniyle canlı konseri izleyemeyiz",
-  "turkish_example_sentence_with_blank": "Biz kötü hava nedeniyle canlı konseri ______"
+  "turkish_example_sentence": "Biz yorgun olduğumuzda üç saatlik sıkıcı opera gösterisini izleyemeyiz",
+  "english_example_sentence": "We cannot watch the three-hour boring opera show when we are tired",
+  "russian_example_sentence": "Мы не можем смотреть трёхчасовое скучное оперное представление, когда мы уставшие",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:02:10.131924+00:00",
+  "turkish_example_sentence_with_blank": "Biz yorgun olduğumuzda üç saatlik sıkıcı opera gösterisini ______"
 }

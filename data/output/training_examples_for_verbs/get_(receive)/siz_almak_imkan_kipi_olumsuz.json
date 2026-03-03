@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "alamazsınız",
     "root": "al",
-    "tense_affix": "amaz",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "sınız",
     "polarity": "negative",
-    "negative_affix": "amaz"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "You cannot receive any help this week",
-  "russian_example_sentence": "Вы не можете получать помощь на этой неделе",
-  "turkish_example_sentence": "Siz bu hafta hiçbir yardımı alamazsınız",
-  "turkish_example_sentence_with_blank": "Siz bu hafta hiçbir yardımı ______"
+  "turkish_example_sentence": "Siz kapalı dükkandan eski ahşap masayı alamazsınız",
+  "english_example_sentence": "You cannot get the old wooden table from the closed shop",
+  "russian_example_sentence": "Вы не можете получить старый деревянный стол из закрытого магазина",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:28:51.955371+00:00",
+  "turkish_example_sentence_with_blank": "Siz kapalı dükkandan eski ahşap masayı ______"
 }

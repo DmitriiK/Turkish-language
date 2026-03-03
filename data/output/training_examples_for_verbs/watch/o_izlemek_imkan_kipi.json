@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "izleyebilir",
     "root": "izle",
-    "tense_affix": "yebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "ir",
+    "personal_affix": "",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He can watch the interesting nature documentary tomorrow",
-  "russian_example_sentence": "Он может смотреть интересный документальный фильм о природе завтра",
-  "turkish_example_sentence": "O yarın ilginç doğa belgeselini izleyebilir",
-  "turkish_example_sentence_with_blank": "O yarın ilginç doğa belgeselini ______"
+  "turkish_example_sentence": "O bugün öğle arası ünlü şefin yemek programını izleyebilir",
+  "english_example_sentence": "He can watch the famous chef's cooking program during lunch break today",
+  "russian_example_sentence": "Он может посмотреть кулинарную программу знаменитого шефа в обеденный перерыв сегодня",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:02:10.131924+00:00",
+  "turkish_example_sentence_with_blank": "O bugün öğle arası ünlü şefin yemek programını ______"
 }

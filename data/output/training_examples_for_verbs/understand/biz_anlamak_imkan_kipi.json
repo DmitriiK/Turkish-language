@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "anlayabiliriz",
     "root": "anla",
-    "tense_affix": "yabil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iriz",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We can understand the detailed medical research papers",
-  "russian_example_sentence": "Мы можем понять подробные медицинские исследовательские статьи",
-  "turkish_example_sentence": "Biz ayrıntılı tıbbi araştırma makalelerini anlayabiliriz",
-  "turkish_example_sentence_with_blank": "Biz ayrıntılı tıbbi araştırma makalelerini ______"
+  "turkish_example_sentence": "Biz yeni müdürün önemli iş planını anlayabiliriz",
+  "english_example_sentence": "We can understand the new manager's important business plan",
+  "russian_example_sentence": "Мы можем понять важный бизнес-план нового менеджера",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:01:27.326180+00:00",
+  "turkish_example_sentence_with_blank": "Biz yeni müdürün önemli iş planını ______"
 }

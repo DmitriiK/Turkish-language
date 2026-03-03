@@ -1,0 +1,23 @@
+{
+  "verb_rank": 9,
+  "verb_english": "think",
+  "verb_russian": "думать",
+  "verb_infinitive": "düşünmek",
+  "turkish_verb": {
+    "verb_full": "düşünmezken",
+    "root": "düşün",
+    "modal_affix": null,
+    "tense_affix": "ezken",
+    "verb_tense": "ken_zarf_fiil",
+    "personal_pronoun": null,
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "m"
+  },
+  "turkish_example_sentence": "Gelecek hakkında hiç düşünmezken aniden bir sorun çıktı.",
+  "english_example_sentence": "While not thinking about the future at all, a problem suddenly arose.",
+  "russian_example_sentence": "Пока я совсем не думал о будущем, внезапно возникла проблема.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2026-03-03T13:49:53.146566+00:00",
+  "turkish_example_sentence_with_blank": "Gelecek hakkında hiç ______ aniden bir sorun çıktı."
+}

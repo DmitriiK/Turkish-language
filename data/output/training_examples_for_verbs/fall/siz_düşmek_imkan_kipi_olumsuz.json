@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "düşemezsiniz",
     "root": "düş",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "zsiniz",
+    "personal_affix": "siniz",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "You cannot fall with professional athletic training",
-  "russian_example_sentence": "Вы не можете упасть с профессиональной спортивной подготовкой",
-  "turkish_example_sentence": "Siz profesyonel atletik antrenmanla düşemezsiniz",
-  "turkish_example_sentence_with_blank": "Siz profesyonel atletik antrenmanla ______"
+  "turkish_example_sentence": "Siz güçlü emniyet kemeriyle uçaktan düşemezsiniz",
+  "english_example_sentence": "You cannot fall from the plane with the strong seatbelt",
+  "russian_example_sentence": "Вы не можете упасть из самолета с крепким ремнем безопасности",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:18:59.208757+00:00",
+  "turkish_example_sentence_with_blank": "Siz güçlü emniyet kemeriyle uçaktan ______"
 }

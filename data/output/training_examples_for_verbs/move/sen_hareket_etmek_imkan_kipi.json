@@ -4,17 +4,20 @@
   "verb_russian": "двигаться",
   "verb_infinitive": "hareket etmek",
   "turkish_verb": {
-    "verb_full": "hareket ettirebilirsin",
+    "verb_full": "hareket edebilirsin",
     "root": "hareket et",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "irsin",
+    "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can move these colorful chairs to the corner",
-  "russian_example_sentence": "Ты можешь передвинуть эти цветные стулья в угол",
-  "turkish_example_sentence": "Sen bu renkli sandalyeleri köşeye hareket ettirebilirsin",
-  "turkish_example_sentence_with_blank": "Sen bu renkli sandalyeleri köşeye ______"
+  "turkish_example_sentence": "Sen büyük dans salonunda özgürce hareket edebilirsin",
+  "english_example_sentence": "You can move freely in the big dance hall",
+  "russian_example_sentence": "Ты можешь двигаться свободно в большом танцевальном зале",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:49:22.811510+00:00",
+  "turkish_example_sentence_with_blank": "Sen büyük dans salonunda özgürce ______"
 }

@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "takip edebilirsin",
     "root": "takip et",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "irsin",
+    "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can follow the interesting documentary series easily",
-  "russian_example_sentence": "Ты можешь следить за интересным документальным сериалом легко",
-  "turkish_example_sentence": "Sen ilginç belgesel dizisini kolayca takip edebilirsin",
-  "turkish_example_sentence_with_blank": "Sen ilginç belgesel dizisini kolayca ______"
+  "turkish_example_sentence": "Sen ünlü Türk yazarın sosyal medya hesabını takip edebilirsin",
+  "english_example_sentence": "You can follow the famous Turkish writer's social media account",
+  "russian_example_sentence": "Ты можешь следить за аккаунтом известного турецкого писателя в социальных сетях",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:02:47.363502+00:00",
+  "turkish_example_sentence_with_blank": "Sen ünlü Türk yazarın sosyal medya hesabını ______"
 }

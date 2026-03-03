@@ -1,0 +1,23 @@
+{
+  "verb_rank": 7,
+  "verb_english": "make",
+  "verb_russian": "делать (создавать)",
+  "verb_infinitive": "yapmak",
+  "turkish_verb": {
+    "verb_full": "yapmadığımız",
+    "root": "yap",
+    "modal_affix": null,
+    "tense_affix": "dık",
+    "verb_tense": "dik_sıfat_fiil",
+    "personal_pronoun": "biz",
+    "personal_affix": "ımız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "turkish_example_sentence": "Bizim dün yapmadığımız spor bize enerji kaybettirdi.",
+  "english_example_sentence": "The sport we didn't do yesterday made us lose energy.",
+  "russian_example_sentence": "Спорт, которым мы не занимались вчера, заставил нас потерять энергию.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2026-03-03T13:47:58.439704+00:00",
+  "turkish_example_sentence_with_blank": "Bizim dün ______ spor bize enerji kaybettirdi."
+}

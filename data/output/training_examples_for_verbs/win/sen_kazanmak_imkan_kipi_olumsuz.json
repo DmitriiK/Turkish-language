@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "kazanamazsın",
     "root": "kazan",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "azsın",
+    "personal_affix": "sın",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "You cannot win this tough race.",
-  "russian_example_sentence": "Ты не можешь выиграть эту сложную гонку.",
-  "turkish_example_sentence": "Sen bu zorlu yarışı kazanamazsın.",
-  "turkish_example_sentence_with_blank": "Sen bu zorlu yarışı ______."
+  "turkish_example_sentence": "Sen hızlı bisiklet yarışını yeterli antrenman olmadan kazanamazsın",
+  "english_example_sentence": "You cannot win the fast bicycle race without sufficient training",
+  "russian_example_sentence": "Ты не можешь выиграть быструю велосипедную гонку без достаточной тренировки",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:09:51.169013+00:00",
+  "turkish_example_sentence_with_blank": "Sen hızlı bisiklet yarışını yeterli antrenman olmadan ______"
 }

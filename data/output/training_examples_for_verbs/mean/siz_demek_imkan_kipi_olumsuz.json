@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "diyemezsiniz",
     "root": "de",
-    "tense_affix": "yeme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "zsiniz",
+    "personal_affix": "siniz",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "eme"
   },
-  "english_example_sentence": "You cannot mean that unusual word",
-  "russian_example_sentence": "Вы не можете означать это необычное слово",
-  "turkish_example_sentence": "Siz o nadir kelimenin tam anlamını diyemezsiniz",
-  "turkish_example_sentence_with_blank": "Siz o nadir kelimenin tam anlamını ______"
+  "turkish_example_sentence": "Siz müşterilere kaba cümleler kesinlikle diyemezsiniz",
+  "english_example_sentence": "You absolutely cannot say rude sentences to the customers",
+  "russian_example_sentence": "Вы абсолютно не можете говорить грубые предложения клиентам",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:42:46.189269+00:00",
+  "turkish_example_sentence_with_blank": "Siz müşterilere kaba cümleler kesinlikle ______"
 }

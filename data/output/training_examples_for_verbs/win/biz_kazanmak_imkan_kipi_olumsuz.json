@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "kazanamayız",
     "root": "kazan",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "ayız",
+    "personal_affix": "yız",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "We can't win without more practice.",
-  "russian_example_sentence": "Мы не можем победить без большего количества практики.",
-  "turkish_example_sentence": "Biz daha fazla pratik yapmadan kazanamayız.",
-  "turkish_example_sentence_with_blank": "Biz daha fazla pratik yapmadan ______."
+  "turkish_example_sentence": "Biz uluslararası dans yarışmasını kısa hazırlık süresinde kazanamayız",
+  "english_example_sentence": "We cannot win the international dance competition in a short preparation time",
+  "russian_example_sentence": "Мы не можем выиграть международный танцевальный конкурс за короткое время подготовки",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:09:51.169013+00:00",
+  "turkish_example_sentence_with_blank": "Biz uluslararası dans yarışmasını kısa hazırlık süresinde ______"
 }

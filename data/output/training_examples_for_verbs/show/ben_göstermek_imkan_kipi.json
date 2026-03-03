@@ -6,10 +6,11 @@
   "turkish_verb": {
     "verb_full": "gösterebilirim",
     "root": "göster",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "irim",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
@@ -17,6 +18,6 @@
   "english_example_sentence": "I can show you my new photo album",
   "russian_example_sentence": "Я могу показать тебе мой новый фотоальбом",
   "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-17T10:42:45.353961+00:00",
+  "generated_at": "2026-03-03T08:46:41.444204+00:00",
   "turkish_example_sentence_with_blank": "Ben sana yeni fotoğraf albümümü ______"
 }

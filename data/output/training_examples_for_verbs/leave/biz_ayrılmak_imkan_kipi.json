@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "ayrılabiliriz",
     "root": "ayrıl",
-    "tense_affix": "abil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iriz",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We can leave the crowded restaurant after dinner",
-  "russian_example_sentence": "Мы можем уйти из переполненного ресторана после ужина",
-  "turkish_example_sentence": "Biz kalabalık restorandan akşam yemeğinden sonra ayrılabiliriz",
-  "turkish_example_sentence_with_blank": "Biz kalabalık restorandan akşam yemeğinden sonra ______"
+  "turkish_example_sentence": "Biz yeni restorandan akşam yemeğinden sonra ayrılabiliriz",
+  "english_example_sentence": "We can leave from the new restaurant after dinner",
+  "russian_example_sentence": "Мы можем уйти из нового ресторана после ужина",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:41:30.094045+00:00",
+  "turkish_example_sentence_with_blank": "Biz yeni restorandan akşam yemeğinden sonra ______"
 }

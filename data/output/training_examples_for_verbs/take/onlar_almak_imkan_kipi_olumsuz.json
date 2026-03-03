@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "alamazlar",
     "root": "al",
-    "tense_affix": "abil",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "lar",
     "polarity": "negative",
-    "negative_affix": "ama"
+    "negative_affix": null
   },
-  "turkish_example_sentence": "Onlar bu kırılgan cam eşyaları dikkatle alamazlar.",
-  "english_example_sentence": "They cannot take these fragile glass items carefully.",
-  "russian_example_sentence": "Они не могут взять эти хрупкие стеклянные предметы осторожно.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-15T12:33:22.498721+00:00",
-  "turkish_example_sentence_with_blank": "Onlar bu kırılgan cam eşyaları dikkatle ______."
+  "turkish_example_sentence": "Onlar küçük havuzdan soğuk buzlu içecekleri alamazlar",
+  "english_example_sentence": "They cannot take the cold iced drinks from the small pool",
+  "russian_example_sentence": "Они не могут взять холодные напитки со льдом из маленького бассейна",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:31:17.596275+00:00",
+  "turkish_example_sentence_with_blank": "Onlar küçük havuzdan soğuk buzlu içecekleri ______"
 }

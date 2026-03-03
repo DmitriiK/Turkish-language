@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "görünebilirsin",
     "root": "görün",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "irsin",
+    "personal_affix": "sin",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can appear professional in that elegant black suit",
-  "russian_example_sentence": "Ты можешь выглядеть профессионально в этом элегантном черном костюме",
-  "turkish_example_sentence": "Sen o zarif siyah takımda çok profesyonel görünebilirsin",
-  "turkish_example_sentence_with_blank": "Sen o zarif siyah takımda çok profesyonel ______"
+  "turkish_example_sentence": "Sen yeni televizyon programında misafir sanatçı olarak görünebilirsin",
+  "english_example_sentence": "You can appear as a guest artist on the new television program",
+  "russian_example_sentence": "Ты можешь появиться в качестве приглашённого артиста в новой телевизионной программе",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:13:09.106866+00:00",
+  "turkish_example_sentence_with_blank": "Sen yeni televizyon programında misafir sanatçı olarak ______"
 }

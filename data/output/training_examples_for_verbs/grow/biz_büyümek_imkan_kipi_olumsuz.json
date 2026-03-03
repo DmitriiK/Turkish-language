@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "büyüyemeyiz",
     "root": "büyü",
-    "tense_affix": "yeme",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "eyiz",
+    "personal_affix": "yiz",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "eme"
   },
-  "english_example_sentence": "We cannot grow crops during winter",
-  "russian_example_sentence": "Мы не можем выращивать урожай зимой",
-  "turkish_example_sentence": "Biz kış boyunca mahsuller büyüyemeyiz",
-  "turkish_example_sentence_with_blank": "Biz kış boyunca mahsuller ______"
+  "turkish_example_sentence": "Biz kötü hava koşullarında sağlıklı büyüyemeyiz",
+  "english_example_sentence": "We cannot grow healthy in bad weather conditions",
+  "russian_example_sentence": "Мы не можем расти здоровыми в плохих погодных условиях",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:07:56.557739+00:00",
+  "turkish_example_sentence_with_blank": "Biz kötü hava koşullarında sağlıklı ______"
 }

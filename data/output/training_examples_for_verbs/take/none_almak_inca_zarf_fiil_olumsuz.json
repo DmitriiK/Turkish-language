@@ -1,0 +1,23 @@
+{
+  "verb_rank": 10,
+  "verb_english": "take",
+  "verb_russian": "брать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almayınca",
+    "root": "al",
+    "modal_affix": null,
+    "tense_affix": "yınca",
+    "verb_tense": "inca_zarf_fiil",
+    "personal_pronoun": null,
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "turkish_example_sentence": "Büyük şemsiyeyi yanıma almayınca tamamen ıslandım.",
+  "english_example_sentence": "Not taking the big umbrella with me, I got completely wet.",
+  "russian_example_sentence": "Не взяв с собой большой зонт, я полностью промок.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2026-03-03T13:51:55.435216+00:00",
+  "turkish_example_sentence_with_blank": "Büyük şemsiyeyi yanıma ______ tamamen ıslandım."
+}

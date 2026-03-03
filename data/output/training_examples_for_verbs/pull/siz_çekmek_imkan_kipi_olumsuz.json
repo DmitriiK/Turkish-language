@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "çekemezsiniz",
     "root": "çek",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "mezsiniz",
+    "personal_affix": "siniz",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "You cannot pull the rusty chain",
-  "russian_example_sentence": "Вы не можете тянуть ржавую цепь",
-  "turkish_example_sentence": "Siz paslı zinciri çekemezsiniz",
-  "turkish_example_sentence_with_blank": "Siz paslı zinciri ______"
+  "turkish_example_sentence": "Siz dar koridorda uzun deri kanepeyi çekemezsiniz",
+  "english_example_sentence": "You cannot pull the long leather sofa in the narrow corridor",
+  "russian_example_sentence": "Вы не можете тянуть длинный кожаный диван в узком коридоре",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:24:47.153594+00:00",
+  "turkish_example_sentence_with_blank": "Siz dar koridorda uzun deri kanepeyi ______"
 }

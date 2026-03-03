@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "sağlayamazsınız",
     "root": "sağla",
-    "tense_affix": "yama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "asınız",
+    "personal_affix": "sınız",
     "polarity": "negative",
-    "negative_affix": "yama"
+    "negative_affix": "ama"
   },
-  "english_example_sentence": "You cannot provide any new ideas.",
-  "russian_example_sentence": "Вы не можете предложить никаких новых идей.",
-  "turkish_example_sentence": "Siz hiçbir yeni fikir sağlayamazsınız.",
-  "turkish_example_sentence_with_blank": "Siz hiçbir yeni fikir ______."
+  "turkish_example_sentence": "Siz profesyonel teknik desteği gece yarısı sağlayamazsınız",
+  "english_example_sentence": "You cannot provide professional technical support at midnight",
+  "russian_example_sentence": "Вы не можете предоставить профессиональную техническую поддержку в полночь",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:53:44.595494+00:00",
+  "turkish_example_sentence_with_blank": "Siz profesyonel teknik desteği gece yarısı ______"
 }

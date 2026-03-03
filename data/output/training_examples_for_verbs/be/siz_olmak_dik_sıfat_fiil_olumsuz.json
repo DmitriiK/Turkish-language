@@ -1,0 +1,23 @@
+{
+  "verb_rank": 1,
+  "verb_english": "be",
+  "verb_russian": "быть",
+  "verb_infinitive": "olmak",
+  "turkish_verb": {
+    "verb_full": "olmadığınız",
+    "root": "ol",
+    "modal_affix": null,
+    "tense_affix": "dığ",
+    "verb_tense": "dik_sıfat_fiil",
+    "personal_pronoun": "siz",
+    "personal_affix": "ınız",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "turkish_example_sentence": "Sizin olmadığınız parti kesinlikle sıkıcı olurdu.",
+  "english_example_sentence": "The party you weren't at would definitely be boring.",
+  "russian_example_sentence": "Вечеринка, на которой вас не было, определенно была бы скучной.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2026-03-03T13:41:07.568771+00:00",
+  "turkish_example_sentence_with_blank": "Sizin ______ parti kesinlikle sıkıcı olurdu."
+}

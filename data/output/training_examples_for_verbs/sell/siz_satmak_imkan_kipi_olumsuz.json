@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "satamazsınız",
     "root": "sat",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "sınız",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "You cannot sell food without permission.",
-  "russian_example_sentence": "Вы не можете продавать еду без разрешения.",
-  "turkish_example_sentence": "Siz izinsiz yiyecek satamazsınız.",
-  "turkish_example_sentence_with_blank": "Siz izinsiz yiyecek ______."
+  "turkish_example_sentence": "Siz bozuk elektronik cihazları internette satamazsınız",
+  "english_example_sentence": "You cannot sell broken electronic devices on the internet",
+  "russian_example_sentence": "Вы не можете продать сломанные электронные устройства в интернете",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:22:11.769161+00:00",
+  "turkish_example_sentence_with_blank": "Siz bozuk elektronik cihazları internette ______"
 }

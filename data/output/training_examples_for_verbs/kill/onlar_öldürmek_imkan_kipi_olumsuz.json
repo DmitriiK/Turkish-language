@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "öldüremezler",
     "root": "öldür",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "zler",
+    "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "They cannot kill the gentle peaceful deer",
-  "russian_example_sentence": "Они не могут убить нежного мирного оленя",
-  "turkish_example_sentence": "Onlar nazik barışçıl geyiği öldüremezler",
-  "turkish_example_sentence_with_blank": "Onlar nazik barışçıl geyiği ______"
+  "turkish_example_sentence": "Onlar denizde yüzen sarı balıkları ellerle öldüremezler",
+  "english_example_sentence": "They cannot kill the yellow fish swimming in the sea with their hands",
+  "russian_example_sentence": "Они не могут убить желтых рыб, плавающих в море, руками",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:20:17.946338+00:00",
+  "turkish_example_sentence_with_blank": "Onlar denizde yüzen sarı balıkları ellerle ______"
 }

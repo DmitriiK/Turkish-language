@@ -4,17 +4,20 @@
   "verb_russian": "оставаться",
   "verb_infinitive": "kalmak",
   "turkish_verb": {
-    "verb_full": "kalama",
+    "verb_full": "kalamaz",
     "root": "kal",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
     "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "She cannot stay at the expensive luxury resort alone",
-  "russian_example_sentence": "Она не может остаться в дорогом роскошном курорте одна",
-  "turkish_example_sentence": "O pahalı lüks sarayda yalnız kalama",
-  "turkish_example_sentence_with_blank": "O pahalı lüks sarayda yalnız ______"
+  "turkish_example_sentence": "O gürültülü şehir merkezindeki hostelde kalamaz",
+  "english_example_sentence": "She cannot stay in the noisy hostel in the city center",
+  "russian_example_sentence": "Она не может остаться в шумном хостеле в центре города",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:18:22.544656+00:00",
+  "turkish_example_sentence_with_blank": "O gürültülü şehir merkezindeki hostelde ______"
 }

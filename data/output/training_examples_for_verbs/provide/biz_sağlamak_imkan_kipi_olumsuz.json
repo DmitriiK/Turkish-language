@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "sağlayamayız",
     "root": "sağla",
-    "tense_affix": "yama",
+    "modal_affix": "ama",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "ayız",
+    "personal_affix": "yız",
     "polarity": "negative",
-    "negative_affix": "yama"
+    "negative_affix": "ama"
   },
-  "english_example_sentence": "We cannot provide extra service now.",
-  "russian_example_sentence": "Мы не можем предоставить дополнительную услугу сейчас.",
-  "turkish_example_sentence": "Biz şu anda ek hizmet sağlayamayız.",
-  "turkish_example_sentence_with_blank": "Biz şu anda ek hizmet ______."
+  "turkish_example_sentence": "Biz yabancı dil eğitimini şu anda sağlayamayız",
+  "english_example_sentence": "We cannot provide foreign language education right now",
+  "russian_example_sentence": "Мы не можем предоставить обучение иностранным языкам прямо сейчас",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:53:44.595494+00:00",
+  "turkish_example_sentence_with_blank": "Biz yabancı dil eğitimini şu anda ______"
 }

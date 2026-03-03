@@ -5,16 +5,19 @@
   "verb_infinitive": "karar vermek",
   "turkish_verb": {
     "verb_full": "karar verebiliriz",
-    "root": "karar ver",
-    "tense_affix": "ebil",
+    "root": "ver",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iriz",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We can decide together",
-  "russian_example_sentence": "Мы можем решить вместе",
-  "turkish_example_sentence": "Biz birlikte karar verebiliriz",
-  "turkish_example_sentence_with_blank": "Biz birlikte ______"
+  "turkish_example_sentence": "Biz sıcak yaz tatili planında birlikte karar verebiliriz",
+  "english_example_sentence": "We can decide together in the hot summer vacation plan",
+  "russian_example_sentence": "Мы можем решить вместе в плане жаркого летнего отпуска",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:24:05.640422+00:00",
+  "turkish_example_sentence_with_blank": "Biz sıcak yaz tatili planında birlikte ______"
 }

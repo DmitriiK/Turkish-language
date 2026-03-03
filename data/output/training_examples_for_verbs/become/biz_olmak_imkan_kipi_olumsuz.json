@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "olamayız",
     "root": "ol",
-    "tense_affix": "eme",
+    "modal_affix": "ama",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yız",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": "ama"
   },
-  "english_example_sentence": "We cannot become millionaires overnight easily",
-  "russian_example_sentence": "Мы не можем стать миллионерами за ночь легко",
-  "turkish_example_sentence": "Biz bir gecede kolayca milyoner olamayız",
-  "turkish_example_sentence_with_blank": "Biz bir gecede kolayca milyoner ______"
+  "turkish_example_sentence": "Biz bu durumda sessiz kalıcı olamayız",
+  "english_example_sentence": "We cannot become silent permanent in this situation",
+  "russian_example_sentence": "Мы не можем стать молчаливыми постоянными в этой ситуации",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:40:51.230757+00:00",
+  "turkish_example_sentence_with_blank": "Biz bu durumda sessiz kalıcı ______"
 }

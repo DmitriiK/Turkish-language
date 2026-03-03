@@ -5,16 +5,19 @@
   "verb_infinitive": "öncülük etmek",
   "turkish_verb": {
     "verb_full": "öncülük edebiliriz",
-    "root": "et",
-    "tense_affix": "ebil",
+    "root": "öncülük et",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iriz",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We can lead the innovative technology initiative",
-  "russian_example_sentence": "Мы можем вести инновационную технологическую инициативу",
-  "turkish_example_sentence": "Biz bu yenilikçi teknoloji projesini başarıyla öncülük edebiliriz",
-  "turkish_example_sentence_with_blank": "Biz bu yenilikçi teknoloji projesini başarıyla ______"
+  "turkish_example_sentence": "Biz yeni eğitim reformuna birlikte güçlü öncülük edebiliriz",
+  "english_example_sentence": "We can strongly lead the new education reform together",
+  "russian_example_sentence": "Мы можем сильно возглавить новую образовательную реформу вместе",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:00:49.236118+00:00",
+  "turkish_example_sentence_with_blank": "Biz yeni eğitim reformuna birlikte güçlü ______"
 }

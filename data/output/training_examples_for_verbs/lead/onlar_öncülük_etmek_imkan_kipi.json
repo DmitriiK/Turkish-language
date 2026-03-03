@@ -5,16 +5,19 @@
   "verb_infinitive": "öncülük etmek",
   "turkish_verb": {
     "verb_full": "öncülük edebilirler",
-    "root": "et",
-    "tense_affix": "ebil",
+    "root": "öncülük et",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They can lead the cultural exchange program",
-  "russian_example_sentence": "Они могут вести программу культурного обмена",
-  "turkish_example_sentence": "Onlar bu uluslararası kültür alışveriş programını öncülük edebilirler",
-  "turkish_example_sentence_with_blank": "Onlar bu uluslararası kültür alışveriş programını ______"
+  "turkish_example_sentence": "Onlar kültürel festival komitesine profesyonel şekilde öncülük edebilirler",
+  "english_example_sentence": "They can lead the cultural festival committee in a professional way",
+  "russian_example_sentence": "Они могут возглавить комитет культурного фестиваля профессиональным образом",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:00:49.236118+00:00",
+  "turkish_example_sentence_with_blank": "Onlar kültürel festival komitesine profesyonel şekilde ______"
 }

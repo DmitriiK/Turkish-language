@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "arayamazsınız",
     "root": "ara",
-    "tense_affix": "yama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "zsınız",
+    "personal_affix": "sınız",
     "polarity": "negative",
-    "negative_affix": "yama"
+    "negative_affix": "ama"
   },
-  "turkish_example_sentence": "Siz yurt dışından pahalı uluslararası hattı arayamazsınız",
-  "english_example_sentence": "You cannot call the expensive international line from abroad",
-  "russian_example_sentence": "Вы не можете позвонить на дорогую международную линию из-за границы",
+  "turkish_example_sentence": "Siz tatil sırasında resmi kurumları arayamazsınız",
+  "english_example_sentence": "You cannot call official institutions during the holiday",
+  "russian_example_sentence": "Вы не можете звонить в официальные учреждения во время праздника",
   "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-16T10:25:46.796768+00:00",
-  "turkish_example_sentence_with_blank": "Siz yurt dışından pahalı uluslararası hattı ______"
+  "generated_at": "2026-03-03T08:37:44.045000+00:00",
+  "turkish_example_sentence_with_blank": "Siz tatil sırasında resmi kurumları ______"
 }

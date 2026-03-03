@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "diyemem",
     "root": "de",
-    "tense_affix": "yeme",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "eme"
   },
-  "english_example_sentence": "I cannot mean that wrong concept",
-  "russian_example_sentence": "Я не могу означать это неправильное понятие",
-  "turkish_example_sentence": "Ben bu yanlış fikrin gerçek anlamını diyemem",
-  "turkish_example_sentence_with_blank": "Ben bu yanlış fikrin gerçek anlamını ______"
+  "turkish_example_sentence": "Ben yabancı insanlara kötü sözler diyemem",
+  "english_example_sentence": "I cannot say bad words to foreign people",
+  "russian_example_sentence": "Я не могу говорить плохие слова иностранным людям",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:42:46.189269+00:00",
+  "turkish_example_sentence_with_blank": "Ben yabancı insanlara kötü sözler ______"
 }

@@ -5,16 +5,19 @@
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
     "verb_full": "izin verebilirler",
-    "root": "izin ver",
-    "tense_affix": "ebil",
+    "root": "ver",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They can allow the creative artist to paint the beautiful mural",
-  "russian_example_sentence": "Они могут позволить творческому художнику нарисовать красивую фреску",
-  "turkish_example_sentence": "Onlar yaratıcı sanatçıya güzel duvar resmini boyamayı izin verebilirler",
-  "turkish_example_sentence_with_blank": "Onlar yaratıcı sanatçıya güzel duvar resmini boyamayı ______"
+  "turkish_example_sentence": "Onlar cömert ev sahipleri komşulara bahçede taze sebzeleri toplamalarına izin verebilirler",
+  "english_example_sentence": "They generous homeowners can allow neighbors to collect fresh vegetables in the garden",
+  "russian_example_sentence": "Они щедрые домовладельцы могут разрешить соседям собирать свежие овощи в саду",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:06:05.792973+00:00",
+  "turkish_example_sentence_with_blank": "Onlar cömert ev sahipleri komşulara bahçede taze sebzeleri toplamalarına ______"
 }

@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "sağlayabilir",
     "root": "sağla",
-    "tense_affix": "yabil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "ir",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He can provide professional guidance.",
-  "russian_example_sentence": "Он может предоставить профессиональное руководство.",
-  "turkish_example_sentence": "O profesyonel rehberlik sağlayabilir.",
-  "turkish_example_sentence_with_blank": "O profesyonel rehberlik ______."
+  "turkish_example_sentence": "O firma kaliteli ulaşım hizmetlerini zamanında sağlayabilir",
+  "english_example_sentence": "That company can provide quality transportation services on time",
+  "russian_example_sentence": "Та компания может предоставить качественные транспортные услуги вовремя",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:53:44.595494+00:00",
+  "turkish_example_sentence_with_blank": "O firma kaliteli ulaşım hizmetlerini zamanında ______"
 }

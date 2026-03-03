@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "teklif edemez",
     "root": "teklif et",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "mez",
+    "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "He cannot offer help right now.",
-  "russian_example_sentence": "Он не может предложить помощь сейчас.",
-  "turkish_example_sentence": "O şu anda yardım teklif edemez.",
-  "turkish_example_sentence_with_blank": "O şu anda yardım ______."
+  "turkish_example_sentence": "O öğrencilere zor matematik problemleri teklif edemez",
+  "english_example_sentence": "He/she cannot offer difficult math problems to the students",
+  "russian_example_sentence": "Он/она не может предложить трудные математические задачи студентам",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:10:29.027751+00:00",
+  "turkish_example_sentence_with_blank": "O öğrencilere zor matematik problemleri ______"
 }

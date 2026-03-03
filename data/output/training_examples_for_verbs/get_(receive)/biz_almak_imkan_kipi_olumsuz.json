@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "alamayız",
     "root": "al",
-    "tense_affix": "amaz",
+    "modal_affix": "ama",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "ayız",
+    "personal_affix": "yız",
     "polarity": "negative",
-    "negative_affix": "amaz"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "We cannot receive the keys tonight",
-  "russian_example_sentence": "Мы не можем получить ключи сегодня вечером",
-  "turkish_example_sentence": "Biz bu gece anahtarları alamayız",
-  "turkish_example_sentence_with_blank": "Biz bu gece anahtarları ______"
+  "turkish_example_sentence": "Biz pazartesi sabahı lezzetli sıcak kahveyi alamayız",
+  "english_example_sentence": "We cannot get the delicious hot coffee on Monday morning",
+  "russian_example_sentence": "Мы не можем получить вкусный горячий кофе в понедельник утром",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:28:51.955371+00:00",
+  "turkish_example_sentence_with_blank": "Biz pazartesi sabahı lezzetli sıcak kahveyi ______"
 }

@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "bildiremezsiniz",
     "root": "bildir",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "siniz",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "You cannot report their errors yet.",
-  "russian_example_sentence": "Вы пока не можете сообщить об их ошибках.",
-  "turkish_example_sentence": "Siz henüz onların hatalarını bildiremezsiniz.",
-  "turkish_example_sentence_with_blank": "Siz henüz onların hatalarını ______."
+  "turkish_example_sentence": "Siz eksik belge dosyalarını hukuk bürosuna bildiremezsiniz",
+  "english_example_sentence": "You cannot report the incomplete document files to the law office",
+  "russian_example_sentence": "Вы не можете сообщить неполные файлы документов в юридическую контору",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:23:26.490441+00:00",
+  "turkish_example_sentence_with_blank": "Siz eksik belge dosyalarını hukuk bürosuna ______"
 }

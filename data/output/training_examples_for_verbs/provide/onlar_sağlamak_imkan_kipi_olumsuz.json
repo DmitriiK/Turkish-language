@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "sağlayamazlar",
     "root": "sağla",
-    "tense_affix": "yama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "azlar",
+    "personal_affix": "lar",
     "polarity": "negative",
-    "negative_affix": "yama"
+    "negative_affix": "ama"
   },
-  "english_example_sentence": "They cannot provide any food today.",
-  "russian_example_sentence": "Они не могут сегодня предоставить еду.",
-  "turkish_example_sentence": "Onlar bugün hiçbir yemek sağlayamazlar.",
-  "turkish_example_sentence_with_blank": "Onlar bugün hiçbir yemek ______."
+  "turkish_example_sentence": "Onlar küçük köyde temiz içme suyunu düzenli sağlayamazlar",
+  "english_example_sentence": "They cannot provide clean drinking water regularly in the small village",
+  "russian_example_sentence": "Они не могут регулярно предоставить чистую питьевую воду в маленькой деревне",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:53:44.595494+00:00",
+  "turkish_example_sentence_with_blank": "Onlar küçük köyde temiz içme suyunu düzenli ______"
 }

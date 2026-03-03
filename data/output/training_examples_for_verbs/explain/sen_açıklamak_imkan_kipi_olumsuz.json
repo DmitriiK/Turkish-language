@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "açıklayamazsın",
     "root": "açıkla",
-    "tense_affix": "yabilir",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
     "personal_affix": "sın",
     "polarity": "negative",
-    "negative_affix": "yama"
+    "negative_affix": "ama"
   },
-  "english_example_sentence": "You cannot explain this rule.",
-  "russian_example_sentence": "Ты не можешь объяснить это правило.",
-  "turkish_example_sentence": "Bu kuralı açıklayamazsın.",
-  "turkish_example_sentence_with_blank": "Bu kuralı ______."
+  "turkish_example_sentence": "Sen eski Türk geleneklerini yabancılara açıklayamazsın",
+  "english_example_sentence": "You cannot explain the old Turkish traditions to foreigners",
+  "russian_example_sentence": "Ты не можешь объяснить старые турецкие традиции иностранцам",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:26:01.358643+00:00",
+  "turkish_example_sentence_with_blank": "Sen eski Türk geleneklerini yabancılara ______"
 }

@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "harcayabilirler",
     "root": "harca",
-    "tense_affix": "yabil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They can spend their vacation by the sea",
-  "russian_example_sentence": "Они могут провести отпуск у моря",
-  "turkish_example_sentence": "Onlar tatillerini deniz kenarında harcayabilirler",
-  "turkish_example_sentence_with_blank": "Onlar tatillerini deniz kenarında ______"
+  "turkish_example_sentence": "Onlar kazandıkları ödül parasını yeni spor malzemelerine harcayabilirler",
+  "english_example_sentence": "They can spend their prize money on new sports equipment",
+  "russian_example_sentence": "Они могут потратить свои призовые деньги на новое спортивное оборудование",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:07:20.216569+00:00",
+  "turkish_example_sentence_with_blank": "Onlar kazandıkları ödül parasını yeni spor malzemelerine ______"
 }

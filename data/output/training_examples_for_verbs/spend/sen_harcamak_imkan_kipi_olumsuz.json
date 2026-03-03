@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "harcayamazsın",
     "root": "harca",
-    "tense_affix": "yama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "azsın",
+    "personal_affix": "sın",
     "polarity": "negative",
-    "negative_affix": "yama"
+    "negative_affix": "ama"
   },
-  "english_example_sentence": "You cannot spend more than planned",
-  "russian_example_sentence": "Ты не можешь потратить больше, чем запланировано",
-  "turkish_example_sentence": "Sen planlanandan fazla harcayamazsın",
-  "turkish_example_sentence_with_blank": "Sen planlanandan fazla ______"
+  "turkish_example_sentence": "Sen babanın kredi kartını izinsiz pahalı restoranlarda harcayamazsın",
+  "english_example_sentence": "You cannot spend your father's credit card at expensive restaurants without permission",
+  "russian_example_sentence": "Ты не можешь тратить кредитную карту отца в дорогих ресторанах без разрешения",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:07:20.216569+00:00",
+  "turkish_example_sentence_with_blank": "Sen babanın kredi kartını izinsiz pahalı restoranlarda ______"
 }

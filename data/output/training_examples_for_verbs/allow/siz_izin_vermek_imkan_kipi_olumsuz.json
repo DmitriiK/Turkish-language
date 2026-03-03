@@ -5,16 +5,19 @@
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
     "verb_full": "izin veremezsiniz",
-    "root": "izin ver",
-    "tense_affix": "eme",
+    "root": "ver",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "zsiniz",
+    "personal_affix": "siniz",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "You cannot allow dangerous weapons in the peaceful school environment",
-  "russian_example_sentence": "Вы не можете позволить опасное оружие в мирной школьной среде",
-  "turkish_example_sentence": "Siz barışçıl okul ortamında tehlikeli silahları izin veremezsiniz",
-  "turkish_example_sentence_with_blank": "Siz barışçıl okul ortamında tehlikeli silahları ______"
+  "turkish_example_sentence": "Siz profesyonel doktorlar hastalara zararlı ilaçları kontrolsüz kullanmalarına izin veremezsiniz",
+  "english_example_sentence": "You professional doctors cannot allow patients to use harmful medicines uncontrollably",
+  "russian_example_sentence": "Вы профессиональные врачи не можете разрешить пациентам использовать вредные лекарства бесконтрольно",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:06:05.792973+00:00",
+  "turkish_example_sentence_with_blank": "Siz profesyonel doktorlar hastalara zararlı ilaçları kontrolsüz kullanmalarına ______"
 }

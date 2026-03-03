@@ -4,17 +4,20 @@
   "verb_russian": "учить(ся)",
   "verb_infinitive": "öğrenmek",
   "turkish_verb": {
-    "verb_full": "öğrenebilirim",
+    "verb_full": "öğrenebiliyorum",
     "root": "öğren",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "iyor",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "irim",
+    "personal_affix": "um",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I can learn new French vocabulary easily",
-  "russian_example_sentence": "Я могу легко учить новый французский словарь",
-  "turkish_example_sentence": "Ben yeni Fransızca kelimelerini kolayca öğrenebilirim",
-  "turkish_example_sentence_with_blank": "Ben yeni Fransızca kelimelerini kolayca ______"
+  "turkish_example_sentence": "Ben yeni İspanyol dilini hızlıca öğrenebiliyorum",
+  "english_example_sentence": "I am able to learn the new Spanish language quickly",
+  "russian_example_sentence": "Я могу быстро учить новый испанский язык",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:59:31.146641+00:00",
+  "turkish_example_sentence_with_blank": "Ben yeni İspanyol dilini hızlıca ______"
 }

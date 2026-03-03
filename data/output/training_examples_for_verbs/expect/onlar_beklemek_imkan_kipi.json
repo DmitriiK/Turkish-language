@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "bekleyebilirler",
     "root": "bekle",
-    "tense_affix": "yebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They can expect generous bonuses this year",
-  "russian_example_sentence": "Они могут ожидать щедрые бонусы в этом году",
-  "turkish_example_sentence": "Onlar bu yıl cömert ve yüksek bonusları bekleyebilirler",
-  "turkish_example_sentence_with_blank": "Onlar bu yıl cömert ve yüksek bonusları ______"
+  "turkish_example_sentence": "Onlar yeşil park çimenlerinde akşam konser başlangıcını bekleyebilirler",
+  "english_example_sentence": "They can wait for the evening concert beginning on the green park lawn",
+  "russian_example_sentence": "Они могут ждать начала вечернего концерта на зелёной лужайке парка",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:17:05.213645+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yeşil park çimenlerinde akşam konser başlangıcını ______"
 }

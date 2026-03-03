@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "harcayabilirim",
     "root": "harca",
-    "tense_affix": "yabil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "irim",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I can spend the money wisely",
-  "russian_example_sentence": "Я могу разумно потратить деньги",
-  "turkish_example_sentence": "Ben parayı akıllıca harcayabilirim",
-  "turkish_example_sentence_with_blank": "Ben parayı akıllıca ______"
+  "turkish_example_sentence": "Ben aylık maaşımı yeni kıyafetlere harcayabilirim",
+  "english_example_sentence": "I can spend my monthly salary on new clothes",
+  "russian_example_sentence": "Я могу потратить мою месячную зарплату на новую одежду",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:07:20.216569+00:00",
+  "turkish_example_sentence_with_blank": "Ben aylık maaşımı yeni kıyafetlere ______"
 }

@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "gönderebilirim",
     "root": "gönder",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "irim",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I can send the urgent email today",
-  "russian_example_sentence": "Я могу отправить срочное письмо сегодня",
-  "turkish_example_sentence": "Ben acil e-postayı bugün gönderebilirim",
-  "turkish_example_sentence_with_blank": "Ben acil e-postayı bugün ______"
+  "turkish_example_sentence": "Ben yarın önemli iş dosyalarını gönderebilirim",
+  "english_example_sentence": "I can send the important work documents tomorrow",
+  "russian_example_sentence": "Я могу отправить важные рабочие документы завтра",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:16:24.992126+00:00",
+  "turkish_example_sentence_with_blank": "Ben yarın önemli iş dosyalarını ______"
 }

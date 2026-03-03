@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "ayrılamazlar",
     "root": "ayrıl",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "zlar",
+    "personal_affix": "lar",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "They cannot leave the warm house during the cold winter",
-  "russian_example_sentence": "Они не могут уйти из теплого дома во время холодной зимы",
-  "turkish_example_sentence": "Onlar sıcak evden soğuk kış boyunca ayrılamazlar",
-  "turkish_example_sentence_with_blank": "Onlar sıcak evden soğuk kış boyunca ______"
+  "turkish_example_sentence": "Onlar modern spor salonundan antrenman bitmeden ayrılamazlar",
+  "english_example_sentence": "They cannot leave from the modern sports hall before training finishes",
+  "russian_example_sentence": "Они не могут уйти из современного спортзала до окончания тренировки",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:41:30.094045+00:00",
+  "turkish_example_sentence_with_blank": "Onlar modern spor salonundan antrenman bitmeden ______"
 }

@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "içeremezsin",
     "root": "içer",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "zsin",
+    "personal_affix": "sin",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "You cannot include prohibited materials in the presentation",
-  "russian_example_sentence": "Ты не можешь включить запрещенные материалы в презентацию",
-  "turkish_example_sentence": "Sen yasak materyalleri sunuma içeremezsin",
-  "turkish_example_sentence_with_blank": "Sen yasak materyalleri sunuma ______"
+  "turkish_example_sentence": "Sen yanlış cevapları sınav sonuçlarına içeremezsin",
+  "english_example_sentence": "You cannot include wrong answers in the exam results",
+  "russian_example_sentence": "Ты не можешь включить неправильные ответы в результаты экзамена",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:57:32.446104+00:00",
+  "turkish_example_sentence_with_blank": "Sen yanlış cevapları sınav sonuçlarına ______"
 }

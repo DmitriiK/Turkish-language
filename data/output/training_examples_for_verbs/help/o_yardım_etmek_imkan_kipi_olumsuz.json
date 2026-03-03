@@ -5,18 +5,19 @@
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
     "verb_full": "yardım edemez",
-    "root": "yardım et",
-    "tense_affix": "eme",
+    "root": "et",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "z",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "turkish_example_sentence": "O meşgul doktor bugün acil ameliyatta yardım edemez",
-  "english_example_sentence": "That busy doctor cannot help with the emergency surgery today",
-  "russian_example_sentence": "Тот занятой врач не может помочь с экстренной операцией сегодня",
+  "turkish_example_sentence": "O meşgul öğretmen şimdi yeni öğrenciye karmaşık fizik probleminde yardım edemez",
+  "english_example_sentence": "That busy teacher cannot help the new student with the complex physics problem now",
+  "russian_example_sentence": "Тот занятый учитель не может помочь новому ученику со сложной задачей по физике сейчас",
   "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-17T10:25:33.811990+00:00",
-  "turkish_example_sentence_with_blank": "O meşgul doktor bugün acil ameliyatta ______"
+  "generated_at": "2026-03-03T08:46:04.232024+00:00",
+  "turkish_example_sentence_with_blank": "O meşgul öğretmen şimdi yeni öğrenciye karmaşık fizik probleminde ______"
 }

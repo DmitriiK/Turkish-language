@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "teklif edebilir",
     "root": "teklif et",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "bilir",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "She can offer a job.",
-  "russian_example_sentence": "Она может предложить работу.",
-  "turkish_example_sentence": "O bir iş teklif edebilir.",
-  "turkish_example_sentence_with_blank": "O bir iş ______."
+  "turkish_example_sentence": "O çocuklara taze meyve suyu teklif edebilir",
+  "english_example_sentence": "He/she can offer fresh fruit juice to the children",
+  "russian_example_sentence": "Он/она может предложить свежий фруктовый сок детям",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:10:29.027751+00:00",
+  "turkish_example_sentence_with_blank": "O çocuklara taze meyve suyu ______"
 }

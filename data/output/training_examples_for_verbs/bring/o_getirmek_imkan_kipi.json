@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "getirebilir",
     "root": "getir",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "ir",
+    "personal_affix": "",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He can bring delicious desserts today",
-  "russian_example_sentence": "Он может принести вкусные десерты сегодня",
-  "turkish_example_sentence": "O lezzetli tatlıları bugün getirebilir",
-  "turkish_example_sentence_with_blank": "O lezzetli tatlıları bugün ______"
+  "turkish_example_sentence": "O öğleden sonra ofise önemli sarı dosyayı getirebilir",
+  "english_example_sentence": "He can bring the important yellow folder to the office in the afternoon",
+  "russian_example_sentence": "Он может принести важную желтую папку в офис после обеда",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:52:28.970369+00:00",
+  "turkish_example_sentence_with_blank": "O öğleden sonra ofise önemli sarı dosyayı ______"
 }

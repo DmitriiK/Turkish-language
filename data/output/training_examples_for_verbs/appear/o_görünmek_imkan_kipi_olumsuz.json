@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "görünemez",
     "root": "görün",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "z",
+    "personal_affix": null,
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "He cannot appear young despite using expensive cosmetics",
-  "russian_example_sentence": "Он не может выглядеть молодым, несмотря на дорогую косметику",
-  "turkish_example_sentence": "O pahalı kozmetik kullanmasına rağmen genç görünemez",
-  "turkish_example_sentence_with_blank": "O pahalı kozmetik kullanmasına rağmen genç ______"
+  "turkish_example_sentence": "O meşgul aktris yoğun çekim takvimi yüzünden görünemez",
+  "english_example_sentence": "That busy actress cannot appear because of her intense filming schedule",
+  "russian_example_sentence": "Та занятая актриса не может появиться из-за напряжённого графика съёмок",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:13:09.106866+00:00",
+  "turkish_example_sentence_with_blank": "O meşgul aktris yoğun çekim takvimi yüzünden ______"
 }

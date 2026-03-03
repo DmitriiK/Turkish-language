@@ -1,0 +1,23 @@
+{
+  "verb_rank": 6,
+  "verb_english": "get",
+  "verb_russian": "получать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almadığın",
+    "root": "al",
+    "modal_affix": null,
+    "tense_affix": "dığ",
+    "verb_tense": "dik_sıfat_fiil",
+    "personal_pronoun": "sen",
+    "personal_affix": "ın",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "turkish_example_sentence": "Sen geçen hafta almadığın notları hemen tamamla.",
+  "english_example_sentence": "Complete the notes you didn't get last week immediately.",
+  "russian_example_sentence": "Немедленно дополни записи, которые ты не получил на прошлой неделе.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2026-03-03T13:46:53.949949+00:00",
+  "turkish_example_sentence_with_blank": "Sen geçen hafta ______ notları hemen tamamla."
+}

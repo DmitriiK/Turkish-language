@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "olamazlar",
     "root": "ol",
-    "tense_affix": "eme",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "zlar",
+    "personal_affix": "lar",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": "ama"
   },
-  "english_example_sentence": "They cannot become Olympic champions easily",
-  "russian_example_sentence": "Они не могут стать олимпийскими чемпионами легко",
-  "turkish_example_sentence": "Onlar kolayca Olimpiyat şampiyonları olamazlar",
-  "turkish_example_sentence_with_blank": "Onlar kolayca Olimpiyat şampiyonları ______"
+  "turkish_example_sentence": "Onlar bu soğuk havada rahat olamazlar",
+  "english_example_sentence": "They cannot become comfortable in this cold weather",
+  "russian_example_sentence": "Они не могут стать комфортными в этой холодной погоде",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:40:51.230757+00:00",
+  "turkish_example_sentence_with_blank": "Onlar bu soğuk havada rahat ______"
 }

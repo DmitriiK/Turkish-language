@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "anlayabilirler",
     "root": "anla",
-    "tense_affix": "yabil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They can understand the sophisticated economic policy documents",
-  "russian_example_sentence": "Они могут понять сложные документы экономической политики",
-  "turkish_example_sentence": "Onlar sofistike ekonomik politika belgelerini anlayabilirler",
-  "turkish_example_sentence_with_blank": "Onlar sofistike ekonomik politika belgelerini ______"
+  "turkish_example_sentence": "Onlar rehberin turistik gezi programını tam anlayabilirler",
+  "english_example_sentence": "They can understand the guide's tourist excursion program completely",
+  "russian_example_sentence": "Они могут полностью понять туристическую экскурсионную программу гида",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:01:27.326180+00:00",
+  "turkish_example_sentence_with_blank": "Onlar rehberin turistik gezi programını tam ______"
 }

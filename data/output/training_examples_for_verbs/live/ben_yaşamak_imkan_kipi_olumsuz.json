@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "yaşayamam",
     "root": "yaşa",
-    "tense_affix": "yama",
+    "modal_affix": "ama",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
-    "negative_affix": "yama"
+    "negative_affix": "ama"
   },
-  "english_example_sentence": "I cannot live without my dear family",
-  "russian_example_sentence": "Я не могу жить без моей дорогой семьи",
-  "turkish_example_sentence": "Ben sevgili ailemiz olmadan uzak yerlerde yaşayamam",
-  "turkish_example_sentence_with_blank": "Ben sevgili ailemiz olmadan uzak yerlerde ______"
+  "turkish_example_sentence": "Ben soğuk dağ köyünde yaşayamam",
+  "english_example_sentence": "I cannot live in the cold mountain village",
+  "russian_example_sentence": "Я не могу жить в холодной горной деревне",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:50:34.920754+00:00",
+  "turkish_example_sentence_with_blank": "Ben soğuk dağ köyünde ______"
 }

@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "görünebilirsiniz",
     "root": "görün",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "irsiniz",
+    "personal_affix": "siniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can appear authoritative when presenting your detailed research findings",
-  "russian_example_sentence": "Вы можете выглядеть авторитетно, представляя ваши подробные результаты исследований",
-  "turkish_example_sentence": "Siz ayrıntılı araştırma sonuçlarınızı sunduğunuzda yetkili görünebilirsiniz",
-  "turkish_example_sentence_with_blank": "Siz ayrıntılı araştırma sonuçlarınızı sunduğunuzda yetkili ______"
+  "turkish_example_sentence": "Siz istediğiniz zaman eski dostlar buluşmasında görünebilirsiniz",
+  "english_example_sentence": "You can appear at the old friends reunion whenever you want",
+  "russian_example_sentence": "Вы можете появиться на встрече старых друзей когда захотите",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:13:09.106866+00:00",
+  "turkish_example_sentence_with_blank": "Siz istediğiniz zaman eski dostlar buluşmasında ______"
 }

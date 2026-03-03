@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "izleyemezsin",
     "root": "izle",
-    "tense_affix": "yeme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "zsin",
+    "personal_affix": "sin",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "eme"
   },
-  "english_example_sentence": "You cannot watch the horror film without permission",
-  "russian_example_sentence": "Ты не можешь смотреть фильм ужасов без разрешения",
-  "turkish_example_sentence": "Sen izin olmadan korku filmini izleyemezsin",
-  "turkish_example_sentence_with_blank": "Sen izin olmadan korku filmini ______"
+  "turkish_example_sentence": "Sen sabah erken saatlerde yüksek sesli spor maçını izleyemezsin",
+  "english_example_sentence": "You cannot watch the loud sports match in early morning hours",
+  "russian_example_sentence": "Ты не можешь смотреть громкий спортивный матч рано утром",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:02:10.131924+00:00",
+  "turkish_example_sentence_with_blank": "Sen sabah erken saatlerde yüksek sesli spor maçını ______"
 }

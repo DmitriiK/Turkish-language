@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "kalamam",
     "root": "kal",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
-    "negative_affix": "ama"
+    "negative_affix": null
   },
-  "english_example_sentence": "I cannot remain at the crowded market today",
-  "russian_example_sentence": "Я не могу остаться на переполненном рынке сегодня",
-  "turkish_example_sentence": "Ben kalabalık pazarda bugün kalamam",
-  "turkish_example_sentence_with_blank": "Ben kalabalık pazarda bugün ______"
+  "turkish_example_sentence": "Ben soğuk dağ evinde yalnız kalamam",
+  "english_example_sentence": "I cannot remain alone in the cold mountain house",
+  "russian_example_sentence": "Я не могу оставаться один в холодном горном доме",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:20:55.386704+00:00",
+  "turkish_example_sentence_with_blank": "Ben soğuk dağ evinde yalnız ______"
 }

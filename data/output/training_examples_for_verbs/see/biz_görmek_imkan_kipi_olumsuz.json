@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "göremeyiz",
     "root": "gör",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yiz",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "turkish_example_sentence": "Biz gece yarısında sokaktaki küçük taşları göremeyiz.",
-  "english_example_sentence": "We cannot see the small stones on the street at midnight.",
-  "russian_example_sentence": "Мы не можем видеть маленькие камни на улице в полночь.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-09T12:45:24.011414+00:00",
-  "turkish_example_sentence_with_blank": "Biz gece yarısında sokaktaki küçük taşları ______."
+  "turkish_example_sentence": "Biz yağmurlu günlerde güneşin sarı ışınlarını göremeyiz",
+  "english_example_sentence": "We cannot see the yellow rays of the sun on rainy days",
+  "russian_example_sentence": "Мы не можем видеть жёлтые лучи солнца в дождливые дни",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:31:56.852316+00:00",
+  "turkish_example_sentence_with_blank": "Biz yağmurlu günlerde güneşin sarı ışınlarını ______"
 }

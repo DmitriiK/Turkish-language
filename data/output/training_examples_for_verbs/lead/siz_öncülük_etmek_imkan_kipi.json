@@ -5,16 +5,19 @@
   "verb_infinitive": "öncülük etmek",
   "turkish_verb": {
     "verb_full": "öncülük edebilirsiniz",
-    "root": "et",
-    "tense_affix": "ebil",
+    "root": "öncülük et",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "irsiniz",
+    "personal_affix": "siniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can lead the environmental sustainability program",
-  "russian_example_sentence": "Вы можете вести программу экологической устойчивости",
-  "turkish_example_sentence": "Siz bu çevre dostu sürdürülebilirlik programını öncülük edebilirsiniz",
-  "turkish_example_sentence_with_blank": "Siz bu çevre dostu sürdürülebilirlik programını ______"
+  "turkish_example_sentence": "Siz modern sanat sergisi organizasyonuna yaratıcı öncülük edebilirsiniz",
+  "english_example_sentence": "You can creatively lead the modern art exhibition organization",
+  "russian_example_sentence": "Вы можете творчески возглавить организацию современной художественной выставки",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:00:49.236118+00:00",
+  "turkish_example_sentence_with_blank": "Siz modern sanat sergisi organizasyonuna yaratıcı ______"
 }

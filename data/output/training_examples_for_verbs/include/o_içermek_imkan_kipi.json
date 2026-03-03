@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "içerebilir",
     "root": "içer",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "ir",
+    "personal_affix": "",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "She can include modern design elements in the project",
-  "russian_example_sentence": "Она может включить современные элементы дизайна в проект",
-  "turkish_example_sentence": "O modern tasarım öğelerini projeye içerebilir",
-  "turkish_example_sentence_with_blank": "O modern tasarım öğelerini projeye ______"
+  "turkish_example_sentence": "O güzel fotoğrafları düğün albümüne içerebilir",
+  "english_example_sentence": "He/she can include beautiful photographs in the wedding album",
+  "russian_example_sentence": "Он/она может включить красивые фотографии в свадебный альбом",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:57:32.446104+00:00",
+  "turkish_example_sentence_with_blank": "O güzel fotoğrafları düğün albümüne ______"
 }

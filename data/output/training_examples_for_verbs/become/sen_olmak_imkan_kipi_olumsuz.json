@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "olamazsın",
     "root": "ol",
-    "tense_affix": "eme",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "sen",
-    "personal_affix": "zsın",
+    "personal_affix": "sın",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": "ama"
   },
-  "english_example_sentence": "You cannot become rich without hard work",
-  "russian_example_sentence": "Ты не можешь стать богатым без тяжелой работы",
-  "turkish_example_sentence": "Sen ağır çalışma olmadan zengin olamazsın",
-  "turkish_example_sentence_with_blank": "Sen ağır çalışma olmadan zengin ______"
+  "turkish_example_sentence": "Sen tek başına güçlü bir lider olamazsın",
+  "english_example_sentence": "You cannot become a strong leader alone",
+  "russian_example_sentence": "Ты не можешь стать сильным лидером один",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:40:51.230757+00:00",
+  "turkish_example_sentence_with_blank": "Sen tek başına güçlü bir lider ______"
 }

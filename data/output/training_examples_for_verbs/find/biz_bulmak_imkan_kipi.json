@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "bulabiliriz",
     "root": "bul",
-    "tense_affix": "abil",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iriz",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Biz parkta kaybolan beyaz köpeği birlikte bulabiliriz.",
-  "english_example_sentence": "We can find the lost white dog in the park together.",
-  "russian_example_sentence": "Мы можем найти потерянную белую собаку в парке вместе.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-15T12:39:33.336399+00:00",
-  "turkish_example_sentence_with_blank": "Biz parkta kaybolan beyaz köpeği birlikte ______."
+  "turkish_example_sentence": "Biz akşam sakin restoranda boş temiz masa bulabiliriz",
+  "english_example_sentence": "We can find an empty clean table in the quiet restaurant in the evening",
+  "russian_example_sentence": "Мы можем найти пустой чистый стол в тихом ресторане вечером",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:35:09.863371+00:00",
+  "turkish_example_sentence_with_blank": "Biz akşam sakin restoranda boş temiz masa ______"
 }

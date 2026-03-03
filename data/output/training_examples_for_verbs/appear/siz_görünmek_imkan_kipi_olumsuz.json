@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "görünemezsiniz",
     "root": "görün",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "zsiniz",
+    "personal_affix": "siniz",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "You cannot appear nervous during the critical business negotiation meeting",
-  "russian_example_sentence": "Вы не можете выглядеть нервными во время критического делового переговора",
-  "turkish_example_sentence": "Siz kritik iş müzakere toplantısında endişeli görünemezsiniz",
-  "turkish_example_sentence_with_blank": "Siz kritik iş müzakere toplantısında endişeli ______"
+  "turkish_example_sentence": "Siz yasal sorunlar yüzünden mahkeme duruşmasında tanık olarak görünemezsiniz",
+  "english_example_sentence": "You cannot appear as a witness at the court hearing due to legal issues",
+  "russian_example_sentence": "Вы не можете появиться в качестве свидетеля на судебном заседании из-за юридических проблем",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:13:09.106866+00:00",
+  "turkish_example_sentence_with_blank": "Siz yasal sorunlar yüzünden mahkeme duruşmasında tanık olarak ______"
 }

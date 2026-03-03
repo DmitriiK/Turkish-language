@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "gelebilirim",
     "root": "gel",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "irim",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I can come to the party tomorrow",
-  "russian_example_sentence": "Я могу прийти на вечеринку завтра",
-  "turkish_example_sentence": "Ben yarın akşam eğlenceli partiye gelebilirim",
-  "turkish_example_sentence_with_blank": "Ben yarın akşam eğlenceli partiye ______"
+  "turkish_example_sentence": "Ben yarın sabah erken toplantıya gelebilirim",
+  "english_example_sentence": "I can come to the early meeting tomorrow morning",
+  "russian_example_sentence": "Я могу прийти на раннее собрание завтра утром",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:32:34.588069+00:00",
+  "turkish_example_sentence_with_blank": "Ben yarın sabah erken toplantıya ______"
 }

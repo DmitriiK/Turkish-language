@@ -1,0 +1,23 @@
+{
+  "verb_rank": 5,
+  "verb_english": "go",
+  "verb_russian": "идти",
+  "verb_infinitive": "gitmek",
+  "turkish_verb": {
+    "verb_full": "gittiğimiz",
+    "root": "git",
+    "modal_affix": null,
+    "tense_affix": "tiğ",
+    "verb_tense": "dik_sıfat_fiil",
+    "personal_pronoun": "biz",
+    "personal_affix": "imiz",
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "turkish_example_sentence": "Bizim dün birlikte gittiğimiz konser gerçekten unutulmazdı.",
+  "english_example_sentence": "The concert we went to together yesterday was truly unforgettable.",
+  "russian_example_sentence": "Концерт, на который мы ходили вместе вчера, был действительно незабываемым.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2026-03-03T13:45:44.514799+00:00",
+  "turkish_example_sentence_with_blank": "Bizim dün birlikte ______ konser gerçekten unutulmazdı."
+}

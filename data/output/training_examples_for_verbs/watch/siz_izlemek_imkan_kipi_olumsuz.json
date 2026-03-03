@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "izleyemezsiniz",
     "root": "izle",
-    "tense_affix": "yeme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "zsiniz",
+    "personal_affix": "siniz",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "eme"
   },
-  "english_example_sentence": "You cannot watch the restricted film without adult supervision",
-  "russian_example_sentence": "Вы не можете смотреть ограниченный фильм без присмотра взрослых",
-  "turkish_example_sentence": "Siz yetişkin gözetimi olmadan sınırlı filmi izleyemezsiniz",
-  "turkish_example_sentence_with_blank": "Siz yetişkin gözetimi olmadan sınırlı filmi ______"
+  "turkish_example_sentence": "Siz kütüphanede sessiz ortamda gürültülü futbol turnuvasını izleyemezsiniz",
+  "english_example_sentence": "You cannot watch the noisy football tournament in the quiet environment of the library",
+  "russian_example_sentence": "Вы не можете смотреть шумный футбольный турнир в тихой обстановке библиотеки",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:02:10.131924+00:00",
+  "turkish_example_sentence_with_blank": "Siz kütüphanede sessiz ortamda gürültülü futbol turnuvasını ______"
 }

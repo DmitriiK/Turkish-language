@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "isteyemezler",
     "root": "iste",
-    "tense_affix": "ye",
+    "modal_affix": "yeme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "zler",
+    "personal_affix": "ler",
     "polarity": "negative",
-    "negative_affix": "me"
+    "negative_affix": "yeme"
   },
-  "turkish_example_sentence": "Onlar sıcak ve baharatlı yemeği kış aylarında isteyemezler.",
-  "english_example_sentence": "They cannot want the hot and spicy food in winter months.",
-  "russian_example_sentence": "Они не могут хотеть горячую и острую еду в зимние месяцы.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-10T11:49:09.633607+00:00",
-  "turkish_example_sentence_with_blank": "Onlar sıcak ve baharatlı yemeği kış aylarında ______."
+  "turkish_example_sentence": "Onlar kötü hava şartları ve yağmurlu hafta sonu isteyemezler",
+  "english_example_sentence": "They cannot want bad weather conditions and rainy weekend",
+  "russian_example_sentence": "Они не могут хотеть плохие погодные условия и дождливые выходные",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:33:10.979460+00:00",
+  "turkish_example_sentence_with_blank": "Onlar kötü hava şartları ve yağmurlu hafta sonu ______"
 }

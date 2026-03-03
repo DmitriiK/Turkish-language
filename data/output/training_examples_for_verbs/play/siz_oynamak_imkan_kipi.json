@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "oynayabilirsiniz",
     "root": "oyna",
-    "tense_affix": "yabilir",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "siniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Siz her pazar geleneksel halk danslarını oynayabilirsiniz.",
-  "english_example_sentence": "You (plural/formal) can play traditional folk dances every Sunday.",
-  "russian_example_sentence": "Вы можете играть традиционные народные танцы каждое воскресенье.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-17T14:45:17.691969+00:00",
-  "turkish_example_sentence_with_blank": "Siz her pazar geleneksel halk danslarını ______."
+  "turkish_example_sentence": "Siz modern spor salonunda profesyonel masa tenisi oynayabilirsiniz",
+  "english_example_sentence": "You can play professional table tennis in the modern sports hall",
+  "russian_example_sentence": "Вы можете играть в профессиональный настольный теннис в современном спортивном зале",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:48:01.538883+00:00",
+  "turkish_example_sentence_with_blank": "Siz modern spor salonunda profesyonel masa tenisi ______"
 }

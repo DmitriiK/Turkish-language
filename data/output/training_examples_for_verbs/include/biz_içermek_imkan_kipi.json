@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "içerebiliriz",
     "root": "içer",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iriz",
+    "personal_affix": "iz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "We can include international participants in the conference",
-  "russian_example_sentence": "Мы можем включить международных участников на конференцию",
-  "turkish_example_sentence": "Biz uluslararası katılımcıları konferansa içerebiliriz",
-  "turkish_example_sentence_with_blank": "Biz uluslararası katılımcıları konferansa ______"
+  "turkish_example_sentence": "Biz eğlenceli oyunları okul programına içerebiliriz",
+  "english_example_sentence": "We can include fun games in the school program",
+  "russian_example_sentence": "Мы можем включить весёлые игры в школьную программу",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:57:32.446104+00:00",
+  "turkish_example_sentence_with_blank": "Biz eğlenceli oyunları okul programına ______"
 }

@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "değiştiremez",
     "root": "değiştir",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "z",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "He cannot change his difficult situation",
-  "russian_example_sentence": "Он не может изменить свою сложную ситуацию",
-  "turkish_example_sentence": "O zor durumunu değiştiremez",
-  "turkish_example_sentence_with_blank": "O zor durumunu ______"
+  "turkish_example_sentence": "O genç öğretmen okul müdürünün sert kurallarını değiştiremez",
+  "english_example_sentence": "That young teacher cannot change the school principal's strict rules",
+  "russian_example_sentence": "Этот молодой учитель не может изменить строгие правила директора школы",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:00:10.450732+00:00",
+  "turkish_example_sentence_with_blank": "O genç öğretmen okul müdürünün sert kurallarını ______"
 }

@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "değiştiremezler",
     "root": "değiştir",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "zler",
+    "personal_affix": "ler",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "They cannot change their bad habits easily",
-  "russian_example_sentence": "Они не могут легко изменить свои плохие привычки",
-  "turkish_example_sentence": "Onlar kötü alışkanlıklarını kolayca değiştiremezler",
-  "turkish_example_sentence_with_blank": "Onlar kötü alışkanlıklarını kolayca ______"
+  "turkish_example_sentence": "Onlar sessiz kütüphane ortamını gürültülü pazar yerine değiştiremezler",
+  "english_example_sentence": "They cannot change the quiet library environment into a noisy marketplace",
+  "russian_example_sentence": "Они не могут поменять тихую библиотечную обстановку на шумный рынок",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:00:10.450732+00:00",
+  "turkish_example_sentence_with_blank": "Onlar sessiz kütüphane ortamını gürültülü pazar yerine ______"
 }

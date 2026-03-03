@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "koyamayız",
     "root": "koy",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yız",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "We cannot put the expensive equipment in the basement",
-  "russian_example_sentence": "Мы не можем положить дорогое оборудование в подвал",
-  "turkish_example_sentence": "Biz pahalı ekipmanı bodrum katına koyamayız",
-  "turkish_example_sentence_with_blank": "Biz pahalı ekipmanı bodrum katına ______"
+  "turkish_example_sentence": "Biz islak havluları kapalı karanlık çekmeceye koyamayız",
+  "english_example_sentence": "We cannot put the wet towels in the closed dark drawer",
+  "russian_example_sentence": "Мы не можем положить мокрые полотенца в закрытый тёмный ящик",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:42:08.093195+00:00",
+  "turkish_example_sentence_with_blank": "Biz islak havluları kapalı karanlık çekmeceye ______"
 }

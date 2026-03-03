@@ -1,0 +1,23 @@
+{
+  "verb_rank": 7,
+  "verb_english": "make",
+  "verb_russian": "делать (создавать)",
+  "verb_infinitive": "yapmak",
+  "turkish_verb": {
+    "verb_full": "yapmayınca",
+    "root": "yap",
+    "modal_affix": null,
+    "tense_affix": "yınca",
+    "verb_tense": "inca_zarf_fiil",
+    "personal_pronoun": null,
+    "personal_affix": null,
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "turkish_example_sentence": "Ödevini yapmayınca dışarı çıkamadı.",
+  "english_example_sentence": "When he didn't do his homework, he couldn't go outside.",
+  "russian_example_sentence": "Когда он не сделал домашнюю работу, он не смог выйти на улицу.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2026-03-03T13:48:17.862307+00:00",
+  "turkish_example_sentence_with_blank": "Ödevini ______ dışarı çıkamadı."
+}

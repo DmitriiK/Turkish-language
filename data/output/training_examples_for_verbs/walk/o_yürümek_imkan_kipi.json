@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "yürüyebilir",
     "root": "yürü",
-    "tense_affix": "yebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "ir",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "She can walk in the forest.",
-  "russian_example_sentence": "Она может гулять в лесу.",
-  "turkish_example_sentence": "O ormanda yürüyebilir.",
-  "turkish_example_sentence_with_blank": "O ormanda ______."
+  "turkish_example_sentence": "O küçük çocuk kalabalık alışveriş merkezinde yürüyebilir",
+  "english_example_sentence": "That small child can walk in the crowded shopping center",
+  "russian_example_sentence": "Этот маленький ребёнок может ходить в переполненном торговом центре",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:09:10.543019+00:00",
+  "turkish_example_sentence_with_blank": "O küçük çocuk kalabalık alışveriş merkezinde ______"
 }

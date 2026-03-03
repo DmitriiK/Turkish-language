@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "bildirebilir",
     "root": "bildir",
-    "tense_affix": "ebilir",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "ir",
+    "personal_affix": null,
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "He can report detailed information.",
-  "russian_example_sentence": "Он может сообщить подробную информацию.",
-  "turkish_example_sentence": "O detaylı bilgiyi bildirebilir.",
-  "turkish_example_sentence_with_blank": "O detaylı bilgiyi ______."
+  "turkish_example_sentence": "O trafik kazası olayını yerel polis merkezine bildirebilir",
+  "english_example_sentence": "He can report the traffic accident incident to the local police station",
+  "russian_example_sentence": "Он может сообщить о дорожном происшествии в местный полицейский участок",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:23:26.490441+00:00",
+  "turkish_example_sentence_with_blank": "O trafik kazası olayını yerel polis merkezine ______"
 }

@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "yazamazsınız",
     "root": "yaz",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "zsınız",
+    "personal_affix": "sınız",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "You cannot write during the earthquake.",
-  "russian_example_sentence": "Вы не можете писать во время землетрясения.",
-  "turkish_example_sentence": "Siz tehlikeli deprem sırasında önemli belgeleri yazamazsınız.",
-  "turkish_example_sentence_with_blank": "Siz tehlikeli deprem sırasında önemli belgeleri ______."
+  "turkish_example_sentence": "Siz önemli sınav cevaplarını kırmızı kalemle yazamazsınız",
+  "english_example_sentence": "You cannot write the important exam answers with the red pen",
+  "russian_example_sentence": "Вы не можете написать важные ответы на экзамене красной ручкой",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:53:06.390578+00:00",
+  "turkish_example_sentence_with_blank": "Siz önemli sınav cevaplarını kırmızı kalemle ______"
 }

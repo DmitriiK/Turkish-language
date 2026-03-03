@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "gösteremem",
     "root": "göster",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "turkish_example_sentence": "Ben bu gizli belgeleri kimseye gösteremem",
-  "english_example_sentence": "I cannot show these secret documents to anyone",
-  "russian_example_sentence": "Я не могу показать эти секретные документы никому",
+  "turkish_example_sentence": "Ben size gizli şirket raporunu gösteremem",
+  "english_example_sentence": "I cannot show you the confidential company report",
+  "russian_example_sentence": "Я не могу показать вам секретный отчёт компании",
   "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-17T10:42:45.353961+00:00",
-  "turkish_example_sentence_with_blank": "Ben bu gizli belgeleri kimseye ______"
+  "generated_at": "2026-03-03T08:46:41.444204+00:00",
+  "turkish_example_sentence_with_blank": "Ben size gizli şirket raporunu ______"
 }

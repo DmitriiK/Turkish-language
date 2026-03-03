@@ -5,16 +5,19 @@
   "verb_infinitive": "satın almak",
   "turkish_verb": {
     "verb_full": "satın alabilirsiniz",
-    "root": "satın al",
-    "tense_affix": "abil",
+    "root": "al",
+    "modal_affix": "abil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "irsiniz",
+    "personal_affix": "siniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can buy discounted electronic gadgets online",
-  "russian_example_sentence": "Вы можете купить скидочные электронные гаджеты онлайн",
-  "turkish_example_sentence": "Siz çevrimiçi indirimli elektronik cihazları satın alabilirsiniz",
-  "turkish_example_sentence_with_blank": "Siz çevrimiçi indirimli elektronik cihazları ______"
+  "turkish_example_sentence": "Siz mağazadan lezzetli Türk kahvesini satın alabilirsiniz",
+  "english_example_sentence": "You can buy the delicious Turkish coffee from the store",
+  "russian_example_sentence": "Вы можете купить вкусный турецкий кофе в магазине",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:13:45.073829+00:00",
+  "turkish_example_sentence_with_blank": "Siz mağazadan lezzetli Türk kahvesini ______"
 }

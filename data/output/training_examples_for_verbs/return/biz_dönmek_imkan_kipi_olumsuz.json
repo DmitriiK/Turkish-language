@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "dönemeyiz",
     "root": "dön",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iz",
+    "personal_affix": "yiz",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "We cannot return to the busy city",
-  "russian_example_sentence": "Мы не можем вернуться в оживленный город",
-  "turkish_example_sentence": "Biz yoğun şehre dönemeyiz",
-  "turkish_example_sentence_with_blank": "Biz yoğun şehre ______"
+  "turkish_example_sentence": "Biz fırtınalı havada küçük tekneyle dönemeyiz",
+  "english_example_sentence": "We cannot return by small boat in stormy weather",
+  "russian_example_sentence": "Мы не можем вернуться на маленькой лодке в штормовую погоду",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:25:24.888415+00:00",
+  "turkish_example_sentence_with_blank": "Biz fırtınalı havada küçük tekneyle ______"
 }

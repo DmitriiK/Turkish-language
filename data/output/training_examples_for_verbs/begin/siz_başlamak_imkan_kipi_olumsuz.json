@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "başlayamazsınız",
     "root": "başla",
+    "modal_affix": "ama",
     "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "sınız",
     "polarity": "negative",
-    "negative_affix": "yama"
+    "negative_affix": "ama"
   },
-  "turkish_example_sentence": "Siz bu önemli toplantıya gecikmiş olarak başlayamazsınız.",
-  "english_example_sentence": "You cannot begin this important meeting late.",
-  "russian_example_sentence": "Вы не можете начать это важное совещание с опозданием.",
-  "generated_by_model": "GEMINI - gemini-2.5-flash",
-  "generated_at": "2025-12-17T13:43:33.742964+00:00",
-  "turkish_example_sentence_with_blank": "Siz bu önemli toplantıya gecikmiş olarak ______."
+  "turkish_example_sentence": "Siz yorucu fitness antrenmanına hasta iken başlayamazsınız",
+  "english_example_sentence": "You cannot begin the tiring fitness training while sick",
+  "russian_example_sentence": "Вы не можете начать утомительную фитнес-тренировку будучи больным",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:44:42.293087+00:00",
+  "turkish_example_sentence_with_blank": "Siz yorucu fitness antrenmanına hasta iken ______"
 }

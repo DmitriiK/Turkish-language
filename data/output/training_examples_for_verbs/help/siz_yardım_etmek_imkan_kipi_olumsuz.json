@@ -5,18 +5,19 @@
   "verb_infinitive": "yardım etmek",
   "turkish_verb": {
     "verb_full": "yardım edemezsiniz",
-    "root": "yardım et",
-    "tense_affix": "eme",
+    "root": "et",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "zsiniz",
+    "personal_affix": "siniz",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "turkish_example_sentence": "Siz izinli olduğunuz için önemli sunumun hazırlanmasında yardım edemezsiniz",
-  "english_example_sentence": "You cannot help with the preparation of the important presentation because you are on leave",
-  "russian_example_sentence": "Вы не можете помочь с подготовкой важной презентации, потому что вы в отпуске",
+  "turkish_example_sentence": "Siz akşam saatlerinde kütüphanede sessiz öğrenciye gürültülü projesinde yardım edemezsiniz",
+  "english_example_sentence": "You cannot help the quiet student with the noisy project in the library during evening hours",
+  "russian_example_sentence": "Вы не можете помочь тихому студенту с шумным проектом в библиотеке в вечерние часы",
   "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
-  "generated_at": "2025-12-17T10:25:33.811990+00:00",
-  "turkish_example_sentence_with_blank": "Siz izinli olduğunuz için önemli sunumun hazırlanmasında ______"
+  "generated_at": "2026-03-03T08:46:04.232024+00:00",
+  "turkish_example_sentence_with_blank": "Siz akşam saatlerinde kütüphanede sessiz öğrenciye gürültülü projesinde ______"
 }

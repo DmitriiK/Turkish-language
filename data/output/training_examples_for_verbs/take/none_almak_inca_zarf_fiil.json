@@ -1,0 +1,23 @@
+{
+  "verb_rank": 10,
+  "verb_english": "take",
+  "verb_russian": "брать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "alınca",
+    "root": "al",
+    "modal_affix": null,
+    "tense_affix": "ınca",
+    "verb_tense": "inca_zarf_fiil",
+    "personal_pronoun": null,
+    "personal_affix": null,
+    "polarity": "positive",
+    "negative_affix": null
+  },
+  "turkish_example_sentence": "Eski kitabı raftan alınca mutlu gülümsedi.",
+  "english_example_sentence": "Upon taking the old book from the shelf, he smiled happily.",
+  "russian_example_sentence": "Взяв старую книгу с полки, он счастливо улыбнулся.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2026-03-03T13:51:55.435216+00:00",
+  "turkish_example_sentence_with_blank": "Eski kitabı raftan ______ mutlu gülümsedi."
+}

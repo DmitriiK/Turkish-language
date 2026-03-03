@@ -1,0 +1,23 @@
+{
+  "verb_rank": 10,
+  "verb_english": "take",
+  "verb_russian": "брать",
+  "verb_infinitive": "almak",
+  "turkish_verb": {
+    "verb_full": "almadığım",
+    "root": "al",
+    "modal_affix": null,
+    "tense_affix": "dığ",
+    "verb_tense": "dik_sıfat_fiil",
+    "personal_pronoun": "ben",
+    "personal_affix": "ım",
+    "polarity": "negative",
+    "negative_affix": "ma"
+  },
+  "turkish_example_sentence": "Benim henüz almadığım biletler tükenmişti.",
+  "english_example_sentence": "The tickets I hadn't taken yet were sold out.",
+  "russian_example_sentence": "Билеты, которые я ещё не взял, были распроданы.",
+  "generated_by_model": "GEMINI - gemini-2.5-flash",
+  "generated_at": "2026-03-03T13:51:42.048109+00:00",
+  "turkish_example_sentence_with_blank": "Benim henüz ______ biletler tükenmişti."
+}

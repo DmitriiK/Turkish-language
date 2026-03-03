@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "gidebilirler",
     "root": "git",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "turkish_example_sentence": "Onlar kültürel festivalde antik müzeyi ziyaret etmek için gidebilirler.",
-  "english_example_sentence": "They can go to visit the ancient museum at the cultural festival.",
-  "russian_example_sentence": "Они могут пойти, чтобы посетить древний музей на культурном фестивале.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-14T07:34:22.682535+00:00",
-  "turkish_example_sentence_with_blank": "Onlar kültürel festivalde antik müzeyi ziyaret etmek için ______."
+  "turkish_example_sentence": "Onlar uçakla sıcak güney sahiline gidebilirler",
+  "english_example_sentence": "They can go to the warm southern coast by plane",
+  "russian_example_sentence": "Они могут поехать на тёплое южное побережье на самолёте",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:28:16.311910+00:00",
+  "turkish_example_sentence_with_blank": "Onlar uçakla sıcak güney sahiline ______"
 }

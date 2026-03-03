@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "ödeyebilirler",
     "root": "öde",
-    "tense_affix": "yebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "onlar",
-    "personal_affix": "irler",
+    "personal_affix": "ler",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "They can pay for the concert tickets",
-  "russian_example_sentence": "Они могут оплатить билеты на концерт",
-  "turkish_example_sentence": "Onlar konser biletlerini ödeyebilirler",
-  "turkish_example_sentence_with_blank": "Onlar konser biletlerini ______"
+  "turkish_example_sentence": "Onlar yeni ev mobilya alışverişini taksitle ödeyebilirler",
+  "english_example_sentence": "They can pay the new house furniture shopping in installments",
+  "russian_example_sentence": "Они могут заплатить за покупку мебели для нового дома в рассрочку",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:56:18.438585+00:00",
+  "turkish_example_sentence_with_blank": "Onlar yeni ev mobilya alışverişini taksitle ______"
 }

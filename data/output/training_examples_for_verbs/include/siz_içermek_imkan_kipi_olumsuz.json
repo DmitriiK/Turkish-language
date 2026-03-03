@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "içeremezsiniz",
     "root": "içer",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "zsiniz",
+    "personal_affix": "siniz",
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "You cannot include personal opinions in academic writing",
-  "russian_example_sentence": "Вы не можете включить личные мнения в академическое письмо",
-  "turkish_example_sentence": "Siz kişisel görüşleri akademik yazıda içeremezsiniz",
-  "turkish_example_sentence_with_blank": "Siz kişisel görüşleri akademik yazıda ______"
+  "turkish_example_sentence": "Siz eski bilgileri yeni sunum dosyasına içeremezsiniz",
+  "english_example_sentence": "You cannot include old information in the new presentation file",
+  "russian_example_sentence": "Вы не можете включить старую информацию в новый файл презентации",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:57:32.446104+00:00",
+  "turkish_example_sentence_with_blank": "Siz eski bilgileri yeni sunum dosyasına ______"
 }

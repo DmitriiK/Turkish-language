@@ -5,16 +5,19 @@
   "verb_infinitive": "ayakta durmak",
   "turkish_verb": {
     "verb_full": "ayakta duramazsınız",
-    "root": "ayakta dur",
-    "tense_affix": "ama",
+    "root": "dur",
+    "modal_affix": "ama",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
     "personal_affix": "sınız",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "You can’t stand on the wet floor.",
-  "russian_example_sentence": "Вы не можете стоять на мокром полу.",
-  "turkish_example_sentence": "Siz ıslak zeminde ayakta duramazsınız.",
-  "turkish_example_sentence_with_blank": "Siz ıslak zeminde ______."
+  "turkish_example_sentence": "Siz zayıf hastalar kaygan buzlu yolda güvenle ayakta duramazsınız",
+  "english_example_sentence": "You weak patients cannot stand safely on the slippery icy road",
+  "russian_example_sentence": "Вы слабые пациенты не можете стоять безопасно на скользкой ледяной дороге",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:55:04.829142+00:00",
+  "turkish_example_sentence_with_blank": "Siz zayıf hastalar kaygan buzlu yolda güvenle ______"
 }

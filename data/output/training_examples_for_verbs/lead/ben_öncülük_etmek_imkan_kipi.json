@@ -5,16 +5,19 @@
   "verb_infinitive": "öncülük etmek",
   "turkish_verb": {
     "verb_full": "öncülük edebilirim",
-    "root": "et",
-    "tense_affix": "ebil",
+    "root": "öncülük et",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
-    "personal_affix": "irim",
+    "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I can lead the important project successfully",
-  "russian_example_sentence": "Я могу вести важный проект успешно",
-  "turkish_example_sentence": "Ben bu önemli projeyi başarıyla öncülük edebilirim",
-  "turkish_example_sentence_with_blank": "Ben bu önemli projeyi başarıyla ______"
+  "turkish_example_sentence": "Ben büyük çevre projesine başarıyla öncülük edebilirim",
+  "english_example_sentence": "I can successfully lead the big environmental project",
+  "russian_example_sentence": "Я могу успешно возглавить большой экологический проект",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:00:49.236118+00:00",
+  "turkish_example_sentence_with_blank": "Ben büyük çevre projesine başarıyla ______"
 }

@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "gelemez",
     "root": "gel",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "z",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "o",
-    "personal_affix": "z",
+    "personal_affix": null,
     "polarity": "negative",
     "negative_affix": "eme"
   },
-  "english_example_sentence": "She cannot come to the hospital visit",
-  "russian_example_sentence": "Она не может прийти в больницу",
-  "turkish_example_sentence": "O hasta yaşlı annesi için hastaneye gelemez",
-  "turkish_example_sentence_with_blank": "O hasta yaşlı annesi için hastaneye ______"
+  "turkish_example_sentence": "O perşembe günü uzun iş toplantısına gelemez",
+  "english_example_sentence": "She cannot come to the long work meeting on Thursday",
+  "russian_example_sentence": "Она не может прийти на долгое рабочее собрание в четверг",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:32:34.588069+00:00",
+  "turkish_example_sentence_with_blank": "O perşembe günü uzun iş toplantısına ______"
 }

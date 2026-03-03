@@ -1,20 +1,23 @@
 {
   "verb_rank": 30,
-  "verb_english": "let (allow)",
+  "verb_english": "let",
   "verb_russian": "позволять",
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
     "verb_full": "izin verebilirim",
-    "root": "izin ver",
-    "tense_affix": "ebilir",
+    "root": "ver",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "im",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "I can let you borrow it.",
-  "russian_example_sentence": "Я могу дать тебе это взять.",
-  "turkish_example_sentence": "Ben sana bunu ödünç vermeye izin verebilirim.",
-  "turkish_example_sentence_with_blank": "Ben sana bunu ödünç vermeye ______."
+  "turkish_example_sentence": "Ben küçük kardeşime yeni bisikleti kullanmaya izin verebilirim",
+  "english_example_sentence": "I can let my little brother use the new bicycle",
+  "russian_example_sentence": "Я могу позволить моему младшему брату использовать новый велосипед",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:44:05.342589+00:00",
+  "turkish_example_sentence_with_blank": "Ben küçük kardeşime yeni bisikleti kullanmaya ______"
 }

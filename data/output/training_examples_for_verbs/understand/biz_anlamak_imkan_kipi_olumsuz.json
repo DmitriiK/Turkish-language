@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "anlayamayız",
     "root": "anla",
-    "tense_affix": "yabil",
+    "modal_affix": "ama",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
-    "personal_affix": "iriz",
+    "personal_affix": "yız",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "english_example_sentence": "We cannot understand the obscure ancient Sanskrit poetry",
-  "russian_example_sentence": "Мы не можем понять неясную древнюю санскритскую поэзию",
-  "turkish_example_sentence": "Biz belirsiz eski Sanskritçe şiirini anlayamayız",
-  "turkish_example_sentence_with_blank": "Biz belirsiz eski Sanskritçe şiirini ______"
+  "turkish_example_sentence": "Biz modern sanat galerisindeki soyut tabloyu anlayamayız",
+  "english_example_sentence": "We cannot understand the abstract painting in the modern art gallery",
+  "russian_example_sentence": "Мы не можем понять абстрактную картину в современной художественной галерее",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:01:27.326180+00:00",
+  "turkish_example_sentence_with_blank": "Biz modern sanat galerisindeki soyut tabloyu ______"
 }

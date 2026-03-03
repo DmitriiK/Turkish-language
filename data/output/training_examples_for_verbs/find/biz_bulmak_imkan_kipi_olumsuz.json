@@ -6,17 +6,18 @@
   "turkish_verb": {
     "verb_full": "bulamayız",
     "root": "bul",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yız",
     "polarity": "negative",
     "negative_affix": "ama"
   },
-  "turkish_example_sentence": "Biz bu karanlık ormanda doğru yolu bulamayız.",
-  "english_example_sentence": "We cannot find the right path in this dark forest.",
-  "russian_example_sentence": "Мы не можем найти правильный путь в этом тёмном лесу.",
-  "generated_by_model": "CLAUDE - anthropic.claude-haiku-4-5-20251001-v1:0",
-  "generated_at": "2025-12-15T12:39:33.336399+00:00",
-  "turkish_example_sentence_with_blank": "Biz bu karanlık ormanda doğru yolu ______."
+  "turkish_example_sentence": "Biz yoğun trafikte hızlı kolay yol bulamayız",
+  "english_example_sentence": "We cannot find a fast easy road in heavy traffic",
+  "russian_example_sentence": "Мы не можем найти быструю лёгкую дорогу в плотном движении",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:35:09.863371+00:00",
+  "turkish_example_sentence_with_blank": "Biz yoğun trafikte hızlı kolay yol ______"
 }

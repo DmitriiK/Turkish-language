@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "devam edemem",
     "root": "devam et",
-    "tense_affix": "eme",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "ben",
     "personal_affix": "m",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "I cannot continue without your help today",
-  "russian_example_sentence": "Я не могу продолжить без твоей помощи сегодня",
-  "turkish_example_sentence": "Ben senin yardımı olmadan devam edemem",
-  "turkish_example_sentence_with_blank": "Ben senin yardımı olmadan ______"
+  "turkish_example_sentence": "Ben yorgun olduğum için uzun yolculuğa devam edemem",
+  "english_example_sentence": "I cannot continue to the long journey because I am tired",
+  "russian_example_sentence": "Я не могу продолжать долгое путешествие, потому что я устал",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:58:11.016782+00:00",
+  "turkish_example_sentence_with_blank": "Ben yorgun olduğum için uzun yolculuğa ______"
 }

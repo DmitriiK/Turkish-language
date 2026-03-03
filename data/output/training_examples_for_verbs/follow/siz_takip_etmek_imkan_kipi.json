@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "takip edebilirsiniz",
     "root": "takip et",
-    "tense_affix": "ebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "irsiniz",
+    "personal_affix": "siniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can follow the beautiful romantic novel easily",
-  "russian_example_sentence": "Вы можете следить за красивым романтическим романом легко",
-  "turkish_example_sentence": "Siz güzel romantik romanı kolayca takip edebilirsiniz",
-  "turkish_example_sentence_with_blank": "Siz güzel romantik romanı kolayca ______"
+  "turkish_example_sentence": "Siz yeşil trafik levhalarını dikkatle takip edebilirsiniz",
+  "english_example_sentence": "You can carefully follow the green traffic signs",
+  "russian_example_sentence": "Вы можете внимательно следовать зеленым дорожным знакам",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:02:47.363502+00:00",
+  "turkish_example_sentence_with_blank": "Siz yeşil trafik levhalarını dikkatle ______"
 }

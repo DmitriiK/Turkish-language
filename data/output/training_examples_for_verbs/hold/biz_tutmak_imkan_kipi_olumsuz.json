@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "tutamayız",
     "root": "tut",
-    "tense_affix": "ama",
+    "modal_affix": "ama",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yız",
     "polarity": "negative",
-    "negative_affix": "ama"
+    "negative_affix": "ma"
   },
-  "english_example_sentence": "We cannot hold all these heavy shopping bags together",
-  "russian_example_sentence": "Мы не можем держать все эти тяжелые сумки для покупок вместе",
-  "turkish_example_sentence": "Biz tüm bu ağır alışveriş çantalarını birlikte tutamayız",
-  "turkish_example_sentence_with_blank": "Biz tüm bu ağır alışveriş çantalarını birlikte ______"
+  "turkish_example_sentence": "Biz kaygan beyaz sabunu ıslak elle tutamayız",
+  "english_example_sentence": "We cannot hold the slippery white soap with wet hand",
+  "russian_example_sentence": "Мы не можем держать скользкое белое мыло мокрой рукой",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T08:51:49.235485+00:00",
+  "turkish_example_sentence_with_blank": "Biz kaygan beyaz sabunu ıslak elle ______"
 }

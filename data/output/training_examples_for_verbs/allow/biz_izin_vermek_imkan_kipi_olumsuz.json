@@ -5,16 +5,19 @@
   "verb_infinitive": "izin vermek",
   "turkish_verb": {
     "verb_full": "izin veremeyiz",
-    "root": "izin ver",
-    "tense_affix": "eme",
+    "root": "ver",
+    "modal_affix": "eme",
+    "tense_affix": "",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "biz",
     "personal_affix": "yiz",
     "polarity": "negative",
-    "negative_affix": "eme"
+    "negative_affix": null
   },
-  "english_example_sentence": "We cannot allow smoking in the clean hospital building",
-  "russian_example_sentence": "Мы не можем позволить курение в чистом больничном здании",
-  "turkish_example_sentence": "Biz temiz hastane binasında sigara içmeyi izin veremeyiz",
-  "turkish_example_sentence_with_blank": "Biz temiz hastane binasında sigara içmeyi ______"
+  "turkish_example_sentence": "Biz sorumlu ebeveynler çocuklarımıza geç saatlerde sokakta dolaşmalarına izin veremeyiz",
+  "english_example_sentence": "We responsible parents cannot allow our children to wander on the street at late hours",
+  "russian_example_sentence": "Мы ответственные родители не можем разрешить нашим детям бродить по улице в поздние часы",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:06:05.792973+00:00",
+  "turkish_example_sentence_with_blank": "Biz sorumlu ebeveynler çocuklarımıza geç saatlerde sokakta dolaşmalarına ______"
 }

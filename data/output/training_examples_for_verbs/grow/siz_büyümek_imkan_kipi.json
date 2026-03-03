@@ -6,15 +6,18 @@
   "turkish_verb": {
     "verb_full": "büyüyebilirsiniz",
     "root": "büyü",
-    "tense_affix": "yebil",
+    "modal_affix": "ebil",
+    "tense_affix": "ir",
     "verb_tense": "imkan_kipi",
     "personal_pronoun": "siz",
-    "personal_affix": "irsiniz",
+    "personal_affix": "siniz",
     "polarity": "positive",
     "negative_affix": null
   },
-  "english_example_sentence": "You can grow fresh grass here",
-  "russian_example_sentence": "Вы можете выращивать свежую траву здесь",
-  "turkish_example_sentence": "Siz burada taze çimler büyüyebilirsiniz",
-  "turkish_example_sentence_with_blank": "Siz burada taze çimler ______"
+  "turkish_example_sentence": "Siz temiz havada bol vitaminle büyüyebilirsiniz",
+  "english_example_sentence": "You can grow in clean air with plenty of vitamins",
+  "russian_example_sentence": "Вы можете расти на чистом воздухе с большим количеством витаминов",
+  "generated_by_model": "CLAUDE - claude-sonnet-4-5@20250929",
+  "generated_at": "2026-03-03T09:07:56.557739+00:00",
+  "turkish_example_sentence_with_blank": "Siz temiz havada bol vitaminle ______"
 }
