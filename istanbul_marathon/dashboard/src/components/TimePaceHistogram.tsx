@@ -21,7 +21,7 @@ interface Props {
 
 const W = 860
 const H = 348
-const PAD = { left: 48, right: 16, top: 36, bottom: 40 }
+const PAD = { left: 48, right: 48, top: 36, bottom: 40 }
 
 function niceStep(raw: number): number {
   if (raw <= 1) return 1

@@ -395,7 +395,7 @@ select {
 }
 
 .chart-block-wide {
-  max-width: 920px;
+  width: 100%;
 }
 
 .histogram-dual-axis .axis-label-top {
@@ -522,10 +522,15 @@ select {
 
 /* Histogram */
 
+.histogram {
+  width: 100%;
+}
+
 .histogram svg {
   width: 100%;
   height: auto;
   display: block;
+  margin: 0 auto;
 }
 
 .bar {
