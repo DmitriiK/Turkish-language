@@ -107,8 +107,10 @@ export default function App() {
   return (
     <div className="page">
       <header className="hero">
-        <img className="hero-image" src={`${import.meta.env.BASE_URL}hero.png`} alt="" />
-        <div className="hero-overlay">
+        <div className="hero-side hero-side-left" aria-hidden="true">
+          <img src={`${import.meta.env.BASE_URL}hero-bridge.jpg`} alt="" />
+        </div>
+        <div className="hero-center">
           <div className="lang-switch" role="group">
             {LANGS.map((l) => (
               <button
@@ -137,6 +139,9 @@ export default function App() {
               </div>
             )}
           </div>
+        </div>
+        <div className="hero-side hero-side-right" aria-hidden="true">
+          <img src={`${import.meta.env.BASE_URL}hero.png`} alt="" />
         </div>
       </header>
 
