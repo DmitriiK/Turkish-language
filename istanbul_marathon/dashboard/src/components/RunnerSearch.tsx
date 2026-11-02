@@ -72,7 +72,9 @@ export function RunnerSearch({ all, selection, selected, onSelect, distanceKm, l
                       {r.seconds != null ? (
                         <>
                           {formatTime(r.seconds)}
-                          <span className="pace-line">{formatPace(r.seconds, distanceKm)} {t.pacePerKm}</span>
+                          <span className="pace-line pace-line-normal">
+                            {formatPace(r.seconds, distanceKm)} {t.pacePerKm}
+                          </span>
                         </>
                       ) : (
                         r.status ?? t.noTime

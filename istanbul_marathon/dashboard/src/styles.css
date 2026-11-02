@@ -1,4 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@500;600&display=swap');
+
 :root {
+  --font-pace: 'DM Mono', ui-monospace, 'SF Mono', Menlo, Consolas, monospace;
   --bg: #f3f6fa;
   --card: #ffffff;
   --text: #14213d;
@@ -417,17 +420,47 @@ select {
 .top3 .time-with-pace {
   flex: none;
   text-align: right;
-  font-weight: 600;
   font-variant-numeric: tabular-nums;
 }
 
-.time-with-pace .pace-line {
-  font-weight: 400;
-  margin-top: 2px;
+.time-with-pace .time-value {
+  font-family: inherit;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
 }
 
+.time-with-pace .pace-line,
 .pace-line {
+  font-family: var(--font-pace);
   font-variant-numeric: tabular-nums;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+
+.pace-line-big {
+  font-size: 1.35rem;
+  font-weight: 700;
+  color: var(--text);
+  opacity: 0.88;
+}
+
+.pace-line-normal {
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: var(--text);
+  opacity: 0.85;
+}
+
+.top3 .time-with-pace .time-value {
+  font-size: 1.05rem;
+}
+
+.top3 .time-with-pace .pace-line-normal {
+  font-size: 0.98rem;
+}
+
+.agg-table .pace-line-normal {
+  font-size: 0.95rem;
 }
 
 .match-times {
@@ -435,6 +468,13 @@ select {
   flex-direction: column;
   align-items: flex-end;
   gap: 2px;
+  font-weight: 600;
+}
+
+.match-times .pace-line-normal {
+  font-family: var(--font-pace);
+  font-size: 1rem;
+  opacity: 0.85;
 }
 
 /* Histogram */
