@@ -15,6 +15,7 @@ import {
   runnerPaceSeconds,
   summarize,
   summarizePace,
+  type CentralMetric,
   type DistanceKey,
   type Runner,
 } from './stats'
@@ -29,6 +30,10 @@ function initialLang(): Lang {
   return nav === 'tr' || nav === 'ru' ? nav : 'en'
 }
 
+function initialCentralMetric(): CentralMetric {
+  return localStorage.getItem('centralMetric') === 'median' ? 'median' : 'mean'
+}
+
 export default function App() {
   const [lang, setLang] = useState<Lang>(initialLang)
   const [data, setData] = useState<Record<DistanceKey, Runner[]> | null>(null)
@@ -38,7 +43,12 @@ export default function App() {
   const [gender, setGender] = useState('all')
   const [country, setCountry] = useState('all')
   const [selected, setSelected] = useState<Runner | null>(null)
+  const [centralMetric, setCentralMetric] = useState<CentralMetric>(initialCentralMetric)
   const t = DICTS[lang]
+
+  useEffect(() => {
+    localStorage.setItem('centralMetric', centralMetric)
+  }, [centralMetric])
 
   useEffect(() => {
     localStorage.setItem('lang', lang)
@@ -215,6 +225,26 @@ export default function App() {
                 <label>{t.country}</label>
                 <CountrySelect value={country} options={countryOptions} lang={lang} t={t} onChange={setCountry} />
               </div>
+
+              <div className="filter">
+                <label>{t.centralMetric}</label>
+                <div className="segmented">
+                  <button
+                    type="button"
+                    className={centralMetric === 'mean' ? 'active' : ''}
+                    onClick={() => setCentralMetric('mean')}
+                  >
+                    {t.averageShort}
+                  </button>
+                  <button
+                    type="button"
+                    className={centralMetric === 'median' ? 'active' : ''}
+                    onClick={() => setCentralMetric('median')}
+                  >
+                    {t.medianShort}
+                  </button>
+                </div>
+              </div>
             </section>
 
             <section className="card">
@@ -227,7 +257,7 @@ export default function App() {
                     <div className="muted">{t.count}</div>
                     <div className="big">{summary.count.toLocaleString(lang)}</div>
                   </div>
-                  <div className="stat">
+                  <div className={`stat${centralMetric === 'mean' ? ' stat-active' : ''}`}>
                     <div className="muted">{t.average}</div>
                     <TimeWithPace
                       seconds={summary.mean}
@@ -236,7 +266,7 @@ export default function App() {
                       size="big"
                     />
                   </div>
-                  <div className="stat">
+                  <div className={`stat${centralMetric === 'median' ? ' stat-active' : ''}`}>
                     <div className="muted">{t.median}</div>
                     <TimeWithPace
                       seconds={summary.median}
@@ -276,6 +306,7 @@ export default function App() {
                     <Histogram
                       runners={selection}
                       summary={summary}
+                      centralMetric={centralMetric}
                       t={t}
                       highlight={
                         selected?.seconds != null
@@ -291,6 +322,7 @@ export default function App() {
                       runners={selection}
                       summary={paceSummary}
                       distanceKm={distanceKm}
+                      centralMetric={centralMetric}
                       t={t}
                       highlight={
                         selected?.seconds != null
@@ -321,6 +353,7 @@ export default function App() {
               runners={selection}
               dimensions={dimensions}
               distanceKm={distanceKm}
+              centralMetric={centralMetric}
               lang={lang}
               t={t}
             />

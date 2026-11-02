@@ -5,6 +5,7 @@ import {
   formatPacePerKm,
   normalPdf,
   runnerPaceSeconds,
+  type CentralMetric,
   type PaceSummary,
   type Runner,
 } from '../stats'
@@ -13,6 +14,7 @@ interface Props {
   runners: Runner[]
   summary: PaceSummary
   distanceKm: number
+  centralMetric: CentralMetric
   highlight?: { paceSecPerKm: number; label: string }
   t: Dict
 }
@@ -33,8 +35,10 @@ function pickPaceBinSize(range: number): number {
   return candidates.find((c) => range / c <= 45) ?? 120
 }
 
-export function PaceHistogram({ runners, summary, distanceKm, highlight, t }: Props) {
+export function PaceHistogram({ runners, summary, distanceKm, centralMetric, highlight, t }: Props) {
   const [hover, setHover] = useState<number | null>(null)
+  const centralValue = centralMetric === 'mean' ? summary.mean : summary.median
+  const centralLegend = centralMetric === 'mean' ? t.averagePace : t.medianPace
 
   const chart = useMemo(() => {
     const paces = finishers(runners).map((r) => runnerPaceSeconds(r, distanceKm))
@@ -102,7 +106,7 @@ export function PaceHistogram({ runners, summary, distanceKm, highlight, t }: Pr
           />
         ))}
         <path className="curve" d={path} />
-        <line className="mean-line" x1={x(summary.mean)} x2={x(summary.mean)} y1={PAD.top} y2={PAD.top + innerH} />
+        <line className="mean-line" x1={x(centralValue)} x2={x(centralValue)} y1={PAD.top} y2={PAD.top + innerH} />
         {highlight &&
           highlight.paceSecPerKm >= chart.start &&
           highlight.paceSecPerKm <= chart.end && (
@@ -134,7 +138,7 @@ export function PaceHistogram({ runners, summary, distanceKm, highlight, t }: Pr
           <span className="swatch swatch-curve" /> {t.normalFit}
         </span>
         <span className="legend">
-          <span className="swatch swatch-mean" /> {t.averagePace}
+          <span className="swatch swatch-mean" /> {centralLegend}
         </span>
         {hover != null && (
           <span className="hover-info">

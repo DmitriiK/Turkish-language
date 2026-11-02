@@ -2,7 +2,7 @@ import { useMemo, useState } from 'react'
 import { countryName } from '../countries'
 import type { Dict, Lang } from '../i18n'
 import { TimeWithPace } from './TimeWithPace'
-import { genderOrder, type Runner } from '../stats'
+import { genderOrder, medianOf, type CentralMetric, type Runner } from '../stats'
 import { Flag } from './Flag'
 
 export type Dimension = 'gender' | 'age' | 'country'
@@ -11,6 +11,7 @@ interface Props {
   runners: Runner[]
   dimensions: Dimension[]
   distanceKm: number
+  centralMetric: CentralMetric
   lang: Lang
   t: Dict
 }
@@ -21,6 +22,7 @@ interface Node {
   value: string
   count: number
   mean: number
+  median: number
   best: number
   children: Node[]
 }
@@ -50,6 +52,7 @@ function build(runners: Runner[], dims: Dimension[], prefix: string): Node[] {
       value,
       count: rs.length,
       mean: times.reduce((a, b) => a + b, 0) / times.length,
+      median: medianOf(times),
       best: Math.min(...times),
       children: build(rs, rest, id),
     })
@@ -70,7 +73,8 @@ function collectIds(nodes: Node[], out: string[] = []): string[] {
   return out
 }
 
-export function AggregateTable({ runners, dimensions, distanceKm, lang, t }: Props) {
+export function AggregateTable({ runners, dimensions, distanceKm, centralMetric, lang, t }: Props) {
+  const centralLabel = centralMetric === 'mean' ? t.average : t.median
   const tree = useMemo(
     () => build(runners.filter((r) => r.seconds != null), dimensions, ''),
     [runners, dimensions],
@@ -114,7 +118,11 @@ export function AggregateTable({ runners, dimensions, distanceKm, lang, t }: Pro
           </td>
           <td className="num">{n.count}</td>
           <td className="num">
-            <TimeWithPace seconds={n.mean} distanceKm={distanceKm} paceLabel={t.pacePerKm} />
+            <TimeWithPace
+              seconds={centralMetric === 'mean' ? n.mean : n.median}
+              distanceKm={distanceKm}
+              paceLabel={t.pacePerKm}
+            />
           </td>
           <td className="num">
             <TimeWithPace seconds={n.best} distanceKm={distanceKm} paceLabel={t.pacePerKm} />
@@ -150,7 +158,7 @@ export function AggregateTable({ runners, dimensions, distanceKm, lang, t }: Pro
             <tr>
               <th>{t.group}</th>
               <th className="num">{t.count}</th>
-              <th className="num">{t.average}</th>
+              <th className="num">{centralLabel}</th>
               <th className="num">{t.best}</th>
             </tr>
           </thead>

@@ -1,10 +1,11 @@
 import { useMemo, useState } from 'react'
 import type { Dict } from '../i18n'
-import { finishers, formatTime, normalPdf, type Runner, type Summary } from '../stats'
+import { finishers, formatTime, normalPdf, type CentralMetric, type Runner, type Summary } from '../stats'
 
 interface Props {
   runners: Runner[]
   summary: Summary
+  centralMetric: CentralMetric
   highlight?: { seconds: number; label: string }
   t: Dict
 }
@@ -25,8 +26,10 @@ function pickBinSize(range: number): number {
   return candidates.find((c) => range / c <= 45) ?? 3600
 }
 
-export function Histogram({ runners, summary, highlight, t }: Props) {
+export function Histogram({ runners, summary, centralMetric, highlight, t }: Props) {
   const [hover, setHover] = useState<number | null>(null)
+  const centralValue = centralMetric === 'mean' ? summary.mean : summary.median
+  const centralLegend = centralMetric === 'mean' ? t.average : t.median
 
   const chart = useMemo(() => {
     const times = finishers(runners).map((r) => r.seconds!)
@@ -94,7 +97,7 @@ export function Histogram({ runners, summary, highlight, t }: Props) {
           />
         ))}
         <path className="curve" d={path} />
-        <line className="mean-line" x1={x(summary.mean)} x2={x(summary.mean)} y1={PAD.top} y2={PAD.top + innerH} />
+        <line className="mean-line" x1={x(centralValue)} x2={x(centralValue)} y1={PAD.top} y2={PAD.top + innerH} />
         {highlight && highlight.seconds >= chart.start && highlight.seconds <= chart.end && (
           <g>
             <line className="you-line" x1={x(highlight.seconds)} x2={x(highlight.seconds)} y1={PAD.top} y2={PAD.top + innerH} />
@@ -113,7 +116,7 @@ export function Histogram({ runners, summary, highlight, t }: Props) {
       <div className="histogram-footer">
         <span className="legend"><span className="swatch swatch-bar" /> {t.runners}</span>
         <span className="legend"><span className="swatch swatch-curve" /> {t.normalFit}</span>
-        <span className="legend"><span className="swatch swatch-mean" /> {t.average}</span>
+        <span className="legend"><span className="swatch swatch-mean" /> {centralLegend}</span>
         {hover != null && (
           <span className="hover-info">
             {formatTime(hoverFrom)} – {formatTime(hoverFrom + chart.bin)}: <b>{chart.counts[hover]}</b>{' '}

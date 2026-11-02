@@ -1,4 +1,11 @@
 export type DistanceKey = 'marathon' | '15_5k' | 'wheelchair'
+export type CentralMetric = 'mean' | 'median'
+
+export function medianOf(values: number[]): number {
+  const sorted = [...values].sort((a, b) => a - b)
+  const mid = Math.floor(sorted.length / 2)
+  return sorted.length % 2 ? sorted[mid] : (sorted[mid - 1] + sorted[mid]) / 2
+}
 
 /** Official race distances in kilometres. */
 export const RACE_DISTANCE_KM: Record<DistanceKey, number> = {
@@ -140,4 +147,16 @@ export function fasterThanShare(runners: Runner[], seconds: number): number {
 
 export function rankIn(runners: Runner[], seconds: number): number {
   return finishers(runners).filter((r) => r.seconds! < seconds).length + 1
+}
+
+/** Share of finishers with strictly slower pace (higher sec/km). */
+export function fasterPaceShare(runners: Runner[], paceSecPerKm: number, distanceKm: number): number {
+  const done = finishers(runners)
+  if (done.length === 0) return 0
+  const slower = done.filter((r) => runnerPaceSeconds(r, distanceKm) > paceSecPerKm).length
+  return slower / done.length
+}
+
+export function rankByPace(runners: Runner[], paceSecPerKm: number, distanceKm: number): number {
+  return finishers(runners).filter((r) => runnerPaceSeconds(r, distanceKm) < paceSecPerKm).length + 1
 }
