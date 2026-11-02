@@ -394,6 +394,31 @@ select {
   margin: 0 0 12px;
 }
 
+.chart-block-wide {
+  max-width: 920px;
+}
+
+.histogram-dual-axis .axis-label-top {
+  font-size: 0.72rem;
+  fill: var(--muted);
+}
+
+.histogram-dual-axis .pace-axis {
+  font-family: 'DM Mono', ui-monospace, monospace;
+}
+
+.histogram-dual-axis .tick-top,
+.histogram-dual-axis .tick-bottom {
+  stroke: var(--border);
+  stroke-width: 1;
+}
+
+.histogram-dual-axis .axis-title {
+  font-size: 0.78rem;
+  fill: var(--muted);
+  font-weight: 500;
+}
+
 /* Stats */
 
 .stats-grid {
@@ -830,6 +855,14 @@ select {
 .footer {
   text-align: center;
   padding: 8px 0 0;
+}
+
+.footer p {
+  margin: 0 0 6px;
+}
+
+.footer p:last-child {
+  margin-bottom: 0;
 }
 
 @media (max-width: 1080px) {

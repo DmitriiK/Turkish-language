@@ -1,9 +1,8 @@
-import { useEffect, useMemo, useState } from 'react'
+import { Fragment, useEffect, useMemo, useState } from 'react'
 import { AggregateTable, type Dimension } from './components/AggregateTable'
 import { CountrySelect } from './components/CountrySelect'
 import { Flag } from './components/Flag'
-import { Histogram } from './components/Histogram'
-import { PaceHistogram } from './components/PaceHistogram'
+import { TimePaceHistogram } from './components/TimePaceHistogram'
 import { RunnerSearch } from './components/RunnerSearch'
 import { TimeWithPace } from './components/TimeWithPace'
 import { countryName } from './countries'
@@ -12,9 +11,7 @@ import {
   genderOrder,
   loadDistance,
   RACE_DISTANCE_KM,
-  runnerPaceSeconds,
   summarize,
-  summarizePace,
   type CentralMetric,
   type DistanceKey,
   type Runner,
@@ -23,6 +20,10 @@ import {
 const DISTANCES: DistanceKey[] = ['marathon', '15_5k', 'wheelchair']
 const SOURCE_URL = 'https://results.splittime.nl/results/ShowEvent.aspx?EventID=12849'
 const OFFICIAL_EVENT_URL = 'https://maraton.istanbul/'
+const EVENT_INSTAGRAM_URLS = [
+  'https://www.instagram.com/p/DfM8cB-jeiz/',
+  'https://www.instagram.com/p/DfMy0LINzRW/',
+]
 
 function initialLang(): Lang {
   const saved = localStorage.getItem('lang')
@@ -99,8 +100,6 @@ export default function App() {
 
   const distanceKm = RACE_DISTANCE_KM[distance]
   const summary = useMemo(() => summarize(selection), [selection])
-  const paceSummary = useMemo(() => summarizePace(selection, distanceKm), [selection, distanceKm])
-
   const dimensions = useMemo(() => {
     const dims: Dimension[] = []
     if (gender === 'all') dims.push('gender')
@@ -302,43 +301,22 @@ export default function App() {
               )}
             </section>
 
-            {summary && paceSummary && (
+            {summary && (
               <section className="card charts-card">
-                <div className="charts-grid">
-                  <div className="chart-block">
-                    <h2>{t.distribution}</h2>
-                    <p className="muted small">{t.distributionHint}</p>
-                    <Histogram
-                      runners={selection}
-                      summary={summary}
-                      centralMetric={centralMetric}
-                      t={t}
-                      highlight={
-                        selected?.seconds != null
-                          ? { seconds: selected.seconds, label: selected.name.split(',')[0] }
-                          : undefined
-                      }
-                    />
-                  </div>
-                  <div className="chart-block">
-                    <h2>{t.paceDistribution}</h2>
-                    <p className="muted small">{t.paceDistributionHint}</p>
-                    <PaceHistogram
-                      runners={selection}
-                      summary={paceSummary}
-                      distanceKm={distanceKm}
-                      centralMetric={centralMetric}
-                      t={t}
-                      highlight={
-                        selected?.seconds != null
-                          ? {
-                              paceSecPerKm: runnerPaceSeconds(selected, distanceKm),
-                              label: selected.name.split(',')[0],
-                            }
-                          : undefined
-                      }
-                    />
-                  </div>
+                <div className="chart-block chart-block-wide">
+                  <h2>{t.distributionDual}</h2>
+                  <TimePaceHistogram
+                    runners={selection}
+                    summary={summary}
+                    distanceKm={distanceKm}
+                    centralMetric={centralMetric}
+                    t={t}
+                    highlight={
+                      selected?.seconds != null
+                        ? { seconds: selected.seconds, label: selected.name.split(',')[0] }
+                        : undefined
+                    }
+                  />
                 </div>
               </section>
             )}
@@ -364,7 +342,19 @@ export default function App() {
             />
 
             <footer className="footer muted small">
-              {t.dataSource}: <a href={SOURCE_URL}>results.splittime.nl</a>
+              <p>
+                {t.dataSource}: <a href={SOURCE_URL}>results.splittime.nl</a>
+              </p>
+              <p>
+                {EVENT_INSTAGRAM_URLS.map((url, i) => (
+                  <Fragment key={url}>
+                    {i > 0 && ' · '}
+                    <a href={url} rel="noopener noreferrer" target="_blank">
+                      {EVENT_INSTAGRAM_URLS.length > 1 ? `${t.eventInstagram} ${i + 1}` : t.eventInstagram}
+                    </a>
+                  </Fragment>
+                ))}
+              </p>
             </footer>
           </>
         )}

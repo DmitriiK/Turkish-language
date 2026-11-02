@@ -40,6 +40,9 @@ const en = {
   noResults: 'No results for this selection',
   distribution: 'Finish time distribution',
   distributionHint: 'Bars show runners per time interval; the curve is a normal (Gaussian) fit.',
+  distributionDual: 'Finish time & pace distribution',
+  axisPace: 'Pace (min/km)',
+  axisTime: 'Finish time',
   paceDistribution: 'Pace distribution (min/km)',
   paceDistributionHint:
     'Bars show how many runners finished with a given average pace; the curve is a normal (Gaussian) fit.',
@@ -70,6 +73,7 @@ const en = {
   expandAll: 'Expand all',
   collapseAll: 'Collapse all',
   dataSource: 'Data source',
+  eventInstagram: 'Event on Instagram',
   loading: 'Loading…',
   loadError: 'Could not load the results.',
 }
@@ -110,6 +114,9 @@ const tr: Dict = {
   noResults: 'Bu seçim için sonuç yok',
   distribution: 'Bitiş süresi dağılımı',
   distributionHint: 'Sütunlar her zaman aralığındaki koşucu sayısını, eğri normal (Gauss) dağılım uyumunu gösterir.',
+  distributionDual: 'Bitiş süresi ve tempo dağılımı',
+  axisPace: 'Tempo (dk/km)',
+  axisTime: 'Bitiş süresi',
   paceDistribution: 'Tempo dağılımı (dk/km)',
   paceDistributionHint:
     'Sütunlar koşucu sayısını kilometre başına ortalama tempoya göre gösterir; eğri normal (Gauss) dağılım uyumudur.',
@@ -140,6 +147,7 @@ const tr: Dict = {
   expandAll: 'Tümünü aç',
   collapseAll: 'Tümünü kapat',
   dataSource: 'Veri kaynağı',
+  eventInstagram: 'Etkinlik · Instagram',
   loading: 'Yükleniyor…',
   loadError: 'Sonuçlar yüklenemedi.',
 }
@@ -178,6 +186,9 @@ const ru: Dict = {
   noResults: 'Нет результатов для этой выборки',
   distribution: 'Распределение времени финиша',
   distributionHint: 'Столбцы — число бегунов в интервале времени, кривая — аппроксимация нормальным (гауссовым) распределением.',
+  distributionDual: 'Распределение времени и темпа',
+  axisPace: 'Темп (мин/км)',
+  axisTime: 'Время финиша',
   paceDistribution: 'Распределение темпа (мин/км)',
   paceDistributionHint:
     'Столбцы — сколько бегунов бежали с данным средним темпом; кривая — аппроксимация нормальным (гауссовым) распределением.',
@@ -208,6 +219,7 @@ const ru: Dict = {
   expandAll: 'Раскрыть всё',
   collapseAll: 'Свернуть всё',
   dataSource: 'Источник данных',
+  eventInstagram: 'Событие в Instagram',
   loading: 'Загрузка…',
   loadError: 'Не удалось загрузить результаты.',
 }
