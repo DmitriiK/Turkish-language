@@ -1,16 +1,6 @@
 import { useEffect, useMemo, useState } from 'react'
-import { countryName } from '../countries'
 import type { Dict, Lang } from '../i18n'
-import {
-  fasterPaceShare,
-  fasterThanShare,
-  formatPace,
-  formatTime,
-  rankByPace,
-  rankIn,
-  runnerPaceSeconds,
-  type Runner,
-} from '../stats'
+import { fasterThanShare, formatPace, formatTime, rankIn, type Runner } from '../stats'
 import { Flag } from './Flag'
 
 interface Props {
@@ -39,43 +29,8 @@ function runnerKey(r: Runner): string {
   return `${r.bib}-${r.name}`
 }
 
-function MetricColumn({
-  label,
-  value,
-  valueClassName,
-  rank,
-  total,
-  share,
-  lang,
-  t,
-}: {
-  label: string
-  value: string
-  valueClassName?: string
-  rank: number
-  total: number
-  share: number
-  lang: Lang
-  t: Dict
-}) {
-  return (
-    <div className="runner-metric-col">
-      <div className="runner-metric-label">{label}</div>
-      <div className={`runner-metric-value ${valueClassName ?? ''}`}>{value}</div>
-      <div className="runner-metric-place">
-        {t.place}:{' '}
-        <b>
-          {rank} / {total}
-        </b>
-      </div>
-      <div className="runner-metric-percentile muted small">
-        {t.betterThanShare} <b>{formatShare(lang, share)}</b>
-      </div>
-      <div className="percent-bar">
-        <div className="percent-fill" style={{ width: `${share * 100}%` }} />
-      </div>
-    </div>
-  )
+function isInSelection(runner: Runner, selection: Runner[]): boolean {
+  return selection.some((r) => runnerKey(r) === runnerKey(runner))
 }
 
 export function RunnerSearch({ all, selection, selected, onSelect, distanceKm, lang, t }: Props) {
@@ -92,32 +47,16 @@ export function RunnerSearch({ all, selection, selected, onSelect, distanceKm, l
     return index.filter(({ key }) => words.every((w) => key.includes(w))).slice(0, 20).map(({ r }) => r)
   }, [query, all, index])
 
-  useEffect(() => {
-    if (matches.length === 1) onSelect(matches[0])
-  }, [matches, onSelect])
-
-  const inSelection = selected ? selection.some((r) => runnerKey(r) === runnerKey(selected)) : false
   const total = selection.filter((r) => r.seconds != null).length
 
-  const timeStats =
-    selected?.seconds != null
-      ? {
-          rank: rankIn(selection, selected.seconds),
-          share: fasterThanShare(selection, selected.seconds),
-        }
-      : null
+  useEffect(() => {
+    const forChart = matches.find((r) => r.seconds != null) ?? null
+    const nextKey = forChart ? runnerKey(forChart) : ''
+    const curKey = selected ? runnerKey(selected) : ''
+    if (nextKey !== curKey) onSelect(forChart)
+  }, [matches, onSelect, selected])
 
-  const paceStats =
-    selected?.seconds != null
-      ? (() => {
-          const pace = runnerPaceSeconds(selected, distanceKm)
-          return {
-            pace,
-            rank: rankByPace(selection, pace, distanceKm),
-            share: fasterPaceShare(selection, pace, distanceKm),
-          }
-        })()
-      : null
+  const anyOutsideSelection = matches.some((r) => r.seconds != null && !isInSelection(r, selection))
 
   return (
     <section className="card">
@@ -128,7 +67,7 @@ export function RunnerSearch({ all, selection, selected, onSelect, distanceKm, l
         value={query}
         onChange={(e) => {
           setQuery(e.target.value)
-          onSelect(null)
+          if (!e.target.value.trim()) onSelect(null)
         }}
       />
       {query.trim() && (
@@ -137,79 +76,71 @@ export function RunnerSearch({ all, selection, selected, onSelect, distanceKm, l
             <p className="muted">{t.noMatches}</p>
           ) : (
             <>
-              {!selected && matches.length > 1 && <p className="muted small">{t.selectRunnerHint}</p>}
-              <ul>
-                {matches.map((r) => (
-                  <li key={runnerKey(r)}>
-                    <button
-                      type="button"
-                      className={selected && runnerKey(selected) === runnerKey(r) ? 'match-selected' : ''}
-                      onClick={() => onSelect(r)}
-                    >
-                      <span className="bib">#{r.bib}</span>
-                      <span className="with-flag">
-                        <Flag country={r.country} />
-                        {r.name}
-                      </span>
-                      <span className="muted match-times">
-                        {r.seconds != null ? (
-                          <>
-                            {formatTime(r.seconds)}
-                            <span className="pace-line pace-line-normal">
-                              {formatPace(r.seconds, distanceKm)} {t.pacePerKm}
+              <div className="table-wrap">
+                <table className="search-results-table">
+                  <thead>
+                    <tr>
+                      <th>{t.bib}</th>
+                      <th>{t.name}</th>
+                      <th className="num">{t.time}</th>
+                      <th className="num">{t.pacePerKm}</th>
+                      <th className="num">{t.place}</th>
+                      <th className="num">{t.betterThanShare}</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {matches.map((r) => {
+                      const hasTime = r.seconds != null
+                      const rank = hasTime ? rankIn(selection, r.seconds!) : null
+                      const share = hasTime ? fasterThanShare(selection, r.seconds!) : null
+                      const inSel = isInSelection(r, selection)
+                      const chartRow = selected && runnerKey(selected) === runnerKey(r)
+                      return (
+                        <tr
+                          key={runnerKey(r)}
+                          className={`${chartRow ? 'search-row-chart' : ''}${!inSel && hasTime ? ' search-row-outside' : ''}`}
+                        >
+                          <td className="num bib-cell">{r.bib}</td>
+                          <td>
+                            <span className="with-flag">
+                              <Flag country={r.country} />
+                              {r.name}
                             </span>
-                          </>
-                        ) : (
-                          r.status ?? t.noTime
-                        )}
-                      </span>
-                    </button>
-                  </li>
-                ))}
-              </ul>
+                          </td>
+                          <td className="num">{hasTime ? formatTime(r.seconds) : (r.status ?? t.noTime)}</td>
+                          <td className="num pace-line pace-line-normal">
+                            {hasTime ? `${formatPace(r.seconds!, distanceKm)}` : '—'}
+                          </td>
+                          <td className="num">
+                            {rank != null && total > 0 ? (
+                              <>
+                                {rank} <span className="muted small">/ {total}</span>
+                              </>
+                            ) : (
+                              '—'
+                            )}
+                          </td>
+                          <td className="num">
+                            {share != null ? (
+                              <span className="share-cell">
+                                <b>{formatShare(lang, share)}</b>
+                                <span className="percent-bar percent-bar-inline">
+                                  <span className="percent-fill" style={{ width: `${share * 100}%` }} />
+                                </span>
+                              </span>
+                            ) : (
+                              '—'
+                            )}
+                          </td>
+                        </tr>
+                      )
+                    })}
+                  </tbody>
+                </table>
+              </div>
+              {anyOutsideSelection && <p className="muted small">{t.notInSelection}</p>}
             </>
           )}
-        </div>
-      )}
-      {selected && (
-        <div className="you-card">
-          <div className="you-header">
-            <div className="you-name">{selected.name}</div>
-            <div className="muted with-flag">
-              <Flag country={selected.country} />
-              {countryName(selected.country, lang)} · {t.bib} {selected.bib}
-              {selected.age ? ` · ${selected.age}` : ''}
-            </div>
-            <div className="muted small">{t.percentileInSelection}</div>
-          </div>
-
-          {selected.seconds != null && timeStats && paceStats && total > 0 ? (
-            <div className="runner-metrics-columns">
-              <MetricColumn
-                label={t.time}
-                value={formatTime(selected.seconds)}
-                rank={timeStats.rank}
-                total={total}
-                share={timeStats.share}
-                lang={lang}
-                t={t}
-              />
-              <MetricColumn
-                label={t.pacePerKm}
-                value={`${formatPace(paceStats.pace, 1)}`}
-                valueClassName="pace-line pace-line-big"
-                rank={paceStats.rank}
-                total={total}
-                share={paceStats.share}
-                lang={lang}
-                t={t}
-              />
-            </div>
-          ) : (
-            <div className="big">{selected.status ?? t.noTime}</div>
-          )}
-
-          {!inSelection && selected.seconds != null && <p className="muted small">{t.notInSelection}</p>}
         </div>
       )}
     </section>

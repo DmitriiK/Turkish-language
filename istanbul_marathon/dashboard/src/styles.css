@@ -596,40 +596,57 @@ select {
   max-width: 420px;
 }
 
-.matches ul {
-  list-style: none;
-  margin: 10px 0 0;
-  padding: 0;
-  max-width: 620px;
-}
-
-.matches li button {
+.search-results-table {
   width: 100%;
-  display: grid;
-  grid-template-columns: 70px 1fr auto;
-  gap: 10px;
-  align-items: center;
-  border: 0;
-  background: transparent;
-  padding: 8px 10px;
-  border-radius: 8px;
-  cursor: pointer;
+  border-collapse: collapse;
+  font-variant-numeric: tabular-nums;
+}
+
+.search-results-table th,
+.search-results-table td {
+  padding: 10px 12px;
+  border-bottom: 1px solid var(--border);
   text-align: left;
+  vertical-align: middle;
 }
 
-.matches li button:hover {
-  background: var(--bg);
+.search-results-table th {
+  font-size: 0.78rem;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
 }
 
-.matches li button.match-selected {
-  background: var(--primary-soft);
-  box-shadow: inset 0 0 0 2px var(--primary);
+.search-results-table .num {
+  text-align: right;
+  white-space: nowrap;
 }
 
-.bib {
+.search-results-table .bib-cell {
   color: var(--primary);
   font-weight: 600;
-  font-variant-numeric: tabular-nums;
+}
+
+.search-row-chart {
+  background: #fffbeb;
+}
+
+.search-row-outside {
+  opacity: 0.85;
+}
+
+.share-cell {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 4px;
+  min-width: 72px;
+}
+
+.percent-bar-inline {
+  width: 72px;
+  height: 6px;
+  margin-top: 0;
 }
 
 .you-card {
