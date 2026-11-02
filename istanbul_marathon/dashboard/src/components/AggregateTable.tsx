@@ -25,12 +25,18 @@ interface Node {
   median: number
   best: number
   children: Node[]
+  /** Sorted fastest-first; rendered when this aggregate leaf is expanded */
+  leafRunners?: Runner[]
 }
 
 function keyOf(r: Runner, dim: Dimension): string {
   if (dim === 'gender') return r.gender
   if (dim === 'age') return r.age ?? '—'
   return r.country
+}
+
+function sortedFinishers(runners: Runner[]): Runner[] {
+  return [...runners].sort((a, b) => a.seconds! - b.seconds! || String(a.bib).localeCompare(String(b.bib)))
 }
 
 function build(runners: Runner[], dims: Dimension[], prefix: string): Node[] {
@@ -46,6 +52,7 @@ function build(runners: Runner[], dims: Dimension[], prefix: string): Node[] {
   for (const [value, rs] of groups) {
     const times = rs.map((r) => r.seconds!)
     const id = `${prefix}/${value}`
+    const isLeaf = rest.length === 0
     nodes.push({
       id,
       dim,
@@ -54,7 +61,8 @@ function build(runners: Runner[], dims: Dimension[], prefix: string): Node[] {
       mean: times.reduce((a, b) => a + b, 0) / times.length,
       median: medianOf(times),
       best: Math.min(...times),
-      children: build(rs, rest, id),
+      children: isLeaf ? [] : build(rs, rest, id),
+      leafRunners: isLeaf ? sortedFinishers(rs) : undefined,
     })
   }
   if (dim === 'country') nodes.sort((a, b) => b.count - a.count)
@@ -63,9 +71,13 @@ function build(runners: Runner[], dims: Dimension[], prefix: string): Node[] {
   return nodes
 }
 
+function isExpandable(n: Node): boolean {
+  return n.children.length > 0 || (n.leafRunners?.length ?? 0) > 0
+}
+
 function collectIds(nodes: Node[], out: string[] = []): string[] {
   for (const n of nodes) {
-    if (n.children.length) {
+    if (isExpandable(n)) {
       out.push(n.id)
       collectIds(n.children, out)
     }
@@ -89,6 +101,17 @@ export function AggregateTable({ runners, dimensions, distanceKm, centralMetric,
       return next
     })
 
+  const runnerLabel = (r: Runner, rank: number) => (
+    <span className="runner-leaf-label">
+      <span className="runner-rank">{rank}.</span>
+      {r.name}
+      <span className="muted small">
+        {' '}
+        #{r.bib}
+      </span>
+    </span>
+  )
+
   const label = (n: Node) => {
     if (n.dim === 'gender') return n.value === 'M' ? t.male : n.value === 'F' ? t.female : t.unknownGender
     if (n.dim === 'age') return n.value
@@ -104,10 +127,11 @@ export function AggregateTable({ runners, dimensions, distanceKm, centralMetric,
   const walk = (nodes: Node[], depth: number) => {
     for (const n of nodes) {
       const isOpen = expanded.has(n.id)
+      const expandable = isExpandable(n)
       rows.push(
         <tr key={n.id} className={`depth-${depth}`}>
           <td style={{ paddingLeft: 12 + depth * 22 }}>
-            {n.children.length ? (
+            {expandable ? (
               <button type="button" className="toggle" onClick={() => toggle(n.id)} aria-expanded={isOpen}>
                 {isOpen ? '−' : '+'}
               </button>
@@ -129,7 +153,29 @@ export function AggregateTable({ runners, dimensions, distanceKm, centralMetric,
           </td>
         </tr>,
       )
-      if (isOpen) walk(n.children, depth + 1)
+      if (isOpen) {
+        walk(n.children, depth + 1)
+        const list = n.leafRunners
+        if (list?.length) {
+          for (let i = 0; i < list.length; i++) {
+            const r = list[i]
+            const rid = `${n.id}/runner/${r.bib}`
+            rows.push(
+              <tr key={rid} className={`depth-${depth + 1} runner-row`}>
+                <td style={{ paddingLeft: 12 + (depth + 1) * 22 }}>
+                  <span className="toggle-spacer" />
+                  {runnerLabel(r, i + 1)}
+                </td>
+                <td className="num">—</td>
+                <td className="num">
+                  <TimeWithPace seconds={r.seconds} distanceKm={distanceKm} paceLabel={t.pacePerKm} />
+                </td>
+                <td className="num">—</td>
+              </tr>,
+            )
+          }
+        }
+      }
     }
   }
   walk(tree, 0)

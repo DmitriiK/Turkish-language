@@ -64,7 +64,8 @@ const en = {
   notInSelection: 'This runner is outside the current filters; the comparison uses the current selection anyway.',
   noTime: 'No finish time',
   breakdown: 'Breakdown',
-  breakdownHint: 'Click + to expand a row.',
+  breakdownHint:
+    'Click + to expand. At the last level, all finishers in the group appear sorted by time (fastest first); the time column is each runner’s finish, not the group average.',
   group: 'Group',
   expandAll: 'Expand all',
   collapseAll: 'Collapse all',
@@ -133,7 +134,8 @@ const tr: Dict = {
   notInSelection: 'Bu koşucu mevcut filtrelerin dışında; karşılaştırma yine de mevcut seçime göre yapılır.',
   noTime: 'Bitiş süresi yok',
   breakdown: 'Kırılım',
-  breakdownHint: 'Satırı açmak için + işaretine tıklayın.',
+  breakdownHint:
+    '+ ile açın. Son seviyede gruptaki tüm bitirişler süreye göre (en hızlı önce); süre sütunu koşucunun bitişi, grup ortalaması değil.',
   group: 'Grup',
   expandAll: 'Tümünü aç',
   collapseAll: 'Tümünü kapat',
@@ -200,7 +202,8 @@ const ru: Dict = {
   notInSelection: 'Этот бегун не попадает в текущие фильтры; сравнение всё равно идёт с текущей выборкой.',
   noTime: 'Нет времени финиша',
   breakdown: 'Разбивка',
-  breakdownHint: 'Нажмите +, чтобы раскрыть строку.',
+  breakdownHint:
+    'Нажмите +. На последнем уровне — все финишёры группы по времени (быстрее — выше); в колонке среднего указано личное время, не среднее по группе.',
   group: 'Группа',
   expandAll: 'Раскрыть всё',
   collapseAll: 'Свернуть всё',

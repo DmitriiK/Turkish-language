@@ -792,6 +792,17 @@ select {
   background: #f8fafc;
 }
 
+.agg-table tr.runner-row td {
+  font-weight: 400;
+  font-size: 0.92rem;
+}
+
+.agg-table .runner-rank {
+  color: var(--muted);
+  margin-right: 6px;
+  font-variant-numeric: tabular-nums;
+}
+
 .agg-table td:first-child {
   display: flex;
   align-items: center;
