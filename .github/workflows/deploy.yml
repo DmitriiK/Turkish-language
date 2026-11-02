@@ -42,6 +42,19 @@ jobs:
         env:
           NODE_ENV: production
 
+      - name: Install marathon dashboard dependencies
+        working-directory: ./istanbul_marathon/dashboard
+        run: npm ci
+
+      - name: Build marathon dashboard
+        working-directory: ./istanbul_marathon/dashboard
+        run: npm run build
+        env:
+          NODE_ENV: production
+
+      - name: Add marathon dashboard to site
+        run: cp -r ./istanbul_marathon/dashboard/dist ./frontend/dist/marathon
+
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
