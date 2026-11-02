@@ -22,6 +22,7 @@ import {
 
 const DISTANCES: DistanceKey[] = ['marathon', '15_5k', 'wheelchair']
 const SOURCE_URL = 'https://results.splittime.nl/results/ShowEvent.aspx?EventID=12849'
+const OFFICIAL_EVENT_URL = 'https://maraton.istanbul/'
 
 function initialLang(): Lang {
   const saved = localStorage.getItem('lang')
@@ -148,7 +149,11 @@ export default function App() {
           </div>
           <div className="hero-text">
             <p className="hero-date">{t.heroDate}</p>
-            <h1>{t.title}</h1>
+            <h1>
+              <a className="hero-title-link" href={OFFICIAL_EVENT_URL} target="_blank" rel="noopener noreferrer">
+                {t.title}
+              </a>
+            </h1>
             <p className="hero-sub">{t.subtitle}</p>
             <p className="hero-desc">{t.heroText}</p>
             {totals && (
