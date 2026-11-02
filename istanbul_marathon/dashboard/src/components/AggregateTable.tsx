@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'react'
+import { Fragment, useMemo, useState } from 'react'
 import { countryName } from '../countries'
 import type { Dict, Lang } from '../i18n'
 import { TimeWithPace } from './TimeWithPace'
@@ -85,6 +85,24 @@ function collectIds(nodes: Node[], out: string[] = []): string[] {
   return out
 }
 
+function findNode(nodes: Node[], id: string): Node | undefined {
+  for (const n of nodes) {
+    if (n.id === id) return n
+    const inChild = findNode(n.children, id)
+    if (inChild) return inChild
+  }
+}
+
+function collectExpandableIdsUnder(node: Node): string[] {
+  const ids: string[] = []
+  const visit = (n: Node) => {
+    if (isExpandable(n)) ids.push(n.id)
+    for (const c of n.children) visit(c)
+  }
+  visit(node)
+  return ids
+}
+
 export function AggregateTable({ runners, dimensions, distanceKm, centralMetric, lang, t }: Props) {
   const centralLabel = centralMetric === 'mean' ? t.average : t.median
   const tree = useMemo(
@@ -96,8 +114,15 @@ export function AggregateTable({ runners, dimensions, distanceKm, centralMetric,
   const toggle = (id: string) =>
     setExpanded((prev) => {
       const next = new Set(prev)
-      if (next.has(id)) next.delete(id)
-      else next.add(id)
+      if (next.has(id)) {
+        next.delete(id)
+        const node = findNode(tree, id)
+        if (node) {
+          for (const cid of collectExpandableIdsUnder(node)) next.delete(cid)
+        }
+      } else {
+        next.add(id)
+      }
       return next
     })
 
@@ -123,62 +148,54 @@ export function AggregateTable({ runners, dimensions, distanceKm, centralMetric,
     )
   }
 
-  const rows: JSX.Element[] = []
-  const walk = (nodes: Node[], depth: number) => {
-    for (const n of nodes) {
+  const renderNodes = (nodes: Node[], depth: number): JSX.Element[] =>
+    nodes.map((n) => {
       const isOpen = expanded.has(n.id)
       const expandable = isExpandable(n)
-      rows.push(
-        <tr key={n.id} className={`depth-${depth}`}>
-          <td style={{ paddingLeft: 12 + depth * 22 }}>
-            {expandable ? (
-              <button type="button" className="toggle" onClick={() => toggle(n.id)} aria-expanded={isOpen}>
-                {isOpen ? '−' : '+'}
-              </button>
-            ) : (
-              <span className="toggle-spacer" />
-            )}
-            {label(n)}
-          </td>
-          <td className="num">{n.count}</td>
-          <td className="num">
-            <TimeWithPace
-              seconds={centralMetric === 'mean' ? n.mean : n.median}
-              distanceKm={distanceKm}
-              paceLabel={t.pacePerKm}
-            />
-          </td>
-          <td className="num">
-            <TimeWithPace seconds={n.best} distanceKm={distanceKm} paceLabel={t.pacePerKm} />
-          </td>
-        </tr>,
+      return (
+        <Fragment key={n.id}>
+          <tr className={`depth-${depth}`}>
+            <td style={{ paddingLeft: 12 + depth * 22 }}>
+              {expandable ? (
+                <button type="button" className="toggle" onClick={() => toggle(n.id)} aria-expanded={isOpen}>
+                  {isOpen ? '−' : '+'}
+                </button>
+              ) : (
+                <span className="toggle-spacer" />
+              )}
+              {label(n)}
+            </td>
+            <td className="num">{n.count}</td>
+            <td className="num">
+              <TimeWithPace
+                seconds={centralMetric === 'mean' ? n.mean : n.median}
+                distanceKm={distanceKm}
+                paceLabel={t.pacePerKm}
+              />
+            </td>
+            <td className="num">
+              <TimeWithPace seconds={n.best} distanceKm={distanceKm} paceLabel={t.pacePerKm} />
+            </td>
+          </tr>
+          {isOpen && n.children.length > 0 ? renderNodes(n.children, depth + 1) : null}
+          {isOpen && n.leafRunners
+            ? n.leafRunners.map((r, i) => (
+                <tr key={`${n.id}/runner/${i}/${r.bib}`} className={`depth-${depth + 1} runner-row`}>
+                  <td style={{ paddingLeft: 12 + (depth + 1) * 22 }}>
+                    <span className="toggle-spacer" />
+                    {runnerLabel(r, i + 1)}
+                  </td>
+                  <td className="num">—</td>
+                  <td className="num">
+                    <TimeWithPace seconds={r.seconds} distanceKm={distanceKm} paceLabel={t.pacePerKm} />
+                  </td>
+                  <td className="num">—</td>
+                </tr>
+              ))
+            : null}
+        </Fragment>
       )
-      if (isOpen) {
-        walk(n.children, depth + 1)
-        const list = n.leafRunners
-        if (list?.length) {
-          for (let i = 0; i < list.length; i++) {
-            const r = list[i]
-            const rid = `${n.id}/runner/${r.bib}`
-            rows.push(
-              <tr key={rid} className={`depth-${depth + 1} runner-row`}>
-                <td style={{ paddingLeft: 12 + (depth + 1) * 22 }}>
-                  <span className="toggle-spacer" />
-                  {runnerLabel(r, i + 1)}
-                </td>
-                <td className="num">—</td>
-                <td className="num">
-                  <TimeWithPace seconds={r.seconds} distanceKm={distanceKm} paceLabel={t.pacePerKm} />
-                </td>
-                <td className="num">—</td>
-              </tr>,
-            )
-          }
-        }
-      }
-    }
-  }
-  walk(tree, 0)
+    })
 
   if (dimensions.length === 0) return null
 
@@ -208,7 +225,7 @@ export function AggregateTable({ runners, dimensions, distanceKm, centralMetric,
               <th className="num">{t.best}</th>
             </tr>
           </thead>
-          <tbody>{rows}</tbody>
+          <tbody>{renderNodes(tree, 0)}</tbody>
         </table>
       </div>
     </section>
