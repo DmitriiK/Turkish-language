@@ -1,5 +1,12 @@
 export type DistanceKey = 'marathon' | '15_5k' | 'wheelchair'
 
+/** Official race distances in kilometres. */
+export const RACE_DISTANCE_KM: Record<DistanceKey, number> = {
+  marathon: 42.195,
+  '15_5k': 15.5,
+  wheelchair: 42.195,
+}
+
 export interface Runner {
   bib: number | string
   name: string
@@ -40,6 +47,18 @@ export function formatTime(seconds: number | null | undefined): string {
   return `${h}:${String(m).padStart(2, '0')}:${String(sec).padStart(2, '0')}`
 }
 
+/** Average minutes and seconds to cover one kilometre. */
+export function formatPace(totalSeconds: number, distanceKm: number): string {
+  const perKm = totalSeconds / distanceKm
+  let m = Math.floor(perKm / 60)
+  let s = Math.round(perKm % 60)
+  if (s === 60) {
+    m += 1
+    s = 0
+  }
+  return `${m}:${String(s).padStart(2, '0')}`
+}
+
 export interface Summary {
   count: number
   mean: number
@@ -51,6 +70,40 @@ export interface Summary {
 
 export function finishers(runners: Runner[]): Runner[] {
   return runners.filter((r) => r.seconds != null)
+}
+
+export interface PaceSummary {
+  count: number
+  mean: number
+  median: number
+  std: number
+  best: number
+}
+
+export function runnerPaceSeconds(runner: Runner, distanceKm: number): number {
+  return runner.seconds! / distanceKm
+}
+
+export function summarizePace(runners: Runner[], distanceKm: number): PaceSummary | null {
+  const paces = finishers(runners).map((r) => runnerPaceSeconds(r, distanceKm))
+  if (paces.length === 0) return null
+  const mean = paces.reduce((a, b) => a + b, 0) / paces.length
+  const variance = paces.reduce((a, p) => a + (p - mean) ** 2, 0) / paces.length
+  const sorted = [...paces].sort((a, b) => a - b)
+  const mid = Math.floor(sorted.length / 2)
+  const median = sorted.length % 2 ? sorted[mid] : (sorted[mid - 1] + sorted[mid]) / 2
+  return {
+    count: paces.length,
+    mean,
+    median,
+    std: Math.sqrt(variance),
+    best: sorted[0],
+  }
+}
+
+/** Format seconds-per-km as M:SS (pass distanceKm = 1). */
+export function formatPacePerKm(secondsPerKm: number): string {
+  return formatPace(secondsPerKm, 1)
 }
 
 export function summarize(runners: Runner[]): Summary | null {

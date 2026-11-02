@@ -1,7 +1,8 @@
 import { useMemo, useState } from 'react'
 import { countryName } from '../countries'
 import type { Dict, Lang } from '../i18n'
-import { formatTime, genderOrder, type Runner } from '../stats'
+import { TimeWithPace } from './TimeWithPace'
+import { genderOrder, type Runner } from '../stats'
 import { Flag } from './Flag'
 
 export type Dimension = 'gender' | 'age' | 'country'
@@ -9,6 +10,7 @@ export type Dimension = 'gender' | 'age' | 'country'
 interface Props {
   runners: Runner[]
   dimensions: Dimension[]
+  distanceKm: number
   lang: Lang
   t: Dict
 }
@@ -68,7 +70,7 @@ function collectIds(nodes: Node[], out: string[] = []): string[] {
   return out
 }
 
-export function AggregateTable({ runners, dimensions, lang, t }: Props) {
+export function AggregateTable({ runners, dimensions, distanceKm, lang, t }: Props) {
   const tree = useMemo(
     () => build(runners.filter((r) => r.seconds != null), dimensions, ''),
     [runners, dimensions],
@@ -111,8 +113,12 @@ export function AggregateTable({ runners, dimensions, lang, t }: Props) {
             {label(n)}
           </td>
           <td className="num">{n.count}</td>
-          <td className="num">{formatTime(n.mean)}</td>
-          <td className="num">{formatTime(n.best)}</td>
+          <td className="num">
+            <TimeWithPace seconds={n.mean} distanceKm={distanceKm} paceLabel={t.pacePerKm} />
+          </td>
+          <td className="num">
+            <TimeWithPace seconds={n.best} distanceKm={distanceKm} paceLabel={t.pacePerKm} />
+          </td>
         </tr>,
       )
       if (isOpen) walk(n.children, depth + 1)

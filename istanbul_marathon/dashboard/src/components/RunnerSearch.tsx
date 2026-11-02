@@ -1,7 +1,8 @@
 import { useMemo, useState } from 'react'
 import { countryName } from '../countries'
 import type { Dict, Lang } from '../i18n'
-import { fasterThanShare, formatTime, rankIn, type Runner } from '../stats'
+import { TimeWithPace } from './TimeWithPace'
+import { fasterThanShare, formatPace, formatTime, rankIn, type Runner } from '../stats'
 import { Flag } from './Flag'
 
 interface Props {
@@ -9,6 +10,7 @@ interface Props {
   selection: Runner[]
   selected: Runner | null
   onSelect: (r: Runner | null) => void
+  distanceKm: number
   lang: Lang
   t: Dict
 }
@@ -21,7 +23,7 @@ function normalize(s: string): string {
     .replace(/ı/g, 'i')
 }
 
-export function RunnerSearch({ all, selection, selected, onSelect, lang, t }: Props) {
+export function RunnerSearch({ all, selection, selected, onSelect, distanceKm, lang, t }: Props) {
   const [query, setQuery] = useState('')
 
   const index = useMemo(() => all.map((r) => ({ r, key: normalize(r.name) })), [all])
@@ -66,7 +68,16 @@ export function RunnerSearch({ all, selection, selected, onSelect, lang, t }: Pr
                       <Flag country={r.country} />
                       {r.name}
                     </span>
-                    <span className="muted">{r.seconds != null ? formatTime(r.seconds) : r.status ?? t.noTime}</span>
+                    <span className="muted match-times">
+                      {r.seconds != null ? (
+                        <>
+                          {formatTime(r.seconds)}
+                          <span className="pace-line">{formatPace(r.seconds, distanceKm)} {t.pacePerKm}</span>
+                        </>
+                      ) : (
+                        r.status ?? t.noTime
+                      )}
+                    </span>
                   </button>
                 </li>
               ))}
@@ -87,7 +98,16 @@ export function RunnerSearch({ all, selection, selected, onSelect, lang, t }: Pr
             </div>
             <div className="you-time">
               <div className="muted">{t.yourResult}</div>
-              <div className="big">{selected.seconds != null ? formatTime(selected.seconds) : selected.status ?? t.noTime}</div>
+              {selected.seconds != null ? (
+                <TimeWithPace
+                  seconds={selected.seconds}
+                  distanceKm={distanceKm}
+                  paceLabel={t.pacePerKm}
+                  size="big"
+                />
+              ) : (
+                <div className="big">{selected.status ?? t.noTime}</div>
+              )}
             </div>
           </div>
           {share != null && rank != null && (

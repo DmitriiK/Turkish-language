@@ -116,7 +116,8 @@ export function Histogram({ runners, summary, highlight, t }: Props) {
         <span className="legend"><span className="swatch swatch-mean" /> {t.average}</span>
         {hover != null && (
           <span className="hover-info">
-            {formatTime(hoverFrom)} – {formatTime(hoverFrom + chart.bin)}: <b>{chart.counts[hover]}</b> {t.runners}
+            {formatTime(hoverFrom)} – {formatTime(hoverFrom + chart.bin)}: <b>{chart.counts[hover]}</b>{' '}
+            {t.runners}
           </span>
         )}
       </div>

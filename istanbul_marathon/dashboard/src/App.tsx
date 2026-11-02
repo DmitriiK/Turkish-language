@@ -3,10 +3,21 @@ import { AggregateTable, type Dimension } from './components/AggregateTable'
 import { CountrySelect } from './components/CountrySelect'
 import { Flag } from './components/Flag'
 import { Histogram } from './components/Histogram'
+import { PaceHistogram } from './components/PaceHistogram'
 import { RunnerSearch } from './components/RunnerSearch'
+import { TimeWithPace } from './components/TimeWithPace'
 import { countryName } from './countries'
 import { DICTS, LANGS, type Lang } from './i18n'
-import { formatTime, genderOrder, loadDistance, summarize, type DistanceKey, type Runner } from './stats'
+import {
+  genderOrder,
+  loadDistance,
+  RACE_DISTANCE_KM,
+  runnerPaceSeconds,
+  summarize,
+  summarizePace,
+  type DistanceKey,
+  type Runner,
+} from './stats'
 
 const DISTANCES: DistanceKey[] = ['marathon', '15_5k', 'wheelchair']
 const SOURCE_URL = 'https://results.splittime.nl/results/ShowEvent.aspx?EventID=12849'
@@ -75,7 +86,9 @@ export default function App() {
     [beforeCountry, country],
   )
 
+  const distanceKm = RACE_DISTANCE_KM[distance]
   const summary = useMemo(() => summarize(selection), [selection])
+  const paceSummary = useMemo(() => summarizePace(selection, distanceKm), [selection, distanceKm])
 
   const dimensions = useMemo(() => {
     const dims: Dimension[] = []
@@ -216,11 +229,21 @@ export default function App() {
                   </div>
                   <div className="stat">
                     <div className="muted">{t.average}</div>
-                    <div className="big">{formatTime(summary.mean)}</div>
+                    <TimeWithPace
+                      seconds={summary.mean}
+                      distanceKm={distanceKm}
+                      paceLabel={t.pacePerKm}
+                      size="big"
+                    />
                   </div>
                   <div className="stat">
                     <div className="muted">{t.median}</div>
-                    <div className="big">{formatTime(summary.median)}</div>
+                    <TimeWithPace
+                      seconds={summary.median}
+                      distanceKm={distanceKm}
+                      paceLabel={t.pacePerKm}
+                      size="big"
+                    />
                   </div>
                   <div className="stat top3">
                     <div className="muted">{t.top3}</div>
@@ -231,7 +254,11 @@ export default function App() {
                             <Flag country={r.country} />
                             {r.name}
                           </span>
-                          <span className="time">{formatTime(r.seconds)}</span>
+                          <TimeWithPace
+                            seconds={r.seconds}
+                            distanceKm={distanceKm}
+                            paceLabel={t.pacePerKm}
+                          />
                         </li>
                       ))}
                     </ol>
@@ -240,20 +267,42 @@ export default function App() {
               )}
             </section>
 
-            {summary && (
-              <section className="card">
-                <h2>{t.distribution}</h2>
-                <p className="muted small">{t.distributionHint}</p>
-                <Histogram
-                  runners={selection}
-                  summary={summary}
-                  t={t}
-                  highlight={
-                    selected?.seconds != null
-                      ? { seconds: selected.seconds, label: selected.name.split(',')[0] }
-                      : undefined
-                  }
-                />
+            {summary && paceSummary && (
+              <section className="card charts-card">
+                <div className="charts-grid">
+                  <div className="chart-block">
+                    <h2>{t.distribution}</h2>
+                    <p className="muted small">{t.distributionHint}</p>
+                    <Histogram
+                      runners={selection}
+                      summary={summary}
+                      t={t}
+                      highlight={
+                        selected?.seconds != null
+                          ? { seconds: selected.seconds, label: selected.name.split(',')[0] }
+                          : undefined
+                      }
+                    />
+                  </div>
+                  <div className="chart-block">
+                    <h2>{t.paceDistribution}</h2>
+                    <p className="muted small">{t.paceDistributionHint}</p>
+                    <PaceHistogram
+                      runners={selection}
+                      summary={paceSummary}
+                      distanceKm={distanceKm}
+                      t={t}
+                      highlight={
+                        selected?.seconds != null
+                          ? {
+                              paceSecPerKm: runnerPaceSeconds(selected, distanceKm),
+                              label: selected.name.split(',')[0],
+                            }
+                          : undefined
+                      }
+                    />
+                  </div>
+                </div>
               </section>
             )}
 
@@ -263,11 +312,18 @@ export default function App() {
               selection={selection}
               selected={selected}
               onSelect={setSelected}
+              distanceKm={distanceKm}
               lang={lang}
               t={t}
             />
 
-            <AggregateTable runners={selection} dimensions={dimensions} lang={lang} t={t} />
+            <AggregateTable
+              runners={selection}
+              dimensions={dimensions}
+              distanceKm={distanceKm}
+              lang={lang}
+              t={t}
+            />
 
             <footer className="footer muted small">
               {t.dataSource}: <a href={SOURCE_URL}>results.splittime.nl</a>
