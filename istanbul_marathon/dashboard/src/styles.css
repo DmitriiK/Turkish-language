@@ -194,6 +194,12 @@ a {
   max-width: 36em;
 }
 
+.hero-meta {
+  width: 100%;
+  max-width: 32rem;
+  margin-top: 4px;
+}
+
 .hero-stats {
   display: flex;
   gap: 24px;
@@ -204,6 +210,73 @@ a {
 .hero-stats b {
   font-size: 1.5rem;
   margin-right: 4px;
+}
+
+.hero-race {
+  margin-top: 22px;
+  text-align: center;
+}
+
+.hero-race-label {
+  display: block;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: 0.75rem;
+  opacity: 0.85;
+}
+
+.race-switcher {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 6px;
+  align-items: stretch;
+  padding: 8px;
+  background: rgba(255, 255, 255, 0.12);
+  border: 1px solid rgba(255, 255, 255, 0.22);
+  border-radius: 18px;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.08);
+}
+
+.race-switcher button {
+  border: 0;
+  margin: 0;
+  background: transparent;
+  color: rgba(255, 255, 255, 0.78);
+  cursor: pointer;
+  padding: 14px 10px;
+  border-radius: 12px;
+  font-size: 1rem;
+  line-height: 1.2;
+  transition:
+    background 0.22s ease,
+    color 0.22s ease,
+    transform 0.22s ease,
+    font-size 0.22s ease,
+    box-shadow 0.22s ease;
+}
+
+.race-switcher button.race-switcher-side:hover {
+  color: #fff;
+  background: rgba(255, 255, 255, 0.12);
+  transform: translateY(-1px);
+}
+
+.race-switcher button.race-switcher-side:active {
+  transform: translateY(0);
+}
+
+.race-switcher button.race-switcher-active {
+  background: #fff;
+  color: var(--primary);
+  font-weight: 700;
+  font-size: 1.2rem;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.28);
+  cursor: pointer;
+}
+
+.race-switcher button.race-switcher-active:hover {
+  background: #f8fafc;
 }
 
 /* Layout */
@@ -858,15 +931,38 @@ select {
 }
 
 .footer {
-  text-align: center;
-  padding: 8px 0 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 28px 56px;
+  text-align: left;
+  padding: 20px 0 4px;
+  margin-top: 12px;
+  border-top: 1px solid var(--border);
 }
 
-.footer p {
+.footer-section {
+  min-width: min(100%, 240px);
+}
+
+.footer-heading {
+  margin: 0 0 8px;
+  font-weight: 600;
+  color: var(--text);
+  font-size: 0.88rem;
+}
+
+.footer-links {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.footer-links li {
   margin: 0 0 6px;
 }
 
-.footer p:last-child {
+.footer-links li:last-child {
   margin-bottom: 0;
 }
 

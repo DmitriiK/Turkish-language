@@ -1,8 +1,9 @@
-import { Fragment, useEffect, useMemo, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import { AggregateTable, type Dimension } from './components/AggregateTable'
 import { CountrySelect } from './components/CountrySelect'
 import { Flag } from './components/Flag'
 import { TimePaceHistogram } from './components/TimePaceHistogram'
+import { RaceSwitcher } from './components/RaceSwitcher'
 import { RunnerSearch } from './components/RunnerSearch'
 import { TimeWithPace } from './components/TimeWithPace'
 import { countryName } from './countries'
@@ -20,10 +21,10 @@ import {
 const DISTANCES: DistanceKey[] = ['marathon', '15_5k', 'wheelchair']
 const SOURCE_URL = 'https://results.splittime.nl/results/ShowEvent.aspx?EventID=12849'
 const OFFICIAL_EVENT_URL = 'https://maraton.istanbul/'
-const EVENT_INSTAGRAM_URLS = [
-  'https://www.instagram.com/p/DfM8cB-jeiz/',
-  'https://www.instagram.com/p/DfMy0LINzRW/',
-]
+const EVENT_INSTAGRAM_URL = 'https://www.instagram.com/marathonistanbul/'
+const DEV_LINKEDIN_URL = 'https://www.linkedin.com/in/dmitrii-kalmanovich-39050355/'
+const DEV_INSTAGRAM_URL = 'https://www.instagram.com/p/DfM8cB-jeiz/'
+const DEV_GITHUB_URL = 'https://github.com/DmitriiK/Turkish-language'
 
 function initialLang(): Lang {
   const saved = localStorage.getItem('lang')
@@ -156,12 +157,18 @@ export default function App() {
             <p className="hero-sub">{t.subtitle}</p>
             <p className="hero-desc">{t.heroText}</p>
             {totals && (
-              <div className="hero-stats">
-                <div>
-                  <b>{totals.finishers.toLocaleString(lang)}</b> {t.totalFinishers}
+              <div className="hero-meta">
+                <div className="hero-stats">
+                  <div>
+                    <b>{totals.finishers.toLocaleString(lang)}</b> {t.totalFinishers}
+                  </div>
+                  <div>
+                    <b>{totals.countries}</b> {t.countriesCount}
+                  </div>
                 </div>
-                <div>
-                  <b>{totals.countries}</b> {t.countriesCount}
+                <div className="hero-race">
+                  <span className="hero-race-label">{t.distance}</span>
+                  <RaceSwitcher value={distance} onChange={changeDistance} t={t} />
                 </div>
               </div>
             )}
@@ -179,22 +186,6 @@ export default function App() {
         {data && (
           <>
             <section className="card filters">
-              <div className="filter">
-                <label>{t.distance}</label>
-                <div className="segmented">
-                  {DISTANCES.map((d) => (
-                    <button
-                      key={d}
-                      type="button"
-                      className={distance === d ? 'active' : ''}
-                      onClick={() => changeDistance(d)}
-                    >
-                      {t[d]}
-                    </button>
-                  ))}
-                </div>
-              </div>
-
               {hasAge && (
                 <div className="filter">
                   <label htmlFor="age">{t.ageGroup}</label>
@@ -342,19 +333,46 @@ export default function App() {
             />
 
             <footer className="footer muted small">
-              <p>
-                {t.dataSource}: <a href={SOURCE_URL}>results.splittime.nl</a>
-              </p>
-              <p>
-                {EVENT_INSTAGRAM_URLS.map((url, i) => (
-                  <Fragment key={url}>
-                    {i > 0 && ' · '}
-                    <a href={url} rel="noopener noreferrer" target="_blank">
-                      {EVENT_INSTAGRAM_URLS.length > 1 ? `${t.eventInstagram} ${i + 1}` : t.eventInstagram}
+              <div className="footer-section">
+                <div className="footer-heading">{t.footerEvent}</div>
+                <ul className="footer-links">
+                  <li>
+                    <a href={OFFICIAL_EVENT_URL} rel="noopener noreferrer" target="_blank">
+                      {t.footerLinkEventSite}
                     </a>
-                  </Fragment>
-                ))}
-              </p>
+                  </li>
+                  <li>
+                    <a href={EVENT_INSTAGRAM_URL} rel="noopener noreferrer" target="_blank">
+                      {t.footerLinkEventInstagram}
+                    </a>
+                  </li>
+                  <li>
+                    <a href={SOURCE_URL} rel="noopener noreferrer" target="_blank">
+                      {t.footerLinkEventResults}
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              <div className="footer-section">
+                <div className="footer-heading">{t.footerDeveloper}</div>
+                <ul className="footer-links">
+                  <li>
+                    <a href={DEV_LINKEDIN_URL} rel="noopener noreferrer" target="_blank">
+                      {t.footerLinkDevLinkedIn}
+                    </a>
+                  </li>
+                  <li>
+                    <a href={DEV_INSTAGRAM_URL} rel="noopener noreferrer" target="_blank">
+                      {t.footerLinkDevInstagram}
+                    </a>
+                  </li>
+                  <li>
+                    <a href={DEV_GITHUB_URL} rel="noopener noreferrer" target="_blank">
+                      {t.footerLinkDevGithub}
+                    </a>
+                  </li>
+                </ul>
+              </div>
             </footer>
           </>
         )}
