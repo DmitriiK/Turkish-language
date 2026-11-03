@@ -75,16 +75,6 @@ function isExpandable(n: Node): boolean {
   return n.children.length > 0 || (n.leafRunners?.length ?? 0) > 0
 }
 
-function collectIds(nodes: Node[], out: string[] = []): string[] {
-  for (const n of nodes) {
-    if (isExpandable(n)) {
-      out.push(n.id)
-      collectIds(n.children, out)
-    }
-  }
-  return out
-}
-
 function findNode(nodes: Node[], id: string): Node | undefined {
   for (const n of nodes) {
     if (n.id === id) return n
@@ -207,11 +197,13 @@ export function AggregateTable({ runners, dimensions, distanceKm, centralMetric,
           <p className="muted small">{t.breakdownHint}</p>
         </div>
         <div className="button-row">
-          <button type="button" className="ghost" onClick={() => setExpanded(new Set(collectIds(tree)))}>
-            {t.expandAll}
-          </button>
-          <button type="button" className="ghost" onClick={() => setExpanded(new Set())}>
-            {t.collapseAll}
+          <button
+            type="button"
+            className="ghost"
+            disabled={expanded.size === 0}
+            onClick={() => setExpanded(new Set())}
+          >
+            {t.collapse}
           </button>
         </div>
       </div>

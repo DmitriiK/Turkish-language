@@ -857,8 +857,13 @@ select {
   cursor: pointer;
 }
 
-.ghost:hover {
+.ghost:hover:not(:disabled) {
   background: var(--bg);
+}
+
+.ghost:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
 }
 
 .table-wrap {

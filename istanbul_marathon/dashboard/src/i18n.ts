@@ -70,8 +70,7 @@ const en = {
   breakdownHint:
     'Click + to expand. At the last level, all finishers in the group appear sorted by time (fastest first); the time column is each runner’s finish, not the group average.',
   group: 'Group',
-  expandAll: 'Expand all',
-  collapseAll: 'Collapse all',
+  collapse: 'Collapse',
   footerEvent: 'Marathon',
   footerDeveloper: 'Developer',
   footerLinkEventSite: 'Official site (maraton.istanbul)',
@@ -150,8 +149,7 @@ const tr: Dict = {
   breakdownHint:
     '+ ile açın. Son seviyede gruptaki tüm bitirişler süreye göre (en hızlı önce); süre sütunu koşucunun bitişi, grup ortalaması değil.',
   group: 'Grup',
-  expandAll: 'Tümünü aç',
-  collapseAll: 'Tümünü kapat',
+  collapse: 'Daralt',
   footerEvent: 'Maraton',
   footerDeveloper: 'Geliştirici',
   footerLinkEventSite: 'Resmî site (maraton.istanbul)',
@@ -228,8 +226,7 @@ const ru: Dict = {
   breakdownHint:
     'Нажмите +. На последнем уровне — все финишёры группы по времени (быстрее — выше); в колонке среднего указано личное время, не среднее по группе.',
   group: 'Группа',
-  expandAll: 'Раскрыть всё',
-  collapseAll: 'Свернуть всё',
+  collapse: 'Свернуть',
   footerEvent: 'Марафон',
   footerDeveloper: 'Разработчик',
   footerLinkEventSite: 'Официальный сайт (maraton.istanbul)',
