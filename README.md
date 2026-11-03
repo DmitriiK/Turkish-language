@@ -2,9 +2,20 @@
 
 An interactive web application for mastering Turkish verb conjugations with AI-generated training examples, progressive feedback, and multi-language support.
 
-## 🌐 Live Demo
+## 🌐 GitHub Pages
 
-**Try it now:** [https://dmitriik.github.io/Turkish-language/](https://dmitriik.github.io/Turkish-language/)
+One site ([GitHub Pages](https://pages.github.com/) via [`.github/workflows/deploy.yml`](./.github/workflows/deploy.yml)), several apps and static pages under `https://dmitriik.github.io/Turkish-language/`:
+
+| Page | URL | Source |
+|------|-----|--------|
+| **Turkish verb trainer** (main React app) | [dmitriik.github.io/Turkish-language/](https://dmitriik.github.io/Turkish-language/) | [`frontend/`](./frontend/) |
+| **Istanbul Marathon 2026 results dashboard** | […/marathon/](https://dmitriik.github.io/Turkish-language/marathon/) | [`istanbul_marathon/dashboard/`](./istanbul_marathon/dashboard/) |
+| **Turkish grammar reference** (EN) | […/grammar/grammar-en.html](https://dmitriik.github.io/Turkish-language/grammar/grammar-en.html) | [`frontend/public/grammar/`](./frontend/public/grammar/) |
+| **Turkish grammar reference** (RU) | […/grammar/grammar-ru.html](https://dmitriik.github.io/Turkish-language/grammar/grammar-ru.html) | same |
+| **Vowel harmony** (EN) | […/grammar/vowel-harmony-en.html](https://dmitriik.github.io/Turkish-language/grammar/vowel-harmony-en.html) | same |
+| **Vowel harmony** (RU) | […/grammar/vowel-harmony-ru.html](https://dmitriik.github.io/Turkish-language/grammar/vowel-harmony-ru.html) | same |
+
+Pushes to `main` rebuild the main app, copy the marathon dashboard into `dist/marathon/`, and publish the combined `frontend/dist` artifact.
 
 ## 📚 Additional Resources
 
@@ -47,7 +58,9 @@ python pipelines/create_traing_example.py --language-level A2 --top-n-verbs 5
 
 ```
 Turkish-language/
-├── frontend/                 # React web application
+├── istanbul_marathon/        # Marathon results (deployed at /marathon/)
+│   └── dashboard/           # React dashboard + JSON data pipeline
+├── frontend/                 # React web application (site root)
 │   ├── src/
 │   │   ├── components/      # React components
 │   │   ├── types/           # TypeScript definitions
